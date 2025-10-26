@@ -1,0 +1,351 @@
+Title: HOUSE BILL 634
+Official Title: HOUSE BILL 634
+Number of Sections: 1
+Source: versions - Third - Income Tax - Income Tax Reconciliation Program - Established (Maryland Fair Taxation for Justice-Involved Individuals Act)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Q3 5lr2623
+CF SB 295
+By: Delegates Wims and Mireku–North
+Introduced and read first time: January 23, 2025
+Assigned to: Ways and Means
+Committee Report: Favorable
+House action: Adopted with floor amendments
+Read second time: March 2, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Income Tax – Income Tax Reconciliation Program – Established
+3 (Maryland Fair Taxation for Justice–Involved Individuals Act)
+4 FOR the purpose of establishing the Income Tax Reconciliation Program in the State to
+5 allow certain justice–involved individuals to establish payment plans and receive a
+6 waiver of any interest and penalties that accrue for unpaid income tax due for certain
+7 taxable years; requiring the Comptroller to administer the Program and waive
+8 certain interest and penalties for participants in the Program; requiring the
+9 Comptroller, in collaboration with the Department of Public Safety and Correctional
+10 Services, to develop an awareness campaign to inform the public and
+11 justice–involved individuals about the Program; and generally relating to the Income
+12 Tax Reconciliation Program for justice–involved individuals.
+13 BY adding to
+14 Article – Criminal Procedure
+15 Section 6–237
+16 Annotated Code of Maryland
+17 (2018 Replacement Volume and 2024 Supplement)
+18 BY adding to
+19 Article – Tax – General
+20 Section 2–120
+21 Annotated Code of Maryland
+22 (2022 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0634*
+2 HOUSE BILL 634
+1 BY repealing and reenacting, without amendments,
+2 Article – Tax – General
+3 Section 13–604 and 13–701(a)
+4 Annotated Code of Maryland
+5 (2022 Replacement Volume and 2024 Supplement)
+6 BY repealing and reenacting, with amendments,
+7 Article – Tax – General
+8 Section 13–606 and 13–714
+9 Annotated Code of Maryland
+10 (2022 Replacement Volume and 2024 Supplement)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+13 Article – Criminal Procedure
+14 6–237.
+15 WHEN A DEFENDANT IS CONVICTED OF OR PLEADS GUILTY TO A CRIME AND IS
+16 SENTENCED TO A TERM OF IMPRISONMENT OF AT LEAST 6 MONTHS BUT NOT MORE
+17 THAN 10 YEARS, THE COURT SHALL INFORM THE DEFENDANT ABOUT THE INCOME
+18 TAX RECONCILIATION PROGRAM ESTABLISHED UNDER § 2–120 OF THE TAX –
+19 GENERAL ARTICLE.
+20 Article – Tax – General
+21 2–120.
+22 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+23 INDICATED.
+24 (2) (I) “JUSTICE–INVOLVED INDIVIDUAL” MEANS AN INDIVIDUAL
+25 WHO IS CONVICTED OF OR PLEADS GUILTY TO A CRIME AND IS CURRENTLY SERVING
+26 OR, WITHIN THE IMMEDIATELY PRECEDING 2 YEARS, HAS BEEN RELEASED AFTER
+27 SERVING A TERM OF IMPRISONMENT OF AT LEAST 6 MONTHS BUT NOT MORE THAN
+28 10 YEARS IN A STATE OR FEDERAL CORRECTIONAL FACILITY.
+29 (II) “JUSTICE–INVOLVED INDIVIDUAL” DOES NOT INCLUDE AN
+30 INDIVIDUAL WHO IS CONVICTED OF OR PLEADS GUILTY TO A CRIME THAT WAS
+31 COMMITTED WHILE THE INDIVIDUAL WAS HOLDING AN ELECTED PUBLIC OFFICE.
+32 (3) “PROGRAM” MEANS THE INCOME TAX RECONCILIATION
+33 PROGRAM.
+HOUSE BILL 634 3
+1 (B) THERE IS AN INCOME TAX RECONCILIATION PROGRAM IN THE STATE
+2 THAT IS ADMINISTERED BY THE COMPTROLLER.
+3 (C) THE PURPOSE OF THE PROGRAM IS TO ALLOW JUSTICE–INVOLVED
+4 INDIVIDUALS WHO ARE UNABLE TO FILE A STATE INCOME TAX RETURN WHILE
+5 INCARCERATED TO:
+6 (1) SUBJECT TO SUBSECTION (D) OF THIS SECTION, ESTABLISH
+7 INSTALLMENT PAYMENT PLANS TO PAY ANY UNPAID INCOME TAX THAT IS DUE FOR
+8 ANY TAXABLE YEAR DURING WHICH THE INDIVIDUAL IS INCARCERATED; AND
+9 (2) IF APPROVED FOR AN INSTALLMENT PAYMENT PLAN, RECEIVE A
+10 WAIVER FOR ANY INTEREST AND PENALTIES THAT ACCRUE ON THE UNPAID INCOME
+11 TAX.
+12 (D) (1) FOR ANY TAXABLE YEAR THAT BEGINS AFTER DECEMBER 31,
+13 2024, BUT BEFORE JANUARY 1, 2030, A JUSTICE–INVOLVED INDIVIDUAL WHO
+14 RECEIVES A NOTICE OF ASSESSMENT OF INCOME TAX DUE FOR A TAXABLE YEAR
+15 DURING WHICH THE INDIVIDUAL IS INCARCERATED MAY APPLY TO THE
+16 COMPTROLLER FOR AN INSTALLMENT PAYMENT PLAN.
+17 (2) IF THE COMPTROLLER DETERMINES THAT THE
+18 JUSTICE–INVOLVED INDIVIDUAL IS ELIGIBLE TO PARTICIPATE IN THE PROGRAM,
+19 THE COMPTROLLER SHALL ESTABLISH AN INSTALLMENT PAYMENT PLAN THAT
+20 ALLOWS THE INDIVIDUAL TO PAY THE UNPAID INCOME TAX OVER A PERIOD NOT
+21 EXCEEDING 10 YEARS.
+22 (3) IF A JUSTICE–INVOLVED INDIVIDUAL IS APPROVED FOR AN
+23 INSTALLMENT PAYMENT PLAN UNDER THE PROGRAM, THE COMPTROLLER SHALL
+24 WAIVE ANY INTEREST AND PENALTIES THAT ACCRUE ON THE UNPAID INCOME TAX
+25 DUE.
+26 (E) (1) TO CARRY OUT THE PROGRAM, THE COMPTROLLER SHALL:
+27 (I) IN COLLABORATION WITH THE DEPARTMENT OF PUBLIC
+28 SAFETY AND CORRECTIONAL SERVICES, DEVELOP AN AWARENESS CAMPAIGN TO
+29 INFORM THE PUBLIC AND JUSTICE–INVOLVED INDIVIDUALS ABOUT THE PROGRAM;
+30 AND
+31 (II) ADOPT REGULATIONS.
+32 (2) THE REGULATIONS REQUIRED UNDER PARAGRAPH (1)(II) OF THIS
+33 SUBSECTION MAY INCLUDE INCOME LIMITATIONS THAT ESTABLISH ELIGIBILITY
+34 FOR THE PROGRAM.
+4 HOUSE BILL 634
+1 (F) ON OR BEFORE DECEMBER 1, 2026, AND EACH DECEMBER 1
+2 THEREAFTER, THE COMPTROLLER SHALL REPORT TO THE GENERAL ASSEMBLY, IN
+3 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON THE
+4 IMPACT OF THE PROGRAM.
+5 13–604.
+6 (a) The rate of interest for each month or fraction of a month is the percent equal
+7 to one–twelfth of the annual interest rate that the Comptroller sets for the calendar year
+8 under subsection (b) of this section.
+9 (b) On or before October 1 of each year, the Comptroller shall set the annual
+10 interest rate for the next calendar year on refunds and money owed to the State as the
+11 percent that equals the greater of:
+12 (1) (i) 13% for 2016;
+13 (ii) 12% for 2017;
+14 (iii) 11.5% for 2018;
+15 (iv) 11% for 2019;
+16 (v) 10.5% for 2020;
+17 (vi) 10% for 2021;
+18 (vii) 9.5% for 2022; and
+19 (viii) 9% for 2023 and each year thereafter; or
+20 (2) 3 percentage points above the average prime rate of interest quoted by
+21 commercial banks to large businesses during the State’s previous fiscal year, based on
+22 determination by the Board of Governors of the Federal Reserve Bank.
+23 13–606.
+24 (A) For reasonable cause, a tax collector may waive interest on unpaid tax.
+25 (B) THE COMPTROLLER SHALL WAIVE THE AMOUNT OF ANY INTEREST
+26 ASSESSED ON UNPAID INCOME TAX DUE UNDER THIS ARTICLE IF:
+27 (1) THE UNPAID INCOME TAX IS DUE FOR A TAXABLE YEAR DURING
+28 WHICH THE PERSON OWING IS INCARCERATED; AND
+HOUSE BILL 634 5
+1 (2) THE PERSON APPLIES FOR AND IS PLACED ON AN INSTALLMENT
+2 PAYMENT PLAN UNDER THE INCOME TAX RECONCILIATION PROGRAM
+3 ESTABLISHED UNDER § 2–120 OF THIS ARTICLE.
+4 13–701.
+5 (a) Except as otherwise provided in this subtitle, if a person or governmental unit
+6 fails to pay a tax when due under this article, the tax collector shall assess a penalty not
+7 exceeding 10% of the unpaid tax.
+8 13–714.
+9 (A) For reasonable cause, a tax collector may waive a penalty under this subtitle.
+10 (B) THE COMPTROLLER SHALL WAIVE ANY PENALTY UNDER THIS SUBTITLE
+11 FOR A PERSON’S FAILURE TO PAY INCOME TAX WHEN DUE UNDER THIS ARTICLE IF:
+12 (1) THE UNPAID INCOME TAX IS DUE FOR A TAXABLE YEAR DURING
+13 WHICH THE PERSON OWING IS INCARCERATED; AND
+14 (2) THE PERSON APPLIES FOR AND IS PLACED ON AN INSTALLMENT
+15 PAYMENT PLAN UNDER THE INCOME TAX RECONCILIATION PROGRAM
+16 ESTABLISHED UNDER § 2–120 OF THIS ARTICLE.
+17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+18 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5   C A I ( F a w t y r t C t a t P a w c i a p f p i t P r t C S t d a a c t i t p a j T B  A S A  ( B  A S  A  (]
+[DELETED:  H  B  A S  A  ( B  A S  A  (  S T A     S  N0,RP§20T E R E U   O T A A. R A ) ( N    ()“J–UEIL R   S 2  0S T   ()“J–IUEIL   W I C O O P G T A C T W     “P”ITM M T N A E.]
+[DELETED: H 3 ) TITRPH N A E R T O. ) TPH P O T R I T A JEI W A U T F A T I T R W   () T S D O T SN ED    N  ) ( FD3O A T Y T B A E ,J1,2,B B A   A JEI I W W T I I I M A T T.N   IC T O D T TEI RMP O S E A I P P T  0    I A JEI I I A F A RM  O, ) ( TP,C:O RM  O   ) DI C W T E O UCS O ES EI RMP   ) .IA   T(( II  M I I L T E E R.]
+[DELETED:  H  ) OD1,2,DN O B E   A E E R  O E SY CGA W   O T T O RE O T27SGA R. 1  ( T t u  ( O i p   ( ( 1    ( 1    ( 1    ( 1    ( 1    ( 1    ( 9    ( 9   ( 3 c d 1   F ) TH O S W T A O A I  D ]
+[DELETED: H 5   P U T N A E RTR   20. 1  ( E f e 1   F ) TH ONS:  D    P U T N A E RTR   20.  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 634
+Q3 5lr2623
+CF SB 295
+By: Delegates Wims and Mireku–North
+Introduced and read first time: January 23, 2025
+Assigned to: Ways and Means
+Committee Report: Favorable
+House action: Adopted with floor amendments
+Read second time: March 2, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Income Tax – Income Tax Reconciliation Program – Established
+3 (Maryland Fair Taxation for Justice–Involved Individuals Act)
+4 FOR the purpose of establishing the Income Tax Reconciliation Program in the State to
+5 allow certain justice–involved individuals to establish payment plans and receive a
+6 waiver of any interest and penalties that accrue for unpaid income tax due for certain
+7 taxable years; requiring the Comptroller to administer the Program and waive
+8 certain interest and penalties for participants in the Program; requiring the
+9 Comptroller, in collaboration with the Department of Public Safety and Correctional
+10 Services, to develop an awareness campaign to inform the public and
+11 justice–involved individuals about the Program; and generally relating to the Income
+12 Tax Reconciliation Program for justice–involved individuals.
+13 BY adding to
+14 Article – Criminal Procedure
+15 Section 6–237
+16 Annotated Code of Maryland
+17 (2018 Replacement Volume and 2024 Supplement)
+18 BY adding to
+19 Article – Tax – General
+20 Section 2–120
+21 Annotated Code of Maryland
+22 (2022 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0634*
+
+2 HOUSE BILL 634
+1 BY repealing and reenacting, without amendments,
+2 Article – Tax – General
+3 Section 13–604 and 13–701(a)
+4 Annotated Code of Maryland
+5 (2022 Replacement Volume and 2024 Supplement)
+6 BY repealing and reenacting, with amendments,
+7 Article – Tax – General
+8 Section 13–606 and 13–714
+9 Annotated Code of Maryland
+10 (2022 Replacement Volume and 2024 Supplement)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+13 Article – Criminal Procedure
+14 6–237.
+15 WHEN A DEFENDANT IS CONVICTED OF OR PLEADS GUILTY TO A CRIME AND IS
+16 SENTENCED TO A TERM OF IMPRISONMENT OF AT LEAST 6 MONTHS BUT NOT MORE
+17 THAN 10 YEARS, THE COURT SHALL INFORM THE DEFENDANT ABOUT THE INCOME
+18 TAX RECONCILIATION PROGRAM ESTABLISHED UNDER § 2–120 OF THE TAX –
+19 GENERAL ARTICLE.
+20 Article – Tax – General
+21 2–120.
+22 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+23 INDICATED.
+24 (2) (I) “JUSTICE–INVOLVED INDIVIDUAL” MEANS AN INDIVIDUAL
+25 WHO IS CONVICTED OF OR PLEADS GUILTY TO A CRIME AND IS CURRENTLY SERVING
+26 OR, WITHIN THE IMMEDIATELY PRECEDING 2 YEARS, HAS BEEN RELEASED AFTER
+27 SERVING A TERM OF IMPRISONMENT OF AT LEAST 6 MONTHS BUT NOT MORE THAN
+28 10 YEARS IN A STATE OR FEDERAL CORRECTIONAL FACILITY.
+29 (II) “JUSTICE–INVOLVED INDIVIDUAL” DOES NOT INCLUDE AN
+30 INDIVIDUAL WHO IS CONVICTED OF OR PLEADS GUILTY TO A CRIME THAT WAS
+31 COMMITTED WHILE THE INDIVIDUAL WAS HOLDING AN ELECTED PUBLIC OFFICE.
+32 (3) “PROGRAM” MEANS THE INCOME TAX RECONCILIATION
+33 PROGRAM.
+
+HOUSE BILL 634 3
+1 (B) THERE IS AN INCOME TAX RECONCILIATION PROGRAM IN THE STATE
+2 THAT IS ADMINISTERED BY THE COMPTROLLER.
+3 (C) THE PURPOSE OF THE PROGRAM IS TO ALLOW JUSTICE–INVOLVED
+4 INDIVIDUALS WHO ARE UNABLE TO FILE A STATE INCOME TAX RETURN WHILE
+5 INCARCERATED TO:
+6 (1) SUBJECT TO SUBSECTION (D) OF THIS SECTION, ESTABLISH
+7 INSTALLMENT PAYMENT PLANS TO PAY ANY UNPAID INCOME TAX THAT IS DUE FOR
+8 ANY TAXABLE YEAR DURING WHICH THE INDIVIDUAL IS INCARCERATED; AND
+9 (2) IF APPROVED FOR AN INSTALLMENT PAYMENT PLAN, RECEIVE A
+10 WAIVER FOR ANY INTEREST AND PENALTIES THAT ACCRUE ON THE UNPAID INCOME
+11 TAX.
+12 (D) (1) FOR ANY TAXABLE YEAR THAT BEGINS AFTER DECEMBER 31,
+13 2024, BUT BEFORE JANUARY 1, 2030, A JUSTICE–INVOLVED INDIVIDUAL WHO
+14 RECEIVES A NOTICE OF ASSESSMENT OF INCOME TAX DUE FOR A TAXABLE YEAR
+15 DURING WHICH THE INDIVIDUAL IS INCARCERATED MAY APPLY TO THE
+16 COMPTROLLER FOR AN INSTALLMENT PAYMENT PLAN.
+17 (2) IF THE COMPTROLLER DETERMINES THAT THE
+18 JUSTICE–INVOLVED INDIVIDUAL IS ELIGIBLE TO PARTICIPATE IN THE PROGRAM,
+19 THE COMPTROLLER SHALL ESTABLISH AN INSTALLMENT PAYMENT PLAN THAT
+20 ALLOWS THE INDIVIDUAL TO PAY THE UNPAID INCOME TAX OVER A PERIOD NOT
+21 EXCEEDING 10 YEARS.
+22 (3) IF A JUSTICE–INVOLVED INDIVIDUAL IS APPROVED FOR AN
+23 INSTALLMENT PAYMENT PLAN UNDER THE PROGRAM, THE COMPTROLLER SHALL
+24 WAIVE ANY INTEREST AND PENALTIES THAT ACCRUE ON THE UNPAID INCOME TAX
+25 DUE.
+26 (E) (1) TO CARRY OUT THE PROGRAM, THE COMPTROLLER SHALL:
+27 (I) IN COLLABORATION WITH THE DEPARTMENT OF PUBLIC
+28 SAFETY AND CORRECTIONAL SERVICES, DEVELOP AN AWARENESS CAMPAIGN TO
+29 INFORM THE PUBLIC AND JUSTICE–INVOLVED INDIVIDUALS ABOUT THE PROGRAM;
+30 AND
+31 (II) ADOPT REGULATIONS.
+32 (2) THE REGULATIONS REQUIRED UNDER PARAGRAPH (1)(II) OF THIS
+33 SUBSECTION MAY INCLUDE INCOME LIMITATIONS THAT ESTABLISH ELIGIBILITY
+34 FOR THE PROGRAM.
+
+4 HOUSE BILL 634
+1 (F) ON OR BEFORE DECEMBER 1, 2026, AND EACH DECEMBER 1
+2 THEREAFTER, THE COMPTROLLER SHALL REPORT TO THE GENERAL ASSEMBLY, IN
+3 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON THE
+4 IMPACT OF THE PROGRAM.
+5 13–604.
+6 (a) The rate of interest for each month or fraction of a month is the percent equal
+7 to one–twelfth of the annual interest rate that the Comptroller sets for the calendar year
+8 under subsection (b) of this section.
+9 (b) On or before October 1 of each year, the Comptroller shall set the annual
+10 interest rate for the next calendar year on refunds and money owed to the State as the
+11 percent that equals the greater of:
+12 (1) (i) 13% for 2016;
+13 (ii) 12% for 2017;
+14 (iii) 11.5% for 2018;
+15 (iv) 11% for 2019;
+16 (v) 10.5% for 2020;
+17 (vi) 10% for 2021;
+18 (vii) 9.5% for 2022; and
+19 (viii) 9% for 2023 and each year thereafter; or
+20 (2) 3 percentage points above the average prime rate of interest quoted by
+21 commercial banks to large businesses during the State’s previous fiscal year, based on
+22 determination by the Board of Governors of the Federal Reserve Bank.
+23 13–606.
+24 (A) For reasonable cause, a tax collector may waive interest on unpaid tax.
+25 (B) THE COMPTROLLER SHALL WAIVE THE AMOUNT OF ANY INTEREST
+26 ASSESSED ON UNPAID INCOME TAX DUE UNDER THIS ARTICLE IF:
+27 (1) THE UNPAID INCOME TAX IS DUE FOR A TAXABLE YEAR DURING
+28 WHICH THE PERSON OWING IS INCARCERATED; AND
+
+HOUSE BILL 634 5
+1 (2) THE PERSON APPLIES FOR AND IS PLACED ON AN INSTALLMENT
+2 PAYMENT PLAN UNDER THE INCOME TAX RECONCILIATION PROGRAM
+3 ESTABLISHED UNDER § 2–120 OF THIS ARTICLE.
+4 13–701.
+5 (a) Except as otherwise provided in this subtitle, if a person or governmental unit
+6 fails to pay a tax when due under this article, the tax collector shall assess a penalty not
+7 exceeding 10% of the unpaid tax.
+8 13–714.
+9 (A) For reasonable cause, a tax collector may waive a penalty under this subtitle.
+10 (B) THE COMPTROLLER SHALL WAIVE ANY PENALTY UNDER THIS SUBTITLE
+11 FOR A PERSON’S FAILURE TO PAY INCOME TAX WHEN DUE UNDER THIS ARTICLE IF:
+12 (1) THE UNPAID INCOME TAX IS DUE FOR A TAXABLE YEAR DURING
+13 WHICH THE PERSON OWING IS INCARCERATED; AND
+14 (2) THE PERSON APPLIES FOR AND IS PLACED ON AN INSTALLMENT
+15 PAYMENT PLAN UNDER THE INCOME TAX RECONCILIATION PROGRAM
+16 ESTABLISHED UNDER § 2–120 OF THIS ARTICLE.
+17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+18 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5   C A I ( F a w t y r t C t a t P a w c i a p f p i t P r t C S t d a a c t i t p a j T B  A S A  ( B  A S  A  (]
+[DELETED:  H  B  A S  A  ( B  A S  A  (  S T A     S  N0,RP§20T E R E U   O T A A. R A ) ( N    ()“J–UEIL R   S 2  0S T   ()“J–IUEIL   W I C O O P G T A C T W     “P”ITM M T N A E.]
+[DELETED: H 3 ) TITRPH N A E R T O. ) TPH P O T R I T A JEI W A U T F A T I T R W   () T S D O T SN ED    N  ) ( FD3O A T Y T B A E ,J1,2,B B A   A JEI I W W T I I I M A T T.N   IC T O D T TEI RMP O S E A I P P T  0    I A JEI I I A F A RM  O, ) ( TP,C:O RM  O   ) DI C W T E O UCS O ES EI RMP   ) .IA   T(( II  M I I L T E E R.]
+[DELETED:  H  ) OD1,2,DN O B E   A E E R  O E SY CGA W   O T T O RE O T27SGA R. 1  ( T t u  ( O i p   ( ( 1    ( 1    ( 1    ( 1    ( 1    ( 1    ( 9    ( 9   ( 3 c d 1   F ) TH O S W T A O A I  D ]
+[DELETED: H 5   P U T N A E RTR   20. 1  ( E f e 1   F ) TH ONS:  D    P U T N A E RTR   20.  S 1          G               ]

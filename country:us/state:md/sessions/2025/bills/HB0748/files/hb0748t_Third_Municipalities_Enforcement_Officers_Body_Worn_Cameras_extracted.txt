@@ -1,0 +1,317 @@
+Title: HOUSE BILL 748
+Official Title: HOUSE BILL 748
+Number of Sections: 1
+Source: versions - Third - Municipalities - Enforcement Officers - Body-Worn Cameras
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+L3 5lr2762
+By: Delegates Schindler, Hill, Kaufman, Roberts, Spiegel, and Wu
+Introduced and read first time: January 27, 2025
+Assigned to: Judiciary
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 1, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Municipalities – Enforcement Officers – Body–Worn Cameras
+3 FOR the purpose of including a certain municipal enforcement officer in the definition of
+4 “law enforcement officer” for purposes of a certain exception to prohibitions against
+5 wiretapping and electronic surveillance relating to the use of body–worn cameras by
+6 law enforcement officers; authorizing a municipality to adopt an ordinance or a
+7 resolution authorizing an official who is authorized to act as an a certain enforcement
+8 officer to utilize body–worn cameras; requiring a municipality that adopts a certain
+9 ordinance or resolution to publish a certain policy; and generally relating to
+10 enforcement officers and body–worn cameras.
+11 BY repealing and reenacting, without amendments,
+12 Article – Courts and Judicial Proceedings
+13 Section 10–402(a)
+14 Annotated Code of Maryland
+15 (2020 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Courts and Judicial Proceedings
+18 Section 10–402(c)(11)
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Local Government
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0748*
+2 HOUSE BILL 748
+1 Section 6–103.1
+2 Annotated Code of Maryland
+3 (2013 Volume and 2024 Supplement)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Courts and Judicial Proceedings
+7 10–402.
+8 (a) Except as otherwise specifically provided in this subtitle it is unlawful for any
+9 person to:
+10 (1) Willfully intercept, endeavor to intercept, or procure any other person
+11 to intercept or endeavor to intercept, any wire, oral, or electronic communication;
+12 (2) Willfully disclose, or endeavor to disclose, to any other person the
+13 contents of any wire, oral, or electronic communication, knowing or having reason to know
+14 that the information was obtained through the interception of a wire, oral, or electronic
+15 communication in violation of this subtitle; or
+16 (3) Willfully use, or endeavor to use, the contents of any wire, oral, or
+17 electronic communication, knowing or having reason to know that the information was
+18 obtained through the interception of a wire, oral, or electronic communication in violation
+19 of this subtitle.
+20 (c) (11) (i) 1. In this paragraph the following words have the meanings
+21 indicated.
+22 2. “Body–worn digital recording device” means a device worn
+23 on the person of a law enforcement officer that is capable of recording video and intercepting
+24 oral communications.
+25 3. “Electronic control device” has the meaning stated in §
+26 4–109 of the Criminal Law Article.
+27 4. “LAW ENFORCEMENT OFFICER” INCLUDES A
+28 MUNICIPAL ENFORCEMENT OFFICER DULY AUTHORIZED UNDER § 6–103.1 OF THE
+29 LOCAL GOVERNMENT ARTICLE TO USE A BODY–WORN CAMERA DURING THE
+30 COURSE OF THE OFFICER’S DUTIES.
+31 (ii) It is lawful under this subtitle for a law enforcement officer in
+32 the course of the officer’s regular duty to intercept an oral communication with a
+33 body–worn digital recording device or an electronic control device capable of recording video
+34 and oral communications if:
+HOUSE BILL 748 3
+1 1. The law enforcement officer is in uniform or prominently
+2 displaying the officer’s badge or other insignia;
+3 2. The law enforcement officer is making reasonable efforts
+4 to conform to standards in accordance with § 3–511 of the Public Safety Article for the use
+5 of body–worn digital recording devices or electronic control devices capable of recording
+6 video and oral communications;
+7 3. The law enforcement officer is a party to the oral
+8 communication;
+9 4. Law enforcement notifies, as soon as is practicable, the
+10 individual that the individual is being recorded, unless it is unsafe, impractical, or
+11 impossible to do so; and
+12 5. The oral interception is being made as part of a videotape
+13 or digital recording.
+14 (iii) Failure to notify under subparagraph (ii)4 of this paragraph does
+15 not affect the admissibility in court of the recording if the failure to notify involved an
+16 individual who joined a discussion in progress for which proper notification was previously
+17 given.
+18 Article – Local Government
+19 6–103.1.
+20 (A) IN THIS SECTION, “ENFORCEMENT OFFICER” MEANS AN EMPLOYEE OR
+21 AGENT OF A MUNICIPALITY WHO IS AUTHORIZED TO ACT AS A CODE ENFORCEMENT,
+22 PARKING ENFORCEMENT, OR TRAFFIC ENFORCEMENT OFFICER FOR THE
+23 MUNICIPALITY.
+24 (A) (B) A MUNICIPALITY MAY ADOPT AN ORDINANCE OR A RESOLUTION
+25 AUTHORIZING AN OFFICIAL WHO IS AUTHORIZED TO ACT AS AN ENFORCEMENT
+26 OFFICER TO UTILIZE A BODY–WORN CAMERA DURING THE COURSE OF THE
+27 OFFICIAL’S ENFORCEMENT OFFICER’S DUTIES.
+28 (B) (C) A MUNICIPALITY THAT ADOPTS AN ORDINANCE OR A RESOLUTION
+29 UNDER SUBSECTION (A) (B) OF THIS SECTION SHALL DEVELOP AND PUBLISH A
+30 POLICY FOR THE ISSUANCE AND USE OF A BODY–WORN CAMERA BY AN
+31 ENFORCEMENT OFFICER THAT ADDRESSES:
+32 (1) THE TESTING OF BODY–WORN CAMERAS TO ENSURE ADEQUATE
+33 FUNCTIONING;
+4 HOUSE BILL 748
+1 (2) THE PROCEDURE FOR AN ENFORCEMENT OFFICER TO FOLLOW IF
+2 THE CAMERA FAILS TO OPERATE PROPERLY AT THE BEGINNING OF OR DURING THE
+3 ENFORCEMENT OFFICER’S SHIFT;
+4 (3) WHEN RECORDING IS MANDATORY;
+5 (4) WHEN RECORDING IS PROHIBITED;
+6 (5) WHEN RECORDING IS DISCRETIONARY;
+7 (6) WHEN RECORDING MAY REQUIRE CONSENT OF A SUBJECT BEING
+8 RECORDED;
+9 (7) WHEN A RECORDING MAY BE ENDED;
+10 (8) PROVIDING NOTICE OF RECORDING;
+11 (9) ACCESS TO AND CONFIDENTIALITY OF RECORDINGS;
+12 (10) THE SECURE STORAGE OF DATA FROM A BODY–WORN CAMERA;
+13 (11) REVIEW AND USE OF RECORDINGS;
+14 (12) RETENTION OF RECORDINGS;
+15 (13) DISSEMINATION AND RELEASE OF RECORDINGS;
+16 (14) CONSEQUENCES FOR VIOLATIONS OF THE MUNICIPALITY’S
+17 BODY–WORN CAMERA POLICY;
+18 (15) NOTIFICATION REQUIREMENTS WHEN ANOTHER INDIVIDUAL
+19 BECOMES A PARTY TO THE COMMUNICATION FOLLOWING THE INITIAL
+20 NOTIFICATION;
+21 (16) SPECIFIC PROTECTIONS FOR INDIVIDUALS WHEN THERE IS AN
+22 EXPECTATION OF PRIVACY IN PRIVATE OR PUBLIC PLACES; AND
+23 (17) ANY ADDITIONAL ISSUES DETERMINED TO BE RELEVANT IN THE
+24 IMPLEMENTATION AND USE OF BODY–WORN CAMERAS BY ENFORCEMENT OFFICERS
+25 IS CONSISTENT WITH THE POLICY PUBLISHED BY THE MARYLAND POLICE TRAINING
+26 AND STANDARDS COMMISSION UNDER § 3–511 OF THE PUBLIC SAFETY ARTICLE
+27 FOR THE ISSUANCE AND USE OF BODY–WORN CAMERAS BY LAW ENFORCEMENT
+28 OFFICERS.
+HOUSE BILL 748 5
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5     A M F “ w l e o a a m t a a o o a r o o o r t p a c p a g r t e B  A  S  A  ( B  A  S  A  ( B  A]
+[DELETED:  H  S  A  (  S T A 1  ( E p   ( W t   ( W d o e t d t a o p t c t c   ( W u o e t u t c o a w o o e o o  ( ( ( 1 I i     2 “ o o     3 “ c d h t m s i § 4     .“L E OR I A   6GA O R T U A BYW C D TRS     ( I t c o t o r d t i a o c w a b a]
+[DELETED: H 3     1 T d     2 T t o v     3 T l e o i a p t t o c     4 L i t t i i b r u i i u i o i     5 T o    ( F n i g A()I,“NN ER  T ET O T E O F T    )() B  A O W I A T A A A E T U A BYW C D T C O TLSRSD’    )() C  S A BO T S S D A P A)(  F T I A U O A BYW C B A     YW ]
+[DELETED:  H     RS                                 –YW               ’ F V O T MYSYW     R W A I A P T T C F T I      P F I W T I AS     YW A O RP T O    U A RC§31PS T I A U O BYW C B L E ]
+[DELETED: H 5  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 748
+L3 5lr2762
+By: Delegates Schindler, Hill, Kaufman, Roberts, Spiegel, and Wu
+Introduced and read first time: January 27, 2025
+Assigned to: Judiciary
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 1, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Municipalities – Enforcement Officers – Body–Worn Cameras
+3 FOR the purpose of including a certain municipal enforcement officer in the definition of
+4 “law enforcement officer” for purposes of a certain exception to prohibitions against
+5 wiretapping and electronic surveillance relating to the use of body–worn cameras by
+6 law enforcement officers; authorizing a municipality to adopt an ordinance or a
+7 resolution authorizing an official who is authorized to act as an a certain enforcement
+8 officer to utilize body–worn cameras; requiring a municipality that adopts a certain
+9 ordinance or resolution to publish a certain policy; and generally relating to
+10 enforcement officers and body–worn cameras.
+11 BY repealing and reenacting, without amendments,
+12 Article – Courts and Judicial Proceedings
+13 Section 10–402(a)
+14 Annotated Code of Maryland
+15 (2020 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Courts and Judicial Proceedings
+18 Section 10–402(c)(11)
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Local Government
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0748*
+
+2 HOUSE BILL 748
+1 Section 6–103.1
+2 Annotated Code of Maryland
+3 (2013 Volume and 2024 Supplement)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Courts and Judicial Proceedings
+7 10–402.
+8 (a) Except as otherwise specifically provided in this subtitle it is unlawful for any
+9 person to:
+10 (1) Willfully intercept, endeavor to intercept, or procure any other person
+11 to intercept or endeavor to intercept, any wire, oral, or electronic communication;
+12 (2) Willfully disclose, or endeavor to disclose, to any other person the
+13 contents of any wire, oral, or electronic communication, knowing or having reason to know
+14 that the information was obtained through the interception of a wire, oral, or electronic
+15 communication in violation of this subtitle; or
+16 (3) Willfully use, or endeavor to use, the contents of any wire, oral, or
+17 electronic communication, knowing or having reason to know that the information was
+18 obtained through the interception of a wire, oral, or electronic communication in violation
+19 of this subtitle.
+20 (c) (11) (i) 1. In this paragraph the following words have the meanings
+21 indicated.
+22 2. “Body–worn digital recording device” means a device worn
+23 on the person of a law enforcement officer that is capable of recording video and intercepting
+24 oral communications.
+25 3. “Electronic control device” has the meaning stated in §
+26 4–109 of the Criminal Law Article.
+27 4. “LAW ENFORCEMENT OFFICER” INCLUDES A
+28 MUNICIPAL ENFORCEMENT OFFICER DULY AUTHORIZED UNDER § 6–103.1 OF THE
+29 LOCAL GOVERNMENT ARTICLE TO USE A BODY–WORN CAMERA DURING THE
+30 COURSE OF THE OFFICER’S DUTIES.
+31 (ii) It is lawful under this subtitle for a law enforcement officer in
+32 the course of the officer’s regular duty to intercept an oral communication with a
+33 body–worn digital recording device or an electronic control device capable of recording video
+34 and oral communications if:
+
+HOUSE BILL 748 3
+1 1. The law enforcement officer is in uniform or prominently
+2 displaying the officer’s badge or other insignia;
+3 2. The law enforcement officer is making reasonable efforts
+4 to conform to standards in accordance with § 3–511 of the Public Safety Article for the use
+5 of body–worn digital recording devices or electronic control devices capable of recording
+6 video and oral communications;
+7 3. The law enforcement officer is a party to the oral
+8 communication;
+9 4. Law enforcement notifies, as soon as is practicable, the
+10 individual that the individual is being recorded, unless it is unsafe, impractical, or
+11 impossible to do so; and
+12 5. The oral interception is being made as part of a videotape
+13 or digital recording.
+14 (iii) Failure to notify under subparagraph (ii)4 of this paragraph does
+15 not affect the admissibility in court of the recording if the failure to notify involved an
+16 individual who joined a discussion in progress for which proper notification was previously
+17 given.
+18 Article – Local Government
+19 6–103.1.
+20 (A) IN THIS SECTION, “ENFORCEMENT OFFICER” MEANS AN EMPLOYEE OR
+21 AGENT OF A MUNICIPALITY WHO IS AUTHORIZED TO ACT AS A CODE ENFORCEMENT,
+22 PARKING ENFORCEMENT, OR TRAFFIC ENFORCEMENT OFFICER FOR THE
+23 MUNICIPALITY.
+24 (A) (B) A MUNICIPALITY MAY ADOPT AN ORDINANCE OR A RESOLUTION
+25 AUTHORIZING AN OFFICIAL WHO IS AUTHORIZED TO ACT AS AN ENFORCEMENT
+26 OFFICER TO UTILIZE A BODY–WORN CAMERA DURING THE COURSE OF THE
+27 OFFICIAL’S ENFORCEMENT OFFICER’S DUTIES.
+28 (B) (C) A MUNICIPALITY THAT ADOPTS AN ORDINANCE OR A RESOLUTION
+29 UNDER SUBSECTION (A) (B) OF THIS SECTION SHALL DEVELOP AND PUBLISH A
+30 POLICY FOR THE ISSUANCE AND USE OF A BODY–WORN CAMERA BY AN
+31 ENFORCEMENT OFFICER THAT ADDRESSES:
+32 (1) THE TESTING OF BODY–WORN CAMERAS TO ENSURE ADEQUATE
+33 FUNCTIONING;
+
+4 HOUSE BILL 748
+1 (2) THE PROCEDURE FOR AN ENFORCEMENT OFFICER TO FOLLOW IF
+2 THE CAMERA FAILS TO OPERATE PROPERLY AT THE BEGINNING OF OR DURING THE
+3 ENFORCEMENT OFFICER’S SHIFT;
+4 (3) WHEN RECORDING IS MANDATORY;
+5 (4) WHEN RECORDING IS PROHIBITED;
+6 (5) WHEN RECORDING IS DISCRETIONARY;
+7 (6) WHEN RECORDING MAY REQUIRE CONSENT OF A SUBJECT BEING
+8 RECORDED;
+9 (7) WHEN A RECORDING MAY BE ENDED;
+10 (8) PROVIDING NOTICE OF RECORDING;
+11 (9) ACCESS TO AND CONFIDENTIALITY OF RECORDINGS;
+12 (10) THE SECURE STORAGE OF DATA FROM A BODY–WORN CAMERA;
+13 (11) REVIEW AND USE OF RECORDINGS;
+14 (12) RETENTION OF RECORDINGS;
+15 (13) DISSEMINATION AND RELEASE OF RECORDINGS;
+16 (14) CONSEQUENCES FOR VIOLATIONS OF THE MUNICIPALITY’S
+17 BODY–WORN CAMERA POLICY;
+18 (15) NOTIFICATION REQUIREMENTS WHEN ANOTHER INDIVIDUAL
+19 BECOMES A PARTY TO THE COMMUNICATION FOLLOWING THE INITIAL
+20 NOTIFICATION;
+21 (16) SPECIFIC PROTECTIONS FOR INDIVIDUALS WHEN THERE IS AN
+22 EXPECTATION OF PRIVACY IN PRIVATE OR PUBLIC PLACES; AND
+23 (17) ANY ADDITIONAL ISSUES DETERMINED TO BE RELEVANT IN THE
+24 IMPLEMENTATION AND USE OF BODY–WORN CAMERAS BY ENFORCEMENT OFFICERS
+25 IS CONSISTENT WITH THE POLICY PUBLISHED BY THE MARYLAND POLICE TRAINING
+26 AND STANDARDS COMMISSION UNDER § 3–511 OF THE PUBLIC SAFETY ARTICLE
+27 FOR THE ISSUANCE AND USE OF BODY–WORN CAMERAS BY LAW ENFORCEMENT
+28 OFFICERS.
+
+HOUSE BILL 748 5
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5     A M F “ w l e o a a m t a a o o a r o o o r t p a c p a g r t e B  A  S  A  ( B  A  S  A  ( B  A]
+[DELETED:  H  S  A  (  S T A 1  ( E p   ( W t   ( W d o e t d t a o p t c t c   ( W u o e t u t c o a w o o e o o  ( ( ( 1 I i     2 “ o o     3 “ c d h t m s i § 4     .“L E OR I A   6GA O R T U A BYW C D TRS     ( I t c o t o r d t i a o c w a b a]
+[DELETED: H 3     1 T d     2 T t o v     3 T l e o i a p t t o c     4 L i t t i i b r u i i u i o i     5 T o    ( F n i g A()I,“NN ER  T ET O T E O F T    )() B  A O W I A T A A A E T U A BYW C D T C O TLSRSD’    )() C  S A BO T S S D A P A)(  F T I A U O A BYW C B A     YW ]
+[DELETED:  H     RS                                 –YW               ’ F V O T MYSYW     R W A I A P T T C F T I      P F I W T I AS     YW A O RP T O    U A RC§31PS T I A U O BYW C B L E ]
+[DELETED: H 5  S A B I F E T t A s t e O          G               ]

@@ -1,0 +1,380 @@
+Title: SENATE BILL 360
+Official Title: SENATE BILL 360
+Number of Sections: 1
+Source: versions - Third - Revenge Porn - Civil Action and Criminal Offense
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+D3 5lr0837
+SB 858/24 – JPR
+By: Senators Hester and Smith
+Introduced and read first time: January 17, 2025
+Assigned to: Judicial Proceedings
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 21, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Revenge Porn – Civil Action and Criminal Offense
+3 FOR the purpose of authorizing a person to bring and maintain a civil action for defamation
+4 under certain circumstances; prohibiting a person from knowingly distributing a
+5 certain computer–generated visual representation of another under certain
+6 circumstances; and generally relating to a civil action and criminal offense for
+7 revenge porn.
+8 BY adding to
+9 Article – Courts and Judicial Proceedings
+10 Section 3–505
+11 Annotated Code of Maryland
+12 (2020 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – Criminal Law
+15 Section 3–809
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2024 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Courts and Judicial Proceedings
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0360*
+2 SENATE BILL 360
+1 3–505.
+2 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+3 INDICATED.
+4 (2) “COMPUTER–GENERATED VISUAL REPRESENTATION” INCLUDES:
+5 (I) A VISUAL REPRESENTATION CREATED WITHOUT USING
+6 OTHER EXISTING VISUAL REPRESENTATIONS OF A PERSON; AND
+7 (II) A VISUAL REPRESENTATION CREATED USING OTHER
+8 EXISTING VISUAL REPRESENTATIONS OF A PERSON WITHOUT THE PERSON’S
+9 CONSENT.
+10 (3) “DISTRIBUTE” HAS THE MEANING STATED IN § 3–809 OF THE
+11 CRIMINAL LAW ARTICLE.
+12 (4) (I) “INDISTINGUISHABLE FROM AN ACTUAL VISUAL
+13 REPRESENTATION OF THE PERSON” MEANS THAT AN ORDINARY PERSON WOULD
+14 CONCLUDE THAT THE VISUAL REPRESENTATION IS AN ACTUAL VISUAL
+15 REPRESENTATION OF THE PERSON.
+16 (II) “INDISTINGUISHABLE FROM AN ACTUAL VISUAL
+17 REPRESENTATION OF THE PERSON” INCLUDES A COMPUTER–GENERATED VISUAL
+18 REPRESENTATION THAT HAS BEEN CREATED, ADAPTED, OR MODIFIED TO APPEAR
+19 GENUINE.
+20 (III) “INDISTINGUISHABLE FROM AN ACTUAL VISUAL
+21 REPRESENTATION OF THE PERSON” DOES NOT INCLUDE IMAGES OR ITEMS
+22 DEPICTING A PERSON THAT ARE:
+23 1. DRAWINGS;
+24 2. CARTOONS;
+25 3. SCULPTURES; OR
+26 4. PAINTINGS.
+27 (5) “INTIMATE PARTS” HAS THE MEANING STATED IN § 3–809 OF THE
+28 CRIMINAL LAW ARTICLE.
+29 (6) “SEXUAL ACTIVITY” HAS THE MEANING STATED IN § 3–809 OF THE
+30 CRIMINAL LAW ARTICLE.
+SENATE BILL 360 3
+1 (B) A PERSON MAY BRING AND MAINTAIN A CIVIL ACTION FOR DEFAMATION
+2 PER SE AGAINST ANOTHER WHO DISTRIBUTES A COMPUTER–GENERATED VISUAL
+3 REPRESENTATION THAT IS INDISTINGUISHABLE FROM AN ACTUAL VISUAL
+4 REPRESENTATION OF THE PERSON AND FALSELY DEPICTS THE PERSON WITH HIS OR
+5 HER INTIMATE PARTS EXPOSED OR ENGAGED IN SEXUAL ACTIVITY.
+6 (C) IN ADDITION TO OTHER RELIEF, THE COURT MAY AWARD REASONABLE
+7 ATTORNEY’S FEES TO A PREVAILING PLAINTIFF.
+8 Article – Criminal Law
+9 3–809.
+10 (a) (1) In this section the following words have the meanings indicated.
+11 (2) “COMPUTER–GENERATED VISUAL REPRESENTATION” INCLUDES:
+12 (I) A VISUAL REPRESENTATION CREATED WITHOUT USING
+13 OTHER EXISTING VISUAL REPRESENTATIONS OF A PERSON; AND
+14 (II) A VISUAL REPRESENTATION CREATED USING OTHER
+15 EXISTING VISUAL REPRESENTATIONS OF A PERSON WITHOUT THE PERSON’S
+16 CONSENT.
+17 (3) “Distribute” means to give, sell, transfer, disseminate, publish, upload,
+18 circulate, broadcast, make available, allow access to, or engage in any other form of
+19 transmission, electronic or otherwise.
+20 [(3)] (4) “Harm” means:
+21 (i) physical injury;
+22 (ii) serious emotional distress; or
+23 (iii) economic damages.
+24 (5) (I) “INDISTINGUISHABLE FROM ANOTHER ACTUAL AND
+25 IDENTIFIABLE PERSON” MEANS THAT AN ORDINARY PERSON WOULD CONCLUDE
+26 THAT THE VISUAL REPRESENTATION IS OF AN ACTUAL AND IDENTIFIABLE PERSON.
+27 (II) “INDISTINGUISHABLE FROM ANOTHER ACTUAL AND
+28 IDENTIFIABLE PERSON” INCLUDES A COMPUTER–GENERATED VISUAL
+29 REPRESENTATION THAT HAS BEEN CREATED, ADAPTED, OR MODIFIED TO APPEAR
+30 AS AN ACTUAL AND IDENTIFIABLE PERSON.
+4 SENATE BILL 360
+1 (III) “INDISTINGUISHABLE FROM ANOTHER ACTUAL AND
+2 IDENTIFIABLE PERSON” DOES NOT INCLUDE VISUAL REPRESENTATIONS OR ITEMS
+3 DEPICTING A PERSON THAT ARE:
+4 1. DRAWINGS;
+5 2. CARTOONS;
+6 3. SCULPTURES; OR
+7 4. PAINTINGS.
+8 [(4)] (6) “Intimate parts” means the naked genitals, pubic area, buttocks,
+9 or female nipple.
+10 [(5)] (7) “Sexual activity” means:
+11 (i) sexual intercourse, including genital–genital, oral–genital,
+12 anal–genital, or oral–anal;
+13 (ii) masturbation; or
+14 (iii) sadomasochistic abuse.
+15 (b) (1) This section does not apply to:
+16 (i) lawful and common practices of law enforcement, the reporting
+17 of unlawful conduct, or legal proceedings; or
+18 (ii) situations involving voluntary exposure in public or commercial
+19 settings.
+20 (2) An interactive computer service, as defined in 47 U.S.C. § 230(f)(2), is
+21 not liable under this section for content provided by another person.
+22 (c) (1) A person may not knowingly distribute a visual representation of
+23 another identifiable person that displays the other person with his or her intimate parts
+24 exposed or while engaged in an act of sexual activity:
+25 [(1)] (I) with the intent to harm, harass, intimidate, threaten, or coerce
+26 the other person;
+27 [(2) (i)] (II) 1. under circumstances in which the person knew that
+28 the other person did not consent to the distribution; or
+SENATE BILL 360 5
+1 [(ii)] 2. with reckless disregard as to whether the person
+2 consented to the distribution; and
+3 [(3)] (III) under circumstances in which the other person had a reasonable
+4 expectation that the image would remain private.
+5 (2) A PERSON MAY NOT KNOWINGLY DISTRIBUTE A
+6 COMPUTER–GENERATED VISUAL REPRESENTATION THAT IS INDISTINGUISHABLE
+7 FROM ANOTHER ACTUAL AND IDENTIFIABLE PERSON THAT DISPLAYS THE OTHER
+8 PERSON WITH HIS OR HER INTIMATE PARTS EXPOSED OR WHILE ENGAGED IN AN ACT
+9 OF SEXUAL ACTIVITY:
+10 (I) WITH THE INTENT TO HARM, HARASS, INTIMIDATE,
+11 THREATEN, OR COERCE THE OTHER PERSON; AND
+12 (II) 1. UNDER CIRCUMSTANCES IN WHICH THE PERSON
+13 KNEW THAT THE OTHER PERSON DID NOT CONSENT TO THE DISTRIBUTION; OR
+14 2. WITH RECKLESS DISREGARD AS TO WHETHER THE
+15 PERSON CONSENTED TO THE DISTRIBUTION.
+16 (d) A person who violates this section is guilty of a misdemeanor and on conviction
+17 is subject to imprisonment not exceeding 2 years or a fine not exceeding $5,000 or both.
+18 (e) A person who violates this section is subject to § 5–106(b) of the Courts Article.
+19 (f) A visual representation AND A COMPUTER–GENERATED VISUAL
+20 REPRESENTATION of a victim that is part of a court record for a case arising from a
+21 prosecution under this section:
+22 (1) subject to item (2) of this subsection, may not be made available for
+23 public inspection; and
+24 (2) except as otherwise ordered by the court, may only be made available
+25 for inspection in relation to a criminal charge under this section to:
+26 (i) court personnel;
+27 (ii) a jury in a criminal case brought under this section;
+28 (iii) the State’s Attorney or the State’s Attorney’s designee;
+29 (iv) the Attorney General or the Attorney General’s designee;
+30 (v) a law enforcement officer;
+6 SENATE BILL 360
+1 (vi) the defendant or the defendant’s attorney; or
+2 (vii) the victim or the victim’s attorney.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That, if any provision of this Act or
+4 the application thereof to any person or circumstance is held invalid for any reason in a
+5 court of competent jurisdiction, the invalidity does not affect other provisions or any other
+6 application of this Act that can be given effect without the invalid provision or application,
+7 and for this purpose the provisions of this Act are declared severable.
+8 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+9 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5     A R F u c c p p f k d c c v r o a u c c a g r t a c a a c o f r B  A S  A  ( B  A  S  A  (  S T A]
+[DELETED:  S     )()N    )“C–”:RGN   ()  V R C W UN   () I V R C U O V R O A P W T PNS ( “D”§3E H T M S I   O TLA A R     )()“N F A A V PN M O W T T V R I A A V     )“IN F A A VN RGD D      )“IN F A A V O T PN D N I I O I       .D      .C      .SS       .P   )“I”§3S    LA A R    )“S”§3Y    LA A R ]
+[DELETED: S 3  )  CRG T I I F A A V() INF YS  A 3  ( ( I   (C–”:RGN   ()A V R C W UN   ()IA V R C U O V R O A P W T PNS     “ c b m a a a t o e i a o f o t   () “](    ( p    ( s    ( e ( () “N F A A A PN M T A O P W C     )“IN F A A A PN I A CRG VD D  ]
+[DELETED:  S     )“IN F A A AN        .      .      .S       .   () “]( o   () “](    ( s i i g o a    ( m    ( s  ( ( T    ( l o    ( s s   ( A n  (  A p m n k d a v r o a e   () w] ( t   ( () u]() 1I t]
+[DELETED: S 5    () w r d a t w t p] 2 c   () u] ( e   AP M N K D ARG V R T I I  () ,,W T I T HM HS IEN N ;  () 1IU C I W T PN    2 R D A T W T  ( A i  ( A  ( A v rA A CRG V  o a v t p o a c r f a c a f a p   ( s p   ( e f    ( c    ( a    ( t    ( t    ( a]
+[DELETED:  S     ( t    ( t  S t c a a  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 360
+D3 5lr0837
+SB 858/24 – JPR
+By: Senators Hester and Smith
+Introduced and read first time: January 17, 2025
+Assigned to: Judicial Proceedings
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 21, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Revenge Porn – Civil Action and Criminal Offense
+3 FOR the purpose of authorizing a person to bring and maintain a civil action for defamation
+4 under certain circumstances; prohibiting a person from knowingly distributing a
+5 certain computer–generated visual representation of another under certain
+6 circumstances; and generally relating to a civil action and criminal offense for
+7 revenge porn.
+8 BY adding to
+9 Article – Courts and Judicial Proceedings
+10 Section 3–505
+11 Annotated Code of Maryland
+12 (2020 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – Criminal Law
+15 Section 3–809
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2024 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Courts and Judicial Proceedings
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0360*
+
+2 SENATE BILL 360
+1 3–505.
+2 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+3 INDICATED.
+4 (2) “COMPUTER–GENERATED VISUAL REPRESENTATION” INCLUDES:
+5 (I) A VISUAL REPRESENTATION CREATED WITHOUT USING
+6 OTHER EXISTING VISUAL REPRESENTATIONS OF A PERSON; AND
+7 (II) A VISUAL REPRESENTATION CREATED USING OTHER
+8 EXISTING VISUAL REPRESENTATIONS OF A PERSON WITHOUT THE PERSON’S
+9 CONSENT.
+10 (3) “DISTRIBUTE” HAS THE MEANING STATED IN § 3–809 OF THE
+11 CRIMINAL LAW ARTICLE.
+12 (4) (I) “INDISTINGUISHABLE FROM AN ACTUAL VISUAL
+13 REPRESENTATION OF THE PERSON” MEANS THAT AN ORDINARY PERSON WOULD
+14 CONCLUDE THAT THE VISUAL REPRESENTATION IS AN ACTUAL VISUAL
+15 REPRESENTATION OF THE PERSON.
+16 (II) “INDISTINGUISHABLE FROM AN ACTUAL VISUAL
+17 REPRESENTATION OF THE PERSON” INCLUDES A COMPUTER–GENERATED VISUAL
+18 REPRESENTATION THAT HAS BEEN CREATED, ADAPTED, OR MODIFIED TO APPEAR
+19 GENUINE.
+20 (III) “INDISTINGUISHABLE FROM AN ACTUAL VISUAL
+21 REPRESENTATION OF THE PERSON” DOES NOT INCLUDE IMAGES OR ITEMS
+22 DEPICTING A PERSON THAT ARE:
+23 1. DRAWINGS;
+24 2. CARTOONS;
+25 3. SCULPTURES; OR
+26 4. PAINTINGS.
+27 (5) “INTIMATE PARTS” HAS THE MEANING STATED IN § 3–809 OF THE
+28 CRIMINAL LAW ARTICLE.
+29 (6) “SEXUAL ACTIVITY” HAS THE MEANING STATED IN § 3–809 OF THE
+30 CRIMINAL LAW ARTICLE.
+
+SENATE BILL 360 3
+1 (B) A PERSON MAY BRING AND MAINTAIN A CIVIL ACTION FOR DEFAMATION
+2 PER SE AGAINST ANOTHER WHO DISTRIBUTES A COMPUTER–GENERATED VISUAL
+3 REPRESENTATION THAT IS INDISTINGUISHABLE FROM AN ACTUAL VISUAL
+4 REPRESENTATION OF THE PERSON AND FALSELY DEPICTS THE PERSON WITH HIS OR
+5 HER INTIMATE PARTS EXPOSED OR ENGAGED IN SEXUAL ACTIVITY.
+6 (C) IN ADDITION TO OTHER RELIEF, THE COURT MAY AWARD REASONABLE
+7 ATTORNEY’S FEES TO A PREVAILING PLAINTIFF.
+8 Article – Criminal Law
+9 3–809.
+10 (a) (1) In this section the following words have the meanings indicated.
+11 (2) “COMPUTER–GENERATED VISUAL REPRESENTATION” INCLUDES:
+12 (I) A VISUAL REPRESENTATION CREATED WITHOUT USING
+13 OTHER EXISTING VISUAL REPRESENTATIONS OF A PERSON; AND
+14 (II) A VISUAL REPRESENTATION CREATED USING OTHER
+15 EXISTING VISUAL REPRESENTATIONS OF A PERSON WITHOUT THE PERSON’S
+16 CONSENT.
+17 (3) “Distribute” means to give, sell, transfer, disseminate, publish, upload,
+18 circulate, broadcast, make available, allow access to, or engage in any other form of
+19 transmission, electronic or otherwise.
+20 [(3)] (4) “Harm” means:
+21 (i) physical injury;
+22 (ii) serious emotional distress; or
+23 (iii) economic damages.
+24 (5) (I) “INDISTINGUISHABLE FROM ANOTHER ACTUAL AND
+25 IDENTIFIABLE PERSON” MEANS THAT AN ORDINARY PERSON WOULD CONCLUDE
+26 THAT THE VISUAL REPRESENTATION IS OF AN ACTUAL AND IDENTIFIABLE PERSON.
+27 (II) “INDISTINGUISHABLE FROM ANOTHER ACTUAL AND
+28 IDENTIFIABLE PERSON” INCLUDES A COMPUTER–GENERATED VISUAL
+29 REPRESENTATION THAT HAS BEEN CREATED, ADAPTED, OR MODIFIED TO APPEAR
+30 AS AN ACTUAL AND IDENTIFIABLE PERSON.
+
+4 SENATE BILL 360
+1 (III) “INDISTINGUISHABLE FROM ANOTHER ACTUAL AND
+2 IDENTIFIABLE PERSON” DOES NOT INCLUDE VISUAL REPRESENTATIONS OR ITEMS
+3 DEPICTING A PERSON THAT ARE:
+4 1. DRAWINGS;
+5 2. CARTOONS;
+6 3. SCULPTURES; OR
+7 4. PAINTINGS.
+8 [(4)] (6) “Intimate parts” means the naked genitals, pubic area, buttocks,
+9 or female nipple.
+10 [(5)] (7) “Sexual activity” means:
+11 (i) sexual intercourse, including genital–genital, oral–genital,
+12 anal–genital, or oral–anal;
+13 (ii) masturbation; or
+14 (iii) sadomasochistic abuse.
+15 (b) (1) This section does not apply to:
+16 (i) lawful and common practices of law enforcement, the reporting
+17 of unlawful conduct, or legal proceedings; or
+18 (ii) situations involving voluntary exposure in public or commercial
+19 settings.
+20 (2) An interactive computer service, as defined in 47 U.S.C. § 230(f)(2), is
+21 not liable under this section for content provided by another person.
+22 (c) (1) A person may not knowingly distribute a visual representation of
+23 another identifiable person that displays the other person with his or her intimate parts
+24 exposed or while engaged in an act of sexual activity:
+25 [(1)] (I) with the intent to harm, harass, intimidate, threaten, or coerce
+26 the other person;
+27 [(2) (i)] (II) 1. under circumstances in which the person knew that
+28 the other person did not consent to the distribution; or
+
+SENATE BILL 360 5
+1 [(ii)] 2. with reckless disregard as to whether the person
+2 consented to the distribution; and
+3 [(3)] (III) under circumstances in which the other person had a reasonable
+4 expectation that the image would remain private.
+5 (2) A PERSON MAY NOT KNOWINGLY DISTRIBUTE A
+6 COMPUTER–GENERATED VISUAL REPRESENTATION THAT IS INDISTINGUISHABLE
+7 FROM ANOTHER ACTUAL AND IDENTIFIABLE PERSON THAT DISPLAYS THE OTHER
+8 PERSON WITH HIS OR HER INTIMATE PARTS EXPOSED OR WHILE ENGAGED IN AN ACT
+9 OF SEXUAL ACTIVITY:
+10 (I) WITH THE INTENT TO HARM, HARASS, INTIMIDATE,
+11 THREATEN, OR COERCE THE OTHER PERSON; AND
+12 (II) 1. UNDER CIRCUMSTANCES IN WHICH THE PERSON
+13 KNEW THAT THE OTHER PERSON DID NOT CONSENT TO THE DISTRIBUTION; OR
+14 2. WITH RECKLESS DISREGARD AS TO WHETHER THE
+15 PERSON CONSENTED TO THE DISTRIBUTION.
+16 (d) A person who violates this section is guilty of a misdemeanor and on conviction
+17 is subject to imprisonment not exceeding 2 years or a fine not exceeding $5,000 or both.
+18 (e) A person who violates this section is subject to § 5–106(b) of the Courts Article.
+19 (f) A visual representation AND A COMPUTER–GENERATED VISUAL
+20 REPRESENTATION of a victim that is part of a court record for a case arising from a
+21 prosecution under this section:
+22 (1) subject to item (2) of this subsection, may not be made available for
+23 public inspection; and
+24 (2) except as otherwise ordered by the court, may only be made available
+25 for inspection in relation to a criminal charge under this section to:
+26 (i) court personnel;
+27 (ii) a jury in a criminal case brought under this section;
+28 (iii) the State’s Attorney or the State’s Attorney’s designee;
+29 (iv) the Attorney General or the Attorney General’s designee;
+30 (v) a law enforcement officer;
+
+6 SENATE BILL 360
+1 (vi) the defendant or the defendant’s attorney; or
+2 (vii) the victim or the victim’s attorney.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That, if any provision of this Act or
+4 the application thereof to any person or circumstance is held invalid for any reason in a
+5 court of competent jurisdiction, the invalidity does not affect other provisions or any other
+6 application of this Act that can be given effect without the invalid provision or application,
+7 and for this purpose the provisions of this Act are declared severable.
+8 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+9 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5     A R F u c c p p f k d c c v r o a u c c a g r t a c a a c o f r B  A S  A  ( B  A  S  A  (  S T A]
+[DELETED:  S     )()N    )“C–”:RGN   ()  V R C W UN   () I V R C U O V R O A P W T PNS ( “D”§3E H T M S I   O TLA A R     )()“N F A A V PN M O W T T V R I A A V     )“IN F A A VN RGD D      )“IN F A A V O T PN D N I I O I       .D      .C      .SS       .P   )“I”§3S    LA A R    )“S”§3Y    LA A R ]
+[DELETED: S 3  )  CRG T I I F A A V() INF YS  A 3  ( ( I   (C–”:RGN   ()A V R C W UN   ()IA V R C U O V R O A P W T PNS     “ c b m a a a t o e i a o f o t   () “](    ( p    ( s    ( e ( () “N F A A A PN M T A O P W C     )“IN F A A A PN I A CRG VD D  ]
+[DELETED:  S     )“IN F A A AN        .      .      .S       .   () “]( o   () “](    ( s i i g o a    ( m    ( s  ( ( T    ( l o    ( s s   ( A n  (  A p m n k d a v r o a e   () w] ( t   ( () u]() 1I t]
+[DELETED: S 5    () w r d a t w t p] 2 c   () u] ( e   AP M N K D ARG V R T I I  () ,,W T I T HM HS IEN N ;  () 1IU C I W T PN    2 R D A T W T  ( A i  ( A  ( A v rA A CRG V  o a v t p o a c r f a c a f a p   ( s p   ( e f    ( c    ( a    ( t    ( t    ( a]
+[DELETED:  S     ( t    ( t  S t c a a  S 1          G               ]

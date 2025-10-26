@@ -1,0 +1,213 @@
+Title: SENATE BILL 704
+Official Title: SENATE BILL 704
+Number of Sections: 1
+Source: versions - First - State Department of Education and Department of Information Technology - Evaluation on Artificial Intelligence in Public Schools
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+F1, S1 5lr2880
+CF HB 981
+By: Senator Hester
+Introduced and read first time: January 27, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 State Department of Education and Department of Information Technology –
+3 Evaluation on Artificial Intelligence in Public Schools
+4 FOR the purpose of requiring the State Department of Education to conduct an evaluation
+5 on the use and potential use of artificial intelligence in public schools; requiring that
+6 the evaluation consist of a survey of local school systems and a review of available
+7 systems that use artificial intelligence to assist with student learning; requiring the
+8 Department of Information Technology to assist the State Department of Education
+9 in performing its review; and generally relating to an evaluation of artificial
+10 intelligence in public schools.
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That:
+13 (a) In this section, “artificial intelligence” means a machine–based system that:
+14 (1) can, for a given set of human–defined objectives, make predictions,
+15 recommendations, or decisions influencing real or virtual environments;
+16 (2) uses machine and human–based inputs to perceive real and virtual
+17 environments and abstracts those perceptions into models through analysis in an
+18 automated manner; and
+19 (3) uses model inference to formulate options for information or action.
+20 (b) The State Department of Education shall conduct an evaluation of the use and
+21 potential use of artificial intelligence in public schools.
+22 (c) (1) In conducting its evaluation, the State Department of Education shall
+23 create a survey for local school systems that assesses:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0704*
+2 SENATE BILL 704
+1 (i) whether the local school system has a policy for the use of
+2 artificial intelligence by students, and if so, how the policy differs by student age, disability
+3 status, and English language learning status;
+4 (ii) whether the local school system has a policy for the use of
+5 artificial intelligence as part of curricula, teaching materials, or lessons;
+6 (iii) whether the local school system or any school within the school
+7 system currently uses a system that makes use of artificial intelligence to assist with
+8 student learning and, if so, which system is used and whether the system has been effective;
+9 (iv) whether the local school system is adequately prepared for the
+10 use of artificial intelligence, including whether the school system currently has in place:
+11 1. sufficient technological infrastructure;
+12 2. staff capacity to implement artificial intelligence systems
+13 to assist with student learning; and
+14 3. plans to address specific student needs using artificial
+15 intelligence;
+16 (v) the local school system’s identification and assessment of the
+17 most commonly used artificial intelligence systems in education; and
+18 (vi) how the State Department of Education could best assist the
+19 local school system in its use of artificial intelligence to meet staff and student needs.
+20 (2) On or before August 1, 2025, the State Department of Education shall
+21 distribute the survey required under this subsection to each county board of education,
+22 including Baltimore City.
+23 (3) On or before October 1, 2025, each county board of education, including
+24 Baltimore City, shall return a completed survey to the State Department of Education.
+25 (d) (1) In addition to the survey required under subsection (c) of this section,
+26 the State Department of Education’s evaluation shall include a review of available systems
+27 that use artificial intelligence to:
+28 (i) assist with student learning;
+29 (ii) aid in the creation of curricula, lesson plans, and teaching
+30 material;
+31 (iii) help with the evaluation of student work; and
+SENATE BILL 704 3
+1 (iv) support administrators and educators in the administration of
+2 schools.
+3 (2) In completing its review of available artificial intelligence systems, the
+4 State Department of Education shall analyze the pedagogical value of available artificial
+5 intelligence systems and administrative aspects with which the artificial intelligence
+6 systems are able to assist.
+7 (3) (i) The Department of Information Technology shall assist the State
+8 Department of Education in completing the review of artificial intelligence systems
+9 required by this subsection.
+10 (ii) The Department of Information Technology shall assist with the
+11 review of artificial intelligence systems by evaluating the relative costs and benefits of:
+12 1. the available artificial intelligence systems identified by
+13 local school systems under subsection (c) of this section;
+14 2. any additional available artificial intelligence systems
+15 that meet the objectives listed under paragraph (1) of this subsection; and
+16 3. the implementation of one or more statewide artificial
+17 intelligence systems for use in public schools throughout the State, in accordance with the
+18 policies and strategies developed by the Governor’s Artificial Intelligence Subcabinet of the
+19 Governor’s Executive Council.
+20 (e) (1) On or before January 1, 2026, the Department shall provide an interim
+21 report on the results of the survey conducted under subsection (c) of this section to the
+22 Governor and, in accordance with § 2–1257 of the State Government Article, the General
+23 Assembly.
+24 (2) On or before December 15, 2026, the Department shall issue a final
+25 report on the results of its evaluation to the Governor and, in accordance with § 2–1257 of
+26 the State Government Article, the General Assembly.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+28 1, 2025. It shall remain effective for a period of 2 years and 1 month and, at the end of June
+29 30, 2027, this Act, with no further action required by the General Assembly, shall be
+30 abrogated and of no further force and effect.
+[DELETED: :CA      5   C A S E F o t s D i p i r a g r t a e o a i  S T  ( I   ( c f a g s o h o m p r   ( u m a h i t p r a v e a a t p i m t a i a a   ( u  ( T p  ( ( I c]
+[DELETED:  S     ( w t l s s h a p f t u o a s    ( w t l s s h a p f t u o a    ( w s c u a s t m u o a i t a w s    ( w u     1 s     2 s t     3 p t a s s n u a i    ( t l s s i a a o t m    ( h t S D o E c b a t l   ( O d i   ( O B  ( ( I t t    ( a    ( a i t c o c l p a t m    ( h]
+[DELETED: S 3    ( s s   ( I S i s a a a w w t a i s   ( ( T D o E i c t r o a i s r    ( T r     1 t l     2 a a a a i s t     3 t i o o o m s a i p G  ( ( O r G A   ( O r t  S 1 3 2 t A w n f a r b t G A s b a]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 704
+F1, S1 5lr2880
+CF HB 981
+By: Senator Hester
+Introduced and read first time: January 27, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 State Department of Education and Department of Information Technology –
+3 Evaluation on Artificial Intelligence in Public Schools
+4 FOR the purpose of requiring the State Department of Education to conduct an evaluation
+5 on the use and potential use of artificial intelligence in public schools; requiring that
+6 the evaluation consist of a survey of local school systems and a review of available
+7 systems that use artificial intelligence to assist with student learning; requiring the
+8 Department of Information Technology to assist the State Department of Education
+9 in performing its review; and generally relating to an evaluation of artificial
+10 intelligence in public schools.
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That:
+13 (a) In this section, “artificial intelligence” means a machine–based system that:
+14 (1) can, for a given set of human–defined objectives, make predictions,
+15 recommendations, or decisions influencing real or virtual environments;
+16 (2) uses machine and human–based inputs to perceive real and virtual
+17 environments and abstracts those perceptions into models through analysis in an
+18 automated manner; and
+19 (3) uses model inference to formulate options for information or action.
+20 (b) The State Department of Education shall conduct an evaluation of the use and
+21 potential use of artificial intelligence in public schools.
+22 (c) (1) In conducting its evaluation, the State Department of Education shall
+23 create a survey for local school systems that assesses:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0704*
+
+2 SENATE BILL 704
+1 (i) whether the local school system has a policy for the use of
+2 artificial intelligence by students, and if so, how the policy differs by student age, disability
+3 status, and English language learning status;
+4 (ii) whether the local school system has a policy for the use of
+5 artificial intelligence as part of curricula, teaching materials, or lessons;
+6 (iii) whether the local school system or any school within the school
+7 system currently uses a system that makes use of artificial intelligence to assist with
+8 student learning and, if so, which system is used and whether the system has been effective;
+9 (iv) whether the local school system is adequately prepared for the
+10 use of artificial intelligence, including whether the school system currently has in place:
+11 1. sufficient technological infrastructure;
+12 2. staff capacity to implement artificial intelligence systems
+13 to assist with student learning; and
+14 3. plans to address specific student needs using artificial
+15 intelligence;
+16 (v) the local school system’s identification and assessment of the
+17 most commonly used artificial intelligence systems in education; and
+18 (vi) how the State Department of Education could best assist the
+19 local school system in its use of artificial intelligence to meet staff and student needs.
+20 (2) On or before August 1, 2025, the State Department of Education shall
+21 distribute the survey required under this subsection to each county board of education,
+22 including Baltimore City.
+23 (3) On or before October 1, 2025, each county board of education, including
+24 Baltimore City, shall return a completed survey to the State Department of Education.
+25 (d) (1) In addition to the survey required under subsection (c) of this section,
+26 the State Department of Education’s evaluation shall include a review of available systems
+27 that use artificial intelligence to:
+28 (i) assist with student learning;
+29 (ii) aid in the creation of curricula, lesson plans, and teaching
+30 material;
+31 (iii) help with the evaluation of student work; and
+
+SENATE BILL 704 3
+1 (iv) support administrators and educators in the administration of
+2 schools.
+3 (2) In completing its review of available artificial intelligence systems, the
+4 State Department of Education shall analyze the pedagogical value of available artificial
+5 intelligence systems and administrative aspects with which the artificial intelligence
+6 systems are able to assist.
+7 (3) (i) The Department of Information Technology shall assist the State
+8 Department of Education in completing the review of artificial intelligence systems
+9 required by this subsection.
+10 (ii) The Department of Information Technology shall assist with the
+11 review of artificial intelligence systems by evaluating the relative costs and benefits of:
+12 1. the available artificial intelligence systems identified by
+13 local school systems under subsection (c) of this section;
+14 2. any additional available artificial intelligence systems
+15 that meet the objectives listed under paragraph (1) of this subsection; and
+16 3. the implementation of one or more statewide artificial
+17 intelligence systems for use in public schools throughout the State, in accordance with the
+18 policies and strategies developed by the Governor’s Artificial Intelligence Subcabinet of the
+19 Governor’s Executive Council.
+20 (e) (1) On or before January 1, 2026, the Department shall provide an interim
+21 report on the results of the survey conducted under subsection (c) of this section to the
+22 Governor and, in accordance with § 2–1257 of the State Government Article, the General
+23 Assembly.
+24 (2) On or before December 15, 2026, the Department shall issue a final
+25 report on the results of its evaluation to the Governor and, in accordance with § 2–1257 of
+26 the State Government Article, the General Assembly.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+28 1, 2025. It shall remain effective for a period of 2 years and 1 month and, at the end of June
+29 30, 2027, this Act, with no further action required by the General Assembly, shall be
+30 abrogated and of no further force and effect.
+
+[DELETED: :CA      5   C A S E F o t s D i p i r a g r t a e o a i  S T  ( I   ( c f a g s o h o m p r   ( u m a h i t p r a v e a a t p i m t a i a a   ( u  ( T p  ( ( I c]
+[DELETED:  S     ( w t l s s h a p f t u o a s    ( w t l s s h a p f t u o a    ( w s c u a s t m u o a i t a w s    ( w u     1 s     2 s t     3 p t a s s n u a i    ( t l s s i a a o t m    ( h t S D o E c b a t l   ( O d i   ( O B  ( ( I t t    ( a    ( a i t c o c l p a t m    ( h]
+[DELETED: S 3    ( s s   ( I S i s a a a w w t a i s   ( ( T D o E i c t r o a i s r    ( T r     1 t l     2 a a a a i s t     3 t i o o o m s a i p G  ( ( O r G A   ( O r t  S 1 3 2 t A w n f a r b t G A s b a]

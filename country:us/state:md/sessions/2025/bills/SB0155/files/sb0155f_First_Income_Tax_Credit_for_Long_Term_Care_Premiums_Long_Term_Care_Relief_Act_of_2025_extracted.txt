@@ -1,0 +1,179 @@
+Title: SENATE BILL 155
+Official Title: SENATE BILL 155
+Number of Sections: 1
+Source: versions - First - Income Tax - Credit for Long-Term Care Premiums (Long-Term Care Relief Act of 2025)
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Q3 5lr1219
+SB 86/24 – B&T (PRE–FILED) CF 5lr1260
+By: Senators Bailey and Klausmeier
+Requested: October 15, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Income Tax – Credit for Long–Term Care Premiums
+3 (Long–Term Care Relief Act of 2025)
+4 FOR the purpose of altering eligibility for and the maximum amount of a credit against the
+5 State income tax for certain long–term care insurance premiums paid by a certain
+6 taxpayer; and generally relating to an income tax credit for eligible long–term care
+7 premiums.
+8 BY repealing and reenacting, with amendments,
+9 Article – Tax – General
+10 Section 10–718
+11 Annotated Code of Maryland
+12 (2022 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Tax – General
+16 10–718.
+17 (a) (1) In this section[, “eligible] THE FOLLOWING WORDS HAVE THE
+18 MEANINGS INDICATED.
+19 (2) “ELIGIBLE long–term care premiums” means eligible long–term care
+20 premiums within the meaning of § 213(d)(10) of the Internal Revenue Code for a long–term
+21 care insurance contract covering an individual who is a Maryland resident.
+22 (3) “TAXPAYER” MEANS A TAXPAYER WHO:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0155*
+2 SENATE BILL 155
+1 (I) IS AT LEAST 85 YEARS OLD; AND
+2 (II) IN THE TAXABLE YEAR FOR WHICH A CREDIT IS CLAIMED
+3 UNDER THIS SECTION, HAS MARYLAND ADJUSTED GROSS INCOME OF LESS THAN:
+4 1. $100,000 FOR A TAXPAYER FILING AS AN INDIVIDUAL;
+5 OR
+6 2. $200,000 FOR A TAXPAYER FILING A JOINT RETURN.
+7 (b) [An individual] SUBJECT TO THE LIMITATIONS OF THIS SECTION, A
+8 TAXPAYER may claim a credit against the State income tax in an amount equal to 100% of
+9 the eligible long–term care premiums paid by the [individual] TAXPAYER during the
+10 taxable year for long–term care insurance covering the [individual] TAXPAYER or the
+11 [individual’s] TAXPAYER’S spouse, parent, stepparent, child, or stepchild.
+12 (c) The credit allowed under this section:
+13 (1) [may not exceed $500 for] WITH RESPECT TO each insured
+14 INDIVIDUAL covered by long–term care insurance for which the [individual] TAXPAYER
+15 pays the premiums, MAY NOT EXCEED THE LESSER OF:
+16 (I) 15% OF THE ELIGIBLE LONG–TERM CARE PREMIUMS PAID
+17 DURING THE TAXABLE YEAR; OR
+18 (II) $1,500;
+19 (2) may not be claimed by more than one taxpayer with respect to the same
+20 insured individual; and
+21 (3) may not be claimed with respect to an insured individual if[:
+22 (i)] the insured individual was covered by long–term care insurance
+23 PURCHASED at any time [before July 1, 2000; or
+24 (ii) the credit has been claimed with respect to that insured
+25 individual by any taxpayer for any prior taxable year] AFTER DECEMBER 31, 2004.
+26 (d) (1) The total amount of the credit allowed under this section for any taxable
+27 year may not exceed the State income tax for that taxable year, calculated before
+28 application of the credits under this section and §§ 10–701 and 10–701.1 of this subtitle,
+29 but after application of the other credits allowable under this subtitle.
+30 (2) The unused amount of the credit for any taxable year may not be carried
+SENATE BILL 155 3
+1 over to any other taxable year.
+2 (e) The credit allowed under this section does not affect the treatment under this
+3 title of any deduction or exclusion allowed for federal income tax purposes for the eligible
+4 long–term care premiums paid by the individual.
+5 (f) On or before December 1, 2005, and each December 1 thereafter, the
+6 Comptroller shall report to the Governor and, subject to § 2–1257 of the State Government
+7 Article, to the General Assembly, regarding the credit allowed under this section, including:
+8 (1) the number of individuals who have claimed the credit, the amount
+9 allowed as credits, and the additional number of individuals covered by long–term care
+10 insurance as a result of the credit; and
+11 (2) the savings under the State’s Medical Assistance Program as a result
+12 of additional individuals being covered by long–term care insurance as a result of the credit.
+13 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+14 1, 2025, and shall be applicable to all taxable years beginning after December 31, 2024.
+[DELETED: :CA      5 ( C A I ( F S t p B  A S  A  (  S T A 1  (  I t sn, “e)[ F W H T      “ p c   “T”:R ]
+[DELETED:  S   () 85;I  D   ()IIN  AM:   1 $0L   2 $0.  ( A i]SU T T L O T SN A   t e l c p p b t il d tT t y f l c i c t il o tT] is R  ( T   ( m n e $ fr e iW R TL    il p:  () 1% GTR   () $ ;   ( m i   ( mf:    () t   b    ( t c h b c w r t t i ir.D3,2 E   ( ( T y m n e t S i t f t t y c b a b   ( T]
+[DELETED: S 3 o  ( T t l  ( O o b D 1 2 a e D 1 t t C A   ( t a i   ( t o  S 1]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 155
+Q3 5lr1219
+SB 86/24 – B&T (PRE–FILED) CF 5lr1260
+By: Senators Bailey and Klausmeier
+Requested: October 15, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Income Tax – Credit for Long–Term Care Premiums
+3 (Long–Term Care Relief Act of 2025)
+4 FOR the purpose of altering eligibility for and the maximum amount of a credit against the
+5 State income tax for certain long–term care insurance premiums paid by a certain
+6 taxpayer; and generally relating to an income tax credit for eligible long–term care
+7 premiums.
+8 BY repealing and reenacting, with amendments,
+9 Article – Tax – General
+10 Section 10–718
+11 Annotated Code of Maryland
+12 (2022 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Tax – General
+16 10–718.
+17 (a) (1) In this section[, “eligible] THE FOLLOWING WORDS HAVE THE
+18 MEANINGS INDICATED.
+19 (2) “ELIGIBLE long–term care premiums” means eligible long–term care
+20 premiums within the meaning of § 213(d)(10) of the Internal Revenue Code for a long–term
+21 care insurance contract covering an individual who is a Maryland resident.
+22 (3) “TAXPAYER” MEANS A TAXPAYER WHO:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0155*
+
+2 SENATE BILL 155
+1 (I) IS AT LEAST 85 YEARS OLD; AND
+2 (II) IN THE TAXABLE YEAR FOR WHICH A CREDIT IS CLAIMED
+3 UNDER THIS SECTION, HAS MARYLAND ADJUSTED GROSS INCOME OF LESS THAN:
+4 1. $100,000 FOR A TAXPAYER FILING AS AN INDIVIDUAL;
+5 OR
+6 2. $200,000 FOR A TAXPAYER FILING A JOINT RETURN.
+7 (b) [An individual] SUBJECT TO THE LIMITATIONS OF THIS SECTION, A
+8 TAXPAYER may claim a credit against the State income tax in an amount equal to 100% of
+9 the eligible long–term care premiums paid by the [individual] TAXPAYER during the
+10 taxable year for long–term care insurance covering the [individual] TAXPAYER or the
+11 [individual’s] TAXPAYER’S spouse, parent, stepparent, child, or stepchild.
+12 (c) The credit allowed under this section:
+13 (1) [may not exceed $500 for] WITH RESPECT TO each insured
+14 INDIVIDUAL covered by long–term care insurance for which the [individual] TAXPAYER
+15 pays the premiums, MAY NOT EXCEED THE LESSER OF:
+16 (I) 15% OF THE ELIGIBLE LONG–TERM CARE PREMIUMS PAID
+17 DURING THE TAXABLE YEAR; OR
+18 (II) $1,500;
+19 (2) may not be claimed by more than one taxpayer with respect to the same
+20 insured individual; and
+21 (3) may not be claimed with respect to an insured individual if[:
+22 (i)] the insured individual was covered by long–term care insurance
+23 PURCHASED at any time [before July 1, 2000; or
+24 (ii) the credit has been claimed with respect to that insured
+25 individual by any taxpayer for any prior taxable year] AFTER DECEMBER 31, 2004.
+26 (d) (1) The total amount of the credit allowed under this section for any taxable
+27 year may not exceed the State income tax for that taxable year, calculated before
+28 application of the credits under this section and §§ 10–701 and 10–701.1 of this subtitle,
+29 but after application of the other credits allowable under this subtitle.
+30 (2) The unused amount of the credit for any taxable year may not be carried
+
+SENATE BILL 155 3
+1 over to any other taxable year.
+2 (e) The credit allowed under this section does not affect the treatment under this
+3 title of any deduction or exclusion allowed for federal income tax purposes for the eligible
+4 long–term care premiums paid by the individual.
+5 (f) On or before December 1, 2005, and each December 1 thereafter, the
+6 Comptroller shall report to the Governor and, subject to § 2–1257 of the State Government
+7 Article, to the General Assembly, regarding the credit allowed under this section, including:
+8 (1) the number of individuals who have claimed the credit, the amount
+9 allowed as credits, and the additional number of individuals covered by long–term care
+10 insurance as a result of the credit; and
+11 (2) the savings under the State’s Medical Assistance Program as a result
+12 of additional individuals being covered by long–term care insurance as a result of the credit.
+13 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+14 1, 2025, and shall be applicable to all taxable years beginning after December 31, 2024.
+
+[DELETED: :CA      5 ( C A I ( F S t p B  A S  A  (  S T A 1  (  I t sn, “e)[ F W H T      “ p c   “T”:R ]
+[DELETED:  S   () 85;I  D   ()IIN  AM:   1 $0L   2 $0.  ( A i]SU T T L O T SN A   t e l c p p b t il d tT t y f l c i c t il o tT] is R  ( T   ( m n e $ fr e iW R TL    il p:  () 1% GTR   () $ ;   ( m i   ( mf:    () t   b    ( t c h b c w r t t i ir.D3,2 E   ( ( T y m n e t S i t f t t y c b a b   ( T]
+[DELETED: S 3 o  ( T t l  ( O o b D 1 2 a e D 1 t t C A   ( t a i   ( t o  S 1]

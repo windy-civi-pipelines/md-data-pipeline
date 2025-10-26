@@ -1,0 +1,246 @@
+Title: HOUSE BILL 697
+Official Title: HOUSE BILL 697
+Number of Sections: 1
+Source: versions - First - Health Insurance - Artificial Intelligence, Adverse Decisions, and Grievances - Reporting Requirements
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+J5 5lr2201
+By: Delegates Woods, Acevero, Alston, Conaway, Crutchfield, Ghrist, Holmes,
+Ivey, Kaiser, Kaufman, R. Lewis, J. Long, Martinez, McCaskill, Pasteur,
+Phillips, Roberson, Roberts, Ruff, Ruth, Simmons, Solomon, Taveras,
+Taylor, Valderrama, Wells, and Williams
+Introduced and read first time: January 24, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Health Insurance – Artificial Intelligence, Adverse Decisions, and Grievances –
+3 Reporting Requirements
+4 FOR the purpose of requiring a health insurance carrier to submit quarterly reports to the
+5 Maryland Insurance Commissioner on certain information related to the carrier’s
+6 use of artificial intelligence or automated decision–making systems; altering the
+7 information related to adverse decisions and grievances carriers are required to
+8 report to the Commissioner; and generally relating to health insurance, artificial
+9 intelligence, adverse decisions, and grievances.
+10 BY adding to
+11 Article – Insurance
+12 Section 15–147
+13 Annotated Code of Maryland
+14 (2017 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Insurance
+17 Section 15–10A–06
+18 Annotated Code of Maryland
+19 (2017 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Insurance
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0697*
+2 HOUSE BILL 697
+1 15–147.
+2 ON A QUARTERLY BASIS, EACH CARRIER SHALL SUBMIT TO THE
+3 COMMISSIONER A REPORT ON THE CREATION, DEPLOYMENT, AND USE OF
+4 ARTIFICIAL INTELLIGENCE OR AUTOMATED DECISION–MAKING SYSTEMS BY THE
+5 CARRIER, INCLUDING INFORMATION ON:
+6 (1) WHEN AND FOR WHAT PURPOSE THE ARTIFICIAL INTELLIGENCE
+7 OR AUTOMATED DECISION–MAKING SYSTEM IS BEING USED;
+8 (2) THE PERSON RESPONSIBLE FOR TRAINING THE ARTIFICIAL
+9 INTELLIGENCE OR AUTOMATED DECISION–MAKING SYSTEM;
+10 (3) THE MAJOR SOURCES OF DATA, EXPERTISE, AND METHODS USED
+11 TO TRAIN THE ARTIFICIAL INTELLIGENCE OR AUTOMATED DECISION–MAKING
+12 SYSTEM;
+13 (4) ADDITIONAL GUIDANCE USED BY THE ARTIFICIAL INTELLIGENCE
+14 OR AUTOMATED DECISION–MAKING SYSTEM TO MAKE RECOMMENDATIONS,
+15 INCLUDING OUTCOMES AND HOW THEY ALIGNED WITH HUMAN EXPECTATIONS AND
+16 VALUES; AND
+17 (5) TESTS PERFORMED TO IDENTIFY BIAS IN THE ARTIFICIAL
+18 INTELLIGENCE OR AUTOMATED DECISION–MAKING SYSTEM AND THE STEPS TAKEN
+19 TO PROACTIVELY ADDRESS ANY ISSUES OF BIAS, INCLUDING ANY NEW DATA SETS
+20 USED TO TRAIN THE ARTIFICIAL INTELLIGENCE OR AUTOMATED DECISION–MAKING
+21 SYSTEM.
+22 15–10A–06.
+23 (a) On a quarterly basis, each carrier shall submit to the Commissioner, on the
+24 form the Commissioner requires, a report that describes:
+25 (1) the number of members entitled to health care benefits under a policy,
+26 plan, or certificate issued or delivered in the State by the carrier;
+27 (2) the number of clean claims for reimbursement processed by the carrier,
+28 AGGREGATED BY ZIP CODE, RACE, ETHNICITY, GENDER, AND AGE OF MEMBERS;
+29 (3) the activities of the carrier under this subtitle, including:
+30 (I) THE NUMBER OF GRIEVANCES FILED WITH THE CARRIER,
+31 AGGREGATED BY ZIP CODE, RACE, ETHNICITY, GENDER, AND AGE OF MEMBERS;
+HOUSE BILL 697 3
+1 [(i)] (II) the outcome of each grievance filed with the carrier,
+2 AGGREGATED BY ZIP CODE, RACE, ETHNICITY, GENDER, AND AGE OF MEMBERS;
+3 [(ii)] (III) the number and outcomes of cases that were considered
+4 emergency cases under § 15–10A–02(b)(2)(i) of this subtitle;
+5 [(iii)] (IV) the time within which the carrier made a grievance
+6 decision on each emergency case;
+7 [(iv)] (V) the time within which the carrier made a grievance
+8 decision on all other cases that were not considered emergency cases;
+9 [(v)] (VI) the number of grievances filed with the carrier that
+10 resulted from an adverse decision involving length of stay for inpatient hospitalization as
+11 related to the medical procedure involved;
+12 [(vi)] (VII) the number of adverse decisions issued by the carrier
+13 under § 15–10A–02(f) of this subtitle, whether the adverse decision involved a prior
+14 authorization or step therapy protocol, and the type of service at issue in the adverse
+15 decisions, AGGREGATED BY ZIP CODE, RACE, ETHNICITY, GENDER, AND AGE OF
+16 MEMBERS;
+17 [(vii)] (VIII) the number of adverse decisions overturned after a
+18 reconsideration request under § 15–10B–06 of this title; [and]
+19 [(viii)] (IX) the number of requests made and granted under §
+20 15–831(c)(1) and (2) of this title; and
+21 (X) THE MONETARY VALUE OF EACH GRIEVANCE DECISION
+22 MADE BY THE CARRIER AND THE OUTCOME OF THE DECISION;
+23 (4) THE AVERAGE HOLD TIME AND THE AVERAGE TOTAL TIME FOR
+24 CALLS MADE TO THE CARRIER’S GRIEVANCE AND APPEAL CALL CENTERS,
+25 AGGREGATED BY EMERGENCY AND NONEMERGENCY CASES;
+26 [(4)] (5) the number and outcome of all other cases that are not subject to
+27 activities of the carrier under this subtitle that resulted from an adverse decision involving
+28 the length of stay for inpatient hospitalization as related to the medical procedure involved;
+29 AND
+30 (6) THE MONETARY VALUE OF CASES FOR WHICH AN ADVERSE
+31 DECISION WAS ISSUED THAT ARE NOT SUBJECT TO THE ACTIVITIES OF THE CARRIER
+32 UNDER THIS SUBTITLE.
+33 (b) The Commissioner shall:
+4 HOUSE BILL 697
+1 (1) compile an annual summary report based on the information provided:
+2 (i) under subsection (a) of this section; and
+3 (ii) by the Secretary under § 19–705.2(e) of the Health – General
+4 Article;
+5 (2) report any violations or actions taken under § 15–10B–11 of this title;
+6 and
+7 (3) provide copies of the summary report to the Governor and, subject to §
+8 2–1257 of the State Government Article, to the General Assembly.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2025.
+[DELETED: :CA      5     D W A A C C G H K K R J M M P R R R R S S T A H R F M u o a i o a d s a t i r t a d a g c a r t r i B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  H O A Q BS E C S S T T, A R O T CN DT A U O I O A DNM S B TR : (NMD; ( P R F T T ANM; ( ,A E  T T A I O A DNM ( A DNM S T M RSS  ( P T I B I T ANMS NMM 1  ( O f   ( t p   ( tE E Y R ,, ;   ( t   ) TRE E Y R ,,,;]
+[DELETED: H 3    ()  t o o e g f w t c]()IE E Y R ,, ;    ()  t]( e    ()  t t w w t c m a g]( d    ()  t t w w t c m a g]( d    ()  t n o g f w t c t]( r r    ()  t n o a d i b t c]( u § 1 o t s w t a d i a p a o s t p a t t o s a i i t a d,,,A B Z CE RE EY GR A A O ;    ()   n o a d o a a]() r ad    ()  t n o r m a g u §]( 1   )T M V O E G DN  ( M T T CRS G A A C CS   ()  t]( a t ( M V O C F W A A .  ( T]
+[DELETED:  H    ( c    ( u    ( b A   ( r a   ( p 2  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 697
+J5 5lr2201
+By: Delegates Woods, Acevero, Alston, Conaway, Crutchfield, Ghrist, Holmes,
+Ivey, Kaiser, Kaufman, R. Lewis, J. Long, Martinez, McCaskill, Pasteur,
+Phillips, Roberson, Roberts, Ruff, Ruth, Simmons, Solomon, Taveras,
+Taylor, Valderrama, Wells, and Williams
+Introduced and read first time: January 24, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Health Insurance – Artificial Intelligence, Adverse Decisions, and Grievances –
+3 Reporting Requirements
+4 FOR the purpose of requiring a health insurance carrier to submit quarterly reports to the
+5 Maryland Insurance Commissioner on certain information related to the carrier’s
+6 use of artificial intelligence or automated decision–making systems; altering the
+7 information related to adverse decisions and grievances carriers are required to
+8 report to the Commissioner; and generally relating to health insurance, artificial
+9 intelligence, adverse decisions, and grievances.
+10 BY adding to
+11 Article – Insurance
+12 Section 15–147
+13 Annotated Code of Maryland
+14 (2017 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Insurance
+17 Section 15–10A–06
+18 Annotated Code of Maryland
+19 (2017 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Insurance
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0697*
+
+2 HOUSE BILL 697
+1 15–147.
+2 ON A QUARTERLY BASIS, EACH CARRIER SHALL SUBMIT TO THE
+3 COMMISSIONER A REPORT ON THE CREATION, DEPLOYMENT, AND USE OF
+4 ARTIFICIAL INTELLIGENCE OR AUTOMATED DECISION–MAKING SYSTEMS BY THE
+5 CARRIER, INCLUDING INFORMATION ON:
+6 (1) WHEN AND FOR WHAT PURPOSE THE ARTIFICIAL INTELLIGENCE
+7 OR AUTOMATED DECISION–MAKING SYSTEM IS BEING USED;
+8 (2) THE PERSON RESPONSIBLE FOR TRAINING THE ARTIFICIAL
+9 INTELLIGENCE OR AUTOMATED DECISION–MAKING SYSTEM;
+10 (3) THE MAJOR SOURCES OF DATA, EXPERTISE, AND METHODS USED
+11 TO TRAIN THE ARTIFICIAL INTELLIGENCE OR AUTOMATED DECISION–MAKING
+12 SYSTEM;
+13 (4) ADDITIONAL GUIDANCE USED BY THE ARTIFICIAL INTELLIGENCE
+14 OR AUTOMATED DECISION–MAKING SYSTEM TO MAKE RECOMMENDATIONS,
+15 INCLUDING OUTCOMES AND HOW THEY ALIGNED WITH HUMAN EXPECTATIONS AND
+16 VALUES; AND
+17 (5) TESTS PERFORMED TO IDENTIFY BIAS IN THE ARTIFICIAL
+18 INTELLIGENCE OR AUTOMATED DECISION–MAKING SYSTEM AND THE STEPS TAKEN
+19 TO PROACTIVELY ADDRESS ANY ISSUES OF BIAS, INCLUDING ANY NEW DATA SETS
+20 USED TO TRAIN THE ARTIFICIAL INTELLIGENCE OR AUTOMATED DECISION–MAKING
+21 SYSTEM.
+22 15–10A–06.
+23 (a) On a quarterly basis, each carrier shall submit to the Commissioner, on the
+24 form the Commissioner requires, a report that describes:
+25 (1) the number of members entitled to health care benefits under a policy,
+26 plan, or certificate issued or delivered in the State by the carrier;
+27 (2) the number of clean claims for reimbursement processed by the carrier,
+28 AGGREGATED BY ZIP CODE, RACE, ETHNICITY, GENDER, AND AGE OF MEMBERS;
+29 (3) the activities of the carrier under this subtitle, including:
+30 (I) THE NUMBER OF GRIEVANCES FILED WITH THE CARRIER,
+31 AGGREGATED BY ZIP CODE, RACE, ETHNICITY, GENDER, AND AGE OF MEMBERS;
+
+HOUSE BILL 697 3
+1 [(i)] (II) the outcome of each grievance filed with the carrier,
+2 AGGREGATED BY ZIP CODE, RACE, ETHNICITY, GENDER, AND AGE OF MEMBERS;
+3 [(ii)] (III) the number and outcomes of cases that were considered
+4 emergency cases under § 15–10A–02(b)(2)(i) of this subtitle;
+5 [(iii)] (IV) the time within which the carrier made a grievance
+6 decision on each emergency case;
+7 [(iv)] (V) the time within which the carrier made a grievance
+8 decision on all other cases that were not considered emergency cases;
+9 [(v)] (VI) the number of grievances filed with the carrier that
+10 resulted from an adverse decision involving length of stay for inpatient hospitalization as
+11 related to the medical procedure involved;
+12 [(vi)] (VII) the number of adverse decisions issued by the carrier
+13 under § 15–10A–02(f) of this subtitle, whether the adverse decision involved a prior
+14 authorization or step therapy protocol, and the type of service at issue in the adverse
+15 decisions, AGGREGATED BY ZIP CODE, RACE, ETHNICITY, GENDER, AND AGE OF
+16 MEMBERS;
+17 [(vii)] (VIII) the number of adverse decisions overturned after a
+18 reconsideration request under § 15–10B–06 of this title; [and]
+19 [(viii)] (IX) the number of requests made and granted under §
+20 15–831(c)(1) and (2) of this title; and
+21 (X) THE MONETARY VALUE OF EACH GRIEVANCE DECISION
+22 MADE BY THE CARRIER AND THE OUTCOME OF THE DECISION;
+23 (4) THE AVERAGE HOLD TIME AND THE AVERAGE TOTAL TIME FOR
+24 CALLS MADE TO THE CARRIER’S GRIEVANCE AND APPEAL CALL CENTERS,
+25 AGGREGATED BY EMERGENCY AND NONEMERGENCY CASES;
+26 [(4)] (5) the number and outcome of all other cases that are not subject to
+27 activities of the carrier under this subtitle that resulted from an adverse decision involving
+28 the length of stay for inpatient hospitalization as related to the medical procedure involved;
+29 AND
+30 (6) THE MONETARY VALUE OF CASES FOR WHICH AN ADVERSE
+31 DECISION WAS ISSUED THAT ARE NOT SUBJECT TO THE ACTIVITIES OF THE CARRIER
+32 UNDER THIS SUBTITLE.
+33 (b) The Commissioner shall:
+
+4 HOUSE BILL 697
+1 (1) compile an annual summary report based on the information provided:
+2 (i) under subsection (a) of this section; and
+3 (ii) by the Secretary under § 19–705.2(e) of the Health – General
+4 Article;
+5 (2) report any violations or actions taken under § 15–10B–11 of this title;
+6 and
+7 (3) provide copies of the summary report to the Governor and, subject to §
+8 2–1257 of the State Government Article, to the General Assembly.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2025.
+
+[DELETED: :CA      5     D W A A C C G H K K R J M M P R R R R S S T A H R F M u o a i o a d s a t i r t a d a g c a r t r i B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  H O A Q BS E C S S T T, A R O T CN DT A U O I O A DNM S B TR : (NMD; ( P R F T T ANM; ( ,A E  T T A I O A DNM ( A DNM S T M RSS  ( P T I B I T ANMS NMM 1  ( O f   ( t p   ( tE E Y R ,, ;   ( t   ) TRE E Y R ,,,;]
+[DELETED: H 3    ()  t o o e g f w t c]()IE E Y R ,, ;    ()  t]( e    ()  t t w w t c m a g]( d    ()  t t w w t c m a g]( d    ()  t n o g f w t c t]( r r    ()  t n o a d i b t c]( u § 1 o t s w t a d i a p a o s t p a t t o s a i i t a d,,,A B Z CE RE EY GR A A O ;    ()   n o a d o a a]() r ad    ()  t n o r m a g u §]( 1   )T M V O E G DN  ( M T T CRS G A A C CS   ()  t]( a t ( M V O C F W A A .  ( T]
+[DELETED:  H    ( c    ( u    ( b A   ( r a   ( p 2  S A B I F E T t A s t e O]

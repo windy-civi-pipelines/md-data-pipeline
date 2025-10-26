@@ -1,0 +1,230 @@
+Title: SENATE BILL 987
+Official Title: SENATE BILL 987
+Number of Sections: 1
+Source: versions - First - Artificial Intelligence - Health Software and Health Insurance Decision Making
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+J1, J5, S1 5lr2205
+By: Senator Lam
+Introduced and read first time: January 28, 2025
+Assigned to: Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Artificial Intelligence – Health Software and Health Insurance Decision Making
+3 FOR the purpose of requiring the Maryland Health Care Commission to maintain a registry
+4 of artificial intelligence health software that may be distributed or operated in the
+5 State; prohibiting a person from distributing or operating artificial intelligence
+6 health software unless the software is registered with the Commission; prohibiting
+7 a health insurance carrier from using artificial intelligence to decide or directly
+8 influence a health care decision or a decision directly related to health care; and
+9 generally relating to artificial intelligence in health care.
+10 BY repealing and reenacting, without amendments,
+11 Article – Health – General
+12 Section 19–101
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Health – General
+17 Section 19–150 to be under the new part “Part VI. Artificial Intelligence Health
+18 Software”
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Insurance
+23 Section 15–147
+24 Annotated Code of Maryland
+25 (2017 Replacement Volume and 2024 Supplement)
+26 BY repealing and reenacting, without amendments,
+27 Article – State Finance and Procurement
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0987*
+2 SENATE BILL 987
+1 Section 3.5–801(a) and (c)
+2 Annotated Code of Maryland
+3 (2021 Replacement Volume and 2024 Supplement)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Health – General
+7 19–101.
+8 In this subtitle, “Commission” means the Maryland Health Care Commission.
+9 PART VI. ARTIFICIAL INTELLIGENCE HEALTH SOFTWARE.
+10 19–150.
+11 (A) THE COMMISSION SHALL MAINTAIN A REGISTRY OF ARTIFICIAL
+12 INTELLIGENCE HEALTH SOFTWARE THAT MAY BE DISTRIBUTED OR OPERATED IN
+13 THE STATE.
+14 (B) A PERSON MAY NOT DISTRIBUTE OR OPERATE ARTIFICIAL
+15 INTELLIGENCE HEALTH SOFTWARE IN THE STATE UNLESS THE SOFTWARE IS
+16 REGISTERED WITH THE COMMISSION.
+17 (C) THE COMMISSION SHALL ADOPT REGULATIONS THAT:
+18 (1) DEFINE ARTIFICIAL INTELLIGENCE HEALTH SOFTWARE;
+19 (2) DETERMINE THE INFORMATION ABOUT ARTIFICIAL
+20 INTELLIGENCE HEALTH SOFTWARE TO BE COLLECTED FOR THE REGISTRY; AND
+21 (3) SET A REGISTRATION DEADLINE FOR WHEN THE COMMISSION
+22 WILL BEGIN TO ISSUE FINES TO A PERSON THAT DISTRIBUTES OR OPERATES
+23 UNREGISTERED ARTIFICIAL INTELLIGENCE HEALTH SOFTWARE IN THE STATE.
+24 (D) (1) IF A PERSON DISTRIBUTES OR OPERATES UNREGISTERED
+25 ARTIFICIAL INTELLIGENCE HEALTH SOFTWARE IN THE STATE, THE COMMISSION
+26 MAY FINE THE PERSON UP TO $10,000 FOR EACH DAY THE VIOLATION OCCURRED.
+27 (2) THE AMOUNT OF THE FINE IMPOSED BY THE COMMISSION UNDER
+28 PARAGRAPH (1) OF THIS SUBSECTION SHALL BE BASED ON:
+SENATE BILL 987 3
+1 (I) THE EXTENT OF ACTUAL OR POTENTIAL HARM RELATED TO
+2 THE VIOLATION;
+3 (II) THE COST OF INVESTIGATING THE VIOLATION; AND
+4 (III) WHETHER THE PERSON COMMITTED PREVIOUS
+5 VIOLATIONS OF THIS SECTION.
+6 Article – Insurance
+7 15–147.
+8 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+9 INDICATED.
+10 (2) “ARTIFICIAL INTELLIGENCE” HAS THE MEANING STATED IN §
+11 3.5–801 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+12 (3) “CARRIER” MEANS:
+13 (I) AN INSURER;
+14 (II) A NONPROFIT HEALTH SERVICE PLAN;
+15 (III) A HEALTH MAINTENANCE ORGANIZATION;
+16 (IV) A DENTAL PLAN ORGANIZATION; OR
+17 (V) ANY OTHER PERSON THAT PROVIDES HEALTH BENEFIT
+18 PLANS SUBJECT TO REGULATION BY THE STATE.
+19 (B) A CARRIER MAY NOT USE ARTIFICIAL INTELLIGENCE TO DECIDE OR
+20 DIRECTLY INFLUENCE A HEALTH CARE DECISION OR A DECISION DIRECTLY
+21 RELATED TO HEALTH CARE.
+22 (C) THIS SECTION MAY NOT BE CONSTRUED TO PROHIBIT A CARRIER FROM
+23 USING ARTIFICIAL INTELLIGENCE TO PERFORM TASKS OR MAKE DECISIONS THAT
+24 ARE NOT RELATED TO HEALTH CARE.
+25 Article – State Finance and Procurement
+26 3.5–801.
+27 (a) In this subtitle the following words have the meanings indicated.
+4 SENATE BILL 987
+1 (c) “Artificial intelligence” means a machine–based system that:
+2 (1) can, for a given set of human–defined objectives, make predictions,
+3 recommendations, or decisions influencing real or virtual environments;
+4 (2) uses machine and human–based inputs to perceive real and virtual
+5 environments and abstracts those perceptions into models through analysis in an
+6 automated manner; and
+7 (3) uses model inference to formulate options for information or action.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 October 1, 2025.
+[DELETED: :CA      5     A A F o S p a p f d o o a i h a h i c f u a i t d o d i g B  A S  A  ( B  A S p S  A  ( B  A S  A  ( B  A]
+[DELETED:  S  S  A  (  S T A 1  IV.AIHS.  R N E O() TH O S M A R O A T.()  P M N D O O A H S I T T U T S I O.() TC:H O ( D; (  T I A AY  ( S A R D F W T O B T I F T A P T D O O T.() ( F A P D O O U I TE  O,  0. ( T O  ):]
+[DELETED: S 3  () H  () T;IHN   () IH T P C P A () ( N ( “A”§ IE H T M S I 1SFPA. T I R R ( “C”:R   () ;A  () ;IA  () ;IA  () ;VAN   ()A O P T P H B T.()  C M N U A I T D O I A H C D O A D D() H A 3  ( I]
+[DELETED:  S   ( “   ( c f a g s o h o m p r   ( u m a h i t p r a v e a a t p i m t a i a a   ( u  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 987
+J1, J5, S1 5lr2205
+By: Senator Lam
+Introduced and read first time: January 28, 2025
+Assigned to: Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Artificial Intelligence – Health Software and Health Insurance Decision Making
+3 FOR the purpose of requiring the Maryland Health Care Commission to maintain a registry
+4 of artificial intelligence health software that may be distributed or operated in the
+5 State; prohibiting a person from distributing or operating artificial intelligence
+6 health software unless the software is registered with the Commission; prohibiting
+7 a health insurance carrier from using artificial intelligence to decide or directly
+8 influence a health care decision or a decision directly related to health care; and
+9 generally relating to artificial intelligence in health care.
+10 BY repealing and reenacting, without amendments,
+11 Article – Health – General
+12 Section 19–101
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Health – General
+17 Section 19–150 to be under the new part “Part VI. Artificial Intelligence Health
+18 Software”
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Insurance
+23 Section 15–147
+24 Annotated Code of Maryland
+25 (2017 Replacement Volume and 2024 Supplement)
+26 BY repealing and reenacting, without amendments,
+27 Article – State Finance and Procurement
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0987*
+
+2 SENATE BILL 987
+1 Section 3.5–801(a) and (c)
+2 Annotated Code of Maryland
+3 (2021 Replacement Volume and 2024 Supplement)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Health – General
+7 19–101.
+8 In this subtitle, “Commission” means the Maryland Health Care Commission.
+9 PART VI. ARTIFICIAL INTELLIGENCE HEALTH SOFTWARE.
+10 19–150.
+11 (A) THE COMMISSION SHALL MAINTAIN A REGISTRY OF ARTIFICIAL
+12 INTELLIGENCE HEALTH SOFTWARE THAT MAY BE DISTRIBUTED OR OPERATED IN
+13 THE STATE.
+14 (B) A PERSON MAY NOT DISTRIBUTE OR OPERATE ARTIFICIAL
+15 INTELLIGENCE HEALTH SOFTWARE IN THE STATE UNLESS THE SOFTWARE IS
+16 REGISTERED WITH THE COMMISSION.
+17 (C) THE COMMISSION SHALL ADOPT REGULATIONS THAT:
+18 (1) DEFINE ARTIFICIAL INTELLIGENCE HEALTH SOFTWARE;
+19 (2) DETERMINE THE INFORMATION ABOUT ARTIFICIAL
+20 INTELLIGENCE HEALTH SOFTWARE TO BE COLLECTED FOR THE REGISTRY; AND
+21 (3) SET A REGISTRATION DEADLINE FOR WHEN THE COMMISSION
+22 WILL BEGIN TO ISSUE FINES TO A PERSON THAT DISTRIBUTES OR OPERATES
+23 UNREGISTERED ARTIFICIAL INTELLIGENCE HEALTH SOFTWARE IN THE STATE.
+24 (D) (1) IF A PERSON DISTRIBUTES OR OPERATES UNREGISTERED
+25 ARTIFICIAL INTELLIGENCE HEALTH SOFTWARE IN THE STATE, THE COMMISSION
+26 MAY FINE THE PERSON UP TO $10,000 FOR EACH DAY THE VIOLATION OCCURRED.
+27 (2) THE AMOUNT OF THE FINE IMPOSED BY THE COMMISSION UNDER
+28 PARAGRAPH (1) OF THIS SUBSECTION SHALL BE BASED ON:
+
+SENATE BILL 987 3
+1 (I) THE EXTENT OF ACTUAL OR POTENTIAL HARM RELATED TO
+2 THE VIOLATION;
+3 (II) THE COST OF INVESTIGATING THE VIOLATION; AND
+4 (III) WHETHER THE PERSON COMMITTED PREVIOUS
+5 VIOLATIONS OF THIS SECTION.
+6 Article – Insurance
+7 15–147.
+8 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+9 INDICATED.
+10 (2) “ARTIFICIAL INTELLIGENCE” HAS THE MEANING STATED IN §
+11 3.5–801 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+12 (3) “CARRIER” MEANS:
+13 (I) AN INSURER;
+14 (II) A NONPROFIT HEALTH SERVICE PLAN;
+15 (III) A HEALTH MAINTENANCE ORGANIZATION;
+16 (IV) A DENTAL PLAN ORGANIZATION; OR
+17 (V) ANY OTHER PERSON THAT PROVIDES HEALTH BENEFIT
+18 PLANS SUBJECT TO REGULATION BY THE STATE.
+19 (B) A CARRIER MAY NOT USE ARTIFICIAL INTELLIGENCE TO DECIDE OR
+20 DIRECTLY INFLUENCE A HEALTH CARE DECISION OR A DECISION DIRECTLY
+21 RELATED TO HEALTH CARE.
+22 (C) THIS SECTION MAY NOT BE CONSTRUED TO PROHIBIT A CARRIER FROM
+23 USING ARTIFICIAL INTELLIGENCE TO PERFORM TASKS OR MAKE DECISIONS THAT
+24 ARE NOT RELATED TO HEALTH CARE.
+25 Article – State Finance and Procurement
+26 3.5–801.
+27 (a) In this subtitle the following words have the meanings indicated.
+
+4 SENATE BILL 987
+1 (c) “Artificial intelligence” means a machine–based system that:
+2 (1) can, for a given set of human–defined objectives, make predictions,
+3 recommendations, or decisions influencing real or virtual environments;
+4 (2) uses machine and human–based inputs to perceive real and virtual
+5 environments and abstracts those perceptions into models through analysis in an
+6 automated manner; and
+7 (3) uses model inference to formulate options for information or action.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 October 1, 2025.
+
+[DELETED: :CA      5     A A F o S p a p f d o o a i h a h i c f u a i t d o d i g B  A S  A  ( B  A S p S  A  ( B  A S  A  ( B  A]
+[DELETED:  S  S  A  (  S T A 1  IV.AIHS.  R N E O() TH O S M A R O A T.()  P M N D O O A H S I T T U T S I O.() TC:H O ( D; (  T I A AY  ( S A R D F W T O B T I F T A P T D O O T.() ( F A P D O O U I TE  O,  0. ( T O  ):]
+[DELETED: S 3  () H  () T;IHN   () IH T P C P A () ( N ( “A”§ IE H T M S I 1SFPA. T I R R ( “C”:R   () ;A  () ;IA  () ;IA  () ;VAN   ()A O P T P H B T.()  C M N U A I T D O I A H C D O A D D() H A 3  ( I]
+[DELETED:  S   ( “   ( c f a g s o h o m p r   ( u m a h i t p r a v e a a t p i m t a i a a   ( u  S A B I F E T t A s t e O]

@@ -1,0 +1,193 @@
+Title: SENATE BILL 557
+Official Title: SENATE BILL 557
+Number of Sections: 1
+Source: versions - First - Vehicle-Miles-Traveled Tax and Associated Mandated Devices - Prohibition (Transportation Freedom Act of 2025)
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Q5, R6 5lr3115
+SB 331/20 – B&T CF 5lr1866
+By: Senators Ready, Bailey, Carozza, Corderman, Gallion, Folden, Hershey,
+Jennings, and McKay
+Introduced and read first time: January 23, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Vehicle–Miles–Traveled Tax and Associated Mandated Devices – Prohibition
+3 (Transportation Freedom Act of 2025)
+4 FOR the purpose of prohibiting the State or a local jurisdiction from imposing or levying a
+5 vehicle–miles–traveled tax or certain other similar fees, tolls, or taxes; prohibiting
+6 the State or a local jurisdiction from requiring the installation of a device in or on a
+7 privately owned vehicle to facilitate the reporting of vehicle miles traveled; and
+8 generally relating to a prohibition against a vehicle–miles–traveled tax and
+9 associated mandated devices.
+10 BY repealing and reenacting, without amendments,
+11 Article – Tax – General
+12 Section 9–205
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Tax – General
+17 Section 9–401 to be under the new subtitle “Subtitle 4. Vehicle–Miles–Traveled
+18 Tax – Prohibited”
+19 Annotated Code of Maryland
+20 (2022 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Transportation
+23 Section 22–107
+24 Annotated Code of Maryland
+25 (2020 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0557*
+2 SENATE BILL 557
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Tax – General
+4 9–205.
+5 (a) (1) The Comptroller may enter into reciprocal agreements on behalf of this
+6 State, with the duly authorized representatives of any other state, that provide for:
+7 (i) fuel tax registration of vehicles by motor carriers;
+8 (ii) establishment of periodic fuel use reporting and fuel use tax
+9 payment requirements by motor carriers; and
+10 (iii) disbursement of money that is collected by the Comptroller and
+11 is due to other states based on:
+12 1. mileage travelled and fuel used in those states; and
+13 2. the respective registration fees of those states.
+14 (2) The Comptroller may not enter into any reciprocal agreement that
+15 would affect:
+16 (i) this State’s motor carrier tax rate; or
+17 (ii) this State’s registration fee for motor carriers.
+18 (b) In exercising the authority granted under subsection (a) of this section, the
+19 Comptroller is expressly authorized to:
+20 (1) enter into regional or national fuel use tax agreements;
+21 (2) become a member of any regional or national conference, group,
+22 compact, or similar organization of motor carrier fuel use tax administrators; and
+23 (3) enforce the provisions set forth in any regional or national fuel use tax
+24 agreements.
+25 (c) The agreement provisions shall apply to the fuel use taxation, registration,
+26 and reporting requirements of motor carriers subject to the provisions of the agreement
+27 without reference to or application of any other statutes of this State.
+28 SUBTITLE 4. VEHICLE–MILES–TRAVELED TAX – PROHIBITED.
+29 9–401.
+SENATE BILL 557 3
+1 (A) SUBJECT TO SUBSECTION (B) OF THIS SECTION, THE STATE OR A LOCAL
+2 JURISDICTION MAY NOT DIRECTLY OR INDIRECTLY, INCLUDING THROUGH A
+3 THIRD–PARTY AGREEMENT OR AS PART OF A PILOT PROGRAM OR STUDY, IMPOSE OR
+4 LEVY:
+5 (1) A VEHICLE–MILES–TRAVELED TAX;
+6 (2) A MILEAGE–BASED USER FEE;
+7 (3) A TOLL BASED ON GLOBAL POSITIONING SATELLITE TRACKING;
+8 OR
+9 (4) ANY OTHER SIMILAR FORM OF TAX.
+10 (B) NOTHING IN THIS SECTION SHALL BE CONSTRUED TO PROHIBIT THE
+11 COMPTROLLER FROM ENTERING INTO AND THE STATE FROM ENFORCING AN
+12 AGREEMENT IN ACCORDANCE WITH § 9–205 OF THIS TITLE.
+13 Article – Transportation
+14 22–107.
+15 THE STATE OR A LOCAL JURISDICTION MAY NOT REQUIRE THE INSTALLATION
+16 OF A DEVICE IN OR ON A PRIVATELY OWNED VEHICLE TO FACILITATE THE
+17 REPORTING OF THE NUMBER OF VEHICLE MILES TRAVELED.
+18 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+19 October 1, 2025.
+[DELETED: :CA      5   C S R B C C G F H A V ( F v t p o v t f t r o v m t a g r t a p a a v t a a B  A S  A  ( B  A S 9 t b u t n s “ 4 V T  A  ( B  A S  A  (]
+[DELETED:  S   S T A 9  ( ( T S    ( f    ( e o p f u r a f u t p    ( d i     1 m     2 t   ( T C m n e i a r a t w    ( t    ( t  ( I C   ( e   ( b a m o a r o n c g c   ( e a  ( T a w4.V–M–TT–P.  EEISR A  R]
+[DELETED: S 3() S(),U B N  T M N D O IY I T ADPY  ( ––;EMST ( –;EB ( G ( .() O F E I A T T F E A   95. AT T A D I O O A P O V T F T   S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 557
+Q5, R6 5lr3115
+SB 331/20 – B&T CF 5lr1866
+By: Senators Ready, Bailey, Carozza, Corderman, Gallion, Folden, Hershey,
+Jennings, and McKay
+Introduced and read first time: January 23, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Vehicle–Miles–Traveled Tax and Associated Mandated Devices – Prohibition
+3 (Transportation Freedom Act of 2025)
+4 FOR the purpose of prohibiting the State or a local jurisdiction from imposing or levying a
+5 vehicle–miles–traveled tax or certain other similar fees, tolls, or taxes; prohibiting
+6 the State or a local jurisdiction from requiring the installation of a device in or on a
+7 privately owned vehicle to facilitate the reporting of vehicle miles traveled; and
+8 generally relating to a prohibition against a vehicle–miles–traveled tax and
+9 associated mandated devices.
+10 BY repealing and reenacting, without amendments,
+11 Article – Tax – General
+12 Section 9–205
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Tax – General
+17 Section 9–401 to be under the new subtitle “Subtitle 4. Vehicle–Miles–Traveled
+18 Tax – Prohibited”
+19 Annotated Code of Maryland
+20 (2022 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Transportation
+23 Section 22–107
+24 Annotated Code of Maryland
+25 (2020 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0557*
+
+2 SENATE BILL 557
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Tax – General
+4 9–205.
+5 (a) (1) The Comptroller may enter into reciprocal agreements on behalf of this
+6 State, with the duly authorized representatives of any other state, that provide for:
+7 (i) fuel tax registration of vehicles by motor carriers;
+8 (ii) establishment of periodic fuel use reporting and fuel use tax
+9 payment requirements by motor carriers; and
+10 (iii) disbursement of money that is collected by the Comptroller and
+11 is due to other states based on:
+12 1. mileage travelled and fuel used in those states; and
+13 2. the respective registration fees of those states.
+14 (2) The Comptroller may not enter into any reciprocal agreement that
+15 would affect:
+16 (i) this State’s motor carrier tax rate; or
+17 (ii) this State’s registration fee for motor carriers.
+18 (b) In exercising the authority granted under subsection (a) of this section, the
+19 Comptroller is expressly authorized to:
+20 (1) enter into regional or national fuel use tax agreements;
+21 (2) become a member of any regional or national conference, group,
+22 compact, or similar organization of motor carrier fuel use tax administrators; and
+23 (3) enforce the provisions set forth in any regional or national fuel use tax
+24 agreements.
+25 (c) The agreement provisions shall apply to the fuel use taxation, registration,
+26 and reporting requirements of motor carriers subject to the provisions of the agreement
+27 without reference to or application of any other statutes of this State.
+28 SUBTITLE 4. VEHICLE–MILES–TRAVELED TAX – PROHIBITED.
+29 9–401.
+
+SENATE BILL 557 3
+1 (A) SUBJECT TO SUBSECTION (B) OF THIS SECTION, THE STATE OR A LOCAL
+2 JURISDICTION MAY NOT DIRECTLY OR INDIRECTLY, INCLUDING THROUGH A
+3 THIRD–PARTY AGREEMENT OR AS PART OF A PILOT PROGRAM OR STUDY, IMPOSE OR
+4 LEVY:
+5 (1) A VEHICLE–MILES–TRAVELED TAX;
+6 (2) A MILEAGE–BASED USER FEE;
+7 (3) A TOLL BASED ON GLOBAL POSITIONING SATELLITE TRACKING;
+8 OR
+9 (4) ANY OTHER SIMILAR FORM OF TAX.
+10 (B) NOTHING IN THIS SECTION SHALL BE CONSTRUED TO PROHIBIT THE
+11 COMPTROLLER FROM ENTERING INTO AND THE STATE FROM ENFORCING AN
+12 AGREEMENT IN ACCORDANCE WITH § 9–205 OF THIS TITLE.
+13 Article – Transportation
+14 22–107.
+15 THE STATE OR A LOCAL JURISDICTION MAY NOT REQUIRE THE INSTALLATION
+16 OF A DEVICE IN OR ON A PRIVATELY OWNED VEHICLE TO FACILITATE THE
+17 REPORTING OF THE NUMBER OF VEHICLE MILES TRAVELED.
+18 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+19 October 1, 2025.
+
+[DELETED: :CA      5   C S R B C C G F H A V ( F v t p o v t f t r o v m t a g r t a p a a v t a a B  A S  A  ( B  A S 9 t b u t n s “ 4 V T  A  ( B  A S  A  (]
+[DELETED:  S   S T A 9  ( ( T S    ( f    ( e o p f u r a f u t p    ( d i     1 m     2 t   ( T C m n e i a r a t w    ( t    ( t  ( I C   ( e   ( b a m o a r o n c g c   ( e a  ( T a w4.V–M–TT–P.  EEISR A  R]
+[DELETED: S 3() S(),U B N  T M N D O IY I T ADPY  ( ––;EMST ( –;EB ( G ( .() O F E I A T T F E A   95. AT T A D I O O A P O V T F T   S A B I F E T t A s t e O]

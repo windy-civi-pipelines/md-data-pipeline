@@ -1,0 +1,605 @@
+Title: SENATE BILL 487
+Official Title: SENATE BILL 487
+Number of Sections: 1
+Source: versions - First - Procurement - Major Information Technology Development Projects
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+P2 5lr2860
+SB 832/20 – EHE
+By: Senators Jennings and Hester
+Introduced and read first time: January 22, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Procurement – Major Information Technology Development Projects
+3 FOR the purpose of requiring the Secretary of Information Technology to conduct a certain
+4 risk assessment of certain major information technology development projects under
+5 certain circumstances; authorizing the Secretary to recommend an increase in a
+6 certain limitation of liability amount under certain circumstances; requiring the
+7 Chief Procurement Officer to review a certain recommendation; authorizing the
+8 Chief Procurement Officer to approve a certain change to a certain limitation of
+9 liability; requiring a procurement contract for a major information technology
+10 development project to include certain terms and conditions; requiring the Chief
+11 Procurement Officer and the Secretary to study certain procurement processes of
+12 major information technology development projects with certain stakeholders and
+13 make certain recommendations; and generally relating to procurement and major
+14 information technology development projects.
+15 BY repealing and reenacting, without amendments,
+16 Article – State Finance and Procurement
+17 Section 3.5–301(a), (e), (h), and (k)
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – State Finance and Procurement
+22 Section 3.5–308 and 3.5–309(n)
+23 Annotated Code of Maryland
+24 (2021 Replacement Volume and 2024 Supplement)
+25 BY adding to
+26 Article – State Finance and Procurement
+27 Section 13–228
+28 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0487*
+2 SENATE BILL 487
+1 (2021 Replacement Volume and 2024 Supplement)
+2 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+3 That the Laws of Maryland read as follows:
+4 Article – State Finance and Procurement
+5 3.5–301.
+6 (a) In this subtitle the following words have the meanings indicated.
+7 (e) (1) “Development” means all expenditures for a new information
+8 technology system or an enhancement to an existing system including system:
+9 (i) planning;
+10 (ii) creation;
+11 (iii) installation;
+12 (iv) testing; and
+13 (v) initial training.
+14 (2) “Development” does not include:
+15 (i) ongoing operating costs, software or hardware maintenance,
+16 routine upgrades, or modifications that merely allow for a continuation of the existing level
+17 of functionality; or
+18 (ii) expenditures made after a new or enhanced system has been
+19 legally accepted by the user and is being used for the business process for which it was
+20 intended.
+21 (h) “Information technology” means all electronic information processing,
+22 including:
+23 (1) maintenance;
+24 (2) networking;
+25 (3) telecommunications;
+26 (4) hardware;
+27 (5) software and applications; and
+SENATE BILL 487 3
+1 (6) associated services.
+2 (k) (1) “Major information technology development project” means any
+3 information technology development project that meets one or more of the following
+4 criteria:
+5 (i) except as provided in paragraph (2) of this subsection, the
+6 estimated total cost of development equals or exceeds $5,000,000;
+7 (ii) the project is undertaken to support a critical business function
+8 associated with the public health, education, safety, or financial well–being of the residents
+9 of Maryland; or
+10 (iii) the Secretary determines that the project requires the special
+11 attention and consideration given to a major information technology development project
+12 due to:
+13 1. the significance of the project’s potential benefits or risks;
+14 2. the impact of the project on the public or local
+15 governments;
+16 3. the public visibility of the project; or
+17 4. other reasons as determined by the Secretary.
+18 (2) “Major information technology development project” does not include:
+19 (i) technology that is reoccurring, standard operating technology as
+20 determined by the Secretary and submitted to the Legislative Policy Committee for a
+21 30–day review and comment period; or
+22 (ii) a project with an estimated total cost of development that is:
+23 1. less than $5,000,000 and is funded with money set aside
+24 for expedited projects in the Fund; or
+25 2. more than $5,000,000 and is funded with the money set
+26 aside for expedited projects in the Fund if the Secretary determines that:
+27 A. the unit of State government has sufficient
+28 implementation resources, including human capital, subject matter expertise, and
+29 technological infrastructure, or has the means to obtain these resources before project
+30 initiation;
+31 B. there is no sufficient alternative within the State’s
+32 information technology inventory; and
+4 SENATE BILL 487
+1 C. the project will result in a comprehensive solution
+2 designed to meet a cohesive set of business and technological objectives.
+3 3.5–308.
+4 (a) This section does not apply to a public institution of higher education.
+5 (b) Before submitting its information technology project requests, a unit of State
+6 government shall submit information in support of the request required by the Secretary
+7 for review and determination consistent with § 3.5–301(k) of this subtitle.
+8 (c) In reviewing information technology project requests, the Secretary may
+9 change a unit’s designation of a major information technology development project.
+10 (d) (1) The Secretary shall review and, with the advice of the Secretary of
+11 Budget and Management, approve major information technology development projects and
+12 specifications for consistency with all statewide plans, policies, and standards, including a
+13 systems development life cycle plan.
+14 (2) (I) IF, AFTER A REVIEW UNDER PARAGRAPH (1) OF THIS
+15 SUBSECTION, THE SECRETARY BELIEVES A MAJOR INFORMATION TECHNOLOGY
+16 DEVELOPMENT PROJECT MAY PRESENT AN EXCEPTIONAL RISK TO THE STATE, THE
+17 SECRETARY SHALL CONDUCT A RISK ASSESSMENT PRIOR TO APPROVING THE
+18 MAJOR INFORMATION TECHNOLOGY DEVELOPMENT PROJECT.
+19 (II) A RISK ASSESSMENT CONDUCTED UNDER SUBPARAGRAPH
+20 (I) OF THIS PARAGRAPH SHALL CONSIDER THE NATURE, PROCESSING, AND USE OF
+21 SENSITIVE OR PERSONALLY IDENTIFIABLE INFORMATION.
+22 (III) IF THE RISK ASSESSMENT CONCLUDES THAT THE MAJOR
+23 INFORMATION TECHNOLOGY DEVELOPMENT PROJECT PRESENTS AN EXCEPTIONAL
+24 RISK TO THE STATE AND THE LIMITATION OF LIABILITY AMOUNT PROVIDED UNDER
+25 § 13–228 OF THIS ARTICLE IS NOT ADEQUATE TO PROTECT THE INTEREST OF THE
+26 STATE, THE SECRETARY MAY RECOMMEND THE UNIT INCREASE THE LIMITATION OF
+27 LIABILITY AMOUNT.
+28 (IV) A RECOMMENDATION MADE UNDER SUBPARAGRAPH (III)
+29 OF THIS PARAGRAPH SHALL:
+30 1. BE IN WRITING;
+31 2. DESCRIBE THE RISKS TO THE STATE;
+32 3. EXPLAIN THE REASONS THAT THE LIMITATIONS
+SENATE BILL 487 5
+1 REQUIRED UNDER § 13–228 OF THIS ARTICLE ARE NOT ADEQUATE TO MITIGATE THE
+2 RISKS DESCRIBED; AND
+3 4. RECOMMEND A REASONABLE MAXIMUM
+4 ALTERNATIVE LIMITATION OF LIABILITY AMOUNT, CALCULATED AS A MULTIPLE OF
+5 THE CONTRACT VALUE.
+6 (3) THE CHIEF PROCUREMENT OFFICER:
+7 (I) SHALL REVIEW A RECOMMENDATION MADE UNDER
+8 PARAGRAPH (2) OF THIS SUBSECTION; AND
+9 (II) MAY APPROVE A CHANGE TO THE LIMITATION OF LIABILITY
+10 REQUIRED UNDER § 13–228 OF THIS ARTICLE.
+11 (e) The Secretary shall be responsible for overseeing the implementation of major
+12 information technology development projects, regardless of fund source.
+13 (f) (1) With the advice of the Secretary of Budget and Management,
+14 expenditures for major information technology development projects shall be subject to the
+15 approval of the Secretary who shall approve expenditures only when those projects are
+16 consistent with statewide plans, policies, and standards.
+17 (2) The Secretary shall make a recommendation to the Secretary of Budget
+18 and Management that project funds, regardless of fund source, be withheld if:
+19 (i) a unit of State government is not consistently reporting on the
+20 status of a project or projects to the Department in the form and manner required by the
+21 Department; or
+22 (ii) the Department determines that project implementation issues
+23 exist, including project timeline delays, significant cost increases, vendor nonperformance,
+24 decreased agency capacity, or other issues that indicate issues of concern that could
+25 jeopardize successful implementation.
+26 (g) (1) The Secretary shall approve funding for major information technology
+27 development projects, expedited projects, and other expenditures from the Fund only when:
+28 (i) the major information technology development projects or the
+29 expedited projects are in compliance with statewide plans, policies, and standards, as
+30 determined by the Secretary; and
+31 (ii) the major information technology development projects are
+32 supported by an approved systems development life cycle plan.
+6 SENATE BILL 487
+1 (2) An approved systems development life cycle plan shall include
+2 submission of:
+3 (i) a project planning request that details initial planning for the
+4 project, including:
+5 1. the project title, appropriation code, and summary;
+6 2. a description of:
+7 A. the business and technology outcomes to be achieved by
+8 the project;
+9 B. the features available to the end user on completion,
+10 including user acceptance testing and accessibility plans;
+11 C. the potential risks associated with the project;
+12 D. possible alternatives; and
+13 E. the scope and complexity of the project; and
+14 3. an estimate of:
+15 A. the total costs required to complete through planning; and
+16 B. the fund sources available to support planning costs; and
+17 (ii) a project implementation request to begin full design,
+18 development, and implementation of the project after the completion of planning, including:
+19 1. the project title, appropriation code, and summary;
+20 2. a description of:
+21 A. the business and technology outcomes to be achieved by
+22 the project and the metrics by which the success of those outcomes will be measured;
+23 B. the features available to the end user on completion,
+24 including user acceptance testing and accessibility plans;
+25 C. the potential risks associated with the project;
+26 D. possible alternatives;
+27 E. the scope and complexity of the project; and
+SENATE BILL 487 7
+1 F. how the project meets the goals of the statewide master
+2 plan; and
+3 3. an estimate of:
+4 A. the total project cost, by phase; and
+5 B. the fund sources to be utilized.
+6 (3) The Secretary may approve funding incrementally, consistent with the
+7 systems development life cycle plan.
+8 (h) The Department, in consultation with the Modernize Maryland Commission
+9 established under § 3.5–316 of this subtitle, shall:
+10 (1) develop standards for units of State government to assist in identifying
+11 legacy systems that require modernization projects appropriate to be financed as an
+12 expedited project through the Fund;
+13 (2) adopt an Information Technology Investment Maturity Model that
+14 includes:
+15 (i) criteria to inform and prioritize investment decisions;
+16 (ii) processes to develop the information required to evaluate
+17 investment proposals against the criteria under item (i) of this item; and
+18 (iii) management processes to monitor the implementation of
+19 approved modernization projects; and
+20 (3) develop a State Modernization Plan.
+21 (I) IN THE ANNUAL REPORT SUBMITTED IN ACCORDANCE WITH §
+22 3.5–309(N) OF THIS SUBTITLE, BEGINNING WITH THE ANNUAL REPORT SUBMITTED
+23 IN 2026, THE SECRETARY SHALL PUBLISH A LIST OF RECOMMENDATIONS MADE
+24 UNDER SUBSECTION (D)(2) OF THIS SECTION AND THE OUTCOME OF THE
+25 RECOMMENDATION REVIEW CONDUCTED UNDER SUBSECTION (D)(3) OF THIS
+26 SECTION DURING THE PRECEDING FISCAL YEAR.
+27 3.5–309.
+28 (n) (1) On or before November 1 of each year, the Secretary shall report to the
+29 Governor and the Secretary of Budget and Management and, in accordance with § 2–1257
+30 of the State Government Article, to the Senate Budget and Taxation Committee, the Senate
+31 Committee on Education, Energy, and the Environment, the House Appropriations
+8 SENATE BILL 487
+1 Committee, the House Health and Government Operations Committee, and the Joint
+2 Committee on Cybersecurity, Information Technology, and Biotechnology.
+3 (2) The report shall include:
+4 (i) the financial status of the Fund and a summary of its operations
+5 for the preceding fiscal year;
+6 (ii) an accounting for the preceding fiscal year of all money from each
+7 of the revenue sources specified in subsection (e) of this section, including any expenditures
+8 made from the Fund; [and]
+9 (iii) for each project receiving money from the Fund in the preceding
+10 fiscal year and for each major information technology development project or expedited
+11 project receiving funding from any source other than the Fund in the preceding fiscal year:
+12 1. the status of the project and project funding decisions;
+13 2. a comparison of estimated and actual costs of the project;
+14 3. any known or anticipated changes in scope or costs of the
+15 project;
+16 4. an evaluation of whether the project is using best
+17 practices; and
+18 5. a summary of any monitoring and oversight of the project
+19 from outside the agency in which the project is being developed, including a description of
+20 any problems identified by any external review and any corrective actions taken; AND
+21 (IV) THE LIST OF RECOMMENDATIONS AND REVIEW OUTCOMES
+22 REQUIRED UNDER § 3.5–308(I) OF THIS SUBTITLE.
+23 13–228.
+24 (A) EXCEPT AS PROVIDED UNDER SUBSECTION (B) OF THIS SECTION AND §
+25 3.5–308(D)(2)(III) OF THIS ARTICLE, EACH PROCUREMENT CONTRACT FOR A MAJOR
+26 INFORMATION TECHNOLOGY DEVELOPMENT PROJECT SHALL INCLUDE TERMS AND
+27 CONDITIONS GOVERNING THE INDEMNIFICATION OBLIGATIONS AND LIMITATION OF
+28 LIABILITY OF THE CONTRACTOR THAT ARE REASONABLE AND MAY NOT EXCEED IN
+29 AGGREGATE TWICE THE VALUE OF THE CONTRACT.
+30 (B) A CONTRACT PROVISION ADOPTED IN ACCORDANCE WITH SUBSECTION
+31 (A) OF THIS SECTION MAY NOT LIMIT THE LIABILITY OF A CONTRACTOR FOR:
+SENATE BILL 487 9
+1 (1) INTENTIONAL OR WILLFUL MISCONDUCT, FRAUD, OR
+2 RECKLESSNESS OF THE CONTRACTOR OR AN EMPLOYEE OF THE CONTRACTOR; OR
+3 (2) CLAIMS FOR BODILY INJURY, INCLUDING DEATH, AND DAMAGE TO
+4 REAL PROPERTY OR TANGIBLE PERSONAL PROPERTY RESULTING FROM THE
+5 NEGLIGENCE OF THE CONTRACTOR OR AN EMPLOYEE OF THE CONTRACTOR.
+6 (C) NOTHING IN THIS SECTION PROHIBITS A UNIT FROM AGREEING TO A
+7 LIMITATION OF LIABILITY THAT IS LESS THAN TWICE THE VALUE OF THE CONTRACT.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That the Chief Procurement Officer
+9 in the Department of General Services and the Secretary of Information Technology shall:
+10 (1) together with appropriate stakeholders, examine the procurement
+11 processes for major information technology development projects, including:
+12 (i) the time frames for competitive sealed procurements for major
+13 information technology development projects, from issuing the request for proposal through
+14 evaluation and contract award; and
+15 (ii) how the associated time frames impact the allocation of
+16 personnel within companies bidding on major information technology development
+17 projects;
+18 (2) make recommendations on adjusting the procurement process and
+19 associated timeline for major information technology development projects to ensure
+20 personnel with required expertise are available to work on an awarded contract; and
+21 (3) on or before December 1, 2026, report to the General Assembly, in
+22 accordance with § 2–1257 of the State Government Article, on the examination and
+23 recommendations conducted under this section.
+24 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025.
+[DELETED: :CA      5     A P F r c c a t S t r a i i a c l o l a u c c r t C P O t r a c r a t C l r a p c f a m i t d t C P m m i B  A S  A  ( B  A S  A  ( B  A S  A]
+[DELETED:  S   (  S T A 3  ( I  ( ( “ m a e f a n i t    ( p    ( c    ( i    ( t    ( i   ( “    ( o o c s o h m r o    ( e m a a n o e s h b l i  ( “ t m a e i p i   ( m   ( n   ( t   ( h   ( s]
+[DELETED: S 3   ( a  ( ( “ i t d p m a i t d p t m o o m o t f c    ( e a p i p ( o t s t e    ( t a o    ( t a d     1 t     2 t i o t p o t p o l g     3 t     4 o   ( “    ( t d b t S a s t t L P C f a 3    ( a     1 l f     2 m a     A t u o S g h s i r i h c s m e a t i o h t m t o t r b p i     B t i n s a w t S i]
+[DELETED:  S      C t p w r i a c s d 3  ( T  ( B g f  ( I r i t p r t S m c  ( T S s r a w t a o t S o B s s   () I,(F A A R U P  O TN T E B A M I T TE  S C A R A P T A TT  () I ), E G N  () IF T R A C T T M T1 ,E  E  () A(V R M U S II   1 ;   2 S; TE   3 T R T T L]
+[DELETED: S 5   1D    4 A R MT E ( TCPO: H R F  ()S R A R M U  N );  ()IM   E18.  ( T i  ( ( W t a o t S o B a M e a c   ( T a    ( a s D    ( t e d a c o o i t i i o c t c j  ( ( T d    ( t m i t d p o t e p a i c w s p p a s a d    ( t m i t d p a s]
+[DELETED:  S    ( A a s d l c p s i s    ( a p     1 t     2 a     A t t     B t f a t t e u o c i     C t     D p     E t     3 a     A t     B t    ( a p i r t b f d d     1 t     2 a     A t t     B t f a t t e u o c i     C t     D p     E t]
+[DELETED: S 7     F h p     3 a     A t     B t   ( T s  ( T e   ( d l s t r m p a t b f a a e   ( a a I T I M M t i    ( c    ( p t d t i r t e i    ( m p t m t i o a   ( d ) I§N T A R S I A W () E   T E S P A L O R M, S D O T S A T O O T) R C U S D O T)R 3  ( ( O G o C o E E a t E t H A]
+[DELETED:  S  C t H H a G O C a t J C   ( T    ( t f    ( a o m a]    ( f f p     1 t     2 a     3 a p     4 a e o w t p i u b p     5 a f a  ()VT  I 3( .() E()X B  ()()II E ()  ): R]
+[DELETED: S 9 ( , O W MT FD OR  ( ,Y H  P O T P P R F TR() OT  S i   ( t w a s e t p p    ( t i e    ( h t a t f i t a o p w c b o m i t d p   ( m r o a t p p a a t f m i t d p t e p   ( o o b D 1 2 r t t G A i a w § 2 o t S G A o t e a r  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 487
+P2 5lr2860
+SB 832/20 – EHE
+By: Senators Jennings and Hester
+Introduced and read first time: January 22, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Procurement – Major Information Technology Development Projects
+3 FOR the purpose of requiring the Secretary of Information Technology to conduct a certain
+4 risk assessment of certain major information technology development projects under
+5 certain circumstances; authorizing the Secretary to recommend an increase in a
+6 certain limitation of liability amount under certain circumstances; requiring the
+7 Chief Procurement Officer to review a certain recommendation; authorizing the
+8 Chief Procurement Officer to approve a certain change to a certain limitation of
+9 liability; requiring a procurement contract for a major information technology
+10 development project to include certain terms and conditions; requiring the Chief
+11 Procurement Officer and the Secretary to study certain procurement processes of
+12 major information technology development projects with certain stakeholders and
+13 make certain recommendations; and generally relating to procurement and major
+14 information technology development projects.
+15 BY repealing and reenacting, without amendments,
+16 Article – State Finance and Procurement
+17 Section 3.5–301(a), (e), (h), and (k)
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – State Finance and Procurement
+22 Section 3.5–308 and 3.5–309(n)
+23 Annotated Code of Maryland
+24 (2021 Replacement Volume and 2024 Supplement)
+25 BY adding to
+26 Article – State Finance and Procurement
+27 Section 13–228
+28 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0487*
+
+2 SENATE BILL 487
+1 (2021 Replacement Volume and 2024 Supplement)
+2 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+3 That the Laws of Maryland read as follows:
+4 Article – State Finance and Procurement
+5 3.5–301.
+6 (a) In this subtitle the following words have the meanings indicated.
+7 (e) (1) “Development” means all expenditures for a new information
+8 technology system or an enhancement to an existing system including system:
+9 (i) planning;
+10 (ii) creation;
+11 (iii) installation;
+12 (iv) testing; and
+13 (v) initial training.
+14 (2) “Development” does not include:
+15 (i) ongoing operating costs, software or hardware maintenance,
+16 routine upgrades, or modifications that merely allow for a continuation of the existing level
+17 of functionality; or
+18 (ii) expenditures made after a new or enhanced system has been
+19 legally accepted by the user and is being used for the business process for which it was
+20 intended.
+21 (h) “Information technology” means all electronic information processing,
+22 including:
+23 (1) maintenance;
+24 (2) networking;
+25 (3) telecommunications;
+26 (4) hardware;
+27 (5) software and applications; and
+
+SENATE BILL 487 3
+1 (6) associated services.
+2 (k) (1) “Major information technology development project” means any
+3 information technology development project that meets one or more of the following
+4 criteria:
+5 (i) except as provided in paragraph (2) of this subsection, the
+6 estimated total cost of development equals or exceeds $5,000,000;
+7 (ii) the project is undertaken to support a critical business function
+8 associated with the public health, education, safety, or financial well–being of the residents
+9 of Maryland; or
+10 (iii) the Secretary determines that the project requires the special
+11 attention and consideration given to a major information technology development project
+12 due to:
+13 1. the significance of the project’s potential benefits or risks;
+14 2. the impact of the project on the public or local
+15 governments;
+16 3. the public visibility of the project; or
+17 4. other reasons as determined by the Secretary.
+18 (2) “Major information technology development project” does not include:
+19 (i) technology that is reoccurring, standard operating technology as
+20 determined by the Secretary and submitted to the Legislative Policy Committee for a
+21 30–day review and comment period; or
+22 (ii) a project with an estimated total cost of development that is:
+23 1. less than $5,000,000 and is funded with money set aside
+24 for expedited projects in the Fund; or
+25 2. more than $5,000,000 and is funded with the money set
+26 aside for expedited projects in the Fund if the Secretary determines that:
+27 A. the unit of State government has sufficient
+28 implementation resources, including human capital, subject matter expertise, and
+29 technological infrastructure, or has the means to obtain these resources before project
+30 initiation;
+31 B. there is no sufficient alternative within the State’s
+32 information technology inventory; and
+
+4 SENATE BILL 487
+1 C. the project will result in a comprehensive solution
+2 designed to meet a cohesive set of business and technological objectives.
+3 3.5–308.
+4 (a) This section does not apply to a public institution of higher education.
+5 (b) Before submitting its information technology project requests, a unit of State
+6 government shall submit information in support of the request required by the Secretary
+7 for review and determination consistent with § 3.5–301(k) of this subtitle.
+8 (c) In reviewing information technology project requests, the Secretary may
+9 change a unit’s designation of a major information technology development project.
+10 (d) (1) The Secretary shall review and, with the advice of the Secretary of
+11 Budget and Management, approve major information technology development projects and
+12 specifications for consistency with all statewide plans, policies, and standards, including a
+13 systems development life cycle plan.
+14 (2) (I) IF, AFTER A REVIEW UNDER PARAGRAPH (1) OF THIS
+15 SUBSECTION, THE SECRETARY BELIEVES A MAJOR INFORMATION TECHNOLOGY
+16 DEVELOPMENT PROJECT MAY PRESENT AN EXCEPTIONAL RISK TO THE STATE, THE
+17 SECRETARY SHALL CONDUCT A RISK ASSESSMENT PRIOR TO APPROVING THE
+18 MAJOR INFORMATION TECHNOLOGY DEVELOPMENT PROJECT.
+19 (II) A RISK ASSESSMENT CONDUCTED UNDER SUBPARAGRAPH
+20 (I) OF THIS PARAGRAPH SHALL CONSIDER THE NATURE, PROCESSING, AND USE OF
+21 SENSITIVE OR PERSONALLY IDENTIFIABLE INFORMATION.
+22 (III) IF THE RISK ASSESSMENT CONCLUDES THAT THE MAJOR
+23 INFORMATION TECHNOLOGY DEVELOPMENT PROJECT PRESENTS AN EXCEPTIONAL
+24 RISK TO THE STATE AND THE LIMITATION OF LIABILITY AMOUNT PROVIDED UNDER
+25 § 13–228 OF THIS ARTICLE IS NOT ADEQUATE TO PROTECT THE INTEREST OF THE
+26 STATE, THE SECRETARY MAY RECOMMEND THE UNIT INCREASE THE LIMITATION OF
+27 LIABILITY AMOUNT.
+28 (IV) A RECOMMENDATION MADE UNDER SUBPARAGRAPH (III)
+29 OF THIS PARAGRAPH SHALL:
+30 1. BE IN WRITING;
+31 2. DESCRIBE THE RISKS TO THE STATE;
+32 3. EXPLAIN THE REASONS THAT THE LIMITATIONS
+
+SENATE BILL 487 5
+1 REQUIRED UNDER § 13–228 OF THIS ARTICLE ARE NOT ADEQUATE TO MITIGATE THE
+2 RISKS DESCRIBED; AND
+3 4. RECOMMEND A REASONABLE MAXIMUM
+4 ALTERNATIVE LIMITATION OF LIABILITY AMOUNT, CALCULATED AS A MULTIPLE OF
+5 THE CONTRACT VALUE.
+6 (3) THE CHIEF PROCUREMENT OFFICER:
+7 (I) SHALL REVIEW A RECOMMENDATION MADE UNDER
+8 PARAGRAPH (2) OF THIS SUBSECTION; AND
+9 (II) MAY APPROVE A CHANGE TO THE LIMITATION OF LIABILITY
+10 REQUIRED UNDER § 13–228 OF THIS ARTICLE.
+11 (e) The Secretary shall be responsible for overseeing the implementation of major
+12 information technology development projects, regardless of fund source.
+13 (f) (1) With the advice of the Secretary of Budget and Management,
+14 expenditures for major information technology development projects shall be subject to the
+15 approval of the Secretary who shall approve expenditures only when those projects are
+16 consistent with statewide plans, policies, and standards.
+17 (2) The Secretary shall make a recommendation to the Secretary of Budget
+18 and Management that project funds, regardless of fund source, be withheld if:
+19 (i) a unit of State government is not consistently reporting on the
+20 status of a project or projects to the Department in the form and manner required by the
+21 Department; or
+22 (ii) the Department determines that project implementation issues
+23 exist, including project timeline delays, significant cost increases, vendor nonperformance,
+24 decreased agency capacity, or other issues that indicate issues of concern that could
+25 jeopardize successful implementation.
+26 (g) (1) The Secretary shall approve funding for major information technology
+27 development projects, expedited projects, and other expenditures from the Fund only when:
+28 (i) the major information technology development projects or the
+29 expedited projects are in compliance with statewide plans, policies, and standards, as
+30 determined by the Secretary; and
+31 (ii) the major information technology development projects are
+32 supported by an approved systems development life cycle plan.
+
+6 SENATE BILL 487
+1 (2) An approved systems development life cycle plan shall include
+2 submission of:
+3 (i) a project planning request that details initial planning for the
+4 project, including:
+5 1. the project title, appropriation code, and summary;
+6 2. a description of:
+7 A. the business and technology outcomes to be achieved by
+8 the project;
+9 B. the features available to the end user on completion,
+10 including user acceptance testing and accessibility plans;
+11 C. the potential risks associated with the project;
+12 D. possible alternatives; and
+13 E. the scope and complexity of the project; and
+14 3. an estimate of:
+15 A. the total costs required to complete through planning; and
+16 B. the fund sources available to support planning costs; and
+17 (ii) a project implementation request to begin full design,
+18 development, and implementation of the project after the completion of planning, including:
+19 1. the project title, appropriation code, and summary;
+20 2. a description of:
+21 A. the business and technology outcomes to be achieved by
+22 the project and the metrics by which the success of those outcomes will be measured;
+23 B. the features available to the end user on completion,
+24 including user acceptance testing and accessibility plans;
+25 C. the potential risks associated with the project;
+26 D. possible alternatives;
+27 E. the scope and complexity of the project; and
+
+SENATE BILL 487 7
+1 F. how the project meets the goals of the statewide master
+2 plan; and
+3 3. an estimate of:
+4 A. the total project cost, by phase; and
+5 B. the fund sources to be utilized.
+6 (3) The Secretary may approve funding incrementally, consistent with the
+7 systems development life cycle plan.
+8 (h) The Department, in consultation with the Modernize Maryland Commission
+9 established under § 3.5–316 of this subtitle, shall:
+10 (1) develop standards for units of State government to assist in identifying
+11 legacy systems that require modernization projects appropriate to be financed as an
+12 expedited project through the Fund;
+13 (2) adopt an Information Technology Investment Maturity Model that
+14 includes:
+15 (i) criteria to inform and prioritize investment decisions;
+16 (ii) processes to develop the information required to evaluate
+17 investment proposals against the criteria under item (i) of this item; and
+18 (iii) management processes to monitor the implementation of
+19 approved modernization projects; and
+20 (3) develop a State Modernization Plan.
+21 (I) IN THE ANNUAL REPORT SUBMITTED IN ACCORDANCE WITH §
+22 3.5–309(N) OF THIS SUBTITLE, BEGINNING WITH THE ANNUAL REPORT SUBMITTED
+23 IN 2026, THE SECRETARY SHALL PUBLISH A LIST OF RECOMMENDATIONS MADE
+24 UNDER SUBSECTION (D)(2) OF THIS SECTION AND THE OUTCOME OF THE
+25 RECOMMENDATION REVIEW CONDUCTED UNDER SUBSECTION (D)(3) OF THIS
+26 SECTION DURING THE PRECEDING FISCAL YEAR.
+27 3.5–309.
+28 (n) (1) On or before November 1 of each year, the Secretary shall report to the
+29 Governor and the Secretary of Budget and Management and, in accordance with § 2–1257
+30 of the State Government Article, to the Senate Budget and Taxation Committee, the Senate
+31 Committee on Education, Energy, and the Environment, the House Appropriations
+
+8 SENATE BILL 487
+1 Committee, the House Health and Government Operations Committee, and the Joint
+2 Committee on Cybersecurity, Information Technology, and Biotechnology.
+3 (2) The report shall include:
+4 (i) the financial status of the Fund and a summary of its operations
+5 for the preceding fiscal year;
+6 (ii) an accounting for the preceding fiscal year of all money from each
+7 of the revenue sources specified in subsection (e) of this section, including any expenditures
+8 made from the Fund; [and]
+9 (iii) for each project receiving money from the Fund in the preceding
+10 fiscal year and for each major information technology development project or expedited
+11 project receiving funding from any source other than the Fund in the preceding fiscal year:
+12 1. the status of the project and project funding decisions;
+13 2. a comparison of estimated and actual costs of the project;
+14 3. any known or anticipated changes in scope or costs of the
+15 project;
+16 4. an evaluation of whether the project is using best
+17 practices; and
+18 5. a summary of any monitoring and oversight of the project
+19 from outside the agency in which the project is being developed, including a description of
+20 any problems identified by any external review and any corrective actions taken; AND
+21 (IV) THE LIST OF RECOMMENDATIONS AND REVIEW OUTCOMES
+22 REQUIRED UNDER § 3.5–308(I) OF THIS SUBTITLE.
+23 13–228.
+24 (A) EXCEPT AS PROVIDED UNDER SUBSECTION (B) OF THIS SECTION AND §
+25 3.5–308(D)(2)(III) OF THIS ARTICLE, EACH PROCUREMENT CONTRACT FOR A MAJOR
+26 INFORMATION TECHNOLOGY DEVELOPMENT PROJECT SHALL INCLUDE TERMS AND
+27 CONDITIONS GOVERNING THE INDEMNIFICATION OBLIGATIONS AND LIMITATION OF
+28 LIABILITY OF THE CONTRACTOR THAT ARE REASONABLE AND MAY NOT EXCEED IN
+29 AGGREGATE TWICE THE VALUE OF THE CONTRACT.
+30 (B) A CONTRACT PROVISION ADOPTED IN ACCORDANCE WITH SUBSECTION
+31 (A) OF THIS SECTION MAY NOT LIMIT THE LIABILITY OF A CONTRACTOR FOR:
+
+SENATE BILL 487 9
+1 (1) INTENTIONAL OR WILLFUL MISCONDUCT, FRAUD, OR
+2 RECKLESSNESS OF THE CONTRACTOR OR AN EMPLOYEE OF THE CONTRACTOR; OR
+3 (2) CLAIMS FOR BODILY INJURY, INCLUDING DEATH, AND DAMAGE TO
+4 REAL PROPERTY OR TANGIBLE PERSONAL PROPERTY RESULTING FROM THE
+5 NEGLIGENCE OF THE CONTRACTOR OR AN EMPLOYEE OF THE CONTRACTOR.
+6 (C) NOTHING IN THIS SECTION PROHIBITS A UNIT FROM AGREEING TO A
+7 LIMITATION OF LIABILITY THAT IS LESS THAN TWICE THE VALUE OF THE CONTRACT.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That the Chief Procurement Officer
+9 in the Department of General Services and the Secretary of Information Technology shall:
+10 (1) together with appropriate stakeholders, examine the procurement
+11 processes for major information technology development projects, including:
+12 (i) the time frames for competitive sealed procurements for major
+13 information technology development projects, from issuing the request for proposal through
+14 evaluation and contract award; and
+15 (ii) how the associated time frames impact the allocation of
+16 personnel within companies bidding on major information technology development
+17 projects;
+18 (2) make recommendations on adjusting the procurement process and
+19 associated timeline for major information technology development projects to ensure
+20 personnel with required expertise are available to work on an awarded contract; and
+21 (3) on or before December 1, 2026, report to the General Assembly, in
+22 accordance with § 2–1257 of the State Government Article, on the examination and
+23 recommendations conducted under this section.
+24 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025.
+
+[DELETED: :CA      5     A P F r c c a t S t r a i i a c l o l a u c c r t C P O t r a c r a t C l r a p c f a m i t d t C P m m i B  A S  A  ( B  A S  A  ( B  A S  A]
+[DELETED:  S   (  S T A 3  ( I  ( ( “ m a e f a n i t    ( p    ( c    ( i    ( t    ( i   ( “    ( o o c s o h m r o    ( e m a a n o e s h b l i  ( “ t m a e i p i   ( m   ( n   ( t   ( h   ( s]
+[DELETED: S 3   ( a  ( ( “ i t d p m a i t d p t m o o m o t f c    ( e a p i p ( o t s t e    ( t a o    ( t a d     1 t     2 t i o t p o t p o l g     3 t     4 o   ( “    ( t d b t S a s t t L P C f a 3    ( a     1 l f     2 m a     A t u o S g h s i r i h c s m e a t i o h t m t o t r b p i     B t i n s a w t S i]
+[DELETED:  S      C t p w r i a c s d 3  ( T  ( B g f  ( I r i t p r t S m c  ( T S s r a w t a o t S o B s s   () I,(F A A R U P  O TN T E B A M I T TE  S C A R A P T A TT  () I ), E G N  () IF T R A C T T M T1 ,E  E  () A(V R M U S II   1 ;   2 S; TE   3 T R T T L]
+[DELETED: S 5   1D    4 A R MT E ( TCPO: H R F  ()S R A R M U  N );  ()IM   E18.  ( T i  ( ( W t a o t S o B a M e a c   ( T a    ( a s D    ( t e d a c o o i t i i o c t c j  ( ( T d    ( t m i t d p o t e p a i c w s p p a s a d    ( t m i t d p a s]
+[DELETED:  S    ( A a s d l c p s i s    ( a p     1 t     2 a     A t t     B t f a t t e u o c i     C t     D p     E t     3 a     A t     B t    ( a p i r t b f d d     1 t     2 a     A t t     B t f a t t e u o c i     C t     D p     E t]
+[DELETED: S 7     F h p     3 a     A t     B t   ( T s  ( T e   ( d l s t r m p a t b f a a e   ( a a I T I M M t i    ( c    ( p t d t i r t e i    ( m p t m t i o a   ( d ) I§N T A R S I A W () E   T E S P A L O R M, S D O T S A T O O T) R C U S D O T)R 3  ( ( O G o C o E E a t E t H A]
+[DELETED:  S  C t H H a G O C a t J C   ( T    ( t f    ( a o m a]    ( f f p     1 t     2 a     3 a p     4 a e o w t p i u b p     5 a f a  ()VT  I 3( .() E()X B  ()()II E ()  ): R]
+[DELETED: S 9 ( , O W MT FD OR  ( ,Y H  P O T P P R F TR() OT  S i   ( t w a s e t p p    ( t i e    ( h t a t f i t a o p w c b o m i t d p   ( m r o a t p p a a t f m i t d p t e p   ( o o b D 1 2 r t t G A i a w § 2 o t S G A o t e a r  S A B I F E T t A s t e O]

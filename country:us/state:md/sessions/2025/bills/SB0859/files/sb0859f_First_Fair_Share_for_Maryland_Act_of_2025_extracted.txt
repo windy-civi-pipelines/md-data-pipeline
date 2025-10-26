@@ -1,0 +1,1751 @@
+Title: SENATE BILL 859
+Official Title: SENATE BILL 859
+Number of Sections: 1
+Source: versions - First - Fair Share for Maryland Act of 2025
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+Q3, Q7 5lr2255
+SB 766/24 – B&T CF HB 1014
+By: Senators Hettleman, Benson, Rosapepe, Lewis Young, and M. Washington
+Introduced and read first time: January 28, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Fair Share for Maryland Act of 2025
+3 FOR the purpose of altering a certain limit on the unified credit used for determining the
+4 Maryland estate tax for decedents dying on or after a certain date; altering a certain
+5 limitation on the amount of the Maryland estate tax for decedents dying on or after
+6 a certain date; prohibiting, except under certain circumstances, the application of
+7 certain amendments to the Internal Revenue Code to the determination of Maryland
+8 taxable income for certain taxable years; altering the definition of “qualified child”
+9 for purposes of a certain credit against the State income tax for certain dependent
+10 children; imposing a certain business transportation fee on certain taxable income of
+11 corporations and pass–through entities for certain taxable years; limiting, for certain
+12 taxable years, the maximum amount of net operating losses that may be allowed in
+13 determining Maryland taxable income and Maryland modified income; requiring
+14 that certain sales of tangible personal property be included in the numerator of the
+15 sales factor used for apportioning a corporation’s income to the State under certain
+16 circumstances; altering the State income tax rate on Maryland taxable income of
+17 certain individuals; providing for an additional State individual income tax rate on
+18 the net investment income of certain individuals; imposing a certain income tax on
+19 income distributed to a member of a certain pass–through entity from the
+20 pass–through entity’s taxable income exceeding a certain amount; expanding
+21 eligibility for the Maryland earned income tax credit for individuals without
+22 qualifying children by altering the income thresholds at which the credit phases out;
+23 providing that, after a certain taxable year, the income threshold and phase–out
+24 amounts are adjusted annually for inflation; altering the income eligibility
+25 requirements for purposes of qualifying for a certain credit against the State income
+26 tax for certain dependent children; altering the calculation of the child tax credit;
+27 requiring certain corporations to compute Maryland taxable income using a certain
+28 method; requiring, subject to regulations adopted by the Comptroller, certain groups
+29 of corporations to file a combined income tax return reflecting the aggregate income
+30 tax liability of all the members of the group; requiring the Comptroller to adopt
+31 certain regulations consistent with certain regulations adopted by the Multistate
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0859*
+2 SENATE BILL 859
+1 Tax Commission; requiring the Comptroller to assess interest and penalties under
+2 certain circumstances; and generally relating to Maryland estate tax and income tax.
+3 BY repealing and reenacting, without amendments,
+4 Article – Tax – General
+5 Section 7–309(a) and (b)(1), (2), and (9) and 10–310
+6 Annotated Code of Maryland
+7 (2022 Replacement Volume and 2024 Supplement)
+8 BY repealing and reenacting, with amendments,
+9 Article – Tax – General
+10 Section 7–309(b)(3), 10–104(5), (6), and (8), 10–105(a), 10–108(a) and (c),
+11 10–210.1(b)(2), 10–402(d), 10–704, 10–751, and 10–811
+12 Annotated Code of Maryland
+13 (2022 Replacement Volume and 2024 Supplement)
+14 BY adding to
+15 Article – Tax – General
+16 Section 10–102.2, 10–102.3, and 10–402.1
+17 Annotated Code of Maryland
+18 (2022 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Tax – General
+21 Section 10–104(5), (6), and (8)
+22 Annotated Code of Maryland
+23 (2022 Replacement Volume and 2024 Supplement)
+24 (As enacted by Section 3 of this Act)
+25 BY repealing and reenacting, with amendments,
+26 Article – Tax – General
+27 Section 10–751
+28 Annotated Code of Maryland
+29 (2022 Replacement Volume and 2024 Supplement)
+30 (As enacted by Section 2 of this Act)
+31 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+32 That the Laws of Maryland read as follows:
+33 Article – Tax – General
+34 7–309.
+35 (a) Notwithstanding an Act of Congress that repeals or reduces the federal credit
+36 under § 2011 of the Internal Revenue Code, the provisions of this subtitle in effect before
+37 the passage of the Act of Congress shall apply with respect to a decedent who dies after the
+38 effective date of the Act of Congress so as to continue the Maryland estate tax in force
+SENATE BILL 859 3
+1 without reduction in the same manner as if the federal credit had not been repealed or
+2 reduced.
+3 (b) (1) Except as provided in paragraphs (2) through (9) of this subsection and
+4 subsection (c) of this section, after the effective date of an Act of Congress described in
+5 subsection (a) of this section, the Maryland estate tax shall be determined using:
+6 (i) the federal credit allowable by § 2011 of the Internal Revenue
+7 Code as in effect before the reduction or repeal of the federal credit pursuant to the Act of
+8 Congress; and
+9 (ii) other provisions of federal estate tax law as in effect on the date
+10 of the decedent’s death.
+11 (2) Except as provided in paragraphs (3) through (9) of this subsection and
+12 subsection (c) of this section, if the federal estate tax is not in effect on the date of the
+13 decedent’s death, the Maryland estate tax shall be determined using:
+14 (i) the federal credit allowable by § 2011 of the Internal Revenue
+15 Code as in effect before the reduction or repeal of the federal credit pursuant to the Act of
+16 Congress; and
+17 (ii) other provisions of federal estate tax law as in effect on the date
+18 immediately preceding the effective date of the repeal of the federal estate tax.
+19 (3) (i) Notwithstanding any increase in the unified credit allowed
+20 against the federal estate tax for decedents dying after 2003, the unified credit used for
+21 determining the Maryland estate tax for a decedent may not exceed the applicable credit
+22 amount corresponding to an applicable exclusion amount, within the meaning of § 2010(c)
+23 of the Internal Revenue Code, of:
+24 1. $1,000,000 for a decedent dying before January 1, 2015;
+25 2. $1,500,000 for a decedent dying on or after January 1,
+26 2015, but before January 1, 2016;
+27 3. $2,000,000 for a decedent dying on or after January 1,
+28 2016, but before January 1, 2017;
+29 4. $3,000,000 for a decedent dying on or after January 1,
+30 2017, but before January 1, 2018;
+31 5. $4,000,000 for a decedent dying on or after January 1,
+32 2018, but before January 1, 2019; [and]
+33 6. $5,000,000 for a decedent dying on or after January 1,
+34 2019, BUT BEFORE JANUARY 1, 2026, plus any deceased spousal unused exclusion
+4 SENATE BILL 859
+1 amount calculated in accordance with paragraph (9) of this subsection; AND
+2 7. $2,000,000 FOR A DECEDENT DYING ON OR AFTER
+3 JANUARY 1, 2026, PLUS ANY DECEASED SPOUSAL UNUSED EXCLUSION AMOUNT
+4 CALCULATED IN ACCORDANCE WITH PARAGRAPH (9) OF THIS SUBSECTION.
+5 (ii) The Maryland estate tax shall be determined without regard to
+6 any deduction for State death taxes allowed under § 2058 of the Internal Revenue Code.
+7 (iii) Unless the federal credit allowable by § 2011 of the Internal
+8 Revenue Code is in effect on the date of the decedent’s death, the federal credit used to
+9 determine the Maryland estate tax may not exceed 16% of the amount by which the
+10 decedent’s taxable estate, as defined in § 2051 of the Internal Revenue Code, exceeds:
+11 1. $1,000,000 for a decedent dying before January 1, 2015;
+12 2. $1,500,000 for a decedent dying on or after January 1,
+13 2015, but before January 1, 2016;
+14 3. $2,000,000 for a decedent dying on or after January 1,
+15 2016, but before January 1, 2017;
+16 4. $3,000,000 for a decedent dying on or after January 1,
+17 2017, but before January 1, 2018;
+18 5. $4,000,000 for a decedent dying on or after January 1,
+19 2018, but before January 1, 2019; [and]
+20 6. $5,000,000 for a decedent dying on or after January 1,
+21 2019, BUT BEFORE JANUARY 1, 2026, plus any deceased spousal unused exclusion
+22 amount calculated in accordance with paragraph (9) of this subsection; AND
+23 7. $2,000,000 FOR A DECEDENT DYING ON OR AFTER
+24 JANUARY 1, 2026, PLUS ANY DECEASED SPOUSAL UNUSED EXCLUSION AMOUNT
+25 CALCULATED IN ACCORDANCE WITH PARAGRAPH (9) OF THIS SUBSECTION.
+26 (9) (i) In this paragraph, “deceased spousal unused exclusion amount”
+27 means the applicable exclusion amount in effect at the time of the death of the last
+28 predeceased spouse of the decedent under paragraph (3) of this subsection reduced by the
+29 taxable estate of the last predeceased spouse:
+30 1. as reported on a Maryland estate tax return filed with the
+31 Comptroller; or
+32 2. as reported on a federal estate tax return, if:
+SENATE BILL 859 5
+1 A. the last predeceased spouse was not a Maryland resident
+2 and no property with a Maryland estate tax situs was includible in the gross estate of the
+3 last predeceased spouse; or
+4 B. the last predeceased spouse died before January 1, 2019,
+5 and no Maryland estate tax return was required to be filed with respect to the predeceased
+6 spouse’s estate.
+7 (ii) The deceased spousal unused exclusion amount may not be taken
+8 into account under paragraph (3) of this subsection unless:
+9 1. if the last predeceased spouse died on or after January 1,
+10 2019, a Maryland estate tax return is timely filed for the last predeceased spouse, on which
+11 the deceased spousal unused exclusion amount is calculated and an irrevocable election is
+12 made that the deceased spousal unused exclusion amount may be taken into account; or
+13 2. if the last predeceased spouse died before January 1, 2019,
+14 or was not a Maryland resident and no property with a Maryland estate tax situs was
+15 includible in the gross estate of the last predeceased spouse, an election was made under §
+16 2010(c) of the Internal Revenue Code on the federal estate tax return of the last
+17 predeceased spouse.
+18 (iii) 1. Notwithstanding any other provision of this article, the
+19 Comptroller may examine a Maryland estate tax return of a predeceased spouse after the
+20 time for assessing a tax under this title has expired under § 13–1101 of this article solely
+21 for the purposes of determining the validity of the deceased spousal unused exclusion
+22 election and the amount to be taken into account under paragraph (3) of this subsection.
+23 2. This subparagraph may not be construed to authorize the
+24 assessment of any additional tax with respect to the predeceased spouse’s Maryland estate
+25 tax return if the period of limitation under § 13–1101 of this article has expired.
+26 10–108.
+27 (a) Except as provided in subsection (c) of this section and unless expressly
+28 provided otherwise by law, an amendment of the Internal Revenue Code that affects the
+29 determination of federal adjusted gross income or federal taxable income, does not affect
+30 the determination of Maryland taxable income under this title for:
+31 (1) any taxable year that begins in the calendar year in which the
+32 amendment is enacted; [or]
+33 (2) THE TAXABLE YEAR THAT BEGINS IN THE CALENDAR YEAR THAT
+34 IMMEDIATELY FOLLOWS THE CALENDAR YEAR IN WHICH THE AMENDMENT IS
+35 ENACTED; OR
+6 SENATE BILL 859
+1 [(2)] (3) any taxable year that precedes the calendar year in which the
+2 amendment is enacted.
+3 (c) Subsection (a) of this section does not apply to an amendment of the Internal
+4 Revenue Code if the Comptroller determines that the impact of the amendment on State
+5 income tax revenue is less than $5,000,000 for:
+6 (1) the fiscal year that begins during the calendar year in which the
+7 amendment is enacted; [or]
+8 (2) THE FISCAL YEAR THAT BEGINS DURING THE CALENDAR YEAR
+9 IMMEDIATELY FOLLOWING THE CALENDAR YEAR IN WHICH THE AMENDMENT IS
+10 ENACTED; OR
+11 [(2)] (3) any fiscal year that precedes the calendar year in which the
+12 amendment is enacted.
+13 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+14 as follows:
+15 Article – Tax – General
+16 10–751.
+17 (a) (1) In this section the following words have the meanings indicated.
+18 (2) “Qualified child” means a dependent of a taxpayer, if the dependent:
+19 (i) is a dependent for purposes of § 152 of the Internal Revenue Code
+20 IN EFFECT ON DECEMBER 31, 2024; and
+21 (ii) 1. is under the age of 6 years; or
+22 2. A. is under the age of 17 years; and
+23 B. is a child with a disability, as defined under § 8–401 of the
+24 Education Article.
+25 (3) “Taxpayer” means:
+26 (i) an individual filing an income tax return; or
+27 (ii) a married couple filing a joint income tax return.
+SENATE BILL 859 7
+1 (b) A taxpayer who is a resident and has federal adjusted gross income for the
+2 taxable year of $15,000 or less may claim a credit against the State income tax for each
+3 qualified child in an amount equal to $500.
+4 (c) If the credit allowed under this section in any taxable year exceeds the State
+5 income tax for that taxable year, the taxpayer may claim a refund in the amount of the
+6 excess.
+7 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+8 as follows:
+9 Article – Tax – General
+10 10–102.2.
+11 (A) IN THIS SECTION, “PASS–THROUGH ENTITY” AND “PASS–THROUGH
+12 ENTITY’S TAXABLE INCOME” HAVE THE MEANINGS STATED IN § 10–102.1 OF THIS
+13 SUBTITLE.
+14 (B) IN ADDITION TO THE STATE INCOME TAX IMPOSED UNDER THIS
+15 SUBTITLE, FOR A TAXABLE YEAR BEGINNING AFTER DECEMBER 31, 2026, BUT
+16 BEFORE JANUARY 1, 2033, EACH CORPORATION AND PASS–THROUGH ENTITY SHALL
+17 PAY A BUSINESS TRANSPORTATION FEE IN ACCORDANCE WITH THIS SECTION.
+18 (C) THE BUSINESS TRANSPORTATION FEE IMPOSED UNDER THIS SECTION
+19 SHALL EQUAL 2.5% OF THE AMOUNT OF THE CORPORATION’S MARYLAND TAXABLE
+20 INCOME OR PASS–THROUGH ENTITY’S TAXABLE INCOME THAT EXCEEDS
+21 $10,000,000.
+22 (D) RETURNS AND PAYMENTS OF THE BUSINESS TRANSPORTATION FEE
+23 SHALL BE DUE AND PAYABLE IN THE SAME MANNER AS RETURNS AND PAYMENTS OF
+24 THE STATE INCOME TAX UNDER SUBTITLES 8 AND 9 OF THIS TITLE.
+25 (E) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A TAXPAYER MAY
+26 NOT CLAIM ANY CREDIT AGAINST THE BUSINESS TRANSPORTATION FEE IMPOSED
+27 UNDER THIS SECTION EXCEPT FOR CREDITS FOR INSTALLMENT PAYMENTS,
+28 ESTIMATED PAYMENTS MADE WITH A REQUEST FOR AN EXTENSION OF TIME FOR
+29 FILING A RETURN, OR OVERPAYMENTS FROM PRIOR PERIODS.
+30 (F) THE COMPTROLLER SHALL DISTRIBUTE REVENUE FROM THE BUSINESS
+31 TRANSPORTATION FEE IMPOSED UNDER THIS SECTION TO THE TRANSPORTATION
+32 TRUST FUND ESTABLISHED UNDER § 3–216 OF THE TRANSPORTATION ARTICLE.
+33 (G) THE COMPTROLLER SHALL ADOPT REGULATIONS TO IMPLEMENT THIS
+8 SENATE BILL 859
+1 SECTION.
+2 10–104.
+3 The income tax does not apply to the income of:
+4 (5) except as provided in [§ 10–102.1] §§ 10–102.1 AND 10–102.2 of this
+5 subtitle, a partnership, as defined in § 761 of the Internal Revenue Code;
+6 (6) except as provided in [§ 10–102.1] §§ 10–102.1 AND 10–102.2 of this
+7 subtitle and § 10–304(3) of this title, an S corporation;
+8 (8) except as provided in [§ 10–102.1] §§ 10–102.1 AND 10–102.2 of this
+9 subtitle, a limited liability company as defined under Title 4A of the Corporations and
+10 Associations Article to the extent that the company is taxable as a partnership, as defined
+11 in § 761 of the Internal Revenue Code.
+12 SECTION 4. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+13 as follows:
+14 Article – Tax – General
+15 10–210.1.
+16 (b) In addition to the modifications under §§ 10–204 through 10–210 of this
+17 subtitle, to determine Maryland adjusted gross income of an individual:
+18 (2) an amount is added to or subtracted from federal adjusted gross income
+19 to determine the net operating loss deduction allowed under § 172 of the Internal Revenue
+20 Code without regard to an election under § 172(b)(1)(H) of the Internal Revenue Code for a
+21 carryback period of up to 5 years, PROVIDED THAT ONLY THE FIRST $500,000 OF NET
+22 OPERATING LOSSES MAY BE ALLOWED FOR A TAXABLE YEAR BEGINNING AFTER
+23 DECEMBER 31, 2026, BUT BEFORE JANUARY 1, 2032;
+24 10–310.
+25 In addition to the modifications under §§ 10–305 through 10–309 of this subtitle, to
+26 determine Maryland modified income the federal taxable income of a corporation shall be
+27 adjusted as provided for an individual under § 10–210.1 of this title.
+28 10–402.
+29 (d) (1) (i) In this paragraph:
+30 1. “manufacturing corporation” means a domestic or foreign
+31 corporation which is primarily engaged in activities that, in accordance with the North
+SENATE BILL 859 9
+1 American Industrial Classification System (NAICS), United States Manual, United States
+2 Office of Management and Budget, 1997 Edition, would be included in Sector 11, 31, 32, or
+3 33; and
+4 2. “manufacturing corporation” does not include a refiner, as
+5 defined in § 10–101 of the Business Regulation Article.
+6 (ii) If a manufacturing corporation carries on its trade or business
+7 within and outside the State and the trade or business is a unitary business, the part of the
+8 corporation’s Maryland modified income derived from or reasonably attributable to trade
+9 or business carried on in the State shall be determined using a single sales factor
+10 apportionment formula, by multiplying its Maryland modified income by 100% of the sales
+11 factor.
+12 (iii) In filing its tax return for each year, a manufacturing corporation
+13 shall certify that the NAICS Code reported on its Maryland return is consistent with that
+14 reported to other government agencies.
+15 (iv) If the Comptroller determines that a corporation has submitted
+16 information that incorrectly classifies the corporation as a manufacturing corporation
+17 under subparagraph (i) of this paragraph, the Comptroller shall reclassify the corporation
+18 in an appropriate manner.
+19 (2) Except as provided in paragraphs (1) and (3) of this subsection:
+20 (i) for a taxable year beginning after December 31, 2017, but before
+21 January 1, 2019, if the trade or business is a unitary business, the part of the corporation’s
+22 Maryland modified income derived from or reasonably attributable to trade or business
+23 carried on in the State shall be determined using a 3–factor apportionment fraction:
+24 1. the numerator of which is the sum of the property factor,
+25 the payroll factor, and 3 times the sales factor; and
+26 2. the denominator of which is 5;
+27 (ii) for a taxable year beginning after December 31, 2018, but before
+28 January 1, 2020, if the trade or business is a unitary business, the part of the corporation’s
+29 Maryland modified income derived from or reasonably attributable to trade or business
+30 carried on in the State shall be determined using a 3–factor apportionment fraction:
+31 1. the numerator of which is the sum of the property factor,
+32 the payroll factor, and 4 times the sales factor; and
+33 2. the denominator of which is 6;
+34 (iii) for a taxable year beginning after December 31, 2019, but before
+35 January 1, 2021, if the trade or business is a unitary business, the part of the corporation’s
+10 SENATE BILL 859
+1 Maryland modified income derived from or reasonably attributable to trade or business
+2 carried on in the State shall be determined using a 3–factor apportionment fraction:
+3 1. the numerator of which is the sum of the property factor,
+4 the payroll factor, and 5 times the sales factor; and
+5 2. the denominator of which is 7;
+6 (iv) for a taxable year beginning after December 31, 2020, but before
+7 January 1, 2022, if the trade or business is a unitary business, the part of the corporation’s
+8 Maryland modified income derived from or reasonably attributable to trade or business
+9 carried on in the State shall be determined using a 3–factor apportionment fraction:
+10 1. the numerator of which is the sum of the property factor,
+11 the payroll factor, and 6 times the sales factor; and
+12 2. the denominator of which is 8; and
+13 (v) for a taxable year beginning after December 31, 2021, if the trade
+14 or business is a unitary business, the part of the corporation’s Maryland modified income
+15 derived from or reasonably attributable to trade or business carried on in the State shall
+16 be determined using a single sales factor apportionment formula, by multiplying its
+17 Maryland modified income by 100% of the sales factor.
+18 (3) (i) Each year a worldwide headquartered company that filed a
+19 federal corporate income tax return for the taxable year may elect to calculate its Maryland
+20 modified income derived from or reasonably attributable to trade or business carried on in
+21 the State using a 3–factor apportionment fraction:
+22 1. the numerator of which is the sum of the property factor,
+23 the payroll factor, and twice the sales factor; and
+24 2. the denominator of which is 4.
+25 (ii) To determine under subparagraph (i) of this paragraph the
+26 Maryland modified income of a corporation or group of corporations that is a worldwide
+27 headquartered company that filed a federal corporate income tax return for the taxable
+28 year, gross income from intangible investments, including dividends, interest, royalties,
+29 and capital gains from the sale of intangible property, shall be included in the calculation
+30 of the numerator based on the average of the property and payroll factors.
+31 (4) The property factor under paragraphs (2) and (3) of this subsection shall
+32 include:
+33 (i) rented and owned real property; and
+34 (ii) tangible personal property located in the State and used in the
+SENATE BILL 859 11
+1 trade or business.
+2 (5) (I) FOR A TAXABLE YEAR BEGINNING AFTER DECEMBER 31,
+3 2026, SALES OF TANGIBLE PERSONAL PROPERTY SHALL BE INCLUDED IN THE
+4 NUMERATOR OF THE SALES FACTOR UNDER PARAGRAPH (1), (2), OR (3) OF THIS
+5 SUBSECTION IF:
+6 1. THE PROPERTY IS DELIVERED OR SHIPPED TO A
+7 PURCHASER WITHIN THE STATE, REGARDLESS OF THE FREE ON BOARD (F.O.B.)
+8 POINT OR OTHER CONDITIONS OF THE SALE; OR
+9 2. THE PROPERTY IS SHIPPED FROM AN OFFICE, A
+10 STORE, A WAREHOUSE, A FACTORY, OR ANY OTHER PLACE OF STORAGE IN THE
+11 STATE AND THE CORPORATION IS NOT TAXABLE IN THE STATE OF THE PURCHASER.
+12 (II) FOR PURPOSES OF SUBPARAGRAPH (I) OF THIS
+13 PARAGRAPH, A CORPORATION IS TAXABLE IN A STATE IF:
+14 1. IN THAT STATE THE CORPORATION IS SUBJECT TO A
+15 NET INCOME TAX, FRANCHISE TAX MEASURED BY NET INCOME, FRANCHISE TAX FOR
+16 THE PRIVILEGE OF DOING BUSINESS, OR CORPORATE STOCK TAX; OR
+17 2. THAT STATE HAS JURISDICTION TO SUBJECT THE
+18 TAXPAYER TO A NET INCOME TAX, REGARDLESS OF WHETHER, IN FACT, THE STATE
+19 IMPOSES A TAX.
+20 SECTION 5. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+21 as follows:
+22 Article – Tax – General
+23 10–102.3.
+24 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+25 INDICATED.
+26 (2) “MEMBER” MEANS:
+27 (I) A SHAREHOLDER OF AN S CORPORATION;
+28 (II) A GENERAL OR LIMITED PARTNER OF A PARTNERSHIP,
+29 LIMITED PARTNERSHIP, OR LIMITED LIABILITY PARTNERSHIP;
+30 (III) A MEMBER OF A LIMITED LIABILITY COMPANY; OR
+12 SENATE BILL 859
+1 (IV) A BENEFICIARY OF A BUSINESS TRUST OR STATUTORY
+2 TRUST.
+3 (3) “PASS–THROUGH ENTITY” MEANS:
+4 (I) AN S CORPORATION;
+5 (II) A PARTNERSHIP;
+6 (III) A LIMITED LIABILITY COMPANY THAT IS NOT TAXED AS A
+7 CORPORATION UNDER THIS TITLE; OR
+8 (IV) A BUSINESS TRUST OR STATUTORY TRUST THAT IS NOT
+9 TAXED AS A CORPORATION UNDER THIS TITLE.
+10 (B) THIS SECTION DOES NOT APPLY TO THE INCOME OF A PASS–THROUGH
+11 ENTITY THAT IS A SOLE PROPRIETORSHIP.
+12 (C) (1) IN ADDITION TO ANY OTHER TAX IMPOSED UNDER THIS TITLE, A
+13 TAX IS IMPOSED ON THE DISTRIBUTIVE SHARE OR PRO RATA SHARE OF INCOME
+14 DISTRIBUTED TO A MEMBER OF A PASS–THROUGH ENTITY FROM THE
+15 PASS–THROUGH ENTITY’S TAXABLE INCOME THAT EXCEEDS $1,000,000.
+16 (2) THE RATE OF THE TAX IMPOSED UNDER PARAGRAPH (1) OF THIS
+17 SUBSECTION IS 8.25%.
+18 10–104.
+19 The income tax does not apply to the income of:
+20 (5) except as provided in §§ 10–102.1 [and], 10–102.2, AND 10–102.3 of
+21 this subtitle, a partnership, as defined in § 761 of the Internal Revenue Code;
+22 (6) except as provided in §§ 10–102.1 [and], 10–102.2, AND 10–102.3 of
+23 this subtitle and § 10–304(3) of this title, an S corporation;
+24 (8) except as provided in §§ 10–102.1 [and], 10–102.2, AND 10–102.3 of
+25 this subtitle, a limited liability company as defined under Title 4A of the Corporations and
+26 Associations Article to the extent that the company is taxable as a partnership, as defined
+27 in § 761 of the Internal Revenue Code.
+28 10–105.
+29 (a) (1) For an individual other than an individual described in paragraph (2)
+SENATE BILL 859 13
+1 of this subsection, the State income tax rate is:
+2 (I) WITH RESPECT TO TAXPAYERS WHOSE MARYLAND TAXABLE
+3 INCOME DOES NOT EXCEED $250,001:
+4 [(i)] 1. 2% of Maryland taxable income of $1 through $1,000;
+5 [(ii)] 2. 3% of Maryland taxable income of $1,001 through $2,000;
+6 [(iii)] 3. 4% of Maryland taxable income of $2,001 through $3,000;
+7 [(iv)] 4. 4.75% of Maryland taxable income of $3,001 through
+8 $100,000;
+9 [(v)] 5. 5% of Maryland taxable income of $100,001 through
+10 $125,000;
+11 [(vi)] 6. 5.25% of Maryland taxable income of $125,001 through
+12 $150,000; AND
+13 [(vii)] 7. 5.5% of Maryland taxable income of $150,001 through
+14 $250,000; [and]
+15 [(viii)] (II) [5.75%] WITH RESPECT TO TAXPAYERS WHOSE
+16 MARYLAND TAXABLE INCOME IS AT LEAST $250,001 BUT DOES NOT EXCEED
+17 $500,000, 6% of Maryland taxable income [in excess of $250,000];
+18 (III) WITH RESPECT TO TAXPAYERS WHOSE MARYLAND TAXABLE
+19 INCOME IS AT LEAST $500,001 BUT DOES NOT EXCEED $1,000,000, 6.5% OF
+20 MARYLAND TAXABLE INCOME; AND
+21 (IV) WITH RESPECT TO TAXPAYERS WHOSE MARYLAND TAXABLE
+22 INCOME IS AT LEAST $1,000,001, 7% OF MARYLAND TAXABLE INCOME.
+23 (2) For spouses filing a joint return or for a surviving spouse or head of
+24 household as defined in § 2 of the Internal Revenue Code, the State income tax rate is:
+25 (I) WITH RESPECT TO TAXPAYERS WHOSE MARYLAND TAXABLE
+26 INCOME DOES NOT EXCEED $300,001:
+27 [(i)] 1. 2% of Maryland taxable income of $1 through $1,000;
+28 [(ii)] 2. 3% of Maryland taxable income of $1,001 through $2,000;
+29 [(iii)] 3. 4% of Maryland taxable income of $2,001 through $3,000;
+14 SENATE BILL 859
+1 [(iv)] 4. 4.75% of Maryland taxable income of $3,001 through
+2 $150,000;
+3 [(v)] 5. 5% of Maryland taxable income of $150,001 through
+4 $175,000;
+5 [(vi)] 6. 5.25% of Maryland taxable income of $175,001 through
+6 $225,000; AND
+7 [(vii)] 7. 5.5% of Maryland taxable income of $225,001 through
+8 $300,000; [and]
+9 [(viii)] (II) [5.75%] WITH RESPECT TO TAXPAYERS WHOSE
+10 MARYLAND TAXABLE INCOME IS AT LEAST $300,001 BUT DOES NOT EXCEED
+11 $600,000, 6% of Maryland taxable income [in excess of $300,000];
+12 (III) WITH RESPECT TO TAXPAYERS WHOSE MARYLAND TAXABLE
+13 INCOME IS AT LEAST $600,001 BUT DOES NOT EXCEED $1,200,000, 6.5% OF
+14 MARYLAND TAXABLE INCOME; AND
+15 (IV) WITH RESPECT TO TAXPAYERS WHOSE MARYLAND TAXABLE
+16 INCOME IS AT LEAST $1,200,001, 7% OF MARYLAND TAXABLE INCOME.
+17 (3) (I) IN THIS PARAGRAPH, “NET INVESTMENT INCOME” HAS THE
+18 MEANING STATED UNDER § 1411(C) OF THE INTERNAL REVENUE CODE, EXCLUDING
+19 THE NET GAIN ATTRIBUTABLE TO THE DISPOSITION OF PARCELS OF PROPERTY, OR
+20 PORTIONS THEREOF, THAT ARE AGRICULTURAL LAND AND BUILDINGS.
+21 (II) IN ADDITION TO THE TAX CALCULATED UNDER PARAGRAPH
+22 (1) OR (2) OF THIS SUBSECTION, FOR AN INDIVIDUAL WITH FEDERAL ADJUSTED
+23 GROSS INCOME IN EXCESS OF $350,000, A TAX IS IMPOSED ON THE NET INVESTMENT
+24 INCOME OF THE INDIVIDUAL AT A RATE OF 1%.
+25 (III) FOR AN INDIVIDUAL WHO IS NOT A RESIDENT OF THE STATE
+26 FOR THE ENTIRE TAXABLE YEAR, THE TAX UNDER THIS PARAGRAPH SHALL BE
+27 CALCULATED AS IF THE INDIVIDUAL IS A RESIDENT OF THE STATE, MULTIPLIED BY
+28 A FRACTION IN WHICH:
+29 1. THE NUMERATOR IS NET INVESTMENT INCOME
+30 ALLOCABLE TO THE STATE; AND
+31 2. THE DENOMINATOR IS THE TOTAL OF NET
+32 INVESTMENT INCOME FOR THE TAXABLE YEAR.
+SENATE BILL 859 15
+1 10–704.
+2 (a) In this section, “taxpayer” means:
+3 (1) an individual filing an income tax return; or
+4 (2) a married couple filing a joint income tax return.
+5 (b) (1) A resident who is a taxpayer may claim a credit against the State
+6 income tax for a taxable year in the amount determined under subsection (c) of this section
+7 for earned income.
+8 (2) A resident who is a taxpayer may claim a credit against the county
+9 income tax for a taxable year in the amount determined under subsection (d) of this section
+10 for earned income.
+11 (c) (1) Except as provided in paragraphs (2) and (3) of this subsection and
+12 subject to subsection (e) of this section, the credit allowed against the State income tax
+13 under subsection (b)(1) of this section is the lesser of:
+14 (i) 50% of the earned income credit allowable for the taxable year
+15 under § 32 of the Internal Revenue Code or that would have been allowable but for the
+16 limitation under § 32(m) of the Internal Revenue Code; or
+17 (ii) the State income tax for the taxable year.
+18 (2) (i) Subject to subparagraph (iii) of this paragraph and subsection (e)
+19 of this section, a resident may claim a refund in the amount, if any, by which the applicable
+20 percentage specified in subparagraph (ii) of this paragraph of the earned income credit
+21 allowable for the taxable year under § 32 of the Internal Revenue Code exceeds the State
+22 income tax for the taxable year.
+23 (ii) Subject to subparagraph (iii) of this paragraph, the applicable
+24 percentage of the earned income credit allowable under § 32 of the Internal Revenue Code
+25 to be used for purposes of determining the refund provided under this paragraph is:
+26 1. 25% for a taxable year beginning after December 31, 2013,
+27 but before January 1, 2015;
+28 2. 25.5% for a taxable year beginning after December 31,
+29 2014, but before January 1, 2016;
+30 3. 26% for a taxable year beginning after December 31, 2015,
+31 but before January 1, 2017;
+16 SENATE BILL 859
+1 4. 27% for a taxable year beginning after December 31, 2016,
+2 but before January 1, 2018;
+3 5. 28% for a taxable year beginning after December 31, 2017,
+4 but before January 1, 2020; and
+5 6. 45% for a taxable year beginning after December 31, 2019.
+6 (iii) For purposes of determining the refund provided under this
+7 paragraph, the earned income credit allowable under § 32 of the Internal Revenue Code is
+8 calculated without regard to the limitation under § 32(m) of the Internal Revenue Code.
+9 (3) (i) For purposes of this section for an individual without a qualifying
+10 child, the credit allowable for a taxable year under § 32 of the Internal Revenue Code is
+11 calculated without regard to:
+12 1. the minimum age requirement under § 32(c)(1)(A)(ii)(II) of
+13 the Internal Revenue Code; or
+14 2. the limitation under § 32(m) of the Internal Revenue Code.
+15 (ii) [Subject to subparagraph (iii) of this paragraph, the] THE credit
+16 allowed against the State income tax under subsection (b)(1) of this section for an individual
+17 without a qualifying child is:
+18 1. equal to 100% of the earned income credit allowable for a
+19 taxable year under § 32 of the Internal Revenue Code; AND
+20 2. CALCULATED BY SUBSTITUTING:
+21 A. $7,840 FOR THE EARNED INCOME AMOUNT IN §
+22 32(B)(2)(A) OF THE INTERNAL REVENUE CODE; AND
+23 B. $19,160 FOR THE PHASE–OUT AMOUNT IN §
+24 32(B)(2)(A) OF THE INTERNAL REVENUE CODE.
+25 [(iii) For a taxable year beginning after December 31, 2019, but before
+26 January 1, 2023, the tax credit allowed under this paragraph may not exceed $530 for a
+27 taxable year.]
+28 (III) 1. FOR EACH TAXABLE YEAR BEGINNING AFTER
+29 DECEMBER 31, 2028, THE EARNED INCOME AMOUNT AND PHASE–OUT AMOUNT IN
+30 SUBPARAGRAPH (II)2 OF THIS PARAGRAPH SHALL BE INCREASED BY AN AMOUNT
+31 EQUAL TO THE PRODUCT OF MULTIPLYING EACH AMOUNT BY THE COST–OF–LIVING
+32 ADJUSTMENT SPECIFIED IN SUBSUBPARAGRAPH 2 OF THIS SUBPARAGRAPH.
+SENATE BILL 859 17
+1 2. FOR THE PURPOSES OF THIS SUBPARAGRAPH, THE
+2 COST–OF–LIVING ADJUSTMENT IS THE COST–OF–LIVING ADJUSTMENT WITHIN THE
+3 MEANING OF § 1(F)(3) OF THE INTERNAL REVENUE CODE FOR THE CALENDAR YEAR
+4 IN WHICH THE TAXABLE YEAR BEGINS, AS DETERMINED BY THE COMPTROLLER BY
+5 SUBSTITUTING “CALENDAR YEAR 2022” FOR “CALENDAR YEAR 2016” IN § 1(F)(3)(A)
+6 OF THE INTERNAL REVENUE CODE.
+7 3. IF ANY INCREASE DETERMINED UNDER
+8 SUBSUBPARAGRAPH 1 OF THIS SUBPARAGRAPH IS NOT A MULTIPLE OF $10, THE
+9 INCREASE SHALL BE ROUNDED DOWN TO THE NEXT LOWEST MULTIPLE OF $10.
+10 (iv) If the tax credit allowed under this paragraph in any taxable year
+11 exceeds the total tax otherwise payable by the individual without a qualifying child for that
+12 taxable year, the individual may claim a refund in the amount of the excess.
+13 (d) (1) Except as provided in paragraph (2) of this subsection and subject to
+14 subsection (e) of this section, the credit allowed against the county income tax under
+15 subsection (b)(2) of this section is the lesser of:
+16 (i) the earned income credit allowable for the taxable year under §
+17 32 of the Internal Revenue Code or that would have been allowable but for the limitation
+18 under § 32(m) of the Internal Revenue Code multiplied by 10 times the county income tax
+19 rate for the taxable year; or
+20 (ii) the county income tax for the taxable year.
+21 (2) (i) A county may provide, by law, for a refundable county earned
+22 income credit as provided in this paragraph.
+23 (ii) If a county provides for a refundable county earned income credit
+24 under this paragraph, on or before July 1 prior to the beginning of the first taxable year for
+25 which it is applicable, the county shall give the Comptroller notice of the refundable county
+26 earned income credit.
+27 (iii) If a county provides for a refundable county earned income credit
+28 under this paragraph, a resident may claim a refund of the amount, if any, by which the
+29 product of multiplying the credit allowable for the taxable year under § 32 of the Internal
+30 Revenue Code or that would have been allowable but for the limitation under § 32(m) of
+31 the Internal Revenue Code by 5 times the county income tax rate for the taxable year
+32 exceeds the county income tax for the taxable year.
+33 (iv) The amount of any refunds payable under a refundable county
+34 earned income credit operates to reduce the income tax revenue from individuals
+35 attributable to the county income tax for that county.
+18 SENATE BILL 859
+1 (e) (1) Subject to paragraph (2) of this subsection, for an individual who is a
+2 resident of the State for only a part of the year, the amount of the credit or refund allowed
+3 under this section shall be determined based on the part of the earned income credit
+4 allowable for the taxable year under § 32 of the Internal Revenue Code that is attributable
+5 to Maryland, determined by multiplying the federal earned income credit by a fraction:
+6 (i) the numerator of which is the Maryland adjusted gross income of
+7 the individual; and
+8 (ii) the denominator of which is the federal adjusted gross income of
+9 the individual.
+10 (2) For purposes of determining the amount of the credit or refund under
+11 paragraph (1) of this subsection, the part of the earned income credit allowable for the
+12 taxable year under § 32 of the Internal Revenue Code is calculated without regard to the
+13 limitation under § 32(m) of the Internal Revenue Code.
+14 10–751.
+15 (a) (1) In this section the following words have the meanings indicated.
+16 (2) “Qualified child” means a dependent of a taxpayer, if the dependent:
+17 (i) is a dependent for purposes of § 152 of the Internal Revenue Code
+18 in effect on December 31, 2024; and
+19 (ii) [1.] is under the age of [6] 18 years[; or
+20 2. A. is under the age of 17 years; and
+21 B. is a child with a disability, as defined under § 8–401 of the
+22 Education Article].
+23 (3) “Taxpayer” means:
+24 (i) an individual filing an income tax return; or
+25 (ii) a married couple filing a joint income tax return.
+26 (b) [A] SUBJECT TO SUBSECTION (D) OF THIS SECTION, A taxpayer who is a
+27 resident [and has federal adjusted gross income for the taxable year of $15,000 or less] may
+28 claim a credit against the State income tax for each qualified child in an amount equal to:
+29 (1) $750, IF THE QUALIFIED CHILD IS UNDER THE AGE OF 6 YEARS; OR
+30 (2) $500, IF THE QUALIFIED CHILD IS AT LEAST 6 YEARS OLD.
+SENATE BILL 859 19
+1 (C) (1) FOR EACH TAXABLE YEAR BEGINNING AFTER DECEMBER 31,
+2 2028, THE AMOUNTS SPECIFIED IN SUBSECTION (B) OF THIS SECTION SHALL BE
+3 INCREASED BY AN AMOUNT EQUAL TO THE PRODUCT OF MULTIPLYING THE
+4 AMOUNTS BY THE COST–OF–LIVING ADJUSTMENT SPECIFIED IN THIS SUBSECTION.
+5 (2) FOR THE PURPOSES OF THIS SUBSECTION, THE COST–OF–LIVING
+6 ADJUSTMENT IS THE COST–OF–LIVING ADJUSTMENT WITHIN THE MEANING OF §
+7 1(F)(3) OF THE INTERNAL REVENUE CODE FOR THE CALENDAR YEAR IN WHICH THE
+8 TAXABLE YEAR BEGINS, AS DETERMINED BY THE COMPTROLLER, BY SUBSTITUTING
+9 “CALENDAR YEAR 2027” FOR “CALENDAR YEAR 2016” IN § 1(F)(3)(A) OF THE
+10 INTERNAL REVENUE CODE.
+11 (3) IF ANY INCREASE DETERMINED UNDER PARAGRAPH (1) OF THIS
+12 SUBSECTION IS NOT A MULTIPLE OF $50, THE INCREASE SHALL BE ROUNDED DOWN
+13 TO THE NEXT LOWEST MULTIPLE OF $50.
+14 (D) THE AMOUNT OF THE CREDIT ALLOWED UNDER SUBSECTION (B) OF
+15 THIS SECTION FOR A QUALIFIED CHILD SHALL BE REDUCED, BUT NOT BELOW ZERO,
+16 BY $50 FOR EACH $1,000, OR FRACTION THEREOF, BY WHICH THE TAXPAYER’S
+17 FEDERAL ADJUSTED GROSS INCOME EXCEEDS:
+18 (1) $65,000 IN THE CASE OF A MARRIED COUPLE FILING A JOINT
+19 RETURN OR A SURVIVING SPOUSE OR HEAD OF HOUSEHOLD AS DEFINED IN § 2 OF
+20 THE INTERNAL REVENUE CODE FILING AN INCOME TAX RETURN;
+21 (2) $32,500 IN THE CASE OF A MARRIED INDIVIDUAL FILING
+22 SEPARATELY; OR
+23 (3) $45,000 IN THE CASE OF ANY OTHER INDIVIDUAL.
+24 [(c)] (E) If the credit allowed under this section in any taxable year exceeds the
+25 State income tax for that taxable year, the taxpayer may claim a refund in the amount of
+26 the excess.
+27 SECTION 6. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+28 as follows:
+29 Article – Tax – General
+30 10–402.1.
+31 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+32 INDICATED.
+20 SENATE BILL 859
+1 (2) “COMBINED GROUP” MEANS A GROUP OF CORPORATIONS:
+2 (I) THAT IS ENGAGED IN A UNITARY BUSINESS;
+3 (II) IN WHICH MORE THAN 50% OF THE VOTING STOCK OF EACH
+4 MEMBER IS DIRECTLY OR INDIRECTLY OWNED BY:
+5 1. A COMMON OWNER OR COMMON OWNERS, EITHER
+6 CORPORATE OR NONCORPORATE; OR
+7 2. ONE OR MORE MEMBER CORPORATIONS OF THE
+8 GROUP;
+9 (III) THE MEMBERS OF WHICH ARE SUBJECT TO THE INCOME TAX
+10 OR WOULD BE SUBJECT TO THE INCOME TAX IF DOING BUSINESS IN THE STATE; AND
+11 (IV) CONSISTING OF ANY OTHER MEMBERS UNDER THE
+12 CIRCUMSTANCES AND TO THE EXTENT PROVIDED IN REGULATIONS ADOPTED BY
+13 THE COMPTROLLER TO PREVENT THE AVOIDANCE OF TAX OR TO REFLECT CLEARLY
+14 THE INCOME OF ANY MEMBER OF THE COMBINED GROUP FOR ANY PERIOD.
+15 (3) “COMBINED RETURN” MEANS A TAX RETURN FOR THE COMBINED
+16 GROUP CONTAINING INFORMATION AS PROVIDED IN THIS SECTION OR OTHERWISE
+17 REQUIRED BY THE COMPTROLLER.
+18 (4) “UNITARY BUSINESS” MEANS A SINGLE ECONOMIC ENTERPRISE
+19 THAT IS MADE EITHER OF SEPARATE PARTS OF A SINGLE BUSINESS ENTITY OR OF A
+20 COMMONLY CONTROLLED GROUP OF BUSINESS ENTITIES THAT ARE SUFFICIENTLY
+21 INTERDEPENDENT, INTEGRATED, AND INTERRELATED THROUGH THEIR ACTIVITIES
+22 SO AS TO PROVIDE MUTUAL BENEFIT THAT PRODUCES A SHARING OR EXCHANGE OF
+23 VALUE AMONG THEM AND A SIGNIFICANT FLOW OF VALUE TO THE SEPARATE PARTS.
+24 (B) (1) THE TERM “UNITARY BUSINESS” SHALL BE CONSTRUED TO THE
+25 BROADEST EXTENT ALLOWED UNDER THE U.S. CONSTITUTION.
+26 (2) A BUSINESS CONDUCTED DIRECTLY OR INDIRECTLY BY ONE
+27 CORPORATION IS A UNITARY BUSINESS WITH RESPECT TO THAT PORTION OF A
+28 BUSINESS CONDUCTED BY ANOTHER CORPORATION THROUGH ITS DIRECT OR
+29 INDIRECT INTEREST IN A PARTNERSHIP IF THE REQUIREMENTS OF SUBSECTION
+30 (A)(4) OF THIS SECTION ARE SATISFIED, INCLUDING IF THERE IS SYNERGY AND AN
+31 EXCHANGE AND FLOW OF VALUE BETWEEN THE TWO PARTS OF THE BUSINESS AND
+32 THE TWO CORPORATIONS ARE MEMBERS OF THE SAME COMMONLY CONTROLLED
+33 GROUP.
+SENATE BILL 859 21
+1 (3) A BUSINESS CONDUCTED BY A PARTNERSHIP SHALL BE TREATED
+2 AS CONDUCTED BY ITS PARTNERS, WHETHER DIRECTLY HELD OR INDIRECTLY HELD
+3 THROUGH A SERIES OF PARTNERSHIPS, TO THE EXTENT OF THE PARTNER’S
+4 DISTRIBUTIVE SHARE OF THE PARTNERSHIP’S INCOME, REGARDLESS OF THE
+5 PERCENTAGE OF THE PARTNER’S OWNERSHIP INTEREST OR ITS DISTRIBUTIVE OR
+6 ANY OTHER SHARE OF PARTNERSHIP INCOME.
+7 (C) (1) EXCEPT AS PROVIDED BY AND SUBJECT TO REGULATIONS
+8 ADOPTED BY THE COMPTROLLER, FOR ALL TAXABLE YEARS BEGINNING AFTER
+9 DECEMBER 31, 2028, A CORPORATION ENGAGED IN A UNITARY BUSINESS SHALL
+10 FILE A COMBINED RETURN, REPORTING AND PAYING TAX ON WORLDWIDE TAXABLE
+11 INCOME AS A COMBINED GROUP, REFLECTING THE AGGREGATE INCOME TAX
+12 LIABILITY OF ALL MEMBERS OF THE COMBINED GROUP THAT ARE ENGAGED IN A
+13 UNITARY BUSINESS.
+14 (2) THE TAXABLE INCOME OF A CORPORATION REQUIRED TO FILE
+15 UNDER § 10–811(A)(2) OF THIS TITLE IS EQUAL TO THE COMBINED GROUP’S
+16 MARYLAND MODIFIED INCOME AS ADJUSTED UNDER SUBSECTION (D)(3) OF THIS
+17 SECTION.
+18 (D) (1) THE MARYLAND MODIFIED INCOME OF THE COMBINED GROUP
+19 EQUALS THE PRODUCT OF:
+20 (I) THE COMBINED GROUP’S APPORTIONABLE MARYLAND
+21 MODIFIED INCOME, AS DETERMINED UNDER PARAGRAPH (2) OF THIS SUBSECTION
+22 AND ADJUSTED UNDER PARAGRAPH (3) OF THIS SUBSECTION; AND
+23 (II) THE COMBINED GROUP’S MARYLAND APPORTIONMENT
+24 FACTOR, AS DETERMINED UNDER PARAGRAPH (4) OF THIS SUBSECTION.
+25 (2) (I) SUBJECT TO SUBPARAGRAPHS (II) THROUGH (IV) OF THIS
+26 PARAGRAPH, THE APPORTIONABLE MARYLAND MODIFIED INCOME OF THE
+27 COMBINED GROUP EQUALS THE SUM OF THE CORPORATION’S AND EACH MEMBER’S
+28 MARYLAND MODIFIED INCOME.
+29 (II) 1. SUBJECT TO SUBSUBPARAGRAPH 2 OF THIS
+30 SUBPARAGRAPH, FOR ANY MEMBER INCORPORATED IN THE UNITED STATES OR
+31 INCLUDED IN A CONSOLIDATED FEDERAL CORPORATE INCOME TAX RETURN, THE
+32 INCOME TO BE INCLUDED IN THE TOTAL APPORTIONABLE INCOME OF THE
+33 COMBINED GROUP IS THE MARYLAND MODIFIED INCOME AS CALCULATED UNDER §
+34 10–304 OF THIS TITLE.
+35 2. THE INCOME OF EACH MEMBER SHALL BE
+22 SENATE BILL 859
+1 CALCULATED ON A SEPARATE RETURN BASIS AS IF THE MEMBER WERE NOT
+2 CONSOLIDATED FOR FEDERAL INCOME TAX PURPOSES.
+3 (III) 1. FOR ANY MEMBER NOT INCLUDED UNDER
+4 SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE INCOME TO BE INCLUDED IN THE
+5 TOTAL INCOME OF THE COMBINED GROUP IS DETERMINED AS PROVIDED UNDER
+6 THIS SUBPARAGRAPH.
+7 2. A PROFIT AND LOSS STATEMENT SHALL BE PREPARED
+8 FOR EACH FOREIGN BRANCH OR CORPORATION IN THE CURRENCY IN WHICH THE
+9 BOOKS OF ACCOUNT OF THE BRANCH OR CORPORATION ARE REGULARLY
+10 MAINTAINED.
+11 3. THE PROFIT AND LOSS STATEMENT SHALL BE
+12 ADJUSTED TO CONFORM TO GENERALLY ACCEPTED ACCOUNTING PRINCIPLES AS
+13 ADOPTED BY THE U.S. FINANCIAL ACCOUNTING STANDARDS BOARD FOR THE
+14 PREPARATION OF THE PROFIT AND LOSS STATEMENTS, EXCEPT AS MODIFIED BY
+15 REGULATION.
+16 4. EXCEPT AS OTHERWISE PROVIDED BY REGULATION,
+17 THE PROFIT AND LOSS STATEMENT OF EACH MEMBER OF THE COMBINED GROUP,
+18 AND THE APPORTIONMENT FACTORS RELATED TO EACH STATEMENT, WHETHER
+19 UNITED STATES OR FOREIGN, SHALL BE TRANSLATED INTO THE CURRENCY IN
+20 WHICH THE PARENT COMPANY MAINTAINS ITS BOOKS AND RECORDS.
+21 5. INCOME APPORTIONED TO THE STATE SHALL BE
+22 EXPRESSED IN UNITED STATES DOLLARS.
+23 (IV) IF A UNITARY BUSINESS INCLUDES INCOME FROM A
+24 PARTNERSHIP, THE INCOME TO BE INCLUDED IN THE TOTAL INCOME OF THE
+25 COMBINED GROUP EQUALS THE DIRECT AND INDIRECT DISTRIBUTIVE SHARE OF
+26 THE PARTNERSHIP’S UNITARY BUSINESS INCOME ALLOCATED TO ANY MEMBER OF
+27 THE COMBINED GROUP.
+28 (3) THE COMBINED GROUP’S APPORTIONABLE MARYLAND MODIFIED
+29 INCOME SHALL BE ADJUSTED TO ELIMINATE INTERCOMPANY TRANSACTIONS AS
+30 DETERMINED UNDER THE INTERNAL REVENUE CODE.
+31 (4) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE
+32 COMBINED GROUP’S MARYLAND APPORTIONMENT FACTOR IS A FRACTION:
+33 1. THE NUMERATOR OF WHICH IS THE SUM OF THE
+34 CORPORATION’S AND EACH MEMBER’S MARYLAND FACTORS UNDER § 10–402 OF
+35 THIS SUBTITLE; AND
+SENATE BILL 859 23
+1 2. THE DENOMINATOR OF WHICH IS THE SUM OF THE
+2 CORPORATION’S AND EACH MEMBER’S FACTORS UNDER § 10–402 OF THIS SUBTITLE.
+3 (II) THE APPORTIONMENT FACTORS OF PASS–THROUGH
+4 ENTITY MEMBERS ARE INCLUDED IN THE NUMERATOR UNDER SUBPARAGRAPH (I)1
+5 OF THIS PARAGRAPH AND THE DENOMINATOR UNDER SUBPARAGRAPH (I)2 OF THIS
+6 PARAGRAPH TO THE EXTENT OF THE CORPORATION’S DIRECT AND INDIRECT
+7 DISTRIBUTIVE SHARE OF THAT ENTITY.
+8 (E) (1) THE COMPTROLLER SHALL ADOPT REGULATIONS THAT ARE
+9 NECESSARY AND APPROPRIATE TO CARRY OUT THIS SECTION.
+10 (2) THE REGULATIONS ADOPTED BY THE COMPTROLLER SHALL BE
+11 CONSISTENT WITH THE “PRINCIPLES FOR DETERMINING THE EXISTENCE OF A
+12 UNITARY BUSINESS” (REG. IV.1.(B)) OF THE MODEL GENERAL ALLOCATION AND
+13 APPORTIONMENT REGULATIONS, AS ADOPTED BY THE MULTISTATE TAX
+14 COMMISSION.
+15 10–811.
+16 (A) (1) [Each member of] EXCEPT AS PROVIDED BY AND SUBJECT TO
+17 REGULATIONS ADOPTED BY THE COMPTROLLER, an affiliated group of corporations
+18 [shall file a separate income tax return] ENGAGED IN A UNITARY BUSINESS SHALL FILE
+19 A COMBINED INCOME TAX RETURN REFLECTING THE AGGREGATE INCOME TAX
+20 LIABILITY OF ALL THE MEMBERS OF THE AFFILIATED GROUP THAT ARE ENGAGED IN
+21 A UNITARY BUSINESS.
+22 (2) THE RETURN REQUIRED UNDER PARAGRAPH (1) OF THIS
+23 SUBSECTION SHALL INCLUDE THE INCOME AND APPORTIONMENT FACTORS
+24 DETERMINED UNDER § 10–402.1(D) OF THIS TITLE, AND ANY OTHER INFORMATION
+25 REQUIRED BY THE COMPTROLLER, FOR ALL MEMBERS OF THE COMBINED GROUP
+26 WHEREVER LOCATED OR DOING BUSINESS.
+27 (3) (I) EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF THIS
+28 PARAGRAPH, THE COMBINED RETURN SHALL BE FILED UNDER THE NAME AND
+29 FEDERAL EMPLOYER IDENTIFICATION NUMBER OF THE PARENT CORPORATION IF
+30 THE PARENT IS A MEMBER OF THE COMBINED GROUP.
+31 (II) IF THERE IS NO PARENT CORPORATION OR IF THE PARENT
+32 IS NOT A MEMBER OF THE COMBINED GROUP, THE MEMBERS OF THE COMBINED
+33 GROUP SHALL CHOOSE A MEMBER TO FILE THE RETURN.
+34 (III) THE FILING MEMBER UNDER SUBPARAGRAPH (I) OR (II) OF
+24 SENATE BILL 859
+1 THIS PARAGRAPH SHALL CONTINUE TO FILE THE COMBINED RETURN UNLESS THE
+2 FILING MEMBER IS NO LONGER THE PARENT CORPORATION OR NO LONGER A
+3 MEMBER OF THE COMBINED GROUP.
+4 (4) THE RETURN SHALL BE SIGNED BY A RESPONSIBLE OFFICER OF
+5 THE FILING MEMBER ON BEHALF OF THE COMBINED GROUP MEMBERS.
+6 (5) MEMBERS OF THE COMBINED GROUP ARE JOINTLY AND
+7 SEVERALLY LIABLE FOR THE TAX LIABILITY OF THE COMBINED GROUP INCLUDED
+8 IN THE COMBINED RETURN.
+9 (B) (1) THE COMPTROLLER MAY, BY REGULATION, REQUIRE THAT THE
+10 COMBINED RETURN INCLUDE THE INCOME AND ASSOCIATED APPORTIONMENT
+11 FACTORS OF ENTITIES THAT ARE NOT INCLUDED IN THE COMBINED REPORT BUT
+12 THAT ARE MEMBERS OF A UNITARY BUSINESS IN ORDER TO REFLECT PROPER
+13 APPORTIONMENT OF INCOME OF THE ENTIRE UNITARY BUSINESS.
+14 (2) IF THE COMPTROLLER DETERMINES THAT THE REPORTED
+15 INCOME OR LOSS OF A TAXPAYER ENGAGED IN A UNITARY BUSINESS WITH A MEMBER
+16 NOT INCLUDED IN THE COMBINED GROUP REPRESENTS AN AVOIDANCE OR EVASION
+17 OF TAX, THE COMPTROLLER MAY, ON A CASE–BY–CASE BASIS, REQUIRE THAT ALL
+18 OR PART OF THE INCOME AND ASSOCIATED APPORTIONMENT FACTORS OF THE
+19 MEMBER BE INCLUDED IN THE TAXPAYER’S COMBINED RETURN.
+20 (3) THE COMPTROLLER MAY REQUIRE:
+21 (I) THE EXCLUSION OF ONE OR MORE FACTORS, THE
+22 INCLUSION OF ONE OR MORE ADDITIONAL FACTORS, OR THE EMPLOYMENT OF ANY
+23 OTHER METHOD THAT WILL FAIRLY REPRESENT THE TAXPAYER’S BUSINESS IN THE
+24 STATE; OR
+25 (II) THE EMPLOYMENT OF ANY OTHER METHOD TO EFFECTUATE
+26 A PROPER REFLECTION OF THE TOTAL AMOUNT OF INCOME SUBJECT TO
+27 APPORTIONMENT AND AN EQUITABLE ALLOCATION AND APPORTIONMENT OF THE
+28 COMBINED GROUP’S OR ITS MEMBERS’ INCOME.
+29 (C) THE COMPTROLLER SHALL ADOPT REGULATIONS THAT ARE
+30 NECESSARY AND APPROPRIATE TO CARRY OUT THIS SECTION.
+31 SECTION 7. AND BE IT FURTHER ENACTED, That, for a taxable year beginning
+32 after December 31, 2026, but before January 1, 2028, notwithstanding §§ 13–602 and
+33 13–702 of the Tax – General Article, the Comptroller shall assess interest and penalties
+34 under §§ 13–602 and 13–702 of the Tax – General Article if a corporation pays estimated
+35 income tax for the taxable year in an amount less than 90% of the tax required to be shown
+SENATE BILL 859 25
+1 on the corporation’s income tax return for the taxable year.
+2 SECTION 8. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall be
+3 applicable to all taxable years beginning after December 31, 2024.
+4 SECTION 9. AND BE IT FURTHER ENACTED, That Section 3 of this Act shall take
+5 effect July 1, 2026.
+6 SECTION 10. AND BE IT FURTHER ENACTED, That Section 4 of this Act shall
+7 take effect July 1, 2027, and shall be applicable to all taxable years beginning after
+8 December 31, 2026.
+9 SECTION 11. AND BE IT FURTHER ENACTED, That Section 5 of this Act shall
+10 take effect July 1, 2028, and shall be applicable to all taxable years beginning after
+11 December 31, 2027.
+12 SECTION 12. AND BE IT FURTHER ENACTED, That Section 6 of this Act shall
+13 take effect July 1, 2028, and shall be applicable to all taxable years beginning after
+14 December 31, 2028.
+15 SECTION 13. AND BE IT FURTHER ENACTED, That, except as provided in
+16 Sections 9 through 12 of this Act, this Act shall take effect July 1, 2025.
+[DELETED: :CA      5   C A F F M l a c t f c c t d M t i a M m i r t s c c t i d t a m o a c p e f t p e t i e a c a e e f t M e i t c f i w q p a a a a f i a t i e r t r m o t c]
+[DELETED:  S  T c B  A  S  A  ( B  A  S 7 1 ( a ( 1 1 a ( 1  A  ( B  A  S  A  ( B  A S  A  ( ( B  A S  A  ( (  S T A 7  ( N u t e]
+[DELETED: S 3 w r  ( ( E s s    ( t C C    ( o o   ( E s d    ( t C C    ( o i   ( ( N a i i t u c a a d a o     1 $     2 $ f a d d o o a J 1 2     3 $ f a d d o o a J 1 2     4 $ f a d d o o a J 1 2     5 $ f a d d o o a J 1 2 a]     6 $ f a d d o o a J 1 2 p a d s u e B A  1,2]
+[DELETED:  S  a   7 $F A D D O O A1,2   P A D S U E A   .    ( T a    ( U t f c a b § 2 o t I R d t M e t m n e 1 o t a b w t d     1 $     2 $ f a d d o o a J 1 2     3 $ f a d d o o a J 1 2     4 $ f a d d o o a J 1 2     5 $ f a d d o o a J 1 2 a]     6 $ f a d d o o a J 1 2 p a d s u e B A  1,2 a   7 $F A D D O O A1,2   P A D S U E A   .   ( ( I m t a e a i e a t t o t d o t l p t     1 a C     2 a]
+[DELETED: S 5     A t a l     B t a s    ( T i     1 i 2 t m     2 i o i 2 o t I R C o t f e t r o t l p    ( 1 N C t f t p o d t v o t d s u e e     2 T a t 1  ( E a p i s ( o t s a u e p d t   ( a t y t b i t c y i w t a o]   F T C Y I W T A ID ]
+[DELETED:  S    () a]( a  ( S R i   ( t f y t b d t c y i w t a o] ( F Y T B D T C Y F T C Y I W T A ID    () a f y t p t c y i w t]( a  S a A 1  ( ( I   ( “    ( i E 3,2 ;    ( 1 i     2 A i     B i E   ( “    ( a    ( a]
+[DELETED: S 7  ( A t q  ( I i e  S a A() I,“–”“N T SN PST EY A PSTYSE    ”§1() IN A T T T I T I U TE F A T Y B A E   BD3,2 A   ST1,2,() H  NS A%’ O PST EYS T I T E() E A P O T B T F T U    S89.() NOW  T S E F C F I PSN .() TH O RF§36TA. U    R R() TH O]
+[DELETED:  S  1  T   ( e §1 o]§§111   s   ( e §1 ]§§111   s   ( e §1 ]§§111   s A i  S a A 1  ( I a t t m u § 1 t 1 o t s   ( a t C c$   L M B A F A T Y B A3,2,J1,2    A  ; 1  I d a 1  ( ( ( I     1 “ c]
+[DELETED: S 9 A O 3     2 “ d    ( I w c o b c o i t S s b d u a s s f a f    ( I s r    ( I i t i c t c a a m c u i   ( E    ( f J M c     1 t t     2 t    ( f J M c     1 t t     2 t    ( f J]
+[DELETED:  S  M c     1 t t     2 t    ( f J M c     1 t t     2 t    ( f o d b d u a s s f a f b m i M   ( ( E y a w h c t f a f m t     1 t t     2 t    ( T d u s ( o t p t M h y a o   ( T i    ( r    ( t]
+[DELETED: S 1 t   () FD3O A T Y B A E S O T P P S B I I T  O  ,(,(       P I D O S T A TE  ,(E       P I S F A OE AE A WE A FY O A O P O S I T,.   ) F(IO P O S I O TH :    X E S X ;     S H J T S TX R T ,   S a A() ( N ( “M”:R   () S;A    () IA G O L P O A PPP ;  () ;IAY ]
+[DELETED:  S   ()VA B O A B T O S ( “P–”:STY   () S;A    () ;IA  ()IA CE   ()VA B T O S T T I N() THST() ( INE  D S O S O I T A M O A PST E F TSTYS’$ ( T(   1  T   ( e ad 2 ],,1 t   ( e ad 2 ],,1 t   ( e ad 2 ],,1 t A i 1  ( ( F]
+[DELETED: S 1 o   ) W A    ()2] 1    () 3] 2    () 4] 3    () 4 o M t i o $ t] 4 $    () 5 o M t i o $ t] 5 $    () 5 o M t i o $ t] 6 $    () 5 o M t i o $ t] $ a]    ()  5]()[I W R T T W$ T I I A L  B D N E,6%[]   i  () IW A I A L  B D N E   O1$,6;E   () VW A    A,7% .   ( F h   ) W A     () 2] 1    () 3] 2    () 4] 3]
+[DELETED:  S     () 4 o M t i o $ t] 4 $    () 5 o M t i o $ t] 5 $    () 5 o M t i o $ t] 6 $    () 5 o M t i o $ t] $ a]    () 5]()[II W R T T W$ T I I A L  B D N E,6%[]   i  () IW A I A L  B D N E   O1$,6;E   () VW A    A,7% . ( () I,“NH NE   C  N E OE 1()IRCY F .  () IN)()O  O T SN F I W F A    () FIO T T E T YR T T U T P S B TE    1 N I N I I TE ;   2 D I T T O N]
+[DELETED: S 1 1  ( I   ( a   ( a  ( ( A r w i a t m c a c a t S i f   ( A i f  ( ( E s s u    ( 5 u l    ( t   ( ( S o p a i    ( S p t     1 2 b     2 2 f a t y b a D 3 2     3 2 b]
+[DELETED:  S      4 2 b     5 2 b     6 4    ( F p o d t r p u t p c   ( ( F c c     1 t t     2 t    ( Se ]H a w   1 e t   2 :   A $0F T E I A I ())IRC;  N E OE    B $0–F T PEO A I ())IRC  N E O     ( F J t  () 1 IO E T Y B A3,2,   EO II )TOFL  .]
+[DELETED: S 1   2 F T P O T SH TTOFLTOFL––  F  N E O1())IRS  O C   C    F2”“2”§1() N E ORC.   3  A I D U    $ .    ( I e t  ( ( E s ( o t s t c a a t c i t u s    ( t 3 u r    ( t   ( ( A i    ( I u w e    ( I u p R t e    ( T e i c o t r t i t r f i a]
+[DELETED:  S   ( ( S r u t s s b d b o t p o t e i c a t    ( t t    ( t t   ( F p t l 1  ( ( I   ( “    ( i i    ( 1. i 6 s;][]18     2 A i     B i Ee.   ( “    ( a    ( a  ( A ]S()U D N  r as  c ( $,6;  S  ( , $0.  ]
+[DELETED: S 1() ( FD3O E T Y B A E ,(T A S I B O T S S B B A A E T T P O M TTOFL–. ( F,–N TOFL I T CTOFL A W T M O –())IR  N E OS  OR C2”“2”§1() Y  F C Y  I  F O TRC. E O ( I(    () T(H A O T C A U S B OD O  F E  O F TF B W T TRS0$,, ( $I T C O A M C F A J    N E ORC; ( $I T C O A M I FY  ( $0.  () I]( S t  S a A    )()N ]
+[DELETED:  S     )“C”P      )T    )5II        . C O O C OS EE        O M M C O T     IT TE      VC O A O M U T A T T E P I R A B O    )“CN  O    )“US T D     )()T“H US   O.C    )B C D O I B O I A U B W R T T P O A C B A C T I D O I I A P I R O S)) D  ]
+[DELETED: S 2   )S  A S O PS T T E O T PRS S O T PPS IE R O TRS    )()X A P B A S T R B T OR F A T Y B A3,2   N  A A C GP R T A I T    ) T I O A C R T F  A O T T I E T T C GPS1())() D     )()TH A M I O T C G     )’T C GPS A AE   (  N )     )’IT C GPS A AR   ()     )()S()(U II  IV H T A A M I O TNSRS      )1.SIU T S  O TH F A M I I T N T OUN  T B I I T T A I O T A 4      . I O E M S B]
+[DELETED:  S  O A S R B A I T M W N      )1.IO A M N I U II H ) C      . O A O T B O C A R      . P A L S S B B T  I C T O F T.FASS       .ENP T A F R T E ST WS T O FN S B T I T C I      .I A T T T S B N TS     )VF A U B I I F AP T I T B I I T T I O T DPS    )T’PS A S B A T E I T A N E ORC     )()S()U II H PS AM       N O W I T S O TNSRS A   ’M§1E  ]
+[DELETED: S 2      D O W I T S O TNSRS   ’§12     )TIH A F O PST I) I ) T T E O T CNS D A I    )()TH O S A R T A    )T O W T R F E T X O APDB”(R..())MG US EG VB  O E LR,M ES A A B T U A  1    E m of)()[]X A P B A S T O   sn C I T R R T A I T .   )T( R R U P  O T S I T I A A F  D E 1() OR      )()E(X A P I S II O TH T C R S B F U T N AP     )IFP      )T()(IH I  II ]
+[DELETED:  S  M I N L T P C O N L A    )    ) O T C G A J A    )()TC,H OY N  R I T I A A A A M O A U B I O T R P    )I T O D T T RX  OY EBYCS C,–– P O T I A A A F O TRS     )TC O    )T E O O O M FS TS RSE      IT P R O T T A O I S TPSS E’   )TH O S A R T A    S a D 3 2 b b J 1 2 n § 1 a 1 u i]
+[DELETED: S 2 o  S a  S e  S t e J 1 2 a s b a t a t y b a D  S t e J 1 2 a s b a t a t y b a D  S t e J 1 2 a s b a t a t y b a D  S 1 A B I F E T e a p i S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 859
+Q3, Q7 5lr2255
+SB 766/24 – B&T CF HB 1014
+By: Senators Hettleman, Benson, Rosapepe, Lewis Young, and M. Washington
+Introduced and read first time: January 28, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Fair Share for Maryland Act of 2025
+3 FOR the purpose of altering a certain limit on the unified credit used for determining the
+4 Maryland estate tax for decedents dying on or after a certain date; altering a certain
+5 limitation on the amount of the Maryland estate tax for decedents dying on or after
+6 a certain date; prohibiting, except under certain circumstances, the application of
+7 certain amendments to the Internal Revenue Code to the determination of Maryland
+8 taxable income for certain taxable years; altering the definition of “qualified child”
+9 for purposes of a certain credit against the State income tax for certain dependent
+10 children; imposing a certain business transportation fee on certain taxable income of
+11 corporations and pass–through entities for certain taxable years; limiting, for certain
+12 taxable years, the maximum amount of net operating losses that may be allowed in
+13 determining Maryland taxable income and Maryland modified income; requiring
+14 that certain sales of tangible personal property be included in the numerator of the
+15 sales factor used for apportioning a corporation’s income to the State under certain
+16 circumstances; altering the State income tax rate on Maryland taxable income of
+17 certain individuals; providing for an additional State individual income tax rate on
+18 the net investment income of certain individuals; imposing a certain income tax on
+19 income distributed to a member of a certain pass–through entity from the
+20 pass–through entity’s taxable income exceeding a certain amount; expanding
+21 eligibility for the Maryland earned income tax credit for individuals without
+22 qualifying children by altering the income thresholds at which the credit phases out;
+23 providing that, after a certain taxable year, the income threshold and phase–out
+24 amounts are adjusted annually for inflation; altering the income eligibility
+25 requirements for purposes of qualifying for a certain credit against the State income
+26 tax for certain dependent children; altering the calculation of the child tax credit;
+27 requiring certain corporations to compute Maryland taxable income using a certain
+28 method; requiring, subject to regulations adopted by the Comptroller, certain groups
+29 of corporations to file a combined income tax return reflecting the aggregate income
+30 tax liability of all the members of the group; requiring the Comptroller to adopt
+31 certain regulations consistent with certain regulations adopted by the Multistate
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0859*
+
+2 SENATE BILL 859
+1 Tax Commission; requiring the Comptroller to assess interest and penalties under
+2 certain circumstances; and generally relating to Maryland estate tax and income tax.
+3 BY repealing and reenacting, without amendments,
+4 Article – Tax – General
+5 Section 7–309(a) and (b)(1), (2), and (9) and 10–310
+6 Annotated Code of Maryland
+7 (2022 Replacement Volume and 2024 Supplement)
+8 BY repealing and reenacting, with amendments,
+9 Article – Tax – General
+10 Section 7–309(b)(3), 10–104(5), (6), and (8), 10–105(a), 10–108(a) and (c),
+11 10–210.1(b)(2), 10–402(d), 10–704, 10–751, and 10–811
+12 Annotated Code of Maryland
+13 (2022 Replacement Volume and 2024 Supplement)
+14 BY adding to
+15 Article – Tax – General
+16 Section 10–102.2, 10–102.3, and 10–402.1
+17 Annotated Code of Maryland
+18 (2022 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Tax – General
+21 Section 10–104(5), (6), and (8)
+22 Annotated Code of Maryland
+23 (2022 Replacement Volume and 2024 Supplement)
+24 (As enacted by Section 3 of this Act)
+25 BY repealing and reenacting, with amendments,
+26 Article – Tax – General
+27 Section 10–751
+28 Annotated Code of Maryland
+29 (2022 Replacement Volume and 2024 Supplement)
+30 (As enacted by Section 2 of this Act)
+31 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+32 That the Laws of Maryland read as follows:
+33 Article – Tax – General
+34 7–309.
+35 (a) Notwithstanding an Act of Congress that repeals or reduces the federal credit
+36 under § 2011 of the Internal Revenue Code, the provisions of this subtitle in effect before
+37 the passage of the Act of Congress shall apply with respect to a decedent who dies after the
+38 effective date of the Act of Congress so as to continue the Maryland estate tax in force
+
+SENATE BILL 859 3
+1 without reduction in the same manner as if the federal credit had not been repealed or
+2 reduced.
+3 (b) (1) Except as provided in paragraphs (2) through (9) of this subsection and
+4 subsection (c) of this section, after the effective date of an Act of Congress described in
+5 subsection (a) of this section, the Maryland estate tax shall be determined using:
+6 (i) the federal credit allowable by § 2011 of the Internal Revenue
+7 Code as in effect before the reduction or repeal of the federal credit pursuant to the Act of
+8 Congress; and
+9 (ii) other provisions of federal estate tax law as in effect on the date
+10 of the decedent’s death.
+11 (2) Except as provided in paragraphs (3) through (9) of this subsection and
+12 subsection (c) of this section, if the federal estate tax is not in effect on the date of the
+13 decedent’s death, the Maryland estate tax shall be determined using:
+14 (i) the federal credit allowable by § 2011 of the Internal Revenue
+15 Code as in effect before the reduction or repeal of the federal credit pursuant to the Act of
+16 Congress; and
+17 (ii) other provisions of federal estate tax law as in effect on the date
+18 immediately preceding the effective date of the repeal of the federal estate tax.
+19 (3) (i) Notwithstanding any increase in the unified credit allowed
+20 against the federal estate tax for decedents dying after 2003, the unified credit used for
+21 determining the Maryland estate tax for a decedent may not exceed the applicable credit
+22 amount corresponding to an applicable exclusion amount, within the meaning of § 2010(c)
+23 of the Internal Revenue Code, of:
+24 1. $1,000,000 for a decedent dying before January 1, 2015;
+25 2. $1,500,000 for a decedent dying on or after January 1,
+26 2015, but before January 1, 2016;
+27 3. $2,000,000 for a decedent dying on or after January 1,
+28 2016, but before January 1, 2017;
+29 4. $3,000,000 for a decedent dying on or after January 1,
+30 2017, but before January 1, 2018;
+31 5. $4,000,000 for a decedent dying on or after January 1,
+32 2018, but before January 1, 2019; [and]
+33 6. $5,000,000 for a decedent dying on or after January 1,
+34 2019, BUT BEFORE JANUARY 1, 2026, plus any deceased spousal unused exclusion
+
+4 SENATE BILL 859
+1 amount calculated in accordance with paragraph (9) of this subsection; AND
+2 7. $2,000,000 FOR A DECEDENT DYING ON OR AFTER
+3 JANUARY 1, 2026, PLUS ANY DECEASED SPOUSAL UNUSED EXCLUSION AMOUNT
+4 CALCULATED IN ACCORDANCE WITH PARAGRAPH (9) OF THIS SUBSECTION.
+5 (ii) The Maryland estate tax shall be determined without regard to
+6 any deduction for State death taxes allowed under § 2058 of the Internal Revenue Code.
+7 (iii) Unless the federal credit allowable by § 2011 of the Internal
+8 Revenue Code is in effect on the date of the decedent’s death, the federal credit used to
+9 determine the Maryland estate tax may not exceed 16% of the amount by which the
+10 decedent’s taxable estate, as defined in § 2051 of the Internal Revenue Code, exceeds:
+11 1. $1,000,000 for a decedent dying before January 1, 2015;
+12 2. $1,500,000 for a decedent dying on or after January 1,
+13 2015, but before January 1, 2016;
+14 3. $2,000,000 for a decedent dying on or after January 1,
+15 2016, but before January 1, 2017;
+16 4. $3,000,000 for a decedent dying on or after January 1,
+17 2017, but before January 1, 2018;
+18 5. $4,000,000 for a decedent dying on or after January 1,
+19 2018, but before January 1, 2019; [and]
+20 6. $5,000,000 for a decedent dying on or after January 1,
+21 2019, BUT BEFORE JANUARY 1, 2026, plus any deceased spousal unused exclusion
+22 amount calculated in accordance with paragraph (9) of this subsection; AND
+23 7. $2,000,000 FOR A DECEDENT DYING ON OR AFTER
+24 JANUARY 1, 2026, PLUS ANY DECEASED SPOUSAL UNUSED EXCLUSION AMOUNT
+25 CALCULATED IN ACCORDANCE WITH PARAGRAPH (9) OF THIS SUBSECTION.
+26 (9) (i) In this paragraph, “deceased spousal unused exclusion amount”
+27 means the applicable exclusion amount in effect at the time of the death of the last
+28 predeceased spouse of the decedent under paragraph (3) of this subsection reduced by the
+29 taxable estate of the last predeceased spouse:
+30 1. as reported on a Maryland estate tax return filed with the
+31 Comptroller; or
+32 2. as reported on a federal estate tax return, if:
+
+SENATE BILL 859 5
+1 A. the last predeceased spouse was not a Maryland resident
+2 and no property with a Maryland estate tax situs was includible in the gross estate of the
+3 last predeceased spouse; or
+4 B. the last predeceased spouse died before January 1, 2019,
+5 and no Maryland estate tax return was required to be filed with respect to the predeceased
+6 spouse’s estate.
+7 (ii) The deceased spousal unused exclusion amount may not be taken
+8 into account under paragraph (3) of this subsection unless:
+9 1. if the last predeceased spouse died on or after January 1,
+10 2019, a Maryland estate tax return is timely filed for the last predeceased spouse, on which
+11 the deceased spousal unused exclusion amount is calculated and an irrevocable election is
+12 made that the deceased spousal unused exclusion amount may be taken into account; or
+13 2. if the last predeceased spouse died before January 1, 2019,
+14 or was not a Maryland resident and no property with a Maryland estate tax situs was
+15 includible in the gross estate of the last predeceased spouse, an election was made under §
+16 2010(c) of the Internal Revenue Code on the federal estate tax return of the last
+17 predeceased spouse.
+18 (iii) 1. Notwithstanding any other provision of this article, the
+19 Comptroller may examine a Maryland estate tax return of a predeceased spouse after the
+20 time for assessing a tax under this title has expired under § 13–1101 of this article solely
+21 for the purposes of determining the validity of the deceased spousal unused exclusion
+22 election and the amount to be taken into account under paragraph (3) of this subsection.
+23 2. This subparagraph may not be construed to authorize the
+24 assessment of any additional tax with respect to the predeceased spouse’s Maryland estate
+25 tax return if the period of limitation under § 13–1101 of this article has expired.
+26 10–108.
+27 (a) Except as provided in subsection (c) of this section and unless expressly
+28 provided otherwise by law, an amendment of the Internal Revenue Code that affects the
+29 determination of federal adjusted gross income or federal taxable income, does not affect
+30 the determination of Maryland taxable income under this title for:
+31 (1) any taxable year that begins in the calendar year in which the
+32 amendment is enacted; [or]
+33 (2) THE TAXABLE YEAR THAT BEGINS IN THE CALENDAR YEAR THAT
+34 IMMEDIATELY FOLLOWS THE CALENDAR YEAR IN WHICH THE AMENDMENT IS
+35 ENACTED; OR
+
+6 SENATE BILL 859
+1 [(2)] (3) any taxable year that precedes the calendar year in which the
+2 amendment is enacted.
+3 (c) Subsection (a) of this section does not apply to an amendment of the Internal
+4 Revenue Code if the Comptroller determines that the impact of the amendment on State
+5 income tax revenue is less than $5,000,000 for:
+6 (1) the fiscal year that begins during the calendar year in which the
+7 amendment is enacted; [or]
+8 (2) THE FISCAL YEAR THAT BEGINS DURING THE CALENDAR YEAR
+9 IMMEDIATELY FOLLOWING THE CALENDAR YEAR IN WHICH THE AMENDMENT IS
+10 ENACTED; OR
+11 [(2)] (3) any fiscal year that precedes the calendar year in which the
+12 amendment is enacted.
+13 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+14 as follows:
+15 Article – Tax – General
+16 10–751.
+17 (a) (1) In this section the following words have the meanings indicated.
+18 (2) “Qualified child” means a dependent of a taxpayer, if the dependent:
+19 (i) is a dependent for purposes of § 152 of the Internal Revenue Code
+20 IN EFFECT ON DECEMBER 31, 2024; and
+21 (ii) 1. is under the age of 6 years; or
+22 2. A. is under the age of 17 years; and
+23 B. is a child with a disability, as defined under § 8–401 of the
+24 Education Article.
+25 (3) “Taxpayer” means:
+26 (i) an individual filing an income tax return; or
+27 (ii) a married couple filing a joint income tax return.
+
+SENATE BILL 859 7
+1 (b) A taxpayer who is a resident and has federal adjusted gross income for the
+2 taxable year of $15,000 or less may claim a credit against the State income tax for each
+3 qualified child in an amount equal to $500.
+4 (c) If the credit allowed under this section in any taxable year exceeds the State
+5 income tax for that taxable year, the taxpayer may claim a refund in the amount of the
+6 excess.
+7 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+8 as follows:
+9 Article – Tax – General
+10 10–102.2.
+11 (A) IN THIS SECTION, “PASS–THROUGH ENTITY” AND “PASS–THROUGH
+12 ENTITY’S TAXABLE INCOME” HAVE THE MEANINGS STATED IN § 10–102.1 OF THIS
+13 SUBTITLE.
+14 (B) IN ADDITION TO THE STATE INCOME TAX IMPOSED UNDER THIS
+15 SUBTITLE, FOR A TAXABLE YEAR BEGINNING AFTER DECEMBER 31, 2026, BUT
+16 BEFORE JANUARY 1, 2033, EACH CORPORATION AND PASS–THROUGH ENTITY SHALL
+17 PAY A BUSINESS TRANSPORTATION FEE IN ACCORDANCE WITH THIS SECTION.
+18 (C) THE BUSINESS TRANSPORTATION FEE IMPOSED UNDER THIS SECTION
+19 SHALL EQUAL 2.5% OF THE AMOUNT OF THE CORPORATION’S MARYLAND TAXABLE
+20 INCOME OR PASS–THROUGH ENTITY’S TAXABLE INCOME THAT EXCEEDS
+21 $10,000,000.
+22 (D) RETURNS AND PAYMENTS OF THE BUSINESS TRANSPORTATION FEE
+23 SHALL BE DUE AND PAYABLE IN THE SAME MANNER AS RETURNS AND PAYMENTS OF
+24 THE STATE INCOME TAX UNDER SUBTITLES 8 AND 9 OF THIS TITLE.
+25 (E) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A TAXPAYER MAY
+26 NOT CLAIM ANY CREDIT AGAINST THE BUSINESS TRANSPORTATION FEE IMPOSED
+27 UNDER THIS SECTION EXCEPT FOR CREDITS FOR INSTALLMENT PAYMENTS,
+28 ESTIMATED PAYMENTS MADE WITH A REQUEST FOR AN EXTENSION OF TIME FOR
+29 FILING A RETURN, OR OVERPAYMENTS FROM PRIOR PERIODS.
+30 (F) THE COMPTROLLER SHALL DISTRIBUTE REVENUE FROM THE BUSINESS
+31 TRANSPORTATION FEE IMPOSED UNDER THIS SECTION TO THE TRANSPORTATION
+32 TRUST FUND ESTABLISHED UNDER § 3–216 OF THE TRANSPORTATION ARTICLE.
+33 (G) THE COMPTROLLER SHALL ADOPT REGULATIONS TO IMPLEMENT THIS
+
+8 SENATE BILL 859
+1 SECTION.
+2 10–104.
+3 The income tax does not apply to the income of:
+4 (5) except as provided in [§ 10–102.1] §§ 10–102.1 AND 10–102.2 of this
+5 subtitle, a partnership, as defined in § 761 of the Internal Revenue Code;
+6 (6) except as provided in [§ 10–102.1] §§ 10–102.1 AND 10–102.2 of this
+7 subtitle and § 10–304(3) of this title, an S corporation;
+8 (8) except as provided in [§ 10–102.1] §§ 10–102.1 AND 10–102.2 of this
+9 subtitle, a limited liability company as defined under Title 4A of the Corporations and
+10 Associations Article to the extent that the company is taxable as a partnership, as defined
+11 in § 761 of the Internal Revenue Code.
+12 SECTION 4. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+13 as follows:
+14 Article – Tax – General
+15 10–210.1.
+16 (b) In addition to the modifications under §§ 10–204 through 10–210 of this
+17 subtitle, to determine Maryland adjusted gross income of an individual:
+18 (2) an amount is added to or subtracted from federal adjusted gross income
+19 to determine the net operating loss deduction allowed under § 172 of the Internal Revenue
+20 Code without regard to an election under § 172(b)(1)(H) of the Internal Revenue Code for a
+21 carryback period of up to 5 years, PROVIDED THAT ONLY THE FIRST $500,000 OF NET
+22 OPERATING LOSSES MAY BE ALLOWED FOR A TAXABLE YEAR BEGINNING AFTER
+23 DECEMBER 31, 2026, BUT BEFORE JANUARY 1, 2032;
+24 10–310.
+25 In addition to the modifications under §§ 10–305 through 10–309 of this subtitle, to
+26 determine Maryland modified income the federal taxable income of a corporation shall be
+27 adjusted as provided for an individual under § 10–210.1 of this title.
+28 10–402.
+29 (d) (1) (i) In this paragraph:
+30 1. “manufacturing corporation” means a domestic or foreign
+31 corporation which is primarily engaged in activities that, in accordance with the North
+
+SENATE BILL 859 9
+1 American Industrial Classification System (NAICS), United States Manual, United States
+2 Office of Management and Budget, 1997 Edition, would be included in Sector 11, 31, 32, or
+3 33; and
+4 2. “manufacturing corporation” does not include a refiner, as
+5 defined in § 10–101 of the Business Regulation Article.
+6 (ii) If a manufacturing corporation carries on its trade or business
+7 within and outside the State and the trade or business is a unitary business, the part of the
+8 corporation’s Maryland modified income derived from or reasonably attributable to trade
+9 or business carried on in the State shall be determined using a single sales factor
+10 apportionment formula, by multiplying its Maryland modified income by 100% of the sales
+11 factor.
+12 (iii) In filing its tax return for each year, a manufacturing corporation
+13 shall certify that the NAICS Code reported on its Maryland return is consistent with that
+14 reported to other government agencies.
+15 (iv) If the Comptroller determines that a corporation has submitted
+16 information that incorrectly classifies the corporation as a manufacturing corporation
+17 under subparagraph (i) of this paragraph, the Comptroller shall reclassify the corporation
+18 in an appropriate manner.
+19 (2) Except as provided in paragraphs (1) and (3) of this subsection:
+20 (i) for a taxable year beginning after December 31, 2017, but before
+21 January 1, 2019, if the trade or business is a unitary business, the part of the corporation’s
+22 Maryland modified income derived from or reasonably attributable to trade or business
+23 carried on in the State shall be determined using a 3–factor apportionment fraction:
+24 1. the numerator of which is the sum of the property factor,
+25 the payroll factor, and 3 times the sales factor; and
+26 2. the denominator of which is 5;
+27 (ii) for a taxable year beginning after December 31, 2018, but before
+28 January 1, 2020, if the trade or business is a unitary business, the part of the corporation’s
+29 Maryland modified income derived from or reasonably attributable to trade or business
+30 carried on in the State shall be determined using a 3–factor apportionment fraction:
+31 1. the numerator of which is the sum of the property factor,
+32 the payroll factor, and 4 times the sales factor; and
+33 2. the denominator of which is 6;
+34 (iii) for a taxable year beginning after December 31, 2019, but before
+35 January 1, 2021, if the trade or business is a unitary business, the part of the corporation’s
+
+10 SENATE BILL 859
+1 Maryland modified income derived from or reasonably attributable to trade or business
+2 carried on in the State shall be determined using a 3–factor apportionment fraction:
+3 1. the numerator of which is the sum of the property factor,
+4 the payroll factor, and 5 times the sales factor; and
+5 2. the denominator of which is 7;
+6 (iv) for a taxable year beginning after December 31, 2020, but before
+7 January 1, 2022, if the trade or business is a unitary business, the part of the corporation’s
+8 Maryland modified income derived from or reasonably attributable to trade or business
+9 carried on in the State shall be determined using a 3–factor apportionment fraction:
+10 1. the numerator of which is the sum of the property factor,
+11 the payroll factor, and 6 times the sales factor; and
+12 2. the denominator of which is 8; and
+13 (v) for a taxable year beginning after December 31, 2021, if the trade
+14 or business is a unitary business, the part of the corporation’s Maryland modified income
+15 derived from or reasonably attributable to trade or business carried on in the State shall
+16 be determined using a single sales factor apportionment formula, by multiplying its
+17 Maryland modified income by 100% of the sales factor.
+18 (3) (i) Each year a worldwide headquartered company that filed a
+19 federal corporate income tax return for the taxable year may elect to calculate its Maryland
+20 modified income derived from or reasonably attributable to trade or business carried on in
+21 the State using a 3–factor apportionment fraction:
+22 1. the numerator of which is the sum of the property factor,
+23 the payroll factor, and twice the sales factor; and
+24 2. the denominator of which is 4.
+25 (ii) To determine under subparagraph (i) of this paragraph the
+26 Maryland modified income of a corporation or group of corporations that is a worldwide
+27 headquartered company that filed a federal corporate income tax return for the taxable
+28 year, gross income from intangible investments, including dividends, interest, royalties,
+29 and capital gains from the sale of intangible property, shall be included in the calculation
+30 of the numerator based on the average of the property and payroll factors.
+31 (4) The property factor under paragraphs (2) and (3) of this subsection shall
+32 include:
+33 (i) rented and owned real property; and
+34 (ii) tangible personal property located in the State and used in the
+
+SENATE BILL 859 11
+1 trade or business.
+2 (5) (I) FOR A TAXABLE YEAR BEGINNING AFTER DECEMBER 31,
+3 2026, SALES OF TANGIBLE PERSONAL PROPERTY SHALL BE INCLUDED IN THE
+4 NUMERATOR OF THE SALES FACTOR UNDER PARAGRAPH (1), (2), OR (3) OF THIS
+5 SUBSECTION IF:
+6 1. THE PROPERTY IS DELIVERED OR SHIPPED TO A
+7 PURCHASER WITHIN THE STATE, REGARDLESS OF THE FREE ON BOARD (F.O.B.)
+8 POINT OR OTHER CONDITIONS OF THE SALE; OR
+9 2. THE PROPERTY IS SHIPPED FROM AN OFFICE, A
+10 STORE, A WAREHOUSE, A FACTORY, OR ANY OTHER PLACE OF STORAGE IN THE
+11 STATE AND THE CORPORATION IS NOT TAXABLE IN THE STATE OF THE PURCHASER.
+12 (II) FOR PURPOSES OF SUBPARAGRAPH (I) OF THIS
+13 PARAGRAPH, A CORPORATION IS TAXABLE IN A STATE IF:
+14 1. IN THAT STATE THE CORPORATION IS SUBJECT TO A
+15 NET INCOME TAX, FRANCHISE TAX MEASURED BY NET INCOME, FRANCHISE TAX FOR
+16 THE PRIVILEGE OF DOING BUSINESS, OR CORPORATE STOCK TAX; OR
+17 2. THAT STATE HAS JURISDICTION TO SUBJECT THE
+18 TAXPAYER TO A NET INCOME TAX, REGARDLESS OF WHETHER, IN FACT, THE STATE
+19 IMPOSES A TAX.
+20 SECTION 5. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+21 as follows:
+22 Article – Tax – General
+23 10–102.3.
+24 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+25 INDICATED.
+26 (2) “MEMBER” MEANS:
+27 (I) A SHAREHOLDER OF AN S CORPORATION;
+28 (II) A GENERAL OR LIMITED PARTNER OF A PARTNERSHIP,
+29 LIMITED PARTNERSHIP, OR LIMITED LIABILITY PARTNERSHIP;
+30 (III) A MEMBER OF A LIMITED LIABILITY COMPANY; OR
+
+12 SENATE BILL 859
+1 (IV) A BENEFICIARY OF A BUSINESS TRUST OR STATUTORY
+2 TRUST.
+3 (3) “PASS–THROUGH ENTITY” MEANS:
+4 (I) AN S CORPORATION;
+5 (II) A PARTNERSHIP;
+6 (III) A LIMITED LIABILITY COMPANY THAT IS NOT TAXED AS A
+7 CORPORATION UNDER THIS TITLE; OR
+8 (IV) A BUSINESS TRUST OR STATUTORY TRUST THAT IS NOT
+9 TAXED AS A CORPORATION UNDER THIS TITLE.
+10 (B) THIS SECTION DOES NOT APPLY TO THE INCOME OF A PASS–THROUGH
+11 ENTITY THAT IS A SOLE PROPRIETORSHIP.
+12 (C) (1) IN ADDITION TO ANY OTHER TAX IMPOSED UNDER THIS TITLE, A
+13 TAX IS IMPOSED ON THE DISTRIBUTIVE SHARE OR PRO RATA SHARE OF INCOME
+14 DISTRIBUTED TO A MEMBER OF A PASS–THROUGH ENTITY FROM THE
+15 PASS–THROUGH ENTITY’S TAXABLE INCOME THAT EXCEEDS $1,000,000.
+16 (2) THE RATE OF THE TAX IMPOSED UNDER PARAGRAPH (1) OF THIS
+17 SUBSECTION IS 8.25%.
+18 10–104.
+19 The income tax does not apply to the income of:
+20 (5) except as provided in §§ 10–102.1 [and], 10–102.2, AND 10–102.3 of
+21 this subtitle, a partnership, as defined in § 761 of the Internal Revenue Code;
+22 (6) except as provided in §§ 10–102.1 [and], 10–102.2, AND 10–102.3 of
+23 this subtitle and § 10–304(3) of this title, an S corporation;
+24 (8) except as provided in §§ 10–102.1 [and], 10–102.2, AND 10–102.3 of
+25 this subtitle, a limited liability company as defined under Title 4A of the Corporations and
+26 Associations Article to the extent that the company is taxable as a partnership, as defined
+27 in § 761 of the Internal Revenue Code.
+28 10–105.
+29 (a) (1) For an individual other than an individual described in paragraph (2)
+
+SENATE BILL 859 13
+1 of this subsection, the State income tax rate is:
+2 (I) WITH RESPECT TO TAXPAYERS WHOSE MARYLAND TAXABLE
+3 INCOME DOES NOT EXCEED $250,001:
+4 [(i)] 1. 2% of Maryland taxable income of $1 through $1,000;
+5 [(ii)] 2. 3% of Maryland taxable income of $1,001 through $2,000;
+6 [(iii)] 3. 4% of Maryland taxable income of $2,001 through $3,000;
+7 [(iv)] 4. 4.75% of Maryland taxable income of $3,001 through
+8 $100,000;
+9 [(v)] 5. 5% of Maryland taxable income of $100,001 through
+10 $125,000;
+11 [(vi)] 6. 5.25% of Maryland taxable income of $125,001 through
+12 $150,000; AND
+13 [(vii)] 7. 5.5% of Maryland taxable income of $150,001 through
+14 $250,000; [and]
+15 [(viii)] (II) [5.75%] WITH RESPECT TO TAXPAYERS WHOSE
+16 MARYLAND TAXABLE INCOME IS AT LEAST $250,001 BUT DOES NOT EXCEED
+17 $500,000, 6% of Maryland taxable income [in excess of $250,000];
+18 (III) WITH RESPECT TO TAXPAYERS WHOSE MARYLAND TAXABLE
+19 INCOME IS AT LEAST $500,001 BUT DOES NOT EXCEED $1,000,000, 6.5% OF
+20 MARYLAND TAXABLE INCOME; AND
+21 (IV) WITH RESPECT TO TAXPAYERS WHOSE MARYLAND TAXABLE
+22 INCOME IS AT LEAST $1,000,001, 7% OF MARYLAND TAXABLE INCOME.
+23 (2) For spouses filing a joint return or for a surviving spouse or head of
+24 household as defined in § 2 of the Internal Revenue Code, the State income tax rate is:
+25 (I) WITH RESPECT TO TAXPAYERS WHOSE MARYLAND TAXABLE
+26 INCOME DOES NOT EXCEED $300,001:
+27 [(i)] 1. 2% of Maryland taxable income of $1 through $1,000;
+28 [(ii)] 2. 3% of Maryland taxable income of $1,001 through $2,000;
+29 [(iii)] 3. 4% of Maryland taxable income of $2,001 through $3,000;
+
+14 SENATE BILL 859
+1 [(iv)] 4. 4.75% of Maryland taxable income of $3,001 through
+2 $150,000;
+3 [(v)] 5. 5% of Maryland taxable income of $150,001 through
+4 $175,000;
+5 [(vi)] 6. 5.25% of Maryland taxable income of $175,001 through
+6 $225,000; AND
+7 [(vii)] 7. 5.5% of Maryland taxable income of $225,001 through
+8 $300,000; [and]
+9 [(viii)] (II) [5.75%] WITH RESPECT TO TAXPAYERS WHOSE
+10 MARYLAND TAXABLE INCOME IS AT LEAST $300,001 BUT DOES NOT EXCEED
+11 $600,000, 6% of Maryland taxable income [in excess of $300,000];
+12 (III) WITH RESPECT TO TAXPAYERS WHOSE MARYLAND TAXABLE
+13 INCOME IS AT LEAST $600,001 BUT DOES NOT EXCEED $1,200,000, 6.5% OF
+14 MARYLAND TAXABLE INCOME; AND
+15 (IV) WITH RESPECT TO TAXPAYERS WHOSE MARYLAND TAXABLE
+16 INCOME IS AT LEAST $1,200,001, 7% OF MARYLAND TAXABLE INCOME.
+17 (3) (I) IN THIS PARAGRAPH, “NET INVESTMENT INCOME” HAS THE
+18 MEANING STATED UNDER § 1411(C) OF THE INTERNAL REVENUE CODE, EXCLUDING
+19 THE NET GAIN ATTRIBUTABLE TO THE DISPOSITION OF PARCELS OF PROPERTY, OR
+20 PORTIONS THEREOF, THAT ARE AGRICULTURAL LAND AND BUILDINGS.
+21 (II) IN ADDITION TO THE TAX CALCULATED UNDER PARAGRAPH
+22 (1) OR (2) OF THIS SUBSECTION, FOR AN INDIVIDUAL WITH FEDERAL ADJUSTED
+23 GROSS INCOME IN EXCESS OF $350,000, A TAX IS IMPOSED ON THE NET INVESTMENT
+24 INCOME OF THE INDIVIDUAL AT A RATE OF 1%.
+25 (III) FOR AN INDIVIDUAL WHO IS NOT A RESIDENT OF THE STATE
+26 FOR THE ENTIRE TAXABLE YEAR, THE TAX UNDER THIS PARAGRAPH SHALL BE
+27 CALCULATED AS IF THE INDIVIDUAL IS A RESIDENT OF THE STATE, MULTIPLIED BY
+28 A FRACTION IN WHICH:
+29 1. THE NUMERATOR IS NET INVESTMENT INCOME
+30 ALLOCABLE TO THE STATE; AND
+31 2. THE DENOMINATOR IS THE TOTAL OF NET
+32 INVESTMENT INCOME FOR THE TAXABLE YEAR.
+
+SENATE BILL 859 15
+1 10–704.
+2 (a) In this section, “taxpayer” means:
+3 (1) an individual filing an income tax return; or
+4 (2) a married couple filing a joint income tax return.
+5 (b) (1) A resident who is a taxpayer may claim a credit against the State
+6 income tax for a taxable year in the amount determined under subsection (c) of this section
+7 for earned income.
+8 (2) A resident who is a taxpayer may claim a credit against the county
+9 income tax for a taxable year in the amount determined under subsection (d) of this section
+10 for earned income.
+11 (c) (1) Except as provided in paragraphs (2) and (3) of this subsection and
+12 subject to subsection (e) of this section, the credit allowed against the State income tax
+13 under subsection (b)(1) of this section is the lesser of:
+14 (i) 50% of the earned income credit allowable for the taxable year
+15 under § 32 of the Internal Revenue Code or that would have been allowable but for the
+16 limitation under § 32(m) of the Internal Revenue Code; or
+17 (ii) the State income tax for the taxable year.
+18 (2) (i) Subject to subparagraph (iii) of this paragraph and subsection (e)
+19 of this section, a resident may claim a refund in the amount, if any, by which the applicable
+20 percentage specified in subparagraph (ii) of this paragraph of the earned income credit
+21 allowable for the taxable year under § 32 of the Internal Revenue Code exceeds the State
+22 income tax for the taxable year.
+23 (ii) Subject to subparagraph (iii) of this paragraph, the applicable
+24 percentage of the earned income credit allowable under § 32 of the Internal Revenue Code
+25 to be used for purposes of determining the refund provided under this paragraph is:
+26 1. 25% for a taxable year beginning after December 31, 2013,
+27 but before January 1, 2015;
+28 2. 25.5% for a taxable year beginning after December 31,
+29 2014, but before January 1, 2016;
+30 3. 26% for a taxable year beginning after December 31, 2015,
+31 but before January 1, 2017;
+
+16 SENATE BILL 859
+1 4. 27% for a taxable year beginning after December 31, 2016,
+2 but before January 1, 2018;
+3 5. 28% for a taxable year beginning after December 31, 2017,
+4 but before January 1, 2020; and
+5 6. 45% for a taxable year beginning after December 31, 2019.
+6 (iii) For purposes of determining the refund provided under this
+7 paragraph, the earned income credit allowable under § 32 of the Internal Revenue Code is
+8 calculated without regard to the limitation under § 32(m) of the Internal Revenue Code.
+9 (3) (i) For purposes of this section for an individual without a qualifying
+10 child, the credit allowable for a taxable year under § 32 of the Internal Revenue Code is
+11 calculated without regard to:
+12 1. the minimum age requirement under § 32(c)(1)(A)(ii)(II) of
+13 the Internal Revenue Code; or
+14 2. the limitation under § 32(m) of the Internal Revenue Code.
+15 (ii) [Subject to subparagraph (iii) of this paragraph, the] THE credit
+16 allowed against the State income tax under subsection (b)(1) of this section for an individual
+17 without a qualifying child is:
+18 1. equal to 100% of the earned income credit allowable for a
+19 taxable year under § 32 of the Internal Revenue Code; AND
+20 2. CALCULATED BY SUBSTITUTING:
+21 A. $7,840 FOR THE EARNED INCOME AMOUNT IN §
+22 32(B)(2)(A) OF THE INTERNAL REVENUE CODE; AND
+23 B. $19,160 FOR THE PHASE–OUT AMOUNT IN §
+24 32(B)(2)(A) OF THE INTERNAL REVENUE CODE.
+25 [(iii) For a taxable year beginning after December 31, 2019, but before
+26 January 1, 2023, the tax credit allowed under this paragraph may not exceed $530 for a
+27 taxable year.]
+28 (III) 1. FOR EACH TAXABLE YEAR BEGINNING AFTER
+29 DECEMBER 31, 2028, THE EARNED INCOME AMOUNT AND PHASE–OUT AMOUNT IN
+30 SUBPARAGRAPH (II)2 OF THIS PARAGRAPH SHALL BE INCREASED BY AN AMOUNT
+31 EQUAL TO THE PRODUCT OF MULTIPLYING EACH AMOUNT BY THE COST–OF–LIVING
+32 ADJUSTMENT SPECIFIED IN SUBSUBPARAGRAPH 2 OF THIS SUBPARAGRAPH.
+
+SENATE BILL 859 17
+1 2. FOR THE PURPOSES OF THIS SUBPARAGRAPH, THE
+2 COST–OF–LIVING ADJUSTMENT IS THE COST–OF–LIVING ADJUSTMENT WITHIN THE
+3 MEANING OF § 1(F)(3) OF THE INTERNAL REVENUE CODE FOR THE CALENDAR YEAR
+4 IN WHICH THE TAXABLE YEAR BEGINS, AS DETERMINED BY THE COMPTROLLER BY
+5 SUBSTITUTING “CALENDAR YEAR 2022” FOR “CALENDAR YEAR 2016” IN § 1(F)(3)(A)
+6 OF THE INTERNAL REVENUE CODE.
+7 3. IF ANY INCREASE DETERMINED UNDER
+8 SUBSUBPARAGRAPH 1 OF THIS SUBPARAGRAPH IS NOT A MULTIPLE OF $10, THE
+9 INCREASE SHALL BE ROUNDED DOWN TO THE NEXT LOWEST MULTIPLE OF $10.
+10 (iv) If the tax credit allowed under this paragraph in any taxable year
+11 exceeds the total tax otherwise payable by the individual without a qualifying child for that
+12 taxable year, the individual may claim a refund in the amount of the excess.
+13 (d) (1) Except as provided in paragraph (2) of this subsection and subject to
+14 subsection (e) of this section, the credit allowed against the county income tax under
+15 subsection (b)(2) of this section is the lesser of:
+16 (i) the earned income credit allowable for the taxable year under §
+17 32 of the Internal Revenue Code or that would have been allowable but for the limitation
+18 under § 32(m) of the Internal Revenue Code multiplied by 10 times the county income tax
+19 rate for the taxable year; or
+20 (ii) the county income tax for the taxable year.
+21 (2) (i) A county may provide, by law, for a refundable county earned
+22 income credit as provided in this paragraph.
+23 (ii) If a county provides for a refundable county earned income credit
+24 under this paragraph, on or before July 1 prior to the beginning of the first taxable year for
+25 which it is applicable, the county shall give the Comptroller notice of the refundable county
+26 earned income credit.
+27 (iii) If a county provides for a refundable county earned income credit
+28 under this paragraph, a resident may claim a refund of the amount, if any, by which the
+29 product of multiplying the credit allowable for the taxable year under § 32 of the Internal
+30 Revenue Code or that would have been allowable but for the limitation under § 32(m) of
+31 the Internal Revenue Code by 5 times the county income tax rate for the taxable year
+32 exceeds the county income tax for the taxable year.
+33 (iv) The amount of any refunds payable under a refundable county
+34 earned income credit operates to reduce the income tax revenue from individuals
+35 attributable to the county income tax for that county.
+
+18 SENATE BILL 859
+1 (e) (1) Subject to paragraph (2) of this subsection, for an individual who is a
+2 resident of the State for only a part of the year, the amount of the credit or refund allowed
+3 under this section shall be determined based on the part of the earned income credit
+4 allowable for the taxable year under § 32 of the Internal Revenue Code that is attributable
+5 to Maryland, determined by multiplying the federal earned income credit by a fraction:
+6 (i) the numerator of which is the Maryland adjusted gross income of
+7 the individual; and
+8 (ii) the denominator of which is the federal adjusted gross income of
+9 the individual.
+10 (2) For purposes of determining the amount of the credit or refund under
+11 paragraph (1) of this subsection, the part of the earned income credit allowable for the
+12 taxable year under § 32 of the Internal Revenue Code is calculated without regard to the
+13 limitation under § 32(m) of the Internal Revenue Code.
+14 10–751.
+15 (a) (1) In this section the following words have the meanings indicated.
+16 (2) “Qualified child” means a dependent of a taxpayer, if the dependent:
+17 (i) is a dependent for purposes of § 152 of the Internal Revenue Code
+18 in effect on December 31, 2024; and
+19 (ii) [1.] is under the age of [6] 18 years[; or
+20 2. A. is under the age of 17 years; and
+21 B. is a child with a disability, as defined under § 8–401 of the
+22 Education Article].
+23 (3) “Taxpayer” means:
+24 (i) an individual filing an income tax return; or
+25 (ii) a married couple filing a joint income tax return.
+26 (b) [A] SUBJECT TO SUBSECTION (D) OF THIS SECTION, A taxpayer who is a
+27 resident [and has federal adjusted gross income for the taxable year of $15,000 or less] may
+28 claim a credit against the State income tax for each qualified child in an amount equal to:
+29 (1) $750, IF THE QUALIFIED CHILD IS UNDER THE AGE OF 6 YEARS; OR
+30 (2) $500, IF THE QUALIFIED CHILD IS AT LEAST 6 YEARS OLD.
+
+SENATE BILL 859 19
+1 (C) (1) FOR EACH TAXABLE YEAR BEGINNING AFTER DECEMBER 31,
+2 2028, THE AMOUNTS SPECIFIED IN SUBSECTION (B) OF THIS SECTION SHALL BE
+3 INCREASED BY AN AMOUNT EQUAL TO THE PRODUCT OF MULTIPLYING THE
+4 AMOUNTS BY THE COST–OF–LIVING ADJUSTMENT SPECIFIED IN THIS SUBSECTION.
+5 (2) FOR THE PURPOSES OF THIS SUBSECTION, THE COST–OF–LIVING
+6 ADJUSTMENT IS THE COST–OF–LIVING ADJUSTMENT WITHIN THE MEANING OF §
+7 1(F)(3) OF THE INTERNAL REVENUE CODE FOR THE CALENDAR YEAR IN WHICH THE
+8 TAXABLE YEAR BEGINS, AS DETERMINED BY THE COMPTROLLER, BY SUBSTITUTING
+9 “CALENDAR YEAR 2027” FOR “CALENDAR YEAR 2016” IN § 1(F)(3)(A) OF THE
+10 INTERNAL REVENUE CODE.
+11 (3) IF ANY INCREASE DETERMINED UNDER PARAGRAPH (1) OF THIS
+12 SUBSECTION IS NOT A MULTIPLE OF $50, THE INCREASE SHALL BE ROUNDED DOWN
+13 TO THE NEXT LOWEST MULTIPLE OF $50.
+14 (D) THE AMOUNT OF THE CREDIT ALLOWED UNDER SUBSECTION (B) OF
+15 THIS SECTION FOR A QUALIFIED CHILD SHALL BE REDUCED, BUT NOT BELOW ZERO,
+16 BY $50 FOR EACH $1,000, OR FRACTION THEREOF, BY WHICH THE TAXPAYER’S
+17 FEDERAL ADJUSTED GROSS INCOME EXCEEDS:
+18 (1) $65,000 IN THE CASE OF A MARRIED COUPLE FILING A JOINT
+19 RETURN OR A SURVIVING SPOUSE OR HEAD OF HOUSEHOLD AS DEFINED IN § 2 OF
+20 THE INTERNAL REVENUE CODE FILING AN INCOME TAX RETURN;
+21 (2) $32,500 IN THE CASE OF A MARRIED INDIVIDUAL FILING
+22 SEPARATELY; OR
+23 (3) $45,000 IN THE CASE OF ANY OTHER INDIVIDUAL.
+24 [(c)] (E) If the credit allowed under this section in any taxable year exceeds the
+25 State income tax for that taxable year, the taxpayer may claim a refund in the amount of
+26 the excess.
+27 SECTION 6. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+28 as follows:
+29 Article – Tax – General
+30 10–402.1.
+31 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+32 INDICATED.
+
+20 SENATE BILL 859
+1 (2) “COMBINED GROUP” MEANS A GROUP OF CORPORATIONS:
+2 (I) THAT IS ENGAGED IN A UNITARY BUSINESS;
+3 (II) IN WHICH MORE THAN 50% OF THE VOTING STOCK OF EACH
+4 MEMBER IS DIRECTLY OR INDIRECTLY OWNED BY:
+5 1. A COMMON OWNER OR COMMON OWNERS, EITHER
+6 CORPORATE OR NONCORPORATE; OR
+7 2. ONE OR MORE MEMBER CORPORATIONS OF THE
+8 GROUP;
+9 (III) THE MEMBERS OF WHICH ARE SUBJECT TO THE INCOME TAX
+10 OR WOULD BE SUBJECT TO THE INCOME TAX IF DOING BUSINESS IN THE STATE; AND
+11 (IV) CONSISTING OF ANY OTHER MEMBERS UNDER THE
+12 CIRCUMSTANCES AND TO THE EXTENT PROVIDED IN REGULATIONS ADOPTED BY
+13 THE COMPTROLLER TO PREVENT THE AVOIDANCE OF TAX OR TO REFLECT CLEARLY
+14 THE INCOME OF ANY MEMBER OF THE COMBINED GROUP FOR ANY PERIOD.
+15 (3) “COMBINED RETURN” MEANS A TAX RETURN FOR THE COMBINED
+16 GROUP CONTAINING INFORMATION AS PROVIDED IN THIS SECTION OR OTHERWISE
+17 REQUIRED BY THE COMPTROLLER.
+18 (4) “UNITARY BUSINESS” MEANS A SINGLE ECONOMIC ENTERPRISE
+19 THAT IS MADE EITHER OF SEPARATE PARTS OF A SINGLE BUSINESS ENTITY OR OF A
+20 COMMONLY CONTROLLED GROUP OF BUSINESS ENTITIES THAT ARE SUFFICIENTLY
+21 INTERDEPENDENT, INTEGRATED, AND INTERRELATED THROUGH THEIR ACTIVITIES
+22 SO AS TO PROVIDE MUTUAL BENEFIT THAT PRODUCES A SHARING OR EXCHANGE OF
+23 VALUE AMONG THEM AND A SIGNIFICANT FLOW OF VALUE TO THE SEPARATE PARTS.
+24 (B) (1) THE TERM “UNITARY BUSINESS” SHALL BE CONSTRUED TO THE
+25 BROADEST EXTENT ALLOWED UNDER THE U.S. CONSTITUTION.
+26 (2) A BUSINESS CONDUCTED DIRECTLY OR INDIRECTLY BY ONE
+27 CORPORATION IS A UNITARY BUSINESS WITH RESPECT TO THAT PORTION OF A
+28 BUSINESS CONDUCTED BY ANOTHER CORPORATION THROUGH ITS DIRECT OR
+29 INDIRECT INTEREST IN A PARTNERSHIP IF THE REQUIREMENTS OF SUBSECTION
+30 (A)(4) OF THIS SECTION ARE SATISFIED, INCLUDING IF THERE IS SYNERGY AND AN
+31 EXCHANGE AND FLOW OF VALUE BETWEEN THE TWO PARTS OF THE BUSINESS AND
+32 THE TWO CORPORATIONS ARE MEMBERS OF THE SAME COMMONLY CONTROLLED
+33 GROUP.
+
+SENATE BILL 859 21
+1 (3) A BUSINESS CONDUCTED BY A PARTNERSHIP SHALL BE TREATED
+2 AS CONDUCTED BY ITS PARTNERS, WHETHER DIRECTLY HELD OR INDIRECTLY HELD
+3 THROUGH A SERIES OF PARTNERSHIPS, TO THE EXTENT OF THE PARTNER’S
+4 DISTRIBUTIVE SHARE OF THE PARTNERSHIP’S INCOME, REGARDLESS OF THE
+5 PERCENTAGE OF THE PARTNER’S OWNERSHIP INTEREST OR ITS DISTRIBUTIVE OR
+6 ANY OTHER SHARE OF PARTNERSHIP INCOME.
+7 (C) (1) EXCEPT AS PROVIDED BY AND SUBJECT TO REGULATIONS
+8 ADOPTED BY THE COMPTROLLER, FOR ALL TAXABLE YEARS BEGINNING AFTER
+9 DECEMBER 31, 2028, A CORPORATION ENGAGED IN A UNITARY BUSINESS SHALL
+10 FILE A COMBINED RETURN, REPORTING AND PAYING TAX ON WORLDWIDE TAXABLE
+11 INCOME AS A COMBINED GROUP, REFLECTING THE AGGREGATE INCOME TAX
+12 LIABILITY OF ALL MEMBERS OF THE COMBINED GROUP THAT ARE ENGAGED IN A
+13 UNITARY BUSINESS.
+14 (2) THE TAXABLE INCOME OF A CORPORATION REQUIRED TO FILE
+15 UNDER § 10–811(A)(2) OF THIS TITLE IS EQUAL TO THE COMBINED GROUP’S
+16 MARYLAND MODIFIED INCOME AS ADJUSTED UNDER SUBSECTION (D)(3) OF THIS
+17 SECTION.
+18 (D) (1) THE MARYLAND MODIFIED INCOME OF THE COMBINED GROUP
+19 EQUALS THE PRODUCT OF:
+20 (I) THE COMBINED GROUP’S APPORTIONABLE MARYLAND
+21 MODIFIED INCOME, AS DETERMINED UNDER PARAGRAPH (2) OF THIS SUBSECTION
+22 AND ADJUSTED UNDER PARAGRAPH (3) OF THIS SUBSECTION; AND
+23 (II) THE COMBINED GROUP’S MARYLAND APPORTIONMENT
+24 FACTOR, AS DETERMINED UNDER PARAGRAPH (4) OF THIS SUBSECTION.
+25 (2) (I) SUBJECT TO SUBPARAGRAPHS (II) THROUGH (IV) OF THIS
+26 PARAGRAPH, THE APPORTIONABLE MARYLAND MODIFIED INCOME OF THE
+27 COMBINED GROUP EQUALS THE SUM OF THE CORPORATION’S AND EACH MEMBER’S
+28 MARYLAND MODIFIED INCOME.
+29 (II) 1. SUBJECT TO SUBSUBPARAGRAPH 2 OF THIS
+30 SUBPARAGRAPH, FOR ANY MEMBER INCORPORATED IN THE UNITED STATES OR
+31 INCLUDED IN A CONSOLIDATED FEDERAL CORPORATE INCOME TAX RETURN, THE
+32 INCOME TO BE INCLUDED IN THE TOTAL APPORTIONABLE INCOME OF THE
+33 COMBINED GROUP IS THE MARYLAND MODIFIED INCOME AS CALCULATED UNDER §
+34 10–304 OF THIS TITLE.
+35 2. THE INCOME OF EACH MEMBER SHALL BE
+
+22 SENATE BILL 859
+1 CALCULATED ON A SEPARATE RETURN BASIS AS IF THE MEMBER WERE NOT
+2 CONSOLIDATED FOR FEDERAL INCOME TAX PURPOSES.
+3 (III) 1. FOR ANY MEMBER NOT INCLUDED UNDER
+4 SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE INCOME TO BE INCLUDED IN THE
+5 TOTAL INCOME OF THE COMBINED GROUP IS DETERMINED AS PROVIDED UNDER
+6 THIS SUBPARAGRAPH.
+7 2. A PROFIT AND LOSS STATEMENT SHALL BE PREPARED
+8 FOR EACH FOREIGN BRANCH OR CORPORATION IN THE CURRENCY IN WHICH THE
+9 BOOKS OF ACCOUNT OF THE BRANCH OR CORPORATION ARE REGULARLY
+10 MAINTAINED.
+11 3. THE PROFIT AND LOSS STATEMENT SHALL BE
+12 ADJUSTED TO CONFORM TO GENERALLY ACCEPTED ACCOUNTING PRINCIPLES AS
+13 ADOPTED BY THE U.S. FINANCIAL ACCOUNTING STANDARDS BOARD FOR THE
+14 PREPARATION OF THE PROFIT AND LOSS STATEMENTS, EXCEPT AS MODIFIED BY
+15 REGULATION.
+16 4. EXCEPT AS OTHERWISE PROVIDED BY REGULATION,
+17 THE PROFIT AND LOSS STATEMENT OF EACH MEMBER OF THE COMBINED GROUP,
+18 AND THE APPORTIONMENT FACTORS RELATED TO EACH STATEMENT, WHETHER
+19 UNITED STATES OR FOREIGN, SHALL BE TRANSLATED INTO THE CURRENCY IN
+20 WHICH THE PARENT COMPANY MAINTAINS ITS BOOKS AND RECORDS.
+21 5. INCOME APPORTIONED TO THE STATE SHALL BE
+22 EXPRESSED IN UNITED STATES DOLLARS.
+23 (IV) IF A UNITARY BUSINESS INCLUDES INCOME FROM A
+24 PARTNERSHIP, THE INCOME TO BE INCLUDED IN THE TOTAL INCOME OF THE
+25 COMBINED GROUP EQUALS THE DIRECT AND INDIRECT DISTRIBUTIVE SHARE OF
+26 THE PARTNERSHIP’S UNITARY BUSINESS INCOME ALLOCATED TO ANY MEMBER OF
+27 THE COMBINED GROUP.
+28 (3) THE COMBINED GROUP’S APPORTIONABLE MARYLAND MODIFIED
+29 INCOME SHALL BE ADJUSTED TO ELIMINATE INTERCOMPANY TRANSACTIONS AS
+30 DETERMINED UNDER THE INTERNAL REVENUE CODE.
+31 (4) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE
+32 COMBINED GROUP’S MARYLAND APPORTIONMENT FACTOR IS A FRACTION:
+33 1. THE NUMERATOR OF WHICH IS THE SUM OF THE
+34 CORPORATION’S AND EACH MEMBER’S MARYLAND FACTORS UNDER § 10–402 OF
+35 THIS SUBTITLE; AND
+
+SENATE BILL 859 23
+1 2. THE DENOMINATOR OF WHICH IS THE SUM OF THE
+2 CORPORATION’S AND EACH MEMBER’S FACTORS UNDER § 10–402 OF THIS SUBTITLE.
+3 (II) THE APPORTIONMENT FACTORS OF PASS–THROUGH
+4 ENTITY MEMBERS ARE INCLUDED IN THE NUMERATOR UNDER SUBPARAGRAPH (I)1
+5 OF THIS PARAGRAPH AND THE DENOMINATOR UNDER SUBPARAGRAPH (I)2 OF THIS
+6 PARAGRAPH TO THE EXTENT OF THE CORPORATION’S DIRECT AND INDIRECT
+7 DISTRIBUTIVE SHARE OF THAT ENTITY.
+8 (E) (1) THE COMPTROLLER SHALL ADOPT REGULATIONS THAT ARE
+9 NECESSARY AND APPROPRIATE TO CARRY OUT THIS SECTION.
+10 (2) THE REGULATIONS ADOPTED BY THE COMPTROLLER SHALL BE
+11 CONSISTENT WITH THE “PRINCIPLES FOR DETERMINING THE EXISTENCE OF A
+12 UNITARY BUSINESS” (REG. IV.1.(B)) OF THE MODEL GENERAL ALLOCATION AND
+13 APPORTIONMENT REGULATIONS, AS ADOPTED BY THE MULTISTATE TAX
+14 COMMISSION.
+15 10–811.
+16 (A) (1) [Each member of] EXCEPT AS PROVIDED BY AND SUBJECT TO
+17 REGULATIONS ADOPTED BY THE COMPTROLLER, an affiliated group of corporations
+18 [shall file a separate income tax return] ENGAGED IN A UNITARY BUSINESS SHALL FILE
+19 A COMBINED INCOME TAX RETURN REFLECTING THE AGGREGATE INCOME TAX
+20 LIABILITY OF ALL THE MEMBERS OF THE AFFILIATED GROUP THAT ARE ENGAGED IN
+21 A UNITARY BUSINESS.
+22 (2) THE RETURN REQUIRED UNDER PARAGRAPH (1) OF THIS
+23 SUBSECTION SHALL INCLUDE THE INCOME AND APPORTIONMENT FACTORS
+24 DETERMINED UNDER § 10–402.1(D) OF THIS TITLE, AND ANY OTHER INFORMATION
+25 REQUIRED BY THE COMPTROLLER, FOR ALL MEMBERS OF THE COMBINED GROUP
+26 WHEREVER LOCATED OR DOING BUSINESS.
+27 (3) (I) EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF THIS
+28 PARAGRAPH, THE COMBINED RETURN SHALL BE FILED UNDER THE NAME AND
+29 FEDERAL EMPLOYER IDENTIFICATION NUMBER OF THE PARENT CORPORATION IF
+30 THE PARENT IS A MEMBER OF THE COMBINED GROUP.
+31 (II) IF THERE IS NO PARENT CORPORATION OR IF THE PARENT
+32 IS NOT A MEMBER OF THE COMBINED GROUP, THE MEMBERS OF THE COMBINED
+33 GROUP SHALL CHOOSE A MEMBER TO FILE THE RETURN.
+34 (III) THE FILING MEMBER UNDER SUBPARAGRAPH (I) OR (II) OF
+
+24 SENATE BILL 859
+1 THIS PARAGRAPH SHALL CONTINUE TO FILE THE COMBINED RETURN UNLESS THE
+2 FILING MEMBER IS NO LONGER THE PARENT CORPORATION OR NO LONGER A
+3 MEMBER OF THE COMBINED GROUP.
+4 (4) THE RETURN SHALL BE SIGNED BY A RESPONSIBLE OFFICER OF
+5 THE FILING MEMBER ON BEHALF OF THE COMBINED GROUP MEMBERS.
+6 (5) MEMBERS OF THE COMBINED GROUP ARE JOINTLY AND
+7 SEVERALLY LIABLE FOR THE TAX LIABILITY OF THE COMBINED GROUP INCLUDED
+8 IN THE COMBINED RETURN.
+9 (B) (1) THE COMPTROLLER MAY, BY REGULATION, REQUIRE THAT THE
+10 COMBINED RETURN INCLUDE THE INCOME AND ASSOCIATED APPORTIONMENT
+11 FACTORS OF ENTITIES THAT ARE NOT INCLUDED IN THE COMBINED REPORT BUT
+12 THAT ARE MEMBERS OF A UNITARY BUSINESS IN ORDER TO REFLECT PROPER
+13 APPORTIONMENT OF INCOME OF THE ENTIRE UNITARY BUSINESS.
+14 (2) IF THE COMPTROLLER DETERMINES THAT THE REPORTED
+15 INCOME OR LOSS OF A TAXPAYER ENGAGED IN A UNITARY BUSINESS WITH A MEMBER
+16 NOT INCLUDED IN THE COMBINED GROUP REPRESENTS AN AVOIDANCE OR EVASION
+17 OF TAX, THE COMPTROLLER MAY, ON A CASE–BY–CASE BASIS, REQUIRE THAT ALL
+18 OR PART OF THE INCOME AND ASSOCIATED APPORTIONMENT FACTORS OF THE
+19 MEMBER BE INCLUDED IN THE TAXPAYER’S COMBINED RETURN.
+20 (3) THE COMPTROLLER MAY REQUIRE:
+21 (I) THE EXCLUSION OF ONE OR MORE FACTORS, THE
+22 INCLUSION OF ONE OR MORE ADDITIONAL FACTORS, OR THE EMPLOYMENT OF ANY
+23 OTHER METHOD THAT WILL FAIRLY REPRESENT THE TAXPAYER’S BUSINESS IN THE
+24 STATE; OR
+25 (II) THE EMPLOYMENT OF ANY OTHER METHOD TO EFFECTUATE
+26 A PROPER REFLECTION OF THE TOTAL AMOUNT OF INCOME SUBJECT TO
+27 APPORTIONMENT AND AN EQUITABLE ALLOCATION AND APPORTIONMENT OF THE
+28 COMBINED GROUP’S OR ITS MEMBERS’ INCOME.
+29 (C) THE COMPTROLLER SHALL ADOPT REGULATIONS THAT ARE
+30 NECESSARY AND APPROPRIATE TO CARRY OUT THIS SECTION.
+31 SECTION 7. AND BE IT FURTHER ENACTED, That, for a taxable year beginning
+32 after December 31, 2026, but before January 1, 2028, notwithstanding §§ 13–602 and
+33 13–702 of the Tax – General Article, the Comptroller shall assess interest and penalties
+34 under §§ 13–602 and 13–702 of the Tax – General Article if a corporation pays estimated
+35 income tax for the taxable year in an amount less than 90% of the tax required to be shown
+
+SENATE BILL 859 25
+1 on the corporation’s income tax return for the taxable year.
+2 SECTION 8. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall be
+3 applicable to all taxable years beginning after December 31, 2024.
+4 SECTION 9. AND BE IT FURTHER ENACTED, That Section 3 of this Act shall take
+5 effect July 1, 2026.
+6 SECTION 10. AND BE IT FURTHER ENACTED, That Section 4 of this Act shall
+7 take effect July 1, 2027, and shall be applicable to all taxable years beginning after
+8 December 31, 2026.
+9 SECTION 11. AND BE IT FURTHER ENACTED, That Section 5 of this Act shall
+10 take effect July 1, 2028, and shall be applicable to all taxable years beginning after
+11 December 31, 2027.
+12 SECTION 12. AND BE IT FURTHER ENACTED, That Section 6 of this Act shall
+13 take effect July 1, 2028, and shall be applicable to all taxable years beginning after
+14 December 31, 2028.
+15 SECTION 13. AND BE IT FURTHER ENACTED, That, except as provided in
+16 Sections 9 through 12 of this Act, this Act shall take effect July 1, 2025.
+
+[DELETED: :CA      5   C A F F M l a c t f c c t d M t i a M m i r t s c c t i d t a m o a c p e f t p e t i e a c a e e f t M e i t c f i w q p a a a a f i a t i e r t r m o t c]
+[DELETED:  S  T c B  A  S  A  ( B  A  S 7 1 ( a ( 1 1 a ( 1  A  ( B  A  S  A  ( B  A S  A  ( ( B  A S  A  ( (  S T A 7  ( N u t e]
+[DELETED: S 3 w r  ( ( E s s    ( t C C    ( o o   ( E s d    ( t C C    ( o i   ( ( N a i i t u c a a d a o     1 $     2 $ f a d d o o a J 1 2     3 $ f a d d o o a J 1 2     4 $ f a d d o o a J 1 2     5 $ f a d d o o a J 1 2 a]     6 $ f a d d o o a J 1 2 p a d s u e B A  1,2]
+[DELETED:  S  a   7 $F A D D O O A1,2   P A D S U E A   .    ( T a    ( U t f c a b § 2 o t I R d t M e t m n e 1 o t a b w t d     1 $     2 $ f a d d o o a J 1 2     3 $ f a d d o o a J 1 2     4 $ f a d d o o a J 1 2     5 $ f a d d o o a J 1 2 a]     6 $ f a d d o o a J 1 2 p a d s u e B A  1,2 a   7 $F A D D O O A1,2   P A D S U E A   .   ( ( I m t a e a i e a t t o t d o t l p t     1 a C     2 a]
+[DELETED: S 5     A t a l     B t a s    ( T i     1 i 2 t m     2 i o i 2 o t I R C o t f e t r o t l p    ( 1 N C t f t p o d t v o t d s u e e     2 T a t 1  ( E a p i s ( o t s a u e p d t   ( a t y t b i t c y i w t a o]   F T C Y I W T A ID ]
+[DELETED:  S    () a]( a  ( S R i   ( t f y t b d t c y i w t a o] ( F Y T B D T C Y F T C Y I W T A ID    () a f y t p t c y i w t]( a  S a A 1  ( ( I   ( “    ( i E 3,2 ;    ( 1 i     2 A i     B i E   ( “    ( a    ( a]
+[DELETED: S 7  ( A t q  ( I i e  S a A() I,“–”“N T SN PST EY A PSTYSE    ”§1() IN A T T T I T I U TE F A T Y B A E   BD3,2 A   ST1,2,() H  NS A%’ O PST EYS T I T E() E A P O T B T F T U    S89.() NOW  T S E F C F I PSN .() TH O RF§36TA. U    R R() TH O]
+[DELETED:  S  1  T   ( e §1 o]§§111   s   ( e §1 ]§§111   s   ( e §1 ]§§111   s A i  S a A 1  ( I a t t m u § 1 t 1 o t s   ( a t C c$   L M B A F A T Y B A3,2,J1,2    A  ; 1  I d a 1  ( ( ( I     1 “ c]
+[DELETED: S 9 A O 3     2 “ d    ( I w c o b c o i t S s b d u a s s f a f    ( I s r    ( I i t i c t c a a m c u i   ( E    ( f J M c     1 t t     2 t    ( f J M c     1 t t     2 t    ( f J]
+[DELETED:  S  M c     1 t t     2 t    ( f J M c     1 t t     2 t    ( f o d b d u a s s f a f b m i M   ( ( E y a w h c t f a f m t     1 t t     2 t    ( T d u s ( o t p t M h y a o   ( T i    ( r    ( t]
+[DELETED: S 1 t   () FD3O A T Y B A E S O T P P S B I I T  O  ,(,(       P I D O S T A TE  ,(E       P I S F A OE AE A WE A FY O A O P O S I T,.   ) F(IO P O S I O TH :    X E S X ;     S H J T S TX R T ,   S a A() ( N ( “M”:R   () S;A    () IA G O L P O A PPP ;  () ;IAY ]
+[DELETED:  S   ()VA B O A B T O S ( “P–”:STY   () S;A    () ;IA  ()IA CE   ()VA B T O S T T I N() THST() ( INE  D S O S O I T A M O A PST E F TSTYS’$ ( T(   1  T   ( e ad 2 ],,1 t   ( e ad 2 ],,1 t   ( e ad 2 ],,1 t A i 1  ( ( F]
+[DELETED: S 1 o   ) W A    ()2] 1    () 3] 2    () 4] 3    () 4 o M t i o $ t] 4 $    () 5 o M t i o $ t] 5 $    () 5 o M t i o $ t] 6 $    () 5 o M t i o $ t] $ a]    ()  5]()[I W R T T W$ T I I A L  B D N E,6%[]   i  () IW A I A L  B D N E   O1$,6;E   () VW A    A,7% .   ( F h   ) W A     () 2] 1    () 3] 2    () 4] 3]
+[DELETED:  S     () 4 o M t i o $ t] 4 $    () 5 o M t i o $ t] 5 $    () 5 o M t i o $ t] 6 $    () 5 o M t i o $ t] $ a]    () 5]()[II W R T T W$ T I I A L  B D N E,6%[]   i  () IW A I A L  B D N E   O1$,6;E   () VW A    A,7% . ( () I,“NH NE   C  N E OE 1()IRCY F .  () IN)()O  O T SN F I W F A    () FIO T T E T YR T T U T P S B TE    1 N I N I I TE ;   2 D I T T O N]
+[DELETED: S 1 1  ( I   ( a   ( a  ( ( A r w i a t m c a c a t S i f   ( A i f  ( ( E s s u    ( 5 u l    ( t   ( ( S o p a i    ( S p t     1 2 b     2 2 f a t y b a D 3 2     3 2 b]
+[DELETED:  S      4 2 b     5 2 b     6 4    ( F p o d t r p u t p c   ( ( F c c     1 t t     2 t    ( Se ]H a w   1 e t   2 :   A $0F T E I A I ())IRC;  N E OE    B $0–F T PEO A I ())IRC  N E O     ( F J t  () 1 IO E T Y B A3,2,   EO II )TOFL  .]
+[DELETED: S 1   2 F T P O T SH TTOFLTOFL––  F  N E O1())IRS  O C   C    F2”“2”§1() N E ORC.   3  A I D U    $ .    ( I e t  ( ( E s ( o t s t c a a t c i t u s    ( t 3 u r    ( t   ( ( A i    ( I u w e    ( I u p R t e    ( T e i c o t r t i t r f i a]
+[DELETED:  S   ( ( S r u t s s b d b o t p o t e i c a t    ( t t    ( t t   ( F p t l 1  ( ( I   ( “    ( i i    ( 1. i 6 s;][]18     2 A i     B i Ee.   ( “    ( a    ( a  ( A ]S()U D N  r as  c ( $,6;  S  ( , $0.  ]
+[DELETED: S 1() ( FD3O E T Y B A E ,(T A S I B O T S S B B A A E T T P O M TTOFL–. ( F,–N TOFL I T CTOFL A W T M O –())IR  N E OS  OR C2”“2”§1() Y  F C Y  I  F O TRC. E O ( I(    () T(H A O T C A U S B OD O  F E  O F TF B W T TRS0$,, ( $I T C O A M C F A J    N E ORC; ( $I T C O A M I FY  ( $0.  () I]( S t  S a A    )()N ]
+[DELETED:  S     )“C”P      )T    )5II        . C O O C OS EE        O M M C O T     IT TE      VC O A O M U T A T T E P I R A B O    )“CN  O    )“US T D     )()T“H US   O.C    )B C D O I B O I A U B W R T T P O A C B A C T I D O I I A P I R O S)) D  ]
+[DELETED: S 2   )S  A S O PS T T E O T PRS S O T PPS IE R O TRS    )()X A P B A S T R B T OR F A T Y B A3,2   N  A A C GP R T A I T    ) T I O A C R T F  A O T T I E T T C GPS1())() D     )()TH A M I O T C G     )’T C GPS A AE   (  N )     )’IT C GPS A AR   ()     )()S()(U II  IV H T A A M I O TNSRS      )1.SIU T S  O TH F A M I I T N T OUN  T B I I T T A I O T A 4      . I O E M S B]
+[DELETED:  S  O A S R B A I T M W N      )1.IO A M N I U II H ) C      . O A O T B O C A R      . P A L S S B B T  I C T O F T.FASS       .ENP T A F R T E ST WS T O FN S B T I T C I      .I A T T T S B N TS     )VF A U B I I F AP T I T B I I T T I O T DPS    )T’PS A S B A T E I T A N E ORC     )()S()U II H PS AM       N O W I T S O TNSRS A   ’M§1E  ]
+[DELETED: S 2      D O W I T S O TNSRS   ’§12     )TIH A F O PST I) I ) T T E O T CNS D A I    )()TH O S A R T A    )T O W T R F E T X O APDB”(R..())MG US EG VB  O E LR,M ES A A B T U A  1    E m of)()[]X A P B A S T O   sn C I T R R T A I T .   )T( R R U P  O T S I T I A A F  D E 1() OR      )()E(X A P I S II O TH T C R S B F U T N AP     )IFP      )T()(IH I  II ]
+[DELETED:  S  M I N L T P C O N L A    )    ) O T C G A J A    )()TC,H OY N  R I T I A A A A M O A U B I O T R P    )I T O D T T RX  OY EBYCS C,–– P O T I A A A F O TRS     )TC O    )T E O O O M FS TS RSE      IT P R O T T A O I S TPSS E’   )TH O S A R T A    S a D 3 2 b b J 1 2 n § 1 a 1 u i]
+[DELETED: S 2 o  S a  S e  S t e J 1 2 a s b a t a t y b a D  S t e J 1 2 a s b a t a t y b a D  S t e J 1 2 a s b a t a t y b a D  S 1 A B I F E T e a p i S]

@@ -1,0 +1,142 @@
+Title: HOUSE BILL 1403
+Official Title: HOUSE BILL 1403
+Number of Sections: 1
+Source: versions - First - Primary and Secondary Education - Full-Time Equivalent Enrollment Count - Alterations (Truancy Reduction Act of 2025)
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+F1 5lr3064
+HB 1200/24 – APP
+By: Delegates Rose, Bouchat, Buckel, Griffith, Hartman, Hornberger, Mangione,
+McComas, Miller, Pippy, Stonko, Tomlinson, and Valentine
+Introduced and read first time: February 7, 2025
+Assigned to: Appropriations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Primary and Secondary Education – Full–Time Equivalent Enrollment Count –
+3 Alterations
+4 (Truancy Reduction Act of 2025)
+5 FOR the purpose of altering the definition of “full–time equivalent enrollment” in the
+6 calculation for State education aid to include the average number of students
+7 enrolled in kindergarten through grade 12 on certain days of the prior school year;
+8 and generally relating to the calculation of State aid for primary and secondary
+9 education.
+10 BY repealing and reenacting, without amendments,
+11 Article – Education
+12 Section 5–201(a), (e), (f), and (t)
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Education
+17 Section 5–201(g)
+18 Annotated Code of Maryland
+19 (2022 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Education
+23 5–201.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1403*
+2 HOUSE BILL 1403
+1 (a) In this subtitle, except as otherwise provided, the following words have the
+2 meanings indicated.
+3 (e) “Enrollment count” means the greater of:
+4 (1) The full–time equivalent enrollment; or
+5 (2) The 3–year moving average enrollment.
+6 (f) “Foundation program” means the product of the annual per pupil foundation
+7 amount and a county’s enrollment count.
+8 (g) “Full–time equivalent enrollment” means the sum of:
+9 (1) The AVERAGE number of students enrolled in kindergarten through
+10 grade 12 or their equivalent in regular day school programs on September 30, DECEMBER
+11 31, MARCH 31, AND THE LAST DAY of the prior school year;
+12 (2) The number of full–time equivalent students, as determined by a
+13 regulation of the Department, enrolled in evening high school programs during the prior
+14 school year; and
+15 (3) The number of P–TECH students, as provided in § 7–1804(b) of this
+16 article.
+17 (t) (1) Except as provided in paragraph (2) of this subsection, “3–year moving
+18 average enrollment” means the average of the full–time equivalent enrollment in the 3
+19 prior school years.
+20 (2) If the 3 prior school years includes the 2020–2021 school year, “3–year
+21 moving average enrollment” means:
+22 (i) The sum of the full–time equivalent enrollment for the 4 prior
+23 school years minus the 2020–2021 school year full–time equivalent enrollment; divided by
+24 (ii) Three.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+26 1, 2025, and shall be applicable to the calculation of education funding for fiscal years
+27 beginning after June 30, 2026.
+[DELETED: :CA      5     A P A ( F t p o a t d o “ e e i t c f S e a t i t a n o s e a g r t t c S a f p a s e B  A S  A  ( B  A S  A  (  S T A 5]
+[DELETED:  H   ( I m  ( “   ( T   ( T  ( “ a  ( “   ( T   gE,M3A A      ( T n o f e s a d b a r s   ( T a  ( ( E a p   ( I m    ( T s    ( T  S 1 b]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1403
+F1 5lr3064
+HB 1200/24 – APP
+By: Delegates Rose, Bouchat, Buckel, Griffith, Hartman, Hornberger, Mangione,
+McComas, Miller, Pippy, Stonko, Tomlinson, and Valentine
+Introduced and read first time: February 7, 2025
+Assigned to: Appropriations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Primary and Secondary Education – Full–Time Equivalent Enrollment Count –
+3 Alterations
+4 (Truancy Reduction Act of 2025)
+5 FOR the purpose of altering the definition of “full–time equivalent enrollment” in the
+6 calculation for State education aid to include the average number of students
+7 enrolled in kindergarten through grade 12 on certain days of the prior school year;
+8 and generally relating to the calculation of State aid for primary and secondary
+9 education.
+10 BY repealing and reenacting, without amendments,
+11 Article – Education
+12 Section 5–201(a), (e), (f), and (t)
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Education
+17 Section 5–201(g)
+18 Annotated Code of Maryland
+19 (2022 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Education
+23 5–201.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1403*
+
+2 HOUSE BILL 1403
+1 (a) In this subtitle, except as otherwise provided, the following words have the
+2 meanings indicated.
+3 (e) “Enrollment count” means the greater of:
+4 (1) The full–time equivalent enrollment; or
+5 (2) The 3–year moving average enrollment.
+6 (f) “Foundation program” means the product of the annual per pupil foundation
+7 amount and a county’s enrollment count.
+8 (g) “Full–time equivalent enrollment” means the sum of:
+9 (1) The AVERAGE number of students enrolled in kindergarten through
+10 grade 12 or their equivalent in regular day school programs on September 30, DECEMBER
+11 31, MARCH 31, AND THE LAST DAY of the prior school year;
+12 (2) The number of full–time equivalent students, as determined by a
+13 regulation of the Department, enrolled in evening high school programs during the prior
+14 school year; and
+15 (3) The number of P–TECH students, as provided in § 7–1804(b) of this
+16 article.
+17 (t) (1) Except as provided in paragraph (2) of this subsection, “3–year moving
+18 average enrollment” means the average of the full–time equivalent enrollment in the 3
+19 prior school years.
+20 (2) If the 3 prior school years includes the 2020–2021 school year, “3–year
+21 moving average enrollment” means:
+22 (i) The sum of the full–time equivalent enrollment for the 4 prior
+23 school years minus the 2020–2021 school year full–time equivalent enrollment; divided by
+24 (ii) Three.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+26 1, 2025, and shall be applicable to the calculation of education funding for fiscal years
+27 beginning after June 30, 2026.
+
+[DELETED: :CA      5     A P A ( F t p o a t d o “ e e i t c f S e a t i t a n o s e a g r t t c S a f p a s e B  A S  A  ( B  A S  A  (  S T A 5]
+[DELETED:  H   ( I m  ( “   ( T   ( T  ( “ a  ( “   ( T   gE,M3A A      ( T n o f e s a d b a r s   ( T a  ( ( E a p   ( I m    ( T s    ( T  S 1 b]

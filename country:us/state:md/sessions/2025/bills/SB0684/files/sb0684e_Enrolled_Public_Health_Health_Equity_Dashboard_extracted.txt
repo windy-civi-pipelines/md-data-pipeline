@@ -1,0 +1,144 @@
+Title: SENATE BILL 684
+Official Title: SENATE BILL 684
+Number of Sections: 1
+Source: versions - Enrolled - Public Health - Health Equity Dashboard
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+J1 (5lr2218)
+ENROLLED BILL
+— Finance/Health and Government Operations —
+Introduced by Senator Augustine
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Public Health – Health Equity Dashboard
+3 FOR the purpose of requiring the Maryland Department of Health, in collaboration with
+4 the Commission on Health Equity, to develop a health equity data dashboard;
+5 requiring the Department to update the data dashboard at a certain frequency; and
+6 generally relating to a health equity data dashboard.
+7 BY adding to
+8 Article – Health – General
+9 Section 13–5501 to be under the new subtitle “Subtitle 55. Health Equity Dashboard”
+10 Annotated Code of Maryland
+11 (2023 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0684*
+2 SENATE BILL 684
+1 Article – Health – General
+2 SUBTITLE 55. HEALTH EQUITY DASHBOARD.
+3 13–5501.
+4 (A) (1) THE DEPARTMENT, IN COLLABORATION WITH THE COMMISSION
+5 ON HEALTH EQUITY, SHALL DEVELOP A CLEAR AND EASY–TO–UNDERSTAND
+6 GRAPHIC DATA DASHBOARD THAT INCLUDES AGE–ADJUSTED HEALTH DISPARITY
+7 DATA DISAGGREGATED BY RACE, ETHNICITY, AND GENDER.
+8 (2) THE DATA DASHBOARD SHALL INCLUDE INFORMATION
+9 REGARDING THE FOLLOWING HEALTH INDICATORS:
+10 (I) HEALTH INSURANCE ACCESS;
+11 (II) CARDIOVASCULAR DISEASE;
+12 (III) CHRONIC DISEASE;
+13 (IV) MENTAL HEALTH AND SUBSTANCE ABUSE USE;
+14 (V) CANCER;
+15 (VI) HIV/AIDS;
+16 (VII) SEXUALLY TRANSMITTED INFECTION; AND
+17 (VIII) BODY MASS INDEX; AND
+18 (IX) ANY OTHER HEALTH INDICATORS DETERMINED RELEVANT
+19 BY THE DEPARTMENT.
+20 (B) THE DEPARTMENT SHALL:
+21 (1) UPDATE THE DATA DASHBOARD DEVELOPED UNDER SUBSECTION
+22 (A) OF THIS SECTION AT LEAST EVERY 30 DAYS ON A QUARTERLY BASIS, AS
+23 DETERMINED BY DATA AVAILABILITY; AND
+24 (2) POST THE MOST RECENT UPDATED DATA DASHBOARD
+25 PROMINENTLY ON ITS WEBSITE.
+26 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+27 October 1, 2025.
+[DELETED: :CA      ( w t G S a p t t G f h a t d o _ a _ o _ A P F t C o H E t d a h e d d r g B  A S  A  (  S T]
+[DELETED:  S  A5.HED  E Q A  ) ( TD,H ET  O E QY S D A C A EYTOUE,–  D AEAE Y ,     D D S I I   ) H;E   ) C;IA   ) C;IH    ) MVE   ) C;A   ) H    ) SIEN    );X    E  ) TD:H E   )30 O T S A L E  D O A Q BS AY      T M R U D D  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 684
+J1 (5lr2218)
+ENROLLED BILL
+— Finance/Health and Government Operations —
+Introduced by Senator Augustine
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Public Health – Health Equity Dashboard
+3 FOR the purpose of requiring the Maryland Department of Health, in collaboration with
+4 the Commission on Health Equity, to develop a health equity data dashboard;
+5 requiring the Department to update the data dashboard at a certain frequency; and
+6 generally relating to a health equity data dashboard.
+7 BY adding to
+8 Article – Health – General
+9 Section 13–5501 to be under the new subtitle “Subtitle 55. Health Equity Dashboard”
+10 Annotated Code of Maryland
+11 (2023 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0684*
+
+2 SENATE BILL 684
+1 Article – Health – General
+2 SUBTITLE 55. HEALTH EQUITY DASHBOARD.
+3 13–5501.
+4 (A) (1) THE DEPARTMENT, IN COLLABORATION WITH THE COMMISSION
+5 ON HEALTH EQUITY, SHALL DEVELOP A CLEAR AND EASY–TO–UNDERSTAND
+6 GRAPHIC DATA DASHBOARD THAT INCLUDES AGE–ADJUSTED HEALTH DISPARITY
+7 DATA DISAGGREGATED BY RACE, ETHNICITY, AND GENDER.
+8 (2) THE DATA DASHBOARD SHALL INCLUDE INFORMATION
+9 REGARDING THE FOLLOWING HEALTH INDICATORS:
+10 (I) HEALTH INSURANCE ACCESS;
+11 (II) CARDIOVASCULAR DISEASE;
+12 (III) CHRONIC DISEASE;
+13 (IV) MENTAL HEALTH AND SUBSTANCE ABUSE USE;
+14 (V) CANCER;
+15 (VI) HIV/AIDS;
+16 (VII) SEXUALLY TRANSMITTED INFECTION; AND
+17 (VIII) BODY MASS INDEX; AND
+18 (IX) ANY OTHER HEALTH INDICATORS DETERMINED RELEVANT
+19 BY THE DEPARTMENT.
+20 (B) THE DEPARTMENT SHALL:
+21 (1) UPDATE THE DATA DASHBOARD DEVELOPED UNDER SUBSECTION
+22 (A) OF THIS SECTION AT LEAST EVERY 30 DAYS ON A QUARTERLY BASIS, AS
+23 DETERMINED BY DATA AVAILABILITY; AND
+24 (2) POST THE MOST RECENT UPDATED DATA DASHBOARD
+25 PROMINENTLY ON ITS WEBSITE.
+26 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+27 October 1, 2025.
+
+[DELETED: :CA      ( w t G S a p t t G f h a t d o _ a _ o _ A P F t C o H E t d a h e d d r g B  A S  A  (  S T]
+[DELETED:  S  A5.HED  E Q A  ) ( TD,H ET  O E QY S D A C A EYTOUE,–  D AEAE Y ,     D D S I I   ) H;E   ) C;IA   ) C;IH    ) MVE   ) C;A   ) H    ) SIEN    );X    E  ) TD:H E   )30 O T S A L E  D O A Q BS AY      T M R U D D  S A B I F E T t A s t e O]

@@ -1,0 +1,197 @@
+Title: HOUSE BILL 909
+Official Title: HOUSE BILL 909
+Number of Sections: 1
+Source: versions - First - Sewage Sludge Utilization Permits - Per- and Polyfluoroalkyl Substances - Concentration Limits
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+M3 5lr2470
+CF SB 732
+By: Delegate Stein
+Introduced and read first time: January 31, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Sewage Sludge Utilization Permits – Per– and Polyfluoroalkyl Substances –
+3 Concentration Limits
+4 FOR the purpose of requiring certain sewage sludge utilization permits issued or renewed
+5 by the Department of the Environment to limit the concentration of certain per– and
+6 polyfluoroalkyl substances to certain levels; establishing requirements for the
+7 demonstration of compliance with the limits established under this Act; authorizing
+8 the Department to establish certain additional limits by regulations; and generally
+9 relating to sewage sludge utilization permits.
+10 BY repealing and reenacting, without amendments,
+11 Article – Environment
+12 Section 9–201(a), (k), (l), (n), and (t) and 9–231
+13 Annotated Code of Maryland
+14 (2014 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Environment
+17 Section 9–231.1
+18 Annotated Code of Maryland
+19 (2014 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Environment
+23 9–201.
+24 (a) In this subtitle the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0909*
+2 HOUSE BILL 909
+1 (k) “Sewage” means:
+2 (1) Any human or animal excretion or water–carried domestic waste; or
+3 (2) A mixture of industrial waste and any of the things in item (1) of this
+4 subsection.
+5 (l) “Sewage sludge” means any thickened liquid, suspension, settled solid, or
+6 dried residue that a sewage treatment plant extracts from sewage.
+7 (n) “Sewage sludge utilization permit” means a permit, issued by the Department,
+8 to utilize sewage sludge.
+9 (t) “Utilize sewage sludge” means to collect, handle, burn, store, treat, or
+10 transport sewage sludge to or from a sewage sludge generator or utilizer in this State, to
+11 apply it to land, or to dispose of it.
+12 9–231.
+13 (a) A person shall have a sewage sludge utilization permit before the person
+14 utilizes sewage sludge in this State.
+15 (b) A person shall have a separate sewage sludge utilization permit for each site
+16 where the person utilizes sewage sludge.
+17 9–231.1.
+18 (A) A SEWAGE SLUDGE UTILIZATION PERMIT ISSUED OR RENEWED BY THE
+19 DEPARTMENT FOR THE APPLICATION OF SEWAGE SLUDGE TO AGRICULTURAL LAND
+20 SHALL LIMIT THE TOTAL CONCENTRATION OF PERFLUOROOCTANE SULFONIC ACID
+21 (PFOS) OR PERFLUOROOCTANOIC ACID (PFOA) TO THE LESSER OF:
+22 (1) 1 MICROGRAM PER KILOGRAM;
+23 (2) THE LEVEL ESTABLISHED IN HEALTH–BASED STANDARDS
+24 ADOPTED BY THE U.S. ENVIRONMENTAL PROTECTION AGENCY; OR
+25 (3) THE LEVEL ESTABLISHED IN REGULATIONS ADOPTED BY THE
+26 DEPARTMENT UNDER SUBSECTION (C) OF THIS SECTION.
+27 (B) (1) COMPLIANCE WITH THE LIMITS ESTABLISHED UNDER
+28 SUBSECTION (A) OF THIS SECTION SHALL BE DEMONSTRATED BY AN ANALYSIS OF A
+29 SAMPLE OF THE ENTIRE QUANTITY OF SEWAGE SLUDGE TO BE LAND APPLIED,
+30 PERFORMED:
+HOUSE BILL 909 3
+1 (I) BY AN INDEPENDENT LABORATORY OR OTHER
+2 LABORATORY ACCEPTABLE TO THE DEPARTMENT;
+3 (II) USING STANDARDS, PROCEDURES, AND METHODS THAT
+4 ARE ACCEPTABLE TO THE DEPARTMENT; AND
+5 (III) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+6 SUBSECTION, NOT MORE THAN 14 DAYS BEFORE THE DATE OF THE LAND
+7 APPLICATION.
+8 (2) A SAMPLE MAY BE ANALYZED MORE THAN 14 DAYS BEFORE THE
+9 DATE OF LAND APPLICATION IF THE SEWAGE SLUDGE IS:
+10 (I) HAULED DIRECTLY FROM THE SEWAGE SLUDGE
+11 GENERATOR TO THE FIELD; AND
+12 (II) NOT STORED OFF–SITE OR MIXED WITH ANY OTHER
+13 MATERIAL PRIOR TO LAND APPLICATION.
+14 (C) THE DEPARTMENT MAY ADOPT REGULATIONS TO ESTABLISH:
+15 (1) FOR PFOS AND PFOA, CONCENTRATION LIMITS THAT ARE MORE
+16 STRINGENT THAN THE LIMITS SPECIFIED IN SUBSECTION (A)(1) AND (2) OF THIS
+17 SECTION; AND
+18 (2) CONCENTRATION LIMITS FOR PER– AND POLYFLUOROALKYL
+19 SUBSTANCES OR OTHER SUBSTANCES THAT ARE NOT LISTED IN SUBSECTION (A) OF
+20 THIS SECTION.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2025.
+[DELETED: :CA      5   C A S C F b p s t c l e r f t d t r B  A S  A  ( B  A S  A  (  S T A 9  ( I]
+[DELETED:  H   ( “   ( A   ( A s  ( “ s m a t l s s s o d  ( “ t  ( “ s s m t c h b s t o t a 9  ( A p s h a s s u p b t p u  ( A w()  )():   ( 1;M ( T L E I HHB S  N R GY .EPA; (  L E I R A B T(). C () ( O W T L E U A  O T E Q O S S T B L AD]
+[DELETED: H 3  () Y A I L O O E;  () U,IS SS PS A M T ET ;  () E(IX A P I P  O TN N M T  D B T D O T L1N ( A1  S  () A D F T S SD   () NIO S OFS O M W A ON() TD:H E ( FPSP     A   ))(N  ( C L F PR A P A   S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 909
+M3 5lr2470
+CF SB 732
+By: Delegate Stein
+Introduced and read first time: January 31, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Sewage Sludge Utilization Permits – Per– and Polyfluoroalkyl Substances –
+3 Concentration Limits
+4 FOR the purpose of requiring certain sewage sludge utilization permits issued or renewed
+5 by the Department of the Environment to limit the concentration of certain per– and
+6 polyfluoroalkyl substances to certain levels; establishing requirements for the
+7 demonstration of compliance with the limits established under this Act; authorizing
+8 the Department to establish certain additional limits by regulations; and generally
+9 relating to sewage sludge utilization permits.
+10 BY repealing and reenacting, without amendments,
+11 Article – Environment
+12 Section 9–201(a), (k), (l), (n), and (t) and 9–231
+13 Annotated Code of Maryland
+14 (2014 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Environment
+17 Section 9–231.1
+18 Annotated Code of Maryland
+19 (2014 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Environment
+23 9–201.
+24 (a) In this subtitle the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0909*
+
+2 HOUSE BILL 909
+1 (k) “Sewage” means:
+2 (1) Any human or animal excretion or water–carried domestic waste; or
+3 (2) A mixture of industrial waste and any of the things in item (1) of this
+4 subsection.
+5 (l) “Sewage sludge” means any thickened liquid, suspension, settled solid, or
+6 dried residue that a sewage treatment plant extracts from sewage.
+7 (n) “Sewage sludge utilization permit” means a permit, issued by the Department,
+8 to utilize sewage sludge.
+9 (t) “Utilize sewage sludge” means to collect, handle, burn, store, treat, or
+10 transport sewage sludge to or from a sewage sludge generator or utilizer in this State, to
+11 apply it to land, or to dispose of it.
+12 9–231.
+13 (a) A person shall have a sewage sludge utilization permit before the person
+14 utilizes sewage sludge in this State.
+15 (b) A person shall have a separate sewage sludge utilization permit for each site
+16 where the person utilizes sewage sludge.
+17 9–231.1.
+18 (A) A SEWAGE SLUDGE UTILIZATION PERMIT ISSUED OR RENEWED BY THE
+19 DEPARTMENT FOR THE APPLICATION OF SEWAGE SLUDGE TO AGRICULTURAL LAND
+20 SHALL LIMIT THE TOTAL CONCENTRATION OF PERFLUOROOCTANE SULFONIC ACID
+21 (PFOS) OR PERFLUOROOCTANOIC ACID (PFOA) TO THE LESSER OF:
+22 (1) 1 MICROGRAM PER KILOGRAM;
+23 (2) THE LEVEL ESTABLISHED IN HEALTH–BASED STANDARDS
+24 ADOPTED BY THE U.S. ENVIRONMENTAL PROTECTION AGENCY; OR
+25 (3) THE LEVEL ESTABLISHED IN REGULATIONS ADOPTED BY THE
+26 DEPARTMENT UNDER SUBSECTION (C) OF THIS SECTION.
+27 (B) (1) COMPLIANCE WITH THE LIMITS ESTABLISHED UNDER
+28 SUBSECTION (A) OF THIS SECTION SHALL BE DEMONSTRATED BY AN ANALYSIS OF A
+29 SAMPLE OF THE ENTIRE QUANTITY OF SEWAGE SLUDGE TO BE LAND APPLIED,
+30 PERFORMED:
+
+HOUSE BILL 909 3
+1 (I) BY AN INDEPENDENT LABORATORY OR OTHER
+2 LABORATORY ACCEPTABLE TO THE DEPARTMENT;
+3 (II) USING STANDARDS, PROCEDURES, AND METHODS THAT
+4 ARE ACCEPTABLE TO THE DEPARTMENT; AND
+5 (III) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+6 SUBSECTION, NOT MORE THAN 14 DAYS BEFORE THE DATE OF THE LAND
+7 APPLICATION.
+8 (2) A SAMPLE MAY BE ANALYZED MORE THAN 14 DAYS BEFORE THE
+9 DATE OF LAND APPLICATION IF THE SEWAGE SLUDGE IS:
+10 (I) HAULED DIRECTLY FROM THE SEWAGE SLUDGE
+11 GENERATOR TO THE FIELD; AND
+12 (II) NOT STORED OFF–SITE OR MIXED WITH ANY OTHER
+13 MATERIAL PRIOR TO LAND APPLICATION.
+14 (C) THE DEPARTMENT MAY ADOPT REGULATIONS TO ESTABLISH:
+15 (1) FOR PFOS AND PFOA, CONCENTRATION LIMITS THAT ARE MORE
+16 STRINGENT THAN THE LIMITS SPECIFIED IN SUBSECTION (A)(1) AND (2) OF THIS
+17 SECTION; AND
+18 (2) CONCENTRATION LIMITS FOR PER– AND POLYFLUOROALKYL
+19 SUBSTANCES OR OTHER SUBSTANCES THAT ARE NOT LISTED IN SUBSECTION (A) OF
+20 THIS SECTION.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2025.
+
+[DELETED: :CA      5   C A S C F b p s t c l e r f t d t r B  A S  A  ( B  A S  A  (  S T A 9  ( I]
+[DELETED:  H   ( “   ( A   ( A s  ( “ s m a t l s s s o d  ( “ t  ( “ s s m t c h b s t o t a 9  ( A p s h a s s u p b t p u  ( A w()  )():   ( 1;M ( T L E I HHB S  N R GY .EPA; (  L E I R A B T(). C () ( O W T L E U A  O T E Q O S S T B L AD]
+[DELETED: H 3  () Y A I L O O E;  () U,IS SS PS A M T ET ;  () E(IX A P I P  O TN N M T  D B T D O T L1N ( A1  S  () A D F T S SD   () NIO S OFS O M W A ON() TD:H E ( FPSP     A   ))(N  ( C L F PR A P A   S A B I F E T t A s t e O]

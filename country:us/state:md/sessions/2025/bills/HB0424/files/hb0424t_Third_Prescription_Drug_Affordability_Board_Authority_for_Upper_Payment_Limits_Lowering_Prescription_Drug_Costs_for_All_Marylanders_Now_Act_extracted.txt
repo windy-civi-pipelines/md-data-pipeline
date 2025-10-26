@@ -1,0 +1,591 @@
+Title: HOUSE BILL 424
+Official Title: HOUSE BILL 424
+Number of Sections: 1
+Source: versions - Third - Prescription Drug Affordability Board - Authority for Upper Payment Limits (Lowering Prescription Drug Costs for All Marylanders Now Act)
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+J1, J5 5lr2044
+CF SB 357
+By: Delegates Cullison and White Holland, White Holland, Alston, Bagnall,
+Bhandari, Guzzone, Hill, S. Johnson, Kaiser, Kerr, Lopez, Martinez,
+Pena–Melnyk, Rosenberg, Taveras, Woods, and Woorman
+Introduced and read first time: January 16, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 19, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Prescription Drug Affordability Board – Authority for Upper Payment Limits
+3 (Lowering Prescription Drug Costs for All Marylanders Now Act)
+4 FOR the purpose of requiring the Prescription Drug Affordability Board, under certain
+5 circumstances, to establish a process for setting upper payment limits for all
+6 purchases and payor reimbursements of prescription drug products in the State that
+7 the Board determines have led or will lead to affordability challenges; authorizing
+8 the Board to reconsider an upper payment limit for a drug that becomes a current
+9 shortage; altering requirements related to the setting of upper payment limits by the
+10 Board; requiring the Board to confer with the Maryland Medical Assistance Program
+11 before establishing an upper payment limit that applies to the Program; prohibiting
+12 the Board from taking certain actions related to upper payment limits; and generally
+13 relating to the Prescription Drug Affordability Board.
+14 BY repealing and reenacting, with amendments,
+15 Article – Health – General
+16 Section 21–2C–01, 21–2C–13, and 21–2C–14
+17 Annotated Code of Maryland
+18 (2023 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, without amendments,
+20 Article – Health – General
+21 Section 21–2C–11(a)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0424*
+2 HOUSE BILL 424
+1 Annotated Code of Maryland
+2 (2023 Replacement Volume and 2024 Supplement)
+3 BY repealing
+4 Article – Health – General
+5 Section 21–2C–11(d) and 21–2C–16
+6 Annotated Code of Maryland
+7 (2023 Replacement Volume and 2024 Supplement)
+8 BY adding to
+9 Article – Health – General
+10 Section 21–2C–16
+11 Annotated Code of Maryland
+12 (2023 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Health – General
+16 21–2C–01.
+17 (a) In this subtitle the following words have the meanings indicated.
+18 (b) “Biologic” means a drug that is produced or distributed in accordance with a
+19 biologics license application approved under 42 C.F.R. § 447.502.
+20 (c) “Biosimilar” means a drug that is produced or distributed in accordance with
+21 a biologics license application approved under 42 U.S.C. § 262(k)(3).
+22 (d) “Board” means the Prescription Drug Affordability Board.
+23 (e) (1) “Brand name drug” means a drug that is produced or distributed in
+24 accordance with an original new drug application approved under 21 U.S.C. § 355(c).
+25 (2) “Brand name drug” does not include an authorized generic as defined
+26 by 42 C.F.R. § 447.502.
+27 (F) “CURRENT SHORTAGE” MEANS A DRUG:
+28 (1) LISTED AS CURRENT ON THE FEDERAL FOOD AND DRUG
+29 ADMINISTRATION’S DRUG SHORTAGE DATABASE; OR
+30 (2) OTHERWISE DETERMINED BY THE BOARD TO BE IN SHORT
+31 SUPPLY IN THE STATE.
+HOUSE BILL 424 3
+1 [(f)] (G) “Generic drug” means:
+2 (1) A retail drug that is marketed or distributed in accordance with an
+3 abbreviated new drug application, approved under 21 U.S.C. § 355(j);
+4 (2) An authorized generic as defined by 42 C.F.R. § 447.502; or
+5 (3) A drug that entered the market before 1962 that was not originally
+6 marketed under a new drug application.
+7 [(g)] (H) “Manufacturer” means an entity that:
+8 (1) (i) Engages in the manufacture of a prescription drug product; or
+9 (ii) Enters into a lease with another manufacturer to market and
+10 distribute a prescription drug product under the entity’s own name; and
+11 (2) Sets or changes the wholesale acquisition cost of the prescription drug
+12 product it manufactures or markets.
+13 [(h)] (I) “Prescription drug product” means a brand name drug, a generic drug,
+14 a biologic, or a biosimilar.
+15 [(i)] (J) “Stakeholder Council” means the Prescription Drug Affordability
+16 Stakeholder Council.
+17 21–2C–11.
+18 (a) In this section, “Fund” means the Prescription Drug Affordability Fund.
+19 [(d) (1) The Board shall be established using special or general funds, which
+20 shall be repaid to the State with the funds from the Fund.
+21 (2) If the Board receives funding from the Maryland Health Care
+22 Commission under paragraph (1) of this subsection, the Board shall repay the funds to the
+23 Commission from the Fund over a 3–year period beginning June 1, 2021.]
+24 21–2C–13.
+25 (a) If, under § 21–2C–07 of this subtitle, the Board finds that it is in the best
+26 interest of the State to establish a process for setting upper payment limits for prescription
+27 drug products that it determines have led or will lead to an affordability challenge, the
+28 Board, in conjunction with the Stakeholder Council, shall draft a plan of action for
+29 implementing the process [that includes the criteria the Board shall use to set upper
+30 payment limits] IN ACCORDANCE WITH THE REQUIREMENTS OF THIS SECTION.
+4 HOUSE BILL 424
+1 (b) The criteria for setting upper payment limits shall include consideration of:
+2 (1) The cost of administering the prescription drug product;
+3 (2) The cost of delivering the prescription drug product to consumers; [and]
+4 (3) THE EFFECT THE UPPER PAYMENT LIMIT WILL HAVE ON
+5 PROVIDERS OF 340B DRUGS; AND
+6 [(3)] (4) Other relevant administrative costs related to the prescription
+7 drug product.
+8 [(c) The process for setting upper payment limits shall:
+9 (1) Prohibit the application of an upper payment limit for a prescription
+10 drug product that is on the federal Food and Drug Administration prescription drug
+11 shortage list; and
+12 (2) Require the Board to:
+13 (i) Monitor the availability of any prescription drug product for
+14 which it sets an upper payment limit; and
+15 (ii) If there becomes a shortage of the prescription drug product in
+16 the State, reconsider or suspend the upper payment limit.]
+17 (C) (1) IF THE BOARD PREVIOUSLY SET AN UPPER PAYMENT LIMIT FOR A
+18 DRUG THAT BECOMES A CURRENT SHORTAGE, THE BOARD MAY RECONSIDER THE
+19 PREVIOUSLY SET UPPER PAYMENT LIMIT.
+20 (2) THE BOARD MAY NOT:
+21 (I) ESTABLISH A NEW UPPER PAYMENT LIMIT FOR A CURRENT
+22 SHORTAGE;
+23 (II) ENFORCE AN UPPER PAYMENT LIMIT AGAINST PROVIDER
+24 OR PHARMACY REIMBURSEMENT REQUIREMENTS FOR MEDICARE PART C OR PART
+25 D PLANS; OR
+26 (III) COUNT A PHARMACY DISPENSING FEE TOWARD OR
+27 SUBJECT A PHARMACY DISPENSING FEE TO AN UPPER PAYMENT LIMIT.
+28 (d) (1) If a plan of action is drafted under subsection (a) of this section, the
+29 Board shall submit the plan of action to the Legislative Policy Committee of the General
+30 Assembly, in accordance with § 2–1257 of the State Government Article, for its approval.
+HOUSE BILL 424 5
+1 (2) The Legislative Policy Committee shall have 45 days to approve the
+2 plan of action.
+3 (3) If the Legislative Policy Committee does not approve the plan of action,
+4 the Board shall submit the plan to the Governor and the Attorney General for approval.
+5 (4) The Governor and the Attorney General shall have 45 days to approve
+6 the plan of action.
+7 (5) The Board may not set upper payment limits unless the plan is
+8 approved, in accordance with this subsection, by:
+9 (i) The Legislative Policy Committee; or
+10 (ii) 1. The Governor; and
+11 2. The Attorney General.
+12 21–2C–14.
+13 [(a) If a plan of action is approved under § 21–2C–13(d) of this subtitle] IN
+14 ACCORDANCE WITH THE PLAN OF ACTION APPROVED BY THE LEGISLATIVE POLICY
+15 COMMITTEE ON OCTOBER 22, 2024, the Board may set upper payment limits for
+16 prescription drug products that are:
+17 (1) Purchased or paid for by a unit of State or local government or an
+18 organization on behalf of a unit of State or local government, including:
+19 (i) State or county correctional facilities;
+20 (ii) State hospitals; and
+21 (iii) Health clinics at State institutions of higher education;
+22 (2) Paid for through a health benefit plan on behalf of a unit of State or
+23 local government, including a county, bicounty, or municipal employee health benefit plan;
+24 or
+25 (3) Purchased for or paid for by the Maryland State Medical Assistance
+26 Program.
+27 [(b) The upper payment limits set under subsection (a) of this section shall:
+28 (1) Be for prescription drug products that have led or will lead to an
+29 affordability challenge; and
+6 HOUSE BILL 424
+1 (2) Be set in accordance with the criteria established in regulations
+2 adopted by the Board.
+3 (c) (1) The Board shall:
+4 (i) Monitor the availability of any prescription drug product for
+5 which it sets an upper payment limit; and
+6 (ii) If there becomes a shortage of the prescription drug product in
+7 the State, reconsider whether the upper payment limit should be suspended or altered.
+8 (2) An upper payment limit set under subsection (a) of this section may not
+9 be applied to a prescription drug product while the prescription drug product is on the
+10 federal Food and Drug Administration prescription drug shortage list.]
+11 [21–2C–16.
+12 On or before December 1, 2026, the Board, in consultation with the Stakeholder
+13 Council, shall report to the Senate Finance Committee and the House Health and
+14 Government Operations Committee, in accordance with § 2–1257 of the State Government
+15 Article, on:
+16 (1) The legality, obstacles, and benefits of setting upper payment limits on
+17 all purchases and payor reimbursements of prescription drug products in the State; and
+18 (2) Recommendations regarding whether the General Assembly should
+19 pass legislation to expand the authority of the Board to set upper payment limits to all
+20 purchases and payor reimbursements of prescription drug products in the State.]
+21 21–2C–16.
+22 (A) (1) THE BOARD, IN CONSULTATION WITH THE STAKEHOLDER
+23 COUNCIL, SHALL DETERMINE WHETHER, IN ADDITION TO SETTING UPPER PAYMENT
+24 LIMITS IN ACCORDANCE WITH § 21–2C–14 OF THIS SUBTITLE, IT IS IN THE BEST
+25 INTEREST OF THE STATE FOR THE BOARD TO ESTABLISH A PROCESS FOR SETTING
+26 UPPER PAYMENT LIMITS FOR ALL PURCHASES AND PAYOR REIMBURSEMENTS OF
+27 PRESCRIPTION DRUG PRODUCTS IN THE STATE THAT THE BOARD DETERMINES
+28 HAVE LED OR WILL LEAD TO AN AFFORDABILITY CHALLENGE.
+29 (2) WHEN MAKING A DETERMINATION UNDER PARAGRAPH (1) OF
+30 THIS SUBSECTION, THE BOARD SHALL CONSIDER, IF APPLICABLE:
+31 (I) CONTRACT AND BUDGET DATA PROVIDED TO THE BOARD
+32 THAT DEMONSTRATES SAVINGS TO THE STATE OR LOCAL GOVERNMENTS AS A
+33 RESULT OF UPPER PAYMENT LIMITS SET IN ACCORDANCE WITH § 21–2C–14 OF THIS
+34 SUBTITLE;
+HOUSE BILL 424 7
+1 (II) SUCCESS OF SETTING UPPER PAYMENT LIMITS IN OTHER
+2 STATES; AND
+3 (III) EXPECTED SAVINGS FROM MEDICARE MAXIMUM FAIR
+4 PRICES SET BY THE CENTERS FOR MEDICARE AND MEDICAID SERVICES.
+5 (B) (1) IF THE BOARD MAKES AN AFFIRMATIVE DETERMINATION UNDER
+6 SUBSECTION (A) OF THIS SECTION, THE BOARD, IN CONSULTATION WITH THE
+7 STAKEHOLDER COUNCIL, SHALL ESTABLISH A PROCESS FOR SETTING UPPER
+8 PAYMENT LIMITS FOR ALL PURCHASES AND PAYOR REIMBURSEMENTS OF
+9 PRESCRIPTION DRUG PRODUCTS IN THE STATE THAT THE BOARD DETERMINES
+10 HAVE LED OR WILL LEAD TO AN AFFORDABILITY CHALLENGE.
+11 (2) THE PROCESS ESTABLISHED UNDER PARAGRAPH (1) OF THIS
+12 SUBSECTION SHALL:
+13 (I) TO THE EXTENT APPROPRIATE, USE THE PLAN OF ACTION
+14 APPROVED UNDER § 21–2C–13(D) OF THIS SUBTITLE; AND
+15 (II) OTHERWISE COMPLY WITH THE REQUIREMENTS FOR
+16 SETTING UPPER PAYMENT LIMITS ESTABLISHED UNDER THIS SUBTITLE.
+17 (3) BEFORE ESTABLISHING AN UPPER PAYMENT LIMIT THAT APPLIES
+18 TO THE MARYLAND MEDICAL ASSISTANCE PROGRAM, THE BOARD SHALL CONFER
+19 WITH THE MARYLAND MEDICAL ASSISTANCE PROGRAM TO APPROVE THE
+20 APPLICATION OF THE UPPER PAYMENT LIMIT BY ASSESSING WHETHER THE
+21 PROPOSED UPPER PAYMENT LIMIT WILL:
+22 (I) CONFLICT WITH THE MEDICAID DRUG REBATES
+23 PROGRAM, THE COVERED OUTPATIENT DRUG RULE (CMS–2345–FC), OR ANY
+24 OTHER FEDERAL REQUIREMENTS AS APPLICABLE; AND
+25 (II) REQUIRE ADDITIONAL FUNDING TO BE ALLOCATED TO THE
+26 MARYLAND MEDICAL ASSISTANCE PROGRAM BUDGET.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+28 as follows:
+29 Article – Health – General
+30 21–2C–16.
+31 (C) (1) IF SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, IF THE
+32 BOARD ESTABLISHES A PROCESS UNDER SUBSECTION (B) OF THIS SECTION, THE
+8 HOUSE BILL 424
+1 BOARD SHALL SET UPPER PAYMENT LIMITS FOR ALL PURCHASES AND PAYOR
+2 REIMBURSEMENTS OF PRESCRIPTION DRUG PRODUCTS IN THE STATE IN
+3 ACCORDANCE WITH THE PROCESS.
+4 (2) THIS SUBSECTION DOES NOT APPLY WITH RESPECT TO:
+5 (I) PAYOR REIMBURSEMENTS UNDER MEDICARE PART C AND
+6 D PLANS;
+7 (II) PURCHASES UNDER THE FEDERAL 340B DRUG PRICING
+8 PROGRAM; AND
+9 (III) PURCHASES AND PAYOR REIMBURSEMENTS UNDER
+10 FEDERAL PROGRAMS THAT ARE PREEMPTED BY FEDERAL LAW INCLUDING:
+11 1. THE DEPARTMENT OF DEFENSE;
+12 2. THE DEPARTMENT OF VETERANS AFFAIRS;
+13 3. THE PUBLIC HEALTH SERVICE;
+14 4. THE UNITED STATES COAST GUARD;
+15 5. TRICARE;
+16 6. THE FEDERAL EMPLOYEES HEALTH BENEFIT PLAN;
+17 AND
+18 7. ANY OTHER EXCLUSIVE FEDERAL PROGRAM AS
+19 APPLICABLE.
+20 SECTION 3. AND BE IT FURTHER ENACTED, That:
+21 (a) Section 2 of this Act is contingent on the Prescription Drug Affordability Board
+22 setting upper payment limits on two prescription drugs in accordance with § 21–2C–14 of
+23 the Health – General Article, as enacted by Section 1 of this Act, and each upper payment
+24 limit being in effect for 1 year.
+25 (b) Within 5 days after the conditions described in subsection (a) of this section
+26 are met, the Prescription Drug Affordability Board shall notify the Department of
+27 Legislative Services.
+28 (c) If notice is received by the Department of Legislative Services in accordance
+29 with subsection (b) of this section on or before September 31 September 30, 2030, Section 2
+HOUSE BILL 424 9
+1 of this Act shall take effect on the date the notice is received by the Department of
+2 Legislative Services.
+3 (d) If notice is not received by the Department of Legislative Services on or before
+4 December 31 September 30, 2030, Section 2 of this Act, with no further action required by
+5 the General Assembly, shall be null and void.
+6 SECTION 4. AND BE IT FURTHER ENACTED, That, subject to Section 3 of this
+7 Act, this Act shall take effect October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5   C D C a W W A B G H S K K L M A P ( F c t e a p f s u p l f a p t t s B b t r B  A S  A  ( B  A S]
+[DELETED:  H   A  ( B  A S  A  ( B  A S  A  (  S T A 2  ( I  ( “ b  ( “ a  ( “  ( ( “ a   ( “ b ) “C”:UE    LF A C O T F O A R’DSD;NS R H AE    O D B T O T B I S T.]
+[DELETED: H 3  () “](   ( A a   ( A   ( A m  () “](   ( ( E    ( E d   ( S p  () “]( a  () “ C m t P D A]( S 2  ( I  ( ( T s   ( I t B r f f t M H C C C. 2  ( I i d B i c w t S C s d a p o a f i t p t i t c t B s u t s u ps.]
+[DELETED:  H   ( T   ( T   ( T ad    E T U P L W H O  S B;   () O]( d  ( T   ( P d p t i o t f F a D A p d s   ( R    ( M t a o a p d p f w    ( I t. ) ( IF OE  O   TB: O   ) SE   ) IN E A   APC;S    ) IO A P D F T O  ( ( I B A]
+[DELETED: H 5   ( T p   ( I t   ( T t   ( T B m n s u p l u t p i a    ( T    ( 1 T     2 T 2  ( I a p o a i a u § 2 o t s]N E OO2,2 O C  , t B m s u p l f p   ( P o p f b a u o S o l g o a o    ( S    ( S    ( H   ( P l o   ( P P  ( T   ( B f p d p t h l o w l t a a]
+[DELETED:  H    ( B s i a w t c e i r a  ( ( T    ( M t a o a p d p f w    ( I t   ( A b f. 2  O C s r t t S F C a t H H a G A   ( T a   ( R r w t G A s p p. ) ( TB,H OD I C W T T,L R    E 24 T O D P I T T T T O D   W( M A D U P  ON  OR B,:   ) CO O D S T T T O L G A A   2]
+[DELETED: H 7   ) IU U IS    ) EMMIX S F E A ACMMS. E E E E ) ( IF O A O T SN T OD I C W T),BC OL S E A P F S U L F A P A P R O D P I T T T T O D   T( P E U P  O T   ) TOE   D E 2();   ) IT C W T R F ()  A E S RM  OMAP, T A E S R T A TMA O T U P L B A W T     )CMDO W T E R E,CODR(M T O U R U  O AE      )IEMAP E S R    S a A 2  ) ()IS()F U T P  O T SN I T() B N ]
+[DELETED:  H  S S U P L F ALP A P  O P D P I T T IS  ()T      )PMPA E A  PL     )P3BDIU U T F  R RM      )IU A P R U       .TDD E E      .TDVA E E F      .TPHS U E E      .TUSCG N T O U      .T     .TFEHBP E M E E LN      . O E F P A    S  ( S s t l  ( W a m t P D A B s n t D o L  ( I w]
+[DELETED: H 9 o t A s t e o t d t n i r b t D o L  ( I D t  S A          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 424
+J1, J5 5lr2044
+CF SB 357
+By: Delegates Cullison and White Holland, White Holland, Alston, Bagnall,
+Bhandari, Guzzone, Hill, S. Johnson, Kaiser, Kerr, Lopez, Martinez,
+Pena–Melnyk, Rosenberg, Taveras, Woods, and Woorman
+Introduced and read first time: January 16, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 19, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Prescription Drug Affordability Board – Authority for Upper Payment Limits
+3 (Lowering Prescription Drug Costs for All Marylanders Now Act)
+4 FOR the purpose of requiring the Prescription Drug Affordability Board, under certain
+5 circumstances, to establish a process for setting upper payment limits for all
+6 purchases and payor reimbursements of prescription drug products in the State that
+7 the Board determines have led or will lead to affordability challenges; authorizing
+8 the Board to reconsider an upper payment limit for a drug that becomes a current
+9 shortage; altering requirements related to the setting of upper payment limits by the
+10 Board; requiring the Board to confer with the Maryland Medical Assistance Program
+11 before establishing an upper payment limit that applies to the Program; prohibiting
+12 the Board from taking certain actions related to upper payment limits; and generally
+13 relating to the Prescription Drug Affordability Board.
+14 BY repealing and reenacting, with amendments,
+15 Article – Health – General
+16 Section 21–2C–01, 21–2C–13, and 21–2C–14
+17 Annotated Code of Maryland
+18 (2023 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, without amendments,
+20 Article – Health – General
+21 Section 21–2C–11(a)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0424*
+
+2 HOUSE BILL 424
+1 Annotated Code of Maryland
+2 (2023 Replacement Volume and 2024 Supplement)
+3 BY repealing
+4 Article – Health – General
+5 Section 21–2C–11(d) and 21–2C–16
+6 Annotated Code of Maryland
+7 (2023 Replacement Volume and 2024 Supplement)
+8 BY adding to
+9 Article – Health – General
+10 Section 21–2C–16
+11 Annotated Code of Maryland
+12 (2023 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Health – General
+16 21–2C–01.
+17 (a) In this subtitle the following words have the meanings indicated.
+18 (b) “Biologic” means a drug that is produced or distributed in accordance with a
+19 biologics license application approved under 42 C.F.R. § 447.502.
+20 (c) “Biosimilar” means a drug that is produced or distributed in accordance with
+21 a biologics license application approved under 42 U.S.C. § 262(k)(3).
+22 (d) “Board” means the Prescription Drug Affordability Board.
+23 (e) (1) “Brand name drug” means a drug that is produced or distributed in
+24 accordance with an original new drug application approved under 21 U.S.C. § 355(c).
+25 (2) “Brand name drug” does not include an authorized generic as defined
+26 by 42 C.F.R. § 447.502.
+27 (F) “CURRENT SHORTAGE” MEANS A DRUG:
+28 (1) LISTED AS CURRENT ON THE FEDERAL FOOD AND DRUG
+29 ADMINISTRATION’S DRUG SHORTAGE DATABASE; OR
+30 (2) OTHERWISE DETERMINED BY THE BOARD TO BE IN SHORT
+31 SUPPLY IN THE STATE.
+
+HOUSE BILL 424 3
+1 [(f)] (G) “Generic drug” means:
+2 (1) A retail drug that is marketed or distributed in accordance with an
+3 abbreviated new drug application, approved under 21 U.S.C. § 355(j);
+4 (2) An authorized generic as defined by 42 C.F.R. § 447.502; or
+5 (3) A drug that entered the market before 1962 that was not originally
+6 marketed under a new drug application.
+7 [(g)] (H) “Manufacturer” means an entity that:
+8 (1) (i) Engages in the manufacture of a prescription drug product; or
+9 (ii) Enters into a lease with another manufacturer to market and
+10 distribute a prescription drug product under the entity’s own name; and
+11 (2) Sets or changes the wholesale acquisition cost of the prescription drug
+12 product it manufactures or markets.
+13 [(h)] (I) “Prescription drug product” means a brand name drug, a generic drug,
+14 a biologic, or a biosimilar.
+15 [(i)] (J) “Stakeholder Council” means the Prescription Drug Affordability
+16 Stakeholder Council.
+17 21–2C–11.
+18 (a) In this section, “Fund” means the Prescription Drug Affordability Fund.
+19 [(d) (1) The Board shall be established using special or general funds, which
+20 shall be repaid to the State with the funds from the Fund.
+21 (2) If the Board receives funding from the Maryland Health Care
+22 Commission under paragraph (1) of this subsection, the Board shall repay the funds to the
+23 Commission from the Fund over a 3–year period beginning June 1, 2021.]
+24 21–2C–13.
+25 (a) If, under § 21–2C–07 of this subtitle, the Board finds that it is in the best
+26 interest of the State to establish a process for setting upper payment limits for prescription
+27 drug products that it determines have led or will lead to an affordability challenge, the
+28 Board, in conjunction with the Stakeholder Council, shall draft a plan of action for
+29 implementing the process [that includes the criteria the Board shall use to set upper
+30 payment limits] IN ACCORDANCE WITH THE REQUIREMENTS OF THIS SECTION.
+
+4 HOUSE BILL 424
+1 (b) The criteria for setting upper payment limits shall include consideration of:
+2 (1) The cost of administering the prescription drug product;
+3 (2) The cost of delivering the prescription drug product to consumers; [and]
+4 (3) THE EFFECT THE UPPER PAYMENT LIMIT WILL HAVE ON
+5 PROVIDERS OF 340B DRUGS; AND
+6 [(3)] (4) Other relevant administrative costs related to the prescription
+7 drug product.
+8 [(c) The process for setting upper payment limits shall:
+9 (1) Prohibit the application of an upper payment limit for a prescription
+10 drug product that is on the federal Food and Drug Administration prescription drug
+11 shortage list; and
+12 (2) Require the Board to:
+13 (i) Monitor the availability of any prescription drug product for
+14 which it sets an upper payment limit; and
+15 (ii) If there becomes a shortage of the prescription drug product in
+16 the State, reconsider or suspend the upper payment limit.]
+17 (C) (1) IF THE BOARD PREVIOUSLY SET AN UPPER PAYMENT LIMIT FOR A
+18 DRUG THAT BECOMES A CURRENT SHORTAGE, THE BOARD MAY RECONSIDER THE
+19 PREVIOUSLY SET UPPER PAYMENT LIMIT.
+20 (2) THE BOARD MAY NOT:
+21 (I) ESTABLISH A NEW UPPER PAYMENT LIMIT FOR A CURRENT
+22 SHORTAGE;
+23 (II) ENFORCE AN UPPER PAYMENT LIMIT AGAINST PROVIDER
+24 OR PHARMACY REIMBURSEMENT REQUIREMENTS FOR MEDICARE PART C OR PART
+25 D PLANS; OR
+26 (III) COUNT A PHARMACY DISPENSING FEE TOWARD OR
+27 SUBJECT A PHARMACY DISPENSING FEE TO AN UPPER PAYMENT LIMIT.
+28 (d) (1) If a plan of action is drafted under subsection (a) of this section, the
+29 Board shall submit the plan of action to the Legislative Policy Committee of the General
+30 Assembly, in accordance with § 2–1257 of the State Government Article, for its approval.
+
+HOUSE BILL 424 5
+1 (2) The Legislative Policy Committee shall have 45 days to approve the
+2 plan of action.
+3 (3) If the Legislative Policy Committee does not approve the plan of action,
+4 the Board shall submit the plan to the Governor and the Attorney General for approval.
+5 (4) The Governor and the Attorney General shall have 45 days to approve
+6 the plan of action.
+7 (5) The Board may not set upper payment limits unless the plan is
+8 approved, in accordance with this subsection, by:
+9 (i) The Legislative Policy Committee; or
+10 (ii) 1. The Governor; and
+11 2. The Attorney General.
+12 21–2C–14.
+13 [(a) If a plan of action is approved under § 21–2C–13(d) of this subtitle] IN
+14 ACCORDANCE WITH THE PLAN OF ACTION APPROVED BY THE LEGISLATIVE POLICY
+15 COMMITTEE ON OCTOBER 22, 2024, the Board may set upper payment limits for
+16 prescription drug products that are:
+17 (1) Purchased or paid for by a unit of State or local government or an
+18 organization on behalf of a unit of State or local government, including:
+19 (i) State or county correctional facilities;
+20 (ii) State hospitals; and
+21 (iii) Health clinics at State institutions of higher education;
+22 (2) Paid for through a health benefit plan on behalf of a unit of State or
+23 local government, including a county, bicounty, or municipal employee health benefit plan;
+24 or
+25 (3) Purchased for or paid for by the Maryland State Medical Assistance
+26 Program.
+27 [(b) The upper payment limits set under subsection (a) of this section shall:
+28 (1) Be for prescription drug products that have led or will lead to an
+29 affordability challenge; and
+
+6 HOUSE BILL 424
+1 (2) Be set in accordance with the criteria established in regulations
+2 adopted by the Board.
+3 (c) (1) The Board shall:
+4 (i) Monitor the availability of any prescription drug product for
+5 which it sets an upper payment limit; and
+6 (ii) If there becomes a shortage of the prescription drug product in
+7 the State, reconsider whether the upper payment limit should be suspended or altered.
+8 (2) An upper payment limit set under subsection (a) of this section may not
+9 be applied to a prescription drug product while the prescription drug product is on the
+10 federal Food and Drug Administration prescription drug shortage list.]
+11 [21–2C–16.
+12 On or before December 1, 2026, the Board, in consultation with the Stakeholder
+13 Council, shall report to the Senate Finance Committee and the House Health and
+14 Government Operations Committee, in accordance with § 2–1257 of the State Government
+15 Article, on:
+16 (1) The legality, obstacles, and benefits of setting upper payment limits on
+17 all purchases and payor reimbursements of prescription drug products in the State; and
+18 (2) Recommendations regarding whether the General Assembly should
+19 pass legislation to expand the authority of the Board to set upper payment limits to all
+20 purchases and payor reimbursements of prescription drug products in the State.]
+21 21–2C–16.
+22 (A) (1) THE BOARD, IN CONSULTATION WITH THE STAKEHOLDER
+23 COUNCIL, SHALL DETERMINE WHETHER, IN ADDITION TO SETTING UPPER PAYMENT
+24 LIMITS IN ACCORDANCE WITH § 21–2C–14 OF THIS SUBTITLE, IT IS IN THE BEST
+25 INTEREST OF THE STATE FOR THE BOARD TO ESTABLISH A PROCESS FOR SETTING
+26 UPPER PAYMENT LIMITS FOR ALL PURCHASES AND PAYOR REIMBURSEMENTS OF
+27 PRESCRIPTION DRUG PRODUCTS IN THE STATE THAT THE BOARD DETERMINES
+28 HAVE LED OR WILL LEAD TO AN AFFORDABILITY CHALLENGE.
+29 (2) WHEN MAKING A DETERMINATION UNDER PARAGRAPH (1) OF
+30 THIS SUBSECTION, THE BOARD SHALL CONSIDER, IF APPLICABLE:
+31 (I) CONTRACT AND BUDGET DATA PROVIDED TO THE BOARD
+32 THAT DEMONSTRATES SAVINGS TO THE STATE OR LOCAL GOVERNMENTS AS A
+33 RESULT OF UPPER PAYMENT LIMITS SET IN ACCORDANCE WITH § 21–2C–14 OF THIS
+34 SUBTITLE;
+
+HOUSE BILL 424 7
+1 (II) SUCCESS OF SETTING UPPER PAYMENT LIMITS IN OTHER
+2 STATES; AND
+3 (III) EXPECTED SAVINGS FROM MEDICARE MAXIMUM FAIR
+4 PRICES SET BY THE CENTERS FOR MEDICARE AND MEDICAID SERVICES.
+5 (B) (1) IF THE BOARD MAKES AN AFFIRMATIVE DETERMINATION UNDER
+6 SUBSECTION (A) OF THIS SECTION, THE BOARD, IN CONSULTATION WITH THE
+7 STAKEHOLDER COUNCIL, SHALL ESTABLISH A PROCESS FOR SETTING UPPER
+8 PAYMENT LIMITS FOR ALL PURCHASES AND PAYOR REIMBURSEMENTS OF
+9 PRESCRIPTION DRUG PRODUCTS IN THE STATE THAT THE BOARD DETERMINES
+10 HAVE LED OR WILL LEAD TO AN AFFORDABILITY CHALLENGE.
+11 (2) THE PROCESS ESTABLISHED UNDER PARAGRAPH (1) OF THIS
+12 SUBSECTION SHALL:
+13 (I) TO THE EXTENT APPROPRIATE, USE THE PLAN OF ACTION
+14 APPROVED UNDER § 21–2C–13(D) OF THIS SUBTITLE; AND
+15 (II) OTHERWISE COMPLY WITH THE REQUIREMENTS FOR
+16 SETTING UPPER PAYMENT LIMITS ESTABLISHED UNDER THIS SUBTITLE.
+17 (3) BEFORE ESTABLISHING AN UPPER PAYMENT LIMIT THAT APPLIES
+18 TO THE MARYLAND MEDICAL ASSISTANCE PROGRAM, THE BOARD SHALL CONFER
+19 WITH THE MARYLAND MEDICAL ASSISTANCE PROGRAM TO APPROVE THE
+20 APPLICATION OF THE UPPER PAYMENT LIMIT BY ASSESSING WHETHER THE
+21 PROPOSED UPPER PAYMENT LIMIT WILL:
+22 (I) CONFLICT WITH THE MEDICAID DRUG REBATES
+23 PROGRAM, THE COVERED OUTPATIENT DRUG RULE (CMS–2345–FC), OR ANY
+24 OTHER FEDERAL REQUIREMENTS AS APPLICABLE; AND
+25 (II) REQUIRE ADDITIONAL FUNDING TO BE ALLOCATED TO THE
+26 MARYLAND MEDICAL ASSISTANCE PROGRAM BUDGET.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+28 as follows:
+29 Article – Health – General
+30 21–2C–16.
+31 (C) (1) IF SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, IF THE
+32 BOARD ESTABLISHES A PROCESS UNDER SUBSECTION (B) OF THIS SECTION, THE
+
+8 HOUSE BILL 424
+1 BOARD SHALL SET UPPER PAYMENT LIMITS FOR ALL PURCHASES AND PAYOR
+2 REIMBURSEMENTS OF PRESCRIPTION DRUG PRODUCTS IN THE STATE IN
+3 ACCORDANCE WITH THE PROCESS.
+4 (2) THIS SUBSECTION DOES NOT APPLY WITH RESPECT TO:
+5 (I) PAYOR REIMBURSEMENTS UNDER MEDICARE PART C AND
+6 D PLANS;
+7 (II) PURCHASES UNDER THE FEDERAL 340B DRUG PRICING
+8 PROGRAM; AND
+9 (III) PURCHASES AND PAYOR REIMBURSEMENTS UNDER
+10 FEDERAL PROGRAMS THAT ARE PREEMPTED BY FEDERAL LAW INCLUDING:
+11 1. THE DEPARTMENT OF DEFENSE;
+12 2. THE DEPARTMENT OF VETERANS AFFAIRS;
+13 3. THE PUBLIC HEALTH SERVICE;
+14 4. THE UNITED STATES COAST GUARD;
+15 5. TRICARE;
+16 6. THE FEDERAL EMPLOYEES HEALTH BENEFIT PLAN;
+17 AND
+18 7. ANY OTHER EXCLUSIVE FEDERAL PROGRAM AS
+19 APPLICABLE.
+20 SECTION 3. AND BE IT FURTHER ENACTED, That:
+21 (a) Section 2 of this Act is contingent on the Prescription Drug Affordability Board
+22 setting upper payment limits on two prescription drugs in accordance with § 21–2C–14 of
+23 the Health – General Article, as enacted by Section 1 of this Act, and each upper payment
+24 limit being in effect for 1 year.
+25 (b) Within 5 days after the conditions described in subsection (a) of this section
+26 are met, the Prescription Drug Affordability Board shall notify the Department of
+27 Legislative Services.
+28 (c) If notice is received by the Department of Legislative Services in accordance
+29 with subsection (b) of this section on or before September 31 September 30, 2030, Section 2
+
+HOUSE BILL 424 9
+1 of this Act shall take effect on the date the notice is received by the Department of
+2 Legislative Services.
+3 (d) If notice is not received by the Department of Legislative Services on or before
+4 December 31 September 30, 2030, Section 2 of this Act, with no further action required by
+5 the General Assembly, shall be null and void.
+6 SECTION 4. AND BE IT FURTHER ENACTED, That, subject to Section 3 of this
+7 Act, this Act shall take effect October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5   C D C a W W A B G H S K K L M A P ( F c t e a p f s u p l f a p t t s B b t r B  A S  A  ( B  A S]
+[DELETED:  H   A  ( B  A S  A  ( B  A S  A  (  S T A 2  ( I  ( “ b  ( “ a  ( “  ( ( “ a   ( “ b ) “C”:UE    LF A C O T F O A R’DSD;NS R H AE    O D B T O T B I S T.]
+[DELETED: H 3  () “](   ( A a   ( A   ( A m  () “](   ( ( E    ( E d   ( S p  () “]( a  () “ C m t P D A]( S 2  ( I  ( ( T s   ( I t B r f f t M H C C C. 2  ( I i d B i c w t S C s d a p o a f i t p t i t c t B s u t s u ps.]
+[DELETED:  H   ( T   ( T   ( T ad    E T U P L W H O  S B;   () O]( d  ( T   ( P d p t i o t f F a D A p d s   ( R    ( M t a o a p d p f w    ( I t. ) ( IF OE  O   TB: O   ) SE   ) IN E A   APC;S    ) IO A P D F T O  ( ( I B A]
+[DELETED: H 5   ( T p   ( I t   ( T t   ( T B m n s u p l u t p i a    ( T    ( 1 T     2 T 2  ( I a p o a i a u § 2 o t s]N E OO2,2 O C  , t B m s u p l f p   ( P o p f b a u o S o l g o a o    ( S    ( S    ( H   ( P l o   ( P P  ( T   ( B f p d p t h l o w l t a a]
+[DELETED:  H    ( B s i a w t c e i r a  ( ( T    ( M t a o a p d p f w    ( I t   ( A b f. 2  O C s r t t S F C a t H H a G A   ( T a   ( R r w t G A s p p. ) ( TB,H OD I C W T T,L R    E 24 T O D P I T T T T O D   W( M A D U P  ON  OR B,:   ) CO O D S T T T O L G A A   2]
+[DELETED: H 7   ) IU U IS    ) EMMIX S F E A ACMMS. E E E E ) ( IF O A O T SN T OD I C W T),BC OL S E A P F S U L F A P A P R O D P I T T T T O D   T( P E U P  O T   ) TOE   D E 2();   ) IT C W T R F ()  A E S RM  OMAP, T A E S R T A TMA O T U P L B A W T     )CMDO W T E R E,CODR(M T O U R U  O AE      )IEMAP E S R    S a A 2  ) ()IS()F U T P  O T SN I T() B N ]
+[DELETED:  H  S S U P L F ALP A P  O P D P I T T IS  ()T      )PMPA E A  PL     )P3BDIU U T F  R RM      )IU A P R U       .TDD E E      .TDVA E E F      .TPHS U E E      .TUSCG N T O U      .T     .TFEHBP E M E E LN      . O E F P A    S  ( S s t l  ( W a m t P D A B s n t D o L  ( I w]
+[DELETED: H 9 o t A s t e o t d t n i r b t D o L  ( I D t  S A          G               ]

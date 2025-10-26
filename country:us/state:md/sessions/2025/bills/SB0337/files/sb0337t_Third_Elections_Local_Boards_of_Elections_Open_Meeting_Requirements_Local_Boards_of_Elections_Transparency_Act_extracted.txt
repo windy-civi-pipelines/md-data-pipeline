@@ -1,0 +1,323 @@
+Title: SENATE BILL 337
+Official Title: SENATE BILL 337
+Number of Sections: 1
+Source: versions - Third - Elections - Local Boards of Elections - Open Meeting Requirements (Local Boards of Elections Transparency Act)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+G1 5lr0732
+CF HB 412
+By: Senator Kagan
+Introduced and read first time: January 16, 2025
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 21, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Elections – Local Boards of Elections and Boards of Canvassers – Open Meeting
+3 Requirements
+4 (Local Boards of Elections Transparency Act)
+5 FOR the purpose of establishing enhanced open meeting requirements for each local board
+6 of elections and each local board of canvassers; and generally relating to open
+7 meeting requirements for local boards of elections and boards of canvassers.
+8 BY adding to
+9 Article – Election Law
+10 Section 2–208
+11 Annotated Code of Maryland
+12 (2022 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – Election Law
+15 Section 11–301, 11–302(a), and 11–303(a)
+16 Annotated Code of Maryland
+17 (2022 Replacement Volume and 2024 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Election Law
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0337*
+2 SENATE BILL 337
+1 2–208.
+2 (A) EACH LOCAL BOARD SHALL MAKE PUBLICLY AVAILABLE ON ITS
+3 WEBSITE EACH OPEN MEETING AGENDA, TOGETHER WITH A SUMMARY OF ANY
+4 FINALIZED DOCUMENTS, WRITTEN TESTIMONY FROM THE PUBLIC, AND OTHER
+5 MATERIALS THAT THE LOCAL BOARD WILL VOTE ON AT THE OPEN MEETING:
+6 (1) AT LEAST 48 HOURS IN ADVANCE OF EACH MEETING; OR
+7 (2) IF THE MEETING IS BEING HELD DUE TO AN EMERGENCY, A
+8 NATURAL DISASTER, OR ANY OTHER UNANTICIPATED SITUATION, AS FAR IN
+9 ADVANCE OF THE MEETING AS PRACTICABLE.
+10 (B) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION,
+11 EACH LOCAL BOARD SHALL PROVIDE LIVE VIDEO STREAMING OF EACH OPEN
+12 MEETING HELD BY THE LOCAL BOARD.
+13 (2) THE LIVE STREAMING VIDEO REQUIREMENT UNDER PARAGRAPH
+14 (1) OF THIS SUBSECTION DOES NOT APPLY WITH RESPECT TO:
+15 (I) AN OPEN MEETING HELD OFF–SITE;
+16 (II) A PROJECT SITE VISIT; OR
+17 (III) AN INSPECTION CONDUCTED BY THE LOCAL BOARD.
+18 (C) EACH LOCAL BOARD SHALL MAINTAIN A COMPLETE AND UNEDITED
+19 ARCHIVED VIDEO RECORDING OF EACH OPEN MEETING FOR WHICH LIVE VIDEO
+20 STREAMING WAS PROVIDED UNDER SUBSECTION (B) OF THIS SECTION FOR A
+21 MINIMUM OF 5 YEARS AFTER THE DATE OF THE MEETING.
+22 11–301.
+23 (a) A board of canvassers shall:
+24 (1) convene at the designated counting center for that county on or before
+25 the day of the election, but not later than 5 p.m. on that day, and be sworn in; and
+26 (2) meet only in public session.
+27 (B) A BOARD OF CANVASSERS AND THE STAFF OF A LOCAL BOARD SHALL:
+28 (1) PROVIDE LIVE VIDEO STREAMING OF THE CANVASS; AND
+SENATE BILL 337 3
+1 (2) MAINTAIN A COMPLETE AND UNEDITED ARCHIVED VIDEO
+2 RECORDING OF THE CANVASS FOR A MINIMUM OF 5 YEARS AFTER THE DATE OF THE
+3 COMPLETION OF THE CANVASS.
+4 [(a–1)] (C) (1) Subject to paragraph (3) of this subsection, a board of canvassers
+5 and the staff of a local board may be observed IN PERSON as they complete each part of
+6 the canvass by authorized observers designated under paragraph (2) of this subsection and
+7 any other individuals who wish to be present.
+8 (2) The following individuals or entities have the right to designate a
+9 registered voter as an observer at each counting center:
+10 (i) a candidate;
+11 (ii) a political party; and
+12 (iii) any other group of voters supporting or opposing a candidate,
+13 principle, or proposition on the ballot.
+14 (3) The State Board may adopt regulations prohibiting IN–PERSON public
+15 observation of a part of the canvass only if prohibiting IN–PERSON public observation is
+16 necessary to ensure:
+17 (i) the integrity or accuracy of the canvass; or
+18 (ii) that the canvass process is not impeded.
+19 (4) The State Board shall ensure that the requirements of this subsection
+20 are implemented uniformly and consistently by each local board.
+21 [(b)] (D) Each board of canvassers shall elect by majority vote a chairman and
+22 secretary from among its members.
+23 [(c)] (E) Each member of the board of canvassers shall take an oath,
+24 administered and recorded by the clerk of the circuit court, to canvass and declare the votes
+25 cast truthfully and to perform other duties required by law.
+26 [(d)] (F) (1) At the first meeting of the board of canvassers for the purpose of
+27 canvassing, a majority of the whole board of canvassers shall be a quorum.
+28 (2) If a quorum is not present, the members present shall adjourn until the
+29 next day.
+30 [(e)] (G) Except as otherwise provided in this article, all decisions shall be
+31 reached by a majority vote of the members present.
+4 SENATE BILL 337
+1 [(f)] (H) In Montgomery County and Prince George’s County, if a member is not
+2 present at the scheduled time for vote canvassing, a substitute member of the board of
+3 canvassers may be sworn in.
+4 [(g)] (I) At least one member of the board of canvassers present shall be a
+5 registered voter of the principal minority party.
+6 [(h)] (J) Once the board has satisfied the requirements of subsections (a)
+7 through [(g)] (I) of this section, it may proceed with the canvass in accordance with the
+8 regulations of the State Board.
+9 11–302.
+10 (a) (1) Each local board shall:
+11 (I) meet at its designated counting center to canvass the absentee
+12 ballots cast in that election in accordance with the regulations and guidelines established
+13 by the State Board; AND
+14 (II) COMPLY WITH THE LIVE VIDEO STREAMING AND ARCHIVAL
+15 REQUIREMENTS OF § 11–301(B) OF THIS SUBTITLE.
+16 (2) Promptly after receipt of an absentee ballot, a local board shall review
+17 the ballot envelope or ballot/return envelope for the omission of the voter’s signature on the
+18 oath.
+19 (3) A local board shall record the receipt of an absentee ballot in the
+20 statewide voter registration system and make the information available through the free
+21 access system established under COMAR 33.11.06.03 as soon as practicable, but not later
+22 than:
+23 (i) 2 business days after receipt of an absentee ballot provided by
+24 mail; or
+25 (ii) 4 business days after receipt of an absentee ballot provided
+26 through the Internet or by facsimile transmission.
+27 11–303.
+28 (a) Following an election, each local board shall:
+29 (1) meet at its designated counting center to canvass the provisional ballots
+30 cast in that election in accordance with the regulations and guidelines established by the
+31 State Board; AND
+SENATE BILL 337 5
+1 (2) COMPLY WITH THE LIVE VIDEO STREAMING AND ARCHIVAL
+2 REQUIREMENTS OF § 11–301(B) OF THIS SUBTITLE.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That on or before December 1,
+4 2025, the State Board of Elections shall adopt regulations to ensure that the live streaming
+5 requirements under §§ 2–208 and 11–301 § 2–208 of the Election Law Article, as enacted
+6 by Section 1 of this Act, are implemented in a manner that:
+7 (1) maximizes transparency of open meetings of local boards and the
+8 canvassing of ballots; and
+9 (2) as applicable, protects the anonymity of voters.
+10 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+11 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5   C A E R ( F o e a e l b o c a g r t o m B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  S  ) A L B S M P A O I E O M AA T W A S O A  DS W T F T PC A O    48;  G     T M I B H D T A EY A DR O A O U SN A F I ) ( E()X  N L B S P L V S O E O   ):   ) –;AFSE   ) ;IAT    ) .IA ) A L B S M A C A U V R O E O M F W L V W P U S B O T S F A  . 1  ( A   ( c t   ( m  ) A L    S ]
+[DELETED: S 3    A C A U A V      () ( S]( a   t a   ( T f i o e h t r t d a r    ( a    ( a    ( a p   ( T pNP o pNP n    ( t    ( t   ( T a  () E]( s  () E m o t b o c s t a o]( a c  () ( A]( c   ( I n  () E a o p i t a a d s b]( r]
+[DELETED:  S   () I]( p c  () A l o m o t b o c p s b a]( r  () O t b h s t r o s (]( t () ]( r 1  ( ( El     m b bd    )IC  B 1( .   ( P t o   ( A l b s r t r o a a b i t s a t    ( 2 m    ( 4 b d a r o a a b p t 1  ( Fl    m c Sd]
+[DELETED: S 5    W T L V S A A  B 1( .  S 2 r b   ( m t o o m o l b a t c   ( a  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 337
+G1 5lr0732
+CF HB 412
+By: Senator Kagan
+Introduced and read first time: January 16, 2025
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 21, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Elections – Local Boards of Elections and Boards of Canvassers – Open Meeting
+3 Requirements
+4 (Local Boards of Elections Transparency Act)
+5 FOR the purpose of establishing enhanced open meeting requirements for each local board
+6 of elections and each local board of canvassers; and generally relating to open
+7 meeting requirements for local boards of elections and boards of canvassers.
+8 BY adding to
+9 Article – Election Law
+10 Section 2–208
+11 Annotated Code of Maryland
+12 (2022 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – Election Law
+15 Section 11–301, 11–302(a), and 11–303(a)
+16 Annotated Code of Maryland
+17 (2022 Replacement Volume and 2024 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Election Law
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0337*
+
+2 SENATE BILL 337
+1 2–208.
+2 (A) EACH LOCAL BOARD SHALL MAKE PUBLICLY AVAILABLE ON ITS
+3 WEBSITE EACH OPEN MEETING AGENDA, TOGETHER WITH A SUMMARY OF ANY
+4 FINALIZED DOCUMENTS, WRITTEN TESTIMONY FROM THE PUBLIC, AND OTHER
+5 MATERIALS THAT THE LOCAL BOARD WILL VOTE ON AT THE OPEN MEETING:
+6 (1) AT LEAST 48 HOURS IN ADVANCE OF EACH MEETING; OR
+7 (2) IF THE MEETING IS BEING HELD DUE TO AN EMERGENCY, A
+8 NATURAL DISASTER, OR ANY OTHER UNANTICIPATED SITUATION, AS FAR IN
+9 ADVANCE OF THE MEETING AS PRACTICABLE.
+10 (B) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION,
+11 EACH LOCAL BOARD SHALL PROVIDE LIVE VIDEO STREAMING OF EACH OPEN
+12 MEETING HELD BY THE LOCAL BOARD.
+13 (2) THE LIVE STREAMING VIDEO REQUIREMENT UNDER PARAGRAPH
+14 (1) OF THIS SUBSECTION DOES NOT APPLY WITH RESPECT TO:
+15 (I) AN OPEN MEETING HELD OFF–SITE;
+16 (II) A PROJECT SITE VISIT; OR
+17 (III) AN INSPECTION CONDUCTED BY THE LOCAL BOARD.
+18 (C) EACH LOCAL BOARD SHALL MAINTAIN A COMPLETE AND UNEDITED
+19 ARCHIVED VIDEO RECORDING OF EACH OPEN MEETING FOR WHICH LIVE VIDEO
+20 STREAMING WAS PROVIDED UNDER SUBSECTION (B) OF THIS SECTION FOR A
+21 MINIMUM OF 5 YEARS AFTER THE DATE OF THE MEETING.
+22 11–301.
+23 (a) A board of canvassers shall:
+24 (1) convene at the designated counting center for that county on or before
+25 the day of the election, but not later than 5 p.m. on that day, and be sworn in; and
+26 (2) meet only in public session.
+27 (B) A BOARD OF CANVASSERS AND THE STAFF OF A LOCAL BOARD SHALL:
+28 (1) PROVIDE LIVE VIDEO STREAMING OF THE CANVASS; AND
+
+SENATE BILL 337 3
+1 (2) MAINTAIN A COMPLETE AND UNEDITED ARCHIVED VIDEO
+2 RECORDING OF THE CANVASS FOR A MINIMUM OF 5 YEARS AFTER THE DATE OF THE
+3 COMPLETION OF THE CANVASS.
+4 [(a–1)] (C) (1) Subject to paragraph (3) of this subsection, a board of canvassers
+5 and the staff of a local board may be observed IN PERSON as they complete each part of
+6 the canvass by authorized observers designated under paragraph (2) of this subsection and
+7 any other individuals who wish to be present.
+8 (2) The following individuals or entities have the right to designate a
+9 registered voter as an observer at each counting center:
+10 (i) a candidate;
+11 (ii) a political party; and
+12 (iii) any other group of voters supporting or opposing a candidate,
+13 principle, or proposition on the ballot.
+14 (3) The State Board may adopt regulations prohibiting IN–PERSON public
+15 observation of a part of the canvass only if prohibiting IN–PERSON public observation is
+16 necessary to ensure:
+17 (i) the integrity or accuracy of the canvass; or
+18 (ii) that the canvass process is not impeded.
+19 (4) The State Board shall ensure that the requirements of this subsection
+20 are implemented uniformly and consistently by each local board.
+21 [(b)] (D) Each board of canvassers shall elect by majority vote a chairman and
+22 secretary from among its members.
+23 [(c)] (E) Each member of the board of canvassers shall take an oath,
+24 administered and recorded by the clerk of the circuit court, to canvass and declare the votes
+25 cast truthfully and to perform other duties required by law.
+26 [(d)] (F) (1) At the first meeting of the board of canvassers for the purpose of
+27 canvassing, a majority of the whole board of canvassers shall be a quorum.
+28 (2) If a quorum is not present, the members present shall adjourn until the
+29 next day.
+30 [(e)] (G) Except as otherwise provided in this article, all decisions shall be
+31 reached by a majority vote of the members present.
+
+4 SENATE BILL 337
+1 [(f)] (H) In Montgomery County and Prince George’s County, if a member is not
+2 present at the scheduled time for vote canvassing, a substitute member of the board of
+3 canvassers may be sworn in.
+4 [(g)] (I) At least one member of the board of canvassers present shall be a
+5 registered voter of the principal minority party.
+6 [(h)] (J) Once the board has satisfied the requirements of subsections (a)
+7 through [(g)] (I) of this section, it may proceed with the canvass in accordance with the
+8 regulations of the State Board.
+9 11–302.
+10 (a) (1) Each local board shall:
+11 (I) meet at its designated counting center to canvass the absentee
+12 ballots cast in that election in accordance with the regulations and guidelines established
+13 by the State Board; AND
+14 (II) COMPLY WITH THE LIVE VIDEO STREAMING AND ARCHIVAL
+15 REQUIREMENTS OF § 11–301(B) OF THIS SUBTITLE.
+16 (2) Promptly after receipt of an absentee ballot, a local board shall review
+17 the ballot envelope or ballot/return envelope for the omission of the voter’s signature on the
+18 oath.
+19 (3) A local board shall record the receipt of an absentee ballot in the
+20 statewide voter registration system and make the information available through the free
+21 access system established under COMAR 33.11.06.03 as soon as practicable, but not later
+22 than:
+23 (i) 2 business days after receipt of an absentee ballot provided by
+24 mail; or
+25 (ii) 4 business days after receipt of an absentee ballot provided
+26 through the Internet or by facsimile transmission.
+27 11–303.
+28 (a) Following an election, each local board shall:
+29 (1) meet at its designated counting center to canvass the provisional ballots
+30 cast in that election in accordance with the regulations and guidelines established by the
+31 State Board; AND
+
+SENATE BILL 337 5
+1 (2) COMPLY WITH THE LIVE VIDEO STREAMING AND ARCHIVAL
+2 REQUIREMENTS OF § 11–301(B) OF THIS SUBTITLE.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That on or before December 1,
+4 2025, the State Board of Elections shall adopt regulations to ensure that the live streaming
+5 requirements under §§ 2–208 and 11–301 § 2–208 of the Election Law Article, as enacted
+6 by Section 1 of this Act, are implemented in a manner that:
+7 (1) maximizes transparency of open meetings of local boards and the
+8 canvassing of ballots; and
+9 (2) as applicable, protects the anonymity of voters.
+10 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+11 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5   C A E R ( F o e a e l b o c a g r t o m B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  S  ) A L B S M P A O I E O M AA T W A S O A  DS W T F T PC A O    48;  G     T M I B H D T A EY A DR O A O U SN A F I ) ( E()X  N L B S P L V S O E O   ):   ) –;AFSE   ) ;IAT    ) .IA ) A L B S M A C A U V R O E O M F W L V W P U S B O T S F A  . 1  ( A   ( c t   ( m  ) A L    S ]
+[DELETED: S 3    A C A U A V      () ( S]( a   t a   ( T f i o e h t r t d a r    ( a    ( a    ( a p   ( T pNP o pNP n    ( t    ( t   ( T a  () E]( s  () E m o t b o c s t a o]( a c  () ( A]( c   ( I n  () E a o p i t a a d s b]( r]
+[DELETED:  S   () I]( p c  () A l o m o t b o c p s b a]( r  () O t b h s t r o s (]( t () ]( r 1  ( ( El     m b bd    )IC  B 1( .   ( P t o   ( A l b s r t r o a a b i t s a t    ( 2 m    ( 4 b d a r o a a b p t 1  ( Fl    m c Sd]
+[DELETED: S 5    W T L V S A A  B 1( .  S 2 r b   ( m t o o m o l b a t c   ( a  S 1          G               ]

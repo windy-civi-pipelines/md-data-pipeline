@@ -1,0 +1,132 @@
+Title: HOUSE BILL 1365
+Official Title: HOUSE BILL 1365
+Number of Sections: 1
+Source: versions - First - Commercial Law - Online Data Privacy - Limits on Data Collection
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+I3 5lr3142
+By: Delegate Harrison
+Introduced and read first time: February 7, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Commercial Law – Online Data Privacy – Limits on Data Collection
+3 FOR the purpose of altering certain requirements for a controller relating to the collection
+4 of personal data; and generally relating to the collection and processing of personal
+5 data.
+6 BY repealing and reenacting, without amendments,
+7 Article – Commercial Law
+8 Section 14–4701(a), (k), and (w)
+9 Annotated Code of Maryland
+10 (2013 Replacement Volume and 2024 Supplement)
+11 (As enacted by Chapter 454 of the Acts of the General Assembly of 2024)
+12 BY repealing and reenacting, with amendments,
+13 Article – Commercial Law
+14 Section 14–4707(b)(1)
+15 Annotated Code of Maryland
+16 (2013 Replacement Volume and 2024 Supplement)
+17 (As enacted by Chapter 454 of the Acts of the General Assembly of 2024)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Commercial Law
+21 14–4701.
+22 (a) In this subtitle the following words have the meanings indicated.
+23 (k) “Controller” means a person that, alone or jointly with others, determines the
+24 purpose and means of processing personal data.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1365*
+2 HOUSE BILL 1365
+1 (w) (1) “Personal data” means any information that is linked or can be
+2 reasonably linked to an identified or identifiable consumer.
+3 (2) “Personal data” does not include:
+4 (i) De–identified data; or
+5 (ii) Publicly available information.
+6 14–4707.
+7 (b) (1) A controller shall:
+8 (i) Limit the collection of personal data to what is ADEQUATE,
+9 RELEVANT, AND reasonably necessary [and proportionate to provide or maintain a specific
+10 product or service requested by the consumer to whom the data pertains] IN RELATION TO
+11 THE PURPOSES FOR WHICH THE DATA IS PROCESSED, AS DISCLOSED TO THE
+12 CONSUMER;
+13 (ii) Establish, implement, and maintain reasonable administrative,
+14 technical, and physical data security practices to protect the confidentiality, integrity, and
+15 accessibility of personal data appropriate to the volume and nature of the personal data at
+16 issue; and
+17 (iii) Provide an effective mechanism for a consumer to revoke the
+18 consumer’s consent under this section that is at least as easy as the mechanism by which
+19 the consumer provided the consumer’s consent.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2025, the effective dates of Chapters 424 and 425 of the Acts of the General
+22 Assembly of 2024. If the effective dates of Chapters 424 and 425 are amended, this Act shall
+23 take effect on the taking effect of Chapters 424 and 425.
+[DELETED: :CA      5     A C F o d B  A S  A  (  ( B  A S  A  (  (  S T A 1  ( I  ( “ p]
+[DELETED:  H   ( ( “ d m a i t i l o c b r   ( “    ( D    ( P 1  ( ( A    ( L t c o p d t w iAET    a p P F W T D I PD A D T T ;    ( E t a i    ( P a e m f a c t r t c t  S A B I F E T t A s t e O A t]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1365
+I3 5lr3142
+By: Delegate Harrison
+Introduced and read first time: February 7, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Commercial Law – Online Data Privacy – Limits on Data Collection
+3 FOR the purpose of altering certain requirements for a controller relating to the collection
+4 of personal data; and generally relating to the collection and processing of personal
+5 data.
+6 BY repealing and reenacting, without amendments,
+7 Article – Commercial Law
+8 Section 14–4701(a), (k), and (w)
+9 Annotated Code of Maryland
+10 (2013 Replacement Volume and 2024 Supplement)
+11 (As enacted by Chapter 454 of the Acts of the General Assembly of 2024)
+12 BY repealing and reenacting, with amendments,
+13 Article – Commercial Law
+14 Section 14–4707(b)(1)
+15 Annotated Code of Maryland
+16 (2013 Replacement Volume and 2024 Supplement)
+17 (As enacted by Chapter 454 of the Acts of the General Assembly of 2024)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Commercial Law
+21 14–4701.
+22 (a) In this subtitle the following words have the meanings indicated.
+23 (k) “Controller” means a person that, alone or jointly with others, determines the
+24 purpose and means of processing personal data.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1365*
+
+2 HOUSE BILL 1365
+1 (w) (1) “Personal data” means any information that is linked or can be
+2 reasonably linked to an identified or identifiable consumer.
+3 (2) “Personal data” does not include:
+4 (i) De–identified data; or
+5 (ii) Publicly available information.
+6 14–4707.
+7 (b) (1) A controller shall:
+8 (i) Limit the collection of personal data to what is ADEQUATE,
+9 RELEVANT, AND reasonably necessary [and proportionate to provide or maintain a specific
+10 product or service requested by the consumer to whom the data pertains] IN RELATION TO
+11 THE PURPOSES FOR WHICH THE DATA IS PROCESSED, AS DISCLOSED TO THE
+12 CONSUMER;
+13 (ii) Establish, implement, and maintain reasonable administrative,
+14 technical, and physical data security practices to protect the confidentiality, integrity, and
+15 accessibility of personal data appropriate to the volume and nature of the personal data at
+16 issue; and
+17 (iii) Provide an effective mechanism for a consumer to revoke the
+18 consumer’s consent under this section that is at least as easy as the mechanism by which
+19 the consumer provided the consumer’s consent.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2025, the effective dates of Chapters 424 and 425 of the Acts of the General
+22 Assembly of 2024. If the effective dates of Chapters 424 and 425 are amended, this Act shall
+23 take effect on the taking effect of Chapters 424 and 425.
+
+[DELETED: :CA      5     A C F o d B  A S  A  (  ( B  A S  A  (  (  S T A 1  ( I  ( “ p]
+[DELETED:  H   ( ( “ d m a i t i l o c b r   ( “    ( D    ( P 1  ( ( A    ( L t c o p d t w iAET    a p P F W T D I PD A D T T ;    ( E t a i    ( P a e m f a c t r t c t  S A B I F E T t A s t e O A t]

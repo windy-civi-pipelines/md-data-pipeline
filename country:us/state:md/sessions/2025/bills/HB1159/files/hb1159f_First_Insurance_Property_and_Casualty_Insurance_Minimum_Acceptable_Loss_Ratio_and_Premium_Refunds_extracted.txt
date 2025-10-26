@@ -1,0 +1,116 @@
+Title: HOUSE BILL 1159
+Official Title: HOUSE BILL 1159
+Number of Sections: 1
+Source: versions - First - Insurance - Property and Casualty Insurance - Minimum Acceptable Loss Ratio and Premium Refunds
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+C4 5lr3091
+By: Delegates Wivell, Baker, and Valentine
+Introduced and read first time: February 6, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Insurance – Property and Casualty Insurance – Minimum Acceptable Loss Ratio
+3 and Premium Refunds
+4 FOR the purpose of establishing a minimum acceptable loss ratio for property and casualty
+5 insurers and requiring the insurer to refund a certain amount of premiums paid by
+6 an insured if the insurer’s loss ratio does not meet or exceed the established loss
+7 ratio; and generally relating to property and casualty insurance.
+8 BY adding to
+9 Article – Insurance
+10 Section 19–118
+11 Annotated Code of Maryland
+12 (2017 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Insurance
+16 19–118.
+17 (A) IN THIS SECTION, “PROPERTY AND CASUALTY LOSS RATIO” MEANS THE
+18 INSURER’S INCURRED CLAIMS FOR THE YEAR DIVIDED BY THE INSURER’S PREMIUM
+19 REVENUE FOR THE REPORTING YEAR.
+20 (B) THE MINIMUM ACCEPTABLE PROPERTY AND CASUALTY LOSS RATIO
+21 DURING A POLICY YEAR IS 85%.
+22 (C) FOR EACH POLICY YEAR, IF AN INSURER’S PROPERTY AND CASUALTY
+23 LOSS RATIO DOES NOT MEET OR EXCEED THE MINIMUM ACCEPTABLE PROPERTY
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1159*
+2 HOUSE BILL 1159
+1 AND CASUALTY LOSS RATIO ESTABLISHED UNDER SUBSECTION (B) OF THIS
+2 SECTION, THE INSURER SHALL PROVIDE A REBATE TO EACH INSURED IN AN AMOUNT
+3 EQUAL TO THE PRODUCT OF:
+4 (1) THE TOTAL AMOUNT OF PREMIUM REVENUE RECEIVED BY THE
+5 INSURER FROM THE INSURED, AFTER:
+6 (I) SUBTRACTING FEDERAL AND STATE TAXES AND LICENSING
+7 AND REGULATORY FEES; AND
+8 (II) ACCOUNTING FOR PAYMENTS OR RECEIPTS FOR RISK
+9 ADJUSTMENT AND REINSURANCE; AND
+10 (2) THE DIFFERENCE BETWEEN THE MINIMUM ACCEPTABLE
+11 PROPERTY AND CASUALTY LOSS RATIO ESTABLISHED UNDER SUBSECTION (B) OF
+12 THIS SECTION AND THE INSURER’S ACTUAL PROPERTY AND CASUALTY LOSS RATIO.
+13 (D) THE COMMISSIONER MAY ADOPT REGULATIONS TO CARRY OUT THIS
+14 SECTION.
+15 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+16 October 1, 2025.
+[DELETED: :CA      5     A I a F i a r B  A S  A  (  S T A() I,“NN PO RSRS() H M A P A C L R .() F,OR RS]
+[DELETED:  H  C L R E U S B O TN  ( T A O R B TD :  () S TS   ()IA F P O R F RE  ( D B T M A B RSO.() TH O M C O T  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1159
+C4 5lr3091
+By: Delegates Wivell, Baker, and Valentine
+Introduced and read first time: February 6, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Insurance – Property and Casualty Insurance – Minimum Acceptable Loss Ratio
+3 and Premium Refunds
+4 FOR the purpose of establishing a minimum acceptable loss ratio for property and casualty
+5 insurers and requiring the insurer to refund a certain amount of premiums paid by
+6 an insured if the insurer’s loss ratio does not meet or exceed the established loss
+7 ratio; and generally relating to property and casualty insurance.
+8 BY adding to
+9 Article – Insurance
+10 Section 19–118
+11 Annotated Code of Maryland
+12 (2017 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Insurance
+16 19–118.
+17 (A) IN THIS SECTION, “PROPERTY AND CASUALTY LOSS RATIO” MEANS THE
+18 INSURER’S INCURRED CLAIMS FOR THE YEAR DIVIDED BY THE INSURER’S PREMIUM
+19 REVENUE FOR THE REPORTING YEAR.
+20 (B) THE MINIMUM ACCEPTABLE PROPERTY AND CASUALTY LOSS RATIO
+21 DURING A POLICY YEAR IS 85%.
+22 (C) FOR EACH POLICY YEAR, IF AN INSURER’S PROPERTY AND CASUALTY
+23 LOSS RATIO DOES NOT MEET OR EXCEED THE MINIMUM ACCEPTABLE PROPERTY
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1159*
+
+2 HOUSE BILL 1159
+1 AND CASUALTY LOSS RATIO ESTABLISHED UNDER SUBSECTION (B) OF THIS
+2 SECTION, THE INSURER SHALL PROVIDE A REBATE TO EACH INSURED IN AN AMOUNT
+3 EQUAL TO THE PRODUCT OF:
+4 (1) THE TOTAL AMOUNT OF PREMIUM REVENUE RECEIVED BY THE
+5 INSURER FROM THE INSURED, AFTER:
+6 (I) SUBTRACTING FEDERAL AND STATE TAXES AND LICENSING
+7 AND REGULATORY FEES; AND
+8 (II) ACCOUNTING FOR PAYMENTS OR RECEIPTS FOR RISK
+9 ADJUSTMENT AND REINSURANCE; AND
+10 (2) THE DIFFERENCE BETWEEN THE MINIMUM ACCEPTABLE
+11 PROPERTY AND CASUALTY LOSS RATIO ESTABLISHED UNDER SUBSECTION (B) OF
+12 THIS SECTION AND THE INSURER’S ACTUAL PROPERTY AND CASUALTY LOSS RATIO.
+13 (D) THE COMMISSIONER MAY ADOPT REGULATIONS TO CARRY OUT THIS
+14 SECTION.
+15 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+16 October 1, 2025.
+
+[DELETED: :CA      5     A I a F i a r B  A S  A  (  S T A() I,“NN PO RSRS() H M A P A C L R .() F,OR RS]
+[DELETED:  H  C L R E U S B O TN  ( T A O R B TD :  () S TS   ()IA F P O R F RE  ( D B T M A B RSO.() TH O M C O T  S A B I F E T t A s t e O]

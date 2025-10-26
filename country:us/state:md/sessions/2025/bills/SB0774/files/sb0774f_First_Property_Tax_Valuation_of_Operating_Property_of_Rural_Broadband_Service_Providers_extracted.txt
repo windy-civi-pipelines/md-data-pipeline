@@ -1,0 +1,199 @@
+Title: SENATE BILL 774
+Official Title: SENATE BILL 774
+Number of Sections: 1
+Source: versions - First - Property Tax - Valuation of Operating Property of Rural Broadband Service Providers
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Q1 5lr3267
+CF HB 969
+By: Senators Hershey and Zucker
+Introduced and read first time: January 27, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Property Tax – Valuation of Operating Property of Rural Broadband Service
+3 Providers
+4 FOR the purpose of requiring the State Department of Assessments and Taxation, subject
+5 to certain limitations, to use a certain method when determining the value of the
+6 operating property of a provider of rural broadband service; and generally relating
+7 to the valuation of the property of rural broadband service providers.
+8 BY repealing and reenacting, with amendments,
+9 Article – Tax – Property
+10 Section 8–109
+11 Annotated Code of Maryland
+12 (2019 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Tax – Property
+16 8–109.
+17 (a) [The] EXCEPT AS PROVIDED IN SUBSECTION (F) OF THIS SECTION, THE
+18 Department shall annually value the operating unit of a public utility on the basis of the
+19 value of the operating property of the public utility, by considering:
+20 (1) the earning capacity of the operating unit; and
+21 (2) all other factors relevant to a determination of value of the operating
+22 unit.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0774*
+2 SENATE BILL 774
+1 (b) The Department shall allocate to this State the value of that part of the
+2 operating unit that is reasonably attributable to the part located in this State.
+3 (c) (1) From the value allocated to this State under subsection (b) of this
+4 section, the Department shall deduct:
+5 (i) the fair average value of fuel that represents the percentage
+6 reduction or exemption authorized by §§ 7–108, 7–222, and 7–226 of this article; and
+7 (ii) the assessment of operating property, if any, that is exempt by
+8 law from property tax.
+9 (2) (i) The value remaining after making the deductions shall be
+10 divided into an operating real property value and an operating personal property value, as
+11 determined by the Department.
+12 (ii) The value of operating real property is the assessment of
+13 operating real property of a public utility.
+14 (iii) The value of operating personal property is the assessment of
+15 operating personal property of a public utility.
+16 (3) Operating land of a public utility is valued and assessed by the
+17 Department as part of the operating unit and is not valued and assessed by the supervisor.
+18 (4) The provisions of this subsection are not intended to alter the law as
+19 codified in former Article 81 of the Code that was in effect as of January 31, 1986.
+20 (5) Returns, notices, and appeals of operating property assessments shall
+21 be administered pursuant to the sections of this article governing personal property
+22 assessments.
+23 (d) For operating property of a public utility, the Department shall apportion the
+24 assessment of that operating property among the counties and municipal corporations
+25 where the operating property is located.
+26 (e) (1) In determining whether to classify a company as a public utility, the
+27 Department shall consider and evaluate whether the company:
+28 (i) is subject to the authority of a regulatory body of the State or the
+29 federal government, such as the Maryland Public Service Commission, the Federal
+30 Communications Commission, or the Federal Energy Regulatory Commission;
+31 (ii) uses a significant portion of the real and personal property used
+32 in its business operations as an integrated whole or unit;
+33 (iii) provides a basic service to the public; and
+SENATE BILL 774 3
+1 (iv) owns or uses assets that are most appropriately appraised using
+2 the unit valuation method.
+3 (2) Notwithstanding a company’s failure to meet all of the criteria under
+4 paragraph (1) of this subsection, the Department may classify the company as a public
+5 utility if the Department determines that the company predominantly meets the criteria.
+6 (F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, IN
+7 DETERMINING THE VALUE OF OPERATING PROPERTY OF A PROVIDER OF RURAL
+8 BROADBAND SERVICE, THE DEPARTMENT:
+9 (I) WHEN USING AN INCOME APPROACH, SHALL CONSIDER
+10 ONLY ACTUAL OPERATING INCOME; AND
+11 (II) WHEN USING A REPLACEMENT COST APPROACH, SHALL
+12 OFFSET THE VALUATION OF PROPERTY TO THE EXTENT OF ANY CONTRIBUTIONS,
+13 TAX CREDITS, OR OTHER SUBSIDIES AND BENEFITS PROVIDED BY A GOVERNMENTAL
+14 UNIT OR PROGRAM.
+15 (2) THE DEPARTMENT MAY USE THE REPLACEMENT COST APPROACH
+16 UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION ONLY IF THE VALUE DETERMINED
+17 IS LESS THAN THE VALUE DETERMINED USING THE INCOME APPROACH UNDER
+18 PARAGRAPH (1)(I) OF THIS SUBSECTION.
+19 [(f)] (G) The Department may adopt regulations to carry out the provisions of
+20 this section.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+22 1, 2025, and shall be applicable to all taxable years beginning after June 30, 2025.
+[DELETED: :CA      5   C A P P F t o t B  A S  A  (  S T A 8  ( Te]E()X F N  D v   ( t   ( a u]
+[DELETED:  S   ( T D s a t t S t v o t p o t o  ( ( F t v a t t S u s ( o t s    ( t f a v o f t r t p r    ( t l   ( ( T v r a m t d s b d d    ( T v o o r p i t a o o    ( T o   ( O l o a p u i v a a b t D   ( T c   ( R b a p t t s o t a g p p a  ( F a o t o p a t c a m c w  ( ( I D    ( i f g s a t M P S C t F C    ( u i    ( p]
+[DELETED: S 3    ( o t   ( N p u ) ( S()U T P  O T SN I V O O P A P O RE  ED:  () W U A I AH S CE   () IW U A R C AH SSS  ( T E II ( L T T V D U T I A U I ().  () T]( t  S 1]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 774
+Q1 5lr3267
+CF HB 969
+By: Senators Hershey and Zucker
+Introduced and read first time: January 27, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Property Tax – Valuation of Operating Property of Rural Broadband Service
+3 Providers
+4 FOR the purpose of requiring the State Department of Assessments and Taxation, subject
+5 to certain limitations, to use a certain method when determining the value of the
+6 operating property of a provider of rural broadband service; and generally relating
+7 to the valuation of the property of rural broadband service providers.
+8 BY repealing and reenacting, with amendments,
+9 Article – Tax – Property
+10 Section 8–109
+11 Annotated Code of Maryland
+12 (2019 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Tax – Property
+16 8–109.
+17 (a) [The] EXCEPT AS PROVIDED IN SUBSECTION (F) OF THIS SECTION, THE
+18 Department shall annually value the operating unit of a public utility on the basis of the
+19 value of the operating property of the public utility, by considering:
+20 (1) the earning capacity of the operating unit; and
+21 (2) all other factors relevant to a determination of value of the operating
+22 unit.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0774*
+
+2 SENATE BILL 774
+1 (b) The Department shall allocate to this State the value of that part of the
+2 operating unit that is reasonably attributable to the part located in this State.
+3 (c) (1) From the value allocated to this State under subsection (b) of this
+4 section, the Department shall deduct:
+5 (i) the fair average value of fuel that represents the percentage
+6 reduction or exemption authorized by §§ 7–108, 7–222, and 7–226 of this article; and
+7 (ii) the assessment of operating property, if any, that is exempt by
+8 law from property tax.
+9 (2) (i) The value remaining after making the deductions shall be
+10 divided into an operating real property value and an operating personal property value, as
+11 determined by the Department.
+12 (ii) The value of operating real property is the assessment of
+13 operating real property of a public utility.
+14 (iii) The value of operating personal property is the assessment of
+15 operating personal property of a public utility.
+16 (3) Operating land of a public utility is valued and assessed by the
+17 Department as part of the operating unit and is not valued and assessed by the supervisor.
+18 (4) The provisions of this subsection are not intended to alter the law as
+19 codified in former Article 81 of the Code that was in effect as of January 31, 1986.
+20 (5) Returns, notices, and appeals of operating property assessments shall
+21 be administered pursuant to the sections of this article governing personal property
+22 assessments.
+23 (d) For operating property of a public utility, the Department shall apportion the
+24 assessment of that operating property among the counties and municipal corporations
+25 where the operating property is located.
+26 (e) (1) In determining whether to classify a company as a public utility, the
+27 Department shall consider and evaluate whether the company:
+28 (i) is subject to the authority of a regulatory body of the State or the
+29 federal government, such as the Maryland Public Service Commission, the Federal
+30 Communications Commission, or the Federal Energy Regulatory Commission;
+31 (ii) uses a significant portion of the real and personal property used
+32 in its business operations as an integrated whole or unit;
+33 (iii) provides a basic service to the public; and
+
+SENATE BILL 774 3
+1 (iv) owns or uses assets that are most appropriately appraised using
+2 the unit valuation method.
+3 (2) Notwithstanding a company’s failure to meet all of the criteria under
+4 paragraph (1) of this subsection, the Department may classify the company as a public
+5 utility if the Department determines that the company predominantly meets the criteria.
+6 (F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, IN
+7 DETERMINING THE VALUE OF OPERATING PROPERTY OF A PROVIDER OF RURAL
+8 BROADBAND SERVICE, THE DEPARTMENT:
+9 (I) WHEN USING AN INCOME APPROACH, SHALL CONSIDER
+10 ONLY ACTUAL OPERATING INCOME; AND
+11 (II) WHEN USING A REPLACEMENT COST APPROACH, SHALL
+12 OFFSET THE VALUATION OF PROPERTY TO THE EXTENT OF ANY CONTRIBUTIONS,
+13 TAX CREDITS, OR OTHER SUBSIDIES AND BENEFITS PROVIDED BY A GOVERNMENTAL
+14 UNIT OR PROGRAM.
+15 (2) THE DEPARTMENT MAY USE THE REPLACEMENT COST APPROACH
+16 UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION ONLY IF THE VALUE DETERMINED
+17 IS LESS THAN THE VALUE DETERMINED USING THE INCOME APPROACH UNDER
+18 PARAGRAPH (1)(I) OF THIS SUBSECTION.
+19 [(f)] (G) The Department may adopt regulations to carry out the provisions of
+20 this section.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+22 1, 2025, and shall be applicable to all taxable years beginning after June 30, 2025.
+
+[DELETED: :CA      5   C A P P F t o t B  A S  A  (  S T A 8  ( Te]E()X F N  D v   ( t   ( a u]
+[DELETED:  S   ( T D s a t t S t v o t p o t o  ( ( F t v a t t S u s ( o t s    ( t f a v o f t r t p r    ( t l   ( ( T v r a m t d s b d d    ( T v o o r p i t a o o    ( T o   ( O l o a p u i v a a b t D   ( T c   ( R b a p t t s o t a g p p a  ( F a o t o p a t c a m c w  ( ( I D    ( i f g s a t M P S C t F C    ( u i    ( p]
+[DELETED: S 3    ( o t   ( N p u ) ( S()U T P  O T SN I V O O P A P O RE  ED:  () W U A I AH S CE   () IW U A R C AH SSS  ( T E II ( L T T V D U T I A U I ().  () T]( t  S 1]

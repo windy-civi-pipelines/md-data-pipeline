@@ -1,0 +1,236 @@
+Title: SENATE BILL 609
+Official Title: SENATE BILL 609
+Number of Sections: 1
+Source: versions - First - Residential Leases - Use of Algorithmic Device by Landlord to Determine Rent - Prohibition
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+N1, I3 5lr2025
+CF 5lr2024
+By: Senators Love and Hester
+Introduced and read first time: January 24, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Residential Leases – Use of Algorithmic Device by Landlord to Determine Rent –
+3 Prohibition
+4 FOR the purpose of prohibiting a landlord from using certain algorithmic devices to
+5 determine the amount of rent to charge a residential tenant; making a violation of
+6 this Act an unfair, abusive, or deceptive trade practice under the Maryland
+7 Consumer Protection Act; and generally relating to a prohibition against the use of
+8 certain technology by landlords to determine rent prices.
+9 BY repealing and reenacting, with amendments,
+10 Article – Commercial Law
+11 Section 13–301(14)(xlii)
+12 Annotated Code of Maryland
+13 (2013 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, without amendments,
+15 Article – Commercial Law
+16 Section 13–301(14)(xliii)
+17 Annotated Code of Maryland
+18 (2013 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Commercial Law
+21 Section 13–301(14)(xliv)
+22 Annotated Code of Maryland
+23 (2013 Replacement Volume and 2024 Supplement)
+24 BY adding to
+25 Article – Real Property
+26 Section 8–220
+27 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0609*
+2 SENATE BILL 609
+1 (2023 Replacement Volume and 2024 Supplement)
+2 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+3 That the Laws of Maryland read as follows:
+4 Article – Commercial Law
+5 13–301.
+6 Unfair, abusive, or deceptive trade practices include any:
+7 (14) Violation of a provision of:
+8 (xlii) Section 12–6C–09.1 of the Health Occupations Article; [or]
+9 (xliii) Title 14, Subtitle 48 of this article; or
+10 (XLIV) SECTION 8–220 OF THE REAL PROPERTY ARTICLE;
+11 OR
+12 Article – Real Property
+13 8–220.
+14 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+15 INDICATED.
+16 (2) (I) “ALGORITHMIC DEVICE” MEANS A DEVICE THAT USES ONE
+17 OR MORE ALGORITHMS TO PERFORM CALCULATIONS OF DATA, INCLUDING DATA
+18 CONCERNING LOCAL OR STATEWIDE RENT AMOUNTS BEING CHARGED TO TENANTS
+19 BY LANDLORDS, TO ADVISE A LANDLORD ON THE AMOUNT OF RENT THAT THE
+20 LANDLORD MAY CONSIDER CHARGING A TENANT.
+21 (II) “ALGORITHMIC DEVICE” INCLUDES A PRODUCT THAT
+22 INCORPORATES AN ALGORITHMIC DEVICE.
+23 (III) “ALGORITHMIC DEVICE” DOES NOT INCLUDE:
+24 1. A PERIODIC REPORT PUBLISHED NOT MORE
+25 FREQUENTLY THAN ONCE PER MONTH BY A TRADE ASSOCIATION THAT RECEIVES
+26 RENTER DATA AND PUBLISHES IT IN AN AGGREGATED AND ANONYMOUS MANNER;
+27 OR
+28 2. A PRODUCT USED FOR THE PURPOSE OF
+29 ESTABLISHING RENT OR INCOME LIMITS IN ACCORDANCE WITH THE AFFORDABLE
+SENATE BILL 609 3
+1 HOUSING PROGRAM GUIDELINES OF A LOCAL GOVERNMENT, THE STATE, THE
+2 FEDERAL GOVERNMENT, OR ANOTHER POLITICAL SUBDIVISION.
+3 (3) (I) “NONPUBLIC COMPETITOR DATA” MEANS INFORMATION
+4 THAT IS:
+5 1. NOT WIDELY AVAILABLE OR EASILY ACCESSIBLE TO
+6 THE PUBLIC REGARDLESS OF WHETHER THE INFORMATION IS ATTRIBUTABLE TO A
+7 SPECIFIC COMPETITOR OR ANONYMIZED; AND
+8 2. DERIVED FROM OR OTHERWISE PROVIDED TO A
+9 PERSON BY ANOTHER PERSON THAT COMPETES IN THE SAME MARKET AS THE
+10 PERSON, OR IN A RELATED MARKET.
+11 (II) “NONPUBLIC COMPETITOR DATA” INCLUDES INFORMATION
+12 REGARDING:
+13 1. ACTUAL RENT PRICES;
+14 2. OCCUPANCY RATES;
+15 3. LEASE START AND END DATES; AND
+16 4. OTHER SIMILAR INFORMATION.
+17 (4) “RENT” MEANS THE TOTAL AMOUNT OF RENT, INCLUDING ANY
+18 CONCESSIONS AND FEES, THAT A RESIDENTIAL TENANT IS REQUIRED TO PAY UNDER
+19 A LEASE AGREEMENT.
+20 (B) IN SETTING THE AMOUNT OF RENT TO BE CHARGED FOR THE LEASE OF
+21 RESIDENTIAL PROPERTY, INCLUDING DETERMINING ANY CHANGE IN RENT TO BE
+22 CHARGED FOR THE RENEWAL OF A LEASE, A LANDLORD MAY NOT EMPLOY, USE, OR
+23 RELY ON, OR CAUSE ANOTHER TO EMPLOY, USE, OR RELY ON, AN ALGORITHMIC
+24 DEVICE THAT USES, INCORPORATES, OR WAS TRAINED WITH NONPUBLIC
+25 COMPETITOR DATA.
+26 (C) A VIOLATION OF THIS SECTION IS:
+27 (1) AN UNFAIR, ABUSIVE, OR DECEPTIVE TRADE PRACTICE WITHIN
+28 THE MEANING OF TITLE 13 OF THE COMMERCIAL LAW ARTICLE; AND
+29 (2) SUBJECT TO THE ENFORCEMENT AND PENALTY PROVISIONS
+30 CONTAINED IN TITLE 13 OF THE COMMERCIAL LAW ARTICLE.
+4 SENATE BILL 609
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+2 apply only prospectively and may not be applied or interpreted to have any effect on or
+3 application to any landlord’s calculation of the amount of rent that the landlord charges for
+4 the occupancy of a residential property under a rental agreement that is executed before
+5 the effective date of this Act.
+6 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2025.
+[DELETED: :CA      5   C A R P F t p o p a l f u c a d t d t A a u a o d t p u t M C c B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A]
+[DELETED:  S   (  S T A 1  U   ( V    ( S or    ( T   ) S80RPAVE   E R RE A() ( N ( () “ALE A I LS T A A L O T A O R T TT  () “AIL DE I A P T  () “A”:ILE    1 P R P N MR   2 P U F T P O]
+[DELETED: S 3 P G O A L GT T TE TST N. ( () “NO C DA M I   1 D    2  F O O P T A B A P T C I T S M A TN .  () “NIOA    1 A;   2 O;   3 L;S    4 O. ( “R”T M TT IS () NY E Y E , ON O C A EY UE O ON A A,, T US IS O W T W NA () A:  ( A,R E  I   O A RE 13CLA; (  T T E A P P I   O A RE13CLA ]
+[DELETED:  S   S a a t t  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 609
+N1, I3 5lr2025
+CF 5lr2024
+By: Senators Love and Hester
+Introduced and read first time: January 24, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Residential Leases – Use of Algorithmic Device by Landlord to Determine Rent –
+3 Prohibition
+4 FOR the purpose of prohibiting a landlord from using certain algorithmic devices to
+5 determine the amount of rent to charge a residential tenant; making a violation of
+6 this Act an unfair, abusive, or deceptive trade practice under the Maryland
+7 Consumer Protection Act; and generally relating to a prohibition against the use of
+8 certain technology by landlords to determine rent prices.
+9 BY repealing and reenacting, with amendments,
+10 Article – Commercial Law
+11 Section 13–301(14)(xlii)
+12 Annotated Code of Maryland
+13 (2013 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, without amendments,
+15 Article – Commercial Law
+16 Section 13–301(14)(xliii)
+17 Annotated Code of Maryland
+18 (2013 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Commercial Law
+21 Section 13–301(14)(xliv)
+22 Annotated Code of Maryland
+23 (2013 Replacement Volume and 2024 Supplement)
+24 BY adding to
+25 Article – Real Property
+26 Section 8–220
+27 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0609*
+
+2 SENATE BILL 609
+1 (2023 Replacement Volume and 2024 Supplement)
+2 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+3 That the Laws of Maryland read as follows:
+4 Article – Commercial Law
+5 13–301.
+6 Unfair, abusive, or deceptive trade practices include any:
+7 (14) Violation of a provision of:
+8 (xlii) Section 12–6C–09.1 of the Health Occupations Article; [or]
+9 (xliii) Title 14, Subtitle 48 of this article; or
+10 (XLIV) SECTION 8–220 OF THE REAL PROPERTY ARTICLE;
+11 OR
+12 Article – Real Property
+13 8–220.
+14 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+15 INDICATED.
+16 (2) (I) “ALGORITHMIC DEVICE” MEANS A DEVICE THAT USES ONE
+17 OR MORE ALGORITHMS TO PERFORM CALCULATIONS OF DATA, INCLUDING DATA
+18 CONCERNING LOCAL OR STATEWIDE RENT AMOUNTS BEING CHARGED TO TENANTS
+19 BY LANDLORDS, TO ADVISE A LANDLORD ON THE AMOUNT OF RENT THAT THE
+20 LANDLORD MAY CONSIDER CHARGING A TENANT.
+21 (II) “ALGORITHMIC DEVICE” INCLUDES A PRODUCT THAT
+22 INCORPORATES AN ALGORITHMIC DEVICE.
+23 (III) “ALGORITHMIC DEVICE” DOES NOT INCLUDE:
+24 1. A PERIODIC REPORT PUBLISHED NOT MORE
+25 FREQUENTLY THAN ONCE PER MONTH BY A TRADE ASSOCIATION THAT RECEIVES
+26 RENTER DATA AND PUBLISHES IT IN AN AGGREGATED AND ANONYMOUS MANNER;
+27 OR
+28 2. A PRODUCT USED FOR THE PURPOSE OF
+29 ESTABLISHING RENT OR INCOME LIMITS IN ACCORDANCE WITH THE AFFORDABLE
+
+SENATE BILL 609 3
+1 HOUSING PROGRAM GUIDELINES OF A LOCAL GOVERNMENT, THE STATE, THE
+2 FEDERAL GOVERNMENT, OR ANOTHER POLITICAL SUBDIVISION.
+3 (3) (I) “NONPUBLIC COMPETITOR DATA” MEANS INFORMATION
+4 THAT IS:
+5 1. NOT WIDELY AVAILABLE OR EASILY ACCESSIBLE TO
+6 THE PUBLIC REGARDLESS OF WHETHER THE INFORMATION IS ATTRIBUTABLE TO A
+7 SPECIFIC COMPETITOR OR ANONYMIZED; AND
+8 2. DERIVED FROM OR OTHERWISE PROVIDED TO A
+9 PERSON BY ANOTHER PERSON THAT COMPETES IN THE SAME MARKET AS THE
+10 PERSON, OR IN A RELATED MARKET.
+11 (II) “NONPUBLIC COMPETITOR DATA” INCLUDES INFORMATION
+12 REGARDING:
+13 1. ACTUAL RENT PRICES;
+14 2. OCCUPANCY RATES;
+15 3. LEASE START AND END DATES; AND
+16 4. OTHER SIMILAR INFORMATION.
+17 (4) “RENT” MEANS THE TOTAL AMOUNT OF RENT, INCLUDING ANY
+18 CONCESSIONS AND FEES, THAT A RESIDENTIAL TENANT IS REQUIRED TO PAY UNDER
+19 A LEASE AGREEMENT.
+20 (B) IN SETTING THE AMOUNT OF RENT TO BE CHARGED FOR THE LEASE OF
+21 RESIDENTIAL PROPERTY, INCLUDING DETERMINING ANY CHANGE IN RENT TO BE
+22 CHARGED FOR THE RENEWAL OF A LEASE, A LANDLORD MAY NOT EMPLOY, USE, OR
+23 RELY ON, OR CAUSE ANOTHER TO EMPLOY, USE, OR RELY ON, AN ALGORITHMIC
+24 DEVICE THAT USES, INCORPORATES, OR WAS TRAINED WITH NONPUBLIC
+25 COMPETITOR DATA.
+26 (C) A VIOLATION OF THIS SECTION IS:
+27 (1) AN UNFAIR, ABUSIVE, OR DECEPTIVE TRADE PRACTICE WITHIN
+28 THE MEANING OF TITLE 13 OF THE COMMERCIAL LAW ARTICLE; AND
+29 (2) SUBJECT TO THE ENFORCEMENT AND PENALTY PROVISIONS
+30 CONTAINED IN TITLE 13 OF THE COMMERCIAL LAW ARTICLE.
+
+4 SENATE BILL 609
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+2 apply only prospectively and may not be applied or interpreted to have any effect on or
+3 application to any landlord’s calculation of the amount of rent that the landlord charges for
+4 the occupancy of a residential property under a rental agreement that is executed before
+5 the effective date of this Act.
+6 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2025.
+
+[DELETED: :CA      5   C A R P F t p o p a l f u c a d t d t A a u a o d t p u t M C c B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A]
+[DELETED:  S   (  S T A 1  U   ( V    ( S or    ( T   ) S80RPAVE   E R RE A() ( N ( () “ALE A I LS T A A L O T A O R T TT  () “AIL DE I A P T  () “A”:ILE    1 P R P N MR   2 P U F T P O]
+[DELETED: S 3 P G O A L GT T TE TST N. ( () “NO C DA M I   1 D    2  F O O P T A B A P T C I T S M A TN .  () “NIOA    1 A;   2 O;   3 L;S    4 O. ( “R”T M TT IS () NY E Y E , ON O C A EY UE O ON A A,, T US IS O W T W NA () A:  ( A,R E  I   O A RE 13CLA; (  T T E A P P I   O A RE13CLA ]
+[DELETED:  S   S a a t t  S A B I F E T t A s t e O]

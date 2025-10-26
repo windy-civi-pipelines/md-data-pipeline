@@ -1,0 +1,469 @@
+Title: HOUSE BILL 992
+Official Title: HOUSE BILL 992
+Number of Sections: 1
+Source: versions - First - Business Regulation - Maryland Franchise Registration and Disclosure Law - Alterations (Franchise Reform Act)
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+C2 5lr1288
+By: Delegate Korman
+Introduced and read first time: January 31, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Business Regulation – Maryland Franchise Registration and Disclosure Law –
+3 Alterations
+4 (Franchise Reform Act)
+5 FOR the purpose of altering the period of time within which the Securities Commissioner
+6 in the Office of the Attorney General may exercise a power under certain provisions
+7 of law governing the sale of franchises; requiring the Securities Commissioner to
+8 require that a certain franchise registration exemption be indexed to inflation or
+9 deflation based on a certain index; altering the period of time within which an action
+10 for liability under a certain provision of law pertaining to franchise offers for sale
+11 must be brought; prohibiting a franchisor and certain others from inhibiting the
+12 right of franchisees to associate for certain purposes; providing that an action may
+13 be brought against a certain franchisor under certain circumstances; requiring the
+14 Securities Commissioner to establish a certain pilot program to waive certain
+15 franchise registration renewal fees under a certain provision of law under certain
+16 circumstances; and generally relating to the Maryland Franchise Registration and
+17 Disclosure Act.
+18 BY repealing and reenacting, with amendments,
+19 Article – Business Regulation
+20 Section 14–210, 14–214, 14–227, and 14–233
+21 Annotated Code of Maryland
+22 (2024 Replacement Volume)
+23 BY adding to
+24 Article – Business Regulation
+25 Section 14–219.1 and 14–233
+26 Annotated Code of Maryland
+27 (2024 Replacement Volume)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0992*
+2 HOUSE BILL 992
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Business Regulation
+4 14–210.
+5 (a) (1) Whenever the Commissioner finds that a person has violated or is about
+6 to violate this subtitle or a regulation adopted or order passed under it, the Commissioner
+7 may order the person to cease and desist from the further offer to sell or sale of the franchise
+8 until the offer or sale complies with this subtitle.
+9 (2) After passage of a cease and desist order, the alleged violator may
+10 submit to the Commissioner a written request for a hearing.
+11 (3) The hearing shall begin:
+12 (i) within 15 business days after the Commissioner receives the
+13 request for a hearing; or
+14 (ii) at a later date, with the consent of the alleged violator.
+15 (4) Unless there is a timely hearing, the cease and desist order is rescinded.
+16 (b) (1) Whenever the Commissioner finds that a person has violated or is about
+17 to violate this subtitle or a regulation adopted or order passed under it, the Commissioner
+18 may sue in the circuit court to enjoin the violation or enforce this subtitle or the regulation
+19 or order.
+20 (2) The court shall:
+21 (i) determine if a violation of this subtitle has been or is about to be
+22 committed; and
+23 (ii) if so, pass any order the court considers necessary to prevent the
+24 violation or remove the effects of the violation and prevent it from continuing or being
+25 renewed in the future.
+26 (3) The court may exercise all equitable powers necessary for this purpose,
+27 including:
+28 (i) injunction;
+29 (ii) revocation, forfeiture, or suspension of the charter authority or
+30 privileges of a business organization operating under the laws of the State;
+HOUSE BILL 992 3
+1 (iii) dissolution of a corporation or association organized under the
+2 laws of the State;
+3 (iv) suspension or termination of the right of a corporation or
+4 association organized under the laws of another state or country to do business in the State;
+5 (v) restitution;
+6 (vi) restraining order;
+7 (vii) award of damages to be paid by a franchisor or subfranchisor to
+8 a person injured by a violation of this subtitle; and
+9 (viii) appointment of a receiver or conservator.
+10 (4) The court may not require the Commissioner to post bond.
+11 (c) The Commissioner may not exercise a power under this section more than [3]
+12 5 years after the violation occurs.
+13 14–214.
+14 (a) Except as otherwise provided in this subtitle, a person must register the offer
+15 of a franchise with the Commissioner before the person offers to sell, through
+16 advertisement or otherwise, or sells the franchise in the State.
+17 (b) The registration requirement of this section does not apply to:
+18 (1) a transaction by an executor, administrator, sheriff, receiver, trustee in
+19 bankruptcy, guardian, or conservator;
+20 (2) an offer to sell or sale of a franchise that is substantially similar to a
+21 franchise already owned by the offeree or buyer; and
+22 (3) any other transaction that the Commissioner exempts by regulation
+23 because:
+24 (i) the transaction is not within the purpose of this subtitle; and
+25 (ii) the registration of the transaction is not necessary or appropriate
+26 in the public interest or for the protection of investors.
+27 (c) (1) The registration requirement of this section does not apply to the offer
+28 to sell or sale of a franchise by a franchisee for the franchisee’s own account, or the offer to
+29 sell or sale of the entire area franchise owned by a subfranchisor for the subfranchisor’s
+30 own account.
+4 HOUSE BILL 992
+1 (2) A sale is not effected by or through a franchisor merely because a
+2 franchisor has a right to approve or disapprove a different franchisee.
+3 (d) (1) The Commissioner may require by regulation that a franchisor or
+4 subfranchisor who claims under subsection (b)(3) of this section to be exempt from the
+5 registration requirements of this section:
+6 (i) file with the Commissioner a notice of claim of exemption in the
+7 form that the Commissioner requires; and
+8 (ii) pay a fee of $250.
+9 (2) The franchisor or subfranchisor shall sign and verify the notice of claim
+10 of exemption.
+11 (E) THE COMMISSIONER SHALL REQUIRE THE FRANCHISOR NET EQUITY
+12 AMOUNTS SET FORTH IN THE FRANCHISE REGISTRATION EXEMPTION UNDER
+13 COMAR 02.02.08.10D.1 TO ACCOUNT FOR INFLATION OR DEFLATION BASED ON
+14 THE CONSUMER PRICE INDEX FOR ALL URBAN CONSUMERS BY THE U.S.
+15 DEPARTMENT OF LABOR.
+16 14–227.
+17 (A) THIS SECTION APPLIES ONLY TO:
+18 (1) A FRANCHISEE OR FRANCHISOR WHO IS A RESIDENT OF THE
+19 STATE; OR
+20 (2) A FRANCHISED BUSINESS THAT OPERATES OR WILL BE OPERATED
+21 IN THE STATE.
+22 [(a)] (B) (1) A person who sells or grants a franchise is civilly liable to the
+23 person who buys or is granted a franchise if the person who sells or grants a franchise offers
+24 to sell or sells a franchise:
+25 (i) without the offer of the franchise being registered under this
+26 subtitle; or
+27 (ii) by means of an untrue statement of a material fact or any
+28 omission to state a material fact necessary in order to make the statements made, in light
+29 of the circumstances under which they are made, not misleading, if the person who buys or
+30 is granted a franchise does not know of the untruth or omission.
+31 (2) In determining liability under this subsection, the person who sells or
+32 grants a franchise has the burden of proving that the person who sells or grants a franchise
+HOUSE BILL 992 5
+1 did not know and, in the exercise of reasonable care, could not have known of the untruth
+2 or omission.
+3 [(b)] (C) The person who buys or is granted a franchise may sue under this
+4 section to recover damages sustained by the grant of the franchise.
+5 [(c)] (D) A court may order the person who sells or grants a franchise to:
+6 (1) rescind the franchise; and
+7 (2) make restitution to the person who buys or is granted a franchise.
+8 [(d)] (E) (1) Joint and several liability under this section extends to:
+9 (i) each person who directly or indirectly controls a person liable
+10 under this section;
+11 (ii) each partner in a partnership liable under this section;
+12 (iii) each principal officer or director of a corporation liable under this
+13 section;
+14 (iv) each other person that has a similar status or performs similar
+15 functions as a person liable under this section; and
+16 (v) each employee of a person liable under this section, if the
+17 employee materially aids in the act or transaction that is a violation under this subtitle.
+18 (2) However, liability under this subsection does not extend to a person
+19 who did not have knowledge of or reasonable grounds to believe in the existence of the facts
+20 by which the liability is alleged to exist.
+21 [(e)] (F) An action under this section must be brought within [3] THE LATER
+22 OF:
+23 (1) 5 years after the grant of the franchise; OR
+24 (2) 2 YEARS AFTER THE DATE OF THE INITIAL COMMENCEMENT OF
+25 OPERATIONS OF THE FRANCHISE.
+26 14–233.
+27 (A) A FRANCHISOR MAY NOT, DIRECTLY OR INDIRECTLY, THROUGH ANY
+28 OFFICER, AGENT, OR EMPLOYEE:
+6 HOUSE BILL 992
+1 (1) RESTRICT OR INHIBIT THE RIGHT OF A FRANCHISEE TO JOIN A
+2 TRADE ASSOCIATION CONSISTING OF OTHER FRANCHISEES OF THE SAME
+3 FRANCHISE; OR
+4 (2) PROHIBIT THE RIGHT OF FREE ASSOCIATION AMONG
+5 FRANCHISEES FOR ANY LAWFUL PURPOSE.
+6 (B) (1) A PERSON WHO VIOLATES SUBSECTION (A) OF THIS SECTION MAY
+7 BE SUED IN CIRCUIT COURT FOR:
+8 (I) TEMPORARY OR PERMANENT INJUNCTIVE RELIEF;
+9 (II) DAMAGES, IF ANY; AND
+10 (III) COSTS OF THE SUIT, INCLUDING ANY REASONABLE
+11 ATTORNEY’S FEES.
+12 (2) THE INJUNCTIVE RELIEF MAY BE SOUGHT FROM THE CIRCUIT
+13 COURT IN THE COUNTY WHERE THE INDIVIDUAL WHO IS ALLEGED TO BE IN
+14 VIOLATION OF SUBSECTION (A) OF THIS SECTION RESIDES OR THE FRANCHISE
+15 AFFECTED BY THE VIOLATION CONDUCTS BUSINESS.
+16 (3) WHEN SEEKING AN INJUNCTION UNDER THIS SECTION, THE
+17 PLAINTIFF MAY NOT BE REQUIRED TO ALLEGE OR PROVE ACTUAL DAMAGES
+18 SUFFERED TO OBTAIN INJUNCTIVE RELIEF.
+19 (4) AN ACTION UNDER THIS SUBSECTION MUST BE BROUGHT WITHIN
+20 THE EARLIER OF:
+21 (I) 2 YEARS AFTER THE ALLEGED VIOLATION OCCURRED; OR
+22 (II) 1 YEAR AFTER THE DISCOVERY BY THE PLAINTIFF OF THE
+23 FACTS OF THE ALLEGED VIOLATION.
+24 [14–233.] 14–234.
+25 This subtitle is the Maryland Franchise Registration and Disclosure Law.
+26 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+27 as follows:
+28 Article – Business Regulation
+29 14–219.1.
+HOUSE BILL 992 7
+1 (A) THE COMMISSIONER SHALL ESTABLISH A PILOT PROGRAM TO WAIVE
+2 THE FRANCHISE REGISTRATION RENEWAL FEE UNDER § 14–219 OF THIS SUBTITLE
+3 IF A REGISTRANT, AT LEAST 60 BUSINESS DAYS BEFORE THE END OF THE
+4 REGISTRANT’S FISCAL YEAR, FILES WITH THE COMMISSIONER:
+5 (1) A RENEWAL APPLICATION ON THE FORM THAT THE
+6 COMMISSIONER REQUIRES;
+7 (2) A PROSPECTUS;
+8 (3) AN UNAUDITED FINANCIAL STATEMENT; AND
+9 (4) DOCUMENTATION OF ANY MATERIAL CHANGES IN THE FINANCIAL
+10 CONDITION OF THE REGISTRANT FROM THE DATE OF THE MOST RECENT AUDITED
+11 FINANCIAL STATEMENT.
+12 (B) ON OR BEFORE SEPTEMBER 30, 2030, THE COMMISSIONER SHALL, IN
+13 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, SUBMIT A
+14 REPORT TO THE SENATE FINANCE COMMITTEE AND THE HOUSE ECONOMIC
+15 MATTERS COMMITTEE THAT INCLUDES:
+16 (1) THE NUMBER AND TOTAL AMOUNT OF FRANCHISE REGISTRATION
+17 RENEWAL FEES WAIVED IN ACCORDANCE WITH SUBSECTION (A) OF THIS SECTION;
+18 (2) THE AMOUNT OF TIME REQUIRED TO ADMINISTER THE PILOT
+19 PROGRAM, INCLUDING THE PROCESSING OF FRANCHISE REGISTRATION RENEWAL
+20 FEES UNDER § 14–219 OF THIS SUBTITLE; AND
+21 (3) AN ANALYSIS OF WHETHER THERE WAS ANY IMPACT ON
+22 REGISTRANTS WHO DID NOT QUALIFY FOR THE WAIVER OF THE FRANCHISE
+23 REGISTRATION RENEWAL FEE UNDER SUBSECTION (A) OF THIS SECTION.
+24 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025. Section 2 of this Act shall remain effective for a period of 6 years and, at
+26 the end of September 30, 2031, Section 2 of this Act, with no further action required by the
+27 General Assembly, shall be abrogated and of no further force and effect.
+[DELETED: :CA      5     A B A ( F i o r d f m i r b S C t e a c p p t w c f c D B  A S  A  ( B  A S  A  (]
+[DELETED:  H   S T A 1  ( ( W t m u   ( A p o a c a d o t a v m s   ( T    ( w 1 b d a t C r t r    ( a   ( U  ( ( W t m o   ( T    ( d c    ( i v r   ( T i    ( i    ( r p]
+[DELETED: H 3    ( d l    ( s o t o t r o a c o a    ( r    ( r    ( a a    ( a   ( T  ( T 3 y 1  ( E o a f w t C b t p o t s t a  ( T   ( a b   ( a f   ( a b    ( t    ( t i  ( ( T t s o]
+[DELETED:  H    ( A s i n e b o t a f m b a f  ( ( T C m r b r t a f o s r    ( f f    ( p   ( T o ) TH O S R T F N E S F I T F R E UR0  O R N F L R O B T PIAUCUL. A 1 ) T:H ( F O F W I A R O T;E  ( T.  () ( A]( p t    ( w t o o t f b r u t s    ( b m o a u s o a m f o a o o i   ( I g]
+[DELETED: H 5 d o  () T p w b o i g a f m s u t]( s  () A](   ( r   ( m  () ( J](    ( e u    ( e    ( e s    ( e f    ( e e o a p l u t s i t e   ( H w b  () An]()[F   ( 5;   (  .() A, F M NT D O IY T AR T ,:]
+[DELETED:  H  ( A C O O F O T SE  ( T R O F A A() ( A(  A   () ;T  () ,;IDS Y   () IC O T ST I A RYS. (  I R M B S F T C I T C W T I W I A T B I O S A O T S R O T F ( W S A I U T SN T M N B R T A O P A D (   () 2; D   () I ]1 1  T  S a A]
+[DELETED: H 7() TH O   1 A RT A L  B D B T E O T6TSR  O,C: ( R A O T F T T; ( ; ( ;T  (() OS3,2,CN E    OL  W   O T T O RE S A27SGA T T E I O A T O CFCHC: O ( A ); ( A O T R T A T PM    E 19; ( A O W T W A I O W D N Q F T W O T F A )   S A B I F E T t A s t e O t G]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 992
+C2 5lr1288
+By: Delegate Korman
+Introduced and read first time: January 31, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Business Regulation – Maryland Franchise Registration and Disclosure Law –
+3 Alterations
+4 (Franchise Reform Act)
+5 FOR the purpose of altering the period of time within which the Securities Commissioner
+6 in the Office of the Attorney General may exercise a power under certain provisions
+7 of law governing the sale of franchises; requiring the Securities Commissioner to
+8 require that a certain franchise registration exemption be indexed to inflation or
+9 deflation based on a certain index; altering the period of time within which an action
+10 for liability under a certain provision of law pertaining to franchise offers for sale
+11 must be brought; prohibiting a franchisor and certain others from inhibiting the
+12 right of franchisees to associate for certain purposes; providing that an action may
+13 be brought against a certain franchisor under certain circumstances; requiring the
+14 Securities Commissioner to establish a certain pilot program to waive certain
+15 franchise registration renewal fees under a certain provision of law under certain
+16 circumstances; and generally relating to the Maryland Franchise Registration and
+17 Disclosure Act.
+18 BY repealing and reenacting, with amendments,
+19 Article – Business Regulation
+20 Section 14–210, 14–214, 14–227, and 14–233
+21 Annotated Code of Maryland
+22 (2024 Replacement Volume)
+23 BY adding to
+24 Article – Business Regulation
+25 Section 14–219.1 and 14–233
+26 Annotated Code of Maryland
+27 (2024 Replacement Volume)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0992*
+
+2 HOUSE BILL 992
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Business Regulation
+4 14–210.
+5 (a) (1) Whenever the Commissioner finds that a person has violated or is about
+6 to violate this subtitle or a regulation adopted or order passed under it, the Commissioner
+7 may order the person to cease and desist from the further offer to sell or sale of the franchise
+8 until the offer or sale complies with this subtitle.
+9 (2) After passage of a cease and desist order, the alleged violator may
+10 submit to the Commissioner a written request for a hearing.
+11 (3) The hearing shall begin:
+12 (i) within 15 business days after the Commissioner receives the
+13 request for a hearing; or
+14 (ii) at a later date, with the consent of the alleged violator.
+15 (4) Unless there is a timely hearing, the cease and desist order is rescinded.
+16 (b) (1) Whenever the Commissioner finds that a person has violated or is about
+17 to violate this subtitle or a regulation adopted or order passed under it, the Commissioner
+18 may sue in the circuit court to enjoin the violation or enforce this subtitle or the regulation
+19 or order.
+20 (2) The court shall:
+21 (i) determine if a violation of this subtitle has been or is about to be
+22 committed; and
+23 (ii) if so, pass any order the court considers necessary to prevent the
+24 violation or remove the effects of the violation and prevent it from continuing or being
+25 renewed in the future.
+26 (3) The court may exercise all equitable powers necessary for this purpose,
+27 including:
+28 (i) injunction;
+29 (ii) revocation, forfeiture, or suspension of the charter authority or
+30 privileges of a business organization operating under the laws of the State;
+
+HOUSE BILL 992 3
+1 (iii) dissolution of a corporation or association organized under the
+2 laws of the State;
+3 (iv) suspension or termination of the right of a corporation or
+4 association organized under the laws of another state or country to do business in the State;
+5 (v) restitution;
+6 (vi) restraining order;
+7 (vii) award of damages to be paid by a franchisor or subfranchisor to
+8 a person injured by a violation of this subtitle; and
+9 (viii) appointment of a receiver or conservator.
+10 (4) The court may not require the Commissioner to post bond.
+11 (c) The Commissioner may not exercise a power under this section more than [3]
+12 5 years after the violation occurs.
+13 14–214.
+14 (a) Except as otherwise provided in this subtitle, a person must register the offer
+15 of a franchise with the Commissioner before the person offers to sell, through
+16 advertisement or otherwise, or sells the franchise in the State.
+17 (b) The registration requirement of this section does not apply to:
+18 (1) a transaction by an executor, administrator, sheriff, receiver, trustee in
+19 bankruptcy, guardian, or conservator;
+20 (2) an offer to sell or sale of a franchise that is substantially similar to a
+21 franchise already owned by the offeree or buyer; and
+22 (3) any other transaction that the Commissioner exempts by regulation
+23 because:
+24 (i) the transaction is not within the purpose of this subtitle; and
+25 (ii) the registration of the transaction is not necessary or appropriate
+26 in the public interest or for the protection of investors.
+27 (c) (1) The registration requirement of this section does not apply to the offer
+28 to sell or sale of a franchise by a franchisee for the franchisee’s own account, or the offer to
+29 sell or sale of the entire area franchise owned by a subfranchisor for the subfranchisor’s
+30 own account.
+
+4 HOUSE BILL 992
+1 (2) A sale is not effected by or through a franchisor merely because a
+2 franchisor has a right to approve or disapprove a different franchisee.
+3 (d) (1) The Commissioner may require by regulation that a franchisor or
+4 subfranchisor who claims under subsection (b)(3) of this section to be exempt from the
+5 registration requirements of this section:
+6 (i) file with the Commissioner a notice of claim of exemption in the
+7 form that the Commissioner requires; and
+8 (ii) pay a fee of $250.
+9 (2) The franchisor or subfranchisor shall sign and verify the notice of claim
+10 of exemption.
+11 (E) THE COMMISSIONER SHALL REQUIRE THE FRANCHISOR NET EQUITY
+12 AMOUNTS SET FORTH IN THE FRANCHISE REGISTRATION EXEMPTION UNDER
+13 COMAR 02.02.08.10D.1 TO ACCOUNT FOR INFLATION OR DEFLATION BASED ON
+14 THE CONSUMER PRICE INDEX FOR ALL URBAN CONSUMERS BY THE U.S.
+15 DEPARTMENT OF LABOR.
+16 14–227.
+17 (A) THIS SECTION APPLIES ONLY TO:
+18 (1) A FRANCHISEE OR FRANCHISOR WHO IS A RESIDENT OF THE
+19 STATE; OR
+20 (2) A FRANCHISED BUSINESS THAT OPERATES OR WILL BE OPERATED
+21 IN THE STATE.
+22 [(a)] (B) (1) A person who sells or grants a franchise is civilly liable to the
+23 person who buys or is granted a franchise if the person who sells or grants a franchise offers
+24 to sell or sells a franchise:
+25 (i) without the offer of the franchise being registered under this
+26 subtitle; or
+27 (ii) by means of an untrue statement of a material fact or any
+28 omission to state a material fact necessary in order to make the statements made, in light
+29 of the circumstances under which they are made, not misleading, if the person who buys or
+30 is granted a franchise does not know of the untruth or omission.
+31 (2) In determining liability under this subsection, the person who sells or
+32 grants a franchise has the burden of proving that the person who sells or grants a franchise
+
+HOUSE BILL 992 5
+1 did not know and, in the exercise of reasonable care, could not have known of the untruth
+2 or omission.
+3 [(b)] (C) The person who buys or is granted a franchise may sue under this
+4 section to recover damages sustained by the grant of the franchise.
+5 [(c)] (D) A court may order the person who sells or grants a franchise to:
+6 (1) rescind the franchise; and
+7 (2) make restitution to the person who buys or is granted a franchise.
+8 [(d)] (E) (1) Joint and several liability under this section extends to:
+9 (i) each person who directly or indirectly controls a person liable
+10 under this section;
+11 (ii) each partner in a partnership liable under this section;
+12 (iii) each principal officer or director of a corporation liable under this
+13 section;
+14 (iv) each other person that has a similar status or performs similar
+15 functions as a person liable under this section; and
+16 (v) each employee of a person liable under this section, if the
+17 employee materially aids in the act or transaction that is a violation under this subtitle.
+18 (2) However, liability under this subsection does not extend to a person
+19 who did not have knowledge of or reasonable grounds to believe in the existence of the facts
+20 by which the liability is alleged to exist.
+21 [(e)] (F) An action under this section must be brought within [3] THE LATER
+22 OF:
+23 (1) 5 years after the grant of the franchise; OR
+24 (2) 2 YEARS AFTER THE DATE OF THE INITIAL COMMENCEMENT OF
+25 OPERATIONS OF THE FRANCHISE.
+26 14–233.
+27 (A) A FRANCHISOR MAY NOT, DIRECTLY OR INDIRECTLY, THROUGH ANY
+28 OFFICER, AGENT, OR EMPLOYEE:
+
+6 HOUSE BILL 992
+1 (1) RESTRICT OR INHIBIT THE RIGHT OF A FRANCHISEE TO JOIN A
+2 TRADE ASSOCIATION CONSISTING OF OTHER FRANCHISEES OF THE SAME
+3 FRANCHISE; OR
+4 (2) PROHIBIT THE RIGHT OF FREE ASSOCIATION AMONG
+5 FRANCHISEES FOR ANY LAWFUL PURPOSE.
+6 (B) (1) A PERSON WHO VIOLATES SUBSECTION (A) OF THIS SECTION MAY
+7 BE SUED IN CIRCUIT COURT FOR:
+8 (I) TEMPORARY OR PERMANENT INJUNCTIVE RELIEF;
+9 (II) DAMAGES, IF ANY; AND
+10 (III) COSTS OF THE SUIT, INCLUDING ANY REASONABLE
+11 ATTORNEY’S FEES.
+12 (2) THE INJUNCTIVE RELIEF MAY BE SOUGHT FROM THE CIRCUIT
+13 COURT IN THE COUNTY WHERE THE INDIVIDUAL WHO IS ALLEGED TO BE IN
+14 VIOLATION OF SUBSECTION (A) OF THIS SECTION RESIDES OR THE FRANCHISE
+15 AFFECTED BY THE VIOLATION CONDUCTS BUSINESS.
+16 (3) WHEN SEEKING AN INJUNCTION UNDER THIS SECTION, THE
+17 PLAINTIFF MAY NOT BE REQUIRED TO ALLEGE OR PROVE ACTUAL DAMAGES
+18 SUFFERED TO OBTAIN INJUNCTIVE RELIEF.
+19 (4) AN ACTION UNDER THIS SUBSECTION MUST BE BROUGHT WITHIN
+20 THE EARLIER OF:
+21 (I) 2 YEARS AFTER THE ALLEGED VIOLATION OCCURRED; OR
+22 (II) 1 YEAR AFTER THE DISCOVERY BY THE PLAINTIFF OF THE
+23 FACTS OF THE ALLEGED VIOLATION.
+24 [14–233.] 14–234.
+25 This subtitle is the Maryland Franchise Registration and Disclosure Law.
+26 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+27 as follows:
+28 Article – Business Regulation
+29 14–219.1.
+
+HOUSE BILL 992 7
+1 (A) THE COMMISSIONER SHALL ESTABLISH A PILOT PROGRAM TO WAIVE
+2 THE FRANCHISE REGISTRATION RENEWAL FEE UNDER § 14–219 OF THIS SUBTITLE
+3 IF A REGISTRANT, AT LEAST 60 BUSINESS DAYS BEFORE THE END OF THE
+4 REGISTRANT’S FISCAL YEAR, FILES WITH THE COMMISSIONER:
+5 (1) A RENEWAL APPLICATION ON THE FORM THAT THE
+6 COMMISSIONER REQUIRES;
+7 (2) A PROSPECTUS;
+8 (3) AN UNAUDITED FINANCIAL STATEMENT; AND
+9 (4) DOCUMENTATION OF ANY MATERIAL CHANGES IN THE FINANCIAL
+10 CONDITION OF THE REGISTRANT FROM THE DATE OF THE MOST RECENT AUDITED
+11 FINANCIAL STATEMENT.
+12 (B) ON OR BEFORE SEPTEMBER 30, 2030, THE COMMISSIONER SHALL, IN
+13 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, SUBMIT A
+14 REPORT TO THE SENATE FINANCE COMMITTEE AND THE HOUSE ECONOMIC
+15 MATTERS COMMITTEE THAT INCLUDES:
+16 (1) THE NUMBER AND TOTAL AMOUNT OF FRANCHISE REGISTRATION
+17 RENEWAL FEES WAIVED IN ACCORDANCE WITH SUBSECTION (A) OF THIS SECTION;
+18 (2) THE AMOUNT OF TIME REQUIRED TO ADMINISTER THE PILOT
+19 PROGRAM, INCLUDING THE PROCESSING OF FRANCHISE REGISTRATION RENEWAL
+20 FEES UNDER § 14–219 OF THIS SUBTITLE; AND
+21 (3) AN ANALYSIS OF WHETHER THERE WAS ANY IMPACT ON
+22 REGISTRANTS WHO DID NOT QUALIFY FOR THE WAIVER OF THE FRANCHISE
+23 REGISTRATION RENEWAL FEE UNDER SUBSECTION (A) OF THIS SECTION.
+24 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025. Section 2 of this Act shall remain effective for a period of 6 years and, at
+26 the end of September 30, 2031, Section 2 of this Act, with no further action required by the
+27 General Assembly, shall be abrogated and of no further force and effect.
+
+[DELETED: :CA      5     A B A ( F i o r d f m i r b S C t e a c p p t w c f c D B  A S  A  ( B  A S  A  (]
+[DELETED:  H   S T A 1  ( ( W t m u   ( A p o a c a d o t a v m s   ( T    ( w 1 b d a t C r t r    ( a   ( U  ( ( W t m o   ( T    ( d c    ( i v r   ( T i    ( i    ( r p]
+[DELETED: H 3    ( d l    ( s o t o t r o a c o a    ( r    ( r    ( a a    ( a   ( T  ( T 3 y 1  ( E o a f w t C b t p o t s t a  ( T   ( a b   ( a f   ( a b    ( t    ( t i  ( ( T t s o]
+[DELETED:  H    ( A s i n e b o t a f m b a f  ( ( T C m r b r t a f o s r    ( f f    ( p   ( T o ) TH O S R T F N E S F I T F R E UR0  O R N F L R O B T PIAUCUL. A 1 ) T:H ( F O F W I A R O T;E  ( T.  () ( A]( p t    ( w t o o t f b r u t s    ( b m o a u s o a m f o a o o i   ( I g]
+[DELETED: H 5 d o  () T p w b o i g a f m s u t]( s  () A](   ( r   ( m  () ( J](    ( e u    ( e    ( e s    ( e f    ( e e o a p l u t s i t e   ( H w b  () An]()[F   ( 5;   (  .() A, F M NT D O IY T AR T ,:]
+[DELETED:  H  ( A C O O F O T SE  ( T R O F A A() ( A(  A   () ;T  () ,;IDS Y   () IC O T ST I A RYS. (  I R M B S F T C I T C W T I W I A T B I O S A O T S R O T F ( W S A I U T SN T M N B R T A O P A D (   () 2; D   () I ]1 1  T  S a A]
+[DELETED: H 7() TH O   1 A RT A L  B D B T E O T6TSR  O,C: ( R A O T F T T; ( ; ( ;T  (() OS3,2,CN E    OL  W   O T T O RE S A27SGA T T E I O A T O CFCHC: O ( A ); ( A O T R T A T PM    E 19; ( A O W T W A I O W D N Q F T W O T F A )   S A B I F E T t A s t e O t G]

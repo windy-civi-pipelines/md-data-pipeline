@@ -1,0 +1,2030 @@
+Title: HOUSE BILL 20
+Official Title: HOUSE BILL 20
+Number of Sections: 1
+Source: versions - First - Transportation – Consolidated Transportation Program – Prioritization (Transportation Investment Priorities Act of 2025)
+Media Type: application/pdf
+Strikethrough Detection: 30 sections found
+
+================================================================================
+
+Section 1:
+R1 5lr0220
+(PRE–FILED) CF SB 198
+By: Chair, Appropriations Committee (By Request – Departmental –
+Transportation)
+Requested: October 9, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Appropriations and Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Transportation – Consolidated Transportation Program – Prioritization
+3 (Transportation Investment Priorities Act of 2025)
+4 FOR the purpose of altering the required elements of the Consolidated Transportation
+5 Program and Maryland Transportation Plan; requiring a certain advisory committee
+6 to advise the Department of Transportation on the Maryland Transportation Plan;
+7 requiring the Department to develop a certain project–based scoring system, identify
+8 certain funds available for certain purposes, and solicit requests from certain entities
+9 for major surface transportation projects; requiring the Department to evaluate and
+10 score certain major surface transportation projects; requiring the Department to
+11 make public the scores of certain projects and list of projects recommended for
+12 inclusion in the Consolidated Transportation Program; requiring the State Highway
+13 Administration and Maryland Transit Administration to evaluate certain projects
+14 using a certain methodology; providing that certain major surface transportation
+15 projects may be included in the Consolidated Transportation Program only if the
+16 project has been evaluated using a certain project–based scoring program; altering
+17 the makeup, chair, frequency of meetings, and responsibilities of the Maryland
+18 Transportation Commission; requiring the State Highway Administration to develop
+19 certain asset management practices, including a state of good repair program; and
+20 generally relating to transportation planning and project prioritization.
+21 BY repealing and reenacting, with amendments,
+22 Article – Transportation
+23 Section 2–103.1, 2–103.7, 2–203, 2–204(a) and (b), 2–205, 7–309(b), and 8–502
+24 Annotated Code of Maryland
+25 (2020 Replacement Volume and 2024 Supplement)
+26 BY repealing and reenacting, without amendments,
+27 Article – Transportation
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0020*
+2 HOUSE BILL 20
+1 Section 2–202
+2 Annotated Code of Maryland
+3 (2020 Replacement Volume and 2024 Supplement)
+4 BY adding to
+5 Article – Transportation
+6 Section 7–309(e); and 8–1101 through 8–1103 to be under the new subtitle “Subtitle
+7 11. Asset Management Practices”
+8 Annotated Code of Maryland
+9 (2020 Replacement Volume and 2024 Supplement)
+10 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+11 That the Laws of Maryland read as follows:
+12 Article – Transportation
+13 2–103.1.
+14 (a) (1) In this section the following words have the meanings indicated.
+15 (2) “CAPACITY ENHANCING PROJECT” MEANS ANY PROJECT THAT
+16 MODIFIES THE TRANSPORTATION SYSTEM TO IMPROVE THE ABILITY OF THE
+17 TRANSPORTATION SYSTEM TO MOVE PEOPLE AND GOODS.
+18 (3) “Capital project” means:
+19 (i) Any project for which funds are expended for construction,
+20 reconstruction, or rehabilitation of a transportation facility by the Department or of a
+21 transportation facilities project by the Maryland Transportation Authority; or
+22 (ii) Capital equipment, as defined by the Secretary.
+23 [(3)] (4) “Construction phase” means the phase of a capital project in
+24 which the project is committed and advanced from the project development phase to
+25 completion.
+26 [(4)] (5) “Major capital project” means any new, expanded, or
+27 significantly improved facility or service that involves planning, environmental studies,
+28 design, right–of–way, construction, or purchase of essential equipment related to the
+29 facility or service.
+30 [(5)] (6) “Major SURFACE transportation project” has the meaning stated
+31 in § 2–103.7 of this subtitle.
+32 [(6)] (7) “Minor capital project” means any project for the preservation or
+33 rehabilitation of an existing facility or service, including the planning, design,
+HOUSE BILL 20 3
+1 right–of–way, construction, or purchase of equipment essential to the facility or service,
+2 and generally not requiring the preparation of an environmental impact assessment.
+3 [(7)] (8) “Project development phase” means the phase of a capital project
+4 in which planning, engineering, and environmental studies and analyses are conducted
+5 with full participation by the public, prior to commitment to construction.
+6 [(8)] (9) (i) “Proposing entity” means a government agency or political
+7 subdivision that requests that a transportation project be included in the Consolidated
+8 Transportation Program.
+9 (ii) “Proposing entity” includes a county, a municipality, a
+10 metropolitan planning organization, A TRANSIT AGENCY, and a modal administration or
+11 any other agency of the Department.
+12 [(9)] (10) “Purpose and need summary statement” means a brief statement
+13 that specifies the underlying purpose and need for a project.
+14 [(10)] (11) “Significant change” means any change that affects the size or
+15 character of a project to the extent that the change:
+16 (i) Substantially modifies the capacity[,] OR level of service[, or
+17 cost] of the project;
+18 (ii) AFFECTS THE DEPARTMENT’S ABILITY TO DELIVER THE
+19 PROJECT ON TIME AND ON BUDGET;
+20 (III) Alters the function, SCOPE, or purpose of the project; or
+21 [(iii)] (IV) Impacts the ability of a modal administration to
+22 accomplish the program priorities established by the Secretary in the State Report on
+23 Transportation.
+24 (12) “STATE OF GOOD REPAIR” MEANS A PROJECT ELIGIBLE UNDER
+25 THE TRANSIT STATE OF GOOD REPAIR PROGRAM IN § 7–309 OF THIS ARTICLE OR
+26 UNDER THE HIGHWAY STATE OF GOOD REPAIR PROGRAM ESTABLISHED UNDER §
+27 8–1103 OF THIS ARTICLE.
+28 [(11)] (13) “State transportation goals” means the goals described in §
+29 2–103.7 of this subtitle.
+30 (14) “TRANSIT AGENCY” MEANS THE MARYLAND TRANSIT
+31 ADMINISTRATION, THE WASHINGTON METROPOLITAN AREA TRANSIT AUTHORITY,
+32 OR AN AGENCY THAT OPERATES A LOCALLY OPERATED TRANSIT SYSTEM.
+4 HOUSE BILL 20
+1 [(12)] (15) “Transportation facilities project” has the meaning stated in §
+2 4–101(i) of this article.
+3 [(13)] (16) “Transportation facility” has the meaning stated in § 3–101(l) of
+4 this article.
+5 (b) The State Report on Transportation consists of the Consolidated
+6 Transportation Program and the Maryland Transportation Plan.
+7 (c) (1) The Consolidated Transportation Program shall:
+8 (i) Be revised annually; and
+9 (ii) Include:
+10 1. A list of:
+11 A. The State transportation goals;
+12 B. Program priorities;
+13 C. For projects in the construction phase, the criteria used to
+14 select DIFFERENT TYPES OF major capital projects for inclusion in the capital program;
+15 and
+16 D. The [manner in which each major transportation project
+17 was evaluated and ranked] RESULTS OF THE EVALUATION OF MAJOR SURFACE
+18 TRANSPORTATION PROJECTS SELECTED FOR FUNDING under § 2–103.7 of this
+19 subtitle;
+20 2. A statement of the Department’s projected annual
+21 operating costs, set forth separately for the Office of the Secretary and for each modal
+22 administration;
+23 3. Expanded descriptions of major capital projects THAT
+24 INCLUDE:
+25 A. THE NAME OF THE PROJECT;
+26 B. THE SCOPE OF WORK AND SCHEDULE ANTICIPATED
+27 FOR THE PROJECT;
+28 C. A PURPOSE AND NEED SUMMARY STATEMENT;
+29 D. A DELINEATION OF THE STATE OF GOOD REPAIR
+30 PORTION OF THE PROJECT FROM ANY CAPACITY ENHANCING ELEMENTS;
+HOUSE BILL 20 5
+1 E. THE TRANSPORTATION NEED IDENTIFIED IN THE
+2 MARYLAND TRANSPORTATION PLAN;
+3 F. THE LOCATION OF THE PROJECT, INCLUDING A MAP
+4 OF THE PROJECT LIMITS, PROJECT AREA, OR TRANSPORTATION CORRIDOR;
+5 G. THE ESTIMATED COST BY PHASE OF THE PROJECT;
+6 H. THE AMOUNT OF FUNDING ALLOCATED TO THE
+7 PROJECT BY PHASE AND BY FUNDING SOURCE, INCLUDING FEDERAL, SPECIAL, OR
+8 OTHER FUNDING; AND
+9 I. ANY MAJOR MODIFICATIONS TO THE DESCRIPTIONS
+10 REQUIRED UNDER ITEM B, C, OR G OF THIS ITEM;
+11 4. A list of major capital projects for the current year, the
+12 budget request year, and the 4 successive planning years;
+13 5. A list of [anticipated] ALL IDENTIFIED minor capital
+14 projects[, including a specific list of anticipated special projects] for the current year and
+15 the budget request year and an estimate of the Program level for each of the 4 successive
+16 planning years;
+17 6. A list of major bridge work projects;
+18 7. A summary of the capital and operating programs, as
+19 defined by the Secretary, for the Maryland Transportation Authority;
+20 8. [For each listed major capital project, an indication
+21 whether the revenue source anticipated to support that project consists of federal, special,
+22 general, or other funds;
+23 9.] The Department’s estimates of the levels and sources of
+24 revenues to be used to fund the projects in the Program, INCLUDING AVAILABLE TOLL
+25 CREDITS;
+26 [10.] 9. A glossary of terms; and
+27 [11.] 10. A cross–reference table for the information
+28 contained in the various parts of the State Report on Transportation.
+29 (2) In addition to the items listed in paragraph (1) of this subsection, the
+30 Consolidated Transportation Program shall include:
+6 HOUSE BILL 20
+1 (i) A summary of current efforts and future plans, prepared after
+2 consultation with the Director of Bicycle and Pedestrian Access and the Bicycle and
+3 Pedestrian Advisory Committee established under § 2–606 of this title:
+4 1. To develop and promote bicycle and pedestrian
+5 transportation; and
+6 2. Working together with local jurisdictions, to accommodate
+7 in a safe and effective manner pedestrians and bicycles within a reasonable distance for
+8 walking and bicycling to rail stops, light rail stops, and subway stations;
+9 (ii) A listing of all bicycle and pedestrian transportation projects
+10 expected to use State or federal highway funds; and
+11 (iii) Reflected under the Office of the Secretary, any
+12 technology–related project to be funded from the account established under § 2–111 of this
+13 subtitle, along with a description and projected cost of each.
+14 (3) In addition to the items listed in paragraph (1) of this subsection, the
+15 Consolidated Transportation Program shall include a summary of current efforts and
+16 future plans to increase commuter access between the campuses of the University of
+17 Maryland, including:
+18 (i) Easing traffic congestion; and
+19 (ii) Use of mass transit.
+20 (4) Annually, the Consolidated Transportation Program shall include a
+21 report that:
+22 (i) Identifies each major capital project for which the budget bill or
+23 a supplemental budget amendment first requests funds for the project development phase
+24 or for the construction phase;
+25 (ii) With respect to each major capital project for which funds are
+26 requested in the budget request year, states:
+27 1. The amount of the funds requested; and
+28 2. The total estimated cost of the project;
+29 (iii) Identifies significant changes in the cost, scope, design, or
+30 scheduling of major capital projects for each completed fiscal year;
+31 (iv) When there is a significant change in cost, states the amount by
+32 which the expenditures that have been authorized exceed the original project estimate;
+HOUSE BILL 20 7
+1 (v) When there is a significant change, states:
+2 1. The amount by which costs exceed projected costs during
+3 each completed fiscal year; and
+4 2. The total amount that has been expended for a major
+5 capital project;
+6 (vi) Provides a purpose and need summary statement that includes:
+7 1. A general description and summary that describes why
+8 the project is necessary and satisfies State transportation goals, including Climate Action
+9 Plan goals required [by the Greenhouse Gas Emissions Reduction Act of 2009] under §
+10 2–1205(b) of the Environment Article;
+11 2. The location of the project, including a map of the project
+12 limits, project area, or transportation corridor; and
+13 3. A summary of how the project meets the selection criteria
+14 for inclusion in the capital program;
+15 (vii) Provides the Maryland Transit Administration state of good
+16 repair budget for the current fiscal year and projections for the subsequent fiscal year; and
+17 (viii) Includes any other information that the Secretary believes would
+18 be useful to the members of the General Assembly, the general public, or other recipients
+19 of the Consolidated Transportation Program.
+20 (5) The total operating and capital expenditures for the Department or for
+21 the Office of the Secretary or any modal administration projected in the Consolidated
+22 Transportation Program for the budget request year may not exceed the budget request for
+23 the Department, Office, or modal administration for that year.
+24 [(6) For a major capital project to be considered for inclusion in the
+25 construction program of the Consolidated Transportation Program, a request must be
+26 submitted to the Secretary by the proposing entity along with a purpose and need summary
+27 statement justifying the project that includes:
+28 (i) The location of the project, including a map of the project limits,
+29 project area, or transportation corridor;
+30 (ii) The need for the project;
+31 (iii) A discussion of how the project:
+32 1. Addresses State transportation goals; and
+8 HOUSE BILL 20
+1 2. Supports local government land use plans and goals; and
+2 (iv) A certification that all members of the legislative delegation of
+3 the county in which the project is located have been notified.
+4 (7) (i) The Department shall evaluate requests for major capital
+5 projects based on the State’s transportation goals and, if applicable, using the measures
+6 established under § 2–103.7 of this subtitle, and, as appropriate, criteria as determined by
+7 the information submitted by the proposing entity and the availability of funding.
+8 (ii) As part of the evaluation under this paragraph, the Department
+9 shall acknowledge the difference between urban and rural transportation needs.]
+10 (6) (I) THE DEPARTMENT SHALL CONSIDER REQUESTS FOR
+11 PROJECTS FOR THE DEVELOPMENT AND EVALUATION PROGRAM, STATE OF GOOD
+12 REPAIR PROGRAMS, AND THE PRIORITIZATION PROGRAM.
+13 (II) AS PART OF ITS CONSIDERATION OF PROJECTS REQUESTED
+14 UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH, THE DEPARTMENT SHALL:
+15 1. ESTABLISH AND PUBLISH CLEAR GUIDELINES FOR A
+16 PROPOSING ENTITY TO MAKE A REQUEST FOR EACH PROGRAM, INCLUDING THE
+17 FORM OF PRIORITY LETTERS AND PROCESSES AND CRITERIA THAT THE
+18 DEPARTMENT WILL USE TO EVALUATE EACH REQUEST;
+19 2. ESTABLISH A WEB–BASED SYSTEM FOR SUBMISSION
+20 OF PROJECTS TO BE CONSIDERED FOR INCLUSION IN THE CONSOLIDATED
+21 TRANSPORTATION PROGRAM; AND
+22 3. PROVIDE RESPONSES TO EACH REQUEST RECEIVED
+23 FOR THE PRIORITIZATION PROGRAM UNDER § 2–103.7 OF THIS SUBTITLE PRIOR TO
+24 SEPTEMBER 15 EVERY OTHER YEAR, INCLUDING INFORMATION PERTAINING TO THE
+25 DEPARTMENT’S EVALUATION OF THE REQUESTED PROJECT.
+26 [(8)] (7) (i) The Department, in developing a construction or
+27 improvement project involving a bridge or other transportation facility that is adjacent to
+28 or crosses a waterway for inclusion in the Consolidated Transportation Program, shall
+29 consider any reasonable and appropriate measures to provide or improve in the vicinity of
+30 the bridge or other transportation facility water access for fishing, canoeing, kayaking, or
+31 any other nonmotorized water dependent recreational activity.
+32 (ii) The Department, in consultation with the Department of
+33 Natural Resources and interested stakeholders, shall establish:
+34 1. Standards and guidelines for identifying appropriate
+HOUSE BILL 20 9
+1 bridges and other transportation facilities to be considered for the provision or
+2 improvement of water access under this paragraph; and
+3 2. Best practices and cost effective strategies for
+4 accommodating water access under this paragraph.
+5 [(9)] (8) Except as authorized by law, the Consolidated Transportation
+6 Program may not include capital transportation grants for roads and highways to counties
+7 or municipal corporations for any period beyond the budget request year.
+8 [(10)] (9) (i) In addition to the items listed in paragraph (1) of this
+9 subsection, the Consolidated Transportation Program shall include:
+10 1. A table that identifies each project receiving construction
+11 funds:
+12 A. For the first time in the budget request year; and
+13 B. For the first time in the current year if the construction
+14 funds were not identified in the budget year in the Consolidated Transportation Program
+15 released the previous January; and
+16 2. A table that identifies each project receiving planning
+17 funds:
+18 A. For the first time in the budget request year; and
+19 B. For the first time in the current year if the planning funds
+20 were not shown in the budget request year in the Consolidated Transportation Program
+21 released the previous January.
+22 (ii) For each project included in a table required under subparagraph
+23 (i) of this paragraph, the table shall identify:
+24 1. Where the project is listed in the Consolidated
+25 Transportation Program; and
+26 2. By fund, the amount included in the current year budget
+27 and the budget request year budget for the project.
+28 (c–1) If a new approved pedestrian or bicycle safety construction or improvement
+29 project is projected to take more than 12 months to complete, the Department shall
+30 implement all possible incremental, near–term safety improvements as soon as practicable
+31 while maintaining each project’s priority ranking.
+32 (d) (1) The Maryland Transportation Plan shall:
+10 HOUSE BILL 20
+1 (i) Except as otherwise provided, be revised every 5 years through
+2 an inclusive public participation process;
+3 (ii) Include [a]:
+4 1. A 10– AND 20–year forecast of State transportation needs,
+5 based on the financial resources anticipated to be available to the Department during [that
+6 20–year period] THE RESPECTIVE 10– AND 20–YEAR PERIODS; AND
+7 2. STATE OF GOOD REPAIR AND CAPACITY EXPANSION
+8 NEEDS;
+9 (iii) Be expressed in terms of the State transportation goals and
+10 measures; and
+11 (iv) Include a summary of the types of projects and programs that are
+12 proposed to accomplish the State transportation goals [and measures,] using a
+13 multi–modal approach [when feasible].
+14 (2) Beginning with the 2045 Maryland Transportation Plan, the
+15 Department shall consider ways to achieve equity in the transportation sector when
+16 developing the State transportation goals.
+17 (3) SUBJECT TO THE REPORTING REQUIREMENTS IN SUBSECTION (G)
+18 OF THIS SECTION, THE DEPARTMENT SHALL ESTABLISH PERFORMANCE MEASURES
+19 FOR THE IMPLEMENTATION OF THE MARYLAND TRANSPORTATION PLAN AS PART
+20 OF ITS DEVELOPMENT.
+21 (e) On or before November 15 of each year, the Department shall visit each county
+22 to give local governments and local legislative delegations information about and an
+23 opportunity to comment on the [proposed Consolidated Transportation Program and the
+24 proposed Maryland Transportation Plan] FOLLOWING:
+25 (1) THE PROPOSED CONSOLIDATED TRANSPORTATION PROGRAM;
+26 (2) TRANSPORTATION PERFORMANCE AND THE MARYLAND
+27 TRANSPORTATION PLAN IN PLAN DEVELOPMENT YEARS;
+28 (3) IN EVEN–NUMBERED FISCAL YEARS, THE RESULTS OF THE
+29 PROJECT–BASED SCORING SYSTEM DESCRIBED IN § 2–103.7 OF THIS SUBTITLE; AND
+30 (4) IN ODD–NUMBERED FISCAL YEARS:
+31 (I) METHODOLOGY AND PROGRAM COMMENTS RELATED TO
+32 THE PROJECT–BASED SCORING SYSTEM; AND
+HOUSE BILL 20 11
+1 (II) LOCAL PRIORITIES FOR TRANSPORTATION STATE OF GOOD
+2 REPAIR, ASSET MANAGEMENT, AND DEVELOPMENT AND EVALUATION INITIATIVES.
+3 (f) At the earliest practical date but no later than November 1 of each year, the
+4 Department shall provide the proposed Consolidated Transportation Program and the
+5 proposed Maryland Transportation Plan to the Department of Planning for review and
+6 comment on planning issues including consistency between transportation investments
+7 and the State Economic Growth, Resource Protection, and Planning Policy and State
+8 priority funding areas established under Title 5, Subtitle 7B of the State Finance and
+9 Procurement Article.
+10 (g) Beginning with the year 2002 State Report on Transportation and continuing
+11 thereafter, before the General Assembly considers the proposed Maryland Transportation
+12 Plan and the proposed Consolidated Transportation Program, the Department shall submit
+13 an annual report on the attainment of State transportation goals and benchmarks for the
+14 approved and proposed Maryland Transportation Plan and the approved and proposed
+15 Consolidated Transportation Program to the Governor and, subject to § 2–1257 of the State
+16 Government Article, to the General Assembly.
+17 (h) (1) The report required under subsection (g) of this section shall include:
+18 (i) The establishment of certain measurable performance indicators
+19 [or], benchmarks, [in priority funding areas at a minimum,] AND TARGETS designed to
+20 quantify the State transportation goals and measures specified in the Maryland
+21 Transportation Plan [and § 2–103.7 of this subtitle]; and
+22 (ii) The degree to which the projects and programs contained in the
+23 approved Maryland Transportation Plan and Consolidated Transportation Program attain
+24 those goals and benchmarks as measured by the [performance indicators or benchmarks]
+25 PROGRESS TOWARD THE PERFORMANCE TARGETS ESTABLISHED IN ITEM (I) OF THIS
+26 PARAGRAPH.
+27 (2) The Department shall include in its report measurable long–term
+28 [goals] TARGETS, and intermediate benchmarks of progress toward the attainment of the
+29 long–term goals, for the following measurable transportation indicators:
+30 (i) An increase in the share of total person trips for each of transit,
+31 high occupancy auto, pedestrian, and bicycle modes of travel;
+32 (ii) A decrease in indicators of traffic congestion as determined by
+33 the Department; and
+34 (iii) Any other performance goals established by the Department for
+35 reducing automobile traffic and increasing the use of nonautomobile traffic.
+12 HOUSE BILL 20
+1 (3) (i) Beginning with the 2024 attainment report on transportation
+2 system performance, the advisory committee advising the Department on State
+3 transportation goals, benchmarks, and indicators shall recommend measurable
+4 transportation indicators that can be evaluated for racial, disability, ethnic, and
+5 low–income disparities based on available sources or information.
+6 (ii) The Department shall evaluate the indicators recommended
+7 under subparagraph (i) of this paragraph to identify any racial, disability, ethnic, or
+8 low–income disparities.
+9 (4) The performance indicators [or], benchmarks, OR TARGETS described
+10 in this subsection shall acknowledge the difference between urban and rural transportation
+11 needs.
+12 (i) The [Smart] SUSTAINABLE Growth Subcabinet, established under Title 9,
+13 Subtitle 14 of the State Government Article, shall conduct an annual review of the State
+14 transportation goals, benchmarks, and indicators.
+15 (j) (1) An advisory committee shall be assembled to advise the Department on
+16 the MARYLAND TRANSPORTATION PLAN AND THE State transportation goals,
+17 INDICATORS, benchmarks, [and indicators] AND TARGETS under subsection (h) of this
+18 section.
+19 (2) Membership of the advisory committee shall include but is not limited
+20 to the following members appointed by the Governor:
+21 (i) A representative of the Maryland business community;
+22 (ii) A representative of the disabled citizens community;
+23 (iii) A representative of rural interests;
+24 (iv) A representative of an auto users group;
+25 (v) A representative of a transit users group;
+26 (vi) A representative of the goods movement industry;
+27 (vii) A nationally recognized expert on transportation demand
+28 management;
+29 (viii) A nationally recognized expert on pedestrian and bicycle
+30 transportation;
+31 (ix) A nationally recognized expert on transportation performance
+32 measurement;
+HOUSE BILL 20 13
+1 (x) A representative of an environmental advocacy organization;
+2 (xi) A representative from the Maryland Department of Planning;
+3 (xii) A representative of the Maryland Association of Counties;
+4 (xiii) A representative of the Maryland Municipal League;
+5 (xiv) A representative of the Maryland State Conference of the
+6 National Association for the Advancement of Colored People;
+7 (xv) A representative of a transportation labor organization,
+8 designated by the Maryland State and District of Columbia AFL–CIO; and
+9 (xvi) A representative of the transportation construction industry.
+10 (3) The Governor shall appoint the chairman of the advisory committee.
+11 (4) The advisory committee shall meet at least four times during the
+12 process of developing the Maryland Transportation Plan to provide advice to the
+13 Department on meeting the requirements of this subsection.
+14 (5) The Department and the advisory committee shall consider the
+15 following:
+16 (i) Transportation and population trends and their impact on the
+17 State’s transportation system and priority funding areas;
+18 (ii) Past and present State funding devoted to the various
+19 transportation modes and demand management;
+20 (iii) The full range of unmet transportation needs in priority funding
+21 areas;
+22 (iv) The full range of transportation measures and facilities
+23 available, and their role, effectiveness, and cost effectiveness in providing travel choices
+24 and reducing congestion;
+25 (v) A review of transportation performance indicators and their use
+26 in other states;
+27 (vi) A review of the coordination of State transportation investments
+28 with local growth plans for priority funding areas;
+29 (vii) The types of investments needed and their levels of funding for
+30 supporting the [State] STATE’S transportation goals [and measures established under §
+31 2–103.7 of this subtitle];
+14 HOUSE BILL 20
+1 (viii) The impact of transportation investment on:
+2 1. The environment;
+3 2. Environmental justice as defined in § 1–701 of the
+4 Environment Article;
+5 3. Communities;
+6 4. Economic development;
+7 5. Racial equity; and
+8 6. Persons with disabilities, including service accessibility;
+9 and
+10 (ix) The Climate Action Plan goals required by [the Greenhouse Gas
+11 Emissions Reduction Act of 2009 under] § 2–1205(b) of the Environment Article.
+12 (k) [The Department may:
+13 (1) Conduct its analysis of planned transportation investments in priority
+14 funding areas on a statewide basis or in groupings of priority funding areas centered on
+15 regions, metropolitan areas, cities, or other groupings suitable for transportation modeling;
+16 and
+17 (2) Choose to exclude from its analysis priority funding areas which have
+18 an insignificant role in transportation trends because of small size, population, or physical
+19 isolation.
+20 (l)] In the report required under subsection (g) of this section, the Department
+21 shall:
+22 (1) Use narrative, graphs, charts, tables, and maps as appropriate to make
+23 the results easily understood by the public;
+24 (2) Include projected long–term trends for each of the indicators and the
+25 effect of planned transportation investments on the trends;
+26 (3) To the extent practicable, account for the effect of planned
+27 transportation investments on inducing automobile travel;
+28 (4) To the extent practicable, account for automobile trips not taken due to
+29 demand management measures, including teleworking, teleshopping, and land use
+30 patterns supporting alternatives to driving; and
+HOUSE BILL 20 15
+1 (5) Indicate the cost effectiveness of investments for achieving relevant
+2 performance goals and benchmarks, including a specific analysis of planned transportation
+3 investments detailing:
+4 (i) Any projected decreases or increases in indicators of traffic
+5 congestion and accessibility as defined by the Department; and
+6 (ii) The cost per passenger mile and other indicators of cost
+7 effectiveness as defined by the Department, including the estimated annual cost of
+8 maintenance and operations.
+9 [(m)] (L) (1) (i) Subject to § 2–1257 of the State Government Article:
+10 1. On or before September 1 of each year, the Department
+11 shall submit copies of the proposed Consolidated Transportation Program and the
+12 supporting financial forecast to the General Assembly; and
+13 2. On submission of the budget bill to the presiding officers
+14 of the General Assembly, the Department shall submit copies of the approved Consolidated
+15 Transportation Program, including the manner in which each major transportation project
+16 was evaluated and ranked under § 2–103.7 of this subtitle, and the supporting financial
+17 forecast to the General Assembly.
+18 (ii) Notwithstanding § 2–1257(b)(2) of the State Government Article,
+19 the Department shall provide to each member of the General Assembly a copy of the
+20 proposed Consolidated Transportation Program and the approved Consolidated
+21 Transportation Program.
+22 (2) (i) The financial forecast supporting the Consolidated
+23 Transportation Program to be submitted to the General Assembly under paragraph (1) of
+24 this subsection shall include the following components:
+25 1. A schedule of operating expenses for each specific modal
+26 administration;
+27 2. A schedule of revenues, including tax and fee revenues,
+28 deductions from revenues for other agencies, Department program and fees, Motor Vehicle
+29 Administration cost recovery, deductions for highway user revenues, operating revenues
+30 by modal administration, and miscellaneous revenues; and
+31 3. A summary schedule for the Transportation Trust Fund
+32 that includes the opening and closing Fund balance, revenues, transfers, bond sales, bond
+33 premiums, any other revenues, expenditures for debt service, operating expenses, amounts
+34 available for capital expenses, bond interest rates, bond coverage ratios, total bonds
+35 outstanding, federal capital aid, and the total amount for the Transportation Capital
+36 Program.
+16 HOUSE BILL 20
+1 (ii) The financial forecast shall include, for each of the components
+2 specified in subparagraph (i) of this paragraph:
+3 1. Actual information for the last full fiscal year; and
+4 2. Forecasts of the information for each of the six subsequent
+5 fiscal years, including the current fiscal year, the fiscal year for the proposed budget, and
+6 the next four subsequent fiscal years.
+7 (iii) 1. For the period beyond the budget request year, the
+8 financial forecast:
+9 A. Shall maximize the use of funds for the capital program;
+10 B. Except as authorized by law, may not withhold or reserve
+11 funds for capital transportation grants to counties or municipal corporations; and
+12 C. Except as provided in subsubparagraph 2 of this
+13 subparagraph, shall increase the operating expenses, net of availability payments paid to
+14 public–private partnership concessionaires, each year by at least the 5–year average
+15 annual rate of change in the operating expenses of the Department, ending with the most
+16 recently completed fiscal year.
+17 2. The assumed rate of future operating budget growth
+18 under subsubparagraph 1C of this subparagraph may not increase or decrease by more
+19 than 0.5 percentage points from the growth rate assumed in the previous forecast.
+20 (iv) The Department shall incorporate in the financial forecast the
+21 most recent estimates by the Board of Revenue Estimates of the revenues from:
+22 1. The corporate income tax and the sales and use tax for
+23 each of the six subsequent years, including the current fiscal year and the fiscal year for
+24 the proposed budget; and
+25 2. Motor fuel taxes and motor vehicle titling taxes for the
+26 current fiscal year and the fiscal year for the proposed budget.
+27 2–103.7.
+28 (a) (1) In this section the following words have the meanings indicated.
+29 (2) “LOCALLY MANAGED CAPITAL PROJECT” MEANS A CAPITAL
+30 PROJECT PERFORMED BY A POLITICAL SUBDIVISION IN A RIGHT–OF–WAY
+31 CONTROLLED BY THE STATE HIGHWAY ADMINISTRATION OR THE MARYLAND
+32 TRANSIT ADMINISTRATION.
+33 (3) “Major capital project” has the meaning stated in § 2–103.1 of this
+HOUSE BILL 20 17
+1 subtitle.
+2 [(3)] (4) (i) “Major SURFACE transportation project” means a major
+3 capital project in the State Highway Administration or the Maryland Transit
+4 Administration [whose] OR THAT IS A LOCALLY MANAGED CAPITAL PROJECT:
+5 1. WHOSE total cost for all phases exceeds $5,000,000; and
+6 [that:
+7 1. Increases highway or transit capacity;
+8 2. Reduces areas of heavy traffic congestion;
+9 3. Improves commute times in areas of heavy traffic
+10 congestion;
+11 4. Improves transit stations or station areas; or
+12 5. Improves highway capacity through the use of intelligent
+13 transportation systems or congestion management systems]
+14 2. THAT INCREASES THE CAPACITY OR ABILITY OF THE
+15 HIGHWAY, TRANSIT, OR RAIL SYSTEM TO MOVE PEOPLE AND GOODS.
+16 (ii) “Major SURFACE transportation project” does not include:
+17 1. Projects in the Maryland Aviation Administration, the
+18 Maryland Port Administration, THE MOTOR VEHICLE ADMINISTRATION, THE OFFICE
+19 OF THE SECRETARY, or the Maryland Transportation Authority;
+20 2. Maintenance and storage facilities projects;
+21 3. Water quality improvement projects;
+22 4. Projects related to Maryland’s priorities for total
+23 maximum daily load development;
+24 5. Safety–related projects [that do not increase highway or
+25 transit capacity] THAT RECEIVE FUNDING UNDER 23 U.S.C. § 148 OR THAT DO NOT
+26 SIGNIFICANTLY INCREASE TRANSIT CAPACITY;
+27 6. [Roads within the Appalachian Development Highway
+28 System; or
+29 7.] Projects that are solely for system preservation OR STATE
+30 OF GOOD REPAIR PURPOSES; OR
+18 HOUSE BILL 20
+1 7. PROJECTS FUNDED WITH FEDERAL SOURCES EXEMPT
+2 FROM THE PROJECT–BASED SCORING PROCESS DUE TO EXISTING EVALUATION
+3 PROCESSES, INCLUDING:
+4 A. CONGESTION MITIGATION AIR QUALITY FUNDS;
+5 B. TRANSPORTATION ALTERNATIVES FUNDS;
+6 C. PROTECT PROGRAM FUNDS;
+7 D. CARBON REDUCTION PROGRAM FUNDS; AND
+8 E. FUNDS FROM A FEDERAL PROGRAM ESTABLISHED BY
+9 THE FEDERAL GOVERNMENT AFTER JANUARY 1, 2024, WITH SPECIFIC RULES THAT
+10 SIGNIFICANTLY RESTRICT THE TYPES OR LOCATIONS OF PROJECTS THAT MAY BE
+11 FUNDED.
+12 (5) (I) “SMALL SURFACE TRANSPORTATION PROJECT” MEANS A
+13 MAJOR CAPITAL PROJECT IN THE STATE HIGHWAY ADMINISTRATION OR THE
+14 MARYLAND TRANSIT ADMINISTRATION OR THAT IS A LOCALLY MANAGED CAPITAL
+15 PROJECT:
+16 1. WHOSE TOTAL COST FOR ALL PHASES IS LESS THAN
+17 OR EQUAL TO $5,000,000; AND
+18 2. THAT INCREASES THE CAPACITY OR ABILITY OF THE
+19 HIGHWAY, TRANSIT, OR RAIL SYSTEM TO MOVE PEOPLE AND GOODS.
+20 (II) “SMALL SURFACE TRANSPORTATION PROJECT” DOES NOT
+21 INCLUDE:
+22 1. PROJECTS IN THE MARYLAND AVIATION
+23 ADMINISTRATION, THE MARYLAND PORT ADMINISTRATION, THE MOTOR VEHICLE
+24 ADMINISTRATION, THE OFFICE OF THE SECRETARY, OR THE MARYLAND
+25 TRANSPORTATION AUTHORITY;
+26 2. MAINTENANCE AND STORAGE FACILITIES PROJECTS;
+27 3. WATER QUALITY IMPROVEMENT PROJECTS;
+28 4. PROJECTS RELATED TO MARYLAND’S PRIORITIES
+29 FOR TOTAL MAXIMUM DAILY LOAD DEVELOPMENT;
+HOUSE BILL 20 19
+1 5. SAFETY–RELATED PROJECTS THAT RECEIVE
+2 FUNDING UNDER 23 U.S.C. § 148 OR THAT DO NOT SIGNIFICANTLY INCREASE
+3 TRANSIT CAPACITY;
+4 6. PROJECTS THAT ARE SOLELY FOR SYSTEM
+5 PRESERVATION OR STATE OF GOOD REPAIR PURPOSES; OR
+6 7. PROJECTS FUNDED WITH FEDERAL SOURCES EXEMPT
+7 FROM THE PROJECT–BASED SCORING PROCESS DUE TO EXISTING EVALUATION
+8 PROCESSES, INCLUDING:
+9 A. CONGESTION MITIGATION AIR QUALITY FUNDS;
+10 B. TRANSPORTATION ALTERNATIVES FUNDS;
+11 C. PROTECT PROGRAM FUNDS;
+12 D. CARBON REDUCTION PROGRAM FUNDS; AND
+13 E. FUNDS FROM A FEDERAL PROGRAM ESTABLISHED BY
+14 THE FEDERAL GOVERNMENT AFTER JANUARY 1, 2024, WITH SPECIFIC RULES THAT
+15 SIGNIFICANTLY RESTRICT THE TYPES OR LOCATIONS OF PROJECTS THAT MAY BE
+16 FUNDED.
+17 (b) The Department shall:
+18 (1) [In accordance with federal transportation requirements, develop a
+19 project–based scoring system for major transportation projects using the goals and
+20 measures established under subsection (c) of this section;] DEVELOP, IN CONSULTATION
+21 WITH THE APPLICABLE METROPOLITAN PLANNING ORGANIZATIONS, FOR THE
+22 MARYLAND TRANSPORTATION COMMISSION’S REVIEW A PROJECT–BASED SCORING
+23 SYSTEM THAT:
+24 (I) IS CONSISTENT WITH THIS SUBTITLE;
+25 (II) IS DEVELOPED IN ACCORDANCE WITH FEDERAL
+26 TRANSPORTATION REQUIREMENTS; AND
+27 (III) EVALUATES MAJOR SURFACE TRANSPORTATION PROJECTS
+28 USING OBJECTIVE AND QUANTIFIABLE MEASURES FOR THE GOALS ESTABLISHED
+29 UNDER SUBSECTION (C) OF THIS SECTION THAT CONSIDER THE BENEFITS OF A
+30 PROJECT RELATIVE TO ITS COST TO THE STATE.
+31 (2) Develop the weighting metrics for each goal and measure established
+20 HOUSE BILL 20
+1 under [subsection (c)] PARAGRAPH (1) of this [section] SUBSECTION;
+2 (3) [On or before January 1, 2018, develop a model consistent with this
+3 section that uses the project–based scoring system developed under this subsection to rank
+4 major transportation projects being considered for inclusion in the draft and final
+5 Consolidated Transportation Program;] PUBLISH THE GUIDELINES DEVELOPED TO
+6 IMPLEMENT THIS SECTION, AS REVIEWED BY THE MARYLAND TRANSPORTATION
+7 COMMISSION;
+8 (4) [Use the model developed under this subsection to rank major
+9 transportation projects being considered for inclusion in the draft and final Consolidated
+10 Transportation Program; and] AT LEAST EVERY 2 YEARS, IN COORDINATION WITH THE
+11 MARYLAND TRANSPORTATION COMMISSION, REVIEW AND UPDATE THE
+12 GUIDELINES, AS NECESSARY;
+13 (5) [Make the model developed under item (3) of this subsection and any
+14 ranking under item (4) of this subsection available to the public:
+15 (i) As an appendix to the Consolidated Transportation Program;
+16 and
+17 (ii) On the Department’s website] IDENTIFY THE AMOUNT OF
+18 FUNDS AVAILABLE FOR EACH 2–YEAR FUNDING CYCLE AFTER NEEDS ASSOCIATED
+19 WITH THE FOLLOWING HAVE BEEN CONSIDERED:
+20 (I) OPERATING, ADMINISTRATION, AND MAINTENANCE COSTS
+21 OF THE DEPARTMENT;
+22 (II) GRANTS TO OTHER ENTITIES, INCLUDING:
+23 1. DISTRIBUTION OF HIGHWAY USER REVENUES TO
+24 LOCAL GOVERNMENTS CONSISTENT WITH TITLE 8, SUBTITLE 4 OF THIS ARTICLE;
+25 2. DISTRIBUTION OF LOCALLY OPERATED TRANSIT
+26 SYSTEM GRANTS; AND
+27 3. DISTRIBUTION OF FUNDS TO THE WASHINGTON
+28 METROPOLITAN AREA TRANSIT AUTHORITY;
+29 (III) ADMINISTRATIVE COSTS, INCLUDING SALARIES, WAGES,
+30 AND FRINGE BENEFITS, RELATED TO OVERSIGHT AND IMPLEMENTATION OF THE
+31 DEPARTMENT’S CAPITAL PROGRAM;
+32 (IV) CAPITAL FUNDING THAT INCLUDES:
+HOUSE BILL 20 21
+1 1. FUNDS FOR CAPITAL PROJECTS OF THE MARYLAND
+2 AVIATION ADMINISTRATION, THE MARYLAND PORT ADMINISTRATION, THE MOTOR
+3 VEHICLE ADMINISTRATION, AND THE OFFICE OF THE SECRETARY;
+4 2. FUNDS FOR THE HIGHWAY SYSTEM PRESERVATION
+5 PURPOSES AND STATE OF GOOD REPAIR; AND
+6 3. FUNDS FOR THE TRANSIT PROJECTS WHERE THE
+7 PRIMARY PURPOSE IS STATE OF GOOD REPAIR; AND
+8 (V) ALL OTHER CAPITAL NEEDS FOR PROJECTS NOT SUBJECT
+9 TO THE PROJECT–BASED SCORING SYSTEM FOR MAJOR SURFACE TRANSPORTATION
+10 CAPITAL PROJECTS; AND
+11 (6) (I) AT LEAST EVERY 2 YEARS, SOLICIT REQUESTS FROM THE
+12 DEPARTMENT, LOCAL JURISDICTIONS, AND APPROPRIATE METROPOLITAN
+13 PLANNING ORGANIZATIONS, FOR MAJOR SURFACE TRANSPORTATION PROJECTS TO
+14 BE EVALUATED; AND
+15 (II) REQUIRE EACH REQUESTER TO CERTIFY THAT ALL
+16 MEMBERS OF THE LEGISLATIVE DELEGATION OF THE MARYLAND GENERAL
+17 ASSEMBLY THAT REPRESENTS THE COUNTY IN WHICH THE PROJECT IS LOCATED
+18 HAVE BEEN NOTIFIED OF THE REQUEST.
+19 (c) (1) The [State transportation goals are] DEPARTMENT SHALL
+20 EVALUATE MAJOR SURFACE TRANSPORTATION PROJECTS BASED ON POLICY GOALS.
+21 (2) PROJECTS SHALL BE EVALUATED ON HOW EACH PROJECT
+22 ADDRESSES:
+23 (i) Safety [and security];
+24 (ii) [System preservation] ACCESSIBILITY AND MOBILITY;
+25 (iii) [Reducing congestion and improving commute times] CLIMATE
+26 CHANGE AND THE ENVIRONMENT;
+27 (iv) [Environmental stewardship] SOCIAL EQUITY;
+28 (v) [Community vitality;] ECONOMIC DEVELOPMENT; AND
+29 (vi) [Economic prosperity;
+22 HOUSE BILL 20
+1 (vii) Equitable access to transportation;
+2 (viii) Cost effectiveness and return on investment; and
+3 (ix) Local priorities] LAND USE AND TRANSPORTATION DEMAND
+4 MANAGEMENT.
+5 [(2) In evaluating whether and to what extent a major transportation
+6 project satisfies the goals established under paragraph (1) of this subsection, the
+7 Department shall assign a score for each goal using the weighting metrics developed by the
+8 Department under subsection (b)(2) of this section and the following measures:
+9 (i) For safety and security:
+10 1. The expected reduction in total fatalities and severe
+11 injuries in all modes affected by the project; and
+12 2. The extent to which the project implements the Maryland
+13 State Highway Administration’s Complete Streets policies.
+14 (ii) For system preservation:
+15 1. The degree to which the project increases the lifespan of
+16 the affected facility;
+17 2. The degree to which the project increases the functionality
+18 of the facility; and
+19 3. The degree to which the project renders the facility more
+20 resilient.
+21 (iii) For reducing congestion and improving commute times:
+22 1. The expected change in cumulative job accessibility within
+23 an approximately 60–minute commute for highway projects or transit projects;
+24 2. The degree to which the project has a positive impact on
+25 travel time reliability and congestion; and
+26 3. The degree to which the project supports connections
+27 between different modes of transportation and promotes multiple transportation choices.
+28 (iv) For environmental stewardship:
+29 1. The potential of the project to limit or reduce harmful
+30 emissions;
+HOUSE BILL 20 23
+1 2. The degree to which the project avoids impacts on State
+2 resources in the project area and adjacent areas; and
+3 3. The degree to which the project advances the State
+4 environmental goals.
+5 (v) For community vitality:
+6 1. The degree to which the project is projected to increase the
+7 use of walking, biking, and transit;
+8 2. The degree to which the project enhances existing
+9 community assets; and
+10 3. The degree to which the project furthers the affected
+11 community’s and State’s plans for revitalization.
+12 (vi) For economic prosperity:
+13 1. The projected increase in the cumulative job accessibility
+14 within an approximately 60–minute commute for projects;
+15 2. The extent to which the project is projected to enhance
+16 access to critical intermodal locations for the movement of goods and services; and
+17 3. The projected increase in furthering nonspeculative local
+18 and State economic development strategies in existing communities.
+19 (vii) For equitable access to transportation:
+20 1. The expected increase in job accessibility for
+21 disadvantaged populations within an approximately 60–minute commute for projects; and
+22 2. The projected economic development impact on
+23 low–income communities.
+24 (viii) For cost effectiveness and return on investment:
+25 1. The estimated travel time savings divided by the project
+26 cost;
+27 2. The degree to which the project leverages additional
+28 federal, State, local, and private sector transportation investment; and
+29 3. The degree to which the project will increase
+30 transportation alternatives and redundancy.
+24 HOUSE BILL 20
+1 (ix) For local priorities, the degree to which the project supports local
+2 government transportation priorities, as specified in local government priority letters.]
+3 (d) (1) The score of a major SURFACE transportation project shall be based
+4 solely on the BENEFITS OF A PROJECT TOWARD THE goals and measures established
+5 under subsection (c) of this section RELATIVE TO A PROJECT’S COST TO THE STATE.
+6 (2) [The] BY AUGUST 15 EACH EVEN–NUMBERED FISCAL YEAR, THE
+7 Department shall make the scores of all projects evaluated AND THE LIST OF ALL
+8 PROJECTS RECOMMENDED for inclusion in the Consolidated Transportation Program
+9 [and assigned a score under the model] available to the public[:
+10 (i) As an appendix to the Consolidated Transportation Program;
+11 and
+12 (ii) On] ON the Department’s Web site.
+13 (3) THE RECOMMENDATIONS MADE BY THE DEPARTMENT UNDER
+14 PARAGRAPH (2) OF THIS SUBSECTION MAY ONLY BE MODIFIED IF THE
+15 MODIFICATION IS REVIEWED BY THE MARYLAND TRANSPORTATION COMMISSION
+16 AFTER THE DEPARTMENT HAS COMPLETED ITS EVALUATION UNDER SUBSECTION
+17 (C) OF THIS SECTION.
+18 (E) (1) ON THE COMPLETION OF A ROUND OF PROJECT EVALUATIONS,
+19 THE DEPARTMENT SHALL UNDERTAKE A REVIEW OF THE PROJECT–BASED SCORING
+20 SYSTEM AND RELATED GUIDELINES TO DETERMINE WHETHER MODIFICATIONS TO
+21 THE GUIDELINES ARE NECESSARY.
+22 (2) IN THE EVENT THAT THE DEPARTMENT DETERMINES THAT
+23 MODIFICATIONS ARE NECESSARY, THE RECOMMENDED MODIFICATIONS SHALL BE
+24 PRESENTED TO THE MARYLAND TRANSPORTATION COMMISSION FOR REVIEW.
+25 (F) EACH YEAR, THE STATE HIGHWAY ADMINISTRATION AND MARYLAND
+26 TRANSIT ADMINISTRATION SHALL EVALUATE SMALL SURFACE TRANSPORTATION
+27 PROJECTS USING A METHODOLOGY CONSISTENT WITH THE SYSTEM DEVELOPED
+28 UNDER SUBSECTION (B) OF THIS SECTION, PUBLISH THE RESULTS OF THE
+29 EVALUATION, AND SELECT PROJECTS BASED ON THE RESULTS OF THE EVALUATION.
+30 (G) A MAJOR SURFACE TRANSPORTATION PROJECT MAY BE INCLUDED IN
+31 THE CONSOLIDATED TRANSPORTATION PROGRAM FOR CONSTRUCTION ONLY IF IT
+32 HAS BEEN EVALUATED BY THE PROJECT–BASED SCORING PROGRAM IN THIS
+33 SUBTITLE.
+34 [(e)] (H) Nothing in this section may be construed to impede or alter:
+HOUSE BILL 20 25
+1 (1) The priority letter process that outlines local transportation priorities
+2 for the Department’s consideration for inclusion in the Consolidated Transportation
+3 Program under § 2–103.1 of this subtitle;
+4 (2) The Department’s visit to each county under § 2–103.1(e) of this
+5 subtitle; or
+6 (3) The inclusion of local transportation priorities in the Consolidated
+7 Transportation Program.
+8 2–202.
+9 There is a Maryland Transportation Commission in the Department.
+10 2–203.
+11 (a) The Commission consists of the following [17] members:
+12 (1) [As ex officio members, the seven regional members of the State Roads
+13 Commission; and
+14 (2) Ten members appointed by the Governor with the advice of the
+15 Secretary] THE SECRETARY, OR THE SECRETARY’S DESIGNEE;
+16 (2) EIGHT MEMBERS APPOINTED BY THE GOVERNOR, WITH AT LEAST
+17 FOUR MEMBERS REPRESENTING URBANIZED AREAS AND AT LEAST TWO MEMBERS
+18 REPRESENTING RURAL AREAS;
+19 (3) TWO MEMBERS APPOINTED BY THE SPEAKER OF THE HOUSE; AND
+20 (4) TWO MEMBERS APPOINTED BY THE PRESIDENT OF THE SENATE.
+21 (b) An appointed member may not be [an]:
+22 (1) AN officer or employee of the Department;
+23 (2) A STATE OR LOCAL ELECTED OFFICIAL; OR
+24 (3) AN APPOINTED OFFICIAL OF THE STATE OR A LOCAL
+25 GOVERNMENT.
+26 (C) Each appointed member shall be a resident of this State and have interest
+27 and, preferably, experience in at least one of the fields under the jurisdiction of the
+28 Department.
+26 HOUSE BILL 20
+1 [(c)] (D) (1) Each appointed member serves for a term of [3] 4 years and until
+2 his successor is appointed and qualifies. [The terms of appointed members shall be
+3 staggered as required by the original appointments to the Commission, three of which were
+4 made for a 3–year term, four of which were made for a 2–year term, and three of which
+5 were made for a 1–year term.]
+6 (2) THE TERMS OF MEMBERS ARE STAGGERED AS REQUIRED BY
+7 THE TERMS PROVIDED FOR MEMBERS OF THE COMMISSION ON JULY 1, 2025.
+8 (3) EACH APPOINTED MEMBER MAY BE REAPPOINTED AT THE
+9 DISCRETION OF THE APPOINTING AUTHORITY.
+10 [(2)] (4) A member appointed to fill a vacancy in an unexpired term serves
+11 only for the remainder of that term.
+12 2–204.
+13 (a) The [Governor shall designate one of the appointed members of the
+14 Commission as its Chairman] SECRETARY IS THE CHAIR OF THE COMMISSION.
+15 (b) The Commission shall meet, at a time and place designated by the
+16 Commission or its [Chairman] CHAIR:
+17 (1) At least once each [month] QUARTER; and
+18 (2) At any other time that the Secretary requests.
+19 2–205.
+20 (a) (1) The [Maryland Transportation] Commission shall study the entire
+21 transportation system of this State and regularly discuss with the Secretary any matter
+22 relating to this State’s transportation system.
+23 (2) [Each of the seven regional members of the State Roads Commission,
+24 who serve as ex officio members of the Maryland Transportation Commission, shall:
+25 (i) Conduct a continuing survey of the secondary highways, as
+26 defined in § 8–101 of this article, in that member’s region; and
+27 (ii) Report on the highway needs and problems of that region to the
+28 Maryland Transportation Commission.
+29 (3)] The [Maryland Transportation] Commission may request of the
+30 Secretary any information relating to the Department that is needed for the Commission’s
+31 studies, surveys, and deliberations.
+HOUSE BILL 20 27
+1 (b) The Commission shall [advise] HAVE THE FOLLOWING POWERS AND
+2 DUTIES:
+3 (1) ADVISE and make recommendations to the Secretary and the heads of
+4 the units in the Department on all matters that concern transportation policy formation
+5 and program execution;
+6 (2) REVIEW, ADVISE, AND MAKE RECOMMENDATIONS TO THE
+7 SECRETARY ON THE DEPARTMENT’S QUARTERLY OPERATING AND CAPITAL
+8 BUDGET UPDATES;
+9 (3) REVIEW AND MAKE RECOMMENDATIONS ON A POLICY TO
+10 IMPLEMENT THE PROJECT–BASED SCORING SYSTEM UNDER § 2–103.7 OF THIS
+11 TITLE; AND
+12 (4) REVIEW AND MAKE RECOMMENDATIONS CONCERNING THE
+13 MARYLAND TRANSPORTATION PLAN.
+14 7–309.
+15 (b) In undertaking the assessment required under subsection (a) of this section,
+16 the Administration shall:
+17 (1) Compile and prioritize capital needs without regard to cost;
+18 (2) Identify the backlog of repairs and replacements needed to achieve a
+19 state of good repair for all Administration assets, including a separate analysis of these
+20 needs over the following 10 years; [and]
+21 (3) Identify the needs to be met in order to enhance service and achieve
+22 system performance goals; AND
+23 (4) DEVELOP ASSET MANAGEMENT PRACTICES IN THE OPERATION
+24 AND MAINTENANCE OF STATE TRANSIT ASSETS CONSISTENT WITH REQUIREMENTS
+25 UNDER 49 U.S.C. § 5326.
+26 (E) ON AN ANNUAL BASIS, THE ADMINISTRATION SHALL PRIORITIZE
+27 CAPITAL NEEDS BASED ON THE ALLOCATION AVAILABLE FOR TRANSIT STATE OF
+28 GOOD REPAIR.
+29 8–502.
+30 The purpose of this subtitle is to assist the national recovery and promote the general
+31 welfare by enabling this State and its political subdivisions to provide matching funds for
+28 HOUSE BILL 20
+1 and secure the benefits of any federal funds available under the federal acts for the
+2 [construction and reconstruction of State highways and county roads and for related State
+3 or local projects] DEVELOPMENT AND IMPLEMENTATION OF A MULTIMODAL SURFACE
+4 TRANSPORTATION NETWORK.
+5 SUBTITLE 11. ASSET MANAGEMENT PRACTICES.
+6 8–1101.
+7 (A) (1) THE ADMINISTRATION SHALL DEVELOP ASSET MANAGEMENT
+8 PRACTICES IN THE OPERATION AND MAINTENANCE OF THE SYSTEMS OF STATE
+9 HIGHWAYS.
+10 (2) THE PRACTICES SHALL INCLUDE A TRANSPARENT
+11 METHODOLOGY FOR PRIORITIZING THE ALLOCATION OF FUNDS AVAILABLE FOR
+12 HIGHWAY MAINTENANCE AND OPERATIONS, INCLUDING THE ALLOCATION AMONG
+13 THE ADMINISTRATION’S DISTRICTS.
+14 (B) THE ADMINISTRATION SHALL ENSURE THE WORK COMPLIES WITH ANY
+15 APPLICABLE FEDERAL REQUIREMENTS FOR THE CONDITION OF THE NATIONAL
+16 HIGHWAY SYSTEM UNDER 23 U.S.C. § 119.
+17 8–1102.
+18 (A) ON OR BEFORE JANUARY 1, 2026, THE ADMINISTRATION SHALL
+19 ESTABLISH PERFORMANCE TARGETS FOR THE CONDITION OF PAVEMENTS AND
+20 BRIDGES ON STATE HIGHWAYS COVERING A PERIOD OF AT LEAST 20 YEARS.
+21 (B) ON OR BEFORE JANUARY 1, 2030, THE ADMINISTRATION SHALL
+22 ESTABLISH PERFORMANCE TARGETS FOR THE CONDITION OF OTHER KEY ASSETS
+23 COVERING AN APPROPRIATE TIME FRAME FOR THE ASSETS.
+24 (C) (1) EVERY 4 YEARS THE ADMINISTRATION SHALL UNDERTAKE A
+25 COMPREHENSIVE REVIEW OF THE CURRENT AND FUTURE CONDITIONS OF
+26 PAVEMENTS, BRIDGES, AND OTHER KEY ASSETS ON STATE HIGHWAYS.
+27 (2) THE REVIEW SHALL:
+28 (I) CONSIDER CURRENT CONDITIONS AND PERFORMANCE
+29 TARGETS;
+30 (II) CONSIDER CURRENT INVESTMENT STRATEGIES FOR FUNDS
+31 ALLOCATED TO THE ADMINISTRATION FOR THE HIGHWAY STATE OF GOOD REPAIR
+32 PROGRAM UNDER § 8–1103 OF THIS SUBTITLE;
+HOUSE BILL 20 29
+1 (III) RECOMMEND, IF APPROPRIATE, NEW PERFORMANCE
+2 TARGETS FOR ASSETS WITH ESTABLISHED TARGETS WITH SUSTAINABLE
+3 PERFORMANCE OVER A 20–YEAR PERIOD; AND
+4 (IV) DEVELOP OR UPDATE, AS APPROPRIATE, AN INVESTMENT
+5 STRATEGY FOR FUNDS ALLOCATED TO THE ADMINISTRATION FOR THE HIGHWAY
+6 STATE OF GOOD REPAIR PROGRAM UNDER § 8–1103 OF THIS SUBTITLE TO ACHIEVE
+7 THE SUSTAINABLE PERFORMANCE TARGETS.
+8 8–1103.
+9 (A) IN THIS SECTION, “PROGRAM” MEANS THE HIGHWAY STATE OF GOOD
+10 REPAIR PROGRAM IN THE DEPARTMENT.
+11 (B) THERE IS A HIGHWAY STATE OF GOOD REPAIR PROGRAM IN THE
+12 DEPARTMENT.
+13 (C) THE PURPOSE OF THE PROGRAM IS TO IMPROVE THE CONDITION OF
+14 PAVEMENTS, BRIDGES, AND OTHER KEY ASSETS ON STATE HIGHWAYS TO ACHIEVE
+15 AND, AS APPROPRIATE, MAINTAIN THE SUSTAINABLE CONDITION TARGETS
+16 ESTABLISHED BY THE ADMINISTRATION UNDER § 8–1102 OF THIS SUBTITLE.
+17 (D) AN ELIGIBLE PROJECT UNDER THE PROGRAM IS A CAPITAL PROJECT
+18 TO REPAIR, REHABILITATE, RECONSTRUCT, OR REPLACE AN ASSET WITH THE
+19 INTENT TO IMPROVE THE LONG–TERM CONDITION OF THE ASSET, INCLUDING
+20 MINOR UPGRADES AND MODIFICATIONS ANCILLARY AND RELATED TO THE ASSET
+21 NECESSARY TO MEET APPLICABLE DESIGN STANDARDS.
+22 (E) SUBJECT TO APPROPRIATION AND AVAILABILITY, FUNDS FOR THE
+23 PROGRAM SHALL BE PROVIDED BY THE DEPARTMENT.
+24 (F) THE ADMINISTRATION SHALL DEVELOP A PRIORITY RANKING SYSTEM
+25 FOR PAVEMENTS, BRIDGES, AND OTHER KEY ASSETS THAT TAKES INTO
+26 CONSIDERATION USEFUL LIFE, AGE, CONDITION, AND OTHER FACTORS
+27 DETERMINED TO BE APPROPRIATE BY THE ADMINISTRATION.
+28 (G) THE ADMINISTRATION SHALL ALLOCATE FUNDS IN THE PROGRAM
+29 BASED ON A PRIORITY RANKING SYSTEM.
+30 SECTION 2. AND BE IT FURTHER ENACTED, That the terms of the members of
+31 the Maryland Transportation Commission appointed in accordance with this Act shall
+32 expire as follows:
+30 HOUSE BILL 20
+1 (1) of the members appointed by the Governor:
+2 (i) two members in 2026;
+3 (ii) two members in 2027;
+4 (iii) two members in 2028; and
+5 (iv) two members in 2029;
+6 (2) of the members appointed by the Speaker of the House:
+7 (i) one member in 2027; and
+8 (ii) one member in 2028; and
+9 (3) of the members appointed by the President of the Senate:
+10 (i) one member in 2026; and
+11 (ii) one member in 2029.
+12 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+13 1, 2025.
+[DELETED: :CA      5 ( C C A C ( R – D – A T ( F t p o t r e o t C T P t r c f s c m s t p r t D t m p t s o c p a l o p r f i A u p p t m c f o m a r o t M T c g B  A  S  A  ( B  A]
+[DELETED:  H   S  A  ( B  A S 1  A  (  S T A 2  ( ( I   (C E PT M A P T T T S T I T A O T     “    ( A p f w f a e f c r o r o a t f b t D o o a t    ( C   () “ p m t p o a c p i]( w t p i c a a f t p d p t c   () “ c p m a n e o]( s d r c o p o e e r t t f   () “  ](S i   () “]( r o a e f o s i t p d]
+[DELETED: H 3 r a   () “]( i w   () ( “]( s T    ( “ e i a c a m a m   a   () “]( t   () “]( c    ( S m t cy, l o se, o]O ct     (D T ETS A T D T      An ),I     () I t a o a m a t](I a t p p e b t S i t S R o T ( “SR    7 I T O E R SGRP§3    () “ t g m t g d i §]( 2 ( “T”M AY M T A R,WMATAN  A E R R UY  ]
+[DELETED:  H    () “]( 4   () “]( t  ( T S R o T c o t C T  ( ( T    ( B    ( I     1 A     A T     B P     C F s   a     D T m w e a rR O T E O M S P S F F  u § 2 o t s     2 A s o t D p a o a     3 E d o m c pE    A T     B    C A;   D D O T S O G R]
+[DELETED: H 5   E  T N I I TTP; R L   F TT S A ,;   G T;   H  A O F A T TE L L ,G    I      ,C,G      4 A b     5 A l o adm cA I ps,s  t p     6 A     7 A s o t c a o p a d     8 F e l m c p a i w g     9. T r ;   []9 1. A     1. A c t f t i]1 c   ( I C]
+[DELETED:  H     ( A c w t D o B a P A a t B a P     1 T d a p b a p t     2 W i w    ( A l o a b a p t p e    ( R u t O o t S a t s   ( I C T P s i a s o c e a f p t i c a b t c o t U o M    ( E    ( U   ( A t C T P s i a r    ( I a o    ( W r     1 T     2 T    ( I s c i t c s d o s    ( W w]
+[DELETED: H 7    ( W     1 T e     2 T t a t h b e f a m c    ( P     1 A g d a s t w t P b9  2     2 T l     3 A f    ( P t M T A s o g r    ( I b o   ( T t O o t S o a m a p i t C T t   ( F a m c p t b c f i i t c p o t C T P a r m b s s    ( T p    ( T    ( A     1 A]
+[DELETED:  H      2 S    ( A t   ( ( T D s e r f m c p e t    ( A s. ( () TH E S C R F E V RM EPS  R RMPP.  () IS I H  E),D:   1  E T M A R F E PM I T O P L A P A C T T;   2 EBB P T B C F I I T OP; RM    3  R R   P§215  R ’TS    () ( T D i d a c o]( i o c a w f i i t C T P s c t a    ( T D i c w t D o N     1 S a g f i a]
+[DELETED: H 9 b a o t f t b c f t p o i     2 B p a c e s f a   () E]( P o   () ( I a t t i l i p ( o t]( s     1 A f     A F     B F f r     2 A t t i e p r p f     A F     B F w r    ( F (     1 W t p i l i t C T     2 B a  ( I p i p t t m t 1 m t c t D s i w  ( ( T]
+[DELETED:  H     ( E a    ( I ]        A1 b t 21–2–;   YS    2  ;    ( B e i t o t S t g a m    ( I p t a t S t g a m, u a m we.   ( B w t 2 M T P t D s c w t a e i t t s w d ( S( GN  E A R LT    ( O t g l g a l l d i a a a o p pn ( TCTP; O R R ( T P A T AP; L ( I– ENN F YS T R O TTB   E §27; ( I–:DN  () E A P C R TTBM ;]
+[DELETED: H 1  () IOR T  .  ( A D s p t p C T P a t p c o p i i c b t i a t S E G R P a P P a S p f a e u T S 7 t S F a P  ( B t P a a a p M T P a t a a p C G  ( ( T    ( T],[ or  i,  q t S t g a m s i t M T ae;    ( T a t p I  .   ( T D s i i i r m l gs, l    ( A h    ( A t    ( A r]
+[DELETED:  H    ( ( B w t 2 a r o t s p t a c a t D o S t g b a i s r m t i t c b e f r d e a l    ( T D s e t i r u s ( o t p t i a r d e o l   ( T or s ], i n  ( T St ]U S t  ( ( A t  S t gT R L A TS [   as  s   ( M t    ( A    ( A    ( A    ( A    ( A    ( A    ( A n r e o t d m    ( A n r e o p a b t    ( A n r e o t p m]
+[DELETED: H 1    ( A    ( A    ( A    ( A    ( A r o t M S C o t N    ( A r o a t l o d    ( A   ( T   ( T a c s m a l f t d t p o d t M T P t p a t t D   ( T D a t a c s c t f    ( T S    ( P a p S f d t t v t    ( T a    ( T f r o t m a f a a    ( A i    ( A w    ( T s Se  a]S’TE 2e;]
+[DELETED:  H     ( T     1 T     2 E j a d i § 1 o t E     3 C     4 E     5 R     6 P a    ( T t Er   ( T   ( C f r a   ( C a i  () I s   ( U t   ( I e   ( T t e p a f t e o p t   ( T d m m i t t a l u p]
+[DELETED: H 1   ( I t c e o i f a r p i    ( A p d o i i i o t c    ( T c p p m a o i o c e a d b t D i t e a c o m  () ( ( S](     1 O s s c o t p C T P a t s     2 O o T w f    ( N t D s p t e m o t G A a c o t p C T P a t a C T   ( ( T f f s t C T t     1 A a     2 A d A b     3 A t p a f c e b i r b c r t b o f c a a t t a f t T C P]
+[DELETED:  H     ( T s     1 A     2 F f t    ( 1 F t p b t b r y t f     A S     B E f     C E a p i s 2 o t s p p c e y b a l t 5 a a r     2 T a r o f o b g u t    ( T m     1 T e t     2 M c 2  ( ( I   (L M C PT M A C P B A P S I A RTOFW B T T I D O T AHAA D   (  “ c p h t m s i § 2 o t]
+[DELETED: H 1 s []( () ( “ tS c p i t S H A o t M T A we]      0  W t     1 I     2 R     3 I c t i a o h t c     4 I     5 I t   2 Y T  .    ( “       1 P i t M A A t M O E DN  FVA, EY o     2 M     3 W     4 P r t M p f t m     5 S t t23U.§1      ;     6 R w t A D H S     7. PS  ]
+[DELETED:  H    7  T PTB S P D T E ES     A C      T;   C PT;   D C;S    E A   1,2  ( () “SM S T PT M A C P I T T I D O THT R D   1   ;     Y T ,.  () “SIMT      PM I T A V,MPA,MN  A O DN  O E,OS,N T F O T EY O T AA; UY     M;S     W;S     PM R T ADS PT]
+[DELETED: H 1     SYR P T R U     O T D N S I3U.§1Y      T A S F SS       T PTB S P D T E ES :   A C;S   B T;   C PT;   D C;S    E  A   1,2  ( T   ( I a w f t r d a p s s f m t p u t g a mDEP  T A M P OS F TTC’ R ONSTB  () I;SE  () IS D I A W FS   () IV S C O T S T C T B O A T    ( D]
+[DELETED:  H  u s)o sn;]()[      ( O s m t p b c f i i t d a f C T PU T G D TN A A RM    ( U t m d u t s t r m t TA2T  S TC R ON R A U TS Y    ( M r    ( A a a t t C T P a    ( O t D wD T A O Y   () O,PG N  ET;  () G,:IRS G   1  O H U R T I  U  8,S4;   2 DLO O O P R;S    3 D O F T T AATA; R R U  () A,,ID CS I SS WS BS R A’;TSM  () C:VA]
+[DELETED: H 2   1 F AA,MPA, DN  A O DN  OA,OS; DN  F E   2  F T H S PR    3  F T T P W TR   () LTBS  ( () A2T  S ,T L JS A A MS D   () IE E R T C T A O T L D O T A E .  ( ( T S t g a]E SS (  S B E O H E P :    ( S ay;    ( Sn;]C    ( R]L ;    ( Ep;]O    ( C; ]ECT     ( E]
+[DELETED:  H     ( E    ( C    ( LA .   ( I e w a t w e a m t p s t g e u p ( o t s t D D    ( F     1 T e r i t f a s i     2 T S    ( F     1 T t     2 T o     3 T r    ( F     1 T a     2 T t     3 T d t w t p s c b    ( F     1 T p o t p t l o r h e]
+[DELETED: H 2     2 T r     3 T d t w t p a t S e    ( F     1 T u     2 T d t w t p e e c     3 T d t w t p f t a c    ( F     1 T w     2 T p a     3 T a    ( F     1 T e i i j a f d     2 T p e d i o l    ( F     1 T c     2 T d t w t p l a f     3 T d t w t p w i t]
+[DELETED:  H     ( F g.   ( ( T   s   u .TS T   ( Te]BA15–Y U  NNR  D s m t s o a p e T L O A  f] al c:    ( A a a t t C T P a    ( On  ( T R M B T E U  O T S M O B M I T A R OT E)   () ( ONS ETBY ( I T E T T E D TY  A R OTC.() E,SHAAR  T I D A D U A M C W T S D S B O T SN P T R O T)N .()   O R RT B E B T PTB S P I T[]() ()N]
+[DELETED: H 2   ( T f t D c f i i t C T P   ( T D v t e c u § 2 o t s   ( T i o l t p i t C T 2  T 2  ( T 17m   ( A C   ( T m a b t G w t a o t SyTS,S’H EY  EYS ( EG OR  ( TSH; P OE  ( TP R E .  ( A an] ( A;   ( AS;TL  ( A A O O T T O A L .(  E a p e i a l o o t f u t j o t D]
+[DELETED:  H []()[] () ( E 3 D h s i a a q T t o a m s b s m w.  (  O U J1,2  ( Y   () A]( o 2  ( T G s d o o t a m o t Cn.SCE H O  ( T C s m a a t a p d b t C Cn:]H   ( A mh;   ( A 2  ( ( T M Tn C s s t e t r   ( E w    ( C a c s o t s h a d    ( R M   () T M Tn C m r o t[ S s]
+[DELETED: H 2  ( T C s aH T F P A  (    t an ( R,W AE A M R T TD O T ETS Q O A CS (  A M R O A P T T PTB S S U   O T§2E  (  A M R C TTP R L  7  ( I t   ( C   ( I s n ad    ( I s (  A M P I T O T   9U.§5 .() O,N A A BS T D S P SR 8  T w]
+[DELETED:  H  a s t b o a f f a u t f a f t c o .1.AMP.  S A R.() ( TH D S D A M I T O A M O T S O TS (  P S I A T F P T A O F A FS  DNS’.() TH D F R F T C O T AS23U.§1 Y   .() OJ1,2,N O B A   T D S P T F T C O P A T  20.() OJ1,2,N O B A   T D S() ( E4V  Y T D S U A R O T C A F C OS S  TS,S. ( T:  () O C C A P  () IO D I T O EHSG§83;   ]
+[DELETED: H 2  () R,IED I AE N P F A W E T W S YD –;  () D,VEE E  D IGRP§8 O E R   .() I,“P”HSNN RM  I T OPD. R E() THSGRH I A I T O O E R I T.T() TH RS S  T,D A AE M T S C T D   §82.() AN R RR RE RT O R A A W T, T I T LGT C O T AT I() SU T A A AY F F TD. ET() TH D PS BS A O K A T T I U LE AE CN A O F, DN.() TAH D S A F I T R    S t M T C a i a w t A s e]
+[DELETED:  H    ( o    ( t    ( t    ( t    ( t   ( o    ( o    ( o   ( o    ( o    ( o  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 20
+R1 5lr0220
+(PRE–FILED) CF SB 198
+By: Chair, Appropriations Committee (By Request – Departmental –
+Transportation)
+Requested: October 9, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Appropriations and Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Transportation – Consolidated Transportation Program – Prioritization
+3 (Transportation Investment Priorities Act of 2025)
+4 FOR the purpose of altering the required elements of the Consolidated Transportation
+5 Program and Maryland Transportation Plan; requiring a certain advisory committee
+6 to advise the Department of Transportation on the Maryland Transportation Plan;
+7 requiring the Department to develop a certain project–based scoring system, identify
+8 certain funds available for certain purposes, and solicit requests from certain entities
+9 for major surface transportation projects; requiring the Department to evaluate and
+10 score certain major surface transportation projects; requiring the Department to
+11 make public the scores of certain projects and list of projects recommended for
+12 inclusion in the Consolidated Transportation Program; requiring the State Highway
+13 Administration and Maryland Transit Administration to evaluate certain projects
+14 using a certain methodology; providing that certain major surface transportation
+15 projects may be included in the Consolidated Transportation Program only if the
+16 project has been evaluated using a certain project–based scoring program; altering
+17 the makeup, chair, frequency of meetings, and responsibilities of the Maryland
+18 Transportation Commission; requiring the State Highway Administration to develop
+19 certain asset management practices, including a state of good repair program; and
+20 generally relating to transportation planning and project prioritization.
+21 BY repealing and reenacting, with amendments,
+22 Article – Transportation
+23 Section 2–103.1, 2–103.7, 2–203, 2–204(a) and (b), 2–205, 7–309(b), and 8–502
+24 Annotated Code of Maryland
+25 (2020 Replacement Volume and 2024 Supplement)
+26 BY repealing and reenacting, without amendments,
+27 Article – Transportation
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0020*
+
+2 HOUSE BILL 20
+1 Section 2–202
+2 Annotated Code of Maryland
+3 (2020 Replacement Volume and 2024 Supplement)
+4 BY adding to
+5 Article – Transportation
+6 Section 7–309(e); and 8–1101 through 8–1103 to be under the new subtitle “Subtitle
+7 11. Asset Management Practices”
+8 Annotated Code of Maryland
+9 (2020 Replacement Volume and 2024 Supplement)
+10 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+11 That the Laws of Maryland read as follows:
+12 Article – Transportation
+13 2–103.1.
+14 (a) (1) In this section the following words have the meanings indicated.
+15 (2) “CAPACITY ENHANCING PROJECT” MEANS ANY PROJECT THAT
+16 MODIFIES THE TRANSPORTATION SYSTEM TO IMPROVE THE ABILITY OF THE
+17 TRANSPORTATION SYSTEM TO MOVE PEOPLE AND GOODS.
+18 (3) “Capital project” means:
+19 (i) Any project for which funds are expended for construction,
+20 reconstruction, or rehabilitation of a transportation facility by the Department or of a
+21 transportation facilities project by the Maryland Transportation Authority; or
+22 (ii) Capital equipment, as defined by the Secretary.
+23 [(3)] (4) “Construction phase” means the phase of a capital project in
+24 which the project is committed and advanced from the project development phase to
+25 completion.
+26 [(4)] (5) “Major capital project” means any new, expanded, or
+27 significantly improved facility or service that involves planning, environmental studies,
+28 design, right–of–way, construction, or purchase of essential equipment related to the
+29 facility or service.
+30 [(5)] (6) “Major SURFACE transportation project” has the meaning stated
+31 in § 2–103.7 of this subtitle.
+32 [(6)] (7) “Minor capital project” means any project for the preservation or
+33 rehabilitation of an existing facility or service, including the planning, design,
+
+HOUSE BILL 20 3
+1 right–of–way, construction, or purchase of equipment essential to the facility or service,
+2 and generally not requiring the preparation of an environmental impact assessment.
+3 [(7)] (8) “Project development phase” means the phase of a capital project
+4 in which planning, engineering, and environmental studies and analyses are conducted
+5 with full participation by the public, prior to commitment to construction.
+6 [(8)] (9) (i) “Proposing entity” means a government agency or political
+7 subdivision that requests that a transportation project be included in the Consolidated
+8 Transportation Program.
+9 (ii) “Proposing entity” includes a county, a municipality, a
+10 metropolitan planning organization, A TRANSIT AGENCY, and a modal administration or
+11 any other agency of the Department.
+12 [(9)] (10) “Purpose and need summary statement” means a brief statement
+13 that specifies the underlying purpose and need for a project.
+14 [(10)] (11) “Significant change” means any change that affects the size or
+15 character of a project to the extent that the change:
+16 (i) Substantially modifies the capacity[,] OR level of service[, or
+17 cost] of the project;
+18 (ii) AFFECTS THE DEPARTMENT’S ABILITY TO DELIVER THE
+19 PROJECT ON TIME AND ON BUDGET;
+20 (III) Alters the function, SCOPE, or purpose of the project; or
+21 [(iii)] (IV) Impacts the ability of a modal administration to
+22 accomplish the program priorities established by the Secretary in the State Report on
+23 Transportation.
+24 (12) “STATE OF GOOD REPAIR” MEANS A PROJECT ELIGIBLE UNDER
+25 THE TRANSIT STATE OF GOOD REPAIR PROGRAM IN § 7–309 OF THIS ARTICLE OR
+26 UNDER THE HIGHWAY STATE OF GOOD REPAIR PROGRAM ESTABLISHED UNDER §
+27 8–1103 OF THIS ARTICLE.
+28 [(11)] (13) “State transportation goals” means the goals described in §
+29 2–103.7 of this subtitle.
+30 (14) “TRANSIT AGENCY” MEANS THE MARYLAND TRANSIT
+31 ADMINISTRATION, THE WASHINGTON METROPOLITAN AREA TRANSIT AUTHORITY,
+32 OR AN AGENCY THAT OPERATES A LOCALLY OPERATED TRANSIT SYSTEM.
+
+4 HOUSE BILL 20
+1 [(12)] (15) “Transportation facilities project” has the meaning stated in §
+2 4–101(i) of this article.
+3 [(13)] (16) “Transportation facility” has the meaning stated in § 3–101(l) of
+4 this article.
+5 (b) The State Report on Transportation consists of the Consolidated
+6 Transportation Program and the Maryland Transportation Plan.
+7 (c) (1) The Consolidated Transportation Program shall:
+8 (i) Be revised annually; and
+9 (ii) Include:
+10 1. A list of:
+11 A. The State transportation goals;
+12 B. Program priorities;
+13 C. For projects in the construction phase, the criteria used to
+14 select DIFFERENT TYPES OF major capital projects for inclusion in the capital program;
+15 and
+16 D. The [manner in which each major transportation project
+17 was evaluated and ranked] RESULTS OF THE EVALUATION OF MAJOR SURFACE
+18 TRANSPORTATION PROJECTS SELECTED FOR FUNDING under § 2–103.7 of this
+19 subtitle;
+20 2. A statement of the Department’s projected annual
+21 operating costs, set forth separately for the Office of the Secretary and for each modal
+22 administration;
+23 3. Expanded descriptions of major capital projects THAT
+24 INCLUDE:
+25 A. THE NAME OF THE PROJECT;
+26 B. THE SCOPE OF WORK AND SCHEDULE ANTICIPATED
+27 FOR THE PROJECT;
+28 C. A PURPOSE AND NEED SUMMARY STATEMENT;
+29 D. A DELINEATION OF THE STATE OF GOOD REPAIR
+30 PORTION OF THE PROJECT FROM ANY CAPACITY ENHANCING ELEMENTS;
+
+HOUSE BILL 20 5
+1 E. THE TRANSPORTATION NEED IDENTIFIED IN THE
+2 MARYLAND TRANSPORTATION PLAN;
+3 F. THE LOCATION OF THE PROJECT, INCLUDING A MAP
+4 OF THE PROJECT LIMITS, PROJECT AREA, OR TRANSPORTATION CORRIDOR;
+5 G. THE ESTIMATED COST BY PHASE OF THE PROJECT;
+6 H. THE AMOUNT OF FUNDING ALLOCATED TO THE
+7 PROJECT BY PHASE AND BY FUNDING SOURCE, INCLUDING FEDERAL, SPECIAL, OR
+8 OTHER FUNDING; AND
+9 I. ANY MAJOR MODIFICATIONS TO THE DESCRIPTIONS
+10 REQUIRED UNDER ITEM B, C, OR G OF THIS ITEM;
+11 4. A list of major capital projects for the current year, the
+12 budget request year, and the 4 successive planning years;
+13 5. A list of [anticipated] ALL IDENTIFIED minor capital
+14 projects[, including a specific list of anticipated special projects] for the current year and
+15 the budget request year and an estimate of the Program level for each of the 4 successive
+16 planning years;
+17 6. A list of major bridge work projects;
+18 7. A summary of the capital and operating programs, as
+19 defined by the Secretary, for the Maryland Transportation Authority;
+20 8. [For each listed major capital project, an indication
+21 whether the revenue source anticipated to support that project consists of federal, special,
+22 general, or other funds;
+23 9.] The Department’s estimates of the levels and sources of
+24 revenues to be used to fund the projects in the Program, INCLUDING AVAILABLE TOLL
+25 CREDITS;
+26 [10.] 9. A glossary of terms; and
+27 [11.] 10. A cross–reference table for the information
+28 contained in the various parts of the State Report on Transportation.
+29 (2) In addition to the items listed in paragraph (1) of this subsection, the
+30 Consolidated Transportation Program shall include:
+
+6 HOUSE BILL 20
+1 (i) A summary of current efforts and future plans, prepared after
+2 consultation with the Director of Bicycle and Pedestrian Access and the Bicycle and
+3 Pedestrian Advisory Committee established under § 2–606 of this title:
+4 1. To develop and promote bicycle and pedestrian
+5 transportation; and
+6 2. Working together with local jurisdictions, to accommodate
+7 in a safe and effective manner pedestrians and bicycles within a reasonable distance for
+8 walking and bicycling to rail stops, light rail stops, and subway stations;
+9 (ii) A listing of all bicycle and pedestrian transportation projects
+10 expected to use State or federal highway funds; and
+11 (iii) Reflected under the Office of the Secretary, any
+12 technology–related project to be funded from the account established under § 2–111 of this
+13 subtitle, along with a description and projected cost of each.
+14 (3) In addition to the items listed in paragraph (1) of this subsection, the
+15 Consolidated Transportation Program shall include a summary of current efforts and
+16 future plans to increase commuter access between the campuses of the University of
+17 Maryland, including:
+18 (i) Easing traffic congestion; and
+19 (ii) Use of mass transit.
+20 (4) Annually, the Consolidated Transportation Program shall include a
+21 report that:
+22 (i) Identifies each major capital project for which the budget bill or
+23 a supplemental budget amendment first requests funds for the project development phase
+24 or for the construction phase;
+25 (ii) With respect to each major capital project for which funds are
+26 requested in the budget request year, states:
+27 1. The amount of the funds requested; and
+28 2. The total estimated cost of the project;
+29 (iii) Identifies significant changes in the cost, scope, design, or
+30 scheduling of major capital projects for each completed fiscal year;
+31 (iv) When there is a significant change in cost, states the amount by
+32 which the expenditures that have been authorized exceed the original project estimate;
+
+HOUSE BILL 20 7
+1 (v) When there is a significant change, states:
+2 1. The amount by which costs exceed projected costs during
+3 each completed fiscal year; and
+4 2. The total amount that has been expended for a major
+5 capital project;
+6 (vi) Provides a purpose and need summary statement that includes:
+7 1. A general description and summary that describes why
+8 the project is necessary and satisfies State transportation goals, including Climate Action
+9 Plan goals required [by the Greenhouse Gas Emissions Reduction Act of 2009] under §
+10 2–1205(b) of the Environment Article;
+11 2. The location of the project, including a map of the project
+12 limits, project area, or transportation corridor; and
+13 3. A summary of how the project meets the selection criteria
+14 for inclusion in the capital program;
+15 (vii) Provides the Maryland Transit Administration state of good
+16 repair budget for the current fiscal year and projections for the subsequent fiscal year; and
+17 (viii) Includes any other information that the Secretary believes would
+18 be useful to the members of the General Assembly, the general public, or other recipients
+19 of the Consolidated Transportation Program.
+20 (5) The total operating and capital expenditures for the Department or for
+21 the Office of the Secretary or any modal administration projected in the Consolidated
+22 Transportation Program for the budget request year may not exceed the budget request for
+23 the Department, Office, or modal administration for that year.
+24 [(6) For a major capital project to be considered for inclusion in the
+25 construction program of the Consolidated Transportation Program, a request must be
+26 submitted to the Secretary by the proposing entity along with a purpose and need summary
+27 statement justifying the project that includes:
+28 (i) The location of the project, including a map of the project limits,
+29 project area, or transportation corridor;
+30 (ii) The need for the project;
+31 (iii) A discussion of how the project:
+32 1. Addresses State transportation goals; and
+
+8 HOUSE BILL 20
+1 2. Supports local government land use plans and goals; and
+2 (iv) A certification that all members of the legislative delegation of
+3 the county in which the project is located have been notified.
+4 (7) (i) The Department shall evaluate requests for major capital
+5 projects based on the State’s transportation goals and, if applicable, using the measures
+6 established under § 2–103.7 of this subtitle, and, as appropriate, criteria as determined by
+7 the information submitted by the proposing entity and the availability of funding.
+8 (ii) As part of the evaluation under this paragraph, the Department
+9 shall acknowledge the difference between urban and rural transportation needs.]
+10 (6) (I) THE DEPARTMENT SHALL CONSIDER REQUESTS FOR
+11 PROJECTS FOR THE DEVELOPMENT AND EVALUATION PROGRAM, STATE OF GOOD
+12 REPAIR PROGRAMS, AND THE PRIORITIZATION PROGRAM.
+13 (II) AS PART OF ITS CONSIDERATION OF PROJECTS REQUESTED
+14 UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH, THE DEPARTMENT SHALL:
+15 1. ESTABLISH AND PUBLISH CLEAR GUIDELINES FOR A
+16 PROPOSING ENTITY TO MAKE A REQUEST FOR EACH PROGRAM, INCLUDING THE
+17 FORM OF PRIORITY LETTERS AND PROCESSES AND CRITERIA THAT THE
+18 DEPARTMENT WILL USE TO EVALUATE EACH REQUEST;
+19 2. ESTABLISH A WEB–BASED SYSTEM FOR SUBMISSION
+20 OF PROJECTS TO BE CONSIDERED FOR INCLUSION IN THE CONSOLIDATED
+21 TRANSPORTATION PROGRAM; AND
+22 3. PROVIDE RESPONSES TO EACH REQUEST RECEIVED
+23 FOR THE PRIORITIZATION PROGRAM UNDER § 2–103.7 OF THIS SUBTITLE PRIOR TO
+24 SEPTEMBER 15 EVERY OTHER YEAR, INCLUDING INFORMATION PERTAINING TO THE
+25 DEPARTMENT’S EVALUATION OF THE REQUESTED PROJECT.
+26 [(8)] (7) (i) The Department, in developing a construction or
+27 improvement project involving a bridge or other transportation facility that is adjacent to
+28 or crosses a waterway for inclusion in the Consolidated Transportation Program, shall
+29 consider any reasonable and appropriate measures to provide or improve in the vicinity of
+30 the bridge or other transportation facility water access for fishing, canoeing, kayaking, or
+31 any other nonmotorized water dependent recreational activity.
+32 (ii) The Department, in consultation with the Department of
+33 Natural Resources and interested stakeholders, shall establish:
+34 1. Standards and guidelines for identifying appropriate
+
+HOUSE BILL 20 9
+1 bridges and other transportation facilities to be considered for the provision or
+2 improvement of water access under this paragraph; and
+3 2. Best practices and cost effective strategies for
+4 accommodating water access under this paragraph.
+5 [(9)] (8) Except as authorized by law, the Consolidated Transportation
+6 Program may not include capital transportation grants for roads and highways to counties
+7 or municipal corporations for any period beyond the budget request year.
+8 [(10)] (9) (i) In addition to the items listed in paragraph (1) of this
+9 subsection, the Consolidated Transportation Program shall include:
+10 1. A table that identifies each project receiving construction
+11 funds:
+12 A. For the first time in the budget request year; and
+13 B. For the first time in the current year if the construction
+14 funds were not identified in the budget year in the Consolidated Transportation Program
+15 released the previous January; and
+16 2. A table that identifies each project receiving planning
+17 funds:
+18 A. For the first time in the budget request year; and
+19 B. For the first time in the current year if the planning funds
+20 were not shown in the budget request year in the Consolidated Transportation Program
+21 released the previous January.
+22 (ii) For each project included in a table required under subparagraph
+23 (i) of this paragraph, the table shall identify:
+24 1. Where the project is listed in the Consolidated
+25 Transportation Program; and
+26 2. By fund, the amount included in the current year budget
+27 and the budget request year budget for the project.
+28 (c–1) If a new approved pedestrian or bicycle safety construction or improvement
+29 project is projected to take more than 12 months to complete, the Department shall
+30 implement all possible incremental, near–term safety improvements as soon as practicable
+31 while maintaining each project’s priority ranking.
+32 (d) (1) The Maryland Transportation Plan shall:
+
+10 HOUSE BILL 20
+1 (i) Except as otherwise provided, be revised every 5 years through
+2 an inclusive public participation process;
+3 (ii) Include [a]:
+4 1. A 10– AND 20–year forecast of State transportation needs,
+5 based on the financial resources anticipated to be available to the Department during [that
+6 20–year period] THE RESPECTIVE 10– AND 20–YEAR PERIODS; AND
+7 2. STATE OF GOOD REPAIR AND CAPACITY EXPANSION
+8 NEEDS;
+9 (iii) Be expressed in terms of the State transportation goals and
+10 measures; and
+11 (iv) Include a summary of the types of projects and programs that are
+12 proposed to accomplish the State transportation goals [and measures,] using a
+13 multi–modal approach [when feasible].
+14 (2) Beginning with the 2045 Maryland Transportation Plan, the
+15 Department shall consider ways to achieve equity in the transportation sector when
+16 developing the State transportation goals.
+17 (3) SUBJECT TO THE REPORTING REQUIREMENTS IN SUBSECTION (G)
+18 OF THIS SECTION, THE DEPARTMENT SHALL ESTABLISH PERFORMANCE MEASURES
+19 FOR THE IMPLEMENTATION OF THE MARYLAND TRANSPORTATION PLAN AS PART
+20 OF ITS DEVELOPMENT.
+21 (e) On or before November 15 of each year, the Department shall visit each county
+22 to give local governments and local legislative delegations information about and an
+23 opportunity to comment on the [proposed Consolidated Transportation Program and the
+24 proposed Maryland Transportation Plan] FOLLOWING:
+25 (1) THE PROPOSED CONSOLIDATED TRANSPORTATION PROGRAM;
+26 (2) TRANSPORTATION PERFORMANCE AND THE MARYLAND
+27 TRANSPORTATION PLAN IN PLAN DEVELOPMENT YEARS;
+28 (3) IN EVEN–NUMBERED FISCAL YEARS, THE RESULTS OF THE
+29 PROJECT–BASED SCORING SYSTEM DESCRIBED IN § 2–103.7 OF THIS SUBTITLE; AND
+30 (4) IN ODD–NUMBERED FISCAL YEARS:
+31 (I) METHODOLOGY AND PROGRAM COMMENTS RELATED TO
+32 THE PROJECT–BASED SCORING SYSTEM; AND
+
+HOUSE BILL 20 11
+1 (II) LOCAL PRIORITIES FOR TRANSPORTATION STATE OF GOOD
+2 REPAIR, ASSET MANAGEMENT, AND DEVELOPMENT AND EVALUATION INITIATIVES.
+3 (f) At the earliest practical date but no later than November 1 of each year, the
+4 Department shall provide the proposed Consolidated Transportation Program and the
+5 proposed Maryland Transportation Plan to the Department of Planning for review and
+6 comment on planning issues including consistency between transportation investments
+7 and the State Economic Growth, Resource Protection, and Planning Policy and State
+8 priority funding areas established under Title 5, Subtitle 7B of the State Finance and
+9 Procurement Article.
+10 (g) Beginning with the year 2002 State Report on Transportation and continuing
+11 thereafter, before the General Assembly considers the proposed Maryland Transportation
+12 Plan and the proposed Consolidated Transportation Program, the Department shall submit
+13 an annual report on the attainment of State transportation goals and benchmarks for the
+14 approved and proposed Maryland Transportation Plan and the approved and proposed
+15 Consolidated Transportation Program to the Governor and, subject to § 2–1257 of the State
+16 Government Article, to the General Assembly.
+17 (h) (1) The report required under subsection (g) of this section shall include:
+18 (i) The establishment of certain measurable performance indicators
+19 [or], benchmarks, [in priority funding areas at a minimum,] AND TARGETS designed to
+20 quantify the State transportation goals and measures specified in the Maryland
+21 Transportation Plan [and § 2–103.7 of this subtitle]; and
+22 (ii) The degree to which the projects and programs contained in the
+23 approved Maryland Transportation Plan and Consolidated Transportation Program attain
+24 those goals and benchmarks as measured by the [performance indicators or benchmarks]
+25 PROGRESS TOWARD THE PERFORMANCE TARGETS ESTABLISHED IN ITEM (I) OF THIS
+26 PARAGRAPH.
+27 (2) The Department shall include in its report measurable long–term
+28 [goals] TARGETS, and intermediate benchmarks of progress toward the attainment of the
+29 long–term goals, for the following measurable transportation indicators:
+30 (i) An increase in the share of total person trips for each of transit,
+31 high occupancy auto, pedestrian, and bicycle modes of travel;
+32 (ii) A decrease in indicators of traffic congestion as determined by
+33 the Department; and
+34 (iii) Any other performance goals established by the Department for
+35 reducing automobile traffic and increasing the use of nonautomobile traffic.
+
+12 HOUSE BILL 20
+1 (3) (i) Beginning with the 2024 attainment report on transportation
+2 system performance, the advisory committee advising the Department on State
+3 transportation goals, benchmarks, and indicators shall recommend measurable
+4 transportation indicators that can be evaluated for racial, disability, ethnic, and
+5 low–income disparities based on available sources or information.
+6 (ii) The Department shall evaluate the indicators recommended
+7 under subparagraph (i) of this paragraph to identify any racial, disability, ethnic, or
+8 low–income disparities.
+9 (4) The performance indicators [or], benchmarks, OR TARGETS described
+10 in this subsection shall acknowledge the difference between urban and rural transportation
+11 needs.
+12 (i) The [Smart] SUSTAINABLE Growth Subcabinet, established under Title 9,
+13 Subtitle 14 of the State Government Article, shall conduct an annual review of the State
+14 transportation goals, benchmarks, and indicators.
+15 (j) (1) An advisory committee shall be assembled to advise the Department on
+16 the MARYLAND TRANSPORTATION PLAN AND THE State transportation goals,
+17 INDICATORS, benchmarks, [and indicators] AND TARGETS under subsection (h) of this
+18 section.
+19 (2) Membership of the advisory committee shall include but is not limited
+20 to the following members appointed by the Governor:
+21 (i) A representative of the Maryland business community;
+22 (ii) A representative of the disabled citizens community;
+23 (iii) A representative of rural interests;
+24 (iv) A representative of an auto users group;
+25 (v) A representative of a transit users group;
+26 (vi) A representative of the goods movement industry;
+27 (vii) A nationally recognized expert on transportation demand
+28 management;
+29 (viii) A nationally recognized expert on pedestrian and bicycle
+30 transportation;
+31 (ix) A nationally recognized expert on transportation performance
+32 measurement;
+
+HOUSE BILL 20 13
+1 (x) A representative of an environmental advocacy organization;
+2 (xi) A representative from the Maryland Department of Planning;
+3 (xii) A representative of the Maryland Association of Counties;
+4 (xiii) A representative of the Maryland Municipal League;
+5 (xiv) A representative of the Maryland State Conference of the
+6 National Association for the Advancement of Colored People;
+7 (xv) A representative of a transportation labor organization,
+8 designated by the Maryland State and District of Columbia AFL–CIO; and
+9 (xvi) A representative of the transportation construction industry.
+10 (3) The Governor shall appoint the chairman of the advisory committee.
+11 (4) The advisory committee shall meet at least four times during the
+12 process of developing the Maryland Transportation Plan to provide advice to the
+13 Department on meeting the requirements of this subsection.
+14 (5) The Department and the advisory committee shall consider the
+15 following:
+16 (i) Transportation and population trends and their impact on the
+17 State’s transportation system and priority funding areas;
+18 (ii) Past and present State funding devoted to the various
+19 transportation modes and demand management;
+20 (iii) The full range of unmet transportation needs in priority funding
+21 areas;
+22 (iv) The full range of transportation measures and facilities
+23 available, and their role, effectiveness, and cost effectiveness in providing travel choices
+24 and reducing congestion;
+25 (v) A review of transportation performance indicators and their use
+26 in other states;
+27 (vi) A review of the coordination of State transportation investments
+28 with local growth plans for priority funding areas;
+29 (vii) The types of investments needed and their levels of funding for
+30 supporting the [State] STATE’S transportation goals [and measures established under §
+31 2–103.7 of this subtitle];
+
+14 HOUSE BILL 20
+1 (viii) The impact of transportation investment on:
+2 1. The environment;
+3 2. Environmental justice as defined in § 1–701 of the
+4 Environment Article;
+5 3. Communities;
+6 4. Economic development;
+7 5. Racial equity; and
+8 6. Persons with disabilities, including service accessibility;
+9 and
+10 (ix) The Climate Action Plan goals required by [the Greenhouse Gas
+11 Emissions Reduction Act of 2009 under] § 2–1205(b) of the Environment Article.
+12 (k) [The Department may:
+13 (1) Conduct its analysis of planned transportation investments in priority
+14 funding areas on a statewide basis or in groupings of priority funding areas centered on
+15 regions, metropolitan areas, cities, or other groupings suitable for transportation modeling;
+16 and
+17 (2) Choose to exclude from its analysis priority funding areas which have
+18 an insignificant role in transportation trends because of small size, population, or physical
+19 isolation.
+20 (l)] In the report required under subsection (g) of this section, the Department
+21 shall:
+22 (1) Use narrative, graphs, charts, tables, and maps as appropriate to make
+23 the results easily understood by the public;
+24 (2) Include projected long–term trends for each of the indicators and the
+25 effect of planned transportation investments on the trends;
+26 (3) To the extent practicable, account for the effect of planned
+27 transportation investments on inducing automobile travel;
+28 (4) To the extent practicable, account for automobile trips not taken due to
+29 demand management measures, including teleworking, teleshopping, and land use
+30 patterns supporting alternatives to driving; and
+
+HOUSE BILL 20 15
+1 (5) Indicate the cost effectiveness of investments for achieving relevant
+2 performance goals and benchmarks, including a specific analysis of planned transportation
+3 investments detailing:
+4 (i) Any projected decreases or increases in indicators of traffic
+5 congestion and accessibility as defined by the Department; and
+6 (ii) The cost per passenger mile and other indicators of cost
+7 effectiveness as defined by the Department, including the estimated annual cost of
+8 maintenance and operations.
+9 [(m)] (L) (1) (i) Subject to § 2–1257 of the State Government Article:
+10 1. On or before September 1 of each year, the Department
+11 shall submit copies of the proposed Consolidated Transportation Program and the
+12 supporting financial forecast to the General Assembly; and
+13 2. On submission of the budget bill to the presiding officers
+14 of the General Assembly, the Department shall submit copies of the approved Consolidated
+15 Transportation Program, including the manner in which each major transportation project
+16 was evaluated and ranked under § 2–103.7 of this subtitle, and the supporting financial
+17 forecast to the General Assembly.
+18 (ii) Notwithstanding § 2–1257(b)(2) of the State Government Article,
+19 the Department shall provide to each member of the General Assembly a copy of the
+20 proposed Consolidated Transportation Program and the approved Consolidated
+21 Transportation Program.
+22 (2) (i) The financial forecast supporting the Consolidated
+23 Transportation Program to be submitted to the General Assembly under paragraph (1) of
+24 this subsection shall include the following components:
+25 1. A schedule of operating expenses for each specific modal
+26 administration;
+27 2. A schedule of revenues, including tax and fee revenues,
+28 deductions from revenues for other agencies, Department program and fees, Motor Vehicle
+29 Administration cost recovery, deductions for highway user revenues, operating revenues
+30 by modal administration, and miscellaneous revenues; and
+31 3. A summary schedule for the Transportation Trust Fund
+32 that includes the opening and closing Fund balance, revenues, transfers, bond sales, bond
+33 premiums, any other revenues, expenditures for debt service, operating expenses, amounts
+34 available for capital expenses, bond interest rates, bond coverage ratios, total bonds
+35 outstanding, federal capital aid, and the total amount for the Transportation Capital
+36 Program.
+
+16 HOUSE BILL 20
+1 (ii) The financial forecast shall include, for each of the components
+2 specified in subparagraph (i) of this paragraph:
+3 1. Actual information for the last full fiscal year; and
+4 2. Forecasts of the information for each of the six subsequent
+5 fiscal years, including the current fiscal year, the fiscal year for the proposed budget, and
+6 the next four subsequent fiscal years.
+7 (iii) 1. For the period beyond the budget request year, the
+8 financial forecast:
+9 A. Shall maximize the use of funds for the capital program;
+10 B. Except as authorized by law, may not withhold or reserve
+11 funds for capital transportation grants to counties or municipal corporations; and
+12 C. Except as provided in subsubparagraph 2 of this
+13 subparagraph, shall increase the operating expenses, net of availability payments paid to
+14 public–private partnership concessionaires, each year by at least the 5–year average
+15 annual rate of change in the operating expenses of the Department, ending with the most
+16 recently completed fiscal year.
+17 2. The assumed rate of future operating budget growth
+18 under subsubparagraph 1C of this subparagraph may not increase or decrease by more
+19 than 0.5 percentage points from the growth rate assumed in the previous forecast.
+20 (iv) The Department shall incorporate in the financial forecast the
+21 most recent estimates by the Board of Revenue Estimates of the revenues from:
+22 1. The corporate income tax and the sales and use tax for
+23 each of the six subsequent years, including the current fiscal year and the fiscal year for
+24 the proposed budget; and
+25 2. Motor fuel taxes and motor vehicle titling taxes for the
+26 current fiscal year and the fiscal year for the proposed budget.
+27 2–103.7.
+28 (a) (1) In this section the following words have the meanings indicated.
+29 (2) “LOCALLY MANAGED CAPITAL PROJECT” MEANS A CAPITAL
+30 PROJECT PERFORMED BY A POLITICAL SUBDIVISION IN A RIGHT–OF–WAY
+31 CONTROLLED BY THE STATE HIGHWAY ADMINISTRATION OR THE MARYLAND
+32 TRANSIT ADMINISTRATION.
+33 (3) “Major capital project” has the meaning stated in § 2–103.1 of this
+
+HOUSE BILL 20 17
+1 subtitle.
+2 [(3)] (4) (i) “Major SURFACE transportation project” means a major
+3 capital project in the State Highway Administration or the Maryland Transit
+4 Administration [whose] OR THAT IS A LOCALLY MANAGED CAPITAL PROJECT:
+5 1. WHOSE total cost for all phases exceeds $5,000,000; and
+6 [that:
+7 1. Increases highway or transit capacity;
+8 2. Reduces areas of heavy traffic congestion;
+9 3. Improves commute times in areas of heavy traffic
+10 congestion;
+11 4. Improves transit stations or station areas; or
+12 5. Improves highway capacity through the use of intelligent
+13 transportation systems or congestion management systems]
+14 2. THAT INCREASES THE CAPACITY OR ABILITY OF THE
+15 HIGHWAY, TRANSIT, OR RAIL SYSTEM TO MOVE PEOPLE AND GOODS.
+16 (ii) “Major SURFACE transportation project” does not include:
+17 1. Projects in the Maryland Aviation Administration, the
+18 Maryland Port Administration, THE MOTOR VEHICLE ADMINISTRATION, THE OFFICE
+19 OF THE SECRETARY, or the Maryland Transportation Authority;
+20 2. Maintenance and storage facilities projects;
+21 3. Water quality improvement projects;
+22 4. Projects related to Maryland’s priorities for total
+23 maximum daily load development;
+24 5. Safety–related projects [that do not increase highway or
+25 transit capacity] THAT RECEIVE FUNDING UNDER 23 U.S.C. § 148 OR THAT DO NOT
+26 SIGNIFICANTLY INCREASE TRANSIT CAPACITY;
+27 6. [Roads within the Appalachian Development Highway
+28 System; or
+29 7.] Projects that are solely for system preservation OR STATE
+30 OF GOOD REPAIR PURPOSES; OR
+
+18 HOUSE BILL 20
+1 7. PROJECTS FUNDED WITH FEDERAL SOURCES EXEMPT
+2 FROM THE PROJECT–BASED SCORING PROCESS DUE TO EXISTING EVALUATION
+3 PROCESSES, INCLUDING:
+4 A. CONGESTION MITIGATION AIR QUALITY FUNDS;
+5 B. TRANSPORTATION ALTERNATIVES FUNDS;
+6 C. PROTECT PROGRAM FUNDS;
+7 D. CARBON REDUCTION PROGRAM FUNDS; AND
+8 E. FUNDS FROM A FEDERAL PROGRAM ESTABLISHED BY
+9 THE FEDERAL GOVERNMENT AFTER JANUARY 1, 2024, WITH SPECIFIC RULES THAT
+10 SIGNIFICANTLY RESTRICT THE TYPES OR LOCATIONS OF PROJECTS THAT MAY BE
+11 FUNDED.
+12 (5) (I) “SMALL SURFACE TRANSPORTATION PROJECT” MEANS A
+13 MAJOR CAPITAL PROJECT IN THE STATE HIGHWAY ADMINISTRATION OR THE
+14 MARYLAND TRANSIT ADMINISTRATION OR THAT IS A LOCALLY MANAGED CAPITAL
+15 PROJECT:
+16 1. WHOSE TOTAL COST FOR ALL PHASES IS LESS THAN
+17 OR EQUAL TO $5,000,000; AND
+18 2. THAT INCREASES THE CAPACITY OR ABILITY OF THE
+19 HIGHWAY, TRANSIT, OR RAIL SYSTEM TO MOVE PEOPLE AND GOODS.
+20 (II) “SMALL SURFACE TRANSPORTATION PROJECT” DOES NOT
+21 INCLUDE:
+22 1. PROJECTS IN THE MARYLAND AVIATION
+23 ADMINISTRATION, THE MARYLAND PORT ADMINISTRATION, THE MOTOR VEHICLE
+24 ADMINISTRATION, THE OFFICE OF THE SECRETARY, OR THE MARYLAND
+25 TRANSPORTATION AUTHORITY;
+26 2. MAINTENANCE AND STORAGE FACILITIES PROJECTS;
+27 3. WATER QUALITY IMPROVEMENT PROJECTS;
+28 4. PROJECTS RELATED TO MARYLAND’S PRIORITIES
+29 FOR TOTAL MAXIMUM DAILY LOAD DEVELOPMENT;
+
+HOUSE BILL 20 19
+1 5. SAFETY–RELATED PROJECTS THAT RECEIVE
+2 FUNDING UNDER 23 U.S.C. § 148 OR THAT DO NOT SIGNIFICANTLY INCREASE
+3 TRANSIT CAPACITY;
+4 6. PROJECTS THAT ARE SOLELY FOR SYSTEM
+5 PRESERVATION OR STATE OF GOOD REPAIR PURPOSES; OR
+6 7. PROJECTS FUNDED WITH FEDERAL SOURCES EXEMPT
+7 FROM THE PROJECT–BASED SCORING PROCESS DUE TO EXISTING EVALUATION
+8 PROCESSES, INCLUDING:
+9 A. CONGESTION MITIGATION AIR QUALITY FUNDS;
+10 B. TRANSPORTATION ALTERNATIVES FUNDS;
+11 C. PROTECT PROGRAM FUNDS;
+12 D. CARBON REDUCTION PROGRAM FUNDS; AND
+13 E. FUNDS FROM A FEDERAL PROGRAM ESTABLISHED BY
+14 THE FEDERAL GOVERNMENT AFTER JANUARY 1, 2024, WITH SPECIFIC RULES THAT
+15 SIGNIFICANTLY RESTRICT THE TYPES OR LOCATIONS OF PROJECTS THAT MAY BE
+16 FUNDED.
+17 (b) The Department shall:
+18 (1) [In accordance with federal transportation requirements, develop a
+19 project–based scoring system for major transportation projects using the goals and
+20 measures established under subsection (c) of this section;] DEVELOP, IN CONSULTATION
+21 WITH THE APPLICABLE METROPOLITAN PLANNING ORGANIZATIONS, FOR THE
+22 MARYLAND TRANSPORTATION COMMISSION’S REVIEW A PROJECT–BASED SCORING
+23 SYSTEM THAT:
+24 (I) IS CONSISTENT WITH THIS SUBTITLE;
+25 (II) IS DEVELOPED IN ACCORDANCE WITH FEDERAL
+26 TRANSPORTATION REQUIREMENTS; AND
+27 (III) EVALUATES MAJOR SURFACE TRANSPORTATION PROJECTS
+28 USING OBJECTIVE AND QUANTIFIABLE MEASURES FOR THE GOALS ESTABLISHED
+29 UNDER SUBSECTION (C) OF THIS SECTION THAT CONSIDER THE BENEFITS OF A
+30 PROJECT RELATIVE TO ITS COST TO THE STATE.
+31 (2) Develop the weighting metrics for each goal and measure established
+
+20 HOUSE BILL 20
+1 under [subsection (c)] PARAGRAPH (1) of this [section] SUBSECTION;
+2 (3) [On or before January 1, 2018, develop a model consistent with this
+3 section that uses the project–based scoring system developed under this subsection to rank
+4 major transportation projects being considered for inclusion in the draft and final
+5 Consolidated Transportation Program;] PUBLISH THE GUIDELINES DEVELOPED TO
+6 IMPLEMENT THIS SECTION, AS REVIEWED BY THE MARYLAND TRANSPORTATION
+7 COMMISSION;
+8 (4) [Use the model developed under this subsection to rank major
+9 transportation projects being considered for inclusion in the draft and final Consolidated
+10 Transportation Program; and] AT LEAST EVERY 2 YEARS, IN COORDINATION WITH THE
+11 MARYLAND TRANSPORTATION COMMISSION, REVIEW AND UPDATE THE
+12 GUIDELINES, AS NECESSARY;
+13 (5) [Make the model developed under item (3) of this subsection and any
+14 ranking under item (4) of this subsection available to the public:
+15 (i) As an appendix to the Consolidated Transportation Program;
+16 and
+17 (ii) On the Department’s website] IDENTIFY THE AMOUNT OF
+18 FUNDS AVAILABLE FOR EACH 2–YEAR FUNDING CYCLE AFTER NEEDS ASSOCIATED
+19 WITH THE FOLLOWING HAVE BEEN CONSIDERED:
+20 (I) OPERATING, ADMINISTRATION, AND MAINTENANCE COSTS
+21 OF THE DEPARTMENT;
+22 (II) GRANTS TO OTHER ENTITIES, INCLUDING:
+23 1. DISTRIBUTION OF HIGHWAY USER REVENUES TO
+24 LOCAL GOVERNMENTS CONSISTENT WITH TITLE 8, SUBTITLE 4 OF THIS ARTICLE;
+25 2. DISTRIBUTION OF LOCALLY OPERATED TRANSIT
+26 SYSTEM GRANTS; AND
+27 3. DISTRIBUTION OF FUNDS TO THE WASHINGTON
+28 METROPOLITAN AREA TRANSIT AUTHORITY;
+29 (III) ADMINISTRATIVE COSTS, INCLUDING SALARIES, WAGES,
+30 AND FRINGE BENEFITS, RELATED TO OVERSIGHT AND IMPLEMENTATION OF THE
+31 DEPARTMENT’S CAPITAL PROGRAM;
+32 (IV) CAPITAL FUNDING THAT INCLUDES:
+
+HOUSE BILL 20 21
+1 1. FUNDS FOR CAPITAL PROJECTS OF THE MARYLAND
+2 AVIATION ADMINISTRATION, THE MARYLAND PORT ADMINISTRATION, THE MOTOR
+3 VEHICLE ADMINISTRATION, AND THE OFFICE OF THE SECRETARY;
+4 2. FUNDS FOR THE HIGHWAY SYSTEM PRESERVATION
+5 PURPOSES AND STATE OF GOOD REPAIR; AND
+6 3. FUNDS FOR THE TRANSIT PROJECTS WHERE THE
+7 PRIMARY PURPOSE IS STATE OF GOOD REPAIR; AND
+8 (V) ALL OTHER CAPITAL NEEDS FOR PROJECTS NOT SUBJECT
+9 TO THE PROJECT–BASED SCORING SYSTEM FOR MAJOR SURFACE TRANSPORTATION
+10 CAPITAL PROJECTS; AND
+11 (6) (I) AT LEAST EVERY 2 YEARS, SOLICIT REQUESTS FROM THE
+12 DEPARTMENT, LOCAL JURISDICTIONS, AND APPROPRIATE METROPOLITAN
+13 PLANNING ORGANIZATIONS, FOR MAJOR SURFACE TRANSPORTATION PROJECTS TO
+14 BE EVALUATED; AND
+15 (II) REQUIRE EACH REQUESTER TO CERTIFY THAT ALL
+16 MEMBERS OF THE LEGISLATIVE DELEGATION OF THE MARYLAND GENERAL
+17 ASSEMBLY THAT REPRESENTS THE COUNTY IN WHICH THE PROJECT IS LOCATED
+18 HAVE BEEN NOTIFIED OF THE REQUEST.
+19 (c) (1) The [State transportation goals are] DEPARTMENT SHALL
+20 EVALUATE MAJOR SURFACE TRANSPORTATION PROJECTS BASED ON POLICY GOALS.
+21 (2) PROJECTS SHALL BE EVALUATED ON HOW EACH PROJECT
+22 ADDRESSES:
+23 (i) Safety [and security];
+24 (ii) [System preservation] ACCESSIBILITY AND MOBILITY;
+25 (iii) [Reducing congestion and improving commute times] CLIMATE
+26 CHANGE AND THE ENVIRONMENT;
+27 (iv) [Environmental stewardship] SOCIAL EQUITY;
+28 (v) [Community vitality;] ECONOMIC DEVELOPMENT; AND
+29 (vi) [Economic prosperity;
+
+22 HOUSE BILL 20
+1 (vii) Equitable access to transportation;
+2 (viii) Cost effectiveness and return on investment; and
+3 (ix) Local priorities] LAND USE AND TRANSPORTATION DEMAND
+4 MANAGEMENT.
+5 [(2) In evaluating whether and to what extent a major transportation
+6 project satisfies the goals established under paragraph (1) of this subsection, the
+7 Department shall assign a score for each goal using the weighting metrics developed by the
+8 Department under subsection (b)(2) of this section and the following measures:
+9 (i) For safety and security:
+10 1. The expected reduction in total fatalities and severe
+11 injuries in all modes affected by the project; and
+12 2. The extent to which the project implements the Maryland
+13 State Highway Administration’s Complete Streets policies.
+14 (ii) For system preservation:
+15 1. The degree to which the project increases the lifespan of
+16 the affected facility;
+17 2. The degree to which the project increases the functionality
+18 of the facility; and
+19 3. The degree to which the project renders the facility more
+20 resilient.
+21 (iii) For reducing congestion and improving commute times:
+22 1. The expected change in cumulative job accessibility within
+23 an approximately 60–minute commute for highway projects or transit projects;
+24 2. The degree to which the project has a positive impact on
+25 travel time reliability and congestion; and
+26 3. The degree to which the project supports connections
+27 between different modes of transportation and promotes multiple transportation choices.
+28 (iv) For environmental stewardship:
+29 1. The potential of the project to limit or reduce harmful
+30 emissions;
+
+HOUSE BILL 20 23
+1 2. The degree to which the project avoids impacts on State
+2 resources in the project area and adjacent areas; and
+3 3. The degree to which the project advances the State
+4 environmental goals.
+5 (v) For community vitality:
+6 1. The degree to which the project is projected to increase the
+7 use of walking, biking, and transit;
+8 2. The degree to which the project enhances existing
+9 community assets; and
+10 3. The degree to which the project furthers the affected
+11 community’s and State’s plans for revitalization.
+12 (vi) For economic prosperity:
+13 1. The projected increase in the cumulative job accessibility
+14 within an approximately 60–minute commute for projects;
+15 2. The extent to which the project is projected to enhance
+16 access to critical intermodal locations for the movement of goods and services; and
+17 3. The projected increase in furthering nonspeculative local
+18 and State economic development strategies in existing communities.
+19 (vii) For equitable access to transportation:
+20 1. The expected increase in job accessibility for
+21 disadvantaged populations within an approximately 60–minute commute for projects; and
+22 2. The projected economic development impact on
+23 low–income communities.
+24 (viii) For cost effectiveness and return on investment:
+25 1. The estimated travel time savings divided by the project
+26 cost;
+27 2. The degree to which the project leverages additional
+28 federal, State, local, and private sector transportation investment; and
+29 3. The degree to which the project will increase
+30 transportation alternatives and redundancy.
+
+24 HOUSE BILL 20
+1 (ix) For local priorities, the degree to which the project supports local
+2 government transportation priorities, as specified in local government priority letters.]
+3 (d) (1) The score of a major SURFACE transportation project shall be based
+4 solely on the BENEFITS OF A PROJECT TOWARD THE goals and measures established
+5 under subsection (c) of this section RELATIVE TO A PROJECT’S COST TO THE STATE.
+6 (2) [The] BY AUGUST 15 EACH EVEN–NUMBERED FISCAL YEAR, THE
+7 Department shall make the scores of all projects evaluated AND THE LIST OF ALL
+8 PROJECTS RECOMMENDED for inclusion in the Consolidated Transportation Program
+9 [and assigned a score under the model] available to the public[:
+10 (i) As an appendix to the Consolidated Transportation Program;
+11 and
+12 (ii) On] ON the Department’s Web site.
+13 (3) THE RECOMMENDATIONS MADE BY THE DEPARTMENT UNDER
+14 PARAGRAPH (2) OF THIS SUBSECTION MAY ONLY BE MODIFIED IF THE
+15 MODIFICATION IS REVIEWED BY THE MARYLAND TRANSPORTATION COMMISSION
+16 AFTER THE DEPARTMENT HAS COMPLETED ITS EVALUATION UNDER SUBSECTION
+17 (C) OF THIS SECTION.
+18 (E) (1) ON THE COMPLETION OF A ROUND OF PROJECT EVALUATIONS,
+19 THE DEPARTMENT SHALL UNDERTAKE A REVIEW OF THE PROJECT–BASED SCORING
+20 SYSTEM AND RELATED GUIDELINES TO DETERMINE WHETHER MODIFICATIONS TO
+21 THE GUIDELINES ARE NECESSARY.
+22 (2) IN THE EVENT THAT THE DEPARTMENT DETERMINES THAT
+23 MODIFICATIONS ARE NECESSARY, THE RECOMMENDED MODIFICATIONS SHALL BE
+24 PRESENTED TO THE MARYLAND TRANSPORTATION COMMISSION FOR REVIEW.
+25 (F) EACH YEAR, THE STATE HIGHWAY ADMINISTRATION AND MARYLAND
+26 TRANSIT ADMINISTRATION SHALL EVALUATE SMALL SURFACE TRANSPORTATION
+27 PROJECTS USING A METHODOLOGY CONSISTENT WITH THE SYSTEM DEVELOPED
+28 UNDER SUBSECTION (B) OF THIS SECTION, PUBLISH THE RESULTS OF THE
+29 EVALUATION, AND SELECT PROJECTS BASED ON THE RESULTS OF THE EVALUATION.
+30 (G) A MAJOR SURFACE TRANSPORTATION PROJECT MAY BE INCLUDED IN
+31 THE CONSOLIDATED TRANSPORTATION PROGRAM FOR CONSTRUCTION ONLY IF IT
+32 HAS BEEN EVALUATED BY THE PROJECT–BASED SCORING PROGRAM IN THIS
+33 SUBTITLE.
+34 [(e)] (H) Nothing in this section may be construed to impede or alter:
+
+HOUSE BILL 20 25
+1 (1) The priority letter process that outlines local transportation priorities
+2 for the Department’s consideration for inclusion in the Consolidated Transportation
+3 Program under § 2–103.1 of this subtitle;
+4 (2) The Department’s visit to each county under § 2–103.1(e) of this
+5 subtitle; or
+6 (3) The inclusion of local transportation priorities in the Consolidated
+7 Transportation Program.
+8 2–202.
+9 There is a Maryland Transportation Commission in the Department.
+10 2–203.
+11 (a) The Commission consists of the following [17] members:
+12 (1) [As ex officio members, the seven regional members of the State Roads
+13 Commission; and
+14 (2) Ten members appointed by the Governor with the advice of the
+15 Secretary] THE SECRETARY, OR THE SECRETARY’S DESIGNEE;
+16 (2) EIGHT MEMBERS APPOINTED BY THE GOVERNOR, WITH AT LEAST
+17 FOUR MEMBERS REPRESENTING URBANIZED AREAS AND AT LEAST TWO MEMBERS
+18 REPRESENTING RURAL AREAS;
+19 (3) TWO MEMBERS APPOINTED BY THE SPEAKER OF THE HOUSE; AND
+20 (4) TWO MEMBERS APPOINTED BY THE PRESIDENT OF THE SENATE.
+21 (b) An appointed member may not be [an]:
+22 (1) AN officer or employee of the Department;
+23 (2) A STATE OR LOCAL ELECTED OFFICIAL; OR
+24 (3) AN APPOINTED OFFICIAL OF THE STATE OR A LOCAL
+25 GOVERNMENT.
+26 (C) Each appointed member shall be a resident of this State and have interest
+27 and, preferably, experience in at least one of the fields under the jurisdiction of the
+28 Department.
+
+26 HOUSE BILL 20
+1 [(c)] (D) (1) Each appointed member serves for a term of [3] 4 years and until
+2 his successor is appointed and qualifies. [The terms of appointed members shall be
+3 staggered as required by the original appointments to the Commission, three of which were
+4 made for a 3–year term, four of which were made for a 2–year term, and three of which
+5 were made for a 1–year term.]
+6 (2) THE TERMS OF MEMBERS ARE STAGGERED AS REQUIRED BY
+7 THE TERMS PROVIDED FOR MEMBERS OF THE COMMISSION ON JULY 1, 2025.
+8 (3) EACH APPOINTED MEMBER MAY BE REAPPOINTED AT THE
+9 DISCRETION OF THE APPOINTING AUTHORITY.
+10 [(2)] (4) A member appointed to fill a vacancy in an unexpired term serves
+11 only for the remainder of that term.
+12 2–204.
+13 (a) The [Governor shall designate one of the appointed members of the
+14 Commission as its Chairman] SECRETARY IS THE CHAIR OF THE COMMISSION.
+15 (b) The Commission shall meet, at a time and place designated by the
+16 Commission or its [Chairman] CHAIR:
+17 (1) At least once each [month] QUARTER; and
+18 (2) At any other time that the Secretary requests.
+19 2–205.
+20 (a) (1) The [Maryland Transportation] Commission shall study the entire
+21 transportation system of this State and regularly discuss with the Secretary any matter
+22 relating to this State’s transportation system.
+23 (2) [Each of the seven regional members of the State Roads Commission,
+24 who serve as ex officio members of the Maryland Transportation Commission, shall:
+25 (i) Conduct a continuing survey of the secondary highways, as
+26 defined in § 8–101 of this article, in that member’s region; and
+27 (ii) Report on the highway needs and problems of that region to the
+28 Maryland Transportation Commission.
+29 (3)] The [Maryland Transportation] Commission may request of the
+30 Secretary any information relating to the Department that is needed for the Commission’s
+31 studies, surveys, and deliberations.
+
+HOUSE BILL 20 27
+1 (b) The Commission shall [advise] HAVE THE FOLLOWING POWERS AND
+2 DUTIES:
+3 (1) ADVISE and make recommendations to the Secretary and the heads of
+4 the units in the Department on all matters that concern transportation policy formation
+5 and program execution;
+6 (2) REVIEW, ADVISE, AND MAKE RECOMMENDATIONS TO THE
+7 SECRETARY ON THE DEPARTMENT’S QUARTERLY OPERATING AND CAPITAL
+8 BUDGET UPDATES;
+9 (3) REVIEW AND MAKE RECOMMENDATIONS ON A POLICY TO
+10 IMPLEMENT THE PROJECT–BASED SCORING SYSTEM UNDER § 2–103.7 OF THIS
+11 TITLE; AND
+12 (4) REVIEW AND MAKE RECOMMENDATIONS CONCERNING THE
+13 MARYLAND TRANSPORTATION PLAN.
+14 7–309.
+15 (b) In undertaking the assessment required under subsection (a) of this section,
+16 the Administration shall:
+17 (1) Compile and prioritize capital needs without regard to cost;
+18 (2) Identify the backlog of repairs and replacements needed to achieve a
+19 state of good repair for all Administration assets, including a separate analysis of these
+20 needs over the following 10 years; [and]
+21 (3) Identify the needs to be met in order to enhance service and achieve
+22 system performance goals; AND
+23 (4) DEVELOP ASSET MANAGEMENT PRACTICES IN THE OPERATION
+24 AND MAINTENANCE OF STATE TRANSIT ASSETS CONSISTENT WITH REQUIREMENTS
+25 UNDER 49 U.S.C. § 5326.
+26 (E) ON AN ANNUAL BASIS, THE ADMINISTRATION SHALL PRIORITIZE
+27 CAPITAL NEEDS BASED ON THE ALLOCATION AVAILABLE FOR TRANSIT STATE OF
+28 GOOD REPAIR.
+29 8–502.
+30 The purpose of this subtitle is to assist the national recovery and promote the general
+31 welfare by enabling this State and its political subdivisions to provide matching funds for
+
+28 HOUSE BILL 20
+1 and secure the benefits of any federal funds available under the federal acts for the
+2 [construction and reconstruction of State highways and county roads and for related State
+3 or local projects] DEVELOPMENT AND IMPLEMENTATION OF A MULTIMODAL SURFACE
+4 TRANSPORTATION NETWORK.
+5 SUBTITLE 11. ASSET MANAGEMENT PRACTICES.
+6 8–1101.
+7 (A) (1) THE ADMINISTRATION SHALL DEVELOP ASSET MANAGEMENT
+8 PRACTICES IN THE OPERATION AND MAINTENANCE OF THE SYSTEMS OF STATE
+9 HIGHWAYS.
+10 (2) THE PRACTICES SHALL INCLUDE A TRANSPARENT
+11 METHODOLOGY FOR PRIORITIZING THE ALLOCATION OF FUNDS AVAILABLE FOR
+12 HIGHWAY MAINTENANCE AND OPERATIONS, INCLUDING THE ALLOCATION AMONG
+13 THE ADMINISTRATION’S DISTRICTS.
+14 (B) THE ADMINISTRATION SHALL ENSURE THE WORK COMPLIES WITH ANY
+15 APPLICABLE FEDERAL REQUIREMENTS FOR THE CONDITION OF THE NATIONAL
+16 HIGHWAY SYSTEM UNDER 23 U.S.C. § 119.
+17 8–1102.
+18 (A) ON OR BEFORE JANUARY 1, 2026, THE ADMINISTRATION SHALL
+19 ESTABLISH PERFORMANCE TARGETS FOR THE CONDITION OF PAVEMENTS AND
+20 BRIDGES ON STATE HIGHWAYS COVERING A PERIOD OF AT LEAST 20 YEARS.
+21 (B) ON OR BEFORE JANUARY 1, 2030, THE ADMINISTRATION SHALL
+22 ESTABLISH PERFORMANCE TARGETS FOR THE CONDITION OF OTHER KEY ASSETS
+23 COVERING AN APPROPRIATE TIME FRAME FOR THE ASSETS.
+24 (C) (1) EVERY 4 YEARS THE ADMINISTRATION SHALL UNDERTAKE A
+25 COMPREHENSIVE REVIEW OF THE CURRENT AND FUTURE CONDITIONS OF
+26 PAVEMENTS, BRIDGES, AND OTHER KEY ASSETS ON STATE HIGHWAYS.
+27 (2) THE REVIEW SHALL:
+28 (I) CONSIDER CURRENT CONDITIONS AND PERFORMANCE
+29 TARGETS;
+30 (II) CONSIDER CURRENT INVESTMENT STRATEGIES FOR FUNDS
+31 ALLOCATED TO THE ADMINISTRATION FOR THE HIGHWAY STATE OF GOOD REPAIR
+32 PROGRAM UNDER § 8–1103 OF THIS SUBTITLE;
+
+HOUSE BILL 20 29
+1 (III) RECOMMEND, IF APPROPRIATE, NEW PERFORMANCE
+2 TARGETS FOR ASSETS WITH ESTABLISHED TARGETS WITH SUSTAINABLE
+3 PERFORMANCE OVER A 20–YEAR PERIOD; AND
+4 (IV) DEVELOP OR UPDATE, AS APPROPRIATE, AN INVESTMENT
+5 STRATEGY FOR FUNDS ALLOCATED TO THE ADMINISTRATION FOR THE HIGHWAY
+6 STATE OF GOOD REPAIR PROGRAM UNDER § 8–1103 OF THIS SUBTITLE TO ACHIEVE
+7 THE SUSTAINABLE PERFORMANCE TARGETS.
+8 8–1103.
+9 (A) IN THIS SECTION, “PROGRAM” MEANS THE HIGHWAY STATE OF GOOD
+10 REPAIR PROGRAM IN THE DEPARTMENT.
+11 (B) THERE IS A HIGHWAY STATE OF GOOD REPAIR PROGRAM IN THE
+12 DEPARTMENT.
+13 (C) THE PURPOSE OF THE PROGRAM IS TO IMPROVE THE CONDITION OF
+14 PAVEMENTS, BRIDGES, AND OTHER KEY ASSETS ON STATE HIGHWAYS TO ACHIEVE
+15 AND, AS APPROPRIATE, MAINTAIN THE SUSTAINABLE CONDITION TARGETS
+16 ESTABLISHED BY THE ADMINISTRATION UNDER § 8–1102 OF THIS SUBTITLE.
+17 (D) AN ELIGIBLE PROJECT UNDER THE PROGRAM IS A CAPITAL PROJECT
+18 TO REPAIR, REHABILITATE, RECONSTRUCT, OR REPLACE AN ASSET WITH THE
+19 INTENT TO IMPROVE THE LONG–TERM CONDITION OF THE ASSET, INCLUDING
+20 MINOR UPGRADES AND MODIFICATIONS ANCILLARY AND RELATED TO THE ASSET
+21 NECESSARY TO MEET APPLICABLE DESIGN STANDARDS.
+22 (E) SUBJECT TO APPROPRIATION AND AVAILABILITY, FUNDS FOR THE
+23 PROGRAM SHALL BE PROVIDED BY THE DEPARTMENT.
+24 (F) THE ADMINISTRATION SHALL DEVELOP A PRIORITY RANKING SYSTEM
+25 FOR PAVEMENTS, BRIDGES, AND OTHER KEY ASSETS THAT TAKES INTO
+26 CONSIDERATION USEFUL LIFE, AGE, CONDITION, AND OTHER FACTORS
+27 DETERMINED TO BE APPROPRIATE BY THE ADMINISTRATION.
+28 (G) THE ADMINISTRATION SHALL ALLOCATE FUNDS IN THE PROGRAM
+29 BASED ON A PRIORITY RANKING SYSTEM.
+30 SECTION 2. AND BE IT FURTHER ENACTED, That the terms of the members of
+31 the Maryland Transportation Commission appointed in accordance with this Act shall
+32 expire as follows:
+
+30 HOUSE BILL 20
+1 (1) of the members appointed by the Governor:
+2 (i) two members in 2026;
+3 (ii) two members in 2027;
+4 (iii) two members in 2028; and
+5 (iv) two members in 2029;
+6 (2) of the members appointed by the Speaker of the House:
+7 (i) one member in 2027; and
+8 (ii) one member in 2028; and
+9 (3) of the members appointed by the President of the Senate:
+10 (i) one member in 2026; and
+11 (ii) one member in 2029.
+12 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+13 1, 2025.
+
+[DELETED: :CA      5 ( C C A C ( R – D – A T ( F t p o t r e o t C T P t r c f s c m s t p r t D t m p t s o c p a l o p r f i A u p p t m c f o m a r o t M T c g B  A  S  A  ( B  A]
+[DELETED:  H   S  A  ( B  A S 1  A  (  S T A 2  ( ( I   (C E PT M A P T T T S T I T A O T     “    ( A p f w f a e f c r o r o a t f b t D o o a t    ( C   () “ p m t p o a c p i]( w t p i c a a f t p d p t c   () “ c p m a n e o]( s d r c o p o e e r t t f   () “  ](S i   () “]( r o a e f o s i t p d]
+[DELETED: H 3 r a   () “]( i w   () ( “]( s T    ( “ e i a c a m a m   a   () “]( t   () “]( c    ( S m t cy, l o se, o]O ct     (D T ETS A T D T      An ),I     () I t a o a m a t](I a t p p e b t S i t S R o T ( “SR    7 I T O E R SGRP§3    () “ t g m t g d i §]( 2 ( “T”M AY M T A R,WMATAN  A E R R UY  ]
+[DELETED:  H    () “]( 4   () “]( t  ( T S R o T c o t C T  ( ( T    ( B    ( I     1 A     A T     B P     C F s   a     D T m w e a rR O T E O M S P S F F  u § 2 o t s     2 A s o t D p a o a     3 E d o m c pE    A T     B    C A;   D D O T S O G R]
+[DELETED: H 5   E  T N I I TTP; R L   F TT S A ,;   G T;   H  A O F A T TE L L ,G    I      ,C,G      4 A b     5 A l o adm cA I ps,s  t p     6 A     7 A s o t c a o p a d     8 F e l m c p a i w g     9. T r ;   []9 1. A     1. A c t f t i]1 c   ( I C]
+[DELETED:  H     ( A c w t D o B a P A a t B a P     1 T d a p b a p t     2 W i w    ( A l o a b a p t p e    ( R u t O o t S a t s   ( I C T P s i a s o c e a f p t i c a b t c o t U o M    ( E    ( U   ( A t C T P s i a r    ( I a o    ( W r     1 T     2 T    ( I s c i t c s d o s    ( W w]
+[DELETED: H 7    ( W     1 T e     2 T t a t h b e f a m c    ( P     1 A g d a s t w t P b9  2     2 T l     3 A f    ( P t M T A s o g r    ( I b o   ( T t O o t S o a m a p i t C T t   ( F a m c p t b c f i i t c p o t C T P a r m b s s    ( T p    ( T    ( A     1 A]
+[DELETED:  H      2 S    ( A t   ( ( T D s e r f m c p e t    ( A s. ( () TH E S C R F E V RM EPS  R RMPP.  () IS I H  E),D:   1  E T M A R F E PM I T O P L A P A C T T;   2 EBB P T B C F I I T OP; RM    3  R R   P§215  R ’TS    () ( T D i d a c o]( i o c a w f i i t C T P s c t a    ( T D i c w t D o N     1 S a g f i a]
+[DELETED: H 9 b a o t f t b c f t p o i     2 B p a c e s f a   () E]( P o   () ( I a t t i l i p ( o t]( s     1 A f     A F     B F f r     2 A t t i e p r p f     A F     B F w r    ( F (     1 W t p i l i t C T     2 B a  ( I p i p t t m t 1 m t c t D s i w  ( ( T]
+[DELETED:  H     ( E a    ( I ]        A1 b t 21–2–;   YS    2  ;    ( B e i t o t S t g a m    ( I p t a t S t g a m, u a m we.   ( B w t 2 M T P t D s c w t a e i t t s w d ( S( GN  E A R LT    ( O t g l g a l l d i a a a o p pn ( TCTP; O R R ( T P A T AP; L ( I– ENN F YS T R O TTB   E §27; ( I–:DN  () E A P C R TTBM ;]
+[DELETED: H 1  () IOR T  .  ( A D s p t p C T P a t p c o p i i c b t i a t S E G R P a P P a S p f a e u T S 7 t S F a P  ( B t P a a a p M T P a t a a p C G  ( ( T    ( T],[ or  i,  q t S t g a m s i t M T ae;    ( T a t p I  .   ( T D s i i i r m l gs, l    ( A h    ( A t    ( A r]
+[DELETED:  H    ( ( B w t 2 a r o t s p t a c a t D o S t g b a i s r m t i t c b e f r d e a l    ( T D s e t i r u s ( o t p t i a r d e o l   ( T or s ], i n  ( T St ]U S t  ( ( A t  S t gT R L A TS [   as  s   ( M t    ( A    ( A    ( A    ( A    ( A    ( A    ( A n r e o t d m    ( A n r e o p a b t    ( A n r e o t p m]
+[DELETED: H 1    ( A    ( A    ( A    ( A    ( A r o t M S C o t N    ( A r o a t l o d    ( A   ( T   ( T a c s m a l f t d t p o d t M T P t p a t t D   ( T D a t a c s c t f    ( T S    ( P a p S f d t t v t    ( T a    ( T f r o t m a f a a    ( A i    ( A w    ( T s Se  a]S’TE 2e;]
+[DELETED:  H     ( T     1 T     2 E j a d i § 1 o t E     3 C     4 E     5 R     6 P a    ( T t Er   ( T   ( C f r a   ( C a i  () I s   ( U t   ( I e   ( T t e p a f t e o p t   ( T d m m i t t a l u p]
+[DELETED: H 1   ( I t c e o i f a r p i    ( A p d o i i i o t c    ( T c p p m a o i o c e a d b t D i t e a c o m  () ( ( S](     1 O s s c o t p C T P a t s     2 O o T w f    ( N t D s p t e m o t G A a c o t p C T P a t a C T   ( ( T f f s t C T t     1 A a     2 A d A b     3 A t p a f c e b i r b c r t b o f c a a t t a f t T C P]
+[DELETED:  H     ( T s     1 A     2 F f t    ( 1 F t p b t b r y t f     A S     B E f     C E a p i s 2 o t s p p c e y b a l t 5 a a r     2 T a r o f o b g u t    ( T m     1 T e t     2 M c 2  ( ( I   (L M C PT M A C P B A P S I A RTOFW B T T I D O T AHAA D   (  “ c p h t m s i § 2 o t]
+[DELETED: H 1 s []( () ( “ tS c p i t S H A o t M T A we]      0  W t     1 I     2 R     3 I c t i a o h t c     4 I     5 I t   2 Y T  .    ( “       1 P i t M A A t M O E DN  FVA, EY o     2 M     3 W     4 P r t M p f t m     5 S t t23U.§1      ;     6 R w t A D H S     7. PS  ]
+[DELETED:  H    7  T PTB S P D T E ES     A C      T;   C PT;   D C;S    E A   1,2  ( () “SM S T PT M A C P I T T I D O THT R D   1   ;     Y T ,.  () “SIMT      PM I T A V,MPA,MN  A O DN  O E,OS,N T F O T EY O T AA; UY     M;S     W;S     PM R T ADS PT]
+[DELETED: H 1     SYR P T R U     O T D N S I3U.§1Y      T A S F SS       T PTB S P D T E ES :   A C;S   B T;   C PT;   D C;S    E  A   1,2  ( T   ( I a w f t r d a p s s f m t p u t g a mDEP  T A M P OS F TTC’ R ONSTB  () I;SE  () IS D I A W FS   () IV S C O T S T C T B O A T    ( D]
+[DELETED:  H  u s)o sn;]()[      ( O s m t p b c f i i t d a f C T PU T G D TN A A RM    ( U t m d u t s t r m t TA2T  S TC R ON R A U TS Y    ( M r    ( A a a t t C T P a    ( O t D wD T A O Y   () O,PG N  ET;  () G,:IRS G   1  O H U R T I  U  8,S4;   2 DLO O O P R;S    3 D O F T T AATA; R R U  () A,,ID CS I SS WS BS R A’;TSM  () C:VA]
+[DELETED: H 2   1 F AA,MPA, DN  A O DN  OA,OS; DN  F E   2  F T H S PR    3  F T T P W TR   () LTBS  ( () A2T  S ,T L JS A A MS D   () IE E R T C T A O T L D O T A E .  ( ( T S t g a]E SS (  S B E O H E P :    ( S ay;    ( Sn;]C    ( R]L ;    ( Ep;]O    ( C; ]ECT     ( E]
+[DELETED:  H     ( E    ( C    ( LA .   ( I e w a t w e a m t p s t g e u p ( o t s t D D    ( F     1 T e r i t f a s i     2 T S    ( F     1 T t     2 T o     3 T r    ( F     1 T a     2 T t     3 T d t w t p s c b    ( F     1 T p o t p t l o r h e]
+[DELETED: H 2     2 T r     3 T d t w t p a t S e    ( F     1 T u     2 T d t w t p e e c     3 T d t w t p f t a c    ( F     1 T w     2 T p a     3 T a    ( F     1 T e i i j a f d     2 T p e d i o l    ( F     1 T c     2 T d t w t p l a f     3 T d t w t p w i t]
+[DELETED:  H     ( F g.   ( ( T   s   u .TS T   ( Te]BA15–Y U  NNR  D s m t s o a p e T L O A  f] al c:    ( A a a t t C T P a    ( On  ( T R M B T E U  O T S M O B M I T A R OT E)   () ( ONS ETBY ( I T E T T E D TY  A R OTC.() E,SHAAR  T I D A D U A M C W T S D S B O T SN P T R O T)N .()   O R RT B E B T PTB S P I T[]() ()N]
+[DELETED: H 2   ( T f t D c f i i t C T P   ( T D v t e c u § 2 o t s   ( T i o l t p i t C T 2  T 2  ( T 17m   ( A C   ( T m a b t G w t a o t SyTS,S’H EY  EYS ( EG OR  ( TSH; P OE  ( TP R E .  ( A an] ( A;   ( AS;TL  ( A A O O T T O A L .(  E a p e i a l o o t f u t j o t D]
+[DELETED:  H []()[] () ( E 3 D h s i a a q T t o a m s b s m w.  (  O U J1,2  ( Y   () A]( o 2  ( T G s d o o t a m o t Cn.SCE H O  ( T C s m a a t a p d b t C Cn:]H   ( A mh;   ( A 2  ( ( T M Tn C s s t e t r   ( E w    ( C a c s o t s h a d    ( R M   () T M Tn C m r o t[ S s]
+[DELETED: H 2  ( T C s aH T F P A  (    t an ( R,W AE A M R T TD O T ETS Q O A CS (  A M R O A P T T PTB S S U   O T§2E  (  A M R C TTP R L  7  ( I t   ( C   ( I s n ad    ( I s (  A M P I T O T   9U.§5 .() O,N A A BS T D S P SR 8  T w]
+[DELETED:  H  a s t b o a f f a u t f a f t c o .1.AMP.  S A R.() ( TH D S D A M I T O A M O T S O TS (  P S I A T F P T A O F A FS  DNS’.() TH D F R F T C O T AS23U.§1 Y   .() OJ1,2,N O B A   T D S P T F T C O P A T  20.() OJ1,2,N O B A   T D S() ( E4V  Y T D S U A R O T C A F C OS S  TS,S. ( T:  () O C C A P  () IO D I T O EHSG§83;   ]
+[DELETED: H 2  () R,IED I AE N P F A W E T W S YD –;  () D,VEE E  D IGRP§8 O E R   .() I,“P”HSNN RM  I T OPD. R E() THSGRH I A I T O O E R I T.T() TH RS S  T,D A AE M T S C T D   §82.() AN R RR RE RT O R A A W T, T I T LGT C O T AT I() SU T A A AY F F TD. ET() TH D PS BS A O K A T T I U LE AE CN A O F, DN.() TAH D S A F I T R    S t M T C a i a w t A s e]
+[DELETED:  H    ( o    ( t    ( t    ( t    ( t   ( o    ( o    ( o   ( o    ( o    ( o  S 1]

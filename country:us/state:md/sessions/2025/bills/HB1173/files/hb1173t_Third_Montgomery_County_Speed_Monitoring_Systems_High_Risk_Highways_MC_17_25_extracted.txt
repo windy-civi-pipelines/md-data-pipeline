@@ -1,0 +1,420 @@
+Title: HOUSE BILL 1173
+Official Title: HOUSE BILL 1173
+Number of Sections: 1
+Source: versions - Third - Montgomery County - Speed Monitoring Systems - High-Risk Highways MC 17-25
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+R5, L2 5lr1068
+HB 665/24 – ENT
+By: Montgomery County Delegation
+Introduced and read first time: February 6, 2025
+Assigned to: Environment and Transportation
+Committee Report: Favorable
+House action: Adopted
+Read second time: March 6, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Montgomery County – Speed Monitoring Systems – High–Risk Highways
+3 MC 17–25
+4 FOR the purpose of authorizing the placement and use of speed monitoring systems on
+5 highways in Montgomery County that are at high risk for certain motor vehicle
+6 crashes; prohibiting the placement and use of speed monitoring systems on certain
+7 highways in Montgomery County; requiring the fines collected by Montgomery
+8 County or by a municipal government in Montgomery County as a result of violations
+9 enforced by a speed monitoring system to be used to fund the study, design, and
+10 construction of certain safety–related projects; requiring Montgomery County or a
+11 municipality in Montgomery County to conduct an evaluation of certain speed
+12 monitoring systems with a certain frequency; and generally relating to the
+13 placement and use of a speed monitoring system in Montgomery County.
+14 BY repealing and reenacting, without amendments,
+15 Article – Courts and Judicial Proceedings
+16 Section 7–302(e)(4)(i) and (ii)
+17 Annotated Code of Maryland
+18 (2020 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Courts and Judicial Proceedings
+21 Section 7–302(e)(4)(vii)
+22 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1173*
+2 HOUSE BILL 1173
+1 (2020 Replacement Volume and 2024 Supplement)
+2 BY repealing and reenacting, without amendments,
+3 Article – Transportation
+4 Section 21–101(a), (g), and (k) and 21–809(a)(1) and (8), (b)(1)(i) and (v), and (c)
+5 Annotated Code of Maryland
+6 (2020 Replacement Volume and 2024 Supplement)
+7 BY adding to
+8 Article – Transportation
+9 Section 21–101(l–1) and 21–809(b)(1)(xii) and (l)
+10 Annotated Code of Maryland
+11 (2020 Replacement Volume and 2024 Supplement)
+12 BY repealing and reenacting, with amendments,
+13 Article – Transportation
+14 Section 21–809(b)(1)(vi)
+15 Annotated Code of Maryland
+16 (2020 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Courts and Judicial Proceedings
+20 7–302.
+21 (e) (4) (i) Except as provided in paragraph (5) of this subsection, from the
+22 fines collected by a political subdivision as a result of violations enforced by speed
+23 monitoring systems, work zone speed control systems, stop sign monitoring systems, school
+24 bus monitoring cameras, bus lane monitoring systems, or noise abatement monitoring
+25 systems a political subdivision:
+26 1. May recover the costs of implementing and administering
+27 the speed monitoring systems, work zone speed control systems, school bus monitoring
+28 cameras, bus lane monitoring systems, or noise abatement monitoring systems; and
+29 2. Subject to subparagraphs (ii), (iii), and (iv) of this
+30 paragraph, may spend any remaining balance solely for public safety purposes, including
+31 pedestrian or highway safety programs.
+32 (ii) 1. For any fiscal year, if the balance remaining from the fines
+33 collected by a political subdivision as a result of violations enforced by speed monitoring
+34 systems, after the costs of implementing and administering the systems are recovered in
+35 accordance with subparagraph (i)1 of this paragraph, is greater than 10% of the total
+36 revenues of the political subdivision for the fiscal year, the political subdivision shall remit
+37 any funds that exceed 10% of the total revenues to the Comptroller.
+HOUSE BILL 1173 3
+1 2. The Comptroller shall deposit any money remitted under
+2 this subparagraph to the General Fund of the State.
+3 (VII) FROM THE FINES COLLECTED BY MONTGOMERY COUNTY
+4 OR BY A MUNICIPAL GOVERNMENT IN MONTGOMERY COUNTY AS A RESULT OF
+5 VIOLATIONS ENFORCED BY SPEED MONITORING SYSTEMS PLACED IN ACCORDANCE
+6 WITH § 21–809(B)(1)(VI)7 OF THE TRANSPORTATION ARTICLE, ANY BALANCE
+7 REMAINING AFTER THE ALLOCATION OF FINES UNDER SUBPARAGRAPH (I)1 OF THIS
+8 PARAGRAPH SHALL BE USED TO FUND THE STUDY, DESIGN, AND CONSTRUCTION OF
+9 SAFETY–RELATED PROJECTS ON ROADWAYS OR INTERSECTIONS IN MONTGOMERY
+10 COUNTY THAT HAVE BEEN IDENTIFIED IN THE MUNICIPALITY’S, COUNTY’S, OR
+11 STATE’S MOST RECENT STRATEGIC HIGHWAY SAFETY PLAN OR VISION ZERO PLAN
+12 AS ROADWAYS OR INTERSECTIONS THAT ARE AT HIGH RISK FOR MOTOR VEHICLE
+13 CRASHES THAT RESULT IN SERIOUS BODILY INJURY OR DEATH.
+14 Article – Transportation
+15 21–101.
+16 (a) In this title and Title 25 of this article the following words have the meanings
+17 indicated.
+18 (g) “Controlled access highway” means a highway or roadway to or from which
+19 persons, including the owners or occupants of abutting lands, have no right of access except
+20 at the points and in the manner determined by the public authority with jurisdiction over
+21 the highway or roadway.
+22 (k) “Expressway” means a major highway of 2 or more traffic lanes in each
+23 direction that is designed to eliminate principal traffic hazards and has the following
+24 characteristics:
+25 (1) A median divider separating opposing traffic lanes to eliminate
+26 head–on collisions and sideswiping;
+27 (2) Grade separation structures to eliminate the conflict of cross streams
+28 of traffic at each intersection;
+29 (3) Points of entrance and exit limited to predetermined locations;
+30 (4) Vertical curves long enough to provide long sight distances; and
+31 (5) Shoulders wide enough to permit vehicles to stop or park out of traffic
+32 lanes.
+4 HOUSE BILL 1173
+1 (L–1) “INTERSTATE HIGHWAY” MEANS A STATE HIGHWAY THAT IS PART OF
+2 THE NATIONAL INTERSTATE SYSTEM IN THE STATE, AS DESIGNATED BY THE
+3 ADMINISTRATION AND APPROVED BY THE UNITED STATES SECRETARY OF
+4 TRANSPORTATION UNDER TITLE 23 OF THE UNITED STATES CODE.
+5 21–809.
+6 (a) (1) In this section the following words have the meanings indicated.
+7 (8) “Speed monitoring system” means a device with one or more motor
+8 vehicle sensors producing recorded images of motor vehicles traveling at speeds at least 12
+9 miles per hour above the posted speed limit.
+10 (b) (1) (i) A speed monitoring system may not be used in a local jurisdiction
+11 under this section unless its use is authorized by the governing body of the local jurisdiction
+12 by local law enacted after reasonable notice and a public hearing.
+13 (v) An ordinance or resolution adopted by the governing body of a
+14 local jurisdiction under this paragraph shall provide that, if the local jurisdiction moves or
+15 places a mobile or stationary speed monitoring system to or at a location where a speed
+16 monitoring system had not previously been moved or placed, the local jurisdiction may not
+17 issue a citation for a violation recorded by that speed monitoring system:
+18 1. Until signage is installed in accordance with
+19 subparagraph (viii) of this paragraph; and
+20 2. For at least the first 15 calendar days after the signage is
+21 installed.
+22 (vi) This section applies to a violation of this subtitle recorded by a
+23 speed monitoring system that meets the requirements of this subsection and has been
+24 placed:
+25 1. In Anne Arundel County, Montgomery County, or Prince
+26 George’s County, on a highway in a residential district, as defined in § 21–101 of this title,
+27 with a maximum posted speed limit of 35 miles per hour, which speed limit was established
+28 using generally accepted traffic engineering practices;
+29 2. In a school zone with a posted speed limit of at least 20
+30 miles per hour;
+31 3. In Prince George’s County:
+32 A. Subject to subparagraph (vii)1 of this paragraph, on
+33 Maryland Route 210 (Indian Head Highway); or
+HOUSE BILL 1173 5
+1 B. On that part of a highway located within the grounds of
+2 an institution of higher education as defined in § 10–101(h) of the Education Article, or
+3 within one–half mile of the grounds of a building or property used by the institution of
+4 higher education where generally accepted traffic and engineering practices indicate that
+5 motor vehicle, pedestrian, or bicycle traffic is substantially generated or influenced by the
+6 institution of higher education;
+7 4. Subject to subparagraph (vii)2 of this paragraph, on
+8 Interstate 83 in Baltimore City;
+9 5. In Anne Arundel County, on Maryland Route 175 (Jessup
+10 Road) between the Maryland Route 175/295 interchange and the Anne Arundel
+11 County–Howard County line; [or]
+12 6. Subject to subparagraph (vii)3 of this paragraph, at the
+13 intersection of Maryland Route 333 (Oxford Road) and Bonfield Avenue in Talbot County;
+14 OR
+15 7. SUBJECT TO SUBPARAGRAPH (XII) OF THIS
+16 PARAGRAPH, IN MONTGOMERY COUNTY ON A HIGHWAY IDENTIFIED IN THE
+17 MUNICIPALITY’S, COUNTY’S, OR STATE’S MOST RECENT STRATEGIC HIGHWAY
+18 SAFETY PLAN OR VISION ZERO PLAN AS A HIGHWAY THAT IS AT HIGH RISK FOR
+19 MOTOR VEHICLE CRASHES THAT RESULT IN SERIOUS BODILY INJURY OR DEATH.
+20 (XII) NEITHER MONTGOMERY COUNTY NOR A MUNICIPAL
+21 GOVERNMENT IN MONTGOMERY COUNTY MAY PLACE, HAVE PLACED, OR USE A
+22 SPEED MONITORING SYSTEM TO ENFORCE SPEED LIMITS IN ACCORDANCE WITH
+23 THIS SECTION ON A CONTROLLED ACCESS HIGHWAY, AN EXPRESSWAY, OR AN
+24 INTERSTATE HIGHWAY IN THE COUNTY.
+25 (c) (1) Unless the driver of the motor vehicle received a citation from a police
+26 officer at the time of the violation, the owner or, in accordance with subsection (f)(4) of this
+27 section, the driver of a motor vehicle is subject to a civil penalty if the motor vehicle is
+28 recorded by a speed monitoring system while being operated in violation of this subtitle.
+29 (2) A civil penalty under this subsection may not exceed $40.
+30 (3) For purposes of this section, the District Court shall prescribe:
+31 (i) A uniform citation form consistent with subsection (d)(1) of this
+32 section and § 7–302 of the Courts Article; and
+33 (ii) A civil penalty, which shall be indicated on the citation, to be paid
+34 by persons who choose to prepay the civil penalty without appearing in District Court.
+6 HOUSE BILL 1173
+1 (L) ON OR BEFORE OCTOBER 1, 2030, AND ON OR BEFORE OCTOBER 1
+2 EVERY 5 YEARS THEREAFTER, MONTGOMERY COUNTY OR A MUNICIPALITY IN
+3 MONTGOMERY COUNTY SHALL EVALUATE EACH SPEED MONITORING SYSTEM USED
+4 IN ACCORDANCE WITH SUBSECTION (B)(1)(VI)7 OF THIS SECTION FOR ITS
+5 EFFECTIVENESS IN REDUCING THE MOTOR VEHICLE SPEED AT OR BELOW WHICH
+6 85% OF THE DRIVERS TRAVEL AT THE LOCATION OF THE SPEED MONITORING
+7 SYSTEM.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5     A M M F h M C t a a h r f c m v c h i M C r t f c b M C e c m i M C t c a e o c s m s w a c f a g r t t p B  A S  A  ( B  A S  A]
+[DELETED:  H   ( B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 7  ( ( ( E f c b a p s a a r o v e b s m b m c b l m s o n a m s     1 M t c     2 S t s ( ( a ( o t p p    ( 1 F c s a w s ( o t p i g t 1 o t t r a]
+[DELETED: H 3     2 T t   ) FMIR O O B A M G I O O A A R O   BVI O T R RE A B2()()7TA I )Y N YR O’,’ T H B I I T MYSCYS O ’SHSPVZESM T I A L I E L ST   A 2  ( I i  ( “ p a t  ( “ m a m h o 2 o m t l i e d t i d t e p t h a h t f c   ( A m d s o t l t e h   ( G o   ( P   ( V   ( S l]
+[DELETED:  H  –I”NY  T N I S I T TE A D B TUS A A B T N T E OT23USC I   N T O  2  ( ( I   ( “ m s m a d w o o m m v m  ( ( ( A u b    ( A l p m i     1 U s i i i a w s     2 F i    ( T s m s t m t r o t s a h b p     1 I G w u     2 I m     3 I     A S t s ( o t p o M]
+[DELETED: H 5     B O a w h m i     4 S t s ( o t p o I     5 I R b t M R 1 i a t A A C o]     6 S i   7 S( T S XI O TH I O O O A H I I TMYSCYS O TESM R T I,’,S’S  PVZ L I E LST  .   ) NMIE O O N A M I O O M PE H PD O U AC, M S T E S L I A W S O A C A HY A EY O A   ( ( U o s r   ( A   ( F    ( A s    ( A b]
+[DELETED:  H  ) OO1,2,ON O B C   A O O B C   Y TR O O O A M I,M OYS  A W S BVI O T S F I)() O T D T A T L O T S M   S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1173
+R5, L2 5lr1068
+HB 665/24 – ENT
+By: Montgomery County Delegation
+Introduced and read first time: February 6, 2025
+Assigned to: Environment and Transportation
+Committee Report: Favorable
+House action: Adopted
+Read second time: March 6, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Montgomery County – Speed Monitoring Systems – High–Risk Highways
+3 MC 17–25
+4 FOR the purpose of authorizing the placement and use of speed monitoring systems on
+5 highways in Montgomery County that are at high risk for certain motor vehicle
+6 crashes; prohibiting the placement and use of speed monitoring systems on certain
+7 highways in Montgomery County; requiring the fines collected by Montgomery
+8 County or by a municipal government in Montgomery County as a result of violations
+9 enforced by a speed monitoring system to be used to fund the study, design, and
+10 construction of certain safety–related projects; requiring Montgomery County or a
+11 municipality in Montgomery County to conduct an evaluation of certain speed
+12 monitoring systems with a certain frequency; and generally relating to the
+13 placement and use of a speed monitoring system in Montgomery County.
+14 BY repealing and reenacting, without amendments,
+15 Article – Courts and Judicial Proceedings
+16 Section 7–302(e)(4)(i) and (ii)
+17 Annotated Code of Maryland
+18 (2020 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Courts and Judicial Proceedings
+21 Section 7–302(e)(4)(vii)
+22 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1173*
+
+2 HOUSE BILL 1173
+1 (2020 Replacement Volume and 2024 Supplement)
+2 BY repealing and reenacting, without amendments,
+3 Article – Transportation
+4 Section 21–101(a), (g), and (k) and 21–809(a)(1) and (8), (b)(1)(i) and (v), and (c)
+5 Annotated Code of Maryland
+6 (2020 Replacement Volume and 2024 Supplement)
+7 BY adding to
+8 Article – Transportation
+9 Section 21–101(l–1) and 21–809(b)(1)(xii) and (l)
+10 Annotated Code of Maryland
+11 (2020 Replacement Volume and 2024 Supplement)
+12 BY repealing and reenacting, with amendments,
+13 Article – Transportation
+14 Section 21–809(b)(1)(vi)
+15 Annotated Code of Maryland
+16 (2020 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Courts and Judicial Proceedings
+20 7–302.
+21 (e) (4) (i) Except as provided in paragraph (5) of this subsection, from the
+22 fines collected by a political subdivision as a result of violations enforced by speed
+23 monitoring systems, work zone speed control systems, stop sign monitoring systems, school
+24 bus monitoring cameras, bus lane monitoring systems, or noise abatement monitoring
+25 systems a political subdivision:
+26 1. May recover the costs of implementing and administering
+27 the speed monitoring systems, work zone speed control systems, school bus monitoring
+28 cameras, bus lane monitoring systems, or noise abatement monitoring systems; and
+29 2. Subject to subparagraphs (ii), (iii), and (iv) of this
+30 paragraph, may spend any remaining balance solely for public safety purposes, including
+31 pedestrian or highway safety programs.
+32 (ii) 1. For any fiscal year, if the balance remaining from the fines
+33 collected by a political subdivision as a result of violations enforced by speed monitoring
+34 systems, after the costs of implementing and administering the systems are recovered in
+35 accordance with subparagraph (i)1 of this paragraph, is greater than 10% of the total
+36 revenues of the political subdivision for the fiscal year, the political subdivision shall remit
+37 any funds that exceed 10% of the total revenues to the Comptroller.
+
+HOUSE BILL 1173 3
+1 2. The Comptroller shall deposit any money remitted under
+2 this subparagraph to the General Fund of the State.
+3 (VII) FROM THE FINES COLLECTED BY MONTGOMERY COUNTY
+4 OR BY A MUNICIPAL GOVERNMENT IN MONTGOMERY COUNTY AS A RESULT OF
+5 VIOLATIONS ENFORCED BY SPEED MONITORING SYSTEMS PLACED IN ACCORDANCE
+6 WITH § 21–809(B)(1)(VI)7 OF THE TRANSPORTATION ARTICLE, ANY BALANCE
+7 REMAINING AFTER THE ALLOCATION OF FINES UNDER SUBPARAGRAPH (I)1 OF THIS
+8 PARAGRAPH SHALL BE USED TO FUND THE STUDY, DESIGN, AND CONSTRUCTION OF
+9 SAFETY–RELATED PROJECTS ON ROADWAYS OR INTERSECTIONS IN MONTGOMERY
+10 COUNTY THAT HAVE BEEN IDENTIFIED IN THE MUNICIPALITY’S, COUNTY’S, OR
+11 STATE’S MOST RECENT STRATEGIC HIGHWAY SAFETY PLAN OR VISION ZERO PLAN
+12 AS ROADWAYS OR INTERSECTIONS THAT ARE AT HIGH RISK FOR MOTOR VEHICLE
+13 CRASHES THAT RESULT IN SERIOUS BODILY INJURY OR DEATH.
+14 Article – Transportation
+15 21–101.
+16 (a) In this title and Title 25 of this article the following words have the meanings
+17 indicated.
+18 (g) “Controlled access highway” means a highway or roadway to or from which
+19 persons, including the owners or occupants of abutting lands, have no right of access except
+20 at the points and in the manner determined by the public authority with jurisdiction over
+21 the highway or roadway.
+22 (k) “Expressway” means a major highway of 2 or more traffic lanes in each
+23 direction that is designed to eliminate principal traffic hazards and has the following
+24 characteristics:
+25 (1) A median divider separating opposing traffic lanes to eliminate
+26 head–on collisions and sideswiping;
+27 (2) Grade separation structures to eliminate the conflict of cross streams
+28 of traffic at each intersection;
+29 (3) Points of entrance and exit limited to predetermined locations;
+30 (4) Vertical curves long enough to provide long sight distances; and
+31 (5) Shoulders wide enough to permit vehicles to stop or park out of traffic
+32 lanes.
+
+4 HOUSE BILL 1173
+1 (L–1) “INTERSTATE HIGHWAY” MEANS A STATE HIGHWAY THAT IS PART OF
+2 THE NATIONAL INTERSTATE SYSTEM IN THE STATE, AS DESIGNATED BY THE
+3 ADMINISTRATION AND APPROVED BY THE UNITED STATES SECRETARY OF
+4 TRANSPORTATION UNDER TITLE 23 OF THE UNITED STATES CODE.
+5 21–809.
+6 (a) (1) In this section the following words have the meanings indicated.
+7 (8) “Speed monitoring system” means a device with one or more motor
+8 vehicle sensors producing recorded images of motor vehicles traveling at speeds at least 12
+9 miles per hour above the posted speed limit.
+10 (b) (1) (i) A speed monitoring system may not be used in a local jurisdiction
+11 under this section unless its use is authorized by the governing body of the local jurisdiction
+12 by local law enacted after reasonable notice and a public hearing.
+13 (v) An ordinance or resolution adopted by the governing body of a
+14 local jurisdiction under this paragraph shall provide that, if the local jurisdiction moves or
+15 places a mobile or stationary speed monitoring system to or at a location where a speed
+16 monitoring system had not previously been moved or placed, the local jurisdiction may not
+17 issue a citation for a violation recorded by that speed monitoring system:
+18 1. Until signage is installed in accordance with
+19 subparagraph (viii) of this paragraph; and
+20 2. For at least the first 15 calendar days after the signage is
+21 installed.
+22 (vi) This section applies to a violation of this subtitle recorded by a
+23 speed monitoring system that meets the requirements of this subsection and has been
+24 placed:
+25 1. In Anne Arundel County, Montgomery County, or Prince
+26 George’s County, on a highway in a residential district, as defined in § 21–101 of this title,
+27 with a maximum posted speed limit of 35 miles per hour, which speed limit was established
+28 using generally accepted traffic engineering practices;
+29 2. In a school zone with a posted speed limit of at least 20
+30 miles per hour;
+31 3. In Prince George’s County:
+32 A. Subject to subparagraph (vii)1 of this paragraph, on
+33 Maryland Route 210 (Indian Head Highway); or
+
+HOUSE BILL 1173 5
+1 B. On that part of a highway located within the grounds of
+2 an institution of higher education as defined in § 10–101(h) of the Education Article, or
+3 within one–half mile of the grounds of a building or property used by the institution of
+4 higher education where generally accepted traffic and engineering practices indicate that
+5 motor vehicle, pedestrian, or bicycle traffic is substantially generated or influenced by the
+6 institution of higher education;
+7 4. Subject to subparagraph (vii)2 of this paragraph, on
+8 Interstate 83 in Baltimore City;
+9 5. In Anne Arundel County, on Maryland Route 175 (Jessup
+10 Road) between the Maryland Route 175/295 interchange and the Anne Arundel
+11 County–Howard County line; [or]
+12 6. Subject to subparagraph (vii)3 of this paragraph, at the
+13 intersection of Maryland Route 333 (Oxford Road) and Bonfield Avenue in Talbot County;
+14 OR
+15 7. SUBJECT TO SUBPARAGRAPH (XII) OF THIS
+16 PARAGRAPH, IN MONTGOMERY COUNTY ON A HIGHWAY IDENTIFIED IN THE
+17 MUNICIPALITY’S, COUNTY’S, OR STATE’S MOST RECENT STRATEGIC HIGHWAY
+18 SAFETY PLAN OR VISION ZERO PLAN AS A HIGHWAY THAT IS AT HIGH RISK FOR
+19 MOTOR VEHICLE CRASHES THAT RESULT IN SERIOUS BODILY INJURY OR DEATH.
+20 (XII) NEITHER MONTGOMERY COUNTY NOR A MUNICIPAL
+21 GOVERNMENT IN MONTGOMERY COUNTY MAY PLACE, HAVE PLACED, OR USE A
+22 SPEED MONITORING SYSTEM TO ENFORCE SPEED LIMITS IN ACCORDANCE WITH
+23 THIS SECTION ON A CONTROLLED ACCESS HIGHWAY, AN EXPRESSWAY, OR AN
+24 INTERSTATE HIGHWAY IN THE COUNTY.
+25 (c) (1) Unless the driver of the motor vehicle received a citation from a police
+26 officer at the time of the violation, the owner or, in accordance with subsection (f)(4) of this
+27 section, the driver of a motor vehicle is subject to a civil penalty if the motor vehicle is
+28 recorded by a speed monitoring system while being operated in violation of this subtitle.
+29 (2) A civil penalty under this subsection may not exceed $40.
+30 (3) For purposes of this section, the District Court shall prescribe:
+31 (i) A uniform citation form consistent with subsection (d)(1) of this
+32 section and § 7–302 of the Courts Article; and
+33 (ii) A civil penalty, which shall be indicated on the citation, to be paid
+34 by persons who choose to prepay the civil penalty without appearing in District Court.
+
+6 HOUSE BILL 1173
+1 (L) ON OR BEFORE OCTOBER 1, 2030, AND ON OR BEFORE OCTOBER 1
+2 EVERY 5 YEARS THEREAFTER, MONTGOMERY COUNTY OR A MUNICIPALITY IN
+3 MONTGOMERY COUNTY SHALL EVALUATE EACH SPEED MONITORING SYSTEM USED
+4 IN ACCORDANCE WITH SUBSECTION (B)(1)(VI)7 OF THIS SECTION FOR ITS
+5 EFFECTIVENESS IN REDUCING THE MOTOR VEHICLE SPEED AT OR BELOW WHICH
+6 85% OF THE DRIVERS TRAVEL AT THE LOCATION OF THE SPEED MONITORING
+7 SYSTEM.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5     A M M F h M C t a a h r f c m v c h i M C r t f c b M C e c m i M C t c a e o c s m s w a c f a g r t t p B  A S  A  ( B  A S  A]
+[DELETED:  H   ( B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 7  ( ( ( E f c b a p s a a r o v e b s m b m c b l m s o n a m s     1 M t c     2 S t s ( ( a ( o t p p    ( 1 F c s a w s ( o t p i g t 1 o t t r a]
+[DELETED: H 3     2 T t   ) FMIR O O B A M G I O O A A R O   BVI O T R RE A B2()()7TA I )Y N YR O’,’ T H B I I T MYSCYS O ’SHSPVZESM T I A L I E L ST   A 2  ( I i  ( “ p a t  ( “ m a m h o 2 o m t l i e d t i d t e p t h a h t f c   ( A m d s o t l t e h   ( G o   ( P   ( V   ( S l]
+[DELETED:  H  –I”NY  T N I S I T TE A D B TUS A A B T N T E OT23USC I   N T O  2  ( ( I   ( “ m s m a d w o o m m v m  ( ( ( A u b    ( A l p m i     1 U s i i i a w s     2 F i    ( T s m s t m t r o t s a h b p     1 I G w u     2 I m     3 I     A S t s ( o t p o M]
+[DELETED: H 5     B O a w h m i     4 S t s ( o t p o I     5 I R b t M R 1 i a t A A C o]     6 S i   7 S( T S XI O TH I O O O A H I I TMYSCYS O TESM R T I,’,S’S  PVZ L I E LST  .   ) NMIE O O N A M I O O M PE H PD O U AC, M S T E S L I A W S O A C A HY A EY O A   ( ( U o s r   ( A   ( F    ( A s    ( A b]
+[DELETED:  H  ) OO1,2,ON O B C   A O O B C   Y TR O O O A M I,M OYS  A W S BVI O T S F I)() O T D T A T L O T S M   S A B I F E T t A s t e O          G               ]
