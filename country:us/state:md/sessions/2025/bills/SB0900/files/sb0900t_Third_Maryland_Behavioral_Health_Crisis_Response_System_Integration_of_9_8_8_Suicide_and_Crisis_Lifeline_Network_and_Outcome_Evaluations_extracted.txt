@@ -1,0 +1,329 @@
+Title: SENATE BILL 900
+Official Title: SENATE BILL 900
+Number of Sections: 1
+Source: versions - Third - Maryland Behavioral Health Crisis Response System - Integration of 9-8-8 Suicide and Crisis Lifeline Network and Outcome Evaluations
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+J1 5lr2606
+CF HB 1146
+By: Senator Augustine
+Introduced and read first time: January 28, 2025
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 24, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Maryland Behavioral Health Crisis Response System – Integration of 9–8–8
+3 Suicide and Crisis Lifeline Network and Outcome Evaluations
+4 FOR the purpose of requiring the Maryland Behavioral Health Crisis Response System to
+5 have a State 9–8–8 Suicide and Crisis Lifeline, rather than a crisis communication
+6 center, in each jurisdiction; requiring each crisis communication center State 9–8–8
+7 Suicide and Crisis Lifeline in the Maryland Behavioral Health Crisis Response
+8 System to coordinate with the national 9–8–8 Suicide and Crisis Lifeline Network to
+9 provide certain support services; altering the evaluation of outcome of services the
+10 System is required to include; and generally relating to the Maryland Behavioral
+11 Health Crisis Response System.
+12 BY repealing and reenacting, with amendments,
+13 Article – Health – General
+14 Section 10–1403
+15 Annotated Code of Maryland
+16 (2023 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Health – General
+20 10–1403.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0900*
+2 SENATE BILL 900
+1 (a) The Crisis Response System shall include:
+2 (1) A crisis communication center STATE 9–8–8 SUICIDE AND CRISIS
+3 LIFELINE in each jurisdiction or region to [provide]:
+4 (i) [A] PROVIDE A single point of entry to the Crisis Response
+5 System;
+6 (ii) [Coordination] COORDINATE WITH THE NATIONAL 9–8–8
+7 SUICIDE AND CRISIS LIFELINE TO PROVIDE THE FULL RANGE OF SERVICES
+8 PROVIDED BY THE NATIONAL 9–8–8 SUICIDE AND CRISIS LIFELINE, INCLUDING:
+9 1. SUPPORTIVE COUNSELING;
+10 2. SUICIDE PREVENTION;
+11 3. CRISIS INTERVENTION; AND
+12 4. REFERRALS TO ADDITIONAL RESOURCES; AND
+13 5. DIRECT DISPATCH OR WARM HAND–OFFS TO MOBILE
+14 CRISIS RESPONSE AND STABILIZATION SERVICES AND OTHER IMMEDIATE SERVICES
+15 AS NEEDED;
+16 (III) COORDINATE with the local core service agency or local
+17 behavioral health authority, police, 3–1–1, 2–1–1, or other local mental health hotlines,
+18 emergency medical service personnel, and behavioral health providers; and
+19 [(iii)] (IV) [Programs] PROVIDE OTHER PROGRAMS that may
+20 include:
+21 1. A clinical crisis telephone line for suicide prevention and
+22 crisis intervention;
+23 2. A hotline for behavioral health information, referral, and
+24 assistance;
+25 3. Clinical crisis walk–in services, including:
+26 A. Triage for initial assessment;
+27 B. Crisis stabilization until additional services are available;
+28 C. Linkage to treatment services and family and peer support
+29 groups; and
+SENATE BILL 900 3
+1 D. Linkage to other health and human services programs;
+2 4. Critical incident stress management teams, providing
+3 disaster behavioral health services, critical incident stress management, and an on–call
+4 system for these services;
+5 5. Crisis residential beds to serve as an alternative to
+6 hospitalization;
+7 6. A community crisis bed and hospital bed registry,
+8 including a daily tally of empty beds;
+9 7. Transportation coordination, ensuring transportation of
+10 patients to urgent appointments or to emergency psychiatric facilities;
+11 8. Mobile crisis teams;
+12 9. 23–hour holding beds;
+13 10. Emergency psychiatric services;
+14 11. Urgent care capacity;
+15 12. Expanded capacity for assertive community treatment;
+16 13. Crisis intervention teams with capacity to respond in each
+17 jurisdiction 24 hours a day and 7 days a week; and
+18 14. Individualized family intervention teams;
+19 (2) Community awareness promotion and training programs; and
+20 (3) An evaluation of outcomes of services [through]:
+21 (I) IN EACH JURISDICTION OR REGION, INCLUDING AN
+22 EVALUATION OF:
+23 1. 9–8–8 CALL, TEXT, AND CHAT VOLUME;
+24 2. 9–8–8 LOCAL ANSWER RATE;
+25 3. 9–8–8 CALL, TEXT, AND CHAT RESOLUTION DATA,
+26 INCLUDING:
+27 A. THE PROPORTION OF CRISES RESOLVED BY PHONE;
+4 SENATE BILL 900
+1 B. THE PROPORTION OF CRISES RESOLVED THROUGH
+2 MOBILE CRISIS TEAM DISPATCH; AND
+3 C. THE PROPORTION OF CRISES RESOLVED BY
+4 TRANSFER TO 9–1–1;
+5 4. MOBILE CRISIS TEAM DISPATCH VOLUME;
+6 5. MOBILE CRISIS TEAM RESPONSE TIME;
+7 6. MOBILE CRISIS TEAM DISPATCH RESOLUTION DATA,
+8 INCLUDING:
+9 A. THE PROPORTION OF CRISES RESOLVED SAFELY IN
+10 THE COMMUNITY; AND
+11 B. THE PROPORTION OF CRISES RESOLVED THROUGH
+12 TRANSFER TO A HIGHER LEVEL OF CARE;
+13 7. CRISIS STABILIZATION CENTER USAGE; AND
+14 8. CRISIS STABILIZATION CENTER DISCHARGE DATA,
+15 INCLUDING:
+16 A. THE PROPORTION OF CRISES RESOLVED THROUGH A
+17 DISCHARGE TO HOME; AND
+18 B. THE PROPORTION OF CRISES RESOLVED THROUGH A
+19 DISCHARGE TO A HIGHER LEVEL OF CARE;
+20 [(i)] (II) [An] THROUGH AN annual survey by the Administration
+21 of DATA OBTAINED FROM consumers and family members who have received services
+22 from the Crisis Response System COLLECTED THROUGH ONGOING DATA COLLECTION
+23 FROM 9–8–8 CALL, TEXT, AND CHAT PROVIDERS AND OTHER CRISIS PROVIDERS
+24 THAT IS REPORTED ANNUALLY; and
+25 [(ii)] (III) [Annual] THROUGH ANNUAL CRISIS SERVICES data
+26 collection on the number of behavioral health calls received by police, attempted and
+27 completed suicides, unnecessary hospitalizations, hospital diversions, arrests and
+28 detentions of individuals with behavioral health diagnoses, and diversion of arrests and
+29 detentions of individuals with behavioral health diagnoses INVOLVEMENT OF LAW
+30 ENFORCEMENT, INVOLUNTARY STATUS OF CLIENTS, AND DIVERSION FROM HIGHER
+31 LEVELS OF CARE, INCLUDING HOSPITALS.
+SENATE BILL 900 5
+1 (b) The data derived from the evaluation of outcomes of services required under
+2 subsection (a)(3) of this section shall be:
+3 (1) Collected, analyzed, and publicly reported [at least annually] ON OR
+4 BEFORE DECEMBER 1 EACH YEAR, BEGINNING IN 2026;
+5 (2) Disaggregated by race, gender, age, and zip code; and
+6 (3) Used to formulate policy recommendations with the goal of decreasing
+7 criminal detention and improving crisis diversion programs and linkages to effective
+8 community health services.
+9 (c) The Crisis Response System services shall be implemented as determined by
+10 the Administration in collaboration with the core service agency or local behavioral health
+11 authority serving each jurisdiction and community members of each jurisdiction.
+12 (d) An advance directive for mental health services under § 5–602.1 of this article
+13 shall apply to the delivery of services under this subtitle.
+14 (e) This subtitle may not be construed to affect petitions for emergency
+15 evaluations under § 10–622 of this title.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+17 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5   C A M S F h c S a C L i t M B H C R S p S H B  A S  A  (  S T A 1]
+[DELETED:  S   ( T   ( A c c c98S  U R[   pe:    ( A s p o e t t C R]R  S    ( Cn]C9O W T NLC A R I T P T F R O SL U R IE G  8SCL,     S;G     S;N      CN      R;S      .DDO     w t l c s a o l) IO b e    () Ps t m]()[]IV R O P i     1 A c     2 A a     3 C     A T     B C     C L g]
+[DELETED: S 3     D L     4 C i s m t p d s     5 C r b t s a a a t h     6 A c c b a h b r i     7 T c e t o p     8 M     9 2     1 E     1 U     1 E     1 C j     1 I   ( C   ( A th:    )IN E J O RN I A      98,,;L T      98;     98,,CL TT A C R DA     T;]
+[DELETED:  S       P O C R TH       P O C R B     M;     M;     MA      IY       P O C R T     C;E      C S C D DA     E          ()An ]() []II H o   f  CL TT A C P A O C P8, ;    () Al d]()[]II H A C S c o t n o b h c r b p a a c s u h h d a a d d o i w b h d O LT S E  .]
+[DELETED: S 5  ( T s   ( C a E  R 1,2 ;   ( D   ( U c d a i c d p a l t e c  ( T t a  ( A s  ( T s m n b c t a p f e e  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 900
+J1 5lr2606
+CF HB 1146
+By: Senator Augustine
+Introduced and read first time: January 28, 2025
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 24, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Maryland Behavioral Health Crisis Response System – Integration of 9–8–8
+3 Suicide and Crisis Lifeline Network and Outcome Evaluations
+4 FOR the purpose of requiring the Maryland Behavioral Health Crisis Response System to
+5 have a State 9–8–8 Suicide and Crisis Lifeline, rather than a crisis communication
+6 center, in each jurisdiction; requiring each crisis communication center State 9–8–8
+7 Suicide and Crisis Lifeline in the Maryland Behavioral Health Crisis Response
+8 System to coordinate with the national 9–8–8 Suicide and Crisis Lifeline Network to
+9 provide certain support services; altering the evaluation of outcome of services the
+10 System is required to include; and generally relating to the Maryland Behavioral
+11 Health Crisis Response System.
+12 BY repealing and reenacting, with amendments,
+13 Article – Health – General
+14 Section 10–1403
+15 Annotated Code of Maryland
+16 (2023 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Health – General
+20 10–1403.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0900*
+
+2 SENATE BILL 900
+1 (a) The Crisis Response System shall include:
+2 (1) A crisis communication center STATE 9–8–8 SUICIDE AND CRISIS
+3 LIFELINE in each jurisdiction or region to [provide]:
+4 (i) [A] PROVIDE A single point of entry to the Crisis Response
+5 System;
+6 (ii) [Coordination] COORDINATE WITH THE NATIONAL 9–8–8
+7 SUICIDE AND CRISIS LIFELINE TO PROVIDE THE FULL RANGE OF SERVICES
+8 PROVIDED BY THE NATIONAL 9–8–8 SUICIDE AND CRISIS LIFELINE, INCLUDING:
+9 1. SUPPORTIVE COUNSELING;
+10 2. SUICIDE PREVENTION;
+11 3. CRISIS INTERVENTION; AND
+12 4. REFERRALS TO ADDITIONAL RESOURCES; AND
+13 5. DIRECT DISPATCH OR WARM HAND–OFFS TO MOBILE
+14 CRISIS RESPONSE AND STABILIZATION SERVICES AND OTHER IMMEDIATE SERVICES
+15 AS NEEDED;
+16 (III) COORDINATE with the local core service agency or local
+17 behavioral health authority, police, 3–1–1, 2–1–1, or other local mental health hotlines,
+18 emergency medical service personnel, and behavioral health providers; and
+19 [(iii)] (IV) [Programs] PROVIDE OTHER PROGRAMS that may
+20 include:
+21 1. A clinical crisis telephone line for suicide prevention and
+22 crisis intervention;
+23 2. A hotline for behavioral health information, referral, and
+24 assistance;
+25 3. Clinical crisis walk–in services, including:
+26 A. Triage for initial assessment;
+27 B. Crisis stabilization until additional services are available;
+28 C. Linkage to treatment services and family and peer support
+29 groups; and
+
+SENATE BILL 900 3
+1 D. Linkage to other health and human services programs;
+2 4. Critical incident stress management teams, providing
+3 disaster behavioral health services, critical incident stress management, and an on–call
+4 system for these services;
+5 5. Crisis residential beds to serve as an alternative to
+6 hospitalization;
+7 6. A community crisis bed and hospital bed registry,
+8 including a daily tally of empty beds;
+9 7. Transportation coordination, ensuring transportation of
+10 patients to urgent appointments or to emergency psychiatric facilities;
+11 8. Mobile crisis teams;
+12 9. 23–hour holding beds;
+13 10. Emergency psychiatric services;
+14 11. Urgent care capacity;
+15 12. Expanded capacity for assertive community treatment;
+16 13. Crisis intervention teams with capacity to respond in each
+17 jurisdiction 24 hours a day and 7 days a week; and
+18 14. Individualized family intervention teams;
+19 (2) Community awareness promotion and training programs; and
+20 (3) An evaluation of outcomes of services [through]:
+21 (I) IN EACH JURISDICTION OR REGION, INCLUDING AN
+22 EVALUATION OF:
+23 1. 9–8–8 CALL, TEXT, AND CHAT VOLUME;
+24 2. 9–8–8 LOCAL ANSWER RATE;
+25 3. 9–8–8 CALL, TEXT, AND CHAT RESOLUTION DATA,
+26 INCLUDING:
+27 A. THE PROPORTION OF CRISES RESOLVED BY PHONE;
+
+4 SENATE BILL 900
+1 B. THE PROPORTION OF CRISES RESOLVED THROUGH
+2 MOBILE CRISIS TEAM DISPATCH; AND
+3 C. THE PROPORTION OF CRISES RESOLVED BY
+4 TRANSFER TO 9–1–1;
+5 4. MOBILE CRISIS TEAM DISPATCH VOLUME;
+6 5. MOBILE CRISIS TEAM RESPONSE TIME;
+7 6. MOBILE CRISIS TEAM DISPATCH RESOLUTION DATA,
+8 INCLUDING:
+9 A. THE PROPORTION OF CRISES RESOLVED SAFELY IN
+10 THE COMMUNITY; AND
+11 B. THE PROPORTION OF CRISES RESOLVED THROUGH
+12 TRANSFER TO A HIGHER LEVEL OF CARE;
+13 7. CRISIS STABILIZATION CENTER USAGE; AND
+14 8. CRISIS STABILIZATION CENTER DISCHARGE DATA,
+15 INCLUDING:
+16 A. THE PROPORTION OF CRISES RESOLVED THROUGH A
+17 DISCHARGE TO HOME; AND
+18 B. THE PROPORTION OF CRISES RESOLVED THROUGH A
+19 DISCHARGE TO A HIGHER LEVEL OF CARE;
+20 [(i)] (II) [An] THROUGH AN annual survey by the Administration
+21 of DATA OBTAINED FROM consumers and family members who have received services
+22 from the Crisis Response System COLLECTED THROUGH ONGOING DATA COLLECTION
+23 FROM 9–8–8 CALL, TEXT, AND CHAT PROVIDERS AND OTHER CRISIS PROVIDERS
+24 THAT IS REPORTED ANNUALLY; and
+25 [(ii)] (III) [Annual] THROUGH ANNUAL CRISIS SERVICES data
+26 collection on the number of behavioral health calls received by police, attempted and
+27 completed suicides, unnecessary hospitalizations, hospital diversions, arrests and
+28 detentions of individuals with behavioral health diagnoses, and diversion of arrests and
+29 detentions of individuals with behavioral health diagnoses INVOLVEMENT OF LAW
+30 ENFORCEMENT, INVOLUNTARY STATUS OF CLIENTS, AND DIVERSION FROM HIGHER
+31 LEVELS OF CARE, INCLUDING HOSPITALS.
+
+SENATE BILL 900 5
+1 (b) The data derived from the evaluation of outcomes of services required under
+2 subsection (a)(3) of this section shall be:
+3 (1) Collected, analyzed, and publicly reported [at least annually] ON OR
+4 BEFORE DECEMBER 1 EACH YEAR, BEGINNING IN 2026;
+5 (2) Disaggregated by race, gender, age, and zip code; and
+6 (3) Used to formulate policy recommendations with the goal of decreasing
+7 criminal detention and improving crisis diversion programs and linkages to effective
+8 community health services.
+9 (c) The Crisis Response System services shall be implemented as determined by
+10 the Administration in collaboration with the core service agency or local behavioral health
+11 authority serving each jurisdiction and community members of each jurisdiction.
+12 (d) An advance directive for mental health services under § 5–602.1 of this article
+13 shall apply to the delivery of services under this subtitle.
+14 (e) This subtitle may not be construed to affect petitions for emergency
+15 evaluations under § 10–622 of this title.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+17 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5   C A M S F h c S a C L i t M B H C R S p S H B  A S  A  (  S T A 1]
+[DELETED:  S   ( T   ( A c c c98S  U R[   pe:    ( A s p o e t t C R]R  S    ( Cn]C9O W T NLC A R I T P T F R O SL U R IE G  8SCL,     S;G     S;N      CN      R;S      .DDO     w t l c s a o l) IO b e    () Ps t m]()[]IV R O P i     1 A c     2 A a     3 C     A T     B C     C L g]
+[DELETED: S 3     D L     4 C i s m t p d s     5 C r b t s a a a t h     6 A c c b a h b r i     7 T c e t o p     8 M     9 2     1 E     1 U     1 E     1 C j     1 I   ( C   ( A th:    )IN E J O RN I A      98,,;L T      98;     98,,CL TT A C R DA     T;]
+[DELETED:  S       P O C R TH       P O C R B     M;     M;     MA      IY       P O C R T     C;E      C S C D DA     E          ()An ]() []II H o   f  CL TT A C P A O C P8, ;    () Al d]()[]II H A C S c o t n o b h c r b p a a c s u h h d a a d d o i w b h d O LT S E  .]
+[DELETED: S 5  ( T s   ( C a E  R 1,2 ;   ( D   ( U c d a i c d p a l t e c  ( T t a  ( A s  ( T s m n b c t a p f e e  S 1          G               ]

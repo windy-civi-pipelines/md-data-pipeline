@@ -1,0 +1,366 @@
+Title: HOUSE BILL 1554
+Official Title: HOUSE BILL 1554
+Number of Sections: 1
+Source: versions - First - Sales and Use Tax - Taxable Business Services - Alterations
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+Q4 5lr3633
+CF SB 1045
+By: Delegate Moon
+Introduced and read first time: February 25, 2025
+Assigned to: Rules and Executive Nominations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Sales and Use Tax – Taxable Business Services – Alterations
+3 FOR the purpose of altering the definitions of “taxable price” and “taxable service” for the
+4 purposes of certain provisions of law governing the sales and use tax to impose the
+5 tax on certain labor and services; specifying the rate of the sales and use tax for
+6 certain labor and services; and generally relating to the sales and use tax.
+7 BY repealing and reenacting, without amendments,
+8 Article – Tax – General
+9 Section 11–101(a) and (l)(1)
+10 Annotated Code of Maryland
+11 (2022 Replacement Volume and 2024 Supplement)
+12 BY adding to
+13 Article – Tax – General
+14 Section 11–101(c–12) and 11–104(l)
+15 Annotated Code of Maryland
+16 (2022 Replacement Volume and 2024 Supplement)
+17 BY repealing and reenacting, with amendments,
+18 Article – Tax – General
+19 Section 11–101(c–12), (l)(3), and (m)
+20 Annotated Code of Maryland
+21 (2022 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Tax – General
+25 11–101.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1554*
+2 HOUSE BILL 1554
+1 (a) In this title the following words have the meanings indicated.
+2 (C–12) “NAICS” MEANS THE NORTH AMERICAN INDUSTRIAL
+3 CLASSIFICATION SYSTEM, UNITED STATES MANUAL, 2022 EDITION, PUBLISHED BY
+4 THE UNITED STATES OFFICE OF MANAGEMENT AND BUDGET.
+5 [(c–12)] (C–13) “Permanent” means perpetual or for an indefinite or unspecified
+6 length of time.
+7 (l) (1) “Taxable price” means the value, in money, of the consideration of any
+8 kind that is paid, delivered, payable, or deliverable by a buyer to a vendor in the
+9 consummation and complete performance of a sale without deduction for any expense or
+10 cost, including the cost of:
+11 (i) any labor or service rendered;
+12 (ii) any material used; or
+13 (iii) any property, digital code, or digital product sold.
+14 (3) “Taxable price” does not include:
+15 (i) a charge that is made in connection with a sale and is stated as
+16 a separate item of the consideration for:
+17 1. a delivery, freight, or other transportation service for
+18 delivery directly to the buyer by the vendor or by another person acting for the vendor,
+19 unless the transportation service is a taxable service;
+20 2. a finance charge, interest, or similar charge for credit
+21 extended to the buyer;
+22 3. a labor or service for application or installation UNLESS
+23 THE LABOR OR SERVICE IS A TAXABLE SERVICE;
+24 4. a mandatory gratuity or service charge in the nature of a
+25 tip for serving food or beverage to a group of 10 or fewer individuals for consumption on the
+26 premises of the vendor;
+27 5. a professional service UNLESS THE SERVICE IS A
+28 TAXABLE SERVICE;
+29 6. a tax:
+HOUSE BILL 1554 3
+1 A. imposed by a county on the sale of coal, electricity, oil,
+2 nuclear fuel assemblies, steam, or artificial or natural gas;
+3 B. imposed under § 3–302(a) of the Natural Resources
+4 Article, as a surcharge on electricity, and added to an electric bill;
+5 C. imposed under §§ 6–201 through 6–203 of the Tax –
+6 Property Article, on tangible personal property subject to a lease that is for an initial period
+7 that exceeds 1 year and is noncancellable except for cause; or
+8 D. imposed under § 4–102 of this article on the gross receipts
+9 derived from an admissions and amusement charge;
+10 7. any service for the operation of equipment used for the
+11 production of audio, video, or film recordings UNLESS THE SERVICE IS A TAXABLE
+12 SERVICE; or
+13 8. reimbursement of incidental expenses paid to a third party
+14 and incurred in connection with providing a taxable detective service;
+15 (ii) the value of a used component or part (core value) received from
+16 a purchaser of the following remanufactured truck parts:
+17 1. an air brake system;
+18 2. an engine;
+19 3. a rear axle carrier; or
+20 4. a transmission;
+21 (iii) a charge for a nontaxable service that is made in connection with
+22 a sale of a taxable communication service, even if the nontaxable charges are aggregated
+23 with and not separately stated from the taxable charges for communications services, if the
+24 vendor can reasonably identify charges not subject to tax from its books and records that
+25 are kept in the regular course of business; or
+26 (iv) a transportation network company impact fee imposed under §
+27 10–408 of the Public Utilities Article.
+28 (m) “Taxable service” means:
+29 (1) fabrication, printing, or production of tangible personal property or a
+30 digital product by special order;
+4 HOUSE BILL 1554
+1 (2) commercial cleaning or laundering of textiles for a buyer who is engaged
+2 in a business that requires the recurring service of commercial cleaning or laundering of
+3 the textiles;
+4 (3) cleaning of a commercial or industrial building;
+5 (4) cellular telephone or other mobile telecommunications service;
+6 (5) “900”, “976”, “915”, and other “900”–type telecommunications service;
+7 (6) custom calling service provided in connection with basic telephone
+8 service;
+9 (7) a telephone answering service;
+10 (8) pay per view television service;
+11 (9) credit reporting;
+12 (10) a security service, including:
+13 (i) a detective, guard, or armored car service; and
+14 (ii) a security systems service;
+15 (11) a transportation service for transmission, distribution, or delivery of
+16 electricity or natural gas, if the sale or use of the electricity or natural gas is subject to the
+17 sales and use tax;
+18 (12) a prepaid telephone calling arrangement; [or]
+19 (13) the privilege given to an individual under § 4–1102 of the Alcoholic
+20 Beverages and Cannabis Article to consume wine that is not purchased from or provided
+21 by a restaurant, club, or hotel; OR
+22 (14) THE FOLLOWING SERVICES IF BOTH THE PROVIDER OF THE
+23 SERVICE AND THE BUYER ARE BUSINESS ENTITIES:
+24 (I) AN ACCOUNTING, BOOKKEEPING, BILLING, OR PAYROLL
+25 SERVICE DESCRIBED UNDER NAICS SECTOR 5412;
+26 (II) AN OFFICE SUPPORT SERVICE, INCLUDING A SERVICE
+27 DESCRIBED UNDER NAICS SECTOR 561110, 5614, OR 561910, OTHER THAN A
+28 SERVICE DESCRIBED UNDER ITEM (6), (7), OR (9) OF THIS SUBSECTION;
+HOUSE BILL 1554 5
+1 (III) A PERMANENT OR TEMPORARY EMPLOYEE OR CONTRACTOR
+2 PLACEMENT, INCLUDING A SERVICE DESCRIBED UNDER NAICS SECTOR 5613;
+3 (IV) A DATA OR INFORMATION TECHNOLOGY SERVICE
+4 DESCRIBED UNDER NAICS SECTOR 518, 519, OR 5415;
+5 (V) A SYSTEM SOFTWARE OR APPLICATION SOFTWARE
+6 PUBLISHING SERVICE DESCRIBED UNDER NAICS SECTOR 5415;
+7 (VI) A CONSULTING SERVICE DESCRIBED UNDER NAICS
+8 SECTOR 5416;
+9 (VII) AN EXPERIMENTAL DEVELOPMENT SERVICE DESCRIBED
+10 UNDER NAICS SECTOR 5417;
+11 (VIII) A PHOTOGRAPHY, DESIGN, OR PRINTING SERVICE,
+12 INCLUDING A SERVICE DESCRIBED UNDER NAICS SECTOR 541420, 541430, OR
+13 541490;
+14 (IX) A LOBBYING, PUBLIC RELATIONS, OR MARKETING SERVICE
+15 DESCRIBED UNDER NAICS SECTOR 5418;
+16 (X) A LANDSCAPING AND NONRESIDENTIAL BUILDING OR
+17 PROPERTY MAINTENANCE SERVICE, INCLUDING A SERVICE DESCRIBED UNDER
+18 NAICS SECTOR 561210, 5616, OR 5617, OTHER THAN A SERVICE DESCRIBED
+19 UNDER ITEM (3) OR (10) OF THIS SUBSECTION;
+20 (XI) A HEAVY TRUCK OR BUS REPAIR SERVICE DESCRIBED
+21 UNDER NAICS SECTOR 8111;
+22 (XII) A REPAIR SERVICE DESCRIBED UNDER NAICS SECTOR
+23 8112 OR 8113;
+24 (XIII) A FINANCIAL PLANNING OR TAX PREPARATION SERVICE
+25 DESCRIBED UNDER NAICS SECTOR 5239 OR 5412;
+26 (XIV) AN APPRAISAL SERVICE DESCRIBED UNDER NAICS
+27 SECTOR 541990;
+28 (XV) A SPORTS OR PERFORMING ARTS ADVERTISING SERVICE;
+29 OR
+6 HOUSE BILL 1554
+1 (XVI) A VALET OR PARKING SERVICE DESCRIBED UNDER NAICS
+2 SECTOR 812930, OTHER THAN A PUBLIC PARKING GARAGE.
+3 11–104.
+4 (L) (1) THE SALES AND USE TAX FOR A SALE OF A TAXABLE SERVICE
+5 DESCRIBED UNDER § 11–101(M)(14) OF THIS SUBTITLE IS 2.5% OF THE TAXABLE
+6 PRICE.
+7 (2) IF A DIFFERENT RATE FROM THE RATE SPECIFIED UNDER
+8 PARAGRAPH (1) OF THIS SUBSECTION COULD BE APPLIED TO A SALE OR USE OF
+9 TANGIBLE PERSONAL PROPERTY, A DIGITAL CODE, A DIGITAL PRODUCT, OR A
+10 TAXABLE SERVICE, THE HIGHER RATE SHALL APPLY TO THE SALE.
+11 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+12 1, 2025.
+[DELETED: :CA      5   C A S F p t c B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 1]
+[DELETED:  H   ( I(– “”NA M T O M NS,USM,22E YM N T AL  DN  N T F A USOMB.  () “](– l  ( ( “ k t i p d p o d b a b t a v i t c c    ( a    ( a    ( a   ( “    ( a a     1 a d f o o t s f d u     2 a f c i o s c f c e     3 a ;     4 a t p     5 a p s T S I A ;     6 a]
+[DELETED: H 3     A i b a c o t s o c o n     B i u § 3 o t N R A     C i u § 6 t 6 o t T – P t     D i d     7 a p o a v o f r T S I A T ;     8 r a    ( t a     1 a     2 a     3 a     4 a    ( a a w v a    ( a 1  ( “   ( f d]
+[DELETED:  H    ( c i t   ( c   ( c   ( “   ( c c s p i c w b t s   ( a   ( p   ( c   ( a    ( a    ( a   ( a e s   ( a o]   ( t B b ( F S I B T P O T  () ,,A AG BG BG O P  ESS5  () IA O S SE I A S U  E   O  O T ASS5,5,5     ,(,();]
+[DELETED: H 5  ()IAT   ENSS5  ()VA D O I T S  E   SS5,5,5  ()A S S O A S  ESS5  () NIA C S D U 5  ()IA E D S D  ESS5  () ,,IA PY DN O P SE A S D U  E   OSS5,5  () ,XAG S   ESS5  ()A L A N B O M SE I A S D USS5,5,5E   O  O T A S D    )();  ()IA H T O B R S D  ESS8  () NSIA R S D U  E28  ()IA F P O T P S  E  SS595  () NVA A S D U 5;   () VA S O P A A SE]
+[DELETED:  H   () NIA 8   . 1 ) ( H S A U T F A S O A T S  M   1())2 (  A D R F T R S U   P PY A D CE A D PT O A,E .  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1554
+Q4 5lr3633
+CF SB 1045
+By: Delegate Moon
+Introduced and read first time: February 25, 2025
+Assigned to: Rules and Executive Nominations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Sales and Use Tax – Taxable Business Services – Alterations
+3 FOR the purpose of altering the definitions of “taxable price” and “taxable service” for the
+4 purposes of certain provisions of law governing the sales and use tax to impose the
+5 tax on certain labor and services; specifying the rate of the sales and use tax for
+6 certain labor and services; and generally relating to the sales and use tax.
+7 BY repealing and reenacting, without amendments,
+8 Article – Tax – General
+9 Section 11–101(a) and (l)(1)
+10 Annotated Code of Maryland
+11 (2022 Replacement Volume and 2024 Supplement)
+12 BY adding to
+13 Article – Tax – General
+14 Section 11–101(c–12) and 11–104(l)
+15 Annotated Code of Maryland
+16 (2022 Replacement Volume and 2024 Supplement)
+17 BY repealing and reenacting, with amendments,
+18 Article – Tax – General
+19 Section 11–101(c–12), (l)(3), and (m)
+20 Annotated Code of Maryland
+21 (2022 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Tax – General
+25 11–101.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1554*
+
+2 HOUSE BILL 1554
+1 (a) In this title the following words have the meanings indicated.
+2 (C–12) “NAICS” MEANS THE NORTH AMERICAN INDUSTRIAL
+3 CLASSIFICATION SYSTEM, UNITED STATES MANUAL, 2022 EDITION, PUBLISHED BY
+4 THE UNITED STATES OFFICE OF MANAGEMENT AND BUDGET.
+5 [(c–12)] (C–13) “Permanent” means perpetual or for an indefinite or unspecified
+6 length of time.
+7 (l) (1) “Taxable price” means the value, in money, of the consideration of any
+8 kind that is paid, delivered, payable, or deliverable by a buyer to a vendor in the
+9 consummation and complete performance of a sale without deduction for any expense or
+10 cost, including the cost of:
+11 (i) any labor or service rendered;
+12 (ii) any material used; or
+13 (iii) any property, digital code, or digital product sold.
+14 (3) “Taxable price” does not include:
+15 (i) a charge that is made in connection with a sale and is stated as
+16 a separate item of the consideration for:
+17 1. a delivery, freight, or other transportation service for
+18 delivery directly to the buyer by the vendor or by another person acting for the vendor,
+19 unless the transportation service is a taxable service;
+20 2. a finance charge, interest, or similar charge for credit
+21 extended to the buyer;
+22 3. a labor or service for application or installation UNLESS
+23 THE LABOR OR SERVICE IS A TAXABLE SERVICE;
+24 4. a mandatory gratuity or service charge in the nature of a
+25 tip for serving food or beverage to a group of 10 or fewer individuals for consumption on the
+26 premises of the vendor;
+27 5. a professional service UNLESS THE SERVICE IS A
+28 TAXABLE SERVICE;
+29 6. a tax:
+
+HOUSE BILL 1554 3
+1 A. imposed by a county on the sale of coal, electricity, oil,
+2 nuclear fuel assemblies, steam, or artificial or natural gas;
+3 B. imposed under § 3–302(a) of the Natural Resources
+4 Article, as a surcharge on electricity, and added to an electric bill;
+5 C. imposed under §§ 6–201 through 6–203 of the Tax –
+6 Property Article, on tangible personal property subject to a lease that is for an initial period
+7 that exceeds 1 year and is noncancellable except for cause; or
+8 D. imposed under § 4–102 of this article on the gross receipts
+9 derived from an admissions and amusement charge;
+10 7. any service for the operation of equipment used for the
+11 production of audio, video, or film recordings UNLESS THE SERVICE IS A TAXABLE
+12 SERVICE; or
+13 8. reimbursement of incidental expenses paid to a third party
+14 and incurred in connection with providing a taxable detective service;
+15 (ii) the value of a used component or part (core value) received from
+16 a purchaser of the following remanufactured truck parts:
+17 1. an air brake system;
+18 2. an engine;
+19 3. a rear axle carrier; or
+20 4. a transmission;
+21 (iii) a charge for a nontaxable service that is made in connection with
+22 a sale of a taxable communication service, even if the nontaxable charges are aggregated
+23 with and not separately stated from the taxable charges for communications services, if the
+24 vendor can reasonably identify charges not subject to tax from its books and records that
+25 are kept in the regular course of business; or
+26 (iv) a transportation network company impact fee imposed under §
+27 10–408 of the Public Utilities Article.
+28 (m) “Taxable service” means:
+29 (1) fabrication, printing, or production of tangible personal property or a
+30 digital product by special order;
+
+4 HOUSE BILL 1554
+1 (2) commercial cleaning or laundering of textiles for a buyer who is engaged
+2 in a business that requires the recurring service of commercial cleaning or laundering of
+3 the textiles;
+4 (3) cleaning of a commercial or industrial building;
+5 (4) cellular telephone or other mobile telecommunications service;
+6 (5) “900”, “976”, “915”, and other “900”–type telecommunications service;
+7 (6) custom calling service provided in connection with basic telephone
+8 service;
+9 (7) a telephone answering service;
+10 (8) pay per view television service;
+11 (9) credit reporting;
+12 (10) a security service, including:
+13 (i) a detective, guard, or armored car service; and
+14 (ii) a security systems service;
+15 (11) a transportation service for transmission, distribution, or delivery of
+16 electricity or natural gas, if the sale or use of the electricity or natural gas is subject to the
+17 sales and use tax;
+18 (12) a prepaid telephone calling arrangement; [or]
+19 (13) the privilege given to an individual under § 4–1102 of the Alcoholic
+20 Beverages and Cannabis Article to consume wine that is not purchased from or provided
+21 by a restaurant, club, or hotel; OR
+22 (14) THE FOLLOWING SERVICES IF BOTH THE PROVIDER OF THE
+23 SERVICE AND THE BUYER ARE BUSINESS ENTITIES:
+24 (I) AN ACCOUNTING, BOOKKEEPING, BILLING, OR PAYROLL
+25 SERVICE DESCRIBED UNDER NAICS SECTOR 5412;
+26 (II) AN OFFICE SUPPORT SERVICE, INCLUDING A SERVICE
+27 DESCRIBED UNDER NAICS SECTOR 561110, 5614, OR 561910, OTHER THAN A
+28 SERVICE DESCRIBED UNDER ITEM (6), (7), OR (9) OF THIS SUBSECTION;
+
+HOUSE BILL 1554 5
+1 (III) A PERMANENT OR TEMPORARY EMPLOYEE OR CONTRACTOR
+2 PLACEMENT, INCLUDING A SERVICE DESCRIBED UNDER NAICS SECTOR 5613;
+3 (IV) A DATA OR INFORMATION TECHNOLOGY SERVICE
+4 DESCRIBED UNDER NAICS SECTOR 518, 519, OR 5415;
+5 (V) A SYSTEM SOFTWARE OR APPLICATION SOFTWARE
+6 PUBLISHING SERVICE DESCRIBED UNDER NAICS SECTOR 5415;
+7 (VI) A CONSULTING SERVICE DESCRIBED UNDER NAICS
+8 SECTOR 5416;
+9 (VII) AN EXPERIMENTAL DEVELOPMENT SERVICE DESCRIBED
+10 UNDER NAICS SECTOR 5417;
+11 (VIII) A PHOTOGRAPHY, DESIGN, OR PRINTING SERVICE,
+12 INCLUDING A SERVICE DESCRIBED UNDER NAICS SECTOR 541420, 541430, OR
+13 541490;
+14 (IX) A LOBBYING, PUBLIC RELATIONS, OR MARKETING SERVICE
+15 DESCRIBED UNDER NAICS SECTOR 5418;
+16 (X) A LANDSCAPING AND NONRESIDENTIAL BUILDING OR
+17 PROPERTY MAINTENANCE SERVICE, INCLUDING A SERVICE DESCRIBED UNDER
+18 NAICS SECTOR 561210, 5616, OR 5617, OTHER THAN A SERVICE DESCRIBED
+19 UNDER ITEM (3) OR (10) OF THIS SUBSECTION;
+20 (XI) A HEAVY TRUCK OR BUS REPAIR SERVICE DESCRIBED
+21 UNDER NAICS SECTOR 8111;
+22 (XII) A REPAIR SERVICE DESCRIBED UNDER NAICS SECTOR
+23 8112 OR 8113;
+24 (XIII) A FINANCIAL PLANNING OR TAX PREPARATION SERVICE
+25 DESCRIBED UNDER NAICS SECTOR 5239 OR 5412;
+26 (XIV) AN APPRAISAL SERVICE DESCRIBED UNDER NAICS
+27 SECTOR 541990;
+28 (XV) A SPORTS OR PERFORMING ARTS ADVERTISING SERVICE;
+29 OR
+
+6 HOUSE BILL 1554
+1 (XVI) A VALET OR PARKING SERVICE DESCRIBED UNDER NAICS
+2 SECTOR 812930, OTHER THAN A PUBLIC PARKING GARAGE.
+3 11–104.
+4 (L) (1) THE SALES AND USE TAX FOR A SALE OF A TAXABLE SERVICE
+5 DESCRIBED UNDER § 11–101(M)(14) OF THIS SUBTITLE IS 2.5% OF THE TAXABLE
+6 PRICE.
+7 (2) IF A DIFFERENT RATE FROM THE RATE SPECIFIED UNDER
+8 PARAGRAPH (1) OF THIS SUBSECTION COULD BE APPLIED TO A SALE OR USE OF
+9 TANGIBLE PERSONAL PROPERTY, A DIGITAL CODE, A DIGITAL PRODUCT, OR A
+10 TAXABLE SERVICE, THE HIGHER RATE SHALL APPLY TO THE SALE.
+11 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+12 1, 2025.
+
+[DELETED: :CA      5   C A S F p t c B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 1]
+[DELETED:  H   ( I(– “”NA M T O M NS,USM,22E YM N T AL  DN  N T F A USOMB.  () “](– l  ( ( “ k t i p d p o d b a b t a v i t c c    ( a    ( a    ( a   ( “    ( a a     1 a d f o o t s f d u     2 a f c i o s c f c e     3 a ;     4 a t p     5 a p s T S I A ;     6 a]
+[DELETED: H 3     A i b a c o t s o c o n     B i u § 3 o t N R A     C i u § 6 t 6 o t T – P t     D i d     7 a p o a v o f r T S I A T ;     8 r a    ( t a     1 a     2 a     3 a     4 a    ( a a w v a    ( a 1  ( “   ( f d]
+[DELETED:  H    ( c i t   ( c   ( c   ( “   ( c c s p i c w b t s   ( a   ( p   ( c   ( a    ( a    ( a   ( a e s   ( a o]   ( t B b ( F S I B T P O T  () ,,A AG BG BG O P  ESS5  () IA O S SE I A S U  E   O  O T ASS5,5,5     ,(,();]
+[DELETED: H 5  ()IAT   ENSS5  ()VA D O I T S  E   SS5,5,5  ()A S S O A S  ESS5  () NIA C S D U 5  ()IA E D S D  ESS5  () ,,IA PY DN O P SE A S D U  E   OSS5,5  () ,XAG S   ESS5  ()A L A N B O M SE I A S D USS5,5,5E   O  O T A S D    )();  ()IA H T O B R S D  ESS8  () NSIA R S D U  E28  ()IA F P O T P S  E  SS595  () NVA A S D U 5;   () VA S O P A A SE]
+[DELETED:  H   () NIA 8   . 1 ) ( H S A U T F A S O A T S  M   1())2 (  A D R F T R S U   P PY A D CE A D PT O A,E .  S 1]

@@ -1,0 +1,999 @@
+Title: SENATE BILL 613
+Official Title: SENATE BILL 613
+Number of Sections: 1
+Source: versions - First - Montgomery County and Prince George's County - Distracted Driving Monitoring System Pilot Program
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+R6 5lr2686
+CF 5lr2191
+By: Senators Jackson and Waldstreicher
+Introduced and read first time: January 24, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Montgomery County and Prince George’s County – Distracted Driving
+3 Monitoring System Pilot Program
+4 FOR the purpose of establishing a pilot program to authorize the use of distracted driving
+5 monitoring systems in Montgomery County and Prince George’s County to enforce
+6 certain prohibitions regarding the use of certain devices while operating a vehicle;
+7 and generally relating to the use of distracted driving monitoring systems.
+8 BY repealing and reenacting, with amendments,
+9 Article – Courts and Judicial Proceedings
+10 Section 4–401(13), 7–302(e)(1) through (3) and (4)(i), and 10–311
+11 Annotated Code of Maryland
+12 (2020 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, without amendments,
+14 Article – Transportation
+15 Section 21–1124(b) and (c), 21–1124.1(b) and (c), and 21–1124.2(b) through (e)
+16 Annotated Code of Maryland
+17 (2020 Replacement Volume and 2024 Supplement)
+18 BY adding to
+19 Article – Transportation
+20 Section 21–1124.4
+21 Annotated Code of Maryland
+22 (2020 Replacement Volume and 2024 Supplement)
+23 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+24 That the Laws of Maryland read as follows:
+25 Article – Courts and Judicial Proceedings
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0613*
+2 SENATE BILL 613
+1 4–401.
+2 Except as provided in § 4–402 of this subtitle, and subject to the venue provisions of
+3 Title 6 of this article, the District Court has exclusive original civil jurisdiction in:
+4 (13) A proceeding for a civil infraction under § 21–202.1, § 21–704.1, §
+5 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1124.4, § 21–1134, § 22–612, or § 24–111.3
+6 of the Transportation Article or § 10–112 of the Criminal Law Article;
+7 7–302.
+8 (e) (1) (i) A citation issued [pursuant to] IN ACCORDANCE WITH §
+9 21–202.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1124.4, § 21–1134, § 22–612,
+10 or § 24–111.3 of the Transportation Article shall provide that the person receiving the
+11 citation may elect to stand trial by notifying the issuing agency of the person’s intention to
+12 stand trial at least 5 days [prior to] BEFORE the date of payment as set forth in the citation.
+13 (ii) On receipt of the notice to stand trial, the agency shall forward
+14 to the District Court having venue a copy of the citation and a copy of the notice from the
+15 person who received the citation indicating the person’s intention to stand trial.
+16 (iii) On receipt thereof, the District Court shall schedule the case for
+17 trial and notify the defendant of the trial date under procedures adopted by the Chief Judge
+18 of the District Court.
+19 (2) (i) A citation issued as the result of a vehicle height monitoring
+20 system, a traffic control signal monitoring system, a speed monitoring system, a work zone
+21 speed control system or a stop sign monitoring system controlled by a political subdivision,
+22 a school bus monitoring camera, a bus lane monitoring system, [or] a noise abatement
+23 monitoring system, OR A DISTRACTED DRIVING MONITORING SYSTEM shall provide
+24 that, in an uncontested case, the penalty shall be paid directly to that political subdivision.
+25 (ii) A citation issued as the result of a traffic control signal
+26 monitoring system or a work zone speed control system controlled by a State agency, or as
+27 a result of a vehicle height monitoring system, a traffic control signal monitoring system, a
+28 speed monitoring system, a stop sign monitoring system, a school bus monitoring camera,
+29 a bus lane monitoring system, [or] a noise abatement monitoring system, OR A
+30 DISTRACTED DRIVING MONITORING SYSTEM in a case contested in District Court, shall
+31 provide that the penalty shall be paid directly to the District Court.
+32 (3) Civil penalties resulting from citations issued using a vehicle height
+33 monitoring system, traffic control signal monitoring system, speed monitoring system,
+34 work zone speed control system, stop sign monitoring system, school bus monitoring
+35 camera, bus lane monitoring system, [or] a noise abatement monitoring system, OR A
+36 DISTRACTED DRIVING MONITORING SYSTEM that are collected by the District Court
+SENATE BILL 613 3
+1 shall be collected in accordance with subsection (a) of this section and distributed in
+2 accordance with § 12–118 of the Transportation Article.
+3 (4) (i) Except as provided in paragraph (5) of this subsection, from the
+4 fines collected by a political subdivision as a result of violations enforced by speed
+5 monitoring systems, work zone speed control systems, stop sign monitoring systems, school
+6 bus monitoring cameras, bus lane monitoring systems, [or] noise abatement monitoring
+7 systems, OR DISTRACTED DRIVING MONITORING SYSTEMS, a political subdivision:
+8 1. May recover the costs of implementing and administering
+9 the [speed monitoring systems, work zone speed control systems, school bus monitoring
+10 cameras, bus lane monitoring systems, or noise abatement monitoring] systems; and
+11 2. Subject to subparagraphs (ii), (iii), and (iv) of this
+12 paragraph, may spend any remaining balance solely for public safety purposes, including
+13 pedestrian or highway safety programs.
+14 10–311.
+15 (a) A recorded image of a motor vehicle produced by a traffic control signal
+16 monitoring system in accordance with § 21–202.1 of the Transportation Article is
+17 admissible in a proceeding concerning a civil citation issued under that section for a
+18 violation of § 21–202(h) of the Transportation Article without authentication.
+19 (b) A recorded image of a motor vehicle produced by a speed monitoring system
+20 in accordance with § 21–809 or § 21–810 of the Transportation Article is admissible in a
+21 proceeding concerning a civil citation issued under that section for a violation of Title 21,
+22 Subtitle 8 of the Transportation Article without authentication.
+23 (c) A recorded image of a motor vehicle produced by a school bus monitoring
+24 camera in accordance with § 21–706.1 of the Transportation Article is admissible in a
+25 proceeding concerning a civil citation issued under that section for a violation of § 21–706
+26 of the Transportation Article without authentication.
+27 (d) A recorded image of a motor vehicle produced by a vehicle height monitoring
+28 system in accordance with § 24–111.3 of the Transportation Article is admissible in a
+29 proceeding concerning a civil citation issued under that section for a violation of a State or
+30 local law restricting the presence of certain vehicles during certain times without
+31 authentication.
+32 (e) A RECORDED IMAGE OF A MOTOR VEHICLE PRODUCED BY A
+33 DISTRACTED DRIVING MONITORING SYSTEM IN ACCORDANCE WITH § 21–1124.4 OF
+34 THE TRANSPORTATION ARTICLE IS ADMISSIBLE IN A PROCEEDING CONCERNING A
+35 CIVIL CITATION ISSUED UNDER THAT SECTION FOR A VIOLATION OF § 21–1124,
+36 § 21–1124.1, OR § 21–1124.2 OF THE TRANSPORTATION ARTICLE WITHOUT
+37 AUTHENTICATION.
+4 SENATE BILL 613
+1 (F) A recorded image of a motor vehicle produced by a bus lane monitoring system
+2 in accordance with § 21–1134 of the Transportation Article is admissible in a proceeding
+3 concerning a civil citation issued under that section for a violation of § 21–1133 of the
+4 Transportation Article without authentication.
+5 [(f)] (G) A recorded image of a motor vehicle and any relevant recorded audio
+6 produced by a noise abatement monitoring system in conjunction with a noise measuring
+7 device in accordance with § 22–612 of the Transportation Article is admissible in a
+8 proceeding concerning a civil citation issued under that section for a violation of § 22–602
+9 of the Transportation Article without authentication.
+10 [(g)] (H) A recorded image of a motor vehicle produced by a stop sign monitoring
+11 system in accordance with § 21–707.1 of the Transportation Article is admissible in a
+12 proceeding concerning a civil citation issued under that section for a violation of § 21–707
+13 of the Transportation Article without authentication.
+14 [(h)] (I) In any other judicial proceeding, a recorded image produced by a vehicle
+15 height monitoring system, traffic control signal monitoring system, speed monitoring
+16 system, work zone speed control system, stop sign monitoring system, DISTRACTED
+17 DRIVING MONITORING SYSTEM, school bus monitoring camera, or bus lane monitoring
+18 system or a recorded image and any relevant recorded audio produced by a noise abatement
+19 monitoring system in conjunction with a noise measuring device is admissible as otherwise
+20 provided by law.
+21 Article – Transportation
+22 21–1124.
+23 (b) This section does not apply to the use of a wireless communication device:
+24 (1) To contact a 9–1–1 system; or
+25 (2) As a text messaging device as defined in § 21–1124.1 of this subtitle.
+26 (c) An individual who is under the age of 18 years may not use a wireless
+27 communication device while operating a motor vehicle.
+28 21–1124.1.
+29 (b) Subject to subsection (c) of this section, an individual may not use a text
+30 messaging device to write, send, or read a text message or an electronic message while
+31 operating a motor vehicle in the travel portion of the roadway.
+32 (c) This section does not apply to the use of:
+SENATE BILL 613 5
+1 (1) A global positioning system; or
+2 (2) A text messaging device to contact a 9–1–1 system.
+3 21–1124.2.
+4 (b) This section does not apply to:
+5 (1) Emergency use of a handheld telephone, including calls to:
+6 (i) A 9–1–1 system;
+7 (ii) A hospital;
+8 (iii) An ambulance service provider;
+9 (iv) A fire department;
+10 (v) A law enforcement agency; or
+11 (vi) A first aid squad;
+12 (2) Use of a handheld telephone by the following individuals when acting
+13 within the scope of official duty:
+14 (i) Law enforcement personnel; and
+15 (ii) Emergency personnel;
+16 (3) Use of a handheld telephone as a text messaging device as defined in §
+17 21–1124.1 of this subtitle; and
+18 (4) Use of a handheld telephone as a communication device utilizing
+19 push–to–talk technology by an individual operating a commercial motor vehicle, as defined
+20 in 49 C.F.R. Part 390.5 of the Federal Motor Carrier Safety Regulations.
+21 (c) The following individuals may not use a handheld telephone while operating
+22 a motor vehicle:
+23 (1) A driver of a Class H (school) vehicle that is carrying passengers and in
+24 motion; and
+25 (2) A holder of a learner’s instructional permit or a provisional driver’s
+26 license who is 18 years of age or older.
+27 (d) (1) This subsection does not apply to an individual specified in subsection
+28 (c) of this section.
+6 SENATE BILL 613
+1 (2) A driver of a motor vehicle that is in motion may not use the driver’s
+2 hands to use a handheld telephone other than to initiate or terminate a wireless telephone
+3 call or to turn on or turn off the handheld telephone.
+4 (e) (1) A person convicted of a violation of this section is subject to the
+5 following penalties:
+6 (i) For a first offense, a fine of not more than $75;
+7 (ii) For a second offense, a fine of not more than $125; and
+8 (iii) For a third or subsequent offense, a fine of not more than $175.
+9 (2) Points may not be assessed against the individual under § 16–402 of
+10 this article unless the offense contributes to an accident.
+11 21–1124.4.
+12 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+13 INDICATED.
+14 (2) “AGENCY” MEANS A COUNTY LAW ENFORCEMENT AGENCY THAT
+15 IS AUTHORIZED TO ISSUE A CITATION FOR A VIOLATION OF THE MARYLAND
+16 VEHICLE LAW OR OF LOCAL TRAFFIC LAWS OR REGULATIONS.
+17 (3) “DISTRACTED DRIVING MONITORING SYSTEM” MEANS A DEVICE
+18 WITH ONE OR MORE MOTOR VEHICLE SENSORS THAT AUTOMATICALLY PRODUCES
+19 TWO OR MORE PHOTOGRAPHS, TWO OR MORE MICROPHOTOGRAPHS, A VIDEOTAPE,
+20 OR OTHER RECORDED IMAGES OF A MOTOR VEHICLE AT THE TIME THE MOTOR
+21 VEHICLE IS OPERATED DURING THE COMMISSION OF A VIOLATION.
+22 (4) “DISTRACTED DRIVING MONITORING SYSTEM OPERATOR” MEANS
+23 A REPRESENTATIVE OF AN AGENCY OR A CONTRACTOR THAT OPERATES A
+24 DISTRACTED DRIVING MONITORING SYSTEM.
+25 (5) (I) “OWNER” MEANS THE REGISTERED OWNER OF A MOTOR
+26 VEHICLE OR A LESSEE OF A MOTOR VEHICLE UNDER A LEASE OF 6 MONTHS OR
+27 MORE.
+28 (II) “OWNER” DOES NOT INCLUDE A MOTOR VEHICLE RENTAL
+29 OR LEASING COMPANY.
+30 (6) “RECORDED IMAGE” MEANS A BLACK AND WHITE IMAGE
+31 RECORDED BY A DISTRACTED DRIVING MONITORING SYSTEM:
+SENATE BILL 613 7
+1 (I) ON:
+2 1. A PHOTOGRAPH;
+3 2. A MICROPHOTOGRAPH;
+4 3. AN ELECTRONIC IMAGE;
+5 4. VIDEOTAPE; OR
+6 5. ANY OTHER MEDIUM; AND
+7 (II) SHOWING:
+8 1. THE DRIVER OF THE MOTOR VEHICLE, WITH THE
+9 DRIVER’S FACE BLURRED, COMMITTING AN ALLEGED VIOLATION;
+10 2. AT LEAST TWO TIME–STAMPED IMAGES OF THE
+11 MOTOR VEHICLE THAT INCLUDE THE SAME STATIONARY OBJECT NEAR THE MOTOR
+12 VEHICLE; AND
+13 3. ON AT LEAST ONE IMAGE OR PORTION OF TAPE, A
+14 CLEAR AND LEGIBLE IDENTIFICATION OF THE ENTIRE REGISTRATION PLATE
+15 NUMBER OF THE MOTOR VEHICLE.
+16 (7) “VIOLATION” MEANS A VIOLATION OF § 21–1124, § 21–1124.1, OR
+17 § 21–1124.2 OF THIS SUBTITLE.
+18 (B) THIS SECTION APPLIES ONLY IN MONTGOMERY COUNTY AND PRINCE
+19 GEORGE’S COUNTY.
+20 (C) (1) (I) A DISTRACTED DRIVING MONITORING SYSTEM MAY BE USED
+21 IN A COUNTY IN ACCORDANCE WITH THIS SUBTITLE IF:
+22 1. ITS USE IS AUTHORIZED BY THE COUNTY GOVERNING
+23 BODY BY LOCAL LAW ENACTED AFTER REASONABLE NOTICE AND A PUBLIC
+24 HEARING; AND
+25 2. THE COUNTY HAS DETERMINED THAT THERE IS A
+26 NEED FOR A DISTRACTED DRIVING MONITORING SYSTEM AT THE LOCATION BEING
+27 PROPOSED FOR THE USE OF A DISTRACTED DRIVING MONITORING SYSTEM.
+8 SENATE BILL 613
+1 (II) BEFORE A COUNTY MAY USE A DISTRACTED DRIVING
+2 MONITORING SYSTEM ON A STATE HIGHWAY AT A LOCATION WITHIN A MUNICIPAL
+3 CORPORATION, THE COUNTY SHALL:
+4 1. OBTAIN THE APPROVAL OF THE STATE HIGHWAY
+5 ADMINISTRATION;
+6 2. NOTIFY THE MUNICIPAL CORPORATION OF THE
+7 STATE HIGHWAY ADMINISTRATION’S APPROVAL OF THE USE OF A DISTRACTED
+8 DRIVING MONITORING SYSTEM AT THAT LOCATION; AND
+9 3. GRANT THE MUNICIPAL CORPORATION 60 DAYS
+10 AFTER THE DATE OF THE COUNTY’S NOTICE TO THE MUNICIPAL CORPORATION TO
+11 ENACT AN ORDINANCE AUTHORIZING THE MUNICIPAL CORPORATION INSTEAD OF
+12 THE COUNTY TO USE A DISTRACTED DRIVING MONITORING SYSTEM AT THAT
+13 LOCATION.
+14 (III) BEFORE ACTIVATING A DISTRACTED DRIVING MONITORING
+15 SYSTEM, THE COUNTY SHALL:
+16 1. PUBLISH NOTICE OF THE LOCATION OF THE
+17 DISTRACTED DRIVING MONITORING SYSTEM ON THE COUNTY’S WEBSITE; AND
+18 2. ENSURE THAT EACH DISTRACTED DRIVING
+19 MONITORING SYSTEM IS PROXIMATE TO A SIGN THAT:
+20 A. INDICATES THAT DISTRACTED DRIVING MONITORING
+21 SYSTEMS ARE IN USE IN THE AREA; AND
+22 B. IS IN ACCORDANCE WITH THE MANUAL AND THE
+23 SPECIFICATIONS FOR A UNIFORM SYSTEM OF TRAFFIC CONTROL DEVICES ADOPTED
+24 BY THE STATE HIGHWAY ADMINISTRATION UNDER § 25–104 OF THIS ARTICLE.
+25 (IV) 1. A COUNTY THAT AUTHORIZES A PROGRAM OF
+26 DISTRACTED DRIVING MONITORING SYSTEMS SHALL DESIGNATE AN OFFICIAL OR
+27 EMPLOYEE TO INVESTIGATE AND RESPOND TO QUESTIONS OR CONCERNS ABOUT
+28 THE COUNTY’S DISTRACTED DRIVING MONITORING SYSTEM PROGRAM.
+29 2. A. THE LOCAL DESIGNEE SHALL REVIEW A
+30 CITATION GENERATED BY A DISTRACTED DRIVING MONITORING SYSTEM IF THE
+31 PERSON WHO RECEIVED THE CITATION REQUESTS REVIEW BEFORE THE DEADLINE
+32 FOR CONTESTING LIABILITY UNDER THIS SECTION.
+SENATE BILL 613 9
+1 B. IF THE LOCAL DESIGNEE DETERMINES THAT THE
+2 CITATION IS AN ERRONEOUS VIOLATION, THE LOCAL DESIGNEE SHALL VOID THE
+3 CITATION.
+4 C. IF THE LOCAL DESIGNEE DETERMINES THAT A
+5 PERSON DID NOT RECEIVE NOTICE OF A CITATION ISSUED UNDER THIS SECTION DUE
+6 TO AN ADMINISTRATIVE ERROR, THE LOCAL DESIGNEE MAY RESEND THE CITATION
+7 IN ACCORDANCE WITH SUBSECTION (E) OF THIS SECTION OR VOID THE CITATION.
+8 D. A LOCAL DESIGNEE THAT TAKES ANY ACTION
+9 DESCRIBED UNDER SUBSUBSUBPARAGRAPH C OF THIS SUBSUBPARAGRAPH SHALL
+10 NOTIFY THE ADMINISTRATION OF THE ACTION FOR THE PURPOSE OF RESCINDING
+11 ANY ADMINISTRATIVE PENALTIES IMPOSED UNDER SUBSECTION (H) OF THIS
+12 SECTION.
+13 E. A LOCAL DESIGNEE MAY NOT DETERMINE THAT A
+14 CITATION IS AN ERRONEOUS VIOLATION BASED SOLELY ON THE DISMISSAL OF THE
+15 CITATION BY A COURT.
+16 3. A LOCAL DESIGNEE MAY NOT BE EMPLOYED BY A
+17 DISTRACTED DRIVING MONITORING SYSTEM CONTRACTOR OR HAVE BEEN
+18 INVOLVED IN ANY REVIEW OF A DISTRACTED DRIVING MONITORING SYSTEM
+19 CITATION OTHER THAN REVIEW OF A CITATION UNDER THIS PARAGRAPH.
+20 4. ON RECEIPT OF A WRITTEN QUESTION OR CONCERN
+21 FROM A PERSON, THE LOCAL DESIGNEE SHALL PROVIDE A WRITTEN ANSWER OR
+22 RESPONSE TO THE PERSON WITHIN A REASONABLE TIME.
+23 5. A COUNTY SHALL MAKE ANY WRITTEN QUESTIONS OR
+24 CONCERNS RECEIVED UNDER THIS PARAGRAPH AND ANY SUBSEQUENT WRITTEN
+25 ANSWERS OR RESPONSES AVAILABLE FOR PUBLIC INSPECTION.
+26 (V) IF A COUNTY MOVES OR PLACES A DISTRACTED DRIVING
+27 MONITORING SYSTEM TO OR AT A LOCATION WHERE A DISTRACTED DRIVING
+28 MONITORING SYSTEM HAD NOT PREVIOUSLY BEEN MOVED OR PLACED, THE COUNTY
+29 MAY NOT ISSUE A CITATION FOR A VIOLATION RECORDED BY THAT DISTRACTED
+30 DRIVING MONITORING SYSTEM:
+31 1. UNTIL SIGNAGE IS INSTALLED IN ACCORDANCE WITH
+32 SUBPARAGRAPH (III)2 OF THIS PARAGRAPH; AND
+33 2. FOR AT LEAST THE FIRST 15 CALENDAR DAYS AFTER
+34 THE SIGNAGE IS INSTALLED.
+10 SENATE BILL 613
+1 (2) (I) A DISTRACTED DRIVING MONITORING SYSTEM OPERATOR
+2 SHALL COMPLETE TRAINING BY THE MANUFACTURER OF THE DISTRACTED DRIVING
+3 MONITORING SYSTEM IN THE PROCEDURES FOR SETTING UP AND OPERATING THE
+4 DISTRACTED DRIVING MONITORING SYSTEM.
+5 (II) THE MANUFACTURER SHALL ISSUE A SIGNED CERTIFICATE
+6 TO THE DISTRACTED DRIVING MONITORING SYSTEM OPERATOR ON COMPLETION OF
+7 THE TRAINING.
+8 (III) THE CERTIFICATE OF TRAINING SHALL BE ADMITTED AS
+9 EVIDENCE IN ANY COURT PROCEEDING FOR A VIOLATION.
+10 (3) A DISTRACTED DRIVING MONITORING SYSTEM OPERATOR SHALL
+11 FILL OUT AND SIGN A DAILY SET–UP LOG FOR A DISTRACTED DRIVING MONITORING
+12 SYSTEM THAT:
+13 (I) STATES THAT THE DISTRACTED DRIVING MONITORING
+14 SYSTEM OPERATOR SUCCESSFULLY PERFORMED OR REVIEWED AND EVALUATED
+15 THE MANUFACTURER–SPECIFIED DAILY SELF–TEST OF THE DISTRACTED DRIVING
+16 MONITORING SYSTEM BEFORE PRODUCING A RECORDED IMAGE;
+17 (II) STATES THE DATE AND TIME WHEN AND THE LOCATION
+18 WHERE THE DISTRACTED DRIVING MONITORING SYSTEM WAS SET UP EACH DAY;
+19 (III) SHALL BE KEPT ON FILE; AND
+20 (IV) SHALL BE ADMITTED AS EVIDENCE IN ANY COURT
+21 PROCEEDING FOR A VIOLATION.
+22 (4) (I) A DISTRACTED DRIVING MONITORING SYSTEM SHALL
+23 UNDERGO AN ANNUAL CALIBRATION CHECK PERFORMED BY AN INDEPENDENT
+24 CALIBRATION LABORATORY THAT IS:
+25 1. SELECTED BY THE COUNTY; AND
+26 2. UNAFFILIATED WITH THE MANUFACTURER OF THE
+27 DISTRACTED DRIVING MONITORING SYSTEM.
+28 (II) THE INDEPENDENT CALIBRATION LABORATORY SHALL
+29 ISSUE A SIGNED CERTIFICATE OF CALIBRATION AFTER THE ANNUAL CALIBRATION
+30 CHECK THAT SHALL BE:
+31 1. KEPT ON FILE; AND
+SENATE BILL 613 11
+1 2. ADMITTED AS EVIDENCE IN ANY COURT PROCEEDING
+2 FOR A VIOLATION.
+3 (5) A COUNTY THAT ESTABLISHES A DISTRACTED DRIVING
+4 MONITORING SYSTEM PROGRAM SHALL BEAR THE COST OF IMPLEMENTING THE
+5 PROGRAM.
+6 (D) (1) UNLESS THE DRIVER OF THE MOTOR VEHICLE RECEIVED A
+7 CITATION FROM A POLICE OFFICER AT THE TIME OF THE VIOLATION, THE OWNER OF
+8 A MOTOR VEHICLE IS SUBJECT TO A CIVIL PENALTY IF THE MOTOR VEHICLE IS
+9 RECORDED BY A DISTRACTED DRIVING MONITORING SYSTEM WHILE BEING
+10 OPERATED DURING THE COMMISSION OF A VIOLATION.
+11 (2) A PERSON LIABLE FOR A VIOLATION ENFORCED BY A DISTRACTED
+12 DRIVING MONITORING SYSTEM IS SUBJECT TO A CIVIL PENALTY NOT EXCEEDING
+13 $40.
+14 (3) FOR PURPOSES OF THIS SECTION, THE DISTRICT COURT SHALL
+15 PRESCRIBE:
+16 (I) A UNIFORM CITATION FORM CONSISTENT WITH
+17 SUBSECTION (E)(1) OF THIS SECTION AND § 7–302 OF THE COURTS ARTICLE; AND
+18 (II) A CIVIL PENALTY, WHICH SHALL BE INDICATED ON THE
+19 CITATION, TO BE PAID BY A PERSON WHO CHOOSES TO PREPAY THE CIVIL PENALTY
+20 WITHOUT APPEARING IN DISTRICT COURT.
+21 (E) (1) SUBJECT TO PARAGRAPHS (2) AND (3) OF THIS SUBSECTION, AN
+22 AGENCY SHALL MAIL TO AN OWNER LIABLE UNDER SUBSECTION (D) OF THIS
+23 SECTION A CITATION THAT SHALL INCLUDE:
+24 (I) THE NAME AND ADDRESS OF THE REGISTERED OWNER OF
+25 THE MOTOR VEHICLE;
+26 (II) THE REGISTRATION NUMBER OF THE MOTOR VEHICLE
+27 INVOLVED IN THE VIOLATION;
+28 (III) THE VIOLATION CHARGED;
+29 (IV) THE LOCATION WHERE THE VIOLATION OCCURRED;
+30 (V) THE LOCATION OF THE DISTRACTED DRIVING MONITORING
+31 SYSTEM;
+12 SENATE BILL 613
+1 (VI) THE DATE AND TIME OF THE VIOLATION;
+2 (VII) A COPY OF THE RECORDED IMAGE;
+3 (VIII) THE AMOUNT OF THE CIVIL PENALTY IMPOSED AND THE
+4 DATE BY WHICH THE CIVIL PENALTY SHOULD BE PAID, IF APPLICABLE;
+5 (IX) A SIGNED STATEMENT BY A DULY AUTHORIZED LAW
+6 ENFORCEMENT OFFICER EMPLOYED BY OR UNDER CONTRACT WITH AN AGENCY
+7 THAT, BASED ON INSPECTION OF RECORDED IMAGES, THE MOTOR VEHICLE WAS
+8 BEING OPERATED DURING THE COMMISSION OF A VIOLATION;
+9 (X) A STATEMENT THAT RECORDED IMAGES ARE EVIDENCE OF
+10 A VIOLATION;
+11 (XI) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+12 LIABLE UNDER THIS SECTION OF THE MANNER AND TIME IN WHICH LIABILITY AS
+13 ALLEGED IN THE CITATION MAY BE CONTESTED IN THE DISTRICT COURT; AND
+14 (XII) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+15 LIABLE UNDER THIS SECTION THAT FAILURE TO PAY THE CIVIL PENALTY OR TO
+16 CONTEST LIABILITY IN A TIMELY MANNER, IF APPLICABLE:
+17 1. IS AN ADMISSION OF LIABILITY;
+18 2. MAY RESULT IN THE REFUSAL BY THE
+19 ADMINISTRATION TO REGISTER THE MOTOR VEHICLE; AND
+20 3. MAY RESULT IN THE SUSPENSION OF THE MOTOR
+21 VEHICLE REGISTRATION.
+22 (2) AN AGENCY MAY NOT MAIL A CITATION TO A PERSON WHO IS NOT
+23 AN OWNER.
+24 (3) EXCEPT AS PROVIDED IN SUBSECTION (C)(1)(IV)2C OF THIS
+25 SECTION, A CITATION ISSUED UNDER THIS SECTION SHALL BE MAILED NOT LATER
+26 THAN 2 WEEKS AFTER THE ALLEGED VIOLATION IF THE VEHICLE IS REGISTERED IN
+27 THE STATE, AND 30 DAYS AFTER THE ALLEGED VIOLATION IF THE VEHICLE IS
+28 REGISTERED IN ANOTHER STATE.
+29 (4) A PERSON WHO RECEIVES A CITATION UNDER PARAGRAPH (1) OF
+30 THIS SUBSECTION MAY:
+SENATE BILL 613 13
+1 (I) PAY THE CIVIL PENALTY, IN ACCORDANCE WITH
+2 INSTRUCTIONS ON THE CITATION, DIRECTLY TO THE COUNTY; OR
+3 (II) ELECT TO STAND TRIAL IN THE DISTRICT COURT FOR THE
+4 ALLEGED VIOLATION.
+5 (F) (1) A CERTIFICATE ALLEGING THAT THE VIOLATION OCCURRED AND
+6 THE REQUIREMENTS UNDER SUBSECTION (C) OF THIS SECTION HAVE BEEN
+7 SATISFIED, SWORN TO OR AFFIRMED BY A DULY AUTHORIZED LAW ENFORCEMENT
+8 OFFICER EMPLOYED BY OR UNDER CONTRACT WITH AN AGENCY, BASED ON
+9 INSPECTION OF RECORDED IMAGES PRODUCED BY A DISTRACTED DRIVING
+10 MONITORING SYSTEM, SHALL BE EVIDENCE OF THE FACTS CONTAINED IN THE
+11 CERTIFICATE AND SHALL BE ADMISSIBLE IN A PROCEEDING ALLEGING A VIOLATION
+12 WITHOUT THE PRESENCE OR TESTIMONY OF THE DISTRACTED DRIVING
+13 MONITORING SYSTEM OPERATOR WHO PERFORMED THE REQUIREMENTS UNDER
+14 SUBSECTION (C) OF THIS SECTION.
+15 (2) IF A PERSON WHO RECEIVED A CITATION UNDER SUBSECTION (E)
+16 OF THIS SECTION DESIRES THE DISTRACTED DRIVING MONITORING SYSTEM
+17 OPERATOR TO BE PRESENT AND TESTIFY AT TRIAL, THE PERSON SHALL NOTIFY THE
+18 COURT AND THE AGENCY IN WRITING NOT LATER THAN 20 DAYS BEFORE TRIAL.
+19 (3) ADJUDICATION OF LIABILITY SHALL BE BASED ON A
+20 PREPONDERANCE OF EVIDENCE.
+21 (G) (1) THE DISTRICT COURT MAY CONSIDER IN DEFENSE OF A
+22 VIOLATION:
+23 (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THAT
+24 THE MOTOR VEHICLE OR THE REGISTRATION PLATES OF THE MOTOR VEHICLE WERE
+25 STOLEN BEFORE THE VIOLATION OCCURRED AND WERE NOT UNDER THE CONTROL
+26 OR POSSESSION OF THE OWNER AT THE TIME OF THE VIOLATION;
+27 (II) THAT THE DISTRACTED DRIVING MONITORING SYSTEM WAS
+28 MALFUNCTIONING AT THE TIME OF THE VIOLATION; OR
+29 (III) ANY OTHER ISSUES AND EVIDENCE THAT THE DISTRICT
+30 COURT CONSIDERS PERTINENT.
+31 (2) TO DEMONSTRATE THAT THE MOTOR VEHICLE OR THE
+32 REGISTRATION PLATES WERE STOLEN BEFORE THE VIOLATION OCCURRED AND
+33 WERE NOT UNDER THE CONTROL OR POSSESSION OF THE OWNER AT THE TIME OF
+34 THE VIOLATION, THE OWNER SHALL SUBMIT PROOF THAT A POLICE REPORT
+14 SENATE BILL 613
+1 REGARDING THE STOLEN MOTOR VEHICLE OR REGISTRATION PLATES WAS FILED IN
+2 A TIMELY MANNER.
+3 (H) IF A PERSON LIABLE UNDER THIS SECTION DOES NOT PAY THE CIVIL
+4 PENALTY OR CONTEST THE VIOLATION, THE ADMINISTRATION MAY REFUSE TO
+5 REGISTER OR REREGISTER THE MOTOR VEHICLE CITED FOR THE VIOLATION.
+6 (I) A VIOLATION FOR WHICH A CIVIL PENALTY IS IMPOSED UNDER THIS
+7 SECTION:
+8 (1) IS NOT A MOVING VIOLATION FOR THE PURPOSE OF ASSESSING
+9 POINTS UNDER § 16–402 OF THIS ARTICLE;
+10 (2) MAY NOT BE RECORDED BY THE ADMINISTRATION ON THE
+11 DRIVING RECORD OF THE OWNER OF THE VEHICLE;
+12 (3) MAY BE TREATED AS A PARKING VIOLATION FOR THE PURPOSES
+13 OF § 26–305 OF THIS ARTICLE; AND
+14 (4) MAY NOT BE CONSIDERED IN THE PROVISION OF MOTOR VEHICLE
+15 INSURANCE COVERAGE.
+16 (J) IN CONSULTATION WITH THE APPROPRIATE COUNTY AGENCIES, THE
+17 CHIEF JUDGE OF THE DISTRICT COURT SHALL ADOPT PROCEDURES FOR THE
+18 ISSUANCE OF CITATIONS, THE TRIAL OF CIVIL VIOLATIONS, AND THE COLLECTION
+19 OF CIVIL PENALTIES UNDER THIS SECTION.
+20 (K) (1) AN AGENCY OR AN AGENT OR A CONTRACTOR DESIGNATED BY THE
+21 AGENCY SHALL ADMINISTER AND PROCESS CIVIL CITATIONS ISSUED UNDER THIS
+22 SECTION IN COORDINATION WITH THE DISTRICT COURT.
+23 (2) IF A CONTRACTOR IN ANY MANNER OPERATES A DISTRACTED
+24 DRIVING MONITORING SYSTEM OR ADMINISTERS OR PROCESSES CITATIONS
+25 GENERATED BY A DISTRACTED DRIVING MONITORING SYSTEM ON BEHALF OF A
+26 COUNTY, THE CONTRACTOR’S FEE MAY NOT BE CONTINGENT ON A PER–TICKET
+27 BASIS ON THE NUMBER OF CITATIONS ISSUED OR PAID.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
+29 2027, a county that authorizes a program of distracted driving monitoring systems under
+30 this Act shall report to the Governor and, in accordance with § 2–1257 of the State
+31 Government Article, the General Assembly:
+32 (1) on the effectiveness of distracted driving monitoring systems on
+33 improving public safety at the county level and in the specific areas where the systems were
+34 implemented and used; and
+SENATE BILL 613 15
+1 (2) using data collected through October 1, 2027.
+2 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+3 October 1, 2025. It shall remain effective for a period of 3 years and, at the end of September
+4 30, 2028, this Act, with no further action required by the General Assembly, shall be
+5 abrogated and of no further force and effect.
+[DELETED: :CA      5   C A M M F m c a B  A S  A  ( B  A S A  ( B  A S  A  (  S T A]
+[DELETED:  S  4  E T   ( A p f a c i u § 2 § 2 § 2  §2 o 7  ( ( ( A c i p to §I A W 2 §2 o c s po     ( O t p    ( O t o   ( ( A c i a t r o a v h m s s a or  m sm s p D t    ( A c i a t r o a t c s m a s a b l m s or a n a m s]O A   p   ( C m s t c s m s s m s w z s c s s s m s s b m c b l m s or a n a s]  ]
+[DELETED: S 3 s b c i a w s ( o t s a d i a   ( ( E f c b a p s a a r o v e b s m b or  ss,     1 M t s cg      2 S t s ( ( a ( o t p p 1  ( A r i o a m v p b a t c s m s i a w § 2 o t T A i a i a p c a c c i u t s f a v  ( A i p S  ( A r i o a m v p b a s b m c i a w § 2 o t T A i a a p o  ( A s i a w § 2 o t T A i a i a p l l r t p o c v d c t w a  (R I O A M V P B A   2 R R C I U T S F A V O  2,2,§22T O   O T R R W ]
+[DELETED:  S   A) i c T  ()A]() p d i a w § 2 o t T A i a i a p o  () A]( s i a w § 2 o t T A i a i a p o  () I]( h m s t c s m s s m s w z s c s s s m sDM s s m p A 2  ( T   ( T   ( A  ( A i w i u t a o 1 y m n u a w c 2  ( S t s ( o t s a i m n u a t m o  ( T]
+[DELETED: S 5   ( A   ( A 2  ( T   ( E    ( A    ( A    ( A    ( A    ( A    ( A   ( U w    ( L    ( E   ( U 2   ( U o a h t a a c d u p i  ( T a   ( A m   ( A l  ( ( T (]
+[DELETED:  S    ( A h c  ( ( A p c o a v o t s i s t t f    ( F    ( F    ( F   ( P t() ( N ( “AY  A T I A C F A V O T AL. A ( “DM S S E, O R I O A M V A T T T M ( “DR  R O A A O A C T O A ( () “OWR M T R O O A M O A L O M U L O  M O  () “OIWR  ( “R IE M A B A W I]
+[DELETED: S 7  () O:   1 A;   2 A;   3 A;   4 V;E    5 A;M   () S:IH   1 T D O T M VE W TRSD ,;   2 A L T TES I O TE    3 O A L O I O P O TE A A L I O T E R PE ( “V”§2,§2N      22. () TMCH O O R’C.ES O() ( () I F   1  B L L E A R N A A PG    2  C H D T T I A]
+[DELETED:  S   () IE A C M U A D D TN :   1 OS T A O T T I;   2  T M C O THA I DNS A O T U O A DN    3 G6 T M C  DYS C T U A D D M S A T  () IEM :   1  N O T L O TYSE ;   2  T E D D   A A    B  I A W T M A T T I D   HA§24.    ) 1 V CYT A A P OYSD       A  L D S R A G B A D D M S I T]
+[DELETED: S 9      T L D D T TN       T L D D T AR  E ).     L D T T A A   D A P I U S H O T   E L D M N D T A   3 L D M N B E B A D M S C O H B I A R O A D D M S     N        () F A C M O P A D D S T O A A L W A D DD  A C V R   1  II H )2;   2 F1  ]
+[DELETED:  S    ()     ) IH   ) IH C O T S B A A   TU   ) T T T D D M O S P O R A ERSFT   ) IT T D A T W A T L   ) S;IHE    ) VH B A A E I A C   ()  D D M S S A A C C P B A I     S;Y       W T M O T   ) IH I C L S     K;E ]
+[DELETED: S 1         CYT E A D D S P S B T C O I T ) ( N T D O T M V R AN  M V I S T A C P I T M V I B A D D M S W B      F,DN  I O   )  U C F C W E     O RE ))§72CA;   ) AI C PY W S B I O TN  I OC.() ( S()()U    N  S M T A O L U S D O T   ) H   ) IH R N O T M V   ) T;IH   ) T;VH   ) H]
+[DELETED:  S    ) T;IH   ) A;I    )IH A O T C P I A TD ;   ) X S S B A D A L O E B O U C W A AT B O I O IS T M W   )     ) IN A T P A T B I OT C;   ) IN A T P A T B U CR :     I;      R I T R B T;E       R I T S O T M      E()() A P I S CIV O TN    TE A  D A T A V I T V I,3   A(  ]
+[DELETED: S 1   ) PA T C PY I A WN ECY      ) EDIL I O() (   R U S C O T S H BD  E B O U C W A AY B O O R I P B A D D SM S B E O T F C I T  T P O T O T D D S O W P T R U C )    I( E T S D T D D M SL   0.    O L S B B O A() ( TDH I O M C I D O A   ) S()U  N    ) IHN    ) AIN O I A E T T I.    D T T M V O T P W S B T V O A VN T O S S P T A P R]
+[DELETED:  S () F O C T VN T D M R T()  V A C I      12;   M N B R B T D O T      E 25;   () IN C W T AECYAS T  JD U O T I O S A P F TS S () ( N I OC.    A C I A M O A D M S O A O P C B A D D M S O B O AY T CRS F M N B C O A PRT’   S 2 t A s r t t G a i a w § 2 o t S G   ( o t e o d d m s o i i]
+[DELETED: S 1   ( u  S A B I F E T t A s t e O 3 2 t A w n f a r b t G A s b a]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 613
+R6 5lr2686
+CF 5lr2191
+By: Senators Jackson and Waldstreicher
+Introduced and read first time: January 24, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Montgomery County and Prince George’s County – Distracted Driving
+3 Monitoring System Pilot Program
+4 FOR the purpose of establishing a pilot program to authorize the use of distracted driving
+5 monitoring systems in Montgomery County and Prince George’s County to enforce
+6 certain prohibitions regarding the use of certain devices while operating a vehicle;
+7 and generally relating to the use of distracted driving monitoring systems.
+8 BY repealing and reenacting, with amendments,
+9 Article – Courts and Judicial Proceedings
+10 Section 4–401(13), 7–302(e)(1) through (3) and (4)(i), and 10–311
+11 Annotated Code of Maryland
+12 (2020 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, without amendments,
+14 Article – Transportation
+15 Section 21–1124(b) and (c), 21–1124.1(b) and (c), and 21–1124.2(b) through (e)
+16 Annotated Code of Maryland
+17 (2020 Replacement Volume and 2024 Supplement)
+18 BY adding to
+19 Article – Transportation
+20 Section 21–1124.4
+21 Annotated Code of Maryland
+22 (2020 Replacement Volume and 2024 Supplement)
+23 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+24 That the Laws of Maryland read as follows:
+25 Article – Courts and Judicial Proceedings
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0613*
+
+2 SENATE BILL 613
+1 4–401.
+2 Except as provided in § 4–402 of this subtitle, and subject to the venue provisions of
+3 Title 6 of this article, the District Court has exclusive original civil jurisdiction in:
+4 (13) A proceeding for a civil infraction under § 21–202.1, § 21–704.1, §
+5 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1124.4, § 21–1134, § 22–612, or § 24–111.3
+6 of the Transportation Article or § 10–112 of the Criminal Law Article;
+7 7–302.
+8 (e) (1) (i) A citation issued [pursuant to] IN ACCORDANCE WITH §
+9 21–202.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1124.4, § 21–1134, § 22–612,
+10 or § 24–111.3 of the Transportation Article shall provide that the person receiving the
+11 citation may elect to stand trial by notifying the issuing agency of the person’s intention to
+12 stand trial at least 5 days [prior to] BEFORE the date of payment as set forth in the citation.
+13 (ii) On receipt of the notice to stand trial, the agency shall forward
+14 to the District Court having venue a copy of the citation and a copy of the notice from the
+15 person who received the citation indicating the person’s intention to stand trial.
+16 (iii) On receipt thereof, the District Court shall schedule the case for
+17 trial and notify the defendant of the trial date under procedures adopted by the Chief Judge
+18 of the District Court.
+19 (2) (i) A citation issued as the result of a vehicle height monitoring
+20 system, a traffic control signal monitoring system, a speed monitoring system, a work zone
+21 speed control system or a stop sign monitoring system controlled by a political subdivision,
+22 a school bus monitoring camera, a bus lane monitoring system, [or] a noise abatement
+23 monitoring system, OR A DISTRACTED DRIVING MONITORING SYSTEM shall provide
+24 that, in an uncontested case, the penalty shall be paid directly to that political subdivision.
+25 (ii) A citation issued as the result of a traffic control signal
+26 monitoring system or a work zone speed control system controlled by a State agency, or as
+27 a result of a vehicle height monitoring system, a traffic control signal monitoring system, a
+28 speed monitoring system, a stop sign monitoring system, a school bus monitoring camera,
+29 a bus lane monitoring system, [or] a noise abatement monitoring system, OR A
+30 DISTRACTED DRIVING MONITORING SYSTEM in a case contested in District Court, shall
+31 provide that the penalty shall be paid directly to the District Court.
+32 (3) Civil penalties resulting from citations issued using a vehicle height
+33 monitoring system, traffic control signal monitoring system, speed monitoring system,
+34 work zone speed control system, stop sign monitoring system, school bus monitoring
+35 camera, bus lane monitoring system, [or] a noise abatement monitoring system, OR A
+36 DISTRACTED DRIVING MONITORING SYSTEM that are collected by the District Court
+
+SENATE BILL 613 3
+1 shall be collected in accordance with subsection (a) of this section and distributed in
+2 accordance with § 12–118 of the Transportation Article.
+3 (4) (i) Except as provided in paragraph (5) of this subsection, from the
+4 fines collected by a political subdivision as a result of violations enforced by speed
+5 monitoring systems, work zone speed control systems, stop sign monitoring systems, school
+6 bus monitoring cameras, bus lane monitoring systems, [or] noise abatement monitoring
+7 systems, OR DISTRACTED DRIVING MONITORING SYSTEMS, a political subdivision:
+8 1. May recover the costs of implementing and administering
+9 the [speed monitoring systems, work zone speed control systems, school bus monitoring
+10 cameras, bus lane monitoring systems, or noise abatement monitoring] systems; and
+11 2. Subject to subparagraphs (ii), (iii), and (iv) of this
+12 paragraph, may spend any remaining balance solely for public safety purposes, including
+13 pedestrian or highway safety programs.
+14 10–311.
+15 (a) A recorded image of a motor vehicle produced by a traffic control signal
+16 monitoring system in accordance with § 21–202.1 of the Transportation Article is
+17 admissible in a proceeding concerning a civil citation issued under that section for a
+18 violation of § 21–202(h) of the Transportation Article without authentication.
+19 (b) A recorded image of a motor vehicle produced by a speed monitoring system
+20 in accordance with § 21–809 or § 21–810 of the Transportation Article is admissible in a
+21 proceeding concerning a civil citation issued under that section for a violation of Title 21,
+22 Subtitle 8 of the Transportation Article without authentication.
+23 (c) A recorded image of a motor vehicle produced by a school bus monitoring
+24 camera in accordance with § 21–706.1 of the Transportation Article is admissible in a
+25 proceeding concerning a civil citation issued under that section for a violation of § 21–706
+26 of the Transportation Article without authentication.
+27 (d) A recorded image of a motor vehicle produced by a vehicle height monitoring
+28 system in accordance with § 24–111.3 of the Transportation Article is admissible in a
+29 proceeding concerning a civil citation issued under that section for a violation of a State or
+30 local law restricting the presence of certain vehicles during certain times without
+31 authentication.
+32 (e) A RECORDED IMAGE OF A MOTOR VEHICLE PRODUCED BY A
+33 DISTRACTED DRIVING MONITORING SYSTEM IN ACCORDANCE WITH § 21–1124.4 OF
+34 THE TRANSPORTATION ARTICLE IS ADMISSIBLE IN A PROCEEDING CONCERNING A
+35 CIVIL CITATION ISSUED UNDER THAT SECTION FOR A VIOLATION OF § 21–1124,
+36 § 21–1124.1, OR § 21–1124.2 OF THE TRANSPORTATION ARTICLE WITHOUT
+37 AUTHENTICATION.
+
+4 SENATE BILL 613
+1 (F) A recorded image of a motor vehicle produced by a bus lane monitoring system
+2 in accordance with § 21–1134 of the Transportation Article is admissible in a proceeding
+3 concerning a civil citation issued under that section for a violation of § 21–1133 of the
+4 Transportation Article without authentication.
+5 [(f)] (G) A recorded image of a motor vehicle and any relevant recorded audio
+6 produced by a noise abatement monitoring system in conjunction with a noise measuring
+7 device in accordance with § 22–612 of the Transportation Article is admissible in a
+8 proceeding concerning a civil citation issued under that section for a violation of § 22–602
+9 of the Transportation Article without authentication.
+10 [(g)] (H) A recorded image of a motor vehicle produced by a stop sign monitoring
+11 system in accordance with § 21–707.1 of the Transportation Article is admissible in a
+12 proceeding concerning a civil citation issued under that section for a violation of § 21–707
+13 of the Transportation Article without authentication.
+14 [(h)] (I) In any other judicial proceeding, a recorded image produced by a vehicle
+15 height monitoring system, traffic control signal monitoring system, speed monitoring
+16 system, work zone speed control system, stop sign monitoring system, DISTRACTED
+17 DRIVING MONITORING SYSTEM, school bus monitoring camera, or bus lane monitoring
+18 system or a recorded image and any relevant recorded audio produced by a noise abatement
+19 monitoring system in conjunction with a noise measuring device is admissible as otherwise
+20 provided by law.
+21 Article – Transportation
+22 21–1124.
+23 (b) This section does not apply to the use of a wireless communication device:
+24 (1) To contact a 9–1–1 system; or
+25 (2) As a text messaging device as defined in § 21–1124.1 of this subtitle.
+26 (c) An individual who is under the age of 18 years may not use a wireless
+27 communication device while operating a motor vehicle.
+28 21–1124.1.
+29 (b) Subject to subsection (c) of this section, an individual may not use a text
+30 messaging device to write, send, or read a text message or an electronic message while
+31 operating a motor vehicle in the travel portion of the roadway.
+32 (c) This section does not apply to the use of:
+
+SENATE BILL 613 5
+1 (1) A global positioning system; or
+2 (2) A text messaging device to contact a 9–1–1 system.
+3 21–1124.2.
+4 (b) This section does not apply to:
+5 (1) Emergency use of a handheld telephone, including calls to:
+6 (i) A 9–1–1 system;
+7 (ii) A hospital;
+8 (iii) An ambulance service provider;
+9 (iv) A fire department;
+10 (v) A law enforcement agency; or
+11 (vi) A first aid squad;
+12 (2) Use of a handheld telephone by the following individuals when acting
+13 within the scope of official duty:
+14 (i) Law enforcement personnel; and
+15 (ii) Emergency personnel;
+16 (3) Use of a handheld telephone as a text messaging device as defined in §
+17 21–1124.1 of this subtitle; and
+18 (4) Use of a handheld telephone as a communication device utilizing
+19 push–to–talk technology by an individual operating a commercial motor vehicle, as defined
+20 in 49 C.F.R. Part 390.5 of the Federal Motor Carrier Safety Regulations.
+21 (c) The following individuals may not use a handheld telephone while operating
+22 a motor vehicle:
+23 (1) A driver of a Class H (school) vehicle that is carrying passengers and in
+24 motion; and
+25 (2) A holder of a learner’s instructional permit or a provisional driver’s
+26 license who is 18 years of age or older.
+27 (d) (1) This subsection does not apply to an individual specified in subsection
+28 (c) of this section.
+
+6 SENATE BILL 613
+1 (2) A driver of a motor vehicle that is in motion may not use the driver’s
+2 hands to use a handheld telephone other than to initiate or terminate a wireless telephone
+3 call or to turn on or turn off the handheld telephone.
+4 (e) (1) A person convicted of a violation of this section is subject to the
+5 following penalties:
+6 (i) For a first offense, a fine of not more than $75;
+7 (ii) For a second offense, a fine of not more than $125; and
+8 (iii) For a third or subsequent offense, a fine of not more than $175.
+9 (2) Points may not be assessed against the individual under § 16–402 of
+10 this article unless the offense contributes to an accident.
+11 21–1124.4.
+12 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+13 INDICATED.
+14 (2) “AGENCY” MEANS A COUNTY LAW ENFORCEMENT AGENCY THAT
+15 IS AUTHORIZED TO ISSUE A CITATION FOR A VIOLATION OF THE MARYLAND
+16 VEHICLE LAW OR OF LOCAL TRAFFIC LAWS OR REGULATIONS.
+17 (3) “DISTRACTED DRIVING MONITORING SYSTEM” MEANS A DEVICE
+18 WITH ONE OR MORE MOTOR VEHICLE SENSORS THAT AUTOMATICALLY PRODUCES
+19 TWO OR MORE PHOTOGRAPHS, TWO OR MORE MICROPHOTOGRAPHS, A VIDEOTAPE,
+20 OR OTHER RECORDED IMAGES OF A MOTOR VEHICLE AT THE TIME THE MOTOR
+21 VEHICLE IS OPERATED DURING THE COMMISSION OF A VIOLATION.
+22 (4) “DISTRACTED DRIVING MONITORING SYSTEM OPERATOR” MEANS
+23 A REPRESENTATIVE OF AN AGENCY OR A CONTRACTOR THAT OPERATES A
+24 DISTRACTED DRIVING MONITORING SYSTEM.
+25 (5) (I) “OWNER” MEANS THE REGISTERED OWNER OF A MOTOR
+26 VEHICLE OR A LESSEE OF A MOTOR VEHICLE UNDER A LEASE OF 6 MONTHS OR
+27 MORE.
+28 (II) “OWNER” DOES NOT INCLUDE A MOTOR VEHICLE RENTAL
+29 OR LEASING COMPANY.
+30 (6) “RECORDED IMAGE” MEANS A BLACK AND WHITE IMAGE
+31 RECORDED BY A DISTRACTED DRIVING MONITORING SYSTEM:
+
+SENATE BILL 613 7
+1 (I) ON:
+2 1. A PHOTOGRAPH;
+3 2. A MICROPHOTOGRAPH;
+4 3. AN ELECTRONIC IMAGE;
+5 4. VIDEOTAPE; OR
+6 5. ANY OTHER MEDIUM; AND
+7 (II) SHOWING:
+8 1. THE DRIVER OF THE MOTOR VEHICLE, WITH THE
+9 DRIVER’S FACE BLURRED, COMMITTING AN ALLEGED VIOLATION;
+10 2. AT LEAST TWO TIME–STAMPED IMAGES OF THE
+11 MOTOR VEHICLE THAT INCLUDE THE SAME STATIONARY OBJECT NEAR THE MOTOR
+12 VEHICLE; AND
+13 3. ON AT LEAST ONE IMAGE OR PORTION OF TAPE, A
+14 CLEAR AND LEGIBLE IDENTIFICATION OF THE ENTIRE REGISTRATION PLATE
+15 NUMBER OF THE MOTOR VEHICLE.
+16 (7) “VIOLATION” MEANS A VIOLATION OF § 21–1124, § 21–1124.1, OR
+17 § 21–1124.2 OF THIS SUBTITLE.
+18 (B) THIS SECTION APPLIES ONLY IN MONTGOMERY COUNTY AND PRINCE
+19 GEORGE’S COUNTY.
+20 (C) (1) (I) A DISTRACTED DRIVING MONITORING SYSTEM MAY BE USED
+21 IN A COUNTY IN ACCORDANCE WITH THIS SUBTITLE IF:
+22 1. ITS USE IS AUTHORIZED BY THE COUNTY GOVERNING
+23 BODY BY LOCAL LAW ENACTED AFTER REASONABLE NOTICE AND A PUBLIC
+24 HEARING; AND
+25 2. THE COUNTY HAS DETERMINED THAT THERE IS A
+26 NEED FOR A DISTRACTED DRIVING MONITORING SYSTEM AT THE LOCATION BEING
+27 PROPOSED FOR THE USE OF A DISTRACTED DRIVING MONITORING SYSTEM.
+
+8 SENATE BILL 613
+1 (II) BEFORE A COUNTY MAY USE A DISTRACTED DRIVING
+2 MONITORING SYSTEM ON A STATE HIGHWAY AT A LOCATION WITHIN A MUNICIPAL
+3 CORPORATION, THE COUNTY SHALL:
+4 1. OBTAIN THE APPROVAL OF THE STATE HIGHWAY
+5 ADMINISTRATION;
+6 2. NOTIFY THE MUNICIPAL CORPORATION OF THE
+7 STATE HIGHWAY ADMINISTRATION’S APPROVAL OF THE USE OF A DISTRACTED
+8 DRIVING MONITORING SYSTEM AT THAT LOCATION; AND
+9 3. GRANT THE MUNICIPAL CORPORATION 60 DAYS
+10 AFTER THE DATE OF THE COUNTY’S NOTICE TO THE MUNICIPAL CORPORATION TO
+11 ENACT AN ORDINANCE AUTHORIZING THE MUNICIPAL CORPORATION INSTEAD OF
+12 THE COUNTY TO USE A DISTRACTED DRIVING MONITORING SYSTEM AT THAT
+13 LOCATION.
+14 (III) BEFORE ACTIVATING A DISTRACTED DRIVING MONITORING
+15 SYSTEM, THE COUNTY SHALL:
+16 1. PUBLISH NOTICE OF THE LOCATION OF THE
+17 DISTRACTED DRIVING MONITORING SYSTEM ON THE COUNTY’S WEBSITE; AND
+18 2. ENSURE THAT EACH DISTRACTED DRIVING
+19 MONITORING SYSTEM IS PROXIMATE TO A SIGN THAT:
+20 A. INDICATES THAT DISTRACTED DRIVING MONITORING
+21 SYSTEMS ARE IN USE IN THE AREA; AND
+22 B. IS IN ACCORDANCE WITH THE MANUAL AND THE
+23 SPECIFICATIONS FOR A UNIFORM SYSTEM OF TRAFFIC CONTROL DEVICES ADOPTED
+24 BY THE STATE HIGHWAY ADMINISTRATION UNDER § 25–104 OF THIS ARTICLE.
+25 (IV) 1. A COUNTY THAT AUTHORIZES A PROGRAM OF
+26 DISTRACTED DRIVING MONITORING SYSTEMS SHALL DESIGNATE AN OFFICIAL OR
+27 EMPLOYEE TO INVESTIGATE AND RESPOND TO QUESTIONS OR CONCERNS ABOUT
+28 THE COUNTY’S DISTRACTED DRIVING MONITORING SYSTEM PROGRAM.
+29 2. A. THE LOCAL DESIGNEE SHALL REVIEW A
+30 CITATION GENERATED BY A DISTRACTED DRIVING MONITORING SYSTEM IF THE
+31 PERSON WHO RECEIVED THE CITATION REQUESTS REVIEW BEFORE THE DEADLINE
+32 FOR CONTESTING LIABILITY UNDER THIS SECTION.
+
+SENATE BILL 613 9
+1 B. IF THE LOCAL DESIGNEE DETERMINES THAT THE
+2 CITATION IS AN ERRONEOUS VIOLATION, THE LOCAL DESIGNEE SHALL VOID THE
+3 CITATION.
+4 C. IF THE LOCAL DESIGNEE DETERMINES THAT A
+5 PERSON DID NOT RECEIVE NOTICE OF A CITATION ISSUED UNDER THIS SECTION DUE
+6 TO AN ADMINISTRATIVE ERROR, THE LOCAL DESIGNEE MAY RESEND THE CITATION
+7 IN ACCORDANCE WITH SUBSECTION (E) OF THIS SECTION OR VOID THE CITATION.
+8 D. A LOCAL DESIGNEE THAT TAKES ANY ACTION
+9 DESCRIBED UNDER SUBSUBSUBPARAGRAPH C OF THIS SUBSUBPARAGRAPH SHALL
+10 NOTIFY THE ADMINISTRATION OF THE ACTION FOR THE PURPOSE OF RESCINDING
+11 ANY ADMINISTRATIVE PENALTIES IMPOSED UNDER SUBSECTION (H) OF THIS
+12 SECTION.
+13 E. A LOCAL DESIGNEE MAY NOT DETERMINE THAT A
+14 CITATION IS AN ERRONEOUS VIOLATION BASED SOLELY ON THE DISMISSAL OF THE
+15 CITATION BY A COURT.
+16 3. A LOCAL DESIGNEE MAY NOT BE EMPLOYED BY A
+17 DISTRACTED DRIVING MONITORING SYSTEM CONTRACTOR OR HAVE BEEN
+18 INVOLVED IN ANY REVIEW OF A DISTRACTED DRIVING MONITORING SYSTEM
+19 CITATION OTHER THAN REVIEW OF A CITATION UNDER THIS PARAGRAPH.
+20 4. ON RECEIPT OF A WRITTEN QUESTION OR CONCERN
+21 FROM A PERSON, THE LOCAL DESIGNEE SHALL PROVIDE A WRITTEN ANSWER OR
+22 RESPONSE TO THE PERSON WITHIN A REASONABLE TIME.
+23 5. A COUNTY SHALL MAKE ANY WRITTEN QUESTIONS OR
+24 CONCERNS RECEIVED UNDER THIS PARAGRAPH AND ANY SUBSEQUENT WRITTEN
+25 ANSWERS OR RESPONSES AVAILABLE FOR PUBLIC INSPECTION.
+26 (V) IF A COUNTY MOVES OR PLACES A DISTRACTED DRIVING
+27 MONITORING SYSTEM TO OR AT A LOCATION WHERE A DISTRACTED DRIVING
+28 MONITORING SYSTEM HAD NOT PREVIOUSLY BEEN MOVED OR PLACED, THE COUNTY
+29 MAY NOT ISSUE A CITATION FOR A VIOLATION RECORDED BY THAT DISTRACTED
+30 DRIVING MONITORING SYSTEM:
+31 1. UNTIL SIGNAGE IS INSTALLED IN ACCORDANCE WITH
+32 SUBPARAGRAPH (III)2 OF THIS PARAGRAPH; AND
+33 2. FOR AT LEAST THE FIRST 15 CALENDAR DAYS AFTER
+34 THE SIGNAGE IS INSTALLED.
+
+10 SENATE BILL 613
+1 (2) (I) A DISTRACTED DRIVING MONITORING SYSTEM OPERATOR
+2 SHALL COMPLETE TRAINING BY THE MANUFACTURER OF THE DISTRACTED DRIVING
+3 MONITORING SYSTEM IN THE PROCEDURES FOR SETTING UP AND OPERATING THE
+4 DISTRACTED DRIVING MONITORING SYSTEM.
+5 (II) THE MANUFACTURER SHALL ISSUE A SIGNED CERTIFICATE
+6 TO THE DISTRACTED DRIVING MONITORING SYSTEM OPERATOR ON COMPLETION OF
+7 THE TRAINING.
+8 (III) THE CERTIFICATE OF TRAINING SHALL BE ADMITTED AS
+9 EVIDENCE IN ANY COURT PROCEEDING FOR A VIOLATION.
+10 (3) A DISTRACTED DRIVING MONITORING SYSTEM OPERATOR SHALL
+11 FILL OUT AND SIGN A DAILY SET–UP LOG FOR A DISTRACTED DRIVING MONITORING
+12 SYSTEM THAT:
+13 (I) STATES THAT THE DISTRACTED DRIVING MONITORING
+14 SYSTEM OPERATOR SUCCESSFULLY PERFORMED OR REVIEWED AND EVALUATED
+15 THE MANUFACTURER–SPECIFIED DAILY SELF–TEST OF THE DISTRACTED DRIVING
+16 MONITORING SYSTEM BEFORE PRODUCING A RECORDED IMAGE;
+17 (II) STATES THE DATE AND TIME WHEN AND THE LOCATION
+18 WHERE THE DISTRACTED DRIVING MONITORING SYSTEM WAS SET UP EACH DAY;
+19 (III) SHALL BE KEPT ON FILE; AND
+20 (IV) SHALL BE ADMITTED AS EVIDENCE IN ANY COURT
+21 PROCEEDING FOR A VIOLATION.
+22 (4) (I) A DISTRACTED DRIVING MONITORING SYSTEM SHALL
+23 UNDERGO AN ANNUAL CALIBRATION CHECK PERFORMED BY AN INDEPENDENT
+24 CALIBRATION LABORATORY THAT IS:
+25 1. SELECTED BY THE COUNTY; AND
+26 2. UNAFFILIATED WITH THE MANUFACTURER OF THE
+27 DISTRACTED DRIVING MONITORING SYSTEM.
+28 (II) THE INDEPENDENT CALIBRATION LABORATORY SHALL
+29 ISSUE A SIGNED CERTIFICATE OF CALIBRATION AFTER THE ANNUAL CALIBRATION
+30 CHECK THAT SHALL BE:
+31 1. KEPT ON FILE; AND
+
+SENATE BILL 613 11
+1 2. ADMITTED AS EVIDENCE IN ANY COURT PROCEEDING
+2 FOR A VIOLATION.
+3 (5) A COUNTY THAT ESTABLISHES A DISTRACTED DRIVING
+4 MONITORING SYSTEM PROGRAM SHALL BEAR THE COST OF IMPLEMENTING THE
+5 PROGRAM.
+6 (D) (1) UNLESS THE DRIVER OF THE MOTOR VEHICLE RECEIVED A
+7 CITATION FROM A POLICE OFFICER AT THE TIME OF THE VIOLATION, THE OWNER OF
+8 A MOTOR VEHICLE IS SUBJECT TO A CIVIL PENALTY IF THE MOTOR VEHICLE IS
+9 RECORDED BY A DISTRACTED DRIVING MONITORING SYSTEM WHILE BEING
+10 OPERATED DURING THE COMMISSION OF A VIOLATION.
+11 (2) A PERSON LIABLE FOR A VIOLATION ENFORCED BY A DISTRACTED
+12 DRIVING MONITORING SYSTEM IS SUBJECT TO A CIVIL PENALTY NOT EXCEEDING
+13 $40.
+14 (3) FOR PURPOSES OF THIS SECTION, THE DISTRICT COURT SHALL
+15 PRESCRIBE:
+16 (I) A UNIFORM CITATION FORM CONSISTENT WITH
+17 SUBSECTION (E)(1) OF THIS SECTION AND § 7–302 OF THE COURTS ARTICLE; AND
+18 (II) A CIVIL PENALTY, WHICH SHALL BE INDICATED ON THE
+19 CITATION, TO BE PAID BY A PERSON WHO CHOOSES TO PREPAY THE CIVIL PENALTY
+20 WITHOUT APPEARING IN DISTRICT COURT.
+21 (E) (1) SUBJECT TO PARAGRAPHS (2) AND (3) OF THIS SUBSECTION, AN
+22 AGENCY SHALL MAIL TO AN OWNER LIABLE UNDER SUBSECTION (D) OF THIS
+23 SECTION A CITATION THAT SHALL INCLUDE:
+24 (I) THE NAME AND ADDRESS OF THE REGISTERED OWNER OF
+25 THE MOTOR VEHICLE;
+26 (II) THE REGISTRATION NUMBER OF THE MOTOR VEHICLE
+27 INVOLVED IN THE VIOLATION;
+28 (III) THE VIOLATION CHARGED;
+29 (IV) THE LOCATION WHERE THE VIOLATION OCCURRED;
+30 (V) THE LOCATION OF THE DISTRACTED DRIVING MONITORING
+31 SYSTEM;
+
+12 SENATE BILL 613
+1 (VI) THE DATE AND TIME OF THE VIOLATION;
+2 (VII) A COPY OF THE RECORDED IMAGE;
+3 (VIII) THE AMOUNT OF THE CIVIL PENALTY IMPOSED AND THE
+4 DATE BY WHICH THE CIVIL PENALTY SHOULD BE PAID, IF APPLICABLE;
+5 (IX) A SIGNED STATEMENT BY A DULY AUTHORIZED LAW
+6 ENFORCEMENT OFFICER EMPLOYED BY OR UNDER CONTRACT WITH AN AGENCY
+7 THAT, BASED ON INSPECTION OF RECORDED IMAGES, THE MOTOR VEHICLE WAS
+8 BEING OPERATED DURING THE COMMISSION OF A VIOLATION;
+9 (X) A STATEMENT THAT RECORDED IMAGES ARE EVIDENCE OF
+10 A VIOLATION;
+11 (XI) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+12 LIABLE UNDER THIS SECTION OF THE MANNER AND TIME IN WHICH LIABILITY AS
+13 ALLEGED IN THE CITATION MAY BE CONTESTED IN THE DISTRICT COURT; AND
+14 (XII) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+15 LIABLE UNDER THIS SECTION THAT FAILURE TO PAY THE CIVIL PENALTY OR TO
+16 CONTEST LIABILITY IN A TIMELY MANNER, IF APPLICABLE:
+17 1. IS AN ADMISSION OF LIABILITY;
+18 2. MAY RESULT IN THE REFUSAL BY THE
+19 ADMINISTRATION TO REGISTER THE MOTOR VEHICLE; AND
+20 3. MAY RESULT IN THE SUSPENSION OF THE MOTOR
+21 VEHICLE REGISTRATION.
+22 (2) AN AGENCY MAY NOT MAIL A CITATION TO A PERSON WHO IS NOT
+23 AN OWNER.
+24 (3) EXCEPT AS PROVIDED IN SUBSECTION (C)(1)(IV)2C OF THIS
+25 SECTION, A CITATION ISSUED UNDER THIS SECTION SHALL BE MAILED NOT LATER
+26 THAN 2 WEEKS AFTER THE ALLEGED VIOLATION IF THE VEHICLE IS REGISTERED IN
+27 THE STATE, AND 30 DAYS AFTER THE ALLEGED VIOLATION IF THE VEHICLE IS
+28 REGISTERED IN ANOTHER STATE.
+29 (4) A PERSON WHO RECEIVES A CITATION UNDER PARAGRAPH (1) OF
+30 THIS SUBSECTION MAY:
+
+SENATE BILL 613 13
+1 (I) PAY THE CIVIL PENALTY, IN ACCORDANCE WITH
+2 INSTRUCTIONS ON THE CITATION, DIRECTLY TO THE COUNTY; OR
+3 (II) ELECT TO STAND TRIAL IN THE DISTRICT COURT FOR THE
+4 ALLEGED VIOLATION.
+5 (F) (1) A CERTIFICATE ALLEGING THAT THE VIOLATION OCCURRED AND
+6 THE REQUIREMENTS UNDER SUBSECTION (C) OF THIS SECTION HAVE BEEN
+7 SATISFIED, SWORN TO OR AFFIRMED BY A DULY AUTHORIZED LAW ENFORCEMENT
+8 OFFICER EMPLOYED BY OR UNDER CONTRACT WITH AN AGENCY, BASED ON
+9 INSPECTION OF RECORDED IMAGES PRODUCED BY A DISTRACTED DRIVING
+10 MONITORING SYSTEM, SHALL BE EVIDENCE OF THE FACTS CONTAINED IN THE
+11 CERTIFICATE AND SHALL BE ADMISSIBLE IN A PROCEEDING ALLEGING A VIOLATION
+12 WITHOUT THE PRESENCE OR TESTIMONY OF THE DISTRACTED DRIVING
+13 MONITORING SYSTEM OPERATOR WHO PERFORMED THE REQUIREMENTS UNDER
+14 SUBSECTION (C) OF THIS SECTION.
+15 (2) IF A PERSON WHO RECEIVED A CITATION UNDER SUBSECTION (E)
+16 OF THIS SECTION DESIRES THE DISTRACTED DRIVING MONITORING SYSTEM
+17 OPERATOR TO BE PRESENT AND TESTIFY AT TRIAL, THE PERSON SHALL NOTIFY THE
+18 COURT AND THE AGENCY IN WRITING NOT LATER THAN 20 DAYS BEFORE TRIAL.
+19 (3) ADJUDICATION OF LIABILITY SHALL BE BASED ON A
+20 PREPONDERANCE OF EVIDENCE.
+21 (G) (1) THE DISTRICT COURT MAY CONSIDER IN DEFENSE OF A
+22 VIOLATION:
+23 (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THAT
+24 THE MOTOR VEHICLE OR THE REGISTRATION PLATES OF THE MOTOR VEHICLE WERE
+25 STOLEN BEFORE THE VIOLATION OCCURRED AND WERE NOT UNDER THE CONTROL
+26 OR POSSESSION OF THE OWNER AT THE TIME OF THE VIOLATION;
+27 (II) THAT THE DISTRACTED DRIVING MONITORING SYSTEM WAS
+28 MALFUNCTIONING AT THE TIME OF THE VIOLATION; OR
+29 (III) ANY OTHER ISSUES AND EVIDENCE THAT THE DISTRICT
+30 COURT CONSIDERS PERTINENT.
+31 (2) TO DEMONSTRATE THAT THE MOTOR VEHICLE OR THE
+32 REGISTRATION PLATES WERE STOLEN BEFORE THE VIOLATION OCCURRED AND
+33 WERE NOT UNDER THE CONTROL OR POSSESSION OF THE OWNER AT THE TIME OF
+34 THE VIOLATION, THE OWNER SHALL SUBMIT PROOF THAT A POLICE REPORT
+
+14 SENATE BILL 613
+1 REGARDING THE STOLEN MOTOR VEHICLE OR REGISTRATION PLATES WAS FILED IN
+2 A TIMELY MANNER.
+3 (H) IF A PERSON LIABLE UNDER THIS SECTION DOES NOT PAY THE CIVIL
+4 PENALTY OR CONTEST THE VIOLATION, THE ADMINISTRATION MAY REFUSE TO
+5 REGISTER OR REREGISTER THE MOTOR VEHICLE CITED FOR THE VIOLATION.
+6 (I) A VIOLATION FOR WHICH A CIVIL PENALTY IS IMPOSED UNDER THIS
+7 SECTION:
+8 (1) IS NOT A MOVING VIOLATION FOR THE PURPOSE OF ASSESSING
+9 POINTS UNDER § 16–402 OF THIS ARTICLE;
+10 (2) MAY NOT BE RECORDED BY THE ADMINISTRATION ON THE
+11 DRIVING RECORD OF THE OWNER OF THE VEHICLE;
+12 (3) MAY BE TREATED AS A PARKING VIOLATION FOR THE PURPOSES
+13 OF § 26–305 OF THIS ARTICLE; AND
+14 (4) MAY NOT BE CONSIDERED IN THE PROVISION OF MOTOR VEHICLE
+15 INSURANCE COVERAGE.
+16 (J) IN CONSULTATION WITH THE APPROPRIATE COUNTY AGENCIES, THE
+17 CHIEF JUDGE OF THE DISTRICT COURT SHALL ADOPT PROCEDURES FOR THE
+18 ISSUANCE OF CITATIONS, THE TRIAL OF CIVIL VIOLATIONS, AND THE COLLECTION
+19 OF CIVIL PENALTIES UNDER THIS SECTION.
+20 (K) (1) AN AGENCY OR AN AGENT OR A CONTRACTOR DESIGNATED BY THE
+21 AGENCY SHALL ADMINISTER AND PROCESS CIVIL CITATIONS ISSUED UNDER THIS
+22 SECTION IN COORDINATION WITH THE DISTRICT COURT.
+23 (2) IF A CONTRACTOR IN ANY MANNER OPERATES A DISTRACTED
+24 DRIVING MONITORING SYSTEM OR ADMINISTERS OR PROCESSES CITATIONS
+25 GENERATED BY A DISTRACTED DRIVING MONITORING SYSTEM ON BEHALF OF A
+26 COUNTY, THE CONTRACTOR’S FEE MAY NOT BE CONTINGENT ON A PER–TICKET
+27 BASIS ON THE NUMBER OF CITATIONS ISSUED OR PAID.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
+29 2027, a county that authorizes a program of distracted driving monitoring systems under
+30 this Act shall report to the Governor and, in accordance with § 2–1257 of the State
+31 Government Article, the General Assembly:
+32 (1) on the effectiveness of distracted driving monitoring systems on
+33 improving public safety at the county level and in the specific areas where the systems were
+34 implemented and used; and
+
+SENATE BILL 613 15
+1 (2) using data collected through October 1, 2027.
+2 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+3 October 1, 2025. It shall remain effective for a period of 3 years and, at the end of September
+4 30, 2028, this Act, with no further action required by the General Assembly, shall be
+5 abrogated and of no further force and effect.
+
+[DELETED: :CA      5   C A M M F m c a B  A S  A  ( B  A S A  ( B  A S  A  (  S T A]
+[DELETED:  S  4  E T   ( A p f a c i u § 2 § 2 § 2  §2 o 7  ( ( ( A c i p to §I A W 2 §2 o c s po     ( O t p    ( O t o   ( ( A c i a t r o a v h m s s a or  m sm s p D t    ( A c i a t r o a t c s m a s a b l m s or a n a m s]O A   p   ( C m s t c s m s s m s w z s c s s s m s s b m c b l m s or a n a s]  ]
+[DELETED: S 3 s b c i a w s ( o t s a d i a   ( ( E f c b a p s a a r o v e b s m b or  ss,     1 M t s cg      2 S t s ( ( a ( o t p p 1  ( A r i o a m v p b a t c s m s i a w § 2 o t T A i a i a p c a c c i u t s f a v  ( A i p S  ( A r i o a m v p b a s b m c i a w § 2 o t T A i a a p o  ( A s i a w § 2 o t T A i a i a p l l r t p o c v d c t w a  (R I O A M V P B A   2 R R C I U T S F A V O  2,2,§22T O   O T R R W ]
+[DELETED:  S   A) i c T  ()A]() p d i a w § 2 o t T A i a i a p o  () A]( s i a w § 2 o t T A i a i a p o  () I]( h m s t c s m s s m s w z s c s s s m sDM s s m p A 2  ( T   ( T   ( A  ( A i w i u t a o 1 y m n u a w c 2  ( S t s ( o t s a i m n u a t m o  ( T]
+[DELETED: S 5   ( A   ( A 2  ( T   ( E    ( A    ( A    ( A    ( A    ( A    ( A   ( U w    ( L    ( E   ( U 2   ( U o a h t a a c d u p i  ( T a   ( A m   ( A l  ( ( T (]
+[DELETED:  S    ( A h c  ( ( A p c o a v o t s i s t t f    ( F    ( F    ( F   ( P t() ( N ( “AY  A T I A C F A V O T AL. A ( “DM S S E, O R I O A M V A T T T M ( “DR  R O A A O A C T O A ( () “OWR M T R O O A M O A L O M U L O  M O  () “OIWR  ( “R IE M A B A W I]
+[DELETED: S 7  () O:   1 A;   2 A;   3 A;   4 V;E    5 A;M   () S:IH   1 T D O T M VE W TRSD ,;   2 A L T TES I O TE    3 O A L O I O P O TE A A L I O T E R PE ( “V”§2,§2N      22. () TMCH O O R’C.ES O() ( () I F   1  B L L E A R N A A PG    2  C H D T T I A]
+[DELETED:  S   () IE A C M U A D D TN :   1 OS T A O T T I;   2  T M C O THA I DNS A O T U O A DN    3 G6 T M C  DYS C T U A D D M S A T  () IEM :   1  N O T L O TYSE ;   2  T E D D   A A    B  I A W T M A T T I D   HA§24.    ) 1 V CYT A A P OYSD       A  L D S R A G B A D D M S I T]
+[DELETED: S 9      T L D D T TN       T L D D T AR  E ).     L D T T A A   D A P I U S H O T   E L D M N D T A   3 L D M N B E B A D M S C O H B I A R O A D D M S     N        () F A C M O P A D D S T O A A L W A D DD  A C V R   1  II H )2;   2 F1  ]
+[DELETED:  S    ()     ) IH   ) IH C O T S B A A   TU   ) T T T D D M O S P O R A ERSFT   ) IT T D A T W A T L   ) S;IHE    ) VH B A A E I A C   ()  D D M S S A A C C P B A I     S;Y       W T M O T   ) IH I C L S     K;E ]
+[DELETED: S 1         CYT E A D D S P S B T C O I T ) ( N T D O T M V R AN  M V I S T A C P I T M V I B A D D M S W B      F,DN  I O   )  U C F C W E     O RE ))§72CA;   ) AI C PY W S B I O TN  I OC.() ( S()()U    N  S M T A O L U S D O T   ) H   ) IH R N O T M V   ) T;IH   ) T;VH   ) H]
+[DELETED:  S    ) T;IH   ) A;I    )IH A O T C P I A TD ;   ) X S S B A D A L O E B O U C W A AT B O I O IS T M W   )     ) IN A T P A T B I OT C;   ) IN A T P A T B U CR :     I;      R I T R B T;E       R I T S O T M      E()() A P I S CIV O TN    TE A  D A T A V I T V I,3   A(  ]
+[DELETED: S 1   ) PA T C PY I A WN ECY      ) EDIL I O() (   R U S C O T S H BD  E B O U C W A AY B O O R I P B A D D SM S B E O T F C I T  T P O T O T D D S O W P T R U C )    I( E T S D T D D M SL   0.    O L S B B O A() ( TDH I O M C I D O A   ) S()U  N    ) IHN    ) AIN O I A E T T I.    D T T M V O T P W S B T V O A VN T O S S P T A P R]
+[DELETED:  S () F O C T VN T D M R T()  V A C I      12;   M N B R B T D O T      E 25;   () IN C W T AECYAS T  JD U O T I O S A P F TS S () ( N I OC.    A C I A M O A D M S O A O P C B A D D M S O B O AY T CRS F M N B C O A PRT’   S 2 t A s r t t G a i a w § 2 o t S G   ( o t e o d d m s o i i]
+[DELETED: S 1   ( u  S A B I F E T t A s t e O 3 2 t A w n f a r b t G A s b a]

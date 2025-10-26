@@ -1,0 +1,183 @@
+Title: HOUSE BILL 215
+Official Title: HOUSE BILL 215
+Number of Sections: 1
+Source: versions - First - Elections - Ranked-Choice Voting in Contests for Presidential Nomination and Certification of Election-Supporting Technology
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+G1 5lr0777
+(PRE–FILED) CF 5lr0778
+By: Delegates Fair, Feldmark, Kaufman, Lehman, Ruth, Stewart, and Terrasa
+Requested: September 9, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Elections – Ranked–Choice Voting in Contests for Presidential Nomination and
+3 Certification of Election–Supporting Technology
+4 FOR the purpose of authorizing the State Board of Elections, beginning with a certain
+5 statewide primary election, to use ranked–choice voting to conduct a contest for the
+6 nomination by a political party of a candidate for the office of President of the United
+7 States; requiring the State Board to develop and pay the cost of a certain voter
+8 education campaign under certain circumstances; requiring the State Board to adopt
+9 regulations for the review, certification, and decertification of election–supporting
+10 technology and to periodically review and evaluate election–supporting technology;
+11 and generally relating to ranked–choice voting and the certification of
+12 election–supporting technology.
+13 BY adding to
+14 Article – Election Law
+15 Section 8–206 and 9–107
+16 Annotated Code of Maryland
+17 (2022 Replacement Volume and 2024 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Election Law
+21 8–206.
+22 (A) IN THIS SECTION, “RANKED–CHOICE VOTING” MEANS A METHOD OF
+23 CASTING AND TABULATING VOTES IN WHICH VOTERS RANK CANDIDATES IN ORDER
+24 OF PREFERENCE AND VOTES ARE TABULATED IN A MANNER THAT REFLECTS VOTER
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0215*
+2 HOUSE BILL 215
+1 PREFERENCE.
+2 (B) NOTWITHSTANDING ANY OTHER PROVISION OF THIS ARTICLE,
+3 BEGINNING WITH THE 2028 STATEWIDE PRIMARY ELECTION, THE STATE BOARD
+4 MAY USE RANKED–CHOICE VOTING TO CONDUCT A CONTEST FOR THE NOMINATION
+5 BY A POLITICAL PARTY OF A CANDIDATE FOR THE OFFICE OF PRESIDENT OF THE
+6 UNITED STATES.
+7 (C) (1) IF THE STATE BOARD USES RANKED–CHOICE VOTING UNDER
+8 SUBSECTION (B) OF THIS SECTION, THE STATE BOARD SHALL:
+9 (I) DEVELOP AND PAY THE COST OF A VOTER EDUCATION
+10 CAMPAIGN TO INFORM VOTERS ABOUT RANKED–CHOICE VOTING;
+11 (II) SHARE THE VOTER EDUCATION CAMPAIGN DEVELOPED
+12 UNDER ITEM (I) OF THIS PARAGRAPH WITH THE LOCAL BOARDS; AND
+13 (III) ON OR BEFORE JANUARY 1, 2029, SUBMIT A REPORT TO THE
+14 GOVERNOR AND, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+15 ARTICLE, THE GENERAL ASSEMBLY THAT INCLUDES:
+16 1. A REVIEW OF THE USE OF RANKED–CHOICE VOTING
+17 DURING THE 2028 STATEWIDE PRIMARY ELECTION; AND
+18 2. RECOMMENDATIONS REGARDING THE
+19 IMPLEMENTATION AND EXPANSION OF RANKED–CHOICE VOTING IN FUTURE
+20 ELECTIONS.
+21 (2) THE REPORT UNDER PARAGRAPH (1)(III) OF THIS SUBSECTION
+22 SHALL BE:
+23 (I) DISTRIBUTED TO THE LOCAL BOARDS; AND
+24 (II) POSTED ON THE STATE BOARD’S WEBSITE.
+25 9–107.
+26 (A) (1) IN THIS SECTION, “ELECTION–SUPPORTING TECHNOLOGY”
+27 MEANS ANY EQUIPMENT OR TECHNOLOGY THAT IS DESIGNED FOR USE IN THE
+28 ADMINISTRATION OF ELECTIONS, INCLUDING:
+29 (I) ELECTRONIC POLLBOOKS;
+HOUSE BILL 215 3
+1 (II) RISK–LIMITING AUDIT TOOLS; AND
+2 (III) ANY SOFTWARE USED FOR PREPARING, PRESENTING, OR
+3 REPORTING THE RESULTS PRODUCED BY A VOTING SYSTEM.
+4 (2) “ELECTION–SUPPORTING TECHNOLOGY” DOES NOT INCLUDE A
+5 VOTING SYSTEM.
+6 (B) THE STATE BOARD SHALL:
+7 (1) ADOPT REGULATIONS:
+8 (I) FOR THE REVIEW, CERTIFICATION, AND DECERTIFICATION
+9 OF ELECTION–SUPPORTING TECHNOLOGY; AND
+10 (II) RELATING TO REQUIREMENTS FOR ELECTION–SUPPORTING
+11 TECHNOLOGY SELECTED AND CERTIFIED UNDER THIS SECTION; AND
+12 (2) PERIODICALLY REVIEW AND EVALUATE ELECTION–SUPPORTING
+13 TECHNOLOGY.
+14 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+15 October 1, 2025.
+[DELETED: :CA      5 ( C A E C F s n S r t S B t d a p t c o a c v e r t a g r t r v a t c o e B  A S  A  (  S T A() I,“–N T SN RDC VG M A M O]
+[DELETED:  H () NO A O P O T AE  S PN T T O8,SDC RS. T() ( ISBF T T O U RDC V U B N  T O),SB:  ()D A P T C O A V EDC;  ()IS T V E C D I S );  () J1,2IO A   ,§27S AD I A W   O T T O,GA:E  E S   1 DC  N 8;   2 R T A E O RDC V I F ( T(( R II O S  () ;DS   () SB’.IP T ODS() ( I,“–N T SN ENS TY A E O T T I D F U I TS :  () ;ES]
+[DELETED: H 3  () –;IRKLS   () ,IA S U F PG PG O ( “E–NS TY D N I AM() TSB:H T OL ( :S  () ,FW N NSY ;  () IRNSN  ( NS  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 215
+G1 5lr0777
+(PRE–FILED) CF 5lr0778
+By: Delegates Fair, Feldmark, Kaufman, Lehman, Ruth, Stewart, and Terrasa
+Requested: September 9, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Elections – Ranked–Choice Voting in Contests for Presidential Nomination and
+3 Certification of Election–Supporting Technology
+4 FOR the purpose of authorizing the State Board of Elections, beginning with a certain
+5 statewide primary election, to use ranked–choice voting to conduct a contest for the
+6 nomination by a political party of a candidate for the office of President of the United
+7 States; requiring the State Board to develop and pay the cost of a certain voter
+8 education campaign under certain circumstances; requiring the State Board to adopt
+9 regulations for the review, certification, and decertification of election–supporting
+10 technology and to periodically review and evaluate election–supporting technology;
+11 and generally relating to ranked–choice voting and the certification of
+12 election–supporting technology.
+13 BY adding to
+14 Article – Election Law
+15 Section 8–206 and 9–107
+16 Annotated Code of Maryland
+17 (2022 Replacement Volume and 2024 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Election Law
+21 8–206.
+22 (A) IN THIS SECTION, “RANKED–CHOICE VOTING” MEANS A METHOD OF
+23 CASTING AND TABULATING VOTES IN WHICH VOTERS RANK CANDIDATES IN ORDER
+24 OF PREFERENCE AND VOTES ARE TABULATED IN A MANNER THAT REFLECTS VOTER
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0215*
+
+2 HOUSE BILL 215
+1 PREFERENCE.
+2 (B) NOTWITHSTANDING ANY OTHER PROVISION OF THIS ARTICLE,
+3 BEGINNING WITH THE 2028 STATEWIDE PRIMARY ELECTION, THE STATE BOARD
+4 MAY USE RANKED–CHOICE VOTING TO CONDUCT A CONTEST FOR THE NOMINATION
+5 BY A POLITICAL PARTY OF A CANDIDATE FOR THE OFFICE OF PRESIDENT OF THE
+6 UNITED STATES.
+7 (C) (1) IF THE STATE BOARD USES RANKED–CHOICE VOTING UNDER
+8 SUBSECTION (B) OF THIS SECTION, THE STATE BOARD SHALL:
+9 (I) DEVELOP AND PAY THE COST OF A VOTER EDUCATION
+10 CAMPAIGN TO INFORM VOTERS ABOUT RANKED–CHOICE VOTING;
+11 (II) SHARE THE VOTER EDUCATION CAMPAIGN DEVELOPED
+12 UNDER ITEM (I) OF THIS PARAGRAPH WITH THE LOCAL BOARDS; AND
+13 (III) ON OR BEFORE JANUARY 1, 2029, SUBMIT A REPORT TO THE
+14 GOVERNOR AND, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+15 ARTICLE, THE GENERAL ASSEMBLY THAT INCLUDES:
+16 1. A REVIEW OF THE USE OF RANKED–CHOICE VOTING
+17 DURING THE 2028 STATEWIDE PRIMARY ELECTION; AND
+18 2. RECOMMENDATIONS REGARDING THE
+19 IMPLEMENTATION AND EXPANSION OF RANKED–CHOICE VOTING IN FUTURE
+20 ELECTIONS.
+21 (2) THE REPORT UNDER PARAGRAPH (1)(III) OF THIS SUBSECTION
+22 SHALL BE:
+23 (I) DISTRIBUTED TO THE LOCAL BOARDS; AND
+24 (II) POSTED ON THE STATE BOARD’S WEBSITE.
+25 9–107.
+26 (A) (1) IN THIS SECTION, “ELECTION–SUPPORTING TECHNOLOGY”
+27 MEANS ANY EQUIPMENT OR TECHNOLOGY THAT IS DESIGNED FOR USE IN THE
+28 ADMINISTRATION OF ELECTIONS, INCLUDING:
+29 (I) ELECTRONIC POLLBOOKS;
+
+HOUSE BILL 215 3
+1 (II) RISK–LIMITING AUDIT TOOLS; AND
+2 (III) ANY SOFTWARE USED FOR PREPARING, PRESENTING, OR
+3 REPORTING THE RESULTS PRODUCED BY A VOTING SYSTEM.
+4 (2) “ELECTION–SUPPORTING TECHNOLOGY” DOES NOT INCLUDE A
+5 VOTING SYSTEM.
+6 (B) THE STATE BOARD SHALL:
+7 (1) ADOPT REGULATIONS:
+8 (I) FOR THE REVIEW, CERTIFICATION, AND DECERTIFICATION
+9 OF ELECTION–SUPPORTING TECHNOLOGY; AND
+10 (II) RELATING TO REQUIREMENTS FOR ELECTION–SUPPORTING
+11 TECHNOLOGY SELECTED AND CERTIFIED UNDER THIS SECTION; AND
+12 (2) PERIODICALLY REVIEW AND EVALUATE ELECTION–SUPPORTING
+13 TECHNOLOGY.
+14 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+15 October 1, 2025.
+
+[DELETED: :CA      5 ( C A E C F s n S r t S B t d a p t c o a c v e r t a g r t r v a t c o e B  A S  A  (  S T A() I,“–N T SN RDC VG M A M O]
+[DELETED:  H () NO A O P O T AE  S PN T T O8,SDC RS. T() ( ISBF T T O U RDC V U B N  T O),SB:  ()D A P T C O A V EDC;  ()IS T V E C D I S );  () J1,2IO A   ,§27S AD I A W   O T T O,GA:E  E S   1 DC  N 8;   2 R T A E O RDC V I F ( T(( R II O S  () ;DS   () SB’.IP T ODS() ( I,“–N T SN ENS TY A E O T T I D F U I TS :  () ;ES]
+[DELETED: H 3  () –;IRKLS   () ,IA S U F PG PG O ( “E–NS TY D N I AM() TSB:H T OL ( :S  () ,FW N NSY ;  () IRNSN  ( NS  S A B I F E T t A s t e O]

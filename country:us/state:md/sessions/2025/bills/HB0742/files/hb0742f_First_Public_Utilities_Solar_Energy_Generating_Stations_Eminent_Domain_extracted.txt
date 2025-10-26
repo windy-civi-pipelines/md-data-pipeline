@@ -1,0 +1,175 @@
+Title: HOUSE BILL 742
+Official Title: HOUSE BILL 742
+Number of Sections: 1
+Source: versions - First - Public Utilities - Solar Energy Generating Stations - Eminent Domain
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+C5 5lr2829
+CF 5lr3076
+By: Delegates Ghrist, Arentz, Arikan, Chisholm, Fisher, Grammer, Hutchinson,
+Jacobs, M. Morgan, T. Morgan, Nawrocki, Otto, Pippy, Rose, Schmidt,
+Szeliga, and Valentine
+Introduced and read first time: January 27, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Utilities – Solar Energy Generating Stations – Eminent Domain
+3 FOR the purpose of prohibiting a person constructing a solar energy generating station
+4 from exercising a right of condemnation in connection with that construction; and
+5 generally relating to the construction of solar energy generating stations.
+6 BY repealing and reenacting, with amendments,
+7 Article – Public Utilities
+8 Section 7–207(b)(2)
+9 Annotated Code of Maryland
+10 (2020 Replacement Volume and 2024 Supplement)
+11 BY repealing and reenacting, without amendments,
+12 Article – Public Utilities
+13 Section 7–207.1(c)(1), 7–207.2(b), and 7–208(b)
+14 Annotated Code of Maryland
+15 (2020 Replacement Volume and 2024 Supplement)
+16 BY adding to
+17 Article – Public Utilities
+18 Section 7–207.1(h), 7–207.2(e), and 7–208(k)
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – Public Utilities
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0742*
+2 HOUSE BILL 742
+1 7–207.
+2 (b) (2) (I) Unless a certificate of public convenience and necessity for the
+3 construction is first obtained from the Commission, and the Commission has found that the
+4 capacity is necessary to ensure a sufficient supply of electricity to customers in the State, a
+5 person may not exercise a right of condemnation in connection with the construction of a
+6 generating station.
+7 (II) NOTWITHSTANDING SUBPARAGRAPH (I) OF THIS
+8 PARAGRAPH, A PERSON MAY NOT EXERCISE A RIGHT OF CONDEMNATION IN
+9 CONNECTION WITH THE CONSTRUCTION OF A SOLAR ENERGY GENERATING STATION
+10 UNDER THIS SECTION.
+11 7–207.1.
+12 (c) (1) The Commission shall require a person that is exempted from the
+13 requirement to obtain a certificate of public convenience and necessity to obtain approval
+14 from the Commission under this section before the person may construct a generating
+15 station described in subsection (b) of this section.
+16 (H) A PERSON MAY NOT EXERCISE A RIGHT OF CONDEMNATION IN
+17 CONNECTION WITH THE CONSTRUCTION OF A SOLAR ENERGY GENERATING STATION
+18 UNDER THIS SECTION.
+19 7–207.2.
+20 (b) This section applies to a person who constructs a generating station that:
+21 (1) has the capacity to produce more than 2 megawatts of electricity, as
+22 measured by the alternating current rating of the system’s inverter, from a solar
+23 photovoltaic system; and
+24 (2) is exempted under § 7–207(b)(1)(ii) of this subtitle from the requirement
+25 to obtain a certificate of public convenience and necessity.
+26 (E) A PERSON MAY NOT EXERCISE A RIGHT OF CONDEMNATION IN
+27 CONNECTION WITH THE CONSTRUCTION OF A SOLAR PHOTOVOLTAIC SYSTEM
+28 UNDER THIS SECTION.
+29 7–208.
+30 (b) This section applies to any person:
+31 (1) constructing a generating station and its associated overhead
+32 transmission lines designed to carry a voltage in excess of 69,000 volts;
+HOUSE BILL 742 3
+1 (2) exercising the right of condemnation in connection with the
+2 construction; or
+3 (3) constructing a qualified submerged renewable energy line.
+4 (K) A PERSON MAY NOT EXERCISE A RIGHT OF CONDEMNATION IN
+5 CONNECTION WITH THE CONSTRUCTION OF A SOLAR ENERGY GENERATING STATION
+6 UNDER THIS SECTION.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+8 October 1, 2025.
+[DELETED: :CA      5   C M T N O P R S A P F f g B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  H  7  ( ( U) c c p g   ) N(IO S I O TH A P M N E A R O C I 7  ( ( T C s r a p t i e f t r f t C u t s b t p m c a g s )  P M N E A R O C I 7  ( T   ( h m b t a c r o t s i f a s p   ( i t )  P M N E A R O C I W T C O A S P S 7  ( T   ( c a g s a i a o t]
+[DELETED: H 3   ( e t r o c i c w t c   ( c )  P M N E A R O C I  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 742
+C5 5lr2829
+CF 5lr3076
+By: Delegates Ghrist, Arentz, Arikan, Chisholm, Fisher, Grammer, Hutchinson,
+Jacobs, M. Morgan, T. Morgan, Nawrocki, Otto, Pippy, Rose, Schmidt,
+Szeliga, and Valentine
+Introduced and read first time: January 27, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Utilities – Solar Energy Generating Stations – Eminent Domain
+3 FOR the purpose of prohibiting a person constructing a solar energy generating station
+4 from exercising a right of condemnation in connection with that construction; and
+5 generally relating to the construction of solar energy generating stations.
+6 BY repealing and reenacting, with amendments,
+7 Article – Public Utilities
+8 Section 7–207(b)(2)
+9 Annotated Code of Maryland
+10 (2020 Replacement Volume and 2024 Supplement)
+11 BY repealing and reenacting, without amendments,
+12 Article – Public Utilities
+13 Section 7–207.1(c)(1), 7–207.2(b), and 7–208(b)
+14 Annotated Code of Maryland
+15 (2020 Replacement Volume and 2024 Supplement)
+16 BY adding to
+17 Article – Public Utilities
+18 Section 7–207.1(h), 7–207.2(e), and 7–208(k)
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – Public Utilities
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0742*
+
+2 HOUSE BILL 742
+1 7–207.
+2 (b) (2) (I) Unless a certificate of public convenience and necessity for the
+3 construction is first obtained from the Commission, and the Commission has found that the
+4 capacity is necessary to ensure a sufficient supply of electricity to customers in the State, a
+5 person may not exercise a right of condemnation in connection with the construction of a
+6 generating station.
+7 (II) NOTWITHSTANDING SUBPARAGRAPH (I) OF THIS
+8 PARAGRAPH, A PERSON MAY NOT EXERCISE A RIGHT OF CONDEMNATION IN
+9 CONNECTION WITH THE CONSTRUCTION OF A SOLAR ENERGY GENERATING STATION
+10 UNDER THIS SECTION.
+11 7–207.1.
+12 (c) (1) The Commission shall require a person that is exempted from the
+13 requirement to obtain a certificate of public convenience and necessity to obtain approval
+14 from the Commission under this section before the person may construct a generating
+15 station described in subsection (b) of this section.
+16 (H) A PERSON MAY NOT EXERCISE A RIGHT OF CONDEMNATION IN
+17 CONNECTION WITH THE CONSTRUCTION OF A SOLAR ENERGY GENERATING STATION
+18 UNDER THIS SECTION.
+19 7–207.2.
+20 (b) This section applies to a person who constructs a generating station that:
+21 (1) has the capacity to produce more than 2 megawatts of electricity, as
+22 measured by the alternating current rating of the system’s inverter, from a solar
+23 photovoltaic system; and
+24 (2) is exempted under § 7–207(b)(1)(ii) of this subtitle from the requirement
+25 to obtain a certificate of public convenience and necessity.
+26 (E) A PERSON MAY NOT EXERCISE A RIGHT OF CONDEMNATION IN
+27 CONNECTION WITH THE CONSTRUCTION OF A SOLAR PHOTOVOLTAIC SYSTEM
+28 UNDER THIS SECTION.
+29 7–208.
+30 (b) This section applies to any person:
+31 (1) constructing a generating station and its associated overhead
+32 transmission lines designed to carry a voltage in excess of 69,000 volts;
+
+HOUSE BILL 742 3
+1 (2) exercising the right of condemnation in connection with the
+2 construction; or
+3 (3) constructing a qualified submerged renewable energy line.
+4 (K) A PERSON MAY NOT EXERCISE A RIGHT OF CONDEMNATION IN
+5 CONNECTION WITH THE CONSTRUCTION OF A SOLAR ENERGY GENERATING STATION
+6 UNDER THIS SECTION.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+8 October 1, 2025.
+
+[DELETED: :CA      5   C M T N O P R S A P F f g B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  H  7  ( ( U) c c p g   ) N(IO S I O TH A P M N E A R O C I 7  ( ( T C s r a p t i e f t r f t C u t s b t p m c a g s )  P M N E A R O C I 7  ( T   ( h m b t a c r o t s i f a s p   ( i t )  P M N E A R O C I W T C O A S P S 7  ( T   ( c a g s a i a o t]
+[DELETED: H 3   ( e t r o c i c w t c   ( c )  P M N E A R O C I  S A B I F E T t A s t e O]

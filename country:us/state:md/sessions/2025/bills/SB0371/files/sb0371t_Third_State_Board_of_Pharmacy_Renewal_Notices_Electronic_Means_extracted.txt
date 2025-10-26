@@ -1,0 +1,353 @@
+Title: SENATE BILL 371
+Official Title: SENATE BILL 371
+Number of Sections: 1
+Source: versions - Third - State Board of Pharmacy - Renewal Notices - Electronic Means
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+J2 5lr2538
+CF HB 565
+By: Senator Beidle
+Introduced and read first time: January 17, 2025
+Assigned to: Finance
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 2, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 State Board of Pharmacy – Renewal Notices – Electronic Means
+3 FOR the purpose of requiring the State Board of Pharmacy to send renewal notices to
+4 licensees, permit holders, and registrants by electronic means, rather than
+5 first–class mail, unless the licensee, permit holder, or registrant requests to receive
+6 the renewal notice by first–class mail; and generally relating to renewal notices sent
+7 by the State Board of Pharmacy.
+8 BY repealing and reenacting, without amendments,
+9 Article – Health Occupations
+10 Section 12–308(a), 12–407(a), 12–6B–07(a), and 12–6C–06(a)
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – Health Occupations
+15 Section 12–308(b), 12–407(b), 12–6B–07(b), 12–6C–06(b)(1) through (3), and
+16 12–6D–09
+17 Annotated Code of Maryland
+18 (2021 Replacement Volume and 2024 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Health Occupations
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0371*
+2 SENATE BILL 371
+1 12–308.
+2 (a) (1) A license expires on the date set by the Board unless it is renewed for
+3 an additional term as provided in this section.
+4 (2) A license may not be renewed for a term longer than 2 years.
+5 (b) (1) Except as provided in paragraph (2) of this subsection, the Board shall
+6 send to each licensee, at least 1 month before a license expires, a renewal notice by
+7 [first–class mail] ELECTRONIC MEANS to the last known E–MAIL address of the licensee.
+8 (2) If requested by a licensee, the Board shall send to the licensee[, at least
+9 two times within the month before a license expires,] a renewal notice by [electronic means]
+10 FIRST–CLASS MAIL to the last known [electronic] address of the licensee.
+11 (3) If a renewal notice sent by electronic means under paragraph [(2)] (1)
+12 of this subsection is returned to the Board as undeliverable, the Board shall send to the
+13 licensee a renewal notice by first–class mail to the last known address of the licensee.
+14 (4) A renewal notice sent under this subsection shall state:
+15 (i) The date on which the current license expires;
+16 (ii) The date by which the renewal application must be received by
+17 the Board for the renewal to be issued and mailed before the license expires; and
+18 (iii) The amount of the renewal fee.
+19 12–407.
+20 (a) A pharmacy permit expires on the May 31 after its effective date, unless the
+21 pharmacy permit is renewed for a 2–year term as provided in this section.
+22 (b) (1) Except as provided in paragraph (2) of this subsection, on or before
+23 March 1 of the year the permit expires, the Board shall send to each pharmacy permit
+24 holder a renewal notice for each pharmacy permit by [first–class mail] ELECTRONIC
+25 MEANS to the last known E–MAIL address of the pharmacy permit holder.
+26 (2) If requested by a pharmacy permit holder, the Board shall send to the
+27 pharmacy permit holder[, at least two times within the month before a pharmacy permit
+28 expires,] a renewal notice for each pharmacy permit by [electronic means] FIRST–CLASS
+29 MAIL to the last known [electronic] address of the pharmacy permit holder.
+30 (3) If a renewal notice sent by electronic means under paragraph [(2)] (1)
+31 of this subsection is returned to the Board as undeliverable, the Board shall send to the
+SENATE BILL 371 3
+1 pharmacy permit holder a renewal notice for each pharmacy permit by first–class mail to
+2 the last known address of the pharmacy permit holder.
+3 (4) A renewal notice sent under this subsection shall state:
+4 (i) The date on which the current pharmacy permit expires;
+5 (ii) The date by which the renewal application must be received by
+6 the Board for the renewal to be issued and mailed before the pharmacy permit expires; and
+7 (iii) The amount of the renewal fee.
+8 12–6B–07.
+9 (a) (1) Unless the registration is renewed for an additional term as provided
+10 in this section, registration expires on the date set by the Board.
+11 (2) The ability of a registered pharmacy technician to function as a
+12 pharmacy technician terminates on the date of expiration of the pharmacy technician’s
+13 registration unless renewed.
+14 (3) Registration may not be renewed for a term longer than 2 years.
+15 (b) (1) Except as provided in paragraph (2) of this subsection, the Board shall
+16 send to each registered pharmacy technician, at least 1 month before a registration expires,
+17 a renewal notice by [first–class mail] ELECTRONIC MEANS to the last known E–MAIL
+18 address of the registered pharmacy technician.
+19 (2) If requested by a registered pharmacy technician, the Board shall send
+20 to the registered pharmacy technician[, at least two times within the month before a
+21 pharmacy technician registration expires,] a renewal notice by [electronic means]
+22 FIRST–CLASS MAIL to the last known [electronic] address of the registered pharmacy
+23 technician.
+24 (3) If a renewal notice sent by electronic means under paragraph [(2)] (1)
+25 of this subsection is returned to the Board as undeliverable, the Board shall send the
+26 registered pharmacy technician a renewal notice by first–class mail to the last known
+27 address of the registered pharmacy technician.
+28 (4) A renewal notice sent under this subsection shall state:
+29 (i) The date on which the current registration expires;
+30 (ii) The date by which the renewal application must be received by
+31 the Board for the renewal to be issued and mailed before the registration expires; and
+32 (iii) The amount of the renewal fee.
+4 SENATE BILL 371
+1 12–6C–06.
+2 (a) A wholesale distributor permit expires on May 31 after its effective date,
+3 unless the wholesale distributor permit is renewed for an additional 2–year term as
+4 provided in this section.
+5 (b) (1) Except as provided in paragraph (2) of this subsection, at least 1 month
+6 before a wholesale distributor permit expires, the Board shall send to the wholesale
+7 distributor permit holder a renewal notice by [first–class mail] ELECTRONIC MEANS to
+8 the last known E–MAIL address of the permit holder.
+9 (2) If requested by a wholesale distributor permit holder, the Board shall
+10 send to the permit holder[, at least two times within the month before a wholesale
+11 distributor permit expires,] a renewal notice by [electronic means] FIRST–CLASS MAIL to
+12 the last known [electronic] address of the permit holder.
+13 (3) If a renewal notice sent by electronic means under paragraph [(2)] (1)
+14 of this subsection is returned to the Board as undeliverable, the Board shall send to the
+15 wholesale distributor permit holder a renewal notice by first–class mail to the last known
+16 address of the permit holder.
+17 12–6D–09.
+18 (a) (1) Registration expires on the date set by the Board.
+19 (2) Registration is valid for up to 2 years from the date of issue.
+20 (b) (1) A registered pharmacy intern who qualified for registration under §
+21 12–6D–03(a)(1) and (2) of this subtitle may renew the registration one time if the registered
+22 pharmacy intern [is]:
+23 (i) Otherwise IS entitled to be registered as a pharmacy intern;
+24 (ii) Submits to the Board a renewal application on the form that the
+25 Board requires; and
+26 (iii) Pays to the Board a renewal fee set by the Board.
+27 (2) A registered pharmacy intern who qualified for registration under §
+28 12–6D–03(a)(3) and (4) of this subtitle may not renew the registration.
+29 (c) The registration of a pharmacy intern registered under this subtitle expires
+30 and may not be renewed on the date that the registered pharmacy intern becomes a licensed
+31 pharmacist.
+SENATE BILL 371 5
+1 (d) (1) Except as provided in paragraph (2) of this subsection, the Board shall
+2 send to each registered pharmacy intern, at least 1 month before a registration expires, a
+3 renewal notice by [first–class mail] ELECTRONIC MEANS to the last known E–MAIL
+4 address of the registered pharmacy intern.
+5 (2) If requested by a registered pharmacy intern, the Board shall send to
+6 the registered pharmacy intern[, at least two times within the month before a pharmacy
+7 intern registration expires,] a renewal notice by [electronic means] FIRST–CLASS MAIL to
+8 the last known [electronic] address of the registered pharmacy intern.
+9 (3) If a renewal notice sent by electronic means under paragraph [(2)] (1)
+10 of this subsection is returned to the Board as undeliverable, the Board shall send the
+11 registered pharmacy intern a renewal notice by first–class mail to the last known address
+12 of the registered pharmacy intern.
+13 (4) A renewal notice sent under this subsection shall state:
+14 (i) The date on which the current registration expires;
+15 (ii) The date by which the renewal application shall be received by
+16 the Board for the renewal to be issued and mailed before the registration expires; and
+17 (iii) The amount of the renewal fee.
+18 (e) The Board shall renew the registration of each pharmacy intern who meets
+19 the requirements of this section.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5   C A S F l p h a r b e m r t f t b B  A  S  A  ( B  A S 1 1 1 1 t ( a 1  A  (  S T A]
+[DELETED:  S  1  ( ( A a   ( A  ( ( E s t e l a l 1 m b a l e a r n b] fl   SEM   ( Ie, t,  es[TC[   ec    ( Ih( ]( o l   ( A    ( T    ( T t    ( T 1  ( A p  ( ( E p M h a r n f e p p b f mESEM       ( I pr, e,  e[]TC t ec    ( I (]( o]
+[DELETED: S 3 p t   ( A    ( T    ( T t    ( T 1  ( ( U i   ( T a o a r p t t f a a p r   ( R  ( ( E s a fl  ]SEM a   ( I t t r p tn, a l t t w t m b a p t r e, a r n b e m[]TC[ t t l k ec a o t r p t   ( I (]( o t s i r t t B a u t B s s t r p t a r n b f m t t l k a   ( A    ( T    ( T t    ( T]
+[DELETED:  S  1  ( A w d p e o M 3 a i e d u t w d p i r f a a 2 t a p  ( ( E b a w d p e t B s s t t w d fl  t  M   ( I s t t p hr, a l t t w t m b a w d,  es []TC t ec    ( I (]( o w a 1  ( ( R   ( R  ( ( A 1 p is:    ( O      ( S B    ( P   ( A 1  ( T a p]
+[DELETED: S 5  ( ( E s r n b f ml t t l k ]E MSEM a   ( I tn, i,  est[]TC t ec    ( I (]( o t s i r t t B a u t B s s t r o   ( A    ( T    ( T t    ( T  ( T t  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 371
+J2 5lr2538
+CF HB 565
+By: Senator Beidle
+Introduced and read first time: January 17, 2025
+Assigned to: Finance
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 2, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 State Board of Pharmacy – Renewal Notices – Electronic Means
+3 FOR the purpose of requiring the State Board of Pharmacy to send renewal notices to
+4 licensees, permit holders, and registrants by electronic means, rather than
+5 first–class mail, unless the licensee, permit holder, or registrant requests to receive
+6 the renewal notice by first–class mail; and generally relating to renewal notices sent
+7 by the State Board of Pharmacy.
+8 BY repealing and reenacting, without amendments,
+9 Article – Health Occupations
+10 Section 12–308(a), 12–407(a), 12–6B–07(a), and 12–6C–06(a)
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – Health Occupations
+15 Section 12–308(b), 12–407(b), 12–6B–07(b), 12–6C–06(b)(1) through (3), and
+16 12–6D–09
+17 Annotated Code of Maryland
+18 (2021 Replacement Volume and 2024 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Health Occupations
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0371*
+
+2 SENATE BILL 371
+1 12–308.
+2 (a) (1) A license expires on the date set by the Board unless it is renewed for
+3 an additional term as provided in this section.
+4 (2) A license may not be renewed for a term longer than 2 years.
+5 (b) (1) Except as provided in paragraph (2) of this subsection, the Board shall
+6 send to each licensee, at least 1 month before a license expires, a renewal notice by
+7 [first–class mail] ELECTRONIC MEANS to the last known E–MAIL address of the licensee.
+8 (2) If requested by a licensee, the Board shall send to the licensee[, at least
+9 two times within the month before a license expires,] a renewal notice by [electronic means]
+10 FIRST–CLASS MAIL to the last known [electronic] address of the licensee.
+11 (3) If a renewal notice sent by electronic means under paragraph [(2)] (1)
+12 of this subsection is returned to the Board as undeliverable, the Board shall send to the
+13 licensee a renewal notice by first–class mail to the last known address of the licensee.
+14 (4) A renewal notice sent under this subsection shall state:
+15 (i) The date on which the current license expires;
+16 (ii) The date by which the renewal application must be received by
+17 the Board for the renewal to be issued and mailed before the license expires; and
+18 (iii) The amount of the renewal fee.
+19 12–407.
+20 (a) A pharmacy permit expires on the May 31 after its effective date, unless the
+21 pharmacy permit is renewed for a 2–year term as provided in this section.
+22 (b) (1) Except as provided in paragraph (2) of this subsection, on or before
+23 March 1 of the year the permit expires, the Board shall send to each pharmacy permit
+24 holder a renewal notice for each pharmacy permit by [first–class mail] ELECTRONIC
+25 MEANS to the last known E–MAIL address of the pharmacy permit holder.
+26 (2) If requested by a pharmacy permit holder, the Board shall send to the
+27 pharmacy permit holder[, at least two times within the month before a pharmacy permit
+28 expires,] a renewal notice for each pharmacy permit by [electronic means] FIRST–CLASS
+29 MAIL to the last known [electronic] address of the pharmacy permit holder.
+30 (3) If a renewal notice sent by electronic means under paragraph [(2)] (1)
+31 of this subsection is returned to the Board as undeliverable, the Board shall send to the
+
+SENATE BILL 371 3
+1 pharmacy permit holder a renewal notice for each pharmacy permit by first–class mail to
+2 the last known address of the pharmacy permit holder.
+3 (4) A renewal notice sent under this subsection shall state:
+4 (i) The date on which the current pharmacy permit expires;
+5 (ii) The date by which the renewal application must be received by
+6 the Board for the renewal to be issued and mailed before the pharmacy permit expires; and
+7 (iii) The amount of the renewal fee.
+8 12–6B–07.
+9 (a) (1) Unless the registration is renewed for an additional term as provided
+10 in this section, registration expires on the date set by the Board.
+11 (2) The ability of a registered pharmacy technician to function as a
+12 pharmacy technician terminates on the date of expiration of the pharmacy technician’s
+13 registration unless renewed.
+14 (3) Registration may not be renewed for a term longer than 2 years.
+15 (b) (1) Except as provided in paragraph (2) of this subsection, the Board shall
+16 send to each registered pharmacy technician, at least 1 month before a registration expires,
+17 a renewal notice by [first–class mail] ELECTRONIC MEANS to the last known E–MAIL
+18 address of the registered pharmacy technician.
+19 (2) If requested by a registered pharmacy technician, the Board shall send
+20 to the registered pharmacy technician[, at least two times within the month before a
+21 pharmacy technician registration expires,] a renewal notice by [electronic means]
+22 FIRST–CLASS MAIL to the last known [electronic] address of the registered pharmacy
+23 technician.
+24 (3) If a renewal notice sent by electronic means under paragraph [(2)] (1)
+25 of this subsection is returned to the Board as undeliverable, the Board shall send the
+26 registered pharmacy technician a renewal notice by first–class mail to the last known
+27 address of the registered pharmacy technician.
+28 (4) A renewal notice sent under this subsection shall state:
+29 (i) The date on which the current registration expires;
+30 (ii) The date by which the renewal application must be received by
+31 the Board for the renewal to be issued and mailed before the registration expires; and
+32 (iii) The amount of the renewal fee.
+
+4 SENATE BILL 371
+1 12–6C–06.
+2 (a) A wholesale distributor permit expires on May 31 after its effective date,
+3 unless the wholesale distributor permit is renewed for an additional 2–year term as
+4 provided in this section.
+5 (b) (1) Except as provided in paragraph (2) of this subsection, at least 1 month
+6 before a wholesale distributor permit expires, the Board shall send to the wholesale
+7 distributor permit holder a renewal notice by [first–class mail] ELECTRONIC MEANS to
+8 the last known E–MAIL address of the permit holder.
+9 (2) If requested by a wholesale distributor permit holder, the Board shall
+10 send to the permit holder[, at least two times within the month before a wholesale
+11 distributor permit expires,] a renewal notice by [electronic means] FIRST–CLASS MAIL to
+12 the last known [electronic] address of the permit holder.
+13 (3) If a renewal notice sent by electronic means under paragraph [(2)] (1)
+14 of this subsection is returned to the Board as undeliverable, the Board shall send to the
+15 wholesale distributor permit holder a renewal notice by first–class mail to the last known
+16 address of the permit holder.
+17 12–6D–09.
+18 (a) (1) Registration expires on the date set by the Board.
+19 (2) Registration is valid for up to 2 years from the date of issue.
+20 (b) (1) A registered pharmacy intern who qualified for registration under §
+21 12–6D–03(a)(1) and (2) of this subtitle may renew the registration one time if the registered
+22 pharmacy intern [is]:
+23 (i) Otherwise IS entitled to be registered as a pharmacy intern;
+24 (ii) Submits to the Board a renewal application on the form that the
+25 Board requires; and
+26 (iii) Pays to the Board a renewal fee set by the Board.
+27 (2) A registered pharmacy intern who qualified for registration under §
+28 12–6D–03(a)(3) and (4) of this subtitle may not renew the registration.
+29 (c) The registration of a pharmacy intern registered under this subtitle expires
+30 and may not be renewed on the date that the registered pharmacy intern becomes a licensed
+31 pharmacist.
+
+SENATE BILL 371 5
+1 (d) (1) Except as provided in paragraph (2) of this subsection, the Board shall
+2 send to each registered pharmacy intern, at least 1 month before a registration expires, a
+3 renewal notice by [first–class mail] ELECTRONIC MEANS to the last known E–MAIL
+4 address of the registered pharmacy intern.
+5 (2) If requested by a registered pharmacy intern, the Board shall send to
+6 the registered pharmacy intern[, at least two times within the month before a pharmacy
+7 intern registration expires,] a renewal notice by [electronic means] FIRST–CLASS MAIL to
+8 the last known [electronic] address of the registered pharmacy intern.
+9 (3) If a renewal notice sent by electronic means under paragraph [(2)] (1)
+10 of this subsection is returned to the Board as undeliverable, the Board shall send the
+11 registered pharmacy intern a renewal notice by first–class mail to the last known address
+12 of the registered pharmacy intern.
+13 (4) A renewal notice sent under this subsection shall state:
+14 (i) The date on which the current registration expires;
+15 (ii) The date by which the renewal application shall be received by
+16 the Board for the renewal to be issued and mailed before the registration expires; and
+17 (iii) The amount of the renewal fee.
+18 (e) The Board shall renew the registration of each pharmacy intern who meets
+19 the requirements of this section.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5   C A S F l p h a r b e m r t f t b B  A  S  A  ( B  A S 1 1 1 1 t ( a 1  A  (  S T A]
+[DELETED:  S  1  ( ( A a   ( A  ( ( E s t e l a l 1 m b a l e a r n b] fl   SEM   ( Ie, t,  es[TC[   ec    ( Ih( ]( o l   ( A    ( T    ( T t    ( T 1  ( A p  ( ( E p M h a r n f e p p b f mESEM       ( I pr, e,  e[]TC t ec    ( I (]( o]
+[DELETED: S 3 p t   ( A    ( T    ( T t    ( T 1  ( ( U i   ( T a o a r p t t f a a p r   ( R  ( ( E s a fl  ]SEM a   ( I t t r p tn, a l t t w t m b a p t r e, a r n b e m[]TC[ t t l k ec a o t r p t   ( I (]( o t s i r t t B a u t B s s t r p t a r n b f m t t l k a   ( A    ( T    ( T t    ( T]
+[DELETED:  S  1  ( A w d p e o M 3 a i e d u t w d p i r f a a 2 t a p  ( ( E b a w d p e t B s s t t w d fl  t  M   ( I s t t p hr, a l t t w t m b a w d,  es []TC t ec    ( I (]( o w a 1  ( ( R   ( R  ( ( A 1 p is:    ( O      ( S B    ( P   ( A 1  ( T a p]
+[DELETED: S 5  ( ( E s r n b f ml t t l k ]E MSEM a   ( I tn, i,  est[]TC t ec    ( I (]( o t s i r t t B a u t B s s t r o   ( A    ( T    ( T t    ( T  ( T t  S A B I F E T t A s t e O          G               ]

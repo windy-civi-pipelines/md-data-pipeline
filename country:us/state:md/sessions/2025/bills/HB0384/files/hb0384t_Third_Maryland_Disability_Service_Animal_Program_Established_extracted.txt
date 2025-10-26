@@ -1,0 +1,514 @@
+Title: HOUSE BILL 384
+Official Title: HOUSE BILL 384
+Number of Sections: 1
+Source: versions - Third - Maryland Disability Service Animal Program - Established
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+O3, P1 5lr2026
+CF SB 157
+By: Delegates Lehman, Acevero, Allen, Feldmark, Foley, Guyton, Guzzone, Harris,
+Ivey, Kaufman, J. Long, Patterson, Ruth, Spiegel, Taveras, Taylor, Terrasa,
+Turner, Williams, Wims, Woods, Woorman, and Ziegler Ziegler,
+Pena–Melnyk, Cullison, Alston, Bagnall, Bhandari, Hill, Hutchinson,
+S. Johnson, Kaiser, Kerr, Kipke, Lopez, Martinez, Reilly, Rosenberg, Ross,
+and White Holland
+Introduced and read first time: January 16, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 14, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Maryland Disability Service Animal Program – Established
+3 FOR the purpose of establishing the Maryland Disability Service Animal Program in the
+4 Department of Disabilities; requiring the Department to select a nonprofit training
+5 entity for participation in the Program; establishing the Maryland Disability Service
+6 Animal Program Fund as a special, nonlapsing fund; and generally relating to the
+7 Maryland Disability Service Animal Program.
+8 BY repealing and reenacting, with amendments,
+9 Article – Human Services
+10 Section 7–114
+11 Annotated Code of Maryland
+12 (2019 Replacement Volume and 2024 Supplement)
+13 BY adding to
+14 Article – Human Services
+15 Section 7–1201 through 7–1206 to be under the new subtitle “Subtitle 12. Maryland
+16 Disability Service Animal Program”
+17 Annotated Code of Maryland
+18 (2019 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0384*
+2 HOUSE BILL 384
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Human Services
+4 7–114.
+5 (a) (1) The Department is the principal unit of State government responsible
+6 for developing, maintaining, revising, and enforcing statewide disability policies and
+7 standards throughout the units of State government.
+8 (2) In this capacity, the Department shall:
+9 (i) serve as the principal advisor to the Governor on the means and
+10 methods available to:
+11 1. implement and fund support to individuals with
+12 disabilities in accordance with the State Disabilities Plan;
+13 2. modify or consolidate support to individuals with
+14 disabilities; and
+15 3. collaborate with federal, regional, and local units of
+16 government to enhance the effectiveness of the provision and funding of support to
+17 individuals with disabilities;
+18 (ii) annually recommend projects to the Department of Budget and
+19 Management for inclusion in the capital budget to promote access to State–owned facilities
+20 for individuals with disabilities;
+21 (iii) assist units of State government to identify federal, State, local,
+22 and private funds available to the State for programs and services for individuals with
+23 disabilities; and
+24 (iv) provide technical assistance to local jurisdictions in planning and
+25 implementing collaborative strategies consistent with the State Disabilities Plan.
+26 (b) The Department shall oversee and administer the following programs and
+27 units:
+28 (1) constituent services and ombudsmen programs;
+29 (2) the Assistive Technology Guaranteed Loan Program under Subtitle 6
+30 of this title;
+HOUSE BILL 384 3
+1 (3) the Office of Personal Assistance Services, including the Attendant
+2 Care Program under Subtitle 4 of this title;
+3 (4) Telecommunications Access of Maryland under Subtitle 8 of this title;
+4 [and]
+5 (5) Telecommunications Devices and Distribution of Accessible
+6 Information for Disabled Individuals under Subtitle 9 of this title; AND
+7 (6) THE MARYLAND DISABILITY SERVICE ANIMAL PROGRAM UNDER
+8 SUBTITLE 12 OF THIS TITLE.
+9 SUBTITLE 12. MARYLAND DISABILITY SERVICE ANIMAL PROGRAM.
+10 7–1201.
+11 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+12 INDICATED.
+13 (B) “DEPARTMENT” MEANS THE DEPARTMENT OF DISABILITIES.
+14 (C) “ELIGIBLE INDIVIDUAL” MEANS AN INDIVIDUAL A RESIDENT OF THE
+15 STATE WITH A DISABILITY, AS DEFINED IN THE FEDERAL AMERICANS WITH
+16 DISABILITIES ACT OF 1990, 42 U.S.C. § 12102.
+17 (D) “FUND” MEANS THE MARYLAND DISABILITY SERVICE ANIMAL
+18 PROGRAM FUND.
+19 (E) “NONPROFIT TRAINING ENTITY” MEANS A CORPORATION, A
+20 FOUNDATION, OR ANY OTHER LEGAL ENTITY THAT:
+21 (1) IS TAX–EXEMPT UNDER § 501(C)(3) OF THE INTERNAL REVENUE
+22 CODE;
+23 (2) ENGAGES IN THE TRAINING OF SERVICE ANIMALS FOR USE BY
+24 ELIGIBLE INDIVIDUALS; AND
+25 (3) HAS BEEN SELECTED BY THE DEPARTMENT TO PROVIDE
+26 SERVICES UNDER THIS SUBTITLE.
+27 (F) “PROGRAM” MEANS THE MARYLAND DISABILITY SERVICE ANIMAL
+28 PROGRAM ESTABLISHED UNDER THIS SUBTITLE.
+29 (G) “PROGRAM PARTICIPANT” MEANS AN ELIGIBLE INDIVIDUAL WHO
+30 PARTICIPATES IN THE PROGRAM.
+4 HOUSE BILL 384
+1 (H) (1) “SERVICE ANIMAL” MEANS AN ANIMAL THAT IS INDIVIDUALLY
+2 TRAINED TO DO WORK OR PERFORM TASKS FOR THE BENEFIT OF AN INDIVIDUAL
+3 WITH A DISABILITY.
+4 (2) “SERVICE ANIMAL” DOES NOT INCLUDE AN ANIMAL THAT:
+5 (I) AS A RESULT OF THE ANIMAL’S PRESENCE, IS MEANT TO
+6 DETER CRIME; OR
+7 (II) PROVIDES ONLY EMOTIONAL SUPPORT, WELL–BEING,
+8 COMFORT, OR COMPANIONSHIP TO AN INDIVIDUAL.
+9 (I) “SUCCESSFUL PROGRAM PARTICIPANT” MEANS A PROGRAM
+10 PARTICIPANT WHO SUCCESSFULLY COMPLETES THE TRAINING PROTOCOL
+11 SPECIFIED BY A NONPROFIT TRAINING ENTITY.
+12 7–1202.
+13 THERE IS A MARYLAND DISABILITY SERVICE ANIMAL PROGRAM IN THE
+14 DEPARTMENT.
+15 7–1203.
+16 THE PURPOSES OF THE PROGRAM ARE TO:
+17 (1) REFER ELIGIBLE INDIVIDUALS WHO INQUIRE ABOUT
+18 PARTICIPATION IN THE PROGRAM TO SELECT ONE OR MORE NONPROFIT TRAINING
+19 ENTITIES TO PARTICIPATE IN THE PROGRAM; AND
+20 (2) PROVIDE ADDITIONAL FUNDING MECHANISMS TO ASSIST
+21 ELIGIBLE INDIVIDUALS IN THE PROGRAM; AND
+22 (3) ENCOURAGE SUCCESSFUL PROGRAM PARTICIPANTS TO ASSIST IN
+23 OUTREACH AND REFERRALS TO OTHER ELIGIBLE INDIVIDUALS WHO COULD
+24 BENEFIT FROM PARTICIPATION IN THE PROGRAM.
+25 7–1204.
+26 THE DEPARTMENT SHALL:
+27 (1) MANAGE, SUPERVISE, AND ADMINISTER THE PROGRAM;
+28 (2) ADOPT REGULATIONS TO IMPLEMENT THE PROGRAM AND TO
+29 ENSURE THAT FUND RESOURCES ARE UTILIZED TO CARRY OUT THE PURPOSES OF
+HOUSE BILL 384 5
+1 THE PROGRAM, INCLUDING REGULATIONS ESTABLISHING PROCEDURES FOR THE
+2 DEPARTMENT TO:
+3 (I) PROMOTE THE PROGRAM TO ELIGIBLE INDIVIDUALS
+4 THROUGH THE DEPARTMENT’S OUTREACH METHODS;
+5 (II) REFER ELIGIBLE INDIVIDUALS TO SELECTED NONPROFIT
+6 TRAINING ENTITIES;
+7 (III) RECEIVE DONATIONS FOR THE FUND; AND
+8 (IV) (II) USE REVENUE FROM THE FUND TO PAY SELECTED
+9 NONPROFIT TRAINING ENTITIES FOR SERVICES THAT ARE PROVIDED THROUGH THE
+10 PROGRAM; AND
+11 (3) SELECT AT LEAST ONE NONPROFIT TRAINING ENTITY TO:
+12 (I) DEVELOP AND IMPLEMENT A TRAINING PROTOCOL THAT
+13 WILL TEACH EACH PROGRAM PARTICIPANT METHODOLOGIES, STRATEGIES, AND
+14 TECHNIQUES FOR PARTNERING WITH SERVICE ANIMALS;
+15 (II) SELECT QUALIFIED PROGRAM PARTICIPANTS FROM THOSE
+16 ELIGIBLE INDIVIDUALS REFERRED TO THE NONPROFIT TRAINING ENTITY UNDER
+17 THE PROGRAM;
+18 (III) SELECT AN APPROPRIATE SERVICE ANIMAL FOR EACH
+19 PROGRAM PARTICIPANT;
+20 (IV) FACILITATE EACH PROGRAM PARTICIPANT’S TRAINING
+21 USING THE NONPROFIT TRAINING ENTITY’S TRAINING PROTOCOL; AND
+22 (V) PARTNER EACH SUCCESSFUL PROGRAM PARTICIPANT WITH
+23 THE SERVICE ANIMAL ON THE PROGRAM PARTICIPANT’S SUCCESSFUL COMPLETION
+24 OF THE NONPROFIT TRAINING ENTITY’S TRAINING PROTOCOL.
+25 7–1205.
+26 (A) TO BE ELIGIBLE FOR SELECTION AS A NONPROFIT TRAINING ENTITY
+27 UNDER § 7–1204 OF THIS SUBTITLE, A NONPROFIT TRAINING ENTITY SHALL:
+28 (1) SERVE THE NEEDS OF ELIGIBLE INDIVIDUALS IN THE STATE; AND
+29 (2) GENERATE ITS OWN REVENUE AND REINVEST THE PROCEEDS OF
+30 THAT REVENUE IN THE GROWTH AND DEVELOPMENT OF ITS PROGRAMS.
+6 HOUSE BILL 384
+1 (B) A NONPROFIT TRAINING ENTITY MAY DISQUALIFY A PROGRAM
+2 PARTICIPANT FROM PARTICIPATION IN THE PROGRAM IF THE NONPROFIT
+3 TRAINING ENTITY DETERMINES THAT THE PROGRAM PARTICIPANT’S INVOLVEMENT
+4 IN THE PROGRAM:
+5 (1) PRESENTS A DANGER TO THE PROGRAM PARTICIPANT’S MENTAL
+6 OR PHYSICAL WELL–BEING;
+7 (2) PRESENTS A DIRECT THREAT TO OTHERS, AS DEFINED BY THE
+8 FEDERAL AMERICANS WITH DISABILITIES ACT;
+9 (3) PRESENTS A DIRECT THREAT TO THE SERVICE ANIMAL’S MENTAL
+10 OR PHYSICAL WELL–BEING; OR
+11 (4) DOES NOT MEET THE TRAINING REQUIREMENTS OF THE
+12 NONPROFIT.
+13 (C) A PROGRAM PARTICIPANT MAY DISCONTINUE INVOLVEMENT IN THE
+14 PROGRAM FOR ANY REASON.
+15 7–1206.
+16 (A) THERE IS A MARYLAND DISABILITY SERVICE ANIMAL PROGRAM FUND.
+17 (B) THE PURPOSE OF THE FUND IS TO:
+18 (1) PAY A NONPROFIT TRAINING ENTITY; AND
+19 (2) COVER THE COSTS OF ADMINISTERING THE PROGRAM.
+20 (C) THE SECRETARY SHALL ADMINISTER THE FUND.
+21 (D) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+22 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+23 (2) THE STATE TREASURER SHALL HOLD THE FUND, AND THE
+24 COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+25 (E) (1) THE FUND CONSISTS OF:
+26 (I) REVENUE COLLECTED BY THE DEPARTMENT IN THE FORM
+27 OF DONATIONS TO THE PROGRAM;
+HOUSE BILL 384 7
+1 (II) MONEY APPROPRIATED IN THE STATE BUDGET TO THE
+2 FUND; AND
+3 (III) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED
+4 FOR THE BENEFIT OF THE FUND.
+5 (2) FOR EACH FISCAL YEAR, THE GOVERNOR SHALL INCLUDE IN THE
+6 ANNUAL BUDGET BILL AN APPROPRIATION OF $25,000 TO THE FUND.
+7 (2) (3) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN
+8 ACCORDANCE WITH THE STATE BUDGET.
+9 (3) (4) MONEY EXPENDED FROM THE FUND IS SUPPLEMENTAL TO
+10 AND IS NOT INTENDED TO TAKE THE PLACE OF FUNDING THAT OTHERWISE WOULD
+11 BE APPROPRIATED FOR THE PROGRAM.
+12 (F) THE FUND MAY BE USED ONLY TO PAY:
+13 (1) A NONPROFIT TRAINING ENTITY; AND
+14 (2) ADMINISTRATIVE COSTS OF THE PROGRAM.
+15 (G) (1) THE STATE TREASURER SHALL INVEST AND REINVEST THE
+16 MONEY OF THE FUND IN THE SAME MANNER AS OTHER STATE MONEY MAY BE
+17 INVESTED.
+18 (2) ANY INVESTMENT EARNINGS OF THE FUND SHALL BE CREDITED
+19 TO THE GENERAL FUND OF THE STATE.
+20 (H) FOR THE PURPOSE OF IMPLEMENTING THIS SECTION, THE
+21 DEPARTMENT MAY ACCEPT GIFTS OR GRANTS FOR DONATION TO THE FUND.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+23 October 1, 2025:
+24 (a) This Act is contingent on the Department of Disabilities certifying that the
+25 Department has sufficient staff to administer the Maryland Disability Service Animal
+26 Program under Title 7, Subtitle 12 of the Human Services Article, as enacted by Section 1
+27 of this Act.
+28 (b) On or before October 1, 2026, the Department of Disabilities shall notify the
+29 Department of Legislative Services whether the Department has certified that the
+30 Department has sufficient staff to administer the Maryland Disability Service Animal
+31 Program.
+8 HOUSE BILL 384
+1 (c) (1) If the Department of Legislative Services receives notification that the
+2 Department of Disabilities has sufficient staff to administer the Maryland Disability
+3 Service Animal Program on or before October 1, 2026, this Act shall take effect on the date
+4 the notice is received by the Department of Legislative Services in accordance with
+5 subsection (b) of this section.
+6 (2) If the Department of Legislative Services receives notice that the
+7 Department of Disabilities lacks sufficient staff to administer the Maryland Disability
+8 Service Animal Program on or before October 1, 2026, this Act, with no further action
+9 required by the General Assembly, shall be null and void.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5   C W W W W a Z Z C A B B H H A M F D e A M B  A S  A  ( B  A S D  A  (]
+[DELETED:  H   S T A 7  ( ( T f d m r a e s d p a s   ( I    ( s m     1 i a f s t i w d     2 m o c s t i w d     3 c w f r a l u o g t e t e o t p a f o s t i    ( a M f    ( a a d    ( p i  ( T u   ( c   ( t o]
+[DELETED: H 3   ( t O o P A S i t A C   ( T ad   ( T D a D o A Ie   MDSA A I E N R1   .1.MDSAP  A I E N R  ) N T S T F W H T M ) “D”DD.ET  E I ) “EL IL M A I A R O T,EW A DY A D I T F M W A1,42U.§1 C      ) “F”MDSUD M T A I E NF. U ) “N”O T EY M A CN AN :   –§5())IXE  C  N E;   I T T O S A F U BS     B S B T E T P ) “P”MDSRM M T A I E N. ) “PR PT M A E I W R.]
+[DELETED:  H  ) ( “SE AL M A A T I I   “S”:L    ) ’A A R O T ALS PE I M TE    ) ,–IP O E ST WLBGT . ) “SP”U R PT M A R W S C T T P MDSA I A A I E N R I T. P: R    E I W I A RTO  RM ;   A F M T A RM ;     R A R T O E I W C  R  D: E   ,,P;E E  R     R T I T R A T U ]
+[DELETED: H 5 RM      ) P T R T E I ETS’     )IR E I T S N     ) FIR UD     )()V IIU R F T U T P SM     :   )D A I A T P T T E R P MS SS A,    ) IS R  R    )IS A A S A F E;   ) PVF E R PTS TYSL ;   ) P R RTSYS. ) O E N   E 74,:   S; TE   ]
+[DELETED:  H  ) A N T E M D A R F P I T R I T N RTS R:   P RTSLB;    A D T T OS A D B T M I CDA;    TTLSLBG     N M T T R O T ) A R P M D I I T. ) TMDSAPF.H A I E N R U ) TF:H U   ;Y    P. R ) TSF.H E U ) ( TFH U I A SL N F T I N    T I R R72SFPA.   TSTF T R S H T UD A TF. U ) ( TF:H U   ) R E R;]
+[DELETED: H 7   ) IM A I T T B T T;D    )IA U. ()F, R  O   U0F     )()EX F T U M B M O I T    )()MO U RM  ) TF:H U   ;Y    P. R ) ( TSH T R S I A R T O T U I T S M A O T M M B   A U E U TFS. ) FO T P O I T SN TF. U  S A B I F E T t A s t e O  ( T D h s s t a t M D S A P o  ( O D o L S w t D h c t t D h s s t a t M D S A P]
+[DELETED:  H   ( ( I D o D h s s t a t M D S t n i r b t D o L S i a w s   ( I t D o L S r n t t D o D l s s t a t M D S r          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 384
+O3, P1 5lr2026
+CF SB 157
+By: Delegates Lehman, Acevero, Allen, Feldmark, Foley, Guyton, Guzzone, Harris,
+Ivey, Kaufman, J. Long, Patterson, Ruth, Spiegel, Taveras, Taylor, Terrasa,
+Turner, Williams, Wims, Woods, Woorman, and Ziegler Ziegler,
+Pena–Melnyk, Cullison, Alston, Bagnall, Bhandari, Hill, Hutchinson,
+S. Johnson, Kaiser, Kerr, Kipke, Lopez, Martinez, Reilly, Rosenberg, Ross,
+and White Holland
+Introduced and read first time: January 16, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 14, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Maryland Disability Service Animal Program – Established
+3 FOR the purpose of establishing the Maryland Disability Service Animal Program in the
+4 Department of Disabilities; requiring the Department to select a nonprofit training
+5 entity for participation in the Program; establishing the Maryland Disability Service
+6 Animal Program Fund as a special, nonlapsing fund; and generally relating to the
+7 Maryland Disability Service Animal Program.
+8 BY repealing and reenacting, with amendments,
+9 Article – Human Services
+10 Section 7–114
+11 Annotated Code of Maryland
+12 (2019 Replacement Volume and 2024 Supplement)
+13 BY adding to
+14 Article – Human Services
+15 Section 7–1201 through 7–1206 to be under the new subtitle “Subtitle 12. Maryland
+16 Disability Service Animal Program”
+17 Annotated Code of Maryland
+18 (2019 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0384*
+
+2 HOUSE BILL 384
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Human Services
+4 7–114.
+5 (a) (1) The Department is the principal unit of State government responsible
+6 for developing, maintaining, revising, and enforcing statewide disability policies and
+7 standards throughout the units of State government.
+8 (2) In this capacity, the Department shall:
+9 (i) serve as the principal advisor to the Governor on the means and
+10 methods available to:
+11 1. implement and fund support to individuals with
+12 disabilities in accordance with the State Disabilities Plan;
+13 2. modify or consolidate support to individuals with
+14 disabilities; and
+15 3. collaborate with federal, regional, and local units of
+16 government to enhance the effectiveness of the provision and funding of support to
+17 individuals with disabilities;
+18 (ii) annually recommend projects to the Department of Budget and
+19 Management for inclusion in the capital budget to promote access to State–owned facilities
+20 for individuals with disabilities;
+21 (iii) assist units of State government to identify federal, State, local,
+22 and private funds available to the State for programs and services for individuals with
+23 disabilities; and
+24 (iv) provide technical assistance to local jurisdictions in planning and
+25 implementing collaborative strategies consistent with the State Disabilities Plan.
+26 (b) The Department shall oversee and administer the following programs and
+27 units:
+28 (1) constituent services and ombudsmen programs;
+29 (2) the Assistive Technology Guaranteed Loan Program under Subtitle 6
+30 of this title;
+
+HOUSE BILL 384 3
+1 (3) the Office of Personal Assistance Services, including the Attendant
+2 Care Program under Subtitle 4 of this title;
+3 (4) Telecommunications Access of Maryland under Subtitle 8 of this title;
+4 [and]
+5 (5) Telecommunications Devices and Distribution of Accessible
+6 Information for Disabled Individuals under Subtitle 9 of this title; AND
+7 (6) THE MARYLAND DISABILITY SERVICE ANIMAL PROGRAM UNDER
+8 SUBTITLE 12 OF THIS TITLE.
+9 SUBTITLE 12. MARYLAND DISABILITY SERVICE ANIMAL PROGRAM.
+10 7–1201.
+11 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+12 INDICATED.
+13 (B) “DEPARTMENT” MEANS THE DEPARTMENT OF DISABILITIES.
+14 (C) “ELIGIBLE INDIVIDUAL” MEANS AN INDIVIDUAL A RESIDENT OF THE
+15 STATE WITH A DISABILITY, AS DEFINED IN THE FEDERAL AMERICANS WITH
+16 DISABILITIES ACT OF 1990, 42 U.S.C. § 12102.
+17 (D) “FUND” MEANS THE MARYLAND DISABILITY SERVICE ANIMAL
+18 PROGRAM FUND.
+19 (E) “NONPROFIT TRAINING ENTITY” MEANS A CORPORATION, A
+20 FOUNDATION, OR ANY OTHER LEGAL ENTITY THAT:
+21 (1) IS TAX–EXEMPT UNDER § 501(C)(3) OF THE INTERNAL REVENUE
+22 CODE;
+23 (2) ENGAGES IN THE TRAINING OF SERVICE ANIMALS FOR USE BY
+24 ELIGIBLE INDIVIDUALS; AND
+25 (3) HAS BEEN SELECTED BY THE DEPARTMENT TO PROVIDE
+26 SERVICES UNDER THIS SUBTITLE.
+27 (F) “PROGRAM” MEANS THE MARYLAND DISABILITY SERVICE ANIMAL
+28 PROGRAM ESTABLISHED UNDER THIS SUBTITLE.
+29 (G) “PROGRAM PARTICIPANT” MEANS AN ELIGIBLE INDIVIDUAL WHO
+30 PARTICIPATES IN THE PROGRAM.
+
+4 HOUSE BILL 384
+1 (H) (1) “SERVICE ANIMAL” MEANS AN ANIMAL THAT IS INDIVIDUALLY
+2 TRAINED TO DO WORK OR PERFORM TASKS FOR THE BENEFIT OF AN INDIVIDUAL
+3 WITH A DISABILITY.
+4 (2) “SERVICE ANIMAL” DOES NOT INCLUDE AN ANIMAL THAT:
+5 (I) AS A RESULT OF THE ANIMAL’S PRESENCE, IS MEANT TO
+6 DETER CRIME; OR
+7 (II) PROVIDES ONLY EMOTIONAL SUPPORT, WELL–BEING,
+8 COMFORT, OR COMPANIONSHIP TO AN INDIVIDUAL.
+9 (I) “SUCCESSFUL PROGRAM PARTICIPANT” MEANS A PROGRAM
+10 PARTICIPANT WHO SUCCESSFULLY COMPLETES THE TRAINING PROTOCOL
+11 SPECIFIED BY A NONPROFIT TRAINING ENTITY.
+12 7–1202.
+13 THERE IS A MARYLAND DISABILITY SERVICE ANIMAL PROGRAM IN THE
+14 DEPARTMENT.
+15 7–1203.
+16 THE PURPOSES OF THE PROGRAM ARE TO:
+17 (1) REFER ELIGIBLE INDIVIDUALS WHO INQUIRE ABOUT
+18 PARTICIPATION IN THE PROGRAM TO SELECT ONE OR MORE NONPROFIT TRAINING
+19 ENTITIES TO PARTICIPATE IN THE PROGRAM; AND
+20 (2) PROVIDE ADDITIONAL FUNDING MECHANISMS TO ASSIST
+21 ELIGIBLE INDIVIDUALS IN THE PROGRAM; AND
+22 (3) ENCOURAGE SUCCESSFUL PROGRAM PARTICIPANTS TO ASSIST IN
+23 OUTREACH AND REFERRALS TO OTHER ELIGIBLE INDIVIDUALS WHO COULD
+24 BENEFIT FROM PARTICIPATION IN THE PROGRAM.
+25 7–1204.
+26 THE DEPARTMENT SHALL:
+27 (1) MANAGE, SUPERVISE, AND ADMINISTER THE PROGRAM;
+28 (2) ADOPT REGULATIONS TO IMPLEMENT THE PROGRAM AND TO
+29 ENSURE THAT FUND RESOURCES ARE UTILIZED TO CARRY OUT THE PURPOSES OF
+
+HOUSE BILL 384 5
+1 THE PROGRAM, INCLUDING REGULATIONS ESTABLISHING PROCEDURES FOR THE
+2 DEPARTMENT TO:
+3 (I) PROMOTE THE PROGRAM TO ELIGIBLE INDIVIDUALS
+4 THROUGH THE DEPARTMENT’S OUTREACH METHODS;
+5 (II) REFER ELIGIBLE INDIVIDUALS TO SELECTED NONPROFIT
+6 TRAINING ENTITIES;
+7 (III) RECEIVE DONATIONS FOR THE FUND; AND
+8 (IV) (II) USE REVENUE FROM THE FUND TO PAY SELECTED
+9 NONPROFIT TRAINING ENTITIES FOR SERVICES THAT ARE PROVIDED THROUGH THE
+10 PROGRAM; AND
+11 (3) SELECT AT LEAST ONE NONPROFIT TRAINING ENTITY TO:
+12 (I) DEVELOP AND IMPLEMENT A TRAINING PROTOCOL THAT
+13 WILL TEACH EACH PROGRAM PARTICIPANT METHODOLOGIES, STRATEGIES, AND
+14 TECHNIQUES FOR PARTNERING WITH SERVICE ANIMALS;
+15 (II) SELECT QUALIFIED PROGRAM PARTICIPANTS FROM THOSE
+16 ELIGIBLE INDIVIDUALS REFERRED TO THE NONPROFIT TRAINING ENTITY UNDER
+17 THE PROGRAM;
+18 (III) SELECT AN APPROPRIATE SERVICE ANIMAL FOR EACH
+19 PROGRAM PARTICIPANT;
+20 (IV) FACILITATE EACH PROGRAM PARTICIPANT’S TRAINING
+21 USING THE NONPROFIT TRAINING ENTITY’S TRAINING PROTOCOL; AND
+22 (V) PARTNER EACH SUCCESSFUL PROGRAM PARTICIPANT WITH
+23 THE SERVICE ANIMAL ON THE PROGRAM PARTICIPANT’S SUCCESSFUL COMPLETION
+24 OF THE NONPROFIT TRAINING ENTITY’S TRAINING PROTOCOL.
+25 7–1205.
+26 (A) TO BE ELIGIBLE FOR SELECTION AS A NONPROFIT TRAINING ENTITY
+27 UNDER § 7–1204 OF THIS SUBTITLE, A NONPROFIT TRAINING ENTITY SHALL:
+28 (1) SERVE THE NEEDS OF ELIGIBLE INDIVIDUALS IN THE STATE; AND
+29 (2) GENERATE ITS OWN REVENUE AND REINVEST THE PROCEEDS OF
+30 THAT REVENUE IN THE GROWTH AND DEVELOPMENT OF ITS PROGRAMS.
+
+6 HOUSE BILL 384
+1 (B) A NONPROFIT TRAINING ENTITY MAY DISQUALIFY A PROGRAM
+2 PARTICIPANT FROM PARTICIPATION IN THE PROGRAM IF THE NONPROFIT
+3 TRAINING ENTITY DETERMINES THAT THE PROGRAM PARTICIPANT’S INVOLVEMENT
+4 IN THE PROGRAM:
+5 (1) PRESENTS A DANGER TO THE PROGRAM PARTICIPANT’S MENTAL
+6 OR PHYSICAL WELL–BEING;
+7 (2) PRESENTS A DIRECT THREAT TO OTHERS, AS DEFINED BY THE
+8 FEDERAL AMERICANS WITH DISABILITIES ACT;
+9 (3) PRESENTS A DIRECT THREAT TO THE SERVICE ANIMAL’S MENTAL
+10 OR PHYSICAL WELL–BEING; OR
+11 (4) DOES NOT MEET THE TRAINING REQUIREMENTS OF THE
+12 NONPROFIT.
+13 (C) A PROGRAM PARTICIPANT MAY DISCONTINUE INVOLVEMENT IN THE
+14 PROGRAM FOR ANY REASON.
+15 7–1206.
+16 (A) THERE IS A MARYLAND DISABILITY SERVICE ANIMAL PROGRAM FUND.
+17 (B) THE PURPOSE OF THE FUND IS TO:
+18 (1) PAY A NONPROFIT TRAINING ENTITY; AND
+19 (2) COVER THE COSTS OF ADMINISTERING THE PROGRAM.
+20 (C) THE SECRETARY SHALL ADMINISTER THE FUND.
+21 (D) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+22 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+23 (2) THE STATE TREASURER SHALL HOLD THE FUND, AND THE
+24 COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+25 (E) (1) THE FUND CONSISTS OF:
+26 (I) REVENUE COLLECTED BY THE DEPARTMENT IN THE FORM
+27 OF DONATIONS TO THE PROGRAM;
+
+HOUSE BILL 384 7
+1 (II) MONEY APPROPRIATED IN THE STATE BUDGET TO THE
+2 FUND; AND
+3 (III) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED
+4 FOR THE BENEFIT OF THE FUND.
+5 (2) FOR EACH FISCAL YEAR, THE GOVERNOR SHALL INCLUDE IN THE
+6 ANNUAL BUDGET BILL AN APPROPRIATION OF $25,000 TO THE FUND.
+7 (2) (3) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN
+8 ACCORDANCE WITH THE STATE BUDGET.
+9 (3) (4) MONEY EXPENDED FROM THE FUND IS SUPPLEMENTAL TO
+10 AND IS NOT INTENDED TO TAKE THE PLACE OF FUNDING THAT OTHERWISE WOULD
+11 BE APPROPRIATED FOR THE PROGRAM.
+12 (F) THE FUND MAY BE USED ONLY TO PAY:
+13 (1) A NONPROFIT TRAINING ENTITY; AND
+14 (2) ADMINISTRATIVE COSTS OF THE PROGRAM.
+15 (G) (1) THE STATE TREASURER SHALL INVEST AND REINVEST THE
+16 MONEY OF THE FUND IN THE SAME MANNER AS OTHER STATE MONEY MAY BE
+17 INVESTED.
+18 (2) ANY INVESTMENT EARNINGS OF THE FUND SHALL BE CREDITED
+19 TO THE GENERAL FUND OF THE STATE.
+20 (H) FOR THE PURPOSE OF IMPLEMENTING THIS SECTION, THE
+21 DEPARTMENT MAY ACCEPT GIFTS OR GRANTS FOR DONATION TO THE FUND.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+23 October 1, 2025:
+24 (a) This Act is contingent on the Department of Disabilities certifying that the
+25 Department has sufficient staff to administer the Maryland Disability Service Animal
+26 Program under Title 7, Subtitle 12 of the Human Services Article, as enacted by Section 1
+27 of this Act.
+28 (b) On or before October 1, 2026, the Department of Disabilities shall notify the
+29 Department of Legislative Services whether the Department has certified that the
+30 Department has sufficient staff to administer the Maryland Disability Service Animal
+31 Program.
+
+8 HOUSE BILL 384
+1 (c) (1) If the Department of Legislative Services receives notification that the
+2 Department of Disabilities has sufficient staff to administer the Maryland Disability
+3 Service Animal Program on or before October 1, 2026, this Act shall take effect on the date
+4 the notice is received by the Department of Legislative Services in accordance with
+5 subsection (b) of this section.
+6 (2) If the Department of Legislative Services receives notice that the
+7 Department of Disabilities lacks sufficient staff to administer the Maryland Disability
+8 Service Animal Program on or before October 1, 2026, this Act, with no further action
+9 required by the General Assembly, shall be null and void.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5   C W W W W a Z Z C A B B H H A M F D e A M B  A S  A  ( B  A S D  A  (]
+[DELETED:  H   S T A 7  ( ( T f d m r a e s d p a s   ( I    ( s m     1 i a f s t i w d     2 m o c s t i w d     3 c w f r a l u o g t e t e o t p a f o s t i    ( a M f    ( a a d    ( p i  ( T u   ( c   ( t o]
+[DELETED: H 3   ( t O o P A S i t A C   ( T ad   ( T D a D o A Ie   MDSA A I E N R1   .1.MDSAP  A I E N R  ) N T S T F W H T M ) “D”DD.ET  E I ) “EL IL M A I A R O T,EW A DY A D I T F M W A1,42U.§1 C      ) “F”MDSUD M T A I E NF. U ) “N”O T EY M A CN AN :   –§5())IXE  C  N E;   I T T O S A F U BS     B S B T E T P ) “P”MDSRM M T A I E N. ) “PR PT M A E I W R.]
+[DELETED:  H  ) ( “SE AL M A A T I I   “S”:L    ) ’A A R O T ALS PE I M TE    ) ,–IP O E ST WLBGT . ) “SP”U R PT M A R W S C T T P MDSA I A A I E N R I T. P: R    E I W I A RTO  RM ;   A F M T A RM ;     R A R T O E I W C  R  D: E   ,,P;E E  R     R T I T R A T U ]
+[DELETED: H 5 RM      ) P T R T E I ETS’     )IR E I T S N     ) FIR UD     )()V IIU R F T U T P SM     :   )D A I A T P T T E R P MS SS A,    ) IS R  R    )IS A A S A F E;   ) PVF E R PTS TYSL ;   ) P R RTSYS. ) O E N   E 74,:   S; TE   ]
+[DELETED:  H  ) A N T E M D A R F P I T R I T N RTS R:   P RTSLB;    A D T T OS A D B T M I CDA;    TTLSLBG     N M T T R O T ) A R P M D I I T. ) TMDSAPF.H A I E N R U ) TF:H U   ;Y    P. R ) TSF.H E U ) ( TFH U I A SL N F T I N    T I R R72SFPA.   TSTF T R S H T UD A TF. U ) ( TF:H U   ) R E R;]
+[DELETED: H 7   ) IM A I T T B T T;D    )IA U. ()F, R  O   U0F     )()EX F T U M B M O I T    )()MO U RM  ) TF:H U   ;Y    P. R ) ( TSH T R S I A R T O T U I T S M A O T M M B   A U E U TFS. ) FO T P O I T SN TF. U  S A B I F E T t A s t e O  ( T D h s s t a t M D S A P o  ( O D o L S w t D h c t t D h s s t a t M D S A P]
+[DELETED:  H   ( ( I D o D h s s t a t M D S t n i r b t D o L S i a w s   ( I t D o L S r n t t D o D l s s t a t M D S r          G               ]

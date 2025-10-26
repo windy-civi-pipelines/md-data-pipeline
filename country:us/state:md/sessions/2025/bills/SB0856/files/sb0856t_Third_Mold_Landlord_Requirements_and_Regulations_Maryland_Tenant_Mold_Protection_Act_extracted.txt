@@ -1,0 +1,478 @@
+Title: SENATE BILL 856
+Official Title: SENATE BILL 856
+Number of Sections: 1
+Source: versions - Third - Mold - Landlord Requirements and Regulations (Maryland Tenant Mold Protection Act)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+M3, N1 5lr2629
+By: Senator Henson
+Introduced and read first time: January 28, 2025
+Assigned to: Judicial Proceedings and Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 25, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Mold – Landlord Requirements and Regulations
+3 (Maryland Tenant Mold Protection Act)
+4 FOR the purpose of requiring the Department of the Environment, the Maryland
+5 Department of Health, the Department of Housing and Community Development,
+6 the Maryland Department of Labor, and the Department of General Services to
+7 develop a certain pamphlet and website; requiring a landlord to provide a tenant
+8 with certain information at certain times and in a certain manner; requiring a
+9 landlord to perform certain tasks within a certain time upon receiving a certain
+10 notice; requiring the Department of the Environment, in consultation with the
+11 Maryland Department of Health, the Department of Housing and Community
+12 Development, and the Department of General Services, to adopt certain regulations
+13 on or before a certain date establishing uniform standards for mold assessment and
+14 remediation and reinforcing building codes; and generally relating to mold
+15 prevention, assessment, and remediation.
+16 BY adding to
+17 Article – Environment
+18 Section 6–1702
+19 Annotated Code of Maryland
+20 (2013 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Real Property
+23 Section 8–121
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0856*
+2 SENATE BILL 856
+1 Annotated Code of Maryland
+2 (2023 Replacement Volume and 2024 Supplement)
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – Environment
+6 6–1702.
+7 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+8 INDICATED.
+9 (2) “DAMPNESS” MEANS ABNORMAL MOISTURE IN THE INTERIOR OF
+10 A FACILITY, INCLUDING:
+11 (I) EXCESSIVE HUMIDITY LEVELS;
+12 (II) LINGERING CONDENSATION;
+13 (III) LEAKS;
+14 (IV) WATER DAMAGE; AND
+15 (V) MUSTY OR MOLDY ODORS.
+16 (3) (I) “MOLD” MEANS A FORM OF MULTICELLULAR FUNGI THAT
+17 LIVES:
+18 1. ON PLANT OR ANIMAL MATTER; OR
+19 2. IN AN INDOOR ENVIRONMENT.
+20 (II) “MOLD” INCLUDES:
+21 1. ALTERNARIA;
+22 2. ASPERGILLUS;
+23 3. CLADOSPORIUM;
+24 4. FUSARIUM;
+25 5. MEMNONIELLA;
+SENATE BILL 856 3
+1 6. MUCOR;
+2 7. PENICILLIUM;
+3 8. STACHYBOTRYS CHARTARUM; AND
+4 9. TRICHODERMA.
+5 (4) “MOLD REMEDIATION” MEANS:
+6 (I) REMOVING, CLEANING, SANITIZING, DEMOLISHING, OR ANY
+7 OTHER TREATMENT PERFORMED TO ADDRESS A MOLD HAZARD, MOLD, OR
+8 DAMPNESS; OR
+9 (II) ABATEMENT OF THE UNDERLYING CAUSE OF A MOLD
+10 HAZARD, MOLD, OR DAMPNESS.
+11 (B) THE DEPARTMENT, IN COORDINATION WITH THE MARYLAND
+12 DEPARTMENT OF HEALTH, THE DEPARTMENT OF HOUSING AND COMMUNITY
+13 DEVELOPMENT, THE MARYLAND DEPARTMENT OF LABOR, AND THE DEPARTMENT
+14 OF GENERAL SERVICES, SHALL DEVELOP AND UPDATE AS NECESSARY:
+15 (1) A CENTRALIZED WEBSITE PROVIDING INFORMATION ABOUT
+16 MOLD REMEDIATION AND DAMPNESS; AND
+17 (2) SUBJECT TO SUBSECTION (C) OF THIS SECTION, AN
+18 INFORMATIONAL PAMPHLET ON MOLD THAT INCLUDES:
+19 (I) RESOURCES IN THE STATE RELATING TO MOLD; AND
+20 (II) HOW TENANTS CAN CONTROL MOLD GROWTH IN THEIR
+21 UNIT.
+22 (C) INSTEAD OF DEVELOPING A PAMPHLET UNDER SUBSECTION (B)(2) OF
+23 THIS SECTION, THE DEPARTMENT MAY USE THE U.S. ENVIRONMENTAL
+24 PROTECTION AGENCY’S “BRIEF GUIDE TO MOLD, MOISTURE AND YOUR HOME”
+25 PAMPHLET.
+26 Article – Real Property
+27 8–121.
+28 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+29 INDICATED.
+4 SENATE BILL 856
+1 (2) “MOLD” HAS THE MEANING STATED IN § 6–1702 OF THE
+2 ENVIRONMENT ARTICLE.
+3 (3) “MOLD ASSESSMENT” MEANS:
+4 (I) AN INSPECTION, AN INVESTIGATION, OR A SURVEY OF A
+5 DWELLING OR OTHER STRUCTURE TO PROVIDE INFORMATION TO THE OWNER
+6 REGARDING THE PRESENCE, IDENTIFICATION, OR EVALUATION OF MOLD;
+7 (II) THE DEVELOPMENT OF A MOLD MANAGEMENT PLAN; OR
+8 (III) THE COLLECTION OR ANALYSIS OF A MOLD SAMPLE.
+9 (4) “MOLD REMEDIATION” HAS THE MEANING STATED IN § 6–1702 OF
+10 THE ENVIRONMENT ARTICLE.
+11 (B) A LANDLORD SHALL:
+12 (1) PROVIDE THE PAMPHLET DEVELOPED OR USED UNDER § 6–1702
+13 OF THE ENVIRONMENT ARTICLE TO EACH TENANT IN A RENTAL UNIT ON THE
+14 LANDLORD’S PROPERTY:
+15 (I) AT THE TIME THE LEASE OR RENTAL AGREEMENT IS
+16 SIGNED; AND
+17 (II) EVERY 2 YEARS THEREAFTER ON REQUEST BY A TENANT OF
+18 THE RENTAL UNIT; AND
+19 (2) REQUEST THAT A TENANT SIGN A STATEMENT ACKNOWLEDGING
+20 RECEIPT OF THE PAMPHLET.
+21 (C) (1) A LANDLORD SHALL PERFORM A MOLD ASSESSMENT AND MOLD
+22 REMEDIATION WITHIN 45 DAYS WITHIN 15 DAYS AFTER RECEIPT OF A WRITTEN
+23 NOTICE REGARDING THE DETECTION OF MOLD FROM:
+24 (I) THE APPLICABLE LOCAL AGENCY ENFORCING HOUSING
+25 AND LIVABILITY CODES; OR
+26 (II) A TENANT OR BUILDING OCCUPANT.
+27 (2) IF THE ASSESSMENT IN PARAGRAPH (1) OF THIS SUBSECTION
+28 DETECTS MOLD, A LANDLORD SHALL:
+SENATE BILL 856 5
+1 (I) PERFORM MOLD REMEDIATION WITHIN 45 DAYS AFTER THE
+2 ASSESSMENT IS COMPLETED; OR
+3 (II) IF PERFORMING MOLD REMEDIATION WITHIN THE TIME
+4 FRAME SPECIFIED IN ITEM (I) OF THIS PARAGRAPH IS NOT FEASIBLE, WITHIN A
+5 REASONABLE TIME AFTER THE ASSESSMENT IS COMPLETED.
+6 (3) A LANDLORD SHALL ENSURE THAT THE MOLD ASSESSMENT AND
+7 MOLD REMEDIATION UNDER PARAGRAPH (1) PARAGRAPHS (1) AND (2) OF THIS
+8 SUBSECTION FOLLOWS THE RECOMMENDED INDUSTRY GUIDELINES AND BEST
+9 PRACTICES AND STATE AND LOCAL LAWS AND REGULATIONS.
+10 (D) A LANDLORD SHALL:
+11 (1) COMMUNICATE WITH OCCUPANTS DURING A MOLD ASSESSMENT
+12 AND MOLD REMEDIATION UNDER SUBSECTION (C) OF THIS SECTION TO PROVIDE
+13 UPDATES AND RELEVANT INFORMATION;
+14 (2) ENSURE PROPER VENTILATION IN THE PROPERTY;
+15 (3) ENSURE LOW INDOOR RELATIVE HUMIDITY IN THE PROPERTY;
+16 AND
+17 (4) MAINTAIN THE PROPERTY IN ACCORDANCE WITH ALL
+18 APPLICABLE FEDERAL, STATE, AND LOCAL RESIDENTIAL HOUSING AND BUILDING
+19 CODES, STANDARDS, REGULATIONS, RULES, AND REQUIREMENTS PERTAINING TO
+20 MINIMUM LIVABILITY UNDER § 12–203 OF THE PUBLIC SAFETY ARTICLE.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That:
+22 (a) (1) In this section the following words have the meanings indicated.
+23 (2) “Dampness” means abnormal moisture in the interior of a facility,
+24 including:
+25 (i) excessive humidity levels;
+26 (ii) lingering condensation;
+27 (iii) leaks;
+28 (iv) water damage; and
+29 (v) musty or moldy odors.
+6 SENATE BILL 856
+1 (3) (i) “Mold” means a form of multicellular fungi that lives:
+2 1. on plant or animal matter; or
+3 2. in an indoor environment.
+4 (ii) “Mold” includes:
+5 1. Alternaria;
+6 2. Aspergillus;
+7 3. Cladosporium;
+8 4. Fusarium;
+9 5. Memnoniella;
+10 6. Mucor;
+11 7. Penicillium;
+12 8. Stachybotrys chartarum; and
+13 9. Trichoderma.
+14 (4) “Mold assessment” means:
+15 (i) an inspection, an investigation, or a survey of a dwelling or other
+16 structure to provide information to the owner regarding the presence, identification, or
+17 evaluation of mold;
+18 (ii) the development of a mold management plan; or
+19 (iii) the collection or analysis of a mold sample.
+20 (5) “Mold hazard” means an adverse human health effect associated with
+21 mold exposure, including:
+22 (i) allergic reactions;
+23 (ii) asthma; and
+24 (iii) any other respiratory complaints.
+25 (6) “Mold remediation” means:
+SENATE BILL 856 7
+1 (i) removing, cleaning, sanitizing, demolishing, or any other
+2 treatment performed to address a mold hazard, mold, or dampness; or
+3 (ii) abatement of the underlying cause of a mold hazard, mold, or
+4 dampness.
+5 (b) On or before June 1, 2027, the Department of the Environment, in
+6 consultation with the Maryland Department of Health, the Department of Housing and
+7 Community Development, and the Department of General Services, shall adopt regulations
+8 establishing uniform standards for mold assessment and mold remediation.
+9 (c) The regulations adopted under this section shall:
+10 (1) establish standards for:
+11 (i) identifying and evaluating the presence of mold, including visible
+12 mold inspection and testing;
+13 (ii) mold air sample analyses in accordance with the standards of:
+14 1. the Environmental Microbiology Laboratory Accreditation
+15 Program at the American Industrial Hygiene Association;
+16 2. the American Indoor Air Quality Council; or
+17 3. any other nationally recognized accreditation entity that
+18 operates independently of industry trade associations;
+19 (iii) bulk or surface mold sample analyses conducted in accordance
+20 with the standards of:
+21 1. the American Industrial Hygiene Association;
+22 2. the American Conference of Governmental Industrial
+23 Hygienists; or
+24 3. a similar nationally recognized professional organization;
+25 (iv) visible mold inspections to assess the presence of any visible
+26 water damage or dampness on surfaces, including ceiling tiles and gypsum wallboard;
+27 (v) mold remediation in accordance with the U.S. Environmental
+28 Protection Agency’s 2008 “Mold Remediation in Schools and Commercial Buildings”
+29 guidelines as revised and updated; and
+30 (vi) reinforcing building codes; and
+8 SENATE BILL 856
+1 (2) establish a risk reduction standard for mold hazards.
+2 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+3 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5     A M ( F t p o r t D o t E t M D t M D o L a t D o G S t d w c i a c t a i a c m r a l c n r t D o t E i c w t M D o H t D o H a C D o r a r b c a g r t m p B  A S  A  ( B  A S]
+[DELETED:  S   A  (  S T A ) ( N   “DS Y :   ) E;X   ) L;II   ) L;IE   ) W;VAE    ) M.U   () “MOD      O;R      I.   ) “M”:IOD      A;     A;     C;     F;     M;]
+[DELETED: S 3     M;     P;     S;M      T.   “M”:N    ) R,,,EG G G G  T P T A A M HD MD OS    ) IB O T U C O A MD D ,. ) TD,H ET I C W T AH,DH O EH T E O O A O,MDL,T  A E AR  E E ES S,:   C W P I AS    S() T S C O T SN A   ) RS;E TD    ) IO T C C M G I T ) I()N B  SN T E M U T  NDU.A’“BGM,MYH GYS R U OD O O OE A ) ( N]
+[DELETED:  S    “M”§6D H T M S I   O TA. R   “M”:T    ) A,N IN A IN O A S O A O O S T P I T T OE N ,;   ) T;IHN    ) T.IH   “M”§6N     N RA. ) A: L   P§6   T N R T E T I A R U O TDS:   ) T T T T L O R A ID    ) E2IV   NT       ) (   W  D W  D A R O A W51    ) H A L A E HS    ) A.I    I( T A I P  O T SD :]
+[DELETED: S 5    )P4E  D      )IF P M R W T T S I I I O T P I N FE W A)    ) R U P  P  A  O T)()( F T R I G A B T  ) A:     C N   E;   E L I R H I T PY    T P I A W AL TE SS S S S ,,    U A R13PSA.  S  ( ( I   ( “ m a m i t i o a f i    ( e    ( l    ( l    ( w    ( m]
+[DELETED:  S    ( ( “     1 o     2 i    ( “     1 A     2 A     3 C     4 F     5 M     6 M     7 P     8 S     9 T   ( “    ( a s e    ( t    ( t   ( “ m    ( a    ( a    ( a   ( “]
+[DELETED: S 7    ( r c s d o a o t    ( a d  ( O o b J 1 2 t D o t E i c C e  ( T   ( e    ( i m    ( m     1 t P     2 t     3 a o    ( b w     1 t     2 t A C o G I H     3 a    ( v m i t a t p o a v w    ( m r i a w t U E P A 2 “ R i S a C B g    ( r]
+[DELETED:  S    ( e  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 856
+M3, N1 5lr2629
+By: Senator Henson
+Introduced and read first time: January 28, 2025
+Assigned to: Judicial Proceedings and Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 25, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Mold – Landlord Requirements and Regulations
+3 (Maryland Tenant Mold Protection Act)
+4 FOR the purpose of requiring the Department of the Environment, the Maryland
+5 Department of Health, the Department of Housing and Community Development,
+6 the Maryland Department of Labor, and the Department of General Services to
+7 develop a certain pamphlet and website; requiring a landlord to provide a tenant
+8 with certain information at certain times and in a certain manner; requiring a
+9 landlord to perform certain tasks within a certain time upon receiving a certain
+10 notice; requiring the Department of the Environment, in consultation with the
+11 Maryland Department of Health, the Department of Housing and Community
+12 Development, and the Department of General Services, to adopt certain regulations
+13 on or before a certain date establishing uniform standards for mold assessment and
+14 remediation and reinforcing building codes; and generally relating to mold
+15 prevention, assessment, and remediation.
+16 BY adding to
+17 Article – Environment
+18 Section 6–1702
+19 Annotated Code of Maryland
+20 (2013 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Real Property
+23 Section 8–121
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0856*
+
+2 SENATE BILL 856
+1 Annotated Code of Maryland
+2 (2023 Replacement Volume and 2024 Supplement)
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – Environment
+6 6–1702.
+7 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+8 INDICATED.
+9 (2) “DAMPNESS” MEANS ABNORMAL MOISTURE IN THE INTERIOR OF
+10 A FACILITY, INCLUDING:
+11 (I) EXCESSIVE HUMIDITY LEVELS;
+12 (II) LINGERING CONDENSATION;
+13 (III) LEAKS;
+14 (IV) WATER DAMAGE; AND
+15 (V) MUSTY OR MOLDY ODORS.
+16 (3) (I) “MOLD” MEANS A FORM OF MULTICELLULAR FUNGI THAT
+17 LIVES:
+18 1. ON PLANT OR ANIMAL MATTER; OR
+19 2. IN AN INDOOR ENVIRONMENT.
+20 (II) “MOLD” INCLUDES:
+21 1. ALTERNARIA;
+22 2. ASPERGILLUS;
+23 3. CLADOSPORIUM;
+24 4. FUSARIUM;
+25 5. MEMNONIELLA;
+
+SENATE BILL 856 3
+1 6. MUCOR;
+2 7. PENICILLIUM;
+3 8. STACHYBOTRYS CHARTARUM; AND
+4 9. TRICHODERMA.
+5 (4) “MOLD REMEDIATION” MEANS:
+6 (I) REMOVING, CLEANING, SANITIZING, DEMOLISHING, OR ANY
+7 OTHER TREATMENT PERFORMED TO ADDRESS A MOLD HAZARD, MOLD, OR
+8 DAMPNESS; OR
+9 (II) ABATEMENT OF THE UNDERLYING CAUSE OF A MOLD
+10 HAZARD, MOLD, OR DAMPNESS.
+11 (B) THE DEPARTMENT, IN COORDINATION WITH THE MARYLAND
+12 DEPARTMENT OF HEALTH, THE DEPARTMENT OF HOUSING AND COMMUNITY
+13 DEVELOPMENT, THE MARYLAND DEPARTMENT OF LABOR, AND THE DEPARTMENT
+14 OF GENERAL SERVICES, SHALL DEVELOP AND UPDATE AS NECESSARY:
+15 (1) A CENTRALIZED WEBSITE PROVIDING INFORMATION ABOUT
+16 MOLD REMEDIATION AND DAMPNESS; AND
+17 (2) SUBJECT TO SUBSECTION (C) OF THIS SECTION, AN
+18 INFORMATIONAL PAMPHLET ON MOLD THAT INCLUDES:
+19 (I) RESOURCES IN THE STATE RELATING TO MOLD; AND
+20 (II) HOW TENANTS CAN CONTROL MOLD GROWTH IN THEIR
+21 UNIT.
+22 (C) INSTEAD OF DEVELOPING A PAMPHLET UNDER SUBSECTION (B)(2) OF
+23 THIS SECTION, THE DEPARTMENT MAY USE THE U.S. ENVIRONMENTAL
+24 PROTECTION AGENCY’S “BRIEF GUIDE TO MOLD, MOISTURE AND YOUR HOME”
+25 PAMPHLET.
+26 Article – Real Property
+27 8–121.
+28 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+29 INDICATED.
+
+4 SENATE BILL 856
+1 (2) “MOLD” HAS THE MEANING STATED IN § 6–1702 OF THE
+2 ENVIRONMENT ARTICLE.
+3 (3) “MOLD ASSESSMENT” MEANS:
+4 (I) AN INSPECTION, AN INVESTIGATION, OR A SURVEY OF A
+5 DWELLING OR OTHER STRUCTURE TO PROVIDE INFORMATION TO THE OWNER
+6 REGARDING THE PRESENCE, IDENTIFICATION, OR EVALUATION OF MOLD;
+7 (II) THE DEVELOPMENT OF A MOLD MANAGEMENT PLAN; OR
+8 (III) THE COLLECTION OR ANALYSIS OF A MOLD SAMPLE.
+9 (4) “MOLD REMEDIATION” HAS THE MEANING STATED IN § 6–1702 OF
+10 THE ENVIRONMENT ARTICLE.
+11 (B) A LANDLORD SHALL:
+12 (1) PROVIDE THE PAMPHLET DEVELOPED OR USED UNDER § 6–1702
+13 OF THE ENVIRONMENT ARTICLE TO EACH TENANT IN A RENTAL UNIT ON THE
+14 LANDLORD’S PROPERTY:
+15 (I) AT THE TIME THE LEASE OR RENTAL AGREEMENT IS
+16 SIGNED; AND
+17 (II) EVERY 2 YEARS THEREAFTER ON REQUEST BY A TENANT OF
+18 THE RENTAL UNIT; AND
+19 (2) REQUEST THAT A TENANT SIGN A STATEMENT ACKNOWLEDGING
+20 RECEIPT OF THE PAMPHLET.
+21 (C) (1) A LANDLORD SHALL PERFORM A MOLD ASSESSMENT AND MOLD
+22 REMEDIATION WITHIN 45 DAYS WITHIN 15 DAYS AFTER RECEIPT OF A WRITTEN
+23 NOTICE REGARDING THE DETECTION OF MOLD FROM:
+24 (I) THE APPLICABLE LOCAL AGENCY ENFORCING HOUSING
+25 AND LIVABILITY CODES; OR
+26 (II) A TENANT OR BUILDING OCCUPANT.
+27 (2) IF THE ASSESSMENT IN PARAGRAPH (1) OF THIS SUBSECTION
+28 DETECTS MOLD, A LANDLORD SHALL:
+
+SENATE BILL 856 5
+1 (I) PERFORM MOLD REMEDIATION WITHIN 45 DAYS AFTER THE
+2 ASSESSMENT IS COMPLETED; OR
+3 (II) IF PERFORMING MOLD REMEDIATION WITHIN THE TIME
+4 FRAME SPECIFIED IN ITEM (I) OF THIS PARAGRAPH IS NOT FEASIBLE, WITHIN A
+5 REASONABLE TIME AFTER THE ASSESSMENT IS COMPLETED.
+6 (3) A LANDLORD SHALL ENSURE THAT THE MOLD ASSESSMENT AND
+7 MOLD REMEDIATION UNDER PARAGRAPH (1) PARAGRAPHS (1) AND (2) OF THIS
+8 SUBSECTION FOLLOWS THE RECOMMENDED INDUSTRY GUIDELINES AND BEST
+9 PRACTICES AND STATE AND LOCAL LAWS AND REGULATIONS.
+10 (D) A LANDLORD SHALL:
+11 (1) COMMUNICATE WITH OCCUPANTS DURING A MOLD ASSESSMENT
+12 AND MOLD REMEDIATION UNDER SUBSECTION (C) OF THIS SECTION TO PROVIDE
+13 UPDATES AND RELEVANT INFORMATION;
+14 (2) ENSURE PROPER VENTILATION IN THE PROPERTY;
+15 (3) ENSURE LOW INDOOR RELATIVE HUMIDITY IN THE PROPERTY;
+16 AND
+17 (4) MAINTAIN THE PROPERTY IN ACCORDANCE WITH ALL
+18 APPLICABLE FEDERAL, STATE, AND LOCAL RESIDENTIAL HOUSING AND BUILDING
+19 CODES, STANDARDS, REGULATIONS, RULES, AND REQUIREMENTS PERTAINING TO
+20 MINIMUM LIVABILITY UNDER § 12–203 OF THE PUBLIC SAFETY ARTICLE.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That:
+22 (a) (1) In this section the following words have the meanings indicated.
+23 (2) “Dampness” means abnormal moisture in the interior of a facility,
+24 including:
+25 (i) excessive humidity levels;
+26 (ii) lingering condensation;
+27 (iii) leaks;
+28 (iv) water damage; and
+29 (v) musty or moldy odors.
+
+6 SENATE BILL 856
+1 (3) (i) “Mold” means a form of multicellular fungi that lives:
+2 1. on plant or animal matter; or
+3 2. in an indoor environment.
+4 (ii) “Mold” includes:
+5 1. Alternaria;
+6 2. Aspergillus;
+7 3. Cladosporium;
+8 4. Fusarium;
+9 5. Memnoniella;
+10 6. Mucor;
+11 7. Penicillium;
+12 8. Stachybotrys chartarum; and
+13 9. Trichoderma.
+14 (4) “Mold assessment” means:
+15 (i) an inspection, an investigation, or a survey of a dwelling or other
+16 structure to provide information to the owner regarding the presence, identification, or
+17 evaluation of mold;
+18 (ii) the development of a mold management plan; or
+19 (iii) the collection or analysis of a mold sample.
+20 (5) “Mold hazard” means an adverse human health effect associated with
+21 mold exposure, including:
+22 (i) allergic reactions;
+23 (ii) asthma; and
+24 (iii) any other respiratory complaints.
+25 (6) “Mold remediation” means:
+
+SENATE BILL 856 7
+1 (i) removing, cleaning, sanitizing, demolishing, or any other
+2 treatment performed to address a mold hazard, mold, or dampness; or
+3 (ii) abatement of the underlying cause of a mold hazard, mold, or
+4 dampness.
+5 (b) On or before June 1, 2027, the Department of the Environment, in
+6 consultation with the Maryland Department of Health, the Department of Housing and
+7 Community Development, and the Department of General Services, shall adopt regulations
+8 establishing uniform standards for mold assessment and mold remediation.
+9 (c) The regulations adopted under this section shall:
+10 (1) establish standards for:
+11 (i) identifying and evaluating the presence of mold, including visible
+12 mold inspection and testing;
+13 (ii) mold air sample analyses in accordance with the standards of:
+14 1. the Environmental Microbiology Laboratory Accreditation
+15 Program at the American Industrial Hygiene Association;
+16 2. the American Indoor Air Quality Council; or
+17 3. any other nationally recognized accreditation entity that
+18 operates independently of industry trade associations;
+19 (iii) bulk or surface mold sample analyses conducted in accordance
+20 with the standards of:
+21 1. the American Industrial Hygiene Association;
+22 2. the American Conference of Governmental Industrial
+23 Hygienists; or
+24 3. a similar nationally recognized professional organization;
+25 (iv) visible mold inspections to assess the presence of any visible
+26 water damage or dampness on surfaces, including ceiling tiles and gypsum wallboard;
+27 (v) mold remediation in accordance with the U.S. Environmental
+28 Protection Agency’s 2008 “Mold Remediation in Schools and Commercial Buildings”
+29 guidelines as revised and updated; and
+30 (vi) reinforcing building codes; and
+
+8 SENATE BILL 856
+1 (2) establish a risk reduction standard for mold hazards.
+2 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+3 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5     A M ( F t p o r t D o t E t M D t M D o L a t D o G S t d w c i a c t a i a c m r a l c n r t D o t E i c w t M D o H t D o H a C D o r a r b c a g r t m p B  A S  A  ( B  A S]
+[DELETED:  S   A  (  S T A ) ( N   “DS Y :   ) E;X   ) L;II   ) L;IE   ) W;VAE    ) M.U   () “MOD      O;R      I.   ) “M”:IOD      A;     A;     C;     F;     M;]
+[DELETED: S 3     M;     P;     S;M      T.   “M”:N    ) R,,,EG G G G  T P T A A M HD MD OS    ) IB O T U C O A MD D ,. ) TD,H ET I C W T AH,DH O EH T E O O A O,MDL,T  A E AR  E E ES S,:   C W P I AS    S() T S C O T SN A   ) RS;E TD    ) IO T C C M G I T ) I()N B  SN T E M U T  NDU.A’“BGM,MYH GYS R U OD O O OE A ) ( N]
+[DELETED:  S    “M”§6D H T M S I   O TA. R   “M”:T    ) A,N IN A IN O A S O A O O S T P I T T OE N ,;   ) T;IHN    ) T.IH   “M”§6N     N RA. ) A: L   P§6   T N R T E T I A R U O TDS:   ) T T T T L O R A ID    ) E2IV   NT       ) (   W  D W  D A R O A W51    ) H A L A E HS    ) A.I    I( T A I P  O T SD :]
+[DELETED: S 5    )P4E  D      )IF P M R W T T S I I I O T P I N FE W A)    ) R U P  P  A  O T)()( F T R I G A B T  ) A:     C N   E;   E L I R H I T PY    T P I A W AL TE SS S S S ,,    U A R13PSA.  S  ( ( I   ( “ m a m i t i o a f i    ( e    ( l    ( l    ( w    ( m]
+[DELETED:  S    ( ( “     1 o     2 i    ( “     1 A     2 A     3 C     4 F     5 M     6 M     7 P     8 S     9 T   ( “    ( a s e    ( t    ( t   ( “ m    ( a    ( a    ( a   ( “]
+[DELETED: S 7    ( r c s d o a o t    ( a d  ( O o b J 1 2 t D o t E i c C e  ( T   ( e    ( i m    ( m     1 t P     2 t     3 a o    ( b w     1 t     2 t A C o G I H     3 a    ( v m i t a t p o a v w    ( m r i a w t U E P A 2 “ R i S a C B g    ( r]
+[DELETED:  S    ( e  S 1          G               ]

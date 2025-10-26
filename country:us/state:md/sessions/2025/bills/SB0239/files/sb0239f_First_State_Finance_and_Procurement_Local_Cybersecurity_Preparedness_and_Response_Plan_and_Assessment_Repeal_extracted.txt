@@ -1,0 +1,108 @@
+Title: SENATE BILL 239
+Official Title: SENATE BILL 239
+Number of Sections: 1
+Source: versions - First - State Finance and Procurement - Local Cybersecurity Preparedness and Response Plan and Assessment - Repeal
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+S2 5lr0189
+(PRE–FILED) CF HB 209
+By: Chair, Education, Energy, and the Environment Committee (By Request –
+Departmental – Information Technology)
+Requested: September 19, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 State Finance and Procurement – Local Cybersecurity Preparedness and
+3 Response Plan and Assessment – Repeal
+4 FOR the purpose of repealing a duplicative provision of law requiring certain local
+5 government entities to create or update a cybersecurity preparedness and response
+6 plan and complete a cybersecurity preparedness assessment; and generally relating
+7 to local cybersecurity preparedness and response.
+8 BY repealing
+9 Article – State Finance and Procurement
+10 Section 3.5–405
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 BY renumbering
+14 Article – State Finance and Procurement
+15 Section 3.5–406 and 3.5–407
+16 to be Section 3.5–405 and 3.5–406, respectively
+17 Annotated Code of Maryland
+18 (2021 Replacement Volume and 2024 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – State Finance and Procurement
+22 [3.5–405.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0239*
+2 SENATE BILL 239
+1 (a) This section does not apply to municipal governments.
+2 (b) In a manner and frequency established in regulations adopted by the
+3 Department, each county government, local school system, and local health department
+4 shall in consultation with the local emergency manager, create or update a cybersecurity
+5 preparedness and response plan and complete a cybersecurity preparedness assessment.]
+6 SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 3.5–406 and
+7 3.5–407 of Article – State Finance and Procurement of the Annotated Code of Maryland be
+8 renumbered to be Section(s) 3.5–405 and 3.5–406, respectively.
+9 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+10 1, 2025.
+[DELETED: :CA      5 ( C C E E a t E C ( R – A S R F t p o r a d p o l r c l g p t B  A  S  A  ( B  A S t  A  (  S T A 3]
+[DELETED:  S   ( T  ( I a m a f e i r a b t D s p  S 2 A B I F E T S 3 a 3 r  S 1]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 239
+S2 5lr0189
+(PRE–FILED) CF HB 209
+By: Chair, Education, Energy, and the Environment Committee (By Request –
+Departmental – Information Technology)
+Requested: September 19, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 State Finance and Procurement – Local Cybersecurity Preparedness and
+3 Response Plan and Assessment – Repeal
+4 FOR the purpose of repealing a duplicative provision of law requiring certain local
+5 government entities to create or update a cybersecurity preparedness and response
+6 plan and complete a cybersecurity preparedness assessment; and generally relating
+7 to local cybersecurity preparedness and response.
+8 BY repealing
+9 Article – State Finance and Procurement
+10 Section 3.5–405
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 BY renumbering
+14 Article – State Finance and Procurement
+15 Section 3.5–406 and 3.5–407
+16 to be Section 3.5–405 and 3.5–406, respectively
+17 Annotated Code of Maryland
+18 (2021 Replacement Volume and 2024 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – State Finance and Procurement
+22 [3.5–405.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0239*
+
+2 SENATE BILL 239
+1 (a) This section does not apply to municipal governments.
+2 (b) In a manner and frequency established in regulations adopted by the
+3 Department, each county government, local school system, and local health department
+4 shall in consultation with the local emergency manager, create or update a cybersecurity
+5 preparedness and response plan and complete a cybersecurity preparedness assessment.]
+6 SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 3.5–406 and
+7 3.5–407 of Article – State Finance and Procurement of the Annotated Code of Maryland be
+8 renumbered to be Section(s) 3.5–405 and 3.5–406, respectively.
+9 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+10 1, 2025.
+
+[DELETED: :CA      5 ( C C E E a t E C ( R – A S R F t p o r a d p o l r c l g p t B  A  S  A  ( B  A S t  A  (  S T A 3]
+[DELETED:  S   ( T  ( I a m a f e i r a b t D s p  S 2 A B I F E T S 3 a 3 r  S 1]

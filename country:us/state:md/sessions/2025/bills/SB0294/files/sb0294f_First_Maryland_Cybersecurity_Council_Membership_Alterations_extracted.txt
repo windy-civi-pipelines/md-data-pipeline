@@ -1,0 +1,205 @@
+Title: SENATE BILL 294
+Official Title: SENATE BILL 294
+Number of Sections: 1
+Source: versions - First - Maryland Cybersecurity Council - Membership - Alterations
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+P1, S2 5lr2179
+CF 5lr1418
+By: Senator Feldman
+Introduced and read first time: January 10, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 Maryland Cybersecurity Council – Membership – Alterations
+3 FOR the purpose of altering the selection of the membership and chair of the Maryland
+4 Cybersecurity Council; and generally relating to Maryland Cybersecurity Council
+5 membership.
+6 BY repealing and reenacting, without amendments,
+7 Article – State Government
+8 Section 9–2901(b)
+9 Annotated Code of Maryland
+10 (2021 Replacement Volume and 2024 Supplement)
+11 BY repealing and reenacting, with amendments,
+12 Article – State Government
+13 Section 9–2901(c) and (f)
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2024 Supplement)
+16 BY repealing
+17 Article – State Government
+18 Section 9–2901(g)
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – State Government
+23 Section 9–2901(g)
+24 Annotated Code of Maryland
+25 (2021 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0294*
+2 SENATE BILL 294
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – State Government
+4 9–2901.
+5 (b) There is a Maryland Cybersecurity Council.
+6 (c) The Council consists of the following members:
+7 (1) the Attorney General, or the Attorney General’s designee;
+8 (2) the Secretary of Information Technology, or the Secretary’s designee;
+9 (3) the Secretary of State Police, or the Secretary’s designee;
+10 (4) the Secretary of Commerce, or the Secretary’s designee;
+11 (5) the Adjutant General, or the Adjutant General’s designee;
+12 (6) the State Administrator of Elections, or the State Administrator’s
+13 designee;
+14 (7) the Executive Director of the Governor’s Office of Homeland Security,
+15 or the Executive Director’s designee;
+16 (8) the Director of the Maryland Coordination and Analysis Center, or the
+17 Director’s designee;
+18 (9) the Secretary of Emergency Management, or the Secretary’s designee;
+19 (10) the Chief Executive Officer of the Maryland Technology Development
+20 Corporation, or the Chief Executive Officer’s designee;
+21 (11) the Chair of the Tech Council of Maryland, or the Chair’s designee;
+22 (12) the President of the Fort Meade Alliance, or the President’s designee;
+23 (13) the President of the Army Alliance, or the President’s designee; and
+24 (14) the following members appointed by the [Attorney General]
+25 GOVERNOR:
+26 (i) five representatives of cybersecurity companies located in the
+27 State, with at least three representing cybersecurity companies with 50 or fewer employees;
+SENATE BILL 294 3
+1 (ii) four representatives from statewide or regional business
+2 associations;
+3 (iii) up to ten representatives from institutions of higher education
+4 located in the State;
+5 (iv) one representative of a crime victims organization;
+6 (v) four representatives from industries that may be susceptible to
+7 attacks on cybersecurity, including at least one representative of a bank, whether or not
+8 State–chartered, that has a branch in the State;
+9 (vi) two representatives of organizations that have expertise in
+10 electronic health care records; and
+11 (vii) any other stakeholder that the [Attorney General] GOVERNOR
+12 determines appropriate.
+13 (f) The [Attorney General] GOVERNOR also shall invite, as appropriate, the
+14 following representatives of federal agencies to serve on the Council:
+15 (1) the Director of the National Security Agency, or the Director’s designee;
+16 (2) the Secretary of Homeland Security, or the Secretary’s designee;
+17 (3) the Director of the Defense Information Systems Agency, or the
+18 Director’s designee;
+19 (4) the Director of the Intelligence Advanced Research Projects Activity, or
+20 the Director’s designee; and
+21 (5) any other federal agency that the Attorney General determines
+22 appropriate.
+23 [(g) The Attorney General, or the Attorney General’s designee, shall chair the
+24 Council.]
+25 (G) BEGINNING OCTOBER 1, 2025, AND EVERY 2 YEARS THEREAFTER, THE
+26 COUNCIL SHALL ELECT A CHAIR FROM AMONG THE MEMBERS OF THE COUNCIL.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 October 1, 2025.
+[DELETED: :CA      5   C A M F C m B  A S  A  ( B  A S A  ( B  A S A  ( B  A S A  (]
+[DELETED:  S   S T A 9  ( T  ( T   ( t   ( t   ( t   ( t   ( t   ( t S A o E o t S A d   ( t o   ( t D   ( t   ( t C   ( t   ( t   ( t   ( t f m a b t A G :    ( f r o c c l i t S]
+[DELETED: S 3    ( f r f s o r b a    ( u l    ( o    ( f a S    ( t r o o t h e i e    ( a Al]O d  ( T A Gl a s i a a t]O f   ( t   ( t   ( t D o t D I S A o t D   ( t t   ( a o f a t t A G d a  ( T A G o t A G d s c t C() BO1,2,2E C     R C O   S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 294
+P1, S2 5lr2179
+CF 5lr1418
+By: Senator Feldman
+Introduced and read first time: January 10, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 Maryland Cybersecurity Council – Membership – Alterations
+3 FOR the purpose of altering the selection of the membership and chair of the Maryland
+4 Cybersecurity Council; and generally relating to Maryland Cybersecurity Council
+5 membership.
+6 BY repealing and reenacting, without amendments,
+7 Article – State Government
+8 Section 9–2901(b)
+9 Annotated Code of Maryland
+10 (2021 Replacement Volume and 2024 Supplement)
+11 BY repealing and reenacting, with amendments,
+12 Article – State Government
+13 Section 9–2901(c) and (f)
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2024 Supplement)
+16 BY repealing
+17 Article – State Government
+18 Section 9–2901(g)
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – State Government
+23 Section 9–2901(g)
+24 Annotated Code of Maryland
+25 (2021 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0294*
+
+2 SENATE BILL 294
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – State Government
+4 9–2901.
+5 (b) There is a Maryland Cybersecurity Council.
+6 (c) The Council consists of the following members:
+7 (1) the Attorney General, or the Attorney General’s designee;
+8 (2) the Secretary of Information Technology, or the Secretary’s designee;
+9 (3) the Secretary of State Police, or the Secretary’s designee;
+10 (4) the Secretary of Commerce, or the Secretary’s designee;
+11 (5) the Adjutant General, or the Adjutant General’s designee;
+12 (6) the State Administrator of Elections, or the State Administrator’s
+13 designee;
+14 (7) the Executive Director of the Governor’s Office of Homeland Security,
+15 or the Executive Director’s designee;
+16 (8) the Director of the Maryland Coordination and Analysis Center, or the
+17 Director’s designee;
+18 (9) the Secretary of Emergency Management, or the Secretary’s designee;
+19 (10) the Chief Executive Officer of the Maryland Technology Development
+20 Corporation, or the Chief Executive Officer’s designee;
+21 (11) the Chair of the Tech Council of Maryland, or the Chair’s designee;
+22 (12) the President of the Fort Meade Alliance, or the President’s designee;
+23 (13) the President of the Army Alliance, or the President’s designee; and
+24 (14) the following members appointed by the [Attorney General]
+25 GOVERNOR:
+26 (i) five representatives of cybersecurity companies located in the
+27 State, with at least three representing cybersecurity companies with 50 or fewer employees;
+
+SENATE BILL 294 3
+1 (ii) four representatives from statewide or regional business
+2 associations;
+3 (iii) up to ten representatives from institutions of higher education
+4 located in the State;
+5 (iv) one representative of a crime victims organization;
+6 (v) four representatives from industries that may be susceptible to
+7 attacks on cybersecurity, including at least one representative of a bank, whether or not
+8 State–chartered, that has a branch in the State;
+9 (vi) two representatives of organizations that have expertise in
+10 electronic health care records; and
+11 (vii) any other stakeholder that the [Attorney General] GOVERNOR
+12 determines appropriate.
+13 (f) The [Attorney General] GOVERNOR also shall invite, as appropriate, the
+14 following representatives of federal agencies to serve on the Council:
+15 (1) the Director of the National Security Agency, or the Director’s designee;
+16 (2) the Secretary of Homeland Security, or the Secretary’s designee;
+17 (3) the Director of the Defense Information Systems Agency, or the
+18 Director’s designee;
+19 (4) the Director of the Intelligence Advanced Research Projects Activity, or
+20 the Director’s designee; and
+21 (5) any other federal agency that the Attorney General determines
+22 appropriate.
+23 [(g) The Attorney General, or the Attorney General’s designee, shall chair the
+24 Council.]
+25 (G) BEGINNING OCTOBER 1, 2025, AND EVERY 2 YEARS THEREAFTER, THE
+26 COUNCIL SHALL ELECT A CHAIR FROM AMONG THE MEMBERS OF THE COUNCIL.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 October 1, 2025.
+
+[DELETED: :CA      5   C A M F C m B  A S  A  ( B  A S A  ( B  A S A  ( B  A S A  (]
+[DELETED:  S   S T A 9  ( T  ( T   ( t   ( t   ( t   ( t   ( t   ( t S A o E o t S A d   ( t o   ( t D   ( t   ( t C   ( t   ( t   ( t   ( t f m a b t A G :    ( f r o c c l i t S]
+[DELETED: S 3    ( f r f s o r b a    ( u l    ( o    ( f a S    ( t r o o t h e i e    ( a Al]O d  ( T A Gl a s i a a t]O f   ( t   ( t   ( t D o t D I S A o t D   ( t t   ( a o f a t t A G d a  ( T A G o t A G d s c t C() BO1,2,2E C     R C O   S A B I F E T t A s t e O]

@@ -1,0 +1,183 @@
+Title: HOUSE BILL 586
+Official Title: HOUSE BILL 586
+Number of Sections: 1
+Source: versions - Third - Election Law - Election Judges - Compensation
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+G1 5lr0877
+CF SB 534
+By: Delegate D. Jones
+Introduced and read first time: January 23, 2025
+Assigned to: Ways and Means
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 22, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Election Law – Election Judges – Compensation
+3 FOR the purpose of requiring a local board of elections to pay an election judge
+4 compensation for completing a certain course of instruction only after the election
+5 judge actually serves an election day or early voting day; authorizing a public school
+6 student in the State to both earn hours toward the service–learning graduation
+7 requirement and receive election judge compensation for service as an election judge;
+8 and generally relating to election judges.
+9 BY repealing and reenacting, with amendments,
+10 Article – Election Law
+11 Section 10–205
+12 Annotated Code of Maryland
+13 (2022 Replacement Volume and 2024 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
+16 Article – Election Law
+17 10–205.
+18 (a) (1) In this section the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0586*
+2 HOUSE BILL 586
+1 (2) “Compensation” includes stipends for transportation, training, and
+2 bonus payments.
+3 (3) “Returning election judge” means an election judge who has served a
+4 term of office for the immediately preceding statewide election.
+5 (b) (1) (i) The county governing body shall provide sufficient funding to
+6 meet the minimum compensation levels required under this section.
+7 (ii) Within the limits authorized by the county governing body, a
+8 local board may fix the compensation of election judges above the minimum compensation
+9 levels required under this section.
+10 (2) A local board shall pay an election judge for:
+11 (i) SUBJECT TO PARAGRAPH (4)(II) OF THIS SUBSECTION, each
+12 course of instruction required under § 10–206(g)(1) of this subtitle that the election judge
+13 completes; and
+14 (ii) each election day and each early voting day that the election
+15 judge actually serves.
+16 (3) (i) For each election judge who is not a returning election judge, the
+17 compensation for each election day and each early voting day actually served shall be at
+18 least $250 per day.
+19 (ii) For each returning election judge, the compensation for each
+20 election day and each early voting day actually served shall be at least $100 more per day
+21 than the compensation provided to an election judge who is not a returning election judge.
+22 (4) (I) The compensation for each completed course of instruction
+23 required under § 10–206(g)(1) of this subtitle shall be at least $50.
+24 (II) A LOCAL BOARD SHALL PAY AN ELECTION JUDGE THE
+25 COMPENSATION REQUIRED UNDER PARAGRAPH (2)(I) OF THIS SUBSECTION ONLY
+26 AFTER THE ELECTION JUDGE ACTUALLY SERVES AN ELECTION DAY OR EARLY
+27 VOTING DAY.
+28 (c) The State Board shall reimburse each local board for $50 of the additional
+29 compensation required under subsection (b)(3)(ii) of this section that is paid to each
+30 returning election judge.
+31 (D) FOR SERVICE AS AN ELECTION JUDGE, A PUBLIC SCHOOL STUDENT IN
+32 THE STATE MAY BOTH:
+HOUSE BILL 586 3
+1 (1) EARN HOURS TOWARD THE SERVICE–LEARNING REQUIREMENT
+2 FOR GRADUATION UNDER COMAR 13A.03.02.05; AND
+3 (2) RECEIVE THE ELECTION JUDGE COMPENSATION UNDER THIS
+4 SECTION.
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+6 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5   C A E F t p o r a l b o e t p a e j c j s i t S t b e h t t s g r a B  A S  A  (  S T A 1  ( ( I]
+[DELETED:  H    ( “ i s f t t a b   ( “ t  ( ( ( T c g b s p s f t m    ( W t a b t c g b l l   ( A    ( e II N() c c    ( e e d a e e v d t t e j   ( ( F c l    ( F e r e j t c f e e t   ( T c f e c c o i) r   ) I L B S P A E J T I ( T E J A S A E D O EY  ( T c r u s ( o t s t i p t e r ) FOE  TH:]
+[DELETED: H 3 (  H T T SEL R   R1; ( T E J C U T  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 586
+G1 5lr0877
+CF SB 534
+By: Delegate D. Jones
+Introduced and read first time: January 23, 2025
+Assigned to: Ways and Means
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 22, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Election Law – Election Judges – Compensation
+3 FOR the purpose of requiring a local board of elections to pay an election judge
+4 compensation for completing a certain course of instruction only after the election
+5 judge actually serves an election day or early voting day; authorizing a public school
+6 student in the State to both earn hours toward the service–learning graduation
+7 requirement and receive election judge compensation for service as an election judge;
+8 and generally relating to election judges.
+9 BY repealing and reenacting, with amendments,
+10 Article – Election Law
+11 Section 10–205
+12 Annotated Code of Maryland
+13 (2022 Replacement Volume and 2024 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
+16 Article – Election Law
+17 10–205.
+18 (a) (1) In this section the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0586*
+
+2 HOUSE BILL 586
+1 (2) “Compensation” includes stipends for transportation, training, and
+2 bonus payments.
+3 (3) “Returning election judge” means an election judge who has served a
+4 term of office for the immediately preceding statewide election.
+5 (b) (1) (i) The county governing body shall provide sufficient funding to
+6 meet the minimum compensation levels required under this section.
+7 (ii) Within the limits authorized by the county governing body, a
+8 local board may fix the compensation of election judges above the minimum compensation
+9 levels required under this section.
+10 (2) A local board shall pay an election judge for:
+11 (i) SUBJECT TO PARAGRAPH (4)(II) OF THIS SUBSECTION, each
+12 course of instruction required under § 10–206(g)(1) of this subtitle that the election judge
+13 completes; and
+14 (ii) each election day and each early voting day that the election
+15 judge actually serves.
+16 (3) (i) For each election judge who is not a returning election judge, the
+17 compensation for each election day and each early voting day actually served shall be at
+18 least $250 per day.
+19 (ii) For each returning election judge, the compensation for each
+20 election day and each early voting day actually served shall be at least $100 more per day
+21 than the compensation provided to an election judge who is not a returning election judge.
+22 (4) (I) The compensation for each completed course of instruction
+23 required under § 10–206(g)(1) of this subtitle shall be at least $50.
+24 (II) A LOCAL BOARD SHALL PAY AN ELECTION JUDGE THE
+25 COMPENSATION REQUIRED UNDER PARAGRAPH (2)(I) OF THIS SUBSECTION ONLY
+26 AFTER THE ELECTION JUDGE ACTUALLY SERVES AN ELECTION DAY OR EARLY
+27 VOTING DAY.
+28 (c) The State Board shall reimburse each local board for $50 of the additional
+29 compensation required under subsection (b)(3)(ii) of this section that is paid to each
+30 returning election judge.
+31 (D) FOR SERVICE AS AN ELECTION JUDGE, A PUBLIC SCHOOL STUDENT IN
+32 THE STATE MAY BOTH:
+
+HOUSE BILL 586 3
+1 (1) EARN HOURS TOWARD THE SERVICE–LEARNING REQUIREMENT
+2 FOR GRADUATION UNDER COMAR 13A.03.02.05; AND
+3 (2) RECEIVE THE ELECTION JUDGE COMPENSATION UNDER THIS
+4 SECTION.
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+6 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5   C A E F t p o r a l b o e t p a e j c j s i t S t b e h t t s g r a B  A S  A  (  S T A 1  ( ( I]
+[DELETED:  H    ( “ i s f t t a b   ( “ t  ( ( ( T c g b s p s f t m    ( W t a b t c g b l l   ( A    ( e II N() c c    ( e e d a e e v d t t e j   ( ( F c l    ( F e r e j t c f e e t   ( T c f e c c o i) r   ) I L B S P A E J T I ( T E J A S A E D O EY  ( T c r u s ( o t s t i p t e r ) FOE  TH:]
+[DELETED: H 3 (  H T T SEL R   R1; ( T E J C U T  S A B I F E T t A s t e O          G               ]

@@ -1,0 +1,926 @@
+Title: HOUSE BILL 258
+Official Title: HOUSE BILL 258
+Number of Sections: 1
+Source: versions - Third - Economic Development - West North Avenue Development Authority - Alterations
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+C8 EMERGENCY BILL 5lr1410
+HB 1427/24 – W&M (PRE–FILED) CF SB 4
+By: Delegate Wells
+Requested: October 28, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Ways and Means
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 4, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Economic Development – West North Avenue Development Authority –
+3 Alterations
+4 FOR the purpose of altering the administration and membership of the West North Avenue
+5 Development Authority; specifying the powers and duties of the Authority, subject
+6 to certain limitations; exempting the Authority from certain provisions of law;
+7 requiring the Authority to take certain actions regarding the finances of the
+8 Authority; exempting the Authority from certain taxation or assessments under
+9 certain circumstances; establishing the West North Avenue Development Authority
+10 Fund as a special, nonlapsing fund; altering the termination date of the Authority;
+11 and generally relating to the West North Avenue Development Authority.
+12 BY repealing
+13 Article – Economic Development
+14 Section 12–703.1
+15 Annotated Code of Maryland
+16 (2024 Replacement Volume and 2024 Supplement)
+17 BY renumbering
+18 Article – Economic Development
+19 Section 12–702, 12–703, 12–704, 12–705, and 12–706
+20 to be Section 12–703, 12–706, 12–707, 12–708, and 12–709, respectively
+21 Annotated Code of Maryland
+22 (2024 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0258*
+2 HOUSE BILL 258
+1 BY repealing and reenacting, with amendments,
+2 Article – Economic Development
+3 Section 12–701
+4 Annotated Code of Maryland
+5 (2024 Replacement Volume and 2024 Supplement)
+6 BY adding to
+7 Article – Economic Development
+8 Section 12–702, 12–704, 12–705, and 12–710 through 12–714
+9 Annotated Code of Maryland
+10 (2024 Replacement Volume and 2024 Supplement)
+11 BY repealing and reenacting, with amendments,
+12 Article – Economic Development
+13 Section 12–703 and 12–706
+14 Annotated Code of Maryland
+15 (2024 Replacement Volume and 2024 Supplement)
+16 (As enacted by Section 2 of this Act)
+17 BY repealing and reenacting, without amendments,
+18 Article – State Finance and Procurement
+19 Section 6–226(a)(2)(i)
+20 Annotated Code of Maryland
+21 (2021 Replacement Volume and 2024 Supplement)
+22 BY repealing and reenacting, with amendments,
+23 Article – State Finance and Procurement
+24 Section 6–226(a)(2)(ii)204. and 205.
+25 Annotated Code of Maryland
+26 (2021 Replacement Volume and 2024 Supplement)
+27 BY adding to
+28 Article – State Finance and Procurement
+29 Section 6–226(a)(2)(ii)206.
+30 Annotated Code of Maryland
+31 (2021 Replacement Volume and 2024 Supplement)
+32 BY repealing and reenacting, with amendments,
+33 Chapter 80 of the Acts of the General Assembly of 2021
+34 Section 2
+35 BY repealing and reenacting, with amendments,
+36 Chapter 81 of the Acts of the General Assembly of 2021
+37 Section 2
+HOUSE BILL 258 3
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That Section(s) 12–703.1 of Article – Economic Development of the Annotated Code of
+3 Maryland be repealed.
+4 SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 12–702, 12–703,
+5 12–704, 12–705, and 12–706 of Article – Economic Development of the Annotated Code of
+6 Maryland be renumbered to be Section(s) 12–703, 12–706, 12–707, 12–708, and 12–709,
+7 respectively.
+8 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+9 as follows:
+10 Article – Economic Development
+11 12–701.
+12 (a) In this subtitle the following words have the meanings indicated.
+13 (B) “AUTHORITY” MEANS THE WEST NORTH AVENUE DEVELOPMENT
+14 AUTHORITY.
+15 (C) “BOARD” MEANS THE BOARD OF DIRECTORS OF THE AUTHORITY.
+16 [(b)] (D) “Buffer zone” means the area within 250 yards of the target area.
+17 [(c)] (E) “Target area” means the portion of West North Avenue in Baltimore
+18 City between the 600 block and the 3200 block, inclusive.
+19 (F) “WEST NORTH AVENUE CORRIDOR” INCLUDES THE GEOGRAPHIC AREA
+20 CONSISTING OF THE TARGET AREA AND THE BUFFER ZONE.
+21 12–702.
+22 THIS SUBTITLE SHALL BE LIBERALLY CONSTRUED TO ACCOMPLISH ITS
+23 PURPOSES.
+24 12–703.
+25 (A) There is a West North Avenue Development Authority in Baltimore City.
+26 (B) THE AUTHORITY IS A BODY POLITIC AND CORPORATE AND IS AN
+27 INSTRUMENTALITY OF THE STATE.
+28 (C) THE EXERCISE BY THE AUTHORITY OF A POWER UNDER THIS SUBTITLE
+29 IS THE PERFORMANCE OF AN ESSENTIAL GOVERNMENTAL FUNCTION.
+4 HOUSE BILL 258
+1 (D) THE GOVERNOR MAY INCLUDE EACH YEAR IN THE STATE BUDGET BILL
+2 AN APPROPRIATION TO THE WEST NORTH AVENUE DEVELOPMENT AUTHORITY IN
+3 BALTIMORE CITY.
+4 (E) BEGINNING FISCAL YEAR 2028, THE AUTHORITY SHALL BE
+5 SELF–SUSTAINING.
+6 12–704.
+7 (A) THE GENERAL ASSEMBLY FINDS THAT:
+8 (1) THERE EXISTS WITHIN VARIOUS NEIGHBORHOODS IN BALTIMORE
+9 CITY, PARTICULARLY THE WEST NORTH AVENUE CORRIDOR, A NEED FOR
+10 RESIDENTIAL AND COMMERCIAL DEVELOPMENT OR REDEVELOPMENT IN
+11 FURTHERANCE OF THE PUBLIC’S INTEREST;
+12 (2) THE WEST NORTH AVENUE CORRIDOR HAS EXPERIENCED LOW
+13 HOUSING AND ECONOMIC DEVELOPMENT IN THE COMMUNITY FOR DECADES;
+14 (3) AREAS IN THE WEST NORTH AVENUE CORRIDOR INCLUDE BOTH
+15 AREAS THAT ARE CONSIDERED SLUM OR BLIGHTED AND AREAS THAT ARE
+16 DETERIORATED OR SUBJECT TO FURTHER DETERIORATING CONDITION, AND THOSE
+17 AREAS ARE IN NEED OF DEVELOPMENT OR REDEVELOPMENT FOR THE PUBLIC
+18 BENEFIT;
+19 (4) THE REVITALIZATION OF AREAS WITHIN THE WEST NORTH
+20 AVENUE CORRIDOR NEEDING COMMERCIAL DEVELOPMENT OR REDEVELOPMENT IS
+21 AN ESSENTIAL GOVERNMENTAL FUNCTION AND IS A PUBLIC USE THAT WILL CONFER
+22 A PUBLIC BENEFIT ON CITIZENS OF BALTIMORE CITY BY:
+23 (I) RELIEVING CONDITIONS OF UNEMPLOYMENT;
+24 (II) ENCOURAGING THE INCREASE OF COMMERCE AND A
+25 BALANCED ECONOMY;
+26 (III) ASSISTING IN THE RETENTION OF BUSINESSES AND
+27 RESIDENTS;
+28 (IV) ATTRACTING NEW INDUSTRIES AND COMMERCE;
+29 (V) PROMOTING ECONOMIC DEVELOPMENT AND GROWTH; AND
+HOUSE BILL 258 5
+1 (VI) GENERALLY PROMOTING THE HEALTH, WELFARE, AND
+2 PUBLIC SAFETY OF RESIDENTS IN BALTIMORE CITY AND INCREASING PROPERTY
+3 TAX REVENUES FOR THE STATE AND THE CITY OF BALTIMORE;
+4 (5) THE ESTABLISHMENT OF THIS PUBLIC AUTHORITY TO PROVIDE
+5 FINANCIAL RESOURCES FOR THE DEVELOPMENT AND ESTABLISHMENT OF
+6 RESIDENCES AND BUSINESSES THROUGH COMMUNITY ORGANIZATIONS IN THE
+7 TARGET AREA WILL SIGNIFICANTLY IMPROVE BALTIMORE CITY NEIGHBORHOODS
+8 AND INCREASE PROPERTY TAX REVENUES FOR THE STATE AND THE CITY OF
+9 BALTIMORE; AND
+10 (6) THE AUTHORITY IS THE ECONOMIC DEVELOPMENT AUTHORITY
+11 FOR THE STATE TO BENEFIT THE NEIGHBORHOODS OF BALTIMORE CITY WITHIN
+12 THE TARGET AREA.
+13 (B) THE LEGISLATIVE PURPOSES OF THE AUTHORITY ARE TO:
+14 (1) REVIVE THE VARIOUS COMMUNITIES ALONG THE WEST NORTH
+15 AVENUE CORRIDOR IN BALTIMORE CITY;
+16 (2) PROMOTE ECONOMIC DEVELOPMENT;
+17 (3) ENCOURAGE THE INCREASE OF BUSINESS ACTIVITY, COMMERCE,
+18 AND A BALANCED ECONOMY IN BALTIMORE CITY;
+19 (4) HELP TO RETAIN AND ATTRACT BUSINESS ACTIVITY AND
+20 COMMERCE IN BALTIMORE CITY; AND
+21 (5) PROMOTE THE HEALTH, PUBLIC SAFETY, RIGHT OF GAINFUL
+22 EMPLOYMENT, AND WELFARE OF RESIDENTS OF BALTIMORE CITY.
+23 (C) THE GENERAL ASSEMBLY INTENDS THAT:
+24 (1) THE AUTHORITY OPERATE AND EXERCISE ITS CORPORATE
+25 POWERS ALONG THE WEST NORTH AVENUE CORRIDOR IN BALTIMORE CITY;
+26 (2) WITHOUT LIMITING ITS AUTHORITY TO OTHERWISE EXERCISE ITS
+27 POWERS, THE AUTHORITY EXERCISE ITS POWERS TO ASSIST PRIVATE REAL ESTATE
+28 ENTITIES AND NONPROFIT COMMUNITY DEVELOPMENT CORPORATIONS TO
+29 DEVELOP AND REHABILITATE HOUSING AND COMMERCIAL UNITS IN BALTIMORE
+30 CITY AND SUPPORT LOCAL ECONOMIC DEVELOPMENT AGENCIES TO CONTRIBUTE
+31 TO THE EXPANSION, MODERNIZATION, AND RETENTION OF EXISTING ENTERPRISES
+32 IN BALTIMORE CITY AS WELL AS THE ATTRACTION OF NEW BUSINESSES TO
+33 BALTIMORE CITY; AND
+6 HOUSE BILL 258
+1 (3) THE AUTHORITY SHOULD NOT OWN AND OPERATE A PROJECT
+2 UNLESS:
+3 (I) THE BOARD DETERMINES BY RESOLUTION THAT THE
+4 PRIVATE SECTOR HAS NOT DEMONSTRATED SERIOUS AND SIGNIFICANT INTEREST
+5 AND DEVELOPMENT CAPACITY TO OWN AND OPERATE THE PROJECT; OR
+6 (II) A REPRESENTATIVE OF A GOVERNMENTAL UNIT REQUESTS
+7 IN WRITING THAT THE AUTHORITY OWN AND OPERATE THE PROJECT.
+8 12–705.
+9 (A) (1) EXCEPT AS OTHERWISE PROVIDED IN THIS SECTION, IN
+10 EXERCISING ITS POWERS, THE AUTHORITY:
+11 (I) MAY CARRY OUT ITS PURPOSES WITHOUT THE CONSENT OF
+12 ANY STATE UNIT; AND
+13 (II) IS NOT SUBJECT TO:
+14 1. SUBTITLES 1 THROUGH 3 OF THIS TITLE; OR
+15 2. THE FOLLOWING PROVISIONS OF THE STATE
+16 FINANCE AND PROCUREMENT ARTICLE:
+17 A. TITLE 2, SUBTITLES 2 (GIFTS AND GRANTS) AND 5
+18 (FACILITIES FOR THE HANDICAPPED);
+19 B. TITLE 3 (BUDGET AND MANAGEMENT);
+20 C. TITLE 4 (DEPARTMENT OF GENERAL SERVICES);
+21 D. TITLE 5A (DIVISION OF HISTORICAL AND CULTURAL
+22 PROGRAMS);
+23 E. TITLE 6, SUBTITLE 1 (STUDIES AND ESTIMATES);
+24 F. TITLE 7, SUBTITLES 1 (STATE OPERATING BUDGET),
+25 2 (DISBURSEMENTS AND EXPENDITURES), AND 3 (UNSPENT BALANCES);
+26 G. TITLE 10 (BOARD OF PUBLIC WORKS –
+27 MISCELLANEOUS PROVISIONS); OR
+28 H. DIVISION II (GENERAL PROCUREMENT LAW).
+HOUSE BILL 258 7
+1 (2) THE AUTHORITY IS SUBJECT TO:
+2 (I) THE PUBLIC INFORMATION ACT; AND
+3 (II) THE OPEN MEETINGS ACT.
+4 (B) THE AUTHORITY, ITS OFFICERS, AND ITS EMPLOYEES ARE SUBJECT TO
+5 THE PUBLIC ETHICS LAW.
+6 (C) THE AUTHORITY, ITS OFFICERS, AND ITS EMPLOYEES ARE SUBJECT TO
+7 TITLE 12, SUBTITLE 4 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+8 12–706.
+9 (a) A BOARD OF DIRECTORS SHALL MANAGE THE AUTHORITY AND
+10 EXERCISE ITS POWERS.
+11 (B) The [Authority] BOARD consists of the following members:
+12 (1) one member of the Senate of Maryland who represents the target area,
+13 appointed by the President of the Senate;
+14 (2) one member of the House of Delegates who represents the target area,
+15 appointed by the Speaker of the House;
+16 (3) the Secretary of Housing and Community Development, or the
+17 Secretary’s designee;
+18 (4) the Secretary of Transportation, or the Secretary’s designee;
+19 (5) the Secretary of Commerce, or the Secretary’s designee;
+20 (6) the Executive Director of the Maryland Economic Development
+21 Corporation, or the Executive Director’s designee;
+22 (7) one member of the Baltimore City Council who represents the target
+23 area, appointed by the President of the Baltimore City Council;
+24 (8) one member appointed by the Mayor of Baltimore City;
+25 (9) one member appointed by the Governor;
+26 (10) the Director of the Baltimore Development Corporation, or the
+27 Director’s designee;
+8 HOUSE BILL 258
+1 (11) the Commissioner of the Baltimore City Department of Housing and
+2 Community Development, or the Commissioner’s designee;
+3 (12) the Director of the Baltimore City Department of Transportation, or the
+4 Director’s designee;
+5 (13) the Director of the Baltimore City Department of Planning, or the
+6 Director’s designee;
+7 (14) the President of Coppin State University, or the President’s designee;
+8 (15) the President of the Maryland Institute College of Art, or the
+9 President’s designee;
+10 (16) two members appointed by the chair of the Authority, or the chair’s
+11 designee; and
+12 (17) two members who are residents of communities impacted by the target
+13 area or buffer zone, WITH ONE MEMBER REPRESENTING THE NEIGHBORHOODS EAST
+14 OF NORTH FULTON AVENUE AND ONE MEMBER REPRESENTING THE
+15 NEIGHBORHOODS WEST OF NORTH FULTON AVENUE, selected by the majority vote of
+16 the leadership of the following organizations:
+17 (i) Alliance of Rosemont Community Associations;
+18 (ii) Bolton Hill Community Association;
+19 (iii) Coppin Heights Community Development Corporation;
+20 (iv) Druid Heights Community Development Corporation;
+21 (v) Greater Mondawmin Coordinating Council;
+22 (vi) Penn North Community Association; and
+23 (vii) collectively, the leadership of the Reservoir Hill Improvement
+24 Council, the Reservoir Hill Association, and the Upper Eutaw Madison Neighborhood
+25 Association.
+26 [(b)] (C) The President of Coppin State University, or the President’s designee,
+27 shall serve as the chair of the [Authority] BOARD.
+28 12–710.
+29 THE AUTHORITY MAY:
+HOUSE BILL 258 9
+1 (1) ADOPT BYLAWS FOR THE CONDUCT OF ITS BUSINESS;
+2 (2) ADOPT A SEAL;
+3 (3) SUE OR BE SUED;
+4 (4) MAINTAIN AN OFFICE AT A PLACE IT DESIGNATES IN BALTIMORE
+5 CITY;
+6 (5) MAKE OR ACCEPT AND MANAGE LOANS, GRANTS, OR ASSISTANCE
+7 OF ANY KIND FROM THE FEDERAL OR STATE GOVERNMENT, A LOCAL GOVERNMENT,
+8 A COLLEGE OR UNIVERSITY, A CHARITABLE INSTITUTION, A NONPROFIT
+9 ORGANIZATION, A FOR–PROFIT ORGANIZATION, OR A PRIVATE SOURCE;
+10 (6) MAKE GRANTS TO INDIVIDUALS;
+11 (7) ACQUIRE PROPERTIES IN BALTIMORE CITY, DIRECTLY OR
+12 INDIRECTLY, FROM A PERSON OR POLITICAL SUBDIVISION, TO IMPROVE, MANAGE,
+13 MARKET, MAINTAIN, OR LEASE, FROM A PERSON OR POLITICAL SUBDIVISION FOR
+14 RESIDENTIAL, COMMERCIAL, OR INDUSTRIAL DEVELOPMENT OR REDEVELOPMENT,
+15 INCLUDING COMPREHENSIVE RENOVATION OR REHABILITATION OF THE LAND OR
+16 PROPERTY ON TERMS THE AUTHORITY CONSIDERS REASONABLE TO OPERATE A
+17 PROJECT IN BALTIMORE CITY, BY:
+18 (I) PURCHASE;
+19 (II) GIFT;
+20 (III) INTEREST;
+21 (IV) CONDEMNATION;
+22 (V) EMINENT DOMAIN, EXCEPT FOR OWNER–OCCUPIED
+23 RESIDENTIAL PROPERTIES;
+24 (VI) TAX SALE;
+25 (VII) FORECLOSURE;
+26 (VIII) RECEIVERSHIP;
+27 (IX) IN REM FORECLOSURE PROCEEDINGS;
+28 (X) EASEMENT, OR ANY OTHER INTEREST IN LAND;
+10 HOUSE BILL 258
+1 (XI) LEASE; AND
+2 (XII) RENT;
+3 (8) ACQUIRE, PURCHASE, HOLD, LEASE AS LESSEE, AND USE:
+4 (I) A FRANCHISE, PATENT, OR LICENSE;
+5 (II) ANY REAL, PERSONAL, MIXED, TANGIBLE, OR INTANGIBLE
+6 PROPERTY; OR
+7 (III) AN INTEREST IN THE PROPERTY LISTED IN THIS ITEM;
+8 (9) FINANCE ALL OR PART OF THE ACQUISITION OR IMPROVEMENT OF
+9 A PROJECT;
+10 (10) SELL, LEASE AS LESSOR, TRANSFER, LICENSE, ASSIGN, OR
+11 DISPOSE OF PROPERTY OR A PROPERTY INTEREST THAT THE AUTHORITY
+12 ACQUIRES;
+13 (11) FIX AND COLLECT RATES, RENTALS, FEES, ROYALTIES, AND
+14 CHARGES FOR SERVICES AND RESOURCES THE AUTHORITY PROVIDES OR MAKES
+15 AVAILABLE;
+16 (12) ENTER INTO CONTRACTS WITH ANY FEDERAL, STATE, OR LOCAL
+17 GOVERNMENT AGENCY, A GOVERNMENTAL UNIT, A COLLEGE OR UNIVERSITY,
+18 CHARITABLE INSTITUTIONS, OR A PRIVATE ENTITY OR PARTY;
+19 (13) EXERCISE POWER USUALLY POSSESSED BY A PRIVATE
+20 CORPORATION IN PERFORMING SIMILAR FUNCTIONS UNLESS TO DO SO WOULD
+21 CONFLICT WITH STATE LAW;
+22 (14) WITH THE OWNER’S PERMISSION, ENTER LANDS OR PREMISES TO
+23 MAKE A SURVEY, A SOUNDING, A BORING, OR AN EXAMINATION TO ACCOMPLISH THE
+24 PURPOSE AUTHORIZED BY THIS SUBTITLE;
+25 (15) CREATE, OWN, CONTROL, OR BE A MEMBER OF A CORPORATION,
+26 LIMITED LIABILITY COMPANY, PARTNERSHIP, OR ANY OTHER ENTITY;
+27 (16) CREATE A SPECIAL DISTRICT BENEFIT FOR THE COMMERCIAL
+28 BUSINESSES IN THE TARGET AREA;
+29 (17) OPEN A BANK ACCOUNT WITH A NATIONAL OR LOCAL FEDERALLY
+30 INSURED FINANCIAL INSTITUTION;
+HOUSE BILL 258 11
+1 (18) SET SALARIES IN ACCORDANCE WITH THE JURISDICTION MARKET
+2 RATE AND OUTSIDE THE STATE PERSONNEL AND PENSION SYSTEM;
+3 (19) CREATE A FORUM FOR STAKEHOLDERS TO COME TOGETHER ON
+4 CREATING A 20–YEAR COMPREHENSIVE PLAN AROUND ECONOMIC, HOUSING,
+5 TRANSPORTATION, NEIGHBORHOOD, AND GREEN SPACE DEVELOPMENT WITHIN
+6 THE TARGET ZONE;
+7 (20) SERVE AS A CLEARINGHOUSE AND RESOURCE CENTER FOR
+8 PROMOTING COORDINATION AND COMMUNICATION ON DEVELOPMENT
+9 OPPORTUNITIES FOR THE WEST NORTH AVENUE CORRIDOR;
+10 (21) ENSURE MONEY IS BEING SPENT EFFECTIVELY AND EFFICIENTLY
+11 ON DEVELOPMENT AND THAT DEVELOPMENT IS HAPPENING IN THE APPROPRIATE
+12 WAY FOR THE WEST NORTH AVENUE CORRIDOR;
+13 (22) PROVIDE ADVISORY SERVICES TO STATE AND BALTIMORE CITY
+14 AGENCIES ON PLANNING AND DEVELOPMENT FOR THE TARGET AREA;
+15 (23) INITIATE, FUND, AND MONITOR FOR EFFICIENCY AND
+16 EFFECTIVENESS ECONOMIC, HOUSING, TRANSPORTATION, NEIGHBORHOOD, AND
+17 GREEN SPACE DEVELOPMENT WITHIN THE TARGET AREA;
+18 (24) MAKE RULES AND REGULATIONS FOR THE OPERATION AND USE
+19 OF LAND, PROPERTY, AND UNDERTAKINGS UNDER THE AUTHORITY’S
+20 JURISDICTION; AND
+21 (25) DO ALL THINGS NECESSARY OR CONVENIENT TO CARRY OUT THE
+22 POWERS EXPRESSLY GRANTED BY THIS SUBTITLE.
+23 12–711.
+24 (A) THE AUTHORITY SHALL ESTABLISH A SYSTEM OF FINANCIAL
+25 ACCOUNTING, CONTROLS, AUDITS, AND REPORTS.
+26 (B) THE FISCAL YEAR OF THE AUTHORITY BEGINS ON JULY 1 AND ENDS ON
+27 THE FOLLOWING JUNE 30.
+28 12–712.
+29 (A) THE AUTHORITY MAY CREATE AND ADMINISTER THE ACCOUNTS THAT
+30 IT REQUIRES.
+12 HOUSE BILL 258
+1 (B) THE AUTHORITY SHALL DEPOSIT ITS MONEY INTO A BALTIMORE CITY
+2 OR NATIONAL BANK OR A FEDERALLY INSURED SAVINGS AND LOAN ASSOCIATION
+3 THAT HAS A TOTAL PAID–IN CAPITAL OF AT LEAST $1,000,000.
+4 (C) THE AUTHORITY MAY DESIGNATE THE TRUST DEPARTMENT OF A
+5 BALTIMORE CITY OR NATIONAL BANK OR SAVINGS AND LOAN ASSOCIATION AS A
+6 DEPOSITORY TO RECEIVE SECURITIES THAT THE AUTHORITY OWNS OR ACQUIRES.
+7 12–713.
+8 (A) EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, THE
+9 AUTHORITY IS EXEMPT FROM TAXATION OR ASSESSMENTS ON ANY PART OF A
+10 DEVELOPMENT OR PROJECT, THE AUTHORITY’S ACTIVITIES IN OPERATING AND
+11 MAINTAINING A DEVELOPMENT OR PROJECT, AND REVENUES FROM A
+12 DEVELOPMENT OR PROJECT.
+13 (B) ANY PROPERTY THAT IS SOLD OR LEASED BY THE AUTHORITY TO A
+14 PRIVATE ENTITY IS SUBJECT TO BALTIMORE CITY AND LOCAL REAL PROPERTY
+15 TAXES FROM THE TIME OF SALE OR LEASE.
+16 (C) THE AUTHORITY IS EXEMPT FROM STATE AND LOCAL TRANSFER AND
+17 RECORDATION TAX.
+18 12–714.
+19 (A) IN THIS SECTION, “FUND” MEANS THE WEST NORTH AVENUE
+20 DEVELOPMENT AUTHORITY FUND.
+21 (B) THERE IS A WEST NORTH AVENUE DEVELOPMENT AUTHORITY FUND.
+22 (C) THE PURPOSE OF THE FUND IS TO PROVIDE FUNDS FOR THE
+23 AUTHORITY TO USE FOR CONSULTING FEES, SALARIES, AND ADMINISTRATIVE
+24 EXPENSES.
+25 (D) THE AUTHORITY SHALL ADMINISTER THE FUND.
+26 (E) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+27 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+28 (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY,
+29 AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+30 (F) THE FUND CONSISTS OF:
+HOUSE BILL 258 13
+1 (1) MONEY APPROPRIATED IN THE STATE BUDGET TO THE FUND;
+2 (2) INTEREST EARNINGS; AND
+3 (3) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED FOR
+4 THE BENEFIT OF THE FUND.
+5 (G) THE FUND MAY BE USED ONLY FOR ADMINISTRATIVE PURPOSES AND TO
+6 CARRY OUT THE FUNCTIONS OF THIS SUBTITLE.
+7 (H) THE STATE TREASURER SHALL INVEST THE MONEY OF THE FUND IN
+8 THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+9 (I) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN ACCORDANCE
+10 WITH THE STATE BUDGET.
+11 Article – State Finance and Procurement
+12 6–226.
+13 (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024
+14 through 2028.
+15 2. Notwithstanding any other provision of law, and unless
+16 inconsistent with a federal law, grant agreement, or other federal requirement or with the
+17 terms of a gift or settlement agreement, net interest on all State money allocated by the
+18 State Treasurer under this section to special funds or accounts, and otherwise entitled to
+19 receive interest earnings, as accounted for by the Comptroller, shall accrue to the General
+20 Fund of the State.
+21 (ii) The provisions of subparagraph (i) of this paragraph do not apply
+22 to the following funds:
+23 204. the Victims of Domestic Violence Program Grant Fund;
+24 [and]
+25 205. the Proposed Programs Collaborative Grant Fund; AND
+26 206. THE WEST NORTH AVENUE DEVELOPMENT
+27 AUTHORITY FUND.
+28 Chapter 80 of the Acts of 2021
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+30 October 1, 2021. [It shall remain effective for a period of 5 8 years and, at the end of
+14 HOUSE BILL 258
+1 September 30, 2026 2029, this Act, with no further action required by the General
+2 Assembly, shall be abrogated and of no further force and effect.]
+3 Chapter 81 of the Acts of 2021
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2021. [It shall remain effective for a period of 5 8 years and, at the end of
+6 September 30, 2026 2029, this Act, with no further action required by the General
+7 Assembly, shall be abrogated and of no further force and effect.]
+8 SECTION 4. AND BE IT FURTHER ENACTED, That, on or before January 1, 2027,
+9 the West North Avenue Development Authority shall report to the General Assembly, in
+10 accordance with § 2–1257 of the State Government Article, on the progress of the Authority
+11 toward becoming self–sustaining in accordance with § 12–703 of the Economic
+12 Development Article, as enacted by Section 3 of this Act.
+13 SECTION 4. 5. AND BE IT FURTHER ENACTED, That this Act is an emergency
+14 measure, is necessary for the immediate preservation of the public health or safety, has
+15 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+16 each of the two Houses of the General Assembly, and shall take effect from the date it is
+17 enacted.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA    E 5 ( C A E A F D t c l e t A f c p o l r t A t t c a r t f o t A e t A f c t o a u c F a B  A S  A  ( B  A S t  A  (]
+[DELETED:  H  B  A S  A  ( B  A S  A  ( B  A S A  (  ( B  A  S  A  ( B  A  S  A  ( B  A  S  A  ( B  C  S B  C  S]
+[DELETED: H 3  S T S 1 o A – E D o t A C o M  S 1 M r  S a A 1  ( I ) “A”WNAUY M T E O V E. ) “B”BDA.OD  O I UY  () “](  () “]( C ) “WNACE O V OR   S S B L C T A IS 1   T ) TH U I A B P A C A I A T. ) TH UN]
+[DELETED:  H  ) TGH O T E O V E UNADC. IY()B2,AE F Y  T U S B FS   ) TGA:H E S    A,WNACY P T E O V OR A N F A C D O R ICS;   WNA E O V O   WNA E O V O T A C S O B A A T AN  A I N O D O R F T P   W R O A W T E O O A IC:   ) ;R   )IE T I O C A A   )IA I T R O B A   ) ;VA   ) ;PH ]
+[DELETED: H 5   ) ,IG P T HH WE A A I T I ACB;    U R F T D A E O A B T C O I T A I  I P T R F T T A T I OE      U I T E D T A IBA ) TA:H U   W E OCBC; O A I   ;   ,Y E A IC;   T R A A B A A A IY C;   , T HH P SY R O GT  A IYBC. ) TGA:H E S    U O A E I C E O V O A IYNACBC;  S  U A N C D C T A U AN N  A I A W A T A O N B TC; IY ]
+[DELETED:  H     U S N O A O A P   ) T O D B R T TT    )IA UT. ) ( EX A O P I T SN IS  UA:   )M TT ;   ) :II     S13;    E       F P O T TPA: R R     T2,S2(GG)  U  I RS  FH) A     T3(BM)  U A     T4(DGS)  E E E     T5A(DH  I I U)     T6,S1(SE)  U  T S     T7,S1(SOB)  U  T P UT(DE),3(UB)I XS   N A     T10(BPW  O O U O P); RS      DII(GPL)  E R A]
+[DELETED: H 7   TA: U   ) PIA;T U N CT    ) OMA.IT P E C ) TA,H UY S  U T AEL. ) TA,H UY S 1,S4SFPA.  U   T I R R 1  (BDO O I S M T U AS    T Ay )[] O   ( o a   ( o a   ( t S o H a C D o t S   ( t   ( t   ( t E D o t M E D C   ( o a   ( o   ( o   ( t D o t B D C o t D]
+[DELETED:  H    ( t C   ( t D   ( t D o t B C D o P o t D   ( t   ( t P o t M I C o A o t P   ( t d   ( t ae O U V A O M R TF O U VF , t    ( A    ( B    ( C    ( D    ( G    ( P    ( c t l o t R H I C t R H A a t U E M N A  () T]( s Ay.]O. A: U]
+[DELETED: H 9   ;   ;   ;    A;Y   ,S S  TT T, C O UY A C IN A NN RPN E–,;   ;   BC P I A IY D OY N E E,,T N E ,L L T, O T T U C R T O A A IY C,:   ) ;P   ) ;IG   ) ;II   ) ;VC   ) ,E DN E F ORO    ) ;IT   ) ;IF   ) ;IR   ) ;XI   ) ,;ET ]
+[DELETED:  H    ) ;ILE    ) ;IRT   ,,,,:E E D E    ) ,,;AE T    ) ,,,IAL L D E Y    ) ;IA  T   ,,,,L L A LR TR LE AN O O P O A P I T T US   ,,, A C RS RS FS RS A UE   ,SL TE  AY A G UT A C O UY,S Y;   P U P B A P I P S F U T D S W TW;   ’RSN Y G G ,E   ,,,E N L NY P Y,;   A S D B F T C  ]
+[DELETED: H 1   T E E YPPS;   A Y C P A EC HG–,N ND A G S D W   A A C A R C F C A C O D E O V ONAC;   E O V ONAC;   SB T A I   ,E FD A M F E A EC HG TN ND A,,   LD PY A U U T UYS,AN    ) TH U S E A S O FG S S S,,. ) TAJH U U   U 3.. ) TH U]
+[DELETED:  H  ) TABH U A IDI$ ) TH U M D T T D O A I US. ) E()X A P I S B O T SN T I E F T O A O A P O A O PT T UYS A I O AA A D O PT A R F A ) AN P T I S O L B T U T A E I S T A I A L R PE ) TAH U TX ) I,“F”WNN T SN UD M T E O VAF. U U ) TWNADAF.H E O V E U U ) TH P O T U I T P F F T, T U F C FS SS A AS ) TAF.H U U ) ( TFH U I A SL N F T I N    T I R R72SFPA.   TSTF T R T UY O UF. ) TF:H U]
+[DELETED: H 1   SF; T U   ;S    O M F A O S A F U. ) TH U ) TSTH T R U T. ) EX U T. A 6  ( ( ( 1 T s d n a i f y 2 t     2 N i t S r F    ( T t     2 t ad     2 td     WNA E O V E U . C  S A B I F E T t A s t e O I 5  ]
+[DELETED:  H  S 3 2 , t A w n f a r b t G A. C  S A B I F E T t A s t e O I 5   S 3 2 , t A w n f a r b t G A.  S t a t b s i a w § 1 o t E D  S m b e e          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 258
+C8 EMERGENCY BILL 5lr1410
+HB 1427/24 – W&M (PRE–FILED) CF SB 4
+By: Delegate Wells
+Requested: October 28, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Ways and Means
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 4, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Economic Development – West North Avenue Development Authority –
+3 Alterations
+4 FOR the purpose of altering the administration and membership of the West North Avenue
+5 Development Authority; specifying the powers and duties of the Authority, subject
+6 to certain limitations; exempting the Authority from certain provisions of law;
+7 requiring the Authority to take certain actions regarding the finances of the
+8 Authority; exempting the Authority from certain taxation or assessments under
+9 certain circumstances; establishing the West North Avenue Development Authority
+10 Fund as a special, nonlapsing fund; altering the termination date of the Authority;
+11 and generally relating to the West North Avenue Development Authority.
+12 BY repealing
+13 Article – Economic Development
+14 Section 12–703.1
+15 Annotated Code of Maryland
+16 (2024 Replacement Volume and 2024 Supplement)
+17 BY renumbering
+18 Article – Economic Development
+19 Section 12–702, 12–703, 12–704, 12–705, and 12–706
+20 to be Section 12–703, 12–706, 12–707, 12–708, and 12–709, respectively
+21 Annotated Code of Maryland
+22 (2024 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0258*
+
+2 HOUSE BILL 258
+1 BY repealing and reenacting, with amendments,
+2 Article – Economic Development
+3 Section 12–701
+4 Annotated Code of Maryland
+5 (2024 Replacement Volume and 2024 Supplement)
+6 BY adding to
+7 Article – Economic Development
+8 Section 12–702, 12–704, 12–705, and 12–710 through 12–714
+9 Annotated Code of Maryland
+10 (2024 Replacement Volume and 2024 Supplement)
+11 BY repealing and reenacting, with amendments,
+12 Article – Economic Development
+13 Section 12–703 and 12–706
+14 Annotated Code of Maryland
+15 (2024 Replacement Volume and 2024 Supplement)
+16 (As enacted by Section 2 of this Act)
+17 BY repealing and reenacting, without amendments,
+18 Article – State Finance and Procurement
+19 Section 6–226(a)(2)(i)
+20 Annotated Code of Maryland
+21 (2021 Replacement Volume and 2024 Supplement)
+22 BY repealing and reenacting, with amendments,
+23 Article – State Finance and Procurement
+24 Section 6–226(a)(2)(ii)204. and 205.
+25 Annotated Code of Maryland
+26 (2021 Replacement Volume and 2024 Supplement)
+27 BY adding to
+28 Article – State Finance and Procurement
+29 Section 6–226(a)(2)(ii)206.
+30 Annotated Code of Maryland
+31 (2021 Replacement Volume and 2024 Supplement)
+32 BY repealing and reenacting, with amendments,
+33 Chapter 80 of the Acts of the General Assembly of 2021
+34 Section 2
+35 BY repealing and reenacting, with amendments,
+36 Chapter 81 of the Acts of the General Assembly of 2021
+37 Section 2
+
+HOUSE BILL 258 3
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That Section(s) 12–703.1 of Article – Economic Development of the Annotated Code of
+3 Maryland be repealed.
+4 SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 12–702, 12–703,
+5 12–704, 12–705, and 12–706 of Article – Economic Development of the Annotated Code of
+6 Maryland be renumbered to be Section(s) 12–703, 12–706, 12–707, 12–708, and 12–709,
+7 respectively.
+8 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+9 as follows:
+10 Article – Economic Development
+11 12–701.
+12 (a) In this subtitle the following words have the meanings indicated.
+13 (B) “AUTHORITY” MEANS THE WEST NORTH AVENUE DEVELOPMENT
+14 AUTHORITY.
+15 (C) “BOARD” MEANS THE BOARD OF DIRECTORS OF THE AUTHORITY.
+16 [(b)] (D) “Buffer zone” means the area within 250 yards of the target area.
+17 [(c)] (E) “Target area” means the portion of West North Avenue in Baltimore
+18 City between the 600 block and the 3200 block, inclusive.
+19 (F) “WEST NORTH AVENUE CORRIDOR” INCLUDES THE GEOGRAPHIC AREA
+20 CONSISTING OF THE TARGET AREA AND THE BUFFER ZONE.
+21 12–702.
+22 THIS SUBTITLE SHALL BE LIBERALLY CONSTRUED TO ACCOMPLISH ITS
+23 PURPOSES.
+24 12–703.
+25 (A) There is a West North Avenue Development Authority in Baltimore City.
+26 (B) THE AUTHORITY IS A BODY POLITIC AND CORPORATE AND IS AN
+27 INSTRUMENTALITY OF THE STATE.
+28 (C) THE EXERCISE BY THE AUTHORITY OF A POWER UNDER THIS SUBTITLE
+29 IS THE PERFORMANCE OF AN ESSENTIAL GOVERNMENTAL FUNCTION.
+
+4 HOUSE BILL 258
+1 (D) THE GOVERNOR MAY INCLUDE EACH YEAR IN THE STATE BUDGET BILL
+2 AN APPROPRIATION TO THE WEST NORTH AVENUE DEVELOPMENT AUTHORITY IN
+3 BALTIMORE CITY.
+4 (E) BEGINNING FISCAL YEAR 2028, THE AUTHORITY SHALL BE
+5 SELF–SUSTAINING.
+6 12–704.
+7 (A) THE GENERAL ASSEMBLY FINDS THAT:
+8 (1) THERE EXISTS WITHIN VARIOUS NEIGHBORHOODS IN BALTIMORE
+9 CITY, PARTICULARLY THE WEST NORTH AVENUE CORRIDOR, A NEED FOR
+10 RESIDENTIAL AND COMMERCIAL DEVELOPMENT OR REDEVELOPMENT IN
+11 FURTHERANCE OF THE PUBLIC’S INTEREST;
+12 (2) THE WEST NORTH AVENUE CORRIDOR HAS EXPERIENCED LOW
+13 HOUSING AND ECONOMIC DEVELOPMENT IN THE COMMUNITY FOR DECADES;
+14 (3) AREAS IN THE WEST NORTH AVENUE CORRIDOR INCLUDE BOTH
+15 AREAS THAT ARE CONSIDERED SLUM OR BLIGHTED AND AREAS THAT ARE
+16 DETERIORATED OR SUBJECT TO FURTHER DETERIORATING CONDITION, AND THOSE
+17 AREAS ARE IN NEED OF DEVELOPMENT OR REDEVELOPMENT FOR THE PUBLIC
+18 BENEFIT;
+19 (4) THE REVITALIZATION OF AREAS WITHIN THE WEST NORTH
+20 AVENUE CORRIDOR NEEDING COMMERCIAL DEVELOPMENT OR REDEVELOPMENT IS
+21 AN ESSENTIAL GOVERNMENTAL FUNCTION AND IS A PUBLIC USE THAT WILL CONFER
+22 A PUBLIC BENEFIT ON CITIZENS OF BALTIMORE CITY BY:
+23 (I) RELIEVING CONDITIONS OF UNEMPLOYMENT;
+24 (II) ENCOURAGING THE INCREASE OF COMMERCE AND A
+25 BALANCED ECONOMY;
+26 (III) ASSISTING IN THE RETENTION OF BUSINESSES AND
+27 RESIDENTS;
+28 (IV) ATTRACTING NEW INDUSTRIES AND COMMERCE;
+29 (V) PROMOTING ECONOMIC DEVELOPMENT AND GROWTH; AND
+
+HOUSE BILL 258 5
+1 (VI) GENERALLY PROMOTING THE HEALTH, WELFARE, AND
+2 PUBLIC SAFETY OF RESIDENTS IN BALTIMORE CITY AND INCREASING PROPERTY
+3 TAX REVENUES FOR THE STATE AND THE CITY OF BALTIMORE;
+4 (5) THE ESTABLISHMENT OF THIS PUBLIC AUTHORITY TO PROVIDE
+5 FINANCIAL RESOURCES FOR THE DEVELOPMENT AND ESTABLISHMENT OF
+6 RESIDENCES AND BUSINESSES THROUGH COMMUNITY ORGANIZATIONS IN THE
+7 TARGET AREA WILL SIGNIFICANTLY IMPROVE BALTIMORE CITY NEIGHBORHOODS
+8 AND INCREASE PROPERTY TAX REVENUES FOR THE STATE AND THE CITY OF
+9 BALTIMORE; AND
+10 (6) THE AUTHORITY IS THE ECONOMIC DEVELOPMENT AUTHORITY
+11 FOR THE STATE TO BENEFIT THE NEIGHBORHOODS OF BALTIMORE CITY WITHIN
+12 THE TARGET AREA.
+13 (B) THE LEGISLATIVE PURPOSES OF THE AUTHORITY ARE TO:
+14 (1) REVIVE THE VARIOUS COMMUNITIES ALONG THE WEST NORTH
+15 AVENUE CORRIDOR IN BALTIMORE CITY;
+16 (2) PROMOTE ECONOMIC DEVELOPMENT;
+17 (3) ENCOURAGE THE INCREASE OF BUSINESS ACTIVITY, COMMERCE,
+18 AND A BALANCED ECONOMY IN BALTIMORE CITY;
+19 (4) HELP TO RETAIN AND ATTRACT BUSINESS ACTIVITY AND
+20 COMMERCE IN BALTIMORE CITY; AND
+21 (5) PROMOTE THE HEALTH, PUBLIC SAFETY, RIGHT OF GAINFUL
+22 EMPLOYMENT, AND WELFARE OF RESIDENTS OF BALTIMORE CITY.
+23 (C) THE GENERAL ASSEMBLY INTENDS THAT:
+24 (1) THE AUTHORITY OPERATE AND EXERCISE ITS CORPORATE
+25 POWERS ALONG THE WEST NORTH AVENUE CORRIDOR IN BALTIMORE CITY;
+26 (2) WITHOUT LIMITING ITS AUTHORITY TO OTHERWISE EXERCISE ITS
+27 POWERS, THE AUTHORITY EXERCISE ITS POWERS TO ASSIST PRIVATE REAL ESTATE
+28 ENTITIES AND NONPROFIT COMMUNITY DEVELOPMENT CORPORATIONS TO
+29 DEVELOP AND REHABILITATE HOUSING AND COMMERCIAL UNITS IN BALTIMORE
+30 CITY AND SUPPORT LOCAL ECONOMIC DEVELOPMENT AGENCIES TO CONTRIBUTE
+31 TO THE EXPANSION, MODERNIZATION, AND RETENTION OF EXISTING ENTERPRISES
+32 IN BALTIMORE CITY AS WELL AS THE ATTRACTION OF NEW BUSINESSES TO
+33 BALTIMORE CITY; AND
+
+6 HOUSE BILL 258
+1 (3) THE AUTHORITY SHOULD NOT OWN AND OPERATE A PROJECT
+2 UNLESS:
+3 (I) THE BOARD DETERMINES BY RESOLUTION THAT THE
+4 PRIVATE SECTOR HAS NOT DEMONSTRATED SERIOUS AND SIGNIFICANT INTEREST
+5 AND DEVELOPMENT CAPACITY TO OWN AND OPERATE THE PROJECT; OR
+6 (II) A REPRESENTATIVE OF A GOVERNMENTAL UNIT REQUESTS
+7 IN WRITING THAT THE AUTHORITY OWN AND OPERATE THE PROJECT.
+8 12–705.
+9 (A) (1) EXCEPT AS OTHERWISE PROVIDED IN THIS SECTION, IN
+10 EXERCISING ITS POWERS, THE AUTHORITY:
+11 (I) MAY CARRY OUT ITS PURPOSES WITHOUT THE CONSENT OF
+12 ANY STATE UNIT; AND
+13 (II) IS NOT SUBJECT TO:
+14 1. SUBTITLES 1 THROUGH 3 OF THIS TITLE; OR
+15 2. THE FOLLOWING PROVISIONS OF THE STATE
+16 FINANCE AND PROCUREMENT ARTICLE:
+17 A. TITLE 2, SUBTITLES 2 (GIFTS AND GRANTS) AND 5
+18 (FACILITIES FOR THE HANDICAPPED);
+19 B. TITLE 3 (BUDGET AND MANAGEMENT);
+20 C. TITLE 4 (DEPARTMENT OF GENERAL SERVICES);
+21 D. TITLE 5A (DIVISION OF HISTORICAL AND CULTURAL
+22 PROGRAMS);
+23 E. TITLE 6, SUBTITLE 1 (STUDIES AND ESTIMATES);
+24 F. TITLE 7, SUBTITLES 1 (STATE OPERATING BUDGET),
+25 2 (DISBURSEMENTS AND EXPENDITURES), AND 3 (UNSPENT BALANCES);
+26 G. TITLE 10 (BOARD OF PUBLIC WORKS –
+27 MISCELLANEOUS PROVISIONS); OR
+28 H. DIVISION II (GENERAL PROCUREMENT LAW).
+
+HOUSE BILL 258 7
+1 (2) THE AUTHORITY IS SUBJECT TO:
+2 (I) THE PUBLIC INFORMATION ACT; AND
+3 (II) THE OPEN MEETINGS ACT.
+4 (B) THE AUTHORITY, ITS OFFICERS, AND ITS EMPLOYEES ARE SUBJECT TO
+5 THE PUBLIC ETHICS LAW.
+6 (C) THE AUTHORITY, ITS OFFICERS, AND ITS EMPLOYEES ARE SUBJECT TO
+7 TITLE 12, SUBTITLE 4 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+8 12–706.
+9 (a) A BOARD OF DIRECTORS SHALL MANAGE THE AUTHORITY AND
+10 EXERCISE ITS POWERS.
+11 (B) The [Authority] BOARD consists of the following members:
+12 (1) one member of the Senate of Maryland who represents the target area,
+13 appointed by the President of the Senate;
+14 (2) one member of the House of Delegates who represents the target area,
+15 appointed by the Speaker of the House;
+16 (3) the Secretary of Housing and Community Development, or the
+17 Secretary’s designee;
+18 (4) the Secretary of Transportation, or the Secretary’s designee;
+19 (5) the Secretary of Commerce, or the Secretary’s designee;
+20 (6) the Executive Director of the Maryland Economic Development
+21 Corporation, or the Executive Director’s designee;
+22 (7) one member of the Baltimore City Council who represents the target
+23 area, appointed by the President of the Baltimore City Council;
+24 (8) one member appointed by the Mayor of Baltimore City;
+25 (9) one member appointed by the Governor;
+26 (10) the Director of the Baltimore Development Corporation, or the
+27 Director’s designee;
+
+8 HOUSE BILL 258
+1 (11) the Commissioner of the Baltimore City Department of Housing and
+2 Community Development, or the Commissioner’s designee;
+3 (12) the Director of the Baltimore City Department of Transportation, or the
+4 Director’s designee;
+5 (13) the Director of the Baltimore City Department of Planning, or the
+6 Director’s designee;
+7 (14) the President of Coppin State University, or the President’s designee;
+8 (15) the President of the Maryland Institute College of Art, or the
+9 President’s designee;
+10 (16) two members appointed by the chair of the Authority, or the chair’s
+11 designee; and
+12 (17) two members who are residents of communities impacted by the target
+13 area or buffer zone, WITH ONE MEMBER REPRESENTING THE NEIGHBORHOODS EAST
+14 OF NORTH FULTON AVENUE AND ONE MEMBER REPRESENTING THE
+15 NEIGHBORHOODS WEST OF NORTH FULTON AVENUE, selected by the majority vote of
+16 the leadership of the following organizations:
+17 (i) Alliance of Rosemont Community Associations;
+18 (ii) Bolton Hill Community Association;
+19 (iii) Coppin Heights Community Development Corporation;
+20 (iv) Druid Heights Community Development Corporation;
+21 (v) Greater Mondawmin Coordinating Council;
+22 (vi) Penn North Community Association; and
+23 (vii) collectively, the leadership of the Reservoir Hill Improvement
+24 Council, the Reservoir Hill Association, and the Upper Eutaw Madison Neighborhood
+25 Association.
+26 [(b)] (C) The President of Coppin State University, or the President’s designee,
+27 shall serve as the chair of the [Authority] BOARD.
+28 12–710.
+29 THE AUTHORITY MAY:
+
+HOUSE BILL 258 9
+1 (1) ADOPT BYLAWS FOR THE CONDUCT OF ITS BUSINESS;
+2 (2) ADOPT A SEAL;
+3 (3) SUE OR BE SUED;
+4 (4) MAINTAIN AN OFFICE AT A PLACE IT DESIGNATES IN BALTIMORE
+5 CITY;
+6 (5) MAKE OR ACCEPT AND MANAGE LOANS, GRANTS, OR ASSISTANCE
+7 OF ANY KIND FROM THE FEDERAL OR STATE GOVERNMENT, A LOCAL GOVERNMENT,
+8 A COLLEGE OR UNIVERSITY, A CHARITABLE INSTITUTION, A NONPROFIT
+9 ORGANIZATION, A FOR–PROFIT ORGANIZATION, OR A PRIVATE SOURCE;
+10 (6) MAKE GRANTS TO INDIVIDUALS;
+11 (7) ACQUIRE PROPERTIES IN BALTIMORE CITY, DIRECTLY OR
+12 INDIRECTLY, FROM A PERSON OR POLITICAL SUBDIVISION, TO IMPROVE, MANAGE,
+13 MARKET, MAINTAIN, OR LEASE, FROM A PERSON OR POLITICAL SUBDIVISION FOR
+14 RESIDENTIAL, COMMERCIAL, OR INDUSTRIAL DEVELOPMENT OR REDEVELOPMENT,
+15 INCLUDING COMPREHENSIVE RENOVATION OR REHABILITATION OF THE LAND OR
+16 PROPERTY ON TERMS THE AUTHORITY CONSIDERS REASONABLE TO OPERATE A
+17 PROJECT IN BALTIMORE CITY, BY:
+18 (I) PURCHASE;
+19 (II) GIFT;
+20 (III) INTEREST;
+21 (IV) CONDEMNATION;
+22 (V) EMINENT DOMAIN, EXCEPT FOR OWNER–OCCUPIED
+23 RESIDENTIAL PROPERTIES;
+24 (VI) TAX SALE;
+25 (VII) FORECLOSURE;
+26 (VIII) RECEIVERSHIP;
+27 (IX) IN REM FORECLOSURE PROCEEDINGS;
+28 (X) EASEMENT, OR ANY OTHER INTEREST IN LAND;
+
+10 HOUSE BILL 258
+1 (XI) LEASE; AND
+2 (XII) RENT;
+3 (8) ACQUIRE, PURCHASE, HOLD, LEASE AS LESSEE, AND USE:
+4 (I) A FRANCHISE, PATENT, OR LICENSE;
+5 (II) ANY REAL, PERSONAL, MIXED, TANGIBLE, OR INTANGIBLE
+6 PROPERTY; OR
+7 (III) AN INTEREST IN THE PROPERTY LISTED IN THIS ITEM;
+8 (9) FINANCE ALL OR PART OF THE ACQUISITION OR IMPROVEMENT OF
+9 A PROJECT;
+10 (10) SELL, LEASE AS LESSOR, TRANSFER, LICENSE, ASSIGN, OR
+11 DISPOSE OF PROPERTY OR A PROPERTY INTEREST THAT THE AUTHORITY
+12 ACQUIRES;
+13 (11) FIX AND COLLECT RATES, RENTALS, FEES, ROYALTIES, AND
+14 CHARGES FOR SERVICES AND RESOURCES THE AUTHORITY PROVIDES OR MAKES
+15 AVAILABLE;
+16 (12) ENTER INTO CONTRACTS WITH ANY FEDERAL, STATE, OR LOCAL
+17 GOVERNMENT AGENCY, A GOVERNMENTAL UNIT, A COLLEGE OR UNIVERSITY,
+18 CHARITABLE INSTITUTIONS, OR A PRIVATE ENTITY OR PARTY;
+19 (13) EXERCISE POWER USUALLY POSSESSED BY A PRIVATE
+20 CORPORATION IN PERFORMING SIMILAR FUNCTIONS UNLESS TO DO SO WOULD
+21 CONFLICT WITH STATE LAW;
+22 (14) WITH THE OWNER’S PERMISSION, ENTER LANDS OR PREMISES TO
+23 MAKE A SURVEY, A SOUNDING, A BORING, OR AN EXAMINATION TO ACCOMPLISH THE
+24 PURPOSE AUTHORIZED BY THIS SUBTITLE;
+25 (15) CREATE, OWN, CONTROL, OR BE A MEMBER OF A CORPORATION,
+26 LIMITED LIABILITY COMPANY, PARTNERSHIP, OR ANY OTHER ENTITY;
+27 (16) CREATE A SPECIAL DISTRICT BENEFIT FOR THE COMMERCIAL
+28 BUSINESSES IN THE TARGET AREA;
+29 (17) OPEN A BANK ACCOUNT WITH A NATIONAL OR LOCAL FEDERALLY
+30 INSURED FINANCIAL INSTITUTION;
+
+HOUSE BILL 258 11
+1 (18) SET SALARIES IN ACCORDANCE WITH THE JURISDICTION MARKET
+2 RATE AND OUTSIDE THE STATE PERSONNEL AND PENSION SYSTEM;
+3 (19) CREATE A FORUM FOR STAKEHOLDERS TO COME TOGETHER ON
+4 CREATING A 20–YEAR COMPREHENSIVE PLAN AROUND ECONOMIC, HOUSING,
+5 TRANSPORTATION, NEIGHBORHOOD, AND GREEN SPACE DEVELOPMENT WITHIN
+6 THE TARGET ZONE;
+7 (20) SERVE AS A CLEARINGHOUSE AND RESOURCE CENTER FOR
+8 PROMOTING COORDINATION AND COMMUNICATION ON DEVELOPMENT
+9 OPPORTUNITIES FOR THE WEST NORTH AVENUE CORRIDOR;
+10 (21) ENSURE MONEY IS BEING SPENT EFFECTIVELY AND EFFICIENTLY
+11 ON DEVELOPMENT AND THAT DEVELOPMENT IS HAPPENING IN THE APPROPRIATE
+12 WAY FOR THE WEST NORTH AVENUE CORRIDOR;
+13 (22) PROVIDE ADVISORY SERVICES TO STATE AND BALTIMORE CITY
+14 AGENCIES ON PLANNING AND DEVELOPMENT FOR THE TARGET AREA;
+15 (23) INITIATE, FUND, AND MONITOR FOR EFFICIENCY AND
+16 EFFECTIVENESS ECONOMIC, HOUSING, TRANSPORTATION, NEIGHBORHOOD, AND
+17 GREEN SPACE DEVELOPMENT WITHIN THE TARGET AREA;
+18 (24) MAKE RULES AND REGULATIONS FOR THE OPERATION AND USE
+19 OF LAND, PROPERTY, AND UNDERTAKINGS UNDER THE AUTHORITY’S
+20 JURISDICTION; AND
+21 (25) DO ALL THINGS NECESSARY OR CONVENIENT TO CARRY OUT THE
+22 POWERS EXPRESSLY GRANTED BY THIS SUBTITLE.
+23 12–711.
+24 (A) THE AUTHORITY SHALL ESTABLISH A SYSTEM OF FINANCIAL
+25 ACCOUNTING, CONTROLS, AUDITS, AND REPORTS.
+26 (B) THE FISCAL YEAR OF THE AUTHORITY BEGINS ON JULY 1 AND ENDS ON
+27 THE FOLLOWING JUNE 30.
+28 12–712.
+29 (A) THE AUTHORITY MAY CREATE AND ADMINISTER THE ACCOUNTS THAT
+30 IT REQUIRES.
+
+12 HOUSE BILL 258
+1 (B) THE AUTHORITY SHALL DEPOSIT ITS MONEY INTO A BALTIMORE CITY
+2 OR NATIONAL BANK OR A FEDERALLY INSURED SAVINGS AND LOAN ASSOCIATION
+3 THAT HAS A TOTAL PAID–IN CAPITAL OF AT LEAST $1,000,000.
+4 (C) THE AUTHORITY MAY DESIGNATE THE TRUST DEPARTMENT OF A
+5 BALTIMORE CITY OR NATIONAL BANK OR SAVINGS AND LOAN ASSOCIATION AS A
+6 DEPOSITORY TO RECEIVE SECURITIES THAT THE AUTHORITY OWNS OR ACQUIRES.
+7 12–713.
+8 (A) EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, THE
+9 AUTHORITY IS EXEMPT FROM TAXATION OR ASSESSMENTS ON ANY PART OF A
+10 DEVELOPMENT OR PROJECT, THE AUTHORITY’S ACTIVITIES IN OPERATING AND
+11 MAINTAINING A DEVELOPMENT OR PROJECT, AND REVENUES FROM A
+12 DEVELOPMENT OR PROJECT.
+13 (B) ANY PROPERTY THAT IS SOLD OR LEASED BY THE AUTHORITY TO A
+14 PRIVATE ENTITY IS SUBJECT TO BALTIMORE CITY AND LOCAL REAL PROPERTY
+15 TAXES FROM THE TIME OF SALE OR LEASE.
+16 (C) THE AUTHORITY IS EXEMPT FROM STATE AND LOCAL TRANSFER AND
+17 RECORDATION TAX.
+18 12–714.
+19 (A) IN THIS SECTION, “FUND” MEANS THE WEST NORTH AVENUE
+20 DEVELOPMENT AUTHORITY FUND.
+21 (B) THERE IS A WEST NORTH AVENUE DEVELOPMENT AUTHORITY FUND.
+22 (C) THE PURPOSE OF THE FUND IS TO PROVIDE FUNDS FOR THE
+23 AUTHORITY TO USE FOR CONSULTING FEES, SALARIES, AND ADMINISTRATIVE
+24 EXPENSES.
+25 (D) THE AUTHORITY SHALL ADMINISTER THE FUND.
+26 (E) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+27 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+28 (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY,
+29 AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+30 (F) THE FUND CONSISTS OF:
+
+HOUSE BILL 258 13
+1 (1) MONEY APPROPRIATED IN THE STATE BUDGET TO THE FUND;
+2 (2) INTEREST EARNINGS; AND
+3 (3) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED FOR
+4 THE BENEFIT OF THE FUND.
+5 (G) THE FUND MAY BE USED ONLY FOR ADMINISTRATIVE PURPOSES AND TO
+6 CARRY OUT THE FUNCTIONS OF THIS SUBTITLE.
+7 (H) THE STATE TREASURER SHALL INVEST THE MONEY OF THE FUND IN
+8 THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+9 (I) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN ACCORDANCE
+10 WITH THE STATE BUDGET.
+11 Article – State Finance and Procurement
+12 6–226.
+13 (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024
+14 through 2028.
+15 2. Notwithstanding any other provision of law, and unless
+16 inconsistent with a federal law, grant agreement, or other federal requirement or with the
+17 terms of a gift or settlement agreement, net interest on all State money allocated by the
+18 State Treasurer under this section to special funds or accounts, and otherwise entitled to
+19 receive interest earnings, as accounted for by the Comptroller, shall accrue to the General
+20 Fund of the State.
+21 (ii) The provisions of subparagraph (i) of this paragraph do not apply
+22 to the following funds:
+23 204. the Victims of Domestic Violence Program Grant Fund;
+24 [and]
+25 205. the Proposed Programs Collaborative Grant Fund; AND
+26 206. THE WEST NORTH AVENUE DEVELOPMENT
+27 AUTHORITY FUND.
+28 Chapter 80 of the Acts of 2021
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+30 October 1, 2021. [It shall remain effective for a period of 5 8 years and, at the end of
+
+14 HOUSE BILL 258
+1 September 30, 2026 2029, this Act, with no further action required by the General
+2 Assembly, shall be abrogated and of no further force and effect.]
+3 Chapter 81 of the Acts of 2021
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2021. [It shall remain effective for a period of 5 8 years and, at the end of
+6 September 30, 2026 2029, this Act, with no further action required by the General
+7 Assembly, shall be abrogated and of no further force and effect.]
+8 SECTION 4. AND BE IT FURTHER ENACTED, That, on or before January 1, 2027,
+9 the West North Avenue Development Authority shall report to the General Assembly, in
+10 accordance with § 2–1257 of the State Government Article, on the progress of the Authority
+11 toward becoming self–sustaining in accordance with § 12–703 of the Economic
+12 Development Article, as enacted by Section 3 of this Act.
+13 SECTION 4. 5. AND BE IT FURTHER ENACTED, That this Act is an emergency
+14 measure, is necessary for the immediate preservation of the public health or safety, has
+15 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+16 each of the two Houses of the General Assembly, and shall take effect from the date it is
+17 enacted.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA    E 5 ( C A E A F D t c l e t A f c p o l r t A t t c a r t f o t A e t A f c t o a u c F a B  A S  A  ( B  A S t  A  (]
+[DELETED:  H  B  A S  A  ( B  A S  A  ( B  A S A  (  ( B  A  S  A  ( B  A  S  A  ( B  A  S  A  ( B  C  S B  C  S]
+[DELETED: H 3  S T S 1 o A – E D o t A C o M  S 1 M r  S a A 1  ( I ) “A”WNAUY M T E O V E. ) “B”BDA.OD  O I UY  () “](  () “]( C ) “WNACE O V OR   S S B L C T A IS 1   T ) TH U I A B P A C A I A T. ) TH UN]
+[DELETED:  H  ) TGH O T E O V E UNADC. IY()B2,AE F Y  T U S B FS   ) TGA:H E S    A,WNACY P T E O V OR A N F A C D O R ICS;   WNA E O V O   WNA E O V O T A C S O B A A T AN  A I N O D O R F T P   W R O A W T E O O A IC:   ) ;R   )IE T I O C A A   )IA I T R O B A   ) ;VA   ) ;PH ]
+[DELETED: H 5   ) ,IG P T HH WE A A I T I ACB;    U R F T D A E O A B T C O I T A I  I P T R F T T A T I OE      U I T E D T A IBA ) TA:H U   W E OCBC; O A I   ;   ,Y E A IC;   T R A A B A A A IY C;   , T HH P SY R O GT  A IYBC. ) TGA:H E S    U O A E I C E O V O A IYNACBC;  S  U A N C D C T A U AN N  A I A W A T A O N B TC; IY ]
+[DELETED:  H     U S N O A O A P   ) T O D B R T TT    )IA UT. ) ( EX A O P I T SN IS  UA:   )M TT ;   ) :II     S13;    E       F P O T TPA: R R     T2,S2(GG)  U  I RS  FH) A     T3(BM)  U A     T4(DGS)  E E E     T5A(DH  I I U)     T6,S1(SE)  U  T S     T7,S1(SOB)  U  T P UT(DE),3(UB)I XS   N A     T10(BPW  O O U O P); RS      DII(GPL)  E R A]
+[DELETED: H 7   TA: U   ) PIA;T U N CT    ) OMA.IT P E C ) TA,H UY S  U T AEL. ) TA,H UY S 1,S4SFPA.  U   T I R R 1  (BDO O I S M T U AS    T Ay )[] O   ( o a   ( o a   ( t S o H a C D o t S   ( t   ( t   ( t E D o t M E D C   ( o a   ( o   ( o   ( t D o t B D C o t D]
+[DELETED:  H    ( t C   ( t D   ( t D o t B C D o P o t D   ( t   ( t P o t M I C o A o t P   ( t d   ( t ae O U V A O M R TF O U VF , t    ( A    ( B    ( C    ( D    ( G    ( P    ( c t l o t R H I C t R H A a t U E M N A  () T]( s Ay.]O. A: U]
+[DELETED: H 9   ;   ;   ;    A;Y   ,S S  TT T, C O UY A C IN A NN RPN E–,;   ;   BC P I A IY D OY N E E,,T N E ,L L T, O T T U C R T O A A IY C,:   ) ;P   ) ;IG   ) ;II   ) ;VC   ) ,E DN E F ORO    ) ;IT   ) ;IF   ) ;IR   ) ;XI   ) ,;ET ]
+[DELETED:  H    ) ;ILE    ) ;IRT   ,,,,:E E D E    ) ,,;AE T    ) ,,,IAL L D E Y    ) ;IA  T   ,,,,L L A LR TR LE AN O O P O A P I T T US   ,,, A C RS RS FS RS A UE   ,SL TE  AY A G UT A C O UY,S Y;   P U P B A P I P S F U T D S W TW;   ’RSN Y G G ,E   ,,,E N L NY P Y,;   A S D B F T C  ]
+[DELETED: H 1   T E E YPPS;   A Y C P A EC HG–,N ND A G S D W   A A C A R C F C A C O D E O V ONAC;   E O V ONAC;   SB T A I   ,E FD A M F E A EC HG TN ND A,,   LD PY A U U T UYS,AN    ) TH U S E A S O FG S S S,,. ) TAJH U U   U 3.. ) TH U]
+[DELETED:  H  ) TABH U A IDI$ ) TH U M D T T D O A I US. ) E()X A P I S B O T SN T I E F T O A O A P O A O PT T UYS A I O AA A D O PT A R F A ) AN P T I S O L B T U T A E I S T A I A L R PE ) TAH U TX ) I,“F”WNN T SN UD M T E O VAF. U U ) TWNADAF.H E O V E U U ) TH P O T U I T P F F T, T U F C FS SS A AS ) TAF.H U U ) ( TFH U I A SL N F T I N    T I R R72SFPA.   TSTF T R T UY O UF. ) TF:H U]
+[DELETED: H 1   SF; T U   ;S    O M F A O S A F U. ) TH U ) TSTH T R U T. ) EX U T. A 6  ( ( ( 1 T s d n a i f y 2 t     2 N i t S r F    ( T t     2 t ad     2 td     WNA E O V E U . C  S A B I F E T t A s t e O I 5  ]
+[DELETED:  H  S 3 2 , t A w n f a r b t G A. C  S A B I F E T t A s t e O I 5   S 3 2 , t A w n f a r b t G A.  S t a t b s i a w § 1 o t E D  S m b e e          G               ]

@@ -1,0 +1,319 @@
+Title: HOUSE BILL 1287
+Official Title: HOUSE BILL 1287
+Number of Sections: 1
+Source: versions - First - Criminal Law - Firearm Crimes - Convertible Pistols
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+E1 5lr3059
+CF 5lr3092
+By: Delegates Williams, Acevero, Amprey, Bartlett, Boafo, Charkoudian,
+Crutchfield, Embry, Hill, Kaufman, R. Lewis, Lopez, Martinez, McCaskill,
+Mireku–North, Pasteur, Patterson, Phillips, Ruff, Ruth, Shetty, Simpson,
+Taylor, Toles, Turner, Wilkins, Wims, Woods, and Woorman
+Introduced and read first time: February 7, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Law – Firearm Crimes – Convertible Pistols
+3 FOR the purpose of prohibiting a person from manufacturing, selling, offering for sale,
+4 purchasing, receiving, or transferring a certain convertible pistol; and generally
+5 relating to firearm crimes.
+6 BY repealing and reenacting, with amendments,
+7 Article – Criminal Law
+8 Section 4–301
+9 Annotated Code of Maryland
+10 (2021 Replacement Volume and 2024 Supplement)
+11 BY adding to
+12 Article – Criminal Law
+13 Section 4–305.2
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Criminal Law
+18 Section 4–306
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – Criminal Law
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1287*
+2 HOUSE BILL 1287
+1 4–301.
+2 (a) In this subtitle the following words have the meanings indicated.
+3 (b) “Assault long gun” means any assault weapon listed under § 5–101(r)(2) of the
+4 Public Safety Article.
+5 (c) “Assault pistol” means any of the following firearms or a copy regardless of
+6 the producer or manufacturer:
+7 (1) AA Arms AP–9 semiautomatic pistol;
+8 (2) Bushmaster semiautomatic pistol;
+9 (3) Claridge HI–TEC semiautomatic pistol;
+10 (4) D Max Industries semiautomatic pistol;
+11 (5) Encom MK–IV, MP–9, or MP–45 semiautomatic pistol;
+12 (6) Heckler and Koch semiautomatic SP–89 pistol;
+13 (7) Holmes MP–83 semiautomatic pistol;
+14 (8) Ingram MAC 10/11 semiautomatic pistol and variations including the
+15 Partisan Avenger and the SWD Cobray;
+16 (9) Intratec TEC–9/DC–9 semiautomatic pistol in any centerfire variation;
+17 (10) P.A.W.S. type semiautomatic pistol;
+18 (11) Skorpion semiautomatic pistol;
+19 (12) Spectre double action semiautomatic pistol (Sile, F.I.E., Mitchell);
+20 (13) UZI semiautomatic pistol;
+21 (14) Weaver Arms semiautomatic Nighthawk pistol; or
+22 (15) Wilkinson semiautomatic “Linda” pistol.
+23 (d) “Assault weapon” means:
+24 (1) an assault long gun;
+25 (2) an assault pistol; or
+HOUSE BILL 1287 3
+1 (3) a copycat weapon.
+2 (e) “Binary trigger system” means a device that, when installed in or attached to
+3 a firearm, fires both when the trigger is pulled and on release of the trigger.
+4 (f) “Bump stock” means a device that, when installed in or attached to a firearm,
+5 increases the rate of fire of the firearm by using energy from the recoil of the firearm to
+6 generate a reciprocating action that facilitates repeated activation of the trigger.
+7 (g) “Burst trigger system” means a device that, when installed in or attached to a
+8 firearm, allows the firearm to discharge two or more shots with a single pull of the trigger
+9 by altering the trigger reset.
+10 (H) “CONVERTIBLE PISTOL” MEANS ANY SEMIAUTOMATIC PISTOL THAT
+11 CAN BE CONVERTED INTO A MACHINE GUN SOLELY BY THE ATTACHMENT OF A
+12 SWITCH/AUTO–SEAR.
+13 [(h)] (I) (1) “Copycat weapon” means:
+14 (i) a semiautomatic centerfire rifle that can accept a detachable
+15 magazine and has any two of the following:
+16 1. a folding stock;
+17 2. a grenade launcher or flare launcher; or
+18 3. a flash suppressor;
+19 (ii) a semiautomatic centerfire rifle that has a fixed magazine with
+20 the capacity to accept more than 10 rounds;
+21 (iii) a semiautomatic centerfire rifle that has an overall length of less
+22 than 29 inches;
+23 (iv) a semiautomatic pistol with a fixed magazine that can accept
+24 more than 10 rounds;
+25 (v) a semiautomatic shotgun that has a folding stock; or
+26 (vi) a shotgun with a revolving cylinder.
+27 (2) “Copycat weapon” does not include an assault long gun or an assault
+28 pistol.
+4 HOUSE BILL 1287
+1 [(i)] (J) “Detachable magazine” means an ammunition feeding device that can
+2 be removed readily from a firearm without requiring disassembly of the firearm action or
+3 without the use of a tool, including a bullet or cartridge.
+4 [(j)] (K) “Flash suppressor” means a device that functions, or is intended to
+5 function, to perceptibly reduce or redirect muzzle flash from the shooter’s field of vision.
+6 [(k)] (L) “Hellfire trigger” means a device that, when installed in or attached to
+7 a firearm, disengages the trigger return spring when the trigger is pulled.
+8 [(l)] (M) “Licensed firearms dealer” means a person who holds a dealer’s license
+9 under Title 5, Subtitle 1 of the Public Safety Article.
+10 [(m)] (N) (1) “Rapid fire activator” means any device, including a removable
+11 manual or power–driven activating device, constructed so that, when installed in or
+12 attached to a firearm:
+13 (i) the rate at which the trigger is activated increases; or
+14 (ii) the rate of fire increases.
+15 (2) “Rapid fire activator” includes a bump stock, trigger crank, hellfire
+16 trigger, binary trigger system, burst trigger system, switch/auto–sear, or a copy or a similar
+17 device, regardless of the producer or manufacturer.
+18 (3) “Rapid fire activator” does not include a semiautomatic replacement
+19 trigger that improves the performance and functionality over the stock trigger.
+20 [(n)] (O) “Switch/auto–sear” means a device that applies force to a firearm’s
+21 trigger bar to prevent it from limiting the weapon to firing only one round each time the
+22 trigger is depressed.
+23 [(o)] (P) “Trigger crank” means a device that, when installed in or attached to a
+24 firearm, repeatedly activates the trigger of the firearm through the use of a crank, a lever,
+25 or any other part that is turned in a circular motion.
+26 4–305.2.
+27 A PERSON MAY NOT MANUFACTURE, SELL, OFFER FOR SALE, PURCHASE,
+28 RECEIVE, OR TRANSFER A CONVERTIBLE PISTOL.
+29 4–306.
+30 (a) Except as otherwise provided in this subtitle, a person who violates this
+31 subtitle is guilty of a misdemeanor and on conviction is subject to imprisonment not
+32 exceeding 3 years or a fine not exceeding $5,000 or both.
+HOUSE BILL 1287 5
+1 (b) (1) A person who uses an assault weapon, a rapid fire activator, or a
+2 magazine that has a capacity of more than 10 rounds of ammunition, in the commission of
+3 a felony or a crime of violence as defined in § 5–101 of the Public Safety Article is guilty of
+4 a misdemeanor and on conviction, in addition to any other sentence imposed for the felony
+5 or crime of violence, shall be sentenced under this subsection.
+6 (2) (i) For a first violation, the person shall be sentenced to
+7 imprisonment for not less than 5 years and not exceeding 20 years.
+8 (ii) The court may not impose less than the minimum sentence of 5
+9 years.
+10 (iii) The mandatory minimum sentence of 5 years may not be
+11 suspended.
+12 (iv) Except as otherwise provided in § 4–305 of the Correctional
+13 Services Article, the person is not eligible for parole in less than 5 years.
+14 (3) (i) For each subsequent violation, the person shall be sentenced to
+15 imprisonment for not less than 10 years and not exceeding 20 years.
+16 (ii) The court may not impose less than the minimum sentence of 10
+17 years.
+18 (iii) A sentence imposed under this paragraph shall be consecutive to
+19 and not concurrent with any other sentence imposed for the felony or crime of violence.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2025.
+[DELETED: :CA      5   C D W A A B B C A C F p r o t a c c p a g r B  A S  A  ( B  A S  A  ( B  A  S  A  (  S T A]
+[DELETED:  H  4  ( I  ( “ P  ( “ t   ( A   ( B   ( C   ( D   ( E   ( H   ( H   ( I P   ( I   ( P   ( S   ( S   ( U   ( W   ( W  ( “   ( a   ( a]
+[DELETED: H 3  ( a  ( “ a  ( “ i g  ( “ f b() “CO PL M A S P T B C I A M G S B T A O AHAOSR–.  () ( “](    ( a s c r t c a a d m     1 a     2 a     3 a    ( a t    ( a t    ( a m    ( a    ( a   ( “ p]
+[DELETED:  H   () “]( b w  () “ s m a d t f o i i t]( f  () “]( a  () “]( u  () ( “]( m o p a d c s t w i i o a    ( t    ( t   ( “ f a i a b s t c h t d   ( “ t  () “ m a d t a f t a f]( t t  () “]( f oA,,,P M N ME SL O F SE PEE . 4  ( E a o p i t s a p w v t s i g o a m a o c i s t i n e]
+[DELETED: H 5  ( ( A p w u a a w a r f a o a m a a o   ( ( F a f v t p s b s t i    ( T y    ( T m m s o 5 y m n b s    ( E a o p i § 4 o t C S   ( ( F i    ( T y    ( A a  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1287
+E1 5lr3059
+CF 5lr3092
+By: Delegates Williams, Acevero, Amprey, Bartlett, Boafo, Charkoudian,
+Crutchfield, Embry, Hill, Kaufman, R. Lewis, Lopez, Martinez, McCaskill,
+Mireku–North, Pasteur, Patterson, Phillips, Ruff, Ruth, Shetty, Simpson,
+Taylor, Toles, Turner, Wilkins, Wims, Woods, and Woorman
+Introduced and read first time: February 7, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Law – Firearm Crimes – Convertible Pistols
+3 FOR the purpose of prohibiting a person from manufacturing, selling, offering for sale,
+4 purchasing, receiving, or transferring a certain convertible pistol; and generally
+5 relating to firearm crimes.
+6 BY repealing and reenacting, with amendments,
+7 Article – Criminal Law
+8 Section 4–301
+9 Annotated Code of Maryland
+10 (2021 Replacement Volume and 2024 Supplement)
+11 BY adding to
+12 Article – Criminal Law
+13 Section 4–305.2
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Criminal Law
+18 Section 4–306
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – Criminal Law
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1287*
+
+2 HOUSE BILL 1287
+1 4–301.
+2 (a) In this subtitle the following words have the meanings indicated.
+3 (b) “Assault long gun” means any assault weapon listed under § 5–101(r)(2) of the
+4 Public Safety Article.
+5 (c) “Assault pistol” means any of the following firearms or a copy regardless of
+6 the producer or manufacturer:
+7 (1) AA Arms AP–9 semiautomatic pistol;
+8 (2) Bushmaster semiautomatic pistol;
+9 (3) Claridge HI–TEC semiautomatic pistol;
+10 (4) D Max Industries semiautomatic pistol;
+11 (5) Encom MK–IV, MP–9, or MP–45 semiautomatic pistol;
+12 (6) Heckler and Koch semiautomatic SP–89 pistol;
+13 (7) Holmes MP–83 semiautomatic pistol;
+14 (8) Ingram MAC 10/11 semiautomatic pistol and variations including the
+15 Partisan Avenger and the SWD Cobray;
+16 (9) Intratec TEC–9/DC–9 semiautomatic pistol in any centerfire variation;
+17 (10) P.A.W.S. type semiautomatic pistol;
+18 (11) Skorpion semiautomatic pistol;
+19 (12) Spectre double action semiautomatic pistol (Sile, F.I.E., Mitchell);
+20 (13) UZI semiautomatic pistol;
+21 (14) Weaver Arms semiautomatic Nighthawk pistol; or
+22 (15) Wilkinson semiautomatic “Linda” pistol.
+23 (d) “Assault weapon” means:
+24 (1) an assault long gun;
+25 (2) an assault pistol; or
+
+HOUSE BILL 1287 3
+1 (3) a copycat weapon.
+2 (e) “Binary trigger system” means a device that, when installed in or attached to
+3 a firearm, fires both when the trigger is pulled and on release of the trigger.
+4 (f) “Bump stock” means a device that, when installed in or attached to a firearm,
+5 increases the rate of fire of the firearm by using energy from the recoil of the firearm to
+6 generate a reciprocating action that facilitates repeated activation of the trigger.
+7 (g) “Burst trigger system” means a device that, when installed in or attached to a
+8 firearm, allows the firearm to discharge two or more shots with a single pull of the trigger
+9 by altering the trigger reset.
+10 (H) “CONVERTIBLE PISTOL” MEANS ANY SEMIAUTOMATIC PISTOL THAT
+11 CAN BE CONVERTED INTO A MACHINE GUN SOLELY BY THE ATTACHMENT OF A
+12 SWITCH/AUTO–SEAR.
+13 [(h)] (I) (1) “Copycat weapon” means:
+14 (i) a semiautomatic centerfire rifle that can accept a detachable
+15 magazine and has any two of the following:
+16 1. a folding stock;
+17 2. a grenade launcher or flare launcher; or
+18 3. a flash suppressor;
+19 (ii) a semiautomatic centerfire rifle that has a fixed magazine with
+20 the capacity to accept more than 10 rounds;
+21 (iii) a semiautomatic centerfire rifle that has an overall length of less
+22 than 29 inches;
+23 (iv) a semiautomatic pistol with a fixed magazine that can accept
+24 more than 10 rounds;
+25 (v) a semiautomatic shotgun that has a folding stock; or
+26 (vi) a shotgun with a revolving cylinder.
+27 (2) “Copycat weapon” does not include an assault long gun or an assault
+28 pistol.
+
+4 HOUSE BILL 1287
+1 [(i)] (J) “Detachable magazine” means an ammunition feeding device that can
+2 be removed readily from a firearm without requiring disassembly of the firearm action or
+3 without the use of a tool, including a bullet or cartridge.
+4 [(j)] (K) “Flash suppressor” means a device that functions, or is intended to
+5 function, to perceptibly reduce or redirect muzzle flash from the shooter’s field of vision.
+6 [(k)] (L) “Hellfire trigger” means a device that, when installed in or attached to
+7 a firearm, disengages the trigger return spring when the trigger is pulled.
+8 [(l)] (M) “Licensed firearms dealer” means a person who holds a dealer’s license
+9 under Title 5, Subtitle 1 of the Public Safety Article.
+10 [(m)] (N) (1) “Rapid fire activator” means any device, including a removable
+11 manual or power–driven activating device, constructed so that, when installed in or
+12 attached to a firearm:
+13 (i) the rate at which the trigger is activated increases; or
+14 (ii) the rate of fire increases.
+15 (2) “Rapid fire activator” includes a bump stock, trigger crank, hellfire
+16 trigger, binary trigger system, burst trigger system, switch/auto–sear, or a copy or a similar
+17 device, regardless of the producer or manufacturer.
+18 (3) “Rapid fire activator” does not include a semiautomatic replacement
+19 trigger that improves the performance and functionality over the stock trigger.
+20 [(n)] (O) “Switch/auto–sear” means a device that applies force to a firearm’s
+21 trigger bar to prevent it from limiting the weapon to firing only one round each time the
+22 trigger is depressed.
+23 [(o)] (P) “Trigger crank” means a device that, when installed in or attached to a
+24 firearm, repeatedly activates the trigger of the firearm through the use of a crank, a lever,
+25 or any other part that is turned in a circular motion.
+26 4–305.2.
+27 A PERSON MAY NOT MANUFACTURE, SELL, OFFER FOR SALE, PURCHASE,
+28 RECEIVE, OR TRANSFER A CONVERTIBLE PISTOL.
+29 4–306.
+30 (a) Except as otherwise provided in this subtitle, a person who violates this
+31 subtitle is guilty of a misdemeanor and on conviction is subject to imprisonment not
+32 exceeding 3 years or a fine not exceeding $5,000 or both.
+
+HOUSE BILL 1287 5
+1 (b) (1) A person who uses an assault weapon, a rapid fire activator, or a
+2 magazine that has a capacity of more than 10 rounds of ammunition, in the commission of
+3 a felony or a crime of violence as defined in § 5–101 of the Public Safety Article is guilty of
+4 a misdemeanor and on conviction, in addition to any other sentence imposed for the felony
+5 or crime of violence, shall be sentenced under this subsection.
+6 (2) (i) For a first violation, the person shall be sentenced to
+7 imprisonment for not less than 5 years and not exceeding 20 years.
+8 (ii) The court may not impose less than the minimum sentence of 5
+9 years.
+10 (iii) The mandatory minimum sentence of 5 years may not be
+11 suspended.
+12 (iv) Except as otherwise provided in § 4–305 of the Correctional
+13 Services Article, the person is not eligible for parole in less than 5 years.
+14 (3) (i) For each subsequent violation, the person shall be sentenced to
+15 imprisonment for not less than 10 years and not exceeding 20 years.
+16 (ii) The court may not impose less than the minimum sentence of 10
+17 years.
+18 (iii) A sentence imposed under this paragraph shall be consecutive to
+19 and not concurrent with any other sentence imposed for the felony or crime of violence.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2025.
+
+[DELETED: :CA      5   C D W A A B B C A C F p r o t a c c p a g r B  A S  A  ( B  A S  A  ( B  A  S  A  (  S T A]
+[DELETED:  H  4  ( I  ( “ P  ( “ t   ( A   ( B   ( C   ( D   ( E   ( H   ( H   ( I P   ( I   ( P   ( S   ( S   ( U   ( W   ( W  ( “   ( a   ( a]
+[DELETED: H 3  ( a  ( “ a  ( “ i g  ( “ f b() “CO PL M A S P T B C I A M G S B T A O AHAOSR–.  () ( “](    ( a s c r t c a a d m     1 a     2 a     3 a    ( a t    ( a t    ( a m    ( a    ( a   ( “ p]
+[DELETED:  H   () “]( b w  () “ s m a d t f o i i t]( f  () “]( a  () “]( u  () ( “]( m o p a d c s t w i i o a    ( t    ( t   ( “ f a i a b s t c h t d   ( “ t  () “ m a d t a f t a f]( t t  () “]( f oA,,,P M N ME SL O F SE PEE . 4  ( E a o p i t s a p w v t s i g o a m a o c i s t i n e]
+[DELETED: H 5  ( ( A p w u a a w a r f a o a m a a o   ( ( F a f v t p s b s t i    ( T y    ( T m m s o 5 y m n b s    ( E a o p i § 4 o t C S   ( ( F i    ( T y    ( A a  S A B I F E T t A s t e O]

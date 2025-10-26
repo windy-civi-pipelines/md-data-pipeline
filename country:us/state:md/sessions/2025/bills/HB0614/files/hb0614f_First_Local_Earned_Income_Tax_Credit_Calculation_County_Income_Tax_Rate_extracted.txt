@@ -1,0 +1,116 @@
+Title: HOUSE BILL 614
+Official Title: HOUSE BILL 614
+Number of Sections: 1
+Source: versions - First - Local Earned Income Tax Credit - Calculation - County Income Tax Rate
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Q3 5lr1726
+By: Chair, Ways and Means Committee (By Request – Office of the Comptroller)
+Introduced and read first time: January 23, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Local Earned Income Tax Credit – Calculation – County Income Tax Rate
+3 FOR the purpose of clarifying the county income tax rate used to calculate the local earned
+4 income tax credit that certain individuals may claim against the county income tax;
+5 and generally relating to the local earned income tax credit.
+6 BY repealing and reenacting, with amendments,
+7 Article – Tax – General
+8 Section 10–704(d)
+9 Annotated Code of Maryland
+10 (2022 Replacement Volume and 2024 Supplement)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+13 Article – Tax – General
+14 10–704.
+15 (d) (1) Except as provided in paragraph (2) of this subsection and subject to
+16 subsection (e) of this section, the credit allowed against the county income tax under
+17 subsection (b)(2) of this section is the lesser of:
+18 (i) the earned income credit allowable for the taxable year under §
+19 32 of the Internal Revenue Code or that would have been allowable but for the limitation
+20 under § 32(m) of the Internal Revenue Code multiplied by 10 times the [county] COUNTY’S
+21 LOWEST MARGINAL income tax rate for the taxable year; or
+22 (ii) the county income tax for the taxable year.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0614*
+2 HOUSE BILL 614
+1 (2) (i) A county may provide, by law, for a refundable county earned
+2 income credit as provided in this paragraph.
+3 (ii) If a county provides for a refundable county earned income credit
+4 under this paragraph, on or before July 1 prior to the beginning of the first taxable year for
+5 which it is applicable, the county shall give the Comptroller notice of the refundable county
+6 earned income credit.
+7 (iii) If a county provides for a refundable county earned income credit
+8 under this paragraph, a resident may claim a refund of the amount, if any, by which the
+9 product of multiplying the credit allowable for the taxable year under § 32 of the Internal
+10 Revenue Code or that would have been allowable but for the limitation under § 32(m) of
+11 the Internal Revenue Code by 5 times the [county] COUNTY’S LOWEST MARGINAL income
+12 tax rate for the taxable year exceeds the county income tax for the taxable year.
+13 (iv) The amount of any refunds payable under a refundable county
+14 earned income credit operates to reduce the income tax revenue from individuals
+15 attributable to the county income tax for that county.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+17 1, 2025, and shall be applicable to all taxable years beginning after December 31, 2024.
+[DELETED: :CA      5     A L F i a B  A S  A  (  S T A 1  ( ( E s ( o t s t c a a t c i t u s    ( t 3 u c]YS      ( t]
+[DELETED:  H    ( ( A i    ( I u w e    ( I u p R t cy ]YS t    ( T e i c o t r t i t r f i a  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 614
+Q3 5lr1726
+By: Chair, Ways and Means Committee (By Request – Office of the Comptroller)
+Introduced and read first time: January 23, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Local Earned Income Tax Credit – Calculation – County Income Tax Rate
+3 FOR the purpose of clarifying the county income tax rate used to calculate the local earned
+4 income tax credit that certain individuals may claim against the county income tax;
+5 and generally relating to the local earned income tax credit.
+6 BY repealing and reenacting, with amendments,
+7 Article – Tax – General
+8 Section 10–704(d)
+9 Annotated Code of Maryland
+10 (2022 Replacement Volume and 2024 Supplement)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+13 Article – Tax – General
+14 10–704.
+15 (d) (1) Except as provided in paragraph (2) of this subsection and subject to
+16 subsection (e) of this section, the credit allowed against the county income tax under
+17 subsection (b)(2) of this section is the lesser of:
+18 (i) the earned income credit allowable for the taxable year under §
+19 32 of the Internal Revenue Code or that would have been allowable but for the limitation
+20 under § 32(m) of the Internal Revenue Code multiplied by 10 times the [county] COUNTY’S
+21 LOWEST MARGINAL income tax rate for the taxable year; or
+22 (ii) the county income tax for the taxable year.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0614*
+
+2 HOUSE BILL 614
+1 (2) (i) A county may provide, by law, for a refundable county earned
+2 income credit as provided in this paragraph.
+3 (ii) If a county provides for a refundable county earned income credit
+4 under this paragraph, on or before July 1 prior to the beginning of the first taxable year for
+5 which it is applicable, the county shall give the Comptroller notice of the refundable county
+6 earned income credit.
+7 (iii) If a county provides for a refundable county earned income credit
+8 under this paragraph, a resident may claim a refund of the amount, if any, by which the
+9 product of multiplying the credit allowable for the taxable year under § 32 of the Internal
+10 Revenue Code or that would have been allowable but for the limitation under § 32(m) of
+11 the Internal Revenue Code by 5 times the [county] COUNTY’S LOWEST MARGINAL income
+12 tax rate for the taxable year exceeds the county income tax for the taxable year.
+13 (iv) The amount of any refunds payable under a refundable county
+14 earned income credit operates to reduce the income tax revenue from individuals
+15 attributable to the county income tax for that county.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+17 1, 2025, and shall be applicable to all taxable years beginning after December 31, 2024.
+
+[DELETED: :CA      5     A L F i a B  A S  A  (  S T A 1  ( ( E s ( o t s t c a a t c i t u s    ( t 3 u c]YS      ( t]
+[DELETED:  H    ( ( A i    ( I u w e    ( I u p R t cy ]YS t    ( T e i c o t r t i t r f i a  S 1]

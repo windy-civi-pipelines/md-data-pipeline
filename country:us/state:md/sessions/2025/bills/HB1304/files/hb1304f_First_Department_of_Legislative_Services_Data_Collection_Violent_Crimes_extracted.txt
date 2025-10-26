@@ -1,0 +1,252 @@
+Title: HOUSE BILL 1304
+Official Title: HOUSE BILL 1304
+Number of Sections: 1
+Source: versions - First - Department of Legislative Services - Data Collection - Violent Crimes
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+E4, P5 5lr2480
+By: Delegate Wilson
+Introduced and read first time: February 7, 2025
+Assigned to: Appropriations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Department of Legislative Services – Data Collection – Violent Crimes
+3 FOR the purpose of requiring the Department of State Police to submit certain information
+4 collected through the Uniform Crime Reporting Program to the Department of
+5 Legislative Services on or before a certain date each year and create a certain work
+6 plan; requiring the Department of Legislative Services to submit certain reports to
+7 the Governor and General Assembly; and generally relating to data collection,
+8 violent crimes, and the Department of Legislative Services.
+9 BY repealing and reenacting, with amendments,
+10 Article – State Government
+11 Section 2–1261
+12 Annotated Code of Maryland
+13 (2021 Replacement Volume and 2024 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
+16 Article – State Government
+17 2–1261.
+18 (a) On or before October 31 each year, the Department of Public Safety and
+19 Correctional Services shall submit to the Department, in the form of electronic raw data,
+20 de–identified and disaggregated by age, race, and sex, information required to be reported
+21 to the Governor in accordance with § 3–207(a)(2) of the Correctional Services Article.
+22 (b) (1) On or before November 30 each year, the Department of State Police
+23 shall submit to the Department, in a format that the Executive Director requires, the
+24 information collected in accordance with § 2–307(a)(2) of the Public Safety Article.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1304*
+2 HOUSE BILL 1304
+1 (2) On or before August 1, 2022, the Department of State Police and the
+2 Department shall enter into a memorandum of understanding, the terms of which shall
+3 include:
+4 (i) a data sharing agreement for all information collected in
+5 accordance with § 2–307 of the Public Safety Article;
+6 (ii) a work plan for access to collected data for research and
+7 statistical analysis purposes;
+8 (iii) a listing of all data fields collected for the Crime in Maryland
+9 Report and the Hate Bias Report; and
+10 (iv) an update on the status of compliance with the National
+11 Incident–Based Reporting System by law enforcement agencies in the State.
+12 (C) (1) ON OR BEFORE NOVEMBER 30 EACH YEAR, THE DEPARTMENT OF
+13 STATE POLICE SHALL SUBMIT TO THE DEPARTMENT, IN ELECTRONIC FORMAT,
+14 INFORMATION COLLECTED THROUGH THE UNIFORM CRIME REPORTING PROGRAM
+15 ON THE FOLLOWING CRIME CATEGORIES:
+16 (I) CRIMINAL HOMICIDE;
+17 (II) FORCIBLE RAPE;
+18 (III) ROBBERY;
+19 (IV) ASSAULT;
+20 (V) BREAKING OR ENTERING;
+21 (VI) LARCENY OR THEFT;
+22 (VII) MOTOR VEHICLE THEFT; AND
+23 (VIII) ARSON.
+24 (2) THE INFORMATION REQUIRED TO BE SUBMITTED UNDER
+25 PARAGRAPH (1) OF THIS SUBSECTION SHALL INCLUDE THE FOLLOWING
+26 INFORMATION FOR EACH INCIDENT:
+27 (I) OFFENSE, INCLUDING OFFENSE SUBTYPE;
+28 (II) DATE, COUNTY, ZIP CODE, AND INCIDENT LOCATION;
+HOUSE BILL 1304 3
+1 (III) WHETHER AN ARREST WAS MADE;
+2 (IV) WHETHER AN INCIDENT WAS DESIGNATED A HATE INCIDENT
+3 OR HATE CRIME;
+4 (V) AGE, RACE, ETHNICITY, AND SEX OF VICTIM;
+5 (VI) AGE, RACE, ETHNICITY, AND SEX OF OFFENDER;
+6 (VII) LAW ENFORCEMENT AGENCIES INVOLVED;
+7 (VIII) CASE CLEARANCE STATUS; AND
+8 (IX) IF THE OFFENSE IS ARSON, TYPE OF PROPERTY.
+9 (3) THE DEPARTMENT OF STATE POLICE SHALL CREATE A WORK
+10 PLAN THAT:
+11 (I) IMPROVES AND STREAMLINES CRIME DATA COLLECTION
+12 AND REPORTING WITH RESPECT TO THE UNIFORM CRIME REPORTING PROGRAM;
+13 (II) OUTLINES POLICIES AND PROCEDURES TO COLLECT AND
+14 MEASURE HATE INCIDENTS AND HATE CRIMES IN A MORE EFFICIENT MANNER; AND
+15 (III) CREATES PROCEDURES THAT ALLOW VICTIMS TO EASILY
+16 REPORT AND DESIGNATE AN INCIDENT AS A SUSPECTED HATE CRIME ON THE
+17 APPROPRIATE FORMS.
+18 (4) THE DEPARTMENT SHALL REPORT TO THE GOVERNOR AND
+19 GENERAL ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+20 ARTICLE, ON:
+21 (I) THE INFORMATION REQUIRED UNDER PARAGRAPHS (1) AND
+22 (2) OF THIS SUBSECTION BY JUNE 30, 2026, AND EACH YEAR THEREAFTER; AND
+23 (II) THE WORK PLAN REQUIRED UNDER PARAGRAPH (3) OF THIS
+24 SUBSECTION BY JUNE 30, 2026.
+25 [(c)] (D) On or before October 31 each year, the Maryland Police Training and
+26 Standards Commission shall submit to the Department, in the form of electronic raw data,
+27 de–identified and disaggregated by agency and incident:
+28 (1) information required to be reported to the General Assembly in
+29 accordance with § 3–514(b)(1) of the Public Safety Article; and
+4 HOUSE BILL 1304
+1 (2) information required to be collected in accordance with § 3–207(b) of the
+2 Public Safety Article.
+3 [(d)] (E) On or before October 31 each year, the Governor’s Office of Crime
+4 Prevention and Policy shall submit to the Department, in the form of electronic raw data,
+5 de–identified and disaggregated by incident, information collected in accordance with:
+6 (1) § 3–528 of the Public Safety Article; and
+7 (2) § 25–113 of the Transportation Article.
+8 [(e)] (F) On or before August 1, 2022, the Department of Juvenile Services and
+9 the Department shall enter into a memorandum of understanding, the terms of which shall
+10 include:
+11 (1) the provision of various custom reports to the Department, including
+12 information, de–identified and disaggregated by juvenile, relating to the juvenile’s record
+13 of:
+14 (i) delinquency;
+15 (ii) court actions;
+16 (iii) supervision; and
+17 (iv) placement; and
+18 (2) the development of a work plan by the Department of Juvenile Services
+19 regarding efforts to include specific race and ethnicity data for individual juveniles.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+21 1, 2025.
+[DELETED: :CA      5     A D F c t t U C R P t t D o L p t G a G A a g r t d c v B  A S  A  (  S T A 2  ( O o b O 3 e y t D o P S a C d t  ( ( O s s t t D i a f t t E D r t i]
+[DELETED:  H    ( O D i    ( a d s a f a i c i a    ( a w p f a t c d f r a s    ( a R    ( a u o t s o c w t N I ) ( ON30,N O  R  EPD, O S S T T ET I E FT N R E RCR  () ;C  () ;IF  () ;IR  () ;VA  () ;B  () ;IL  () ;IMT   () .IA (  I R T B S U  O T S S I T F  () ,;OE   () ,,,;IDE Y E ]
+[DELETED: H 3  () ;IW  ()VW  () ,,,;AE E Y   () ,,,;IAE E Y   () ;IL  () ;ICS   () ,.XIN  ( TDS E O T O S C A W  ()I A S C D C N R E RCRP;  ()IO P A P T C AR   ()IC P T A V T E A D A I A A S H C O T ( TD E S R T T O AA,§27S SY     T O,:E   () (T  )J3,2,;NB U   R    () (IT   U 3,2  () O]( S d   ( i r t b r t t G A i a]
+[DELETED:  H    ( i P  () O o b O 3 e y t G O o C]( P d   ( §   ( §  () O]( t i   ( t i o    ( d    ( c    ( s    ( p   ( t r S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1304
+E4, P5 5lr2480
+By: Delegate Wilson
+Introduced and read first time: February 7, 2025
+Assigned to: Appropriations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Department of Legislative Services – Data Collection – Violent Crimes
+3 FOR the purpose of requiring the Department of State Police to submit certain information
+4 collected through the Uniform Crime Reporting Program to the Department of
+5 Legislative Services on or before a certain date each year and create a certain work
+6 plan; requiring the Department of Legislative Services to submit certain reports to
+7 the Governor and General Assembly; and generally relating to data collection,
+8 violent crimes, and the Department of Legislative Services.
+9 BY repealing and reenacting, with amendments,
+10 Article – State Government
+11 Section 2–1261
+12 Annotated Code of Maryland
+13 (2021 Replacement Volume and 2024 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
+16 Article – State Government
+17 2–1261.
+18 (a) On or before October 31 each year, the Department of Public Safety and
+19 Correctional Services shall submit to the Department, in the form of electronic raw data,
+20 de–identified and disaggregated by age, race, and sex, information required to be reported
+21 to the Governor in accordance with § 3–207(a)(2) of the Correctional Services Article.
+22 (b) (1) On or before November 30 each year, the Department of State Police
+23 shall submit to the Department, in a format that the Executive Director requires, the
+24 information collected in accordance with § 2–307(a)(2) of the Public Safety Article.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1304*
+
+2 HOUSE BILL 1304
+1 (2) On or before August 1, 2022, the Department of State Police and the
+2 Department shall enter into a memorandum of understanding, the terms of which shall
+3 include:
+4 (i) a data sharing agreement for all information collected in
+5 accordance with § 2–307 of the Public Safety Article;
+6 (ii) a work plan for access to collected data for research and
+7 statistical analysis purposes;
+8 (iii) a listing of all data fields collected for the Crime in Maryland
+9 Report and the Hate Bias Report; and
+10 (iv) an update on the status of compliance with the National
+11 Incident–Based Reporting System by law enforcement agencies in the State.
+12 (C) (1) ON OR BEFORE NOVEMBER 30 EACH YEAR, THE DEPARTMENT OF
+13 STATE POLICE SHALL SUBMIT TO THE DEPARTMENT, IN ELECTRONIC FORMAT,
+14 INFORMATION COLLECTED THROUGH THE UNIFORM CRIME REPORTING PROGRAM
+15 ON THE FOLLOWING CRIME CATEGORIES:
+16 (I) CRIMINAL HOMICIDE;
+17 (II) FORCIBLE RAPE;
+18 (III) ROBBERY;
+19 (IV) ASSAULT;
+20 (V) BREAKING OR ENTERING;
+21 (VI) LARCENY OR THEFT;
+22 (VII) MOTOR VEHICLE THEFT; AND
+23 (VIII) ARSON.
+24 (2) THE INFORMATION REQUIRED TO BE SUBMITTED UNDER
+25 PARAGRAPH (1) OF THIS SUBSECTION SHALL INCLUDE THE FOLLOWING
+26 INFORMATION FOR EACH INCIDENT:
+27 (I) OFFENSE, INCLUDING OFFENSE SUBTYPE;
+28 (II) DATE, COUNTY, ZIP CODE, AND INCIDENT LOCATION;
+
+HOUSE BILL 1304 3
+1 (III) WHETHER AN ARREST WAS MADE;
+2 (IV) WHETHER AN INCIDENT WAS DESIGNATED A HATE INCIDENT
+3 OR HATE CRIME;
+4 (V) AGE, RACE, ETHNICITY, AND SEX OF VICTIM;
+5 (VI) AGE, RACE, ETHNICITY, AND SEX OF OFFENDER;
+6 (VII) LAW ENFORCEMENT AGENCIES INVOLVED;
+7 (VIII) CASE CLEARANCE STATUS; AND
+8 (IX) IF THE OFFENSE IS ARSON, TYPE OF PROPERTY.
+9 (3) THE DEPARTMENT OF STATE POLICE SHALL CREATE A WORK
+10 PLAN THAT:
+11 (I) IMPROVES AND STREAMLINES CRIME DATA COLLECTION
+12 AND REPORTING WITH RESPECT TO THE UNIFORM CRIME REPORTING PROGRAM;
+13 (II) OUTLINES POLICIES AND PROCEDURES TO COLLECT AND
+14 MEASURE HATE INCIDENTS AND HATE CRIMES IN A MORE EFFICIENT MANNER; AND
+15 (III) CREATES PROCEDURES THAT ALLOW VICTIMS TO EASILY
+16 REPORT AND DESIGNATE AN INCIDENT AS A SUSPECTED HATE CRIME ON THE
+17 APPROPRIATE FORMS.
+18 (4) THE DEPARTMENT SHALL REPORT TO THE GOVERNOR AND
+19 GENERAL ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+20 ARTICLE, ON:
+21 (I) THE INFORMATION REQUIRED UNDER PARAGRAPHS (1) AND
+22 (2) OF THIS SUBSECTION BY JUNE 30, 2026, AND EACH YEAR THEREAFTER; AND
+23 (II) THE WORK PLAN REQUIRED UNDER PARAGRAPH (3) OF THIS
+24 SUBSECTION BY JUNE 30, 2026.
+25 [(c)] (D) On or before October 31 each year, the Maryland Police Training and
+26 Standards Commission shall submit to the Department, in the form of electronic raw data,
+27 de–identified and disaggregated by agency and incident:
+28 (1) information required to be reported to the General Assembly in
+29 accordance with § 3–514(b)(1) of the Public Safety Article; and
+
+4 HOUSE BILL 1304
+1 (2) information required to be collected in accordance with § 3–207(b) of the
+2 Public Safety Article.
+3 [(d)] (E) On or before October 31 each year, the Governor’s Office of Crime
+4 Prevention and Policy shall submit to the Department, in the form of electronic raw data,
+5 de–identified and disaggregated by incident, information collected in accordance with:
+6 (1) § 3–528 of the Public Safety Article; and
+7 (2) § 25–113 of the Transportation Article.
+8 [(e)] (F) On or before August 1, 2022, the Department of Juvenile Services and
+9 the Department shall enter into a memorandum of understanding, the terms of which shall
+10 include:
+11 (1) the provision of various custom reports to the Department, including
+12 information, de–identified and disaggregated by juvenile, relating to the juvenile’s record
+13 of:
+14 (i) delinquency;
+15 (ii) court actions;
+16 (iii) supervision; and
+17 (iv) placement; and
+18 (2) the development of a work plan by the Department of Juvenile Services
+19 regarding efforts to include specific race and ethnicity data for individual juveniles.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+21 1, 2025.
+
+[DELETED: :CA      5     A D F c t t U C R P t t D o L p t G a G A a g r t d c v B  A S  A  (  S T A 2  ( O o b O 3 e y t D o P S a C d t  ( ( O s s t t D i a f t t E D r t i]
+[DELETED:  H    ( O D i    ( a d s a f a i c i a    ( a w p f a t c d f r a s    ( a R    ( a u o t s o c w t N I ) ( ON30,N O  R  EPD, O S S T T ET I E FT N R E RCR  () ;C  () ;IF  () ;IR  () ;VA  () ;B  () ;IL  () ;IMT   () .IA (  I R T B S U  O T S S I T F  () ,;OE   () ,,,;IDE Y E ]
+[DELETED: H 3  () ;IW  ()VW  () ,,,;AE E Y   () ,,,;IAE E Y   () ;IL  () ;ICS   () ,.XIN  ( TDS E O T O S C A W  ()I A S C D C N R E RCRP;  ()IO P A P T C AR   ()IC P T A V T E A D A I A A S H C O T ( TD E S R T T O AA,§27S SY     T O,:E   () (T  )J3,2,;NB U   R    () (IT   U 3,2  () O]( S d   ( i r t b r t t G A i a]
+[DELETED:  H    ( i P  () O o b O 3 e y t G O o C]( P d   ( §   ( §  () O]( t i   ( t i o    ( d    ( c    ( s    ( p   ( t r S 1]

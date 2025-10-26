@@ -1,0 +1,1779 @@
+Title: SENATE BILL 409
+Official Title: SENATE BILL 409
+Number of Sections: 1
+Source: versions - First - Economic Development - County or Municipal Corporation Economic Development Authority - Powers and Use of Proceeds
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+C8, L6 5lr2323
+CF HB 97
+By: Senator King
+Introduced and read first time: January 20, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Economic Development – County or Municipal Corporation Economic
+3 Development Authority – Powers and Use of Proceeds
+4 FOR the purpose of expanding the acceptable names authorized for an economic
+5 development authority established by a county or municipal corporation; expanding
+6 the powers of an authority, subject to limitations in the articles of incorporation of
+7 the authority; authorizing an authority to issue certain bonds in accordance with
+8 certain requirements; expanding the authorized uses of tax increment proceeds; and
+9 generally relating to county and municipal economic development.
+10 BY repealing and reenacting, with amendments,
+11 Article – Economic Development
+12 Section 12–101, 12–105, 12–107 through 12–109, 12–110(b), 12–111(a), 12–113(a),
+13 12–201(e), (f), and (j), 12–203, 12–204, 12–207(a), 12–211, and 12–212
+14 Annotated Code of Maryland
+15 (2024 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Economic Development
+18 Section 12–110(a) and 12–201(a)
+19 Annotated Code of Maryland
+20 (2024 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Economic Development
+23 Section 12–201(d–1) and (d–2)
+24 Annotated Code of Maryland
+25 (2024 Replacement Volume and 2024 Supplement)
+26 BY repealing and reenacting, with amendments,
+27 The Charter of Baltimore City
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0409*
+2 SENATE BILL 409
+1 Article II – General Powers
+2 Section (62)(a)
+3 (2007 Replacement Volume, as amended)
+4 (As enacted by Chapter 338 of the Arts of the General Assembly of 2008)
+5 BY repealing and reenacting, without amendments,
+6 The Charter of Baltimore City
+7 Article II – General Powers
+8 Section (62)(b)(1) and (e)(2)(i) and (ii) and (3)
+9 (2007 Replacement Volume, as amended)
+10 BY repealing and reenacting, with amendments,
+11 The Charter of Baltimore City
+12 Article II – General Powers
+13 Section (62)(b)(7) through (17), (c), (d), (e)(1) and (2)(iv), (f)(1), (h)(2), and (j)
+14 (2007 Replacement Volume, as amended)
+15 BY adding to
+16 The Charter of Baltimore City
+17 Article II – General Powers
+18 Section (62)(b)(7) and (b–1)
+19 (2007 Replacement Volume, as amended)
+20 BY repealing and reenacting, with amendments,
+21 The Charter of Baltimore City
+22 Article II – General Powers
+23 Section (62)(b)(18)
+24 (2007 Replacement Volume, as amended)
+25 (As enacted by Chapter 544 of the Acts of the General Assembly of 2008)
+26 BY repealing and reenacting, without amendments,
+27 The Charter of Baltimore City
+28 Article II – General Powers
+29 Section (62)(e)(2)(iii)
+30 (2007 Replacement Volume, as amended)
+31 (As enacted by Chapter 544 of the Acts of the General Assembly of 2008)
+32 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+33 That the Laws of Maryland read as follows:
+34 Article – Economic Development
+35 12–101.
+36 (a) In this subtitle the following words have the meanings indicated.
+SENATE BILL 409 3
+1 (b) “Authority” means an industrial development authority, REVENUE
+2 AUTHORITY, REDEVELOPMENT AUTHORITY, OR OTHER SIMILARLY NAMED
+3 AUTHORITY established in accordance with § 12–105 of this subtitle.
+4 (C) “AUTHORITY FUNDS” MEANS:
+5 (1) MONEY MADE AVAILABLE TO THE AUTHORITY UNDER TITLE 12,
+6 SUBTITLE 2 OF THIS ARTICLE;
+7 (2) REVENUES, PROCEEDS, EARNINGS, PREMIUMS, FEES, AND ANY
+8 OTHER MONEY PAYABLE TO OR RECEIVED BY THE AUTHORITY FROM THE
+9 OWNERSHIP, USE, SALE, LEASE, OR OTHER DISPOSITION OF PROPERTY OF THE
+10 AUTHORITY OR OTHERWISE IN THE EXERCISE OF ITS POWERS; AND
+11 (3) ANY OTHER MONEY MADE AVAILABLE TO THE AUTHORITY.
+12 [(c)] (D) (1) “Bond” means a revenue bond, note, or other instrument,
+13 certificate, or evidence of obligation that is issued and sold by a public body under this
+14 subtitle [to finance a facility or to refund an outstanding bond].
+15 (2) “Bond” includes:
+16 (i) a bond anticipation note; and
+17 (ii) a note in the nature of commercial paper.
+18 [(d)] (E) “Chief executive” means the president, chair, mayor, county executive,
+19 or any other chief executive officer of a public body.
+20 (F) “DEVELOPMENT” INCLUDES NEW DEVELOPMENT, REDEVELOPMENT,
+21 REVITALIZATION, AND RENOVATION.
+22 [(e)] (G) “Facility” means any land or an interest in land, structure, working
+23 capital, equipment, or other property, or any combination of them, the acquisition or
+24 improvement of which the legislative body of a county or municipal corporation, the board
+25 of directors of an authority, or the Maryland Industrial Development Financing Authority,
+26 in its sole discretion, determines by resolution will accomplish one or more of the legislative
+27 purposes listed in § 12–103(b) of this subtitle.
+28 [(f)] (H) “Facility applicant” means a person, public or private corporation, or
+29 other entity, whether for–profit or nonprofit, that, by letter of intent or similar agreement
+30 with a public body, requests the public body to participate in financing a facility under this
+31 subtitle for use by a facility user.
+4 SENATE BILL 409
+1 [(g)] (I) (1) “Facility user” means a person, public or private corporation, or
+2 other entity, whether for–profit or nonprofit, that owns, leases, or uses all or part of a
+3 facility.
+4 (2) “Facility user” may include a facility applicant.
+5 [(h)] (J) “Finance” includes refinance.
+6 [(i)] (K) (1) “Finance board” means a unit or instrumentality of a county or
+7 municipal corporation that is authorized by statute or charter to issue and sell bonds of the
+8 county or municipal corporation.
+9 (2) “Finance board” does not include the legislative body of a county or
+10 municipal corporation.
+11 [(j)] (L) “Improve” means to add, alter, construct, equip, expand, extend,
+12 improve, install, reconstruct, rehabilitate, remodel, or repair.
+13 [(k)] (M) “Improvement” means addition, alteration, construction, equipping,
+14 expansion, extension, improvement, installation, reconstruction, rehabilitation,
+15 remodeling, or repair.
+16 (N) “PROJECT AREA” MEANS A GEOGRAPHIC AREA DESIGNATED BY THE
+17 LEGISLATIVE BODY OF A COUNTY OR MUNICIPAL CORPORATION WITHIN ITS
+18 JURISDICTION AS A PROJECT AREA UNDER § 12–105(H) OF THIS SUBTITLE.
+19 (O) “PROJECT AREA PLAN” MEANS THE PLAN ESTABLISHED BY A COUNTY
+20 OR MUNICIPAL CORPORATION FOR THE PROJECT AREA UNDER § 12–105(H) OF THIS
+21 SUBTITLE THAT ACCOMPLISHES AT LEAST ONE OF THE PURPOSES UNDER §
+22 12–103(B) OF THIS SUBTITLE.
+23 [(l)] (P) “Public body” means:
+24 (1) a county;
+25 (2) a municipal corporation;
+26 (3) an authority; or
+27 (4) the Maryland Industrial Development Financing Authority.
+28 [(m)] (Q) (1) “Public port” means the public ports and harbors on the
+29 Chesapeake Bay or the Isle of Wight Bay and their tributaries in the State.
+30 (2) “Public port” includes:
+SENATE BILL 409 5
+1 (i) the Baltimore Harbor (the Patapsco River and its tributaries
+2 north and west of North Point and Bodkin Point);
+3 (ii) the Port of Cambridge (the south side of the Choptank River
+4 between Hambrook’s Bar and the Emerson C. Harrington Bridge); and
+5 (iii) the Port of Crisfield (the Little Annemessex River east of James
+6 Island).
+7 12–105.
+8 (a) To accomplish one or more of the legislative purposes listed in § 12–103(b) of
+9 this subtitle, the legislative body of a county or municipal corporation may adopt a
+10 resolution to create an [industrial development] authority in accordance with this subtitle.
+11 (b) A resolution adopted under subsection (a), (f), [or] (g), OR (H) of this section:
+12 (1) is administrative in nature;
+13 (2) is not subject to referendum; and
+14 (3) in a county or municipal corporation that has a publicly elected chief
+15 executive, is subject to approval by the chief executive.
+16 (c) Subsection (a) of this section is self–executing and fully authorizes a county or
+17 municipal corporation to establish an authority, notwithstanding any other statutory or
+18 charter provision.
+19 (d) A resolution adopted under subsection (a) of this section shall include
+20 proposed articles of incorporation of the authority that state:
+21 (1) the name of the authority, which shall be:
+22 (I) “Industrial Development Authority of (name of the incorporating
+23 county or municipal corporation)”;
+24 (II) “REVENUE AUTHORITY OF (NAME OF THE INCORPORATING
+25 COUNTY OR MUNICIPAL CORPORATION)”;
+26 (III) “REDEVELOPMENT AUTHORITY OF (NAME OF THE
+27 INCORPORATING COUNTY OR MUNICIPAL CORPORATION)”; OR
+28 (IV) A SIMILARLY NAMED ENTITY;
+29 (2) that the authority is formed under this subtitle;
+6 SENATE BILL 409
+1 (3) the names, addresses, and terms of office of the initial members of the
+2 board of directors of the authority;
+3 (4) the address of the principal office of the authority;
+4 (5) the purposes for which the authority is formed; and
+5 (6) the powers of the authority subject to the limitations on the powers of
+6 an authority under this subtitle.
+7 (e) (1) The chief executive of the incorporating county or municipal
+8 corporation, or any other official designated in the resolution establishing the authority,
+9 shall execute and file the articles of incorporation of the authority for record with the State
+10 Department of Assessments and Taxation.
+11 (2) When the State Department of Assessments and Taxation accepts the
+12 articles of incorporation for record, the authority becomes a body politic and corporate and
+13 an instrumentality of the incorporating county or municipal corporation.
+14 (3) Acceptance of the articles of incorporation for record by the State
+15 Department of Assessments and Taxation is conclusive evidence of the formation of the
+16 authority.
+17 (f) (1) By resolution, the legislative body of the incorporating county or
+18 municipal corporation may adopt an amendment to the articles of incorporation of the
+19 authority.
+20 (2) Articles of amendment may contain any provision that lawfully could
+21 be contained in articles of incorporation at the time of the amendment.
+22 (3) The articles of amendment shall be filed for record with the State
+23 Department of Assessments and Taxation.
+24 (4) The articles of amendment are effective as of the time the State
+25 Department of Assessments and Taxation accepts the articles for record.
+26 (5) Acceptance of the articles of amendment for record by the State
+27 Department of Assessments and Taxation is conclusive evidence that the articles have been
+28 lawfully and properly adopted.
+29 (g) (1) Subject to the provisions of this section and any limitations imposed by
+30 law on the impairment of contracts, the incorporating county or municipal corporation, in
+31 its sole discretion, by resolution may:
+32 (i) set or change the NAME, structure, organization, procedures,
+33 programs, or activities of the authority; or
+SENATE BILL 409 7
+1 (ii) terminate the authority.
+2 (2) On termination of an authority:
+3 (i) title to all property of the authority shall be transferred to and
+4 vest in the incorporating county or municipal corporation; and
+5 (ii) all obligations of the authority shall be transferred to and
+6 assumed by the incorporating county or municipal corporation.
+7 (H) THE LEGISLATIVE BODY OF A COUNTY OR MUNICIPAL CORPORATION
+8 MAY ADOPT A RESOLUTION:
+9 (1) DESIGNATING A GEOGRAPHIC AREA WITHIN ITS JURISDICTION AS
+10 A PROJECT AREA;
+11 (2) ESTABLISHING A PROJECT AREA PLAN FOR A PROJECT AREA; AND
+12 (3) AUTHORIZING THE AUTHORITY TO IMPLEMENT THE PROJECT
+13 AREA PLAN.
+14 12–107.
+15 (a) The board of directors of an authority shall govern the authority.
+16 (b) Except as otherwise provided in this subtitle or the resolution establishing the
+17 authority, the procedures of the incorporating county or municipal corporation control any
+18 matter relating to the internal administration of the authority.
+19 (C) THE BOARD OF DIRECTORS OF AN AUTHORITY SHALL PROVIDE FOR THE
+20 MAINTENANCE OF THE AUTHORITY’S MINUTES, RESOLUTIONS, AND OTHER
+21 RECORDS SEPARATE FROM THOSE OF THE INCORPORATING COUNTY OR MUNICIPAL
+22 CORPORATION THAT CREATED THE AUTHORITY.
+23 12–108.
+24 Except as OTHERWISE PROVIDED IN THIS SUBTITLE OR AS necessary to pay debt
+25 service or implement the public purposes or programs of the incorporating county or
+26 municipal corporation, the net earnings of an authority may benefit only the incorporating
+27 county or municipal corporation and may not benefit any person.
+28 12–109.
+29 (a) (1) Except as limited by its articles of incorporation, an authority has all
+30 the powers set forth in this subtitle.
+8 SENATE BILL 409
+1 (2) (I) [An] SUBJECT TO SUBPARAGRAPHS (II) THROUGH (IV) OF
+2 THIS PARAGRAPH, AN authority may:
+3 [(i)] 1. receive money from [its incorporating county or municipal
+4 corporation, the State, other governmental units, or nonprofit organizations] ANY PUBLIC,
+5 PRIVATE, OR NONPROFIT SOURCE TO FUND THE AUTHORITY’S ACTIVITIES, POWERS,
+6 AND DUTIES IN ACCORDANCE WITH THIS SUBTITLE;
+7 [(ii)] 2. charge fees for its services;
+8 [(iii)] 3. have employees and consultants as it considers necessary;
+9 [and]
+10 [(iv)] 4. use the services of other governmental units;
+11 5. OWN, HOLD, AND IMPROVE REAL AND PERSONAL
+12 PROPERTY;
+13 6. PURCHASE, HOLD, MAINTAIN, UTILIZE, MANAGE,
+14 LEASE, OBTAIN OPTIONS ON, OR ACQUIRE BY GIFT, GRANT, BEQUEST, DEVISE, OR
+15 OTHERWISE ANY REAL OR PERSONAL PROPERTY WHICH MAY INCLUDE THE USE OF
+16 AUTHORITY FUNDS OR THE COLLECTION OF REVENUE;
+17 7. SELL, LEASE, EXCHANGE, TRANSFER, ASSIGN,
+18 PLEDGE, OR DISPOSE OF ANY REAL OR PERSONAL PROPERTY;
+19 8. ENTER INTO CONTRACTS AND OTHER INSTRUMENTS
+20 NECESSARY OR CONVENIENT TO EXERCISE THE AUTHORITY’S POWERS;
+21 9. PROVIDE FOR THE DEMOLITION, CONSTRUCTION,
+22 RECONSTRUCTION, REHABILITATION, IMPROVEMENT, ALTERATION, OR REPAIR OF
+23 REAL AND PERSONAL PROPERTY;
+24 10. INSURE OR PROVIDE FOR THE INSURANCE OF REAL
+25 AND PERSONAL PROPERTY OR OPERATIONS OF THE AUTHORITY AGAINST ANY RISKS
+26 OR HAZARDS;
+27 11. SUE AND BE SUED;
+28 12. IF DISPOSING OF OR LEASING LAND, RETAIN
+29 CONTROL OR ESTABLISH RESTRICTIONS AND COVENANTS RUNNING WITH THE LAND
+30 CONSISTENT WITH THE PROJECT AREA PLAN;
+SENATE BILL 409 9
+1 13. ENTER INTO A LEASE AGREEMENT ON REAL OR
+2 PERSONAL PROPERTY, EITHER AS LESSEE OR LESSOR;
+3 14. BORROW MONEY OR ACCEPT FINANCIAL OR OTHER
+4 ASSISTANCE FROM A PUBLIC ENTITY OR ANY OTHER SOURCE FOR ANY OF THE
+5 PURPOSES OF THIS SUBTITLE AND COMPLY WITH ANY CONDITIONS OF ANY LOAN OR
+6 ASSISTANCE;
+7 15. ISSUE BONDS TO FINANCE THE UNDERTAKING OF ANY
+8 PROJECT AREA DEVELOPMENT OR FOR ANY OF THE AUTHORITY’S OTHER PURPOSES,
+9 INCLUDING:
+10 A. REIMBURSING AN ADVANCE MADE BY THE AUTHORITY
+11 OR BY A PUBLIC ENTITY TO THE AUTHORITY;
+12 B. REFUNDING BONDS TO PAY OR RETIRE BONDS
+13 PREVIOUSLY ISSUED BY THE AUTHORITY; AND
+14 C. REFUNDING BONDS TO PAY OR RETIRE BONDS
+15 PREVIOUSLY ISSUED BY THE AUTHORITY OR THE COUNTY OR MUNICIPAL
+16 CORPORATION THAT DESIGNATED THE PROJECT AREA FOR EXPENSES ASSOCIATED
+17 WITH PROJECT AREA DEVELOPMENT;
+18 16. PAY AN IMPACT FEE, EXACTION, OR OTHER FEE IN
+19 CONNECTION WITH LAND DEVELOPMENT IMPOSED BY THE COUNTY OR MUNICIPAL
+20 CORPORATION THAT DESIGNATED THE PROJECT AREA;
+21 17. MAKE LOANS;
+22 18. USE AUTHORITY FUNDS FOR THE PURPOSES OF THIS
+23 SUBTITLE; AND
+24 19. TRANSACT OTHER BUSINESS AND EXERCISE ALL
+25 OTHER POWERS UNDER THIS SUBTITLE.
+26 (II) AN AUTHORITY MAY ACQUIRE REAL PROPERTY UNDER
+27 SUBPARAGRAPH (I) OF THIS PARAGRAPH THAT IS OUTSIDE A PROJECT AREA ONLY
+28 IF THE BOARD OF DIRECTORS OF THE AUTHORITY DETERMINES THAT THE
+29 PROPERTY WILL BENEFIT A PROJECT AREA.
+30 (III) AUTHORITY FUNDS SHALL BE ACCOUNTED FOR
+31 SEPARATELY FROM THE FUNDS OF THE COUNTY OR MUNICIPAL CORPORATION THAT
+32 CREATED THE AUTHORITY.
+10 SENATE BILL 409
+1 (IV) AN AUTHORITY MAY ACCUMULATE AUTHORITY FUNDS,
+2 RETAINED EARNINGS, OR FUND BALANCES IN ANY FUND.
+3 (b) For the purposes of this subtitle, each county and municipal corporation has
+4 all the powers granted in this subtitle to an authority, including the power to make loans
+5 to private enterprises competing with enterprises not receiving the loans.
+6 (c) (1) (i) An authority shall operate and exercise its powers solely to
+7 accomplish one or more of the legislative purposes of this subtitle.
+8 (ii) The incorporating county or municipal corporation may use the
+9 authority’s exercise of its powers to accomplish one or more of the legislative purposes.
+10 (2) An authority or an incorporating county or municipal corporation may
+11 exercise its powers regardless of any effect on economic competition.
+12 (3) The powers granted to a county or municipal corporation under
+13 paragraph (2) of this subsection do not:
+14 (i) grant to the county or municipal corporation powers in any
+15 substantive area not otherwise granted to the county or municipal corporation under other
+16 public general or public local law;
+17 (ii) restrict the county or municipal corporation from exercising any
+18 power granted to the county or municipal corporation under other public general or public
+19 local law or otherwise;
+20 (iii) authorize the county or municipal corporation, or the officers of
+21 the county or municipal corporation, to engage in an activity that is beyond the power
+22 granted under other public general or public local law or otherwise; or
+23 (iv) preempt or supersede the regulatory authority of a unit of State
+24 government under a public general law.
+25 (4) The incorporating county or municipal corporation is not precluded
+26 from directly exercising the powers granted to an authority under this subtitle after the
+27 establishment of the authority.
+28 12–110.
+29 (a) Notwithstanding any limitation of law, a public body may issue and sell bonds
+30 periodically to accomplish the legislative purposes of this subtitle.
+31 (b) (1) A public body may issue and sell bonds [to]:
+SENATE BILL 409 11
+1 (i) subject to paragraph (2) of this subsection, TO finance the costs
+2 of the acquisition or improvement of a facility for a facility user, including working capital;
+3 (ii) TO refund outstanding bonds;
+4 (iii) TO pay the costs of preparing, printing, selling, and issuing the
+5 bonds;
+6 (iv) TO fund reserves; [and]
+7 (v) TO pay the interest on the bonds in the amount and for the period
+8 the public body considers reasonable; AND
+9 (VI) FOR ANY OTHER PURPOSE IN THIS SUBTITLE.
+10 (2) (i) A public body may not issue bonds to acquire working capital
+11 unless the bonds are secured by a letter of credit or an interest in property.
+12 (ii) Working capital acquired by issuing bonds may not exceed 25%
+13 of the principal amount of the bonds.
+14 12–111.
+15 (a) For each issue of its bonds, the legislative body of a county or municipal
+16 corporation, the board of directors of an authority, or the Maryland Industrial Development
+17 Financing Authority, shall adopt a resolution that:
+18 (1) specifies and describes the facility OR OTHER PROPOSED
+19 UNDERTAKING TO BE FINANCED WITH THE PROCEEDS OF BONDS;
+20 (2) generally describes the public purpose to be served and the financing
+21 transaction;
+22 (3) specifies the maximum principal amount of the bonds that may be
+23 issued; and
+24 (4) imposes terms or conditions on the issuance and sale of bonds it
+25 considers appropriate.
+26 12–113.
+27 (a) (1) A bond and the interest on a bond are limited obligations of the public
+28 body.
+12 SENATE BILL 409
+1 (2) Except for bond anticipation notes and notes in the nature of
+2 commercial paper, the principal of, premium, and interest on a bond are payable solely
+3 from:
+4 (i) money from the financing of a facility;
+5 (II) AUTHORITY FUNDS OF THE AUTHORITY ISSUING THE
+6 BONDS; or
+7 [(ii)] (III) other money made available to the public body.
+8 (3) Bonds and the interest on them:
+9 (i) are not debts or charges against the general credit or taxing
+10 powers of a public body within the meaning of any constitutional or charter provision or
+11 statutory limitation; and
+12 (ii) may not give rise to any pecuniary liability of an issuing public
+13 body.
+14 (4) A bond may state on its face that the bond:
+15 (i) is issued under this subtitle; and
+16 (ii) is not a debt to which the public body’s faith and credit is pledged.
+17 12–201.
+18 (a) In this subtitle the following words have the meanings indicated.
+19 (D–1) “AUTHORITY” HAS THE MEANING STATED IN § 12–101 OF THIS TITLE.
+20 (D–2) “AUTHORITY FUNDS” HAS THE MEANING STATED IN § 12–101 OF THIS
+21 TITLE.
+22 (e) “Bond” means a revenue bond, note, or other similar instrument issued in
+23 accordance with this subtitle by:
+24 (1) a political subdivision;
+25 (2) AN AUTHORITY; or
+26 [(2)] (3) the revenue authority of Prince George’s County.
+SENATE BILL 409 13
+1 (f) “Chief executive” means the president, chair, mayor, or other chief executive
+2 officer of a political subdivision, AN AUTHORITY, or the revenue authority of Prince
+3 George’s County.
+4 (j) “Issuer” means AN AUTHORITY, a political subdivision, or the revenue
+5 authority of Prince George’s County that issues a bond under this subtitle.
+6 12–203.
+7 (a) Before [issuing] bonds ARE ISSUED, the governing body of the political
+8 subdivision shall:
+9 (1) by resolution:
+10 (i) designate a contiguous area within its jurisdiction as a
+11 development district;
+12 (ii) identify an area that has been designated a sustainable
+13 community; or
+14 (iii) identify an area that has been designated a RISE zone;
+15 (2) receive from the Supervisor of Assessments a certification of the
+16 amount of the original base, or if applicable, the adjusted assessable base; and
+17 (3) pledge that until the bonds are fully paid, or a longer period, the real
+18 property taxes in the development district, a RISE zone, or a sustainable community shall
+19 be divided as follows:
+20 (i) the portion of the taxes that would be produced at the current tax
+21 rate on the original taxable value base shall be paid to the respective taxing authorities in
+22 the same manner as taxes on other property are paid; and
+23 (ii) the portion of the taxes on the tax increment that normally would
+24 be paid into the general fund of the political subdivision shall be paid into the special fund
+25 established under § 12–208 of this subtitle and applied in accordance with § 12–209 of this
+26 subtitle.
+27 (b) (1) In this subsection, “brownfields site” has the meaning stated in § 5–301
+28 of this article.
+29 (2) Before [issuing] bonds ARE ISSUED and as part of the resolution
+30 required under subsection (a) of this section, the governing body of the political subdivision
+31 may determine the original base of a brownfields site in a sustainable community.
+32 (3) The determination of the original base of a brownfields site under this
+33 section:
+14 SENATE BILL 409
+1 (i) is not a determination of the value of the brownfields site; and
+2 (ii) may not be used to determine a property tax assessment or
+3 appeal of a property tax assessment under the Tax – Property Article.
+4 (c) The establishment or identification by a county of a development district, a
+5 RISE zone, or a sustainable community that is wholly or partly in a municipal corporation
+6 shall also require a resolution approving the development district, RISE zone, or
+7 sustainable community by the governing body of the municipal corporation.
+8 12–204.
+9 (a) Notwithstanding any limitation of law, an issuer may issue bonds from time
+10 to time to finance the development of an industrial, commercial, or residential area.
+11 (b) To issue bonds under this subtitle, the governing body of a political subdivision
+12 shall adopt an ordinance that:
+13 (1) describes the proposed undertaking; and
+14 (2) states:
+15 (i) that the governing body has complied with §§ 12–203 and
+16 12–208(c) and (d) of this subtitle;
+17 (ii) the maximum principal amount of the bonds; and
+18 (iii) the maximum rate of interest on the bonds.
+19 (c) The ordinance may specify the following for bonds issued to carry out the
+20 financing of the proposed undertaking:
+21 (1) the principal amount;
+22 (2) the rate of interest;
+23 (3) the manner and terms of sale;
+24 (4) the time of execution, issuance, and delivery;
+25 (5) the form and denomination;
+26 (6) the manner in which, and the times and places at which principal and
+27 interest shall be paid;
+28 (7) conditions for redemption before maturity; or
+SENATE BILL 409 15
+1 (8) other provisions consistent with this subtitle that the governing body of
+2 the political subdivision determines are necessary or desirable.
+3 (d) (1) The revenue authority of Prince George’s County may issue bonds in
+4 accordance with an ordinance adopted by the governing body of Prince George’s County.
+5 (2) AN AUTHORITY MAY ISSUE BONDS IN ACCORDANCE WITH AN
+6 ORDINANCE ADOPTED BY THE GOVERNING BODY THAT CREATED THE AUTHORITY
+7 UNDER SUBTITLE 1 OF THIS TITLE.
+8 (e) The ordinance may specify the items listed in subsection (c) of this section or
+9 may authorize:
+10 (1) the finance board to specify those items by resolution or ordinance; or
+11 (2) the chief executive to specify those items by executive order.
+12 (f) (1) Except as provided in paragraph (2) of this subsection, neither an
+13 ordinance authorizing the bonds nor an ordinance, resolution, or executive order issued,
+14 passed, or adopted under this section may be subject to referendum because of any other
+15 State or local law.
+16 (2) An ordinance that authorizes the pledge of the full faith and credit of a
+17 political subdivision to the payment of principal and interest on a bond is subject to any
+18 applicable right to referendum.
+19 12–207.
+20 (a) Except as provided in subsections (b) and (e) of this section, THE SPECIAL
+21 FUND ESTABLISHED UNDER § 12–208 OF THIS SUBTITLE OR bond proceeds may be used
+22 [only]:
+23 (1) to buy, lease, condemn, or otherwise acquire property, or an interest in
+24 property:
+25 (i) in the development district, a RISE zone, or a sustainable
+26 community; or
+27 (ii) needed for a right–of–way or other easement to or from the
+28 development district, a RISE zone, or a sustainable community;
+29 (2) for site removal;
+30 (3) for surveys and studies;
+16 SENATE BILL 409
+1 (4) to relocate businesses or residents;
+2 (5) to install utilities, construct parks and playgrounds, and for other
+3 needed improvements including:
+4 (i) roads to, from, or in the development district;
+5 (ii) parking AND ANCILLARY IMPROVEMENTS RELATED TO
+6 VEHICLES; and
+7 (iii) lighting;
+8 (6) to construct or rehabilitate buildings for a governmental purpose or use;
+9 (7) for reserves [or], capitalized interest, AND WORKING CAPITAL;
+10 (8) for necessary costs to issue bonds; [and]
+11 (9) to pay the principal of and interest on loans, advances, or indebtedness
+12 that a political subdivision incurs for a purpose specified in this section;
+13 (10) FOR THE PURPOSE OF ENCOURAGING DEVELOPMENT IN THE
+14 DEVELOPMENT DISTRICT, A RISE ZONE, OR A SUSTAINABLE COMMUNITY, TO
+15 INSTALL PUBLIC OR PRIVATE INFRASTRUCTURE IMPROVEMENTS, INCLUDING:
+16 (I) STREETS;
+17 (II) UTILITIES;
+18 (III) STREET LIGHTS;
+19 (IV) STORMWATER MANAGEMENT AND STORM DRAIN
+20 FACILITIES;
+21 (V) FENCING;
+22 (VI) NOISE WALLS;
+23 (VII) RETAINING WALLS;
+24 (VIII) TRAILS;
+25 (IX) SIDEWALKS;
+26 (X) PUBLIC RECREATIONAL FACILITIES;
+SENATE BILL 409 17
+1 (XI) LANDSCAPING, STREETSCAPING, AND PUBLIC ART; AND
+2 (XII) PEDESTRIAN AND VEHICULAR BRIDGES;
+3 (11) TO ISSUE LOANS FOR THE PURPOSE OF ENCOURAGING
+4 DEVELOPMENT IN THE DEVELOPMENT DISTRICT, RISE ZONE, OR SUSTAINABLE
+5 COMMUNITY;
+6 (12) FOR ADMINISTRATIVE OVERHEAD, LEGAL, OR OTHER OPERATING
+7 EXPENSES OF THE AUTHORITY, INCLUDING THE FEES AND EXPENSES OF
+8 CONSULTANTS;
+9 (13) TO FINANCE OR REFINANCE IN WHOLE OR IN PART:
+10 (I) DEVELOPMENT COSTS OF A DEVELOPMENT DISTRICT,
+11 INCLUDING ENVIRONMENTAL REMEDIATION;
+12 (II) IF THE EXPENDITURES ARE RELATED TO HOUSING IN A
+13 DEVELOPMENT DISTRICT:
+14 1. THE ACQUISITION OF THE LAND; AND
+15 2. THE COST OF INSTALLATION, CONSTRUCTION, OR
+16 REHABILITATION OF THE HOUSING–RELATED BUILDING, FACILITY, STRUCTURE, OR
+17 OTHER HOUSING IMPROVEMENT, INCLUDING INFRASTRUCTURE IMPROVEMENTS
+18 RELATED TO HOUSING; AND
+19 (III) IF THE EXPENDITURES ARE RELATED TO HOUSING NOT IN A
+20 DEVELOPMENT DISTRICT:
+21 1. REPLACING HOUSING UNITS LOST IN A DEVELOPMENT
+22 DISTRICT;
+23 2. INCREASING, IMPROVING, OR PRESERVING THE
+24 SUPPLY OF AFFORDABLE HOUSING WITHIN THE BOUNDARY OF THE DEVELOPMENT
+25 DISTRICT; OR
+26 3. RELOCATING MOBILE HOME PARK RESIDENTS
+27 DISPLACED BY DEVELOPMENT INSIDE OR OUTSIDE A DEVELOPMENT DISTRICT;
+18 SENATE BILL 409
+1 (14) FOR AFFORDABLE HOUSING OR HOMELESS ASSISTANCE, TO LEND,
+2 GRANT, OR CONTRIBUTE FUNDS TO A PERSON, PUBLIC OR PRIVATE ENTITY,
+3 HOUSING AUTHORITY, OR NONPROFIT ENTITY;
+4 (15) FOR AN INCENTIVE OR OTHER CONSIDERATION PAID WITH
+5 RESPECT TO THE DEVELOPMENT DISTRICT;
+6 (16) FOR THE ACQUISITION OF LAND AND THE COST OF THE
+7 INSTALLATION AND CONSTRUCTION OF ANY PUBLICLY OWNED BUILDING, FACILITY,
+8 STRUCTURE, OR OTHER IMPROVEMENT WITHIN THE DEVELOPMENT DISTRICT;
+9 (17) BY AN AUTHORITY FOR THE PURPOSES OF THIS SUBSECTION AND
+10 SUBTITLE 1 OF THIS TITLE;
+11 (18) IF THE BOARD OF DIRECTORS ESTABLISHED UNDER § 12–106 OF
+12 THIS TITLE AND THE POLITICAL SUBDIVISION THAT DESIGNATED THE
+13 DEVELOPMENT DISTRICT ADOPT A RESOLUTION THAT THE PUBLICLY OWNED
+14 INFRASTRUCTURE AND IMPROVEMENTS BENEFIT THE DEVELOPMENT DISTRICT,
+15 FOR THE INFRASTRUCTURE AND IMPROVEMENTS OUTSIDE THE DEVELOPMENT
+16 DISTRICT;
+17 (19) IF THE BOARD OF DIRECTORS ESTABLISHED UNDER § 12–106 OF
+18 THIS TITLE AND THE POLITICAL SUBDIVISION THAT DESIGNATED THE
+19 DEVELOPMENT DISTRICT APPROVE AND PROJECTED AUTHORITY FUNDS ARE
+20 SUFFICIENT TO REPAY THE LOAN, TO MAKE LOANS FROM ONE DEVELOPMENT
+21 DISTRICT TO ANOTHER;
+22 (20) AS A GRANT TO THE POLITICAL SUBDIVISION TO OFFSET THE
+23 TAXES PAID TO THE SPECIAL FUND ESTABLISHED UNDER § 12–208 OF THIS
+24 SUBTITLE THAT WERE PAID TO THE AUTHORITY FOR THE PURPOSES UNDER THIS
+25 SUBTITLE;
+26 (21) (I) FOR CONVENTION, CONFERENCE, OR VISITOR CENTERS;
+27 AND
+28 (II) TO MAINTAIN INFRASTRUCTURE IMPROVEMENTS AND
+29 CONVENTION, CONFERENCE, OR VISITOR CENTERS; AND
+30 (22) FOR ANY OTHER PURPOSE AUTHORIZED UNDER THIS SUBTITLE.
+31 12–211.
+SENATE BILL 409 19
+1 (a) The principal amount of bonds, interest payable on bonds, the transfer of
+2 bonds, and income from bonds, including profit made in the sale or transfer of bonds, are
+3 exempt from State and local taxes.
+4 (b) If a political subdivision OR AN AUTHORITY leases as a lessor its property
+5 within a development district, a RISE zone, or a sustainable community:
+6 (1) the property shall be assessed and taxed in the same manner as
+7 privately owned property; and
+8 (2) the lease shall require the lessee to pay taxes or payments in lieu of
+9 taxes on the assessed value of the entire property and not only on the assessed value of the
+10 leasehold interest.
+11 12–212.
+12 This subtitle does not authorize AN AUTHORITY, a county, or a municipal
+13 corporation to acquire property by eminent domain.
+14 The Charter of Baltimore City
+15 Article II – General Powers
+16 The Mayor and City Council of Baltimore shall have full power and authority to
+17 exercise all of the powers heretofore or hereafter granted to it by the Constitution of
+18 Maryland or by any Public General or Public Local Laws of the State of Maryland; and in
+19 particular, without limitation upon the foregoing, shall have power by ordinance, or such
+20 other method as may be provided for in its Charter, subject to the provisions of said
+21 Constitution and Public General Laws:
+22 (62)
+23 (a) (1) To borrow money by issuing and selling bonds, at any time and from
+24 time to time, for the purpose of financing and refinancing the development of an industrial,
+25 commercial, or residential area in Baltimore City. Such bonds shall be payable from and
+26 secured by a pledge of the special fund described in subsection (d)(3)(ii) of this section and
+27 the Mayor and City Council of Baltimore may also establish sinking funds, establish debt
+28 service reserve funds, or pledge other assets and revenues towards the payments of the
+29 principal and interest OR OTHER PURPOSES AS PROVIDED UNDER THIS SECTION,
+30 including revenues received by the Mayor and City Council of Baltimore pursuant to a
+31 development agreement.
+32 (2) (i) In lieu of the pledges set forth in paragraph (1) of this subsection,
+33 the authorizing ordinance or trust agreement, subject to subparagraphs (ii) and (iii) of this
+34 paragraph, may pledge or assign:
+20 SENATE BILL 409
+1 1. all or any part of that portion of the revenues and receipts
+2 from the taxes representing the levy of the tax increment that would normally be paid to
+3 the Mayor and City Council of Baltimore to the payment of such principal and interest;
+4 2. the special fund described in subsection (d)(3)(ii) of this
+5 section and any other fund into which all or any part of such revenues and receipts are
+6 deposited after such revenues and receipts are appropriated by the Mayor and City Council
+7 of Baltimore to the payment of such principal and interest;
+8 3. amounts provided to the Mayor and City Council of
+9 Baltimore by the State under § 2–222 of the Tax – Property Article of the Annotated Code
+10 of Maryland; and
+11 4. any other assets and revenues of the Mayor and City
+12 Council of Baltimore.
+13 (ii) The revenues and receipts may not be irrevocably pledged to the
+14 payment of such principal and interest and the obligation to pay such principal and interest
+15 from such revenues and receipts shall be subject to annual appropriation by the Mayor and
+16 City Council of Baltimore.
+17 (iii) The Mayor and City Council of Baltimore may not pledge its full
+18 faith and credit or unlimited taxing power to the payment of such bonds.
+19 (b) (1) In this section the following words have the meanings indicated, unless
+20 the context clearly indicates another or different meaning or intent:
+21 (7) “AUTHORITY” HAS THE MEANING PROVIDED IN § 12–101 OF THE
+22 ECONOMIC DEVELOPMENT ARTICLE OF THE ANNOTATED CODE OF MARYLAND.
+23 [(7)] (8) “Bonds” or “bond” means any bonds or bond, notes or note, or
+24 other similar instruments or instrument issued by the Mayor and City Council of Baltimore
+25 OR AN AUTHORITY pursuant to and in accordance with this section.
+26 [(8)] (9) “Development” includes new development, redevelopment,
+27 revitalization, and renovation.
+28 [(9)] (10) “Development agreement” means an agreement between the
+29 Mayor and City Council of Baltimore OR AN AUTHORITY and any person involved in or
+30 responsible for development of property within a development district pursuant to which
+31 such person shall agree to pay in each year in which any bonds are outstanding an amount
+32 equal to all or a portion of the debt service on bonds issued pursuant to this section to
+33 finance or refinance development in such development district.
+34 [(10)] (11) “Development district” means an area or areas within the City of
+35 Baltimore designated by an ordinance of the Mayor and City Council of Baltimore.
+SENATE BILL 409 21
+1 [(11)] (12) “Distressed property” has the meaning stated in § 21–17(a) of the
+2 Public Local Laws of Baltimore City.
+3 [(12)] (13) “Original assessable base” means the assessable base as of
+4 January 1 of that year preceding the effective date of the ordinance creating the
+5 development district under subsection (d) of this section.
+6 [(13)] (14) “Original full cash value” means the dollar amount which is
+7 determined by dividing the original assessable base by the assessment ratio used to
+8 determine the original assessable base.
+9 [(14)] (15) “Original taxable value” means for any tax year the dollar
+10 amount that is the lesser of:
+11 (i) the product of the original full cash value times the assessment
+12 ratio applicable to that tax year;
+13 (ii) the original assessable base; or
+14 (iii) if an adjusted assessable base applies, then the “original taxable
+15 value” is the adjusted assessable base.
+16 [(15)] (16) “Supervisor of Assessments” means the Supervisor of
+17 Assessments for Baltimore City.
+18 [(16)] (17) “Tax increment” means for any tax year the amount by which the
+19 assessable base as of January 1 preceding that tax year exceeds the original taxable value,
+20 divided by the assessment ratio used to determine the original taxable value.
+21 [(17)] (18) “Tax year” means the period from July 1 of a calendar year
+22 through June 30 of the next calendar year.
+23 [(18)] (19) “State obligations” means any bonds or bond, notes or note, or
+24 other similar instruments or instrument issued by the Maryland Economic Development
+25 Corporation, the State of Maryland, or any agency, department, or political subdivision
+26 thereof, the proceeds of which have been used for any of the purposes specified in subsection
+27 (c) of this section.
+28 (B–1) AN AUTHORITY MAY ISSUE BONDS IN ACCORDANCE WITH AN
+29 ORDINANCE ADOPTED BY THE MAYOR AND CITY COUNCIL OF BALTIMORE UNDER
+30 THIS SECTION.
+31 (c) All proceeds received from any bonds issued and sold pursuant to this section
+32 [shall], REVENUE FROM PROPERTY TAXES LEVIED ON A TAX INCREMENT, AND
+22 SENATE BILL 409
+1 PROPERTY TAXES ALLOCATED TO THE SPECIAL FUND UNDER SUBSECTION (D)(3)(II)
+2 OF THIS SECTION MAY be applied [solely] for:
+3 (1) the cost of purchasing, leasing, condemning, or otherwise acquiring
+4 land or other property, or an interest in them, in the designated development district area
+5 or as necessary for a right–of–way or other easement to or from the development district
+6 area;
+7 (2) site removal;
+8 (3) surveys and studies;
+9 (4) relocation of businesses or residents;
+10 (5) installation of utilities, construction of parks and playgrounds, and
+11 other necessary improvements including streets and roads to, from, or within the
+12 development district, lighting, and other facilities;
+13 (6) construction or rehabilitation of buildings provided that such buildings:
+14 (i) are to be devoted to a governmental use or purpose;
+15 (ii) are abandoned property;
+16 (iii) are distressed property; or
+17 (iv) will provide units of affordable housing;
+18 (7) reserves, WORKING CAPITAL, and capitalized interest on the bonds;
+19 (8) necessary costs of issuing bonds;
+20 (9) structured and surface parking facilities AND ANCILLARY
+21 IMPROVEMENTS RELATED TO VEHICLES that are:
+22 (i) publicly owned; or
+23 (ii) privately owned but serve a public purpose; [and]
+24 (10) payment of the principal and interest on loans, money advanced, or
+25 indebtedness incurred by the Mayor and City Council of Baltimore for any of the purposes
+26 set out in this section;
+27 (11) THE PURPOSE OF ENCOURAGING DEVELOPMENT IN THE
+28 DEVELOPMENT DISTRICT, A RISE ZONE, OR A SUSTAINABLE COMMUNITY, TO
+29 INSTALL PUBLIC OR PRIVATE INFRASTRUCTURE IMPROVEMENTS, INCLUDING:
+SENATE BILL 409 23
+1 (I) STREETS;
+2 (II) UTILITIES;
+3 (III) STREET LIGHTS;
+4 (IV) STORMWATER MANAGEMENT AND STORM DRAIN
+5 FACILITIES;
+6 (V) FENCING;
+7 (VI) NOISE WALLS;
+8 (VII) RETAINING WALLS;
+9 (VIII) TRAILS;
+10 (IX) SIDEWALKS;
+11 (X) PUBLIC RECREATIONAL FACILITIES;
+12 (XI) LANDSCAPING, STREETSCAPING, AND PUBLIC ART; AND
+13 (XII) PEDESTRIAN AND VEHICULAR BRIDGES;
+14 (12) ISSUING LOANS FOR THE PURPOSE OF ENCOURAGING
+15 DEVELOPMENT IN THE DEVELOPMENT DISTRICT, RISE ZONE, OR SUSTAINABLE
+16 COMMUNITY;
+17 (13) ADMINISTRATIVE OVERHEAD, LEGAL, OR OTHER OPERATING
+18 EXPENSES OF AN AUTHORITY, INCLUDING THE FEES AND EXPENSES OF
+19 CONSULTANTS;
+20 (14) FINANCING OR REFINANCING ALL OR PART OF:
+21 (I) DEVELOPMENT COSTS OF A DEVELOPMENT DISTRICT,
+22 INCLUDING ENVIRONMENTAL REMEDIATION;
+23 (II) IF THE EXPENDITURES ARE RELATED TO HOUSING IN A
+24 DEVELOPMENT DISTRICT:
+25 1. THE ACQUISITION OF THE LAND; AND
+24 SENATE BILL 409
+1 2. THE COST OF INSTALLATION, CONSTRUCTION, OR
+2 REHABILITATION OF THE HOUSING–RELATED BUILDING, FACILITY, STRUCTURE, OR
+3 OTHER HOUSING IMPROVEMENT, INCLUDING INFRASTRUCTURE IMPROVEMENTS
+4 RELATED TO HOUSING; AND
+5 (III) IF THE EXPENDITURES ARE RELATED TO HOUSING NOT IN A
+6 DEVELOPMENT DISTRICT:
+7 1. REPLACING HOUSING UNITS LOST IN A DEVELOPMENT
+8 DISTRICT;
+9 2. INCREASING, IMPROVING, OR PRESERVING THE
+10 SUPPLY OF AFFORDABLE HOUSING WITHIN THE BOUNDARY OF THE DEVELOPMENT
+11 DISTRICT; OR
+12 3. RELOCATING MOBILE HOME PARK RESIDENTS
+13 DISPLACED BY DEVELOPMENT INSIDE OR OUTSIDE A DEVELOPMENT DISTRICT;
+14 (15) AFFORDABLE HOUSING OR HOMELESS ASSISTANCE, TO LEND,
+15 GRANT, OR CONTRIBUTE FUNDS TO A PERSON, PUBLIC OR PRIVATE ENTITY,
+16 HOUSING AUTHORITY, OR NONPROFIT ENTITY;
+17 (16) AN INCENTIVE OR OTHER CONSIDERATION PAID WITH RESPECT
+18 TO A DEVELOPMENT DISTRICT;
+19 (17) THE ACQUISITION OF LAND AND THE COST OF THE INSTALLATION
+20 AND CONSTRUCTION OF ANY PUBLICLY OWNED BUILDING, FACILITY, STRUCTURE,
+21 OR OTHER IMPROVEMENT WITHIN THE DEVELOPMENT DISTRICT;
+22 (18) IF THE BOARD OF DIRECTORS ESTABLISHED UNDER § 12–106 OF
+23 THE ECONOMIC DEVELOPMENT ARTICLE OF THE ANNOTATED CODE OF MARYLAND
+24 AND THE MAYOR AND CITY COUNCIL OF BALTIMORE ADOPT A RESOLUTION THAT
+25 THE PUBLICLY OWNED INFRASTRUCTURE AND IMPROVEMENTS BENEFIT THE
+26 DEVELOPMENT DISTRICT, THE INFRASTRUCTURE AND IMPROVEMENTS OUTSIDE
+27 THE DEVELOPMENT DISTRICT;
+28 (19) IF THE BOARD OF DIRECTORS ESTABLISHED UNDER § 12–106 OF
+29 THE ECONOMIC DEVELOPMENT ARTICLE OF THE ANNOTATED CODE OF MARYLAND
+30 AND THE MAYOR AND CITY COUNCIL OF BALTIMORE APPROVE AND PROJECTED
+31 AUTHORITY FUNDS ARE SUFFICIENT TO REPAY THE LOAN, MAKING LOANS FROM
+32 ONE DEVELOPMENT DISTRICT TO ANOTHER;
+SENATE BILL 409 25
+1 (20) A GRANT TO THE MAYOR AND CITY COUNCIL OF BALTIMORE TO
+2 OFFSET THE REVENUES FROM PROPERTY TAXES LEVIED ON A TAX INCREMENT THAT
+3 WAS PAID TO THE AUTHORITY FOR THE PURPOSES UNDER THIS SECTION;
+4 (21) (I) CONVENTION, CONFERENCE, OR VISITOR CENTERS; AND
+5 (II) MAINTAINING INFRASTRUCTURE IMPROVEMENTS AND
+6 CONVENTION, CONFERENCE, OR VISITOR CENTERS; AND
+7 (22) ANY OTHER PURPOSE AUTHORIZED UNDER THIS SECTION OR
+8 TITLE 12, SUBTITLE 2 OF THE ECONOMIC DEVELOPMENT ARTICLE OF THE
+9 ANNOTATED CODE OF MARYLAND.
+10 (d) Before [issuing] any bonds ARE ISSUED under this section, the Mayor and
+11 City Council of Baltimore shall:
+12 (1) designate by ordinance an area or areas within the City of Baltimore as
+13 a “development district”;
+14 (2) receive from the Supervisor of Assessments a certification as to the
+15 amount of the original assessable base, or if applicable, the adjusted assessable base; and
+16 (3) provide that until the bonds have been fully paid or thereafter, the
+17 property taxes on real property within the development district shall be divided as follows:
+18 (i) that portion of the taxes which would be produced by the rate at
+19 which taxes levied each year by the Mayor and City Council of Baltimore upon the original
+20 taxable value shall be allocated to and when collected paid into the funds of the Mayor and
+21 City Council of Baltimore in the same manner as taxes by the Mayor and City Council of
+22 Baltimore on all other property are paid; and
+23 (ii) that portion of the taxes representing the levy on the tax
+24 increment that would normally be paid to the Mayor and City Council of Baltimore shall
+25 be paid into a special fund to be applied in accordance with the provisions of subsection (e)
+26 of this section. This yield shall not be considered as municipal taxes for the purposes of any
+27 constant yield tax limitation or State or local restriction. No State real property taxes may
+28 be paid into the special fund.
+29 (e) (1) The Mayor and City Council of Baltimore may enact an ordinance
+30 creating a special fund described in subsection (d)(3)(ii) of this section with respect to a
+31 development district, even though no bonds authorized by this section have been issued by
+32 the Mayor and City Council of Baltimore OR AN AUTHORITY with respect to that
+33 development district or are then outstanding. The taxes allocated to such special fund by
+34 subsection (d)(3)(ii) of this section shall thereafter be paid over to such special fund, as long
+35 as such ordinance remains in effect.
+26 SENATE BILL 409
+1 (2) When no bonds authorized by this section are outstanding with respect
+2 to a development district and the Mayor and City Council of Baltimore by ordinance so
+3 determines, moneys in the special fund for that development district created pursuant to
+4 subsection (d)(3)(ii) of this section may be:
+5 (i) used for any of the purposes described in subsection (c) of this
+6 section;
+7 (ii) accumulated for payment of debt service on bonds subsequently
+8 issued under this section;
+9 (iii) used to pay or to reimburse the Mayor and City Council of
+10 Baltimore for debt service which the Mayor and City Council of Baltimore is obligated to
+11 pay or has paid (whether such obligation is general or limited) on any bonds or State
+12 obligations; or
+13 (iv) paid to the Mayor and City Council of Baltimore to provide funds
+14 to be used for any legal purpose as may be determined by the Mayor and City Council of
+15 Baltimore OR AUTHORITY.
+16 (3) When any bonds authorized by this section are outstanding with
+17 respect to a development district and the Mayor and City Council of Baltimore so
+18 determines, moneys in the special fund for that development district created pursuant to
+19 subsection (d)(3)(ii) of this section may be used as provided in paragraph (2) of this
+20 subsection in any fiscal year by the Mayor and City Council of Baltimore, but only to the
+21 extent that:
+22 (i) the amount in such special fund exceeds the unpaid debt service
+23 payable on such bonds in such fiscal year and is not restricted so as to prohibit the use of
+24 such moneys; and
+25 (ii) such use is not prohibited by the ordinance of the Mayor and City
+26 Council of Baltimore or resolution of the Board of Finance authorizing the issuance of such
+27 bonds.
+28 (f) (1) Before [issuing] any bonds ARE ISSUED under this section the Mayor
+29 and City Council of Baltimore shall enact an ordinance which:
+30 (i) specifies and describes the proposed undertaking and states that
+31 it has complied with subsection (d) of this section; and
+32 (ii) specifies the maximum principal amount of bonds to be issued,
+33 from time to time or at any time, pursuant to such ordinance.
+34 (h) (2) All bonds shall be signed manually or in facsimile by the Mayor of the
+35 City of Baltimore OR THE AUTHORITY, and the seal of the Mayor and City Council of
+36 Baltimore shall be impressed thereon manually or by facsimile and attested by the
+SENATE BILL 409 27
+1 custodian of the City seal, manually or by facsimile. If any officer whose signature or
+2 countersignature appears on the bonds ceases to be such officer before delivery of the bonds,
+3 his signature or countersignature shall nevertheless be valid and sufficient for all purposes
+4 the same as if he had remained in office until delivery thereof.
+5 (j) Whenever the Mayor and City Council of Baltimore OR THE AUTHORITY, as
+6 lessor, leases its property within the development district, the property shall be assessed
+7 and taxed in the same manner as privately owned property, and the lease or contract shall
+8 provide that the lessee shall pay taxes or payments in lieu of taxes upon the assessed value
+9 of the entire property and not merely the assessed value of the leasehold interest.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 October 1, 2025.
+[DELETED: :CA      5   C A E D F t p o e t a n a f a e d t t c g B  A S 1  A  ( B  A S  A  ( B  A S  A  ( B  T]
+[DELETED:  S   A  S  (  ( B  T  A  S  ( B  T  A S  ( B  T  A  S  ( B  T  A  S  (  ( B  T  A  S  (  (  S T A 1  ( I]
+[DELETED: S 3  ( “ m a i d aRY R AY O O S N  () “A”:US  ( T1 I 2;   ( ,,,,S PS ES PS FS A A M P T O R B T A F TP UE SE LE O O D O P O T,,S  ( .  () ( “ m a r b n o o i]( c s td.   ( “    ( a    ( a  () “]( o ) “D”,ET I N DT RTN .  () “]( c e o o p o a c o t t a o i o i p  () “]( o w s]
+[DELETED:  S   () ( “]( o f   ( “  () “](  () ( “]( m c   ( “ n m  () “ m t a a c e e e]( i  () “ m a a c e]( e e i i r r r ) “PR AA M A G A D B T B O A C O M C W I  H 1().() “PRN   H 1( T A A L O O T P U ().   () “](   ( a   ( a   ( a   ( t  () ( “ p m t p p a h o t]( C   ( “]
+[DELETED: S 5    ( t B H ( P R a i t n    ( t P o C ( s s o t C R b    ( t I 1  ( T t s t l b o a c o m c m a a r it   ( A or ) ],(    ( i   ( i   ( i e  ( S m c  ( A r a u s ( o t s s i p   ( t  () “ c   ) “RAIE U N  () “RAIE U O N O TN ;  () ;VA   ( t]
+[DELETED:  S    ( t b   ( t   ( t   ( t a  ( ( T c e o t i c o m c s D   ( W a a   ( A o t a o i f r b t S D a  ( ( B r t l b o t i c o m c m a a t t a o i o t a   ( A b   ( T a o a s b f f r w t S D   ( T a o a a e a o t t t S D   ( A o t a o a f r b t S D l  ( ( S l i    ( s o c t s o pE p]
+[DELETED: S 7    ( t   ( O    ( t v    ( a o o t a s b t t a a() H O C ( ( ;A  ( T A T I T P 1  ( T  ( E a m ) H O T AYS MS RS A O, 1  Es  s o i t p p o p o t i c o m c 1  ( ( E t]
+[DELETED:  S    ( An) []S()(U II  IV H  a    ()r i] 1  cCE YSS S’, ;    ()c] 2    () h] 3] a    () u] 4.;     ,N HD A I R A P   6 ,,,,E HD MN UE MEE N T T T E ,,,,   7 ,,,,L LE EE TR ANE ;   8YS;   9 , F T DN CNN N T N ,,Y   1   1 ;D   1  D O O L LD R]
+[DELETED: S 9   1 I A L A O R OY ;   1 M O A F O O F A P E O A O S F A O T   1YSS   A   B B T P O R BY    C B T P O R B I B T A O T C O M   1 , A I FE EN O O F IA   1 ;   1E    1 O B A E A   () IN A M A R P U I  T B O D O T A D T T  () IU F S B A F]
+[DELETED:  S   () AVN A M A A FSS .  ( F a t  ( ( ( A a s o a e i p s t a    ( T a   ( A e   ( T p g t a c o m c u p    ( g t t c o m c p i a s p    ( r p l    ( a t g    ( p g   ( T i c o m c i n p f e 1  ( N p  ( ( A to:]
+[DELETED: S 1    ( s f o    ( r    ( p b    ( f a]    ( p t  ()IF .   ( ( A u    ( W o 1  ( F e i o i b t l b o a c o m c F   ( s a d t fO O P ;   ( g t   ( s t m p a o t b t m b i   ( i t o c o t i a s o b i c 1  ( ( A b]
+[DELETED:  S    ( E f b a n a n i t n o c f    ( m   )IA F O T A I TS o    () o](I   ( B    ( a n d o c a t g c o t p s    ( m b   ( A    ( i    ( i 1  ( I  –)“A”§11.UY    (–A”§1US     ( “ a   ( a   o Y   () t](]
+[DELETED: S 1  ( “ o o a p sn o t r a o PA A G  ( “ m a p sn o t r AY a 1  ( B ig bs, t g b o t pA I s   ( b    ( d a c a w i j a a d    ( i a a t h b d a s c    ( i   ( r f t S o A a c o t a   ( p p b    ( t r t    ( t b e s  ( ( I o   ( B ig b a a p o t r I r m   ( T s]
+[DELETED:  S     ( i    ( m n b u t d a p t a o a  ( T R s a r a r a t d d R z o s 1  ( N t  ( T s   ( d   ( s    ( t t g b h c w § 1 a 1    ( t    ( t  ( T f   ( t   ( t   ( t   ( t   ( t   ( t i   ( c]
+[DELETED: S 1   ( o t  ( T a    A M I B I A W A U  1.  ( T m   ( t   ( t  ( ( E a p i p ( o t s n a o p S   ( A p a 1  ( E   1 b oy:   ( t p    ( i t d d a R z o a s c    ( n f a r o o e t o f t d   ( f   ( f]
+[DELETED:  S    ( t   ( t i u c p a p a f o n    ( r    ( p A I R T ;    ( l   ( t   ( f or t ;],   ( f a]   ( t tn   T P O E D I T DT A  ZE O A S CY TRE,S :  () ;S  () ;IU  () ;IS  ()VS M A S D  () ;F  () ;IN  () ;IR  () ;IT  () ;XS  () ;P]
+[DELETED: S 1  () ,,;ILG G T   () ;IP ( I L F T P O E I T D DT  ZE O SRE ( ,D L  O T AY I T F A E O ( :  () D C O A D DT  ()II T E A R T H I A   1 ;D    2 , C O IN CN OGRG Y E ,, H IT I I IG   ()II   1T   2 ,G IG O P TT    3 M H P R]
+[DELETED:  S  ( ,E DT O C F T A PN P O P EY,Y Y; ( A I O O C P W ( T A O L A T C O TG YE ; (1;   ( §1    T A T P S T D T D A A R T T P O A I B T D DT T I A I O T D ( §1    T A T P S T D T D A A P A F A T R T LN T M L F O DR ( A G T T P S T O T P T T S F E U   O T1E ( () ,,F CN CE O V CS  ()IT M I I AN E S ,; ( . 1]
+[DELETED: S 1  ( T p a o b i p o b t t o b e  ( In  w   ( t p s b a a t i t s m a p   ( t t l 1  T s d n a a cy o a m AY c T A  T e a o t p h o h g t i b t C o M p o m a m b p f i i C s t t p o s C (  ( ( T t c s t s p a it,O O P A P U T S i d   ( ( I t p]
+[DELETED:  S      1 a f t     2 t s d o     3 a p t t M a C C o B o     4 a o a a r o t M a C C    ( T p f C    ( T f  ( ( I t   )“A”§1Y    DAACM. E R N O A []( ()“ o     ()“ i n d r]( r   ()“ a m a a b t]( M   r s e f   ()“]( B]
+[DELETED: S 2   ()“]( P   ()“ a b m t a b a o]( J 1 o t y p t e d o t o c t d   ()“ f c v m t d a w i]( d b d t o a b b t a r u t d   ()“ t v m f a t y t d]( a    ( t r    ( t    ( i v   ()“ o A m t S o]( A   ()“]( a d   ()“ y m t p f J 1 o a c y]( t   ()“]( o C t ( –N A M I B I A W A A I O ACC  ( A], sR F P T L O A T IT A]
+[DELETED:  S  DII)(   sy    ( t c o p l c o o a l o a   ( s   ( s   ( r   ( i o u c o p a p a o n i i s a r t f o w t d   ( c    ( a    ( a    ( a    ( w   ( rs    ( n   ( s a s p fA A      ( p    ( p ad    ( p a i s ( P O E D I T DT A  ZE O A S CY TRE,S :]
+[DELETED: S 2  () ;S  () ;IU  () ;IS  ()VS M A S D  () ;F  () ;IN  () ;IR  () ;IT  () ;XS  () ;P  () ,,;ILG G T   () ;IPS ( L F T P O E I T D DT  ZE O SRE ( , OD LL O O O O A AY I T F A E O ( :  () D C O A D DT  ()II T E A R T H I A   1 ;D ]
+[DELETED:  S    2 , C O IN CN OGRG Y E ,, H IT I I IG   ()II   1T   2 ,G IG O P TT    3 M H P R ( , H O H AE T LDT O C F T A PN P O P EY,Y Y; ( (G Y E, ( §1    C E R N O ADAAC A I O ACC P O I A I B T DT T I A I O ( §1    C E R N O ADAAC A I O ACC SN R]
+[DELETED: S 2 ( MCC A I O AN ( () ,,;CN E S   ()IM I I AN E S ,; ( O P A U T S O1,S2ED  U  O T C E R O TC O A .  ( B ig  u C   ( d a   ( r f t S o A a c a t t a   ( p t u t b h b f p o t t p    ( t w t C B    ( t p o t t r t l o t t i b o c b  ( ( T M a C C o B m e a o c d t M a C C o B  w r t t A A d s a]
+[DELETED:  S    ( W t d s    ( u s    ( a i    ( u t p o t r t M a C C o B p o h p ( s o i g o l o a b o S o    ( p t B .   ( W a b a b t s a o w r t a d d a t M a C C o B s d s ( o t s m b u a p i p ( o t s e    ( t p s    ( s C b  ( ( B ig  u a    ( s i    ( s f  ( ( A C , B s b i t m o b f a a b t]
+[DELETED: S 2 c o t C s m o b f I a o w s o c h t  ( W , l a p o  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 409
+C8, L6 5lr2323
+CF HB 97
+By: Senator King
+Introduced and read first time: January 20, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Economic Development – County or Municipal Corporation Economic
+3 Development Authority – Powers and Use of Proceeds
+4 FOR the purpose of expanding the acceptable names authorized for an economic
+5 development authority established by a county or municipal corporation; expanding
+6 the powers of an authority, subject to limitations in the articles of incorporation of
+7 the authority; authorizing an authority to issue certain bonds in accordance with
+8 certain requirements; expanding the authorized uses of tax increment proceeds; and
+9 generally relating to county and municipal economic development.
+10 BY repealing and reenacting, with amendments,
+11 Article – Economic Development
+12 Section 12–101, 12–105, 12–107 through 12–109, 12–110(b), 12–111(a), 12–113(a),
+13 12–201(e), (f), and (j), 12–203, 12–204, 12–207(a), 12–211, and 12–212
+14 Annotated Code of Maryland
+15 (2024 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Economic Development
+18 Section 12–110(a) and 12–201(a)
+19 Annotated Code of Maryland
+20 (2024 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Economic Development
+23 Section 12–201(d–1) and (d–2)
+24 Annotated Code of Maryland
+25 (2024 Replacement Volume and 2024 Supplement)
+26 BY repealing and reenacting, with amendments,
+27 The Charter of Baltimore City
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0409*
+
+2 SENATE BILL 409
+1 Article II – General Powers
+2 Section (62)(a)
+3 (2007 Replacement Volume, as amended)
+4 (As enacted by Chapter 338 of the Arts of the General Assembly of 2008)
+5 BY repealing and reenacting, without amendments,
+6 The Charter of Baltimore City
+7 Article II – General Powers
+8 Section (62)(b)(1) and (e)(2)(i) and (ii) and (3)
+9 (2007 Replacement Volume, as amended)
+10 BY repealing and reenacting, with amendments,
+11 The Charter of Baltimore City
+12 Article II – General Powers
+13 Section (62)(b)(7) through (17), (c), (d), (e)(1) and (2)(iv), (f)(1), (h)(2), and (j)
+14 (2007 Replacement Volume, as amended)
+15 BY adding to
+16 The Charter of Baltimore City
+17 Article II – General Powers
+18 Section (62)(b)(7) and (b–1)
+19 (2007 Replacement Volume, as amended)
+20 BY repealing and reenacting, with amendments,
+21 The Charter of Baltimore City
+22 Article II – General Powers
+23 Section (62)(b)(18)
+24 (2007 Replacement Volume, as amended)
+25 (As enacted by Chapter 544 of the Acts of the General Assembly of 2008)
+26 BY repealing and reenacting, without amendments,
+27 The Charter of Baltimore City
+28 Article II – General Powers
+29 Section (62)(e)(2)(iii)
+30 (2007 Replacement Volume, as amended)
+31 (As enacted by Chapter 544 of the Acts of the General Assembly of 2008)
+32 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+33 That the Laws of Maryland read as follows:
+34 Article – Economic Development
+35 12–101.
+36 (a) In this subtitle the following words have the meanings indicated.
+
+SENATE BILL 409 3
+1 (b) “Authority” means an industrial development authority, REVENUE
+2 AUTHORITY, REDEVELOPMENT AUTHORITY, OR OTHER SIMILARLY NAMED
+3 AUTHORITY established in accordance with § 12–105 of this subtitle.
+4 (C) “AUTHORITY FUNDS” MEANS:
+5 (1) MONEY MADE AVAILABLE TO THE AUTHORITY UNDER TITLE 12,
+6 SUBTITLE 2 OF THIS ARTICLE;
+7 (2) REVENUES, PROCEEDS, EARNINGS, PREMIUMS, FEES, AND ANY
+8 OTHER MONEY PAYABLE TO OR RECEIVED BY THE AUTHORITY FROM THE
+9 OWNERSHIP, USE, SALE, LEASE, OR OTHER DISPOSITION OF PROPERTY OF THE
+10 AUTHORITY OR OTHERWISE IN THE EXERCISE OF ITS POWERS; AND
+11 (3) ANY OTHER MONEY MADE AVAILABLE TO THE AUTHORITY.
+12 [(c)] (D) (1) “Bond” means a revenue bond, note, or other instrument,
+13 certificate, or evidence of obligation that is issued and sold by a public body under this
+14 subtitle [to finance a facility or to refund an outstanding bond].
+15 (2) “Bond” includes:
+16 (i) a bond anticipation note; and
+17 (ii) a note in the nature of commercial paper.
+18 [(d)] (E) “Chief executive” means the president, chair, mayor, county executive,
+19 or any other chief executive officer of a public body.
+20 (F) “DEVELOPMENT” INCLUDES NEW DEVELOPMENT, REDEVELOPMENT,
+21 REVITALIZATION, AND RENOVATION.
+22 [(e)] (G) “Facility” means any land or an interest in land, structure, working
+23 capital, equipment, or other property, or any combination of them, the acquisition or
+24 improvement of which the legislative body of a county or municipal corporation, the board
+25 of directors of an authority, or the Maryland Industrial Development Financing Authority,
+26 in its sole discretion, determines by resolution will accomplish one or more of the legislative
+27 purposes listed in § 12–103(b) of this subtitle.
+28 [(f)] (H) “Facility applicant” means a person, public or private corporation, or
+29 other entity, whether for–profit or nonprofit, that, by letter of intent or similar agreement
+30 with a public body, requests the public body to participate in financing a facility under this
+31 subtitle for use by a facility user.
+
+4 SENATE BILL 409
+1 [(g)] (I) (1) “Facility user” means a person, public or private corporation, or
+2 other entity, whether for–profit or nonprofit, that owns, leases, or uses all or part of a
+3 facility.
+4 (2) “Facility user” may include a facility applicant.
+5 [(h)] (J) “Finance” includes refinance.
+6 [(i)] (K) (1) “Finance board” means a unit or instrumentality of a county or
+7 municipal corporation that is authorized by statute or charter to issue and sell bonds of the
+8 county or municipal corporation.
+9 (2) “Finance board” does not include the legislative body of a county or
+10 municipal corporation.
+11 [(j)] (L) “Improve” means to add, alter, construct, equip, expand, extend,
+12 improve, install, reconstruct, rehabilitate, remodel, or repair.
+13 [(k)] (M) “Improvement” means addition, alteration, construction, equipping,
+14 expansion, extension, improvement, installation, reconstruction, rehabilitation,
+15 remodeling, or repair.
+16 (N) “PROJECT AREA” MEANS A GEOGRAPHIC AREA DESIGNATED BY THE
+17 LEGISLATIVE BODY OF A COUNTY OR MUNICIPAL CORPORATION WITHIN ITS
+18 JURISDICTION AS A PROJECT AREA UNDER § 12–105(H) OF THIS SUBTITLE.
+19 (O) “PROJECT AREA PLAN” MEANS THE PLAN ESTABLISHED BY A COUNTY
+20 OR MUNICIPAL CORPORATION FOR THE PROJECT AREA UNDER § 12–105(H) OF THIS
+21 SUBTITLE THAT ACCOMPLISHES AT LEAST ONE OF THE PURPOSES UNDER §
+22 12–103(B) OF THIS SUBTITLE.
+23 [(l)] (P) “Public body” means:
+24 (1) a county;
+25 (2) a municipal corporation;
+26 (3) an authority; or
+27 (4) the Maryland Industrial Development Financing Authority.
+28 [(m)] (Q) (1) “Public port” means the public ports and harbors on the
+29 Chesapeake Bay or the Isle of Wight Bay and their tributaries in the State.
+30 (2) “Public port” includes:
+
+SENATE BILL 409 5
+1 (i) the Baltimore Harbor (the Patapsco River and its tributaries
+2 north and west of North Point and Bodkin Point);
+3 (ii) the Port of Cambridge (the south side of the Choptank River
+4 between Hambrook’s Bar and the Emerson C. Harrington Bridge); and
+5 (iii) the Port of Crisfield (the Little Annemessex River east of James
+6 Island).
+7 12–105.
+8 (a) To accomplish one or more of the legislative purposes listed in § 12–103(b) of
+9 this subtitle, the legislative body of a county or municipal corporation may adopt a
+10 resolution to create an [industrial development] authority in accordance with this subtitle.
+11 (b) A resolution adopted under subsection (a), (f), [or] (g), OR (H) of this section:
+12 (1) is administrative in nature;
+13 (2) is not subject to referendum; and
+14 (3) in a county or municipal corporation that has a publicly elected chief
+15 executive, is subject to approval by the chief executive.
+16 (c) Subsection (a) of this section is self–executing and fully authorizes a county or
+17 municipal corporation to establish an authority, notwithstanding any other statutory or
+18 charter provision.
+19 (d) A resolution adopted under subsection (a) of this section shall include
+20 proposed articles of incorporation of the authority that state:
+21 (1) the name of the authority, which shall be:
+22 (I) “Industrial Development Authority of (name of the incorporating
+23 county or municipal corporation)”;
+24 (II) “REVENUE AUTHORITY OF (NAME OF THE INCORPORATING
+25 COUNTY OR MUNICIPAL CORPORATION)”;
+26 (III) “REDEVELOPMENT AUTHORITY OF (NAME OF THE
+27 INCORPORATING COUNTY OR MUNICIPAL CORPORATION)”; OR
+28 (IV) A SIMILARLY NAMED ENTITY;
+29 (2) that the authority is formed under this subtitle;
+
+6 SENATE BILL 409
+1 (3) the names, addresses, and terms of office of the initial members of the
+2 board of directors of the authority;
+3 (4) the address of the principal office of the authority;
+4 (5) the purposes for which the authority is formed; and
+5 (6) the powers of the authority subject to the limitations on the powers of
+6 an authority under this subtitle.
+7 (e) (1) The chief executive of the incorporating county or municipal
+8 corporation, or any other official designated in the resolution establishing the authority,
+9 shall execute and file the articles of incorporation of the authority for record with the State
+10 Department of Assessments and Taxation.
+11 (2) When the State Department of Assessments and Taxation accepts the
+12 articles of incorporation for record, the authority becomes a body politic and corporate and
+13 an instrumentality of the incorporating county or municipal corporation.
+14 (3) Acceptance of the articles of incorporation for record by the State
+15 Department of Assessments and Taxation is conclusive evidence of the formation of the
+16 authority.
+17 (f) (1) By resolution, the legislative body of the incorporating county or
+18 municipal corporation may adopt an amendment to the articles of incorporation of the
+19 authority.
+20 (2) Articles of amendment may contain any provision that lawfully could
+21 be contained in articles of incorporation at the time of the amendment.
+22 (3) The articles of amendment shall be filed for record with the State
+23 Department of Assessments and Taxation.
+24 (4) The articles of amendment are effective as of the time the State
+25 Department of Assessments and Taxation accepts the articles for record.
+26 (5) Acceptance of the articles of amendment for record by the State
+27 Department of Assessments and Taxation is conclusive evidence that the articles have been
+28 lawfully and properly adopted.
+29 (g) (1) Subject to the provisions of this section and any limitations imposed by
+30 law on the impairment of contracts, the incorporating county or municipal corporation, in
+31 its sole discretion, by resolution may:
+32 (i) set or change the NAME, structure, organization, procedures,
+33 programs, or activities of the authority; or
+
+SENATE BILL 409 7
+1 (ii) terminate the authority.
+2 (2) On termination of an authority:
+3 (i) title to all property of the authority shall be transferred to and
+4 vest in the incorporating county or municipal corporation; and
+5 (ii) all obligations of the authority shall be transferred to and
+6 assumed by the incorporating county or municipal corporation.
+7 (H) THE LEGISLATIVE BODY OF A COUNTY OR MUNICIPAL CORPORATION
+8 MAY ADOPT A RESOLUTION:
+9 (1) DESIGNATING A GEOGRAPHIC AREA WITHIN ITS JURISDICTION AS
+10 A PROJECT AREA;
+11 (2) ESTABLISHING A PROJECT AREA PLAN FOR A PROJECT AREA; AND
+12 (3) AUTHORIZING THE AUTHORITY TO IMPLEMENT THE PROJECT
+13 AREA PLAN.
+14 12–107.
+15 (a) The board of directors of an authority shall govern the authority.
+16 (b) Except as otherwise provided in this subtitle or the resolution establishing the
+17 authority, the procedures of the incorporating county or municipal corporation control any
+18 matter relating to the internal administration of the authority.
+19 (C) THE BOARD OF DIRECTORS OF AN AUTHORITY SHALL PROVIDE FOR THE
+20 MAINTENANCE OF THE AUTHORITY’S MINUTES, RESOLUTIONS, AND OTHER
+21 RECORDS SEPARATE FROM THOSE OF THE INCORPORATING COUNTY OR MUNICIPAL
+22 CORPORATION THAT CREATED THE AUTHORITY.
+23 12–108.
+24 Except as OTHERWISE PROVIDED IN THIS SUBTITLE OR AS necessary to pay debt
+25 service or implement the public purposes or programs of the incorporating county or
+26 municipal corporation, the net earnings of an authority may benefit only the incorporating
+27 county or municipal corporation and may not benefit any person.
+28 12–109.
+29 (a) (1) Except as limited by its articles of incorporation, an authority has all
+30 the powers set forth in this subtitle.
+
+8 SENATE BILL 409
+1 (2) (I) [An] SUBJECT TO SUBPARAGRAPHS (II) THROUGH (IV) OF
+2 THIS PARAGRAPH, AN authority may:
+3 [(i)] 1. receive money from [its incorporating county or municipal
+4 corporation, the State, other governmental units, or nonprofit organizations] ANY PUBLIC,
+5 PRIVATE, OR NONPROFIT SOURCE TO FUND THE AUTHORITY’S ACTIVITIES, POWERS,
+6 AND DUTIES IN ACCORDANCE WITH THIS SUBTITLE;
+7 [(ii)] 2. charge fees for its services;
+8 [(iii)] 3. have employees and consultants as it considers necessary;
+9 [and]
+10 [(iv)] 4. use the services of other governmental units;
+11 5. OWN, HOLD, AND IMPROVE REAL AND PERSONAL
+12 PROPERTY;
+13 6. PURCHASE, HOLD, MAINTAIN, UTILIZE, MANAGE,
+14 LEASE, OBTAIN OPTIONS ON, OR ACQUIRE BY GIFT, GRANT, BEQUEST, DEVISE, OR
+15 OTHERWISE ANY REAL OR PERSONAL PROPERTY WHICH MAY INCLUDE THE USE OF
+16 AUTHORITY FUNDS OR THE COLLECTION OF REVENUE;
+17 7. SELL, LEASE, EXCHANGE, TRANSFER, ASSIGN,
+18 PLEDGE, OR DISPOSE OF ANY REAL OR PERSONAL PROPERTY;
+19 8. ENTER INTO CONTRACTS AND OTHER INSTRUMENTS
+20 NECESSARY OR CONVENIENT TO EXERCISE THE AUTHORITY’S POWERS;
+21 9. PROVIDE FOR THE DEMOLITION, CONSTRUCTION,
+22 RECONSTRUCTION, REHABILITATION, IMPROVEMENT, ALTERATION, OR REPAIR OF
+23 REAL AND PERSONAL PROPERTY;
+24 10. INSURE OR PROVIDE FOR THE INSURANCE OF REAL
+25 AND PERSONAL PROPERTY OR OPERATIONS OF THE AUTHORITY AGAINST ANY RISKS
+26 OR HAZARDS;
+27 11. SUE AND BE SUED;
+28 12. IF DISPOSING OF OR LEASING LAND, RETAIN
+29 CONTROL OR ESTABLISH RESTRICTIONS AND COVENANTS RUNNING WITH THE LAND
+30 CONSISTENT WITH THE PROJECT AREA PLAN;
+
+SENATE BILL 409 9
+1 13. ENTER INTO A LEASE AGREEMENT ON REAL OR
+2 PERSONAL PROPERTY, EITHER AS LESSEE OR LESSOR;
+3 14. BORROW MONEY OR ACCEPT FINANCIAL OR OTHER
+4 ASSISTANCE FROM A PUBLIC ENTITY OR ANY OTHER SOURCE FOR ANY OF THE
+5 PURPOSES OF THIS SUBTITLE AND COMPLY WITH ANY CONDITIONS OF ANY LOAN OR
+6 ASSISTANCE;
+7 15. ISSUE BONDS TO FINANCE THE UNDERTAKING OF ANY
+8 PROJECT AREA DEVELOPMENT OR FOR ANY OF THE AUTHORITY’S OTHER PURPOSES,
+9 INCLUDING:
+10 A. REIMBURSING AN ADVANCE MADE BY THE AUTHORITY
+11 OR BY A PUBLIC ENTITY TO THE AUTHORITY;
+12 B. REFUNDING BONDS TO PAY OR RETIRE BONDS
+13 PREVIOUSLY ISSUED BY THE AUTHORITY; AND
+14 C. REFUNDING BONDS TO PAY OR RETIRE BONDS
+15 PREVIOUSLY ISSUED BY THE AUTHORITY OR THE COUNTY OR MUNICIPAL
+16 CORPORATION THAT DESIGNATED THE PROJECT AREA FOR EXPENSES ASSOCIATED
+17 WITH PROJECT AREA DEVELOPMENT;
+18 16. PAY AN IMPACT FEE, EXACTION, OR OTHER FEE IN
+19 CONNECTION WITH LAND DEVELOPMENT IMPOSED BY THE COUNTY OR MUNICIPAL
+20 CORPORATION THAT DESIGNATED THE PROJECT AREA;
+21 17. MAKE LOANS;
+22 18. USE AUTHORITY FUNDS FOR THE PURPOSES OF THIS
+23 SUBTITLE; AND
+24 19. TRANSACT OTHER BUSINESS AND EXERCISE ALL
+25 OTHER POWERS UNDER THIS SUBTITLE.
+26 (II) AN AUTHORITY MAY ACQUIRE REAL PROPERTY UNDER
+27 SUBPARAGRAPH (I) OF THIS PARAGRAPH THAT IS OUTSIDE A PROJECT AREA ONLY
+28 IF THE BOARD OF DIRECTORS OF THE AUTHORITY DETERMINES THAT THE
+29 PROPERTY WILL BENEFIT A PROJECT AREA.
+30 (III) AUTHORITY FUNDS SHALL BE ACCOUNTED FOR
+31 SEPARATELY FROM THE FUNDS OF THE COUNTY OR MUNICIPAL CORPORATION THAT
+32 CREATED THE AUTHORITY.
+
+10 SENATE BILL 409
+1 (IV) AN AUTHORITY MAY ACCUMULATE AUTHORITY FUNDS,
+2 RETAINED EARNINGS, OR FUND BALANCES IN ANY FUND.
+3 (b) For the purposes of this subtitle, each county and municipal corporation has
+4 all the powers granted in this subtitle to an authority, including the power to make loans
+5 to private enterprises competing with enterprises not receiving the loans.
+6 (c) (1) (i) An authority shall operate and exercise its powers solely to
+7 accomplish one or more of the legislative purposes of this subtitle.
+8 (ii) The incorporating county or municipal corporation may use the
+9 authority’s exercise of its powers to accomplish one or more of the legislative purposes.
+10 (2) An authority or an incorporating county or municipal corporation may
+11 exercise its powers regardless of any effect on economic competition.
+12 (3) The powers granted to a county or municipal corporation under
+13 paragraph (2) of this subsection do not:
+14 (i) grant to the county or municipal corporation powers in any
+15 substantive area not otherwise granted to the county or municipal corporation under other
+16 public general or public local law;
+17 (ii) restrict the county or municipal corporation from exercising any
+18 power granted to the county or municipal corporation under other public general or public
+19 local law or otherwise;
+20 (iii) authorize the county or municipal corporation, or the officers of
+21 the county or municipal corporation, to engage in an activity that is beyond the power
+22 granted under other public general or public local law or otherwise; or
+23 (iv) preempt or supersede the regulatory authority of a unit of State
+24 government under a public general law.
+25 (4) The incorporating county or municipal corporation is not precluded
+26 from directly exercising the powers granted to an authority under this subtitle after the
+27 establishment of the authority.
+28 12–110.
+29 (a) Notwithstanding any limitation of law, a public body may issue and sell bonds
+30 periodically to accomplish the legislative purposes of this subtitle.
+31 (b) (1) A public body may issue and sell bonds [to]:
+
+SENATE BILL 409 11
+1 (i) subject to paragraph (2) of this subsection, TO finance the costs
+2 of the acquisition or improvement of a facility for a facility user, including working capital;
+3 (ii) TO refund outstanding bonds;
+4 (iii) TO pay the costs of preparing, printing, selling, and issuing the
+5 bonds;
+6 (iv) TO fund reserves; [and]
+7 (v) TO pay the interest on the bonds in the amount and for the period
+8 the public body considers reasonable; AND
+9 (VI) FOR ANY OTHER PURPOSE IN THIS SUBTITLE.
+10 (2) (i) A public body may not issue bonds to acquire working capital
+11 unless the bonds are secured by a letter of credit or an interest in property.
+12 (ii) Working capital acquired by issuing bonds may not exceed 25%
+13 of the principal amount of the bonds.
+14 12–111.
+15 (a) For each issue of its bonds, the legislative body of a county or municipal
+16 corporation, the board of directors of an authority, or the Maryland Industrial Development
+17 Financing Authority, shall adopt a resolution that:
+18 (1) specifies and describes the facility OR OTHER PROPOSED
+19 UNDERTAKING TO BE FINANCED WITH THE PROCEEDS OF BONDS;
+20 (2) generally describes the public purpose to be served and the financing
+21 transaction;
+22 (3) specifies the maximum principal amount of the bonds that may be
+23 issued; and
+24 (4) imposes terms or conditions on the issuance and sale of bonds it
+25 considers appropriate.
+26 12–113.
+27 (a) (1) A bond and the interest on a bond are limited obligations of the public
+28 body.
+
+12 SENATE BILL 409
+1 (2) Except for bond anticipation notes and notes in the nature of
+2 commercial paper, the principal of, premium, and interest on a bond are payable solely
+3 from:
+4 (i) money from the financing of a facility;
+5 (II) AUTHORITY FUNDS OF THE AUTHORITY ISSUING THE
+6 BONDS; or
+7 [(ii)] (III) other money made available to the public body.
+8 (3) Bonds and the interest on them:
+9 (i) are not debts or charges against the general credit or taxing
+10 powers of a public body within the meaning of any constitutional or charter provision or
+11 statutory limitation; and
+12 (ii) may not give rise to any pecuniary liability of an issuing public
+13 body.
+14 (4) A bond may state on its face that the bond:
+15 (i) is issued under this subtitle; and
+16 (ii) is not a debt to which the public body’s faith and credit is pledged.
+17 12–201.
+18 (a) In this subtitle the following words have the meanings indicated.
+19 (D–1) “AUTHORITY” HAS THE MEANING STATED IN § 12–101 OF THIS TITLE.
+20 (D–2) “AUTHORITY FUNDS” HAS THE MEANING STATED IN § 12–101 OF THIS
+21 TITLE.
+22 (e) “Bond” means a revenue bond, note, or other similar instrument issued in
+23 accordance with this subtitle by:
+24 (1) a political subdivision;
+25 (2) AN AUTHORITY; or
+26 [(2)] (3) the revenue authority of Prince George’s County.
+
+SENATE BILL 409 13
+1 (f) “Chief executive” means the president, chair, mayor, or other chief executive
+2 officer of a political subdivision, AN AUTHORITY, or the revenue authority of Prince
+3 George’s County.
+4 (j) “Issuer” means AN AUTHORITY, a political subdivision, or the revenue
+5 authority of Prince George’s County that issues a bond under this subtitle.
+6 12–203.
+7 (a) Before [issuing] bonds ARE ISSUED, the governing body of the political
+8 subdivision shall:
+9 (1) by resolution:
+10 (i) designate a contiguous area within its jurisdiction as a
+11 development district;
+12 (ii) identify an area that has been designated a sustainable
+13 community; or
+14 (iii) identify an area that has been designated a RISE zone;
+15 (2) receive from the Supervisor of Assessments a certification of the
+16 amount of the original base, or if applicable, the adjusted assessable base; and
+17 (3) pledge that until the bonds are fully paid, or a longer period, the real
+18 property taxes in the development district, a RISE zone, or a sustainable community shall
+19 be divided as follows:
+20 (i) the portion of the taxes that would be produced at the current tax
+21 rate on the original taxable value base shall be paid to the respective taxing authorities in
+22 the same manner as taxes on other property are paid; and
+23 (ii) the portion of the taxes on the tax increment that normally would
+24 be paid into the general fund of the political subdivision shall be paid into the special fund
+25 established under § 12–208 of this subtitle and applied in accordance with § 12–209 of this
+26 subtitle.
+27 (b) (1) In this subsection, “brownfields site” has the meaning stated in § 5–301
+28 of this article.
+29 (2) Before [issuing] bonds ARE ISSUED and as part of the resolution
+30 required under subsection (a) of this section, the governing body of the political subdivision
+31 may determine the original base of a brownfields site in a sustainable community.
+32 (3) The determination of the original base of a brownfields site under this
+33 section:
+
+14 SENATE BILL 409
+1 (i) is not a determination of the value of the brownfields site; and
+2 (ii) may not be used to determine a property tax assessment or
+3 appeal of a property tax assessment under the Tax – Property Article.
+4 (c) The establishment or identification by a county of a development district, a
+5 RISE zone, or a sustainable community that is wholly or partly in a municipal corporation
+6 shall also require a resolution approving the development district, RISE zone, or
+7 sustainable community by the governing body of the municipal corporation.
+8 12–204.
+9 (a) Notwithstanding any limitation of law, an issuer may issue bonds from time
+10 to time to finance the development of an industrial, commercial, or residential area.
+11 (b) To issue bonds under this subtitle, the governing body of a political subdivision
+12 shall adopt an ordinance that:
+13 (1) describes the proposed undertaking; and
+14 (2) states:
+15 (i) that the governing body has complied with §§ 12–203 and
+16 12–208(c) and (d) of this subtitle;
+17 (ii) the maximum principal amount of the bonds; and
+18 (iii) the maximum rate of interest on the bonds.
+19 (c) The ordinance may specify the following for bonds issued to carry out the
+20 financing of the proposed undertaking:
+21 (1) the principal amount;
+22 (2) the rate of interest;
+23 (3) the manner and terms of sale;
+24 (4) the time of execution, issuance, and delivery;
+25 (5) the form and denomination;
+26 (6) the manner in which, and the times and places at which principal and
+27 interest shall be paid;
+28 (7) conditions for redemption before maturity; or
+
+SENATE BILL 409 15
+1 (8) other provisions consistent with this subtitle that the governing body of
+2 the political subdivision determines are necessary or desirable.
+3 (d) (1) The revenue authority of Prince George’s County may issue bonds in
+4 accordance with an ordinance adopted by the governing body of Prince George’s County.
+5 (2) AN AUTHORITY MAY ISSUE BONDS IN ACCORDANCE WITH AN
+6 ORDINANCE ADOPTED BY THE GOVERNING BODY THAT CREATED THE AUTHORITY
+7 UNDER SUBTITLE 1 OF THIS TITLE.
+8 (e) The ordinance may specify the items listed in subsection (c) of this section or
+9 may authorize:
+10 (1) the finance board to specify those items by resolution or ordinance; or
+11 (2) the chief executive to specify those items by executive order.
+12 (f) (1) Except as provided in paragraph (2) of this subsection, neither an
+13 ordinance authorizing the bonds nor an ordinance, resolution, or executive order issued,
+14 passed, or adopted under this section may be subject to referendum because of any other
+15 State or local law.
+16 (2) An ordinance that authorizes the pledge of the full faith and credit of a
+17 political subdivision to the payment of principal and interest on a bond is subject to any
+18 applicable right to referendum.
+19 12–207.
+20 (a) Except as provided in subsections (b) and (e) of this section, THE SPECIAL
+21 FUND ESTABLISHED UNDER § 12–208 OF THIS SUBTITLE OR bond proceeds may be used
+22 [only]:
+23 (1) to buy, lease, condemn, or otherwise acquire property, or an interest in
+24 property:
+25 (i) in the development district, a RISE zone, or a sustainable
+26 community; or
+27 (ii) needed for a right–of–way or other easement to or from the
+28 development district, a RISE zone, or a sustainable community;
+29 (2) for site removal;
+30 (3) for surveys and studies;
+
+16 SENATE BILL 409
+1 (4) to relocate businesses or residents;
+2 (5) to install utilities, construct parks and playgrounds, and for other
+3 needed improvements including:
+4 (i) roads to, from, or in the development district;
+5 (ii) parking AND ANCILLARY IMPROVEMENTS RELATED TO
+6 VEHICLES; and
+7 (iii) lighting;
+8 (6) to construct or rehabilitate buildings for a governmental purpose or use;
+9 (7) for reserves [or], capitalized interest, AND WORKING CAPITAL;
+10 (8) for necessary costs to issue bonds; [and]
+11 (9) to pay the principal of and interest on loans, advances, or indebtedness
+12 that a political subdivision incurs for a purpose specified in this section;
+13 (10) FOR THE PURPOSE OF ENCOURAGING DEVELOPMENT IN THE
+14 DEVELOPMENT DISTRICT, A RISE ZONE, OR A SUSTAINABLE COMMUNITY, TO
+15 INSTALL PUBLIC OR PRIVATE INFRASTRUCTURE IMPROVEMENTS, INCLUDING:
+16 (I) STREETS;
+17 (II) UTILITIES;
+18 (III) STREET LIGHTS;
+19 (IV) STORMWATER MANAGEMENT AND STORM DRAIN
+20 FACILITIES;
+21 (V) FENCING;
+22 (VI) NOISE WALLS;
+23 (VII) RETAINING WALLS;
+24 (VIII) TRAILS;
+25 (IX) SIDEWALKS;
+26 (X) PUBLIC RECREATIONAL FACILITIES;
+
+SENATE BILL 409 17
+1 (XI) LANDSCAPING, STREETSCAPING, AND PUBLIC ART; AND
+2 (XII) PEDESTRIAN AND VEHICULAR BRIDGES;
+3 (11) TO ISSUE LOANS FOR THE PURPOSE OF ENCOURAGING
+4 DEVELOPMENT IN THE DEVELOPMENT DISTRICT, RISE ZONE, OR SUSTAINABLE
+5 COMMUNITY;
+6 (12) FOR ADMINISTRATIVE OVERHEAD, LEGAL, OR OTHER OPERATING
+7 EXPENSES OF THE AUTHORITY, INCLUDING THE FEES AND EXPENSES OF
+8 CONSULTANTS;
+9 (13) TO FINANCE OR REFINANCE IN WHOLE OR IN PART:
+10 (I) DEVELOPMENT COSTS OF A DEVELOPMENT DISTRICT,
+11 INCLUDING ENVIRONMENTAL REMEDIATION;
+12 (II) IF THE EXPENDITURES ARE RELATED TO HOUSING IN A
+13 DEVELOPMENT DISTRICT:
+14 1. THE ACQUISITION OF THE LAND; AND
+15 2. THE COST OF INSTALLATION, CONSTRUCTION, OR
+16 REHABILITATION OF THE HOUSING–RELATED BUILDING, FACILITY, STRUCTURE, OR
+17 OTHER HOUSING IMPROVEMENT, INCLUDING INFRASTRUCTURE IMPROVEMENTS
+18 RELATED TO HOUSING; AND
+19 (III) IF THE EXPENDITURES ARE RELATED TO HOUSING NOT IN A
+20 DEVELOPMENT DISTRICT:
+21 1. REPLACING HOUSING UNITS LOST IN A DEVELOPMENT
+22 DISTRICT;
+23 2. INCREASING, IMPROVING, OR PRESERVING THE
+24 SUPPLY OF AFFORDABLE HOUSING WITHIN THE BOUNDARY OF THE DEVELOPMENT
+25 DISTRICT; OR
+26 3. RELOCATING MOBILE HOME PARK RESIDENTS
+27 DISPLACED BY DEVELOPMENT INSIDE OR OUTSIDE A DEVELOPMENT DISTRICT;
+
+18 SENATE BILL 409
+1 (14) FOR AFFORDABLE HOUSING OR HOMELESS ASSISTANCE, TO LEND,
+2 GRANT, OR CONTRIBUTE FUNDS TO A PERSON, PUBLIC OR PRIVATE ENTITY,
+3 HOUSING AUTHORITY, OR NONPROFIT ENTITY;
+4 (15) FOR AN INCENTIVE OR OTHER CONSIDERATION PAID WITH
+5 RESPECT TO THE DEVELOPMENT DISTRICT;
+6 (16) FOR THE ACQUISITION OF LAND AND THE COST OF THE
+7 INSTALLATION AND CONSTRUCTION OF ANY PUBLICLY OWNED BUILDING, FACILITY,
+8 STRUCTURE, OR OTHER IMPROVEMENT WITHIN THE DEVELOPMENT DISTRICT;
+9 (17) BY AN AUTHORITY FOR THE PURPOSES OF THIS SUBSECTION AND
+10 SUBTITLE 1 OF THIS TITLE;
+11 (18) IF THE BOARD OF DIRECTORS ESTABLISHED UNDER § 12–106 OF
+12 THIS TITLE AND THE POLITICAL SUBDIVISION THAT DESIGNATED THE
+13 DEVELOPMENT DISTRICT ADOPT A RESOLUTION THAT THE PUBLICLY OWNED
+14 INFRASTRUCTURE AND IMPROVEMENTS BENEFIT THE DEVELOPMENT DISTRICT,
+15 FOR THE INFRASTRUCTURE AND IMPROVEMENTS OUTSIDE THE DEVELOPMENT
+16 DISTRICT;
+17 (19) IF THE BOARD OF DIRECTORS ESTABLISHED UNDER § 12–106 OF
+18 THIS TITLE AND THE POLITICAL SUBDIVISION THAT DESIGNATED THE
+19 DEVELOPMENT DISTRICT APPROVE AND PROJECTED AUTHORITY FUNDS ARE
+20 SUFFICIENT TO REPAY THE LOAN, TO MAKE LOANS FROM ONE DEVELOPMENT
+21 DISTRICT TO ANOTHER;
+22 (20) AS A GRANT TO THE POLITICAL SUBDIVISION TO OFFSET THE
+23 TAXES PAID TO THE SPECIAL FUND ESTABLISHED UNDER § 12–208 OF THIS
+24 SUBTITLE THAT WERE PAID TO THE AUTHORITY FOR THE PURPOSES UNDER THIS
+25 SUBTITLE;
+26 (21) (I) FOR CONVENTION, CONFERENCE, OR VISITOR CENTERS;
+27 AND
+28 (II) TO MAINTAIN INFRASTRUCTURE IMPROVEMENTS AND
+29 CONVENTION, CONFERENCE, OR VISITOR CENTERS; AND
+30 (22) FOR ANY OTHER PURPOSE AUTHORIZED UNDER THIS SUBTITLE.
+31 12–211.
+
+SENATE BILL 409 19
+1 (a) The principal amount of bonds, interest payable on bonds, the transfer of
+2 bonds, and income from bonds, including profit made in the sale or transfer of bonds, are
+3 exempt from State and local taxes.
+4 (b) If a political subdivision OR AN AUTHORITY leases as a lessor its property
+5 within a development district, a RISE zone, or a sustainable community:
+6 (1) the property shall be assessed and taxed in the same manner as
+7 privately owned property; and
+8 (2) the lease shall require the lessee to pay taxes or payments in lieu of
+9 taxes on the assessed value of the entire property and not only on the assessed value of the
+10 leasehold interest.
+11 12–212.
+12 This subtitle does not authorize AN AUTHORITY, a county, or a municipal
+13 corporation to acquire property by eminent domain.
+14 The Charter of Baltimore City
+15 Article II – General Powers
+16 The Mayor and City Council of Baltimore shall have full power and authority to
+17 exercise all of the powers heretofore or hereafter granted to it by the Constitution of
+18 Maryland or by any Public General or Public Local Laws of the State of Maryland; and in
+19 particular, without limitation upon the foregoing, shall have power by ordinance, or such
+20 other method as may be provided for in its Charter, subject to the provisions of said
+21 Constitution and Public General Laws:
+22 (62)
+23 (a) (1) To borrow money by issuing and selling bonds, at any time and from
+24 time to time, for the purpose of financing and refinancing the development of an industrial,
+25 commercial, or residential area in Baltimore City. Such bonds shall be payable from and
+26 secured by a pledge of the special fund described in subsection (d)(3)(ii) of this section and
+27 the Mayor and City Council of Baltimore may also establish sinking funds, establish debt
+28 service reserve funds, or pledge other assets and revenues towards the payments of the
+29 principal and interest OR OTHER PURPOSES AS PROVIDED UNDER THIS SECTION,
+30 including revenues received by the Mayor and City Council of Baltimore pursuant to a
+31 development agreement.
+32 (2) (i) In lieu of the pledges set forth in paragraph (1) of this subsection,
+33 the authorizing ordinance or trust agreement, subject to subparagraphs (ii) and (iii) of this
+34 paragraph, may pledge or assign:
+
+20 SENATE BILL 409
+1 1. all or any part of that portion of the revenues and receipts
+2 from the taxes representing the levy of the tax increment that would normally be paid to
+3 the Mayor and City Council of Baltimore to the payment of such principal and interest;
+4 2. the special fund described in subsection (d)(3)(ii) of this
+5 section and any other fund into which all or any part of such revenues and receipts are
+6 deposited after such revenues and receipts are appropriated by the Mayor and City Council
+7 of Baltimore to the payment of such principal and interest;
+8 3. amounts provided to the Mayor and City Council of
+9 Baltimore by the State under § 2–222 of the Tax – Property Article of the Annotated Code
+10 of Maryland; and
+11 4. any other assets and revenues of the Mayor and City
+12 Council of Baltimore.
+13 (ii) The revenues and receipts may not be irrevocably pledged to the
+14 payment of such principal and interest and the obligation to pay such principal and interest
+15 from such revenues and receipts shall be subject to annual appropriation by the Mayor and
+16 City Council of Baltimore.
+17 (iii) The Mayor and City Council of Baltimore may not pledge its full
+18 faith and credit or unlimited taxing power to the payment of such bonds.
+19 (b) (1) In this section the following words have the meanings indicated, unless
+20 the context clearly indicates another or different meaning or intent:
+21 (7) “AUTHORITY” HAS THE MEANING PROVIDED IN § 12–101 OF THE
+22 ECONOMIC DEVELOPMENT ARTICLE OF THE ANNOTATED CODE OF MARYLAND.
+23 [(7)] (8) “Bonds” or “bond” means any bonds or bond, notes or note, or
+24 other similar instruments or instrument issued by the Mayor and City Council of Baltimore
+25 OR AN AUTHORITY pursuant to and in accordance with this section.
+26 [(8)] (9) “Development” includes new development, redevelopment,
+27 revitalization, and renovation.
+28 [(9)] (10) “Development agreement” means an agreement between the
+29 Mayor and City Council of Baltimore OR AN AUTHORITY and any person involved in or
+30 responsible for development of property within a development district pursuant to which
+31 such person shall agree to pay in each year in which any bonds are outstanding an amount
+32 equal to all or a portion of the debt service on bonds issued pursuant to this section to
+33 finance or refinance development in such development district.
+34 [(10)] (11) “Development district” means an area or areas within the City of
+35 Baltimore designated by an ordinance of the Mayor and City Council of Baltimore.
+
+SENATE BILL 409 21
+1 [(11)] (12) “Distressed property” has the meaning stated in § 21–17(a) of the
+2 Public Local Laws of Baltimore City.
+3 [(12)] (13) “Original assessable base” means the assessable base as of
+4 January 1 of that year preceding the effective date of the ordinance creating the
+5 development district under subsection (d) of this section.
+6 [(13)] (14) “Original full cash value” means the dollar amount which is
+7 determined by dividing the original assessable base by the assessment ratio used to
+8 determine the original assessable base.
+9 [(14)] (15) “Original taxable value” means for any tax year the dollar
+10 amount that is the lesser of:
+11 (i) the product of the original full cash value times the assessment
+12 ratio applicable to that tax year;
+13 (ii) the original assessable base; or
+14 (iii) if an adjusted assessable base applies, then the “original taxable
+15 value” is the adjusted assessable base.
+16 [(15)] (16) “Supervisor of Assessments” means the Supervisor of
+17 Assessments for Baltimore City.
+18 [(16)] (17) “Tax increment” means for any tax year the amount by which the
+19 assessable base as of January 1 preceding that tax year exceeds the original taxable value,
+20 divided by the assessment ratio used to determine the original taxable value.
+21 [(17)] (18) “Tax year” means the period from July 1 of a calendar year
+22 through June 30 of the next calendar year.
+23 [(18)] (19) “State obligations” means any bonds or bond, notes or note, or
+24 other similar instruments or instrument issued by the Maryland Economic Development
+25 Corporation, the State of Maryland, or any agency, department, or political subdivision
+26 thereof, the proceeds of which have been used for any of the purposes specified in subsection
+27 (c) of this section.
+28 (B–1) AN AUTHORITY MAY ISSUE BONDS IN ACCORDANCE WITH AN
+29 ORDINANCE ADOPTED BY THE MAYOR AND CITY COUNCIL OF BALTIMORE UNDER
+30 THIS SECTION.
+31 (c) All proceeds received from any bonds issued and sold pursuant to this section
+32 [shall], REVENUE FROM PROPERTY TAXES LEVIED ON A TAX INCREMENT, AND
+
+22 SENATE BILL 409
+1 PROPERTY TAXES ALLOCATED TO THE SPECIAL FUND UNDER SUBSECTION (D)(3)(II)
+2 OF THIS SECTION MAY be applied [solely] for:
+3 (1) the cost of purchasing, leasing, condemning, or otherwise acquiring
+4 land or other property, or an interest in them, in the designated development district area
+5 or as necessary for a right–of–way or other easement to or from the development district
+6 area;
+7 (2) site removal;
+8 (3) surveys and studies;
+9 (4) relocation of businesses or residents;
+10 (5) installation of utilities, construction of parks and playgrounds, and
+11 other necessary improvements including streets and roads to, from, or within the
+12 development district, lighting, and other facilities;
+13 (6) construction or rehabilitation of buildings provided that such buildings:
+14 (i) are to be devoted to a governmental use or purpose;
+15 (ii) are abandoned property;
+16 (iii) are distressed property; or
+17 (iv) will provide units of affordable housing;
+18 (7) reserves, WORKING CAPITAL, and capitalized interest on the bonds;
+19 (8) necessary costs of issuing bonds;
+20 (9) structured and surface parking facilities AND ANCILLARY
+21 IMPROVEMENTS RELATED TO VEHICLES that are:
+22 (i) publicly owned; or
+23 (ii) privately owned but serve a public purpose; [and]
+24 (10) payment of the principal and interest on loans, money advanced, or
+25 indebtedness incurred by the Mayor and City Council of Baltimore for any of the purposes
+26 set out in this section;
+27 (11) THE PURPOSE OF ENCOURAGING DEVELOPMENT IN THE
+28 DEVELOPMENT DISTRICT, A RISE ZONE, OR A SUSTAINABLE COMMUNITY, TO
+29 INSTALL PUBLIC OR PRIVATE INFRASTRUCTURE IMPROVEMENTS, INCLUDING:
+
+SENATE BILL 409 23
+1 (I) STREETS;
+2 (II) UTILITIES;
+3 (III) STREET LIGHTS;
+4 (IV) STORMWATER MANAGEMENT AND STORM DRAIN
+5 FACILITIES;
+6 (V) FENCING;
+7 (VI) NOISE WALLS;
+8 (VII) RETAINING WALLS;
+9 (VIII) TRAILS;
+10 (IX) SIDEWALKS;
+11 (X) PUBLIC RECREATIONAL FACILITIES;
+12 (XI) LANDSCAPING, STREETSCAPING, AND PUBLIC ART; AND
+13 (XII) PEDESTRIAN AND VEHICULAR BRIDGES;
+14 (12) ISSUING LOANS FOR THE PURPOSE OF ENCOURAGING
+15 DEVELOPMENT IN THE DEVELOPMENT DISTRICT, RISE ZONE, OR SUSTAINABLE
+16 COMMUNITY;
+17 (13) ADMINISTRATIVE OVERHEAD, LEGAL, OR OTHER OPERATING
+18 EXPENSES OF AN AUTHORITY, INCLUDING THE FEES AND EXPENSES OF
+19 CONSULTANTS;
+20 (14) FINANCING OR REFINANCING ALL OR PART OF:
+21 (I) DEVELOPMENT COSTS OF A DEVELOPMENT DISTRICT,
+22 INCLUDING ENVIRONMENTAL REMEDIATION;
+23 (II) IF THE EXPENDITURES ARE RELATED TO HOUSING IN A
+24 DEVELOPMENT DISTRICT:
+25 1. THE ACQUISITION OF THE LAND; AND
+
+24 SENATE BILL 409
+1 2. THE COST OF INSTALLATION, CONSTRUCTION, OR
+2 REHABILITATION OF THE HOUSING–RELATED BUILDING, FACILITY, STRUCTURE, OR
+3 OTHER HOUSING IMPROVEMENT, INCLUDING INFRASTRUCTURE IMPROVEMENTS
+4 RELATED TO HOUSING; AND
+5 (III) IF THE EXPENDITURES ARE RELATED TO HOUSING NOT IN A
+6 DEVELOPMENT DISTRICT:
+7 1. REPLACING HOUSING UNITS LOST IN A DEVELOPMENT
+8 DISTRICT;
+9 2. INCREASING, IMPROVING, OR PRESERVING THE
+10 SUPPLY OF AFFORDABLE HOUSING WITHIN THE BOUNDARY OF THE DEVELOPMENT
+11 DISTRICT; OR
+12 3. RELOCATING MOBILE HOME PARK RESIDENTS
+13 DISPLACED BY DEVELOPMENT INSIDE OR OUTSIDE A DEVELOPMENT DISTRICT;
+14 (15) AFFORDABLE HOUSING OR HOMELESS ASSISTANCE, TO LEND,
+15 GRANT, OR CONTRIBUTE FUNDS TO A PERSON, PUBLIC OR PRIVATE ENTITY,
+16 HOUSING AUTHORITY, OR NONPROFIT ENTITY;
+17 (16) AN INCENTIVE OR OTHER CONSIDERATION PAID WITH RESPECT
+18 TO A DEVELOPMENT DISTRICT;
+19 (17) THE ACQUISITION OF LAND AND THE COST OF THE INSTALLATION
+20 AND CONSTRUCTION OF ANY PUBLICLY OWNED BUILDING, FACILITY, STRUCTURE,
+21 OR OTHER IMPROVEMENT WITHIN THE DEVELOPMENT DISTRICT;
+22 (18) IF THE BOARD OF DIRECTORS ESTABLISHED UNDER § 12–106 OF
+23 THE ECONOMIC DEVELOPMENT ARTICLE OF THE ANNOTATED CODE OF MARYLAND
+24 AND THE MAYOR AND CITY COUNCIL OF BALTIMORE ADOPT A RESOLUTION THAT
+25 THE PUBLICLY OWNED INFRASTRUCTURE AND IMPROVEMENTS BENEFIT THE
+26 DEVELOPMENT DISTRICT, THE INFRASTRUCTURE AND IMPROVEMENTS OUTSIDE
+27 THE DEVELOPMENT DISTRICT;
+28 (19) IF THE BOARD OF DIRECTORS ESTABLISHED UNDER § 12–106 OF
+29 THE ECONOMIC DEVELOPMENT ARTICLE OF THE ANNOTATED CODE OF MARYLAND
+30 AND THE MAYOR AND CITY COUNCIL OF BALTIMORE APPROVE AND PROJECTED
+31 AUTHORITY FUNDS ARE SUFFICIENT TO REPAY THE LOAN, MAKING LOANS FROM
+32 ONE DEVELOPMENT DISTRICT TO ANOTHER;
+
+SENATE BILL 409 25
+1 (20) A GRANT TO THE MAYOR AND CITY COUNCIL OF BALTIMORE TO
+2 OFFSET THE REVENUES FROM PROPERTY TAXES LEVIED ON A TAX INCREMENT THAT
+3 WAS PAID TO THE AUTHORITY FOR THE PURPOSES UNDER THIS SECTION;
+4 (21) (I) CONVENTION, CONFERENCE, OR VISITOR CENTERS; AND
+5 (II) MAINTAINING INFRASTRUCTURE IMPROVEMENTS AND
+6 CONVENTION, CONFERENCE, OR VISITOR CENTERS; AND
+7 (22) ANY OTHER PURPOSE AUTHORIZED UNDER THIS SECTION OR
+8 TITLE 12, SUBTITLE 2 OF THE ECONOMIC DEVELOPMENT ARTICLE OF THE
+9 ANNOTATED CODE OF MARYLAND.
+10 (d) Before [issuing] any bonds ARE ISSUED under this section, the Mayor and
+11 City Council of Baltimore shall:
+12 (1) designate by ordinance an area or areas within the City of Baltimore as
+13 a “development district”;
+14 (2) receive from the Supervisor of Assessments a certification as to the
+15 amount of the original assessable base, or if applicable, the adjusted assessable base; and
+16 (3) provide that until the bonds have been fully paid or thereafter, the
+17 property taxes on real property within the development district shall be divided as follows:
+18 (i) that portion of the taxes which would be produced by the rate at
+19 which taxes levied each year by the Mayor and City Council of Baltimore upon the original
+20 taxable value shall be allocated to and when collected paid into the funds of the Mayor and
+21 City Council of Baltimore in the same manner as taxes by the Mayor and City Council of
+22 Baltimore on all other property are paid; and
+23 (ii) that portion of the taxes representing the levy on the tax
+24 increment that would normally be paid to the Mayor and City Council of Baltimore shall
+25 be paid into a special fund to be applied in accordance with the provisions of subsection (e)
+26 of this section. This yield shall not be considered as municipal taxes for the purposes of any
+27 constant yield tax limitation or State or local restriction. No State real property taxes may
+28 be paid into the special fund.
+29 (e) (1) The Mayor and City Council of Baltimore may enact an ordinance
+30 creating a special fund described in subsection (d)(3)(ii) of this section with respect to a
+31 development district, even though no bonds authorized by this section have been issued by
+32 the Mayor and City Council of Baltimore OR AN AUTHORITY with respect to that
+33 development district or are then outstanding. The taxes allocated to such special fund by
+34 subsection (d)(3)(ii) of this section shall thereafter be paid over to such special fund, as long
+35 as such ordinance remains in effect.
+
+26 SENATE BILL 409
+1 (2) When no bonds authorized by this section are outstanding with respect
+2 to a development district and the Mayor and City Council of Baltimore by ordinance so
+3 determines, moneys in the special fund for that development district created pursuant to
+4 subsection (d)(3)(ii) of this section may be:
+5 (i) used for any of the purposes described in subsection (c) of this
+6 section;
+7 (ii) accumulated for payment of debt service on bonds subsequently
+8 issued under this section;
+9 (iii) used to pay or to reimburse the Mayor and City Council of
+10 Baltimore for debt service which the Mayor and City Council of Baltimore is obligated to
+11 pay or has paid (whether such obligation is general or limited) on any bonds or State
+12 obligations; or
+13 (iv) paid to the Mayor and City Council of Baltimore to provide funds
+14 to be used for any legal purpose as may be determined by the Mayor and City Council of
+15 Baltimore OR AUTHORITY.
+16 (3) When any bonds authorized by this section are outstanding with
+17 respect to a development district and the Mayor and City Council of Baltimore so
+18 determines, moneys in the special fund for that development district created pursuant to
+19 subsection (d)(3)(ii) of this section may be used as provided in paragraph (2) of this
+20 subsection in any fiscal year by the Mayor and City Council of Baltimore, but only to the
+21 extent that:
+22 (i) the amount in such special fund exceeds the unpaid debt service
+23 payable on such bonds in such fiscal year and is not restricted so as to prohibit the use of
+24 such moneys; and
+25 (ii) such use is not prohibited by the ordinance of the Mayor and City
+26 Council of Baltimore or resolution of the Board of Finance authorizing the issuance of such
+27 bonds.
+28 (f) (1) Before [issuing] any bonds ARE ISSUED under this section the Mayor
+29 and City Council of Baltimore shall enact an ordinance which:
+30 (i) specifies and describes the proposed undertaking and states that
+31 it has complied with subsection (d) of this section; and
+32 (ii) specifies the maximum principal amount of bonds to be issued,
+33 from time to time or at any time, pursuant to such ordinance.
+34 (h) (2) All bonds shall be signed manually or in facsimile by the Mayor of the
+35 City of Baltimore OR THE AUTHORITY, and the seal of the Mayor and City Council of
+36 Baltimore shall be impressed thereon manually or by facsimile and attested by the
+
+SENATE BILL 409 27
+1 custodian of the City seal, manually or by facsimile. If any officer whose signature or
+2 countersignature appears on the bonds ceases to be such officer before delivery of the bonds,
+3 his signature or countersignature shall nevertheless be valid and sufficient for all purposes
+4 the same as if he had remained in office until delivery thereof.
+5 (j) Whenever the Mayor and City Council of Baltimore OR THE AUTHORITY, as
+6 lessor, leases its property within the development district, the property shall be assessed
+7 and taxed in the same manner as privately owned property, and the lease or contract shall
+8 provide that the lessee shall pay taxes or payments in lieu of taxes upon the assessed value
+9 of the entire property and not merely the assessed value of the leasehold interest.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 October 1, 2025.
+
+[DELETED: :CA      5   C A E D F t p o e t a n a f a e d t t c g B  A S 1  A  ( B  A S  A  ( B  A S  A  ( B  T]
+[DELETED:  S   A  S  (  ( B  T  A  S  ( B  T  A S  ( B  T  A  S  ( B  T  A  S  (  ( B  T  A  S  (  (  S T A 1  ( I]
+[DELETED: S 3  ( “ m a i d aRY R AY O O S N  () “A”:US  ( T1 I 2;   ( ,,,,S PS ES PS FS A A M P T O R B T A F TP UE SE LE O O D O P O T,,S  ( .  () ( “ m a r b n o o i]( c s td.   ( “    ( a    ( a  () “]( o ) “D”,ET I N DT RTN .  () “]( c e o o p o a c o t t a o i o i p  () “]( o w s]
+[DELETED:  S   () ( “]( o f   ( “  () “](  () ( “]( m c   ( “ n m  () “ m t a a c e e e]( i  () “ m a a c e]( e e i i r r r ) “PR AA M A G A D B T B O A C O M C W I  H 1().() “PRN   H 1( T A A L O O T P U ().   () “](   ( a   ( a   ( a   ( t  () ( “ p m t p p a h o t]( C   ( “]
+[DELETED: S 5    ( t B H ( P R a i t n    ( t P o C ( s s o t C R b    ( t I 1  ( T t s t l b o a c o m c m a a r it   ( A or ) ],(    ( i   ( i   ( i e  ( S m c  ( A r a u s ( o t s s i p   ( t  () “ c   ) “RAIE U N  () “RAIE U O N O TN ;  () ;VA   ( t]
+[DELETED:  S    ( t b   ( t   ( t   ( t a  ( ( T c e o t i c o m c s D   ( W a a   ( A o t a o i f r b t S D a  ( ( B r t l b o t i c o m c m a a t t a o i o t a   ( A b   ( T a o a s b f f r w t S D   ( T a o a a e a o t t t S D   ( A o t a o a f r b t S D l  ( ( S l i    ( s o c t s o pE p]
+[DELETED: S 7    ( t   ( O    ( t v    ( a o o t a s b t t a a() H O C ( ( ;A  ( T A T I T P 1  ( T  ( E a m ) H O T AYS MS RS A O, 1  Es  s o i t p p o p o t i c o m c 1  ( ( E t]
+[DELETED:  S    ( An) []S()(U II  IV H  a    ()r i] 1  cCE YSS S’, ;    ()c] 2    () h] 3] a    () u] 4.;     ,N HD A I R A P   6 ,,,,E HD MN UE MEE N T T T E ,,,,   7 ,,,,L LE EE TR ANE ;   8YS;   9 , F T DN CNN N T N ,,Y   1   1 ;D   1  D O O L LD R]
+[DELETED: S 9   1 I A L A O R OY ;   1 M O A F O O F A P E O A O S F A O T   1YSS   A   B B T P O R BY    C B T P O R B I B T A O T C O M   1 , A I FE EN O O F IA   1 ;   1E    1 O B A E A   () IN A M A R P U I  T B O D O T A D T T  () IU F S B A F]
+[DELETED:  S   () AVN A M A A FSS .  ( F a t  ( ( ( A a s o a e i p s t a    ( T a   ( A e   ( T p g t a c o m c u p    ( g t t c o m c p i a s p    ( r p l    ( a t g    ( p g   ( T i c o m c i n p f e 1  ( N p  ( ( A to:]
+[DELETED: S 1    ( s f o    ( r    ( p b    ( f a]    ( p t  ()IF .   ( ( A u    ( W o 1  ( F e i o i b t l b o a c o m c F   ( s a d t fO O P ;   ( g t   ( s t m p a o t b t m b i   ( i t o c o t i a s o b i c 1  ( ( A b]
+[DELETED:  S    ( E f b a n a n i t n o c f    ( m   )IA F O T A I TS o    () o](I   ( B    ( a n d o c a t g c o t p s    ( m b   ( A    ( i    ( i 1  ( I  –)“A”§11.UY    (–A”§1US     ( “ a   ( a   o Y   () t](]
+[DELETED: S 1  ( “ o o a p sn o t r a o PA A G  ( “ m a p sn o t r AY a 1  ( B ig bs, t g b o t pA I s   ( b    ( d a c a w i j a a d    ( i a a t h b d a s c    ( i   ( r f t S o A a c o t a   ( p p b    ( t r t    ( t b e s  ( ( I o   ( B ig b a a p o t r I r m   ( T s]
+[DELETED:  S     ( i    ( m n b u t d a p t a o a  ( T R s a r a r a t d d R z o s 1  ( N t  ( T s   ( d   ( s    ( t t g b h c w § 1 a 1    ( t    ( t  ( T f   ( t   ( t   ( t   ( t   ( t   ( t i   ( c]
+[DELETED: S 1   ( o t  ( T a    A M I B I A W A U  1.  ( T m   ( t   ( t  ( ( E a p i p ( o t s n a o p S   ( A p a 1  ( E   1 b oy:   ( t p    ( i t d d a R z o a s c    ( n f a r o o e t o f t d   ( f   ( f]
+[DELETED:  S    ( t   ( t i u c p a p a f o n    ( r    ( p A I R T ;    ( l   ( t   ( f or t ;],   ( f a]   ( t tn   T P O E D I T DT A  ZE O A S CY TRE,S :  () ;S  () ;IU  () ;IS  ()VS M A S D  () ;F  () ;IN  () ;IR  () ;IT  () ;XS  () ;P]
+[DELETED: S 1  () ,,;ILG G T   () ;IP ( I L F T P O E I T D DT  ZE O SRE ( ,D L  O T AY I T F A E O ( :  () D C O A D DT  ()II T E A R T H I A   1 ;D    2 , C O IN CN OGRG Y E ,, H IT I I IG   ()II   1T   2 ,G IG O P TT    3 M H P R]
+[DELETED:  S  ( ,E DT O C F T A PN P O P EY,Y Y; ( A I O O C P W ( T A O L A T C O TG YE ; (1;   ( §1    T A T P S T D T D A A R T T P O A I B T D DT T I A I O T D ( §1    T A T P S T D T D A A P A F A T R T LN T M L F O DR ( A G T T P S T O T P T T S F E U   O T1E ( () ,,F CN CE O V CS  ()IT M I I AN E S ,; ( . 1]
+[DELETED: S 1  ( T p a o b i p o b t t o b e  ( In  w   ( t p s b a a t i t s m a p   ( t t l 1  T s d n a a cy o a m AY c T A  T e a o t p h o h g t i b t C o M p o m a m b p f i i C s t t p o s C (  ( ( T t c s t s p a it,O O P A P U T S i d   ( ( I t p]
+[DELETED:  S      1 a f t     2 t s d o     3 a p t t M a C C o B o     4 a o a a r o t M a C C    ( T p f C    ( T f  ( ( I t   )“A”§1Y    DAACM. E R N O A []( ()“ o     ()“ i n d r]( r   ()“ a m a a b t]( M   r s e f   ()“]( B]
+[DELETED: S 2   ()“]( P   ()“ a b m t a b a o]( J 1 o t y p t e d o t o c t d   ()“ f c v m t d a w i]( d b d t o a b b t a r u t d   ()“ t v m f a t y t d]( a    ( t r    ( t    ( i v   ()“ o A m t S o]( A   ()“]( a d   ()“ y m t p f J 1 o a c y]( t   ()“]( o C t ( –N A M I B I A W A A I O ACC  ( A], sR F P T L O A T IT A]
+[DELETED:  S  DII)(   sy    ( t c o p l c o o a l o a   ( s   ( s   ( r   ( i o u c o p a p a o n i i s a r t f o w t d   ( c    ( a    ( a    ( a    ( w   ( rs    ( n   ( s a s p fA A      ( p    ( p ad    ( p a i s ( P O E D I T DT A  ZE O A S CY TRE,S :]
+[DELETED: S 2  () ;S  () ;IU  () ;IS  ()VS M A S D  () ;F  () ;IN  () ;IR  () ;IT  () ;XS  () ;P  () ,,;ILG G T   () ;IPS ( L F T P O E I T D DT  ZE O SRE ( , OD LL O O O O A AY I T F A E O ( :  () D C O A D DT  ()II T E A R T H I A   1 ;D ]
+[DELETED:  S    2 , C O IN CN OGRG Y E ,, H IT I I IG   ()II   1T   2 ,G IG O P TT    3 M H P R ( , H O H AE T LDT O C F T A PN P O P EY,Y Y; ( (G Y E, ( §1    C E R N O ADAAC A I O ACC P O I A I B T DT T I A I O ( §1    C E R N O ADAAC A I O ACC SN R]
+[DELETED: S 2 ( MCC A I O AN ( () ,,;CN E S   ()IM I I AN E S ,; ( O P A U T S O1,S2ED  U  O T C E R O TC O A .  ( B ig  u C   ( d a   ( r f t S o A a c a t t a   ( p t u t b h b f p o t t p    ( t w t C B    ( t p o t t r t l o t t i b o c b  ( ( T M a C C o B m e a o c d t M a C C o B  w r t t A A d s a]
+[DELETED:  S    ( W t d s    ( u s    ( a i    ( u t p o t r t M a C C o B p o h p ( s o i g o l o a b o S o    ( p t B .   ( W a b a b t s a o w r t a d d a t M a C C o B s d s ( o t s m b u a p i p ( o t s e    ( t p s    ( s C b  ( ( B ig  u a    ( s i    ( s f  ( ( A C , B s b i t m o b f a a b t]
+[DELETED: S 2 c o t C s m o b f I a o w s o c h t  ( W , l a p o  S A B I F E T t A s t e O]

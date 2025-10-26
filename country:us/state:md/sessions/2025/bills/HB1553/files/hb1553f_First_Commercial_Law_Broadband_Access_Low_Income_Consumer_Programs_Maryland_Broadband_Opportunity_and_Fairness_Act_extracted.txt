@@ -1,0 +1,530 @@
+Title: HOUSE BILL 1553
+Official Title: HOUSE BILL 1553
+Number of Sections: 1
+Source: versions - First - Commercial Law - Broadband Access - Low-Income Consumer Programs (Maryland Broadband Opportunity and Fairness Act)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+C9, I4, P1 5lr3597
+By: Delegate Fair
+Introduced and read first time: February 25, 2025
+Assigned to: Rules and Executive Nominations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Commercial Law – Broadband Access – Low–Income Consumer Programs
+3 (Maryland Broadband Opportunity and Fairness Act)
+4 FOR the purpose of requiring each broadband provider in the State to establish a program
+5 to provide broadband services to eligible low–income consumers at certain prices
+6 depending on speed on or before a certain date; authorizing the Office of Statewide
+7 Broadband in the Department of Housing and Community Development to exempt
+8 certain providers from the requirement to establish a program; altering the duties of
+9 the Office; and generally relating to broadband access for low–income consumers.
+10 BY repealing and reenacting, with amendments,
+11 Article – Commercial Law
+12 Section 13–301(14)(xlii)
+13 Annotated Code of Maryland
+14 (2013 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – Commercial Law
+17 Section 13–301(14)(xliii)
+18 Annotated Code of Maryland
+19 (2013 Replacement Volume and 2024 Supplement)
+20 BY adding to
+21 Article – Commercial Law
+22 Section 13–301(14)(xliv); and 14–5001 through 14–5005 to be under the new subtitle
+23 “Subtitle 50. Maryland Broadband Opportunity and Fairness”
+24 Annotated Code of Maryland
+25 (2013 Replacement Volume and 2024 Supplement)
+26 BY repealing and reenacting, without amendments,
+27 Article – Housing and Community Development
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1553*
+2 HOUSE BILL 1553
+1 Section 6.5–101
+2 Annotated Code of Maryland
+3 (2019 Replacement Volume and 2024 Supplement)
+4 BY repealing and reenacting, with amendments,
+5 Article – Housing and Community Development
+6 Section 6.5–104(a)(1), (2), (4), and (5) and (e)
+7 Annotated Code of Maryland
+8 (2019 Replacement Volume and 2024 Supplement)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
+11 Article – Commercial Law
+12 13–301.
+13 Unfair, abusive, or deceptive trade practices include any:
+14 (14) Violation of a provision of:
+15 (xlii) Section 12–6C–09.1 of the Health Occupations Article; [or]
+16 (xliii) Title 14, Subtitle 48 of this article; or
+17 (XLIV) TITLE 14, SUBTITLE 50 OF THIS ARTICLE; OR
+18 SUBTITLE 50. MARYLAND BROADBAND OPPORTUNITY AND FAIRNESS.
+19 14–5001.
+20 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+21 INDICATED.
+22 (B) (1) “BROADBAND SERVICE” MEANS A MASS–MARKET RETAIL SERVICE
+23 THAT PROVIDES THE CAPABILITY TO TRANSMIT DATA TO AND RECEIVE DATA FROM
+24 ALL OR SUBSTANTIALLY ALL INTERNET ENDPOINTS, INCLUDING ANY CAPABILITIES
+25 THAT ARE INCIDENTAL TO AND ENABLE THE OPERATION OF COMMUNICATIONS
+26 SERVICES PROVIDED BY A WIRELINE, FIXED WIRELESS, MOBILE WIRELESS
+27 BROADBAND, OR SATELLITE SERVICE PROVIDER.
+28 (2) “BROADBAND SERVICE” DOES NOT INCLUDE DIAL–UP SERVICE.
+29 (C) “LOW–INCOME CONSUMER” MEANS AN INDIVIDUAL WHOSE HOUSEHOLD
+30 OR AT LEAST ONE MEMBER OF THE HOUSEHOLD:
+HOUSE BILL 1553 3
+1 (1) MEETS THE ELIGIBILITY CRITERIA FOR:
+2 (I) FREE AND REDUCED PRICED MEAL PROGRAMS
+3 ESTABLISHED BY THE U.S. DEPARTMENT OF AGRICULTURE;
+4 (II) SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
+5 BENEFITS; OR
+6 (III) MEDICAID BENEFITS;
+7 (2) IN THE PRIOR TAXABLE YEAR, MET THE ELIGIBILITY CRITERIA
+8 FOR:
+9 (I) THE MARYLAND EARNED INCOME TAX CREDIT; OR
+10 (II) THE CREDIT FOR THE ELDERLY AND THE PERMANENTLY
+11 AND TOTALLY DISABLED UNDER 26 U.S.C. § 22;
+12 (3) RECEIVES A BENEFIT THROUGH A LOW–INCOME ENERGY
+13 ASSISTANCE PROGRAM; OR
+14 (4) HAS AN ANNUAL HOUSEHOLD INCOME AT OR BELOW 200% OF THE
+15 FEDERAL POVERTY GUIDELINES.
+16 (D) “OFFICE” MEANS THE OFFICE OF STATEWIDE BROADBAND IN THE
+17 DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT.
+18 (E) “PROGRAM” MEANS A LOW–INCOME CONSUMER PROGRAM.
+19 (F) “PROVIDER” MEANS A PERSON THAT PROVIDES BROADBAND SERVICE.
+20 14–5002.
+21 (A) ON OR BEFORE DECEMBER 1, 2025, EACH PROVIDER IN THE STATE
+22 SHALL ESTABLISH A LOW–INCOME CONSUMER PROGRAM.
+23 (B) (1) SUBJECT TO PARAGRAPHS (2) AND (3) OF THIS SUBSECTION, A
+24 PROGRAM SHALL OFFER BROADBAND SERVICE TO ELIGIBLE LOW–INCOME
+25 CONSUMERS AT A PRICE NOT TO EXCEED:
+4 HOUSE BILL 1553
+1 (I) $15 PER MONTH, INCLUDING TAXES AND FEES, FOR A
+2 MINIMUM BROADBAND SPEED OF 100 MEGABITS PER SECOND DOWNLOAD SPEED
+3 AND 20 MEGABITS PER SECOND UPLOAD SPEED; OR
+4 (II) $20 PER MONTH, INCLUDING TAXES AND FEES, FOR A
+5 MINIMUM BROADBAND SPEED OF 200 MEGABITS PER SECOND DOWNLOAD SPEED
+6 AND 20 MEGABITS PER SECOND UPLOAD SPEED.
+7 (2) THE OFFICE MAY MODIFY THE DOWNLOAD AND UPLOAD SPEEDS
+8 REQUIRED IN PARAGRAPH (1) OF THIS SUBSECTION FOR AREAS OF THE STATE IN
+9 WHICH SUCH SPEEDS ARE NOT REASONABLY PRACTICABLE.
+10 (3) (I) A PROVIDER MAY, ONCE EVERY 3 YEARS, INCREASE THE
+11 PRICE OF BROADBAND SERVICE PROVIDED UNDER THE PROVIDER’S PROGRAM BY
+12 THE LESSER OF:
+13 1. THE MOST RECENT CHANGE IN THE CONSUMER
+14 PRICE INDEX FOR ALL URBAN CONSUMERS; OR
+15 2. NOT MORE THAN 2% PER YEAR.
+16 (II) A PROVIDER SHALL PROVIDE AT LEAST 30 DAYS’ NOTICE OF
+17 A PRICE INCREASE AUTHORIZED UNDER THIS PARAGRAPH TO CONSUMERS
+18 CURRENTLY ENROLLED IN THE PROVIDER’S PROGRAM AND THE OFFICE BEFORE
+19 INCREASING THE PRICE.
+20 (C) A PROVIDER MAY NOT REQUIRE ENROLLMENT IN AN AUTOMATIC
+21 PAYMENT PLAN AS A CRITERION FOR ELIGIBILITY IN A PROGRAM.
+22 (D) A PROVIDER SHALL ALLOW CUSTOMERS ENROLLED IN THE PROVIDER’S
+23 PROGRAM TO PURCHASE STANDALONE BROADBAND SERVICE, OR BROADBAND
+24 SERVICE BUNDLED WITH CABLE TELEVISION OR PHONE SERVICE.
+25 (E) ANY CONTRACT OR AGREEMENT FOR BROADBAND SERVICE OFFERED AS
+26 PART OF A PROGRAM SHALL INCLUDE THE SAME TERMS AND CONDITIONS, OTHER
+27 THAN PRICE AND BROADBAND SPEED, AS REGULARLY PRICED PLANS FOR SIMILAR
+28 SERVICES OFFERED BY THE PROVIDER.
+29 (F) (1) A PROVIDER SHALL MAKE ALL COMMERCIALLY REASONABLE
+30 EFFORTS TO PROMOTE AND ADVERTISE THE AVAILABILITY OF BROADBAND SERVICE
+31 FOR LOW–INCOME CONSUMERS AND ENROLLMENT PROCEDURES ON THE
+32 PROVIDER’S WEBSITE AND IN ANY WRITTEN OR COMMERCIAL PROMOTIONAL OR
+33 ADVERTISING MATERIALS.
+HOUSE BILL 1553 5
+1 (2) ANY PROMOTION OR ADVERTISING REQUIRED UNDER
+2 PARAGRAPH (1) OF THIS SUBSECTION SHALL INCLUDE THE PROMINENT DISPLAY OF
+3 THE PROVIDER’S PROGRAM.
+4 14–5003.
+5 THE OFFICE MAY EXEMPT A PROVIDER FROM THE REQUIREMENTS OF §
+6 14–5002 OF THIS SUBTITLE IF:
+7 (1) THE PROVIDER PROVIDES BROADBAND SERVICE TO FEWER THAN
+8 20,000 HOUSEHOLDS; AND
+9 (2) THE OFFICE DETERMINES THAT COMPLIANCE WOULD RESULT IN
+10 AN UNREASONABLE OR UNSUSTAINABLE FINANCIAL IMPACT ON THE PROVIDER.
+11 14–5004.
+12 (A) ON OR BEFORE NOVEMBER 15, 2026, AND EACH NOVEMBER 15
+13 THEREAFTER, A PROVIDER IN THE STATE SHALL FILE WITH THE OFFICE A
+14 COMPLIANCE REPORT INCLUDING:
+15 (1) THE AVAILABILITY OF A LOW–INCOME CONSUMER PROGRAM;
+16 (2) THE NUMBER OF CONSUMERS ENROLLED IN THE PROGRAM;
+17 (3) THE PROCEDURES USED TO VERIFY THE ELIGIBILITY OF
+18 CUSTOMERS APPLYING FOR THE PROGRAM;
+19 (4) THE ADVERTISING AND MARKETING EFFORTS UNDERTAKEN TO
+20 ADVERTISE AND PROMOTE THE AVAILABILITY OF THE PROGRAM, INCLUDING
+21 SAMPLES OF ADVERTISING AND MARKETING MATERIALS;
+22 (5) ALL BROADBAND SERVICE PLANS OFFERED BY THE PROVIDER,
+23 INCLUDING PRICING AND BROADBAND SPEEDS; AND
+24 (6) ANY OTHER INFORMATION THE OFFICE CONSIDERS NECESSARY
+25 OR APPROPRIATE.
+26 (B) ON OR BEFORE DECEMBER 1, 2028, AND AT LEAST EVERY 5 YEARS
+27 THEREAFTER, THE OFFICE SHALL:
+6 HOUSE BILL 1553
+1 (1) DETERMINE WHETHER THE MINIMUM BROADBAND DOWNLOAD
+2 AND UPLOAD SPEEDS REQUIRED IN § 14–5002(B)(1) OF THIS SUBTITLE SHOULD BE
+3 INCREASED TO:
+4 (I) THE FEDERAL COMMUNICATIONS COMMISSION’S
+5 BENCHMARK FOR HIGH–SPEED FIXED BROADBAND DOWNLOAD AND UPLOAD
+6 SPEEDS; OR
+7 (II) COMMONLY AVAILABLE MOBILE BROADBAND DOWNLOAD
+8 AND UPLOAD SPEEDS IN THE STATE; AND
+9 (2) (I) EVALUATE THE ELIGIBILITY REQUIREMENTS FOR A
+10 LOW–INCOME CONSUMER; AND
+11 (II) INCLUDE IN THE REPORT REQUIRED UNDER § 6.5–104 OF
+12 THE HOUSING AND COMMUNITY DEVELOPMENT ARTICLE ANY RECOMMENDATIONS
+13 FOR CHANGES TO THE ELIGIBILITY REQUIREMENTS.
+14 14–5005.
+15 A VIOLATION OF THIS SUBTITLE IS AN UNFAIR, ABUSIVE, OR DECEPTIVE
+16 TRADE PRACTICE WITHIN THE MEANING OF TITLE 13 OF THIS ARTICLE AND IS
+17 SUBJECT TO THE ENFORCEMENT AND PENALTY PROVISIONS CONTAINED IN TITLE
+18 13 OF THIS ARTICLE.
+19 Article – Housing and Community Development
+20 6.5–101.
+21 (a) In this title the following words have the meanings indicated.
+22 (b) “Director” means the Director of the Office of Statewide Broadband.
+23 (c) “Office” means the Office of Statewide Broadband.
+24 6.5–104.
+25 (a) The Office shall:
+26 (1) develop definitions and standards for broadband Internet that:
+27 (i) address current and future requirements and uses by
+28 communities, businesses, schools, health care providers, and other stakeholders;
+HOUSE BILL 1553 7
+1 (ii) reflect the need for a forward–looking, statewide digital
+2 communications infrastructure; [and]
+3 (iii) ARE CONSISTENT WITH TITLE 14, SUBTITLE 50 OF THE
+4 COMMERCIAL LAW ARTICLE; AND
+5 (IV) are not at odds with definitions and standards adopted by the
+6 Federal Communications Commission;
+7 (2) (i) collect promotional and nonpromotional pricing data directly
+8 from broadband Internet providers, INCLUDING DATA REQUIRED UNDER § 14–5004(A)
+9 OF THE COMMERCIAL LAW ARTICLE; and
+10 (ii) assess the actual upload and download speeds experienced by
+11 consumers;
+12 (4) create a website that houses a publicly accessible map that allows users
+13 to overlay GIS heat mapping comments, based on and incorporating data and information
+14 from the Federal Communications Commission, that shows, in addition to any information
+15 provided by the Federal Communications Commission:
+16 (i) which residences do and do not have access to broadband
+17 Internet;
+18 (ii) broadband Internet service prices and plans available in
+19 different areas, INCLUDING REDUCED RATE BROADBAND PLANS FOR LOW–INCOME
+20 CONSUMERS; and
+21 (iii) other available State geographic and demographic data;
+22 (5) collect, analyze, and publicly share:
+23 (i) geographic and demographic data regarding households that rely
+24 on mobile broadband for Internet service, based on the understanding that mobile
+25 broadband is not a substitute for in–home fixed Internet services;
+26 (ii) data regarding the adoption and affordability of reliable
+27 broadband Internet in the State, including the average cost per average speed by county;
+28 [and]
+29 (iii) data regarding investments in expanding Internet
+30 infrastructure, adoption, and speed increases; AND
+31 (IV) AVAILABLE BROADBAND PRODUCTS INCLUDING RETAIL
+32 RATE PLANS AND LOW–INCOME CONSUMER PLANS;
+8 HOUSE BILL 1553
+1 (e) (1) On or before December 1, 2021, and each year thereafter, the Office
+2 shall report to the Governor and, in accordance with § 2–1257 of the State Government
+3 Article, the General Assembly on:
+4 (i) the progress of the State’s efforts to:
+5 1. develop and implement the plan required under
+6 subsection (c) of this section;
+7 2. increase access and connection to broadband Internet
+8 services throughout the State with specific reporting on improvements to infrastructure,
+9 adoption, and speeds;
+10 3. improve digital literacy among residents of the State; and
+11 4. increase speeds to meet or exceed the Federal
+12 Communications Commission standard for upload and download speeds;
+13 (ii) the existing gaps in connectivity and the State’s progress toward
+14 closing those gaps;
+15 (iii) the impact that gaps in Internet service have on the workforce
+16 and State and local economies;
+17 (iv) information from local education agencies on the impact of
+18 Internet service quality on student achievement and access to 21st century opportunities;
+19 (v) demographic data on locations with gaps in services; and
+20 (vi) the allocation of money from, and programs supported by, the
+21 Digital Inclusion Fund, the Digital Connectivity Fund, and the Rural Broadband
+22 Assistance Fund in the preceding fiscal year.
+23 (2) The report required under paragraph (1) of this subsection shall:
+24 (I) MEET THE REQUIREMENTS OF § 14–5004(B)(2)(II) OF THE
+25 COMMERCIAL LAW ARTICLE; AND
+26 (II) be published on the website established under subsection (a)(4)
+27 of this section.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+29 October 1, 2025.
+[DELETED: :CA      5     A C ( F t d B c t B  A S  A  ( B  A  S  A  ( B  A S “  A  ( B  A]
+[DELETED:  H  S  A  ( B  A S  A  (  S T A 1  U   ( V    ( S o]    ( T   ) T1,S50;VI  U  E 5.MBOF.  A R P A() N T S T F W H T M() ( “B”RE SM NS  A I T A E T O O C P B A WE F WS M WD . ( “B”–.E LU() “L–OWIR ]
+[DELETED: H 3 ( M:  () R A R P M P  E G.DA;  () SNAIU U S RS   () M;IE ( I T P T YR M E C  () TM;H AT   () IH C F T E A T P   6U.§2 ( R A B T A LWI EM  ( H2  () “O”OSFE M T F O T R I THCD. O O E() “P”–.RM WI() “P”.RR () OD1,2,N O B E   E P I T TWI.() ( S()()U    N  S O B S T E LWI]
+[DELETED:  H   () $5, P MH I T A FS F A    D 0;  () $0,I P MH I T A FS F A    0. ( T F   T) ( () A,3 P MY O E  YS I TRS   1 T M R C I T OIAUC; N L R OS    2 N2%.    () A30I   S  P I A U T P T CRS F()  P M N R E I A A() A RS T P S B SE O B() NS D () (  P S M A C R LWI C A E P O TRS W A I A W O C P O]
+[DELETED: H 5 (  P O A R U  RS.TO§ F M E A P F T R O 2: ( 0;S  ( T F() ON1,2,N1N O B O   A E O R A P I T T S F W T F AS ( T–;WI ( T; (  P U T V T E O (  A P T A O T PM I ( A B P O PRS  ( A F() OD1,2,N O B E   A A L E  YR  FO:]
+[DELETED:  H  (  W T M B D  B 1()  () TFCCH E O ONS F HHS F B D A US   () IO A M B D TE ; ( () EV T E R F AWIR ;  () I§6IN    O O E RCDSA,V O T S I A UR AE O D P W T M O I  O T A A I1 I3. A 6  ( I  ( “  ( “ 6  ( T   ( d    ( a c a f r a u b c]
+[DELETED: H 7    ( r t n f a f s d c a]   T1,S5 ( C W I  U  O TLA; A RE      a F   ( ( c p a n p d d f§1(  A O A RL ;    ( a c   ( c t f p    ( w r d a d n h a t b I    ( b I s p a p a i dWI ;    ( o   ( c    ( g o m b f I s b o t u t m b    ( d r t a a a o r b] a    ( d r i i e I i  ()VA B P I RWI;]
+[DELETED:  H   ( ( O s A    ( t     1 d a i t p r u s     2 i a a c t b I s a     3 i     4 i s t m o e t F C    ( t c    ( t a    ( i f l e a o t i o I    ( d    ( t D I F t D C F a t R B A   ( T   ) §1()(M  BII LA; A RE   (  b o  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1553
+C9, I4, P1 5lr3597
+By: Delegate Fair
+Introduced and read first time: February 25, 2025
+Assigned to: Rules and Executive Nominations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Commercial Law – Broadband Access – Low–Income Consumer Programs
+3 (Maryland Broadband Opportunity and Fairness Act)
+4 FOR the purpose of requiring each broadband provider in the State to establish a program
+5 to provide broadband services to eligible low–income consumers at certain prices
+6 depending on speed on or before a certain date; authorizing the Office of Statewide
+7 Broadband in the Department of Housing and Community Development to exempt
+8 certain providers from the requirement to establish a program; altering the duties of
+9 the Office; and generally relating to broadband access for low–income consumers.
+10 BY repealing and reenacting, with amendments,
+11 Article – Commercial Law
+12 Section 13–301(14)(xlii)
+13 Annotated Code of Maryland
+14 (2013 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – Commercial Law
+17 Section 13–301(14)(xliii)
+18 Annotated Code of Maryland
+19 (2013 Replacement Volume and 2024 Supplement)
+20 BY adding to
+21 Article – Commercial Law
+22 Section 13–301(14)(xliv); and 14–5001 through 14–5005 to be under the new subtitle
+23 “Subtitle 50. Maryland Broadband Opportunity and Fairness”
+24 Annotated Code of Maryland
+25 (2013 Replacement Volume and 2024 Supplement)
+26 BY repealing and reenacting, without amendments,
+27 Article – Housing and Community Development
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1553*
+
+2 HOUSE BILL 1553
+1 Section 6.5–101
+2 Annotated Code of Maryland
+3 (2019 Replacement Volume and 2024 Supplement)
+4 BY repealing and reenacting, with amendments,
+5 Article – Housing and Community Development
+6 Section 6.5–104(a)(1), (2), (4), and (5) and (e)
+7 Annotated Code of Maryland
+8 (2019 Replacement Volume and 2024 Supplement)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
+11 Article – Commercial Law
+12 13–301.
+13 Unfair, abusive, or deceptive trade practices include any:
+14 (14) Violation of a provision of:
+15 (xlii) Section 12–6C–09.1 of the Health Occupations Article; [or]
+16 (xliii) Title 14, Subtitle 48 of this article; or
+17 (XLIV) TITLE 14, SUBTITLE 50 OF THIS ARTICLE; OR
+18 SUBTITLE 50. MARYLAND BROADBAND OPPORTUNITY AND FAIRNESS.
+19 14–5001.
+20 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+21 INDICATED.
+22 (B) (1) “BROADBAND SERVICE” MEANS A MASS–MARKET RETAIL SERVICE
+23 THAT PROVIDES THE CAPABILITY TO TRANSMIT DATA TO AND RECEIVE DATA FROM
+24 ALL OR SUBSTANTIALLY ALL INTERNET ENDPOINTS, INCLUDING ANY CAPABILITIES
+25 THAT ARE INCIDENTAL TO AND ENABLE THE OPERATION OF COMMUNICATIONS
+26 SERVICES PROVIDED BY A WIRELINE, FIXED WIRELESS, MOBILE WIRELESS
+27 BROADBAND, OR SATELLITE SERVICE PROVIDER.
+28 (2) “BROADBAND SERVICE” DOES NOT INCLUDE DIAL–UP SERVICE.
+29 (C) “LOW–INCOME CONSUMER” MEANS AN INDIVIDUAL WHOSE HOUSEHOLD
+30 OR AT LEAST ONE MEMBER OF THE HOUSEHOLD:
+
+HOUSE BILL 1553 3
+1 (1) MEETS THE ELIGIBILITY CRITERIA FOR:
+2 (I) FREE AND REDUCED PRICED MEAL PROGRAMS
+3 ESTABLISHED BY THE U.S. DEPARTMENT OF AGRICULTURE;
+4 (II) SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
+5 BENEFITS; OR
+6 (III) MEDICAID BENEFITS;
+7 (2) IN THE PRIOR TAXABLE YEAR, MET THE ELIGIBILITY CRITERIA
+8 FOR:
+9 (I) THE MARYLAND EARNED INCOME TAX CREDIT; OR
+10 (II) THE CREDIT FOR THE ELDERLY AND THE PERMANENTLY
+11 AND TOTALLY DISABLED UNDER 26 U.S.C. § 22;
+12 (3) RECEIVES A BENEFIT THROUGH A LOW–INCOME ENERGY
+13 ASSISTANCE PROGRAM; OR
+14 (4) HAS AN ANNUAL HOUSEHOLD INCOME AT OR BELOW 200% OF THE
+15 FEDERAL POVERTY GUIDELINES.
+16 (D) “OFFICE” MEANS THE OFFICE OF STATEWIDE BROADBAND IN THE
+17 DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT.
+18 (E) “PROGRAM” MEANS A LOW–INCOME CONSUMER PROGRAM.
+19 (F) “PROVIDER” MEANS A PERSON THAT PROVIDES BROADBAND SERVICE.
+20 14–5002.
+21 (A) ON OR BEFORE DECEMBER 1, 2025, EACH PROVIDER IN THE STATE
+22 SHALL ESTABLISH A LOW–INCOME CONSUMER PROGRAM.
+23 (B) (1) SUBJECT TO PARAGRAPHS (2) AND (3) OF THIS SUBSECTION, A
+24 PROGRAM SHALL OFFER BROADBAND SERVICE TO ELIGIBLE LOW–INCOME
+25 CONSUMERS AT A PRICE NOT TO EXCEED:
+
+4 HOUSE BILL 1553
+1 (I) $15 PER MONTH, INCLUDING TAXES AND FEES, FOR A
+2 MINIMUM BROADBAND SPEED OF 100 MEGABITS PER SECOND DOWNLOAD SPEED
+3 AND 20 MEGABITS PER SECOND UPLOAD SPEED; OR
+4 (II) $20 PER MONTH, INCLUDING TAXES AND FEES, FOR A
+5 MINIMUM BROADBAND SPEED OF 200 MEGABITS PER SECOND DOWNLOAD SPEED
+6 AND 20 MEGABITS PER SECOND UPLOAD SPEED.
+7 (2) THE OFFICE MAY MODIFY THE DOWNLOAD AND UPLOAD SPEEDS
+8 REQUIRED IN PARAGRAPH (1) OF THIS SUBSECTION FOR AREAS OF THE STATE IN
+9 WHICH SUCH SPEEDS ARE NOT REASONABLY PRACTICABLE.
+10 (3) (I) A PROVIDER MAY, ONCE EVERY 3 YEARS, INCREASE THE
+11 PRICE OF BROADBAND SERVICE PROVIDED UNDER THE PROVIDER’S PROGRAM BY
+12 THE LESSER OF:
+13 1. THE MOST RECENT CHANGE IN THE CONSUMER
+14 PRICE INDEX FOR ALL URBAN CONSUMERS; OR
+15 2. NOT MORE THAN 2% PER YEAR.
+16 (II) A PROVIDER SHALL PROVIDE AT LEAST 30 DAYS’ NOTICE OF
+17 A PRICE INCREASE AUTHORIZED UNDER THIS PARAGRAPH TO CONSUMERS
+18 CURRENTLY ENROLLED IN THE PROVIDER’S PROGRAM AND THE OFFICE BEFORE
+19 INCREASING THE PRICE.
+20 (C) A PROVIDER MAY NOT REQUIRE ENROLLMENT IN AN AUTOMATIC
+21 PAYMENT PLAN AS A CRITERION FOR ELIGIBILITY IN A PROGRAM.
+22 (D) A PROVIDER SHALL ALLOW CUSTOMERS ENROLLED IN THE PROVIDER’S
+23 PROGRAM TO PURCHASE STANDALONE BROADBAND SERVICE, OR BROADBAND
+24 SERVICE BUNDLED WITH CABLE TELEVISION OR PHONE SERVICE.
+25 (E) ANY CONTRACT OR AGREEMENT FOR BROADBAND SERVICE OFFERED AS
+26 PART OF A PROGRAM SHALL INCLUDE THE SAME TERMS AND CONDITIONS, OTHER
+27 THAN PRICE AND BROADBAND SPEED, AS REGULARLY PRICED PLANS FOR SIMILAR
+28 SERVICES OFFERED BY THE PROVIDER.
+29 (F) (1) A PROVIDER SHALL MAKE ALL COMMERCIALLY REASONABLE
+30 EFFORTS TO PROMOTE AND ADVERTISE THE AVAILABILITY OF BROADBAND SERVICE
+31 FOR LOW–INCOME CONSUMERS AND ENROLLMENT PROCEDURES ON THE
+32 PROVIDER’S WEBSITE AND IN ANY WRITTEN OR COMMERCIAL PROMOTIONAL OR
+33 ADVERTISING MATERIALS.
+
+HOUSE BILL 1553 5
+1 (2) ANY PROMOTION OR ADVERTISING REQUIRED UNDER
+2 PARAGRAPH (1) OF THIS SUBSECTION SHALL INCLUDE THE PROMINENT DISPLAY OF
+3 THE PROVIDER’S PROGRAM.
+4 14–5003.
+5 THE OFFICE MAY EXEMPT A PROVIDER FROM THE REQUIREMENTS OF §
+6 14–5002 OF THIS SUBTITLE IF:
+7 (1) THE PROVIDER PROVIDES BROADBAND SERVICE TO FEWER THAN
+8 20,000 HOUSEHOLDS; AND
+9 (2) THE OFFICE DETERMINES THAT COMPLIANCE WOULD RESULT IN
+10 AN UNREASONABLE OR UNSUSTAINABLE FINANCIAL IMPACT ON THE PROVIDER.
+11 14–5004.
+12 (A) ON OR BEFORE NOVEMBER 15, 2026, AND EACH NOVEMBER 15
+13 THEREAFTER, A PROVIDER IN THE STATE SHALL FILE WITH THE OFFICE A
+14 COMPLIANCE REPORT INCLUDING:
+15 (1) THE AVAILABILITY OF A LOW–INCOME CONSUMER PROGRAM;
+16 (2) THE NUMBER OF CONSUMERS ENROLLED IN THE PROGRAM;
+17 (3) THE PROCEDURES USED TO VERIFY THE ELIGIBILITY OF
+18 CUSTOMERS APPLYING FOR THE PROGRAM;
+19 (4) THE ADVERTISING AND MARKETING EFFORTS UNDERTAKEN TO
+20 ADVERTISE AND PROMOTE THE AVAILABILITY OF THE PROGRAM, INCLUDING
+21 SAMPLES OF ADVERTISING AND MARKETING MATERIALS;
+22 (5) ALL BROADBAND SERVICE PLANS OFFERED BY THE PROVIDER,
+23 INCLUDING PRICING AND BROADBAND SPEEDS; AND
+24 (6) ANY OTHER INFORMATION THE OFFICE CONSIDERS NECESSARY
+25 OR APPROPRIATE.
+26 (B) ON OR BEFORE DECEMBER 1, 2028, AND AT LEAST EVERY 5 YEARS
+27 THEREAFTER, THE OFFICE SHALL:
+
+6 HOUSE BILL 1553
+1 (1) DETERMINE WHETHER THE MINIMUM BROADBAND DOWNLOAD
+2 AND UPLOAD SPEEDS REQUIRED IN § 14–5002(B)(1) OF THIS SUBTITLE SHOULD BE
+3 INCREASED TO:
+4 (I) THE FEDERAL COMMUNICATIONS COMMISSION’S
+5 BENCHMARK FOR HIGH–SPEED FIXED BROADBAND DOWNLOAD AND UPLOAD
+6 SPEEDS; OR
+7 (II) COMMONLY AVAILABLE MOBILE BROADBAND DOWNLOAD
+8 AND UPLOAD SPEEDS IN THE STATE; AND
+9 (2) (I) EVALUATE THE ELIGIBILITY REQUIREMENTS FOR A
+10 LOW–INCOME CONSUMER; AND
+11 (II) INCLUDE IN THE REPORT REQUIRED UNDER § 6.5–104 OF
+12 THE HOUSING AND COMMUNITY DEVELOPMENT ARTICLE ANY RECOMMENDATIONS
+13 FOR CHANGES TO THE ELIGIBILITY REQUIREMENTS.
+14 14–5005.
+15 A VIOLATION OF THIS SUBTITLE IS AN UNFAIR, ABUSIVE, OR DECEPTIVE
+16 TRADE PRACTICE WITHIN THE MEANING OF TITLE 13 OF THIS ARTICLE AND IS
+17 SUBJECT TO THE ENFORCEMENT AND PENALTY PROVISIONS CONTAINED IN TITLE
+18 13 OF THIS ARTICLE.
+19 Article – Housing and Community Development
+20 6.5–101.
+21 (a) In this title the following words have the meanings indicated.
+22 (b) “Director” means the Director of the Office of Statewide Broadband.
+23 (c) “Office” means the Office of Statewide Broadband.
+24 6.5–104.
+25 (a) The Office shall:
+26 (1) develop definitions and standards for broadband Internet that:
+27 (i) address current and future requirements and uses by
+28 communities, businesses, schools, health care providers, and other stakeholders;
+
+HOUSE BILL 1553 7
+1 (ii) reflect the need for a forward–looking, statewide digital
+2 communications infrastructure; [and]
+3 (iii) ARE CONSISTENT WITH TITLE 14, SUBTITLE 50 OF THE
+4 COMMERCIAL LAW ARTICLE; AND
+5 (IV) are not at odds with definitions and standards adopted by the
+6 Federal Communications Commission;
+7 (2) (i) collect promotional and nonpromotional pricing data directly
+8 from broadband Internet providers, INCLUDING DATA REQUIRED UNDER § 14–5004(A)
+9 OF THE COMMERCIAL LAW ARTICLE; and
+10 (ii) assess the actual upload and download speeds experienced by
+11 consumers;
+12 (4) create a website that houses a publicly accessible map that allows users
+13 to overlay GIS heat mapping comments, based on and incorporating data and information
+14 from the Federal Communications Commission, that shows, in addition to any information
+15 provided by the Federal Communications Commission:
+16 (i) which residences do and do not have access to broadband
+17 Internet;
+18 (ii) broadband Internet service prices and plans available in
+19 different areas, INCLUDING REDUCED RATE BROADBAND PLANS FOR LOW–INCOME
+20 CONSUMERS; and
+21 (iii) other available State geographic and demographic data;
+22 (5) collect, analyze, and publicly share:
+23 (i) geographic and demographic data regarding households that rely
+24 on mobile broadband for Internet service, based on the understanding that mobile
+25 broadband is not a substitute for in–home fixed Internet services;
+26 (ii) data regarding the adoption and affordability of reliable
+27 broadband Internet in the State, including the average cost per average speed by county;
+28 [and]
+29 (iii) data regarding investments in expanding Internet
+30 infrastructure, adoption, and speed increases; AND
+31 (IV) AVAILABLE BROADBAND PRODUCTS INCLUDING RETAIL
+32 RATE PLANS AND LOW–INCOME CONSUMER PLANS;
+
+8 HOUSE BILL 1553
+1 (e) (1) On or before December 1, 2021, and each year thereafter, the Office
+2 shall report to the Governor and, in accordance with § 2–1257 of the State Government
+3 Article, the General Assembly on:
+4 (i) the progress of the State’s efforts to:
+5 1. develop and implement the plan required under
+6 subsection (c) of this section;
+7 2. increase access and connection to broadband Internet
+8 services throughout the State with specific reporting on improvements to infrastructure,
+9 adoption, and speeds;
+10 3. improve digital literacy among residents of the State; and
+11 4. increase speeds to meet or exceed the Federal
+12 Communications Commission standard for upload and download speeds;
+13 (ii) the existing gaps in connectivity and the State’s progress toward
+14 closing those gaps;
+15 (iii) the impact that gaps in Internet service have on the workforce
+16 and State and local economies;
+17 (iv) information from local education agencies on the impact of
+18 Internet service quality on student achievement and access to 21st century opportunities;
+19 (v) demographic data on locations with gaps in services; and
+20 (vi) the allocation of money from, and programs supported by, the
+21 Digital Inclusion Fund, the Digital Connectivity Fund, and the Rural Broadband
+22 Assistance Fund in the preceding fiscal year.
+23 (2) The report required under paragraph (1) of this subsection shall:
+24 (I) MEET THE REQUIREMENTS OF § 14–5004(B)(2)(II) OF THE
+25 COMMERCIAL LAW ARTICLE; AND
+26 (II) be published on the website established under subsection (a)(4)
+27 of this section.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+29 October 1, 2025.
+
+[DELETED: :CA      5     A C ( F t d B c t B  A S  A  ( B  A  S  A  ( B  A S “  A  ( B  A]
+[DELETED:  H  S  A  ( B  A S  A  (  S T A 1  U   ( V    ( S o]    ( T   ) T1,S50;VI  U  E 5.MBOF.  A R P A() N T S T F W H T M() ( “B”RE SM NS  A I T A E T O O C P B A WE F WS M WD . ( “B”–.E LU() “L–OWIR ]
+[DELETED: H 3 ( M:  () R A R P M P  E G.DA;  () SNAIU U S RS   () M;IE ( I T P T YR M E C  () TM;H AT   () IH C F T E A T P   6U.§2 ( R A B T A LWI EM  ( H2  () “O”OSFE M T F O T R I THCD. O O E() “P”–.RM WI() “P”.RR () OD1,2,N O B E   E P I T TWI.() ( S()()U    N  S O B S T E LWI]
+[DELETED:  H   () $5, P MH I T A FS F A    D 0;  () $0,I P MH I T A FS F A    0. ( T F   T) ( () A,3 P MY O E  YS I TRS   1 T M R C I T OIAUC; N L R OS    2 N2%.    () A30I   S  P I A U T P T CRS F()  P M N R E I A A() A RS T P S B SE O B() NS D () (  P S M A C R LWI C A E P O TRS W A I A W O C P O]
+[DELETED: H 5 (  P O A R U  RS.TO§ F M E A P F T R O 2: ( 0;S  ( T F() ON1,2,N1N O B O   A E O R A P I T T S F W T F AS ( T–;WI ( T; (  P U T V T E O (  A P T A O T PM I ( A B P O PRS  ( A F() OD1,2,N O B E   A A L E  YR  FO:]
+[DELETED:  H  (  W T M B D  B 1()  () TFCCH E O ONS F HHS F B D A US   () IO A M B D TE ; ( () EV T E R F AWIR ;  () I§6IN    O O E RCDSA,V O T S I A UR AE O D P W T M O I  O T A A I1 I3. A 6  ( I  ( “  ( “ 6  ( T   ( d    ( a c a f r a u b c]
+[DELETED: H 7    ( r t n f a f s d c a]   T1,S5 ( C W I  U  O TLA; A RE      a F   ( ( c p a n p d d f§1(  A O A RL ;    ( a c   ( c t f p    ( w r d a d n h a t b I    ( b I s p a p a i dWI ;    ( o   ( c    ( g o m b f I s b o t u t m b    ( d r t a a a o r b] a    ( d r i i e I i  ()VA B P I RWI;]
+[DELETED:  H   ( ( O s A    ( t     1 d a i t p r u s     2 i a a c t b I s a     3 i     4 i s t m o e t F C    ( t c    ( t a    ( i f l e a o t i o I    ( d    ( t D I F t D C F a t R B A   ( T   ) §1()(M  BII LA; A RE   (  b o  S A B I F E T t A s t e O]
