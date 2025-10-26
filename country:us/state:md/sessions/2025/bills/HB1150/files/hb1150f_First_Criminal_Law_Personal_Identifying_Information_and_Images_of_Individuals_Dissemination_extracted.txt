@@ -1,0 +1,157 @@
+Title: HOUSE BILL 1150
+Official Title: HOUSE BILL 1150
+Number of Sections: 1
+Source: versions - First - Criminal Law - Personal Identifying Information and Images of Individuals - Dissemination
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+E1 5lr2603
+HB 1460/24 – HRU
+By: Delegates Martinez, Acevero, Fennell, A. Johnson, Phillips, Simpson, Taveras,
+Taylor, Turner, and White Holland
+Introduced and read first time: February 6, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Law – Personal Identifying Information and Images of Individuals –
+3 Dissemination
+4 FOR the purpose of prohibiting a person from intentionally disseminating the personal
+5 identifying information or image of an individual under a certain age under certain
+6 circumstances; and generally relating to the dissemination of personal identifying
+7 information and images of individuals.
+8 BY adding to
+9 Article – Criminal Law
+10 Section 3–810
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Criminal Law
+16 3–810.
+17 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+18 INDICATED.
+19 (2) “DISSEMINATE” MEANS TO PUBLISH, POST, OR OTHERWISE
+20 DISCLOSE INFORMATION ON A PUBLIC INTERNET SITE OR ON A PUBLIC FORUM.
+21 (3) “PERSONAL IDENTIFYING INFORMATION” INCLUDES:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1150*
+2 HOUSE BILL 1150
+1 (I) NAME;
+2 (II) ADDRESS;
+3 (III) TELEPHONE NUMBER;
+4 (IV) DRIVER’S LICENSE NUMBER;
+5 (V) SOCIAL SECURITY NUMBER;
+6 (VI) PLACE OF EMPLOYMENT;
+7 (VII) EMPLOYEE IDENTIFICATION NUMBER;
+8 (VIII) HEALTH INSURANCE IDENTIFICATION NUMBER;
+9 (IX) MEDICAL IDENTIFICATION NUMBER;
+10 (X) MOTHER’S MAIDEN NAME;
+11 (XI) BANK OR OTHER FINANCIAL INSTITUTION ACCOUNT
+12 NUMBER;
+13 (XII) DATE OF BIRTH;
+14 (XIII) PERSONAL IDENTIFICATION NUMBER;
+15 (XIV) UNIQUE BIOMETRIC DATA, INCLUDING FINGERPRINT,
+16 VOICE PRINT, RETINA OR IRIS IMAGE, OR OTHER UNIQUE PHYSICAL
+17 REPRESENTATION;
+18 (XV) DIGITAL SIGNATURE;
+19 (XVI) CREDIT CARD NUMBER OR OTHER PAYMENT DEVICE
+20 NUMBER; OR
+21 (XVII) SCHOOL ADDRESS.
+22 (B) A PERSON MAY NOT INTENTIONALLY DISSEMINATE THE PERSONAL
+23 IDENTIFYING INFORMATION OR IMAGES OF AN INDIVIDUAL WHO IS UNDER THE AGE
+24 OF 25 YEARS:
+25 (1) WITHOUT EXPRESS PERMISSION; AND
+HOUSE BILL 1150 3
+1 (2) WITH THE INTENT TO INTIMIDATE OR HARM THE INDIVIDUAL.
+2 (C) THIS SECTION MAY NOT BE CONSTRUED OR APPLIED IN A MANNER THAT
+3 VIOLATES A PERSON’S RIGHTS TO FREEDOM OF SPEECH UNDER THE U.S.
+4 CONSTITUTION OR THE MARYLAND DECLARATION OF RIGHTS.
+5 (D) A PERSON WHO VIOLATES THIS SECTION IS GUILTY OF A MISDEMEANOR
+6 AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT EXCEEDING 1 YEAR OR A
+7 FINE NOT EXCEEDING $5,000 OR BOTH.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 October 1, 2025.
+[DELETED: :CA      5     A C D F i c i B  A S  A  (  S T A() ( N ( “D”,E M T PH PT O O N. ( “P”:N ]
+[DELETED:  H   () ;N  () ;IA  () ;IT  () ’;VDRS  () SS;O E  () ;IP  () ;IE  () ;IH  () ;XM  () ’;MRS  ()IB O O F I A  () ;IDH  () ;IP  () ,VU B DA I FT PT R O I IE O O U P  () ;VDE  ()IC C N O O P DR   () .IS()  P M N I D T P  5: ( ;N ]
+[DELETED: H 3 ( .() H A PNS R T F O S U T UMDR. A E I()      0   S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1150
+E1 5lr2603
+HB 1460/24 – HRU
+By: Delegates Martinez, Acevero, Fennell, A. Johnson, Phillips, Simpson, Taveras,
+Taylor, Turner, and White Holland
+Introduced and read first time: February 6, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Law – Personal Identifying Information and Images of Individuals –
+3 Dissemination
+4 FOR the purpose of prohibiting a person from intentionally disseminating the personal
+5 identifying information or image of an individual under a certain age under certain
+6 circumstances; and generally relating to the dissemination of personal identifying
+7 information and images of individuals.
+8 BY adding to
+9 Article – Criminal Law
+10 Section 3–810
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Criminal Law
+16 3–810.
+17 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+18 INDICATED.
+19 (2) “DISSEMINATE” MEANS TO PUBLISH, POST, OR OTHERWISE
+20 DISCLOSE INFORMATION ON A PUBLIC INTERNET SITE OR ON A PUBLIC FORUM.
+21 (3) “PERSONAL IDENTIFYING INFORMATION” INCLUDES:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1150*
+
+2 HOUSE BILL 1150
+1 (I) NAME;
+2 (II) ADDRESS;
+3 (III) TELEPHONE NUMBER;
+4 (IV) DRIVER’S LICENSE NUMBER;
+5 (V) SOCIAL SECURITY NUMBER;
+6 (VI) PLACE OF EMPLOYMENT;
+7 (VII) EMPLOYEE IDENTIFICATION NUMBER;
+8 (VIII) HEALTH INSURANCE IDENTIFICATION NUMBER;
+9 (IX) MEDICAL IDENTIFICATION NUMBER;
+10 (X) MOTHER’S MAIDEN NAME;
+11 (XI) BANK OR OTHER FINANCIAL INSTITUTION ACCOUNT
+12 NUMBER;
+13 (XII) DATE OF BIRTH;
+14 (XIII) PERSONAL IDENTIFICATION NUMBER;
+15 (XIV) UNIQUE BIOMETRIC DATA, INCLUDING FINGERPRINT,
+16 VOICE PRINT, RETINA OR IRIS IMAGE, OR OTHER UNIQUE PHYSICAL
+17 REPRESENTATION;
+18 (XV) DIGITAL SIGNATURE;
+19 (XVI) CREDIT CARD NUMBER OR OTHER PAYMENT DEVICE
+20 NUMBER; OR
+21 (XVII) SCHOOL ADDRESS.
+22 (B) A PERSON MAY NOT INTENTIONALLY DISSEMINATE THE PERSONAL
+23 IDENTIFYING INFORMATION OR IMAGES OF AN INDIVIDUAL WHO IS UNDER THE AGE
+24 OF 25 YEARS:
+25 (1) WITHOUT EXPRESS PERMISSION; AND
+
+HOUSE BILL 1150 3
+1 (2) WITH THE INTENT TO INTIMIDATE OR HARM THE INDIVIDUAL.
+2 (C) THIS SECTION MAY NOT BE CONSTRUED OR APPLIED IN A MANNER THAT
+3 VIOLATES A PERSON’S RIGHTS TO FREEDOM OF SPEECH UNDER THE U.S.
+4 CONSTITUTION OR THE MARYLAND DECLARATION OF RIGHTS.
+5 (D) A PERSON WHO VIOLATES THIS SECTION IS GUILTY OF A MISDEMEANOR
+6 AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT EXCEEDING 1 YEAR OR A
+7 FINE NOT EXCEEDING $5,000 OR BOTH.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 October 1, 2025.
+
+[DELETED: :CA      5     A C D F i c i B  A S  A  (  S T A() ( N ( “D”,E M T PH PT O O N. ( “P”:N ]
+[DELETED:  H   () ;N  () ;IA  () ;IT  () ’;VDRS  () SS;O E  () ;IP  () ;IE  () ;IH  () ;XM  () ’;MRS  ()IB O O F I A  () ;IDH  () ;IP  () ,VU B DA I FT PT R O I IE O O U P  () ;VDE  ()IC C N O O P DR   () .IS()  P M N I D T P  5: ( ;N ]
+[DELETED: H 3 ( .() H A PNS R T F O S U T UMDR. A E I()      0   S A B I F E T t A s t e O]

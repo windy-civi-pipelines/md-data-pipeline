@@ -1,0 +1,850 @@
+Title: SENATE BILL 1043
+Official Title: SENATE BILL 1043
+Number of Sections: 1
+Source: versions - First - Transportation Trust Fund - Revenue and Distribution (Maryland Mobility Act of 2025)
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+R2, Q4 5lr3552
+By: Senator Benson
+Introduced and read first time: February 15, 2025
+Assigned to: Rules
+A BILL ENTITLED
+1 AN ACT concerning
+2 Transportation Trust Fund – Revenue and Distribution
+3 (Maryland Mobility Act of 2025)
+4 FOR the purpose of imposing a transportation trust fund surcharge on certain sales or uses
+5 in the State; providing that the annual budget request, submitted by the Secretary
+6 of Transportation, for the Maryland Transit Administration and the State Highway
+7 Administration may not exceed a certain amount; requiring that the Governor
+8 include in the annual budget bill certain appropriations for certain modal units of
+9 the Department of Transportation and the Washington Metropolitan Area Transit
+10 Authority; altering the definition of “transportation facilities project” to include
+11 projects included in the Consolidated Transportation Program; requiring the
+12 Maryland Transportation Authority to identify methods to use public–private
+13 partnerships and toll revenue to fund transportation improvements in the State;
+14 requiring the Maryland Transit Administration to identify certain needs as part of a
+15 certain assessment; requiring the State Highway Administration to assess the
+16 ongoing, unconstrained needs of the Administration; and generally relating to
+17 financing transportation projects in the State.
+18 BY repealing and reenacting, with amendments,
+19 Article – Tax – General
+20 Section 2–1303 and 11–102
+21 Annotated Code of Maryland
+22 (2022 Replacement Volume and 2024 Supplement)
+23 BY adding to
+24 Article – Tax – General
+25 Section 11–104(l)
+26 Annotated Code of Maryland
+27 (2022 Replacement Volume and 2024 Supplement)
+28 BY repealing and reenacting, without amendments,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb1043*
+2 SENATE BILL 1043
+1 Article – Transportation
+2 Section 2–103(a)(1), 4–101(a), 4–204, 4–205(a), and 4–312(a)(2)
+3 Annotated Code of Maryland
+4 (2020 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, with amendments,
+6 Article – Transportation
+7 Section 2–103(a)(2), 4–101(h), 4–205(f) and (g), and 7–309
+8 Annotated Code of Maryland
+9 (2020 Replacement Volume and 2024 Supplement)
+10 BY adding to
+11 Article – Transportation
+12 Section 2–114, 4–205(f), 8–209, and 10–205(h)
+13 Annotated Code of Maryland
+14 (2020 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Transportation
+17 Section 7–205
+18 Annotated Code of Maryland
+19 (2020 Replacement Volume and 2024 Supplement)
+20 (As enacted by Chapter 150 of the Acts of the General Assembly of 2021 and Chapters
+21 11 and 20 of the Acts of the General Assembly of the 2021 Special Session)
+22 BY repealing and reenacting, with amendments,
+23 Chapter 351 of the Acts of the General Assembly of 2018, as amended by Chapters
+24 11 and 20 of the Acts of the General Assembly of the 2021 Special Session
+25 Section 9
+26 BY repealing and reenacting, with amendments,
+27 Chapter 352 of the Acts of the General Assembly of 2018, as amended by Chapters
+28 11 and 20 of the Acts of the General Assembly of the 2021 Special Session
+29 Section 9
+30 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+31 That the Laws of Maryland read as follows:
+32 Article – Tax – General
+33 2–1303.
+34 After making the distributions required under §§ 2–1301 through 2–1302.4 of this
+35 subtitle, the Comptroller shall pay:
+SENATE BILL 1043 3
+1 (1) revenues from the hotel surcharge into the Dorchester County
+2 Economic Development Fund established under § 10–130 of the Economic Development
+3 Article;
+4 (2) REVENUES FROM THE TRANSPORTATION TRUST FUND
+5 SURCHARGE ESTABLISHED UNDER § 11–102(C) OF THIS ARTICLE INTO THE
+6 TRANSPORTATION TRUST FUND ESTABLISHED UNDER § 3–216 OF THE
+7 TRANSPORTATION ARTICLE;
+8 [(2)] (3) to the Blueprint for Maryland’s Future Fund established under
+9 § 5–206 of the Education Article, the following percentage of the remaining sales and use
+10 tax revenues:
+11 (i) for fiscal year 2023, 9.2%;
+12 (ii) for fiscal year 2024, 11.0%;
+13 (iii) for fiscal year 2025, 11.3%;
+14 (iv) for fiscal year 2026, 11.7%; and
+15 (v) for fiscal year 2027 and each fiscal year thereafter, 12.1%; and
+16 [(3)] (4) the remaining sales and use tax revenue into the General Fund
+17 of the State.
+18 11–102.
+19 (a) Except as otherwise provided in this title, a tax is imposed on:
+20 (1) a retail sale in the State; and
+21 (2) a use, in the State, of tangible personal property, a digital code, a digital
+22 product, or a taxable service.
+23 (b) (1) Subject to paragraph (2) of this subsection, in addition to the tax
+24 imposed under subsection (a) of this section, a hotel surcharge is imposed in Dorchester
+25 County on the sale of a right to occupy a room or lodgings as a transient guest in an
+26 establishment that offers at least 380 rooms.
+27 (2) The hotel surcharge imposed under paragraph (1) of this subsection
+28 may not be imposed if the Maryland Economic Development Corporation certifies to the
+29 Comptroller that the bonds issued by the Maryland Economic Development Corporation
+30 secured by the Dorchester County Economic Development Fund established under §
+31 10–130 of the Economic Development Article have been paid in full.
+4 SENATE BILL 1043
+1 (c) IN ADDITION TO THE TAX IMPOSED UNDER SUBSECTION (A) OF THIS
+2 SECTION, A TRANSPORTATION TRUST FUND SURCHARGE IS IMPOSED ON:
+3 (1) A RETAIL SALE IN THE STATE; AND
+4 (2) A USE, IN THE STATE, OF TANGIBLE PERSONAL PROPERTY, A
+5 DIGITAL CODE, A DIGITAL PRODUCT, OR A TAXABLE SERVICE.
+6 (D) (1) A county, municipal corporation, special taxing district, or other
+7 political subdivision of the State may not impose any retail sales or use tax except:
+8 (i) a sales tax or use tax that was in effect on January 1, 1971;
+9 (ii) a tax on the sale or use of:
+10 1. fuels;
+11 2. utilities;
+12 3. space rentals; or
+13 4. any controlled dangerous substance, as defined in § 5–101
+14 of the Criminal Law Article, unless the sale is made by a person who registers under and
+15 complies with Title 5, Subtitle 3 of the Criminal Law Article; or
+16 (iii) a tax imposed by a code county on the sale or use of food and
+17 beverages authorized under § 20–602 of the Local Government Article.
+18 (2) Paragraph (1) of this subsection may not be construed as conferring
+19 authority to impose a sales and use tax.
+20 11–104.
+21 (L) THE RATE OF THE TRANSPORTATION TRUST FUND SURCHARGE
+22 IMPOSED UNDER § 11–102(C) OF THIS SUBTITLE IS 1%.
+23 Article – Transportation
+24 2–103.
+25 (a) (1) The Secretary is responsible for the budget of the Office of the Secretary
+26 and for the budget of each unit in the Department.
+27 (2) (I) The budget request that the Secretary submits for the
+28 Department shall contain, for each modal administration, separate items for:
+SENATE BILL 1043 5
+1 [(i)] 1. Capital expenditures; and
+2 [(ii)] 2. [Operating] SUBJECT TO SUBPARAGRAPH (II) OF THIS
+3 PARAGRAPH, OPERATING expenditures.
+4 (II) FOR FISCAL YEAR 2027 AND EACH FISCAL YEAR
+5 THEREAFTER, THE OPERATING EXPENDITURES INCLUDED IN THE BUDGET REQUEST
+6 REQUIRED UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH FOR THE MARYLAND
+7 TRANSIT ADMINISTRATION AND THE STATE HIGHWAY ADMINISTRATION MAY NOT
+8 EXCEED THE AMOUNT INCLUDED IN THE IMMEDIATELY PRECEDING FISCAL YEAR
+9 INCREASED BY 3%.
+10 2–114.
+11 FOR FISCAL YEAR 2027 AND EACH FISCAL YEAR THEREAFTER, THE
+12 GOVERNOR SHALL INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION TO
+13 THE DEPARTMENT EQUAL TO THE AMOUNT NECESSARY TO SATISFY THE STATE
+14 MATCHING REQUIREMENT FOR ANY NEW CAPITAL PROJECT INCLUDED IN THE
+15 CURRENT YEAR CONSOLIDATED TRANSPORTATION PROGRAM THAT IS ELIGIBLE
+16 FOR FEDERAL FUNDING.
+17 4–101.
+18 (a) In this title the following words have the meanings indicated.
+19 (h) “Transportation facilities project” includes:
+20 (1) The Susquehanna River Bridge, the Harry W. Nice/Thomas “Mac”
+21 Middleton Potomac River Bridge, the William Preston Lane, Jr. Memorial Chesapeake Bay
+22 Bridge and parallel Chesapeake Bay Bridge, the Baltimore Harbor Tunnel, the Fort
+23 McHenry Tunnel, the Francis Scott Key Bridge, and the John F. Kennedy Memorial
+24 Highway, together with their appurtenant causeways, approaches, interchanges, entrance
+25 plazas, toll stations, and service facilities;
+26 (2) A vehicle parking facility located in a priority funding area as defined
+27 in § 5–7B–02 of the State Finance and Procurement Article;
+28 (3) Any other project for transportation facilities that the Authority
+29 authorizes to be acquired or constructed; [and]
+30 (4) Any additions, improvements, or enlargements to any of these projects,
+31 whenever authorized; AND
+32 (5) ANY PROJECT INCLUDED IN THE CURRENT CONSOLIDATED
+33 TRANSPORTATION PROGRAM.
+6 SENATE BILL 1043
+1 4–204.
+2 (a) Acting on behalf of the Department, the Authority has those powers and
+3 duties relating to the supervision, financing, construction, operation, maintenance, and
+4 repair of transportation facilities projects as are granted to it by this title or any other
+5 provisions of law.
+6 (b) The Authority has general supervision over all transportation facilities
+7 projects.
+8 (c) The Authority shall finance, construct, operate, repair, and maintain in good
+9 order all transportation facilities projects.
+10 4–205.
+11 (a) Subject to § 4–306 of this title and in addition to the powers otherwise
+12 specifically granted by law, the Authority has the powers described in this section.
+13 (F) THE AUTHORITY SHALL IDENTIFY METHODS TO USE PUBLIC–PRIVATE
+14 PARTNERSHIP INVESTMENTS OR TOLL REVENUES TO FUND TRANSPORTATION
+15 IMPROVEMENTS IN THE STATE.
+16 [(f)] (G) The Authority may adopt rules and regulations to carry out the
+17 provisions of this title.
+18 [(g)] (H) The Authority may do anything else necessary or convenient to carry
+19 out the powers granted in this title.
+20 4–312.
+21 (a) (2) As to all or any part of any transportation facilities project, the
+22 Authority may:
+23 (i) Fix, revise, charge, and collect rentals, rates, fees, tolls, and other
+24 charges and revenues for its use or for its services; and
+25 (ii) Contract with any person who desires its use for any purpose and
+26 fix the terms, conditions, rentals, rates, fees, tolls, or other charges or revenues for this use.
+27 7–205.
+28 (a) In this section, “state of good repair needs” includes the capital needs
+29 identified by the Administration in the assessment required under § 7–309 of this article.
+30 (b) For fiscal year 2020, the Governor shall include in the State budget an
+31 appropriation from the Transportation Trust Fund for the operation of the Administration
+SENATE BILL 1043 7
+1 that is equal to the appropriation for the operation of the Administration in the fiscal year
+2 2019 State budget as introduced, increased by at least 4.4%.
+3 (c) For fiscal year 2021, the Governor shall include in the State budget an
+4 appropriation from the Transportation Trust Fund for the operation of the Administration
+5 that is equal to the appropriation for the operation of the Administration in the State
+6 budget for the immediately preceding fiscal year, increased by at least 4.4%.
+7 (d) For each of fiscal years 2023 through 2029, the Governor shall include in the
+8 State budget an appropriation from the Transportation Trust Fund for the operation of the
+9 Administration that may not be less than the fiscal year 2022 appropriation for the
+10 operation of the Administration.
+11 (e) For fiscal year 2022, the Governor shall include in the State budget an
+12 appropriation from the Transportation Trust Fund for the operation of the Administration
+13 that may not be less than the fiscal year 2021 appropriation for the operation of the
+14 Administration.
+15 (f) (1) For each of fiscal years 2020 through 2022, the Governor shall include
+16 in the State budget an appropriation for the capital needs of the Administration of at least
+17 $29,100,000 from the revenues available for the State capital program in the
+18 Transportation Trust Fund.
+19 (2) Subject to paragraph (3) of this subsection, the Governor shall include
+20 in the State budget an appropriation for the state of good repair needs of the Administration
+21 in the following amounts from the revenues available for the State capital program in the
+22 Transportation Trust Fund:
+23 (i) For fiscal year 2023, at least $402,037,183;
+24 (ii) For fiscal year 2024, at least $502,081,501;
+25 (iii) For fiscal year 2025, at least $450,000,000;
+26 (iv) For fiscal year 2026, at least $450,000,000;
+27 (v) For fiscal year 2027, at least $450,000,000;
+28 (vi) For fiscal year 2028, at least $450,000,000; and
+29 (vii) For fiscal year 2029, at least $318,558,000.
+30 (3) (i) Subject to subparagraph (ii) of this paragraph, an appropriation
+31 required under paragraph (2) of this subsection may be reduced if the total appropriation
+32 for state of good repair needs in a prior fiscal year exceeded the amount specified under
+33 paragraph (2) of this subsection for that fiscal year.
+8 SENATE BILL 1043
+1 (ii) A reduction authorized under subparagraph (i) of this
+2 paragraph:
+3 1. May be applied only to one fiscal year; and
+4 2. May not exceed the difference between the total
+5 appropriation for state of good repair needs for the prior fiscal year and the amount
+6 specified under paragraph (2) of this subsection for that fiscal year.
+7 (4) (i) The appropriation required under paragraph (1) of this
+8 subsection may not supplant any other capital funding otherwise available for the
+9 Administration.
+10 (ii) The appropriations required under paragraph (2) of this
+11 subsection shall be in addition to any funds appropriated for the capital planning,
+12 engineering, right–of–way acquisition, or construction of the Purple Line in Montgomery
+13 County and Prince George’s County.
+14 (G) (1) FOR FISCAL YEAR 2027 AND EACH FISCAL YEAR THEREAFTER,
+15 THE GOVERNOR SHALL INCLUDE IN THE STATE BUDGET AN APPROPRIATION OF AT
+16 LEAST $400,000,000 FROM THE REVENUES AVAILABLE FOR THE STATE CAPITAL
+17 PROGRAM IN THE TRANSPORTATION TRUST FUND FOR THE FOLLOWING NEEDS NOT
+18 PRIORITIZED UNDER THE CURRENT CONSOLIDATED TRANSPORTATION PROGRAM:
+19 (I) STATE OF GOOD REPAIR NEEDS OF THE ADMINISTRATION;
+20 (II) THE CAPITAL PLANNING, ENGINEERING, RIGHT–OF–WAY
+21 ACQUISITION, OR CONSTRUCTION OF THE PROPOSED RED LINE IN BALTIMORE CITY
+22 AND BALTIMORE COUNTY; AND
+23 (III) ANY OTHER TRANSIT PROJECT.
+24 (2) (I) IN THIS PARAGRAPH, “CONSUMER PRICE INDEX FOR ALL
+25 URBAN CONSUMERS” MEANS THE INDEX PUBLISHED MONTHLY BY THE BUREAU OF
+26 LABOR STATISTICS OF THE U.S. DEPARTMENT OF LABOR THAT IS THE U.S. CITY
+27 AVERAGE OF ALL ITEMS IN A BASKET OF CONSUMER GOODS AND SERVICES.
+28 (II) THE PERCENTAGE GROWTH IN THE CONSUMER PRICE
+29 INDEX FOR ALL URBAN CONSUMERS SHALL BE DETERMINED BY COMPARING THE
+30 AVERAGE OF THE INDEX FOR THE 12 MONTHS ENDING ON THE PRECEDING JUNE 30
+31 TO THE AVERAGE OF THE INDEX FOR THE PRIOR 12 MONTHS.
+32 (III) FOR FISCAL YEAR 2028 AND EACH FISCAL YEAR
+33 THEREAFTER, THE APPROPRIATIONS REQUIRED UNDER PARAGRAPH (1) OF THIS
+SENATE BILL 1043 9
+1 SUBSECTION SHALL BE INCREASED BY THE AMOUNT THAT EQUALS THE PRODUCT
+2 OF MULTIPLYING:
+3 1. THE AMOUNT REQUIRED UNDER THIS SUBSECTION TO
+4 BE INCLUDED IN THE ANNUAL BUDGET BILL FOR THE PRIOR FISCAL YEAR; AND
+5 2. THE PERCENTAGE GROWTH IN THE CONSUMER
+6 PRICE INDEX FOR ALL URBAN CONSUMERS.
+7 [(g)] (H) This Act may not be construed to limit the authority of the
+8 Administrator to use available funds appropriated to the Administration to increase the
+9 State investment in locally operated transit agencies.
+10 7–309.
+11 (a) The Administration shall, at least every 3 years, assess the ongoing,
+12 unconstrained capital needs of the Administration.
+13 (b) In undertaking the assessment required under subsection (a) of this section,
+14 the Administration shall:
+15 (1) Compile and prioritize capital needs without regard to cost;
+16 (2) Identify the backlog of repairs and replacements needed to achieve a
+17 state of good repair for all Administration assets, including a separate analysis of these
+18 needs over the following 10 years; [and]
+19 (3) Identify the needs to be met in order to enhance service and achieve
+20 system performance goals; AND
+21 (4) IDENTIFY THE NEEDS TO BE MET IN ORDER TO ACHIEVE GOALS
+22 RELATED TO MAINTENANCE NEEDS AND STATE OF GOOD REPAIR NEEDS THAT ARE
+23 NOT FUNDED UNDER THE CURRENT CONSOLIDATED TRANSPORTATION PROGRAM
+24 WITHIN THE ADMINISTRATION.
+25 (c) On or before July 1, 2019, and on or before July 1 every 3 years thereafter, the
+26 Administration shall, in accordance with § 2–1257 of the State Government Article, submit
+27 the assessment required under subsection (a) of this section to the Senate Budget and
+28 Taxation Committee, the House Appropriations Committee, and the House Environment
+29 and Transportation Committee.
+30 (d) On or before January 20, 2022, and on or before January 20 each year
+31 thereafter, the Administration shall, in accordance with § 2–1257 of the State Government
+32 Article, submit an accounting of the capital funds programmed, appropriated, and
+33 expended on each of the projects identified in the assessment required under subsection (a)
+34 of this section for the prior fiscal year to the Senate Budget and Taxation Committee, the
+10 SENATE BILL 1043
+1 House Appropriations Committee, and the House Environment and Transportation
+2 Committee.
+3 8–209.
+4 (A) (1) THE ADMINISTRATION SHALL, AT LEAST EVERY 3 YEARS, ASSESS
+5 THE ONGOING, UNCONSTRAINED NEEDS OF THE ADMINISTRATION.
+6 (2) IN UNDERTAKING THE ASSESSMENT REQUIRED UNDER
+7 PARAGRAPH (1) OF THIS SUBSECTION, THE ADMINISTRATION SHALL:
+8 (I) COMPILE AND PRIORITIZE CAPITAL NEEDS WITHOUT
+9 REGARD TO COST; AND
+10 (II) IDENTIFY THE BACKLOG OF REPAIRS AND REPLACEMENTS
+11 NEEDED TO ACHIEVE A STATE OF GOOD REPAIR FOR ALL ADMINISTRATION ASSETS,
+12 INCLUDING A SEPARATE ANALYSIS OF THE NEEDS OVER THE FOLLOWING 10 YEARS.
+13 (3) ON OR BEFORE JULY 1, 2026, AND ON OR BEFORE JULY 1 EVERY
+14 3 YEARS THEREAFTER, THE ADMINISTRATION SHALL, IN ACCORDANCE WITH §
+15 2–1257 OF THE STATE GOVERNMENT ARTICLE, SUBMIT THE ASSESSMENT
+16 REQUIRED UNDER PARAGRAPH (1) OF THIS SUBSECTION TO THE SENATE BUDGET
+17 AND TAXATION COMMITTEE, THE HOUSE APPROPRIATIONS COMMITTEE, AND THE
+18 HOUSE ENVIRONMENT AND TRANSPORTATION COMMITTEE.
+19 (B) (1) IN THIS SUBSECTION, “STATE OF GOOD REPAIR NEEDS” INCLUDES
+20 THE CAPITAL NEEDS IDENTIFIED BY THE ADMINISTRATION IN THE ASSESSMENT
+21 REQUIRED UNDER SUBSECTION (A) OF THIS SECTION.
+22 (2) FOR FISCAL YEAR 2027 AND EACH FISCAL YEAR THEREAFTER,
+23 THE GOVERNOR SHALL INCLUDE IN THE STATE BUDGET AN APPROPRIATION FROM
+24 THE TRANSPORTATION TRUST FUND FOR:
+25 (I) THE CAPITAL NEEDS OF THE ADMINISTRATION THAT
+26 EQUALS OR EXCEEDS THE AMOUNT OF CAPITAL FUNDING FOR THE
+27 ADMINISTRATION INCLUDED IN THE FISCAL YEAR 2024 STATE BUDGET AS ENACTED
+28 BY THE GENERAL ASSEMBLY; AND
+29 (II) THE STATE OF GOOD REPAIR NEEDS OF THE
+30 ADMINISTRATION AND BRIDGE REPLACEMENT PROJECTS THAT ARE NOT INCLUDED
+31 IN THE CONSOLIDATED TRANSPORTATION PROGRAM FOR THE CURRENT FISCAL
+32 YEAR THAT EQUALS OR EXCEEDS $400,000,000.
+SENATE BILL 1043 11
+1 (3) (I) IN THIS PARAGRAPH, “CONSUMER PRICE INDEX FOR ALL
+2 URBAN CONSUMERS” MEANS THE INDEX PUBLISHED MONTHLY BY THE BUREAU OF
+3 LABOR STATISTICS OF THE U.S. DEPARTMENT OF LABOR THAT IS THE U.S. CITY
+4 AVERAGE OF ALL ITEMS IN A BASKET OF CONSUMER GOODS AND SERVICES.
+5 (II) THE PERCENTAGE GROWTH IN THE CONSUMER PRICE
+6 INDEX FOR ALL URBAN CONSUMERS SHALL BE DETERMINED BY COMPARING THE
+7 AVERAGE OF THE INDEX FOR THE 12 MONTHS ENDING ON THE PRECEDING JUNE 30
+8 TO THE AVERAGE OF THE INDEX FOR THE PRIOR 12 MONTHS.
+9 (III) FOR FISCAL YEAR 2028 AND EACH FISCAL YEAR
+10 THEREAFTER, THE APPROPRIATIONS REQUIRED UNDER PARAGRAPH (2) OF THIS
+11 SUBSECTION SHALL BE INCREASED BY THE AMOUNT THAT EQUALS THE PRODUCT
+12 OF MULTIPLYING:
+13 1. THE AMOUNT REQUIRED UNDER THIS SUBSECTION TO
+14 BE INCLUDED IN THE ANNUAL BUDGET BILL FOR THE PRIOR FISCAL YEAR; AND
+15 2. THE PERCENTAGE GROWTH IN THE CONSUMER
+16 PRICE INDEX FOR ALL URBAN CONSUMERS.
+17 10–205.
+18 (H) (1) FOR FISCAL YEARS 2027 THROUGH 2032, THE GOVERNOR SHALL
+19 INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION FOR THE PURPOSES
+20 SPECIFIED UNDER PARAGRAPH (2) OF THIS SUBSECTION OF $160,000,000 FROM
+21 THE REVENUES AVAILABLE FOR THE STATE CAPITAL PROGRAM IN THE
+22 TRANSPORTATION TRUST FUND.
+23 (2) THE DEPARTMENT SHALL PROVIDE AN ANNUAL GRANT OF AT
+24 LEAST $160,000,000 TO THE WASHINGTON SUBURBAN TRANSIT DISTRICT TO PAY
+25 THE CAPITAL COSTS OF THE WASHINGTON METROPOLITAN AREA TRANSIT
+26 AUTHORITY’S DMVMOVES CAPITAL INVESTMENT INITIATIVE.
+27 (3) (I) IN THIS PARAGRAPH, “CONSUMER PRICE INDEX FOR ALL
+28 URBAN CONSUMERS” MEANS THE INDEX PUBLISHED MONTHLY BY THE BUREAU OF
+29 LABOR STATISTICS OF THE U.S. DEPARTMENT OF LABOR THAT IS THE U.S. CITY
+30 AVERAGE OF ALL ITEMS IN A BASKET OF CONSUMER GOODS AND SERVICES.
+31 (II) THE PERCENTAGE GROWTH IN THE CONSUMER PRICE
+32 INDEX FOR ALL URBAN CONSUMERS SHALL BE DETERMINED BY COMPARING THE
+33 AVERAGE OF THE INDEX FOR THE 12 MONTHS ENDING ON THE PRECEDING JUNE 30
+34 TO THE AVERAGE OF THE INDEX FOR THE PRIOR 12 MONTHS.
+12 SENATE BILL 1043
+1 (III) FOR FISCAL YEAR 2028 AND EACH FISCAL YEAR
+2 THEREAFTER, THE APPROPRIATION AND GRANT REQUIRED UNDER PARAGRAPHS
+3 (1) AND (2) OF THIS SUBSECTION SHALL BE INCREASED BY THE AMOUNT THAT
+4 EQUALS THE PRODUCT OF MULTIPLYING:
+5 1. THE AMOUNT REQUIRED UNDER THIS SUBSECTION TO
+6 BE INCLUDED IN THE ANNUAL BUDGET BILL FOR THE PRIOR FISCAL YEAR; AND
+7 2. THE PERCENTAGE GROWTH IN THE CONSUMER
+8 PRICE INDEX FOR ALL URBAN CONSUMERS.
+9 Chapter 351 of the Acts of 2018, as amended by Chapters 11 and 20 of the Acts of
+10 the 2021 Special Session
+11 SECTION 9. AND BE IT FURTHER ENACTED, That, subject to Section 4 of this
+12 Act, this Act shall take effect June 1, 2018. [Section 2 of this Act shall remain effective for
+13 a period of 11 years and 1 month and, at the end of June 30, 2029, Section 2 of this Act,
+14 with no further action required by the General Assembly, shall be abrogated and of no
+15 further force and effect.]
+16 Chapter 352 of the Acts of 2018, as amended by Chapters 11 and 20 of the Acts of
+17 the 2021 Special Session
+18 SECTION 9. AND BE IT FURTHER ENACTED, That, subject to Section 4 of this
+19 Act, this Act shall take effect June 1, 2018. [Section 2 of this Act shall remain effective for
+20 a period of 11 years and 1 month and, at the end of June 30, 2029, Section 2 of this Act,
+21 with no further action required by the General Assembly, shall be abrogated and of no
+22 further force and effect.]
+23 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
+24 2026, the Department of Transportation shall submit a report to the Governor and, subject
+25 to § 2–1257 of the State Government Article, the General Assembly identifying the cost
+26 savings from delaying any new transit projects administered by each modal administration
+27 until maintenance, safety, and state of good repair needs for those projects are met.
+28 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+29 1, 2025.
+[DELETED: :CA      5     A T ( F i o A m n e a c a r t t G i t A a t d o “ f p t i p i i t C T P r t M T A t i m t u p p r c a r t S H A t a t o u n o t A a g r t f B  A S  A  ( B  A  S  A  ( B]
+[DELETED:  S   A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( ( 1 B C 1 S B C 1  S  S T A 2  A s]
+[DELETED: S 3   ( r f t h s i t D C E A   F T T T F E U  C O T A I T1(TF§3 R U E U   O TA; R   () t]( § t    ( f    ( f    ( f    ( f    ( f   () t]( o 1  ( E   ( a   ( a p  ( ( S t p ( o t s i a t t t i C o t s o a r t o a r o l a a t g a e   ( T m C s b t D C E D F e u § 1]
+[DELETED:  S   (( A T T I U S A O TN : ( S; TE  ( ,S, UE I T TE O T P PY AE T ,.  ( A c m c s t d o o) p    ( a    ( a     1 f     2 u     3 s     4 a o c    ( a b   ( P a 1 ) H R O T T T F S  C 1()1 A 2  ( ( T a   ( T b r t t S s f t) D]
+[DELETED: S 5    () C] 1    () O] 2.[]S(U II H      ) F2IO F Y  A E F YR  I  A)ASH D T I DF27 F Y  A E F Y TR T E E T T A N T S T T R F A N C P I I T Y O R R T I ET 4  ( I  ( “   ( T S R B t H W N “ M B a p C B B t B H T t F M T t F S K B a t J F K M H p   ( A i   ( A o p f t f t t A a a]   ( A w ( A P I I T C O R .]
+[DELETED:  S  4  ( A o b o t D t A h t p a d r p  ( T A h g s o a t f p  ( T o 4  ( S t § 4 o t t a i a t t p o s ) TAH UCP I O T R T F T T.  () T A m a r a r t c o t]( p  () T]( o 4  ( ( A t a o a p o a t f p t A    ( F c    ( C f 7  ( I t s “ o g r n i t c n i  ( F f y 2 t G s i i t S b a a]
+[DELETED: S 7 t 2  ( F f y 2 t G s i i t S b a a t e t t f t o o t A i t S b  ( F S A t m n b l t t f y 2 a f t o  ( F f y 2 t G s i i t S b a a t m n b l t t f y 2 a f t o o t A  ( ( F i $ f t r a f t S c p i t T   ( S i i T    ( F    ( F    ( F    ( F    ( F    ( F    ( F   ( ( S r f p]
+[DELETED:  S     ( A r a u s ( o t p     1 M     2 M n e t d b t t a f s o g r n f t p f y a t a s   ( ( T a r u p ( o t s m n s a o c f o a f t A    ( T a r u p ( o t s s b i a t a f a f t c p e C ) ( F27O F Y  A E F Y TR O T  F R F T T C0 R R UT O R RTP:  () SA;T D  () T,,–IH C PG EG RTOFWN  E I A IRLB A OY C;  () A.IN ( () I,“CPINH O R N LC” OS  USU.DLU T  E A    () TCIH P G I T O RAU L R O   U 2J3  2.  () F2IO F Y  A E F YR   O(]
+[DELETED: S 9   1 R    2 T P G I T OIAUC. N L R O  () T A m n b c t l t a o t]( A S 7  ( T A s a l e 3 y a t o u  ( I t   ( C   ( I s n a]   ( I s (  O R RT D .  ( O A t T a  ( O o b J 2 2 a o o b J 2 e y t A s a a o t c f p a a e o]
+[DELETED:  S  H A C a t H E a T C() ( TA,3H DL   S G  DA. (  U T A R U  N  D),A:  () O A P C N WT   () ID DS  0. ( OJ1,2,J U    U  ,A,§Y TR T D SL I A W 7SGAO T T O RE S T A   E U)S A OE  O P OE C,HACETC. N R O() ( I,“NN SS  C N I B T D I T A A ). ( F27 F Y  A E F Y TR O T R R UTF:  () TH C N O T D T O E T A O C F F T24  T E SY A;  () IH S O G R N O T O R RT]
+[DELETED: S 1 ( () I,“CPINH O R N LC” OS  USU.DLU T  E A    () TCIH P G I T O RAU L R O   U 2J3  2.  () F2IO F Y  A E F YR   O(   1 R    2 T P G I T OIAUC N L R O  1 ) ( F272,O     O  O  F)$ R A F T T C P I TTF. R U ( T E S P A A G O A   A U R I0WST C C O T A E R RMA’DM.YS O ( () I,“CPINH O R N LC” OS  USU.DLU T  E A    () TCIH P G I T O RAU L R O   U 2J3  2.]
+[DELETED:  S   () F2IO F Y  A E F YR T)(A  O T S S B I B T A T   1 R    2 T P G I T OIAUC. N L R O C t  S A S a w f C t  S A S a w f.  S 2 t s u  S 1]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1043
+R2, Q4 5lr3552
+By: Senator Benson
+Introduced and read first time: February 15, 2025
+Assigned to: Rules
+A BILL ENTITLED
+1 AN ACT concerning
+2 Transportation Trust Fund – Revenue and Distribution
+3 (Maryland Mobility Act of 2025)
+4 FOR the purpose of imposing a transportation trust fund surcharge on certain sales or uses
+5 in the State; providing that the annual budget request, submitted by the Secretary
+6 of Transportation, for the Maryland Transit Administration and the State Highway
+7 Administration may not exceed a certain amount; requiring that the Governor
+8 include in the annual budget bill certain appropriations for certain modal units of
+9 the Department of Transportation and the Washington Metropolitan Area Transit
+10 Authority; altering the definition of “transportation facilities project” to include
+11 projects included in the Consolidated Transportation Program; requiring the
+12 Maryland Transportation Authority to identify methods to use public–private
+13 partnerships and toll revenue to fund transportation improvements in the State;
+14 requiring the Maryland Transit Administration to identify certain needs as part of a
+15 certain assessment; requiring the State Highway Administration to assess the
+16 ongoing, unconstrained needs of the Administration; and generally relating to
+17 financing transportation projects in the State.
+18 BY repealing and reenacting, with amendments,
+19 Article – Tax – General
+20 Section 2–1303 and 11–102
+21 Annotated Code of Maryland
+22 (2022 Replacement Volume and 2024 Supplement)
+23 BY adding to
+24 Article – Tax – General
+25 Section 11–104(l)
+26 Annotated Code of Maryland
+27 (2022 Replacement Volume and 2024 Supplement)
+28 BY repealing and reenacting, without amendments,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb1043*
+
+2 SENATE BILL 1043
+1 Article – Transportation
+2 Section 2–103(a)(1), 4–101(a), 4–204, 4–205(a), and 4–312(a)(2)
+3 Annotated Code of Maryland
+4 (2020 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, with amendments,
+6 Article – Transportation
+7 Section 2–103(a)(2), 4–101(h), 4–205(f) and (g), and 7–309
+8 Annotated Code of Maryland
+9 (2020 Replacement Volume and 2024 Supplement)
+10 BY adding to
+11 Article – Transportation
+12 Section 2–114, 4–205(f), 8–209, and 10–205(h)
+13 Annotated Code of Maryland
+14 (2020 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Transportation
+17 Section 7–205
+18 Annotated Code of Maryland
+19 (2020 Replacement Volume and 2024 Supplement)
+20 (As enacted by Chapter 150 of the Acts of the General Assembly of 2021 and Chapters
+21 11 and 20 of the Acts of the General Assembly of the 2021 Special Session)
+22 BY repealing and reenacting, with amendments,
+23 Chapter 351 of the Acts of the General Assembly of 2018, as amended by Chapters
+24 11 and 20 of the Acts of the General Assembly of the 2021 Special Session
+25 Section 9
+26 BY repealing and reenacting, with amendments,
+27 Chapter 352 of the Acts of the General Assembly of 2018, as amended by Chapters
+28 11 and 20 of the Acts of the General Assembly of the 2021 Special Session
+29 Section 9
+30 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+31 That the Laws of Maryland read as follows:
+32 Article – Tax – General
+33 2–1303.
+34 After making the distributions required under §§ 2–1301 through 2–1302.4 of this
+35 subtitle, the Comptroller shall pay:
+
+SENATE BILL 1043 3
+1 (1) revenues from the hotel surcharge into the Dorchester County
+2 Economic Development Fund established under § 10–130 of the Economic Development
+3 Article;
+4 (2) REVENUES FROM THE TRANSPORTATION TRUST FUND
+5 SURCHARGE ESTABLISHED UNDER § 11–102(C) OF THIS ARTICLE INTO THE
+6 TRANSPORTATION TRUST FUND ESTABLISHED UNDER § 3–216 OF THE
+7 TRANSPORTATION ARTICLE;
+8 [(2)] (3) to the Blueprint for Maryland’s Future Fund established under
+9 § 5–206 of the Education Article, the following percentage of the remaining sales and use
+10 tax revenues:
+11 (i) for fiscal year 2023, 9.2%;
+12 (ii) for fiscal year 2024, 11.0%;
+13 (iii) for fiscal year 2025, 11.3%;
+14 (iv) for fiscal year 2026, 11.7%; and
+15 (v) for fiscal year 2027 and each fiscal year thereafter, 12.1%; and
+16 [(3)] (4) the remaining sales and use tax revenue into the General Fund
+17 of the State.
+18 11–102.
+19 (a) Except as otherwise provided in this title, a tax is imposed on:
+20 (1) a retail sale in the State; and
+21 (2) a use, in the State, of tangible personal property, a digital code, a digital
+22 product, or a taxable service.
+23 (b) (1) Subject to paragraph (2) of this subsection, in addition to the tax
+24 imposed under subsection (a) of this section, a hotel surcharge is imposed in Dorchester
+25 County on the sale of a right to occupy a room or lodgings as a transient guest in an
+26 establishment that offers at least 380 rooms.
+27 (2) The hotel surcharge imposed under paragraph (1) of this subsection
+28 may not be imposed if the Maryland Economic Development Corporation certifies to the
+29 Comptroller that the bonds issued by the Maryland Economic Development Corporation
+30 secured by the Dorchester County Economic Development Fund established under §
+31 10–130 of the Economic Development Article have been paid in full.
+
+4 SENATE BILL 1043
+1 (c) IN ADDITION TO THE TAX IMPOSED UNDER SUBSECTION (A) OF THIS
+2 SECTION, A TRANSPORTATION TRUST FUND SURCHARGE IS IMPOSED ON:
+3 (1) A RETAIL SALE IN THE STATE; AND
+4 (2) A USE, IN THE STATE, OF TANGIBLE PERSONAL PROPERTY, A
+5 DIGITAL CODE, A DIGITAL PRODUCT, OR A TAXABLE SERVICE.
+6 (D) (1) A county, municipal corporation, special taxing district, or other
+7 political subdivision of the State may not impose any retail sales or use tax except:
+8 (i) a sales tax or use tax that was in effect on January 1, 1971;
+9 (ii) a tax on the sale or use of:
+10 1. fuels;
+11 2. utilities;
+12 3. space rentals; or
+13 4. any controlled dangerous substance, as defined in § 5–101
+14 of the Criminal Law Article, unless the sale is made by a person who registers under and
+15 complies with Title 5, Subtitle 3 of the Criminal Law Article; or
+16 (iii) a tax imposed by a code county on the sale or use of food and
+17 beverages authorized under § 20–602 of the Local Government Article.
+18 (2) Paragraph (1) of this subsection may not be construed as conferring
+19 authority to impose a sales and use tax.
+20 11–104.
+21 (L) THE RATE OF THE TRANSPORTATION TRUST FUND SURCHARGE
+22 IMPOSED UNDER § 11–102(C) OF THIS SUBTITLE IS 1%.
+23 Article – Transportation
+24 2–103.
+25 (a) (1) The Secretary is responsible for the budget of the Office of the Secretary
+26 and for the budget of each unit in the Department.
+27 (2) (I) The budget request that the Secretary submits for the
+28 Department shall contain, for each modal administration, separate items for:
+
+SENATE BILL 1043 5
+1 [(i)] 1. Capital expenditures; and
+2 [(ii)] 2. [Operating] SUBJECT TO SUBPARAGRAPH (II) OF THIS
+3 PARAGRAPH, OPERATING expenditures.
+4 (II) FOR FISCAL YEAR 2027 AND EACH FISCAL YEAR
+5 THEREAFTER, THE OPERATING EXPENDITURES INCLUDED IN THE BUDGET REQUEST
+6 REQUIRED UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH FOR THE MARYLAND
+7 TRANSIT ADMINISTRATION AND THE STATE HIGHWAY ADMINISTRATION MAY NOT
+8 EXCEED THE AMOUNT INCLUDED IN THE IMMEDIATELY PRECEDING FISCAL YEAR
+9 INCREASED BY 3%.
+10 2–114.
+11 FOR FISCAL YEAR 2027 AND EACH FISCAL YEAR THEREAFTER, THE
+12 GOVERNOR SHALL INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION TO
+13 THE DEPARTMENT EQUAL TO THE AMOUNT NECESSARY TO SATISFY THE STATE
+14 MATCHING REQUIREMENT FOR ANY NEW CAPITAL PROJECT INCLUDED IN THE
+15 CURRENT YEAR CONSOLIDATED TRANSPORTATION PROGRAM THAT IS ELIGIBLE
+16 FOR FEDERAL FUNDING.
+17 4–101.
+18 (a) In this title the following words have the meanings indicated.
+19 (h) “Transportation facilities project” includes:
+20 (1) The Susquehanna River Bridge, the Harry W. Nice/Thomas “Mac”
+21 Middleton Potomac River Bridge, the William Preston Lane, Jr. Memorial Chesapeake Bay
+22 Bridge and parallel Chesapeake Bay Bridge, the Baltimore Harbor Tunnel, the Fort
+23 McHenry Tunnel, the Francis Scott Key Bridge, and the John F. Kennedy Memorial
+24 Highway, together with their appurtenant causeways, approaches, interchanges, entrance
+25 plazas, toll stations, and service facilities;
+26 (2) A vehicle parking facility located in a priority funding area as defined
+27 in § 5–7B–02 of the State Finance and Procurement Article;
+28 (3) Any other project for transportation facilities that the Authority
+29 authorizes to be acquired or constructed; [and]
+30 (4) Any additions, improvements, or enlargements to any of these projects,
+31 whenever authorized; AND
+32 (5) ANY PROJECT INCLUDED IN THE CURRENT CONSOLIDATED
+33 TRANSPORTATION PROGRAM.
+
+6 SENATE BILL 1043
+1 4–204.
+2 (a) Acting on behalf of the Department, the Authority has those powers and
+3 duties relating to the supervision, financing, construction, operation, maintenance, and
+4 repair of transportation facilities projects as are granted to it by this title or any other
+5 provisions of law.
+6 (b) The Authority has general supervision over all transportation facilities
+7 projects.
+8 (c) The Authority shall finance, construct, operate, repair, and maintain in good
+9 order all transportation facilities projects.
+10 4–205.
+11 (a) Subject to § 4–306 of this title and in addition to the powers otherwise
+12 specifically granted by law, the Authority has the powers described in this section.
+13 (F) THE AUTHORITY SHALL IDENTIFY METHODS TO USE PUBLIC–PRIVATE
+14 PARTNERSHIP INVESTMENTS OR TOLL REVENUES TO FUND TRANSPORTATION
+15 IMPROVEMENTS IN THE STATE.
+16 [(f)] (G) The Authority may adopt rules and regulations to carry out the
+17 provisions of this title.
+18 [(g)] (H) The Authority may do anything else necessary or convenient to carry
+19 out the powers granted in this title.
+20 4–312.
+21 (a) (2) As to all or any part of any transportation facilities project, the
+22 Authority may:
+23 (i) Fix, revise, charge, and collect rentals, rates, fees, tolls, and other
+24 charges and revenues for its use or for its services; and
+25 (ii) Contract with any person who desires its use for any purpose and
+26 fix the terms, conditions, rentals, rates, fees, tolls, or other charges or revenues for this use.
+27 7–205.
+28 (a) In this section, “state of good repair needs” includes the capital needs
+29 identified by the Administration in the assessment required under § 7–309 of this article.
+30 (b) For fiscal year 2020, the Governor shall include in the State budget an
+31 appropriation from the Transportation Trust Fund for the operation of the Administration
+
+SENATE BILL 1043 7
+1 that is equal to the appropriation for the operation of the Administration in the fiscal year
+2 2019 State budget as introduced, increased by at least 4.4%.
+3 (c) For fiscal year 2021, the Governor shall include in the State budget an
+4 appropriation from the Transportation Trust Fund for the operation of the Administration
+5 that is equal to the appropriation for the operation of the Administration in the State
+6 budget for the immediately preceding fiscal year, increased by at least 4.4%.
+7 (d) For each of fiscal years 2023 through 2029, the Governor shall include in the
+8 State budget an appropriation from the Transportation Trust Fund for the operation of the
+9 Administration that may not be less than the fiscal year 2022 appropriation for the
+10 operation of the Administration.
+11 (e) For fiscal year 2022, the Governor shall include in the State budget an
+12 appropriation from the Transportation Trust Fund for the operation of the Administration
+13 that may not be less than the fiscal year 2021 appropriation for the operation of the
+14 Administration.
+15 (f) (1) For each of fiscal years 2020 through 2022, the Governor shall include
+16 in the State budget an appropriation for the capital needs of the Administration of at least
+17 $29,100,000 from the revenues available for the State capital program in the
+18 Transportation Trust Fund.
+19 (2) Subject to paragraph (3) of this subsection, the Governor shall include
+20 in the State budget an appropriation for the state of good repair needs of the Administration
+21 in the following amounts from the revenues available for the State capital program in the
+22 Transportation Trust Fund:
+23 (i) For fiscal year 2023, at least $402,037,183;
+24 (ii) For fiscal year 2024, at least $502,081,501;
+25 (iii) For fiscal year 2025, at least $450,000,000;
+26 (iv) For fiscal year 2026, at least $450,000,000;
+27 (v) For fiscal year 2027, at least $450,000,000;
+28 (vi) For fiscal year 2028, at least $450,000,000; and
+29 (vii) For fiscal year 2029, at least $318,558,000.
+30 (3) (i) Subject to subparagraph (ii) of this paragraph, an appropriation
+31 required under paragraph (2) of this subsection may be reduced if the total appropriation
+32 for state of good repair needs in a prior fiscal year exceeded the amount specified under
+33 paragraph (2) of this subsection for that fiscal year.
+
+8 SENATE BILL 1043
+1 (ii) A reduction authorized under subparagraph (i) of this
+2 paragraph:
+3 1. May be applied only to one fiscal year; and
+4 2. May not exceed the difference between the total
+5 appropriation for state of good repair needs for the prior fiscal year and the amount
+6 specified under paragraph (2) of this subsection for that fiscal year.
+7 (4) (i) The appropriation required under paragraph (1) of this
+8 subsection may not supplant any other capital funding otherwise available for the
+9 Administration.
+10 (ii) The appropriations required under paragraph (2) of this
+11 subsection shall be in addition to any funds appropriated for the capital planning,
+12 engineering, right–of–way acquisition, or construction of the Purple Line in Montgomery
+13 County and Prince George’s County.
+14 (G) (1) FOR FISCAL YEAR 2027 AND EACH FISCAL YEAR THEREAFTER,
+15 THE GOVERNOR SHALL INCLUDE IN THE STATE BUDGET AN APPROPRIATION OF AT
+16 LEAST $400,000,000 FROM THE REVENUES AVAILABLE FOR THE STATE CAPITAL
+17 PROGRAM IN THE TRANSPORTATION TRUST FUND FOR THE FOLLOWING NEEDS NOT
+18 PRIORITIZED UNDER THE CURRENT CONSOLIDATED TRANSPORTATION PROGRAM:
+19 (I) STATE OF GOOD REPAIR NEEDS OF THE ADMINISTRATION;
+20 (II) THE CAPITAL PLANNING, ENGINEERING, RIGHT–OF–WAY
+21 ACQUISITION, OR CONSTRUCTION OF THE PROPOSED RED LINE IN BALTIMORE CITY
+22 AND BALTIMORE COUNTY; AND
+23 (III) ANY OTHER TRANSIT PROJECT.
+24 (2) (I) IN THIS PARAGRAPH, “CONSUMER PRICE INDEX FOR ALL
+25 URBAN CONSUMERS” MEANS THE INDEX PUBLISHED MONTHLY BY THE BUREAU OF
+26 LABOR STATISTICS OF THE U.S. DEPARTMENT OF LABOR THAT IS THE U.S. CITY
+27 AVERAGE OF ALL ITEMS IN A BASKET OF CONSUMER GOODS AND SERVICES.
+28 (II) THE PERCENTAGE GROWTH IN THE CONSUMER PRICE
+29 INDEX FOR ALL URBAN CONSUMERS SHALL BE DETERMINED BY COMPARING THE
+30 AVERAGE OF THE INDEX FOR THE 12 MONTHS ENDING ON THE PRECEDING JUNE 30
+31 TO THE AVERAGE OF THE INDEX FOR THE PRIOR 12 MONTHS.
+32 (III) FOR FISCAL YEAR 2028 AND EACH FISCAL YEAR
+33 THEREAFTER, THE APPROPRIATIONS REQUIRED UNDER PARAGRAPH (1) OF THIS
+
+SENATE BILL 1043 9
+1 SUBSECTION SHALL BE INCREASED BY THE AMOUNT THAT EQUALS THE PRODUCT
+2 OF MULTIPLYING:
+3 1. THE AMOUNT REQUIRED UNDER THIS SUBSECTION TO
+4 BE INCLUDED IN THE ANNUAL BUDGET BILL FOR THE PRIOR FISCAL YEAR; AND
+5 2. THE PERCENTAGE GROWTH IN THE CONSUMER
+6 PRICE INDEX FOR ALL URBAN CONSUMERS.
+7 [(g)] (H) This Act may not be construed to limit the authority of the
+8 Administrator to use available funds appropriated to the Administration to increase the
+9 State investment in locally operated transit agencies.
+10 7–309.
+11 (a) The Administration shall, at least every 3 years, assess the ongoing,
+12 unconstrained capital needs of the Administration.
+13 (b) In undertaking the assessment required under subsection (a) of this section,
+14 the Administration shall:
+15 (1) Compile and prioritize capital needs without regard to cost;
+16 (2) Identify the backlog of repairs and replacements needed to achieve a
+17 state of good repair for all Administration assets, including a separate analysis of these
+18 needs over the following 10 years; [and]
+19 (3) Identify the needs to be met in order to enhance service and achieve
+20 system performance goals; AND
+21 (4) IDENTIFY THE NEEDS TO BE MET IN ORDER TO ACHIEVE GOALS
+22 RELATED TO MAINTENANCE NEEDS AND STATE OF GOOD REPAIR NEEDS THAT ARE
+23 NOT FUNDED UNDER THE CURRENT CONSOLIDATED TRANSPORTATION PROGRAM
+24 WITHIN THE ADMINISTRATION.
+25 (c) On or before July 1, 2019, and on or before July 1 every 3 years thereafter, the
+26 Administration shall, in accordance with § 2–1257 of the State Government Article, submit
+27 the assessment required under subsection (a) of this section to the Senate Budget and
+28 Taxation Committee, the House Appropriations Committee, and the House Environment
+29 and Transportation Committee.
+30 (d) On or before January 20, 2022, and on or before January 20 each year
+31 thereafter, the Administration shall, in accordance with § 2–1257 of the State Government
+32 Article, submit an accounting of the capital funds programmed, appropriated, and
+33 expended on each of the projects identified in the assessment required under subsection (a)
+34 of this section for the prior fiscal year to the Senate Budget and Taxation Committee, the
+
+10 SENATE BILL 1043
+1 House Appropriations Committee, and the House Environment and Transportation
+2 Committee.
+3 8–209.
+4 (A) (1) THE ADMINISTRATION SHALL, AT LEAST EVERY 3 YEARS, ASSESS
+5 THE ONGOING, UNCONSTRAINED NEEDS OF THE ADMINISTRATION.
+6 (2) IN UNDERTAKING THE ASSESSMENT REQUIRED UNDER
+7 PARAGRAPH (1) OF THIS SUBSECTION, THE ADMINISTRATION SHALL:
+8 (I) COMPILE AND PRIORITIZE CAPITAL NEEDS WITHOUT
+9 REGARD TO COST; AND
+10 (II) IDENTIFY THE BACKLOG OF REPAIRS AND REPLACEMENTS
+11 NEEDED TO ACHIEVE A STATE OF GOOD REPAIR FOR ALL ADMINISTRATION ASSETS,
+12 INCLUDING A SEPARATE ANALYSIS OF THE NEEDS OVER THE FOLLOWING 10 YEARS.
+13 (3) ON OR BEFORE JULY 1, 2026, AND ON OR BEFORE JULY 1 EVERY
+14 3 YEARS THEREAFTER, THE ADMINISTRATION SHALL, IN ACCORDANCE WITH §
+15 2–1257 OF THE STATE GOVERNMENT ARTICLE, SUBMIT THE ASSESSMENT
+16 REQUIRED UNDER PARAGRAPH (1) OF THIS SUBSECTION TO THE SENATE BUDGET
+17 AND TAXATION COMMITTEE, THE HOUSE APPROPRIATIONS COMMITTEE, AND THE
+18 HOUSE ENVIRONMENT AND TRANSPORTATION COMMITTEE.
+19 (B) (1) IN THIS SUBSECTION, “STATE OF GOOD REPAIR NEEDS” INCLUDES
+20 THE CAPITAL NEEDS IDENTIFIED BY THE ADMINISTRATION IN THE ASSESSMENT
+21 REQUIRED UNDER SUBSECTION (A) OF THIS SECTION.
+22 (2) FOR FISCAL YEAR 2027 AND EACH FISCAL YEAR THEREAFTER,
+23 THE GOVERNOR SHALL INCLUDE IN THE STATE BUDGET AN APPROPRIATION FROM
+24 THE TRANSPORTATION TRUST FUND FOR:
+25 (I) THE CAPITAL NEEDS OF THE ADMINISTRATION THAT
+26 EQUALS OR EXCEEDS THE AMOUNT OF CAPITAL FUNDING FOR THE
+27 ADMINISTRATION INCLUDED IN THE FISCAL YEAR 2024 STATE BUDGET AS ENACTED
+28 BY THE GENERAL ASSEMBLY; AND
+29 (II) THE STATE OF GOOD REPAIR NEEDS OF THE
+30 ADMINISTRATION AND BRIDGE REPLACEMENT PROJECTS THAT ARE NOT INCLUDED
+31 IN THE CONSOLIDATED TRANSPORTATION PROGRAM FOR THE CURRENT FISCAL
+32 YEAR THAT EQUALS OR EXCEEDS $400,000,000.
+
+SENATE BILL 1043 11
+1 (3) (I) IN THIS PARAGRAPH, “CONSUMER PRICE INDEX FOR ALL
+2 URBAN CONSUMERS” MEANS THE INDEX PUBLISHED MONTHLY BY THE BUREAU OF
+3 LABOR STATISTICS OF THE U.S. DEPARTMENT OF LABOR THAT IS THE U.S. CITY
+4 AVERAGE OF ALL ITEMS IN A BASKET OF CONSUMER GOODS AND SERVICES.
+5 (II) THE PERCENTAGE GROWTH IN THE CONSUMER PRICE
+6 INDEX FOR ALL URBAN CONSUMERS SHALL BE DETERMINED BY COMPARING THE
+7 AVERAGE OF THE INDEX FOR THE 12 MONTHS ENDING ON THE PRECEDING JUNE 30
+8 TO THE AVERAGE OF THE INDEX FOR THE PRIOR 12 MONTHS.
+9 (III) FOR FISCAL YEAR 2028 AND EACH FISCAL YEAR
+10 THEREAFTER, THE APPROPRIATIONS REQUIRED UNDER PARAGRAPH (2) OF THIS
+11 SUBSECTION SHALL BE INCREASED BY THE AMOUNT THAT EQUALS THE PRODUCT
+12 OF MULTIPLYING:
+13 1. THE AMOUNT REQUIRED UNDER THIS SUBSECTION TO
+14 BE INCLUDED IN THE ANNUAL BUDGET BILL FOR THE PRIOR FISCAL YEAR; AND
+15 2. THE PERCENTAGE GROWTH IN THE CONSUMER
+16 PRICE INDEX FOR ALL URBAN CONSUMERS.
+17 10–205.
+18 (H) (1) FOR FISCAL YEARS 2027 THROUGH 2032, THE GOVERNOR SHALL
+19 INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION FOR THE PURPOSES
+20 SPECIFIED UNDER PARAGRAPH (2) OF THIS SUBSECTION OF $160,000,000 FROM
+21 THE REVENUES AVAILABLE FOR THE STATE CAPITAL PROGRAM IN THE
+22 TRANSPORTATION TRUST FUND.
+23 (2) THE DEPARTMENT SHALL PROVIDE AN ANNUAL GRANT OF AT
+24 LEAST $160,000,000 TO THE WASHINGTON SUBURBAN TRANSIT DISTRICT TO PAY
+25 THE CAPITAL COSTS OF THE WASHINGTON METROPOLITAN AREA TRANSIT
+26 AUTHORITY’S DMVMOVES CAPITAL INVESTMENT INITIATIVE.
+27 (3) (I) IN THIS PARAGRAPH, “CONSUMER PRICE INDEX FOR ALL
+28 URBAN CONSUMERS” MEANS THE INDEX PUBLISHED MONTHLY BY THE BUREAU OF
+29 LABOR STATISTICS OF THE U.S. DEPARTMENT OF LABOR THAT IS THE U.S. CITY
+30 AVERAGE OF ALL ITEMS IN A BASKET OF CONSUMER GOODS AND SERVICES.
+31 (II) THE PERCENTAGE GROWTH IN THE CONSUMER PRICE
+32 INDEX FOR ALL URBAN CONSUMERS SHALL BE DETERMINED BY COMPARING THE
+33 AVERAGE OF THE INDEX FOR THE 12 MONTHS ENDING ON THE PRECEDING JUNE 30
+34 TO THE AVERAGE OF THE INDEX FOR THE PRIOR 12 MONTHS.
+
+12 SENATE BILL 1043
+1 (III) FOR FISCAL YEAR 2028 AND EACH FISCAL YEAR
+2 THEREAFTER, THE APPROPRIATION AND GRANT REQUIRED UNDER PARAGRAPHS
+3 (1) AND (2) OF THIS SUBSECTION SHALL BE INCREASED BY THE AMOUNT THAT
+4 EQUALS THE PRODUCT OF MULTIPLYING:
+5 1. THE AMOUNT REQUIRED UNDER THIS SUBSECTION TO
+6 BE INCLUDED IN THE ANNUAL BUDGET BILL FOR THE PRIOR FISCAL YEAR; AND
+7 2. THE PERCENTAGE GROWTH IN THE CONSUMER
+8 PRICE INDEX FOR ALL URBAN CONSUMERS.
+9 Chapter 351 of the Acts of 2018, as amended by Chapters 11 and 20 of the Acts of
+10 the 2021 Special Session
+11 SECTION 9. AND BE IT FURTHER ENACTED, That, subject to Section 4 of this
+12 Act, this Act shall take effect June 1, 2018. [Section 2 of this Act shall remain effective for
+13 a period of 11 years and 1 month and, at the end of June 30, 2029, Section 2 of this Act,
+14 with no further action required by the General Assembly, shall be abrogated and of no
+15 further force and effect.]
+16 Chapter 352 of the Acts of 2018, as amended by Chapters 11 and 20 of the Acts of
+17 the 2021 Special Session
+18 SECTION 9. AND BE IT FURTHER ENACTED, That, subject to Section 4 of this
+19 Act, this Act shall take effect June 1, 2018. [Section 2 of this Act shall remain effective for
+20 a period of 11 years and 1 month and, at the end of June 30, 2029, Section 2 of this Act,
+21 with no further action required by the General Assembly, shall be abrogated and of no
+22 further force and effect.]
+23 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
+24 2026, the Department of Transportation shall submit a report to the Governor and, subject
+25 to § 2–1257 of the State Government Article, the General Assembly identifying the cost
+26 savings from delaying any new transit projects administered by each modal administration
+27 until maintenance, safety, and state of good repair needs for those projects are met.
+28 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+29 1, 2025.
+
+[DELETED: :CA      5     A T ( F i o A m n e a c a r t t G i t A a t d o “ f p t i p i i t C T P r t M T A t i m t u p p r c a r t S H A t a t o u n o t A a g r t f B  A S  A  ( B  A  S  A  ( B]
+[DELETED:  S   A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( ( 1 B C 1 S B C 1  S  S T A 2  A s]
+[DELETED: S 3   ( r f t h s i t D C E A   F T T T F E U  C O T A I T1(TF§3 R U E U   O TA; R   () t]( § t    ( f    ( f    ( f    ( f    ( f   () t]( o 1  ( E   ( a   ( a p  ( ( S t p ( o t s i a t t t i C o t s o a r t o a r o l a a t g a e   ( T m C s b t D C E D F e u § 1]
+[DELETED:  S   (( A T T I U S A O TN : ( S; TE  ( ,S, UE I T TE O T P PY AE T ,.  ( A c m c s t d o o) p    ( a    ( a     1 f     2 u     3 s     4 a o c    ( a b   ( P a 1 ) H R O T T T F S  C 1()1 A 2  ( ( T a   ( T b r t t S s f t) D]
+[DELETED: S 5    () C] 1    () O] 2.[]S(U II H      ) F2IO F Y  A E F YR  I  A)ASH D T I DF27 F Y  A E F Y TR T E E T T A N T S T T R F A N C P I I T Y O R R T I ET 4  ( I  ( “   ( T S R B t H W N “ M B a p C B B t B H T t F M T t F S K B a t J F K M H p   ( A i   ( A o p f t f t t A a a]   ( A w ( A P I I T C O R .]
+[DELETED:  S  4  ( A o b o t D t A h t p a d r p  ( T A h g s o a t f p  ( T o 4  ( S t § 4 o t t a i a t t p o s ) TAH UCP I O T R T F T T.  () T A m a r a r t c o t]( p  () T]( o 4  ( ( A t a o a p o a t f p t A    ( F c    ( C f 7  ( I t s “ o g r n i t c n i  ( F f y 2 t G s i i t S b a a]
+[DELETED: S 7 t 2  ( F f y 2 t G s i i t S b a a t e t t f t o o t A i t S b  ( F S A t m n b l t t f y 2 a f t o  ( F f y 2 t G s i i t S b a a t m n b l t t f y 2 a f t o o t A  ( ( F i $ f t r a f t S c p i t T   ( S i i T    ( F    ( F    ( F    ( F    ( F    ( F    ( F   ( ( S r f p]
+[DELETED:  S     ( A r a u s ( o t p     1 M     2 M n e t d b t t a f s o g r n f t p f y a t a s   ( ( T a r u p ( o t s m n s a o c f o a f t A    ( T a r u p ( o t s s b i a t a f a f t c p e C ) ( F27O F Y  A E F Y TR O T  F R F T T C0 R R UT O R RTP:  () SA;T D  () T,,–IH C PG EG RTOFWN  E I A IRLB A OY C;  () A.IN ( () I,“CPINH O R N LC” OS  USU.DLU T  E A    () TCIH P G I T O RAU L R O   U 2J3  2.  () F2IO F Y  A E F YR   O(]
+[DELETED: S 9   1 R    2 T P G I T OIAUC. N L R O  () T A m n b c t l t a o t]( A S 7  ( T A s a l e 3 y a t o u  ( I t   ( C   ( I s n a]   ( I s (  O R RT D .  ( O A t T a  ( O o b J 2 2 a o o b J 2 e y t A s a a o t c f p a a e o]
+[DELETED:  S  H A C a t H E a T C() ( TA,3H DL   S G  DA. (  U T A R U  N  D),A:  () O A P C N WT   () ID DS  0. ( OJ1,2,J U    U  ,A,§Y TR T D SL I A W 7SGAO T T O RE S T A   E U)S A OE  O P OE C,HACETC. N R O() ( I,“NN SS  C N I B T D I T A A ). ( F27 F Y  A E F Y TR O T R R UTF:  () TH C N O T D T O E T A O C F F T24  T E SY A;  () IH S O G R N O T O R RT]
+[DELETED: S 1 ( () I,“CPINH O R N LC” OS  USU.DLU T  E A    () TCIH P G I T O RAU L R O   U 2J3  2.  () F2IO F Y  A E F YR   O(   1 R    2 T P G I T OIAUC N L R O  1 ) ( F272,O     O  O  F)$ R A F T T C P I TTF. R U ( T E S P A A G O A   A U R I0WST C C O T A E R RMA’DM.YS O ( () I,“CPINH O R N LC” OS  USU.DLU T  E A    () TCIH P G I T O RAU L R O   U 2J3  2.]
+[DELETED:  S   () F2IO F Y  A E F YR T)(A  O T S S B I B T A T   1 R    2 T P G I T OIAUC. N L R O C t  S A S a w f C t  S A S a w f.  S 2 t s u  S 1]

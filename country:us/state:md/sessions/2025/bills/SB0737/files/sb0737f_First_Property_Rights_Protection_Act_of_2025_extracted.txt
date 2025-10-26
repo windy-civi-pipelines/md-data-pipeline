@@ -1,0 +1,501 @@
+Title: SENATE BILL 737
+Official Title: SENATE BILL 737
+Number of Sections: 1
+Source: versions - First - Property Rights Protection Act of 2025
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+C5, N1 5lr3522
+CF 5lr1860
+By: Senator Folden
+Introduced and read first time: January 27, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 Property Rights Protection Act of 2025
+3 FOR the purpose of prohibiting certain persons from exercising a right of condemnation to
+4 acquire property for the purpose of constructing a power line or a certain generating
+5 station; prohibiting the State or any of its instrumentalities or political subdivisions
+6 from acquiring by condemnation property that is encumbered by certain
+7 conservation easements or will be used for the construction of a power line or a
+8 certain generating station; and generally relating to restrictions on a right of
+9 condemnation to acquire property.
+10 BY repealing and reenacting, with amendments,
+11 Article – Public Utilities
+12 Section 7–103, 7–207(b), and 7–208(b)
+13 Annotated Code of Maryland
+14 (2020 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – Public Utilities
+17 Section 7–207.1(b)
+18 Annotated Code of Maryland
+19 (2020 Replacement Volume and 2024 Supplement)
+20 BY adding to
+21 Article – Public Utilities
+22 Section 7–207.1(h)
+23 Annotated Code of Maryland
+24 (2020 Replacement Volume and 2024 Supplement)
+25 BY repealing and reenacting, without amendments,
+26 Article – Real Property
+27 Section 10–705(a)(1) and (2) and 12–101(a)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0737*
+2 SENATE BILL 737
+1 Annotated Code of Maryland
+2 (2023 Replacement Volume and 2024 Supplement)
+3 BY adding to
+4 Article – Real Property
+5 Section 12–101(e)
+6 Annotated Code of Maryland
+7 (2023 Replacement Volume and 2024 Supplement)
+8 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+9 That the Laws of Maryland read as follows:
+10 Article – Public Utilities
+11 7–103.
+12 (a) An electric company incorporated in Maryland may:
+13 (1) manufacture, sell, and furnish electric power in any municipal
+14 corporation or county of the State;
+15 (2) construct a power line to transmit power under, along, on, or over the
+16 roadways or public ways of any municipal corporation or county of the State; and
+17 (3) connect the power line from the place of supply to any other structure
+18 or object.
+19 (b) (1) An electric company must have the consent of the governing body of the
+20 municipal corporation or county before laying or constructing any power line in accordance
+21 with subsection (a) of this section.
+22 (2) The governing body of the municipal corporation or county may adopt
+23 reasonable regulations and conditions for the laying of a power line, including regulations
+24 requiring the electric company to refill and repave any roadway or public way under which
+25 the power line is laid.
+26 (C) AN ELECTRIC COMPANY MAY NOT EXERCISE A RIGHT OF
+27 CONDEMNATION TO ACQUIRE PROPERTY FOR THE CONSTRUCTION OF A POWER LINE
+28 IN ACCORDANCE WITH THIS SECTION.
+29 7–207.
+30 (b) (1) (i) Unless a certificate of public convenience and necessity for the
+31 construction is first obtained from the Commission, a person may not begin construction in
+32 the State of:
+33 1. a generating station; or
+SENATE BILL 737 3
+1 2. a qualified generator lead line.
+2 (ii) If a person obtains Commission approval for construction under
+3 § 7–207.1 of this subtitle, the Commission shall exempt a person from the requirement to
+4 obtain a certificate of public convenience and necessity under this section.
+5 (iii) Notwithstanding subparagraph (i) of this paragraph, a person
+6 may not apply to obtain a certificate of public convenience and necessity for construction of
+7 a qualified generator lead line unless:
+8 1. at least 90 days before the filing of an application for a
+9 certificate of public convenience and necessity, the person had in good faith offered the
+10 electric company that owns that portion of the electric grid in Maryland to which the
+11 qualified generator lead line would interconnect a full and fair opportunity for the electric
+12 company to construct the qualified generator lead line; and
+13 2. at any time at least 10 days before the filing of an
+14 application for a certificate of public convenience and necessity, the electric company:
+15 A. did not accept from the person a proposal or a negotiated
+16 version of the proposal under which the electric company would construct the qualified
+17 generator lead line; or
+18 B. stated in writing that the electric company did not intend
+19 to construct the qualified generator lead line.
+20 (2) (I) [Unless] EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF
+21 THIS PARAGRAPH, UNLESS a certificate of public convenience and necessity for the
+22 construction is first obtained from the Commission, and the Commission has found that the
+23 capacity is necessary to ensure a sufficient supply of electricity to customers in the State, a
+24 person may not exercise a right of condemnation in connection with the construction of a
+25 generating station.
+26 (II) A PERSON MAY NOT EXERCISE A RIGHT OF CONDEMNATION
+27 TO ACQUIRE PROPERTY FOR THE PURPOSE OF CONSTRUCTING A GENERATING
+28 STATION THAT PRODUCES ELECTRICITY FROM WIND ENERGY OR SOLAR ENERGY.
+29 (3) (i) Except as provided in paragraph (4) of this subsection, unless a
+30 certificate of public convenience and necessity for the construction is first obtained from the
+31 Commission, a person may not begin construction of an overhead transmission line that is
+32 designed to carry a voltage in excess of 69,000 volts [or exercise a right of condemnation
+33 with the construction].
+4 SENATE BILL 737
+1 (ii) For construction related to an existing overhead transmission
+2 line, the Commission may waive the requirement in subparagraph (i) of this paragraph for
+3 good cause.
+4 (iii) Notwithstanding subparagraph (i) of this paragraph and subject
+5 to subparagraph (iv) of this paragraph, the Commission may issue a certificate of public
+6 convenience and necessity for the construction of an overhead transmission line only if the
+7 applicant for the certificate of public convenience and necessity:
+8 1. is an electric company; or
+9 2. is or, on the start of commercial operation of the overhead
+10 transmission line, will be subject to regulation as a public utility by an officer or an agency
+11 of the United States.
+12 (iv) The Commission may not issue a certificate of public convenience
+13 and necessity for the construction of an overhead transmission line in the electric
+14 distribution service territory of an electric company to an applicant other than an electric
+15 company if:
+16 1. the overhead transmission line is to be located solely
+17 within the electric distribution service territory of that electric company; and
+18 2. the cost of the overhead transmission line is to be paid
+19 solely by that electric company and its ratepayers.
+20 [(v) 1. This subparagraph applies to the construction of an
+21 overhead transmission line for which a certificate of public convenience and necessity is
+22 required under this section.
+23 2. On issuance of a certificate of public convenience and
+24 necessity for the construction of an overhead transmission line, a person may acquire by
+25 condemnation, in accordance with Title 12 of the Real Property Article, any property or
+26 right necessary for the construction or maintenance of the transmission line.]
+27 (4) (i) Except as provided in subparagraph (ii) of this paragraph, for
+28 construction related to an existing overhead transmission line designed to carry a voltage
+29 in excess of 69,000 volts, the Commission shall waive the requirement to obtain a certificate
+30 of public convenience and necessity if the Commission finds that the construction does not[:
+31 1. require the person to obtain new real property or
+32 additional rights–of–way through eminent domain; or
+33 2.] require larger or higher structures to accommodate:
+34 [A.] 1. increased voltage; or
+SENATE BILL 737 5
+1 [B.] 2. larger conductors.
+2 (ii) 1. For construction related to an existing overhead
+3 transmission line, including repairs, that is necessary to avoid an imminent safety hazard
+4 or reliability risk, a person may undertake the necessary construction.
+5 2. Within 30 days after construction is completed under
+6 subsubparagraph 1 of this subparagraph, a person shall file a report with the Commission
+7 describing the work that was completed.
+8 7–207.1.
+9 (b) This section applies to a person who:
+10 (1) constructs a generating station:
+11 (i) designed to provide on–site generated electricity if:
+12 1. the capacity of the generating station does not exceed 70
+13 megawatts; and
+14 2. the electricity that may be exported for sale from the
+15 generating station to the electric system is sold only on the wholesale market pursuant to
+16 an interconnection, operation, and maintenance agreement with the local electric company;
+17 or
+18 (ii) that produces electricity from wind if:
+19 1. the generating station is land–based;
+20 2. the capacity of the generating station does not exceed 70
+21 megawatts;
+22 3. the electricity that may be exported for sale from the
+23 generating station to the electric system is sold only on the wholesale market pursuant to
+24 an interconnection, operation, and maintenance agreement with the local electric company;
+25 4. the Commission provides an opportunity for public
+26 comment at a public hearing as provided in subsection (g) of this section; and
+27 5. the generating station’s wind turbines are not located
+28 within a distance from the Patuxent River Naval Air Station that is determined by
+29 regulations adopted by the Commission in coordination with the Commander, Naval Air
+30 Warfare Center Aircraft Division, provided that the distance requirement under the
+31 regulation is:
+6 SENATE BILL 737
+1 A. not greater than is necessary to encompass an area in
+2 which utility scale wind turbines could create Doppler radar interference for missions at
+3 the Patuxent River Naval Air Station;
+4 B. not greater than 46 miles, measured from location
+5 38.29667N, 76.37668W; and
+6 C. subject to modification if necessary to reflect changes in
+7 missions or technology at the Patuxent River Naval Air Station or changes in wind energy
+8 technology; or
+9 (2) constructs a generating station if:
+10 (i) the capacity of the generating station does not exceed 25
+11 megawatts;
+12 (ii) the electricity that may be exported for sale from the generating
+13 station to the electric system is sold only on the wholesale market pursuant to an
+14 interconnection, operation, and maintenance agreement with the local electric company;
+15 and
+16 (iii) at least 10% of the electricity generated at the generating station
+17 each year is consumed on–site.
+18 (H) A PERSON MAY NOT EXERCISE A RIGHT OF CONDEMNATION TO ACQUIRE
+19 PROPERTY FOR THE PURPOSE OF CONSTRUCTING A GENERATING STATION UNDER
+20 THIS SECTION THAT PRODUCES ELECTRICITY FROM WIND ENERGY OR SOLAR
+21 ENERGY.
+22 7–208.
+23 (b) This section applies to any person:
+24 (1) constructing a generating station and its associated overhead
+25 transmission lines designed to carry a voltage in excess of 69,000 volts; OR
+26 (2) [exercising the right of condemnation in connection with the
+27 construction; or
+28 (3)] constructing a qualified submerged renewable energy line.
+29 Article – Real Property
+30 10–705.
+31 (a) (1) In this section the following words have the meanings indicated.
+SENATE BILL 737 7
+1 (2) “Conservation easement” means an easement, covenant, restriction, or
+2 condition on real property, including an amendment to an easement, covenant, restriction,
+3 or condition, as provided for in § 2–118 of this article that is:
+4 (i) Owned by:
+5 1. The Maryland Environmental Trust;
+6 2. The Maryland Historical Trust;
+7 3. The Maryland Agricultural Land Preservation
+8 Foundation;
+9 4. The Maryland Department of Natural Resources;
+10 5. A county or municipal corporation and is funded by the
+11 Maryland Department of Natural Resources, the Rural Legacy Program, or a local
+12 agricultural preservation program; or
+13 6. A land trust; or
+14 (ii) Required by a permit issued by the Department of the
+15 Environment.
+16 12–101.
+17 (a) All proceedings for the acquisition of private property for public use by
+18 condemnation are governed by the provisions of this title and of Title 12, Chapter 200 of
+19 the Maryland Rules.
+20 (E) NOTWITHSTANDING ANY OTHER LAW, THE STATE OR ANY OF ITS
+21 INSTRUMENTALITIES OR POLITICAL SUBDIVISIONS MAY NOT ACQUIRE BY
+22 CONDEMNATION A PROPERTY THAT:
+23 (1) IS ENCUMBERED BY A CONSERVATION EASEMENT AS DEFINED
+24 UNDER § 10–705(A) OF THIS ARTICLE; OR
+25 (2) WILL BE USED FOR THE CONSTRUCTION OF A POWER LINE OR A
+26 GENERATING STATION THAT PRODUCES ELECTRICITY FROM WIND ENERGY OR
+27 SOLAR ENERGY.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+29 October 1, 2025.
+[DELETED: :CA      5   C A P F a s f a b c p t i e b c c c g s a g r t r o a r o c B  A S A  ( B  A S  A  ( B  A S  A  ( B  A S]
+[DELETED:  S   A  ( B  A S  A  (  S T A 7  ( A   ( m s a f e p i a m c   ( c r   ( c o  ( ( A m w   ( T r r t ) N E C M N E A R O 7  ( ( ( U c t     1 a]
+[DELETED: S 3     2 a    ( I § o    ( N m a     1 a c e c t o t p o t e g i M t w t q c     2 a a t a l 1 d b t f o a a     A d v g     B s t   ( U) []E( X II  PH U  a c o p c a n f t c c p g   ) I  A P F T P O C A G   ( ( E c C d o wn.]
+[DELETED:  S     ( F c r t a e o t l g    ( N t c a     1 i     2 i t o    ( T a n f t c o a o t l i t e d c     1 t o t l i t b l s w     2 t s    ( 1 T s a t t c o a o r     2 O i o a c o p c a n c r   ( ( E c i ot:     1 r t p t o n r p o a     2. r     A. i]1]
+[DELETED: S 5     B. l]2    ( 1 F c r t a e o t o     2 W 3 d a c i c u s d 7  ( T   ( c    ( d     1 t m     2 t e t m b e f s f t g a o    ( t     1 t     2 t m     3 t e t m b e f s f t g a     4 t C p a o f p c     5 t g s w t a n l w a d f t P R N A S t i d b r W C A D p t t d r u t r]
+[DELETED:  S      A n g t i n t e a a i w t     B n g t 4 m m f l 3     C s m t   ( c    ( t c o t g s d n e 2 m    ( t s t t e s i s o o t w m p t a i a    ( a e )   S T P E F W E O S 7  ( T   ( c a g s a i a o t   ( e t r o c i c w t c   () c A 1  ( ( I]
+[DELETED: S 7   ( “ c o    ( O     1 T     2 T     3 T M A L P F     4 T     5 A M D o N R t R L P o a l a     6 A    ( R b a p i b t D o t E 1  ( A p f t a o p p f p u b c t ) N,O A O LW T T O A O I O P S M N A BT (  E B A C E A D  A E 1(); (  S T P E F W E O   S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 737
+C5, N1 5lr3522
+CF 5lr1860
+By: Senator Folden
+Introduced and read first time: January 27, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 Property Rights Protection Act of 2025
+3 FOR the purpose of prohibiting certain persons from exercising a right of condemnation to
+4 acquire property for the purpose of constructing a power line or a certain generating
+5 station; prohibiting the State or any of its instrumentalities or political subdivisions
+6 from acquiring by condemnation property that is encumbered by certain
+7 conservation easements or will be used for the construction of a power line or a
+8 certain generating station; and generally relating to restrictions on a right of
+9 condemnation to acquire property.
+10 BY repealing and reenacting, with amendments,
+11 Article – Public Utilities
+12 Section 7–103, 7–207(b), and 7–208(b)
+13 Annotated Code of Maryland
+14 (2020 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – Public Utilities
+17 Section 7–207.1(b)
+18 Annotated Code of Maryland
+19 (2020 Replacement Volume and 2024 Supplement)
+20 BY adding to
+21 Article – Public Utilities
+22 Section 7–207.1(h)
+23 Annotated Code of Maryland
+24 (2020 Replacement Volume and 2024 Supplement)
+25 BY repealing and reenacting, without amendments,
+26 Article – Real Property
+27 Section 10–705(a)(1) and (2) and 12–101(a)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0737*
+
+2 SENATE BILL 737
+1 Annotated Code of Maryland
+2 (2023 Replacement Volume and 2024 Supplement)
+3 BY adding to
+4 Article – Real Property
+5 Section 12–101(e)
+6 Annotated Code of Maryland
+7 (2023 Replacement Volume and 2024 Supplement)
+8 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+9 That the Laws of Maryland read as follows:
+10 Article – Public Utilities
+11 7–103.
+12 (a) An electric company incorporated in Maryland may:
+13 (1) manufacture, sell, and furnish electric power in any municipal
+14 corporation or county of the State;
+15 (2) construct a power line to transmit power under, along, on, or over the
+16 roadways or public ways of any municipal corporation or county of the State; and
+17 (3) connect the power line from the place of supply to any other structure
+18 or object.
+19 (b) (1) An electric company must have the consent of the governing body of the
+20 municipal corporation or county before laying or constructing any power line in accordance
+21 with subsection (a) of this section.
+22 (2) The governing body of the municipal corporation or county may adopt
+23 reasonable regulations and conditions for the laying of a power line, including regulations
+24 requiring the electric company to refill and repave any roadway or public way under which
+25 the power line is laid.
+26 (C) AN ELECTRIC COMPANY MAY NOT EXERCISE A RIGHT OF
+27 CONDEMNATION TO ACQUIRE PROPERTY FOR THE CONSTRUCTION OF A POWER LINE
+28 IN ACCORDANCE WITH THIS SECTION.
+29 7–207.
+30 (b) (1) (i) Unless a certificate of public convenience and necessity for the
+31 construction is first obtained from the Commission, a person may not begin construction in
+32 the State of:
+33 1. a generating station; or
+
+SENATE BILL 737 3
+1 2. a qualified generator lead line.
+2 (ii) If a person obtains Commission approval for construction under
+3 § 7–207.1 of this subtitle, the Commission shall exempt a person from the requirement to
+4 obtain a certificate of public convenience and necessity under this section.
+5 (iii) Notwithstanding subparagraph (i) of this paragraph, a person
+6 may not apply to obtain a certificate of public convenience and necessity for construction of
+7 a qualified generator lead line unless:
+8 1. at least 90 days before the filing of an application for a
+9 certificate of public convenience and necessity, the person had in good faith offered the
+10 electric company that owns that portion of the electric grid in Maryland to which the
+11 qualified generator lead line would interconnect a full and fair opportunity for the electric
+12 company to construct the qualified generator lead line; and
+13 2. at any time at least 10 days before the filing of an
+14 application for a certificate of public convenience and necessity, the electric company:
+15 A. did not accept from the person a proposal or a negotiated
+16 version of the proposal under which the electric company would construct the qualified
+17 generator lead line; or
+18 B. stated in writing that the electric company did not intend
+19 to construct the qualified generator lead line.
+20 (2) (I) [Unless] EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF
+21 THIS PARAGRAPH, UNLESS a certificate of public convenience and necessity for the
+22 construction is first obtained from the Commission, and the Commission has found that the
+23 capacity is necessary to ensure a sufficient supply of electricity to customers in the State, a
+24 person may not exercise a right of condemnation in connection with the construction of a
+25 generating station.
+26 (II) A PERSON MAY NOT EXERCISE A RIGHT OF CONDEMNATION
+27 TO ACQUIRE PROPERTY FOR THE PURPOSE OF CONSTRUCTING A GENERATING
+28 STATION THAT PRODUCES ELECTRICITY FROM WIND ENERGY OR SOLAR ENERGY.
+29 (3) (i) Except as provided in paragraph (4) of this subsection, unless a
+30 certificate of public convenience and necessity for the construction is first obtained from the
+31 Commission, a person may not begin construction of an overhead transmission line that is
+32 designed to carry a voltage in excess of 69,000 volts [or exercise a right of condemnation
+33 with the construction].
+
+4 SENATE BILL 737
+1 (ii) For construction related to an existing overhead transmission
+2 line, the Commission may waive the requirement in subparagraph (i) of this paragraph for
+3 good cause.
+4 (iii) Notwithstanding subparagraph (i) of this paragraph and subject
+5 to subparagraph (iv) of this paragraph, the Commission may issue a certificate of public
+6 convenience and necessity for the construction of an overhead transmission line only if the
+7 applicant for the certificate of public convenience and necessity:
+8 1. is an electric company; or
+9 2. is or, on the start of commercial operation of the overhead
+10 transmission line, will be subject to regulation as a public utility by an officer or an agency
+11 of the United States.
+12 (iv) The Commission may not issue a certificate of public convenience
+13 and necessity for the construction of an overhead transmission line in the electric
+14 distribution service territory of an electric company to an applicant other than an electric
+15 company if:
+16 1. the overhead transmission line is to be located solely
+17 within the electric distribution service territory of that electric company; and
+18 2. the cost of the overhead transmission line is to be paid
+19 solely by that electric company and its ratepayers.
+20 [(v) 1. This subparagraph applies to the construction of an
+21 overhead transmission line for which a certificate of public convenience and necessity is
+22 required under this section.
+23 2. On issuance of a certificate of public convenience and
+24 necessity for the construction of an overhead transmission line, a person may acquire by
+25 condemnation, in accordance with Title 12 of the Real Property Article, any property or
+26 right necessary for the construction or maintenance of the transmission line.]
+27 (4) (i) Except as provided in subparagraph (ii) of this paragraph, for
+28 construction related to an existing overhead transmission line designed to carry a voltage
+29 in excess of 69,000 volts, the Commission shall waive the requirement to obtain a certificate
+30 of public convenience and necessity if the Commission finds that the construction does not[:
+31 1. require the person to obtain new real property or
+32 additional rights–of–way through eminent domain; or
+33 2.] require larger or higher structures to accommodate:
+34 [A.] 1. increased voltage; or
+
+SENATE BILL 737 5
+1 [B.] 2. larger conductors.
+2 (ii) 1. For construction related to an existing overhead
+3 transmission line, including repairs, that is necessary to avoid an imminent safety hazard
+4 or reliability risk, a person may undertake the necessary construction.
+5 2. Within 30 days after construction is completed under
+6 subsubparagraph 1 of this subparagraph, a person shall file a report with the Commission
+7 describing the work that was completed.
+8 7–207.1.
+9 (b) This section applies to a person who:
+10 (1) constructs a generating station:
+11 (i) designed to provide on–site generated electricity if:
+12 1. the capacity of the generating station does not exceed 70
+13 megawatts; and
+14 2. the electricity that may be exported for sale from the
+15 generating station to the electric system is sold only on the wholesale market pursuant to
+16 an interconnection, operation, and maintenance agreement with the local electric company;
+17 or
+18 (ii) that produces electricity from wind if:
+19 1. the generating station is land–based;
+20 2. the capacity of the generating station does not exceed 70
+21 megawatts;
+22 3. the electricity that may be exported for sale from the
+23 generating station to the electric system is sold only on the wholesale market pursuant to
+24 an interconnection, operation, and maintenance agreement with the local electric company;
+25 4. the Commission provides an opportunity for public
+26 comment at a public hearing as provided in subsection (g) of this section; and
+27 5. the generating station’s wind turbines are not located
+28 within a distance from the Patuxent River Naval Air Station that is determined by
+29 regulations adopted by the Commission in coordination with the Commander, Naval Air
+30 Warfare Center Aircraft Division, provided that the distance requirement under the
+31 regulation is:
+
+6 SENATE BILL 737
+1 A. not greater than is necessary to encompass an area in
+2 which utility scale wind turbines could create Doppler radar interference for missions at
+3 the Patuxent River Naval Air Station;
+4 B. not greater than 46 miles, measured from location
+5 38.29667N, 76.37668W; and
+6 C. subject to modification if necessary to reflect changes in
+7 missions or technology at the Patuxent River Naval Air Station or changes in wind energy
+8 technology; or
+9 (2) constructs a generating station if:
+10 (i) the capacity of the generating station does not exceed 25
+11 megawatts;
+12 (ii) the electricity that may be exported for sale from the generating
+13 station to the electric system is sold only on the wholesale market pursuant to an
+14 interconnection, operation, and maintenance agreement with the local electric company;
+15 and
+16 (iii) at least 10% of the electricity generated at the generating station
+17 each year is consumed on–site.
+18 (H) A PERSON MAY NOT EXERCISE A RIGHT OF CONDEMNATION TO ACQUIRE
+19 PROPERTY FOR THE PURPOSE OF CONSTRUCTING A GENERATING STATION UNDER
+20 THIS SECTION THAT PRODUCES ELECTRICITY FROM WIND ENERGY OR SOLAR
+21 ENERGY.
+22 7–208.
+23 (b) This section applies to any person:
+24 (1) constructing a generating station and its associated overhead
+25 transmission lines designed to carry a voltage in excess of 69,000 volts; OR
+26 (2) [exercising the right of condemnation in connection with the
+27 construction; or
+28 (3)] constructing a qualified submerged renewable energy line.
+29 Article – Real Property
+30 10–705.
+31 (a) (1) In this section the following words have the meanings indicated.
+
+SENATE BILL 737 7
+1 (2) “Conservation easement” means an easement, covenant, restriction, or
+2 condition on real property, including an amendment to an easement, covenant, restriction,
+3 or condition, as provided for in § 2–118 of this article that is:
+4 (i) Owned by:
+5 1. The Maryland Environmental Trust;
+6 2. The Maryland Historical Trust;
+7 3. The Maryland Agricultural Land Preservation
+8 Foundation;
+9 4. The Maryland Department of Natural Resources;
+10 5. A county or municipal corporation and is funded by the
+11 Maryland Department of Natural Resources, the Rural Legacy Program, or a local
+12 agricultural preservation program; or
+13 6. A land trust; or
+14 (ii) Required by a permit issued by the Department of the
+15 Environment.
+16 12–101.
+17 (a) All proceedings for the acquisition of private property for public use by
+18 condemnation are governed by the provisions of this title and of Title 12, Chapter 200 of
+19 the Maryland Rules.
+20 (E) NOTWITHSTANDING ANY OTHER LAW, THE STATE OR ANY OF ITS
+21 INSTRUMENTALITIES OR POLITICAL SUBDIVISIONS MAY NOT ACQUIRE BY
+22 CONDEMNATION A PROPERTY THAT:
+23 (1) IS ENCUMBERED BY A CONSERVATION EASEMENT AS DEFINED
+24 UNDER § 10–705(A) OF THIS ARTICLE; OR
+25 (2) WILL BE USED FOR THE CONSTRUCTION OF A POWER LINE OR A
+26 GENERATING STATION THAT PRODUCES ELECTRICITY FROM WIND ENERGY OR
+27 SOLAR ENERGY.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+29 October 1, 2025.
+
+[DELETED: :CA      5   C A P F a s f a b c p t i e b c c c g s a g r t r o a r o c B  A S A  ( B  A S  A  ( B  A S  A  ( B  A S]
+[DELETED:  S   A  ( B  A S  A  (  S T A 7  ( A   ( m s a f e p i a m c   ( c r   ( c o  ( ( A m w   ( T r r t ) N E C M N E A R O 7  ( ( ( U c t     1 a]
+[DELETED: S 3     2 a    ( I § o    ( N m a     1 a c e c t o t p o t e g i M t w t q c     2 a a t a l 1 d b t f o a a     A d v g     B s t   ( U) []E( X II  PH U  a c o p c a n f t c c p g   ) I  A P F T P O C A G   ( ( E c C d o wn.]
+[DELETED:  S     ( F c r t a e o t l g    ( N t c a     1 i     2 i t o    ( T a n f t c o a o t l i t e d c     1 t o t l i t b l s w     2 t s    ( 1 T s a t t c o a o r     2 O i o a c o p c a n c r   ( ( E c i ot:     1 r t p t o n r p o a     2. r     A. i]1]
+[DELETED: S 5     B. l]2    ( 1 F c r t a e o t o     2 W 3 d a c i c u s d 7  ( T   ( c    ( d     1 t m     2 t e t m b e f s f t g a o    ( t     1 t     2 t m     3 t e t m b e f s f t g a     4 t C p a o f p c     5 t g s w t a n l w a d f t P R N A S t i d b r W C A D p t t d r u t r]
+[DELETED:  S      A n g t i n t e a a i w t     B n g t 4 m m f l 3     C s m t   ( c    ( t c o t g s d n e 2 m    ( t s t t e s i s o o t w m p t a i a    ( a e )   S T P E F W E O S 7  ( T   ( c a g s a i a o t   ( e t r o c i c w t c   () c A 1  ( ( I]
+[DELETED: S 7   ( “ c o    ( O     1 T     2 T     3 T M A L P F     4 T     5 A M D o N R t R L P o a l a     6 A    ( R b a p i b t D o t E 1  ( A p f t a o p p f p u b c t ) N,O A O LW T T O A O I O P S M N A BT (  E B A C E A D  A E 1(); (  S T P E F W E O   S A B I F E T t A s t e O]

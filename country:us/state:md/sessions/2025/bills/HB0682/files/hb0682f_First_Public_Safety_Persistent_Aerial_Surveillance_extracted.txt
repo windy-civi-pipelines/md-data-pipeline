@@ -1,0 +1,148 @@
+Title: HOUSE BILL 682
+Official Title: HOUSE BILL 682
+Number of Sections: 1
+Source: versions - First - Public Safety - Persistent Aerial Surveillance
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+E4 5lr0697
+HB 303/24 – JUD
+By: Delegates Grammer, Arikan, Bouchat, Conaway, Hornberger, Ivey, Kaufman,
+J. Long, Martinez, Phillips, Sample–Hughes, Schmidt, Szeliga, Taylor,
+Tomlinson, and Young
+Introduced and read first time: January 24, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Safety – Persistent Aerial Surveillance
+3 FOR the purpose of prohibiting persistent aerial surveillance by a certain unit, agency, or
+4 political subdivision to gather certain evidence or information in a criminal
+5 investigation, subject to certain exceptions; and generally relating to persistent
+6 aerial surveillance.
+7 BY repealing and reenacting, without amendments,
+8 Article – Transportation
+9 Section 5–101(a) and (e)
+10 Annotated Code of Maryland
+11 (2020 Replacement Volume and 2024 Supplement)
+12 BY adding to
+13 Article – Public Safety
+14 Section 3–534
+15 Annotated Code of Maryland
+16 (2022 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Transportation
+20 5–101.
+21 (a) In this title the following words have the meanings indicated.
+22 (e) “Aircraft” means any device used or designed for navigation of or flight in the
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0682*
+2 HOUSE BILL 682
+1 air.
+2 Article – Public Safety
+3 3–534.
+4 (A) IN THIS SECTION, “PERSISTENT AERIAL SURVEILLANCE” MEANS THE
+5 USE OF AIRCRAFT, AS DEFINED IN § 5–101 OF THE TRANSPORTATION ARTICLE, TO
+6 RECORD VIDEO OR A CONCURRENT SERIES OF IMAGES OR PICTURES THAT WHEN
+7 VIEWED IN AGGREGATE DEPICT A PERSON’S ACTIONS OVER TIME.
+8 (B) EXCEPT AS PROVIDED IN SUBSECTION (C) OF THIS SECTION, A UNIT OR
+9 AN AGENCY OF THE STATE OR A POLITICAL SUBDIVISION OF THE STATE MAY NOT
+10 CONDUCT PERSISTENT AERIAL SURVEILLANCE TO GATHER EVIDENCE OR OTHER
+11 INFORMATION IN A CRIMINAL INVESTIGATION.
+12 (C) A UNIT OR AN AGENCY OF THE STATE OR A POLITICAL SUBDIVISION OF
+13 THE STATE MAY CONDUCT PERSISTENT AERIAL SURVEILLANCE:
+14 (1) IN ACCORDANCE WITH A VALID SEARCH WARRANT ISSUED BY A
+15 JUDGE;
+16 (2) ON A LOCATION FOR THE PURPOSE OF EXECUTING AN ARREST
+17 WARRANT;
+18 (3) IN FRESH PURSUIT OF A SUSPECT, AS DEFINED IN § 2–304 OF THE
+19 CRIMINAL PROCEDURE ARTICLE;
+20 (4) TO ASSIST IN AN ACTIVE SEARCH AND RESCUE OPERATION;
+21 (5) TO LOCATE AN ESCAPED PRISONER;
+22 (6) IF A LAW ENFORCEMENT OFFICER REASONABLY BELIEVES THAT
+23 THE USE OF AIRCRAFT IS NECESSARY TO PREVENT IMMINENT SERIOUS BODILY
+24 HARM TO AN INDIVIDUAL; OR
+25 (7) IF THE UNITED STATES SECRETARY OF HOMELAND SECURITY
+26 DETERMINES THAT CREDIBLE INTELLIGENCE INDICATES THAT THERE IS A HIGH
+27 RISK OF A TERRORIST ATTACK BY A SPECIFIC INDIVIDUAL OR ORGANIZATION AND
+28 THAT PERSISTENT AERIAL SURVEILLANCE IS NECESSARY TO COUNTER SUCH A RISK.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+30 October 1, 2025.
+[DELETED: :CA      5     M P S S S T A P F p s t g c e o i i a c i s t c e a g r t p a B  A  S  A  ( B  A  S  A  (  S T A 5  ( I  ( “]
+[DELETED:  H  a A () I,“N T SN P A SE M TT     R RE §51TANS.() E()X C N  T T S T G O O() A  T T: ( ( A L F T P O E A A ( ,§2T    PA; R R ( ; ( ; ( U O A I N T P I S BL  ( USSH T N T E O O E I I I H  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 682
+E4 5lr0697
+HB 303/24 – JUD
+By: Delegates Grammer, Arikan, Bouchat, Conaway, Hornberger, Ivey, Kaufman,
+J. Long, Martinez, Phillips, Sample–Hughes, Schmidt, Szeliga, Taylor,
+Tomlinson, and Young
+Introduced and read first time: January 24, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Safety – Persistent Aerial Surveillance
+3 FOR the purpose of prohibiting persistent aerial surveillance by a certain unit, agency, or
+4 political subdivision to gather certain evidence or information in a criminal
+5 investigation, subject to certain exceptions; and generally relating to persistent
+6 aerial surveillance.
+7 BY repealing and reenacting, without amendments,
+8 Article – Transportation
+9 Section 5–101(a) and (e)
+10 Annotated Code of Maryland
+11 (2020 Replacement Volume and 2024 Supplement)
+12 BY adding to
+13 Article – Public Safety
+14 Section 3–534
+15 Annotated Code of Maryland
+16 (2022 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Transportation
+20 5–101.
+21 (a) In this title the following words have the meanings indicated.
+22 (e) “Aircraft” means any device used or designed for navigation of or flight in the
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0682*
+
+2 HOUSE BILL 682
+1 air.
+2 Article – Public Safety
+3 3–534.
+4 (A) IN THIS SECTION, “PERSISTENT AERIAL SURVEILLANCE” MEANS THE
+5 USE OF AIRCRAFT, AS DEFINED IN § 5–101 OF THE TRANSPORTATION ARTICLE, TO
+6 RECORD VIDEO OR A CONCURRENT SERIES OF IMAGES OR PICTURES THAT WHEN
+7 VIEWED IN AGGREGATE DEPICT A PERSON’S ACTIONS OVER TIME.
+8 (B) EXCEPT AS PROVIDED IN SUBSECTION (C) OF THIS SECTION, A UNIT OR
+9 AN AGENCY OF THE STATE OR A POLITICAL SUBDIVISION OF THE STATE MAY NOT
+10 CONDUCT PERSISTENT AERIAL SURVEILLANCE TO GATHER EVIDENCE OR OTHER
+11 INFORMATION IN A CRIMINAL INVESTIGATION.
+12 (C) A UNIT OR AN AGENCY OF THE STATE OR A POLITICAL SUBDIVISION OF
+13 THE STATE MAY CONDUCT PERSISTENT AERIAL SURVEILLANCE:
+14 (1) IN ACCORDANCE WITH A VALID SEARCH WARRANT ISSUED BY A
+15 JUDGE;
+16 (2) ON A LOCATION FOR THE PURPOSE OF EXECUTING AN ARREST
+17 WARRANT;
+18 (3) IN FRESH PURSUIT OF A SUSPECT, AS DEFINED IN § 2–304 OF THE
+19 CRIMINAL PROCEDURE ARTICLE;
+20 (4) TO ASSIST IN AN ACTIVE SEARCH AND RESCUE OPERATION;
+21 (5) TO LOCATE AN ESCAPED PRISONER;
+22 (6) IF A LAW ENFORCEMENT OFFICER REASONABLY BELIEVES THAT
+23 THE USE OF AIRCRAFT IS NECESSARY TO PREVENT IMMINENT SERIOUS BODILY
+24 HARM TO AN INDIVIDUAL; OR
+25 (7) IF THE UNITED STATES SECRETARY OF HOMELAND SECURITY
+26 DETERMINES THAT CREDIBLE INTELLIGENCE INDICATES THAT THERE IS A HIGH
+27 RISK OF A TERRORIST ATTACK BY A SPECIFIC INDIVIDUAL OR ORGANIZATION AND
+28 THAT PERSISTENT AERIAL SURVEILLANCE IS NECESSARY TO COUNTER SUCH A RISK.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+30 October 1, 2025.
+
+[DELETED: :CA      5     M P S S S T A P F p s t g c e o i i a c i s t c e a g r t p a B  A  S  A  ( B  A  S  A  (  S T A 5  ( I  ( “]
+[DELETED:  H  a A () I,“N T SN P A SE M TT     R RE §51TANS.() E()X C N  T T S T G O O() A  T T: ( ( A L F T P O E A A ( ,§2T    PA; R R ( ; ( ; ( U O A I N T P I S BL  ( USSH T N T E O O E I I I H  S A B I F E T t A s t e O]

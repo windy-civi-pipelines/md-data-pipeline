@@ -1,0 +1,155 @@
+Title: HOUSE BILL 301
+Official Title: HOUSE BILL 301
+Number of Sections: 1
+Source: versions - First - Criminal Procedure - Forensic Genetic Genealogical DNA Analysis and Search - Affidavit for Judicial Authorization
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+E2 5lr0865
+By: Delegate Moon
+Introduced and read first time: January 9, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Procedure – Forensic Genetic Genealogical DNA Analysis and Search –
+3 Affidavit for Judicial Authorization
+4 FOR the purpose of altering certain requirements for a sworn affidavit submitted for
+5 judicial authorization to initiate a forensic genetic genealogical DNA analysis search
+6 (FGGS); and generally relating to FGGS.
+7 BY repealing and reenacting, without amendments,
+8 Article – Criminal Procedure
+9 Section 17–101(e) and 17–102(a)
+10 Annotated Code of Maryland
+11 (2018 Replacement Volume and 2024 Supplement)
+12 BY repealing and reenacting, with amendments,
+13 Article – Criminal Procedure
+14 Section 17–102(b)
+15 Annotated Code of Maryland
+16 (2018 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Criminal Procedure
+20 17–101.
+21 (e) “Forensic genetic genealogical DNA analysis and search” or “FGGS” means:
+22 (1) the forensic genetic genealogical DNA analysis of biological material
+23 using SNP or other sequencing techniques to develop an FGG profile;
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0301*
+2 HOUSE BILL 301
+1 (2) a subsequent search using the FGG profile in a publicly available
+2 open–data personal genomics database or a direct–to–consumer genetic genealogy service
+3 to find individuals related to the source of the FGG profile; and
+4 (3) a genealogical search using public records and other lawful means to
+5 obtain information in accordance with this title.
+6 17–102.
+7 (a) (1) FGGS may not be initiated without judicial authorization and without
+8 certifying before the court that the forensic sample and the criminal case satisfy the criteria
+9 set forth in this section.
+10 (2) If an FGGS is certified before a court in accordance with this section,
+11 the court shall authorize the initiation of the FGGS.
+12 (b) A sworn affidavit shall be submitted by a law enforcement agent with approval
+13 of a prosecutor from the relevant jurisdiction asserting that:
+14 (1) THE IDENTITY OF THE PERPETRATOR IS UNKNOWN;
+15 [(1)] (2) the crime is the commission of, or the attempt to commit, murder,
+16 rape, a felony sexual offense, or a criminal act involving circumstances presenting a
+17 substantial and ongoing threat to public safety or national security;
+18 [(2)] (3) the forensic sample to be subjected to the FGGS is biological
+19 material reasonably believed by investigators to have been deposited by a putative
+20 perpetrator and that the forensic sample was collected from:
+21 (i) a crime scene;
+22 (ii) a person, an item, or a location connected to the criminal event;
+23 or
+24 (iii) the unidentified human remains of a suspected homicide victim;
+25 AND
+26 [(3)] (4) an STR DNA profile has already been developed from the forensic
+27 sample, was entered into the statewide DNA database system and the national DNA
+28 database system, and failed to identify a known individual[; and
+29 (4) unless the crime being investigated presents an ongoing threat to public
+30 safety or national security concerns, reasonable investigative leads have been pursued and
+31 failed to identify the perpetrator].
+HOUSE BILL 301 3
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October 1, 2025.
+[DELETED: :CA      5     A C A F t p o a c r f a s a s f j ( B  A S  A  ( B  A S  A  (  S T A 1  ( “   ( t u]
+[DELETED:  H    ( a s s u t F p i a p a o t   ( a o 1  ( ( F c s   ( I t  ( A o   ;   () t]( r a f s o o a c a i c p a s   () t f s t b s t t F i b]( m r b b i t h b d b a p p    ( a    ( a o    ( t   () a]( s w e i t s D d s a t n D dl;   ( u s fr.]
+[DELETED: H 3  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 301
+E2 5lr0865
+By: Delegate Moon
+Introduced and read first time: January 9, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Procedure – Forensic Genetic Genealogical DNA Analysis and Search –
+3 Affidavit for Judicial Authorization
+4 FOR the purpose of altering certain requirements for a sworn affidavit submitted for
+5 judicial authorization to initiate a forensic genetic genealogical DNA analysis search
+6 (FGGS); and generally relating to FGGS.
+7 BY repealing and reenacting, without amendments,
+8 Article – Criminal Procedure
+9 Section 17–101(e) and 17–102(a)
+10 Annotated Code of Maryland
+11 (2018 Replacement Volume and 2024 Supplement)
+12 BY repealing and reenacting, with amendments,
+13 Article – Criminal Procedure
+14 Section 17–102(b)
+15 Annotated Code of Maryland
+16 (2018 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Criminal Procedure
+20 17–101.
+21 (e) “Forensic genetic genealogical DNA analysis and search” or “FGGS” means:
+22 (1) the forensic genetic genealogical DNA analysis of biological material
+23 using SNP or other sequencing techniques to develop an FGG profile;
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0301*
+
+2 HOUSE BILL 301
+1 (2) a subsequent search using the FGG profile in a publicly available
+2 open–data personal genomics database or a direct–to–consumer genetic genealogy service
+3 to find individuals related to the source of the FGG profile; and
+4 (3) a genealogical search using public records and other lawful means to
+5 obtain information in accordance with this title.
+6 17–102.
+7 (a) (1) FGGS may not be initiated without judicial authorization and without
+8 certifying before the court that the forensic sample and the criminal case satisfy the criteria
+9 set forth in this section.
+10 (2) If an FGGS is certified before a court in accordance with this section,
+11 the court shall authorize the initiation of the FGGS.
+12 (b) A sworn affidavit shall be submitted by a law enforcement agent with approval
+13 of a prosecutor from the relevant jurisdiction asserting that:
+14 (1) THE IDENTITY OF THE PERPETRATOR IS UNKNOWN;
+15 [(1)] (2) the crime is the commission of, or the attempt to commit, murder,
+16 rape, a felony sexual offense, or a criminal act involving circumstances presenting a
+17 substantial and ongoing threat to public safety or national security;
+18 [(2)] (3) the forensic sample to be subjected to the FGGS is biological
+19 material reasonably believed by investigators to have been deposited by a putative
+20 perpetrator and that the forensic sample was collected from:
+21 (i) a crime scene;
+22 (ii) a person, an item, or a location connected to the criminal event;
+23 or
+24 (iii) the unidentified human remains of a suspected homicide victim;
+25 AND
+26 [(3)] (4) an STR DNA profile has already been developed from the forensic
+27 sample, was entered into the statewide DNA database system and the national DNA
+28 database system, and failed to identify a known individual[; and
+29 (4) unless the crime being investigated presents an ongoing threat to public
+30 safety or national security concerns, reasonable investigative leads have been pursued and
+31 failed to identify the perpetrator].
+
+HOUSE BILL 301 3
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October 1, 2025.
+
+[DELETED: :CA      5     A C A F t p o a c r f a s a s f j ( B  A S  A  ( B  A S  A  (  S T A 1  ( “   ( t u]
+[DELETED:  H    ( a s s u t F p i a p a o t   ( a o 1  ( ( F c s   ( I t  ( A o   ;   () t]( r a f s o o a c a i c p a s   () t f s t b s t t F i b]( m r b b i t h b d b a p p    ( a    ( a o    ( t   () a]( s w e i t s D d s a t n D dl;   ( u s fr.]
+[DELETED: H 3  S A B I F E T t A s t e O]

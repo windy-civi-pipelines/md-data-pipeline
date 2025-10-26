@@ -1,0 +1,982 @@
+Title: SENATE BILL 600
+Official Title: SENATE BILL 600
+Number of Sections: 1
+Source: versions - Third - Baltimore City - Stop Sign Monitoring Systems - Authorization of Pilot Program
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+R5 5lr2669
+CF HB 1226
+By: Senator McCray
+Introduced and read first time: January 23, 2025
+Assigned to: Judicial Proceedings
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 24, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Baltimore City – Stop Sign Monitoring Systems – Authorization of Pilot
+3 Program
+4 FOR the purpose of authorizing the use of stop sign monitoring systems in certain school
+5 zones in Baltimore City, if authorized by local law; providing that the owner or driver
+6 of a motor vehicle recorded failing to obey a stop sign is subject to a citation and a
+7 certain civil penalty under certain circumstances; establishing certain defenses to a
+8 charge of an alleged violation recorded by a stop sign monitoring system; prohibiting
+9 a contractor administering a stop sign monitoring system from being compensated
+10 in a certain manner; requiring that a certain percentage of the fines collected under
+11 this Act be distributed to the local management board for Baltimore City and be used
+12 only for certain purposes; and generally relating to the use of stop sign monitoring
+13 systems in Baltimore City.
+14 BY repealing and reenacting, with amendments,
+15 Article – Courts and Judicial Proceedings
+16 Section 4–401(13), 7–302(e)(1)(i), (3), and (4)(i), and 10–311(g)
+17 Annotated Code of Maryland
+18 (2020 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Courts and Judicial Proceedings
+21 Section 7–302(e)(6)
+22 Annotated Code of Maryland
+23 (2020 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0600*
+2 SENATE BILL 600
+1 BY repealing and reenacting, with amendments,
+2 Article – Courts and Judicial Proceedings
+3 Section 7–302(e)(1) through (4) and 10–311(f)
+4 Annotated Code of Maryland
+5 (2020 Replacement Volume and 2024 Supplement)
+6 (As enacted by Section 3 of Chapter 678 of the Acts of the General Assembly of 2024)
+7 BY adding to
+8 Article – Courts and Judicial Proceedings
+9 Section 7–302(e)(6) and 10–311(f)
+10 Annotated Code of Maryland
+11 (2020 Replacement Volume and 2024 Supplement)
+12 (As enacted by Section 3 of Chapter 678 of the Acts of the General Assembly of 2024)
+13 BY repealing and reenacting, without amendments,
+14 Article – Transportation
+15 Section 21–707
+16 Annotated Code of Maryland
+17 (2020 Replacement Volume and 2024 Supplement)
+18 BY adding to
+19 Article – Transportation
+20 Section 21–707.2
+21 Annotated Code of Maryland
+22 (2020 Replacement Volume and 2024 Supplement)
+23 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+24 That the Laws of Maryland read as follows:
+25 Article – Courts and Judicial Proceedings
+26 7–302.
+27 (e) (1) (i) A citation issued pursuant to § 21–202.1, § 21–706.1, § 21–707.1,
+28 § 21–707.2, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the Transportation
+29 Article shall provide that the person receiving the citation may elect to stand trial by
+30 notifying the issuing agency of the person’s intention to stand trial at least 5 days prior to
+31 the date of payment as set forth in the citation.
+32 (3) [Civil] EXCEPT AS PROVIDED IN PARAGRAPH (6) OF THIS
+33 SUBSECTION, CIVIL penalties resulting from citations issued using a vehicle height
+34 monitoring system, traffic control signal monitoring system, speed monitoring system,
+35 work zone speed control system, stop sign monitoring system, school bus monitoring
+36 camera, bus lane monitoring system, or noise abatement monitoring system that are
+37 collected by the District Court shall be collected in accordance with subsection (a) of this
+38 section and distributed in accordance with § 12–118 of the Transportation Article.
+SENATE BILL 600 3
+1 (4) (i) Except as provided in [paragraph (5)] PARAGRAPHS (5) AND
+2 (6) of this subsection, from the fines collected by a political subdivision as a result of
+3 violations enforced by speed monitoring systems, work zone speed control systems, stop
+4 sign monitoring systems, school bus monitoring cameras, bus lane monitoring systems, or
+5 noise abatement monitoring systems, a political subdivision:
+6 1. May recover the costs of implementing and administering
+7 the speed monitoring systems, work zone speed control systems, school bus monitoring
+8 cameras, or bus lane monitoring systems, or noise abatement monitoring systems; and
+9 2. Subject to subparagraphs (ii), (iii), and (iv) of this
+10 paragraph, may spend any remaining balance solely for public safety purposes, including
+11 pedestrian or highway safety programs.
+12 (6) FROM THE FINES COLLECTED BY BALTIMORE CITY OR THE
+13 DISTRICT COURT AS A RESULT OF VIOLATIONS ENFORCED BY A STOP SIGN
+14 MONITORING SYSTEM, 50% SHALL BE:
+15 (I) DISTRIBUTED TO THE LOCAL MANAGEMENT BOARD FOR
+16 BALTIMORE CITY; AND
+17 (II) USED ONLY FOR PROVIDING YOUTH PROGRAMMING AND
+18 SERVICES FOR YOUTH LIVING IN OR ATTENDING A SCHOOL LOCATED IN THE 45TH
+19 LEGISLATIVE DISTRICT.
+20 10–311.
+21 (g) A recorded image of a motor vehicle produced by a stop sign monitoring system
+22 in accordance with § 21–707.1 OR § 21–707.2 of the Transportation Article is admissible
+23 in a proceeding concerning a civil citation issued under that section for a violation of §
+24 21–707 of the Transportation Article without authentication.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+26 as follows:
+27 Article – Courts and Judicial Proceedings
+28 7–302.
+29 (e) (1) (i) A citation issued pursuant to § 21–202.1, § 21–706.1, § 21–707.2,
+30 § 21–809, § 21–810, § 21–1134, or § 24–111.3 of the Transportation Article shall provide
+31 that the person receiving the citation may elect to stand trial by notifying the issuing
+32 agency of the person’s intention to stand trial at least 5 days prior to the date of payment
+33 as set forth in the citation.
+4 SENATE BILL 600
+1 (ii) On receipt of the notice to stand trial, the agency shall forward
+2 to the District Court having venue a copy of the citation and a copy of the notice from the
+3 person who received the citation indicating the person’s intention to stand trial.
+4 (iii) On receipt thereof, the District Court shall schedule the case for
+5 trial and notify the defendant of the trial date under procedures adopted by the Chief Judge
+6 of the District Court.
+7 (2) (i) A citation issued as the result of a vehicle height monitoring
+8 system, a traffic control signal monitoring system, a speed monitoring system, a work zone
+9 speed control system OR A STOP SIGN MONITORING SYSTEM controlled by a political
+10 subdivision, a school bus monitoring camera, or a bus lane monitoring system shall provide
+11 that, in an uncontested case, the penalty shall be paid directly to that political subdivision.
+12 (ii) A citation issued as the result of a traffic control signal
+13 monitoring system or a work zone speed control system controlled by a State agency, or as
+14 a result of a vehicle height monitoring system, a traffic control signal monitoring system, a
+15 speed monitoring system, A STOP SIGN MONITORING SYSTEM, a school bus monitoring
+16 camera, or a bus lane monitoring system in a case contested in District Court, shall provide
+17 that the penalty shall be paid directly to the District Court.
+18 (3) Civil EXCEPT AS PROVIDED IN PARAGRAPH (6) OF THIS
+19 SUBSECTION, CIVIL penalties resulting from citations issued using a vehicle height
+20 monitoring system, traffic control signal monitoring system, speed monitoring system,
+21 work zone speed control system, STOP SIGN MONITORING SYSTEM, school bus monitoring
+22 camera, or bus lane monitoring system that are collected by the District Court shall be
+23 collected in accordance with subsection (a) of this section and distributed in accordance
+24 with § 12–118 of the Transportation Article.
+25 (4) (i) Except as provided in paragraph (5) PARAGRAPHS (5) AND (6)
+26 of this subsection, from the fines collected by a political subdivision as a result of violations
+27 enforced by speed monitoring systems, work zone speed control systems, STOP SIGN
+28 MONITORING SYSTEMS, school bus monitoring cameras, or bus lane monitoring systems,
+29 a political subdivision:
+30 1. May recover the costs of implementing and administering
+31 the speed monitoring systems, work zone speed control systems, STOP SIGN MONITORING
+32 SYSTEMS, school bus monitoring cameras, or bus lane monitoring systems; and
+33 2. Subject to subparagraph (ii) of this paragraph, may spend
+34 any remaining balance solely for public safety purposes, including pedestrian or highway
+35 safety programs.
+36 (ii) 1. For any fiscal year, if the balance remaining from the fines
+37 collected by a political subdivision as a result of violations enforced by speed monitoring
+38 systems, after the costs of implementing and administering the systems are recovered in
+SENATE BILL 600 5
+1 accordance with subparagraph (i)1 of this paragraph, is greater than 10% of the total
+2 revenues of the political subdivision for the fiscal year, the political subdivision shall remit
+3 any funds that exceed 10% of the total revenues to the Comptroller.
+4 2. The Comptroller shall deposit any money remitted under
+5 this subparagraph to the General Fund of the State.
+6 (6) FROM THE FINES COLLECTED BY BALTIMORE CITY OR THE
+7 DISTRICT COURT AS A RESULT OF VIOLATIONS ENFORCED BY A STOP SIGN
+8 MONITORING SYSTEM, 50% SHALL BE:
+9 (I) DISTRIBUTED TO THE LOCAL MANAGEMENT BOARD FOR
+10 BALTIMORE CITY; AND
+11 (II) USED ONLY FOR PROVIDING YOUTH PROGRAMMING AND
+12 SERVICES FOR YOUTH LIVING IN OR ATTENDING A SCHOOL LOCATED IN THE 45TH
+13 LEGISLATIVE DISTRICT.
+14 10–311.
+15 (F) A RECORDED IMAGE OF A MOTOR VEHICLE PRODUCED BY A STOP SIGN
+16 MONITORING SYSTEM IN ACCORDANCE WITH § 21–707.2 OF THE TRANSPORTATION
+17 ARTICLE IS ADMISSIBLE IN A PROCEEDING CONCERNING A CIVIL CITATION ISSUED
+18 UNDER THAT SECTION FOR A VIOLATION OF § 21–707.2 OF THE TRANSPORTATION
+19 ARTICLE WITHOUT AUTHENTICATION.
+20 [(f)] (G) In any other judicial proceeding, a recorded image produced by a vehicle
+21 height monitoring system, traffic control signal monitoring system, speed monitoring
+22 system, work zone speed control system, STOP SIGN MONITORING SYSTEM, school bus
+23 monitoring camera, or bus lane monitoring system is admissible as otherwise provided by
+24 law.
+25 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+26 as follows:
+27 Article – Courts and Judicial Proceedings
+28 4–401.
+29 Except as provided in § 4–402 of this subtitle, and subject to the venue provisions of
+30 Title 6 of this article, the District Court has exclusive original civil jurisdiction in:
+31 (13) A proceeding for a civil infraction under § 21–202.1, § 21–704.1, §
+32 21–706.1, § 21–707.1, § 21–707.2, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3
+33 of the Transportation Article or § 10–112 of the Criminal Law Article;
+6 SENATE BILL 600
+1 Article – Transportation
+2 21–707.
+3 (a) Unless otherwise directed by a police officer or traffic control signal, the driver
+4 of a vehicle approaching a stop sign at an intersection shall stop at the near side of the
+5 intersection at a clearly marked stop line.
+6 (b) Unless otherwise directed by a police officer or traffic control signal, the driver
+7 of a vehicle approaching a stop sign at an intersection shall stop at the near side of the
+8 intersection and, if there is no clearly marked stop line, before entering any crosswalk.
+9 (c) Unless otherwise directed by a police officer or traffic control signal, the driver
+10 of a vehicle approaching a stop sign at an intersection shall stop at the near side of an
+11 intersection and, if there is no crosswalk, at the nearest point before entering the
+12 intersection that gives the driver a view of traffic approaching on the intersecting roadway.
+13 (d) The driver of a vehicle approaching a yield sign at an intersection, if required
+14 for safety to stop, shall stop at the near side of the intersection at a clearly marked stop
+15 line.
+16 (e) The driver of a vehicle approaching a yield sign at an intersection, if required
+17 for safety to stop, shall stop at the near side of the intersection and, if there is no clearly
+18 marked stop line, before entering any crosswalk.
+19 (f) The driver of a vehicle approaching a yield sign at an intersection, if required
+20 for safety to stop, shall stop at the near side of the intersection and, if there is no crosswalk,
+21 at the nearest point before entering the intersection that gives the driver a view of traffic
+22 approaching on the intersecting roadway.
+23 21–707.2.
+24 (A) THIS SECTION APPLIES ONLY IN BALTIMORE CITY.
+25 (B) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+26 INDICATED.
+27 (2) “AGENCY” MEANS A LAW ENFORCEMENT AGENCY THAT IS
+28 AUTHORIZED TO ISSUE A CITATION FOR A VIOLATION OF THE MARYLAND VEHICLE
+29 LAW OR OF LOCAL TRAFFIC LAWS OR REGULATIONS.
+30 (3) (I) “OWNER” MEANS THE REGISTERED OWNER OF A MOTOR
+31 VEHICLE OR LESSEE OF A MOTOR VEHICLE UNDER A LEASE OF 6 MONTHS OR MORE.
+32 (II) “OWNER” DOES NOT INCLUDE:
+SENATE BILL 600 7
+1 1. A MOTOR VEHICLE LEASING COMPANY; OR
+2 2. A HOLDER OF A SPECIAL REGISTRATION PLATE
+3 ISSUED UNDER TITLE 13, SUBTITLE 9, PART III OF THIS ARTICLE.
+4 (4) “RECORDED IMAGE” MEANS IMAGES RECORDED BY A STOP SIGN
+5 MONITORING SYSTEM:
+6 (I) ON:
+7 1. TWO OR MORE PHOTOGRAPHS;
+8 2. TWO OR MORE MICROPHOTOGRAPHS;
+9 3. TWO OR MORE ELECTRONIC IMAGES;
+10 4. VIDEOTAPE; OR
+11 5. ANY OTHER MEDIUM; AND
+12 (II) SHOWING A MOTOR VEHICLE AND, ON AT LEAST ONE IMAGE
+13 OR PORTION OF TAPE, CLEARLY IDENTIFYING THE REGISTRATION PLATE NUMBER
+14 OF THE MOTOR VEHICLE.
+15 (5) “STOP SIGN MONITORING SYSTEM” MEANS A DEVICE DESIGNED
+16 TO CAPTURE A RECORDED IMAGE OF A VIOLATION.
+17 (6) (I) “VIOLATION” MEANS A FAILURE TO COME TO A COMPLETE
+18 STOP AT A STOP SIGN IN VIOLATION OF § 21–707 OF THIS SUBTITLE.
+19 (II) “VIOLATION” DOES NOT INCLUDE ANY ACTION A DRIVER IS
+20 INSTRUCTED TO TAKE BY A POLICE OFFICER.
+21 (C) (1) SUBJECT TO PARAGRAPHS (2) THROUGH (4) OF THIS
+22 SUBSECTION, AN AGENCY MAY USE STOP SIGN MONITORING SYSTEMS:
+23 (I) ON HIGHWAYS LOCATED IN A SCHOOL ZONE IN THE 45TH
+24 LEGISLATIVE DISTRICT AND MAINTAINED BY BALTIMORE CITY, IF AUTHORIZED BY
+25 THE CITY COUNCIL OF BALTIMORE CITY; OR
+26 (II) ON STATE HIGHWAYS LOCATED IN A SCHOOL ZONE IN THE
+27 45TH LEGISLATIVE DISTRICT, IF AUTHORIZED BY THE STATE HIGHWAY
+28 ADMINISTRATION.
+8 SENATE BILL 600
+1 (2) A STOP SIGN MONITORING SYSTEM MAY NOT BE USED UNDER THIS
+2 SECTION UNLESS ITS USE IS AUTHORIZED BY THE CITY COUNCIL OF BALTIMORE
+3 CITY BY LOCAL LAW ENACTED AFTER REASONABLE NOTICE AND A PUBLIC HEARING.
+4 (3) BEFORE BEGINNING USE OF STOP SIGN MONITORING SYSTEMS,
+5 AN AGENCY SHALL PUBLISH NOTICE THAT THE AGENCY HAS ADOPTED THE USE OF
+6 STOP SIGN MONITORING SYSTEMS ON ITS WEBSITE AND IN A NEWSPAPER OF
+7 GENERAL CIRCULATION IN BALTIMORE CITY.
+8 (4) (I) THE CITY SHALL PROMINENTLY PLACE SIGNS ON
+9 HIGHWAYS WITHIN THE CITY PROVIDING NOTICE THAT STOP SIGN MONITORING
+10 SYSTEMS ARE USED IN THE CITY.
+11 (II) THE STATE HIGHWAY ADMINISTRATION SHALL PLACE
+12 SIGNS PROMINENTLY PROVIDING NOTICE THAT STOP SIGN MONITORING SYSTEMS
+13 ARE IN USE ON STATE HIGHWAYS.
+14 (D) A RECORDED IMAGE UNDER THIS SECTION INDICATING THAT THE
+15 DRIVER OF A MOTOR VEHICLE HAS COMMITTED A VIOLATION SHALL INCLUDE:
+16 (1) THE TIME AND DATE OF THE VIOLATION; AND
+17 (2) TO THE EXTENT POSSIBLE, THE LOCATION OF THE VIOLATION.
+18 (E) (1) UNLESS THE DRIVER OF THE MOTOR VEHICLE RECEIVED A
+19 CITATION FROM A POLICE OFFICER AT THE TIME OF THE VIOLATION, THE OWNER
+20 OR, IN ACCORDANCE WITH SUBSECTION (F)(3) OR (H)(4) OR (5) OF THIS SECTION,
+21 THE DRIVER OF A MOTOR VEHICLE IS SUBJECT TO A CIVIL PENALTY IF THE MOTOR
+22 VEHICLE IS RECORDED BY A STOP SIGN MONITORING SYSTEM DURING THE
+23 COMMISSION OF A VIOLATION.
+24 (2) A CIVIL PENALTY UNDER THIS SUBSECTION MAY NOT EXCEED $40.
+25 (3) FOR PURPOSES OF THIS SECTION, THE DISTRICT COURT SHALL
+26 PRESCRIBE:
+27 (I) A UNIFORM CITATION FORM CONSISTENT WITH
+28 SUBSECTION (F)(1) OF THIS SECTION AND § 7–302 OF THE COURTS ARTICLE; AND
+29 (II) A CIVIL PENALTY, WHICH SHALL BE INDICATED ON THE
+30 CITATION, TO BE PAID BY PERSONS WHO CHOOSE TO PREPAY THE CIVIL PENALTY
+31 WITHOUT APPEARING IN DISTRICT COURT.
+SENATE BILL 600 9
+1 (F) (1) SUBJECT TO THE PROVISIONS OF PARAGRAPHS (2) THROUGH (5)
+2 OF THIS SUBSECTION, AN AGENCY SHALL MAIL TO THE OWNER LIABLE UNDER
+3 SUBSECTION (E) OF THIS SECTION A CITATION THAT SHALL INCLUDE:
+4 (I) THE NAME AND ADDRESS OF THE REGISTERED OWNER OF
+5 THE MOTOR VEHICLE;
+6 (II) THE REGISTRATION NUMBER OF THE MOTOR VEHICLE
+7 INVOLVED IN THE VIOLATION;
+8 (III) THE VIOLATION CHARGED;
+9 (IV) TO THE EXTENT POSSIBLE, THE LOCATION OF THE
+10 VIOLATION;
+11 (V) THE DATE AND TIME OF THE VIOLATION;
+12 (VI) A COPY OF THE RECORDED IMAGE;
+13 (VII) THE AMOUNT OF THE CIVIL PENALTY IMPOSED AND THE
+14 DATE BY WHICH THE CIVIL PENALTY MUST BE PAID;
+15 (VIII) A SIGNED STATEMENT BY A TECHNICIAN EMPLOYED BY THE
+16 AGENCY THAT, BASED ON THE INSPECTION OF THE RECORDED IMAGE, THE MOTOR
+17 VEHICLE WAS BEING OPERATED DURING THE COMMISSION OF A VIOLATION;
+18 (IX) A STATEMENT THAT THE RECORDED IMAGE IS EVIDENCE OF
+19 A VIOLATION; AND
+20 (X) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+21 LIABLE UNDER THIS SECTION:
+22 1. OF THE MANNER AND TIME IN WHICH LIABILITY AS
+23 ALLEGED IN THE CITATION MAY BE CONTESTED IN THE DISTRICT COURT; AND
+24 2. THAT FAILURE TO PAY THE CIVIL PENALTY OR TO
+25 CONTEST LIABILITY IN A TIMELY MANNER IS AN ADMISSION OF LIABILITY AND MAY
+26 RESULT IN REFUSAL OR SUSPENSION OF THE MOTOR VEHICLE REGISTRATION.
+27 (2) THE AGENCY MAY MAIL A WARNING NOTICE IN PLACE OF A
+28 CITATION TO THE OWNER LIABLE UNDER SUBSECTION (E) OF THIS SECTION.
+29 (3) (I) BEFORE MAILING A CITATION TO A MOTOR VEHICLE
+30 RENTAL COMPANY LIABLE UNDER SUBSECTION (E) OF THIS SECTION, AN AGENCY
+10 SENATE BILL 600
+1 SHALL MAIL A NOTICE TO THE MOTOR VEHICLE RENTAL COMPANY STATING THAT A
+2 CITATION WILL BE MAILED TO THE MOTOR VEHICLE RENTAL COMPANY UNLESS,
+3 WITHIN 45 DAYS AFTER RECEIVING THE NOTICE, THE MOTOR VEHICLE RENTAL
+4 COMPANY PROVIDES THE AGENCY WITH:
+5 1. A STATEMENT MADE UNDER OATH THAT STATES THE
+6 NAME AND LAST KNOWN MAILING ADDRESS OF THE INDIVIDUAL DRIVING OR
+7 RENTING THE MOTOR VEHICLE WHEN THE VIOLATION OCCURRED;
+8 2. A. A STATEMENT MADE UNDER OATH THAT
+9 STATES THAT THE MOTOR VEHICLE RENTAL COMPANY IS UNABLE TO DETERMINE
+10 WHO WAS DRIVING THE MOTOR VEHICLE AT THE TIME THE VIOLATION OCCURRED
+11 BECAUSE THE MOTOR VEHICLE WAS STOLEN AT THE TIME OF THE VIOLATION; AND
+12 B. A COPY OF THE POLICE REPORT ASSOCIATED WITH
+13 THE MOTOR VEHICLE THEFT CLAIMED UNDER ITEM A OF THIS ITEM; OR
+14 3. PAYMENT FOR THE PENALTY ASSOCIATED WITH THE
+15 VIOLATION.
+16 (II) AN AGENCY MAY NOT MAIL A CITATION TO A MOTOR
+17 VEHICLE RENTAL COMPANY LIABLE UNDER SUBSECTION (E) OF THIS SECTION IF
+18 THE MOTOR VEHICLE RENTAL COMPANY COMPLIES WITH SUBPARAGRAPH (I) OF
+19 THIS PARAGRAPH.
+20 (4) EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS SUBSECTION
+21 AND SUBSECTION (H)(4) AND (5) OF THIS SECTION, A CITATION ISSUED UNDER THIS
+22 SECTION SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER THE ALLEGED
+23 VIOLATION.
+24 (5) A PERSON WHO RECEIVES A CITATION UNDER PARAGRAPH (1) OF
+25 THIS SUBSECTION MAY:
+26 (I) PAY THE CIVIL PENALTY IN ACCORDANCE WITH
+27 INSTRUCTIONS ON THE CITATION; OR
+28 (II) ELECT TO STAND TRIAL FOR THE ALLEGED VIOLATION.
+29 (G) (1) A CERTIFICATE ALLEGING THAT A VIOLATION OCCURRED, SWORN
+30 TO OR AFFIRMED BY A DULY AUTHORIZED LAW ENFORCEMENT OFFICER EMPLOYED
+31 BY OR UNDER CONTRACT WITH AN AGENCY, BASED ON THE INSPECTION OF A
+32 RECORDED IMAGE, SHALL BE EVIDENCE OF THE FACTS CONTAINED IN THE
+33 CERTIFICATE AND SHALL BE ADMISSIBLE IN ANY PROCEEDING CONCERNING THE
+34 ALLEGED VIOLATION.
+SENATE BILL 600 11
+1 (2) ADJUDICATION OF LIABILITY SHALL BE BASED ON
+2 PREPONDERANCE OF THE EVIDENCE.
+3 (H) (1) THE DISTRICT COURT MAY CONSIDER IN DEFENSE OF A
+4 VIOLATION:
+5 (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THAT
+6 THE MOTOR VEHICLE OR REGISTRATION PLATES OF THE MOTOR VEHICLE WERE
+7 STOLEN BEFORE THE VIOLATION OCCURRED AND WERE NOT UNDER THE CONTROL
+8 OR POSSESSION OF THE OWNER AT THE TIME OF THE VIOLATION;
+9 (II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION,
+10 EVIDENCE THAT THE PERSON NAMED IN THE CITATION WAS NOT OPERATING THE
+11 MOTOR VEHICLE AT THE TIME OF THE VIOLATION; AND
+12 (III) ANY OTHER ISSUES AND EVIDENCE THAT THE DISTRICT
+13 COURT CONSIDERS PERTINENT.
+14 (2) TO DEMONSTRATE THAT THE MOTOR VEHICLE OR THE
+15 REGISTRATION PLATES WERE STOLEN BEFORE THE VIOLATION OCCURRED AND
+16 WERE NOT UNDER THE CONTROL OR POSSESSION OF THE OWNER AT THE TIME OF
+17 THE VIOLATION, THE OWNER MUST SUBMIT PROOF THAT A POLICE REPORT ABOUT
+18 THE STOLEN MOTOR VEHICLE OR REGISTRATION PLATES WAS FILED IN A TIMELY
+19 MANNER.
+20 (3) TO SATISFY THE EVIDENTIARY BURDEN UNDER PARAGRAPH
+21 (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN THE CITATION SHALL PROVIDE
+22 TO THE DISTRICT COURT EVIDENCE TO THE SATISFACTION OF THE DISTRICT
+23 COURT OF WHO WAS OPERATING THE MOTOR VEHICLE AT THE TIME OF THE
+24 VIOLATION, INCLUDING, AT A MINIMUM, THE OPERATOR’S NAME AND CURRENT
+25 ADDRESS.
+26 (4) (I) THE PROVISIONS OF THIS PARAGRAPH APPLY ONLY TO A
+27 CITATION THAT INVOLVES A CLASS E (TRUCK) VEHICLE WITH A REGISTERED GROSS
+28 WEIGHT OF 26,001 POUNDS OR MORE, CLASS F (TRACTOR) VEHICLE, CLASS G
+29 (TRAILER) VEHICLE OPERATED IN COMBINATION WITH A CLASS F (TRACTOR)
+30 VEHICLE, OR CLASS P (PASSENGER BUS) VEHICLE.
+31 (II) TO SATISFY THE EVIDENTIARY BURDEN UNDER
+32 PARAGRAPH (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN A CITATION
+33 DESCRIBED UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH MAY PROVIDE TO THE
+34 DISTRICT COURT A LETTER, SWORN TO OR AFFIRMED BY THE PERSON AND MAILED
+35 BY CERTIFIED MAIL, RETURN RECEIPT REQUESTED, THAT:
+12 SENATE BILL 600
+1 1. STATES THAT THE PERSON NAMED IN THE CITATION
+2 WAS NOT OPERATING THE MOTOR VEHICLE AT THE TIME OF THE VIOLATION; AND
+3 2. PROVIDES THE NAME, ADDRESS, AND DRIVER’S
+4 LICENSE IDENTIFICATION NUMBER OF THE PERSON WHO WAS OPERATING THE
+5 MOTOR VEHICLE AT THE TIME OF THE VIOLATION.
+6 (5) (I) IF THE DISTRICT COURT FINDS THAT THE PERSON NAMED
+7 IN THE CITATION WAS NOT OPERATING THE MOTOR VEHICLE AT THE TIME OF THE
+8 VIOLATION OR RECEIVES EVIDENCE UNDER PARAGRAPH (4)(II)2 OF THIS
+9 SUBSECTION IDENTIFYING THE PERSON DRIVING THE MOTOR VEHICLE AT THE TIME
+10 OF THE VIOLATION, THE CLERK OF COURT SHALL PROVIDE TO THE AGENCY ISSUING
+11 THE CITATION A COPY OF ANY EVIDENCE SUBSTANTIATING WHO WAS OPERATING
+12 THE MOTOR VEHICLE AT THE TIME OF THE VIOLATION.
+13 (II) ON RECEIPT OF SUBSTANTIATING EVIDENCE FROM THE
+14 DISTRICT COURT UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH, THE AGENCY
+15 MAY ISSUE A CITATION AS PROVIDED IN SUBSECTION (F) OF THIS SECTION TO THE
+16 PERSON WHO THE EVIDENCE INDICATES WAS OPERATING THE MOTOR VEHICLE AT
+17 THE TIME OF THE VIOLATION.
+18 (III) A CITATION ISSUED UNDER SUBPARAGRAPH (II) OF THIS
+19 PARAGRAPH SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER RECEIPT OF THE
+20 EVIDENCE FROM THE DISTRICT COURT.
+21 (I) IF THE CIVIL PENALTY IS NOT PAID AND THE VIOLATION IS NOT
+22 CONTESTED, THE ADMINISTRATION MAY REFUSE TO REGISTER OR REREGISTER OR
+23 MAY SUSPEND THE REGISTRATION OF THE MOTOR VEHICLE.
+24 (J) A VIOLATION FOR WHICH A CIVIL PENALTY IS IMPOSED UNDER THIS
+25 SECTION:
+26 (1) IS NOT A MOVING VIOLATION FOR THE PURPOSE OF ASSESSING
+27 POINTS UNDER § 16–402 OF THIS ARTICLE AND MAY NOT BE RECORDED BY THE
+28 ADMINISTRATION ON THE DRIVING RECORD OF THE OWNER OR DRIVER OF THE
+29 MOTOR VEHICLE; AND
+30 (2) MAY NOT BE CONSIDERED IN THE PROVISION OF MOTOR VEHICLE
+31 INSURANCE COVERAGE.
+32 (K) IN CONSULTATION WITH LAW ENFORCEMENT AGENCIES, THE CHIEF
+33 JUDGE OF THE DISTRICT COURT SHALL ADOPT PROCEDURES FOR THE ISSUANCE
+SENATE BILL 600 13
+1 OF CITATIONS, TRIALS FOR VIOLATIONS, AND THE COLLECTION OF CIVIL PENALTIES
+2 IMPOSED UNDER THIS SECTION.
+3 (L) (1) AN AGENCY OR AN AGENT OR A CONTRACTOR DESIGNATED BY THE
+4 AGENCY SHALL ADMINISTER AND PROCESS CIVIL CITATIONS ISSUED UNDER THIS
+5 SECTION IN COORDINATION WITH THE DISTRICT COURT.
+6 (2) IF A CONTRACTOR IN ANY MANNER OPERATES A STOP SIGN
+7 MONITORING SYSTEM OR ADMINISTERS OR PROCESSES CITATIONS GENERATED BY
+8 A STOP SIGN MONITORING SYSTEM ON BEHALF OF BALTIMORE CITY, THE
+9 CONTRACTOR’S FEE MAY NOT BE CONTINGENT ON A PER–TICKET BASIS ON THE
+10 NUMBER OF CITATIONS ISSUED OR PAID.
+11 SECTION 4. AND BE IT FURTHER ENACTED, That, on or before December 1,
+12 2026, the Baltimore City Department of Transportation shall report to the Governor and,
+13 in accordance with § 2–1257 of the State Government Article, the General Assembly on:
+14 (1) through October 1, 2026:
+15 (i) the time period during which stop sign monitoring systems were
+16 in use in the City; and
+17 (ii) the number of warnings and citations issued as a result of
+18 violations recorded by a stop sign monitoring system in the City over the reported time
+19 period, by location and date;
+20 (2) (i) the costs associated with implementing and operating stop sign
+21 monitoring systems; and
+22 (ii) the revenue collected on a monthly basis as a result of violations
+23 recorded by stop sign monitoring systems;
+24 (3) appropriate locations for the deployment of stop sign monitoring
+25 systems;
+26 (4) the performance and reliability of stop sign monitoring systems used by
+27 the City; and
+28 (5) the effectiveness of stop sign monitoring systems in reducing violations,
+29 crashes, and pedestrian injuries in the City and in areas where the stop sign monitoring
+30 systems were implemented and used.
+31 SECTION 5. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
+32 effect on the taking effect of the termination provision specified in Section 3 of Chapter 678
+33 of the Acts of the General Assembly of 2024. If that termination provision takes effect,
+34 Section 1 of this Act, with no further action required by the General Assembly, shall be
+14 SENATE BILL 600
+1 abrogated and of no further force and effect. This Act may not be interpreted to have any
+2 effect on that termination provision.
+3 SECTION 6. AND BE IT FURTHER ENACTED, That, subject to the provisions of
+4 Section 5 of this Act, this Act shall take effect July 1, 2025. It shall remain effective for a
+5 period of 5 years and, at the end of June 30, 2030, this Act, with no further action required
+6 by the General Assembly, shall be abrogated and of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5   C A B P F z o c c a i t o s B  A S  A  ( B  A  S  A  (]
+[DELETED:  S  B  A S  A  (  ( B  A S  A  (  ( B  A S  A  ( B  A S  A  (  S T A 7  ( ( ( A2   A s p t t p r t c m e t s t b n t   ( C]E(X A P I P  O TN C  p r f c i u a v h m s t c s m s s m s w z s c s s s m s s b m c b l m s o n a m s t a c s]
+[DELETED: S 3   ( ( E p](    o t s f t f c b a p s a a r o v s n     1 M t c     2 S t s ( ( a ( o t p p   )FB T F C B A I O T O A A R O V E B A S SM  E5%     )I T T L M B FC IY      )IS O F P Y P A T   1  ( A i1o  2 i 2  S a A 7  ( ( ( A 2 § t t p r t c m e t s t b n t a a]
+[DELETED:  S     ( O t p    ( O t o   ( ( A c i a t r o a v h m s s c s t    ( A c i a t r o a t c s m a s aM c t   ( C( A P I P  O TN C  p r f c i u a v h m s t c s m s s m s w sM c c w   ( ( E   )( o e b s m s w z s c s SS s a     1 M t       2 S a s    ( 1 F c s]
+[DELETED: S 5 a w s ( o t p i g t 1 o t t r a     2 T t ()FB  T F C B A I O T O A A R O V E B A S SM  E5%     )I T T L M B FC IY      )IS O F P Y P A T   1   )   O R22   O R22    () I]( h m s t c s m s s m s   NM m l  S a A 4  E T   ( A p f a c i u § 2 § 2 § 2 §2 o]
+[DELETED:  S  A 2  ( U o i  ( U o i  ( U o i a i t i n c a t n p b e t i  ( T f l  ( T f m  ( T f a a ) TBC.H A I ) ( N    “AY M AL E A T I A E    () “OWR M T R O O A M  .   ) “O”:IWR ]
+[DELETED: S 7     A;Y      H O A S R P I  U  A  1,S9,PII.    “RE     ) O:     T;     T;     T;     V;E      A;M    ) SIHD E     “SNMM     () “VIN    27.   ) “VIIN  ) ( S()(U T P  T  O TN NM     ) O4N T A IY C I O A IY CBC    ) OIN T5,S L DT I A B T T I ]
+[DELETED:  S     NM I O AC     )BNMS SNM S O I W A I A N O  A IC     () TH IYS P P S O W T IYP N TTS SNM   EI     ) TSHIH T I D S PNM  T  )  R I U T S I T T   T;N    T,.E  ) ( N T D O T M V R AN R  F  H   N())())() I R B A S SNM S D T     A$   F,DN  I O   )  U C F C W F     O RE ))§72CA;   ) AI C PY W S B I O TN  I OC.]
+[DELETED: S 9 ) ( S()(U    T SN A A S M T T O L U E ):   ) H   ) IH R N O T M V   ) T;IH   ) TVO T E PE T L O T   ) T;H   ) A;I    ) IH A O T C P I A T   )I T E    ) X N    ) N A T P A T B      I OT C;      F T P T C P O T    A M M A W N I P O A E ).   () E M A C T A M V E N )]
+[DELETED:  S  W B M M V R C US  D A R T NE T M V R5      A L K M A O T I D O     A S M U O TN      C R  M ;        ) IN A M N M A C T A M E  M R C C W S I O   E(   H   N ))() S B M N L T  W A T A   A(     ) A T C P I A WN    ) E.IL ) ( A D  O U C W A AY B O T I O A IE S B E O T F C I T]
+[DELETED: S 1    O L S B B O ) ( TDH I O M C I D O A   ) S()U  N  M O R O   ) S()IU T P  O T SN N     ) AIN O I A E T T I.    D T T M V O T P W S B T V O AN     S T E B U P()I N  T I O E T T S O T IC O W W O T M V A T T O TN IG A A MM T ORS N A C,,   () H L  TK E( O  P O ME L  TR VE L 1,CF(),C)CF(R V O I C W A L  TRE  L  PS CP().   ) IO S T E B U II O T SN T P N I A C() I C OR L D ,:]
+[DELETED:  S      N      P,, T NE AS A DRS I N O T P W W O T   () IDF I O O R E U P II O T()EVN       ) IN R O S E F TC() O I H  F    ) A(I C I U S II O T   I OC. ) F T C P I N P A T V I ND  D )  V A C I      O A M B1 O T D R O T O O D O TE     ) I,N C W L E AS T HD I O]
+[DELETED: S 1S S  ) ( N I OC.     A C I A M O A S S S S M S O B O A IY TCRS F M N B C O A PRT B O T   S 2 i   ( t    ( t i    ( t n o w a c i a a r o v p   ( ( t m    ( t r   ( a l f t d o s s m s   ( t t   ( t c s  S e o S]
+[DELETED:  S  a e  S S p b          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 600
+R5 5lr2669
+CF HB 1226
+By: Senator McCray
+Introduced and read first time: January 23, 2025
+Assigned to: Judicial Proceedings
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 24, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Baltimore City – Stop Sign Monitoring Systems – Authorization of Pilot
+3 Program
+4 FOR the purpose of authorizing the use of stop sign monitoring systems in certain school
+5 zones in Baltimore City, if authorized by local law; providing that the owner or driver
+6 of a motor vehicle recorded failing to obey a stop sign is subject to a citation and a
+7 certain civil penalty under certain circumstances; establishing certain defenses to a
+8 charge of an alleged violation recorded by a stop sign monitoring system; prohibiting
+9 a contractor administering a stop sign monitoring system from being compensated
+10 in a certain manner; requiring that a certain percentage of the fines collected under
+11 this Act be distributed to the local management board for Baltimore City and be used
+12 only for certain purposes; and generally relating to the use of stop sign monitoring
+13 systems in Baltimore City.
+14 BY repealing and reenacting, with amendments,
+15 Article – Courts and Judicial Proceedings
+16 Section 4–401(13), 7–302(e)(1)(i), (3), and (4)(i), and 10–311(g)
+17 Annotated Code of Maryland
+18 (2020 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Courts and Judicial Proceedings
+21 Section 7–302(e)(6)
+22 Annotated Code of Maryland
+23 (2020 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0600*
+
+2 SENATE BILL 600
+1 BY repealing and reenacting, with amendments,
+2 Article – Courts and Judicial Proceedings
+3 Section 7–302(e)(1) through (4) and 10–311(f)
+4 Annotated Code of Maryland
+5 (2020 Replacement Volume and 2024 Supplement)
+6 (As enacted by Section 3 of Chapter 678 of the Acts of the General Assembly of 2024)
+7 BY adding to
+8 Article – Courts and Judicial Proceedings
+9 Section 7–302(e)(6) and 10–311(f)
+10 Annotated Code of Maryland
+11 (2020 Replacement Volume and 2024 Supplement)
+12 (As enacted by Section 3 of Chapter 678 of the Acts of the General Assembly of 2024)
+13 BY repealing and reenacting, without amendments,
+14 Article – Transportation
+15 Section 21–707
+16 Annotated Code of Maryland
+17 (2020 Replacement Volume and 2024 Supplement)
+18 BY adding to
+19 Article – Transportation
+20 Section 21–707.2
+21 Annotated Code of Maryland
+22 (2020 Replacement Volume and 2024 Supplement)
+23 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+24 That the Laws of Maryland read as follows:
+25 Article – Courts and Judicial Proceedings
+26 7–302.
+27 (e) (1) (i) A citation issued pursuant to § 21–202.1, § 21–706.1, § 21–707.1,
+28 § 21–707.2, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the Transportation
+29 Article shall provide that the person receiving the citation may elect to stand trial by
+30 notifying the issuing agency of the person’s intention to stand trial at least 5 days prior to
+31 the date of payment as set forth in the citation.
+32 (3) [Civil] EXCEPT AS PROVIDED IN PARAGRAPH (6) OF THIS
+33 SUBSECTION, CIVIL penalties resulting from citations issued using a vehicle height
+34 monitoring system, traffic control signal monitoring system, speed monitoring system,
+35 work zone speed control system, stop sign monitoring system, school bus monitoring
+36 camera, bus lane monitoring system, or noise abatement monitoring system that are
+37 collected by the District Court shall be collected in accordance with subsection (a) of this
+38 section and distributed in accordance with § 12–118 of the Transportation Article.
+
+SENATE BILL 600 3
+1 (4) (i) Except as provided in [paragraph (5)] PARAGRAPHS (5) AND
+2 (6) of this subsection, from the fines collected by a political subdivision as a result of
+3 violations enforced by speed monitoring systems, work zone speed control systems, stop
+4 sign monitoring systems, school bus monitoring cameras, bus lane monitoring systems, or
+5 noise abatement monitoring systems, a political subdivision:
+6 1. May recover the costs of implementing and administering
+7 the speed monitoring systems, work zone speed control systems, school bus monitoring
+8 cameras, or bus lane monitoring systems, or noise abatement monitoring systems; and
+9 2. Subject to subparagraphs (ii), (iii), and (iv) of this
+10 paragraph, may spend any remaining balance solely for public safety purposes, including
+11 pedestrian or highway safety programs.
+12 (6) FROM THE FINES COLLECTED BY BALTIMORE CITY OR THE
+13 DISTRICT COURT AS A RESULT OF VIOLATIONS ENFORCED BY A STOP SIGN
+14 MONITORING SYSTEM, 50% SHALL BE:
+15 (I) DISTRIBUTED TO THE LOCAL MANAGEMENT BOARD FOR
+16 BALTIMORE CITY; AND
+17 (II) USED ONLY FOR PROVIDING YOUTH PROGRAMMING AND
+18 SERVICES FOR YOUTH LIVING IN OR ATTENDING A SCHOOL LOCATED IN THE 45TH
+19 LEGISLATIVE DISTRICT.
+20 10–311.
+21 (g) A recorded image of a motor vehicle produced by a stop sign monitoring system
+22 in accordance with § 21–707.1 OR § 21–707.2 of the Transportation Article is admissible
+23 in a proceeding concerning a civil citation issued under that section for a violation of §
+24 21–707 of the Transportation Article without authentication.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+26 as follows:
+27 Article – Courts and Judicial Proceedings
+28 7–302.
+29 (e) (1) (i) A citation issued pursuant to § 21–202.1, § 21–706.1, § 21–707.2,
+30 § 21–809, § 21–810, § 21–1134, or § 24–111.3 of the Transportation Article shall provide
+31 that the person receiving the citation may elect to stand trial by notifying the issuing
+32 agency of the person’s intention to stand trial at least 5 days prior to the date of payment
+33 as set forth in the citation.
+
+4 SENATE BILL 600
+1 (ii) On receipt of the notice to stand trial, the agency shall forward
+2 to the District Court having venue a copy of the citation and a copy of the notice from the
+3 person who received the citation indicating the person’s intention to stand trial.
+4 (iii) On receipt thereof, the District Court shall schedule the case for
+5 trial and notify the defendant of the trial date under procedures adopted by the Chief Judge
+6 of the District Court.
+7 (2) (i) A citation issued as the result of a vehicle height monitoring
+8 system, a traffic control signal monitoring system, a speed monitoring system, a work zone
+9 speed control system OR A STOP SIGN MONITORING SYSTEM controlled by a political
+10 subdivision, a school bus monitoring camera, or a bus lane monitoring system shall provide
+11 that, in an uncontested case, the penalty shall be paid directly to that political subdivision.
+12 (ii) A citation issued as the result of a traffic control signal
+13 monitoring system or a work zone speed control system controlled by a State agency, or as
+14 a result of a vehicle height monitoring system, a traffic control signal monitoring system, a
+15 speed monitoring system, A STOP SIGN MONITORING SYSTEM, a school bus monitoring
+16 camera, or a bus lane monitoring system in a case contested in District Court, shall provide
+17 that the penalty shall be paid directly to the District Court.
+18 (3) Civil EXCEPT AS PROVIDED IN PARAGRAPH (6) OF THIS
+19 SUBSECTION, CIVIL penalties resulting from citations issued using a vehicle height
+20 monitoring system, traffic control signal monitoring system, speed monitoring system,
+21 work zone speed control system, STOP SIGN MONITORING SYSTEM, school bus monitoring
+22 camera, or bus lane monitoring system that are collected by the District Court shall be
+23 collected in accordance with subsection (a) of this section and distributed in accordance
+24 with § 12–118 of the Transportation Article.
+25 (4) (i) Except as provided in paragraph (5) PARAGRAPHS (5) AND (6)
+26 of this subsection, from the fines collected by a political subdivision as a result of violations
+27 enforced by speed monitoring systems, work zone speed control systems, STOP SIGN
+28 MONITORING SYSTEMS, school bus monitoring cameras, or bus lane monitoring systems,
+29 a political subdivision:
+30 1. May recover the costs of implementing and administering
+31 the speed monitoring systems, work zone speed control systems, STOP SIGN MONITORING
+32 SYSTEMS, school bus monitoring cameras, or bus lane monitoring systems; and
+33 2. Subject to subparagraph (ii) of this paragraph, may spend
+34 any remaining balance solely for public safety purposes, including pedestrian or highway
+35 safety programs.
+36 (ii) 1. For any fiscal year, if the balance remaining from the fines
+37 collected by a political subdivision as a result of violations enforced by speed monitoring
+38 systems, after the costs of implementing and administering the systems are recovered in
+
+SENATE BILL 600 5
+1 accordance with subparagraph (i)1 of this paragraph, is greater than 10% of the total
+2 revenues of the political subdivision for the fiscal year, the political subdivision shall remit
+3 any funds that exceed 10% of the total revenues to the Comptroller.
+4 2. The Comptroller shall deposit any money remitted under
+5 this subparagraph to the General Fund of the State.
+6 (6) FROM THE FINES COLLECTED BY BALTIMORE CITY OR THE
+7 DISTRICT COURT AS A RESULT OF VIOLATIONS ENFORCED BY A STOP SIGN
+8 MONITORING SYSTEM, 50% SHALL BE:
+9 (I) DISTRIBUTED TO THE LOCAL MANAGEMENT BOARD FOR
+10 BALTIMORE CITY; AND
+11 (II) USED ONLY FOR PROVIDING YOUTH PROGRAMMING AND
+12 SERVICES FOR YOUTH LIVING IN OR ATTENDING A SCHOOL LOCATED IN THE 45TH
+13 LEGISLATIVE DISTRICT.
+14 10–311.
+15 (F) A RECORDED IMAGE OF A MOTOR VEHICLE PRODUCED BY A STOP SIGN
+16 MONITORING SYSTEM IN ACCORDANCE WITH § 21–707.2 OF THE TRANSPORTATION
+17 ARTICLE IS ADMISSIBLE IN A PROCEEDING CONCERNING A CIVIL CITATION ISSUED
+18 UNDER THAT SECTION FOR A VIOLATION OF § 21–707.2 OF THE TRANSPORTATION
+19 ARTICLE WITHOUT AUTHENTICATION.
+20 [(f)] (G) In any other judicial proceeding, a recorded image produced by a vehicle
+21 height monitoring system, traffic control signal monitoring system, speed monitoring
+22 system, work zone speed control system, STOP SIGN MONITORING SYSTEM, school bus
+23 monitoring camera, or bus lane monitoring system is admissible as otherwise provided by
+24 law.
+25 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+26 as follows:
+27 Article – Courts and Judicial Proceedings
+28 4–401.
+29 Except as provided in § 4–402 of this subtitle, and subject to the venue provisions of
+30 Title 6 of this article, the District Court has exclusive original civil jurisdiction in:
+31 (13) A proceeding for a civil infraction under § 21–202.1, § 21–704.1, §
+32 21–706.1, § 21–707.1, § 21–707.2, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3
+33 of the Transportation Article or § 10–112 of the Criminal Law Article;
+
+6 SENATE BILL 600
+1 Article – Transportation
+2 21–707.
+3 (a) Unless otherwise directed by a police officer or traffic control signal, the driver
+4 of a vehicle approaching a stop sign at an intersection shall stop at the near side of the
+5 intersection at a clearly marked stop line.
+6 (b) Unless otherwise directed by a police officer or traffic control signal, the driver
+7 of a vehicle approaching a stop sign at an intersection shall stop at the near side of the
+8 intersection and, if there is no clearly marked stop line, before entering any crosswalk.
+9 (c) Unless otherwise directed by a police officer or traffic control signal, the driver
+10 of a vehicle approaching a stop sign at an intersection shall stop at the near side of an
+11 intersection and, if there is no crosswalk, at the nearest point before entering the
+12 intersection that gives the driver a view of traffic approaching on the intersecting roadway.
+13 (d) The driver of a vehicle approaching a yield sign at an intersection, if required
+14 for safety to stop, shall stop at the near side of the intersection at a clearly marked stop
+15 line.
+16 (e) The driver of a vehicle approaching a yield sign at an intersection, if required
+17 for safety to stop, shall stop at the near side of the intersection and, if there is no clearly
+18 marked stop line, before entering any crosswalk.
+19 (f) The driver of a vehicle approaching a yield sign at an intersection, if required
+20 for safety to stop, shall stop at the near side of the intersection and, if there is no crosswalk,
+21 at the nearest point before entering the intersection that gives the driver a view of traffic
+22 approaching on the intersecting roadway.
+23 21–707.2.
+24 (A) THIS SECTION APPLIES ONLY IN BALTIMORE CITY.
+25 (B) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+26 INDICATED.
+27 (2) “AGENCY” MEANS A LAW ENFORCEMENT AGENCY THAT IS
+28 AUTHORIZED TO ISSUE A CITATION FOR A VIOLATION OF THE MARYLAND VEHICLE
+29 LAW OR OF LOCAL TRAFFIC LAWS OR REGULATIONS.
+30 (3) (I) “OWNER” MEANS THE REGISTERED OWNER OF A MOTOR
+31 VEHICLE OR LESSEE OF A MOTOR VEHICLE UNDER A LEASE OF 6 MONTHS OR MORE.
+32 (II) “OWNER” DOES NOT INCLUDE:
+
+SENATE BILL 600 7
+1 1. A MOTOR VEHICLE LEASING COMPANY; OR
+2 2. A HOLDER OF A SPECIAL REGISTRATION PLATE
+3 ISSUED UNDER TITLE 13, SUBTITLE 9, PART III OF THIS ARTICLE.
+4 (4) “RECORDED IMAGE” MEANS IMAGES RECORDED BY A STOP SIGN
+5 MONITORING SYSTEM:
+6 (I) ON:
+7 1. TWO OR MORE PHOTOGRAPHS;
+8 2. TWO OR MORE MICROPHOTOGRAPHS;
+9 3. TWO OR MORE ELECTRONIC IMAGES;
+10 4. VIDEOTAPE; OR
+11 5. ANY OTHER MEDIUM; AND
+12 (II) SHOWING A MOTOR VEHICLE AND, ON AT LEAST ONE IMAGE
+13 OR PORTION OF TAPE, CLEARLY IDENTIFYING THE REGISTRATION PLATE NUMBER
+14 OF THE MOTOR VEHICLE.
+15 (5) “STOP SIGN MONITORING SYSTEM” MEANS A DEVICE DESIGNED
+16 TO CAPTURE A RECORDED IMAGE OF A VIOLATION.
+17 (6) (I) “VIOLATION” MEANS A FAILURE TO COME TO A COMPLETE
+18 STOP AT A STOP SIGN IN VIOLATION OF § 21–707 OF THIS SUBTITLE.
+19 (II) “VIOLATION” DOES NOT INCLUDE ANY ACTION A DRIVER IS
+20 INSTRUCTED TO TAKE BY A POLICE OFFICER.
+21 (C) (1) SUBJECT TO PARAGRAPHS (2) THROUGH (4) OF THIS
+22 SUBSECTION, AN AGENCY MAY USE STOP SIGN MONITORING SYSTEMS:
+23 (I) ON HIGHWAYS LOCATED IN A SCHOOL ZONE IN THE 45TH
+24 LEGISLATIVE DISTRICT AND MAINTAINED BY BALTIMORE CITY, IF AUTHORIZED BY
+25 THE CITY COUNCIL OF BALTIMORE CITY; OR
+26 (II) ON STATE HIGHWAYS LOCATED IN A SCHOOL ZONE IN THE
+27 45TH LEGISLATIVE DISTRICT, IF AUTHORIZED BY THE STATE HIGHWAY
+28 ADMINISTRATION.
+
+8 SENATE BILL 600
+1 (2) A STOP SIGN MONITORING SYSTEM MAY NOT BE USED UNDER THIS
+2 SECTION UNLESS ITS USE IS AUTHORIZED BY THE CITY COUNCIL OF BALTIMORE
+3 CITY BY LOCAL LAW ENACTED AFTER REASONABLE NOTICE AND A PUBLIC HEARING.
+4 (3) BEFORE BEGINNING USE OF STOP SIGN MONITORING SYSTEMS,
+5 AN AGENCY SHALL PUBLISH NOTICE THAT THE AGENCY HAS ADOPTED THE USE OF
+6 STOP SIGN MONITORING SYSTEMS ON ITS WEBSITE AND IN A NEWSPAPER OF
+7 GENERAL CIRCULATION IN BALTIMORE CITY.
+8 (4) (I) THE CITY SHALL PROMINENTLY PLACE SIGNS ON
+9 HIGHWAYS WITHIN THE CITY PROVIDING NOTICE THAT STOP SIGN MONITORING
+10 SYSTEMS ARE USED IN THE CITY.
+11 (II) THE STATE HIGHWAY ADMINISTRATION SHALL PLACE
+12 SIGNS PROMINENTLY PROVIDING NOTICE THAT STOP SIGN MONITORING SYSTEMS
+13 ARE IN USE ON STATE HIGHWAYS.
+14 (D) A RECORDED IMAGE UNDER THIS SECTION INDICATING THAT THE
+15 DRIVER OF A MOTOR VEHICLE HAS COMMITTED A VIOLATION SHALL INCLUDE:
+16 (1) THE TIME AND DATE OF THE VIOLATION; AND
+17 (2) TO THE EXTENT POSSIBLE, THE LOCATION OF THE VIOLATION.
+18 (E) (1) UNLESS THE DRIVER OF THE MOTOR VEHICLE RECEIVED A
+19 CITATION FROM A POLICE OFFICER AT THE TIME OF THE VIOLATION, THE OWNER
+20 OR, IN ACCORDANCE WITH SUBSECTION (F)(3) OR (H)(4) OR (5) OF THIS SECTION,
+21 THE DRIVER OF A MOTOR VEHICLE IS SUBJECT TO A CIVIL PENALTY IF THE MOTOR
+22 VEHICLE IS RECORDED BY A STOP SIGN MONITORING SYSTEM DURING THE
+23 COMMISSION OF A VIOLATION.
+24 (2) A CIVIL PENALTY UNDER THIS SUBSECTION MAY NOT EXCEED $40.
+25 (3) FOR PURPOSES OF THIS SECTION, THE DISTRICT COURT SHALL
+26 PRESCRIBE:
+27 (I) A UNIFORM CITATION FORM CONSISTENT WITH
+28 SUBSECTION (F)(1) OF THIS SECTION AND § 7–302 OF THE COURTS ARTICLE; AND
+29 (II) A CIVIL PENALTY, WHICH SHALL BE INDICATED ON THE
+30 CITATION, TO BE PAID BY PERSONS WHO CHOOSE TO PREPAY THE CIVIL PENALTY
+31 WITHOUT APPEARING IN DISTRICT COURT.
+
+SENATE BILL 600 9
+1 (F) (1) SUBJECT TO THE PROVISIONS OF PARAGRAPHS (2) THROUGH (5)
+2 OF THIS SUBSECTION, AN AGENCY SHALL MAIL TO THE OWNER LIABLE UNDER
+3 SUBSECTION (E) OF THIS SECTION A CITATION THAT SHALL INCLUDE:
+4 (I) THE NAME AND ADDRESS OF THE REGISTERED OWNER OF
+5 THE MOTOR VEHICLE;
+6 (II) THE REGISTRATION NUMBER OF THE MOTOR VEHICLE
+7 INVOLVED IN THE VIOLATION;
+8 (III) THE VIOLATION CHARGED;
+9 (IV) TO THE EXTENT POSSIBLE, THE LOCATION OF THE
+10 VIOLATION;
+11 (V) THE DATE AND TIME OF THE VIOLATION;
+12 (VI) A COPY OF THE RECORDED IMAGE;
+13 (VII) THE AMOUNT OF THE CIVIL PENALTY IMPOSED AND THE
+14 DATE BY WHICH THE CIVIL PENALTY MUST BE PAID;
+15 (VIII) A SIGNED STATEMENT BY A TECHNICIAN EMPLOYED BY THE
+16 AGENCY THAT, BASED ON THE INSPECTION OF THE RECORDED IMAGE, THE MOTOR
+17 VEHICLE WAS BEING OPERATED DURING THE COMMISSION OF A VIOLATION;
+18 (IX) A STATEMENT THAT THE RECORDED IMAGE IS EVIDENCE OF
+19 A VIOLATION; AND
+20 (X) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+21 LIABLE UNDER THIS SECTION:
+22 1. OF THE MANNER AND TIME IN WHICH LIABILITY AS
+23 ALLEGED IN THE CITATION MAY BE CONTESTED IN THE DISTRICT COURT; AND
+24 2. THAT FAILURE TO PAY THE CIVIL PENALTY OR TO
+25 CONTEST LIABILITY IN A TIMELY MANNER IS AN ADMISSION OF LIABILITY AND MAY
+26 RESULT IN REFUSAL OR SUSPENSION OF THE MOTOR VEHICLE REGISTRATION.
+27 (2) THE AGENCY MAY MAIL A WARNING NOTICE IN PLACE OF A
+28 CITATION TO THE OWNER LIABLE UNDER SUBSECTION (E) OF THIS SECTION.
+29 (3) (I) BEFORE MAILING A CITATION TO A MOTOR VEHICLE
+30 RENTAL COMPANY LIABLE UNDER SUBSECTION (E) OF THIS SECTION, AN AGENCY
+
+10 SENATE BILL 600
+1 SHALL MAIL A NOTICE TO THE MOTOR VEHICLE RENTAL COMPANY STATING THAT A
+2 CITATION WILL BE MAILED TO THE MOTOR VEHICLE RENTAL COMPANY UNLESS,
+3 WITHIN 45 DAYS AFTER RECEIVING THE NOTICE, THE MOTOR VEHICLE RENTAL
+4 COMPANY PROVIDES THE AGENCY WITH:
+5 1. A STATEMENT MADE UNDER OATH THAT STATES THE
+6 NAME AND LAST KNOWN MAILING ADDRESS OF THE INDIVIDUAL DRIVING OR
+7 RENTING THE MOTOR VEHICLE WHEN THE VIOLATION OCCURRED;
+8 2. A. A STATEMENT MADE UNDER OATH THAT
+9 STATES THAT THE MOTOR VEHICLE RENTAL COMPANY IS UNABLE TO DETERMINE
+10 WHO WAS DRIVING THE MOTOR VEHICLE AT THE TIME THE VIOLATION OCCURRED
+11 BECAUSE THE MOTOR VEHICLE WAS STOLEN AT THE TIME OF THE VIOLATION; AND
+12 B. A COPY OF THE POLICE REPORT ASSOCIATED WITH
+13 THE MOTOR VEHICLE THEFT CLAIMED UNDER ITEM A OF THIS ITEM; OR
+14 3. PAYMENT FOR THE PENALTY ASSOCIATED WITH THE
+15 VIOLATION.
+16 (II) AN AGENCY MAY NOT MAIL A CITATION TO A MOTOR
+17 VEHICLE RENTAL COMPANY LIABLE UNDER SUBSECTION (E) OF THIS SECTION IF
+18 THE MOTOR VEHICLE RENTAL COMPANY COMPLIES WITH SUBPARAGRAPH (I) OF
+19 THIS PARAGRAPH.
+20 (4) EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS SUBSECTION
+21 AND SUBSECTION (H)(4) AND (5) OF THIS SECTION, A CITATION ISSUED UNDER THIS
+22 SECTION SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER THE ALLEGED
+23 VIOLATION.
+24 (5) A PERSON WHO RECEIVES A CITATION UNDER PARAGRAPH (1) OF
+25 THIS SUBSECTION MAY:
+26 (I) PAY THE CIVIL PENALTY IN ACCORDANCE WITH
+27 INSTRUCTIONS ON THE CITATION; OR
+28 (II) ELECT TO STAND TRIAL FOR THE ALLEGED VIOLATION.
+29 (G) (1) A CERTIFICATE ALLEGING THAT A VIOLATION OCCURRED, SWORN
+30 TO OR AFFIRMED BY A DULY AUTHORIZED LAW ENFORCEMENT OFFICER EMPLOYED
+31 BY OR UNDER CONTRACT WITH AN AGENCY, BASED ON THE INSPECTION OF A
+32 RECORDED IMAGE, SHALL BE EVIDENCE OF THE FACTS CONTAINED IN THE
+33 CERTIFICATE AND SHALL BE ADMISSIBLE IN ANY PROCEEDING CONCERNING THE
+34 ALLEGED VIOLATION.
+
+SENATE BILL 600 11
+1 (2) ADJUDICATION OF LIABILITY SHALL BE BASED ON
+2 PREPONDERANCE OF THE EVIDENCE.
+3 (H) (1) THE DISTRICT COURT MAY CONSIDER IN DEFENSE OF A
+4 VIOLATION:
+5 (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THAT
+6 THE MOTOR VEHICLE OR REGISTRATION PLATES OF THE MOTOR VEHICLE WERE
+7 STOLEN BEFORE THE VIOLATION OCCURRED AND WERE NOT UNDER THE CONTROL
+8 OR POSSESSION OF THE OWNER AT THE TIME OF THE VIOLATION;
+9 (II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION,
+10 EVIDENCE THAT THE PERSON NAMED IN THE CITATION WAS NOT OPERATING THE
+11 MOTOR VEHICLE AT THE TIME OF THE VIOLATION; AND
+12 (III) ANY OTHER ISSUES AND EVIDENCE THAT THE DISTRICT
+13 COURT CONSIDERS PERTINENT.
+14 (2) TO DEMONSTRATE THAT THE MOTOR VEHICLE OR THE
+15 REGISTRATION PLATES WERE STOLEN BEFORE THE VIOLATION OCCURRED AND
+16 WERE NOT UNDER THE CONTROL OR POSSESSION OF THE OWNER AT THE TIME OF
+17 THE VIOLATION, THE OWNER MUST SUBMIT PROOF THAT A POLICE REPORT ABOUT
+18 THE STOLEN MOTOR VEHICLE OR REGISTRATION PLATES WAS FILED IN A TIMELY
+19 MANNER.
+20 (3) TO SATISFY THE EVIDENTIARY BURDEN UNDER PARAGRAPH
+21 (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN THE CITATION SHALL PROVIDE
+22 TO THE DISTRICT COURT EVIDENCE TO THE SATISFACTION OF THE DISTRICT
+23 COURT OF WHO WAS OPERATING THE MOTOR VEHICLE AT THE TIME OF THE
+24 VIOLATION, INCLUDING, AT A MINIMUM, THE OPERATOR’S NAME AND CURRENT
+25 ADDRESS.
+26 (4) (I) THE PROVISIONS OF THIS PARAGRAPH APPLY ONLY TO A
+27 CITATION THAT INVOLVES A CLASS E (TRUCK) VEHICLE WITH A REGISTERED GROSS
+28 WEIGHT OF 26,001 POUNDS OR MORE, CLASS F (TRACTOR) VEHICLE, CLASS G
+29 (TRAILER) VEHICLE OPERATED IN COMBINATION WITH A CLASS F (TRACTOR)
+30 VEHICLE, OR CLASS P (PASSENGER BUS) VEHICLE.
+31 (II) TO SATISFY THE EVIDENTIARY BURDEN UNDER
+32 PARAGRAPH (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN A CITATION
+33 DESCRIBED UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH MAY PROVIDE TO THE
+34 DISTRICT COURT A LETTER, SWORN TO OR AFFIRMED BY THE PERSON AND MAILED
+35 BY CERTIFIED MAIL, RETURN RECEIPT REQUESTED, THAT:
+
+12 SENATE BILL 600
+1 1. STATES THAT THE PERSON NAMED IN THE CITATION
+2 WAS NOT OPERATING THE MOTOR VEHICLE AT THE TIME OF THE VIOLATION; AND
+3 2. PROVIDES THE NAME, ADDRESS, AND DRIVER’S
+4 LICENSE IDENTIFICATION NUMBER OF THE PERSON WHO WAS OPERATING THE
+5 MOTOR VEHICLE AT THE TIME OF THE VIOLATION.
+6 (5) (I) IF THE DISTRICT COURT FINDS THAT THE PERSON NAMED
+7 IN THE CITATION WAS NOT OPERATING THE MOTOR VEHICLE AT THE TIME OF THE
+8 VIOLATION OR RECEIVES EVIDENCE UNDER PARAGRAPH (4)(II)2 OF THIS
+9 SUBSECTION IDENTIFYING THE PERSON DRIVING THE MOTOR VEHICLE AT THE TIME
+10 OF THE VIOLATION, THE CLERK OF COURT SHALL PROVIDE TO THE AGENCY ISSUING
+11 THE CITATION A COPY OF ANY EVIDENCE SUBSTANTIATING WHO WAS OPERATING
+12 THE MOTOR VEHICLE AT THE TIME OF THE VIOLATION.
+13 (II) ON RECEIPT OF SUBSTANTIATING EVIDENCE FROM THE
+14 DISTRICT COURT UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH, THE AGENCY
+15 MAY ISSUE A CITATION AS PROVIDED IN SUBSECTION (F) OF THIS SECTION TO THE
+16 PERSON WHO THE EVIDENCE INDICATES WAS OPERATING THE MOTOR VEHICLE AT
+17 THE TIME OF THE VIOLATION.
+18 (III) A CITATION ISSUED UNDER SUBPARAGRAPH (II) OF THIS
+19 PARAGRAPH SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER RECEIPT OF THE
+20 EVIDENCE FROM THE DISTRICT COURT.
+21 (I) IF THE CIVIL PENALTY IS NOT PAID AND THE VIOLATION IS NOT
+22 CONTESTED, THE ADMINISTRATION MAY REFUSE TO REGISTER OR REREGISTER OR
+23 MAY SUSPEND THE REGISTRATION OF THE MOTOR VEHICLE.
+24 (J) A VIOLATION FOR WHICH A CIVIL PENALTY IS IMPOSED UNDER THIS
+25 SECTION:
+26 (1) IS NOT A MOVING VIOLATION FOR THE PURPOSE OF ASSESSING
+27 POINTS UNDER § 16–402 OF THIS ARTICLE AND MAY NOT BE RECORDED BY THE
+28 ADMINISTRATION ON THE DRIVING RECORD OF THE OWNER OR DRIVER OF THE
+29 MOTOR VEHICLE; AND
+30 (2) MAY NOT BE CONSIDERED IN THE PROVISION OF MOTOR VEHICLE
+31 INSURANCE COVERAGE.
+32 (K) IN CONSULTATION WITH LAW ENFORCEMENT AGENCIES, THE CHIEF
+33 JUDGE OF THE DISTRICT COURT SHALL ADOPT PROCEDURES FOR THE ISSUANCE
+
+SENATE BILL 600 13
+1 OF CITATIONS, TRIALS FOR VIOLATIONS, AND THE COLLECTION OF CIVIL PENALTIES
+2 IMPOSED UNDER THIS SECTION.
+3 (L) (1) AN AGENCY OR AN AGENT OR A CONTRACTOR DESIGNATED BY THE
+4 AGENCY SHALL ADMINISTER AND PROCESS CIVIL CITATIONS ISSUED UNDER THIS
+5 SECTION IN COORDINATION WITH THE DISTRICT COURT.
+6 (2) IF A CONTRACTOR IN ANY MANNER OPERATES A STOP SIGN
+7 MONITORING SYSTEM OR ADMINISTERS OR PROCESSES CITATIONS GENERATED BY
+8 A STOP SIGN MONITORING SYSTEM ON BEHALF OF BALTIMORE CITY, THE
+9 CONTRACTOR’S FEE MAY NOT BE CONTINGENT ON A PER–TICKET BASIS ON THE
+10 NUMBER OF CITATIONS ISSUED OR PAID.
+11 SECTION 4. AND BE IT FURTHER ENACTED, That, on or before December 1,
+12 2026, the Baltimore City Department of Transportation shall report to the Governor and,
+13 in accordance with § 2–1257 of the State Government Article, the General Assembly on:
+14 (1) through October 1, 2026:
+15 (i) the time period during which stop sign monitoring systems were
+16 in use in the City; and
+17 (ii) the number of warnings and citations issued as a result of
+18 violations recorded by a stop sign monitoring system in the City over the reported time
+19 period, by location and date;
+20 (2) (i) the costs associated with implementing and operating stop sign
+21 monitoring systems; and
+22 (ii) the revenue collected on a monthly basis as a result of violations
+23 recorded by stop sign monitoring systems;
+24 (3) appropriate locations for the deployment of stop sign monitoring
+25 systems;
+26 (4) the performance and reliability of stop sign monitoring systems used by
+27 the City; and
+28 (5) the effectiveness of stop sign monitoring systems in reducing violations,
+29 crashes, and pedestrian injuries in the City and in areas where the stop sign monitoring
+30 systems were implemented and used.
+31 SECTION 5. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
+32 effect on the taking effect of the termination provision specified in Section 3 of Chapter 678
+33 of the Acts of the General Assembly of 2024. If that termination provision takes effect,
+34 Section 1 of this Act, with no further action required by the General Assembly, shall be
+
+14 SENATE BILL 600
+1 abrogated and of no further force and effect. This Act may not be interpreted to have any
+2 effect on that termination provision.
+3 SECTION 6. AND BE IT FURTHER ENACTED, That, subject to the provisions of
+4 Section 5 of this Act, this Act shall take effect July 1, 2025. It shall remain effective for a
+5 period of 5 years and, at the end of June 30, 2030, this Act, with no further action required
+6 by the General Assembly, shall be abrogated and of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5   C A B P F z o c c a i t o s B  A S  A  ( B  A  S  A  (]
+[DELETED:  S  B  A S  A  (  ( B  A S  A  (  ( B  A S  A  ( B  A S  A  (  S T A 7  ( ( ( A2   A s p t t p r t c m e t s t b n t   ( C]E(X A P I P  O TN C  p r f c i u a v h m s t c s m s s m s w z s c s s s m s s b m c b l m s o n a m s t a c s]
+[DELETED: S 3   ( ( E p](    o t s f t f c b a p s a a r o v s n     1 M t c     2 S t s ( ( a ( o t p p   )FB T F C B A I O T O A A R O V E B A S SM  E5%     )I T T L M B FC IY      )IS O F P Y P A T   1  ( A i1o  2 i 2  S a A 7  ( ( ( A 2 § t t p r t c m e t s t b n t a a]
+[DELETED:  S     ( O t p    ( O t o   ( ( A c i a t r o a v h m s s c s t    ( A c i a t r o a t c s m a s aM c t   ( C( A P I P  O TN C  p r f c i u a v h m s t c s m s s m s w sM c c w   ( ( E   )( o e b s m s w z s c s SS s a     1 M t       2 S a s    ( 1 F c s]
+[DELETED: S 5 a w s ( o t p i g t 1 o t t r a     2 T t ()FB  T F C B A I O T O A A R O V E B A S SM  E5%     )I T T L M B FC IY      )IS O F P Y P A T   1   )   O R22   O R22    () I]( h m s t c s m s s m s   NM m l  S a A 4  E T   ( A p f a c i u § 2 § 2 § 2 §2 o]
+[DELETED:  S  A 2  ( U o i  ( U o i  ( U o i a i t i n c a t n p b e t i  ( T f l  ( T f m  ( T f a a ) TBC.H A I ) ( N    “AY M AL E A T I A E    () “OWR M T R O O A M  .   ) “O”:IWR ]
+[DELETED: S 7     A;Y      H O A S R P I  U  A  1,S9,PII.    “RE     ) O:     T;     T;     T;     V;E      A;M    ) SIHD E     “SNMM     () “VIN    27.   ) “VIIN  ) ( S()(U T P  T  O TN NM     ) O4N T A IY C I O A IY CBC    ) OIN T5,S L DT I A B T T I ]
+[DELETED:  S     NM I O AC     )BNMS SNM S O I W A I A N O  A IC     () TH IYS P P S O W T IYP N TTS SNM   EI     ) TSHIH T I D S PNM  T  )  R I U T S I T T   T;N    T,.E  ) ( N T D O T M V R AN R  F  H   N())())() I R B A S SNM S D T     A$   F,DN  I O   )  U C F C W F     O RE ))§72CA;   ) AI C PY W S B I O TN  I OC.]
+[DELETED: S 9 ) ( S()(U    T SN A A S M T T O L U E ):   ) H   ) IH R N O T M V   ) T;IH   ) TVO T E PE T L O T   ) T;H   ) A;I    ) IH A O T C P I A T   )I T E    ) X N    ) N A T P A T B      I OT C;      F T P T C P O T    A M M A W N I P O A E ).   () E M A C T A M V E N )]
+[DELETED:  S  W B M M V R C US  D A R T NE T M V R5      A L K M A O T I D O     A S M U O TN      C R  M ;        ) IN A M N M A C T A M E  M R C C W S I O   E(   H   N ))() S B M N L T  W A T A   A(     ) A T C P I A WN    ) E.IL ) ( A D  O U C W A AY B O T I O A IE S B E O T F C I T]
+[DELETED: S 1    O L S B B O ) ( TDH I O M C I D O A   ) S()U  N  M O R O   ) S()IU T P  O T SN N     ) AIN O I A E T T I.    D T T M V O T P W S B T V O AN     S T E B U P()I N  T I O E T T S O T IC O W W O T M V A T T O TN IG A A MM T ORS N A C,,   () H L  TK E( O  P O ME L  TR VE L 1,CF(),C)CF(R V O I C W A L  TRE  L  PS CP().   ) IO S T E B U II O T SN T P N I A C() I C OR L D ,:]
+[DELETED:  S      N      P,, T NE AS A DRS I N O T P W W O T   () IDF I O O R E U P II O T()EVN       ) IN R O S E F TC() O I H  F    ) A(I C I U S II O T   I OC. ) F T C P I N P A T V I ND  D )  V A C I      O A M B1 O T D R O T O O D O TE     ) I,N C W L E AS T HD I O]
+[DELETED: S 1S S  ) ( N I OC.     A C I A M O A S S S S M S O B O A IY TCRS F M N B C O A PRT B O T   S 2 i   ( t    ( t i    ( t n o w a c i a a r o v p   ( ( t m    ( t r   ( a l f t d o s s m s   ( t t   ( t c s  S e o S]
+[DELETED:  S  a e  S S p b          G               ]

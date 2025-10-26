@@ -1,0 +1,148 @@
+Title: HOUSE BILL 812
+Official Title: HOUSE BILL 812
+Number of Sections: 1
+Source: versions - First - Electronic Health Networks and Electronic Medical Record Vendors of Nursing Homes - Release of Records - Enforcement
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+J1, J3 5lr3137
+CF 5lr2937
+By: Delegates Guzzone, Guyton, Hill, Kaiser, Kerr, and Martinez
+Introduced and read first time: January 29, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Electronic Health Networks and Electronic Medical Record Vendors of Nursing
+3 Homes – Release of Records – Enforcement
+4 FOR the purpose of authorizing the Office of the Attorney General to enforce and certain
+5 persons to bring a certain civil action regarding a certain provision of law authorizing
+6 a nursing home that contracts with or uses an electronic health network or electronic
+7 medical record vendor to direct the network or vendor to release electronic medical
+8 records or electronic health care transactions to a business associate of the nursing
+9 home; and generally relating to electronic health networks and electronic medical
+10 record vendors of nursing homes.
+11 BY repealing and reenacting, with amendments,
+12 Article – Health – General
+13 Section 4–302.6
+14 Annotated Code of Maryland
+15 (2023 Replacement Volume and 2024 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Health – General
+19 4–302.6.
+20 (a) (1) In this section the following words have the meanings indicated.
+21 (2) “Business associate” has the meaning stated in 45 C.F.R. § 160.103.
+22 (3) “Electronic health care transactions” has the meaning stated in §
+23 4–302.3 of this subtitle.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0812*
+2 HOUSE BILL 812
+1 (4) “Electronic health network” has the meaning stated in § 4–302.3 of this
+2 subtitle.
+3 (5) “Nursing home” has the meaning stated in § 19–1401 of this article.
+4 (b) (1) If a nursing home contracts with or uses an electronic health network
+5 or electronic medical record vendor, the nursing home may direct the electronic health
+6 network or electronic medical record vendor to release patient medical records or electronic
+7 health care transactions held by the electronic health network or electronic medical record
+8 vendor to a business associate of the nursing home.
+9 (2) An electronic health network or electronic medical record vendor
+10 releasing patient medical records or electronic health care transactions under paragraph
+11 (1) of this subsection:
+12 (i) Shall release the patient medical records or electronic health
+13 care transactions in an electronic format that conforms to the specifications of the Office of
+14 the National Coordinator for Health Information Technology or another form required by
+15 the State–designated health information exchange;
+16 (ii) Shall make the patient medical records or electronic health care
+17 transactions available on a regular basis and release the information in a timely manner
+18 to support patient care and monitoring; and
+19 (iii) May not restrict, limit, or charge a fee for the release of the
+20 patient medical records or electronic health care transactions.
+21 (C) THE OFFICE OF THE ATTORNEY GENERAL MAY ENFORCE THIS
+22 SECTION.
+23 (D) (1) ANY PERSON, INCLUDING A PERSON IDENTIFIED UNDER
+24 SUBSECTION (B)(1) OF THIS SECTION, MAY BRING AN ACTION FOR DAMAGES,
+25 INJUNCTIVE RELIEF, OR BOTH AND FOR ATTORNEY’S FEES AGAINST ANY PERSON IN
+26 VIOLATION OF THIS SECTION.
+27 (2) A PERSON MAY BRING AN ACTION UNDER THIS SUBSECTION
+28 WHETHER THE PERSON INTERACTED DIRECTLY OR INDIRECTLY WITH THE PERSON
+29 IN VIOLATION OF THIS SECTION.
+30 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+31 October 1, 2025.
+[DELETED: :CA      5   C A E H F p a m r h r B  A S  A  (  S T A 4  ( ( I   ( “   ( “ h c t h t m s i § 4]
+[DELETED:  H    ( “ s   ( “  ( ( I o n h v   ( A e h n o e m r v r (    ( S r t p m r o e h c t t    ( S t t    ( M n r l o c a f f t r o t p() TOAH F O T T E M E T() ( AN PN I A P I U B O T SN M B A A F DS)),F YS ( P M B A A U T S  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 812
+J1, J3 5lr3137
+CF 5lr2937
+By: Delegates Guzzone, Guyton, Hill, Kaiser, Kerr, and Martinez
+Introduced and read first time: January 29, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Electronic Health Networks and Electronic Medical Record Vendors of Nursing
+3 Homes – Release of Records – Enforcement
+4 FOR the purpose of authorizing the Office of the Attorney General to enforce and certain
+5 persons to bring a certain civil action regarding a certain provision of law authorizing
+6 a nursing home that contracts with or uses an electronic health network or electronic
+7 medical record vendor to direct the network or vendor to release electronic medical
+8 records or electronic health care transactions to a business associate of the nursing
+9 home; and generally relating to electronic health networks and electronic medical
+10 record vendors of nursing homes.
+11 BY repealing and reenacting, with amendments,
+12 Article – Health – General
+13 Section 4–302.6
+14 Annotated Code of Maryland
+15 (2023 Replacement Volume and 2024 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Health – General
+19 4–302.6.
+20 (a) (1) In this section the following words have the meanings indicated.
+21 (2) “Business associate” has the meaning stated in 45 C.F.R. § 160.103.
+22 (3) “Electronic health care transactions” has the meaning stated in §
+23 4–302.3 of this subtitle.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0812*
+
+2 HOUSE BILL 812
+1 (4) “Electronic health network” has the meaning stated in § 4–302.3 of this
+2 subtitle.
+3 (5) “Nursing home” has the meaning stated in § 19–1401 of this article.
+4 (b) (1) If a nursing home contracts with or uses an electronic health network
+5 or electronic medical record vendor, the nursing home may direct the electronic health
+6 network or electronic medical record vendor to release patient medical records or electronic
+7 health care transactions held by the electronic health network or electronic medical record
+8 vendor to a business associate of the nursing home.
+9 (2) An electronic health network or electronic medical record vendor
+10 releasing patient medical records or electronic health care transactions under paragraph
+11 (1) of this subsection:
+12 (i) Shall release the patient medical records or electronic health
+13 care transactions in an electronic format that conforms to the specifications of the Office of
+14 the National Coordinator for Health Information Technology or another form required by
+15 the State–designated health information exchange;
+16 (ii) Shall make the patient medical records or electronic health care
+17 transactions available on a regular basis and release the information in a timely manner
+18 to support patient care and monitoring; and
+19 (iii) May not restrict, limit, or charge a fee for the release of the
+20 patient medical records or electronic health care transactions.
+21 (C) THE OFFICE OF THE ATTORNEY GENERAL MAY ENFORCE THIS
+22 SECTION.
+23 (D) (1) ANY PERSON, INCLUDING A PERSON IDENTIFIED UNDER
+24 SUBSECTION (B)(1) OF THIS SECTION, MAY BRING AN ACTION FOR DAMAGES,
+25 INJUNCTIVE RELIEF, OR BOTH AND FOR ATTORNEY’S FEES AGAINST ANY PERSON IN
+26 VIOLATION OF THIS SECTION.
+27 (2) A PERSON MAY BRING AN ACTION UNDER THIS SUBSECTION
+28 WHETHER THE PERSON INTERACTED DIRECTLY OR INDIRECTLY WITH THE PERSON
+29 IN VIOLATION OF THIS SECTION.
+30 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+31 October 1, 2025.
+
+[DELETED: :CA      5   C A E H F p a m r h r B  A S  A  (  S T A 4  ( ( I   ( “   ( “ h c t h t m s i § 4]
+[DELETED:  H    ( “ s   ( “  ( ( I o n h v   ( A e h n o e m r v r (    ( S r t p m r o e h c t t    ( S t t    ( M n r l o c a f f t r o t p() TOAH F O T T E M E T() ( AN PN I A P I U B O T SN M B A A F DS)),F YS ( P M B A A U T S  S A B I F E T t A s t e O]

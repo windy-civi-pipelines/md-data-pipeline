@@ -1,0 +1,946 @@
+Title: SENATE BILL 181
+Official Title: SENATE BILL 181
+Number of Sections: 1
+Source: versions - Enrolled - Correctional Services - Geriatric and Medical Parole
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+E5 (5lr1502)
+ENROLLED BILL
+— Judicial Proceedings/Judiciary —
+Introduced by Senator Hettleman Senators Hettleman, Charles, Henson, Love,
+Muse, Smith, Sydnor, and West
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Correctional Services – Geriatric and Medical Parole
+3 FOR the purpose of requiring the Maryland Parole Commission to consider the age of an
+4 incarcerated individual when determining whether to grant parole; altering how the
+5 Commission evaluates a request for medical parole, including providing for a
+6 meeting between the incarcerated individual and the Commission under certain
+7 circumstances; requiring the Commission to develop procedures for assessing parole
+8 requests by certain incarcerated individuals; repealing the authorization for the
+9 Governor to disapprove a decision by the Commission to grant medical parole to an
+10 incarcerated individual; requiring the Department of Public Safety and Correctional
+11 Services to submit to the Commission the names of certain individuals at a certain
+12 time; requiring the Commission to conduct a risk assessment for a certain individual
+13 at a certain time; requiring the Commission to conduct a certain parole release
+14 hearing and determine whether a certain incarcerated individual is suitable for
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0181*
+2 SENATE BILL 181
+1 parole at a certain time; repealing a certain provision related to geriatric parole;
+2 authorizing the Justice Reinvestment Oversight Board to recommend that a portion
+3 of certain savings be distributed to the Commission for a certain purpose; and
+4 generally relating to geriatric and medical parole.
+5 BY repealing and reenacting, with amendments,
+6 Article – Correctional Services
+7 Section 7–305 and 7–309
+8 Annotated Code of Maryland
+9 (2017 Replacement Volume and 2024 Supplement)
+10 BY adding to
+11 Article – Correctional Services
+12 Section 7–310
+13 Annotated Code of Maryland
+14 (2017 Replacement Volume and 2024 Supplement)
+15 BY repealing
+16 Article – Criminal Law
+17 Section 14–101(f)
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, without amendments,
+21 Article – State Government
+22 Section 9–3201
+23 Annotated Code of Maryland
+24 (2021 Replacement Volume and 2024 Supplement)
+25 BY repealing and reenacting, with amendments,
+26 Article – State Government
+27 Section 9–3207(b)
+28 Annotated Code of Maryland
+29 (2021 Replacement Volume and 2024 Supplement)
+30 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+31 That the Laws of Maryland read as follows:
+32 Article – Correctional Services
+33 7–305.
+34 Each hearing examiner and commissioner determining whether an incarcerated
+35 individual is suitable for parole, and the Commission before entering into a predetermined
+36 parole release agreement, shall consider:
+37 (1) the circumstances surrounding the crime;
+SENATE BILL 181 3
+1 (2) the physical, mental, and moral qualifications of the incarcerated
+2 individual;
+3 (3) the progress of the incarcerated individual during confinement,
+4 including the academic progress of the incarcerated individual in the mandatory education
+5 program required under § 22–102 of the Education Article;
+6 (4) a report on a drug or alcohol evaluation that has been conducted on the
+7 incarcerated individual, including any recommendations concerning the incarcerated
+8 individual’s amenability for treatment and the availability of an appropriate treatment
+9 program;
+10 (5) whether, TAKING INTO ACCOUNT THE TOTALITY OF THE
+11 CIRCUMSTANCES INCLUDING THE AGE OF THE INCARCERATED INDIVIDUAL, there is
+12 reasonable probability that the incarcerated individual, if released on parole, will [remain
+13 at liberty without violating the law] NOT RECIDIVATE;
+14 (6) whether release of the incarcerated individual on parole is compatible
+15 with [the welfare of society] PUBLIC SAFETY;
+16 (7) an updated victim impact statement or recommendation prepared
+17 under § 7–801 of this title;
+18 (8) any recommendation made by the sentencing judge at the time of
+19 sentencing;
+20 (9) any information that is presented to a commissioner at a meeting with
+21 the victim;
+22 (10) any testimony presented to the Commission by the victim or the victim’s
+23 designated representative under § 7–801 of this title; and
+24 (11) compliance with the case plan developed under § 7–301.1 of this subtitle
+25 or § 3–601 of this article.
+26 7–309.
+27 (a) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+28 INDICATED.
+29 (2) (I) “CHRONICALLY DEBILITATED OR INCAPACITATED” MEANS
+30 HAVING A DIAGNOSABLE MEDICAL CONDITION THAT IS UNLIKELY TO IMPROVE IN
+31 THE FUTURE AND PREVENTS THE INDIVIDUAL FROM COMPLETING MORE THAN ONE
+32 ACTIVITY OF DAILY LIVING, INCLUDING EATING, BREATHING, DRESSING,
+33 GROOMING, TOILETING, WALKING, OR BATHING, WITHOUT ASSISTANCE
+4 SENATE BILL 181
+1 SUBSTANTIALLY DIMINISHES THE ABILITY OF THE INDIVIDUAL TO PROVIDE
+2 SELF–CARE.
+3 (II) “CHRONICALLY DEBILITATED OR INCAPACITATED”
+4 INCLUDES CONDITIONS SUCH AS DEMENTIA OR A SEVERE, PERMANENT MEDICAL OR
+5 COGNITIVE DISABILITY IF THE CONDITION PREVENTS THE INDIVIDUAL FROM
+6 COMPLETING MORE THAN ONE ACTIVITY OF DAILY LIVING SUBSTANTIALLY
+7 DIMINISHES THE ABILITY OF THE INDIVIDUAL TO PROVIDE SELF–CARE.
+8 (3) “TERMINAL ILLNESS” MEANS A DISEASE OR CONDITION WITH AN
+9 END–OF–LIFE TRAJECTORY.
+10 (B) This section applies to any incarcerated individual who is sentenced to a term
+11 of incarceration for which all sentences being served, including any life sentence, are with
+12 the possibility of parole.
+13 [(b)] (C) An incarcerated individual [who is so chronically debilitated or
+14 incapacitated by a medical or mental health condition, disease, or syndrome as to be
+15 physically incapable of presenting a danger to society] may be released on medical parole
+16 at any time during the term of that incarcerated individual’s sentence, without regard to
+17 the eligibility standards specified in § 7–301 of this subtitle IF A LICENSED MEDICAL
+18 PROFESSIONAL PHYSICIAN HAS DETERMINED THAT THE INCARCERATED
+19 INDIVIDUAL:
+20 (1) (I) IS CHRONICALLY DEBILITATED OR INCAPACITATED; OR
+21 (II) SUFFERS FROM A TERMINAL ILLNESS; AND
+22 (2) (I) REQUIRES EXTENDED MEDICAL MANAGEMENT WITH
+23 HEALTH CARE NEEDS THAT WOULD BE BETTER MET BY COMMUNITY SERVICES; OR
+24 AND
+25 (II) 1. HAS BEEN RENDERED PHYSICALLY INCAPABLE OF
+26 PRESENTING A DANGER TO SOCIETY BY A PHYSICAL OR MENTAL HEALTH
+27 CONDITION, DISEASE, OR SYNDROME; OR
+28 2. IS NO LONGER A DANGER TO PUBLIC SAFETY.
+29 (D) (1) THE INFORMATION TO BE CONSIDERED BY THE COMMISSION
+30 BEFORE GRANTING MEDICAL PAROLE SHALL, AT A MINIMUM, INCLUDE:
+31 (I) 1. A RECOMMENDATION BY THE MEDICAL
+32 PROFESSIONAL TREATING THE INCARCERATED INDIVIDUAL UNDER CONTRACT
+33 WITH THE DEPARTMENT OR LOCAL CORRECTIONAL FACILITY; OR
+SENATE BILL 181 5
+1 2. IF REQUESTED BY AN INDIVIDUAL IDENTIFIED IN
+2 SUBSECTION (E)(1) OF THIS SECTION, ONE MEDICAL EVALUATION CONDUCTED AT
+3 NO COST TO THE INCARCERATED INDIVIDUAL BY A MEDICAL PROFESSIONAL WHO IS
+4 INDEPENDENT FROM THE DIVISION OF CORRECTION OR LOCAL CORRECTIONAL
+5 FACILITY;
+6 (II) THE INCARCERATED INDIVIDUAL’S MEDICAL
+7 INFORMATION, INCLUDING:
+8 1. A DESCRIPTION OF THE INCARCERATED
+9 INDIVIDUAL’S CONDITION, DISEASE, OR SYNDROME;
+10 2. A PROGNOSIS CONCERNING THE LIKELIHOOD OF
+11 RECOVERY FROM THE CONDITION, DISEASE, OR SYNDROME;
+12 3. A DESCRIPTION OF THE INCARCERATED
+13 INDIVIDUAL’S PHYSICAL INCAPACITY; AND
+14 4. A MENTAL HEALTH EVALUATION, WHERE RELEVANT;
+15 (III) DISCHARGE INFORMATION, INCLUDING:
+16 1. AVAILABILITY OF TREATMENT OR PROFESSIONAL
+17 SERVICES WITHIN THE COMMUNITY;
+18 2. FAMILY SUPPORT WITHIN THE COMMUNITY; AND
+19 3. HOUSING AVAILABILITY, INCLUDING HOSPITAL OR
+20 HOSPICE CARE; AND
+21 (IV) CASE MANAGEMENT INFORMATION, INCLUDING:
+22 1. THE CIRCUMSTANCES OF THE CURRENT OFFENSE;
+23 2. INSTITUTIONAL HISTORY;
+24 3. PENDING CHARGES, SENTENCES IN OTHER
+25 JURISDICTIONS, AND ANY OTHER DETAINERS; AND
+26 4. CRIMINAL HISTORY INFORMATION.
+27 (2) IF A MEDICAL EVALUATION IS REQUESTED UNDER PARAGRAPH
+28 (1)(I)2 OF THIS SUBSECTION:
+6 SENATE BILL 181
+1 (I) THE EVALUATION SHALL CONSIST OF AN IN–PERSON
+2 EXAMINATION OF THE INCARCERATED INDIVIDUAL; AND
+3 (II) THE COMMISSION SHALL GIVE EQUAL CONSIDERATION TO
+4 THE FINDINGS OF THE EVALUATION AND ANY MEDICAL CONDITION DETAILED IN
+5 THE EVALUATION IN CONSIDERING WHETHER TO GRANT MEDICAL PAROLE.
+6 [(c)] (E) (1) A request for a medical parole under this section may be filed
+7 with the Maryland Parole Commission by:
+8 (i) the incarcerated individual seeking the medical parole;
+9 (ii) an attorney;
+10 (iii) a prison official or employee;
+11 (iv) a medical professional;
+12 (v) a family member; or
+13 (vi) any other person.
+14 (2) The request shall be in writing and shall articulate the grounds that
+15 support the appropriateness of granting the medical parole.
+16 (F) (1) THE INCARCERATED INDIVIDUAL OR THE INCARCERATED
+17 INDIVIDUAL’S REPRESENTATIVE MAY REQUEST A MEETING WITH THE COMMISSION.
+18 (2) IF A REQUEST FOR A MEETING IS MADE UNDER PARAGRAPH (1) OF
+19 THIS SUBSECTION:
+20 (I) THE COMMISSION SHALL GRANT THE REQUEST FOR A
+21 MEETING FOR ANY INCARCERATED INDIVIDUAL:
+22 1. HOUSED IN AN INFIRMARY OF A CORRECTIONAL
+23 FACILITY;
+24 2. CURRENTLY HOSPITALIZED OUTSIDE A
+25 CORRECTIONAL FACILITY; OR
+26 3. WHO HAS BEEN FREQUENTLY HOUSED IN AN
+27 INFIRMARY OF A CORRECTIONAL FACILITY OR HOSPITALIZED OUTSIDE A
+28 CORRECTIONAL FACILITY IN THE PRECEDING 6 MONTHS; AND
+SENATE BILL 181 7
+1 (II) THE COMMISSION MAY, AT ITS DISCRETION, GRANT THE
+2 REQUEST FOR A MEETING FOR ANY INCARCERATED INDIVIDUAL WHO DOES NOT
+3 MEET THE REQUIREMENTS OF ITEM (I) OF THIS PARAGRAPH.
+4 [(d)] (G) Following review of the request, the Commission may:
+5 (1) find the request to be inconsistent with the best interests of public
+6 safety and take no further action; or
+7 (2) request that [department] DEPARTMENT or local correctional facility
+8 personnel provide information for formal consideration of parole release.
+9 [(e) The information to be considered by the Commission before granting medical
+10 parole shall, at a minimum, include:
+11 (1) (i) a recommendation by the medical professional treating the
+12 incarcerated individual under contract with the Department or local correctional facility;
+13 or
+14 (ii) if requested by an individual identified in subsection (c)(1) of this
+15 section, one medical evaluation conducted at no cost to the incarcerated individual by a
+16 medical professional who is independent from the Division of Correction or local
+17 correctional facility;
+18 (2) the incarcerated individual’s medical information, including:
+19 (i) a description of the incarcerated individual’s condition, disease,
+20 or syndrome;
+21 (ii) a prognosis concerning the likelihood of recovery from the
+22 condition, disease, or syndrome;
+23 (iii) a description of the incarcerated individual’s physical incapacity
+24 and score on the Karnofsky Performance Scale Index or similar classification of physical
+25 impairment; and
+26 (iv) a mental health evaluation, where relevant;
+27 (3) discharge information, including:
+28 (i) availability of treatment or professional services within the
+29 community;
+30 (ii) family support within the community; and
+31 (iii) housing availability, including hospital or hospice care; and
+8 SENATE BILL 181
+1 (4) case management information, including:
+2 (i) the circumstances of the current offense;
+3 (ii) institutional history;
+4 (iii) pending charges, sentences in other jurisdictions, and any other
+5 detainers; and
+6 (iv) criminal history information.]
+7 [(f)] (H) The Commission may require as a condition of release on medical parole
+8 that:
+9 (1) the parolee agree to placement for a definite or indefinite period of time
+10 [in a hospital or hospice or other] UNDER THE CARE OF A MEDICAL PROVIDER AND IN
+11 A housing accommodation suitable to the parolee’s medical condition, including the family
+12 home of the parolee, as specified by the Commission or the supervising agent; and
+13 (2) the parolee forward authentic copies of applicable medical records to
+14 indicate that the particular medical condition giving rise to the release continues to exist.
+15 [(g)] (I) (1) If the Commission has reason to believe that a parolee is no
+16 longer so debilitated or incapacitated as to be physically incapable of presenting a danger
+17 to society, the parolee shall be returned to the custody of the Division of Correction or the
+18 local correctional facility from which the incarcerated individual was released.
+19 (2) (i) A parole hearing for a parolee returned to custody shall be held
+20 to consider whether the parolee remains incapacitated and shall be heard promptly.
+21 (ii) A parolee returned to custody under this subsection shall be
+22 maintained in custody, if the incapacitation is found to no longer exist.
+23 (3) An incarcerated individual whose medical parole is revoked for lack of
+24 continued incapacitation may be considered for parole in accordance with the eligibility
+25 requirements specified in § 7–301 of this subtitle A PAROLEE SHALL BE RETURNED TO
+26 THE CUSTODY OF THE DIVISION OF CORRECTION OR THE LOCAL CORRECTIONAL
+27 FACILITY FROM WHICH THE PAROLEE WAS RELEASED IF A LICENSED MEDICAL
+28 PROFESSIONAL PHYSICIAN HAS DETERMINED THAT THE PAROLEE:
+29 (1) (I) IS NO LONGER CHRONICALLY DISABLED OR
+30 INCAPACITATED; OR
+31 (II) NO LONGER SUFFERS FROM A TERMINAL ILLNESS; AND
+SENATE BILL 181 9
+1 (2) (I) NO LONGER REQUIRES EXTENDED MEDICAL MANAGEMENT
+2 WITH HEALTH CARE NEEDS THAT WOULD BE BETTER MET BY COMMUNITY SERVICES;
+3 AND
+4 (II) 1. IS NO LONGER PHYSICALLY INCAPABLE OF
+5 PRESENTING A DANGER TO SOCIETY BY A PHYSICAL OR MENTAL HEALTH
+6 CONDITION, DISEASE, OR SYNDROME; OR
+7 2. IS A DANGER TO PUBLIC SAFETY.
+8 [(h)] (J) (1) IN THIS SUBSECTION, “IMMINENT DEATH” MEANS DEATH
+9 THAT IS LIKELY TO OCCUR WITHIN 6 MONTHS.
+10 (2) Subject to paragraph [(2)] (3) of this subsection, provisions of law
+11 relating to victim notification and opportunity to be heard shall apply to proceedings
+12 relating to medical parole.
+13 [(2)] (3) In cases of imminent death, time limits relating to victim
+14 notification and opportunity to be heard may be reduced or waived in the discretion of the
+15 Commission.
+16 [(i) (1) If the Commission decides to grant medical parole to an incarcerated
+17 individual sentenced to life imprisonment, the decision shall be transmitted to the
+18 Governor.
+19 (2) The Governor may disapprove the decision by written transmittal to
+20 the Commission.
+21 (3) If the Governor does not disapprove the decision within 180 days after
+22 receipt of the written transmittal, the decision becomes effective.]
+23 [(j)] (K) The Commission shall [issue] ADOPT regulations to implement the
+24 provisions of this section.
+25 7–310.
+26 (A) THIS SECTION APPLIES ONLY TO AN INCARCERATED INDIVIDUAL WHO:
+27 (1) IS AT LEAST 60 65 YEARS OLD;
+28 (2) HAS SERVED AT LEAST 15 20 YEARS OF THE SENTENCE IMPOSED
+29 INCARCERATION;
+10 SENATE BILL 181
+1 (3) IS NOT REGISTERED OR ELIGIBLE FOR A SEX OFFENDER
+2 REGISTRATION UNDER TITLE 11, SUBTITLE 7, AS DEFINED IN § 11–701 OF THE
+3 CRIMINAL PROCEDURE ARTICLE; AND
+4 (4) IS SENTENCED TO SERVING A TERM OF INCARCERATION
+5 CONFINEMENT FOR WHICH ALL SENTENCES BEING SERVED, INCLUDING ANY LIFE
+6 SENTENCE, ARE WITH THE POSSIBILITY OF PAROLE.; AND
+7 (5) HAS HAD NO CATEGORY 1A DISCIPLINARY INFRACTIONS WITHIN
+8 THE PREVIOUS 3–YEAR PERIOD.
+9 (B) ON AN ONGOING BASIS, THE DEPARTMENT SHALL SUBMIT TO THE
+10 COMMISSION THE NAME OF EACH INCARCERATED INDIVIDUAL WHO MEETS THE
+11 QUALIFICATIONS UNDER SUBSECTION (A) OF THIS SECTION.
+12 (C) (1) WITHIN 60 DAYS AFTER RECEIPT OF A NAME UNDER SUBSECTION
+13 (B) OF THIS SECTION, THE COMMISSION SHALL ORDER A RISK ASSESSMENT FOR THE
+14 INCARCERATED INDIVIDUAL IF THE INDIVIDUAL IS SERVING SENTENCES FOR
+15 MULTIPLE CRIMES OF VIOLENCE, AS DEFINED IN § 14–101 OF THE CRIMINAL LAW
+16 ARTICLE, WITH AN AGGREGATE TERM OF CONFINEMENT OF 40 YEARS OR MORE.
+17 (2) THE COMMISSION MAY ORDER A RISK ASSESSMENT FOR ANY
+18 OTHER INCARCERATED INDIVIDUAL ELIGIBLE FOR PAROLE UNDER THIS SECTION.
+19 (D) (1) THE COMMISSION SHALL CONDUCT A PAROLE RELEASE HEARING
+20 UNDER § 7–306 OR § 7–307 OF THIS SUBTITLE FOR EACH INDIVIDUAL WHOSE NAME
+21 IS SUBMITTED UNDER SUBSECTION (B) OF THIS SECTION AND DETERMINE WHETHER
+22 THE INCARCERATED INDIVIDUAL IS SUITABLE FOR PAROLE.
+23 (2) THE HEARING UNDER THIS SUBSECTION SHALL BE CONDUCTED:
+24 (I) AS SOON AS POSSIBLE, IF NO RISK ASSESSMENT IS
+25 ORDERED; OR
+26 (II) ON COMPLETION OF ANY RISK ASSESSMENT ORDERED.
+27 (B) (E) AN INCARCERATED INDIVIDUAL CONSIDERED FOR PAROLE
+28 UNDER THIS SECTION SHALL HAVE A PAROLE HEARING EVERY 2 YEARS
+29 (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION,
+30 AN INCARCERATED INDIVIDUAL WHO HAS BEEN DENIED PAROLE UNDER THIS
+31 SECTION MAY NOT HAVE A SUBSEQUENT PAROLE HEARING FOR 5 YEARS.
+SENATE BILL 181 11
+1 (2) AN INCARCERATED INDIVIDUAL WHO HAS BEEN DENIED PAROLE
+2 UNDER THIS SECTION MAY HAVE A SUBSEQUENT PAROLE HEARING AT ANY TIME IF
+3 THE COMMISSION DETERMINES THAT EXTRAORDINARY AND COMPELLING
+4 CIRCUMSTANCES JUSTIFY THE SUBSEQUENT PAROLE HEARING.
+5 (C) (F) IN ADDITION TO THE FACTORS SPECIFIED UNDER § 7–305 OF THIS
+6 SUBTITLE, EACH COMMISSION PANEL DETERMINING WHETHER AN INCARCERATED
+7 INDIVIDUAL IS SUITABLE FOR PAROLE SHALL CONSIDER AND GIVE WEIGHT TO THE
+8 AGE OF THE INCARCERATED INDIVIDUAL AND THE IMPACT THAT THE AGE OF THE
+9 INCARCERATED INDIVIDUAL HAS ON REDUCING THE RISK THAT THE INCARCERATED
+10 INDIVIDUAL WILL NOT RECIDIVATE.
+11 (D) (G) ANY SAVINGS REALIZED BY THE DEPARTMENT AS A RESULT OF
+12 THIS SECTION SHALL REVERT TO THE DEPARTMENT AND SHALL BE USED FOR THE
+13 PURPOSE OF:
+14 (1) CONDUCTING RISK ASSESSMENTS FOR INCARCERATED
+15 INDIVIDUALS;
+16 (1) (2) CONDUCTING PAROLE HEARINGS FOR INCARCERATED
+17 INDIVIDUALS AS REQUIRED UNDER SUBSECTION (B) OF THIS SECTION; AND
+18 (2) (3) PROVIDING PRERELEASE AND REENTRY CASE
+19 MANAGEMENT AND RESOURCES FOR INCARCERATED INDIVIDUALS WHO ARE
+20 SUBJECT TO THIS SECTION AND RELEASED ON PAROLE.
+21 (E) (H) EVERY YEAR, THE COMMISSION SHALL REPORT TO THE JUSTICE
+22 REINVESTMENT OVERSIGHT BOARD ON THE OUTCOMES OF PAROLE
+23 CONSIDERATIONS MADE UNDER THIS SECTION, INCLUDING:
+24 (1) THE NUMBER OF INCARCERATED INDIVIDUALS WHO ARE SUBJECT
+25 TO THIS SECTION WHO ARE DENIED PAROLE AND RELEASED ON PAROLE;
+26 (2) THE REASON FOR EACH DECISION TO RELEASE AN INCARCERATED
+27 INDIVIDUAL ON PAROLE;
+28 (3) THE REASON FOR EACH DECISION TO DENY PAROLE TO AN
+29 INCARCERATED INDIVIDUAL;
+30 (4) OF THE NUMBER OF INCARCERATED INDIVIDUALS WHO ARE
+31 RELEASED ON PAROLE, THE NUMBER OF INDIVIDUALS WHO ARE CONVICTED OF AN
+32 OFFENSE COMMITTED AFTER RELEASE;
+12 SENATE BILL 181
+1 (5) THE AVERAGE TIME BETWEEN WHEN AN INCARCERATED
+2 INDIVIDUAL BECOMES ELIGIBLE FOR PAROLE CONSIDERATION UNDER THIS
+3 SECTION AND WHEN THE INCARCERATED INDIVIDUAL RECEIVES THE FIRST PAROLE
+4 HEARING REQUIRED BY THIS SECTION; AND
+5 (6) THE AVERAGE TIME BETWEEN PAROLE HEARINGS FOR
+6 INCARCERATED INDIVIDUALS WHO ARE SUBJECT TO THIS SECTION.
+7 (F) (I) (1) THE COMMISSION SHALL ADOPT REGULATIONS TO
+8 IMPLEMENT THE PROVISIONS OF THIS SECTION.
+9 (2) THE REGULATIONS REQUIRED BY THIS SUBSECTION SHALL
+10 INCLUDE A REQUIREMENT THAT THE DEPARTMENT PROVIDE ANY INCARCERATED
+11 INDIVIDUAL SUBJECT TO THIS SECTION WITH INFORMATION ON THE REGULATIONS
+12 AT LEAST ONCE EVERY YEAR.
+13 Article – Criminal Law
+14 14–101.
+15 [(f) (1) This subsection does not apply to a person registered or eligible for
+16 registration under Title 11, Subtitle 7 of the Criminal Procedure Article.
+17 (2) A person sentenced under this section may petition for and be granted
+18 parole if the person:
+19 (i) is at least 60 years old; and
+20 (ii) has served at least 15 years of the sentence imposed under this
+21 section.
+22 (3) The Maryland Parole Commission shall adopt regulations to implement
+23 this subsection.]
+24 Article – State Government
+25 9–3201.
+26 (a) In this subtitle the following words have the meanings indicated.
+27 (b) “Board” means the Justice Reinvestment Oversight Board.
+28 (c) “Executive Director” means the Executive Director of the Governor’s Office of
+29 Crime Prevention and Policy.
+SENATE BILL 181 13
+1 (d) “Fund” means the Performance Incentive Grant Fund established in § 9–3209
+2 of this subtitle.
+3 9–3207.
+4 (b) (1) In collaboration with the Department of Public Safety and Correctional
+5 Services, the Board shall determine the annual savings from the implementation of the
+6 recommendations of the Justice Reinvestment Coordinating Council based on the difference
+7 between the prison population as measured on October 1, 2017, the baseline day, and the
+8 prison population as measured on October 1, 2018, the comparison day, and the variable
+9 cost of incarceration.
+10 (2) If the prison population on the comparison day is less than the prison
+11 population on the baseline day, the Board shall determine a savings based on the difference
+12 in the prison population multiplied by the variable cost.
+13 (3) The Board annually shall determine the difference between the prison
+14 population on October 1, 2017, and the prison population on October 1 of the current year
+15 and calculate any savings in accordance with paragraph (2) of this subsection.
+16 (4) If a prison population decline causes a correctional unit, wing, or facility
+17 to close, the Board shall conduct an assessment to determine the savings from the closure
+18 and distribute the savings, realized annually, according to the schedule in paragraph (5) of
+19 this subsection.
+20 (5) The Board annually shall recommend that the savings identified in
+21 paragraphs (2) through (4) of this subsection be distributed as follows:
+22 (i) up to 50% of the savings shall be placed in the Performance
+23 Incentive Grant Fund for purposes established under § 9–3209(b)(1) of this subtitle; and
+24 (ii) subject to paragraph (6) of this subsection, the remaining savings
+25 shall be used for additional services identified as reinvestment priorities in the Justice
+26 Reinvestment Coordinating Council’s Final Report.
+27 (6) The Board may recommend that a portion of the remaining savings
+28 identified under paragraph (5)(ii) of this subsection be:
+29 (i) used for the development and implementation of a post–secondary
+30 education and workforce training program for each correctional institution in the Division
+31 of Correction that provides incarcerated individuals with the requisite training,
+32 certifications, and experience to obtain careers in in–demand job sectors; [or]
+33 (ii) for fiscal year 2025 only, distributed to the Office of the
+34 Correctional Ombudsman; OR
+14 SENATE BILL 181
+1 (III) DISTRIBUTED TO THE MARYLAND PAROLE COMMISSION
+2 FOR THE PURPOSE OF HIRING PSYCHOLOGISTS TO PERFORM RISK ASSESSMENTS OF
+3 CANDIDATES FOR GERIATRIC PAROLE UNDER § 7–310 OF THE CORRECTIONAL
+4 SERVICES ARTICLE.
+5 SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Parole
+6 Commission shall make efforts to prioritize conducting parole hearings and issuing
+7 recommendations for individuals who are eligible for parole under:
+8 (1) § 7–309 of the Correctional Services Article, as enacted by Section 1 of
+9 this Act; and
+10 (2) § 7–310 of the Correctional Services Article, as enacted by Section 1 of
+11 this Act.
+12 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+13 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      ( b S H S H C H L w t G S a p t t G f h a t d o _ a _ o _ A C F i C e a r f m p i p f a m b t i i a t C u c c r b c i i r t a f t G i S t a a c t r t C t c a c p r h a d w a c i i i s f]
+[DELETED:  S  p a o c s b d t t C f a c p a g B  A  S  A  ( B  A S  A  ( B  A  S  A  ( B  A  S  A  ( B  A  S  A  (  S T A 7  E h e a c d w a i i p   ( t]
+[DELETED: S 3   ( t p m a m q o t i i   ( t p o t i i d c i p   ( a i i i a r c t i i a p   ( wT I A T T O T   r r aw;   ( w w ty;   ( a u v i s o r p u   ( a r m b t s j a t t o s   ( a t   ( a d   ( c o 7  (     () “CHD   O D LG I EG BG D,, G TG WG O BG W A,, ]
+[DELETED:  S  D T A O T I T PFC    ) “CIH D O IDE  D I T C P T I F  M T O A O D L SFC    “TS DOFL–.   T o t  () A i i w i s c d o]() i b a m o m h c d o s a t b pym a t  H D T T I     () ;ID    ) ;ISS    ()R E M M WS       ) 1IH B R P I O A D T S B A P O M HN E E ,       . ) ( TH I T B C B T OL M ,:   ) 1A R B T M T T I I U C EY ;]
+[DELETED: S 5     R B A I I I E N )) F T I O O O L C   ) IT I ILS MN :     D O T ILSN E ,,;     P C T L ON E ,;     D O T ILSY ;     ,;N    ) ,:IDN      O T O P     ;Y       AY I H OE    ) ,:VCN      ;     ;      CS S I OS S ;     .    R()2: ]
+[DELETED:  S    ) T E S C O A INPL    ) IT O  () ( A]( w    ( t    ( a    ( a    ( a    ( a    ( a   ( T s ) ( H I I O T ILS OC.   I(     ) T O S G T R F A     I A I O A C     H O AY      H B F H I A O A C F O H O A  S ;]
+[DELETED: S 7   ) C,IT O MY A I DN G T F A M F A I I W D N I ).  () F](   ( f t r t b i w t b i o p s   ( r dt ]E p  ( T p   ( ( a r b t m p t t i o    ( i s m p w i i f t D o C o l c   ( t    ( a o    ( a p c t l o r f t c    ( a a i    ( a   ( d    ( a o t o p s w t c    ( f    ( h]
+[DELETED:  S    ( c    ( t    ( i    ( p d    ( c.  () T]( t   ( t i   h   ( t i  () ( I t C h r t b t a p i n]( l t l   ( ( A t    ( A p r t c u t s s b m   ( A c r I O F W T P W R I A L MLH       )(I N L C D OD       )INS ]
+[DELETED: S 9    )(NS      )1II N L P I O A D T S B A P O M HN E E ,       .  () (]()I,“JN T SN I DH M D       S t p ()o t s p o l)[]( r t v n a o t b h s a t p r   () I c o i d t l r t v]( n C  ( ( I i s t l i t d s b t t t G   ( T t   ( I r.  () T C s ie r t i t]()[K A p ) T:H     6065  Y    152  Y ]
+[DELETED:  S     N R O E F S O U I  U O T1,S§1A D I  PA R RE      S T A T O I D E     )1   Y–   )O,N A O BS T E S S T T T N O E I I W M T A )    )()W6I  ), N  O I I T I I S S FE     R A§11C,40E   E    )T O M O A R A F A    )()TH O      76§7 B      )T    )A S A PE I N R A ID        )IO  ) N I I C F PSS        )E()  N I I W H B D P U T   ]
+[DELETED: S 1   ) O D T E A C   )I§7 N   E  O   )A N E E  (  R A F I      C H F ISR B N   )   P P A R C A R F I I W ANA    )E,C VR  O UO V O O T O O PN         R F E D T D P T A   T N O I I W AE ]
+[DELETED:  S    A T B W A I B E F P C U TN    A T B P H F  )( T H O S A R T     R R B T S S E A 1  ( ( T s d n a t p r o e f r   ( A p    ( i    ( h s   ( T t.  9  ( I  ( “  ( “ C]
+[DELETED: S 1  ( “ o 9  ( ( I S t B s d t a s f t i o t r b p c   ( I p i   ( T p a   ( I t a t   ( T B a s r t t s i i p    ( u t 5 o t s s b p i t P I    ( s s b u f a s i a r p i t J R   ( T B m r t a p o t r s i    ( u e o C t p i i w t r t c or    ( f f y 2 o d t t O o t Cn]
+[DELETED:  S     )MPID T T A A O F G P U   O T O70 R .  S 2 A B I F E T t M P C s m e t p c p h a i r   ( § t   ( § t  S O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 181
+E5 (5lr1502)
+ENROLLED BILL
+— Judicial Proceedings/Judiciary —
+Introduced by Senator Hettleman Senators Hettleman, Charles, Henson, Love,
+Muse, Smith, Sydnor, and West
+Read and Examined by Proofreaders:
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+Sealed with the Great Seal and presented to the Governor, for his approval this
+_______ day of _______________ at ________________________ o’clock, ________M.
+______________________________________________
+President.
+CHAPTER ______
+1 AN ACT concerning
+2 Correctional Services – Geriatric and Medical Parole
+3 FOR the purpose of requiring the Maryland Parole Commission to consider the age of an
+4 incarcerated individual when determining whether to grant parole; altering how the
+5 Commission evaluates a request for medical parole, including providing for a
+6 meeting between the incarcerated individual and the Commission under certain
+7 circumstances; requiring the Commission to develop procedures for assessing parole
+8 requests by certain incarcerated individuals; repealing the authorization for the
+9 Governor to disapprove a decision by the Commission to grant medical parole to an
+10 incarcerated individual; requiring the Department of Public Safety and Correctional
+11 Services to submit to the Commission the names of certain individuals at a certain
+12 time; requiring the Commission to conduct a risk assessment for a certain individual
+13 at a certain time; requiring the Commission to conduct a certain parole release
+14 hearing and determine whether a certain incarcerated individual is suitable for
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference co mm i tte e a m en dm en ts*. sb0181*
+
+2 SENATE BILL 181
+1 parole at a certain time; repealing a certain provision related to geriatric parole;
+2 authorizing the Justice Reinvestment Oversight Board to recommend that a portion
+3 of certain savings be distributed to the Commission for a certain purpose; and
+4 generally relating to geriatric and medical parole.
+5 BY repealing and reenacting, with amendments,
+6 Article – Correctional Services
+7 Section 7–305 and 7–309
+8 Annotated Code of Maryland
+9 (2017 Replacement Volume and 2024 Supplement)
+10 BY adding to
+11 Article – Correctional Services
+12 Section 7–310
+13 Annotated Code of Maryland
+14 (2017 Replacement Volume and 2024 Supplement)
+15 BY repealing
+16 Article – Criminal Law
+17 Section 14–101(f)
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, without amendments,
+21 Article – State Government
+22 Section 9–3201
+23 Annotated Code of Maryland
+24 (2021 Replacement Volume and 2024 Supplement)
+25 BY repealing and reenacting, with amendments,
+26 Article – State Government
+27 Section 9–3207(b)
+28 Annotated Code of Maryland
+29 (2021 Replacement Volume and 2024 Supplement)
+30 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+31 That the Laws of Maryland read as follows:
+32 Article – Correctional Services
+33 7–305.
+34 Each hearing examiner and commissioner determining whether an incarcerated
+35 individual is suitable for parole, and the Commission before entering into a predetermined
+36 parole release agreement, shall consider:
+37 (1) the circumstances surrounding the crime;
+
+SENATE BILL 181 3
+1 (2) the physical, mental, and moral qualifications of the incarcerated
+2 individual;
+3 (3) the progress of the incarcerated individual during confinement,
+4 including the academic progress of the incarcerated individual in the mandatory education
+5 program required under § 22–102 of the Education Article;
+6 (4) a report on a drug or alcohol evaluation that has been conducted on the
+7 incarcerated individual, including any recommendations concerning the incarcerated
+8 individual’s amenability for treatment and the availability of an appropriate treatment
+9 program;
+10 (5) whether, TAKING INTO ACCOUNT THE TOTALITY OF THE
+11 CIRCUMSTANCES INCLUDING THE AGE OF THE INCARCERATED INDIVIDUAL, there is
+12 reasonable probability that the incarcerated individual, if released on parole, will [remain
+13 at liberty without violating the law] NOT RECIDIVATE;
+14 (6) whether release of the incarcerated individual on parole is compatible
+15 with [the welfare of society] PUBLIC SAFETY;
+16 (7) an updated victim impact statement or recommendation prepared
+17 under § 7–801 of this title;
+18 (8) any recommendation made by the sentencing judge at the time of
+19 sentencing;
+20 (9) any information that is presented to a commissioner at a meeting with
+21 the victim;
+22 (10) any testimony presented to the Commission by the victim or the victim’s
+23 designated representative under § 7–801 of this title; and
+24 (11) compliance with the case plan developed under § 7–301.1 of this subtitle
+25 or § 3–601 of this article.
+26 7–309.
+27 (a) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+28 INDICATED.
+29 (2) (I) “CHRONICALLY DEBILITATED OR INCAPACITATED” MEANS
+30 HAVING A DIAGNOSABLE MEDICAL CONDITION THAT IS UNLIKELY TO IMPROVE IN
+31 THE FUTURE AND PREVENTS THE INDIVIDUAL FROM COMPLETING MORE THAN ONE
+32 ACTIVITY OF DAILY LIVING, INCLUDING EATING, BREATHING, DRESSING,
+33 GROOMING, TOILETING, WALKING, OR BATHING, WITHOUT ASSISTANCE
+
+4 SENATE BILL 181
+1 SUBSTANTIALLY DIMINISHES THE ABILITY OF THE INDIVIDUAL TO PROVIDE
+2 SELF–CARE.
+3 (II) “CHRONICALLY DEBILITATED OR INCAPACITATED”
+4 INCLUDES CONDITIONS SUCH AS DEMENTIA OR A SEVERE, PERMANENT MEDICAL OR
+5 COGNITIVE DISABILITY IF THE CONDITION PREVENTS THE INDIVIDUAL FROM
+6 COMPLETING MORE THAN ONE ACTIVITY OF DAILY LIVING SUBSTANTIALLY
+7 DIMINISHES THE ABILITY OF THE INDIVIDUAL TO PROVIDE SELF–CARE.
+8 (3) “TERMINAL ILLNESS” MEANS A DISEASE OR CONDITION WITH AN
+9 END–OF–LIFE TRAJECTORY.
+10 (B) This section applies to any incarcerated individual who is sentenced to a term
+11 of incarceration for which all sentences being served, including any life sentence, are with
+12 the possibility of parole.
+13 [(b)] (C) An incarcerated individual [who is so chronically debilitated or
+14 incapacitated by a medical or mental health condition, disease, or syndrome as to be
+15 physically incapable of presenting a danger to society] may be released on medical parole
+16 at any time during the term of that incarcerated individual’s sentence, without regard to
+17 the eligibility standards specified in § 7–301 of this subtitle IF A LICENSED MEDICAL
+18 PROFESSIONAL PHYSICIAN HAS DETERMINED THAT THE INCARCERATED
+19 INDIVIDUAL:
+20 (1) (I) IS CHRONICALLY DEBILITATED OR INCAPACITATED; OR
+21 (II) SUFFERS FROM A TERMINAL ILLNESS; AND
+22 (2) (I) REQUIRES EXTENDED MEDICAL MANAGEMENT WITH
+23 HEALTH CARE NEEDS THAT WOULD BE BETTER MET BY COMMUNITY SERVICES; OR
+24 AND
+25 (II) 1. HAS BEEN RENDERED PHYSICALLY INCAPABLE OF
+26 PRESENTING A DANGER TO SOCIETY BY A PHYSICAL OR MENTAL HEALTH
+27 CONDITION, DISEASE, OR SYNDROME; OR
+28 2. IS NO LONGER A DANGER TO PUBLIC SAFETY.
+29 (D) (1) THE INFORMATION TO BE CONSIDERED BY THE COMMISSION
+30 BEFORE GRANTING MEDICAL PAROLE SHALL, AT A MINIMUM, INCLUDE:
+31 (I) 1. A RECOMMENDATION BY THE MEDICAL
+32 PROFESSIONAL TREATING THE INCARCERATED INDIVIDUAL UNDER CONTRACT
+33 WITH THE DEPARTMENT OR LOCAL CORRECTIONAL FACILITY; OR
+
+SENATE BILL 181 5
+1 2. IF REQUESTED BY AN INDIVIDUAL IDENTIFIED IN
+2 SUBSECTION (E)(1) OF THIS SECTION, ONE MEDICAL EVALUATION CONDUCTED AT
+3 NO COST TO THE INCARCERATED INDIVIDUAL BY A MEDICAL PROFESSIONAL WHO IS
+4 INDEPENDENT FROM THE DIVISION OF CORRECTION OR LOCAL CORRECTIONAL
+5 FACILITY;
+6 (II) THE INCARCERATED INDIVIDUAL’S MEDICAL
+7 INFORMATION, INCLUDING:
+8 1. A DESCRIPTION OF THE INCARCERATED
+9 INDIVIDUAL’S CONDITION, DISEASE, OR SYNDROME;
+10 2. A PROGNOSIS CONCERNING THE LIKELIHOOD OF
+11 RECOVERY FROM THE CONDITION, DISEASE, OR SYNDROME;
+12 3. A DESCRIPTION OF THE INCARCERATED
+13 INDIVIDUAL’S PHYSICAL INCAPACITY; AND
+14 4. A MENTAL HEALTH EVALUATION, WHERE RELEVANT;
+15 (III) DISCHARGE INFORMATION, INCLUDING:
+16 1. AVAILABILITY OF TREATMENT OR PROFESSIONAL
+17 SERVICES WITHIN THE COMMUNITY;
+18 2. FAMILY SUPPORT WITHIN THE COMMUNITY; AND
+19 3. HOUSING AVAILABILITY, INCLUDING HOSPITAL OR
+20 HOSPICE CARE; AND
+21 (IV) CASE MANAGEMENT INFORMATION, INCLUDING:
+22 1. THE CIRCUMSTANCES OF THE CURRENT OFFENSE;
+23 2. INSTITUTIONAL HISTORY;
+24 3. PENDING CHARGES, SENTENCES IN OTHER
+25 JURISDICTIONS, AND ANY OTHER DETAINERS; AND
+26 4. CRIMINAL HISTORY INFORMATION.
+27 (2) IF A MEDICAL EVALUATION IS REQUESTED UNDER PARAGRAPH
+28 (1)(I)2 OF THIS SUBSECTION:
+
+6 SENATE BILL 181
+1 (I) THE EVALUATION SHALL CONSIST OF AN IN–PERSON
+2 EXAMINATION OF THE INCARCERATED INDIVIDUAL; AND
+3 (II) THE COMMISSION SHALL GIVE EQUAL CONSIDERATION TO
+4 THE FINDINGS OF THE EVALUATION AND ANY MEDICAL CONDITION DETAILED IN
+5 THE EVALUATION IN CONSIDERING WHETHER TO GRANT MEDICAL PAROLE.
+6 [(c)] (E) (1) A request for a medical parole under this section may be filed
+7 with the Maryland Parole Commission by:
+8 (i) the incarcerated individual seeking the medical parole;
+9 (ii) an attorney;
+10 (iii) a prison official or employee;
+11 (iv) a medical professional;
+12 (v) a family member; or
+13 (vi) any other person.
+14 (2) The request shall be in writing and shall articulate the grounds that
+15 support the appropriateness of granting the medical parole.
+16 (F) (1) THE INCARCERATED INDIVIDUAL OR THE INCARCERATED
+17 INDIVIDUAL’S REPRESENTATIVE MAY REQUEST A MEETING WITH THE COMMISSION.
+18 (2) IF A REQUEST FOR A MEETING IS MADE UNDER PARAGRAPH (1) OF
+19 THIS SUBSECTION:
+20 (I) THE COMMISSION SHALL GRANT THE REQUEST FOR A
+21 MEETING FOR ANY INCARCERATED INDIVIDUAL:
+22 1. HOUSED IN AN INFIRMARY OF A CORRECTIONAL
+23 FACILITY;
+24 2. CURRENTLY HOSPITALIZED OUTSIDE A
+25 CORRECTIONAL FACILITY; OR
+26 3. WHO HAS BEEN FREQUENTLY HOUSED IN AN
+27 INFIRMARY OF A CORRECTIONAL FACILITY OR HOSPITALIZED OUTSIDE A
+28 CORRECTIONAL FACILITY IN THE PRECEDING 6 MONTHS; AND
+
+SENATE BILL 181 7
+1 (II) THE COMMISSION MAY, AT ITS DISCRETION, GRANT THE
+2 REQUEST FOR A MEETING FOR ANY INCARCERATED INDIVIDUAL WHO DOES NOT
+3 MEET THE REQUIREMENTS OF ITEM (I) OF THIS PARAGRAPH.
+4 [(d)] (G) Following review of the request, the Commission may:
+5 (1) find the request to be inconsistent with the best interests of public
+6 safety and take no further action; or
+7 (2) request that [department] DEPARTMENT or local correctional facility
+8 personnel provide information for formal consideration of parole release.
+9 [(e) The information to be considered by the Commission before granting medical
+10 parole shall, at a minimum, include:
+11 (1) (i) a recommendation by the medical professional treating the
+12 incarcerated individual under contract with the Department or local correctional facility;
+13 or
+14 (ii) if requested by an individual identified in subsection (c)(1) of this
+15 section, one medical evaluation conducted at no cost to the incarcerated individual by a
+16 medical professional who is independent from the Division of Correction or local
+17 correctional facility;
+18 (2) the incarcerated individual’s medical information, including:
+19 (i) a description of the incarcerated individual’s condition, disease,
+20 or syndrome;
+21 (ii) a prognosis concerning the likelihood of recovery from the
+22 condition, disease, or syndrome;
+23 (iii) a description of the incarcerated individual’s physical incapacity
+24 and score on the Karnofsky Performance Scale Index or similar classification of physical
+25 impairment; and
+26 (iv) a mental health evaluation, where relevant;
+27 (3) discharge information, including:
+28 (i) availability of treatment or professional services within the
+29 community;
+30 (ii) family support within the community; and
+31 (iii) housing availability, including hospital or hospice care; and
+
+8 SENATE BILL 181
+1 (4) case management information, including:
+2 (i) the circumstances of the current offense;
+3 (ii) institutional history;
+4 (iii) pending charges, sentences in other jurisdictions, and any other
+5 detainers; and
+6 (iv) criminal history information.]
+7 [(f)] (H) The Commission may require as a condition of release on medical parole
+8 that:
+9 (1) the parolee agree to placement for a definite or indefinite period of time
+10 [in a hospital or hospice or other] UNDER THE CARE OF A MEDICAL PROVIDER AND IN
+11 A housing accommodation suitable to the parolee’s medical condition, including the family
+12 home of the parolee, as specified by the Commission or the supervising agent; and
+13 (2) the parolee forward authentic copies of applicable medical records to
+14 indicate that the particular medical condition giving rise to the release continues to exist.
+15 [(g)] (I) (1) If the Commission has reason to believe that a parolee is no
+16 longer so debilitated or incapacitated as to be physically incapable of presenting a danger
+17 to society, the parolee shall be returned to the custody of the Division of Correction or the
+18 local correctional facility from which the incarcerated individual was released.
+19 (2) (i) A parole hearing for a parolee returned to custody shall be held
+20 to consider whether the parolee remains incapacitated and shall be heard promptly.
+21 (ii) A parolee returned to custody under this subsection shall be
+22 maintained in custody, if the incapacitation is found to no longer exist.
+23 (3) An incarcerated individual whose medical parole is revoked for lack of
+24 continued incapacitation may be considered for parole in accordance with the eligibility
+25 requirements specified in § 7–301 of this subtitle A PAROLEE SHALL BE RETURNED TO
+26 THE CUSTODY OF THE DIVISION OF CORRECTION OR THE LOCAL CORRECTIONAL
+27 FACILITY FROM WHICH THE PAROLEE WAS RELEASED IF A LICENSED MEDICAL
+28 PROFESSIONAL PHYSICIAN HAS DETERMINED THAT THE PAROLEE:
+29 (1) (I) IS NO LONGER CHRONICALLY DISABLED OR
+30 INCAPACITATED; OR
+31 (II) NO LONGER SUFFERS FROM A TERMINAL ILLNESS; AND
+
+SENATE BILL 181 9
+1 (2) (I) NO LONGER REQUIRES EXTENDED MEDICAL MANAGEMENT
+2 WITH HEALTH CARE NEEDS THAT WOULD BE BETTER MET BY COMMUNITY SERVICES;
+3 AND
+4 (II) 1. IS NO LONGER PHYSICALLY INCAPABLE OF
+5 PRESENTING A DANGER TO SOCIETY BY A PHYSICAL OR MENTAL HEALTH
+6 CONDITION, DISEASE, OR SYNDROME; OR
+7 2. IS A DANGER TO PUBLIC SAFETY.
+8 [(h)] (J) (1) IN THIS SUBSECTION, “IMMINENT DEATH” MEANS DEATH
+9 THAT IS LIKELY TO OCCUR WITHIN 6 MONTHS.
+10 (2) Subject to paragraph [(2)] (3) of this subsection, provisions of law
+11 relating to victim notification and opportunity to be heard shall apply to proceedings
+12 relating to medical parole.
+13 [(2)] (3) In cases of imminent death, time limits relating to victim
+14 notification and opportunity to be heard may be reduced or waived in the discretion of the
+15 Commission.
+16 [(i) (1) If the Commission decides to grant medical parole to an incarcerated
+17 individual sentenced to life imprisonment, the decision shall be transmitted to the
+18 Governor.
+19 (2) The Governor may disapprove the decision by written transmittal to
+20 the Commission.
+21 (3) If the Governor does not disapprove the decision within 180 days after
+22 receipt of the written transmittal, the decision becomes effective.]
+23 [(j)] (K) The Commission shall [issue] ADOPT regulations to implement the
+24 provisions of this section.
+25 7–310.
+26 (A) THIS SECTION APPLIES ONLY TO AN INCARCERATED INDIVIDUAL WHO:
+27 (1) IS AT LEAST 60 65 YEARS OLD;
+28 (2) HAS SERVED AT LEAST 15 20 YEARS OF THE SENTENCE IMPOSED
+29 INCARCERATION;
+
+10 SENATE BILL 181
+1 (3) IS NOT REGISTERED OR ELIGIBLE FOR A SEX OFFENDER
+2 REGISTRATION UNDER TITLE 11, SUBTITLE 7, AS DEFINED IN § 11–701 OF THE
+3 CRIMINAL PROCEDURE ARTICLE; AND
+4 (4) IS SENTENCED TO SERVING A TERM OF INCARCERATION
+5 CONFINEMENT FOR WHICH ALL SENTENCES BEING SERVED, INCLUDING ANY LIFE
+6 SENTENCE, ARE WITH THE POSSIBILITY OF PAROLE.; AND
+7 (5) HAS HAD NO CATEGORY 1A DISCIPLINARY INFRACTIONS WITHIN
+8 THE PREVIOUS 3–YEAR PERIOD.
+9 (B) ON AN ONGOING BASIS, THE DEPARTMENT SHALL SUBMIT TO THE
+10 COMMISSION THE NAME OF EACH INCARCERATED INDIVIDUAL WHO MEETS THE
+11 QUALIFICATIONS UNDER SUBSECTION (A) OF THIS SECTION.
+12 (C) (1) WITHIN 60 DAYS AFTER RECEIPT OF A NAME UNDER SUBSECTION
+13 (B) OF THIS SECTION, THE COMMISSION SHALL ORDER A RISK ASSESSMENT FOR THE
+14 INCARCERATED INDIVIDUAL IF THE INDIVIDUAL IS SERVING SENTENCES FOR
+15 MULTIPLE CRIMES OF VIOLENCE, AS DEFINED IN § 14–101 OF THE CRIMINAL LAW
+16 ARTICLE, WITH AN AGGREGATE TERM OF CONFINEMENT OF 40 YEARS OR MORE.
+17 (2) THE COMMISSION MAY ORDER A RISK ASSESSMENT FOR ANY
+18 OTHER INCARCERATED INDIVIDUAL ELIGIBLE FOR PAROLE UNDER THIS SECTION.
+19 (D) (1) THE COMMISSION SHALL CONDUCT A PAROLE RELEASE HEARING
+20 UNDER § 7–306 OR § 7–307 OF THIS SUBTITLE FOR EACH INDIVIDUAL WHOSE NAME
+21 IS SUBMITTED UNDER SUBSECTION (B) OF THIS SECTION AND DETERMINE WHETHER
+22 THE INCARCERATED INDIVIDUAL IS SUITABLE FOR PAROLE.
+23 (2) THE HEARING UNDER THIS SUBSECTION SHALL BE CONDUCTED:
+24 (I) AS SOON AS POSSIBLE, IF NO RISK ASSESSMENT IS
+25 ORDERED; OR
+26 (II) ON COMPLETION OF ANY RISK ASSESSMENT ORDERED.
+27 (B) (E) AN INCARCERATED INDIVIDUAL CONSIDERED FOR PAROLE
+28 UNDER THIS SECTION SHALL HAVE A PAROLE HEARING EVERY 2 YEARS
+29 (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION,
+30 AN INCARCERATED INDIVIDUAL WHO HAS BEEN DENIED PAROLE UNDER THIS
+31 SECTION MAY NOT HAVE A SUBSEQUENT PAROLE HEARING FOR 5 YEARS.
+
+SENATE BILL 181 11
+1 (2) AN INCARCERATED INDIVIDUAL WHO HAS BEEN DENIED PAROLE
+2 UNDER THIS SECTION MAY HAVE A SUBSEQUENT PAROLE HEARING AT ANY TIME IF
+3 THE COMMISSION DETERMINES THAT EXTRAORDINARY AND COMPELLING
+4 CIRCUMSTANCES JUSTIFY THE SUBSEQUENT PAROLE HEARING.
+5 (C) (F) IN ADDITION TO THE FACTORS SPECIFIED UNDER § 7–305 OF THIS
+6 SUBTITLE, EACH COMMISSION PANEL DETERMINING WHETHER AN INCARCERATED
+7 INDIVIDUAL IS SUITABLE FOR PAROLE SHALL CONSIDER AND GIVE WEIGHT TO THE
+8 AGE OF THE INCARCERATED INDIVIDUAL AND THE IMPACT THAT THE AGE OF THE
+9 INCARCERATED INDIVIDUAL HAS ON REDUCING THE RISK THAT THE INCARCERATED
+10 INDIVIDUAL WILL NOT RECIDIVATE.
+11 (D) (G) ANY SAVINGS REALIZED BY THE DEPARTMENT AS A RESULT OF
+12 THIS SECTION SHALL REVERT TO THE DEPARTMENT AND SHALL BE USED FOR THE
+13 PURPOSE OF:
+14 (1) CONDUCTING RISK ASSESSMENTS FOR INCARCERATED
+15 INDIVIDUALS;
+16 (1) (2) CONDUCTING PAROLE HEARINGS FOR INCARCERATED
+17 INDIVIDUALS AS REQUIRED UNDER SUBSECTION (B) OF THIS SECTION; AND
+18 (2) (3) PROVIDING PRERELEASE AND REENTRY CASE
+19 MANAGEMENT AND RESOURCES FOR INCARCERATED INDIVIDUALS WHO ARE
+20 SUBJECT TO THIS SECTION AND RELEASED ON PAROLE.
+21 (E) (H) EVERY YEAR, THE COMMISSION SHALL REPORT TO THE JUSTICE
+22 REINVESTMENT OVERSIGHT BOARD ON THE OUTCOMES OF PAROLE
+23 CONSIDERATIONS MADE UNDER THIS SECTION, INCLUDING:
+24 (1) THE NUMBER OF INCARCERATED INDIVIDUALS WHO ARE SUBJECT
+25 TO THIS SECTION WHO ARE DENIED PAROLE AND RELEASED ON PAROLE;
+26 (2) THE REASON FOR EACH DECISION TO RELEASE AN INCARCERATED
+27 INDIVIDUAL ON PAROLE;
+28 (3) THE REASON FOR EACH DECISION TO DENY PAROLE TO AN
+29 INCARCERATED INDIVIDUAL;
+30 (4) OF THE NUMBER OF INCARCERATED INDIVIDUALS WHO ARE
+31 RELEASED ON PAROLE, THE NUMBER OF INDIVIDUALS WHO ARE CONVICTED OF AN
+32 OFFENSE COMMITTED AFTER RELEASE;
+
+12 SENATE BILL 181
+1 (5) THE AVERAGE TIME BETWEEN WHEN AN INCARCERATED
+2 INDIVIDUAL BECOMES ELIGIBLE FOR PAROLE CONSIDERATION UNDER THIS
+3 SECTION AND WHEN THE INCARCERATED INDIVIDUAL RECEIVES THE FIRST PAROLE
+4 HEARING REQUIRED BY THIS SECTION; AND
+5 (6) THE AVERAGE TIME BETWEEN PAROLE HEARINGS FOR
+6 INCARCERATED INDIVIDUALS WHO ARE SUBJECT TO THIS SECTION.
+7 (F) (I) (1) THE COMMISSION SHALL ADOPT REGULATIONS TO
+8 IMPLEMENT THE PROVISIONS OF THIS SECTION.
+9 (2) THE REGULATIONS REQUIRED BY THIS SUBSECTION SHALL
+10 INCLUDE A REQUIREMENT THAT THE DEPARTMENT PROVIDE ANY INCARCERATED
+11 INDIVIDUAL SUBJECT TO THIS SECTION WITH INFORMATION ON THE REGULATIONS
+12 AT LEAST ONCE EVERY YEAR.
+13 Article – Criminal Law
+14 14–101.
+15 [(f) (1) This subsection does not apply to a person registered or eligible for
+16 registration under Title 11, Subtitle 7 of the Criminal Procedure Article.
+17 (2) A person sentenced under this section may petition for and be granted
+18 parole if the person:
+19 (i) is at least 60 years old; and
+20 (ii) has served at least 15 years of the sentence imposed under this
+21 section.
+22 (3) The Maryland Parole Commission shall adopt regulations to implement
+23 this subsection.]
+24 Article – State Government
+25 9–3201.
+26 (a) In this subtitle the following words have the meanings indicated.
+27 (b) “Board” means the Justice Reinvestment Oversight Board.
+28 (c) “Executive Director” means the Executive Director of the Governor’s Office of
+29 Crime Prevention and Policy.
+
+SENATE BILL 181 13
+1 (d) “Fund” means the Performance Incentive Grant Fund established in § 9–3209
+2 of this subtitle.
+3 9–3207.
+4 (b) (1) In collaboration with the Department of Public Safety and Correctional
+5 Services, the Board shall determine the annual savings from the implementation of the
+6 recommendations of the Justice Reinvestment Coordinating Council based on the difference
+7 between the prison population as measured on October 1, 2017, the baseline day, and the
+8 prison population as measured on October 1, 2018, the comparison day, and the variable
+9 cost of incarceration.
+10 (2) If the prison population on the comparison day is less than the prison
+11 population on the baseline day, the Board shall determine a savings based on the difference
+12 in the prison population multiplied by the variable cost.
+13 (3) The Board annually shall determine the difference between the prison
+14 population on October 1, 2017, and the prison population on October 1 of the current year
+15 and calculate any savings in accordance with paragraph (2) of this subsection.
+16 (4) If a prison population decline causes a correctional unit, wing, or facility
+17 to close, the Board shall conduct an assessment to determine the savings from the closure
+18 and distribute the savings, realized annually, according to the schedule in paragraph (5) of
+19 this subsection.
+20 (5) The Board annually shall recommend that the savings identified in
+21 paragraphs (2) through (4) of this subsection be distributed as follows:
+22 (i) up to 50% of the savings shall be placed in the Performance
+23 Incentive Grant Fund for purposes established under § 9–3209(b)(1) of this subtitle; and
+24 (ii) subject to paragraph (6) of this subsection, the remaining savings
+25 shall be used for additional services identified as reinvestment priorities in the Justice
+26 Reinvestment Coordinating Council’s Final Report.
+27 (6) The Board may recommend that a portion of the remaining savings
+28 identified under paragraph (5)(ii) of this subsection be:
+29 (i) used for the development and implementation of a post–secondary
+30 education and workforce training program for each correctional institution in the Division
+31 of Correction that provides incarcerated individuals with the requisite training,
+32 certifications, and experience to obtain careers in in–demand job sectors; [or]
+33 (ii) for fiscal year 2025 only, distributed to the Office of the
+34 Correctional Ombudsman; OR
+
+14 SENATE BILL 181
+1 (III) DISTRIBUTED TO THE MARYLAND PAROLE COMMISSION
+2 FOR THE PURPOSE OF HIRING PSYCHOLOGISTS TO PERFORM RISK ASSESSMENTS OF
+3 CANDIDATES FOR GERIATRIC PAROLE UNDER § 7–310 OF THE CORRECTIONAL
+4 SERVICES ARTICLE.
+5 SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Parole
+6 Commission shall make efforts to prioritize conducting parole hearings and issuing
+7 recommendations for individuals who are eligible for parole under:
+8 (1) § 7–309 of the Correctional Services Article, as enacted by Section 1 of
+9 this Act; and
+10 (2) § 7–310 of the Correctional Services Article, as enacted by Section 1 of
+11 this Act.
+12 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+13 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      ( b S H S H C H L w t G S a p t t G f h a t d o _ a _ o _ A C F i C e a r f m p i p f a m b t i i a t C u c c r b c i i r t a f t G i S t a a c t r t C t c a c p r h a d w a c i i i s f]
+[DELETED:  S  p a o c s b d t t C f a c p a g B  A  S  A  ( B  A S  A  ( B  A  S  A  ( B  A  S  A  ( B  A  S  A  (  S T A 7  E h e a c d w a i i p   ( t]
+[DELETED: S 3   ( t p m a m q o t i i   ( t p o t i i d c i p   ( a i i i a r c t i i a p   ( wT I A T T O T   r r aw;   ( w w ty;   ( a u v i s o r p u   ( a r m b t s j a t t o s   ( a t   ( a d   ( c o 7  (     () “CHD   O D LG I EG BG D,, G TG WG O BG W A,, ]
+[DELETED:  S  D T A O T I T PFC    ) “CIH D O IDE  D I T C P T I F  M T O A O D L SFC    “TS DOFL–.   T o t  () A i i w i s c d o]() i b a m o m h c d o s a t b pym a t  H D T T I     () ;ID    ) ;ISS    ()R E M M WS       ) 1IH B R P I O A D T S B A P O M HN E E ,       . ) ( TH I T B C B T OL M ,:   ) 1A R B T M T T I I U C EY ;]
+[DELETED: S 5     R B A I I I E N )) F T I O O O L C   ) IT I ILS MN :     D O T ILSN E ,,;     P C T L ON E ,;     D O T ILSY ;     ,;N    ) ,:IDN      O T O P     ;Y       AY I H OE    ) ,:VCN      ;     ;      CS S I OS S ;     .    R()2: ]
+[DELETED:  S    ) T E S C O A INPL    ) IT O  () ( A]( w    ( t    ( a    ( a    ( a    ( a    ( a   ( T s ) ( H I I O T ILS OC.   I(     ) T O S G T R F A     I A I O A C     H O AY      H B F H I A O A C F O H O A  S ;]
+[DELETED: S 7   ) C,IT O MY A I DN G T F A M F A I I W D N I ).  () F](   ( f t r t b i w t b i o p s   ( r dt ]E p  ( T p   ( ( a r b t m p t t i o    ( i s m p w i i f t D o C o l c   ( t    ( a o    ( a p c t l o r f t c    ( a a i    ( a   ( d    ( a o t o p s w t c    ( f    ( h]
+[DELETED:  S    ( c    ( t    ( i    ( p d    ( c.  () T]( t   ( t i   h   ( t i  () ( I t C h r t b t a p i n]( l t l   ( ( A t    ( A p r t c u t s s b m   ( A c r I O F W T P W R I A L MLH       )(I N L C D OD       )INS ]
+[DELETED: S 9    )(NS      )1II N L P I O A D T S B A P O M HN E E ,       .  () (]()I,“JN T SN I DH M D       S t p ()o t s p o l)[]( r t v n a o t b h s a t p r   () I c o i d t l r t v]( n C  ( ( I i s t l i t d s b t t t G   ( T t   ( I r.  () T C s ie r t i t]()[K A p ) T:H     6065  Y    152  Y ]
+[DELETED:  S     N R O E F S O U I  U O T1,S§1A D I  PA R RE      S T A T O I D E     )1   Y–   )O,N A O BS T E S S T T T N O E I I W M T A )    )()W6I  ), N  O I I T I I S S FE     R A§11C,40E   E    )T O M O A R A F A    )()TH O      76§7 B      )T    )A S A PE I N R A ID        )IO  ) N I I C F PSS        )E()  N I I W H B D P U T   ]
+[DELETED: S 1   ) O D T E A C   )I§7 N   E  O   )A N E E  (  R A F I      C H F ISR B N   )   P P A R C A R F I I W ANA    )E,C VR  O UO V O O T O O PN         R F E D T D P T A   T N O I I W AE ]
+[DELETED:  S    A T B W A I B E F P C U TN    A T B P H F  )( T H O S A R T     R R B T S S E A 1  ( ( T s d n a t p r o e f r   ( A p    ( i    ( h s   ( T t.  9  ( I  ( “  ( “ C]
+[DELETED: S 1  ( “ o 9  ( ( I S t B s d t a s f t i o t r b p c   ( I p i   ( T p a   ( I t a t   ( T B a s r t t s i i p    ( u t 5 o t s s b p i t P I    ( s s b u f a s i a r p i t J R   ( T B m r t a p o t r s i    ( u e o C t p i i w t r t c or    ( f f y 2 o d t t O o t Cn]
+[DELETED:  S     )MPID T T A A O F G P U   O T O70 R .  S 2 A B I F E T t M P C s m e t p c p h a i r   ( § t   ( § t  S O          G               ]

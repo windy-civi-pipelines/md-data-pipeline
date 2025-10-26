@@ -1,0 +1,152 @@
+Title: HOUSE BILL 1090
+Official Title: HOUSE BILL 1090
+Number of Sections: 1
+Source: versions - Third - Maryland Higher Education Commission - Maryland College Aid Processing System - Applications
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+O1, F2 5lr3000
+By: Delegate Solomon
+Introduced and read first time: February 5, 2025
+Assigned to: Appropriations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 1, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Food Supplement Benefits – Students – Eligibility
+3 Maryland Higher Education Commission – Maryland College Aid Processing
+4 System – Applications
+5 FOR the purpose of requiring the Department of Human Services to provide food
+6 supplement benefits to certain students enrolled in an institution of higher education
+7 in the State who meet certain work study requirements; requiring the Maryland
+8 Higher Education Commission to add a certain question to the Maryland College Aid
+9 Processing System application; and generally relating to food supplement benefits
+10 for students the Maryland College Aid Processing System.
+11 BY repealing and reenacting, with amendments,
+12 Article – Human Services
+13 Section 5–502
+14 Annotated Code of Maryland
+15 (2019 Replacement Volume and 2024 Supplement)
+16 BY adding to
+17 Article – Human Services
+18 Section 5–503.1
+19 Annotated Code of Maryland
+20 (2019 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1090*
+2 HOUSE BILL 1090
+1 Article – Human Services
+2 5–502.
+3 Except as provided in [§ 5–503] §§ 5–503 AND 5–503.1 of this subtitle, if any
+4 provision of this subtitle conflicts with any federal law, the federal law shall prevail.
+5 5–503.1.
+6 (A) THE DEPARTMENT SHALL PROVIDE FOOD SUPPLEMENT BENEFITS TO A
+7 STUDENT WHO:
+8 (1) IS A RESIDENT OF THE STATE;
+9 (2) IS ENROLLED IN AN INSTITUTION OF HIGHER EDUCATION IN THE
+10 STATE;
+11 (3) IS ELIGIBLE TO PARTICIPATE IN A STATE– OR FEDERALLY
+12 FINANCED WORK STUDY PROGRAM FOR AT LEAST ONE SEMESTER DURING AN
+13 ACADEMIC YEAR; AND
+14 (4) PARTICIPATES IN A WORK STUDY PROGRAM FOR AN AVERAGE OF
+15 20 HOURS PER WEEK THROUGHOUT A SEMESTER.
+16 (B) A STUDENT ELIGIBLE FOR FOOD SUPPLEMENT BENEFITS UNDER
+17 SUBSECTION (A) OF THIS SECTION SHALL REMAIN ELIGIBLE FOR BENEFITS FOR AN
+18 ENTIRE ACADEMIC YEAR REGARDLESS OF THE LENGTH OF ANY BREAK DURING THE
+19 ACADEMIC YEAR.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That:
+21 (a) On or before August 1, 2025, the Maryland Higher Education Commission
+22 shall add to the Maryland College Aid Processing System application a question regarding
+23 whether, in the previous 6 months, the applicant has missed a meal because of an inability
+24 to afford the meal.
+25 (b) The Maryland Higher Education Commission may not require a student to
+26 answer the question required under subsection (a) of this section in the affirmative in order
+27 for the student to be eligible for financial aid.
+28 SECTION 3. 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+29 July 1, 2025.
+[DELETED: :CA      5     A F M S F t p o r t D o H S t p f s i H P f B  A S  A  ( B  A S  A  (  S T]
+[DELETED:  H  A 5  E a p i § 53 o t s i a]§§535  A p   ) TH E     S T        S E T P I A TE O F W S P F A L O S D A R     0   )  S E F F S B U A      S  ( O s w t  ( T a f  S J]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1090
+O1, F2 5lr3000
+By: Delegate Solomon
+Introduced and read first time: February 5, 2025
+Assigned to: Appropriations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 1, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Food Supplement Benefits – Students – Eligibility
+3 Maryland Higher Education Commission – Maryland College Aid Processing
+4 System – Applications
+5 FOR the purpose of requiring the Department of Human Services to provide food
+6 supplement benefits to certain students enrolled in an institution of higher education
+7 in the State who meet certain work study requirements; requiring the Maryland
+8 Higher Education Commission to add a certain question to the Maryland College Aid
+9 Processing System application; and generally relating to food supplement benefits
+10 for students the Maryland College Aid Processing System.
+11 BY repealing and reenacting, with amendments,
+12 Article – Human Services
+13 Section 5–502
+14 Annotated Code of Maryland
+15 (2019 Replacement Volume and 2024 Supplement)
+16 BY adding to
+17 Article – Human Services
+18 Section 5–503.1
+19 Annotated Code of Maryland
+20 (2019 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1090*
+
+2 HOUSE BILL 1090
+1 Article – Human Services
+2 5–502.
+3 Except as provided in [§ 5–503] §§ 5–503 AND 5–503.1 of this subtitle, if any
+4 provision of this subtitle conflicts with any federal law, the federal law shall prevail.
+5 5–503.1.
+6 (A) THE DEPARTMENT SHALL PROVIDE FOOD SUPPLEMENT BENEFITS TO A
+7 STUDENT WHO:
+8 (1) IS A RESIDENT OF THE STATE;
+9 (2) IS ENROLLED IN AN INSTITUTION OF HIGHER EDUCATION IN THE
+10 STATE;
+11 (3) IS ELIGIBLE TO PARTICIPATE IN A STATE– OR FEDERALLY
+12 FINANCED WORK STUDY PROGRAM FOR AT LEAST ONE SEMESTER DURING AN
+13 ACADEMIC YEAR; AND
+14 (4) PARTICIPATES IN A WORK STUDY PROGRAM FOR AN AVERAGE OF
+15 20 HOURS PER WEEK THROUGHOUT A SEMESTER.
+16 (B) A STUDENT ELIGIBLE FOR FOOD SUPPLEMENT BENEFITS UNDER
+17 SUBSECTION (A) OF THIS SECTION SHALL REMAIN ELIGIBLE FOR BENEFITS FOR AN
+18 ENTIRE ACADEMIC YEAR REGARDLESS OF THE LENGTH OF ANY BREAK DURING THE
+19 ACADEMIC YEAR.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That:
+21 (a) On or before August 1, 2025, the Maryland Higher Education Commission
+22 shall add to the Maryland College Aid Processing System application a question regarding
+23 whether, in the previous 6 months, the applicant has missed a meal because of an inability
+24 to afford the meal.
+25 (b) The Maryland Higher Education Commission may not require a student to
+26 answer the question required under subsection (a) of this section in the affirmative in order
+27 for the student to be eligible for financial aid.
+28 SECTION 3. 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+29 July 1, 2025.
+
+[DELETED: :CA      5     A F M S F t p o r t D o H S t p f s i H P f B  A S  A  ( B  A S  A  (  S T]
+[DELETED:  H  A 5  E a p i § 53 o t s i a]§§535  A p   ) TH E     S T        S E T P I A TE O F W S P F A L O S D A R     0   )  S E F F S B U A      S  ( O s w t  ( T a f  S J]

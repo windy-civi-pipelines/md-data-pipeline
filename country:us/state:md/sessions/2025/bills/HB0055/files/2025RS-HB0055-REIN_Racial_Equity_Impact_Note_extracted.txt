@@ -1,0 +1,325 @@
+Title: Criminal Procedure - Expungement of Records - Good Cause
+Official Title: Criminal Procedure - Expungement of Records - Good Cause
+Number of Sections: 6
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 Session
+HB0055
+Bill Summary
+This bill authorizes a person to file a petition for expungement of any misdemeanor or felony
+conviction after the completion of the sentence, parole, probation, and any other form of mandatory
+treatment associated with the conviction. A court may grant a petition for expungement under the
+bill at any time on a showing of good cause.
+Racial Equity Impact Statement
+The bill would allow petitions for expungement of any misdemeanor or felony conviction on the
+basis of good cause as determined by a court. This could help mitigate the adverse impacts
+resulting from a conviction such as difficulty obtaining employment, housing, education, licensing,
+and other government services as a result of a criminal record. There is no data available to measure
+specific impacts, but national and State data confirm that Black individuals are overrepresented in
+the criminal justice system and often experience higher rates of unemployment. Individuals with
+criminal convictions not covered under current expungement rules would benefit to the extent that
+they take advantage of expungement opportunities offered by the bill’s expanded good cause
+considerations.
+Analysis
+The bill expands opportunities for expungement by authorizing a person to file a petition for
+expungement of any misdemeanor or felony conviction after the completion of the sentence,
+parole, probation, and any other form of mandatory treatment associated with the conviction. A
+court may grant a petition for expungement under the bill at any time on a showing of good cause.
+The court must consider (1) the nature of the crime; (2) the person’s character and history; (3) the
+person’s risk to public safety; (4) any successful rehabilitation; (5) the amount of time since the
+HB 55/ Page 1
+conviction; and (6) the impact the charge has on the person’s ability to secure employment,
+education, housing, public assistance, licensing, and opportunities for economic stability. While
+an individual may petition the court once every five years for a specific charge, denials by the
+court of good cause expungements cannot be appealed and the person may not file a subsequent
+petition for expungement under this section for the same conviction for at least another five years.
+Expungements – Section 10-110 of the Criminal Procedure Article
+In general, a person seeking expungement of records pertaining to a criminal charge must file a
+petition for expungement with the court under § 10-105 or § 10-110 of the Criminal Procedure
+Article. With some exceptions, § 10-105 applies to dispositions other than a conviction, and
+
+Section 2:
+§ 10-110 applies to expungements of convictions.
+
+Section 3:
+Section 10-110 of the Criminal Procedure Article authorizes an individual convicted of any of a
+list of approximately 100 specified offenses, or an attempt, a conspiracy, or a solicitation of any
+of these offenses, to file a petition for expungement of the conviction, subject to specified
+procedures and requirements.
+While petitioners under both statutes must comply with specified waiting periods, a court is
+authorized to grant a petition for expungement under § 10-105(c)(9) of the Criminal Procedure
+Article at any time on a showing of good cause for dispositions other than a conviction.
+Collateral Consequences of a Criminal Record
+Expungement, in general, is intended to help mitigate the adverse consequences of having a
+criminal record, which can last beyond imprisonment, fines, and the legal process and can include
+the denial of civil opportunities and benefits available to a person due to their record. Specifically,
+having a criminal history can adversely affect employment prospects which can further influence
+an individual’s level of income, housing opportunities, and access to quality health care.
+Employment is key to stable housing and homeownership and a variety of State and national data
+shows that higher incomes can lead to the stability and consistency necessary to accumulate the
+various upfront resources needed to buy a home. Monetary savings for down payments and good
+credit scores are necessary to achieve initial homeownership and are largely driven by an
+individual’s employment status and level of income. Employment also often dictates one’s access
+to health care. Certain jobs do not offer health insurance benefits and access to jobs with such
+benefits may be restricted by an attachment to a criminal record. A criminal record can therefore
+impose significant barriers to upward socioeconomic mobility.
+Impacts of the Bill
+According to the Administrative Office of the Courts, there were 46,251 petitions for expungement
+in Maryland’s circuit courts and the District Court in fiscal 2023 – a sizable increase from the
+38,448 expungement petitions in fiscal 2022 following the legislative expansion of eligibility for
+expungement. There is currently no demographic data available that indicates the racial and ethnic
+composition of individuals impacted by expungement.
+HB 55/ Page 2
+National and State data consistently show that racial minorities experience disproportionate levels
+of adversity in the areas of life affected by a criminal record. National studies have found that there
+is a significant negative effect of having a criminal record on employment outcomes that appears
+substantially larger for Black individuals. Exhibit 1 shows that in 2023, the unemployment rate in
+Maryland was highest among Black job seekers and nearly twice the rate of white job seekers in
+the State.
+Exhibit 1
+Unemployment Rate in Maryland by Race and Ethnicity
+2023
+
+Section 4:
+3.80%
+
+Section 5:
+3.30% 3.30%
+
+Section 6:
+2.00%
+White Black or African Asian Hispanic or Latino
+American
+Source: Bureau of Labor Statistics
+The Department of Public Safety and Correctional Services reports that, as of January 1, 2025,
+Black individuals made up 71% of Maryland’s prison population contrasted with their 29% share
+of the State’s overall population.
+The bill’s good cause expungement provisions will likely impact Black individuals to a greater
+extent as these individuals are overrepresented in charges, arrests, and incarceration for many
+crimes at a disproportionately high rate, making them also disproportionately affected by the
+collateral consequences of criminal records, which is specifically taken into consideration under
+the good cause process.
+HB 55/ Page 3
+Conclusion
+The bill’s provisions expanding opportunities for expungement and good cause criteria will enable
+successful applicants to refrain from disclosing certain convictions and contacts that may prevent
+them from achieving employment and all the ancillary benefits and opportunities that come with
+it, such as improved housing and health care opportunities. The provisions of the bill will likely
+impact Black individuals to a greater extent as these individuals are incarcerated at
+disproportionately high rates in Maryland. The exact equity impacts of the bill cannot be estimated
+without additional data, including historical demographic data on expungement applicants,
+individuals eligible for expungement under the bill, and prospective employment data for
+individuals with expunged records. Additionally, future equity analysis may benefit from the
+disclosure of demographic data of those granted expungement on the grounds of showing good
+cause.
+Information Sources: U.S. Census Bureau; Department of Public Safety and Correctional
+Services; Governor’s Office of Crime Prevention and Policy; Administrative Office of the Courts;
+Economic Policy Institute; Bureau of Labor Statistics; Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 01/22/2025
+HB 55/ Page 4
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 55/ Page 5
+[DELETED:  o g c a d b a c T c h m t a i t o m c a c o s]
+[DELETED:  a ( t i t c h o t p a t s e W s e § 1 a t d o t a c a t o t f a p f e o t c s t s p u b s m c w s w p a c i i g i i t h m t a c o h a s a n t a i h a a l d b a]
+[DELETED:  r a b%3eBnAnH]
+[DELETED:  B i t a g e a t i a i a a d i h d d o e a e f e u t b a p e d f w e r A f e a m b f t S  U C B D o P S a C ]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]
+
+
+================================================================================
+
+Raw Text:
+2025 Session
+HB0055
+Criminal Procedure - Expungement of Records - Good Cause
+Bill Summary
+This bill authorizes a person to file a petition for expungement of any misdemeanor or felony
+conviction after the completion of the sentence, parole, probation, and any other form of mandatory
+treatment associated with the conviction. A court may grant a petition for expungement under the
+bill at any time on a showing of good cause.
+Racial Equity Impact Statement
+The bill would allow petitions for expungement of any misdemeanor or felony conviction on the
+basis of good cause as determined by a court. This could help mitigate the adverse impacts
+resulting from a conviction such as difficulty obtaining employment, housing, education, licensing,
+and other government services as a result of a criminal record. There is no data available to measure
+specific impacts, but national and State data confirm that Black individuals are overrepresented in
+the criminal justice system and often experience higher rates of unemployment. Individuals with
+criminal convictions not covered under current expungement rules would benefit to the extent that
+they take advantage of expungement opportunities offered by the bill’s expanded good cause
+considerations.
+Analysis
+The bill expands opportunities for expungement by authorizing a person to file a petition for
+expungement of any misdemeanor or felony conviction after the completion of the sentence,
+parole, probation, and any other form of mandatory treatment associated with the conviction. A
+court may grant a petition for expungement under the bill at any time on a showing of good cause.
+The court must consider (1) the nature of the crime; (2) the person’s character and history; (3) the
+person’s risk to public safety; (4) any successful rehabilitation; (5) the amount of time since the
+HB 55/ Page 1
+
+conviction; and (6) the impact the charge has on the person’s ability to secure employment,
+education, housing, public assistance, licensing, and opportunities for economic stability. While
+an individual may petition the court once every five years for a specific charge, denials by the
+court of good cause expungements cannot be appealed and the person may not file a subsequent
+petition for expungement under this section for the same conviction for at least another five years.
+Expungements – Section 10-110 of the Criminal Procedure Article
+In general, a person seeking expungement of records pertaining to a criminal charge must file a
+petition for expungement with the court under § 10-105 or § 10-110 of the Criminal Procedure
+Article. With some exceptions, § 10-105 applies to dispositions other than a conviction, and
+§ 10-110 applies to expungements of convictions.
+Section 10-110 of the Criminal Procedure Article authorizes an individual convicted of any of a
+list of approximately 100 specified offenses, or an attempt, a conspiracy, or a solicitation of any
+of these offenses, to file a petition for expungement of the conviction, subject to specified
+procedures and requirements.
+While petitioners under both statutes must comply with specified waiting periods, a court is
+authorized to grant a petition for expungement under § 10-105(c)(9) of the Criminal Procedure
+Article at any time on a showing of good cause for dispositions other than a conviction.
+Collateral Consequences of a Criminal Record
+Expungement, in general, is intended to help mitigate the adverse consequences of having a
+criminal record, which can last beyond imprisonment, fines, and the legal process and can include
+the denial of civil opportunities and benefits available to a person due to their record. Specifically,
+having a criminal history can adversely affect employment prospects which can further influence
+an individual’s level of income, housing opportunities, and access to quality health care.
+Employment is key to stable housing and homeownership and a variety of State and national data
+shows that higher incomes can lead to the stability and consistency necessary to accumulate the
+various upfront resources needed to buy a home. Monetary savings for down payments and good
+credit scores are necessary to achieve initial homeownership and are largely driven by an
+individual’s employment status and level of income. Employment also often dictates one’s access
+to health care. Certain jobs do not offer health insurance benefits and access to jobs with such
+benefits may be restricted by an attachment to a criminal record. A criminal record can therefore
+impose significant barriers to upward socioeconomic mobility.
+Impacts of the Bill
+According to the Administrative Office of the Courts, there were 46,251 petitions for expungement
+in Maryland’s circuit courts and the District Court in fiscal 2023 – a sizable increase from the
+38,448 expungement petitions in fiscal 2022 following the legislative expansion of eligibility for
+expungement. There is currently no demographic data available that indicates the racial and ethnic
+composition of individuals impacted by expungement.
+HB 55/ Page 2
+
+National and State data consistently show that racial minorities experience disproportionate levels
+of adversity in the areas of life affected by a criminal record. National studies have found that there
+is a significant negative effect of having a criminal record on employment outcomes that appears
+substantially larger for Black individuals. Exhibit 1 shows that in 2023, the unemployment rate in
+Maryland was highest among Black job seekers and nearly twice the rate of white job seekers in
+the State.
+Exhibit 1
+Unemployment Rate in Maryland by Race and Ethnicity
+2023
+3.80%
+3.30% 3.30%
+2.00%
+White Black or African Asian Hispanic or Latino
+American
+Source: Bureau of Labor Statistics
+The Department of Public Safety and Correctional Services reports that, as of January 1, 2025,
+Black individuals made up 71% of Maryland’s prison population contrasted with their 29% share
+of the State’s overall population.
+The bill’s good cause expungement provisions will likely impact Black individuals to a greater
+extent as these individuals are overrepresented in charges, arrests, and incarceration for many
+crimes at a disproportionately high rate, making them also disproportionately affected by the
+collateral consequences of criminal records, which is specifically taken into consideration under
+the good cause process.
+HB 55/ Page 3
+
+Conclusion
+The bill’s provisions expanding opportunities for expungement and good cause criteria will enable
+successful applicants to refrain from disclosing certain convictions and contacts that may prevent
+them from achieving employment and all the ancillary benefits and opportunities that come with
+it, such as improved housing and health care opportunities. The provisions of the bill will likely
+impact Black individuals to a greater extent as these individuals are incarcerated at
+disproportionately high rates in Maryland. The exact equity impacts of the bill cannot be estimated
+without additional data, including historical demographic data on expungement applicants,
+individuals eligible for expungement under the bill, and prospective employment data for
+individuals with expunged records. Additionally, future equity analysis may benefit from the
+disclosure of demographic data of those granted expungement on the grounds of showing good
+cause.
+Information Sources: U.S. Census Bureau; Department of Public Safety and Correctional
+Services; Governor’s Office of Crime Prevention and Policy; Administrative Office of the Courts;
+Economic Policy Institute; Bureau of Labor Statistics; Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 01/22/2025
+HB 55/ Page 4
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 55/ Page 5
+
+[DELETED:  o g c a d b a c T c h m t a i t o m c a c o s]
+[DELETED:  a ( t i t c h o t p a t s e W s e § 1 a t d o t a c a t o t f a p f e o t c s t s p u b s m c w s w p a c i i g i i t h m t a c o h a s a n t a i h a a l d b a]
+[DELETED:  r a b%3eBnAnH]
+[DELETED:  B i t a g e a t i a i a a d i h d d o e a e f e u t b a p e d f w e r A f e a m b f t S  U C B D o P S a C ]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]

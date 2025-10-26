@@ -1,0 +1,541 @@
+Title: Unhoused Individuals - Rights, Civil Action, and Affirmative
+Official Title: Unhoused Individuals - Rights, Civil Action, and Affirmative
+Number of Sections: 14
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 Session
+HB0487
+Defense
+Bill Summary
+This bill establishes that unhoused individuals have certain rights relating to engaging in
+“life-sustaining activities.” The bill prohibits certain governmental entities, officials, or agents
+from imposing specified penalties for exercising a right established under the bill or for offering
+aid to unhoused individuals on or about public places. The bill also authorizes the Attorney General
+or an individual harmed by a violation of the bill’s provisions to bring a civil action against
+governmental entities, officials, or agents. Furthermore, the bill establishes an affirmative defense
+of necessity for certain criminal prosecutions relating to trespass or disturbing the peace. Finally,
+the bill repeals the authority of a municipality to prohibit vagrancy. The provisions of the bill must
+supersede any local law or ordinance comparable in subject matter except to the extent that the
+local law or ordinance provides broader applicability or more protections for unhoused individuals
+than the bill.
+Racial Equity Impact Statement
+The bill aims to prevent the criminalization of homelessness and ensure that unhoused individuals
+are treated equitably under the law by affirming certain rights relating to “life-sustaining
+activities,” establishing rights to initiate civil actions, creating a “necessity defense,” and repealing
+specified vagrancy laws. While all unhoused individuals in the State will likely benefit from the
+bill’s changes, Black individuals will likely be positively impacted to the largest extent as they are
+significantly overrepresented in Maryland’s unhoused population. Data from the Department of
+Housing and Community Development (DHCD) shows that Black individuals accounted for 57%
+of the State’s unhoused population in 2024. The overall impacts of the bill would depend greatly
+on how its provisions are implemented.
+HB 487/ Page 1
+Analysis
+Established Rights of Unhoused Individuals
+The bill establishes that all unhoused individuals have the right to:
+ be on or about “public places” within the State without being discriminated against on the
+basis of actual or perceived housing status;
+ engage in life‐sustaining activities on or about public places, provided that such activities
+do not obstruct the normal movement of pedestrian or vehicular traffic in such a manner
+that creates a hazard to others, unless an “adequate alternative indoor space” is available
+and has been offered to the individual, including transportation for the individual and the
+individual’s belongings;
+ use and move freely in public places without being discriminated against on the basis of
+actual or perceived housing status;
+ privacy in personal property stored on or about public places to the same extent as personal
+property stored in a private dwelling;
+ pray, meditate, worship, or practice religion on or about public places without being
+discriminated against on the basis of actual or perceived housing status;
+ occupy a motor vehicle or recreational vehicle parked on or about a public place that is not
+obstructing the normal movement of traffic;
+ relocate a motor vehicle or recreational vehicle being used for life‐sustaining activities
+prior to receiving a parking ticket or the vehicle being towed;
+ retrieve items from a towed motor vehicle or recreational vehicle; and
+ reclaim a towed motor vehicle or recreational vehicle from storage free of charge or at a
+reduced rate upon consideration of the individual’s ability to pay any costs.
+Restrictions on Civil and Criminal Penalties
+The State, an agency of the State, a political subdivision of the State, or an official or agent of the
+State, an agency of the State, or a political subdivision of the State acting under color of law may
+not (1) impose a civil or criminal penalty against an unhoused individual for exercising a right
+described above or (2) impose a civil or criminal penalty against any individual for soliciting,
+sharing, accepting, or offering food, water, money, or other donations to unhoused individuals on
+or about public places.
+Established Rights to Civil Actions and Defenses of Necessity
+Under the bill, an individual harmed by a violation of the rights described above may initiate a
+civil action against the State; an agency, agent, or official of the State; or a political subdivision of
+the State that implements or enforces a limitation or requirement in violation of the bill’s
+provisions. The bill also authorizes the Attorney General, on behalf of the residents of the State,
+to initiate civil action against a governmental unit that implements or enforces a limitation or
+requirement that violate provisions of the bill.
+HB 487/ Page 2
+The bill also establishes an unhoused individual ’s right to a “defense of necessity” upon facing
+charges like trespassing or disturbing the peace, which may be asserted if (1) the defendant
+committed the alleged criminal act while engaging in a life-sustaining activity and (2) the
+defendant, at the time of committing the criminal act, did not have access to an adequate alternative
+indoor space. In recognition that homelessness may force individuals into situations where they
+must act in ways that would otherwise be considered illegal due to lack of alternative options, this
+affirmative defense provides legal protections to discourage excessive criminalization of life
+sustaining activity.
+Finally, the bill repeals a municipality’s authority to prohibit vagrancy, which includes acts like
+sleeping in public, loitering, and begging/panhandling. This provision aims to mitigate the
+criminalization of homelessness that would further exacerbate one’s ability to access stable and
+adequate housing due to a criminal record and/or unpayable legal fees.
+Homelessness in Maryland
+DHCD and the Interagency Council on Homelessness report that the primary contributing factors
+of homelessness are a combination of low wages and a lack of available, affordable, or adequate
+housing. Low income relative to the cost of living, disabling conditions, domestic violence, and
+sudden income loss are all common issues that result in loss of housing.
+Income and renter data from the U.S. Census Bureau and DHCD suggests that the link between
+high housing costs and homelessness is real and persistent. The U.S. Census Bureau’s 2023
+American Community Survey reported that nearly half of all renters in the country were
+cost-burdened, meaning they spent more than 30% of their income on housing costs. This cost
+burden was higher among Black renters at 56%.
+State-level data reflects the national data, as DHCD reported that over 50% of Maryland renters
+were considered cost-burdened in 2020. Exhibit 1 shows the racial and ethnic breakdown of the
+cost-burden data for renters in Maryland compared to their portion of the State’s population. While
+a significant number of all Maryland renters are cost-burdened to some degree, Hispanic and Black
+renters experience this at disproportionate levels when compared to their shares of the State’s
+population. The data also shows that Black and Hispanic renters also have slightly higher levels
+of households that are “severely cost-burdened,” meaning that they spend more than 50% of their
+income on housing. The severely cost-burdened rate is 23% for white renters and 27% for both
+Black and Hispanic renters.
+HB 487/ Page 3
+Exhibit 1
+Maryland Cost-burdened Renters
+2020
+90%
+81%
+79%
+80%
+69%
+70%
+60%
+47%
+50%
+40%
+29%
+30%
+20%
+12%
+10%
+0%
+White Black Hispanic
+Cost-burdened 2020 Population
+Note: Cost-burdened means spending more than 30% of income on housing costs.
+Source: Department of Housing and Community Development
+Impacts of the Bill
+Exhibits 2 and 3 show the latest available count of unhoused individuals from 2024 for the United
+States and for Maryland. This data is reported to the U.S. Department of Housing and Urban
+Development (HUD) after local jurisdictions around the nation conduct the annual Point-in-Time
+(PIT) estimates. It should be noted that, according to DHCD, these surveys only offer a snapshot
+of homelessness for both the sheltered and unsheltered on a single night, and that the number of
+unhoused individuals counted in the PIT count is often approximately one-fifth of the total number
+of unhoused clients served in a given year. In addition to the PIT count, DHCD collects data on
+the annual number of clients served by providers in each year. These numbers include anyone that
+was homeless or at risk of homelessness who received services such as prevention, outreach,
+emergency shelters, rapid re-housing, and placement into permanent housing. In 2021, the total
+number of clients served was 23,243.
+To be included in the PIT count, a person must meet the definition of experiencing homelessness
+used by HUD, which may differ from the definition used by other agencies. HUD defines
+experiences of homelessness as lacking a fixed, regular, and adequate nighttime residence. It
+includes people staying in emergency shelters, safe havens, and transitional housing programs. It
+also includes people who were experiencing unsheltered homelessness in places not meant for
+human habitation such as on the streets, in abandoned buildings, bus stations, or in their cars.
+HB 487/ Page 4
+National Data
+As shown in Exhibit 2, in the United States, Black, white, and Hispanic individuals are the bulk of
+the homeless or unhoused population nationwide. In 2024, the national PIT count surveyed a total
+of 771,480 individuals experiencing homelessness. Both exhibits below show the total portion of
+unhoused individuals counted and the portion of individuals in that total who were observed in
+sheltered conditions – such as temporary housing – versus those that were unsheltered or living
+outside. The national data shows disparities by race and ethnicity as Black and Hispanic
+individuals experienced homelessness at a much greater rate. While both of these groups combined
+comprise over 60% of the total homeless individuals, they make up only 31% of the national
+population. This is compared to white individuals who comprise 58% of the U.S. population but
+make up just under 32% of the total homeless population. Asian, American Indian or Alaska
+Native, Native Hawaiian or Pacific Islander, and Middle Eastern or North African individuals
+made up less than 5% of the total.
+Exhibit 2
+U.S. Homeless Population Demographics
+2024
+
+Section 2:
+43.1% 24.5%
+
+Section 3:
+21.7%
+
+Section 4:
+33.8% 34.0%
+
+Section 5:
+25.3%
+
+Section 6:
+29.5% 31.7% 30.6%
+Black White Hispanic
+Total Unhoused Sheltered Unsheltered
+Source: U.S. Department of Housing and Urban Development
+Maryland Data
+In Maryland, as shown in Exhibit 3, the PIT data confirms some of the persistent disparities found
+in the national data for Black individuals. The State level PIT survey counted a total of 6,069
+individuals experiencing homelessness around the State. Black unhoused individuals comprised
+57% of that total compared to their 29% share of the State’s population and 28% of unhoused
+individuals were white compared to their 47% share of the State’s population. Hispanic individuals
+were 4% of the total unhoused population compared to their 12% portion of the State’s population.
+Asian, American Indian or Alaska Native, Native Hawaiian or Pacific Islander, and Middle Eastern
+HB 487/ Page 5
+or North African individuals made up less than 3 % of the total and individuals of multiple races
+comprised 9% of the total.
+Exhibit 3
+Maryland’s Homeless Population Demographics
+2024
+
+Section 7:
+38.7%
+
+Section 8:
+60.7%
+
+Section 9:
+46.9%
+
+Section 10:
+23.8%
+
+Section 11:
+57.0%
+
+Section 12:
+27.7% 2.3%
+
+Section 13:
+4.4%
+
+Section 14:
+4.0%
+Black White Hispanic
+Total Unhoused Sheltered Unsheltered
+Source: U.S. Department of Housing and Urban Development
+Conclusion
+The bill’s provisions aim to prevent the criminalization of homelessness and ensure the rights of
+unhoused individuals under the law. This will benefit any individual experiencing homelessness
+to the extent that the bill provides a means for civil action against violations of their rights by State
+or local governments, an affirmative defense of necessity to protect against legal penalties for
+performing basic survival tasks, and eliminates municipal vagrancy laws. The bill has the potential
+to mitigate the persistent and cyclical adversity exacerbated by the criminalization of
+homelessness, particularly for Black individuals that consistently face homelessness and its
+contributing factors at disproportionately high rates at both the State and national levels.
+Information Sources: U.S. Census Bureau; U.S. Department of Housing and Urban
+Development; Department of Housing and Community Development; Interagency Council on
+Homelessness; Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 04/04/2025
+HB 487/ Page 6
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 487/ Page 7
+[DELETED:  b e t u i h c r r t e i a t e u t l b a c r r t “]
+[DELETED:  m w o p r o o a p p w b S t i o e a l o r i v o t b]
+[DELETED:  l t o d t p w m b a i ( t d t a c a w e i a l a a ( t d p l p t d e c o l i p l a b T p a t m t h c a h i r a p T U C B 2 C S r t n h o a r i t c wtb]
+[DELETED: tuef b H w m d f t d u b o a H d a a IeBkHd2]
+[DELETED:  T n d s d b r a e a B a HkWeHdSdU]
+[DELETED:  m t p a c a e b t c o p f B i t c f h a i S  U C B U D o H a U kWeHdSdU]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]
+
+
+================================================================================
+
+Raw Text:
+2025 Session
+HB0487
+Unhoused Individuals - Rights, Civil Action, and Affirmative
+Defense
+Bill Summary
+This bill establishes that unhoused individuals have certain rights relating to engaging in
+“life-sustaining activities.” The bill prohibits certain governmental entities, officials, or agents
+from imposing specified penalties for exercising a right established under the bill or for offering
+aid to unhoused individuals on or about public places. The bill also authorizes the Attorney General
+or an individual harmed by a violation of the bill’s provisions to bring a civil action against
+governmental entities, officials, or agents. Furthermore, the bill establishes an affirmative defense
+of necessity for certain criminal prosecutions relating to trespass or disturbing the peace. Finally,
+the bill repeals the authority of a municipality to prohibit vagrancy. The provisions of the bill must
+supersede any local law or ordinance comparable in subject matter except to the extent that the
+local law or ordinance provides broader applicability or more protections for unhoused individuals
+than the bill.
+Racial Equity Impact Statement
+The bill aims to prevent the criminalization of homelessness and ensure that unhoused individuals
+are treated equitably under the law by affirming certain rights relating to “life-sustaining
+activities,” establishing rights to initiate civil actions, creating a “necessity defense,” and repealing
+specified vagrancy laws. While all unhoused individuals in the State will likely benefit from the
+bill’s changes, Black individuals will likely be positively impacted to the largest extent as they are
+significantly overrepresented in Maryland’s unhoused population. Data from the Department of
+Housing and Community Development (DHCD) shows that Black individuals accounted for 57%
+of the State’s unhoused population in 2024. The overall impacts of the bill would depend greatly
+on how its provisions are implemented.
+HB 487/ Page 1
+
+Analysis
+Established Rights of Unhoused Individuals
+The bill establishes that all unhoused individuals have the right to:
+ be on or about “public places” within the State without being discriminated against on the
+basis of actual or perceived housing status;
+ engage in life‐sustaining activities on or about public places, provided that such activities
+do not obstruct the normal movement of pedestrian or vehicular traffic in such a manner
+that creates a hazard to others, unless an “adequate alternative indoor space” is available
+and has been offered to the individual, including transportation for the individual and the
+individual’s belongings;
+ use and move freely in public places without being discriminated against on the basis of
+actual or perceived housing status;
+ privacy in personal property stored on or about public places to the same extent as personal
+property stored in a private dwelling;
+ pray, meditate, worship, or practice religion on or about public places without being
+discriminated against on the basis of actual or perceived housing status;
+ occupy a motor vehicle or recreational vehicle parked on or about a public place that is not
+obstructing the normal movement of traffic;
+ relocate a motor vehicle or recreational vehicle being used for life‐sustaining activities
+prior to receiving a parking ticket or the vehicle being towed;
+ retrieve items from a towed motor vehicle or recreational vehicle; and
+ reclaim a towed motor vehicle or recreational vehicle from storage free of charge or at a
+reduced rate upon consideration of the individual’s ability to pay any costs.
+Restrictions on Civil and Criminal Penalties
+The State, an agency of the State, a political subdivision of the State, or an official or agent of the
+State, an agency of the State, or a political subdivision of the State acting under color of law may
+not (1) impose a civil or criminal penalty against an unhoused individual for exercising a right
+described above or (2) impose a civil or criminal penalty against any individual for soliciting,
+sharing, accepting, or offering food, water, money, or other donations to unhoused individuals on
+or about public places.
+Established Rights to Civil Actions and Defenses of Necessity
+Under the bill, an individual harmed by a violation of the rights described above may initiate a
+civil action against the State; an agency, agent, or official of the State; or a political subdivision of
+the State that implements or enforces a limitation or requirement in violation of the bill’s
+provisions. The bill also authorizes the Attorney General, on behalf of the residents of the State,
+to initiate civil action against a governmental unit that implements or enforces a limitation or
+requirement that violate provisions of the bill.
+HB 487/ Page 2
+
+The bill also establishes an unhoused individual ’s right to a “defense of necessity” upon facing
+charges like trespassing or disturbing the peace, which may be asserted if (1) the defendant
+committed the alleged criminal act while engaging in a life-sustaining activity and (2) the
+defendant, at the time of committing the criminal act, did not have access to an adequate alternative
+indoor space. In recognition that homelessness may force individuals into situations where they
+must act in ways that would otherwise be considered illegal due to lack of alternative options, this
+affirmative defense provides legal protections to discourage excessive criminalization of life
+sustaining activity.
+Finally, the bill repeals a municipality’s authority to prohibit vagrancy, which includes acts like
+sleeping in public, loitering, and begging/panhandling. This provision aims to mitigate the
+criminalization of homelessness that would further exacerbate one’s ability to access stable and
+adequate housing due to a criminal record and/or unpayable legal fees.
+Homelessness in Maryland
+DHCD and the Interagency Council on Homelessness report that the primary contributing factors
+of homelessness are a combination of low wages and a lack of available, affordable, or adequate
+housing. Low income relative to the cost of living, disabling conditions, domestic violence, and
+sudden income loss are all common issues that result in loss of housing.
+Income and renter data from the U.S. Census Bureau and DHCD suggests that the link between
+high housing costs and homelessness is real and persistent. The U.S. Census Bureau’s 2023
+American Community Survey reported that nearly half of all renters in the country were
+cost-burdened, meaning they spent more than 30% of their income on housing costs. This cost
+burden was higher among Black renters at 56%.
+State-level data reflects the national data, as DHCD reported that over 50% of Maryland renters
+were considered cost-burdened in 2020. Exhibit 1 shows the racial and ethnic breakdown of the
+cost-burden data for renters in Maryland compared to their portion of the State’s population. While
+a significant number of all Maryland renters are cost-burdened to some degree, Hispanic and Black
+renters experience this at disproportionate levels when compared to their shares of the State’s
+population. The data also shows that Black and Hispanic renters also have slightly higher levels
+of households that are “severely cost-burdened,” meaning that they spend more than 50% of their
+income on housing. The severely cost-burdened rate is 23% for white renters and 27% for both
+Black and Hispanic renters.
+HB 487/ Page 3
+
+Exhibit 1
+Maryland Cost-burdened Renters
+2020
+90%
+81%
+79%
+80%
+69%
+70%
+60%
+47%
+50%
+40%
+29%
+30%
+20%
+12%
+10%
+0%
+White Black Hispanic
+Cost-burdened 2020 Population
+Note: Cost-burdened means spending more than 30% of income on housing costs.
+Source: Department of Housing and Community Development
+Impacts of the Bill
+Exhibits 2 and 3 show the latest available count of unhoused individuals from 2024 for the United
+States and for Maryland. This data is reported to the U.S. Department of Housing and Urban
+Development (HUD) after local jurisdictions around the nation conduct the annual Point-in-Time
+(PIT) estimates. It should be noted that, according to DHCD, these surveys only offer a snapshot
+of homelessness for both the sheltered and unsheltered on a single night, and that the number of
+unhoused individuals counted in the PIT count is often approximately one-fifth of the total number
+of unhoused clients served in a given year. In addition to the PIT count, DHCD collects data on
+the annual number of clients served by providers in each year. These numbers include anyone that
+was homeless or at risk of homelessness who received services such as prevention, outreach,
+emergency shelters, rapid re-housing, and placement into permanent housing. In 2021, the total
+number of clients served was 23,243.
+To be included in the PIT count, a person must meet the definition of experiencing homelessness
+used by HUD, which may differ from the definition used by other agencies. HUD defines
+experiences of homelessness as lacking a fixed, regular, and adequate nighttime residence. It
+includes people staying in emergency shelters, safe havens, and transitional housing programs. It
+also includes people who were experiencing unsheltered homelessness in places not meant for
+human habitation such as on the streets, in abandoned buildings, bus stations, or in their cars.
+HB 487/ Page 4
+
+National Data
+As shown in Exhibit 2, in the United States, Black, white, and Hispanic individuals are the bulk of
+the homeless or unhoused population nationwide. In 2024, the national PIT count surveyed a total
+of 771,480 individuals experiencing homelessness. Both exhibits below show the total portion of
+unhoused individuals counted and the portion of individuals in that total who were observed in
+sheltered conditions – such as temporary housing – versus those that were unsheltered or living
+outside. The national data shows disparities by race and ethnicity as Black and Hispanic
+individuals experienced homelessness at a much greater rate. While both of these groups combined
+comprise over 60% of the total homeless individuals, they make up only 31% of the national
+population. This is compared to white individuals who comprise 58% of the U.S. population but
+make up just under 32% of the total homeless population. Asian, American Indian or Alaska
+Native, Native Hawaiian or Pacific Islander, and Middle Eastern or North African individuals
+made up less than 5% of the total.
+Exhibit 2
+U.S. Homeless Population Demographics
+2024
+43.1% 24.5%
+21.7%
+33.8% 34.0%
+25.3%
+29.5% 31.7% 30.6%
+Black White Hispanic
+Total Unhoused Sheltered Unsheltered
+Source: U.S. Department of Housing and Urban Development
+Maryland Data
+In Maryland, as shown in Exhibit 3, the PIT data confirms some of the persistent disparities found
+in the national data for Black individuals. The State level PIT survey counted a total of 6,069
+individuals experiencing homelessness around the State. Black unhoused individuals comprised
+57% of that total compared to their 29% share of the State’s population and 28% of unhoused
+individuals were white compared to their 47% share of the State’s population. Hispanic individuals
+were 4% of the total unhoused population compared to their 12% portion of the State’s population.
+Asian, American Indian or Alaska Native, Native Hawaiian or Pacific Islander, and Middle Eastern
+HB 487/ Page 5
+
+or North African individuals made up less than 3 % of the total and individuals of multiple races
+comprised 9% of the total.
+Exhibit 3
+Maryland’s Homeless Population Demographics
+2024
+38.7%
+60.7%
+46.9%
+23.8%
+57.0%
+27.7% 2.3%
+4.4%
+4.0%
+Black White Hispanic
+Total Unhoused Sheltered Unsheltered
+Source: U.S. Department of Housing and Urban Development
+Conclusion
+The bill’s provisions aim to prevent the criminalization of homelessness and ensure the rights of
+unhoused individuals under the law. This will benefit any individual experiencing homelessness
+to the extent that the bill provides a means for civil action against violations of their rights by State
+or local governments, an affirmative defense of necessity to protect against legal penalties for
+performing basic survival tasks, and eliminates municipal vagrancy laws. The bill has the potential
+to mitigate the persistent and cyclical adversity exacerbated by the criminalization of
+homelessness, particularly for Black individuals that consistently face homelessness and its
+contributing factors at disproportionately high rates at both the State and national levels.
+Information Sources: U.S. Census Bureau; U.S. Department of Housing and Urban
+Development; Department of Housing and Community Development; Interagency Council on
+Homelessness; Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 04/04/2025
+HB 487/ Page 6
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 487/ Page 7
+
+[DELETED:  b e t u i h c r r t e i a t e u t l b a c r r t “]
+[DELETED:  m w o p r o o a p p w b S t i o e a l o r i v o t b]
+[DELETED:  l t o d t p w m b a i ( t d t a c a w e i a l a a ( t d p l p t d e c o l i p l a b T p a t m t h c a h i r a p T U C B 2 C S r t n h o a r i t c wtb]
+[DELETED: tuef b H w m d f t d u b o a H d a a IeBkHd2]
+[DELETED:  T n d s d b r a e a B a HkWeHdSdU]
+[DELETED:  m t p a c a e b t c o p f B i t c f h a i S  U C B U D o H a U kWeHdSdU]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]

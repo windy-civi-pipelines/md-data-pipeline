@@ -1,0 +1,660 @@
+Title: HOUSE BILL 1048
+Official Title: HOUSE BILL 1048
+Number of Sections: 1
+Source: versions - First - Sports Wagering - Wagers on Historical Horse Races - Authorization
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+C7, C6 5lr2909
+CF SB 982
+By: Delegates Buckel, Fair, Hornberger, Kerr, Pippy, Tomlinson, and Vogel
+Introduced and read first time: February 5, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Sports Wagering – Wagers on Historical Horse Races – Authorization
+3 FOR the purpose of altering the definition of “sporting event” for purposes of provisions of
+4 law governing sports wagering to include historical horse races; authorizing certain
+5 sports wagering facility licensees to accept wagers on historical horse races in a
+6 certain manner and subject to certain limitations; and generally relating to sports
+7 wagering on historical horse races.
+8 BY repealing and reenacting, without amendments,
+9 Article – State Government
+10 Section 9–1E–01(a), (b), (d), (h), and (j) through (m), 9–1E–06(a)(1)(ii) through (v)
+11 and (2), and 9–1E–12
+12 Annotated Code of Maryland
+13 (2021 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Article – State Government
+16 Section 9–1E–01(i) and 9–1E–09(a) and (b)
+17 Annotated Code of Maryland
+18 (2021 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – State Government
+21 Section 9–1E–09(f) and 9–1E–09.1
+22 Annotated Code of Maryland
+23 (2021 Replacement Volume and 2024 Supplement)
+24 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+25 That the Laws of Maryland read as follows:
+26 Article – State Government
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1048*
+2 HOUSE BILL 1048
+1 9–1E–01.
+2 (a) In this subtitle the following words have the meanings indicated.
+3 (b) “Commission” has the meaning stated in § 9–1A–01 of this title.
+4 (d) “Horse racing licensee” means the holder of a license issued by the State
+5 Racing Commission under § 11–510 of the Business Regulation Article.
+6 (h) “Proceeds” means the amount of money wagered on a sporting event, less:
+7 (1) the amount returned to successful bettors;
+8 (2) the cash equivalents of any merchandise or thing of value awarded as
+9 a prize to successful bettors;
+10 (3) free bets and promotional credits redeemed by bettors; and
+11 (4) all excise taxes paid by a sports wagering licensee in accordance with
+12 federal law.
+13 (i) (1) “Sporting event” means:
+14 (i) a professional sports or athletic event;
+15 (ii) a collegiate sports or athletic event;
+16 (iii) an Olympic or international sports or athletic event;
+17 (iv) an electronic sports or video game competition in which each
+18 participant is at least 18 years old;
+19 (v) a motor race event sanctioned by a motor racing governing entity;
+20 (vi) except as otherwise prohibited under Title 11 of the Business
+21 Regulation Article or the federal Interstate Horse Racing Act, a LIVE horse race, held in or
+22 out of the State, if consented to and approved by:
+23 1. the horse racing licensee of the applicable breed;
+24 2. the organization representing the majority of the owners
+25 and trainers of the applicable breed in the State;
+26 3. the organization representing the majority of the
+27 applicable breeders in the State; and
+HOUSE BILL 1048 3
+1 4. the State Racing Commission;
+2 (VII) A HISTORICAL HORSE RACE;
+3 [(vii)] (VIII) any portion of a sporting event, including the individual
+4 performance statistics of athletes or competitors in a sporting event; or
+5 [(viii)] (IX) an award event or competition of national or international
+6 prominence if expressly authorized by the Commission.
+7 (2) “Sporting event” does not include:
+8 (i) a high school sports or athletic event; or
+9 (ii) a fantasy competition regulated under Subtitle 1D of this title.
+10 (j) “Sports wagering” means the business of accepting wagers on any sporting
+11 event by any system or method of wagering, including single–game bets, teaser bets,
+12 parlays, over–under, moneyline, pools, exchange wagering, in–game wagering, in–play
+13 bets, proposition bets, and straight bets.
+14 (k) (1) “Sports wagering facility licensee” means a sports wagering licensee
+15 who is authorized to conduct and operate sports wagering at the sports wagering facility
+16 owned, leased, or occupied by the sports wagering licensee.
+17 (2) “Sports wagering facility licensee” includes the holder of a Class A–1,
+18 A–2, B–1, or B–2 sports wagering facility license issued under § 9–1E–06 of this subtitle.
+19 (l) “Sports wagering license” means a license issued by the Commission under
+20 this subtitle that authorizes the holder to accept wagers on sporting events.
+21 (m) “Sports wagering licensee” means the holder of a sports wagering license.
+22 9–1E–06.
+23 (a) (1) On an award of a license by the Sports Wagering Application Review
+24 Commission established under § 9–1E–15 of this subtitle, the Commission shall:
+25 (ii) issue a Class A–2 sports wagering facility license to an applicant
+26 that meets the requirements for licensure under this subtitle who is:
+27 1. a video lottery operator with 1,000 or fewer video lottery
+28 terminals; or
+29 2. a horse racing licensee;
+4 HOUSE BILL 1048
+1 (iii) subject to paragraphs (2) and (3) of this subsection, issue a Class
+2 B–1 sports wagering facility license to any applicant who meets the requirements for
+3 licensure under this subtitle and who is not eligible for a Class B–2 sports wagering facility
+4 license;
+5 (iv) subject to paragraphs (2) and (3) of this subsection, issue a Class
+6 B–2 sports wagering facility license to any applicant who is a person with less than:
+7 1. 25 full–time equivalent employees; or
+8 2. $3,000,000 in annual gross receipts; and
+9 (v) issue not more than 60 mobile sports wagering licenses to any
+10 applicant who meets the requirements for licensure under this subtitle.
+11 (2) (i) The Commission shall issue a Class B–1 or Class B–2 sports
+12 wagering facility license to an applicant that meets the requirements for licensure under
+13 this subtitle who is:
+14 1. the holder of a license issued by the State Racing
+15 Commission under § 11–524 of the Business Regulation Article, including a subsidiary of
+16 the license holder;
+17 2. a person who is the owner or lessee of a facility approved
+18 for satellite simulcast betting before January 1, 2021, unless the satellite simulcast facility
+19 is located at a video lottery facility or a racetrack; and
+20 3. a person who holds a commercial bingo license, if the
+21 facility at which the person operates commercial bingo was permitted to operate at least
+22 200 electronic bingo machines or electronic tip jar machines on January 1, 2021.
+23 (ii) In addition to the Class B–1 and B–2 sports wagering facility
+24 licenses issued in accordance with subparagraph (i) of this paragraph, the Commission may
+25 issue not more than 30 Class B–1 and Class B–2 sports wagering facility licenses under
+26 paragraph (1) of this subsection.
+27 9–1E–09.
+28 (a) [A] EXCEPT AS PROVIDED IN SUBSECTION (F) OF THIS SECTION, A sports
+29 wagering facility licensee may accept wagers on sporting events that are made:
+30 (1) by an individual physically present:
+31 (i) at a video lottery facility, if the sports wagering licensee is a video
+32 lottery operator;
+HOUSE BILL 1048 5
+1 (ii) at Pimlico Race Course or a race track located at Laurel Park, if
+2 the sports wagering licensee is a horse racing licensee;
+3 (iii) subject to subsection (d) of this section, at a stadium primarily
+4 used for professional football (NFL), professional major league baseball, professional
+5 hockey (NHL), professional basketball (NBA), or professional soccer (MLS), if the sports
+6 wagering licensee is the owner or a lessee or the designee of the owner or lessee of the
+7 stadium;
+8 (iv) at the Maryland State Fairgrounds in Timonium, if the sports
+9 wagering licensee is the holder of a license issued by the State Racing Commission under §
+10 11–524 of the Business Regulation Article, or a subsidiary of the license holder;
+11 (v) at a satellite simulcast facility, if the sports wagering licensee is
+12 the owner or lessee of a satellite simulcast facility described under § 9–1E–06(a)(2) of this
+13 subtitle;
+14 (vi) at a commercial bingo facility with at least 200 electronic bingo
+15 machines or electronic tip jar machines, if the sports wagering licensee is a commercial
+16 bingo operator described under § 9–1E–06(a)(2) of this subtitle; or
+17 (vii) subject to subsection (e) of this section, at the facility identified
+18 in the application approved by the Sports Wagering Application Review Commission, if the
+19 sports wagering licensee is a holder of a Class B–1 or B–2 sports wagering facility license;
+20 or
+21 (2) on a self–service kiosk, device, or machine, approved by the
+22 Commission, located in a facility or at a location identified under item (1) of this subsection.
+23 (b) [A] EXCEPT AS PROVIDED IN SUBSECTION (F) OF THIS SECTION, A mobile
+24 sports wagering licensee may accept wagers on sporting events that are made through
+25 online sports wagering by an individual physically located in the State.
+26 (F) (1) SUBJECT TO § 9–1E–09.1 OF THIS SUBTITLE, A SPORTS WAGERING
+27 FACILITY LICENSEE MAY ACCEPT WAGERS ON HISTORICAL HORSE RACES THAT ARE
+28 MADE BY AN INDIVIDUAL PHYSICALLY PRESENT:
+29 (I) AT A THOROUGHBRED OR STANDARDBRED RACE COURSE, IF
+30 THE SPORTS WAGERING LICENSEE IS THE HOLDER OF A CLASS A–2 SPORTS
+31 WAGERING FACILITY LICENSE ISSUED UNDER § 9–1E–06(A)(1)(II) OF THIS
+32 SUBTITLE;
+33 (II) AT THE MARYLAND STATE FAIRGROUNDS IN TIMONIUM, IF
+34 THE SPORTS WAGERING LICENSEE IS THE HOLDER OF A LICENSE ISSUED BY THE
+35 STATE RACING COMMISSION UNDER § 11–524 OF THE BUSINESS REGULATION
+36 ARTICLE, OR A SUBSIDIARY OF THE LICENSE HOLDER; OR
+6 HOUSE BILL 1048
+1 (III) AT A SATELLITE SIMULCAST FACILITY, IF THE SPORTS
+2 WAGERING LICENSEE IS THE OWNER OR LESSEE OF A SATELLITE SIMULCAST
+3 FACILITY DESCRIBED UNDER § 9–1E–06(A)(2) OF THIS SUBTITLE.
+4 (2) A SPORTS WAGERING FACILITY LICENSEE THAT IS NOT
+5 DESCRIBED UNDER PARAGRAPH (1) OF THIS SUBSECTION OR A MOBILE SPORTS
+6 WAGERING LICENSEE MAY NOT ACCEPT WAGERS ON HISTORICAL HORSE RACES.
+7 9–1E–09.1.
+8 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+9 INDICATED.
+10 (2) “MINUS POOL” MEANS A MUTUEL POOL IN WHICH THE AMOUNT
+11 OF MONEY TO BE DISTRIBUTED ON WINNING WAGERS EXCEEDS THE AMOUNT OF
+12 MONEY CONTAINED IN THAT MUTUEL POOL.
+13 (3) “MUTUEL POOL” HAS THE MEANING STATED IN § 11–101 OF THE
+14 BUSINESS REGULATION ARTICLE.
+15 (4) “PARI–MUTUEL BETTING” HAS THE MEANING STATED IN § 11–101
+16 OF THE BUSINESS REGULATION ARTICLE.
+17 (B) THIS SECTION APPLIES ONLY TO A SPORTS WAGERING FACILITY
+18 LICENSEE AUTHORIZED TO OFFER SPORTS WAGERING ON HISTORICAL HORSE
+19 RACING IN ACCORDANCE WITH § 9–1E–09 OF THIS SUBTITLE.
+20 (C) SPORTS WAGERING ON HISTORICAL HORSE RACES:
+21 (1) SHALL BE CONDUCTED AS PARI–MUTUEL BETTING; AND
+22 (2) MAY BE CONDUCTED ON HISTORICAL HORSE RACES OF ANY
+23 BREED.
+24 (D) (1) SPORTS WAGERING ON HISTORICAL HORSE RACES MAY BE
+25 PERMITTED ONLY IN A DESIGNATED AREA ON THE PREMISES OF THE SPORTS
+26 WAGERING FACILITY LICENSEE THAT IS APPROVED BY THE COMMISSION.
+27 (2) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE
+28 SPORTS WAGERING FACILITY LICENSEE SHALL POST IN CONSPICUOUS PLACES IN
+29 THE DESIGNATED AREA A GENERAL EXPLANATION OF PARI–MUTUEL BETTING
+HOUSE BILL 1048 7
+1 OFFERED ON HISTORICAL HORSE RACES AND AN EXPLANATION OF EACH
+2 PARI–MUTUEL POOL OFFERED.
+3 (II) THE SPORTS WAGERING FACILITY LICENSEE SHALL SUBMIT
+4 THE EXPLANATION TO THE COMMISSION FOR APPROVAL BEFORE POSTING THE
+5 EXPLANATION.
+6 (E) A SPORTS WAGERING FACILITY LICENSEE MAY CONDUCT WAGERING ON
+7 HISTORICAL HORSE RACES ONLY ON THE DAYS AND HOURS APPROVED BY THE
+8 COMMISSION.
+9 (F) BEFORE OFFERING WAGERING ON HISTORICAL HORSE RACES, A SPORTS
+10 WAGERING FACILITY LICENSEE SHALL FIRST OBTAIN THE COMMISSION’S WRITTEN
+11 APPROVAL OF ALL TYPES OF WAGERS OFFERED.
+12 (G) (1) (I) AN INDIVIDUAL MAY WAGER ON HISTORICAL HORSE RACES
+13 ONLY ON A TERMINAL APPROVED BY THE COMMISSION.
+14 (II) SUBJECT TO SUBPARAGRAPH (III) OF THIS PARAGRAPH,
+15 THE COMMISSION SHALL APPROVE THE TOTAL NUMBER OF TERMINALS THAT MAY
+16 BE AVAILABLE AT THE SPORTS WAGERING FACILITY.
+17 (III) THE COMMISSION MAY NOT AUTHORIZE THE OPERATION OF
+18 MORE THAN 4,000 TERMINALS UNDER THIS SECTION.
+19 (2) APPROXIMATE ODDS OR PAYOUTS FOR EACH PARI–MUTUEL POOL
+20 SHALL BE POSTED OR MADE AVAILABLE ON EACH TERMINAL FOR VIEWING BY
+21 INDIVIDUAL BETTORS.
+22 (3) ONCE A BETTOR DEPOSITS AN AMOUNT IN THE TERMINAL
+23 OFFERING WAGERING ON HISTORICAL HORSE RACES, ONE OR MORE HISTORICAL
+24 HORSE RACES SHALL BE MADE AVAILABLE FOR WAGERING.
+25 (4) BEFORE THE BETTOR MAKES ANY WAGER SELECTIONS, THE
+26 TERMINAL MAY NOT DISPLAY ANY INFORMATION THAT WOULD ALLOW THE BETTOR
+27 TO IDENTIFY THE HISTORICAL HORSE RACE OR RACES ON WHICH THE BETTOR IS
+28 WAGERING, INCLUDING THE LOCATION OF THE RACE OR RACES, THE DATE ON
+29 WHICH THE RACE OR RACES WERE RUN, THE NAMES OF THE HORSES IN THE RACE
+30 OR RACES, OR THE NAMES OF THE JOCKEYS OR DRIVERS THAT RODE THE HORSES
+31 IN THE RACE OR RACES.
+8 HOUSE BILL 1048
+1 (5) (I) THE TERMINAL SHALL MAKE AVAILABLE TRUE AND
+2 ACCURATE PAST PERFORMANCE INFORMATION ON THE HISTORICAL HORSE RACE
+3 TO THE BETTOR BEFORE THE BETTOR MAKES THE BETTOR’S WAGER SELECTIONS.
+4 (II) THE INFORMATION PROVIDED UNDER SUBPARAGRAPH (I)
+5 OF THIS PARAGRAPH SHALL BE:
+6 1. CURRENT AS OF THE DAY THE HISTORICAL HORSE
+7 RACE WAS ACTUALLY RUN; AND
+8 2. DISPLAYED ON THE TERMINAL IN DATA OR
+9 GRAPHICAL FORM.
+10 (6) (I) AFTER A BETTOR FINALIZES THE BETTOR’S WAGER
+11 SELECTIONS, THE TERMINAL SHALL DISPLAY:
+12 1. THE BETTOR’S SELECTIONS;
+13 2. THE OFFICIAL RESULTS OF EACH RACE; AND
+14 3. A REPLAY OF THE RACE OR RACES, OR A PORTION
+15 THEREOF, WHETHER BY DIGITAL OR ANIMATED DEPICTION OR BY WAY OF A VIDEO
+16 RECORDING.
+17 (II) THE IDENTITY OF EACH RACE SHALL BE REVEALED TO THE
+18 BETTOR AFTER THE BETTOR HAS PLACED THE BETTOR’S WAGER.
+19 (H) (1) A WAGER ON A HISTORICAL HORSE RACE OR MULTIPLE
+20 HISTORICAL HORSE RACES SHALL BE PLACED IN PARI–MUTUEL POOLS APPROVED
+21 BY THE COMMISSION.
+22 (2) A PAYOUT TO A WINNING BETTOR SHALL BE PAID FROM MONEY
+23 WAGERED BY BETTORS AND MAY NOT CONSTITUTE A WAGER AGAINST THE SPORTS
+24 WAGERING FACILITY LICENSEE.
+25 (3) A SPORTS WAGERING FACILITY LICENSEE CONDUCTING
+26 WAGERING ON HISTORICAL HORSE RACES MAY NOT CONDUCT WAGERING IN A
+27 MANNER THAT RESULTS IN BETTORS WAGERING AGAINST THE SPORTS WAGERING
+28 FACILITY LICENSEE, OR IN A MANNER SO THAT THE AMOUNT RETAINED BY THE
+29 SPORTS WAGERING FACILITY LICENSEE IS DEPENDENT ON THE OUTCOME OF ANY
+30 PARTICULAR RACE OR THE SUCCESS OF ANY PARTICULAR WAGER.
+HOUSE BILL 1048 9
+1 (I) (1) A SPORTS WAGERING FACILITY SHALL OPERATE A HISTORICAL
+2 HORSE RACING PARI–MUTUEL POOL OR POOLS IN A MANNER AND METHOD
+3 APPROVED BY THE COMMISSION.
+4 (2) A SPORTS WAGERING FACILITY LICENSEE OFFERING WAGERING
+5 ON HISTORICAL HORSE RACES MAY OPERATE A PLAYER–FUNDED POOL OR POOLS IN
+6 A MANNER AND METHOD APPROVED BY THE COMMISSION FOR THE PURPOSE OF
+7 ENSURING THAT SUFFICIENT FUNDS ARE AVAILABLE AT ALL TIMES TO PAY ANY
+8 WINNING WAGERS IN SITUATIONS WHERE A PARI–MUTUEL POOL BECOMES A MINUS
+9 POOL.
+10 (3) FOR EACH WAGER MADE, A SPORTS WAGERING FACILITY
+11 LICENSEE MAY ASSIGN A PERCENTAGE OF THE WAGER TO A PLAYER–FUNDED POOL
+12 OR POOLS.
+13 (J) (1) THE MINIMUM WAGER THAT A SPORTS WAGERING FACILITY
+14 LICENSEE MAY ACCEPT ON A WAGER BASED ON THE OUTCOME OF A HISTORICAL
+15 HORSE RACE OR RACES IS 10 CENTS.
+16 (2) THE MINIMUM PAYOUT ON ANY WAGER MAY NOT BE LESS THAN
+17 THE AMOUNT WAGERED.
+18 9–1E–12.
+19 (a) (1) The Commission shall account to the Comptroller for all of the revenue
+20 under this subtitle.
+21 (2) The proceeds from sports wagering, less the amount retained by the
+22 licensee under subsection (b)(1) of this section, shall be under the control of the Comptroller
+23 and distributed as provided under subsection (b) of this section.
+24 (b) (1) (i) Except as provided in subparagraphs (ii), (iii), and (iv) of this
+25 paragraph, all proceeds from sports wagering shall be electronically transferred monthly
+26 into the State Lottery Fund established under Subtitle 1 of this title.
+27 (ii) A Class A–1 and A–2 sports wagering facility licensee shall
+28 retain 85% of the proceeds from sports wagering conducted at the locations described in §
+29 9–1E–09(a) of this subtitle.
+30 (iii) A Class B–1 and B–2 sports wagering facility licensee shall
+31 retain 85% of the proceeds from sports wagering conducted at the location described in the
+32 licensee’s application.
+33 (iv) A mobile sports wagering licensee shall retain 85% of the
+34 proceeds from online sports wagering received by the licensee.
+10 HOUSE BILL 1048
+1 (2) All proceeds from sports wagering in the State Lottery Fund
+2 established under Subtitle 1 of this title shall be distributed on a monthly basis, on a
+3 properly approved transmittal prepared by the Commission to the Blueprint for Maryland’s
+4 Future Fund established under § 5–206 of the Education Article.
+5 (c) A winning wager on a sporting event that is not claimed by the winner within
+6 182 days after the wager is won shall:
+7 (1) become the property of the State; and
+8 (2) be distributed to the Problem Gambling Fund established under §
+9 9–1A–33 of this title.
+10 (d) If a sports wagering licensee returns to successful players more than the
+11 amount of money wagered in any month, the licensee may subtract that amount from the
+12 proceeds of up to the three following months.
+13 (e) The admissions and amusement tax may not be imposed on any proceeds from
+14 sports wagering.
+15 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+16 1, 2025.
+[DELETED: :CA      5   C A S F l s w f t a w o h h r i a c w B  A S a  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  H  9  ( I  ( “  ( “ r l m t h o a l i b t S R  ( “   ( t   ( t a   ( f   ( a f  ( ( “    ( a    ( a    ( a    ( a e s o v g c i w e p    ( a    ( e R h o     1 t     2 t a     3 t o r t m o t a]
+[DELETED: H 3     4 t   ) ;IA    () ](V p    () a](I p   ( “    ( a    ( a  ( “ e b a s o m o w i s b t b p o m p e w i w i b  ( ( “ w o   ( “ A  ( “ t  ( “ 9  ( ( O C    ( i t     1 a t     2 a]
+[DELETED:  H     ( s B s w f l t a a w m t r f l l    ( s B     1 2     2 $    ( i a   ( ( T C s i a C B o C B s w t     1 t h o a l i b t S R C t     2 a f i     3 a p w h a c b l i t f 2    ( I l i p 9  ( A ]E()X F N  w   ( b    ( a l]
+[DELETED: H 5    ( a t    ( s u f p f ( p m l b p h w s    ( a w 1    ( a t s    ( a m b    ( s i s o   ( o a s k d o m a b t C  ( A ]E()X F N  s o ) ( S§91U   E   () AE  S W L I T H O A L  SA F L I U  AII O T9()(  () MSFTIA A T A IM RC§14B A O U   O T U E,;E R ]
+[DELETED:  H   () IA A S S FY I T S L I T O O L O A S S  A 9()). ( S W F L T I N U P  O T S O A M S() ( N ( “ML  ( “M”§1L    RA. E R ( “P–”§1IMG    U E RRA.() H S A O T A S W F A T O S W O H H   99.() S:P ( –;IMG  ( B C O H H R O A() ( P W O H H R M B O I A D A O T P O T S O. ( () S()U II H  D A A G E O PIM B]
+[DELETED: H 7 O H H R A A E O EIM.  () IH E T T O F A B P T()   H R O O T D A H A B T.() BES  ONS() ( () IN O.  () S()IU T S II O T PH O  () TIH O  N0. ( AIM B P O M A O E T F V B (  A B D A A I T TS  ( B T B M A W SS TG I T L O T R O RS T D ON S ]
+[DELETED:  H  ( () H T S M A T ARS.  () T(IH I   1 A O T D T H HN    2 O T T I D O ( () AF A B F T BRS WS :   1 ’;RS   2 ;E    3  R O T R O RS O A PF   () IHRS.() (  W O A H H R O MIM O. (  ( S W F L C O H H R M N C W I A LE O I A M T A R B T]
+[DELETED: H 9() (  S W F S O A H R PIM P O P I A M A M O. ( RF O T S F A A A A T T P AIM ( F E W ME A S W FRF() ( H M W T A S W F  0. (  9  ( ( T u   ( T l a  ( ( ( E p i    ( A C A a A s w f l s r 9    ( A C B a B s w f l s r l    ( A m s w l s r 8 o t p]
+[DELETED:  H    ( A p f s w i t S L F e u S 1 o t t s b d o a m b o a p F  ( A 1   ( b   ( b d t t P G F e u § 9  ( I a s w l r t s p m t t a p  ( T s  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1048
+C7, C6 5lr2909
+CF SB 982
+By: Delegates Buckel, Fair, Hornberger, Kerr, Pippy, Tomlinson, and Vogel
+Introduced and read first time: February 5, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Sports Wagering – Wagers on Historical Horse Races – Authorization
+3 FOR the purpose of altering the definition of “sporting event” for purposes of provisions of
+4 law governing sports wagering to include historical horse races; authorizing certain
+5 sports wagering facility licensees to accept wagers on historical horse races in a
+6 certain manner and subject to certain limitations; and generally relating to sports
+7 wagering on historical horse races.
+8 BY repealing and reenacting, without amendments,
+9 Article – State Government
+10 Section 9–1E–01(a), (b), (d), (h), and (j) through (m), 9–1E–06(a)(1)(ii) through (v)
+11 and (2), and 9–1E–12
+12 Annotated Code of Maryland
+13 (2021 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Article – State Government
+16 Section 9–1E–01(i) and 9–1E–09(a) and (b)
+17 Annotated Code of Maryland
+18 (2021 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – State Government
+21 Section 9–1E–09(f) and 9–1E–09.1
+22 Annotated Code of Maryland
+23 (2021 Replacement Volume and 2024 Supplement)
+24 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+25 That the Laws of Maryland read as follows:
+26 Article – State Government
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1048*
+
+2 HOUSE BILL 1048
+1 9–1E–01.
+2 (a) In this subtitle the following words have the meanings indicated.
+3 (b) “Commission” has the meaning stated in § 9–1A–01 of this title.
+4 (d) “Horse racing licensee” means the holder of a license issued by the State
+5 Racing Commission under § 11–510 of the Business Regulation Article.
+6 (h) “Proceeds” means the amount of money wagered on a sporting event, less:
+7 (1) the amount returned to successful bettors;
+8 (2) the cash equivalents of any merchandise or thing of value awarded as
+9 a prize to successful bettors;
+10 (3) free bets and promotional credits redeemed by bettors; and
+11 (4) all excise taxes paid by a sports wagering licensee in accordance with
+12 federal law.
+13 (i) (1) “Sporting event” means:
+14 (i) a professional sports or athletic event;
+15 (ii) a collegiate sports or athletic event;
+16 (iii) an Olympic or international sports or athletic event;
+17 (iv) an electronic sports or video game competition in which each
+18 participant is at least 18 years old;
+19 (v) a motor race event sanctioned by a motor racing governing entity;
+20 (vi) except as otherwise prohibited under Title 11 of the Business
+21 Regulation Article or the federal Interstate Horse Racing Act, a LIVE horse race, held in or
+22 out of the State, if consented to and approved by:
+23 1. the horse racing licensee of the applicable breed;
+24 2. the organization representing the majority of the owners
+25 and trainers of the applicable breed in the State;
+26 3. the organization representing the majority of the
+27 applicable breeders in the State; and
+
+HOUSE BILL 1048 3
+1 4. the State Racing Commission;
+2 (VII) A HISTORICAL HORSE RACE;
+3 [(vii)] (VIII) any portion of a sporting event, including the individual
+4 performance statistics of athletes or competitors in a sporting event; or
+5 [(viii)] (IX) an award event or competition of national or international
+6 prominence if expressly authorized by the Commission.
+7 (2) “Sporting event” does not include:
+8 (i) a high school sports or athletic event; or
+9 (ii) a fantasy competition regulated under Subtitle 1D of this title.
+10 (j) “Sports wagering” means the business of accepting wagers on any sporting
+11 event by any system or method of wagering, including single–game bets, teaser bets,
+12 parlays, over–under, moneyline, pools, exchange wagering, in–game wagering, in–play
+13 bets, proposition bets, and straight bets.
+14 (k) (1) “Sports wagering facility licensee” means a sports wagering licensee
+15 who is authorized to conduct and operate sports wagering at the sports wagering facility
+16 owned, leased, or occupied by the sports wagering licensee.
+17 (2) “Sports wagering facility licensee” includes the holder of a Class A–1,
+18 A–2, B–1, or B–2 sports wagering facility license issued under § 9–1E–06 of this subtitle.
+19 (l) “Sports wagering license” means a license issued by the Commission under
+20 this subtitle that authorizes the holder to accept wagers on sporting events.
+21 (m) “Sports wagering licensee” means the holder of a sports wagering license.
+22 9–1E–06.
+23 (a) (1) On an award of a license by the Sports Wagering Application Review
+24 Commission established under § 9–1E–15 of this subtitle, the Commission shall:
+25 (ii) issue a Class A–2 sports wagering facility license to an applicant
+26 that meets the requirements for licensure under this subtitle who is:
+27 1. a video lottery operator with 1,000 or fewer video lottery
+28 terminals; or
+29 2. a horse racing licensee;
+
+4 HOUSE BILL 1048
+1 (iii) subject to paragraphs (2) and (3) of this subsection, issue a Class
+2 B–1 sports wagering facility license to any applicant who meets the requirements for
+3 licensure under this subtitle and who is not eligible for a Class B–2 sports wagering facility
+4 license;
+5 (iv) subject to paragraphs (2) and (3) of this subsection, issue a Class
+6 B–2 sports wagering facility license to any applicant who is a person with less than:
+7 1. 25 full–time equivalent employees; or
+8 2. $3,000,000 in annual gross receipts; and
+9 (v) issue not more than 60 mobile sports wagering licenses to any
+10 applicant who meets the requirements for licensure under this subtitle.
+11 (2) (i) The Commission shall issue a Class B–1 or Class B–2 sports
+12 wagering facility license to an applicant that meets the requirements for licensure under
+13 this subtitle who is:
+14 1. the holder of a license issued by the State Racing
+15 Commission under § 11–524 of the Business Regulation Article, including a subsidiary of
+16 the license holder;
+17 2. a person who is the owner or lessee of a facility approved
+18 for satellite simulcast betting before January 1, 2021, unless the satellite simulcast facility
+19 is located at a video lottery facility or a racetrack; and
+20 3. a person who holds a commercial bingo license, if the
+21 facility at which the person operates commercial bingo was permitted to operate at least
+22 200 electronic bingo machines or electronic tip jar machines on January 1, 2021.
+23 (ii) In addition to the Class B–1 and B–2 sports wagering facility
+24 licenses issued in accordance with subparagraph (i) of this paragraph, the Commission may
+25 issue not more than 30 Class B–1 and Class B–2 sports wagering facility licenses under
+26 paragraph (1) of this subsection.
+27 9–1E–09.
+28 (a) [A] EXCEPT AS PROVIDED IN SUBSECTION (F) OF THIS SECTION, A sports
+29 wagering facility licensee may accept wagers on sporting events that are made:
+30 (1) by an individual physically present:
+31 (i) at a video lottery facility, if the sports wagering licensee is a video
+32 lottery operator;
+
+HOUSE BILL 1048 5
+1 (ii) at Pimlico Race Course or a race track located at Laurel Park, if
+2 the sports wagering licensee is a horse racing licensee;
+3 (iii) subject to subsection (d) of this section, at a stadium primarily
+4 used for professional football (NFL), professional major league baseball, professional
+5 hockey (NHL), professional basketball (NBA), or professional soccer (MLS), if the sports
+6 wagering licensee is the owner or a lessee or the designee of the owner or lessee of the
+7 stadium;
+8 (iv) at the Maryland State Fairgrounds in Timonium, if the sports
+9 wagering licensee is the holder of a license issued by the State Racing Commission under §
+10 11–524 of the Business Regulation Article, or a subsidiary of the license holder;
+11 (v) at a satellite simulcast facility, if the sports wagering licensee is
+12 the owner or lessee of a satellite simulcast facility described under § 9–1E–06(a)(2) of this
+13 subtitle;
+14 (vi) at a commercial bingo facility with at least 200 electronic bingo
+15 machines or electronic tip jar machines, if the sports wagering licensee is a commercial
+16 bingo operator described under § 9–1E–06(a)(2) of this subtitle; or
+17 (vii) subject to subsection (e) of this section, at the facility identified
+18 in the application approved by the Sports Wagering Application Review Commission, if the
+19 sports wagering licensee is a holder of a Class B–1 or B–2 sports wagering facility license;
+20 or
+21 (2) on a self–service kiosk, device, or machine, approved by the
+22 Commission, located in a facility or at a location identified under item (1) of this subsection.
+23 (b) [A] EXCEPT AS PROVIDED IN SUBSECTION (F) OF THIS SECTION, A mobile
+24 sports wagering licensee may accept wagers on sporting events that are made through
+25 online sports wagering by an individual physically located in the State.
+26 (F) (1) SUBJECT TO § 9–1E–09.1 OF THIS SUBTITLE, A SPORTS WAGERING
+27 FACILITY LICENSEE MAY ACCEPT WAGERS ON HISTORICAL HORSE RACES THAT ARE
+28 MADE BY AN INDIVIDUAL PHYSICALLY PRESENT:
+29 (I) AT A THOROUGHBRED OR STANDARDBRED RACE COURSE, IF
+30 THE SPORTS WAGERING LICENSEE IS THE HOLDER OF A CLASS A–2 SPORTS
+31 WAGERING FACILITY LICENSE ISSUED UNDER § 9–1E–06(A)(1)(II) OF THIS
+32 SUBTITLE;
+33 (II) AT THE MARYLAND STATE FAIRGROUNDS IN TIMONIUM, IF
+34 THE SPORTS WAGERING LICENSEE IS THE HOLDER OF A LICENSE ISSUED BY THE
+35 STATE RACING COMMISSION UNDER § 11–524 OF THE BUSINESS REGULATION
+36 ARTICLE, OR A SUBSIDIARY OF THE LICENSE HOLDER; OR
+
+6 HOUSE BILL 1048
+1 (III) AT A SATELLITE SIMULCAST FACILITY, IF THE SPORTS
+2 WAGERING LICENSEE IS THE OWNER OR LESSEE OF A SATELLITE SIMULCAST
+3 FACILITY DESCRIBED UNDER § 9–1E–06(A)(2) OF THIS SUBTITLE.
+4 (2) A SPORTS WAGERING FACILITY LICENSEE THAT IS NOT
+5 DESCRIBED UNDER PARAGRAPH (1) OF THIS SUBSECTION OR A MOBILE SPORTS
+6 WAGERING LICENSEE MAY NOT ACCEPT WAGERS ON HISTORICAL HORSE RACES.
+7 9–1E–09.1.
+8 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+9 INDICATED.
+10 (2) “MINUS POOL” MEANS A MUTUEL POOL IN WHICH THE AMOUNT
+11 OF MONEY TO BE DISTRIBUTED ON WINNING WAGERS EXCEEDS THE AMOUNT OF
+12 MONEY CONTAINED IN THAT MUTUEL POOL.
+13 (3) “MUTUEL POOL” HAS THE MEANING STATED IN § 11–101 OF THE
+14 BUSINESS REGULATION ARTICLE.
+15 (4) “PARI–MUTUEL BETTING” HAS THE MEANING STATED IN § 11–101
+16 OF THE BUSINESS REGULATION ARTICLE.
+17 (B) THIS SECTION APPLIES ONLY TO A SPORTS WAGERING FACILITY
+18 LICENSEE AUTHORIZED TO OFFER SPORTS WAGERING ON HISTORICAL HORSE
+19 RACING IN ACCORDANCE WITH § 9–1E–09 OF THIS SUBTITLE.
+20 (C) SPORTS WAGERING ON HISTORICAL HORSE RACES:
+21 (1) SHALL BE CONDUCTED AS PARI–MUTUEL BETTING; AND
+22 (2) MAY BE CONDUCTED ON HISTORICAL HORSE RACES OF ANY
+23 BREED.
+24 (D) (1) SPORTS WAGERING ON HISTORICAL HORSE RACES MAY BE
+25 PERMITTED ONLY IN A DESIGNATED AREA ON THE PREMISES OF THE SPORTS
+26 WAGERING FACILITY LICENSEE THAT IS APPROVED BY THE COMMISSION.
+27 (2) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE
+28 SPORTS WAGERING FACILITY LICENSEE SHALL POST IN CONSPICUOUS PLACES IN
+29 THE DESIGNATED AREA A GENERAL EXPLANATION OF PARI–MUTUEL BETTING
+
+HOUSE BILL 1048 7
+1 OFFERED ON HISTORICAL HORSE RACES AND AN EXPLANATION OF EACH
+2 PARI–MUTUEL POOL OFFERED.
+3 (II) THE SPORTS WAGERING FACILITY LICENSEE SHALL SUBMIT
+4 THE EXPLANATION TO THE COMMISSION FOR APPROVAL BEFORE POSTING THE
+5 EXPLANATION.
+6 (E) A SPORTS WAGERING FACILITY LICENSEE MAY CONDUCT WAGERING ON
+7 HISTORICAL HORSE RACES ONLY ON THE DAYS AND HOURS APPROVED BY THE
+8 COMMISSION.
+9 (F) BEFORE OFFERING WAGERING ON HISTORICAL HORSE RACES, A SPORTS
+10 WAGERING FACILITY LICENSEE SHALL FIRST OBTAIN THE COMMISSION’S WRITTEN
+11 APPROVAL OF ALL TYPES OF WAGERS OFFERED.
+12 (G) (1) (I) AN INDIVIDUAL MAY WAGER ON HISTORICAL HORSE RACES
+13 ONLY ON A TERMINAL APPROVED BY THE COMMISSION.
+14 (II) SUBJECT TO SUBPARAGRAPH (III) OF THIS PARAGRAPH,
+15 THE COMMISSION SHALL APPROVE THE TOTAL NUMBER OF TERMINALS THAT MAY
+16 BE AVAILABLE AT THE SPORTS WAGERING FACILITY.
+17 (III) THE COMMISSION MAY NOT AUTHORIZE THE OPERATION OF
+18 MORE THAN 4,000 TERMINALS UNDER THIS SECTION.
+19 (2) APPROXIMATE ODDS OR PAYOUTS FOR EACH PARI–MUTUEL POOL
+20 SHALL BE POSTED OR MADE AVAILABLE ON EACH TERMINAL FOR VIEWING BY
+21 INDIVIDUAL BETTORS.
+22 (3) ONCE A BETTOR DEPOSITS AN AMOUNT IN THE TERMINAL
+23 OFFERING WAGERING ON HISTORICAL HORSE RACES, ONE OR MORE HISTORICAL
+24 HORSE RACES SHALL BE MADE AVAILABLE FOR WAGERING.
+25 (4) BEFORE THE BETTOR MAKES ANY WAGER SELECTIONS, THE
+26 TERMINAL MAY NOT DISPLAY ANY INFORMATION THAT WOULD ALLOW THE BETTOR
+27 TO IDENTIFY THE HISTORICAL HORSE RACE OR RACES ON WHICH THE BETTOR IS
+28 WAGERING, INCLUDING THE LOCATION OF THE RACE OR RACES, THE DATE ON
+29 WHICH THE RACE OR RACES WERE RUN, THE NAMES OF THE HORSES IN THE RACE
+30 OR RACES, OR THE NAMES OF THE JOCKEYS OR DRIVERS THAT RODE THE HORSES
+31 IN THE RACE OR RACES.
+
+8 HOUSE BILL 1048
+1 (5) (I) THE TERMINAL SHALL MAKE AVAILABLE TRUE AND
+2 ACCURATE PAST PERFORMANCE INFORMATION ON THE HISTORICAL HORSE RACE
+3 TO THE BETTOR BEFORE THE BETTOR MAKES THE BETTOR’S WAGER SELECTIONS.
+4 (II) THE INFORMATION PROVIDED UNDER SUBPARAGRAPH (I)
+5 OF THIS PARAGRAPH SHALL BE:
+6 1. CURRENT AS OF THE DAY THE HISTORICAL HORSE
+7 RACE WAS ACTUALLY RUN; AND
+8 2. DISPLAYED ON THE TERMINAL IN DATA OR
+9 GRAPHICAL FORM.
+10 (6) (I) AFTER A BETTOR FINALIZES THE BETTOR’S WAGER
+11 SELECTIONS, THE TERMINAL SHALL DISPLAY:
+12 1. THE BETTOR’S SELECTIONS;
+13 2. THE OFFICIAL RESULTS OF EACH RACE; AND
+14 3. A REPLAY OF THE RACE OR RACES, OR A PORTION
+15 THEREOF, WHETHER BY DIGITAL OR ANIMATED DEPICTION OR BY WAY OF A VIDEO
+16 RECORDING.
+17 (II) THE IDENTITY OF EACH RACE SHALL BE REVEALED TO THE
+18 BETTOR AFTER THE BETTOR HAS PLACED THE BETTOR’S WAGER.
+19 (H) (1) A WAGER ON A HISTORICAL HORSE RACE OR MULTIPLE
+20 HISTORICAL HORSE RACES SHALL BE PLACED IN PARI–MUTUEL POOLS APPROVED
+21 BY THE COMMISSION.
+22 (2) A PAYOUT TO A WINNING BETTOR SHALL BE PAID FROM MONEY
+23 WAGERED BY BETTORS AND MAY NOT CONSTITUTE A WAGER AGAINST THE SPORTS
+24 WAGERING FACILITY LICENSEE.
+25 (3) A SPORTS WAGERING FACILITY LICENSEE CONDUCTING
+26 WAGERING ON HISTORICAL HORSE RACES MAY NOT CONDUCT WAGERING IN A
+27 MANNER THAT RESULTS IN BETTORS WAGERING AGAINST THE SPORTS WAGERING
+28 FACILITY LICENSEE, OR IN A MANNER SO THAT THE AMOUNT RETAINED BY THE
+29 SPORTS WAGERING FACILITY LICENSEE IS DEPENDENT ON THE OUTCOME OF ANY
+30 PARTICULAR RACE OR THE SUCCESS OF ANY PARTICULAR WAGER.
+
+HOUSE BILL 1048 9
+1 (I) (1) A SPORTS WAGERING FACILITY SHALL OPERATE A HISTORICAL
+2 HORSE RACING PARI–MUTUEL POOL OR POOLS IN A MANNER AND METHOD
+3 APPROVED BY THE COMMISSION.
+4 (2) A SPORTS WAGERING FACILITY LICENSEE OFFERING WAGERING
+5 ON HISTORICAL HORSE RACES MAY OPERATE A PLAYER–FUNDED POOL OR POOLS IN
+6 A MANNER AND METHOD APPROVED BY THE COMMISSION FOR THE PURPOSE OF
+7 ENSURING THAT SUFFICIENT FUNDS ARE AVAILABLE AT ALL TIMES TO PAY ANY
+8 WINNING WAGERS IN SITUATIONS WHERE A PARI–MUTUEL POOL BECOMES A MINUS
+9 POOL.
+10 (3) FOR EACH WAGER MADE, A SPORTS WAGERING FACILITY
+11 LICENSEE MAY ASSIGN A PERCENTAGE OF THE WAGER TO A PLAYER–FUNDED POOL
+12 OR POOLS.
+13 (J) (1) THE MINIMUM WAGER THAT A SPORTS WAGERING FACILITY
+14 LICENSEE MAY ACCEPT ON A WAGER BASED ON THE OUTCOME OF A HISTORICAL
+15 HORSE RACE OR RACES IS 10 CENTS.
+16 (2) THE MINIMUM PAYOUT ON ANY WAGER MAY NOT BE LESS THAN
+17 THE AMOUNT WAGERED.
+18 9–1E–12.
+19 (a) (1) The Commission shall account to the Comptroller for all of the revenue
+20 under this subtitle.
+21 (2) The proceeds from sports wagering, less the amount retained by the
+22 licensee under subsection (b)(1) of this section, shall be under the control of the Comptroller
+23 and distributed as provided under subsection (b) of this section.
+24 (b) (1) (i) Except as provided in subparagraphs (ii), (iii), and (iv) of this
+25 paragraph, all proceeds from sports wagering shall be electronically transferred monthly
+26 into the State Lottery Fund established under Subtitle 1 of this title.
+27 (ii) A Class A–1 and A–2 sports wagering facility licensee shall
+28 retain 85% of the proceeds from sports wagering conducted at the locations described in §
+29 9–1E–09(a) of this subtitle.
+30 (iii) A Class B–1 and B–2 sports wagering facility licensee shall
+31 retain 85% of the proceeds from sports wagering conducted at the location described in the
+32 licensee’s application.
+33 (iv) A mobile sports wagering licensee shall retain 85% of the
+34 proceeds from online sports wagering received by the licensee.
+
+10 HOUSE BILL 1048
+1 (2) All proceeds from sports wagering in the State Lottery Fund
+2 established under Subtitle 1 of this title shall be distributed on a monthly basis, on a
+3 properly approved transmittal prepared by the Commission to the Blueprint for Maryland’s
+4 Future Fund established under § 5–206 of the Education Article.
+5 (c) A winning wager on a sporting event that is not claimed by the winner within
+6 182 days after the wager is won shall:
+7 (1) become the property of the State; and
+8 (2) be distributed to the Problem Gambling Fund established under §
+9 9–1A–33 of this title.
+10 (d) If a sports wagering licensee returns to successful players more than the
+11 amount of money wagered in any month, the licensee may subtract that amount from the
+12 proceeds of up to the three following months.
+13 (e) The admissions and amusement tax may not be imposed on any proceeds from
+14 sports wagering.
+15 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+16 1, 2025.
+
+[DELETED: :CA      5   C A S F l s w f t a w o h h r i a c w B  A S a  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  H  9  ( I  ( “  ( “ r l m t h o a l i b t S R  ( “   ( t   ( t a   ( f   ( a f  ( ( “    ( a    ( a    ( a    ( a e s o v g c i w e p    ( a    ( e R h o     1 t     2 t a     3 t o r t m o t a]
+[DELETED: H 3     4 t   ) ;IA    () ](V p    () a](I p   ( “    ( a    ( a  ( “ e b a s o m o w i s b t b p o m p e w i w i b  ( ( “ w o   ( “ A  ( “ t  ( “ 9  ( ( O C    ( i t     1 a t     2 a]
+[DELETED:  H     ( s B s w f l t a a w m t r f l l    ( s B     1 2     2 $    ( i a   ( ( T C s i a C B o C B s w t     1 t h o a l i b t S R C t     2 a f i     3 a p w h a c b l i t f 2    ( I l i p 9  ( A ]E()X F N  w   ( b    ( a l]
+[DELETED: H 5    ( a t    ( s u f p f ( p m l b p h w s    ( a w 1    ( a t s    ( a m b    ( s i s o   ( o a s k d o m a b t C  ( A ]E()X F N  s o ) ( S§91U   E   () AE  S W L I T H O A L  SA F L I U  AII O T9()(  () MSFTIA A T A IM RC§14B A O U   O T U E,;E R ]
+[DELETED:  H   () IA A S S FY I T S L I T O O L O A S S  A 9()). ( S W F L T I N U P  O T S O A M S() ( N ( “ML  ( “M”§1L    RA. E R ( “P–”§1IMG    U E RRA.() H S A O T A S W F A T O S W O H H   99.() S:P ( –;IMG  ( B C O H H R O A() ( P W O H H R M B O I A D A O T P O T S O. ( () S()U II H  D A A G E O PIM B]
+[DELETED: H 7 O H H R A A E O EIM.  () IH E T T O F A B P T()   H R O O T D A H A B T.() BES  ONS() ( () IN O.  () S()IU T S II O T PH O  () TIH O  N0. ( AIM B P O M A O E T F V B (  A B D A A I T TS  ( B T B M A W SS TG I T L O T R O RS T D ON S ]
+[DELETED:  H  ( () H T S M A T ARS.  () T(IH I   1 A O T D T H HN    2 O T T I D O ( () AF A B F T BRS WS :   1 ’;RS   2 ;E    3  R O T R O RS O A PF   () IHRS.() (  W O A H H R O MIM O. (  ( S W F L C O H H R M N C W I A LE O I A M T A R B T]
+[DELETED: H 9() (  S W F S O A H R PIM P O P I A M A M O. ( RF O T S F A A A A T T P AIM ( F E W ME A S W FRF() ( H M W T A S W F  0. (  9  ( ( T u   ( T l a  ( ( ( E p i    ( A C A a A s w f l s r 9    ( A C B a B s w f l s r l    ( A m s w l s r 8 o t p]
+[DELETED:  H    ( A p f s w i t S L F e u S 1 o t t s b d o a m b o a p F  ( A 1   ( b   ( b d t t P G F e u § 9  ( I a s w l r t s p m t t a p  ( T s  S 1]

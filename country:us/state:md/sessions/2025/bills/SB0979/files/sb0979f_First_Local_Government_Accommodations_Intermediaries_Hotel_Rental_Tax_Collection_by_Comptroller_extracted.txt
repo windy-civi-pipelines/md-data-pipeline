@@ -1,0 +1,2025 @@
+Title: SENATE BILL 979
+Official Title: SENATE BILL 979
+Number of Sections: 1
+Source: versions - First - Local Government - Accommodations Intermediaries - Hotel Rental Tax Collection by Comptroller
+Media Type: application/pdf
+Strikethrough Detection: 31 sections found
+
+================================================================================
+
+Section 1:
+Q8 5lr0949
+CF HB 1103
+By: Senator Guzzone
+Introduced and read first time: January 28, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Local Government – Accommodations Intermediaries – Hotel Rental Tax
+3 Collection by Comptroller
+4 FOR the purpose of requiring certain accommodations intermediaries to collect and remit
+5 the hotel rental tax to the Comptroller rather than to each county; providing for the
+6 administration of the hotel rental tax by the Comptroller; providing that certain
+7 provisions of State law prevail over certain local laws or agreements related to the
+8 hotel rental tax; repealing the authority of certain counties to provide for certain
+9 exemptions from the hotel rental tax; establishing certain requirements for certain
+10 audits or investigations of an accommodations intermediary by the Comptroller; and
+11 generally relating to requiring accommodations intermediaries to collect and remit
+12 hotel rental taxes to the Comptroller.
+13 BY repealing and reenacting, with amendments,
+14 Article – Local Government
+15 Section 20–401 through 20–404, 20–406 through 20–411, 20–413, 20–423, 20–425
+16 through 20–428, 20–431, 20–432, 20–434, 20–436, and 20–603(b)
+17 Annotated Code of Maryland
+18 (2013 Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Local Government
+21 Section 20–402.1, 20–405(e), 20–407.1, and 20–433(c)
+22 Annotated Code of Maryland
+23 (2013 Volume and 2024 Supplement)
+24 BY repealing and reenacting, without amendments,
+25 Article – Local Government
+26 Section 20–603(a) and (f)
+27 Annotated Code of Maryland
+28 (2013 Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0979*
+2 SENATE BILL 979
+1 BY repealing and reenacting, without amendments,
+2 Article – Tax – General
+3 Section 11–101(a), (a–3), (c–10), (j–3), and (o)
+4 Annotated Code of Maryland
+5 (2022 Replacement Volume and 2024 Supplement)
+6 BY repealing and reenacting, with amendments,
+7 Article – Tax – General
+8 Section 11–101(a–1), (a–2), (a–4), (j–2), and (l), 11–403(a), 13–201, and 13–302
+9 Annotated Code of Maryland
+10 (2022 Replacement Volume and 2024 Supplement)
+11 BY adding to
+12 Article – Tax – General
+13 Section 11–502.3
+14 Annotated Code of Maryland
+15 (2022 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 The Public Local Laws of Howard County
+18 Section 20.400
+19 Article 14 – Public Local Laws of Maryland
+20 (1977 Edition and October 2022 Supplement, as amended)
+21 BY repealing and reenacting, with amendments,
+22 The Public Local Laws of Prince George’s County
+23 Section 10–218.01
+24 Article 17 – Public Local Laws of Maryland
+25 (2015 Edition and January 2018 Supplement, as amended)
+26 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+27 That the Laws of Maryland read as follows:
+28 Article – Local Government
+29 20–401.
+30 (a) In this part the following words have the meanings indicated.
+31 (B) (1) “ACCOMMODATION” HAS THE MEANING STATED IN § 11–101 OF
+32 THE TAX – GENERAL ARTICLE.
+33 (2) “ACCOMMODATION” INCLUDES THE RIGHT TO OCCUPY ANY OF
+34 THE FOLLOWING AS A TRANSIENT GUEST:
+SENATE BILL 979 3
+1 (I) AN APARTMENT;
+2 (II) A COTTAGE;
+3 (III) A HOSTELRY;
+4 (IV) AN INN;
+5 (V) A MOTEL;
+6 (VI) A ROOMING HOUSE; OR
+7 (VII) A TOURIST HOME.
+8 (C) “ACCOMMODATIONS INTERMEDIARY” HAS THE MEANING STATED IN §
+9 11–101 OF THE TAX – GENERAL ARTICLE.
+10 (D) “ACCOMMODATIONS PROVIDER” HAS THE MEANING STATED IN § 11–101
+11 OF THE TAX – GENERAL ARTICLE.
+12 (E) “BOOKING TRANSACTION” HAS THE MEANING STATED IN § 11–101 OF
+13 THE TAX – GENERAL ARTICLE.
+14 [(b)] (F) (1) “Hotel” means an establishment that offers sleeping
+15 accommodations for compensation.
+16 (2) “Hotel” includes:
+17 (i) an apartment;
+18 (ii) a cottage;
+19 (iii) a hostelry;
+20 (iv) an inn;
+21 (v) a motel;
+22 (vi) a rooming house; [or]
+23 (vii) a tourist home; OR
+24 (VIII) A SHORT–TERM RENTAL UNIT.
+4 SENATE BILL 979
+1 [(c)] (G) “Hotel rental tax” means the tax on [a transient charge] THE TAXABLE
+2 PRICE PAID FOR A BOOKING TRANSACTION.
+3 [(d) (1) (i) Except as provided in subparagraphs (ii), (iii), and (iv) of this
+4 paragraph, “transient charge” means a hotel charge for sleeping accommodations for a
+5 period not exceeding 4 consecutive months.
+6 (ii) In Carroll County, “transient charge” means a hotel charge for
+7 sleeping accommodations for a period not exceeding 25 days.
+8 (iii) In Frederick County, “transient charge” means a hotel charge for
+9 sleeping accommodations for a period not exceeding 90 days.
+10 (iv) In Garrett County and Washington County, “transient charge”
+11 means a hotel charge for sleeping accommodations for a period not exceeding 30 days.
+12 (2) “Transient charge” does not include any hotel charge for:
+13 (i) services; or
+14 (ii) accommodations other than sleeping accommodations.]
+15 (H) “SHORT–TERM RENTAL UNIT” HAS THE MEANING STATED IN § 11–101
+16 OF THE TAX – GENERAL ARTICLE.
+17 (I) “TAXABLE PRICE” HAS THE MEANING STATED IN § 11–101 OF THE TAX –
+18 GENERAL ARTICLE.
+19 [(e)] (J) “Western Maryland code county” means a code county in the Western
+20 Maryland class as established under § 9–302 of this article.
+21 20–402.
+22 (a) This part applies [only to:
+23 (1) subject to subsection (b) of this section, a charter county;
+24 (2) a code county;
+25 (3) Calvert County;
+26 (4) Carroll County;
+27 (5) Cecil County;
+28 (6) Garrett County;
+SENATE BILL 979 5
+1 (7) St. Mary’s County;
+2 (8) Somerset County; and
+3 (9) Washington County] TO EACH COUNTY IN THE STATE.
+4 (b) To the extent this part conflicts with another law that applies to a [charter]
+5 county, [the other law shall prevail over] this part SHALL PREVAIL OVER THE OTHER
+6 LAW.
+7 20–402.1.
+8 THIS SUBTITLE APPLIES TO AN ACCOMMODATIONS INTERMEDIARY ONLY IF
+9 THE ACCOMMODATIONS INTERMEDIARY FACILITATES:
+10 (1) BOOKING TRANSACTIONS OR SALES FOR USE OF AN
+11 ACCOMMODATION IN THE STATE TOTALING $100,000 OR MORE IN THE PREVIOUS OR
+12 CURRENT CALENDAR YEAR; OR
+13 (2) 200 OR MORE BOOKING TRANSACTIONS OR SALES FOR USE OF AN
+14 ACCOMMODATION IN THE STATE IN THE PREVIOUS OR CURRENT CALENDAR YEAR.
+15 20–403.
+16 (a) Except as provided in § 20–404 of this subtitle, a county may impose, by
+17 resolution, a hotel rental tax.
+18 (b) (1) This subsection applies only to Calvert County, Charles County, and St.
+19 Mary’s County.
+20 (2) The governing body of a county shall hold a public hearing before
+21 imposing a hotel rental tax.
+22 (3) The hearing:
+23 (i) shall be advertised twice in a newspaper of general circulation in
+24 the county at least 10 days before the hearing; and
+25 (ii) may not be part of the annual budget hearing.
+26 (C) (1) SUBJECT TO SUBSECTION (D) OF THIS SECTION, TITLE 11 AND
+27 TITLE 13, SUBTITLE 3 OF THE TAX – GENERAL ARTICLE AND THIS TITLE SHALL
+28 PREVAIL TO THE EXTENT OF ANY CONFLICT WITH ANY LOCAL LAW, ORDINANCE, OR
+29 RESOLUTION RELATING TO THE COUNTY HOTEL RENTAL TAX.
+6 SENATE BILL 979
+1 (2) ANY LOCAL LAW, ORDINANCE, OR RESOLUTION THAT IS
+2 PREEMPTED UNDER PARAGRAPH (1) OF THIS SUBSECTION IS NOT REPEALED BUT
+3 SHALL BE ADMINISTERED IN CONFORMITY WITH STATE LAW.
+4 (D) BEGINNING JANUARY 1, 2028, TITLE 11 AND TITLE 13, SUBTITLE 3 OF
+5 THE TAX – GENERAL ARTICLE AND THIS TITLE SHALL PREVAIL TO THE EXTENT OF
+6 ANY CONFLICT WITH AN AGREEMENT BETWEEN A COUNTY AND AN
+7 ACCOMMODATIONS INTERMEDIARY.
+8 20–404.
+9 (a) The hotel rental tax does not apply to the sale of a right to occupy [a room or
+10 lodgings] AN ACCOMMODATION as a transient guest at a dormitory or other lodging
+11 facility that:
+12 (1) is operated solely in support of the headquarters, a training facility, a
+13 conference facility, an awards facility, or the campus of a corporation or other organization;
+14 (2) provides lodging solely for employees, contractors, vendors, and other
+15 invitees of the corporation that owns the dormitory or lodging facility; and
+16 (3) does not offer lodging services to the general public.
+17 [(b) By resolution, Calvert County and St. Mary’s County may provide a tax
+18 exemption for classes of hotels.
+19 (c) In Carroll County, the hotel rental tax does not apply to a hotel with 10 or
+20 fewer sleeping rooms.
+21 (d) Cecil County may impose the hotel rental tax only on a transient charge paid
+22 to a hotel located in any part of Cecil County that:
+23 (1) is specified by the governing body of Cecil County as a population
+24 center;
+25 (2) is not larger than 10 square miles in geographic area; and
+26 (3) has a population of at least 6,000 residents.
+27 (e) In Frederick County, the hotel rental tax does not apply to a hotel with:
+28 (1) 10 or fewer sleeping rooms in its main building; and
+29 (2) not more than 20 additional sleeping rooms in auxiliary structures on
+30 the hotel’s property.
+SENATE BILL 979 7
+1 (f) In Washington County, the hotel rental tax does not apply to a transient
+2 charge paid to a hotel by:
+3 (1) the federal government;
+4 (2) a state; or
+5 (3) a unit or instrumentality of a state or the federal government.]
+6 (B) A COUNTY MAY NOT IMPOSE A HIGHER TAX RATE ON THE SALE OF A
+7 RIGHT TO OCCUPY A SHORT–TERM RENTAL UNIT THAN IT IMPOSES ON THE RENTAL
+8 OF ANY OTHER ACCOMMODATION.
+9 20–405.
+10 (E) IF A COUNTY MODIFIES A HOTEL RENTAL TAX RATE UNDER THIS
+11 SECTION, THE COUNTY SHALL NOTIFY THE COMPTROLLER IN WRITING AT LEAST 60
+12 DAYS BEFORE THE MODIFIED RATE TAKES EFFECT.
+13 20–406.
+14 (a) A hotel OR AN ACCOMMODATIONS PROVIDER shall:
+15 (1) give a person who is required to pay a [transient charge] HOTEL
+16 RENTAL TAX a bill that identifies the [transient charge] TAXABLE PRICE as an item
+17 separate from any other charge; [and]
+18 (2) collect the hotel rental tax from the person who pays the [transient
+19 charge.] TAXABLE PRICE; AND
+20 [(b)] (3) [A hotel shall] hold any hotel rental tax collected in trust for the county
+21 that imposes the tax until the hotel pays the tax to that county as required under this part.
+22 (B) FOR BOOKING TRANSACTIONS AND SALES FOR USE OF AN
+23 ACCOMMODATION, AN ACCOMMODATIONS INTERMEDIARY SHALL:
+24 (1) GIVE A PERSON WHO IS REQUIRED TO PAY A HOTEL RENTAL TAX A
+25 BILL THAT IDENTIFIES THE TAXABLE PRICE AS AN ITEM SEPARATE FROM ANY
+26 OTHER CHARGE;
+27 (2) COLLECT THE HOTEL RENTAL TAX FROM THE PERSON WHO PAYS
+28 THE TAXABLE PRICE; AND
+8 SENATE BILL 979
+1 (3) HOLD ANY HOTEL RENTAL TAX COLLECTED IN TRUST FOR THE
+2 COUNTY THAT IMPOSES THE TAX UNTIL THE ACCOMMODATIONS INTERMEDIARY
+3 PAYS THE TAX TO THE COMPTROLLER IN ACCORDANCE WITH § 11–502.3 OF THE TAX
+4 – GENERAL ARTICLE.
+5 20–407.
+6 (A) A person shall pay the hotel rental tax to the hotel OR ACCOMMODATIONS
+7 PROVIDER when the person pays the [transient charge] TAXABLE PRICE.
+8 (B) A PERSON SHALL PAY THE HOTEL RENTAL TAX TO THE
+9 ACCOMMODATIONS INTERMEDIARY WHEN THE PERSON PAYS THE TAXABLE PRICE
+10 FOR A BOOKING TRANSACTION FACILITATED BY THE ACCOMMODATIONS
+11 INTERMEDIARY.
+12 20–407.1.
+13 (A) AN ACCOMMODATIONS INTERMEDIARY SHALL COLLECT THE HOTEL
+14 RENTAL TAX UNDER THIS SUBTITLE ON A BOOKING TRANSACTION FOR AN
+15 ACCOMMODATION IN THE STATE FACILITATED BY THE ACCOMMODATIONS
+16 INTERMEDIARY.
+17 (B) AN ACCOMMODATIONS INTERMEDIARY OR OTHER APPROPRIATE PARTY
+18 SHALL REFUND TO A BUYER THE PROPORTIONATE AMOUNT OF THE HOTEL RENTAL
+19 TAX THAT THE BUYER HAS PAID IF:
+20 (1) A SALE IS RESCINDED OR CANCELED; OR
+21 (2) THE TAXABLE PRICE IS WHOLLY OR PARTIALLY REPAID OR
+22 CREDITED.
+23 (C) AN ACCOMMODATIONS INTERMEDIARY SHALL REPORT THE HOTEL
+24 RENTAL TAX COLLECTED UNDER THIS SECTION SEPARATELY FROM THE SALES AND
+25 USE TAX COLLECTED BY THE ACCOMMODATIONS INTERMEDIARY UNDER TITLE 11
+26 OF THE TAX – GENERAL ARTICLE.
+27 (D) AN ACCOMMODATIONS INTERMEDIARY THAT FACILITATES A BOOKING
+28 TRANSACTION FOR A BUYER ON BEHALF OF AN ACCOMMODATIONS PROVIDER
+29 SHALL:
+30 (1) REMIT TO THE COMPTROLLER THE HOTEL RENTAL TAX UNDER
+31 THIS SUBTITLE IN THE MANNER AND ON THE FORM PRESCRIBED BY THE
+32 COMPTROLLER;
+SENATE BILL 979 9
+1 (2) BE SOLELY LIABLE TO COLLECT THE HOTEL RENTAL TAX FROM
+2 THE BUYER FOR TRANSACTIONS FACILITATED BY THE ACCOMMODATIONS
+3 INTERMEDIARY;
+4 (3) BE SUBJECT TO AUDIT, EXAMINATION, INVESTIGATION, AND
+5 ASSESSMENT SOLELY BY THE COMPTROLLER UNDER TITLE 13 OF THE TAX –
+6 GENERAL ARTICLE; AND
+7 (4) BE ENTITLED TO THE PROCEDURAL RIGHTS SET FORTH UNDER
+8 TITLE 13 OF THE TAX – GENERAL ARTICLE, INCLUDING THE RIGHT TO SEEK A
+9 REFUND FOR THE OVERPAYMENT OF TAXES, THE RIGHT TO APPEAL A TAX
+10 ASSESSMENT, AND THE RIGHT TO SEEK JUDICIAL REVIEW OF A DETERMINATION
+11 MADE BY THE COMPTROLLER.
+12 (E) (1) AN ACCOMMODATIONS PROVIDER SHALL REMIT THE HOTEL
+13 RENTAL TAX DUE ON A SALE OR BOOKING TRANSACTION THAT IS NOT FACILITATED
+14 BY AN ACCOMMODATIONS INTERMEDIARY TO THE COUNTY THAT IMPOSES THE TAX.
+15 (2) (I) AN ACCOMMODATIONS PROVIDER AND AN
+16 ACCOMMODATIONS INTERMEDIARY MAY ENTER INTO AN AGREEMENT TO
+17 DETERMINE THE PARTY THAT IS RESPONSIBLE FOR REMITTING THE HOTEL RENTAL
+18 TAX TO THE COMPTROLLER IF EITHER PARTY IS A VENDOR IN THE STATE UNDER §
+19 11–401 OF THE TAX – GENERAL ARTICLE.
+20 (II) THE PARTY THAT AGREES TO REMIT THE TAX UNDER
+21 SUBPARAGRAPH (I) OF THIS PARAGRAPH SHALL BE THE SOLE PARTY HELD LIABLE
+22 FOR THE COLLECTION AND PAYMENT OF THE HOTEL RENTAL TAX.
+23 20–408.
+24 (A) A hotel OR AN ACCOMMODATIONS PROVIDER shall complete, sign, and file
+25 a hotel rental tax return with:
+26 (1) except as provided in item (2) of this section, a code county, on or before
+27 the 10th day of each month; and
+28 (2) (i) Cecil County, on or before the 10th day of each month;
+29 (ii) Talbot County and Wicomico County, on or before the 20th day
+30 of each month;
+31 (iii) a code county in the Eastern Shore class established in § 9–302
+32 of this article, Calvert County, Carroll County, Charles County, Dorchester County,
+33 Frederick County, Garrett County, St. Mary’s County, and Somerset County, on or before
+34 the 21st day of each month; and
+10 SENATE BILL 979
+1 (iv) Washington County, on or before the 25th day of each month.
+2 (B) AN ACCOMMODATIONS INTERMEDIARY SHALL FILE A HOTEL RENTAL
+3 TAX RETURN WITH THE COMPTROLLER ON OR BEFORE THE 25TH DAY OF THE
+4 MONTH.
+5 (C) THE COMPTROLLER SHALL GRANT A WAIVER FROM THE FILING OF A
+6 HOTEL RENTAL TAX RETURN IF AN ACCOMMODATIONS PROVIDER THAT PROVIDES
+7 ACCOMMODATIONS EXCLUSIVELY THROUGH AN ACCOMMODATIONS INTERMEDIARY:
+8 (1) ATTESTS ON AN ANNUAL BASIS THAT BOOKING TRANSACTIONS
+9 ARE FACILITATED BY THE ACCOMMODATIONS INTERMEDIARY; AND
+10 (2) REQUESTS A WAIVER FROM FILING THE HOTEL RENTAL TAX
+11 RETURN REQUIRED UNDER THIS TITLE.
+12 20–409.
+13 (A) [A] FOR A BOOKING TRANSACTION THAT IS NOT FACILITATED BY AN
+14 ACCOMMODATIONS INTERMEDIARY, A hotel rental tax return for a county:
+15 (1) shall be made on the form that the county requires; and
+16 (2) shall contain the information that the county requires, including the
+17 amount of:
+18 (i) [transient charges] TAXABLE PRICE paid to the hotel OR
+19 ACCOMMODATIONS PROVIDER during the prior calendar month; and
+20 (ii) the hotel rental tax required to be collected during the prior
+21 calendar month.
+22 (B) FOR A BOOKING TRANSACTION THAT IS FACILITATED BY AN
+23 ACCOMMODATIONS INTERMEDIARY, THE HOTEL RENTAL TAX RETURN SHALL BE
+24 FILED IN THE MANNER AND ON THE FORM THAT THE COMPTROLLER REQUIRES
+25 UNDER § 11–502.3 OF THE TAX – GENERAL ARTICLE.
+26 20–410.
+27 (A) A hotel OR AN ACCOMMODATIONS PROVIDER shall pay to the county the
+28 hotel rental tax collected for a calendar month with the return that covers that month.
+SENATE BILL 979 11
+1 (B) AN ACCOMMODATIONS INTERMEDIARY SHALL PAY TO THE
+2 COMPTROLLER THE HOTEL RENTAL TAX COLLECTED FOR A CALENDAR MONTH
+3 WITH THE RETURN THAT COVERS THAT MONTH.
+4 20–411.
+5 (a) Except in Calvert County, Carroll County, Charles County, St. Mary’s County,
+6 and Washington County, a hotel, AN ACCOMMODATIONS INTERMEDIARY, OR AN
+7 ACCOMMODATIONS PROVIDER is allowed, for administrative costs, a discount equal to
+8 1.5% of the gross amount of hotel rental tax collected if, on or before the due date, the hotel,
+9 ACCOMMODATIONS INTERMEDIARY, OR ACCOMMODATIONS PROVIDER:
+10 (1) files the hotel rental tax return; and
+11 (2) pays the hotel rental tax.
+12 (b) In Calvert County, Carroll County, Charles County, St. Mary’s County, and
+13 Washington County, the county commissioners may determine whether a hotel, AN
+14 ACCOMMODATIONS INTERMEDIARY, OR AN ACCOMMODATIONS PROVIDER is eligible
+15 to receive a discount.
+16 20–413.
+17 (a) The Comptroller shall:
+18 (1) provide a county with information to help the county verify hotel rental
+19 tax liability FOR THE HOTEL RENTAL TAX REMITTED BY A HOTEL OR AN
+20 ACCOMMODATIONS PROVIDER;
+21 (2) ESTABLISH THE REMITTANCE PROCESS FOR THE HOTEL RENTAL
+22 TAX COLLECTED AND REMITTED BY AN ACCOMMODATIONS INTERMEDIARY;
+23 (3) ESTABLISH THE PROCESS FOR DISTRIBUTING TO EACH COUNTY
+24 THE HOTEL RENTAL TAX REVENUE THAT IS COLLECTED FROM AN
+25 ACCOMMODATIONS INTERMEDIARY;
+26 (4) PUBLISH THE HOTEL RENTAL TAX RATE, FEES, OR SURCHARGES
+27 IMPOSED ON AN ACCOMMODATION BY A COUNTY OR A MUNICIPALITY UNDER THIS
+28 SUBTITLE;
+29 (5) DEVELOP A SINGLE RETURN FOR USE BY AN ACCOMMODATIONS
+30 INTERMEDIARY THAT AGGREGATES THE HOTEL RENTAL TAX THAT AN
+31 ACCOMMODATIONS INTERMEDIARY IS REQUIRED TO COLLECT AND REMIT; AND
+12 SENATE BILL 979
+1 (6) ADOPT REGULATIONS TO IMPLEMENT THIS PART.
+2 (b) (1) The Comptroller may charge a county a reasonable fee for the cost of
+3 providing information under this section.
+4 (2) THE COMPTROLLER SHALL CHARGE A COUNTY A REASONABLE
+5 FEE FOR THE ADMINISTRATIVE COSTS OF COLLECTING THE HOTEL RENTAL TAX.
+6 [(2)] (3) The county shall treat the fee as a hotel rental tax administrative
+7 cost.
+8 20–423.
+9 A county shall make the distributions required under this part:
+10 (1) between the 15th day and the 30th day of each calendar month FOR
+11 HOTEL RENTAL TAX COLLECTED FROM HOTELS OR ACCOMMODATIONS PROVIDERS;
+12 OR
+13 (2) WITHIN 15 DAYS AFTER RECEIVING THE FUNDS FROM THE
+14 COMPTROLLER FOR HOTEL RENTAL TAX COLLECTED FROM ACCOMMODATIONS
+15 INTERMEDIARIES.
+16 20–425.
+17 (a) If a hotel, AN ACCOMMODATIONS PROVIDER, OR AN ACCOMMODATIONS
+18 INTERMEDIARY fails to pay the hotel rental tax as required under this part, the hotel,
+19 ACCOMMODATIONS PROVIDER, OR ACCOMMODATIONS INTERMEDIARY shall pay
+20 interest on the unpaid tax from the date on which the hotel, ACCOMMODATIONS
+21 PROVIDER, OR ACCOMMODATIONS INTERMEDIARY is required to pay the tax to the date
+22 that the tax is paid.
+23 (b) The interest rate for each month or fraction of a month is:
+24 (1) for Cecil County, Dorchester County, Talbot County, Washington
+25 County, and Wicomico County, 1%; and
+26 (2) for any other county, 0.5%.
+27 20–426.
+28 (a) Except in Talbot County or Wicomico County, if a hotel, AN
+29 ACCOMMODATIONS PROVIDER, OR AN ACCOMMODATIONS INTERMEDIARY
+30 REQUIRED TO COLLECT THE HOTEL RENTAL TAX fails to pay the hotel rental tax to a
+31 county within 1 month after the payment is due under § 20–410 of this subtitle, the hotel,
+SENATE BILL 979 13
+1 ACCOMMODATIONS PROVIDER, OR ACCOMMODATIONS INTERMEDIARY shall pay a tax
+2 penalty of 10% of the unpaid tax.
+3 (b) If a hotel, AN ACCOMMODATIONS PROVIDER, OR AN ACCOMMODATIONS
+4 INTERMEDIARY REQUIRED TO COLLECT THE HOTEL RENTAL TAX fails to pay the hotel
+5 rental tax to Talbot County or Wicomico County within 120 days after the payment is due
+6 under § 20–410 of this subtitle, the hotel, ACCOMMODATIONS PROVIDER, OR
+7 ACCOMMODATIONS INTERMEDIARY shall pay a tax penalty of 10% of the unpaid tax.
+8 20–427.
+9 (a) A county may file a civil action to collect unpaid hotel rental tax FROM A
+10 HOTEL OR AN ACCOMMODATIONS PROVIDER ON BOOKING TRANSACTIONS NOT
+11 FACILITATED BY AN ACCOMMODATIONS INTERMEDIARY.
+12 (b) A county may collect unpaid hotel rental tax by distraint FROM A HOTEL OR
+13 AN ACCOMMODATIONS PROVIDER ON BOOKING TRANSACTIONS NOT FACILITATED
+14 BY AN ACCOMMODATIONS INTERMEDIARY.
+15 (c) Except in Calvert County and St. Mary’s County, unpaid hotel rental tax is:
+16 (1) a lien against the real and personal property of the person owing the
+17 tax; and
+18 (2) collectible in the same manner as the property tax may be collected
+19 under the Tax – Property Article.
+20 (D) (1) THE COMPTROLLER MAY FILE A CIVIL ACTION TO COLLECT
+21 UNPAID HOTEL RENTAL TAX FROM AN ACCOMMODATIONS INTERMEDIARY ON
+22 BOOKING TRANSACTIONS FACILITATED BY THE ACCOMMODATIONS INTERMEDIARY.
+23 (2) THE COMPTROLLER MAY COLLECT UNPAID HOTEL RENTAL TAX
+24 BY DISTRAINT FROM AN ACCOMMODATIONS INTERMEDIARY ON BOOKING
+25 TRANSACTIONS FACILITATED BY THE ACCOMMODATIONS INTERMEDIARY.
+26 20–428.
+27 (a) (1) Subject to paragraph (2) of this subsection, to protect hotel rental tax
+28 revenue, a county may require a hotel OR AN ACCOMMODATIONS PROVIDER to file
+29 security with the county in an amount that the county determines.
+30 (2) Cecil County, Talbot County, and Wicomico County may require
+31 security under this section only for a hotel OR AN ACCOMMODATIONS PROVIDER that
+32 has been in default.
+14 SENATE BILL 979
+1 (b) Security under this section shall be:
+2 (1) a bond issued by a surety company that is:
+3 (i) authorized to do business in the State; and
+4 (ii) approved by the Insurance Commissioner as to solvency and
+5 responsibility;
+6 (2) cash; or
+7 (3) security approved by the county.
+8 (c) (1) If security is required under this section, the county shall give the hotel
+9 OR ACCOMMODATIONS PROVIDER notice of the amount of security.
+10 (2) Within 5 days after a hotel OR AN ACCOMMODATIONS PROVIDER
+11 receives notice that security is required, the hotel OR ACCOMMODATIONS PROVIDER
+12 shall:
+13 (i) file the security; or
+14 (ii) submit a written request for a hearing on the security
+15 requirement.
+16 (d) (1) If a hearing is requested under subsection (c) of this section, the county
+17 shall hold a hearing to determine the necessity, propriety, and amount of the security.
+18 (2) (i) The determination at the hearing is final.
+19 (ii) The hotel OR ACCOMMODATIONS PROVIDER shall comply
+20 within 15 days after the hotel OR ACCOMMODATIONS PROVIDER receives notice of the
+21 determination.
+22 (e) Without notice to the hotel OR ACCOMMODATIONS PROVIDER that files
+23 security under subsection (b)(2) or (3) of this section, the county at any time may:
+24 (1) apply the cash to the hotel rental tax due; or
+25 (2) sell the security and apply the proceeds of the sale to the hotel rental
+26 tax due.
+27 20–431.
+28 (a) In this part the following words have the meanings indicated.
+SENATE BILL 979 15
+1 (B) (1) “ACCOMMODATION” HAS THE MEANING STATED IN § 11–101 OF
+2 THE TAX – GENERAL ARTICLE.
+3 (2) “ACCOMMODATION” INCLUDES THE RIGHT TO OCCUPY ANY OF
+4 THE FOLLOWING AS A TRANSIENT GUEST:
+5 (I) AN APARTMENT;
+6 (II) A COTTAGE;
+7 (III) A HOSTELRY;
+8 (IV) AN INN;
+9 (V) A MOTEL;
+10 (VI) A ROOMING HOUSE; OR
+11 (VII) A TOURIST HOME.
+12 (C) “ACCOMMODATIONS INTERMEDIARY” HAS THE MEANING STATED IN §
+13 11–101 OF THE TAX – GENERAL ARTICLE.
+14 (D) “ACCOMMODATIONS PROVIDER” HAS THE MEANING STATED IN § 11–101
+15 OF THE TAX – GENERAL ARTICLE.
+16 (E) “BOOKING TRANSACTION” HAS THE MEANING STATED IN § 11–101 OF
+17 THE TAX – GENERAL ARTICLE.
+18 [(b)] (F) “Hotel” has the meaning stated in § 20–401 of this subtitle.
+19 [(c)] (G) “Hotel rental tax” [means the tax on a transient charge] HAS THE
+20 MEANING STATED IN § 20–401 OF THIS SUBTITLE.
+21 [(d) (1) “Transient charge” means a hotel charge for sleeping accommodations
+22 for a period not exceeding 4 consecutive months.
+23 (2) “Transient charge” does not include any hotel charge for:
+24 (i) services; or
+25 (ii) accommodations other than sleeping accommodations.]
+16 SENATE BILL 979
+1 (H) “SHORT–TERM RENTAL UNIT” HAS THE MEANING STATED IN § 11–101
+2 OF THE TAX – GENERAL ARTICLE.
+3 (I) “TAXABLE PRICE” HAS THE MEANING STATED IN § 11–101 OF THE TAX –
+4 GENERAL ARTICLE.
+5 20–432.
+6 (a) Except as provided in subsections (b) [and (c)], (C), AND (D) of this section, a
+7 municipality may impose, by ordinance or resolution, a hotel rental tax.
+8 (b) (1) In this subsection, “hotel rental tax revenue sharing arrangement”
+9 includes:
+10 (i) a requirement under §§ 20–415 through 20–422 of this subtitle
+11 that a county distribute revenue from a county hotel rental tax to a municipality; or
+12 (ii) any other hotel rental tax revenue sharing requirement,
+13 agreement, or arrangement between a county and a municipality.
+14 (2) A municipality in a county that has a hotel rental tax revenue sharing
+15 arrangement between the municipality and the county may not impose a hotel rental tax
+16 under this part.
+17 (c) A municipality may not impose a hotel rental tax if the municipality is
+18 located in a county that:
+19 (1) distributes at least 50% of total county hotel rental tax revenues to
+20 promote tourism in the county; or
+21 (2) does not impose a tax on [a transient charge] THE TAXABLE PRICE
+22 paid to a hotel OR AN ACCOMMODATIONS PROVIDER.
+23 (D) A MUNICIPALITY MAY NOT:
+24 (1) IMPOSE A TAX ON THE RENTAL OF AN ACCOMMODATION,
+25 INCLUDING A SHORT–TERM RENTAL, EXCEPT AS AUTHORIZED UNDER THIS SECTION;
+26 OR
+27 (2) IMPOSE A HIGHER TAX RATE ON SHORT–TERM RENTAL UNITS
+28 THAN ON OTHER ACCOMMODATIONS.
+29 20–433.
+SENATE BILL 979 17
+1 (C) IF A MUNICIPALITY MODIFIES A HOTEL RENTAL TAX RATE UNDER THIS
+2 SECTION, THE MUNICIPALITY SHALL NOTIFY THE COMPTROLLER IN WRITING AT
+3 LEAST 60 DAYS BEFORE THE MODIFIED RATE TAKES EFFECT.
+4 20–434.
+5 (A) [A] EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, A
+6 municipality that imposes a hotel rental tax may:
+7 (1) provide for the administration and collection of the tax; AND
+8 (2) [provide for additional exemptions from the tax; and
+9 (3)] impose penalties for failure to collect, report, or pay the tax.
+10 (B) THE COMPTROLLER SHALL COLLECT THE MUNICIPAL HOTEL RENTAL
+11 TAX FROM ACCOMMODATIONS INTERMEDIARIES IN THE SAME MANNER AS THE
+12 COUNTY HOTEL RENTAL TAX UNDER THIS SUBTITLE.
+13 (C) (1) SUBJECT TO SUBSECTION (D) OF THIS SECTION, TITLE 11 AND
+14 TITLE 13, SUBTITLE 3 OF THE TAX – GENERAL ARTICLE AND THIS TITLE SHALL
+15 PREVAIL TO THE EXTENT OF ANY CONFLICT WITH ANY LOCAL LAW, ORDINANCE, OR
+16 RESOLUTION RELATING TO A MUNICIPAL HOTEL RENTAL TAX.
+17 (2) ANY LOCAL LAW, ORDINANCE, OR RESOLUTION THAT IS
+18 PREEMPTED UNDER PARAGRAPH (1) OF THIS SUBSECTION IS NOT REPEALED BUT
+19 SHALL BE ADMINISTERED IN CONFORMITY WITH STATE LAW.
+20 (D) BEGINNING JANUARY 1, 2028, TITLE 11 AND TITLE 13, SUBTITLE 3 OF
+21 THE TAX – GENERAL ARTICLE AND THIS TITLE SHALL PREVAIL TO THE EXTENT OF
+22 ANY CONFLICT WITH AN AGREEMENT BETWEEN A MUNICIPALITY AND AN
+23 ACCOMMODATIONS INTERMEDIARY.
+24 (E) THE COMPTROLLER SHALL GRANT A WAIVER FROM THE FILING OF A
+25 HOTEL RENTAL TAX RETURN IF AN ACCOMMODATIONS PROVIDER THAT PROVIDES
+26 ACCOMMODATIONS EXCLUSIVELY THROUGH AN ACCOMMODATIONS INTERMEDIARY:
+27 (1) ATTESTS ON AN ANNUAL BASIS THAT BOOKING TRANSACTIONS
+28 ARE FACILITATED BY THE ACCOMMODATIONS INTERMEDIARY; AND
+29 (2) REQUESTS A WAIVER FROM FILING THE HOTEL RENTAL TAX
+30 RETURNS REQUIRED UNDER THIS SUBTITLE.
+18 SENATE BILL 979
+1 (F) AN ACCOMMODATIONS PROVIDER IS LIABLE FOR HOTEL RENTAL TAXES
+2 ON ANY BOOKING TRANSACTION NOT FACILITATED BY AN ACCOMMODATIONS
+3 INTERMEDIARY.
+4 20–436.
+5 If a county has the authority under Part I of this subtitle or any other law to impose
+6 a HOTEL RENTAL tax [on transient charges paid to hotels,] to accommodate a HOTEL
+7 RENTAL tax imposed under this part by a municipality, the county may impose a HOTEL
+8 RENTAL tax rate [on transient charges paid to hotels located] in the municipality that is
+9 lower than the HOTEL RENTAL tax rate imposed [on transient charges paid to hotels]
+10 outside the municipality.
+11 20–603.
+12 (a) By ordinance, Anne Arundel County may impose a sales or use tax on:
+13 (1) fuel and utilities used by commercial and industrial businesses;
+14 (2) residential, commercial, and industrial telephone service; and
+15 (3) space rentals other than space rentals for the docking or storing of
+16 boats.
+17 (b) (1) Any revenues collected under subsection (a)(1) and (2) of this section in
+18 the City of Annapolis shall be allocated and distributed in equal amounts to the City of
+19 Annapolis and to Anne Arundel County.
+20 (2) Except as otherwise provided in this subsection, any revenue generated
+21 in the City of Annapolis from the tax on space rentals shall be collected and retained by the
+22 City of Annapolis.
+23 (3) Except as provided in [paragraph] PARAGRAPHS (6) AND (7) of this
+24 subsection, any revenue generated in the City of Annapolis from the hotel tax shall be
+25 collected by Anne Arundel County.
+26 (4) From any revenue generated in the City of Annapolis from the hotel
+27 tax, Anne Arundel County shall distribute:
+28 (i) 3% to a special fund to be used only to provide funds to the
+29 Annapolis Art in Public Places Commission;
+30 (ii) 3% to a special fund to be used only to provide funds to the Arts
+31 Council of Anne Arundel County, Inc.;
+SENATE BILL 979 19
+1 (iii) 17% to a special fund to be used only to provide funds to the
+2 Annapolis and Anne Arundel County Conference and Visitors Bureau; and
+3 (iv) 3% to the Affordable Housing Trust Fund established under §
+4 20.30.070 of the Code of the City of Annapolis to be used only for housing assistance
+5 payments.
+6 (5) After making the distributions required under paragraph (4) of this
+7 subsection, the balance of the revenue generated in the City of Annapolis from the hotel
+8 tax shall be distributed to the City of Annapolis.
+9 (6) (i) Anne Arundel County may authorize the City of Annapolis to
+10 collect revenue generated in the City of Annapolis from the hotel tax.
+11 (ii) If Anne Arundel County authorizes the City of Annapolis to
+12 collect revenue generated in the City of Annapolis from the hotel tax, the City of Annapolis
+13 shall distribute a percentage of the revenue in accordance with paragraph (4) of this
+14 subsection and retain the balance of the revenue generated.
+15 (7) THE COMPTROLLER SHALL:
+16 (I) COLLECT THE HOTEL TAX IMPOSED UNDER SUBSECTION
+17 (A)(3) OF THIS SECTION FROM ACCOMMODATIONS INTERMEDIARIES IN THE MANNER
+18 PRESCRIBED IN SUBTITLE 4 OF THIS TITLE AND TITLE 11 OF THE TAX – GENERAL
+19 ARTICLE; AND
+20 (II) DISTRIBUTE THE HOTEL TAX REVENUE IN THE MANNER
+21 PRESCRIBED IN THIS SUBSECTION.
+22 (f) The hotel tax authorized under this section does not apply to the sale of a right
+23 to occupy a room or lodgings as a transient guest at a dormitory or other lodging facility
+24 that:
+25 (1) is operated solely in support of the headquarters, a training facility, a
+26 conference facility, an awards facility, or the campus of a corporation or other organization;
+27 (2) provides lodging solely for employees, contractors, vendors, and other
+28 invitees of the corporation that owns the dormitory or lodging facility; and
+29 (3) does not offer lodging services to the general public.
+30 Article – Tax – General
+31 11–101.
+32 (a) In this title the following words have the meanings indicated.
+20 SENATE BILL 979
+1 (a–1) “Accommodation” means a right to occupy a room [or], lodgings, OR A
+2 SHORT–TERM RENTAL UNIT as a transient guest.
+3 (a–2) (1) “Accommodations intermediary” means a person, other than an
+4 accommodations provider, who:
+5 (I) facilitates the sale or use of an accommodation and charges a
+6 buyer the taxable price for the accommodation; OR
+7 (II) RECEIVES COMPENSATION FOR FACILITATING
+8 RESERVATIONS OR PROCESSING BOOKING TRANSACTIONS ON BEHALF OF AN
+9 ACCOMMODATIONS PROVIDER.
+10 (2) “ACCOMMODATIONS INTERMEDIARY” INCLUDES A SHORT–TERM
+11 RENTAL PLATFORM.
+12 [(2)] (3) For purposes of this subsection, a person shall be considered to
+13 facilitate the sale or use of an accommodation if the person brokers, coordinates, or in any
+14 other way arranges for the sale or use of an accommodation by a buyer.
+15 (a–3) “Accommodations provider” means a person that owns, operates, or manages
+16 an accommodation and makes the accommodation available for sale or use to a buyer.
+17 (a–4) “Booking transaction” means any transaction in which there is a retail sale of
+18 an accommodation TO A BUYER IN EXCHANGE FOR PAYMENT OF THE TAXABLE PRICE.
+19 (c–10) (1) “Marketplace facilitator” means a person that:
+20 (i) facilitates a retail sale by a marketplace seller by listing or
+21 advertising for sale in a marketplace tangible personal property, digital code, or a digital
+22 product; and
+23 (ii) regardless of whether the person receives compensation or other
+24 consideration in exchange for the person’s services, directly or indirectly through
+25 agreements with third parties, collects payment from a buyer and transmits the payment
+26 to the marketplace seller.
+27 (2) “Marketplace facilitator” does not include:
+28 (i) a platform or forum that exclusively provides Internet
+29 advertising services, including listing products for sale, if the platform or forum does not
+30 also engage, directly or indirectly, in collecting payment from a buyer and transmitting that
+31 payment to the vendor;
+SENATE BILL 979 21
+1 (ii) a payment processor business appointed by a vendor to handle
+2 payment transactions from clients, including credit cards and debit cards, whose only
+3 activity with respect to marketplace sales is to handle transactions between two parties; or
+4 (iii) a delivery service company that delivers tangible personal
+5 property on behalf of a marketplace seller that is engaged in the business of a retail vendor
+6 and holds a license issued under Subtitle 7 of this title.
+7 (j–2) “Short–term rental platform” means an ENTITY, INCLUDING AN
+8 Internet–based digital entity that:
+9 (1) advertises the availability of short–term rental units for rent; and
+10 (2) receives compensation for facilitating reservations or processing
+11 booking transactions on behalf of the owner, operator, or manager of a short–term rental
+12 unit.
+13 (j–3) (1) “Short–term rental unit” means a residential dwelling unit or a portion
+14 of the unit used for short–term rentals.
+15 (2) “Short–term rental unit” includes a single–family house or dwelling, a
+16 multifamily house or dwelling, an apartment, a condominium, or a cooperative.
+17 (l) (1) “Taxable price” means the value, in money, of the consideration of any
+18 kind that is paid, delivered, payable, or deliverable by a buyer to a vendor in the
+19 consummation and complete performance of a sale without deduction for any expense or
+20 cost, including the cost of:
+21 (i) any labor or service rendered;
+22 (ii) any material used; or
+23 (iii) any property, digital code, or digital product sold.
+24 (2) “Taxable price” includes, for tangible personal property, a digital code,
+25 or a digital product acquired by a sale for use in the State by the person who assembles,
+26 fabricates, or manufactures the property or digital product, only the price of the raw
+27 materials and component parts contained in the property or digital product.
+28 (3) “Taxable price” does not include:
+29 (i) a charge that is made in connection with a sale and is stated as
+30 a separate item of the consideration for:
+31 1. a delivery, freight, or other transportation service for
+32 delivery directly to the buyer by the vendor or by another person acting for the vendor,
+33 unless the transportation service is a taxable service;
+22 SENATE BILL 979
+1 2. a finance charge, interest, or similar charge for credit
+2 extended to the buyer;
+3 3. a labor or service for application or installation;
+4 4. a mandatory gratuity or service charge in the nature of a
+5 tip for serving food or beverage to a group of 10 or fewer individuals for consumption on the
+6 premises of the vendor;
+7 5. a professional service;
+8 6. a tax:
+9 A. imposed by a county on the sale of coal, electricity, oil,
+10 nuclear fuel assemblies, steam, or artificial or natural gas;
+11 B. imposed under § 3–302(a) of the Natural Resources
+12 Article, as a surcharge on electricity, and added to an electric bill;
+13 C. imposed under §§ 6–201 through 6–203 of the Tax –
+14 Property Article, on tangible personal property subject to a lease that is for an initial period
+15 that exceeds 1 year and is noncancellable except for cause; or
+16 D. imposed under § 4–102 of this article on the gross receipts
+17 derived from an admissions and amusement charge;
+18 7. any service for the operation of equipment used for the
+19 production of audio, video, or film recordings; or
+20 8. reimbursement of incidental expenses paid to a third party
+21 and incurred in connection with providing a taxable detective service;
+22 (ii) the value of a used component or part (core value) received from
+23 a purchaser of the following remanufactured truck parts:
+24 1. an air brake system;
+25 2. an engine;
+26 3. a rear axle carrier; or
+27 4. a transmission;
+28 (iii) a charge for a nontaxable service that is made in connection with
+29 a sale of a taxable communication service, even if the nontaxable charges are aggregated
+30 with and not separately stated from the taxable charges for communications services, if the
+SENATE BILL 979 23
+1 vendor can reasonably identify charges not subject to tax from its books and records that
+2 are kept in the regular course of business; or
+3 (iv) a transportation network company impact fee imposed under §
+4 10–408 of the Public Utilities Article.
+5 (4) “Taxable price” includes all sales and charges, including insurance,
+6 freight handling, equipment and supplies, delivery and pickup, cellular telephone, and
+7 other accessories, but not including sales of motor fuel subject to the motor fuel tax, made
+8 in connection with:
+9 (i) a short–term vehicle rental, as defined in § 11–104(c) of this
+10 subtitle; or
+11 (ii) a shared motor vehicle used for peer–to–peer car sharing and
+12 made available on a peer–to–peer car sharing program, as defined in § 19–520 of the
+13 Insurance Article.
+14 (5) “Taxable price” includes:
+15 (i) for the sale or use of an accommodation facilitated by an
+16 accommodations intermediary [or a short–term rental platform], the full amount of the
+17 consideration paid by a buyer for the sale or use of an accommodation FOR A PERIOD NOT
+18 EXCEEDING 4 CONSECUTIVE MONTHS, but not including any tax that is remitted to a
+19 taxing authority; and
+20 (ii) for the sale or use of a home amenity rental facilitated by a home
+21 amenity rental intermediary or home amenity rental platform, the full amount of
+22 consideration paid by a buyer for the sale or use of a home amenity rental, but not including
+23 any tax that is remitted to a taxing authority.
+24 (6) “Taxable price” does not include:
+25 (i) for the sale or use of an accommodation facilitated by an
+26 accommodations intermediary [or a short–term rental platform], a commission paid by an
+27 accommodations provider to a person after facilitating the sale or use of an accommodation;
+28 or
+29 (ii) for the sale or use of a home amenity rental facilitated by a home
+30 amenity rental intermediary or home amenity rental platform, a commission paid by a
+31 home amenity rental provider to a person after facilitating the sale or use of a home amenity
+32 rental.
+33 (o) (1) “Vendor” means a person who:
+34 (i) engages in the business of an out–of–state vendor, as defined in
+35 § 11–701 of this title;
+24 SENATE BILL 979
+1 (ii) engages in the business of a retail vendor, as defined in § 11–701
+2 of this title;
+3 (iii) holds a special license issued under § 11–707 of this title;
+4 (iv) is an accommodations intermediary or a home amenity rental
+5 intermediary;
+6 (v) is a short–term rental platform or home amenity rental platform;
+7 (vi) engages in the business of a marketplace facilitator; or
+8 (vii) engages in the business of a marketplace seller.
+9 (2) “Vendor” includes, for an out–of–state vendor, a salesman,
+10 representative, peddler, or canvasser whom the Comptroller, for the efficient
+11 administration of this title, elects to treat as an agent jointly responsible with the dealer,
+12 distributor, employer, or supervisor:
+13 (i) under whom the agent operates; or
+14 (ii) from whom the agent obtains the tangible personal property, a
+15 digital code, a digital product, or taxable service for sale.
+16 11–403.
+17 (a) In this section, “sale” includes a booking transaction made through [a
+18 short–term rental platform] AN ACCOMMODATIONS INTERMEDIARY.
+19 11–502.3.
+20 (A) IN THIS SECTION, “LOCAL HOTEL RENTAL TAX” MEANS THE HOTEL
+21 RENTAL TAX IMPOSED UNDER:
+22 (1) TITLE 20, SUBTITLE 4 OF THE LOCAL GOVERNMENT ARTICLE;
+23 (2) § 20–603(A)(3) OF THE LOCAL GOVERNMENT ARTICLE;
+24 (3) § 20.400 OF THE HOWARD COUNTY CODE; AND
+25 (4) § 10–218.1 OF THE PRINCE GEORGE’S COUNTY CODE.
+26 (B) THE COMPTROLLER SHALL DEVELOP A SINGLE TAX RETURN FOR USE
+27 BY AN ACCOMMODATIONS INTERMEDIARY THAT AGGREGATES THE LOCAL HOTEL
+SENATE BILL 979 25
+1 RENTAL TAXES THAT AN ACCOMMODATIONS INTERMEDIARY IS REQUIRED TO
+2 COLLECT AND REMIT.
+3 (C) EACH ACCOMMODATIONS INTERMEDIARY SHALL COMPLETE, UNDER
+4 OATH, AND FILE WITH THE COMPTROLLER A HOTEL RENTAL TAX RETURN FOR
+5 LOCAL HOTEL RENTAL TAXES AND THE TAX IMPOSED UNDER THIS TITLE:
+6 (1) ON OR BEFORE THE 25TH DAY OF THE MONTH THAT FOLLOWS THE
+7 MONTH IN WHICH THE ACCOMMODATIONS INTERMEDIARY FACILITATES A BOOKING
+8 TRANSACTION OR SALE FOR USE OF AN ACCOMMODATION; AND
+9 (2) FOR OTHER PERIODS AND ON OTHER DATES THAT THE
+10 COMPTROLLER SPECIFIES BY REGULATION, INCLUDING PERIODS IN WHICH THE
+11 ACCOMMODATIONS INTERMEDIARY OR ACCOMMODATIONS PROVIDER DOES NOT
+12 FACILITATE ANY BOOKING TRANSACTION OR SALE FOR USE OF AN
+13 ACCOMMODATION.
+14 (D) A RETURN SHALL REQUIRE AN ACCOMMODATIONS INTERMEDIARY TO
+15 STATE, FOR THE PERIOD THAT THE RETURN COVERS:
+16 (1) THE GROSS PROCEEDS OF THE BUSINESS OF THE
+17 ACCOMMODATIONS INTERMEDIARY;
+18 (2) THE TAXABLE PRICE OF SALES ON WHICH THE LOCAL HOTEL
+19 RENTAL TAX WAS IMPOSED;
+20 (3) THE LOCAL HOTEL RENTAL TAX DUE; AND
+21 (4) ANY ALLOWABLE DISCOUNTS, DEDUCTIONS, OR EXEMPTIONS.
+22 (E) IF THE COMPTROLLER APPROVES, AN ACCOMMODATIONS
+23 INTERMEDIARY MAY FILE A CONSOLIDATED RETURN IF THE ACCOMMODATIONS
+24 INTERMEDIARY ENGAGES IN MORE THAN ONE BUSINESS IN WHICH THE
+25 ACCOMMODATIONS INTERMEDIARY FACILITATES BOOKING TRANSACTIONS OR
+26 SALES FOR USE OF AN ACCOMMODATION.
+27 13–201.
+28 In this subtitle, “tax information” means:
+29 (1) any tax return, information return, declaration of estimated tax,
+30 extension of time to file a return, or claim for refund under this article that is filed with the
+31 tax collector by, on behalf of, or with respect to any person and any amendment or
+26 SENATE BILL 979
+1 supplement thereto, including supporting schedules, attachments, or lists that are
+2 supplemental to or a part of the return;
+3 (2) the amount of income or any other particulars disclosed in a tax return
+4 required under this article, if the return contains return information, as defined in § 6103
+5 of the Internal Revenue Code;
+6 (3) any return or return information, as defined in § 6103 of the Internal
+7 Revenue Code, required to be attached to or included in a tax return required under this
+8 article; or
+9 (4) any information contained in:
+10 (i) an admissions and amusement tax return;
+11 (ii) an alcoholic beverage tax return;
+12 (iii) a bay restoration fee return;
+13 (iv) a boxing and wrestling tax return;
+14 (v) a digital advertising gross revenues tax return;
+15 (vi) an E–9–1–1 fee return;
+16 (vii) a financial institution franchise tax return;
+17 (VIII) A HOTEL RENTAL TAX RETURN;
+18 [(viii)] (IX) an inheritance tax return;
+19 [(ix)] (X) a Maryland estate tax return;
+20 [(x)] (XI) a motor carrier tax return;
+21 [(xi)] (XII) a motor fuel tax return;
+22 [(xii)] (XIII) an other tobacco products tax return;
+23 [(xiii)] (XIV) a public service company franchise tax return;
+24 [(xiv)] (XV) a sales and use tax return;
+25 [(xv)] (XVI) a savings and loan association franchise tax return;
+26 [(xvi)] (XVII) a tire recycling fee return;
+SENATE BILL 979 27
+1 [(xvii)] (XVIII) a tobacco tax return; or
+2 [(xviii)] (XIX) a transportation services assessment return.
+3 13–302.
+4 (a) [To] EXCEPT AS PROVIDED IN SUBSECTION (D) OF THIS SECTION, TO
+5 determine whether a tax return is correct or otherwise to enforce a provision of this article,
+6 a tax collector may:
+7 (1) examine any records or other data that may be relevant or material to
+8 the matters required to be included in a tax return;
+9 (2) conduct an investigation;
+10 (3) hold a hearing;
+11 (4) administer oaths;
+12 (5) take testimony and other evidence; and
+13 (6) subpoena:
+14 (i) any person; or
+15 (ii) any relevant document.
+16 (b) If the Comptroller determines that the taxpayer’s records are so detailed,
+17 complex, or voluminous that an audit of all detailed records would be unreasonable or
+18 impractical, the Comptroller may compute the sales and use tax by using scientific random
+19 sampling techniques.
+20 (c) If a person fails to comply with a subpoena or fails to testify on any matter on
+21 which the person lawfully may be interrogated, on petition of a tax collector, a circuit court
+22 or, if the subpoena is issued under authority of an orphans’ court, the orphans’ court may
+23 pass an order directing compliance with the subpoena or compelling testimony.
+24 (D) (1) AN EXAMINATION, AUDIT, OR OTHER INVESTIGATION OF AN
+25 ACCOMMODATIONS INTERMEDIARY RELATED TO THE SALES AND USE TAX OR HOTEL
+26 RENTAL TAX SHALL BE CONDUCTED ON THE BASIS OF:
+27 (I) THE TAXPAYER IDENTIFICATION NUMBER ASSOCIATED
+28 WITH THE ACCOMMODATIONS INTERMEDIARY THAT FILED THE TAX RETURN; AND
+28 SENATE BILL 979
+1 (II) RETURNS FILED BY THE ACCOMMODATIONS INTERMEDIARY
+2 WITH THE COMPTROLLER.
+3 (2) THE COMPTROLLER MAY NOT DIRECTLY OR INDIRECTLY
+4 CONDUCT AN EXAMINATION, AUDIT, OR OTHER INVESTIGATION OF AN INDIVIDUAL
+5 ACCOMMODATIONS PROVIDER FOR BOOKING TRANSACTIONS FACILITATED BY THE
+6 ACCOMMODATIONS INTERMEDIARY.
+7 (3) AN EXAMINATION, AUDIT, OR OTHER INVESTIGATION UNDER THIS
+8 SUBSECTION, IF REQUESTED BY AN ACCOMMODATIONS INTERMEDIARY, SHALL
+9 INCLUDE ALL TAX TYPES FOR WHICH THE ACCOMMODATIONS INTERMEDIARY IS
+10 REQUIRED TO COLLECT AND REMIT UNDER TITLE 11 OF THIS ARTICLE.
+11 (4) THE COMPTROLLER MAY REQUEST THE FOLLOWING
+12 INFORMATION FROM AN ACCOMMODATIONS INTERMEDIARY IN THE COURSE OF AN
+13 EXAMINATION, AUDIT, OR OTHER INVESTIGATION ONLY TO THE EXTENT THAT THE
+14 INFORMATION IS NECESSARY FOR THE ENFORCEMENT OF THE TAX COLLECTION
+15 OBLIGATIONS IMPOSED ON THE ACCOMMODATIONS INTERMEDIARY:
+16 (I) PERSONALLY IDENTIFIABLE INFORMATION OF AN
+17 ACCOMMODATIONS PROVIDER;
+18 (II) A PHYSICAL ADDRESS OF AN ACCOMMODATION
+19 FACILITATED BY AN ACCOMMODATIONS INTERMEDIARY; OR
+20 (III) THE AMOUNTS TRANSMITTED FROM THE
+21 ACCOMMODATIONS INTERMEDIARY TO THE ACCOMMODATIONS PROVIDER.
+22 (5) INFORMATION PROVIDED BY AN ACCOMMODATIONS
+23 INTERMEDIARY UNDER THIS SECTION IS CONFIDENTIAL TAX INFORMATION UNDER
+24 SUBTITLE 2 OF THIS TITLE.
+25 Article 14 – Howard County
+26 20.400.
+27 (a) Howard County may impose, by law, and collect a sales or use tax on room
+28 rentals in the county for sleeping accommodations for transients.
+29 (b) (1) The rate of the tax authorized under this section may not exceed seven
+30 percent.
+SENATE BILL 979 29
+1 (2) Subject to the annual County budget and appropriation process, the
+2 County shall distribute any revenue attributable to a tax rate greater than five percent
+3 imposed by the County under this subsection as follows:
+4 (i) Two–thirds to the Howard County Tourism Council; and
+5 (ii) One–third to the Howard County Economic Development
+6 Authority.
+7 (c) SUBJECT TO SUBSECTION (E) OF THIS SECTION, Howard County may
+8 adopt, by law, any procedural or enforcement provision that the County Council considers
+9 to be necessary or appropriate for administration or collection of the tax authorized under
+10 this section, including, without limitation:
+11 (1) Requiring hotels in the County to:
+12 (i) Collect the tax from patrons;
+13 (ii) Hold the tax in trust for the County;
+14 (iii) Pay the tax collected and file periodic returns with the County;
+15 and
+16 (iv) File a bond or other security for payment of the tax in an amount
+17 that the County Council considers to be necessary;
+18 (2) [Providing a tax exemption for classes of hotels;
+19 (3)] Imposing interest and penalties for late payment of the tax;
+20 [(4)] (3) Making unpaid tax a lien against the real and personal property
+21 of the person owing the tax; and
+22 [(5)] (4) Providing for collection of the tax by distraint.
+23 (d) The room rental tax authorized under this section does not apply to the sale
+24 of a right to occupy a room or lodgings as a transient guest at a dormitory or other lodging
+25 facility that:
+26 (1) Is operated solely in support of the headquarters, a training facility, a
+27 conference facility, an awards facility, or the campus of a corporation or other organization;
+28 (2) Provides lodging solely for employees, contractors, vendors, and other
+29 invitees of the corporation that owns the dormitory or lodging facility; and
+30 (3) Does not offer lodging services to the general public.
+30 SENATE BILL 979
+1 (e) (1) (i) In this subsection the following words have the meanings
+2 indicated.
+3 (II) ACCOMMODATIONS INTERMEDIARY HAS THE MEANING
+4 STATED IN § 11–101 OF THE TAX – GENERAL ARTICLE.
+5 [(ii)] (III) 1. Room rental fee means a fee charged by [a room
+6 rental] AN ACCOMMODATIONS intermediary to a transient for facilitating the rental of a
+7 room.
+8 2. Room rental fee does not include a commission paid by a
+9 hotelkeeper to a person after facilitating the rental of a room.
+10 [(iii) 1. Room rental intermediary means a person, other than a
+11 hotelkeeper, who facilitates the rental of a room and charges a transient for the rental of a
+12 room.
+13 2. For purposes of this subparagraph, a person shall be
+14 considered to facilitate the rental of a room if the person brokers, coordinates, or in any
+15 other way arranges for the rental of a room by a transient.]
+16 (2) The room rental tax authorized under this section applies to the total
+17 charge for the room rental of a room, including any room rental fee but not including any
+18 tax.
+19 (3) THE COMPTROLLER SHALL COLLECT THE ROOM RENTAL TAX
+20 AUTHORIZED UNDER THIS SECTION FROM ACCOMMODATIONS INTERMEDIARIES IN
+21 THE MANNER PRESCRIBED IN TITLE 20, SUBTITLE 4 OF THE LOCAL GOVERNMENT
+22 ARTICLE AND TITLE 11 OF THE TAX – GENERAL ARTICLE.
+23 Article 17 – Prince George’s County
+24 10–218.01.
+25 (a) [The] SUBJECT TO SUBSECTION (D) OF THIS SECTION, THE County
+26 Council of Prince George’s County may levy and impose a tax of not exceeding ten percent
+27 (10%) on all gross amounts of money paid to the owners or operators of hotels and motels
+28 in Prince George’s County beginning July 1, 1975, by transient guests or tenants for
+29 renting, using or occupying a room or rooms in hotels and motels in Prince George’s County
+30 to be paid and collected pursuant to rules and regulations adopted by the County Council.
+31 (b) (1) [Any] SUBJECT TO SUBSECTION (D) OF THIS SECTION, ANY
+32 revenues generated under the authority of this Section from a hotel and motel tax within
+33 the boundaries of a municipal corporation located in Prince George’s County shall be
+34 collected by the County.
+SENATE BILL 979 31
+1 (2) The County shall distribute to the municipal corporation within which
+2 the revenues were generated 50% of the revenues collected by the County from hotels and
+3 motels in the municipal corporation.
+4 (c) The tax authorized under this section does not apply to the sale of a right to
+5 occupy a room or lodgings as a transient guest at a dormitory or other lodging facility that:
+6 (1) is operated solely in support of the headquarters, a training facility, a
+7 conference facility, an awards facility, or the campus of a corporation or other organization;
+8 (2) provides lodging solely for employees, contractors, vendors, and other
+9 invitees of the corporation that owns the dormitory or lodging facility; and
+10 (3) does not offer lodging services to the general public.
+11 (D) THE COMPTROLLER SHALL:
+12 (1) COLLECT THE TAX AUTHORIZED UNDER THIS SECTION FROM
+13 ACCOMMODATIONS INTERMEDIARIES IN THE MANNER PRESCRIBED IN TITLE 20,
+14 SUBTITLE 4 OF THE LOCAL GOVERNMENT ARTICLE AND TITLE 11 OF THE TAX –
+15 GENERAL ARTICLE; AND
+16 (2) DISTRIBUTE:
+17 (I) 50% OF THE REVENUE COLLECTED WITHIN A MUNICIPAL
+18 CORPORATION TO THE MUNICIPAL CORPORATION; AND
+19 (II) ALL REMAINING REVENUE TO THE COUNTY.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+21 1, 2026.
+[DELETED: :CA      5   C A L C F t a p h e a g h B  A S t  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  S  B  A S  A  ( B  A S  A  ( B  A S  A  ( B  T S  A  ( B  T S  A  (  S T A 2  ( I() ( “A”§1CN     A  E R–GA. ( “AN I T R T O A O]
+[DELETED: S 3  () ;A  () ;IA  () ;IA  () ;VA  () ;A  () ;IAE   () .IA() “A”CY  1T–GA. A  E R ) “A”§1CR    A  E R–GA.() “B”§1ON     A  E R–GA.  ()( “ m a e t o s]() a   ( “    ( a    ( a    ( a    ( a    ( a    ( a o]    ( a  () –IATT ]
+[DELETED:  S   ()“ a]() [G  .  ()( ( E p “ c”m a h c f s a f a p    ( I s    ( I s    ( I m   ( “    ( s    ( a.() “S–”§1HTTT    A  E R–GA.() “T”§11TAE     A A. R  () “]( M 2  ( T o   ( s   ( a   ()C   ( C   ( C   ( G]
+[DELETED: S 5   ( S   ( S   ( WyS T  ( T cr c tr  .. ( T O S F U O A T  $R  ( 2 T. 2  ( E a p i § 2 o t s a c m i b r  ( ( T M   ( T g b o a c s h a p h b i   ( T    ( s t    ( m ) ( S(),T1U D ON I  A1,S3T–G  U   A  E RW E X]
+[DELETED:  S  ( A, L LW OE O R T I   T.() BJ1,2,T11T1,SE A   I   I  U   A  E R–G C W A A B A C A AY 2  ( T a ls a a t g a a d o o lA A f   ( i c   ( p i   ( d  ( B r C C a S M C m p a t e  ( I f  ( C t   ( i s b t g b o C C a a p c   ( i   ( h  ( I   ( 1   ( n t]
+[DELETED: S 7  ( I W C t h r t d n a t a t c   ( t   ( a   ( a()  TTN 2 ) F A C M A H R T R U TN  O C6T 2  ( A     ( g a p w i r t p a t cH  T a b t i t t cea a i s a]   ( c t c.E   () Alsl ] ()[ t ) O B T A S F U O AN : ( T I T T P A A I S F AE (E ]
+[DELETED:  S  ( T C I T I T T U T A I O    A§13GA.E R 2  A)O   w te. )  P S P T H R T T T A B T F B T AY() N A I S C T H T U T S O A B T F A I T T F B T A() N ( ;D  ( T P I W O P R O() N A I S R T H I 1 A  E R–GA.() N F A B O B O A A P (  O S I T M A O T F P B T;R]
+[DELETED: S 9 ( B F T F B T AY ( ,, S T AT EN IN A S B T O U I  O T A T13TA; RE  ()B13T–GA  O T A  E RE I T R T S A F T O O TS T R T A A TT  D O.() ( N A P S R T HX ( () N A P A A I M E I A A T O T S1T–GA. A  E R  () IH P T A T R T T U I  2  A s)O a   ( e t   ( ( C    ( T o    ( a o t a C C C C C C D C F t]
+[DELETED:  S     ( W() N A I S A H R W T O O O B T T D O T2() TH O ( O A A B T B TY  ( A W F F T H R T 2() [] O B Y      ( s   ( s a    ( t cs p t t hT PEO d    ( t h r t r t b c d t p c  ) O A B T T I F B A IY T H R T R S B I T M A O T F T T O R    A  E R13T–GA. 2  Als)  h]
+[DELETED: S 1BN A I S P T T()  T H R T C F A C MH 2  ( E a W C a hA A IY O A   1Y  :   ( f   ( p  ( I W C t c c m d w a hAY    t 2  ( T ( p t l T H R T R B A H O A (Y ( H R T R T I C F AY ( ,E S  ( T A T H R T T AT ]
+[DELETED:  S  (    ( ( T p   T O S C A C A R   () T]( c 2  A ( bhdS ( 1  D A R T F F T F H R T C F A . 2  ( IlROY   PRO A I  s p i o t u t f t d o w t hARO  i t  ( T   ( f C C D C T C W C   ( f 2  ( E i T C o W C i a hA PR O A A I f c]
+[DELETED: S 1R  s p  ( IR    r u § 2 o t s t hA PR O s 2  ( A O A A P O B T N .  ( AymF .  ( E   ( a t   ( c u ) ( TH O M F A C A T C H R T F A A I O ( T O D F A A I O B 2  ( ( S r a c m r a h t f A A P s   ( C C T C a W C m r s t h]
+[DELETED:  S   ( S   ( a    ( a    ( a b t I C a t s a r   ( c   ( s  ( ( I     ( W 5 d a a h r n t s i r t h  s    ( f    ( s a w r f a h o t s r  ( ( I s   ( ( T    ( T h s c A P w r d  ( W n t t h  t f A P s   ( a   ( s t 2  ( I]
+[DELETED: S 1 ) ( “A”§1CN     A  E R–GA. ( “AN I T R T O A O  () ;A  () ;IA  () ;IA  () ;VA  () ;A  () ;IAE   () .IA() “A”CY  1T–GA. A  E R() “A”§1CR    A  E R–GA. ) “B”§1ON     A  E R–GA.  () “](  () “ r t m t t o a t c]()[G H T   2 .  ( ( “ f.   ( “    ( s    ( a]
+[DELETED:  S () “S–”§1HTTT    A  E R–GA.() “T”§11TAE     A A. R 2  ( E a) ],(),(C   m  ( ( I t s “ r t r s a i    ( a t    ( a o h r t r s r a   ( A a u  ( A m i l   ( d p   ( d ae p . ) A:  (  A T O T R O A ANTTL N, (  A H T R O STT R U 2]
+[DELETED: S 1 ) FN  M O  T0. 2  ) []E() X A P I S B O T SN A m   ( p   ( p   () i() TH O F A I I T S M A T ) ( S(),T1U D ON I  A1,S3T–G  U   A  E RW E X    A, L LW OE O R T I   T. ) BJ1,2,T11T1,SE A   I   I  U   A  E R–G C W A A B A M A AY  ) TH O ( O A A B T B TY  ( A W F F T H R T]
+[DELETED:  S  ) N A B T N F B A A 2  I a t o,  H H t t od  l t os o 2  ( B   ( f   ( r   ( s r o t s r f t d o s o b  ( ( A t A   ( E i C   ( E ph  o](SA  s c   ( F t    ( 3 t a s f t b u o t p f t t A    ( 3 C]
+[DELETED: S 1    ( 1 A    ( 3 2 o t C o t C o A t b u o f h a p   ( A m t d r u p ( o t s t   ( ( A c    ( I A A C a t C o A t c s d a p o t r i a w p ( o t s   TC: O  ()C T H T I U S)  U   I   A  E4T11T–;E   ()ID T H T R I T MN  ( T t t   ( i c   ( p i   ( d A 1  ( I]
+[DELETED:  S   ()“ m a r t o a r or l[],,O ATT    ( ( “ i m a p o t a a  () f b  ()IR C F F O P B T O B O A .   “A”Y TT   () F]( f o  ( “ a  ( “ an.  ( “    ( f a r s b a m s b l o a p    ( r c i e f t p s d o i t a t   ( “    ( a p o f t e p I a a p]
+[DELETED: S 2    ( a p t f c i c c a d c w o a    ( a d s c t d t p p a  ( “ r p m aY I A I   ( a   ( r c f f r o p b u  ( ( “ o   ( “ m  ( ( “ k t i p d p o d b a b t a v i t c c    ( a    ( a    ( a   ( “ o f o m t p o d p o t p o t r m   ( “    ( a a     1 a d f o o t s f d u]
+[DELETED:  S      2 a f c i o s c f c e     3 a     4 a t p     5 a     6 a     A i b a c o t s o c o n     B i u § 3 o t N R A     C i u § 6 t 6 o t T – P t     D i d     7 a p     8 r a    ( t a     1 a     2 a     3 a     4 a    ( a a w]
+[DELETED: S 2 v a    ( a 1   ( “ p i a s a c i i f h e a s d a p c t a o i    ( a s v r a d i § 1 o t s    ( a m a o a p c s p a d i § 1 o t I   ( “    ( f t s o u o a a f b a a oram, c   , t    ( f a r i o h a r p t f a o c a   ( “    ( f t s o u o a a f b a a om, a o    ( f a hrt r  ( ( “    ( e §]
+[DELETED:  S     ( e o    ( h    ( i i    ( i    ( e    ( e   ( “ i f a o v a s r p o c w t C f t e a d    ( u    ( f d 1  ( I t s “ i a b t m t a sm.() I,“N T SN L H R TX M T H ( T2,S4LGA;  U   O O RE ( §2())LGA;A  O O RE ( §20HCC;  O O OE  ( §11PG’CC.  R EES O OE() TH O]
+[DELETED: S 2 T T A A I I R TT() EA A I S CE UH A F W T O A H R T R F ( 2 TN  ( O P A O O D T T S B RN I P I W T I O A P D N A B T O S F U O AN()  E : ( G P O T B O T ( T P O S O W T L HD ( ;E  ( ,,.S S () ICF T O AS A A M F A C R I T A E I M T O B I W T I F B T O 1  I   ( a t r i r d o e t e t c b o b o o w r t a p a a a o]
+[DELETED:  S  s t i s s a o l t a s   ( t r o   ( a R a   ( a    ( a    ( a    ( a    ( a    ( a    ( a    ( a   ) ;IA    () a](I    () a](    () a](X    () a](X    () ](X    () ](X    () a](X    () a](X    () a](X]
+[DELETED: S 2    () a]()X    () a](X 1  ( To]E()X D ON  d a   ( e t   ( c   ( h   ( a   ( t   ( s    ( a    ( a  ( I t C d t t t r a s d c i s  ( I w o p() ( A,N EN AT O O I O A  ()T T I N AN ]
+[DELETED:  S   ()IR O. ( T O M N D O IN T NN T  ( A,N I R B A A IY S A T T F W T A I I I  E11. ( T O M R T FN T  I N F T E O T T C  ()P I I O AR  ()IA P A O A AY   ()IT A T F TR (  P B A A2.  E A 2  ( H r  ( ( T p]
+[DELETED: S 2   ( S a C i    ( T    ( O t t H C E D A  ( H C m() T S E O T SN a t t   ( R    ( C    ( H    ( P a    ( F t   ( P   () I   () M]( o   () P](  ( T o f   ( I c   ( P i   ( D]
+[DELETED:  S   ( ( ( I t s t f w h t m i   ) IC I H T M    A  E RE11T–GA     () 1 R a]()I rl  r     2 R h    ( 1 R h r     2 F p o t s a p s b c o   ( T c t ( T O S C T R R T I  U   O O2,S4LT11T–GA. I   A  E R A 1  ( Te C]S()U T S D O T SN T C ( i P G C b J 1 1 b t g o t f r t  ( ( Ay]S()U T S D O T SN A r t b o a m c l i P G C s b c]
+[DELETED: S 3   ( T t m  ( T o   ( i c   ( p i   ( d ) TC:H O ( T T A U T S F I I T M P I I 24LGAT11T   O O R I   A A; RE  ( :  () 5 O T R C W A MN   () .IAY  S 1]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 979
+Q8 5lr0949
+CF HB 1103
+By: Senator Guzzone
+Introduced and read first time: January 28, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Local Government – Accommodations Intermediaries – Hotel Rental Tax
+3 Collection by Comptroller
+4 FOR the purpose of requiring certain accommodations intermediaries to collect and remit
+5 the hotel rental tax to the Comptroller rather than to each county; providing for the
+6 administration of the hotel rental tax by the Comptroller; providing that certain
+7 provisions of State law prevail over certain local laws or agreements related to the
+8 hotel rental tax; repealing the authority of certain counties to provide for certain
+9 exemptions from the hotel rental tax; establishing certain requirements for certain
+10 audits or investigations of an accommodations intermediary by the Comptroller; and
+11 generally relating to requiring accommodations intermediaries to collect and remit
+12 hotel rental taxes to the Comptroller.
+13 BY repealing and reenacting, with amendments,
+14 Article – Local Government
+15 Section 20–401 through 20–404, 20–406 through 20–411, 20–413, 20–423, 20–425
+16 through 20–428, 20–431, 20–432, 20–434, 20–436, and 20–603(b)
+17 Annotated Code of Maryland
+18 (2013 Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Local Government
+21 Section 20–402.1, 20–405(e), 20–407.1, and 20–433(c)
+22 Annotated Code of Maryland
+23 (2013 Volume and 2024 Supplement)
+24 BY repealing and reenacting, without amendments,
+25 Article – Local Government
+26 Section 20–603(a) and (f)
+27 Annotated Code of Maryland
+28 (2013 Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0979*
+
+2 SENATE BILL 979
+1 BY repealing and reenacting, without amendments,
+2 Article – Tax – General
+3 Section 11–101(a), (a–3), (c–10), (j–3), and (o)
+4 Annotated Code of Maryland
+5 (2022 Replacement Volume and 2024 Supplement)
+6 BY repealing and reenacting, with amendments,
+7 Article – Tax – General
+8 Section 11–101(a–1), (a–2), (a–4), (j–2), and (l), 11–403(a), 13–201, and 13–302
+9 Annotated Code of Maryland
+10 (2022 Replacement Volume and 2024 Supplement)
+11 BY adding to
+12 Article – Tax – General
+13 Section 11–502.3
+14 Annotated Code of Maryland
+15 (2022 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 The Public Local Laws of Howard County
+18 Section 20.400
+19 Article 14 – Public Local Laws of Maryland
+20 (1977 Edition and October 2022 Supplement, as amended)
+21 BY repealing and reenacting, with amendments,
+22 The Public Local Laws of Prince George’s County
+23 Section 10–218.01
+24 Article 17 – Public Local Laws of Maryland
+25 (2015 Edition and January 2018 Supplement, as amended)
+26 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+27 That the Laws of Maryland read as follows:
+28 Article – Local Government
+29 20–401.
+30 (a) In this part the following words have the meanings indicated.
+31 (B) (1) “ACCOMMODATION” HAS THE MEANING STATED IN § 11–101 OF
+32 THE TAX – GENERAL ARTICLE.
+33 (2) “ACCOMMODATION” INCLUDES THE RIGHT TO OCCUPY ANY OF
+34 THE FOLLOWING AS A TRANSIENT GUEST:
+
+SENATE BILL 979 3
+1 (I) AN APARTMENT;
+2 (II) A COTTAGE;
+3 (III) A HOSTELRY;
+4 (IV) AN INN;
+5 (V) A MOTEL;
+6 (VI) A ROOMING HOUSE; OR
+7 (VII) A TOURIST HOME.
+8 (C) “ACCOMMODATIONS INTERMEDIARY” HAS THE MEANING STATED IN §
+9 11–101 OF THE TAX – GENERAL ARTICLE.
+10 (D) “ACCOMMODATIONS PROVIDER” HAS THE MEANING STATED IN § 11–101
+11 OF THE TAX – GENERAL ARTICLE.
+12 (E) “BOOKING TRANSACTION” HAS THE MEANING STATED IN § 11–101 OF
+13 THE TAX – GENERAL ARTICLE.
+14 [(b)] (F) (1) “Hotel” means an establishment that offers sleeping
+15 accommodations for compensation.
+16 (2) “Hotel” includes:
+17 (i) an apartment;
+18 (ii) a cottage;
+19 (iii) a hostelry;
+20 (iv) an inn;
+21 (v) a motel;
+22 (vi) a rooming house; [or]
+23 (vii) a tourist home; OR
+24 (VIII) A SHORT–TERM RENTAL UNIT.
+
+4 SENATE BILL 979
+1 [(c)] (G) “Hotel rental tax” means the tax on [a transient charge] THE TAXABLE
+2 PRICE PAID FOR A BOOKING TRANSACTION.
+3 [(d) (1) (i) Except as provided in subparagraphs (ii), (iii), and (iv) of this
+4 paragraph, “transient charge” means a hotel charge for sleeping accommodations for a
+5 period not exceeding 4 consecutive months.
+6 (ii) In Carroll County, “transient charge” means a hotel charge for
+7 sleeping accommodations for a period not exceeding 25 days.
+8 (iii) In Frederick County, “transient charge” means a hotel charge for
+9 sleeping accommodations for a period not exceeding 90 days.
+10 (iv) In Garrett County and Washington County, “transient charge”
+11 means a hotel charge for sleeping accommodations for a period not exceeding 30 days.
+12 (2) “Transient charge” does not include any hotel charge for:
+13 (i) services; or
+14 (ii) accommodations other than sleeping accommodations.]
+15 (H) “SHORT–TERM RENTAL UNIT” HAS THE MEANING STATED IN § 11–101
+16 OF THE TAX – GENERAL ARTICLE.
+17 (I) “TAXABLE PRICE” HAS THE MEANING STATED IN § 11–101 OF THE TAX –
+18 GENERAL ARTICLE.
+19 [(e)] (J) “Western Maryland code county” means a code county in the Western
+20 Maryland class as established under § 9–302 of this article.
+21 20–402.
+22 (a) This part applies [only to:
+23 (1) subject to subsection (b) of this section, a charter county;
+24 (2) a code county;
+25 (3) Calvert County;
+26 (4) Carroll County;
+27 (5) Cecil County;
+28 (6) Garrett County;
+
+SENATE BILL 979 5
+1 (7) St. Mary’s County;
+2 (8) Somerset County; and
+3 (9) Washington County] TO EACH COUNTY IN THE STATE.
+4 (b) To the extent this part conflicts with another law that applies to a [charter]
+5 county, [the other law shall prevail over] this part SHALL PREVAIL OVER THE OTHER
+6 LAW.
+7 20–402.1.
+8 THIS SUBTITLE APPLIES TO AN ACCOMMODATIONS INTERMEDIARY ONLY IF
+9 THE ACCOMMODATIONS INTERMEDIARY FACILITATES:
+10 (1) BOOKING TRANSACTIONS OR SALES FOR USE OF AN
+11 ACCOMMODATION IN THE STATE TOTALING $100,000 OR MORE IN THE PREVIOUS OR
+12 CURRENT CALENDAR YEAR; OR
+13 (2) 200 OR MORE BOOKING TRANSACTIONS OR SALES FOR USE OF AN
+14 ACCOMMODATION IN THE STATE IN THE PREVIOUS OR CURRENT CALENDAR YEAR.
+15 20–403.
+16 (a) Except as provided in § 20–404 of this subtitle, a county may impose, by
+17 resolution, a hotel rental tax.
+18 (b) (1) This subsection applies only to Calvert County, Charles County, and St.
+19 Mary’s County.
+20 (2) The governing body of a county shall hold a public hearing before
+21 imposing a hotel rental tax.
+22 (3) The hearing:
+23 (i) shall be advertised twice in a newspaper of general circulation in
+24 the county at least 10 days before the hearing; and
+25 (ii) may not be part of the annual budget hearing.
+26 (C) (1) SUBJECT TO SUBSECTION (D) OF THIS SECTION, TITLE 11 AND
+27 TITLE 13, SUBTITLE 3 OF THE TAX – GENERAL ARTICLE AND THIS TITLE SHALL
+28 PREVAIL TO THE EXTENT OF ANY CONFLICT WITH ANY LOCAL LAW, ORDINANCE, OR
+29 RESOLUTION RELATING TO THE COUNTY HOTEL RENTAL TAX.
+
+6 SENATE BILL 979
+1 (2) ANY LOCAL LAW, ORDINANCE, OR RESOLUTION THAT IS
+2 PREEMPTED UNDER PARAGRAPH (1) OF THIS SUBSECTION IS NOT REPEALED BUT
+3 SHALL BE ADMINISTERED IN CONFORMITY WITH STATE LAW.
+4 (D) BEGINNING JANUARY 1, 2028, TITLE 11 AND TITLE 13, SUBTITLE 3 OF
+5 THE TAX – GENERAL ARTICLE AND THIS TITLE SHALL PREVAIL TO THE EXTENT OF
+6 ANY CONFLICT WITH AN AGREEMENT BETWEEN A COUNTY AND AN
+7 ACCOMMODATIONS INTERMEDIARY.
+8 20–404.
+9 (a) The hotel rental tax does not apply to the sale of a right to occupy [a room or
+10 lodgings] AN ACCOMMODATION as a transient guest at a dormitory or other lodging
+11 facility that:
+12 (1) is operated solely in support of the headquarters, a training facility, a
+13 conference facility, an awards facility, or the campus of a corporation or other organization;
+14 (2) provides lodging solely for employees, contractors, vendors, and other
+15 invitees of the corporation that owns the dormitory or lodging facility; and
+16 (3) does not offer lodging services to the general public.
+17 [(b) By resolution, Calvert County and St. Mary’s County may provide a tax
+18 exemption for classes of hotels.
+19 (c) In Carroll County, the hotel rental tax does not apply to a hotel with 10 or
+20 fewer sleeping rooms.
+21 (d) Cecil County may impose the hotel rental tax only on a transient charge paid
+22 to a hotel located in any part of Cecil County that:
+23 (1) is specified by the governing body of Cecil County as a population
+24 center;
+25 (2) is not larger than 10 square miles in geographic area; and
+26 (3) has a population of at least 6,000 residents.
+27 (e) In Frederick County, the hotel rental tax does not apply to a hotel with:
+28 (1) 10 or fewer sleeping rooms in its main building; and
+29 (2) not more than 20 additional sleeping rooms in auxiliary structures on
+30 the hotel’s property.
+
+SENATE BILL 979 7
+1 (f) In Washington County, the hotel rental tax does not apply to a transient
+2 charge paid to a hotel by:
+3 (1) the federal government;
+4 (2) a state; or
+5 (3) a unit or instrumentality of a state or the federal government.]
+6 (B) A COUNTY MAY NOT IMPOSE A HIGHER TAX RATE ON THE SALE OF A
+7 RIGHT TO OCCUPY A SHORT–TERM RENTAL UNIT THAN IT IMPOSES ON THE RENTAL
+8 OF ANY OTHER ACCOMMODATION.
+9 20–405.
+10 (E) IF A COUNTY MODIFIES A HOTEL RENTAL TAX RATE UNDER THIS
+11 SECTION, THE COUNTY SHALL NOTIFY THE COMPTROLLER IN WRITING AT LEAST 60
+12 DAYS BEFORE THE MODIFIED RATE TAKES EFFECT.
+13 20–406.
+14 (a) A hotel OR AN ACCOMMODATIONS PROVIDER shall:
+15 (1) give a person who is required to pay a [transient charge] HOTEL
+16 RENTAL TAX a bill that identifies the [transient charge] TAXABLE PRICE as an item
+17 separate from any other charge; [and]
+18 (2) collect the hotel rental tax from the person who pays the [transient
+19 charge.] TAXABLE PRICE; AND
+20 [(b)] (3) [A hotel shall] hold any hotel rental tax collected in trust for the county
+21 that imposes the tax until the hotel pays the tax to that county as required under this part.
+22 (B) FOR BOOKING TRANSACTIONS AND SALES FOR USE OF AN
+23 ACCOMMODATION, AN ACCOMMODATIONS INTERMEDIARY SHALL:
+24 (1) GIVE A PERSON WHO IS REQUIRED TO PAY A HOTEL RENTAL TAX A
+25 BILL THAT IDENTIFIES THE TAXABLE PRICE AS AN ITEM SEPARATE FROM ANY
+26 OTHER CHARGE;
+27 (2) COLLECT THE HOTEL RENTAL TAX FROM THE PERSON WHO PAYS
+28 THE TAXABLE PRICE; AND
+
+8 SENATE BILL 979
+1 (3) HOLD ANY HOTEL RENTAL TAX COLLECTED IN TRUST FOR THE
+2 COUNTY THAT IMPOSES THE TAX UNTIL THE ACCOMMODATIONS INTERMEDIARY
+3 PAYS THE TAX TO THE COMPTROLLER IN ACCORDANCE WITH § 11–502.3 OF THE TAX
+4 – GENERAL ARTICLE.
+5 20–407.
+6 (A) A person shall pay the hotel rental tax to the hotel OR ACCOMMODATIONS
+7 PROVIDER when the person pays the [transient charge] TAXABLE PRICE.
+8 (B) A PERSON SHALL PAY THE HOTEL RENTAL TAX TO THE
+9 ACCOMMODATIONS INTERMEDIARY WHEN THE PERSON PAYS THE TAXABLE PRICE
+10 FOR A BOOKING TRANSACTION FACILITATED BY THE ACCOMMODATIONS
+11 INTERMEDIARY.
+12 20–407.1.
+13 (A) AN ACCOMMODATIONS INTERMEDIARY SHALL COLLECT THE HOTEL
+14 RENTAL TAX UNDER THIS SUBTITLE ON A BOOKING TRANSACTION FOR AN
+15 ACCOMMODATION IN THE STATE FACILITATED BY THE ACCOMMODATIONS
+16 INTERMEDIARY.
+17 (B) AN ACCOMMODATIONS INTERMEDIARY OR OTHER APPROPRIATE PARTY
+18 SHALL REFUND TO A BUYER THE PROPORTIONATE AMOUNT OF THE HOTEL RENTAL
+19 TAX THAT THE BUYER HAS PAID IF:
+20 (1) A SALE IS RESCINDED OR CANCELED; OR
+21 (2) THE TAXABLE PRICE IS WHOLLY OR PARTIALLY REPAID OR
+22 CREDITED.
+23 (C) AN ACCOMMODATIONS INTERMEDIARY SHALL REPORT THE HOTEL
+24 RENTAL TAX COLLECTED UNDER THIS SECTION SEPARATELY FROM THE SALES AND
+25 USE TAX COLLECTED BY THE ACCOMMODATIONS INTERMEDIARY UNDER TITLE 11
+26 OF THE TAX – GENERAL ARTICLE.
+27 (D) AN ACCOMMODATIONS INTERMEDIARY THAT FACILITATES A BOOKING
+28 TRANSACTION FOR A BUYER ON BEHALF OF AN ACCOMMODATIONS PROVIDER
+29 SHALL:
+30 (1) REMIT TO THE COMPTROLLER THE HOTEL RENTAL TAX UNDER
+31 THIS SUBTITLE IN THE MANNER AND ON THE FORM PRESCRIBED BY THE
+32 COMPTROLLER;
+
+SENATE BILL 979 9
+1 (2) BE SOLELY LIABLE TO COLLECT THE HOTEL RENTAL TAX FROM
+2 THE BUYER FOR TRANSACTIONS FACILITATED BY THE ACCOMMODATIONS
+3 INTERMEDIARY;
+4 (3) BE SUBJECT TO AUDIT, EXAMINATION, INVESTIGATION, AND
+5 ASSESSMENT SOLELY BY THE COMPTROLLER UNDER TITLE 13 OF THE TAX –
+6 GENERAL ARTICLE; AND
+7 (4) BE ENTITLED TO THE PROCEDURAL RIGHTS SET FORTH UNDER
+8 TITLE 13 OF THE TAX – GENERAL ARTICLE, INCLUDING THE RIGHT TO SEEK A
+9 REFUND FOR THE OVERPAYMENT OF TAXES, THE RIGHT TO APPEAL A TAX
+10 ASSESSMENT, AND THE RIGHT TO SEEK JUDICIAL REVIEW OF A DETERMINATION
+11 MADE BY THE COMPTROLLER.
+12 (E) (1) AN ACCOMMODATIONS PROVIDER SHALL REMIT THE HOTEL
+13 RENTAL TAX DUE ON A SALE OR BOOKING TRANSACTION THAT IS NOT FACILITATED
+14 BY AN ACCOMMODATIONS INTERMEDIARY TO THE COUNTY THAT IMPOSES THE TAX.
+15 (2) (I) AN ACCOMMODATIONS PROVIDER AND AN
+16 ACCOMMODATIONS INTERMEDIARY MAY ENTER INTO AN AGREEMENT TO
+17 DETERMINE THE PARTY THAT IS RESPONSIBLE FOR REMITTING THE HOTEL RENTAL
+18 TAX TO THE COMPTROLLER IF EITHER PARTY IS A VENDOR IN THE STATE UNDER §
+19 11–401 OF THE TAX – GENERAL ARTICLE.
+20 (II) THE PARTY THAT AGREES TO REMIT THE TAX UNDER
+21 SUBPARAGRAPH (I) OF THIS PARAGRAPH SHALL BE THE SOLE PARTY HELD LIABLE
+22 FOR THE COLLECTION AND PAYMENT OF THE HOTEL RENTAL TAX.
+23 20–408.
+24 (A) A hotel OR AN ACCOMMODATIONS PROVIDER shall complete, sign, and file
+25 a hotel rental tax return with:
+26 (1) except as provided in item (2) of this section, a code county, on or before
+27 the 10th day of each month; and
+28 (2) (i) Cecil County, on or before the 10th day of each month;
+29 (ii) Talbot County and Wicomico County, on or before the 20th day
+30 of each month;
+31 (iii) a code county in the Eastern Shore class established in § 9–302
+32 of this article, Calvert County, Carroll County, Charles County, Dorchester County,
+33 Frederick County, Garrett County, St. Mary’s County, and Somerset County, on or before
+34 the 21st day of each month; and
+
+10 SENATE BILL 979
+1 (iv) Washington County, on or before the 25th day of each month.
+2 (B) AN ACCOMMODATIONS INTERMEDIARY SHALL FILE A HOTEL RENTAL
+3 TAX RETURN WITH THE COMPTROLLER ON OR BEFORE THE 25TH DAY OF THE
+4 MONTH.
+5 (C) THE COMPTROLLER SHALL GRANT A WAIVER FROM THE FILING OF A
+6 HOTEL RENTAL TAX RETURN IF AN ACCOMMODATIONS PROVIDER THAT PROVIDES
+7 ACCOMMODATIONS EXCLUSIVELY THROUGH AN ACCOMMODATIONS INTERMEDIARY:
+8 (1) ATTESTS ON AN ANNUAL BASIS THAT BOOKING TRANSACTIONS
+9 ARE FACILITATED BY THE ACCOMMODATIONS INTERMEDIARY; AND
+10 (2) REQUESTS A WAIVER FROM FILING THE HOTEL RENTAL TAX
+11 RETURN REQUIRED UNDER THIS TITLE.
+12 20–409.
+13 (A) [A] FOR A BOOKING TRANSACTION THAT IS NOT FACILITATED BY AN
+14 ACCOMMODATIONS INTERMEDIARY, A hotel rental tax return for a county:
+15 (1) shall be made on the form that the county requires; and
+16 (2) shall contain the information that the county requires, including the
+17 amount of:
+18 (i) [transient charges] TAXABLE PRICE paid to the hotel OR
+19 ACCOMMODATIONS PROVIDER during the prior calendar month; and
+20 (ii) the hotel rental tax required to be collected during the prior
+21 calendar month.
+22 (B) FOR A BOOKING TRANSACTION THAT IS FACILITATED BY AN
+23 ACCOMMODATIONS INTERMEDIARY, THE HOTEL RENTAL TAX RETURN SHALL BE
+24 FILED IN THE MANNER AND ON THE FORM THAT THE COMPTROLLER REQUIRES
+25 UNDER § 11–502.3 OF THE TAX – GENERAL ARTICLE.
+26 20–410.
+27 (A) A hotel OR AN ACCOMMODATIONS PROVIDER shall pay to the county the
+28 hotel rental tax collected for a calendar month with the return that covers that month.
+
+SENATE BILL 979 11
+1 (B) AN ACCOMMODATIONS INTERMEDIARY SHALL PAY TO THE
+2 COMPTROLLER THE HOTEL RENTAL TAX COLLECTED FOR A CALENDAR MONTH
+3 WITH THE RETURN THAT COVERS THAT MONTH.
+4 20–411.
+5 (a) Except in Calvert County, Carroll County, Charles County, St. Mary’s County,
+6 and Washington County, a hotel, AN ACCOMMODATIONS INTERMEDIARY, OR AN
+7 ACCOMMODATIONS PROVIDER is allowed, for administrative costs, a discount equal to
+8 1.5% of the gross amount of hotel rental tax collected if, on or before the due date, the hotel,
+9 ACCOMMODATIONS INTERMEDIARY, OR ACCOMMODATIONS PROVIDER:
+10 (1) files the hotel rental tax return; and
+11 (2) pays the hotel rental tax.
+12 (b) In Calvert County, Carroll County, Charles County, St. Mary’s County, and
+13 Washington County, the county commissioners may determine whether a hotel, AN
+14 ACCOMMODATIONS INTERMEDIARY, OR AN ACCOMMODATIONS PROVIDER is eligible
+15 to receive a discount.
+16 20–413.
+17 (a) The Comptroller shall:
+18 (1) provide a county with information to help the county verify hotel rental
+19 tax liability FOR THE HOTEL RENTAL TAX REMITTED BY A HOTEL OR AN
+20 ACCOMMODATIONS PROVIDER;
+21 (2) ESTABLISH THE REMITTANCE PROCESS FOR THE HOTEL RENTAL
+22 TAX COLLECTED AND REMITTED BY AN ACCOMMODATIONS INTERMEDIARY;
+23 (3) ESTABLISH THE PROCESS FOR DISTRIBUTING TO EACH COUNTY
+24 THE HOTEL RENTAL TAX REVENUE THAT IS COLLECTED FROM AN
+25 ACCOMMODATIONS INTERMEDIARY;
+26 (4) PUBLISH THE HOTEL RENTAL TAX RATE, FEES, OR SURCHARGES
+27 IMPOSED ON AN ACCOMMODATION BY A COUNTY OR A MUNICIPALITY UNDER THIS
+28 SUBTITLE;
+29 (5) DEVELOP A SINGLE RETURN FOR USE BY AN ACCOMMODATIONS
+30 INTERMEDIARY THAT AGGREGATES THE HOTEL RENTAL TAX THAT AN
+31 ACCOMMODATIONS INTERMEDIARY IS REQUIRED TO COLLECT AND REMIT; AND
+
+12 SENATE BILL 979
+1 (6) ADOPT REGULATIONS TO IMPLEMENT THIS PART.
+2 (b) (1) The Comptroller may charge a county a reasonable fee for the cost of
+3 providing information under this section.
+4 (2) THE COMPTROLLER SHALL CHARGE A COUNTY A REASONABLE
+5 FEE FOR THE ADMINISTRATIVE COSTS OF COLLECTING THE HOTEL RENTAL TAX.
+6 [(2)] (3) The county shall treat the fee as a hotel rental tax administrative
+7 cost.
+8 20–423.
+9 A county shall make the distributions required under this part:
+10 (1) between the 15th day and the 30th day of each calendar month FOR
+11 HOTEL RENTAL TAX COLLECTED FROM HOTELS OR ACCOMMODATIONS PROVIDERS;
+12 OR
+13 (2) WITHIN 15 DAYS AFTER RECEIVING THE FUNDS FROM THE
+14 COMPTROLLER FOR HOTEL RENTAL TAX COLLECTED FROM ACCOMMODATIONS
+15 INTERMEDIARIES.
+16 20–425.
+17 (a) If a hotel, AN ACCOMMODATIONS PROVIDER, OR AN ACCOMMODATIONS
+18 INTERMEDIARY fails to pay the hotel rental tax as required under this part, the hotel,
+19 ACCOMMODATIONS PROVIDER, OR ACCOMMODATIONS INTERMEDIARY shall pay
+20 interest on the unpaid tax from the date on which the hotel, ACCOMMODATIONS
+21 PROVIDER, OR ACCOMMODATIONS INTERMEDIARY is required to pay the tax to the date
+22 that the tax is paid.
+23 (b) The interest rate for each month or fraction of a month is:
+24 (1) for Cecil County, Dorchester County, Talbot County, Washington
+25 County, and Wicomico County, 1%; and
+26 (2) for any other county, 0.5%.
+27 20–426.
+28 (a) Except in Talbot County or Wicomico County, if a hotel, AN
+29 ACCOMMODATIONS PROVIDER, OR AN ACCOMMODATIONS INTERMEDIARY
+30 REQUIRED TO COLLECT THE HOTEL RENTAL TAX fails to pay the hotel rental tax to a
+31 county within 1 month after the payment is due under § 20–410 of this subtitle, the hotel,
+
+SENATE BILL 979 13
+1 ACCOMMODATIONS PROVIDER, OR ACCOMMODATIONS INTERMEDIARY shall pay a tax
+2 penalty of 10% of the unpaid tax.
+3 (b) If a hotel, AN ACCOMMODATIONS PROVIDER, OR AN ACCOMMODATIONS
+4 INTERMEDIARY REQUIRED TO COLLECT THE HOTEL RENTAL TAX fails to pay the hotel
+5 rental tax to Talbot County or Wicomico County within 120 days after the payment is due
+6 under § 20–410 of this subtitle, the hotel, ACCOMMODATIONS PROVIDER, OR
+7 ACCOMMODATIONS INTERMEDIARY shall pay a tax penalty of 10% of the unpaid tax.
+8 20–427.
+9 (a) A county may file a civil action to collect unpaid hotel rental tax FROM A
+10 HOTEL OR AN ACCOMMODATIONS PROVIDER ON BOOKING TRANSACTIONS NOT
+11 FACILITATED BY AN ACCOMMODATIONS INTERMEDIARY.
+12 (b) A county may collect unpaid hotel rental tax by distraint FROM A HOTEL OR
+13 AN ACCOMMODATIONS PROVIDER ON BOOKING TRANSACTIONS NOT FACILITATED
+14 BY AN ACCOMMODATIONS INTERMEDIARY.
+15 (c) Except in Calvert County and St. Mary’s County, unpaid hotel rental tax is:
+16 (1) a lien against the real and personal property of the person owing the
+17 tax; and
+18 (2) collectible in the same manner as the property tax may be collected
+19 under the Tax – Property Article.
+20 (D) (1) THE COMPTROLLER MAY FILE A CIVIL ACTION TO COLLECT
+21 UNPAID HOTEL RENTAL TAX FROM AN ACCOMMODATIONS INTERMEDIARY ON
+22 BOOKING TRANSACTIONS FACILITATED BY THE ACCOMMODATIONS INTERMEDIARY.
+23 (2) THE COMPTROLLER MAY COLLECT UNPAID HOTEL RENTAL TAX
+24 BY DISTRAINT FROM AN ACCOMMODATIONS INTERMEDIARY ON BOOKING
+25 TRANSACTIONS FACILITATED BY THE ACCOMMODATIONS INTERMEDIARY.
+26 20–428.
+27 (a) (1) Subject to paragraph (2) of this subsection, to protect hotel rental tax
+28 revenue, a county may require a hotel OR AN ACCOMMODATIONS PROVIDER to file
+29 security with the county in an amount that the county determines.
+30 (2) Cecil County, Talbot County, and Wicomico County may require
+31 security under this section only for a hotel OR AN ACCOMMODATIONS PROVIDER that
+32 has been in default.
+
+14 SENATE BILL 979
+1 (b) Security under this section shall be:
+2 (1) a bond issued by a surety company that is:
+3 (i) authorized to do business in the State; and
+4 (ii) approved by the Insurance Commissioner as to solvency and
+5 responsibility;
+6 (2) cash; or
+7 (3) security approved by the county.
+8 (c) (1) If security is required under this section, the county shall give the hotel
+9 OR ACCOMMODATIONS PROVIDER notice of the amount of security.
+10 (2) Within 5 days after a hotel OR AN ACCOMMODATIONS PROVIDER
+11 receives notice that security is required, the hotel OR ACCOMMODATIONS PROVIDER
+12 shall:
+13 (i) file the security; or
+14 (ii) submit a written request for a hearing on the security
+15 requirement.
+16 (d) (1) If a hearing is requested under subsection (c) of this section, the county
+17 shall hold a hearing to determine the necessity, propriety, and amount of the security.
+18 (2) (i) The determination at the hearing is final.
+19 (ii) The hotel OR ACCOMMODATIONS PROVIDER shall comply
+20 within 15 days after the hotel OR ACCOMMODATIONS PROVIDER receives notice of the
+21 determination.
+22 (e) Without notice to the hotel OR ACCOMMODATIONS PROVIDER that files
+23 security under subsection (b)(2) or (3) of this section, the county at any time may:
+24 (1) apply the cash to the hotel rental tax due; or
+25 (2) sell the security and apply the proceeds of the sale to the hotel rental
+26 tax due.
+27 20–431.
+28 (a) In this part the following words have the meanings indicated.
+
+SENATE BILL 979 15
+1 (B) (1) “ACCOMMODATION” HAS THE MEANING STATED IN § 11–101 OF
+2 THE TAX – GENERAL ARTICLE.
+3 (2) “ACCOMMODATION” INCLUDES THE RIGHT TO OCCUPY ANY OF
+4 THE FOLLOWING AS A TRANSIENT GUEST:
+5 (I) AN APARTMENT;
+6 (II) A COTTAGE;
+7 (III) A HOSTELRY;
+8 (IV) AN INN;
+9 (V) A MOTEL;
+10 (VI) A ROOMING HOUSE; OR
+11 (VII) A TOURIST HOME.
+12 (C) “ACCOMMODATIONS INTERMEDIARY” HAS THE MEANING STATED IN §
+13 11–101 OF THE TAX – GENERAL ARTICLE.
+14 (D) “ACCOMMODATIONS PROVIDER” HAS THE MEANING STATED IN § 11–101
+15 OF THE TAX – GENERAL ARTICLE.
+16 (E) “BOOKING TRANSACTION” HAS THE MEANING STATED IN § 11–101 OF
+17 THE TAX – GENERAL ARTICLE.
+18 [(b)] (F) “Hotel” has the meaning stated in § 20–401 of this subtitle.
+19 [(c)] (G) “Hotel rental tax” [means the tax on a transient charge] HAS THE
+20 MEANING STATED IN § 20–401 OF THIS SUBTITLE.
+21 [(d) (1) “Transient charge” means a hotel charge for sleeping accommodations
+22 for a period not exceeding 4 consecutive months.
+23 (2) “Transient charge” does not include any hotel charge for:
+24 (i) services; or
+25 (ii) accommodations other than sleeping accommodations.]
+
+16 SENATE BILL 979
+1 (H) “SHORT–TERM RENTAL UNIT” HAS THE MEANING STATED IN § 11–101
+2 OF THE TAX – GENERAL ARTICLE.
+3 (I) “TAXABLE PRICE” HAS THE MEANING STATED IN § 11–101 OF THE TAX –
+4 GENERAL ARTICLE.
+5 20–432.
+6 (a) Except as provided in subsections (b) [and (c)], (C), AND (D) of this section, a
+7 municipality may impose, by ordinance or resolution, a hotel rental tax.
+8 (b) (1) In this subsection, “hotel rental tax revenue sharing arrangement”
+9 includes:
+10 (i) a requirement under §§ 20–415 through 20–422 of this subtitle
+11 that a county distribute revenue from a county hotel rental tax to a municipality; or
+12 (ii) any other hotel rental tax revenue sharing requirement,
+13 agreement, or arrangement between a county and a municipality.
+14 (2) A municipality in a county that has a hotel rental tax revenue sharing
+15 arrangement between the municipality and the county may not impose a hotel rental tax
+16 under this part.
+17 (c) A municipality may not impose a hotel rental tax if the municipality is
+18 located in a county that:
+19 (1) distributes at least 50% of total county hotel rental tax revenues to
+20 promote tourism in the county; or
+21 (2) does not impose a tax on [a transient charge] THE TAXABLE PRICE
+22 paid to a hotel OR AN ACCOMMODATIONS PROVIDER.
+23 (D) A MUNICIPALITY MAY NOT:
+24 (1) IMPOSE A TAX ON THE RENTAL OF AN ACCOMMODATION,
+25 INCLUDING A SHORT–TERM RENTAL, EXCEPT AS AUTHORIZED UNDER THIS SECTION;
+26 OR
+27 (2) IMPOSE A HIGHER TAX RATE ON SHORT–TERM RENTAL UNITS
+28 THAN ON OTHER ACCOMMODATIONS.
+29 20–433.
+
+SENATE BILL 979 17
+1 (C) IF A MUNICIPALITY MODIFIES A HOTEL RENTAL TAX RATE UNDER THIS
+2 SECTION, THE MUNICIPALITY SHALL NOTIFY THE COMPTROLLER IN WRITING AT
+3 LEAST 60 DAYS BEFORE THE MODIFIED RATE TAKES EFFECT.
+4 20–434.
+5 (A) [A] EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, A
+6 municipality that imposes a hotel rental tax may:
+7 (1) provide for the administration and collection of the tax; AND
+8 (2) [provide for additional exemptions from the tax; and
+9 (3)] impose penalties for failure to collect, report, or pay the tax.
+10 (B) THE COMPTROLLER SHALL COLLECT THE MUNICIPAL HOTEL RENTAL
+11 TAX FROM ACCOMMODATIONS INTERMEDIARIES IN THE SAME MANNER AS THE
+12 COUNTY HOTEL RENTAL TAX UNDER THIS SUBTITLE.
+13 (C) (1) SUBJECT TO SUBSECTION (D) OF THIS SECTION, TITLE 11 AND
+14 TITLE 13, SUBTITLE 3 OF THE TAX – GENERAL ARTICLE AND THIS TITLE SHALL
+15 PREVAIL TO THE EXTENT OF ANY CONFLICT WITH ANY LOCAL LAW, ORDINANCE, OR
+16 RESOLUTION RELATING TO A MUNICIPAL HOTEL RENTAL TAX.
+17 (2) ANY LOCAL LAW, ORDINANCE, OR RESOLUTION THAT IS
+18 PREEMPTED UNDER PARAGRAPH (1) OF THIS SUBSECTION IS NOT REPEALED BUT
+19 SHALL BE ADMINISTERED IN CONFORMITY WITH STATE LAW.
+20 (D) BEGINNING JANUARY 1, 2028, TITLE 11 AND TITLE 13, SUBTITLE 3 OF
+21 THE TAX – GENERAL ARTICLE AND THIS TITLE SHALL PREVAIL TO THE EXTENT OF
+22 ANY CONFLICT WITH AN AGREEMENT BETWEEN A MUNICIPALITY AND AN
+23 ACCOMMODATIONS INTERMEDIARY.
+24 (E) THE COMPTROLLER SHALL GRANT A WAIVER FROM THE FILING OF A
+25 HOTEL RENTAL TAX RETURN IF AN ACCOMMODATIONS PROVIDER THAT PROVIDES
+26 ACCOMMODATIONS EXCLUSIVELY THROUGH AN ACCOMMODATIONS INTERMEDIARY:
+27 (1) ATTESTS ON AN ANNUAL BASIS THAT BOOKING TRANSACTIONS
+28 ARE FACILITATED BY THE ACCOMMODATIONS INTERMEDIARY; AND
+29 (2) REQUESTS A WAIVER FROM FILING THE HOTEL RENTAL TAX
+30 RETURNS REQUIRED UNDER THIS SUBTITLE.
+
+18 SENATE BILL 979
+1 (F) AN ACCOMMODATIONS PROVIDER IS LIABLE FOR HOTEL RENTAL TAXES
+2 ON ANY BOOKING TRANSACTION NOT FACILITATED BY AN ACCOMMODATIONS
+3 INTERMEDIARY.
+4 20–436.
+5 If a county has the authority under Part I of this subtitle or any other law to impose
+6 a HOTEL RENTAL tax [on transient charges paid to hotels,] to accommodate a HOTEL
+7 RENTAL tax imposed under this part by a municipality, the county may impose a HOTEL
+8 RENTAL tax rate [on transient charges paid to hotels located] in the municipality that is
+9 lower than the HOTEL RENTAL tax rate imposed [on transient charges paid to hotels]
+10 outside the municipality.
+11 20–603.
+12 (a) By ordinance, Anne Arundel County may impose a sales or use tax on:
+13 (1) fuel and utilities used by commercial and industrial businesses;
+14 (2) residential, commercial, and industrial telephone service; and
+15 (3) space rentals other than space rentals for the docking or storing of
+16 boats.
+17 (b) (1) Any revenues collected under subsection (a)(1) and (2) of this section in
+18 the City of Annapolis shall be allocated and distributed in equal amounts to the City of
+19 Annapolis and to Anne Arundel County.
+20 (2) Except as otherwise provided in this subsection, any revenue generated
+21 in the City of Annapolis from the tax on space rentals shall be collected and retained by the
+22 City of Annapolis.
+23 (3) Except as provided in [paragraph] PARAGRAPHS (6) AND (7) of this
+24 subsection, any revenue generated in the City of Annapolis from the hotel tax shall be
+25 collected by Anne Arundel County.
+26 (4) From any revenue generated in the City of Annapolis from the hotel
+27 tax, Anne Arundel County shall distribute:
+28 (i) 3% to a special fund to be used only to provide funds to the
+29 Annapolis Art in Public Places Commission;
+30 (ii) 3% to a special fund to be used only to provide funds to the Arts
+31 Council of Anne Arundel County, Inc.;
+
+SENATE BILL 979 19
+1 (iii) 17% to a special fund to be used only to provide funds to the
+2 Annapolis and Anne Arundel County Conference and Visitors Bureau; and
+3 (iv) 3% to the Affordable Housing Trust Fund established under §
+4 20.30.070 of the Code of the City of Annapolis to be used only for housing assistance
+5 payments.
+6 (5) After making the distributions required under paragraph (4) of this
+7 subsection, the balance of the revenue generated in the City of Annapolis from the hotel
+8 tax shall be distributed to the City of Annapolis.
+9 (6) (i) Anne Arundel County may authorize the City of Annapolis to
+10 collect revenue generated in the City of Annapolis from the hotel tax.
+11 (ii) If Anne Arundel County authorizes the City of Annapolis to
+12 collect revenue generated in the City of Annapolis from the hotel tax, the City of Annapolis
+13 shall distribute a percentage of the revenue in accordance with paragraph (4) of this
+14 subsection and retain the balance of the revenue generated.
+15 (7) THE COMPTROLLER SHALL:
+16 (I) COLLECT THE HOTEL TAX IMPOSED UNDER SUBSECTION
+17 (A)(3) OF THIS SECTION FROM ACCOMMODATIONS INTERMEDIARIES IN THE MANNER
+18 PRESCRIBED IN SUBTITLE 4 OF THIS TITLE AND TITLE 11 OF THE TAX – GENERAL
+19 ARTICLE; AND
+20 (II) DISTRIBUTE THE HOTEL TAX REVENUE IN THE MANNER
+21 PRESCRIBED IN THIS SUBSECTION.
+22 (f) The hotel tax authorized under this section does not apply to the sale of a right
+23 to occupy a room or lodgings as a transient guest at a dormitory or other lodging facility
+24 that:
+25 (1) is operated solely in support of the headquarters, a training facility, a
+26 conference facility, an awards facility, or the campus of a corporation or other organization;
+27 (2) provides lodging solely for employees, contractors, vendors, and other
+28 invitees of the corporation that owns the dormitory or lodging facility; and
+29 (3) does not offer lodging services to the general public.
+30 Article – Tax – General
+31 11–101.
+32 (a) In this title the following words have the meanings indicated.
+
+20 SENATE BILL 979
+1 (a–1) “Accommodation” means a right to occupy a room [or], lodgings, OR A
+2 SHORT–TERM RENTAL UNIT as a transient guest.
+3 (a–2) (1) “Accommodations intermediary” means a person, other than an
+4 accommodations provider, who:
+5 (I) facilitates the sale or use of an accommodation and charges a
+6 buyer the taxable price for the accommodation; OR
+7 (II) RECEIVES COMPENSATION FOR FACILITATING
+8 RESERVATIONS OR PROCESSING BOOKING TRANSACTIONS ON BEHALF OF AN
+9 ACCOMMODATIONS PROVIDER.
+10 (2) “ACCOMMODATIONS INTERMEDIARY” INCLUDES A SHORT–TERM
+11 RENTAL PLATFORM.
+12 [(2)] (3) For purposes of this subsection, a person shall be considered to
+13 facilitate the sale or use of an accommodation if the person brokers, coordinates, or in any
+14 other way arranges for the sale or use of an accommodation by a buyer.
+15 (a–3) “Accommodations provider” means a person that owns, operates, or manages
+16 an accommodation and makes the accommodation available for sale or use to a buyer.
+17 (a–4) “Booking transaction” means any transaction in which there is a retail sale of
+18 an accommodation TO A BUYER IN EXCHANGE FOR PAYMENT OF THE TAXABLE PRICE.
+19 (c–10) (1) “Marketplace facilitator” means a person that:
+20 (i) facilitates a retail sale by a marketplace seller by listing or
+21 advertising for sale in a marketplace tangible personal property, digital code, or a digital
+22 product; and
+23 (ii) regardless of whether the person receives compensation or other
+24 consideration in exchange for the person’s services, directly or indirectly through
+25 agreements with third parties, collects payment from a buyer and transmits the payment
+26 to the marketplace seller.
+27 (2) “Marketplace facilitator” does not include:
+28 (i) a platform or forum that exclusively provides Internet
+29 advertising services, including listing products for sale, if the platform or forum does not
+30 also engage, directly or indirectly, in collecting payment from a buyer and transmitting that
+31 payment to the vendor;
+
+SENATE BILL 979 21
+1 (ii) a payment processor business appointed by a vendor to handle
+2 payment transactions from clients, including credit cards and debit cards, whose only
+3 activity with respect to marketplace sales is to handle transactions between two parties; or
+4 (iii) a delivery service company that delivers tangible personal
+5 property on behalf of a marketplace seller that is engaged in the business of a retail vendor
+6 and holds a license issued under Subtitle 7 of this title.
+7 (j–2) “Short–term rental platform” means an ENTITY, INCLUDING AN
+8 Internet–based digital entity that:
+9 (1) advertises the availability of short–term rental units for rent; and
+10 (2) receives compensation for facilitating reservations or processing
+11 booking transactions on behalf of the owner, operator, or manager of a short–term rental
+12 unit.
+13 (j–3) (1) “Short–term rental unit” means a residential dwelling unit or a portion
+14 of the unit used for short–term rentals.
+15 (2) “Short–term rental unit” includes a single–family house or dwelling, a
+16 multifamily house or dwelling, an apartment, a condominium, or a cooperative.
+17 (l) (1) “Taxable price” means the value, in money, of the consideration of any
+18 kind that is paid, delivered, payable, or deliverable by a buyer to a vendor in the
+19 consummation and complete performance of a sale without deduction for any expense or
+20 cost, including the cost of:
+21 (i) any labor or service rendered;
+22 (ii) any material used; or
+23 (iii) any property, digital code, or digital product sold.
+24 (2) “Taxable price” includes, for tangible personal property, a digital code,
+25 or a digital product acquired by a sale for use in the State by the person who assembles,
+26 fabricates, or manufactures the property or digital product, only the price of the raw
+27 materials and component parts contained in the property or digital product.
+28 (3) “Taxable price” does not include:
+29 (i) a charge that is made in connection with a sale and is stated as
+30 a separate item of the consideration for:
+31 1. a delivery, freight, or other transportation service for
+32 delivery directly to the buyer by the vendor or by another person acting for the vendor,
+33 unless the transportation service is a taxable service;
+
+22 SENATE BILL 979
+1 2. a finance charge, interest, or similar charge for credit
+2 extended to the buyer;
+3 3. a labor or service for application or installation;
+4 4. a mandatory gratuity or service charge in the nature of a
+5 tip for serving food or beverage to a group of 10 or fewer individuals for consumption on the
+6 premises of the vendor;
+7 5. a professional service;
+8 6. a tax:
+9 A. imposed by a county on the sale of coal, electricity, oil,
+10 nuclear fuel assemblies, steam, or artificial or natural gas;
+11 B. imposed under § 3–302(a) of the Natural Resources
+12 Article, as a surcharge on electricity, and added to an electric bill;
+13 C. imposed under §§ 6–201 through 6–203 of the Tax –
+14 Property Article, on tangible personal property subject to a lease that is for an initial period
+15 that exceeds 1 year and is noncancellable except for cause; or
+16 D. imposed under § 4–102 of this article on the gross receipts
+17 derived from an admissions and amusement charge;
+18 7. any service for the operation of equipment used for the
+19 production of audio, video, or film recordings; or
+20 8. reimbursement of incidental expenses paid to a third party
+21 and incurred in connection with providing a taxable detective service;
+22 (ii) the value of a used component or part (core value) received from
+23 a purchaser of the following remanufactured truck parts:
+24 1. an air brake system;
+25 2. an engine;
+26 3. a rear axle carrier; or
+27 4. a transmission;
+28 (iii) a charge for a nontaxable service that is made in connection with
+29 a sale of a taxable communication service, even if the nontaxable charges are aggregated
+30 with and not separately stated from the taxable charges for communications services, if the
+
+SENATE BILL 979 23
+1 vendor can reasonably identify charges not subject to tax from its books and records that
+2 are kept in the regular course of business; or
+3 (iv) a transportation network company impact fee imposed under §
+4 10–408 of the Public Utilities Article.
+5 (4) “Taxable price” includes all sales and charges, including insurance,
+6 freight handling, equipment and supplies, delivery and pickup, cellular telephone, and
+7 other accessories, but not including sales of motor fuel subject to the motor fuel tax, made
+8 in connection with:
+9 (i) a short–term vehicle rental, as defined in § 11–104(c) of this
+10 subtitle; or
+11 (ii) a shared motor vehicle used for peer–to–peer car sharing and
+12 made available on a peer–to–peer car sharing program, as defined in § 19–520 of the
+13 Insurance Article.
+14 (5) “Taxable price” includes:
+15 (i) for the sale or use of an accommodation facilitated by an
+16 accommodations intermediary [or a short–term rental platform], the full amount of the
+17 consideration paid by a buyer for the sale or use of an accommodation FOR A PERIOD NOT
+18 EXCEEDING 4 CONSECUTIVE MONTHS, but not including any tax that is remitted to a
+19 taxing authority; and
+20 (ii) for the sale or use of a home amenity rental facilitated by a home
+21 amenity rental intermediary or home amenity rental platform, the full amount of
+22 consideration paid by a buyer for the sale or use of a home amenity rental, but not including
+23 any tax that is remitted to a taxing authority.
+24 (6) “Taxable price” does not include:
+25 (i) for the sale or use of an accommodation facilitated by an
+26 accommodations intermediary [or a short–term rental platform], a commission paid by an
+27 accommodations provider to a person after facilitating the sale or use of an accommodation;
+28 or
+29 (ii) for the sale or use of a home amenity rental facilitated by a home
+30 amenity rental intermediary or home amenity rental platform, a commission paid by a
+31 home amenity rental provider to a person after facilitating the sale or use of a home amenity
+32 rental.
+33 (o) (1) “Vendor” means a person who:
+34 (i) engages in the business of an out–of–state vendor, as defined in
+35 § 11–701 of this title;
+
+24 SENATE BILL 979
+1 (ii) engages in the business of a retail vendor, as defined in § 11–701
+2 of this title;
+3 (iii) holds a special license issued under § 11–707 of this title;
+4 (iv) is an accommodations intermediary or a home amenity rental
+5 intermediary;
+6 (v) is a short–term rental platform or home amenity rental platform;
+7 (vi) engages in the business of a marketplace facilitator; or
+8 (vii) engages in the business of a marketplace seller.
+9 (2) “Vendor” includes, for an out–of–state vendor, a salesman,
+10 representative, peddler, or canvasser whom the Comptroller, for the efficient
+11 administration of this title, elects to treat as an agent jointly responsible with the dealer,
+12 distributor, employer, or supervisor:
+13 (i) under whom the agent operates; or
+14 (ii) from whom the agent obtains the tangible personal property, a
+15 digital code, a digital product, or taxable service for sale.
+16 11–403.
+17 (a) In this section, “sale” includes a booking transaction made through [a
+18 short–term rental platform] AN ACCOMMODATIONS INTERMEDIARY.
+19 11–502.3.
+20 (A) IN THIS SECTION, “LOCAL HOTEL RENTAL TAX” MEANS THE HOTEL
+21 RENTAL TAX IMPOSED UNDER:
+22 (1) TITLE 20, SUBTITLE 4 OF THE LOCAL GOVERNMENT ARTICLE;
+23 (2) § 20–603(A)(3) OF THE LOCAL GOVERNMENT ARTICLE;
+24 (3) § 20.400 OF THE HOWARD COUNTY CODE; AND
+25 (4) § 10–218.1 OF THE PRINCE GEORGE’S COUNTY CODE.
+26 (B) THE COMPTROLLER SHALL DEVELOP A SINGLE TAX RETURN FOR USE
+27 BY AN ACCOMMODATIONS INTERMEDIARY THAT AGGREGATES THE LOCAL HOTEL
+
+SENATE BILL 979 25
+1 RENTAL TAXES THAT AN ACCOMMODATIONS INTERMEDIARY IS REQUIRED TO
+2 COLLECT AND REMIT.
+3 (C) EACH ACCOMMODATIONS INTERMEDIARY SHALL COMPLETE, UNDER
+4 OATH, AND FILE WITH THE COMPTROLLER A HOTEL RENTAL TAX RETURN FOR
+5 LOCAL HOTEL RENTAL TAXES AND THE TAX IMPOSED UNDER THIS TITLE:
+6 (1) ON OR BEFORE THE 25TH DAY OF THE MONTH THAT FOLLOWS THE
+7 MONTH IN WHICH THE ACCOMMODATIONS INTERMEDIARY FACILITATES A BOOKING
+8 TRANSACTION OR SALE FOR USE OF AN ACCOMMODATION; AND
+9 (2) FOR OTHER PERIODS AND ON OTHER DATES THAT THE
+10 COMPTROLLER SPECIFIES BY REGULATION, INCLUDING PERIODS IN WHICH THE
+11 ACCOMMODATIONS INTERMEDIARY OR ACCOMMODATIONS PROVIDER DOES NOT
+12 FACILITATE ANY BOOKING TRANSACTION OR SALE FOR USE OF AN
+13 ACCOMMODATION.
+14 (D) A RETURN SHALL REQUIRE AN ACCOMMODATIONS INTERMEDIARY TO
+15 STATE, FOR THE PERIOD THAT THE RETURN COVERS:
+16 (1) THE GROSS PROCEEDS OF THE BUSINESS OF THE
+17 ACCOMMODATIONS INTERMEDIARY;
+18 (2) THE TAXABLE PRICE OF SALES ON WHICH THE LOCAL HOTEL
+19 RENTAL TAX WAS IMPOSED;
+20 (3) THE LOCAL HOTEL RENTAL TAX DUE; AND
+21 (4) ANY ALLOWABLE DISCOUNTS, DEDUCTIONS, OR EXEMPTIONS.
+22 (E) IF THE COMPTROLLER APPROVES, AN ACCOMMODATIONS
+23 INTERMEDIARY MAY FILE A CONSOLIDATED RETURN IF THE ACCOMMODATIONS
+24 INTERMEDIARY ENGAGES IN MORE THAN ONE BUSINESS IN WHICH THE
+25 ACCOMMODATIONS INTERMEDIARY FACILITATES BOOKING TRANSACTIONS OR
+26 SALES FOR USE OF AN ACCOMMODATION.
+27 13–201.
+28 In this subtitle, “tax information” means:
+29 (1) any tax return, information return, declaration of estimated tax,
+30 extension of time to file a return, or claim for refund under this article that is filed with the
+31 tax collector by, on behalf of, or with respect to any person and any amendment or
+
+26 SENATE BILL 979
+1 supplement thereto, including supporting schedules, attachments, or lists that are
+2 supplemental to or a part of the return;
+3 (2) the amount of income or any other particulars disclosed in a tax return
+4 required under this article, if the return contains return information, as defined in § 6103
+5 of the Internal Revenue Code;
+6 (3) any return or return information, as defined in § 6103 of the Internal
+7 Revenue Code, required to be attached to or included in a tax return required under this
+8 article; or
+9 (4) any information contained in:
+10 (i) an admissions and amusement tax return;
+11 (ii) an alcoholic beverage tax return;
+12 (iii) a bay restoration fee return;
+13 (iv) a boxing and wrestling tax return;
+14 (v) a digital advertising gross revenues tax return;
+15 (vi) an E–9–1–1 fee return;
+16 (vii) a financial institution franchise tax return;
+17 (VIII) A HOTEL RENTAL TAX RETURN;
+18 [(viii)] (IX) an inheritance tax return;
+19 [(ix)] (X) a Maryland estate tax return;
+20 [(x)] (XI) a motor carrier tax return;
+21 [(xi)] (XII) a motor fuel tax return;
+22 [(xii)] (XIII) an other tobacco products tax return;
+23 [(xiii)] (XIV) a public service company franchise tax return;
+24 [(xiv)] (XV) a sales and use tax return;
+25 [(xv)] (XVI) a savings and loan association franchise tax return;
+26 [(xvi)] (XVII) a tire recycling fee return;
+
+SENATE BILL 979 27
+1 [(xvii)] (XVIII) a tobacco tax return; or
+2 [(xviii)] (XIX) a transportation services assessment return.
+3 13–302.
+4 (a) [To] EXCEPT AS PROVIDED IN SUBSECTION (D) OF THIS SECTION, TO
+5 determine whether a tax return is correct or otherwise to enforce a provision of this article,
+6 a tax collector may:
+7 (1) examine any records or other data that may be relevant or material to
+8 the matters required to be included in a tax return;
+9 (2) conduct an investigation;
+10 (3) hold a hearing;
+11 (4) administer oaths;
+12 (5) take testimony and other evidence; and
+13 (6) subpoena:
+14 (i) any person; or
+15 (ii) any relevant document.
+16 (b) If the Comptroller determines that the taxpayer’s records are so detailed,
+17 complex, or voluminous that an audit of all detailed records would be unreasonable or
+18 impractical, the Comptroller may compute the sales and use tax by using scientific random
+19 sampling techniques.
+20 (c) If a person fails to comply with a subpoena or fails to testify on any matter on
+21 which the person lawfully may be interrogated, on petition of a tax collector, a circuit court
+22 or, if the subpoena is issued under authority of an orphans’ court, the orphans’ court may
+23 pass an order directing compliance with the subpoena or compelling testimony.
+24 (D) (1) AN EXAMINATION, AUDIT, OR OTHER INVESTIGATION OF AN
+25 ACCOMMODATIONS INTERMEDIARY RELATED TO THE SALES AND USE TAX OR HOTEL
+26 RENTAL TAX SHALL BE CONDUCTED ON THE BASIS OF:
+27 (I) THE TAXPAYER IDENTIFICATION NUMBER ASSOCIATED
+28 WITH THE ACCOMMODATIONS INTERMEDIARY THAT FILED THE TAX RETURN; AND
+
+28 SENATE BILL 979
+1 (II) RETURNS FILED BY THE ACCOMMODATIONS INTERMEDIARY
+2 WITH THE COMPTROLLER.
+3 (2) THE COMPTROLLER MAY NOT DIRECTLY OR INDIRECTLY
+4 CONDUCT AN EXAMINATION, AUDIT, OR OTHER INVESTIGATION OF AN INDIVIDUAL
+5 ACCOMMODATIONS PROVIDER FOR BOOKING TRANSACTIONS FACILITATED BY THE
+6 ACCOMMODATIONS INTERMEDIARY.
+7 (3) AN EXAMINATION, AUDIT, OR OTHER INVESTIGATION UNDER THIS
+8 SUBSECTION, IF REQUESTED BY AN ACCOMMODATIONS INTERMEDIARY, SHALL
+9 INCLUDE ALL TAX TYPES FOR WHICH THE ACCOMMODATIONS INTERMEDIARY IS
+10 REQUIRED TO COLLECT AND REMIT UNDER TITLE 11 OF THIS ARTICLE.
+11 (4) THE COMPTROLLER MAY REQUEST THE FOLLOWING
+12 INFORMATION FROM AN ACCOMMODATIONS INTERMEDIARY IN THE COURSE OF AN
+13 EXAMINATION, AUDIT, OR OTHER INVESTIGATION ONLY TO THE EXTENT THAT THE
+14 INFORMATION IS NECESSARY FOR THE ENFORCEMENT OF THE TAX COLLECTION
+15 OBLIGATIONS IMPOSED ON THE ACCOMMODATIONS INTERMEDIARY:
+16 (I) PERSONALLY IDENTIFIABLE INFORMATION OF AN
+17 ACCOMMODATIONS PROVIDER;
+18 (II) A PHYSICAL ADDRESS OF AN ACCOMMODATION
+19 FACILITATED BY AN ACCOMMODATIONS INTERMEDIARY; OR
+20 (III) THE AMOUNTS TRANSMITTED FROM THE
+21 ACCOMMODATIONS INTERMEDIARY TO THE ACCOMMODATIONS PROVIDER.
+22 (5) INFORMATION PROVIDED BY AN ACCOMMODATIONS
+23 INTERMEDIARY UNDER THIS SECTION IS CONFIDENTIAL TAX INFORMATION UNDER
+24 SUBTITLE 2 OF THIS TITLE.
+25 Article 14 – Howard County
+26 20.400.
+27 (a) Howard County may impose, by law, and collect a sales or use tax on room
+28 rentals in the county for sleeping accommodations for transients.
+29 (b) (1) The rate of the tax authorized under this section may not exceed seven
+30 percent.
+
+SENATE BILL 979 29
+1 (2) Subject to the annual County budget and appropriation process, the
+2 County shall distribute any revenue attributable to a tax rate greater than five percent
+3 imposed by the County under this subsection as follows:
+4 (i) Two–thirds to the Howard County Tourism Council; and
+5 (ii) One–third to the Howard County Economic Development
+6 Authority.
+7 (c) SUBJECT TO SUBSECTION (E) OF THIS SECTION, Howard County may
+8 adopt, by law, any procedural or enforcement provision that the County Council considers
+9 to be necessary or appropriate for administration or collection of the tax authorized under
+10 this section, including, without limitation:
+11 (1) Requiring hotels in the County to:
+12 (i) Collect the tax from patrons;
+13 (ii) Hold the tax in trust for the County;
+14 (iii) Pay the tax collected and file periodic returns with the County;
+15 and
+16 (iv) File a bond or other security for payment of the tax in an amount
+17 that the County Council considers to be necessary;
+18 (2) [Providing a tax exemption for classes of hotels;
+19 (3)] Imposing interest and penalties for late payment of the tax;
+20 [(4)] (3) Making unpaid tax a lien against the real and personal property
+21 of the person owing the tax; and
+22 [(5)] (4) Providing for collection of the tax by distraint.
+23 (d) The room rental tax authorized under this section does not apply to the sale
+24 of a right to occupy a room or lodgings as a transient guest at a dormitory or other lodging
+25 facility that:
+26 (1) Is operated solely in support of the headquarters, a training facility, a
+27 conference facility, an awards facility, or the campus of a corporation or other organization;
+28 (2) Provides lodging solely for employees, contractors, vendors, and other
+29 invitees of the corporation that owns the dormitory or lodging facility; and
+30 (3) Does not offer lodging services to the general public.
+
+30 SENATE BILL 979
+1 (e) (1) (i) In this subsection the following words have the meanings
+2 indicated.
+3 (II) ACCOMMODATIONS INTERMEDIARY HAS THE MEANING
+4 STATED IN § 11–101 OF THE TAX – GENERAL ARTICLE.
+5 [(ii)] (III) 1. Room rental fee means a fee charged by [a room
+6 rental] AN ACCOMMODATIONS intermediary to a transient for facilitating the rental of a
+7 room.
+8 2. Room rental fee does not include a commission paid by a
+9 hotelkeeper to a person after facilitating the rental of a room.
+10 [(iii) 1. Room rental intermediary means a person, other than a
+11 hotelkeeper, who facilitates the rental of a room and charges a transient for the rental of a
+12 room.
+13 2. For purposes of this subparagraph, a person shall be
+14 considered to facilitate the rental of a room if the person brokers, coordinates, or in any
+15 other way arranges for the rental of a room by a transient.]
+16 (2) The room rental tax authorized under this section applies to the total
+17 charge for the room rental of a room, including any room rental fee but not including any
+18 tax.
+19 (3) THE COMPTROLLER SHALL COLLECT THE ROOM RENTAL TAX
+20 AUTHORIZED UNDER THIS SECTION FROM ACCOMMODATIONS INTERMEDIARIES IN
+21 THE MANNER PRESCRIBED IN TITLE 20, SUBTITLE 4 OF THE LOCAL GOVERNMENT
+22 ARTICLE AND TITLE 11 OF THE TAX – GENERAL ARTICLE.
+23 Article 17 – Prince George’s County
+24 10–218.01.
+25 (a) [The] SUBJECT TO SUBSECTION (D) OF THIS SECTION, THE County
+26 Council of Prince George’s County may levy and impose a tax of not exceeding ten percent
+27 (10%) on all gross amounts of money paid to the owners or operators of hotels and motels
+28 in Prince George’s County beginning July 1, 1975, by transient guests or tenants for
+29 renting, using or occupying a room or rooms in hotels and motels in Prince George’s County
+30 to be paid and collected pursuant to rules and regulations adopted by the County Council.
+31 (b) (1) [Any] SUBJECT TO SUBSECTION (D) OF THIS SECTION, ANY
+32 revenues generated under the authority of this Section from a hotel and motel tax within
+33 the boundaries of a municipal corporation located in Prince George’s County shall be
+34 collected by the County.
+
+SENATE BILL 979 31
+1 (2) The County shall distribute to the municipal corporation within which
+2 the revenues were generated 50% of the revenues collected by the County from hotels and
+3 motels in the municipal corporation.
+4 (c) The tax authorized under this section does not apply to the sale of a right to
+5 occupy a room or lodgings as a transient guest at a dormitory or other lodging facility that:
+6 (1) is operated solely in support of the headquarters, a training facility, a
+7 conference facility, an awards facility, or the campus of a corporation or other organization;
+8 (2) provides lodging solely for employees, contractors, vendors, and other
+9 invitees of the corporation that owns the dormitory or lodging facility; and
+10 (3) does not offer lodging services to the general public.
+11 (D) THE COMPTROLLER SHALL:
+12 (1) COLLECT THE TAX AUTHORIZED UNDER THIS SECTION FROM
+13 ACCOMMODATIONS INTERMEDIARIES IN THE MANNER PRESCRIBED IN TITLE 20,
+14 SUBTITLE 4 OF THE LOCAL GOVERNMENT ARTICLE AND TITLE 11 OF THE TAX –
+15 GENERAL ARTICLE; AND
+16 (2) DISTRIBUTE:
+17 (I) 50% OF THE REVENUE COLLECTED WITHIN A MUNICIPAL
+18 CORPORATION TO THE MUNICIPAL CORPORATION; AND
+19 (II) ALL REMAINING REVENUE TO THE COUNTY.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+21 1, 2026.
+
+[DELETED: :CA      5   C A L C F t a p h e a g h B  A S t  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  S  B  A S  A  ( B  A S  A  ( B  A S  A  ( B  T S  A  ( B  T S  A  (  S T A 2  ( I() ( “A”§1CN     A  E R–GA. ( “AN I T R T O A O]
+[DELETED: S 3  () ;A  () ;IA  () ;IA  () ;VA  () ;A  () ;IAE   () .IA() “A”CY  1T–GA. A  E R ) “A”§1CR    A  E R–GA.() “B”§1ON     A  E R–GA.  ()( “ m a e t o s]() a   ( “    ( a    ( a    ( a    ( a    ( a    ( a o]    ( a  () –IATT ]
+[DELETED:  S   ()“ a]() [G  .  ()( ( E p “ c”m a h c f s a f a p    ( I s    ( I s    ( I m   ( “    ( s    ( a.() “S–”§1HTTT    A  E R–GA.() “T”§11TAE     A A. R  () “]( M 2  ( T o   ( s   ( a   ()C   ( C   ( C   ( G]
+[DELETED: S 5   ( S   ( S   ( WyS T  ( T cr c tr  .. ( T O S F U O A T  $R  ( 2 T. 2  ( E a p i § 2 o t s a c m i b r  ( ( T M   ( T g b o a c s h a p h b i   ( T    ( s t    ( m ) ( S(),T1U D ON I  A1,S3T–G  U   A  E RW E X]
+[DELETED:  S  ( A, L LW OE O R T I   T.() BJ1,2,T11T1,SE A   I   I  U   A  E R–G C W A A B A C A AY 2  ( T a ls a a t g a a d o o lA A f   ( i c   ( p i   ( d  ( B r C C a S M C m p a t e  ( I f  ( C t   ( i s b t g b o C C a a p c   ( i   ( h  ( I   ( 1   ( n t]
+[DELETED: S 7  ( I W C t h r t d n a t a t c   ( t   ( a   ( a()  TTN 2 ) F A C M A H R T R U TN  O C6T 2  ( A     ( g a p w i r t p a t cH  T a b t i t t cea a i s a]   ( c t c.E   () Alsl ] ()[ t ) O B T A S F U O AN : ( T I T T P A A I S F AE (E ]
+[DELETED:  S  ( T C I T I T T U T A I O    A§13GA.E R 2  A)O   w te. )  P S P T H R T T T A B T F B T AY() N A I S C T H T U T S O A B T F A I T T F B T A() N ( ;D  ( T P I W O P R O() N A I S R T H I 1 A  E R–GA.() N F A B O B O A A P (  O S I T M A O T F P B T;R]
+[DELETED: S 9 ( B F T F B T AY ( ,, S T AT EN IN A S B T O U I  O T A T13TA; RE  ()B13T–GA  O T A  E RE I T R T S A F T O O TS T R T A A TT  D O.() ( N A P S R T HX ( () N A P A A I M E I A A T O T S1T–GA. A  E R  () IH P T A T R T T U I  2  A s)O a   ( e t   ( ( C    ( T o    ( a o t a C C C C C C D C F t]
+[DELETED:  S     ( W() N A I S A H R W T O O O B T T D O T2() TH O ( O A A B T B TY  ( A W F F T H R T 2() [] O B Y      ( s   ( s a    ( t cs p t t hT PEO d    ( t h r t r t b c d t p c  ) O A B T T I F B A IY T H R T R S B I T M A O T F T T O R    A  E R13T–GA. 2  Als)  h]
+[DELETED: S 1BN A I S P T T()  T H R T C F A C MH 2  ( E a W C a hA A IY O A   1Y  :   ( f   ( p  ( I W C t c c m d w a hAY    t 2  ( T ( p t l T H R T R B A H O A (Y ( H R T R T I C F AY ( ,E S  ( T A T H R T T AT ]
+[DELETED:  S  (    ( ( T p   T O S C A C A R   () T]( c 2  A ( bhdS ( 1  D A R T F F T F H R T C F A . 2  ( IlROY   PRO A I  s p i o t u t f t d o w t hARO  i t  ( T   ( f C C D C T C W C   ( f 2  ( E i T C o W C i a hA PR O A A I f c]
+[DELETED: S 1R  s p  ( IR    r u § 2 o t s t hA PR O s 2  ( A O A A P O B T N .  ( AymF .  ( E   ( a t   ( c u ) ( TH O M F A C A T C H R T F A A I O ( T O D F A A I O B 2  ( ( S r a c m r a h t f A A P s   ( C C T C a W C m r s t h]
+[DELETED:  S   ( S   ( a    ( a    ( a b t I C a t s a r   ( c   ( s  ( ( I     ( W 5 d a a h r n t s i r t h  s    ( f    ( s a w r f a h o t s r  ( ( I s   ( ( T    ( T h s c A P w r d  ( W n t t h  t f A P s   ( a   ( s t 2  ( I]
+[DELETED: S 1 ) ( “A”§1CN     A  E R–GA. ( “AN I T R T O A O  () ;A  () ;IA  () ;IA  () ;VA  () ;A  () ;IAE   () .IA() “A”CY  1T–GA. A  E R() “A”§1CR    A  E R–GA. ) “B”§1ON     A  E R–GA.  () “](  () “ r t m t t o a t c]()[G H T   2 .  ( ( “ f.   ( “    ( s    ( a]
+[DELETED:  S () “S–”§1HTTT    A  E R–GA.() “T”§11TAE     A A. R 2  ( E a) ],(),(C   m  ( ( I t s “ r t r s a i    ( a t    ( a o h r t r s r a   ( A a u  ( A m i l   ( d p   ( d ae p . ) A:  (  A T O T R O A ANTTL N, (  A H T R O STT R U 2]
+[DELETED: S 1 ) FN  M O  T0. 2  ) []E() X A P I S B O T SN A m   ( p   ( p   () i() TH O F A I I T S M A T ) ( S(),T1U D ON I  A1,S3T–G  U   A  E RW E X    A, L LW OE O R T I   T. ) BJ1,2,T11T1,SE A   I   I  U   A  E R–G C W A A B A M A AY  ) TH O ( O A A B T B TY  ( A W F F T H R T]
+[DELETED:  S  ) N A B T N F B A A 2  I a t o,  H H t t od  l t os o 2  ( B   ( f   ( r   ( s r o t s r f t d o s o b  ( ( A t A   ( E i C   ( E ph  o](SA  s c   ( F t    ( 3 t a s f t b u o t p f t t A    ( 3 C]
+[DELETED: S 1    ( 1 A    ( 3 2 o t C o t C o A t b u o f h a p   ( A m t d r u p ( o t s t   ( ( A c    ( I A A C a t C o A t c s d a p o t r i a w p ( o t s   TC: O  ()C T H T I U S)  U   I   A  E4T11T–;E   ()ID T H T R I T MN  ( T t t   ( i c   ( p i   ( d A 1  ( I]
+[DELETED:  S   ()“ m a r t o a r or l[],,O ATT    ( ( “ i m a p o t a a  () f b  ()IR C F F O P B T O B O A .   “A”Y TT   () F]( f o  ( “ a  ( “ an.  ( “    ( f a r s b a m s b l o a p    ( r c i e f t p s d o i t a t   ( “    ( a p o f t e p I a a p]
+[DELETED: S 2    ( a p t f c i c c a d c w o a    ( a d s c t d t p p a  ( “ r p m aY I A I   ( a   ( r c f f r o p b u  ( ( “ o   ( “ m  ( ( “ k t i p d p o d b a b t a v i t c c    ( a    ( a    ( a   ( “ o f o m t p o d p o t p o t r m   ( “    ( a a     1 a d f o o t s f d u]
+[DELETED:  S      2 a f c i o s c f c e     3 a     4 a t p     5 a     6 a     A i b a c o t s o c o n     B i u § 3 o t N R A     C i u § 6 t 6 o t T – P t     D i d     7 a p     8 r a    ( t a     1 a     2 a     3 a     4 a    ( a a w]
+[DELETED: S 2 v a    ( a 1   ( “ p i a s a c i i f h e a s d a p c t a o i    ( a s v r a d i § 1 o t s    ( a m a o a p c s p a d i § 1 o t I   ( “    ( f t s o u o a a f b a a oram, c   , t    ( f a r i o h a r p t f a o c a   ( “    ( f t s o u o a a f b a a om, a o    ( f a hrt r  ( ( “    ( e §]
+[DELETED:  S     ( e o    ( h    ( i i    ( i    ( e    ( e   ( “ i f a o v a s r p o c w t C f t e a d    ( u    ( f d 1  ( I t s “ i a b t m t a sm.() I,“N T SN L H R TX M T H ( T2,S4LGA;  U   O O RE ( §2())LGA;A  O O RE ( §20HCC;  O O OE  ( §11PG’CC.  R EES O OE() TH O]
+[DELETED: S 2 T T A A I I R TT() EA A I S CE UH A F W T O A H R T R F ( 2 TN  ( O P A O O D T T S B RN I P I W T I O A P D N A B T O S F U O AN()  E : ( G P O T B O T ( T P O S O W T L HD ( ;E  ( ,,.S S () ICF T O AS A A M F A C R I T A E I M T O B I W T I F B T O 1  I   ( a t r i r d o e t e t c b o b o o w r t a p a a a o]
+[DELETED:  S  s t i s s a o l t a s   ( t r o   ( a R a   ( a    ( a    ( a    ( a    ( a    ( a    ( a    ( a   ) ;IA    () a](I    () a](    () a](X    () a](X    () ](X    () ](X    () a](X    () a](X    () a](X]
+[DELETED: S 2    () a]()X    () a](X 1  ( To]E()X D ON  d a   ( e t   ( c   ( h   ( a   ( t   ( s    ( a    ( a  ( I t C d t t t r a s d c i s  ( I w o p() ( A,N EN AT O O I O A  ()T T I N AN ]
+[DELETED:  S   ()IR O. ( T O M N D O IN T NN T  ( A,N I R B A A IY S A T T F W T A I I I  E11. ( T O M R T FN T  I N F T E O T T C  ()P I I O AR  ()IA P A O A AY   ()IT A T F TR (  P B A A2.  E A 2  ( H r  ( ( T p]
+[DELETED: S 2   ( S a C i    ( T    ( O t t H C E D A  ( H C m() T S E O T SN a t t   ( R    ( C    ( H    ( P a    ( F t   ( P   () I   () M]( o   () P](  ( T o f   ( I c   ( P i   ( D]
+[DELETED:  S   ( ( ( I t s t f w h t m i   ) IC I H T M    A  E RE11T–GA     () 1 R a]()I rl  r     2 R h    ( 1 R h r     2 F p o t s a p s b c o   ( T c t ( T O S C T R R T I  U   O O2,S4LT11T–GA. I   A  E R A 1  ( Te C]S()U T S D O T SN T C ( i P G C b J 1 1 b t g o t f r t  ( ( Ay]S()U T S D O T SN A r t b o a m c l i P G C s b c]
+[DELETED: S 3   ( T t m  ( T o   ( i c   ( p i   ( d ) TC:H O ( T T A U T S F I I T M P I I 24LGAT11T   O O R I   A A; RE  ( :  () 5 O T R C W A MN   () .IAY  S 1]

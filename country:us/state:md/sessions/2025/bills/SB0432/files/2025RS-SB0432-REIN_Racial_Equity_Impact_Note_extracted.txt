@@ -1,0 +1,406 @@
+Title: Criminal Records – Expungement and Maryland Judiciary Case
+Official Title: Criminal Records – Expungement and Maryland Judiciary Case
+Number of Sections: 2
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 Session
+SB0432
+Search (Expungement Reform Act of 2025)
+Bill Summary
+This Administration bill (1) alters various statutory provisions relating to waiting periods for the
+filing of a petition to expunge a conviction under §§ 10-105 or 10-110 of the Criminal Procedure
+Article; (2) expands the list of misdemeanor convictions eligible for expungement under § 10-110;
+(3) expands the factors a court must consider for an expungement under § 10-110; and (4) prohibits
+the Maryland Judiciary case search from referring in any way to a charge resulting in nolle
+prosequi with required drug or alcohol treatment, a charge marked “stet” on the docket at least
+three years previously, and charges of possession of cannabis (in a case with electronic records) if
+the charge resulted in a conviction that was later pardoned by the Governor.
+Racial Equity Impact Statement
+The bill will likely increase the number of ex-offenders eligible for expungement of all or part of
+their criminal record and allow individuals with no final disposition or specified pardoned
+convictions to have those records masked in electronic court records. These measures will
+positively impact individuals experiencing the adverse consequences of having a criminal record,
+especially in the areas of employment and economic security. Based on data from the Division of
+Parole and Probation (DPP), the Administrative Office of the Courts (AOC), and the Department
+of State Police, the bill will impact a significant number of individuals. Black individuals may
+benefit to the greatest extent given their general overrepresentation in the criminal justice system.
+The exact magnitude of the impact cannot be reliably estimated without specific longitudinal and
+demographic data on expungement petitions and outcomes and the population eligible for masking
+of electronic records.
+SB 432/ Page 1
+Analysis
+The bill’s provisions generally expand expungement eligibility by (1) allowing individuals who
+have violated probation or other terms of their sentence for specified offenses to remain eligible
+for expungement; (2) expanding the list of misdemeanors eligible for expungement consideration;
+and (3) requiring specified court records of charges and convictions to be masked or otherwise
+made inaccessible in the Judiciary case search system. The bill also expands the list of factors a
+court must consider when determining expungement eligibility.
+Eligibility for Expungements – Waiting Periods
+The bill alters language in existing law to redefine “completion of sentence” in the context of
+expungement petition eligibility. Current law mandates satisfactory completion of an individual’s
+sentence in order for their criminal conviction to be considered eligible for expungement. The bill
+defines “completion of sentence” as the time when a sentence has expired, including any period of
+probation, parole, or mandatory supervision, which effectively includes individuals who have
+violated probation or other terms of their sentence.
+In November 2022, the Appellate Court of Maryland upheld a lower court ruling that if an
+individual violates their terms of probation, it does not satisfy the requirement in the expungement
+statute that allows expungement only after the person satisfies the sentence imposed for the
+conviction sought to be expunged, including parole, probation, or mandatory supervision. Thus,
+under the court’s ruling, a parole violation renders the underlying conviction indefinitely ineligible
+for expungement.
+Expansion of Convictions Eligible for Expungement
+Under current law, § 10-110 of the Criminal Procedure Article authorizes an individual convicted
+of any of a list of approximately 100 specified offenses, or an attempt, a conspiracy, or a
+solicitation of any of these offenses, to file a petition for expungement of the conviction, subject
+to specified procedures and requirements. The bill expands eligibility for expungement under
+
+Section 2:
+§ 10-110 to include convictions for misdemeanor offenses involving credit card theft, counterfeit
+prescriptions, resisting or interfering with an arrest, false statement to a law enforcement officer,
+false statement when under arrest, and driving without a license.
+Factors Courts Must Consider for Expungements
+Under current law, the court must order the expungement of all police records and court records
+about a charge after a hearing, if the court finds and states on the record (1) that the person and
+conviction are eligible for expungement under specified statutory provisions; (2) that giving due
+regard to the nature of the crime, the history and character of the person, and the person’s success
+at rehabilitation, the person is not a risk to public safety; and (3) that an expungement would be in
+the interest of justice.
+The bill adds the person’s success at completing court-ordered probation as a required
+consideration when evaluating the petitioner’s risk to public safety. The bill also requires the court
+SB 432/ Page 2
+to make a finding on the record that the person h as paid any monetary restitution ordered by the
+court in the original proceeding or does not have the ability to pay the restitution.
+Judiciary Case Search
+Under current law, the Judiciary case search may not in any way refer to the existence of records
+of a charge in a case with electronic records if the charge resulted in acquittal; dismissal; or nolle
+prosequi, except nolle prosequi with the requirement of drug or alcohol treatment. The bill
+removes this exception. The bill also prohibits referral to electronic records for charges marked
+inactive (or stet) at least three years previously and for charges of possession of cannabis that
+resulted in a conviction later pardoned by the Governor.
+Impacts of the Bill
+The bill’s provisions removing the requirement that an individual complete a sentence
+satisfactorily effectively shortens the waiting period for expungement eligibility and increases the
+number of people who would be eligible to petition a court for expungement. Specifically,
+individuals who had minor or technical violations of their parole or probation would be eligible to
+start the expungement process and would be more likely to succeed. DPP reports that 36% of the
+18,000 individuals under general supervision in 2023 did not successfully complete the terms of
+their supervision. Unsuccessful completion included commission of new offenses and other
+unsatisfactory behavior. Technical parole violations accounted for 6% of the total. According to
+the Department of Public Safety and Correctional Services, technical violations include:
+ failure to get permission before changing home address or changing job;
+ failure to obtain permission to leave the State; and
+ failure to meet restitution payment obligations (arrearage of three or more monthly
+payments).
+The newly eligible offenses available for expungement under the bill will benefit another subset
+of the population who have convictions for these offenses. In fiscal 2024, 5,041 individuals were
+convicted in both the district and circuit courts for this group of offenses that would be newly
+eligible for expungement under the bill. Convictions for driving without proper license
+authorization comprise 89% of the total.
+The bill’s provisions that require the Judiciary to remove references in electronic records to
+inactive cases marked “stet,” specified nolle prosequi cases, and cannabis possession convictions
+pardoned by the Governor are likely to be highly impactful for affected individuals. The Governor
+pardoned 175,000 Maryland cannabis convictions in 2024.
+According to AOC, there were 46,251 petitions for expungement in fiscal 2023 and 54,069
+petitions for expungement in fiscal 2024 in both the district and circuit courts. There is no
+demographic data currently available that indicates the racial and ethnic composition of
+expungement applicants.
+Existing data indicates that Black offenders and potentially other minorities will benefit the most
+from the bill’s expansion of expungement and electronic record rules. Black individuals make up
+SB 432/ Page 3
+72% of the State’s prison population contrasted w ith their 29% share of the overall adult population
+in the State. In addition, Black individuals are 59% of the criminal population under supervision
+in the community in 2023. Black individuals are also disproportionately subjected to traffic stops.
+While there is no demographic data available for those convicted of the new offenses eligible for
+expungement under the bill, the offense with the largest number of convictions in the courts –
+driving without a license – suggests that traffic stop activity will affect the number of charges and
+convictions for this offense. Black individuals accounted for 43% of traffic stops and 47% of
+arrests during a traffic stop in 2023, while white individuals, which comprise 47% of the overall
+adult population in the State, accounted for 39% of traffic stops and 36% of arrests. For cannabis
+violations, according to AOC data between 2010 and 2021, Black individuals comprised 67% of
+those charged for various possession violations compared to 30% of their white counterparts.
+Assuming trends for expungement applications mimic trends for charges, convictions and
+incarceration in the State, there would be both a significant number and percentage of Black
+individuals who would benefit under the bill. Representing a disproportionate share of the charged,
+arrested, convicted, and incarcerated population, it is a reasonable assumption that Black
+individuals comprise a meaningful portion of the population with expungement eligible records.
+Beyond the immediate impact on expungement eligibility, the bill’s provisions may yield further
+positive outcomes as evidence suggests that those who are able to expunge their criminal records
+are more likely to be employed and have higher wages than those who are not. Previous research
+has detailed the collateral consequences to having a criminal record. These adverse effects include
+reduced access to housing, public services, voting, holding public office, employment
+opportunities, and professional licensure. These difficulties in turn can increase recidivism and
+could perpetuate a larger cycle of involvement in the carceral system.
+Conclusion
+While the number of eligible expungement applications would likely increase under the bill, the
+exact impact cannot be reliably estimated without additional disposition and demographic data on
+(1) applications that are rejected based on the failure to satisfactorily complete a sentence; (2) the
+additional expungement eligible offenses added by the bill; and (3) data on court expungement
+denials based on the court’s assessment of a petitioner’s risk to public safety. The number of cases
+eligible for electronic record masking would also assist in assessing the magnitude of the bill’s
+impact since the bill will likely affect the court records of tens of thousands of people. Accordingly,
+the bill would likely alleviate some of the negative outcomes of having a criminal history record
+by increasing successful expungement rates. These impacts would be most significant for Black
+individuals who face convictions and imprisonment at disproportionately high rates. The bill’s
+requirement for a court to consider satisfactory completion of a defendant’s sentence and whether
+restitution has either been satisfied or exempted due to hardship may put limitations on the ability
+to receive an expungement but only to the extent that a court denies expungement in individual
+cases.
+Information Sources: Pew Charitable Trusts; Department of Public Safety and Correctional
+Services; Department of State Police; Administrative Office of the Courts; Division of Parole and
+SB 432/ Page 4
+Probation; Governor’s Office of Crime Prevent ion and Policy; Appellate Court of Maryland;
+Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 02/13/2025
+SB 432/ Page 5
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+SB 432/ Page 6
+[DELETED:  M J c s f r i a w t a c r i n c r a a i w n f d o s p t h t r m i e c r T m w]
+[DELETED:  N 2 t A C o M u a l c r t i a t a e o a t p s t s i f t a o a l o a 1 s o o a a a c o a b a t p s a c c p a a r]
+[DELETED:  e n p w t r o d o a t T b b p r t r t a i c a s o p w w b e t p a c f e S s U c i c o n o a o t m r p o ( o t o m m f e u t b C f d w p l b p t r t J t r r i e r t t A t w 4 p f e i f 2 a 5 f e i f 2 i b t d a c c T i n d c a t i t r a e c o]
+[DELETED:    t f e a m t f c c a c a i p i i a r a t B a t h p s v h p o e]
+[DELETED:  G O o P a P A C o ]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]
+
+
+================================================================================
+
+Raw Text:
+2025 Session
+SB0432
+Criminal Records – Expungement and Maryland Judiciary Case
+Search (Expungement Reform Act of 2025)
+Bill Summary
+This Administration bill (1) alters various statutory provisions relating to waiting periods for the
+filing of a petition to expunge a conviction under §§ 10-105 or 10-110 of the Criminal Procedure
+Article; (2) expands the list of misdemeanor convictions eligible for expungement under § 10-110;
+(3) expands the factors a court must consider for an expungement under § 10-110; and (4) prohibits
+the Maryland Judiciary case search from referring in any way to a charge resulting in nolle
+prosequi with required drug or alcohol treatment, a charge marked “stet” on the docket at least
+three years previously, and charges of possession of cannabis (in a case with electronic records) if
+the charge resulted in a conviction that was later pardoned by the Governor.
+Racial Equity Impact Statement
+The bill will likely increase the number of ex-offenders eligible for expungement of all or part of
+their criminal record and allow individuals with no final disposition or specified pardoned
+convictions to have those records masked in electronic court records. These measures will
+positively impact individuals experiencing the adverse consequences of having a criminal record,
+especially in the areas of employment and economic security. Based on data from the Division of
+Parole and Probation (DPP), the Administrative Office of the Courts (AOC), and the Department
+of State Police, the bill will impact a significant number of individuals. Black individuals may
+benefit to the greatest extent given their general overrepresentation in the criminal justice system.
+The exact magnitude of the impact cannot be reliably estimated without specific longitudinal and
+demographic data on expungement petitions and outcomes and the population eligible for masking
+of electronic records.
+SB 432/ Page 1
+
+Analysis
+The bill’s provisions generally expand expungement eligibility by (1) allowing individuals who
+have violated probation or other terms of their sentence for specified offenses to remain eligible
+for expungement; (2) expanding the list of misdemeanors eligible for expungement consideration;
+and (3) requiring specified court records of charges and convictions to be masked or otherwise
+made inaccessible in the Judiciary case search system. The bill also expands the list of factors a
+court must consider when determining expungement eligibility.
+Eligibility for Expungements – Waiting Periods
+The bill alters language in existing law to redefine “completion of sentence” in the context of
+expungement petition eligibility. Current law mandates satisfactory completion of an individual’s
+sentence in order for their criminal conviction to be considered eligible for expungement. The bill
+defines “completion of sentence” as the time when a sentence has expired, including any period of
+probation, parole, or mandatory supervision, which effectively includes individuals who have
+violated probation or other terms of their sentence.
+In November 2022, the Appellate Court of Maryland upheld a lower court ruling that if an
+individual violates their terms of probation, it does not satisfy the requirement in the expungement
+statute that allows expungement only after the person satisfies the sentence imposed for the
+conviction sought to be expunged, including parole, probation, or mandatory supervision. Thus,
+under the court’s ruling, a parole violation renders the underlying conviction indefinitely ineligible
+for expungement.
+Expansion of Convictions Eligible for Expungement
+Under current law, § 10-110 of the Criminal Procedure Article authorizes an individual convicted
+of any of a list of approximately 100 specified offenses, or an attempt, a conspiracy, or a
+solicitation of any of these offenses, to file a petition for expungement of the conviction, subject
+to specified procedures and requirements. The bill expands eligibility for expungement under
+§ 10-110 to include convictions for misdemeanor offenses involving credit card theft, counterfeit
+prescriptions, resisting or interfering with an arrest, false statement to a law enforcement officer,
+false statement when under arrest, and driving without a license.
+Factors Courts Must Consider for Expungements
+Under current law, the court must order the expungement of all police records and court records
+about a charge after a hearing, if the court finds and states on the record (1) that the person and
+conviction are eligible for expungement under specified statutory provisions; (2) that giving due
+regard to the nature of the crime, the history and character of the person, and the person’s success
+at rehabilitation, the person is not a risk to public safety; and (3) that an expungement would be in
+the interest of justice.
+The bill adds the person’s success at completing court-ordered probation as a required
+consideration when evaluating the petitioner’s risk to public safety. The bill also requires the court
+SB 432/ Page 2
+
+to make a finding on the record that the person h as paid any monetary restitution ordered by the
+court in the original proceeding or does not have the ability to pay the restitution.
+Judiciary Case Search
+Under current law, the Judiciary case search may not in any way refer to the existence of records
+of a charge in a case with electronic records if the charge resulted in acquittal; dismissal; or nolle
+prosequi, except nolle prosequi with the requirement of drug or alcohol treatment. The bill
+removes this exception. The bill also prohibits referral to electronic records for charges marked
+inactive (or stet) at least three years previously and for charges of possession of cannabis that
+resulted in a conviction later pardoned by the Governor.
+Impacts of the Bill
+The bill’s provisions removing the requirement that an individual complete a sentence
+satisfactorily effectively shortens the waiting period for expungement eligibility and increases the
+number of people who would be eligible to petition a court for expungement. Specifically,
+individuals who had minor or technical violations of their parole or probation would be eligible to
+start the expungement process and would be more likely to succeed. DPP reports that 36% of the
+18,000 individuals under general supervision in 2023 did not successfully complete the terms of
+their supervision. Unsuccessful completion included commission of new offenses and other
+unsatisfactory behavior. Technical parole violations accounted for 6% of the total. According to
+the Department of Public Safety and Correctional Services, technical violations include:
+ failure to get permission before changing home address or changing job;
+ failure to obtain permission to leave the State; and
+ failure to meet restitution payment obligations (arrearage of three or more monthly
+payments).
+The newly eligible offenses available for expungement under the bill will benefit another subset
+of the population who have convictions for these offenses. In fiscal 2024, 5,041 individuals were
+convicted in both the district and circuit courts for this group of offenses that would be newly
+eligible for expungement under the bill. Convictions for driving without proper license
+authorization comprise 89% of the total.
+The bill’s provisions that require the Judiciary to remove references in electronic records to
+inactive cases marked “stet,” specified nolle prosequi cases, and cannabis possession convictions
+pardoned by the Governor are likely to be highly impactful for affected individuals. The Governor
+pardoned 175,000 Maryland cannabis convictions in 2024.
+According to AOC, there were 46,251 petitions for expungement in fiscal 2023 and 54,069
+petitions for expungement in fiscal 2024 in both the district and circuit courts. There is no
+demographic data currently available that indicates the racial and ethnic composition of
+expungement applicants.
+Existing data indicates that Black offenders and potentially other minorities will benefit the most
+from the bill’s expansion of expungement and electronic record rules. Black individuals make up
+SB 432/ Page 3
+
+72% of the State’s prison population contrasted w ith their 29% share of the overall adult population
+in the State. In addition, Black individuals are 59% of the criminal population under supervision
+in the community in 2023. Black individuals are also disproportionately subjected to traffic stops.
+While there is no demographic data available for those convicted of the new offenses eligible for
+expungement under the bill, the offense with the largest number of convictions in the courts –
+driving without a license – suggests that traffic stop activity will affect the number of charges and
+convictions for this offense. Black individuals accounted for 43% of traffic stops and 47% of
+arrests during a traffic stop in 2023, while white individuals, which comprise 47% of the overall
+adult population in the State, accounted for 39% of traffic stops and 36% of arrests. For cannabis
+violations, according to AOC data between 2010 and 2021, Black individuals comprised 67% of
+those charged for various possession violations compared to 30% of their white counterparts.
+Assuming trends for expungement applications mimic trends for charges, convictions and
+incarceration in the State, there would be both a significant number and percentage of Black
+individuals who would benefit under the bill. Representing a disproportionate share of the charged,
+arrested, convicted, and incarcerated population, it is a reasonable assumption that Black
+individuals comprise a meaningful portion of the population with expungement eligible records.
+Beyond the immediate impact on expungement eligibility, the bill’s provisions may yield further
+positive outcomes as evidence suggests that those who are able to expunge their criminal records
+are more likely to be employed and have higher wages than those who are not. Previous research
+has detailed the collateral consequences to having a criminal record. These adverse effects include
+reduced access to housing, public services, voting, holding public office, employment
+opportunities, and professional licensure. These difficulties in turn can increase recidivism and
+could perpetuate a larger cycle of involvement in the carceral system.
+Conclusion
+While the number of eligible expungement applications would likely increase under the bill, the
+exact impact cannot be reliably estimated without additional disposition and demographic data on
+(1) applications that are rejected based on the failure to satisfactorily complete a sentence; (2) the
+additional expungement eligible offenses added by the bill; and (3) data on court expungement
+denials based on the court’s assessment of a petitioner’s risk to public safety. The number of cases
+eligible for electronic record masking would also assist in assessing the magnitude of the bill’s
+impact since the bill will likely affect the court records of tens of thousands of people. Accordingly,
+the bill would likely alleviate some of the negative outcomes of having a criminal history record
+by increasing successful expungement rates. These impacts would be most significant for Black
+individuals who face convictions and imprisonment at disproportionately high rates. The bill’s
+requirement for a court to consider satisfactory completion of a defendant’s sentence and whether
+restitution has either been satisfied or exempted due to hardship may put limitations on the ability
+to receive an expungement but only to the extent that a court denies expungement in individual
+cases.
+Information Sources: Pew Charitable Trusts; Department of Public Safety and Correctional
+Services; Department of State Police; Administrative Office of the Courts; Division of Parole and
+SB 432/ Page 4
+
+Probation; Governor’s Office of Crime Prevent ion and Policy; Appellate Court of Maryland;
+Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 02/13/2025
+SB 432/ Page 5
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+SB 432/ Page 6
+
+[DELETED:  M J c s f r i a w t a c r i n c r a a i w n f d o s p t h t r m i e c r T m w]
+[DELETED:  N 2 t A C o M u a l c r t i a t a e o a t p s t s i f t a o a l o a 1 s o o a a a c o a b a t p s a c c p a a r]
+[DELETED:  e n p w t r o d o a t T b b p r t r t a i c a s o p w w b e t p a c f e S s U c i c o n o a o t m r p o ( o t o m m f e u t b C f d w p l b p t r t J t r r i e r t t A t w 4 p f e i f 2 a 5 f e i f 2 i b t d a c c T i n d c a t i t r a e c o]
+[DELETED:    t f e a m t f c c a c a i p i i a r a t B a t h p s v h p o e]
+[DELETED:  G O o P a P A C o ]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]

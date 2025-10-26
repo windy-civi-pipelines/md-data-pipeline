@@ -1,0 +1,157 @@
+Title: HOUSE BILL 545
+Official Title: HOUSE BILL 545
+Number of Sections: 1
+Source: versions - First - Criminal Procedure - Automated Expungement
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+E2 5lr2169
+CF SB 398
+By: Delegates Moon, Bartlett, Crutchfield, Kaufman, and Williams
+Introduced and read first time: January 22, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Procedure – Automated Expungement
+3 FOR the purpose of repealing a certain provision of law requiring the Department of Public
+4 Safety and Correctional Services to expunge certain cases involving charges of
+5 possession of cannabis on or before a certain date; establishing procedures for the
+6 automated expungement of certain cases by the Department and the Judiciary; and
+7 generally relating to expungement.
+8 BY repealing and reenacting, with amendments,
+9 Article – Criminal Procedure
+10 Section 10–112
+11 Annotated Code of Maryland
+12 (2018 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Criminal Procedure
+16 10–112.
+17 (a) (1) In this section[, “expunge”] THE FOLLOWING WORDS HAVE THE
+18 MEANINGS INDICATED.
+19 (2) “DEPARTMENT” MEANS THE DEPARTMENT OF PUBLIC SAFETY
+20 AND CORRECTIONAL SERVICES.
+21 (3) (I) “EXPUNGE” means to:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0545*
+2 HOUSE BILL 545
+1 1. remove all references to a specified criminal case from the
+2 Central Repository; AND
+3 2. REMOVE FROM PUBLIC VIEW ALL ELECTRONIC COURT
+4 RECORDS RELATING TO THE CASE.
+5 (II) EXPUNGEMENT DOES NOT REQUIRE:
+6 1. PHYSICAL OBLITERATION OF RECORDS; OR
+7 2. REDACTION OF PHYSICAL OR ELECTRONIC
+8 DOCUMENTS, MEDIA, OR RECORDINGS.
+9 (b) On or before July 1, [2024] 2027, the Department [of Public Safety and
+10 Correctional Services] AND THE JUDICIARY shall expunge all cases in which ALL
+11 CHARGES IN THE CASE ARE ELIGIBLE FOR EXPUNGEMENT UNDER:
+12 (1) [possession of cannabis under § 5–601 of the Criminal Law Article is
+13 the only charge in the case; and] § 10–105 OF THIS SUBTITLE, IF AT LEAST 3 YEARS
+14 HAVE PASSED SINCE THE DISPOSITION OF THE CASE; OR
+15 (2) [the charge was issued before July 1, 2023] § 10–110 OF THIS
+16 SUBTITLE, IF:
+17 (I) THE CHARGE IS A MISDEMEANOR OTHER THAN:
+18 1. A CHARGE MARKED IN ELECTRONIC COURT RECORDS
+19 AS A DOMESTICALLY RELATED CRIME UNDER § 6–233 OF THIS ARTICLE; OR
+20 2. ASSAULT IN THE SECOND DEGREE UNDER § 3–203 OF
+21 THIS ARTICLE; AND
+22 (II) AT LEAST 7 YEARS HAVE PASSED SINCE THE DISPOSITION OF
+23 THE CASE.
+24 (C) (1) BEGINNING AUGUST 1, 2027, THE JUDICIARY SHALL, ONCE PER
+25 MONTH, IDENTIFY ALL CASES THAT ARE NEWLY ELIGIBLE FOR EXPUNGEMENT
+26 BASED ON THE CRITERIA SET FORTH IN SUBSECTION (B) OF THIS SECTION.
+27 (2) PROMPTLY AFTER MAKING EACH DETERMINATION REQUIRED
+28 UNDER PARAGRAPH (1) OF THIS SUBSECTION, THE JUDICIARY SHALL
+29 ELECTRONICALLY NOTIFY THE DEPARTMENT OF ALL CASES THAT ARE NEWLY
+30 ELIGIBLE FOR EXPUNGEMENT.
+HOUSE BILL 545 3
+1 (3) WITHIN 30 DAYS AFTER THE NOTIFICATION REQUIRED UNDER
+2 PARAGRAPH (2) OF THIS SUBSECTION, THE DEPARTMENT AND THE JUDICIARY
+3 SHALL EXPUNGE THE IDENTIFIED NEWLY ELIGIBLE CASES.
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2025.
+[DELETED: :CA      5   C A C F S a C S t e c c i c o p a g B  A S  A  (  S T A 1  ( I t sn, “ [T F W H T ( “D”DPT M T E O U A O ES. ( () “E”X  o ]
+[DELETED:  H      r Cy   2 .   ) E:IX   1 ;S    2 O P O ES A ,.  ( O o b J 1 24, t D o P S a]27 C Ss  s e a c i w T UYA :   ( p t§15,  E   E    ( t c w i b J 1 2]§1  O TE :  () :T   1   E 63;   2 §3   E   () IA   . ) ( BA1,2,JE U    UL H I A C T A N E F E B ). (  A M E D R P  O T SN T U S), N T E O A C T A N]
+[DELETED: H 3 ( W3  D A T N R U  O T SN T E A T U),D  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 545
+E2 5lr2169
+CF SB 398
+By: Delegates Moon, Bartlett, Crutchfield, Kaufman, and Williams
+Introduced and read first time: January 22, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Procedure – Automated Expungement
+3 FOR the purpose of repealing a certain provision of law requiring the Department of Public
+4 Safety and Correctional Services to expunge certain cases involving charges of
+5 possession of cannabis on or before a certain date; establishing procedures for the
+6 automated expungement of certain cases by the Department and the Judiciary; and
+7 generally relating to expungement.
+8 BY repealing and reenacting, with amendments,
+9 Article – Criminal Procedure
+10 Section 10–112
+11 Annotated Code of Maryland
+12 (2018 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Criminal Procedure
+16 10–112.
+17 (a) (1) In this section[, “expunge”] THE FOLLOWING WORDS HAVE THE
+18 MEANINGS INDICATED.
+19 (2) “DEPARTMENT” MEANS THE DEPARTMENT OF PUBLIC SAFETY
+20 AND CORRECTIONAL SERVICES.
+21 (3) (I) “EXPUNGE” means to:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0545*
+
+2 HOUSE BILL 545
+1 1. remove all references to a specified criminal case from the
+2 Central Repository; AND
+3 2. REMOVE FROM PUBLIC VIEW ALL ELECTRONIC COURT
+4 RECORDS RELATING TO THE CASE.
+5 (II) EXPUNGEMENT DOES NOT REQUIRE:
+6 1. PHYSICAL OBLITERATION OF RECORDS; OR
+7 2. REDACTION OF PHYSICAL OR ELECTRONIC
+8 DOCUMENTS, MEDIA, OR RECORDINGS.
+9 (b) On or before July 1, [2024] 2027, the Department [of Public Safety and
+10 Correctional Services] AND THE JUDICIARY shall expunge all cases in which ALL
+11 CHARGES IN THE CASE ARE ELIGIBLE FOR EXPUNGEMENT UNDER:
+12 (1) [possession of cannabis under § 5–601 of the Criminal Law Article is
+13 the only charge in the case; and] § 10–105 OF THIS SUBTITLE, IF AT LEAST 3 YEARS
+14 HAVE PASSED SINCE THE DISPOSITION OF THE CASE; OR
+15 (2) [the charge was issued before July 1, 2023] § 10–110 OF THIS
+16 SUBTITLE, IF:
+17 (I) THE CHARGE IS A MISDEMEANOR OTHER THAN:
+18 1. A CHARGE MARKED IN ELECTRONIC COURT RECORDS
+19 AS A DOMESTICALLY RELATED CRIME UNDER § 6–233 OF THIS ARTICLE; OR
+20 2. ASSAULT IN THE SECOND DEGREE UNDER § 3–203 OF
+21 THIS ARTICLE; AND
+22 (II) AT LEAST 7 YEARS HAVE PASSED SINCE THE DISPOSITION OF
+23 THE CASE.
+24 (C) (1) BEGINNING AUGUST 1, 2027, THE JUDICIARY SHALL, ONCE PER
+25 MONTH, IDENTIFY ALL CASES THAT ARE NEWLY ELIGIBLE FOR EXPUNGEMENT
+26 BASED ON THE CRITERIA SET FORTH IN SUBSECTION (B) OF THIS SECTION.
+27 (2) PROMPTLY AFTER MAKING EACH DETERMINATION REQUIRED
+28 UNDER PARAGRAPH (1) OF THIS SUBSECTION, THE JUDICIARY SHALL
+29 ELECTRONICALLY NOTIFY THE DEPARTMENT OF ALL CASES THAT ARE NEWLY
+30 ELIGIBLE FOR EXPUNGEMENT.
+
+HOUSE BILL 545 3
+1 (3) WITHIN 30 DAYS AFTER THE NOTIFICATION REQUIRED UNDER
+2 PARAGRAPH (2) OF THIS SUBSECTION, THE DEPARTMENT AND THE JUDICIARY
+3 SHALL EXPUNGE THE IDENTIFIED NEWLY ELIGIBLE CASES.
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2025.
+
+[DELETED: :CA      5   C A C F S a C S t e c c i c o p a g B  A S  A  (  S T A 1  ( I t sn, “ [T F W H T ( “D”DPT M T E O U A O ES. ( () “E”X  o ]
+[DELETED:  H      r Cy   2 .   ) E:IX   1 ;S    2 O P O ES A ,.  ( O o b J 1 24, t D o P S a]27 C Ss  s e a c i w T UYA :   ( p t§15,  E   E    ( t c w i b J 1 2]§1  O TE :  () :T   1   E 63;   2 §3   E   () IA   . ) ( BA1,2,JE U    UL H I A C T A N E F E B ). (  A M E D R P  O T SN T U S), N T E O A C T A N]
+[DELETED: H 3 ( W3  D A T N R U  O T SN T E A T U),D  S A B I F E T t A s t e O]

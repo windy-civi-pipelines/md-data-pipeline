@@ -1,0 +1,1013 @@
+Title: HOUSE BILL 348
+Official Title: HOUSE BILL 348
+Number of Sections: 1
+Source: versions - Third - Motor Vehicles - Speed Monitoring Systems - Safety Corridors
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+R5 5lr2485
+CF SB 520
+By: Delegate Stewart
+Introduced and read first time: January 15, 2025
+Assigned to: Environment and Transportation
+Committee Report: Favorable
+House action: Adopted
+Read second time: March 2, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Motor Vehicles – Speed Monitoring Systems – Safety Corridors
+3 FOR the purpose of authorizing the State Highway Administration to use speed monitoring
+4 systems in areas determined to be of high risk to vulnerable road users and priority
+5 corridors in the Administration’s Pedestrian Safety Action Plan; and generally
+6 relating to the use of speed monitoring systems in safety corridors.
+7 BY repealing and reenacting, with amendments,
+8 Article – Courts and Judicial Proceedings
+9 Section 4–401(13), 7–301(a)(1) and (f)(1), 7–302(e)(1), (2), and (3), and 10–311(b) and
+10 (h)
+11 Annotated Code of Maryland
+12 (2020 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, without amendments,
+14 Article – Courts and Judicial Proceedings
+15 Section 7–301(f)(2)
+16 Annotated Code of Maryland
+17 (2020 Replacement Volume and 2024 Supplement)
+18 BY repealing and reenacting, with amendments,
+19 Article – General Provisions
+20 Section 4–321
+21 Annotated Code of Maryland
+22 (2019 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0348*
+2 HOUSE BILL 348
+1 BY repealing and reenacting, with amendments,
+2 Article – Insurance
+3 Section 11–215(e) and 11–318(e)
+4 Annotated Code of Maryland
+5 (2017 Replacement Volume and 2024 Supplement)
+6 BY repealing and reenacting, with amendments,
+7 Article – Transportation
+8 Section 12–118(c), 26–305(a), and 26–401
+9 Annotated Code of Maryland
+10 (2020 Replacement Volume and 2024 Supplement)
+11 BY adding to
+12 Article – Transportation
+13 Section 12–118(f) and 21–810.1
+14 Annotated Code of Maryland
+15 (2020 Replacement Volume and 2024 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Courts and Judicial Proceedings
+19 4–401.
+20 Except as provided in § 4–402 of this subtitle, and subject to the venue provisions of
+21 Title 6 of this article, the District Court has exclusive original civil jurisdiction in:
+22 (13) A proceeding for a civil infraction under § 21–202.1, § 21–704.1, §
+23 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–810.1, § 21–1134, § 22–612, or § 24–111.3
+24 of the Transportation Article or § 10–112 of the Criminal Law Article;
+25 7–301.
+26 (a) (1) Except as provided in paragraphs (2) and (3) of this subsection, the
+27 court costs in a traffic case, including parking and impounding cases, cases under §
+28 21–202.1, § 21–809, § 21–810, § 21–810.1, § 21–1414, or § 24–111.3 of the Transportation
+29 Article in which costs are imposed, and cases under § 10–112 of the Criminal Law Article
+30 in which costs are imposed:
+31 (i) Are $22.50; and
+32 (ii) Shall also be applicable to those cases in which the defendant
+33 elects to waive the defendant’s right to trial and pay the fine or penalty deposit established
+34 by the Chief Judge of the District Court by administrative regulation.
+HOUSE BILL 348 3
+1 (f) (1) This subsection does not apply to a traffic case under § 21–202.1, §
+2 21–809, § 21–810, § 21–810.1, or § 21–1414 of the Transportation Article or to a parking
+3 or impounding case.
+4 (2) In a traffic case under subsection (a)(1) of this section the court shall
+5 add a $7.50 surcharge to any fine imposed by the court.
+6 7–302.
+7 (e) (1) (i) A citation issued pursuant to § 21–202.1, § 21–706.1, § 21–707.1,
+8 § 21–809, § 21–810, § 21–810.1, § 21–1134, § 22–612, or § 24–111.3 of the Transportation
+9 Article shall provide that the person receiving the citation may elect to stand trial by
+10 notifying the issuing agency of the person’s intention to stand trial at least 5 days prior to
+11 the date of payment as set forth in the citation.
+12 (ii) On receipt of the notice to stand trial, the agency shall forward
+13 to the District Court having venue a copy of the citation and a copy of the notice from the
+14 person who received the citation indicating the person’s intention to stand trial.
+15 (iii) On receipt thereof, the District Court shall schedule the case for
+16 trial and notify the defendant of the trial date under procedures adopted by the Chief Judge
+17 of the District Court.
+18 (2) (i) A citation issued as the result of a vehicle height monitoring
+19 system, a traffic control signal monitoring system, a speed monitoring system, a work zone
+20 speed control system or a stop sign monitoring system controlled by a political subdivision,
+21 a school bus monitoring camera, a bus lane monitoring system, or a noise abatement
+22 monitoring system shall provide that, in an uncontested case, the penalty shall be paid
+23 directly to that political subdivision.
+24 (ii) A citation issued as the result of a traffic control signal
+25 monitoring system [or], a work zone speed control system, OR A SAFETY CORRIDOR
+26 SPEED MONITORING SYSTEM controlled by a State agency, or as a result of a vehicle
+27 height monitoring system, a traffic control signal monitoring system, a speed monitoring
+28 system, a stop sign monitoring system, a school bus monitoring camera, a bus lane
+29 monitoring system, or a noise abatement monitoring system in a case contested in District
+30 Court, shall provide that the penalty shall be paid directly to the District Court.
+31 (3) Civil penalties resulting from citations issued using a vehicle height
+32 monitoring system, traffic control signal monitoring system, speed monitoring system,
+33 work zone speed control system, SAFETY CORRIDOR SPEED MONITORING SYSTEM, stop
+34 sign monitoring system, school bus monitoring camera, bus lane monitoring system, or a
+35 noise abatement monitoring system that are collected by the District Court shall be
+36 collected in accordance with subsection (a) of this section and distributed in accordance
+37 with § 12–118 of the Transportation Article.
+38 10–311.
+4 HOUSE BILL 348
+1 (b) A recorded image of a motor vehicle produced by a speed monitoring system
+2 in accordance with § 21–809 [or], § 21–810, OR § 21–810.1 of the Transportation Article is
+3 admissible in a proceeding concerning a civil citation issued under that section for a
+4 violation of Title 21, Subtitle 8 of the Transportation Article without authentication.
+5 (h) In any other judicial proceeding, a recorded image produced by a vehicle
+6 height monitoring system, traffic control signal monitoring system, speed monitoring
+7 system, work zone speed control system, SAFETY CORRIDOR SPEED MONITORING
+8 SYSTEM, stop sign monitoring system, school bus monitoring camera, or bus lane
+9 monitoring system or a recorded image and any relevant recorded audio produced by a noise
+10 abatement monitoring system in conjunction with a noise measuring device is admissible
+11 as otherwise provided by law.
+12 Article – General Provisions
+13 4–321.
+14 (a) In this section, “recorded images” has the meaning stated in § 21–202.1, §
+15 21–809, § 21–810, § 21–810.1, or § 24–111.3 of the Transportation Article.
+16 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+17 inspection of recorded images produced by:
+18 (1) a traffic control signal monitoring system operated under § 21–202.1 of
+19 the Transportation Article;
+20 (2) a speed monitoring system operated under § 21–809 of the
+21 Transportation Article;
+22 (3) a work zone speed control system operated under § 21–810 of the
+23 Transportation Article; [or]
+24 (4) A SAFETY CORRIDOR SPEED MONITORING SYSTEM OPERATED
+25 UNDER § 21–810.1 OF THE TRANSPORTATION ARTICLE; OR
+26 [(4)] (5) a vehicle height monitoring system operated under § 24–111.3 of
+27 the Transportation Article.
+28 (c) A custodian shall allow inspection of recorded images:
+29 (1) as required in § 21–202.1, § 21–809, § 21–810, § 21–810.1, or §
+30 24–111.3 of the Transportation Article;
+HOUSE BILL 348 5
+1 (2) by any person issued a citation under § 21–202.1, § 21–809, § 21–810, §
+2 21–810.1, or § 24–111.3 of the Transportation Article, or by an attorney of record for the
+3 person; or
+4 (3) by an employee or agent of an agency in an investigation or a proceeding
+5 relating to the imposition of or indemnification from civil liability under § 21–202.1, §
+6 21–809, § 21–810, § 21–810.1, or § 24–111.3 of the Transportation Article.
+7 Article – Insurance
+8 11–215.
+9 (e) For purposes of reclassifying an insured in a classification that entails a
+10 higher premium, an insurer under an automobile insurance policy may not consider a
+11 probation before judgment disposition of a motor vehicle law offense, a civil penalty imposed
+12 pursuant to § 21–202.1, § 21–809, § 21–810, § 21–810.1, or § 24–111.3 of the
+13 Transportation Article, or a first offense of driving with an alcohol concentration of 0.08 or
+14 more under § 16–205.1 of the Transportation Article on record with the Motor Vehicle
+15 Administration, as provided in § 16–117(b) of the Transportation Article.
+16 11–318.
+17 (e) For purposes of reclassifying an insured in a classification that entails a
+18 higher premium, an insurer under an automobile insurance policy may not consider a
+19 probation before judgment disposition of a motor vehicle law offense, a civil penalty imposed
+20 pursuant to § 21–202.1, § 21–809, § 21–810, § 21–810.1, or § 24–111.3 of the
+21 Transportation Article, or a first offense of driving with an alcohol concentration of 0.08 or
+22 more under § 16–205.1 of the Transportation Article on record with the Motor Vehicle
+23 Administration, as provided in § 16–117(b) of the Transportation Article.
+24 Article – Transportation
+25 12–118.
+26 (c) (1) Except as provided in [paragraph] PARAGRAPHS (2) AND (3) of this
+27 subsection, notwithstanding any other law and in addition to any other exceptions provided
+28 by law, all costs, fines, penalties, and forfeitures received by or paid to the District Court
+29 under the Maryland Vehicle Law shall be collected and remitted as provided in the Courts
+30 Article.
+31 (2) The Comptroller shall distribute revenue from the civil fines collected
+32 through use of a work zone speed control system controlled by a State agency under §
+33 21–810 of this article to a special fund, to be used only as provided in subsection (e) of this
+34 section.
+6 HOUSE BILL 348
+1 (3) THE COMPTROLLER SHALL DISTRIBUTE REVENUE FROM THE
+2 CIVIL FINES COLLECTED THROUGH USE OF A SAFETY CORRIDOR SPEED
+3 MONITORING SYSTEM UNDER § 21–810.1 OF THIS ARTICLE TO A SPECIAL FUND TO
+4 BE USED ONLY AS PROVIDED IN SUBSECTION (F) OF THIS SECTION.
+5 (F) MONEY IN THE SPECIAL FUND ESTABLISHED UNDER SUBSECTION (C)(3)
+6 OF THIS SECTION:
+7 (1) SHALL BE DISTRIBUTED FIRST TO THE STATE HIGHWAY
+8 ADMINISTRATION TO COVER THE COSTS OF IMPLEMENTING AND ADMINISTERING
+9 SAFETY CORRIDOR SPEED MONITORING SYSTEMS; AND
+10 (2) AFTER THE DISTRIBUTION UNDER ITEM (1) OF THIS SUBSECTION,
+11 THE REMAINING BALANCE SHALL BE DISTRIBUTED TO THE TRANSPORTATION
+12 TRUST FUND FOR:
+13 (I) HIGHWAY SAFETY PURPOSES; AND
+14 (II) STATE HIGHWAY ADMINISTRATION SYSTEM
+15 PRESERVATION.
+16 21–810.1.
+17 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+18 INDICATED.
+19 (2) (I) “OWNER” MEANS THE REGISTERED OWNER OF A MOTOR
+20 VEHICLE OR A LESSEE OF A MOTOR VEHICLE UNDER A LEASE OF 6 MONTHS OR
+21 LONGER.
+22 (II) “OWNER” DOES NOT INCLUDE:
+23 1. A MOTOR VEHICLE RENTAL OR LEASING COMPANY;
+24 OR
+25 2. A HOLDER OF A SPECIAL REGISTRATION PLATE
+26 ISSUED UNDER TITLE 13, SUBTITLE 9, PART III OF THIS ARTICLE.
+27 (3) “RECORDED IMAGE” MEANS AN IMAGE RECORDED BY A SPEED
+28 MONITORING SYSTEM:
+29 (I) ON:
+HOUSE BILL 348 7
+1 1. A PHOTOGRAPH;
+2 2. A MICROPHOTOGRAPH;
+3 3. AN ELECTRONIC IMAGE;
+4 4. VIDEOTAPE; OR
+5 5. ANY OTHER MEDIUM; AND
+6 (II) SHOWING:
+7 1. THE REAR OF A MOTOR VEHICLE;
+8 2. AT LEAST TWO TIME–STAMPED IMAGES OF THE
+9 MOTOR VEHICLE THAT INCLUDE THE SAME STATIONARY OBJECT NEAR THE MOTOR
+10 VEHICLE; AND
+11 3. ON AT LEAST ONE IMAGE OR PORTION OF TAPE, A
+12 CLEAR AND LEGIBLE IDENTIFICATION OF THE ENTIRE REGISTRATION PLATE
+13 NUMBER OF THE MOTOR VEHICLE.
+14 (4) “SAFETY CORRIDOR” MEANS A SEGMENT OF A STATE HIGHWAY
+15 THAT IS IDENTIFIED BY THE ADMINISTRATION AS:
+16 (I) AN AREA OF HIGH RISK TO VULNERABLE ROAD USERS IN A
+17 VULNERABLE ROAD USER SAFETY ASSESSMENT PREPARED UNDER 23 U.S.C. § 148;
+18 OR
+19 (II) A PRIORITY CORRIDOR IN THE ADMINISTRATION’S
+20 PEDESTRIAN SAFETY ACTION PLAN.
+21 (5) “SPEED MONITORING SYSTEM” MEANS ANY FIXED, MOBILE,
+22 MANNED, OR UNMANNED DEVICE WITH ONE OR MORE MOTOR VEHICLE SENSORS
+23 PRODUCING RECORDED IMAGES OF MOTOR VEHICLES TRAVELING AT SPEEDS AT
+24 LEAST 12 MILES PER HOUR ABOVE THE POSTED SPEED LIMIT.
+25 (6) “SPEED MONITORING SYSTEM OPERATOR” MEANS A
+26 REPRESENTATIVE OF THE ADMINISTRATION OR ITS CONTRACTOR THAT OPERATES
+27 A SPEED MONITORING SYSTEM.
+28 (7) (I) “VULNERABLE ROAD USER” MEANS AN INDIVIDUAL ON A
+29 HIGHWAY WHO IS NOT TRAVELING IN A MOTOR VEHICLE.
+8 HOUSE BILL 348
+1 (II) “VULNERABLE ROAD USER” INCLUDES PEDESTRIANS,
+2 BICYCLISTS, OTHER CYCLISTS, PERSONS USING PERSONAL CONVEYANCE OR A
+3 MOBILITY DEVICE SUCH AS A WHEELCHAIR, AND PERSONS ON FOOT IN A HIGHWAY
+4 WORK ZONE.
+5 (B) (1) A SPEED MONITORING SYSTEM THAT MEETS THE REQUIREMENTS
+6 OF THIS SUBSECTION MAY BE AUTHORIZED BY THE STATE HIGHWAY
+7 ADMINISTRATION AND USED BY THE STATE HIGHWAY ADMINISTRATION OR ITS
+8 CONTRACTOR TO RECORD THE IMAGES OF MOTOR VEHICLES TRAVELING ON A
+9 STATE HIGHWAY WITHIN A SAFETY CORRIDOR.
+10 (2) A SPEED MONITORING SYSTEM MAY BE USED ONLY IF, IN
+11 ACCORDANCE WITH THE MARYLAND MANUAL ON UNIFORM TRAFFIC CONTROL
+12 DEVICES, A CONSPICUOUS ROAD SIGN IS PLACED AT A REASONABLE DISTANCE
+13 CONSISTENT WITH NATIONAL GUIDELINES BEFORE THE SAFETY CORRIDOR
+14 ALERTING DRIVERS THAT A SPEED MONITORING SYSTEM MAY BE IN OPERATION IN
+15 THE SAFETY CORRIDOR.
+16 (3) A SPEED MONITORING SYSTEM MAY BE USED ONLY TO RECORD
+17 THE IMAGES OF VEHICLES THAT ARE TRAVELING AT SPEEDS AT LEAST 12 MILES PER
+18 HOUR ABOVE THE POSTED SPEED LIMIT.
+19 (4) (I) A SPEED MONITORING SYSTEM SHALL UNDERGO AN
+20 ANNUAL CALIBRATION CHECK PERFORMED BY AN INDEPENDENT CALIBRATION
+21 LABORATORY.
+22 (II) THE INDEPENDENT CALIBRATION LABORATORY SHALL
+23 ISSUE A SIGNED CERTIFICATE OF CALIBRATION AFTER THE ANNUAL CALIBRATION
+24 CHECK THAT:
+25 1. SHALL BE KEPT ON FILE; AND
+26 2. SHALL BE ADMITTED AS EVIDENCE IN ANY COURT
+27 PROCEEDING FOR A VIOLATION OF THIS SECTION.
+28 (5) IF THE STATE HIGHWAY ADMINISTRATION OR ITS CONTRACTOR
+29 MOVES OR PLACES A SPEED MONITORING SYSTEM TO OR AT A SAFETY CORRIDOR
+30 WHERE A SPEED MONITORING SYSTEM HAD NOT PREVIOUSLY BEEN MOVED OR
+31 PLACED WITHIN THE PREVIOUS YEAR, CITATIONS MAY NOT BE ISSUED FOR A
+32 VIOLATION RECORDED BY THAT SPEED MONITORING SYSTEM:
+HOUSE BILL 348 9
+1 (I) UNTIL SIGNAGE IS INSTALLED IN ACCORDANCE WITH THIS
+2 SUBSECTION; AND
+3 (II) FOR AT LEAST THE FIRST 15 CALENDAR DAYS AFTER THE
+4 SIGNAGE IS INSTALLED.
+5 (6) THE PROCUREMENT OF OR RELATING TO A SPEED MONITORING
+6 SYSTEM BY THE STATE HIGHWAY ADMINISTRATION SHALL BE CONDUCTED IN
+7 ACCORDANCE WITH TITLE 13, SUBTITLE 1 OF THE STATE FINANCE AND
+8 PROCUREMENT ARTICLE.
+9 (C) (1) UNLESS THE DRIVER OF THE MOTOR VEHICLE RECEIVED A
+10 CITATION FROM A POLICE OFFICER AT THE TIME OF THE VIOLATION, THE OWNER
+11 OR, IN ACCORDANCE WITH SUBSECTION (F)(4) OF THIS SECTION, THE DRIVER OF A
+12 MOTOR VEHICLE IS SUBJECT TO A CIVIL PENALTY IF AN IMAGE OF THE MOTOR
+13 VEHICLE IS RECORDED BY A SPEED MONITORING SYSTEM WHILE BEING OPERATED
+14 IN VIOLATION OF THIS SUBTITLE.
+15 (2) A CIVIL PENALTY UNDER THIS SUBSECTION MAY NOT EXCEED $40.
+16 (3) FOR PURPOSES OF THIS SECTION, THE DISTRICT COURT SHALL:
+17 (I) PRESCRIBE A UNIFORM CITATION FORM CONSISTENT WITH
+18 SUBSECTION (D)(1) OF THIS SECTION AND § 7–302 OF THE COURTS ARTICLE; AND
+19 (II) INDICATE ON THE CITATION THE AMOUNT OF THE CIVIL
+20 PENALTY TO BE PAID BY PERSONS WHO CHOOSE TO PREPAY THE CIVIL PENALTY
+21 WITHOUT APPEARING IN DISTRICT COURT.
+22 (D) (1) SUBJECT TO PARAGRAPHS (2) THROUGH (4) OF THIS
+23 SUBSECTION, THE STATE HIGHWAY ADMINISTRATION OR ITS CONTRACTOR SHALL
+24 MAIL TO THE OWNER LIABLE UNDER SUBSECTION (C) OF THIS SECTION A CITATION
+25 THAT SHALL INCLUDE:
+26 (I) THE NAME AND ADDRESS OF THE REGISTERED OWNER OF
+27 THE MOTOR VEHICLE;
+28 (II) THE REGISTRATION NUMBER OF THE MOTOR VEHICLE
+29 INVOLVED IN THE VIOLATION;
+30 (III) THE VIOLATION CHARGED;
+31 (IV) THE LOCATION WHERE THE VIOLATION OCCURRED;
+10 HOUSE BILL 348
+1 (V) THE DATE AND TIME OF THE VIOLATION;
+2 (VI) AT LEAST ONE RECORDED IMAGE OF THE VEHICLE WITH A
+3 DATA BAR IMPRINTED ON THE IMAGE THAT INCLUDES THE SPEED OF THE VEHICLE
+4 AND THE DATE AND TIME THE IMAGE WAS RECORDED;
+5 (VII) THE AMOUNT OF THE CIVIL PENALTY IMPOSED AND THE
+6 DATE BY WHICH THE CIVIL PENALTY MUST BE PAID;
+7 (VIII) A SIGNED STATEMENT UNDER OATH BY AN AUTHORIZED
+8 STATE HIGHWAY ADMINISTRATION REPRESENTATIVE OR CONTRACTOR THAT,
+9 BASED ON INSPECTION OF RECORDED IMAGES, THE MOTOR VEHICLE WAS BEING
+10 OPERATED IN VIOLATION OF THIS SUBTITLE;
+11 (IX) A STATEMENT THAT RECORDED IMAGES ARE EVIDENCE OF
+12 A VIOLATION OF THIS SUBTITLE;
+13 (X) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+14 LIABLE UNDER THIS SECTION OF THE MANNER AND TIME IN WHICH LIABILITY AS
+15 ALLEGED IN THE CITATION MAY BE CONTESTED IN THE DISTRICT COURT; AND
+16 (XI) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+17 LIABLE UNDER THIS SECTION THAT FAILURE TO PAY THE CIVIL PENALTY OR TO
+18 CONTEST LIABILITY IN A TIMELY MANNER:
+19 1. IS AN ADMISSION OF LIABILITY;
+20 2. MAY RESULT IN THE REFUSAL TO REGISTER THE
+21 MOTOR VEHICLE; AND
+22 3. MAY RESULT IN THE SUSPENSION OF THE MOTOR
+23 VEHICLE REGISTRATION.
+24 (2) THE STATE HIGHWAY ADMINISTRATION OR ITS CONTRACTOR
+25 MAY MAIL A WARNING NOTICE INSTEAD OF A CITATION TO THE OWNER LIABLE
+26 UNDER SUBSECTION (C) OF THIS SECTION.
+27 (3) EXCEPT AS PROVIDED IN SUBSECTION (F)(4) OF THIS SECTION,
+28 THE STATE HIGHWAY ADMINISTRATION OR ITS CONTRACTOR MAY NOT MAIL A
+29 CITATION TO A PERSON WHO IS NOT AN OWNER.
+HOUSE BILL 348 11
+1 (4) EXCEPT AS PROVIDED IN SUBSECTION (F)(4) OF THIS SECTION, A
+2 CITATION ISSUED UNDER THIS SECTION SHALL BE MAILED NOT LATER THAN 2
+3 WEEKS AFTER THE ALLEGED VIOLATION IF THE VEHICLE IS REGISTERED IN THIS
+4 STATE, AND NOT LATER THAN 30 DAYS AFTER THE ALLEGED VIOLATION IF THE
+5 VEHICLE IS REGISTERED IN ANOTHER STATE.
+6 (5) A PERSON WHO RECEIVES A CITATION UNDER PARAGRAPH (1) OF
+7 THIS SUBSECTION MAY:
+8 (I) PAY THE CIVIL PENALTY IN ACCORDANCE WITH
+9 INSTRUCTIONS ON THE CITATION; OR
+10 (II) ELECT TO STAND TRIAL IN THE DISTRICT COURT FOR THE
+11 ALLEGED VIOLATION.
+12 (E) (1) A CERTIFICATE ALLEGING THAT THE VIOLATION OF THIS
+13 SUBTITLE OCCURRED AND THE REQUIREMENTS UNDER SUBSECTION (B) OF THIS
+14 SECTION HAVE BEEN SATISFIED, SWORN TO, OR AFFIRMED BY AN AUTHORIZED
+15 STATE HIGHWAY ADMINISTRATION REPRESENTATIVE OR CONTRACTOR, BASED ON
+16 INSPECTION OF RECORDED IMAGES PRODUCED BY A SPEED MONITORING SYSTEM,
+17 SHALL BE EVIDENCE OF THE FACTS CONTAINED IN THE CERTIFICATE AND SHALL BE
+18 ADMISSIBLE IN A PROCEEDING ALLEGING A VIOLATION UNDER THIS SECTION
+19 WITHOUT THE PRESENCE OR TESTIMONY OF THE SPEED MONITORING SYSTEM
+20 OPERATOR.
+21 (2) IF A PERSON WHO RECEIVED A CITATION UNDER SUBSECTION (D)
+22 OF THIS SECTION DESIRES THE SPEED MONITORING SYSTEM OPERATOR TO BE
+23 PRESENT AND TESTIFY AT TRIAL, THE PERSON SHALL NOTIFY THE COURT AND THE
+24 REPRESENTATIVE OF THE STATE HIGHWAY ADMINISTRATION OR ITS CONTRACTOR
+25 THAT ISSUED THE CITATION IN WRITING NOT LATER THAN 20 DAYS BEFORE TRIAL.
+26 (3) ADJUDICATION OF LIABILITY SHALL BE BASED ON A
+27 PREPONDERANCE OF EVIDENCE.
+28 (F) (1) THE DISTRICT COURT MAY CONSIDER IN DEFENSE OF A
+29 VIOLATION:
+30 (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THAT
+31 THE MOTOR VEHICLE OR THE REGISTRATION PLATES OF THE MOTOR VEHICLE WERE
+32 STOLEN BEFORE THE VIOLATION OCCURRED AND WERE NOT UNDER THE CONTROL
+33 OR POSSESSION OF THE VEHICLE OWNER AT THE TIME OF THE VIOLATION;
+12 HOUSE BILL 348
+1 (II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION,
+2 EVIDENCE THAT THE PERSON NAMED IN THE CITATION WAS NOT OPERATING THE
+3 VEHICLE AT THE TIME OF THE VIOLATION; AND
+4 (III) ANY OTHER ISSUES AND EVIDENCE THAT THE DISTRICT
+5 COURT DEEMS PERTINENT.
+6 (2) TO DEMONSTRATE THAT THE MOTOR VEHICLE OR THE
+7 REGISTRATION PLATES WERE STOLEN BEFORE THE VIOLATION OCCURRED AND
+8 WERE NOT UNDER THE CONTROL OR POSSESSION OF THE OWNER AT THE TIME OF
+9 THE VIOLATION, THE OWNER SHALL SUBMIT PROOF THAT A POLICE REPORT
+10 REGARDING THE STOLEN MOTOR VEHICLE OR REGISTRATION PLATES WAS FILED IN
+11 A TIMELY MANNER.
+12 (3) TO SATISFY THE EVIDENTIARY BURDEN UNDER PARAGRAPH
+13 (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN THE CITATION SHALL PROVIDE
+14 TO THE DISTRICT COURT A LETTER, SWORN TO OR AFFIRMED BY THE PERSON AND
+15 MAILED BY CERTIFIED MAIL, RETURN RECEIPT REQUESTED, THAT:
+16 (I) STATES THAT THE PERSON NAMED IN THE CITATION WAS
+17 NOT OPERATING THE VEHICLE AT THE TIME OF THE VIOLATION; AND
+18 (II) INCLUDES ANY OTHER CORROBORATING EVIDENCE.
+19 (4) (I) IF THE DISTRICT COURT FINDS THAT THE PERSON NAMED
+20 IN THE CITATION WAS NOT OPERATING THE VEHICLE AT THE TIME OF THE
+21 VIOLATION OR RECEIVES EVIDENCE UNDER PARAGRAPH (3) OF THIS SUBSECTION
+22 IDENTIFYING THE PERSON DRIVING THE VEHICLE AT THE TIME OF THE VIOLATION,
+23 THE CLERK OF THE COURT MAY PROVIDE TO THE STATE HIGHWAY
+24 ADMINISTRATION REPRESENTATIVE OR CONTRACTOR THAT ISSUED THE CITATION
+25 A COPY OF ANY EVIDENCE SUBSTANTIATING WHO WAS OPERATING THE VEHICLE AT
+26 THE TIME OF THE VIOLATION.
+27 (II) ON RECEIPT OF SUBSTANTIATING EVIDENCE FROM THE
+28 DISTRICT COURT UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH, THE STATE
+29 HIGHWAY ADMINISTRATION REPRESENTATIVE OR CONTRACTOR THAT ISSUED THE
+30 CITATION MAY ISSUE A CITATION AS PROVIDED IN SUBSECTION (D) OF THIS SECTION
+31 TO THE PERSON WHO THE EVIDENCE INDICATES WAS OPERATING THE VEHICLE AT
+32 THE TIME OF THE VIOLATION.
+33 (III) ANY CITATION ISSUED UNDER SUBPARAGRAPH (II) OF THIS
+34 PARAGRAPH SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER RECEIPT OF THE
+35 EVIDENCE FROM THE DISTRICT COURT.
+HOUSE BILL 348 13
+1 (G) IF A PERSON LIABLE UNDER THIS SECTION DOES NOT PAY THE CIVIL
+2 PENALTY OR CONTEST THE VIOLATION, THE ADMINISTRATION MAY:
+3 (1) REFUSE TO REGISTER OR REREGISTER THE REGISTRATION OF
+4 THE MOTOR VEHICLE CITED FOR THE VIOLATION; OR
+5 (2) SUSPEND THE REGISTRATION OF THE MOTOR VEHICLE CITED FOR
+6 THE VIOLATION.
+7 (H) A VIOLATION FOR WHICH A CIVIL PENALTY IS IMPOSED UNDER THIS
+8 SECTION:
+9 (1) IS NOT A MOVING VIOLATION FOR THE PURPOSE OF ASSESSING
+10 POINTS UNDER § 16–402 OF THIS ARTICLE;
+11 (2) MAY NOT BE RECORDED BY THE ADMINISTRATION ON THE
+12 DRIVING RECORD OF THE OWNER OR DRIVER OF THE VEHICLE;
+13 (3) MAY BE TREATED AS A PARKING VIOLATION FOR PURPOSES OF §
+14 26–305 OF THIS ARTICLE; AND
+15 (4) MAY NOT BE CONSIDERED IN THE PROVISION OF MOTOR VEHICLE
+16 INSURANCE COVERAGE.
+17 (I) IN CONSULTATION WITH THE STATE HIGHWAY ADMINISTRATION, THE
+18 CHIEF JUDGE OF THE DISTRICT COURT SHALL ADOPT PROCEDURES FOR THE
+19 ISSUANCE OF CITATIONS, THE TRIAL OF CIVIL VIOLATIONS, AND THE COLLECTION
+20 OF CIVIL PENALTIES UNDER THIS SECTION.
+21 (J) (1) THE STATE HIGHWAY ADMINISTRATION OR A CONTRACTOR
+22 DESIGNATED BY THE STATE HIGHWAY ADMINISTRATION SHALL ADMINISTER AND
+23 PROCESS CIVIL CITATIONS ISSUED UNDER THIS SECTION IN COORDINATION WITH
+24 THE DISTRICT COURT.
+25 (2) IF A CONTRACTOR PROVIDES, DEPLOYS, OR OPERATES A SPEED
+26 MONITORING SYSTEM FOR THE STATE HIGHWAY ADMINISTRATION, THE
+27 CONTRACTOR’S FEE MAY NOT BE CONTINGENT ON THE NUMBER OF CITATIONS
+28 ISSUED OR PAID.
+29 (K) THE STATE HIGHWAY ADMINISTRATION MAY ADOPT REGULATIONS
+30 ESTABLISHING STANDARDS AND PROCEDURES FOR SAFETY CORRIDOR SPEED
+31 MONITORING SYSTEMS.
+14 HOUSE BILL 348
+1 26–305.
+2 (a) The Administration may not register or transfer the registration of any vehicle
+3 involved in a parking violation under this subtitle, a violation under any federal parking
+4 regulation that applies to property in this State under the jurisdiction of the U.S.
+5 government, a violation of § 21–202(h) of this article as determined under § 21–202.1 of this
+6 article or Title 21, Subtitle 8 of this article as determined under § 21–809 [or], §
+7 21–810, OR § 21–810.1 of this article, or a violation of the Illegal Dumping and Litter
+8 Control Law under § 10–110 of the Criminal Law Article or a local law or ordinance adopted
+9 by Baltimore City relating to the unlawful disposal of litter as determined under § 10–112
+10 of the Criminal Law Article, if:
+11 (1) It is notified by a political subdivision or authorized State agency that
+12 the person cited for the violation under this subtitle, § 21–202.1, § 21–809, [or] § 21–810,
+13 OR § 21–810.1 of this article, or § 10–110 or § 10–112 of the Criminal Law Article has
+14 failed to either:
+15 (i) Pay the fine for the violation by the date specified in the citation;
+16 or
+17 (ii) File a notice of his intention to stand trial for the violation;
+18 (2) It is notified by the District Court that a person who has elected to stand
+19 trial for the violation under this subtitle, under § 21–202.1, § 21–809 [or], § 21–810, OR §
+20 21–810.1 of this article, or under § 10–110 or § 10–112 of the Criminal Law Article has
+21 failed to appear for trial; or
+22 (3) It is notified by a U.S. District Court that a person cited for a violation
+23 under a federal parking regulation:
+24 (i) Has failed to pay the fine for the violation by the date specified
+25 in the federal citation; or
+26 (ii) Either has failed to file a notice of the person’s intention to stand
+27 trial for the violation, or, if electing to stand trial, has failed to appear for trial.
+28 26–401.
+29 If a person is taken before a District Court commissioner or is given a traffic citation
+30 or a civil citation under § 21–202.1, § 21–809, § 21–810, § 21–810.1, § 21–1414, or §
+31 24–111.3 of this article containing a notice to appear in court, the commissioner or court
+32 shall be one that sits within the county in which the offense allegedly was committed.
+33 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+34 October 1, 2025.
+HOUSE BILL 348 15
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5   C A M F s c i t A P S A P a g r B  A  S   (  A  ( B  A S  A  ( B  A  S  A  (]
+[DELETED:  H  B  A  S  A  ( B  A  S  A  ( B  A  S  A  (  S T A 4  E T   ( A p f a c i u § 2 § 2 § 2  2 o 7  ( ( E c c i a t c i p a i c c u § 2 §2 A i    ( A    ( S e b]
+[DELETED: H 3  ( ( T 2  2 o   ( I a 7  ( ( ( A §  2 A s p t t p r t c m e t s t b n t    ( O t p    ( O t o   ( ( A c i a t r o a v h m s s a s b m c a b l m s o a n a m d    ( A c i a t r o a t c s m smor a w z s c s O A S C],   h s a s s m s a s b m c a b l m C   ( C m s t c s m s s m s w   s n a m s t a c b t D C s b c w 1]
+[DELETED:  H   ( A i or 0 ],,§2  a i a p c a c c i u t s f a v  ( I a o j p a r i p b a v h m s t c s m s s m s w z s c s C S M  s s m s s b m c o b l m a a A 4  ( I 2  2  ( E i   ( a t   ( a s m s o u § 2 o t T   ( a w z s c s o u § 2 o t T or ( S C S M S O    R RE 21TA    () a]( t  ( A   ( a r i § 2 § 2 § 2  o §2 2]
+[DELETED: H 5   ( b   p   ( b r t i o o i f c u § 2 § 2  2 A 1  ( F p o r a i i a c t e a h p a i u a a i p m n c a p p t § 2 § 2 § 2  o § 2 o t2 T m A 1  ( F p o r a i i a c t e a h p a i u a a i p m n c a p p t § 2 § 2 § 2  o § 2 o t2 T m A A 1  ( ( E ph    ](SA s b u A   ( T t 2 s]
+[DELETED:  H  ( T O S D R F T F C T U O A S C S   2 F ).() M()O C ( SS B D F T T T IS  ( A()  N R B S B D T T RF: U  () H;IS   () SHIT I D S() ( N ( () “OWR M T R O O A M O A L O M U L O  M O  () “O”:IWR    1 AM V R O L CY   2 H O A S R P I  U  A  1,S9,PII. ( “R IE M A I R B A S  () O:]
+[DELETED: H 7   1 A;   2 A;   3 A;   4 V;E    5 A;M   () S:IH   1 T;   2 A L T TES I O TE    3 O A L O I O P O TE A A L I O T E R P ( “S”R  T D:  () N    3U.§1  () AAI P C I T DNSSAP. A C L ( “S”, M SM M A FD MED   2. ( “S M S OR M A D ( () “VU R UR M A I O A]
+[DELETED:  H   () “V”IU R UR I PSS O CS P U P C O AR  .() (   T S M B A B T T ISH A U B T T I D O I T R T I O M V T O A  ( AS M S M B U O IF I W T A A O N R OMUTS A C R S I P A A R D W N G B T S C (    ( ()  S M S S U A C C P B A I C  () IH I C L ST   1 S;E    2  B A A E I A C ( ISH T I D A S M S H N P B M O W T P YR C M N B I F A]
+[DELETED: H 9  () NN   () F1IO   (  B T T I D S B C IH W I  U  O T T I A1,S1SA. R() ( N T D O T M V R AN R  F N ()) V I S T A C P I A I O T M ( A$ ( F,DC:N  I O  () R D     O RE ))§72CA;  () IN O T C T A O T C I OC.() ( S()(U T P  T  O TN  T I DSH C   () H  () IH R N O T M V  () T;IH  () T;VH]
+[DELETED:  H   () T;H  () IT  () IH A O T C P I A T  ()I S S U O B A AHA I D R O C TTS   () X   () N A T P A T B I OT C;  () IN A T P A T B U C   1 I;   2  R I T R T R TE    3  R I T S O T M ( TSH T I D O I C M A W N I O A C T T O L C ). ( E()) F N T I D O I C M N M AH]
+[DELETED: H 1 ( E()) F N  I U T S S B M N L T ,3E A N T  D A T A V I ( A(    () A T C P I A WN   () EDIL I O() (  C A T T V O T B  H B SD S TO O A B A AHA I DR M I A P A A V U T S T P O T O T S M S ( I( D T S D T S M S O T BL  T I DH  0. (  O L S B B O A() ( TDH I O M C I D O A  () S()U  N ]
+[DELETED:  H   () S()IU T P  O T SNN   () AIN O I A E T T I. (  D T T M V O T P W S B T V O A VN T O S S P T A P R (  S T E B U P()I N  I OR CL D ,:  () TN   () I.IN ( () IDF I O T C W N O T V A T T O T  N C O T C M P T T T I  () IN R O S E F TC(), O U S I O T PH T T D D   () A(IN II    I OC.]
+[DELETED: H 1() FN  DA: (  T R O R T R ON  ( ()  V A C I (    12; ( M N B R B T D O T ( M 5;E  ( () ISHAN T I DN JD U O T I O S A P F TS S () ( TSHH T I D O A C T I DH I OC. ( I,S S  S F T T I DN THARS F M N B C O T N O C() TSHH T I D M A R S A P F S C S]
+[DELETED:  H  2  ( T i r t a t p i t S u t j o t U g a o T 2 S 8 o t a a d u § 2 or §] 20o§2   C b o   ( I t or 0] 2   f    ( P o    ( F   ( I t9or§0 O ],, o f   ( I u    ( H i    ( E t 2  I o a c c u § 2 § 2 § 2  § 2 o §2 2 s  S A B I F E T t A s t e O]
+[DELETED: H 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 348
+R5 5lr2485
+CF SB 520
+By: Delegate Stewart
+Introduced and read first time: January 15, 2025
+Assigned to: Environment and Transportation
+Committee Report: Favorable
+House action: Adopted
+Read second time: March 2, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Motor Vehicles – Speed Monitoring Systems – Safety Corridors
+3 FOR the purpose of authorizing the State Highway Administration to use speed monitoring
+4 systems in areas determined to be of high risk to vulnerable road users and priority
+5 corridors in the Administration’s Pedestrian Safety Action Plan; and generally
+6 relating to the use of speed monitoring systems in safety corridors.
+7 BY repealing and reenacting, with amendments,
+8 Article – Courts and Judicial Proceedings
+9 Section 4–401(13), 7–301(a)(1) and (f)(1), 7–302(e)(1), (2), and (3), and 10–311(b) and
+10 (h)
+11 Annotated Code of Maryland
+12 (2020 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, without amendments,
+14 Article – Courts and Judicial Proceedings
+15 Section 7–301(f)(2)
+16 Annotated Code of Maryland
+17 (2020 Replacement Volume and 2024 Supplement)
+18 BY repealing and reenacting, with amendments,
+19 Article – General Provisions
+20 Section 4–321
+21 Annotated Code of Maryland
+22 (2019 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0348*
+
+2 HOUSE BILL 348
+1 BY repealing and reenacting, with amendments,
+2 Article – Insurance
+3 Section 11–215(e) and 11–318(e)
+4 Annotated Code of Maryland
+5 (2017 Replacement Volume and 2024 Supplement)
+6 BY repealing and reenacting, with amendments,
+7 Article – Transportation
+8 Section 12–118(c), 26–305(a), and 26–401
+9 Annotated Code of Maryland
+10 (2020 Replacement Volume and 2024 Supplement)
+11 BY adding to
+12 Article – Transportation
+13 Section 12–118(f) and 21–810.1
+14 Annotated Code of Maryland
+15 (2020 Replacement Volume and 2024 Supplement)
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+18 Article – Courts and Judicial Proceedings
+19 4–401.
+20 Except as provided in § 4–402 of this subtitle, and subject to the venue provisions of
+21 Title 6 of this article, the District Court has exclusive original civil jurisdiction in:
+22 (13) A proceeding for a civil infraction under § 21–202.1, § 21–704.1, §
+23 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–810.1, § 21–1134, § 22–612, or § 24–111.3
+24 of the Transportation Article or § 10–112 of the Criminal Law Article;
+25 7–301.
+26 (a) (1) Except as provided in paragraphs (2) and (3) of this subsection, the
+27 court costs in a traffic case, including parking and impounding cases, cases under §
+28 21–202.1, § 21–809, § 21–810, § 21–810.1, § 21–1414, or § 24–111.3 of the Transportation
+29 Article in which costs are imposed, and cases under § 10–112 of the Criminal Law Article
+30 in which costs are imposed:
+31 (i) Are $22.50; and
+32 (ii) Shall also be applicable to those cases in which the defendant
+33 elects to waive the defendant’s right to trial and pay the fine or penalty deposit established
+34 by the Chief Judge of the District Court by administrative regulation.
+
+HOUSE BILL 348 3
+1 (f) (1) This subsection does not apply to a traffic case under § 21–202.1, §
+2 21–809, § 21–810, § 21–810.1, or § 21–1414 of the Transportation Article or to a parking
+3 or impounding case.
+4 (2) In a traffic case under subsection (a)(1) of this section the court shall
+5 add a $7.50 surcharge to any fine imposed by the court.
+6 7–302.
+7 (e) (1) (i) A citation issued pursuant to § 21–202.1, § 21–706.1, § 21–707.1,
+8 § 21–809, § 21–810, § 21–810.1, § 21–1134, § 22–612, or § 24–111.3 of the Transportation
+9 Article shall provide that the person receiving the citation may elect to stand trial by
+10 notifying the issuing agency of the person’s intention to stand trial at least 5 days prior to
+11 the date of payment as set forth in the citation.
+12 (ii) On receipt of the notice to stand trial, the agency shall forward
+13 to the District Court having venue a copy of the citation and a copy of the notice from the
+14 person who received the citation indicating the person’s intention to stand trial.
+15 (iii) On receipt thereof, the District Court shall schedule the case for
+16 trial and notify the defendant of the trial date under procedures adopted by the Chief Judge
+17 of the District Court.
+18 (2) (i) A citation issued as the result of a vehicle height monitoring
+19 system, a traffic control signal monitoring system, a speed monitoring system, a work zone
+20 speed control system or a stop sign monitoring system controlled by a political subdivision,
+21 a school bus monitoring camera, a bus lane monitoring system, or a noise abatement
+22 monitoring system shall provide that, in an uncontested case, the penalty shall be paid
+23 directly to that political subdivision.
+24 (ii) A citation issued as the result of a traffic control signal
+25 monitoring system [or], a work zone speed control system, OR A SAFETY CORRIDOR
+26 SPEED MONITORING SYSTEM controlled by a State agency, or as a result of a vehicle
+27 height monitoring system, a traffic control signal monitoring system, a speed monitoring
+28 system, a stop sign monitoring system, a school bus monitoring camera, a bus lane
+29 monitoring system, or a noise abatement monitoring system in a case contested in District
+30 Court, shall provide that the penalty shall be paid directly to the District Court.
+31 (3) Civil penalties resulting from citations issued using a vehicle height
+32 monitoring system, traffic control signal monitoring system, speed monitoring system,
+33 work zone speed control system, SAFETY CORRIDOR SPEED MONITORING SYSTEM, stop
+34 sign monitoring system, school bus monitoring camera, bus lane monitoring system, or a
+35 noise abatement monitoring system that are collected by the District Court shall be
+36 collected in accordance with subsection (a) of this section and distributed in accordance
+37 with § 12–118 of the Transportation Article.
+38 10–311.
+
+4 HOUSE BILL 348
+1 (b) A recorded image of a motor vehicle produced by a speed monitoring system
+2 in accordance with § 21–809 [or], § 21–810, OR § 21–810.1 of the Transportation Article is
+3 admissible in a proceeding concerning a civil citation issued under that section for a
+4 violation of Title 21, Subtitle 8 of the Transportation Article without authentication.
+5 (h) In any other judicial proceeding, a recorded image produced by a vehicle
+6 height monitoring system, traffic control signal monitoring system, speed monitoring
+7 system, work zone speed control system, SAFETY CORRIDOR SPEED MONITORING
+8 SYSTEM, stop sign monitoring system, school bus monitoring camera, or bus lane
+9 monitoring system or a recorded image and any relevant recorded audio produced by a noise
+10 abatement monitoring system in conjunction with a noise measuring device is admissible
+11 as otherwise provided by law.
+12 Article – General Provisions
+13 4–321.
+14 (a) In this section, “recorded images” has the meaning stated in § 21–202.1, §
+15 21–809, § 21–810, § 21–810.1, or § 24–111.3 of the Transportation Article.
+16 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+17 inspection of recorded images produced by:
+18 (1) a traffic control signal monitoring system operated under § 21–202.1 of
+19 the Transportation Article;
+20 (2) a speed monitoring system operated under § 21–809 of the
+21 Transportation Article;
+22 (3) a work zone speed control system operated under § 21–810 of the
+23 Transportation Article; [or]
+24 (4) A SAFETY CORRIDOR SPEED MONITORING SYSTEM OPERATED
+25 UNDER § 21–810.1 OF THE TRANSPORTATION ARTICLE; OR
+26 [(4)] (5) a vehicle height monitoring system operated under § 24–111.3 of
+27 the Transportation Article.
+28 (c) A custodian shall allow inspection of recorded images:
+29 (1) as required in § 21–202.1, § 21–809, § 21–810, § 21–810.1, or §
+30 24–111.3 of the Transportation Article;
+
+HOUSE BILL 348 5
+1 (2) by any person issued a citation under § 21–202.1, § 21–809, § 21–810, §
+2 21–810.1, or § 24–111.3 of the Transportation Article, or by an attorney of record for the
+3 person; or
+4 (3) by an employee or agent of an agency in an investigation or a proceeding
+5 relating to the imposition of or indemnification from civil liability under § 21–202.1, §
+6 21–809, § 21–810, § 21–810.1, or § 24–111.3 of the Transportation Article.
+7 Article – Insurance
+8 11–215.
+9 (e) For purposes of reclassifying an insured in a classification that entails a
+10 higher premium, an insurer under an automobile insurance policy may not consider a
+11 probation before judgment disposition of a motor vehicle law offense, a civil penalty imposed
+12 pursuant to § 21–202.1, § 21–809, § 21–810, § 21–810.1, or § 24–111.3 of the
+13 Transportation Article, or a first offense of driving with an alcohol concentration of 0.08 or
+14 more under § 16–205.1 of the Transportation Article on record with the Motor Vehicle
+15 Administration, as provided in § 16–117(b) of the Transportation Article.
+16 11–318.
+17 (e) For purposes of reclassifying an insured in a classification that entails a
+18 higher premium, an insurer under an automobile insurance policy may not consider a
+19 probation before judgment disposition of a motor vehicle law offense, a civil penalty imposed
+20 pursuant to § 21–202.1, § 21–809, § 21–810, § 21–810.1, or § 24–111.3 of the
+21 Transportation Article, or a first offense of driving with an alcohol concentration of 0.08 or
+22 more under § 16–205.1 of the Transportation Article on record with the Motor Vehicle
+23 Administration, as provided in § 16–117(b) of the Transportation Article.
+24 Article – Transportation
+25 12–118.
+26 (c) (1) Except as provided in [paragraph] PARAGRAPHS (2) AND (3) of this
+27 subsection, notwithstanding any other law and in addition to any other exceptions provided
+28 by law, all costs, fines, penalties, and forfeitures received by or paid to the District Court
+29 under the Maryland Vehicle Law shall be collected and remitted as provided in the Courts
+30 Article.
+31 (2) The Comptroller shall distribute revenue from the civil fines collected
+32 through use of a work zone speed control system controlled by a State agency under §
+33 21–810 of this article to a special fund, to be used only as provided in subsection (e) of this
+34 section.
+
+6 HOUSE BILL 348
+1 (3) THE COMPTROLLER SHALL DISTRIBUTE REVENUE FROM THE
+2 CIVIL FINES COLLECTED THROUGH USE OF A SAFETY CORRIDOR SPEED
+3 MONITORING SYSTEM UNDER § 21–810.1 OF THIS ARTICLE TO A SPECIAL FUND TO
+4 BE USED ONLY AS PROVIDED IN SUBSECTION (F) OF THIS SECTION.
+5 (F) MONEY IN THE SPECIAL FUND ESTABLISHED UNDER SUBSECTION (C)(3)
+6 OF THIS SECTION:
+7 (1) SHALL BE DISTRIBUTED FIRST TO THE STATE HIGHWAY
+8 ADMINISTRATION TO COVER THE COSTS OF IMPLEMENTING AND ADMINISTERING
+9 SAFETY CORRIDOR SPEED MONITORING SYSTEMS; AND
+10 (2) AFTER THE DISTRIBUTION UNDER ITEM (1) OF THIS SUBSECTION,
+11 THE REMAINING BALANCE SHALL BE DISTRIBUTED TO THE TRANSPORTATION
+12 TRUST FUND FOR:
+13 (I) HIGHWAY SAFETY PURPOSES; AND
+14 (II) STATE HIGHWAY ADMINISTRATION SYSTEM
+15 PRESERVATION.
+16 21–810.1.
+17 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+18 INDICATED.
+19 (2) (I) “OWNER” MEANS THE REGISTERED OWNER OF A MOTOR
+20 VEHICLE OR A LESSEE OF A MOTOR VEHICLE UNDER A LEASE OF 6 MONTHS OR
+21 LONGER.
+22 (II) “OWNER” DOES NOT INCLUDE:
+23 1. A MOTOR VEHICLE RENTAL OR LEASING COMPANY;
+24 OR
+25 2. A HOLDER OF A SPECIAL REGISTRATION PLATE
+26 ISSUED UNDER TITLE 13, SUBTITLE 9, PART III OF THIS ARTICLE.
+27 (3) “RECORDED IMAGE” MEANS AN IMAGE RECORDED BY A SPEED
+28 MONITORING SYSTEM:
+29 (I) ON:
+
+HOUSE BILL 348 7
+1 1. A PHOTOGRAPH;
+2 2. A MICROPHOTOGRAPH;
+3 3. AN ELECTRONIC IMAGE;
+4 4. VIDEOTAPE; OR
+5 5. ANY OTHER MEDIUM; AND
+6 (II) SHOWING:
+7 1. THE REAR OF A MOTOR VEHICLE;
+8 2. AT LEAST TWO TIME–STAMPED IMAGES OF THE
+9 MOTOR VEHICLE THAT INCLUDE THE SAME STATIONARY OBJECT NEAR THE MOTOR
+10 VEHICLE; AND
+11 3. ON AT LEAST ONE IMAGE OR PORTION OF TAPE, A
+12 CLEAR AND LEGIBLE IDENTIFICATION OF THE ENTIRE REGISTRATION PLATE
+13 NUMBER OF THE MOTOR VEHICLE.
+14 (4) “SAFETY CORRIDOR” MEANS A SEGMENT OF A STATE HIGHWAY
+15 THAT IS IDENTIFIED BY THE ADMINISTRATION AS:
+16 (I) AN AREA OF HIGH RISK TO VULNERABLE ROAD USERS IN A
+17 VULNERABLE ROAD USER SAFETY ASSESSMENT PREPARED UNDER 23 U.S.C. § 148;
+18 OR
+19 (II) A PRIORITY CORRIDOR IN THE ADMINISTRATION’S
+20 PEDESTRIAN SAFETY ACTION PLAN.
+21 (5) “SPEED MONITORING SYSTEM” MEANS ANY FIXED, MOBILE,
+22 MANNED, OR UNMANNED DEVICE WITH ONE OR MORE MOTOR VEHICLE SENSORS
+23 PRODUCING RECORDED IMAGES OF MOTOR VEHICLES TRAVELING AT SPEEDS AT
+24 LEAST 12 MILES PER HOUR ABOVE THE POSTED SPEED LIMIT.
+25 (6) “SPEED MONITORING SYSTEM OPERATOR” MEANS A
+26 REPRESENTATIVE OF THE ADMINISTRATION OR ITS CONTRACTOR THAT OPERATES
+27 A SPEED MONITORING SYSTEM.
+28 (7) (I) “VULNERABLE ROAD USER” MEANS AN INDIVIDUAL ON A
+29 HIGHWAY WHO IS NOT TRAVELING IN A MOTOR VEHICLE.
+
+8 HOUSE BILL 348
+1 (II) “VULNERABLE ROAD USER” INCLUDES PEDESTRIANS,
+2 BICYCLISTS, OTHER CYCLISTS, PERSONS USING PERSONAL CONVEYANCE OR A
+3 MOBILITY DEVICE SUCH AS A WHEELCHAIR, AND PERSONS ON FOOT IN A HIGHWAY
+4 WORK ZONE.
+5 (B) (1) A SPEED MONITORING SYSTEM THAT MEETS THE REQUIREMENTS
+6 OF THIS SUBSECTION MAY BE AUTHORIZED BY THE STATE HIGHWAY
+7 ADMINISTRATION AND USED BY THE STATE HIGHWAY ADMINISTRATION OR ITS
+8 CONTRACTOR TO RECORD THE IMAGES OF MOTOR VEHICLES TRAVELING ON A
+9 STATE HIGHWAY WITHIN A SAFETY CORRIDOR.
+10 (2) A SPEED MONITORING SYSTEM MAY BE USED ONLY IF, IN
+11 ACCORDANCE WITH THE MARYLAND MANUAL ON UNIFORM TRAFFIC CONTROL
+12 DEVICES, A CONSPICUOUS ROAD SIGN IS PLACED AT A REASONABLE DISTANCE
+13 CONSISTENT WITH NATIONAL GUIDELINES BEFORE THE SAFETY CORRIDOR
+14 ALERTING DRIVERS THAT A SPEED MONITORING SYSTEM MAY BE IN OPERATION IN
+15 THE SAFETY CORRIDOR.
+16 (3) A SPEED MONITORING SYSTEM MAY BE USED ONLY TO RECORD
+17 THE IMAGES OF VEHICLES THAT ARE TRAVELING AT SPEEDS AT LEAST 12 MILES PER
+18 HOUR ABOVE THE POSTED SPEED LIMIT.
+19 (4) (I) A SPEED MONITORING SYSTEM SHALL UNDERGO AN
+20 ANNUAL CALIBRATION CHECK PERFORMED BY AN INDEPENDENT CALIBRATION
+21 LABORATORY.
+22 (II) THE INDEPENDENT CALIBRATION LABORATORY SHALL
+23 ISSUE A SIGNED CERTIFICATE OF CALIBRATION AFTER THE ANNUAL CALIBRATION
+24 CHECK THAT:
+25 1. SHALL BE KEPT ON FILE; AND
+26 2. SHALL BE ADMITTED AS EVIDENCE IN ANY COURT
+27 PROCEEDING FOR A VIOLATION OF THIS SECTION.
+28 (5) IF THE STATE HIGHWAY ADMINISTRATION OR ITS CONTRACTOR
+29 MOVES OR PLACES A SPEED MONITORING SYSTEM TO OR AT A SAFETY CORRIDOR
+30 WHERE A SPEED MONITORING SYSTEM HAD NOT PREVIOUSLY BEEN MOVED OR
+31 PLACED WITHIN THE PREVIOUS YEAR, CITATIONS MAY NOT BE ISSUED FOR A
+32 VIOLATION RECORDED BY THAT SPEED MONITORING SYSTEM:
+
+HOUSE BILL 348 9
+1 (I) UNTIL SIGNAGE IS INSTALLED IN ACCORDANCE WITH THIS
+2 SUBSECTION; AND
+3 (II) FOR AT LEAST THE FIRST 15 CALENDAR DAYS AFTER THE
+4 SIGNAGE IS INSTALLED.
+5 (6) THE PROCUREMENT OF OR RELATING TO A SPEED MONITORING
+6 SYSTEM BY THE STATE HIGHWAY ADMINISTRATION SHALL BE CONDUCTED IN
+7 ACCORDANCE WITH TITLE 13, SUBTITLE 1 OF THE STATE FINANCE AND
+8 PROCUREMENT ARTICLE.
+9 (C) (1) UNLESS THE DRIVER OF THE MOTOR VEHICLE RECEIVED A
+10 CITATION FROM A POLICE OFFICER AT THE TIME OF THE VIOLATION, THE OWNER
+11 OR, IN ACCORDANCE WITH SUBSECTION (F)(4) OF THIS SECTION, THE DRIVER OF A
+12 MOTOR VEHICLE IS SUBJECT TO A CIVIL PENALTY IF AN IMAGE OF THE MOTOR
+13 VEHICLE IS RECORDED BY A SPEED MONITORING SYSTEM WHILE BEING OPERATED
+14 IN VIOLATION OF THIS SUBTITLE.
+15 (2) A CIVIL PENALTY UNDER THIS SUBSECTION MAY NOT EXCEED $40.
+16 (3) FOR PURPOSES OF THIS SECTION, THE DISTRICT COURT SHALL:
+17 (I) PRESCRIBE A UNIFORM CITATION FORM CONSISTENT WITH
+18 SUBSECTION (D)(1) OF THIS SECTION AND § 7–302 OF THE COURTS ARTICLE; AND
+19 (II) INDICATE ON THE CITATION THE AMOUNT OF THE CIVIL
+20 PENALTY TO BE PAID BY PERSONS WHO CHOOSE TO PREPAY THE CIVIL PENALTY
+21 WITHOUT APPEARING IN DISTRICT COURT.
+22 (D) (1) SUBJECT TO PARAGRAPHS (2) THROUGH (4) OF THIS
+23 SUBSECTION, THE STATE HIGHWAY ADMINISTRATION OR ITS CONTRACTOR SHALL
+24 MAIL TO THE OWNER LIABLE UNDER SUBSECTION (C) OF THIS SECTION A CITATION
+25 THAT SHALL INCLUDE:
+26 (I) THE NAME AND ADDRESS OF THE REGISTERED OWNER OF
+27 THE MOTOR VEHICLE;
+28 (II) THE REGISTRATION NUMBER OF THE MOTOR VEHICLE
+29 INVOLVED IN THE VIOLATION;
+30 (III) THE VIOLATION CHARGED;
+31 (IV) THE LOCATION WHERE THE VIOLATION OCCURRED;
+
+10 HOUSE BILL 348
+1 (V) THE DATE AND TIME OF THE VIOLATION;
+2 (VI) AT LEAST ONE RECORDED IMAGE OF THE VEHICLE WITH A
+3 DATA BAR IMPRINTED ON THE IMAGE THAT INCLUDES THE SPEED OF THE VEHICLE
+4 AND THE DATE AND TIME THE IMAGE WAS RECORDED;
+5 (VII) THE AMOUNT OF THE CIVIL PENALTY IMPOSED AND THE
+6 DATE BY WHICH THE CIVIL PENALTY MUST BE PAID;
+7 (VIII) A SIGNED STATEMENT UNDER OATH BY AN AUTHORIZED
+8 STATE HIGHWAY ADMINISTRATION REPRESENTATIVE OR CONTRACTOR THAT,
+9 BASED ON INSPECTION OF RECORDED IMAGES, THE MOTOR VEHICLE WAS BEING
+10 OPERATED IN VIOLATION OF THIS SUBTITLE;
+11 (IX) A STATEMENT THAT RECORDED IMAGES ARE EVIDENCE OF
+12 A VIOLATION OF THIS SUBTITLE;
+13 (X) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+14 LIABLE UNDER THIS SECTION OF THE MANNER AND TIME IN WHICH LIABILITY AS
+15 ALLEGED IN THE CITATION MAY BE CONTESTED IN THE DISTRICT COURT; AND
+16 (XI) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+17 LIABLE UNDER THIS SECTION THAT FAILURE TO PAY THE CIVIL PENALTY OR TO
+18 CONTEST LIABILITY IN A TIMELY MANNER:
+19 1. IS AN ADMISSION OF LIABILITY;
+20 2. MAY RESULT IN THE REFUSAL TO REGISTER THE
+21 MOTOR VEHICLE; AND
+22 3. MAY RESULT IN THE SUSPENSION OF THE MOTOR
+23 VEHICLE REGISTRATION.
+24 (2) THE STATE HIGHWAY ADMINISTRATION OR ITS CONTRACTOR
+25 MAY MAIL A WARNING NOTICE INSTEAD OF A CITATION TO THE OWNER LIABLE
+26 UNDER SUBSECTION (C) OF THIS SECTION.
+27 (3) EXCEPT AS PROVIDED IN SUBSECTION (F)(4) OF THIS SECTION,
+28 THE STATE HIGHWAY ADMINISTRATION OR ITS CONTRACTOR MAY NOT MAIL A
+29 CITATION TO A PERSON WHO IS NOT AN OWNER.
+
+HOUSE BILL 348 11
+1 (4) EXCEPT AS PROVIDED IN SUBSECTION (F)(4) OF THIS SECTION, A
+2 CITATION ISSUED UNDER THIS SECTION SHALL BE MAILED NOT LATER THAN 2
+3 WEEKS AFTER THE ALLEGED VIOLATION IF THE VEHICLE IS REGISTERED IN THIS
+4 STATE, AND NOT LATER THAN 30 DAYS AFTER THE ALLEGED VIOLATION IF THE
+5 VEHICLE IS REGISTERED IN ANOTHER STATE.
+6 (5) A PERSON WHO RECEIVES A CITATION UNDER PARAGRAPH (1) OF
+7 THIS SUBSECTION MAY:
+8 (I) PAY THE CIVIL PENALTY IN ACCORDANCE WITH
+9 INSTRUCTIONS ON THE CITATION; OR
+10 (II) ELECT TO STAND TRIAL IN THE DISTRICT COURT FOR THE
+11 ALLEGED VIOLATION.
+12 (E) (1) A CERTIFICATE ALLEGING THAT THE VIOLATION OF THIS
+13 SUBTITLE OCCURRED AND THE REQUIREMENTS UNDER SUBSECTION (B) OF THIS
+14 SECTION HAVE BEEN SATISFIED, SWORN TO, OR AFFIRMED BY AN AUTHORIZED
+15 STATE HIGHWAY ADMINISTRATION REPRESENTATIVE OR CONTRACTOR, BASED ON
+16 INSPECTION OF RECORDED IMAGES PRODUCED BY A SPEED MONITORING SYSTEM,
+17 SHALL BE EVIDENCE OF THE FACTS CONTAINED IN THE CERTIFICATE AND SHALL BE
+18 ADMISSIBLE IN A PROCEEDING ALLEGING A VIOLATION UNDER THIS SECTION
+19 WITHOUT THE PRESENCE OR TESTIMONY OF THE SPEED MONITORING SYSTEM
+20 OPERATOR.
+21 (2) IF A PERSON WHO RECEIVED A CITATION UNDER SUBSECTION (D)
+22 OF THIS SECTION DESIRES THE SPEED MONITORING SYSTEM OPERATOR TO BE
+23 PRESENT AND TESTIFY AT TRIAL, THE PERSON SHALL NOTIFY THE COURT AND THE
+24 REPRESENTATIVE OF THE STATE HIGHWAY ADMINISTRATION OR ITS CONTRACTOR
+25 THAT ISSUED THE CITATION IN WRITING NOT LATER THAN 20 DAYS BEFORE TRIAL.
+26 (3) ADJUDICATION OF LIABILITY SHALL BE BASED ON A
+27 PREPONDERANCE OF EVIDENCE.
+28 (F) (1) THE DISTRICT COURT MAY CONSIDER IN DEFENSE OF A
+29 VIOLATION:
+30 (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THAT
+31 THE MOTOR VEHICLE OR THE REGISTRATION PLATES OF THE MOTOR VEHICLE WERE
+32 STOLEN BEFORE THE VIOLATION OCCURRED AND WERE NOT UNDER THE CONTROL
+33 OR POSSESSION OF THE VEHICLE OWNER AT THE TIME OF THE VIOLATION;
+
+12 HOUSE BILL 348
+1 (II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION,
+2 EVIDENCE THAT THE PERSON NAMED IN THE CITATION WAS NOT OPERATING THE
+3 VEHICLE AT THE TIME OF THE VIOLATION; AND
+4 (III) ANY OTHER ISSUES AND EVIDENCE THAT THE DISTRICT
+5 COURT DEEMS PERTINENT.
+6 (2) TO DEMONSTRATE THAT THE MOTOR VEHICLE OR THE
+7 REGISTRATION PLATES WERE STOLEN BEFORE THE VIOLATION OCCURRED AND
+8 WERE NOT UNDER THE CONTROL OR POSSESSION OF THE OWNER AT THE TIME OF
+9 THE VIOLATION, THE OWNER SHALL SUBMIT PROOF THAT A POLICE REPORT
+10 REGARDING THE STOLEN MOTOR VEHICLE OR REGISTRATION PLATES WAS FILED IN
+11 A TIMELY MANNER.
+12 (3) TO SATISFY THE EVIDENTIARY BURDEN UNDER PARAGRAPH
+13 (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN THE CITATION SHALL PROVIDE
+14 TO THE DISTRICT COURT A LETTER, SWORN TO OR AFFIRMED BY THE PERSON AND
+15 MAILED BY CERTIFIED MAIL, RETURN RECEIPT REQUESTED, THAT:
+16 (I) STATES THAT THE PERSON NAMED IN THE CITATION WAS
+17 NOT OPERATING THE VEHICLE AT THE TIME OF THE VIOLATION; AND
+18 (II) INCLUDES ANY OTHER CORROBORATING EVIDENCE.
+19 (4) (I) IF THE DISTRICT COURT FINDS THAT THE PERSON NAMED
+20 IN THE CITATION WAS NOT OPERATING THE VEHICLE AT THE TIME OF THE
+21 VIOLATION OR RECEIVES EVIDENCE UNDER PARAGRAPH (3) OF THIS SUBSECTION
+22 IDENTIFYING THE PERSON DRIVING THE VEHICLE AT THE TIME OF THE VIOLATION,
+23 THE CLERK OF THE COURT MAY PROVIDE TO THE STATE HIGHWAY
+24 ADMINISTRATION REPRESENTATIVE OR CONTRACTOR THAT ISSUED THE CITATION
+25 A COPY OF ANY EVIDENCE SUBSTANTIATING WHO WAS OPERATING THE VEHICLE AT
+26 THE TIME OF THE VIOLATION.
+27 (II) ON RECEIPT OF SUBSTANTIATING EVIDENCE FROM THE
+28 DISTRICT COURT UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH, THE STATE
+29 HIGHWAY ADMINISTRATION REPRESENTATIVE OR CONTRACTOR THAT ISSUED THE
+30 CITATION MAY ISSUE A CITATION AS PROVIDED IN SUBSECTION (D) OF THIS SECTION
+31 TO THE PERSON WHO THE EVIDENCE INDICATES WAS OPERATING THE VEHICLE AT
+32 THE TIME OF THE VIOLATION.
+33 (III) ANY CITATION ISSUED UNDER SUBPARAGRAPH (II) OF THIS
+34 PARAGRAPH SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER RECEIPT OF THE
+35 EVIDENCE FROM THE DISTRICT COURT.
+
+HOUSE BILL 348 13
+1 (G) IF A PERSON LIABLE UNDER THIS SECTION DOES NOT PAY THE CIVIL
+2 PENALTY OR CONTEST THE VIOLATION, THE ADMINISTRATION MAY:
+3 (1) REFUSE TO REGISTER OR REREGISTER THE REGISTRATION OF
+4 THE MOTOR VEHICLE CITED FOR THE VIOLATION; OR
+5 (2) SUSPEND THE REGISTRATION OF THE MOTOR VEHICLE CITED FOR
+6 THE VIOLATION.
+7 (H) A VIOLATION FOR WHICH A CIVIL PENALTY IS IMPOSED UNDER THIS
+8 SECTION:
+9 (1) IS NOT A MOVING VIOLATION FOR THE PURPOSE OF ASSESSING
+10 POINTS UNDER § 16–402 OF THIS ARTICLE;
+11 (2) MAY NOT BE RECORDED BY THE ADMINISTRATION ON THE
+12 DRIVING RECORD OF THE OWNER OR DRIVER OF THE VEHICLE;
+13 (3) MAY BE TREATED AS A PARKING VIOLATION FOR PURPOSES OF §
+14 26–305 OF THIS ARTICLE; AND
+15 (4) MAY NOT BE CONSIDERED IN THE PROVISION OF MOTOR VEHICLE
+16 INSURANCE COVERAGE.
+17 (I) IN CONSULTATION WITH THE STATE HIGHWAY ADMINISTRATION, THE
+18 CHIEF JUDGE OF THE DISTRICT COURT SHALL ADOPT PROCEDURES FOR THE
+19 ISSUANCE OF CITATIONS, THE TRIAL OF CIVIL VIOLATIONS, AND THE COLLECTION
+20 OF CIVIL PENALTIES UNDER THIS SECTION.
+21 (J) (1) THE STATE HIGHWAY ADMINISTRATION OR A CONTRACTOR
+22 DESIGNATED BY THE STATE HIGHWAY ADMINISTRATION SHALL ADMINISTER AND
+23 PROCESS CIVIL CITATIONS ISSUED UNDER THIS SECTION IN COORDINATION WITH
+24 THE DISTRICT COURT.
+25 (2) IF A CONTRACTOR PROVIDES, DEPLOYS, OR OPERATES A SPEED
+26 MONITORING SYSTEM FOR THE STATE HIGHWAY ADMINISTRATION, THE
+27 CONTRACTOR’S FEE MAY NOT BE CONTINGENT ON THE NUMBER OF CITATIONS
+28 ISSUED OR PAID.
+29 (K) THE STATE HIGHWAY ADMINISTRATION MAY ADOPT REGULATIONS
+30 ESTABLISHING STANDARDS AND PROCEDURES FOR SAFETY CORRIDOR SPEED
+31 MONITORING SYSTEMS.
+
+14 HOUSE BILL 348
+1 26–305.
+2 (a) The Administration may not register or transfer the registration of any vehicle
+3 involved in a parking violation under this subtitle, a violation under any federal parking
+4 regulation that applies to property in this State under the jurisdiction of the U.S.
+5 government, a violation of § 21–202(h) of this article as determined under § 21–202.1 of this
+6 article or Title 21, Subtitle 8 of this article as determined under § 21–809 [or], §
+7 21–810, OR § 21–810.1 of this article, or a violation of the Illegal Dumping and Litter
+8 Control Law under § 10–110 of the Criminal Law Article or a local law or ordinance adopted
+9 by Baltimore City relating to the unlawful disposal of litter as determined under § 10–112
+10 of the Criminal Law Article, if:
+11 (1) It is notified by a political subdivision or authorized State agency that
+12 the person cited for the violation under this subtitle, § 21–202.1, § 21–809, [or] § 21–810,
+13 OR § 21–810.1 of this article, or § 10–110 or § 10–112 of the Criminal Law Article has
+14 failed to either:
+15 (i) Pay the fine for the violation by the date specified in the citation;
+16 or
+17 (ii) File a notice of his intention to stand trial for the violation;
+18 (2) It is notified by the District Court that a person who has elected to stand
+19 trial for the violation under this subtitle, under § 21–202.1, § 21–809 [or], § 21–810, OR §
+20 21–810.1 of this article, or under § 10–110 or § 10–112 of the Criminal Law Article has
+21 failed to appear for trial; or
+22 (3) It is notified by a U.S. District Court that a person cited for a violation
+23 under a federal parking regulation:
+24 (i) Has failed to pay the fine for the violation by the date specified
+25 in the federal citation; or
+26 (ii) Either has failed to file a notice of the person’s intention to stand
+27 trial for the violation, or, if electing to stand trial, has failed to appear for trial.
+28 26–401.
+29 If a person is taken before a District Court commissioner or is given a traffic citation
+30 or a civil citation under § 21–202.1, § 21–809, § 21–810, § 21–810.1, § 21–1414, or §
+31 24–111.3 of this article containing a notice to appear in court, the commissioner or court
+32 shall be one that sits within the county in which the offense allegedly was committed.
+33 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+34 October 1, 2025.
+
+HOUSE BILL 348 15
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5   C A M F s c i t A P S A P a g r B  A  S   (  A  ( B  A S  A  ( B  A  S  A  (]
+[DELETED:  H  B  A  S  A  ( B  A  S  A  ( B  A  S  A  (  S T A 4  E T   ( A p f a c i u § 2 § 2 § 2  2 o 7  ( ( E c c i a t c i p a i c c u § 2 §2 A i    ( A    ( S e b]
+[DELETED: H 3  ( ( T 2  2 o   ( I a 7  ( ( ( A §  2 A s p t t p r t c m e t s t b n t    ( O t p    ( O t o   ( ( A c i a t r o a v h m s s a s b m c a b l m s o a n a m d    ( A c i a t r o a t c s m smor a w z s c s O A S C],   h s a s s m s a s b m c a b l m C   ( C m s t c s m s s m s w   s n a m s t a c b t D C s b c w 1]
+[DELETED:  H   ( A i or 0 ],,§2  a i a p c a c c i u t s f a v  ( I a o j p a r i p b a v h m s t c s m s s m s w z s c s C S M  s s m s s b m c o b l m a a A 4  ( I 2  2  ( E i   ( a t   ( a s m s o u § 2 o t T   ( a w z s c s o u § 2 o t T or ( S C S M S O    R RE 21TA    () a]( t  ( A   ( a r i § 2 § 2 § 2  o §2 2]
+[DELETED: H 5   ( b   p   ( b r t i o o i f c u § 2 § 2  2 A 1  ( F p o r a i i a c t e a h p a i u a a i p m n c a p p t § 2 § 2 § 2  o § 2 o t2 T m A 1  ( F p o r a i i a c t e a h p a i u a a i p m n c a p p t § 2 § 2 § 2  o § 2 o t2 T m A A 1  ( ( E ph    ](SA s b u A   ( T t 2 s]
+[DELETED:  H  ( T O S D R F T F C T U O A S C S   2 F ).() M()O C ( SS B D F T T T IS  ( A()  N R B S B D T T RF: U  () H;IS   () SHIT I D S() ( N ( () “OWR M T R O O A M O A L O M U L O  M O  () “O”:IWR    1 AM V R O L CY   2 H O A S R P I  U  A  1,S9,PII. ( “R IE M A I R B A S  () O:]
+[DELETED: H 7   1 A;   2 A;   3 A;   4 V;E    5 A;M   () S:IH   1 T;   2 A L T TES I O TE    3 O A L O I O P O TE A A L I O T E R P ( “S”R  T D:  () N    3U.§1  () AAI P C I T DNSSAP. A C L ( “S”, M SM M A FD MED   2. ( “S M S OR M A D ( () “VU R UR M A I O A]
+[DELETED:  H   () “V”IU R UR I PSS O CS P U P C O AR  .() (   T S M B A B T T ISH A U B T T I D O I T R T I O M V T O A  ( AS M S M B U O IF I W T A A O N R OMUTS A C R S I P A A R D W N G B T S C (    ( ()  S M S S U A C C P B A I C  () IH I C L ST   1 S;E    2  B A A E I A C ( ISH T I D A S M S H N P B M O W T P YR C M N B I F A]
+[DELETED: H 9  () NN   () F1IO   (  B T T I D S B C IH W I  U  O T T I A1,S1SA. R() ( N T D O T M V R AN R  F N ()) V I S T A C P I A I O T M ( A$ ( F,DC:N  I O  () R D     O RE ))§72CA;  () IN O T C T A O T C I OC.() ( S()(U T P  T  O TN  T I DSH C   () H  () IH R N O T M V  () T;IH  () T;VH]
+[DELETED:  H   () T;H  () IT  () IH A O T C P I A T  ()I S S U O B A AHA I D R O C TTS   () X   () N A T P A T B I OT C;  () IN A T P A T B U C   1 I;   2  R I T R T R TE    3  R I T S O T M ( TSH T I D O I C M A W N I O A C T T O L C ). ( E()) F N T I D O I C M N M AH]
+[DELETED: H 1 ( E()) F N  I U T S S B M N L T ,3E A N T  D A T A V I ( A(    () A T C P I A WN   () EDIL I O() (  C A T T V O T B  H B SD S TO O A B A AHA I DR M I A P A A V U T S T P O T O T S M S ( I( D T S D T S M S O T BL  T I DH  0. (  O L S B B O A() ( TDH I O M C I D O A  () S()U  N ]
+[DELETED:  H   () S()IU T P  O T SNN   () AIN O I A E T T I. (  D T T M V O T P W S B T V O A VN T O S S P T A P R (  S T E B U P()I N  I OR CL D ,:  () TN   () I.IN ( () IDF I O T C W N O T V A T T O T  N C O T C M P T T T I  () IN R O S E F TC(), O U S I O T PH T T D D   () A(IN II    I OC.]
+[DELETED: H 1() FN  DA: (  T R O R T R ON  ( ()  V A C I (    12; ( M N B R B T D O T ( M 5;E  ( () ISHAN T I DN JD U O T I O S A P F TS S () ( TSHH T I D O A C T I DH I OC. ( I,S S  S F T T I DN THARS F M N B C O T N O C() TSHH T I D M A R S A P F S C S]
+[DELETED:  H  2  ( T i r t a t p i t S u t j o t U g a o T 2 S 8 o t a a d u § 2 or §] 20o§2   C b o   ( I t or 0] 2   f    ( P o    ( F   ( I t9or§0 O ],, o f   ( I u    ( H i    ( E t 2  I o a c c u § 2 § 2 § 2  § 2 o §2 2 s  S A B I F E T t A s t e O]
+[DELETED: H 1          G               ]

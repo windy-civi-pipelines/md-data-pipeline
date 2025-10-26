@@ -1,0 +1,193 @@
+Title: SENATE BILL 453
+Official Title: SENATE BILL 453
+Number of Sections: 1
+Source: versions - Third - State Contracts - Prohibited Provisions
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+P2 5lr2934
+CF HB 507
+By: Senator King
+Introduced and read first time: January 21, 2025
+Assigned to: Budget and Taxation
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 21, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 State Contracts – Prohibited Provisions
+3 FOR the purpose of clarifying a prohibition on including in State contracts provisions
+4 pertaining to limitations of liability for damage to certain property; clarifying a
+5 prohibition on including in State contracts provisions limiting the recovery of costs
+6 related to the use of replacement contractors under certain circumstances; and
+7 generally relating to prohibited provisions in State contracts.
+8 BY repealing and reenacting, with amendments,
+9 Article – State Finance and Procurement
+10 Section 2–901
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – State Finance and Procurement
+16 2–901.
+17 (a) In this section, “State contract” means any agreement entered into by the
+18 State.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0453*
+2 SENATE BILL 453
+1 (a–1) This section does not apply to a State contract relating to the purchase,
+2 redevelopment, or operation of a racing facility or training facility site as those terms are
+3 defined under § 10–601 of the Economic Development Article.
+4 (b) Except as required by State or federal law, a State contract may not include:
+5 (1) a provision that requires the State to indemnify, defend, or hold
+6 harmless another person without an appropriation of State funds for that purpose;
+7 (2) a provision by which the State agrees to binding arbitration or any
+8 other binding extrajudicial dispute resolution process;
+9 (3) a provision that names a jurisdiction or venue for any action or dispute
+10 against the State other than a court of proper jurisdiction in the State;
+11 (4) a provision that requires the State to agree to limit the liability for any
+12 direct loss to the State for bodily injury, death, or damage to REAL PROPERTY OR
+13 TANGIBLE PERSONAL property of the State caused by the negligence, intentional or willful
+14 misconduct, fraudulent act, recklessness, or other tortious conduct of a person or a person’s
+15 employees or agents or a provision that would otherwise impose an indemnification
+16 obligation on the State;
+17 (5) a provision that requires the State to be bound by a term or condition
+18 that:
+19 (i) is unknown to the State at the time of signing a contract;
+20 (ii) may be unilaterally changed by the other party; or
+21 (iii) is electronically accepted by a State employee without authority;
+22 (6) a provision that provides for a person other than the Attorney General
+23 of Maryland to serve as legal counsel for the State, unless provided under § 6–106 of the
+24 State Government Article;
+25 (7) a provision that is inconsistent with the State’s obligations under Title
+26 3 or 4 of the General Provisions Article;
+27 (8) a provision prohibited under § 7–237 of this article;
+28 (9) a provision for automatic renewal that obligates the State to allocate
+29 funding in subsequent fiscal years; or
+30 (10) a provision that limits the State’s ability to recover the DIFFERENCE
+31 IN THE cost of a replacement contractor TO PERFORM THE SERVICES NOT PERFORMED
+32 BY THE ORIGINAL CONTRACTOR, TO THE EXTENT THAT THE SUM OF THE AMOUNT
+SENATE BILL 453 3
+1 PAID TO THE REPLACEMENT CONTRACTOR AND THE AMOUNT PAID TO THE
+2 ORIGINAL CONTRACTOR EXCEED THE COSTS PROVIDED FOR IN THE CONTRACT WITH
+3 THE ORIGINAL CONTRACTOR.
+4 (c) If a State contract contains a provision listed under subsection (b) of this
+5 section, the provision is void ab initio and the contract containing that provision shall be
+6 enforceable as if it did not contain the provision.
+7 (d) A State contract that contains a provision listed under subsection (b) of this
+8 section shall be governed by and construed in accordance with State law, notwithstanding
+9 any term or condition to the contrary in the contract.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5   C A S F t p o c a p o i i S c p p t l o l f d t c p c a p r t t u o r c u c c a g B  A S  A  (  S T A 2  ( I S]
+[DELETED:  S   ( T s d n a t a S c r t t p r d  ( E   ( a p t r t S t i d o h h   ( a p b t S a t b o a o   ( a a   ( a d l t t S f b i d o d t P O p m e o a o a p t w o i a i o   ( a t    ( i    ( m    ( i   ( a o S   ( a 3   ( a   ( a f   ( aET  R ]
+[DELETED: S 3 T T R C A T A P T T .  ( I a S c c a p l u s ( o t s e  ( A s a  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 453
+P2 5lr2934
+CF HB 507
+By: Senator King
+Introduced and read first time: January 21, 2025
+Assigned to: Budget and Taxation
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 21, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 State Contracts – Prohibited Provisions
+3 FOR the purpose of clarifying a prohibition on including in State contracts provisions
+4 pertaining to limitations of liability for damage to certain property; clarifying a
+5 prohibition on including in State contracts provisions limiting the recovery of costs
+6 related to the use of replacement contractors under certain circumstances; and
+7 generally relating to prohibited provisions in State contracts.
+8 BY repealing and reenacting, with amendments,
+9 Article – State Finance and Procurement
+10 Section 2–901
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – State Finance and Procurement
+16 2–901.
+17 (a) In this section, “State contract” means any agreement entered into by the
+18 State.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0453*
+
+2 SENATE BILL 453
+1 (a–1) This section does not apply to a State contract relating to the purchase,
+2 redevelopment, or operation of a racing facility or training facility site as those terms are
+3 defined under § 10–601 of the Economic Development Article.
+4 (b) Except as required by State or federal law, a State contract may not include:
+5 (1) a provision that requires the State to indemnify, defend, or hold
+6 harmless another person without an appropriation of State funds for that purpose;
+7 (2) a provision by which the State agrees to binding arbitration or any
+8 other binding extrajudicial dispute resolution process;
+9 (3) a provision that names a jurisdiction or venue for any action or dispute
+10 against the State other than a court of proper jurisdiction in the State;
+11 (4) a provision that requires the State to agree to limit the liability for any
+12 direct loss to the State for bodily injury, death, or damage to REAL PROPERTY OR
+13 TANGIBLE PERSONAL property of the State caused by the negligence, intentional or willful
+14 misconduct, fraudulent act, recklessness, or other tortious conduct of a person or a person’s
+15 employees or agents or a provision that would otherwise impose an indemnification
+16 obligation on the State;
+17 (5) a provision that requires the State to be bound by a term or condition
+18 that:
+19 (i) is unknown to the State at the time of signing a contract;
+20 (ii) may be unilaterally changed by the other party; or
+21 (iii) is electronically accepted by a State employee without authority;
+22 (6) a provision that provides for a person other than the Attorney General
+23 of Maryland to serve as legal counsel for the State, unless provided under § 6–106 of the
+24 State Government Article;
+25 (7) a provision that is inconsistent with the State’s obligations under Title
+26 3 or 4 of the General Provisions Article;
+27 (8) a provision prohibited under § 7–237 of this article;
+28 (9) a provision for automatic renewal that obligates the State to allocate
+29 funding in subsequent fiscal years; or
+30 (10) a provision that limits the State’s ability to recover the DIFFERENCE
+31 IN THE cost of a replacement contractor TO PERFORM THE SERVICES NOT PERFORMED
+32 BY THE ORIGINAL CONTRACTOR, TO THE EXTENT THAT THE SUM OF THE AMOUNT
+
+SENATE BILL 453 3
+1 PAID TO THE REPLACEMENT CONTRACTOR AND THE AMOUNT PAID TO THE
+2 ORIGINAL CONTRACTOR EXCEED THE COSTS PROVIDED FOR IN THE CONTRACT WITH
+3 THE ORIGINAL CONTRACTOR.
+4 (c) If a State contract contains a provision listed under subsection (b) of this
+5 section, the provision is void ab initio and the contract containing that provision shall be
+6 enforceable as if it did not contain the provision.
+7 (d) A State contract that contains a provision listed under subsection (b) of this
+8 section shall be governed by and construed in accordance with State law, notwithstanding
+9 any term or condition to the contrary in the contract.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5   C A S F t p o c a p o i i S c p p t l o l f d t c p c a p r t t u o r c u c c a g B  A S  A  (  S T A 2  ( I S]
+[DELETED:  S   ( T s d n a t a S c r t t p r d  ( E   ( a p t r t S t i d o h h   ( a p b t S a t b o a o   ( a a   ( a d l t t S f b i d o d t P O p m e o a o a p t w o i a i o   ( a t    ( i    ( m    ( i   ( a o S   ( a 3   ( a   ( a f   ( aET  R ]
+[DELETED: S 3 T T R C A T A P T T .  ( I a S c c a p l u s ( o t s e  ( A s a  S A B I F E T t A s t e O          G               ]

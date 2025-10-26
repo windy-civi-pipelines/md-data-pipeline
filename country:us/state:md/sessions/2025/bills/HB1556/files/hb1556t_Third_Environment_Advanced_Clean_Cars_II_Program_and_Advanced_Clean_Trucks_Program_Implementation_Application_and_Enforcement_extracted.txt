@@ -1,0 +1,333 @@
+Title: HOUSE BILL 1556
+Official Title: HOUSE BILL 1556
+Number of Sections: 1
+Source: versions - Third - Environment - Advanced Clean Cars II Program and Advanced Clean Trucks Program - Implementation, Application, and Enforcement
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+M3 5lr3648
+By: Delegate Stein
+Rules suspended
+Introduced and read first time: February 26, 2025
+Assigned to: Rules and Executive Nominations
+Re–referred to: Environment and Transportation, February 27, 2025
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 21, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Environment – Advanced Clean Cars II Program and Advanced Clean Trucks
+3 Regulation Program – Application Implementation, Application, and
+4 Enforcement
+5 FOR the purpose of prohibiting the Department of the Environment from implementing
+6 the Advanced Clean Trucks Program until a certain needs assessment and
+7 deployment plan is published, subject to certain conditions; prohibiting authorizing
+8 the Department of the Environment from applying to apply certain enforcement or
+9 penalty provisions to a motor vehicle manufacturer for failing to meet any
+10 requirements under the California Advanced Clean Cars II Program or the Advanced
+11 Clean Trucks regulation for certain model years only under certain circumstances;
+12 and generally relating to the application of and enforcement under the California
+13 Advanced Clean Cars II Program and Advanced Clean Trucks regulation Program.
+14 BY repealing and reenacting, without amendments,
+15 Article – Environment
+16 Section 2–1103.1(b) and (c)
+17 Annotated Code of Maryland
+18 (2013 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Environment
+21 Section 2–1103.1(d) and 2–1106
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1556*
+2 HOUSE BILL 1556
+1 Annotated Code of Maryland
+2 (2013 Replacement Volume and 2024 Supplement)
+3 Preamble
+4 WHEREAS, Chapters 96 and 97 of 2023 (Clean Trucks Act of 2023) required the
+5 Department of the Environment to adopt regulations to incorporate by reference the
+6 California Air Resources Board’s (CARB) Advanced Clean Trucks (ACT) regulations; and
+7 WHEREAS, The Clean Trucks Act of 2023 required the Department of the
+8 Environment to participate in an interagency needs assessment for the purpose of
+9 informing, in accordance with § 2–1103.1(d) of the Environment Article, what model year
+10 the State should begin implementing the ACT regulations; and
+11 WHEREAS, The needs assessment was due by December 1, 2024, and as of April 1,
+12 2025, the needs assessment has not been completed; and
+13 WHEREAS, The Department of the Environment adopted CARB’s Advanced Clean
+14 Cars II (ACC II) regulations effective September 18, 2023; and
+15 WHEREAS, President Donald J. Trump issued federal Executive Order 14154,
+16 calling for the termination of state emissions waivers that authorize ACC II; and
+17 WHEREAS, The federal government has purportedly withheld state funding for the
+18 National Electric Vehicle Infrastructure Formula Program; now, therefore,
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Environment
+22 2–1103.1.
+23 (b) (1) On or before December 1, 2023, the Department shall adopt regulations
+24 establishing requirements for the sale of new zero–emission medium– and heavy–duty
+25 vehicles in the State.
+26 (2) The regulations adopted under paragraph (1) of this subsection shall:
+27 (i) Update existing regulations;
+28 (ii) Incorporate by reference the California Air Resources Board’s
+29 Advanced Clean Trucks regulations, as revised and updated; and
+30 (iii) Subject to subsection (d) of this section, take effect starting with
+31 model year 2027.
+HOUSE BILL 1556 3
+1 (c) (1) The Department, in consultation with the Department of
+2 Transportation, the Department of General Services, the Maryland Energy
+3 Administration, and the Public Service Commission, shall prepare a needs assessment and
+4 deployment plan relating to the successful implementation of regulations adopted under
+5 this section.
+6 (2) The needs assessment and deployment plan shall assess and plan for:
+7 (i) The additional electrical capacity, transmission, distribution
+8 demands, and hydrogen fueling demands that will result from implementation of the
+9 regulations, and the ability of the State’s electric utilities, grid, and hydrogen
+10 infrastructure to meet those demands, based on publicly available information and existing
+11 analyses;
+12 (ii) The number of zero–emission medium– and heavy–duty vehicle
+13 recharging and refueling stations recommended for implementation of the regulations, and
+14 the costs, permitting processes, and timelines for installing those stations;
+15 (iii) The purchase incentives and other mechanisms recommended
+16 for successful implementation of the regulations, including incentives for recharging and
+17 refueling stations and related infrastructure, and the existing and potential sources of
+18 funding for those incentives and mechanisms; and
+19 (iv) The timeline, economic feasibility, and models available for
+20 transitioning medium– and heavy–duty vehicles in the State vehicle fleet, including
+21 State–contracted medium– and heavy–duty vehicles, to zero–emission vehicles.
+22 (3) On or before December 1, 2024, the Department shall submit the needs
+23 assessment and deployment plan to the General Assembly in accordance with § 2–1257 of
+24 the State Government Article.
+25 (d) (1) The Department may delay implementation of the regulations
+26 authorized under this section by one or more model years if, after consulting with the
+27 Department of Transportation, the Department of General Services, the Maryland Energy
+28 Administration, and the Public Service Commission, the Department determines, based on
+29 criteria identified through the needs assessment and deployment plan, that
+30 implementation of the regulations is not yet feasible.
+31 (2) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE
+32 DEPARTMENT MAY NOT IMPLEMENT THE REGULATIONS AUTHORIZED UNDER THIS
+33 SECTION UNTIL THE NEEDS ASSESSMENT AND DEPLOYMENT PLAN IS PUBLISHED.
+34 (II) 1. IF THE NEEDS ASSESSMENT AND DEPLOYMENT PLAN
+35 IS PUBLISHED ON OR BEFORE DECEMBER 1, 2025, THE DEPARTMENT MAY
+36 IMPLEMENT THE REGULATIONS BEGINNING WITH MODEL YEAR 2028.
+4 HOUSE BILL 1556
+1 2. IF THE NEEDS ASSESSMENT AND DEPLOYMENT PLAN
+2 IS PUBLISHED AFTER DECEMBER 1, 2025, THE DEPARTMENT MAY IMPLEMENT THE
+3 REGULATIONS BEGINNING WITH MODEL YEAR 2029.
+4 2–1106.
+5 (a) (1) [The] EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+6 SUBSECTION, THE enforcement and penalty provisions of Subtitle 6 of this title shall apply
+7 to a violation of this subtitle.
+8 (2) THE DEPARTMENT MAY NOT APPLY THE ENFORCEMENT OR
+9 PENALTY PROVISIONS OF SUBTITLE 6 OF THIS TITLE FOR FAILURE TO MEET ANY
+10 REQUIREMENTS UNDER THE CALIFORNIA ADVANCED CLEAN CARS II PROGRAM OR
+11 THE ADVANCED CLEAN TRUCKS REGULATIONS FOR THE FOLLOWING MODEL
+12 YEARS:
+13 (I) 2027; AND
+14 (II) 2028.
+15 (2) THE DEPARTMENT MAY APPLY THE ENFORCEMENT OR PENALTY
+16 PROVISIONS OF SUBTITLE 6 OF THIS TITLE TO A MOTOR VEHICLE MANUFACTURER
+17 FOR FAILURE TO MEET ANY REQUIREMENTS UNDER THE ADVANCED CLEAN CARS II
+18 PROGRAM FOR MODEL YEAR 2027 OR MODEL YEAR 2028 ONLY IF:
+19 (I) THE DEPARTMENT IS CARRYING OUT IMPLEMENTATION OR
+20 ENFORCEMENT PENALTIES THAT HAVE BEEN AGREED ON BY MOTOR VEHICLE
+21 MANUFACTURERS REPRESENTING AT LEAST 40% OF THE STATE’S MARKET SHARE
+22 FOR PASSENGER CARS AND LIGHT TRUCK VEHICLES SUBJECT TO ACC II IN THE
+23 STATE FOR THE CALENDAR YEAR IMMEDIATELY PRECEDING THE AGREEMENT; AND
+24 (II) 1. FOR MODEL YEAR 2027, THE MOTOR VEHICLE
+25 MANUFACTURERS ENTERED INTO THE AGREEMENT BETWEEN JANUARY 1, 2025,
+26 AND JANUARY 1, 2026, INCLUSIVE; OR
+27 2. FOR MODEL YEAR 2028, THE MOTOR VEHICLE
+28 MANUFACTURERS ENTERED INTO THE AGREEMENT BETWEEN JANUARY 1, 2025,
+29 AND JANUARY 1, 2027, INCLUSIVE.
+30 (b) Each transfer or attempted transfer of a motor vehicle or motor vehicle engine
+31 in violation of § 2–1104(b) of this subtitle shall constitute a separate violation of the
+32 provisions of this subtitle.
+HOUSE BILL 1556 5
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act may not be construed
+2 to have any effect on the annual percentage sales targets established under the Advanced
+3 Clean Cars II Program or the Advanced Clean Trucks Program.
+4 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5     A E R E F t A C T P u a c n a a d t p p t a m v m f f t m a r C a A B  A  S  A  ( B  A S]
+[DELETED:  H   A  ( P  W D o t E t a r t i b r t C  W T C T A o 2 r t D o t E t p i a i n a f t p o i t  W 2  W C  W P D J T i f E O 1 c  W N  S T A 2  ( ( O e r f t s o n z a h v   ( T    ( U    ( I b r t C A R B A    ( S m]
+[DELETED: H 3  ( ( T D i c w t D o T t D o G S t M E A d t   ( T    ( T a e c t d d a h f d t w r f i o t r a t a o t S e u g a h i a    ( T r t    ( T p i a o m r f r s a r i a t e a p s o f    ( T t e f a m a f t m a h v i t S v f i S   ( O a t  (  T D m d i o t r a m D A c i t t n a a d p t i    )()S()U II H       )1.IF P O O B E   T E M1,2, ]
+[DELETED:  H      . E    E1,2,   2  ( T []E(X A P I P  O TN    t    T E M N A T E O U    A D L A  RACCII  D L R R F T F MC      ) 2     ) 2 ()T  E U   D L A CCI2728         )TH E P T H B A O B M V   TES%S   CIT       )1.F2IO M Y  T M V E I T A B A  1,2 A   E 1,2,      .F2 M Y  T M V E I T A B A  1,2 A   1,2,    ( E i v o § 2 o t s s c a s v o t p]
+[DELETED: H 5  S t C  S O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1556
+M3 5lr3648
+By: Delegate Stein
+Rules suspended
+Introduced and read first time: February 26, 2025
+Assigned to: Rules and Executive Nominations
+Re–referred to: Environment and Transportation, February 27, 2025
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 21, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Environment – Advanced Clean Cars II Program and Advanced Clean Trucks
+3 Regulation Program – Application Implementation, Application, and
+4 Enforcement
+5 FOR the purpose of prohibiting the Department of the Environment from implementing
+6 the Advanced Clean Trucks Program until a certain needs assessment and
+7 deployment plan is published, subject to certain conditions; prohibiting authorizing
+8 the Department of the Environment from applying to apply certain enforcement or
+9 penalty provisions to a motor vehicle manufacturer for failing to meet any
+10 requirements under the California Advanced Clean Cars II Program or the Advanced
+11 Clean Trucks regulation for certain model years only under certain circumstances;
+12 and generally relating to the application of and enforcement under the California
+13 Advanced Clean Cars II Program and Advanced Clean Trucks regulation Program.
+14 BY repealing and reenacting, without amendments,
+15 Article – Environment
+16 Section 2–1103.1(b) and (c)
+17 Annotated Code of Maryland
+18 (2013 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Environment
+21 Section 2–1103.1(d) and 2–1106
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1556*
+
+2 HOUSE BILL 1556
+1 Annotated Code of Maryland
+2 (2013 Replacement Volume and 2024 Supplement)
+3 Preamble
+4 WHEREAS, Chapters 96 and 97 of 2023 (Clean Trucks Act of 2023) required the
+5 Department of the Environment to adopt regulations to incorporate by reference the
+6 California Air Resources Board’s (CARB) Advanced Clean Trucks (ACT) regulations; and
+7 WHEREAS, The Clean Trucks Act of 2023 required the Department of the
+8 Environment to participate in an interagency needs assessment for the purpose of
+9 informing, in accordance with § 2–1103.1(d) of the Environment Article, what model year
+10 the State should begin implementing the ACT regulations; and
+11 WHEREAS, The needs assessment was due by December 1, 2024, and as of April 1,
+12 2025, the needs assessment has not been completed; and
+13 WHEREAS, The Department of the Environment adopted CARB’s Advanced Clean
+14 Cars II (ACC II) regulations effective September 18, 2023; and
+15 WHEREAS, President Donald J. Trump issued federal Executive Order 14154,
+16 calling for the termination of state emissions waivers that authorize ACC II; and
+17 WHEREAS, The federal government has purportedly withheld state funding for the
+18 National Electric Vehicle Infrastructure Formula Program; now, therefore,
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Environment
+22 2–1103.1.
+23 (b) (1) On or before December 1, 2023, the Department shall adopt regulations
+24 establishing requirements for the sale of new zero–emission medium– and heavy–duty
+25 vehicles in the State.
+26 (2) The regulations adopted under paragraph (1) of this subsection shall:
+27 (i) Update existing regulations;
+28 (ii) Incorporate by reference the California Air Resources Board’s
+29 Advanced Clean Trucks regulations, as revised and updated; and
+30 (iii) Subject to subsection (d) of this section, take effect starting with
+31 model year 2027.
+
+HOUSE BILL 1556 3
+1 (c) (1) The Department, in consultation with the Department of
+2 Transportation, the Department of General Services, the Maryland Energy
+3 Administration, and the Public Service Commission, shall prepare a needs assessment and
+4 deployment plan relating to the successful implementation of regulations adopted under
+5 this section.
+6 (2) The needs assessment and deployment plan shall assess and plan for:
+7 (i) The additional electrical capacity, transmission, distribution
+8 demands, and hydrogen fueling demands that will result from implementation of the
+9 regulations, and the ability of the State’s electric utilities, grid, and hydrogen
+10 infrastructure to meet those demands, based on publicly available information and existing
+11 analyses;
+12 (ii) The number of zero–emission medium– and heavy–duty vehicle
+13 recharging and refueling stations recommended for implementation of the regulations, and
+14 the costs, permitting processes, and timelines for installing those stations;
+15 (iii) The purchase incentives and other mechanisms recommended
+16 for successful implementation of the regulations, including incentives for recharging and
+17 refueling stations and related infrastructure, and the existing and potential sources of
+18 funding for those incentives and mechanisms; and
+19 (iv) The timeline, economic feasibility, and models available for
+20 transitioning medium– and heavy–duty vehicles in the State vehicle fleet, including
+21 State–contracted medium– and heavy–duty vehicles, to zero–emission vehicles.
+22 (3) On or before December 1, 2024, the Department shall submit the needs
+23 assessment and deployment plan to the General Assembly in accordance with § 2–1257 of
+24 the State Government Article.
+25 (d) (1) The Department may delay implementation of the regulations
+26 authorized under this section by one or more model years if, after consulting with the
+27 Department of Transportation, the Department of General Services, the Maryland Energy
+28 Administration, and the Public Service Commission, the Department determines, based on
+29 criteria identified through the needs assessment and deployment plan, that
+30 implementation of the regulations is not yet feasible.
+31 (2) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE
+32 DEPARTMENT MAY NOT IMPLEMENT THE REGULATIONS AUTHORIZED UNDER THIS
+33 SECTION UNTIL THE NEEDS ASSESSMENT AND DEPLOYMENT PLAN IS PUBLISHED.
+34 (II) 1. IF THE NEEDS ASSESSMENT AND DEPLOYMENT PLAN
+35 IS PUBLISHED ON OR BEFORE DECEMBER 1, 2025, THE DEPARTMENT MAY
+36 IMPLEMENT THE REGULATIONS BEGINNING WITH MODEL YEAR 2028.
+
+4 HOUSE BILL 1556
+1 2. IF THE NEEDS ASSESSMENT AND DEPLOYMENT PLAN
+2 IS PUBLISHED AFTER DECEMBER 1, 2025, THE DEPARTMENT MAY IMPLEMENT THE
+3 REGULATIONS BEGINNING WITH MODEL YEAR 2029.
+4 2–1106.
+5 (a) (1) [The] EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+6 SUBSECTION, THE enforcement and penalty provisions of Subtitle 6 of this title shall apply
+7 to a violation of this subtitle.
+8 (2) THE DEPARTMENT MAY NOT APPLY THE ENFORCEMENT OR
+9 PENALTY PROVISIONS OF SUBTITLE 6 OF THIS TITLE FOR FAILURE TO MEET ANY
+10 REQUIREMENTS UNDER THE CALIFORNIA ADVANCED CLEAN CARS II PROGRAM OR
+11 THE ADVANCED CLEAN TRUCKS REGULATIONS FOR THE FOLLOWING MODEL
+12 YEARS:
+13 (I) 2027; AND
+14 (II) 2028.
+15 (2) THE DEPARTMENT MAY APPLY THE ENFORCEMENT OR PENALTY
+16 PROVISIONS OF SUBTITLE 6 OF THIS TITLE TO A MOTOR VEHICLE MANUFACTURER
+17 FOR FAILURE TO MEET ANY REQUIREMENTS UNDER THE ADVANCED CLEAN CARS II
+18 PROGRAM FOR MODEL YEAR 2027 OR MODEL YEAR 2028 ONLY IF:
+19 (I) THE DEPARTMENT IS CARRYING OUT IMPLEMENTATION OR
+20 ENFORCEMENT PENALTIES THAT HAVE BEEN AGREED ON BY MOTOR VEHICLE
+21 MANUFACTURERS REPRESENTING AT LEAST 40% OF THE STATE’S MARKET SHARE
+22 FOR PASSENGER CARS AND LIGHT TRUCK VEHICLES SUBJECT TO ACC II IN THE
+23 STATE FOR THE CALENDAR YEAR IMMEDIATELY PRECEDING THE AGREEMENT; AND
+24 (II) 1. FOR MODEL YEAR 2027, THE MOTOR VEHICLE
+25 MANUFACTURERS ENTERED INTO THE AGREEMENT BETWEEN JANUARY 1, 2025,
+26 AND JANUARY 1, 2026, INCLUSIVE; OR
+27 2. FOR MODEL YEAR 2028, THE MOTOR VEHICLE
+28 MANUFACTURERS ENTERED INTO THE AGREEMENT BETWEEN JANUARY 1, 2025,
+29 AND JANUARY 1, 2027, INCLUSIVE.
+30 (b) Each transfer or attempted transfer of a motor vehicle or motor vehicle engine
+31 in violation of § 2–1104(b) of this subtitle shall constitute a separate violation of the
+32 provisions of this subtitle.
+
+HOUSE BILL 1556 5
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act may not be construed
+2 to have any effect on the annual percentage sales targets established under the Advanced
+3 Clean Cars II Program or the Advanced Clean Trucks Program.
+4 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5     A E R E F t A C T P u a c n a a d t p p t a m v m f f t m a r C a A B  A  S  A  ( B  A S]
+[DELETED:  H   A  ( P  W D o t E t a r t i b r t C  W T C T A o 2 r t D o t E t p i a i n a f t p o i t  W 2  W C  W P D J T i f E O 1 c  W N  S T A 2  ( ( O e r f t s o n z a h v   ( T    ( U    ( I b r t C A R B A    ( S m]
+[DELETED: H 3  ( ( T D i c w t D o T t D o G S t M E A d t   ( T    ( T a e c t d d a h f d t w r f i o t r a t a o t S e u g a h i a    ( T r t    ( T p i a o m r f r s a r i a t e a p s o f    ( T t e f a m a f t m a h v i t S v f i S   ( O a t  (  T D m d i o t r a m D A c i t t n a a d p t i    )()S()U II H       )1.IF P O O B E   T E M1,2, ]
+[DELETED:  H      . E    E1,2,   2  ( T []E(X A P I P  O TN    t    T E M N A T E O U    A D L A  RACCII  D L R R F T F MC      ) 2     ) 2 ()T  E U   D L A CCI2728         )TH E P T H B A O B M V   TES%S   CIT       )1.F2IO M Y  T M V E I T A B A  1,2 A   E 1,2,      .F2 M Y  T M V E I T A B A  1,2 A   1,2,    ( E i v o § 2 o t s s c a s v o t p]
+[DELETED: H 5  S t C  S O          G               ]

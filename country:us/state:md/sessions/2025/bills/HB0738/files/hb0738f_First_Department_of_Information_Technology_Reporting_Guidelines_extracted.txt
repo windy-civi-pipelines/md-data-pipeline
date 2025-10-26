@@ -1,0 +1,272 @@
+Title: HOUSE BILL 738
+Official Title: HOUSE BILL 738
+Number of Sections: 1
+Source: versions - First - Department of Information Technology - Reporting Guidelines
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+S1 5lr2987
+CF 5lr2986
+By: Delegates Kaiser, Bartlett, Feldmark, Hill, Kerr, and Kipke
+Introduced and read first time: January 27, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Department of Information Technology – Reporting Guidelines
+3 FOR the purpose of altering the content of certain reports by the Department of
+4 Information Technology relating to the Information Technology Investment Fund;
+5 requiring the reports to be written and structured in a certain manner and made
+6 publicly available on the Department’s website; and generally relating to reporting
+7 by the Department of Information Technology.
+8 BY repealing and reenacting, without amendments,
+9 Article – State Finance and Procurement
+10 Section 3.5–309(a)
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – State Finance and Procurement
+15 Section 3.5–309(n) and (o)
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2024 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – State Finance and Procurement
+21 3.5–309.
+22 (a) There is an Information Technology Investment Fund.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0738*
+2 HOUSE BILL 738
+1 (n) (1) On or before [November] OCTOBER 1 of each year, the Secretary shall
+2 report to the Governor and the Secretary of Budget and Management and, in accordance
+3 with § 2–1257 of the State Government Article, to the Senate Budget and Taxation
+4 Committee, the Senate Committee on Education, Energy, and the Environment, the House
+5 Appropriations Committee, the House Health and Government Operations Committee, and
+6 the Joint Committee on Cybersecurity, Information Technology, and Biotechnology.
+7 (2) The report shall include:
+8 (i) the financial status of the Fund and a summary of its operations
+9 for the preceding fiscal year;
+10 (ii) an accounting for the preceding fiscal year of all money from each
+11 of the revenue sources specified in subsection (e) of this section, including any expenditures
+12 made from the Fund; and
+13 (iii) for each project receiving money from the Fund in the preceding
+14 fiscal year and for each major information technology development project or expedited
+15 project receiving funding from any source other than the Fund in the preceding fiscal year:
+16 1. A BRIEF DESCRIPTION OF THE PROJECT, INCLUDING
+17 MAJOR CUSTOMERS AND INTERDEPENDENCIES WITH OTHER SYSTEMS;
+18 2. AN ANALYSIS OF HOW THE PROJECT GOALS PROVIDE
+19 AN ADVANTAGE OVER CURRENT AGENCY OPERATIONS, INCLUDING A DESCRIPTION
+20 OF KEY PROJECT GOALS, CRITICAL SUCCESS FACTORS, HOW THE PROJECT
+21 SUPPORTS THE BUSINESS PROCESS, AND WHETHER THE SUCCESSFUL PROJECT
+22 WILL PROVIDE A BASIS FOR A FUTURE PROJECT AT THE SAME OR ANY OTHER UNIT
+23 OF STATE GOVERNMENT;
+24 3. A DESCRIPTION OF TECHNOLOGIES EMPLOYED IN
+25 THE PROJECT;
+26 4. AN ASSESSMENT OF THE VENDOR POOL OF LIKELY
+27 BIDDERS OR OFFERORS;
+28 5. A DESCRIPTION OF THE PROCESS USED TO DEVELOP
+29 THE PROJECT;
+30 6. AN OVERVIEW OF THE PROJECT SCHEDULE,
+31 INCLUDING ANY INTERMEDIATE PROJECT DEADLINES;
+32 [1.] 7. the status of the project and project funding
+33 decisions;
+HOUSE BILL 738 3
+1 [2.] 8. a comparison of estimated and actual costs of the
+2 project;
+3 [3.] 9. any known or anticipated changes in scope or costs
+4 of the project;
+5 10. A DESCRIPTION OF ANY ONGOING OPERATING
+6 EXPENSES AS A RESULT OF THE PROJECT AND A TIMELINE OF WHEN THOSE COSTS
+7 WILL BE INCURRED;
+8 [4.] 11. an evaluation of whether the project is using best
+9 practices; and
+10 [5.] 12. a summary of any monitoring and oversight of the
+11 project from outside the agency in which the project is being developed, including a
+12 description of any problems identified by any external review and any corrective actions
+13 taken.
+14 (3) THE REPORT SUBMITTED UNDER THIS SUBSECTION SHALL BE:
+15 (I) WRITTEN, AS PRACTICABLE, IN A MANNER THAT IS CLEAR,
+16 CONCISE, AND WELL–ORGANIZED AND AVOIDS TECHNICAL JARGON;
+17 (II) STRUCTURED TO INCLUDE AN EXECUTIVE SUMMARY OF KEY
+18 INFORMATION THAT HIGHLIGHTS ACTION ITEMS AND DECISION POINTS; AND
+19 (III) MADE PUBLICLY AVAILABLE ON THE DEPARTMENT’S
+20 WEBSITE.
+21 (o) (1) On or before January 15 of each year, for each major information
+22 technology development project or expedited project currently in development or for which
+23 operations and maintenance funding is being provided in accordance with subsection (i)(3)
+24 of this section, subject to § 2–1257 of the State Government Article, the Secretary shall
+25 provide a summary report to the Department of Legislative Services with the most
+26 up–to–date project information including:
+27 [(1)] (I) project funding decisions and project status, INCLUDING:
+28 1. ANNUAL DEVELOPMENT COSTS;
+29 2. FUNDING SOURCES; AND
+30 3. ONGOING OPERATING COSTS, INCLUDING LICENSES
+31 AND SUPPORT TO MAINTAIN AND UPDATE THE SYSTEM;
+4 HOUSE BILL 738
+1 [(2)] (II) any schedule, cost, and scope changes since the [last annual]
+2 report REQUIRED UNDER SUBSECTION (N) OF THIS SECTION WAS SUBMITTED;
+3 [(3)] (III) a risk assessment THAT GIVES A DETAILED DESCRIPTION OF
+4 THE RISK IDENTIFIED, including:
+5 1. TYPE OF RISK IDENTIFIED, INCLUDING AGENCY
+6 GOVERNANCE, STAFF RESOURCE AVAILABILITY OR TRAINING, FUNDING,
+7 INTERDEPENDENCIES WITH OTHER SYSTEMS, TECHNICAL ISSUES,
+8 ORGANIZATIONAL CULTURE, OR LONG–TERM SUPPORTABILITY; AND
+9 2. any problems identified by any internal or external review
+10 and any corrective actions taken; [and]
+11 (IV) PROJECT TRACKING METRICS, INCLUDING:
+12 1. PROJECT DEADLINES AND ASSOCIATED
+13 DELIVERABLES; AND
+14 2. A DESCRIPTION OF ANY CHANGES IN SCOPE,
+15 TIMELINE, AND COSTS; AND
+16 [(4)] (V) any change in the monitoring or oversight status.
+17 (2) THE REPORT SUBMITTED UNDER THIS SUBSECTION SHALL BE:
+18 (I) WRITTEN, AS PRACTICABLE, IN A MANNER THAT IS CLEAR,
+19 CONCISE, AND WELL–ORGANIZED AND AVOIDS TECHNICAL JARGON;
+20 (II) STRUCTURED TO INCLUDE AN EXECUTIVE SUMMARY OF KEY
+21 INFORMATION THAT HIGHLIGHTS ACTION ITEMS AND DECISION POINTS; AND
+22 (III) MADE PUBLICLY AVAILABLE ON THE DEPARTMENT’S
+23 WEBSITE.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+25 1, 2025.
+[DELETED: :CA      5   C A D F t p o a t c o c r b t D o I r p b B  A S  A  ( B  A S  A  (  S T A 3  ( T]
+[DELETED:  H   ( ( O Nr ]C r w § 2 o t S G A t t S B a T C A t   ( T    ( t f    ( a o m    ( f f p     .T S   2S  K P GS C S FS H T P T B PS A W T S P TT;   3 D O T E IT   4 A O T V P O LS   5T   6  O O T P SES     1. t s o t p a p f]7 d]
+[DELETED: H 3     2.  a]8 p     3.  a]9 o     D O A O OD     4. a]1 p     5. a]1 p f o t a i w t p i b d i a d t   T:  () ,,WN E RE LON–;  ()ISS   () DIM P A O T ETS  ( O o b J 1 o e y f e m i t o o p a s r t t D o L S w t m u   () p] (),: G   1 ;S   2 ;S    3  O CS I L ]
+[DELETED:  H    () a s c a s c s t l al] ()[ rt; N    () a] (I D : i   1  O R ID I AE S R A O TG FG, W O SS T ISE GTY –;   2 a a a]  () ,:VPS G   1 D A AS    2  D O A C I SEE S ;   () a] (   T:  () ,,WN E RE LON–;  ()ISS   () DIM P A O T ETSE  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 738
+S1 5lr2987
+CF 5lr2986
+By: Delegates Kaiser, Bartlett, Feldmark, Hill, Kerr, and Kipke
+Introduced and read first time: January 27, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Department of Information Technology – Reporting Guidelines
+3 FOR the purpose of altering the content of certain reports by the Department of
+4 Information Technology relating to the Information Technology Investment Fund;
+5 requiring the reports to be written and structured in a certain manner and made
+6 publicly available on the Department’s website; and generally relating to reporting
+7 by the Department of Information Technology.
+8 BY repealing and reenacting, without amendments,
+9 Article – State Finance and Procurement
+10 Section 3.5–309(a)
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – State Finance and Procurement
+15 Section 3.5–309(n) and (o)
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2024 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – State Finance and Procurement
+21 3.5–309.
+22 (a) There is an Information Technology Investment Fund.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0738*
+
+2 HOUSE BILL 738
+1 (n) (1) On or before [November] OCTOBER 1 of each year, the Secretary shall
+2 report to the Governor and the Secretary of Budget and Management and, in accordance
+3 with § 2–1257 of the State Government Article, to the Senate Budget and Taxation
+4 Committee, the Senate Committee on Education, Energy, and the Environment, the House
+5 Appropriations Committee, the House Health and Government Operations Committee, and
+6 the Joint Committee on Cybersecurity, Information Technology, and Biotechnology.
+7 (2) The report shall include:
+8 (i) the financial status of the Fund and a summary of its operations
+9 for the preceding fiscal year;
+10 (ii) an accounting for the preceding fiscal year of all money from each
+11 of the revenue sources specified in subsection (e) of this section, including any expenditures
+12 made from the Fund; and
+13 (iii) for each project receiving money from the Fund in the preceding
+14 fiscal year and for each major information technology development project or expedited
+15 project receiving funding from any source other than the Fund in the preceding fiscal year:
+16 1. A BRIEF DESCRIPTION OF THE PROJECT, INCLUDING
+17 MAJOR CUSTOMERS AND INTERDEPENDENCIES WITH OTHER SYSTEMS;
+18 2. AN ANALYSIS OF HOW THE PROJECT GOALS PROVIDE
+19 AN ADVANTAGE OVER CURRENT AGENCY OPERATIONS, INCLUDING A DESCRIPTION
+20 OF KEY PROJECT GOALS, CRITICAL SUCCESS FACTORS, HOW THE PROJECT
+21 SUPPORTS THE BUSINESS PROCESS, AND WHETHER THE SUCCESSFUL PROJECT
+22 WILL PROVIDE A BASIS FOR A FUTURE PROJECT AT THE SAME OR ANY OTHER UNIT
+23 OF STATE GOVERNMENT;
+24 3. A DESCRIPTION OF TECHNOLOGIES EMPLOYED IN
+25 THE PROJECT;
+26 4. AN ASSESSMENT OF THE VENDOR POOL OF LIKELY
+27 BIDDERS OR OFFERORS;
+28 5. A DESCRIPTION OF THE PROCESS USED TO DEVELOP
+29 THE PROJECT;
+30 6. AN OVERVIEW OF THE PROJECT SCHEDULE,
+31 INCLUDING ANY INTERMEDIATE PROJECT DEADLINES;
+32 [1.] 7. the status of the project and project funding
+33 decisions;
+
+HOUSE BILL 738 3
+1 [2.] 8. a comparison of estimated and actual costs of the
+2 project;
+3 [3.] 9. any known or anticipated changes in scope or costs
+4 of the project;
+5 10. A DESCRIPTION OF ANY ONGOING OPERATING
+6 EXPENSES AS A RESULT OF THE PROJECT AND A TIMELINE OF WHEN THOSE COSTS
+7 WILL BE INCURRED;
+8 [4.] 11. an evaluation of whether the project is using best
+9 practices; and
+10 [5.] 12. a summary of any monitoring and oversight of the
+11 project from outside the agency in which the project is being developed, including a
+12 description of any problems identified by any external review and any corrective actions
+13 taken.
+14 (3) THE REPORT SUBMITTED UNDER THIS SUBSECTION SHALL BE:
+15 (I) WRITTEN, AS PRACTICABLE, IN A MANNER THAT IS CLEAR,
+16 CONCISE, AND WELL–ORGANIZED AND AVOIDS TECHNICAL JARGON;
+17 (II) STRUCTURED TO INCLUDE AN EXECUTIVE SUMMARY OF KEY
+18 INFORMATION THAT HIGHLIGHTS ACTION ITEMS AND DECISION POINTS; AND
+19 (III) MADE PUBLICLY AVAILABLE ON THE DEPARTMENT’S
+20 WEBSITE.
+21 (o) (1) On or before January 15 of each year, for each major information
+22 technology development project or expedited project currently in development or for which
+23 operations and maintenance funding is being provided in accordance with subsection (i)(3)
+24 of this section, subject to § 2–1257 of the State Government Article, the Secretary shall
+25 provide a summary report to the Department of Legislative Services with the most
+26 up–to–date project information including:
+27 [(1)] (I) project funding decisions and project status, INCLUDING:
+28 1. ANNUAL DEVELOPMENT COSTS;
+29 2. FUNDING SOURCES; AND
+30 3. ONGOING OPERATING COSTS, INCLUDING LICENSES
+31 AND SUPPORT TO MAINTAIN AND UPDATE THE SYSTEM;
+
+4 HOUSE BILL 738
+1 [(2)] (II) any schedule, cost, and scope changes since the [last annual]
+2 report REQUIRED UNDER SUBSECTION (N) OF THIS SECTION WAS SUBMITTED;
+3 [(3)] (III) a risk assessment THAT GIVES A DETAILED DESCRIPTION OF
+4 THE RISK IDENTIFIED, including:
+5 1. TYPE OF RISK IDENTIFIED, INCLUDING AGENCY
+6 GOVERNANCE, STAFF RESOURCE AVAILABILITY OR TRAINING, FUNDING,
+7 INTERDEPENDENCIES WITH OTHER SYSTEMS, TECHNICAL ISSUES,
+8 ORGANIZATIONAL CULTURE, OR LONG–TERM SUPPORTABILITY; AND
+9 2. any problems identified by any internal or external review
+10 and any corrective actions taken; [and]
+11 (IV) PROJECT TRACKING METRICS, INCLUDING:
+12 1. PROJECT DEADLINES AND ASSOCIATED
+13 DELIVERABLES; AND
+14 2. A DESCRIPTION OF ANY CHANGES IN SCOPE,
+15 TIMELINE, AND COSTS; AND
+16 [(4)] (V) any change in the monitoring or oversight status.
+17 (2) THE REPORT SUBMITTED UNDER THIS SUBSECTION SHALL BE:
+18 (I) WRITTEN, AS PRACTICABLE, IN A MANNER THAT IS CLEAR,
+19 CONCISE, AND WELL–ORGANIZED AND AVOIDS TECHNICAL JARGON;
+20 (II) STRUCTURED TO INCLUDE AN EXECUTIVE SUMMARY OF KEY
+21 INFORMATION THAT HIGHLIGHTS ACTION ITEMS AND DECISION POINTS; AND
+22 (III) MADE PUBLICLY AVAILABLE ON THE DEPARTMENT’S
+23 WEBSITE.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+25 1, 2025.
+
+[DELETED: :CA      5   C A D F t p o a t c o c r b t D o I r p b B  A S  A  ( B  A S  A  (  S T A 3  ( T]
+[DELETED:  H   ( ( O Nr ]C r w § 2 o t S G A t t S B a T C A t   ( T    ( t f    ( a o m    ( f f p     .T S   2S  K P GS C S FS H T P T B PS A W T S P TT;   3 D O T E IT   4 A O T V P O LS   5T   6  O O T P SES     1. t s o t p a p f]7 d]
+[DELETED: H 3     2.  a]8 p     3.  a]9 o     D O A O OD     4. a]1 p     5. a]1 p f o t a i w t p i b d i a d t   T:  () ,,WN E RE LON–;  ()ISS   () DIM P A O T ETS  ( O o b J 1 o e y f e m i t o o p a s r t t D o L S w t m u   () p] (),: G   1 ;S   2 ;S    3  O CS I L ]
+[DELETED:  H    () a s c a s c s t l al] ()[ rt; N    () a] (I D : i   1  O R ID I AE S R A O TG FG, W O SS T ISE GTY –;   2 a a a]  () ,:VPS G   1 D A AS    2  D O A C I SEE S ;   () a] (   T:  () ,,WN E RE LON–;  ()ISS   () DIM P A O T ETSE  S 1]

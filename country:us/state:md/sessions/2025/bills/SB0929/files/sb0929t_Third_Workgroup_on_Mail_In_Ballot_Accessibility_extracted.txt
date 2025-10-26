@@ -1,0 +1,203 @@
+Title: SENATE BILL 929
+Official Title: SENATE BILL 929
+Number of Sections: 1
+Source: versions - Third - Workgroup on Mail-In Ballot Accessibility
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+G1 5lr3198
+CF HB 1097
+By: Senators Brooks, West, and Muse
+Introduced and read first time: January 28, 2025
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted with floor amendments
+Read second time: February 23, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Workgroup on Mail–In Ballot Accessibility
+3 FOR the purpose of establishing the Workgroup on Mail–In Ballot Accessibility; and
+4 generally relating to the Workgroup on Mail–In Ballot Accessibility.
+5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+6 That:
+7 (a) There is a Workgroup on Mail–In Ballot Accessibility.
+8 (b) The Workgroup consists of the following members:
+9 (1) one member of the Senate of Maryland, appointed by the President of
+10 the Senate;
+11 (2) one member of the House of Delegates, appointed by the Speaker of the
+12 House;
+13 (3) the State Administrator of Elections, or the State Administrator’s
+14 designee;
+15 (4) the Secretary of Information Technology, or the Secretary’s designee;
+16 (5) the Secretary of Disabilities, or the Secretary’s designee; and
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0929*
+2 SENATE BILL 929
+1 (6) the Director of the Governor’s Office of Homeland Security, or the
+2 Director’s designee;
+3 (7) the State Chief Information Security Officer, or the Officer’s designee;
+4 (8) the Executive Director of the Cybersecurity Association of Maryland, or
+5 the Executive Director’s designee;
+6 (9) the Director of Computer Science at the University of Maryland,
+7 Baltimore County, or the Director’s designee;
+8 (10) the Executive Director of the Maryland Developmental Disabilities
+9 Council, or the Executive Director’s designee;
+10 (7) (11) the President of the Maryland Association of Election Officials,
+11 or the President’s designee; and
+12 (6) (8) (12) the following members, appointed by the Governor:
+13 (i) one representative of Common Cause Maryland;
+14 (ii) one representative of the League of Women Voters of Maryland;
+15 (iii) one representative of the National Federation of the Blind,
+16 Maryland;
+17 (iv) one representative of the Arc of Maryland;
+18 (v) one representative of the Maryland Developmental Disabilities
+19 Council multilingual individual with expertise in election administration;
+20 (vi) one representative of Disability Rights Maryland;
+21 (vii) one representative of the Association of the Deaf;
+22 (vi) (viii) an expert in voting accessibility;
+23 (vii) (ix) an expert in election security; and
+24 (viii) (x) an expert in cybersecurity.
+25 (c) The Governor shall designate the chair of the Workgroup.
+26 (d) The State Board of Elections shall provide staff for the Workgroup.
+27 (e) A member of the Workgroup:
+SENATE BILL 929 3
+1 (1) may not receive compensation as a member of the Workgroup; but
+2 (2) is entitled to reimbursement for expenses under the Standard State
+3 Travel Regulations, as provided in the State budget.
+4 (f) The Workgroup shall:
+5 (1) examine the current processes and procedures in the State relating to
+6 mail–in ballot return, including the administrative time and costs, ballot return rates, and
+7 security issues;
+8 (2) assess the impact on voters with disabilities of requiring mail–in ballots
+9 to be returned in paper form;
+10 (3) collect information about current practices and standards for accessible
+11 alternatives to paper mail–in ballot return in other jurisdictions;
+12 (4) evaluate alternatives to paper mail–in ballot return for individuals with
+13 disabilities, including each of the following considerations:
+14 (i) accessibility;
+15 (ii) security, including options for mitigating security concerns;
+16 (iii) the potential for discrimination against voters with disabilities;
+17 (iv) the ability of voters with disabilities to vote privately and
+18 independently; and
+19 (v) the cost and feasibility of implementation; and
+20 (5) consult with additional subject matter experts as needed.
+21 (g) The Workgroup shall consult with the federal National Institute of Standards
+22 and Technology in considering cybersecurity issues related to the work of the Workgroup
+23 under subsection (f) of this section.
+24 (g) (h) On or before December 31, 2025, the Workgroup shall report its findings and
+25 recommendations, including any recommended statutory changes, to the Governor and, in
+26 accordance with § 2–1257 of the State Government Article, the General Assembly.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+28 1, 2025. It shall remain effective for a period of 1 year and 1 month and, at the end of June
+29 30, 2026, this Act, with no further action required by the General Assembly, shall be
+30 abrogated and of no further force and effect.
+[DELETED: :CA      5   C A W F t p o e t W o M B A a g  S T  ( T  ( T   ( o t   ( o H   ( t S A o E o t S A d   ( t   ( t]
+[DELETED:  S    ( t D o t G O o H S o t D   ( t   ( t t   ( t D o C S a t U o M B   ( t E D o t M D D C   ( t o   ( t    ( o    ( o    ( o r o t N F o t B M    ( o    ( o C    ( o    ( o    ( a    ( a    ( a  ( T  ( T  ( A]
+[DELETED: S 3   ( m   ( i T  ( T   ( e m s   ( a t   ( c a   ( e d    ( a    ( s    ( t    ( t a o v w d t v p a i    ( t   ( c  ( T a u  ( r a  S 1 3 2 t A w n f a r b t G A s b a]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 929
+G1 5lr3198
+CF HB 1097
+By: Senators Brooks, West, and Muse
+Introduced and read first time: January 28, 2025
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted with floor amendments
+Read second time: February 23, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Workgroup on Mail–In Ballot Accessibility
+3 FOR the purpose of establishing the Workgroup on Mail–In Ballot Accessibility; and
+4 generally relating to the Workgroup on Mail–In Ballot Accessibility.
+5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+6 That:
+7 (a) There is a Workgroup on Mail–In Ballot Accessibility.
+8 (b) The Workgroup consists of the following members:
+9 (1) one member of the Senate of Maryland, appointed by the President of
+10 the Senate;
+11 (2) one member of the House of Delegates, appointed by the Speaker of the
+12 House;
+13 (3) the State Administrator of Elections, or the State Administrator’s
+14 designee;
+15 (4) the Secretary of Information Technology, or the Secretary’s designee;
+16 (5) the Secretary of Disabilities, or the Secretary’s designee; and
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0929*
+
+2 SENATE BILL 929
+1 (6) the Director of the Governor’s Office of Homeland Security, or the
+2 Director’s designee;
+3 (7) the State Chief Information Security Officer, or the Officer’s designee;
+4 (8) the Executive Director of the Cybersecurity Association of Maryland, or
+5 the Executive Director’s designee;
+6 (9) the Director of Computer Science at the University of Maryland,
+7 Baltimore County, or the Director’s designee;
+8 (10) the Executive Director of the Maryland Developmental Disabilities
+9 Council, or the Executive Director’s designee;
+10 (7) (11) the President of the Maryland Association of Election Officials,
+11 or the President’s designee; and
+12 (6) (8) (12) the following members, appointed by the Governor:
+13 (i) one representative of Common Cause Maryland;
+14 (ii) one representative of the League of Women Voters of Maryland;
+15 (iii) one representative of the National Federation of the Blind,
+16 Maryland;
+17 (iv) one representative of the Arc of Maryland;
+18 (v) one representative of the Maryland Developmental Disabilities
+19 Council multilingual individual with expertise in election administration;
+20 (vi) one representative of Disability Rights Maryland;
+21 (vii) one representative of the Association of the Deaf;
+22 (vi) (viii) an expert in voting accessibility;
+23 (vii) (ix) an expert in election security; and
+24 (viii) (x) an expert in cybersecurity.
+25 (c) The Governor shall designate the chair of the Workgroup.
+26 (d) The State Board of Elections shall provide staff for the Workgroup.
+27 (e) A member of the Workgroup:
+
+SENATE BILL 929 3
+1 (1) may not receive compensation as a member of the Workgroup; but
+2 (2) is entitled to reimbursement for expenses under the Standard State
+3 Travel Regulations, as provided in the State budget.
+4 (f) The Workgroup shall:
+5 (1) examine the current processes and procedures in the State relating to
+6 mail–in ballot return, including the administrative time and costs, ballot return rates, and
+7 security issues;
+8 (2) assess the impact on voters with disabilities of requiring mail–in ballots
+9 to be returned in paper form;
+10 (3) collect information about current practices and standards for accessible
+11 alternatives to paper mail–in ballot return in other jurisdictions;
+12 (4) evaluate alternatives to paper mail–in ballot return for individuals with
+13 disabilities, including each of the following considerations:
+14 (i) accessibility;
+15 (ii) security, including options for mitigating security concerns;
+16 (iii) the potential for discrimination against voters with disabilities;
+17 (iv) the ability of voters with disabilities to vote privately and
+18 independently; and
+19 (v) the cost and feasibility of implementation; and
+20 (5) consult with additional subject matter experts as needed.
+21 (g) The Workgroup shall consult with the federal National Institute of Standards
+22 and Technology in considering cybersecurity issues related to the work of the Workgroup
+23 under subsection (f) of this section.
+24 (g) (h) On or before December 31, 2025, the Workgroup shall report its findings and
+25 recommendations, including any recommended statutory changes, to the Governor and, in
+26 accordance with § 2–1257 of the State Government Article, the General Assembly.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+28 1, 2025. It shall remain effective for a period of 1 year and 1 month and, at the end of June
+29 30, 2026, this Act, with no further action required by the General Assembly, shall be
+30 abrogated and of no further force and effect.
+
+[DELETED: :CA      5   C A W F t p o e t W o M B A a g  S T  ( T  ( T   ( o t   ( o H   ( t S A o E o t S A d   ( t   ( t]
+[DELETED:  S    ( t D o t G O o H S o t D   ( t   ( t t   ( t D o C S a t U o M B   ( t E D o t M D D C   ( t o   ( t    ( o    ( o    ( o r o t N F o t B M    ( o    ( o C    ( o    ( o    ( a    ( a    ( a  ( T  ( T  ( A]
+[DELETED: S 3   ( m   ( i T  ( T   ( e m s   ( a t   ( c a   ( e d    ( a    ( s    ( t    ( t a o v w d t v p a i    ( t   ( c  ( T a u  ( r a  S 1 3 2 t A w n f a r b t G A s b a]

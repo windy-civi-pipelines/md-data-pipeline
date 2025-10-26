@@ -1,0 +1,524 @@
+Title: SENATE BILL 907
+Official Title: SENATE BILL 907
+Number of Sections: 1
+Source: versions - First - Cybersecurity - Standards, Compliance, and Audits - Alterations
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+F1, S2 5lr2152
+CF 5lr3329
+By: Senator Hester
+Introduced and read first time: January 28, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 Cybersecurity – Standards, Compliance, and Audits – Alterations
+3 FOR the purpose of repealing the requirement that county boards of education prioritize
+4 the purchase of digital devices with certain funds; requiring each local school system
+5 to comply with, and certify compliance with, the State minimum cybersecurity
+6 standards and to conduct a cybersecurity maturity assessment every 2 years;
+7 requiring the Office of Security Management within the Department of Information
+8 Technology to annually update the State minimum cybersecurity standards;
+9 requiring the Department of Information Technology to provide a certain number of
+10 information security officers to assist local school systems with certain functions and
+11 to focus on a certain standard for a certain school year; requiring the Office of
+12 Legislative Audits within the Department of Legislative Services to refer to the State
+13 minimum cybersecurity standards when conducting certain audits; and generally
+14 relating to cybersecurity.
+15 BY repealing and reenacting, with amendments,
+16 Article – Education
+17 Section 5–212
+18 Annotated Code of Maryland
+19 (2022 Replacement Volume and 2024 Supplement)
+20 BY adding to
+21 Article – Education
+22 Section 5–213(e) and (f)
+23 Annotated Code of Maryland
+24 (2022 Replacement Volume and 2024 Supplement)
+25 BY repealing and reenacting, with amendments,
+26 Article – State Finance and Procurement
+27 Section 3.5–101, 3.5–2A–04(b), and 3.5–405
+28 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0907*
+2 SENATE BILL 907
+1 (2021 Replacement Volume and 2024 Supplement)
+2 BY repealing and reenacting, without amendments,
+3 Article – State Finance and Procurement
+4 Section 3.5–2A–02 and 3.5–301(a) and (c)
+5 Annotated Code of Maryland
+6 (2021 Replacement Volume and 2024 Supplement)
+7 BY repealing and reenacting, with amendments,
+8 Article – State Government
+9 Section 2–1221
+10 Annotated Code of Maryland
+11 (2021 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Education
+15 5–212.
+16 (a) The target per pupil foundation amount includes costs associated with
+17 implementing the Blueprint for Maryland’s Future including:
+18 (1) Increasing salaries;
+19 (2) Additional teachers to provide professional learning and collaborative
+20 time for teachers;
+21 (3) Career counseling;
+22 (4) Behavioral health;
+23 (5) Instructional opportunities for students who are college and career
+24 ready and those who are not;
+25 (6) Maintenance and operation of schools;
+26 (7) Supplies and materials for teachers; and
+27 (8) Educational technology including digital devices, broadband
+28 connectivity, [and] information technology staff, AND CYBERSECURITY.
+29 (b) Schools may use funds provided under this section to provide the programs
+30 required under COMAR 13A.04.16.01.
+31 (c) (1) [County boards of education and schools shall prioritize the purchase
+SENATE BILL 907 3
+1 of digital devices for using funds under subsection (a)(8) of this section.
+2 (2)] Additional funds provided in the target per pupil foundation amount for
+3 educational technology are intended to supplement and not supplant existing funding
+4 provided for educational technology.
+5 [(3)] (2) (i) On or before [November 15 each year] AUGUST 15, 2025,
+6 AND EACH AUGUST 15 THEREAFTER, each county board shall submit a report to the
+7 Department detailing, for the previous fiscal year:
+8 1. The amount spent by the local school system on
+9 [technology disaggregated by digital devices, connectivity, and] information technology
+10 staff[; and] DISAGGREGATED BY:
+11 A. FULL–TIME EMPLOYEES;
+12 B. VENDOR–SUPPORTED STAFF OR CONTRACTORS; AND
+13 C. DEDICATED CYBERSECURITY PROFESSIONALS BY
+14 TYPE, INCLUDING CHIEF INFORMATION SECURITY OFFICERS AND CYBERSECURITY
+15 SPECIALISTS;
+16 2. The percentage of students, teachers, and staff with
+17 digital devices and adequate connectivity in their homes in accordance with the Federal
+18 Communications Commission standards for broadband; AND
+19 3. CYBERSECURITY EXPENDITURES RELATED TO THE
+20 STATE MINIMUM CYBERSECURITY STANDARDS ESTABLISHED BY THE DEPARTMENT
+21 OF INFORMATION TECHNOLOGY.
+22 (ii) On or before December 15 each year, the Department shall
+23 submit to the General Assembly, in accordance with § 2–1257 of the State Government
+24 Article, a compilation of the reports submitted to the Department under subparagraph (i)
+25 of this paragraph.
+26 (iii) On or before September 1, 2021, the Department shall establish
+27 uniform reporting requirements, including definitions to ensure that consistent and
+28 comparable reports are submitted under subparagraph (i) of this paragraph.
+29 5–213.
+30 (E) (1) EACH COUNTY BOARD SHALL PROVIDE SUFFICIENT
+31 CYBERSECURITY STAFFING AS DETERMINED BY THE STATE CHIEF INFORMATION
+32 SECURITY OFFICER.
+4 SENATE BILL 907
+1 (2) LOCAL SCHOOL SYSTEMS MAY SHARE SERVICES, CONTRACTORS,
+2 OR REGIONAL SUPPORT FROM THE DEPARTMENT TO MEET THE REQUIREMENTS OF
+3 SUBPARAGRAPH (I) OF THIS PARAGRAPH, PROVIDED THAT EACH LOCAL SCHOOL
+4 SYSTEM ENSURES TIMELY AND ADEQUATE SUPPORT FOR CYBERSECURITY.
+5 (F) (1) BEGINNING IN 2026, EACH LOCAL SCHOOL SYSTEM SHALL:
+6 (I) COMPLY WITH THE STATE MINIMUM CYBERSECURITY
+7 STANDARDS; AND
+8 (II) CONDUCT A CYBERSECURITY MATURITY ASSESSMENT
+9 EVERY 2 YEARS.
+10 (2) ON OR BEFORE JUNE 30, 2026, AND EACH JUNE 30 EVERY 2
+11 YEARS THEREAFTER, EACH LOCAL SCHOOL SYSTEM SHALL CERTIFY TO THE OFFICE
+12 OF SECURITY MANAGEMENT WITHIN THE DEPARTMENT OF INFORMATION
+13 TECHNOLOGY COMPLIANCE WITH THE STATE MINIMUM CYBERSECURITY
+14 STANDARDS.
+15 Article – State Finance and Procurement
+16 3.5–101.
+17 (a) In this title the following words have the meanings indicated.
+18 (b) “Cloud computing” means a service that enables on–demand self–service
+19 network access to a shared pool of configurable computer resources, including data storage,
+20 analytics, commerce, streaming, e–mail, document sharing, and document editing.
+21 (c) “Department” means the Department of Information Technology.
+22 (d) “Secretary” means the Secretary of Information Technology.
+23 (E) “STATE MINIMUM CYBERSECURITY STANDARDS” MEANS THE STATE
+24 MINIMUM CYBERSECURITY STANDARDS ESTABLISHED BY THE DEPARTMENT OF
+25 INFORMATION TECHNOLOGY.
+26 [(e)] (F) “Telecommunication” means the transmission of information, images,
+27 pictures, voice, or data by radio, video, or other electronic or impulse means.
+28 [(f)] (G) “Unit of State government” means an agency or unit of the Executive
+29 Branch of State government.
+30 3.5–2A–02.
+SENATE BILL 907 5
+1 There is an Office of Security Management within the Department.
+2 3.5–2A–04.
+3 (b) The Office shall:
+4 (1) establish standards to categorize all information collected or
+5 maintained by or on behalf of each unit of State government;
+6 (2) establish standards to categorize all information systems maintained
+7 by or on behalf of each unit of State government;
+8 (3) develop guidelines governing the types of information and information
+9 systems to be included in each category;
+10 (4) establish security requirements for information and information
+11 systems in each category;
+12 (5) assess the categorization of information and information systems and
+13 the associated implementation of the security requirements established under item (4) of
+14 this subsection;
+15 (6) if the State Chief Information Security Officer determines that there
+16 are security vulnerabilities or deficiencies in any information systems, determine and direct
+17 or take actions necessary to correct or remediate the vulnerabilities or deficiencies, which
+18 may include requiring the information system to be disconnected;
+19 (7) if the State Chief Information Security Officer determines that there is
+20 a cybersecurity threat caused by an entity connected to the network established under §
+21 3.5–404 of this title that introduces a serious risk to entities connected to the network or to
+22 the State, take or direct actions required to mitigate the threat;
+23 (8) manage security awareness training for all appropriate employees of
+24 units of State government;
+25 (9) assist in the development of data management, data governance, and
+26 data specification standards to promote standardization and reduce risk;
+27 (10) assist in the development of a digital identity standard and
+28 specification applicable to all parties communicating, interacting, or conducting business
+29 with or on behalf of a unit of State government;
+30 (11) develop and maintain information technology security policy,
+31 standards, and guidance documents, consistent with best practices developed by the
+32 National Institute of Standards and Technology;
+33 (12) to the extent practicable, seek, identify, and inform relevant
+6 SENATE BILL 907
+1 stakeholders of any available financial assistance provided by the federal government or
+2 non–State entities to support the work of the Office;
+3 (13) provide technical assistance to localities in mitigating and recovering
+4 from cybersecurity incidents; [and]
+5 (14) ANNUALLY REVIEW AND UPDATE THE STATE MINIMUM
+6 CYBERSECURITY STANDARDS; AND
+7 (15) provide technical services, advice, and guidance to units of local
+8 government to improve cybersecurity preparedness, prevention, response, and recovery
+9 practices.
+10 3.5–301.
+11 (a) In this subtitle the following words have the meanings indicated.
+12 (c) “Cybersecurity” means processes or capabilities wherein systems,
+13 communications, and information are protected and defended against damage,
+14 unauthorized use or modification, and exploitation.
+15 3.5–405.
+16 (a) This section does not apply to municipal governments.
+17 (b) In a manner and frequency established in regulations adopted by the
+18 Department, each county government, local school system, and local health department
+19 shall, in consultation with the local emergency manager, create or update a cybersecurity
+20 preparedness and response plan and complete a cybersecurity preparedness assessment.
+21 (C) THE DEPARTMENT SHALL ASSIGN AT LEAST THREE INFORMATION
+22 SECURITY OFFICERS TO SUPPORT LOCAL SCHOOL SYSTEMS WITH:
+23 (1) COMPLIANCE WITH THE STATE MINIMUM CYBERSECURITY
+24 STANDARDS;
+25 (2) CONDUCTING CYBERSECURITY MATURITY ASSESSMENTS EVERY 2
+26 YEARS; AND
+27 (3) REMEDIATION EFFORTS.
+28 (D) ON OR BEFORE JUNE 30, 2026, AND EACH JUNE 30 EVERY 2 YEARS
+29 THEREAFTER, EACH LOCAL SCHOOL SYSTEM SHALL CERTIFY TO THE OFFICE OF
+30 SECURITY MANAGEMENT COMPLIANCE WITH THE STATE MINIMUM
+31 CYBERSECURITY STANDARDS.
+SENATE BILL 907 7
+1 Article – State Government
+2 2–1221.
+3 (a) A fiscal/compliance audit conducted by the Office of Legislative Audits shall
+4 include:
+5 (1) examining financial transactions and records and internal controls;
+6 (2) evaluating compliance with applicable laws and regulations;
+7 (3) examining electronic data processing operations; and
+8 (4) evaluating compliance with applicable laws and regulations relating to
+9 the acquisition of goods and services from Maryland Correctional Enterprises.
+10 (b) A performance audit conducted by the Office of Legislative Audits may
+11 include:
+12 (1) evaluating the efficiency, effectiveness, and economy with which
+13 resources are used;
+14 (2) determining whether desired program results are achieved; and
+15 (3) determining the reliability of performance measures, as defined in §
+16 3–1001(g) of the State Finance and Procurement Article, identified in:
+17 (i) the managing for results agency strategic plan developed under
+18 § 3–1002(c) of the State Finance and Procurement Article; or
+19 (ii) the StateStat agency strategic plan developed under § 3–1003(d)
+20 of the State Finance and Procurement Article.
+21 (c) The purpose of financial statement audits conducted by the Office of
+22 Legislative Audits shall be to express an opinion regarding the fairness of the presentation
+23 of a unit’s financial statements.
+24 (d) (1) The audits referred to in subsections (a), (b), and (c) of this section shall
+25 be conducted in accordance with generally accepted government auditing standards.
+26 (2) FOR THE AUDITS REFERRED TO IN SUBSECTIONS (A), (B), AND (C)
+27 OF THIS SECTION, THE OFFICE OF LEGISLATIVE AUDITS SHALL BE GUIDED BY THE
+28 DEPARTMENT OF INFORMATION TECHNOLOGY’S STATE MINIMUM CYBERSECURITY
+29 STANDARDS.
+30 (e) (1) Upon approval of the Joint Audit and Evaluation Committee, the Office
+8 SENATE BILL 907
+1 of Legislative Audits shall develop and use a rating system that is based on the results of
+2 a fiscal/compliance audit to determine an overall evaluation of a unit’s financial
+3 transactions, records, and internal controls and compliance with applicable laws and
+4 regulations as a means of comparing the various units of State government.
+5 (2) When an evaluation is issued, it shall be provided to the unit and shall
+6 be available to the Joint Audit and Evaluation Committee and the Budget Committees of
+7 the Maryland General Assembly.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That, for the 2025–2026 school
+9 year, the Department of Information Technology shall focus on Standard 6.2 Protect (PR)
+10 Controls of the State minimum cybersecurity standards.
+11 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+12 1, 2025.
+[DELETED: :CA      5   C A C F t t c w a c c w t S m c s a t c a c m a e 2 y r T t a u t S m c s r i t f o a c s f a c s y r t O o L m r B  A S  A  ( B  A S  A  ( B  A  S  A]
+[DELETED:  S   ( B  A S  A  ( B  A S  A  (  S T A 5  ( T t p p f a i c a w i   ( I   ( A t   ( C   ( B   ( I o f s w a c a c r   ( M   ( S   ( E t i d d b c ad f.]  ( S r  ( ( C]
+[DELETED: S 3 o   () A e t a i t s a n s e f p   () ( O N]()[]A1,2 U   U  1 , D     1 T a s b t l s s o t d b d d c ad i t sf;a]: Y   A F–;LT   B V–;RSS    C  C P BE      2 T p o s t a s w d C   3  E R T T E N E .    ( O o b D 1 e y t D s s A o    ( O u r r i d t e t c a c 5 ) ( A C B S P S T H NCO. F]
+[DELETED:  S  ( L,S S E I OH )() ( B2,:E  L  () CO W T T M CS   () IO A C M A  . ( OJ3,2,J30 O B U   A E U  E R  F E A W T E O NMD C W T T M C A 3  ( I  ( “ c m a s t e o s n a  ( “  ( “ ) “S”T M C SS M T T C S E B T E OT. E  () “]( p  () “]( B 3]
+[DELETED: S 5  T 3  ( T   ( e s t c a i c o m   ( e b   ( d s   ( e s r f i a i s   ( a t t   ( i a o m   ( i a 3 t   ( m u   ( a d   ( a i t d o a d i s a s w   ( d a m i t s p s a g d c w b p d b t N   ( t t e p s i a i r]
+[DELETED:  S  s n   ( p f a]   ( R A U T T MS  ( p t s a a g t u o l g t i c p p r a r p 3  ( I  ( “ m p o c w s c a i a p a d a d u 3  ( T  ( I a m a f e i r a b t D sl  p() TH E S A A L T IH (  W T T M C (  S  ( .() OJ3,2,J30N O B U   A E U  E  YR  FM A C W T T M]
+[DELETED: S 7 A 2  ( A i   ( e   ( e   ( e   ( e t  ( A p a c b t O o L A m i   ( e t e e a e w w r   ( d   ( d 3    ( t §    ( t o  ( T p o f s a c b t O o L o  ( T b   F(),(),( A B  CN  F E UOLIT’ N EYS T  ( ( U]
+[DELETED:  S  o a f a t d a o e o a u f t r a i c a c w a l a r   ( W b t  S f y C  S 1]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 907
+F1, S2 5lr2152
+CF 5lr3329
+By: Senator Hester
+Introduced and read first time: January 28, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 Cybersecurity – Standards, Compliance, and Audits – Alterations
+3 FOR the purpose of repealing the requirement that county boards of education prioritize
+4 the purchase of digital devices with certain funds; requiring each local school system
+5 to comply with, and certify compliance with, the State minimum cybersecurity
+6 standards and to conduct a cybersecurity maturity assessment every 2 years;
+7 requiring the Office of Security Management within the Department of Information
+8 Technology to annually update the State minimum cybersecurity standards;
+9 requiring the Department of Information Technology to provide a certain number of
+10 information security officers to assist local school systems with certain functions and
+11 to focus on a certain standard for a certain school year; requiring the Office of
+12 Legislative Audits within the Department of Legislative Services to refer to the State
+13 minimum cybersecurity standards when conducting certain audits; and generally
+14 relating to cybersecurity.
+15 BY repealing and reenacting, with amendments,
+16 Article – Education
+17 Section 5–212
+18 Annotated Code of Maryland
+19 (2022 Replacement Volume and 2024 Supplement)
+20 BY adding to
+21 Article – Education
+22 Section 5–213(e) and (f)
+23 Annotated Code of Maryland
+24 (2022 Replacement Volume and 2024 Supplement)
+25 BY repealing and reenacting, with amendments,
+26 Article – State Finance and Procurement
+27 Section 3.5–101, 3.5–2A–04(b), and 3.5–405
+28 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0907*
+
+2 SENATE BILL 907
+1 (2021 Replacement Volume and 2024 Supplement)
+2 BY repealing and reenacting, without amendments,
+3 Article – State Finance and Procurement
+4 Section 3.5–2A–02 and 3.5–301(a) and (c)
+5 Annotated Code of Maryland
+6 (2021 Replacement Volume and 2024 Supplement)
+7 BY repealing and reenacting, with amendments,
+8 Article – State Government
+9 Section 2–1221
+10 Annotated Code of Maryland
+11 (2021 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Education
+15 5–212.
+16 (a) The target per pupil foundation amount includes costs associated with
+17 implementing the Blueprint for Maryland’s Future including:
+18 (1) Increasing salaries;
+19 (2) Additional teachers to provide professional learning and collaborative
+20 time for teachers;
+21 (3) Career counseling;
+22 (4) Behavioral health;
+23 (5) Instructional opportunities for students who are college and career
+24 ready and those who are not;
+25 (6) Maintenance and operation of schools;
+26 (7) Supplies and materials for teachers; and
+27 (8) Educational technology including digital devices, broadband
+28 connectivity, [and] information technology staff, AND CYBERSECURITY.
+29 (b) Schools may use funds provided under this section to provide the programs
+30 required under COMAR 13A.04.16.01.
+31 (c) (1) [County boards of education and schools shall prioritize the purchase
+
+SENATE BILL 907 3
+1 of digital devices for using funds under subsection (a)(8) of this section.
+2 (2)] Additional funds provided in the target per pupil foundation amount for
+3 educational technology are intended to supplement and not supplant existing funding
+4 provided for educational technology.
+5 [(3)] (2) (i) On or before [November 15 each year] AUGUST 15, 2025,
+6 AND EACH AUGUST 15 THEREAFTER, each county board shall submit a report to the
+7 Department detailing, for the previous fiscal year:
+8 1. The amount spent by the local school system on
+9 [technology disaggregated by digital devices, connectivity, and] information technology
+10 staff[; and] DISAGGREGATED BY:
+11 A. FULL–TIME EMPLOYEES;
+12 B. VENDOR–SUPPORTED STAFF OR CONTRACTORS; AND
+13 C. DEDICATED CYBERSECURITY PROFESSIONALS BY
+14 TYPE, INCLUDING CHIEF INFORMATION SECURITY OFFICERS AND CYBERSECURITY
+15 SPECIALISTS;
+16 2. The percentage of students, teachers, and staff with
+17 digital devices and adequate connectivity in their homes in accordance with the Federal
+18 Communications Commission standards for broadband; AND
+19 3. CYBERSECURITY EXPENDITURES RELATED TO THE
+20 STATE MINIMUM CYBERSECURITY STANDARDS ESTABLISHED BY THE DEPARTMENT
+21 OF INFORMATION TECHNOLOGY.
+22 (ii) On or before December 15 each year, the Department shall
+23 submit to the General Assembly, in accordance with § 2–1257 of the State Government
+24 Article, a compilation of the reports submitted to the Department under subparagraph (i)
+25 of this paragraph.
+26 (iii) On or before September 1, 2021, the Department shall establish
+27 uniform reporting requirements, including definitions to ensure that consistent and
+28 comparable reports are submitted under subparagraph (i) of this paragraph.
+29 5–213.
+30 (E) (1) EACH COUNTY BOARD SHALL PROVIDE SUFFICIENT
+31 CYBERSECURITY STAFFING AS DETERMINED BY THE STATE CHIEF INFORMATION
+32 SECURITY OFFICER.
+
+4 SENATE BILL 907
+1 (2) LOCAL SCHOOL SYSTEMS MAY SHARE SERVICES, CONTRACTORS,
+2 OR REGIONAL SUPPORT FROM THE DEPARTMENT TO MEET THE REQUIREMENTS OF
+3 SUBPARAGRAPH (I) OF THIS PARAGRAPH, PROVIDED THAT EACH LOCAL SCHOOL
+4 SYSTEM ENSURES TIMELY AND ADEQUATE SUPPORT FOR CYBERSECURITY.
+5 (F) (1) BEGINNING IN 2026, EACH LOCAL SCHOOL SYSTEM SHALL:
+6 (I) COMPLY WITH THE STATE MINIMUM CYBERSECURITY
+7 STANDARDS; AND
+8 (II) CONDUCT A CYBERSECURITY MATURITY ASSESSMENT
+9 EVERY 2 YEARS.
+10 (2) ON OR BEFORE JUNE 30, 2026, AND EACH JUNE 30 EVERY 2
+11 YEARS THEREAFTER, EACH LOCAL SCHOOL SYSTEM SHALL CERTIFY TO THE OFFICE
+12 OF SECURITY MANAGEMENT WITHIN THE DEPARTMENT OF INFORMATION
+13 TECHNOLOGY COMPLIANCE WITH THE STATE MINIMUM CYBERSECURITY
+14 STANDARDS.
+15 Article – State Finance and Procurement
+16 3.5–101.
+17 (a) In this title the following words have the meanings indicated.
+18 (b) “Cloud computing” means a service that enables on–demand self–service
+19 network access to a shared pool of configurable computer resources, including data storage,
+20 analytics, commerce, streaming, e–mail, document sharing, and document editing.
+21 (c) “Department” means the Department of Information Technology.
+22 (d) “Secretary” means the Secretary of Information Technology.
+23 (E) “STATE MINIMUM CYBERSECURITY STANDARDS” MEANS THE STATE
+24 MINIMUM CYBERSECURITY STANDARDS ESTABLISHED BY THE DEPARTMENT OF
+25 INFORMATION TECHNOLOGY.
+26 [(e)] (F) “Telecommunication” means the transmission of information, images,
+27 pictures, voice, or data by radio, video, or other electronic or impulse means.
+28 [(f)] (G) “Unit of State government” means an agency or unit of the Executive
+29 Branch of State government.
+30 3.5–2A–02.
+
+SENATE BILL 907 5
+1 There is an Office of Security Management within the Department.
+2 3.5–2A–04.
+3 (b) The Office shall:
+4 (1) establish standards to categorize all information collected or
+5 maintained by or on behalf of each unit of State government;
+6 (2) establish standards to categorize all information systems maintained
+7 by or on behalf of each unit of State government;
+8 (3) develop guidelines governing the types of information and information
+9 systems to be included in each category;
+10 (4) establish security requirements for information and information
+11 systems in each category;
+12 (5) assess the categorization of information and information systems and
+13 the associated implementation of the security requirements established under item (4) of
+14 this subsection;
+15 (6) if the State Chief Information Security Officer determines that there
+16 are security vulnerabilities or deficiencies in any information systems, determine and direct
+17 or take actions necessary to correct or remediate the vulnerabilities or deficiencies, which
+18 may include requiring the information system to be disconnected;
+19 (7) if the State Chief Information Security Officer determines that there is
+20 a cybersecurity threat caused by an entity connected to the network established under §
+21 3.5–404 of this title that introduces a serious risk to entities connected to the network or to
+22 the State, take or direct actions required to mitigate the threat;
+23 (8) manage security awareness training for all appropriate employees of
+24 units of State government;
+25 (9) assist in the development of data management, data governance, and
+26 data specification standards to promote standardization and reduce risk;
+27 (10) assist in the development of a digital identity standard and
+28 specification applicable to all parties communicating, interacting, or conducting business
+29 with or on behalf of a unit of State government;
+30 (11) develop and maintain information technology security policy,
+31 standards, and guidance documents, consistent with best practices developed by the
+32 National Institute of Standards and Technology;
+33 (12) to the extent practicable, seek, identify, and inform relevant
+
+6 SENATE BILL 907
+1 stakeholders of any available financial assistance provided by the federal government or
+2 non–State entities to support the work of the Office;
+3 (13) provide technical assistance to localities in mitigating and recovering
+4 from cybersecurity incidents; [and]
+5 (14) ANNUALLY REVIEW AND UPDATE THE STATE MINIMUM
+6 CYBERSECURITY STANDARDS; AND
+7 (15) provide technical services, advice, and guidance to units of local
+8 government to improve cybersecurity preparedness, prevention, response, and recovery
+9 practices.
+10 3.5–301.
+11 (a) In this subtitle the following words have the meanings indicated.
+12 (c) “Cybersecurity” means processes or capabilities wherein systems,
+13 communications, and information are protected and defended against damage,
+14 unauthorized use or modification, and exploitation.
+15 3.5–405.
+16 (a) This section does not apply to municipal governments.
+17 (b) In a manner and frequency established in regulations adopted by the
+18 Department, each county government, local school system, and local health department
+19 shall, in consultation with the local emergency manager, create or update a cybersecurity
+20 preparedness and response plan and complete a cybersecurity preparedness assessment.
+21 (C) THE DEPARTMENT SHALL ASSIGN AT LEAST THREE INFORMATION
+22 SECURITY OFFICERS TO SUPPORT LOCAL SCHOOL SYSTEMS WITH:
+23 (1) COMPLIANCE WITH THE STATE MINIMUM CYBERSECURITY
+24 STANDARDS;
+25 (2) CONDUCTING CYBERSECURITY MATURITY ASSESSMENTS EVERY 2
+26 YEARS; AND
+27 (3) REMEDIATION EFFORTS.
+28 (D) ON OR BEFORE JUNE 30, 2026, AND EACH JUNE 30 EVERY 2 YEARS
+29 THEREAFTER, EACH LOCAL SCHOOL SYSTEM SHALL CERTIFY TO THE OFFICE OF
+30 SECURITY MANAGEMENT COMPLIANCE WITH THE STATE MINIMUM
+31 CYBERSECURITY STANDARDS.
+
+SENATE BILL 907 7
+1 Article – State Government
+2 2–1221.
+3 (a) A fiscal/compliance audit conducted by the Office of Legislative Audits shall
+4 include:
+5 (1) examining financial transactions and records and internal controls;
+6 (2) evaluating compliance with applicable laws and regulations;
+7 (3) examining electronic data processing operations; and
+8 (4) evaluating compliance with applicable laws and regulations relating to
+9 the acquisition of goods and services from Maryland Correctional Enterprises.
+10 (b) A performance audit conducted by the Office of Legislative Audits may
+11 include:
+12 (1) evaluating the efficiency, effectiveness, and economy with which
+13 resources are used;
+14 (2) determining whether desired program results are achieved; and
+15 (3) determining the reliability of performance measures, as defined in §
+16 3–1001(g) of the State Finance and Procurement Article, identified in:
+17 (i) the managing for results agency strategic plan developed under
+18 § 3–1002(c) of the State Finance and Procurement Article; or
+19 (ii) the StateStat agency strategic plan developed under § 3–1003(d)
+20 of the State Finance and Procurement Article.
+21 (c) The purpose of financial statement audits conducted by the Office of
+22 Legislative Audits shall be to express an opinion regarding the fairness of the presentation
+23 of a unit’s financial statements.
+24 (d) (1) The audits referred to in subsections (a), (b), and (c) of this section shall
+25 be conducted in accordance with generally accepted government auditing standards.
+26 (2) FOR THE AUDITS REFERRED TO IN SUBSECTIONS (A), (B), AND (C)
+27 OF THIS SECTION, THE OFFICE OF LEGISLATIVE AUDITS SHALL BE GUIDED BY THE
+28 DEPARTMENT OF INFORMATION TECHNOLOGY’S STATE MINIMUM CYBERSECURITY
+29 STANDARDS.
+30 (e) (1) Upon approval of the Joint Audit and Evaluation Committee, the Office
+
+8 SENATE BILL 907
+1 of Legislative Audits shall develop and use a rating system that is based on the results of
+2 a fiscal/compliance audit to determine an overall evaluation of a unit’s financial
+3 transactions, records, and internal controls and compliance with applicable laws and
+4 regulations as a means of comparing the various units of State government.
+5 (2) When an evaluation is issued, it shall be provided to the unit and shall
+6 be available to the Joint Audit and Evaluation Committee and the Budget Committees of
+7 the Maryland General Assembly.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That, for the 2025–2026 school
+9 year, the Department of Information Technology shall focus on Standard 6.2 Protect (PR)
+10 Controls of the State minimum cybersecurity standards.
+11 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+12 1, 2025.
+
+[DELETED: :CA      5   C A C F t t c w a c c w t S m c s a t c a c m a e 2 y r T t a u t S m c s r i t f o a c s f a c s y r t O o L m r B  A S  A  ( B  A S  A  ( B  A  S  A]
+[DELETED:  S   ( B  A S  A  ( B  A S  A  (  S T A 5  ( T t p p f a i c a w i   ( I   ( A t   ( C   ( B   ( I o f s w a c a c r   ( M   ( S   ( E t i d d b c ad f.]  ( S r  ( ( C]
+[DELETED: S 3 o   () A e t a i t s a n s e f p   () ( O N]()[]A1,2 U   U  1 , D     1 T a s b t l s s o t d b d d c ad i t sf;a]: Y   A F–;LT   B V–;RSS    C  C P BE      2 T p o s t a s w d C   3  E R T T E N E .    ( O o b D 1 e y t D s s A o    ( O u r r i d t e t c a c 5 ) ( A C B S P S T H NCO. F]
+[DELETED:  S  ( L,S S E I OH )() ( B2,:E  L  () CO W T T M CS   () IO A C M A  . ( OJ3,2,J30 O B U   A E U  E R  F E A W T E O NMD C W T T M C A 3  ( I  ( “ c m a s t e o s n a  ( “  ( “ ) “S”T M C SS M T T C S E B T E OT. E  () “]( p  () “]( B 3]
+[DELETED: S 5  T 3  ( T   ( e s t c a i c o m   ( e b   ( d s   ( e s r f i a i s   ( a t t   ( i a o m   ( i a 3 t   ( m u   ( a d   ( a i t d o a d i s a s w   ( d a m i t s p s a g d c w b p d b t N   ( t t e p s i a i r]
+[DELETED:  S  s n   ( p f a]   ( R A U T T MS  ( p t s a a g t u o l g t i c p p r a r p 3  ( I  ( “ m p o c w s c a i a p a d a d u 3  ( T  ( I a m a f e i r a b t D sl  p() TH E S A A L T IH (  W T T M C (  S  ( .() OJ3,2,J30N O B U   A E U  E  YR  FM A C W T T M]
+[DELETED: S 7 A 2  ( A i   ( e   ( e   ( e   ( e t  ( A p a c b t O o L A m i   ( e t e e a e w w r   ( d   ( d 3    ( t §    ( t o  ( T p o f s a c b t O o L o  ( T b   F(),(),( A B  CN  F E UOLIT’ N EYS T  ( ( U]
+[DELETED:  S  o a f a t d a o e o a u f t r a i c a c w a l a r   ( W b t  S f y C  S 1]

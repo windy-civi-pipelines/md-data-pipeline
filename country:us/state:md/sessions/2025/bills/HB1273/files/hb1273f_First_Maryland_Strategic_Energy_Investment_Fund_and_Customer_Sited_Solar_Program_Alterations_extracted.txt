@@ -1,0 +1,577 @@
+Title: HOUSE BILL 1273
+Official Title: HOUSE BILL 1273
+Number of Sections: 1
+Source: versions - First - Maryland Strategic Energy Investment Fund and Customer-Sited Solar Program - Alterations
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+M5 5lr0063
+CF 5lr0064
+By: Chair, Economic Matters Committee (By Request – Departmental – Maryland
+Energy Administration)
+Introduced and read first time: February 7, 2025
+Assigned to: Economic Matters and Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Maryland Strategic Energy Investment Fund and Customer–Sited Solar
+3 Program – Alterations
+4 FOR the purpose of authorizing the use of the Maryland Strategic Energy Investment Fund
+5 for certain grants and loans; altering the allowed uses of the Regional Greenhouse
+6 Gas Initiative auction revenue and certain compliance fee revenue; altering certain
+7 reporting requirements for the Fund; altering the definition of “low to moderate
+8 income” for purposes of the Customer–Sited Solar Program; and generally relating
+9 to the Maryland Strategic Energy Investment Fund and the Customer–Sited Solar
+10 Program.
+11 BY repealing and reenacting, without amendments,
+12 Article – State Government
+13 Section 9–2016(a)(1) and (b)
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – State Government
+18 Section 9–2016(a)(3), 9–20B–05, and 9–20B–12
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – State Government
+24 9–2016.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1273*
+2 HOUSE BILL 1273
+1 (a) (1) In this section the following words have the meanings indicated.
+2 (3) “Low to moderate income” means a household with an annual
+3 household income at or below 150% of the [average] AREA median income [for the State].
+4 (b) There is a Customer–Sited Solar Program in the Administration.
+5 9–20B–05.
+6 (a) IN THIS SECTION, “HOUSEHOLDS WITH LOW TO MODERATE INCOME”
+7 MEANS A HOUSEHOLD WITH AN ANNUAL HOUSEHOLD INCOME AT OR BELOW 150%
+8 OF THE AREA MEDIAN INCOME.
+9 (A–1) There is a Maryland Strategic Energy Investment Fund.
+10 (b) The purpose of the Fund is to implement the Strategic Energy Investment
+11 Program.
+12 (c) The Administration shall administer the Fund.
+13 (d) (1) The Fund is a special, nonlapsing fund that is not subject to § 7–302 of
+14 the State Finance and Procurement Article.
+15 (2) The Treasurer shall hold the Fund separately and the Comptroller shall
+16 account for the Fund.
+17 (e) The Fund consists of:
+18 (1) all of the proceeds from the sale of allowances under § 2–1002(g) of the
+19 Environment Article;
+20 (2) money appropriated in the State budget to the Program;
+21 (3) repayments and prepayments of principal and interest on loans made
+22 from the Fund;
+23 (4) interest and investment earnings on the Fund;
+24 (5) compliance fees paid under § 7–705 of the Public Utilities Article;
+25 (6) money received from any public or private source for the benefit of the
+26 Fund;
+27 (7) money transferred from the Public Service Commission under §
+28 7–207.2(c)(3) of the Public Utilities Article; and
+29 (8) money distributed under § 2–614.1 of the Tax – General Article.
+HOUSE BILL 1273 3
+1 (f) The Administration shall use the Fund:
+2 (1) to invest in the promotion, development, and implementation of:
+3 (i) cost–effective energy efficiency and conservation programs,
+4 projects, or activities, including measurement and verification of energy savings;
+5 (ii) renewable and clean energy resources;
+6 (iii) climate change programs directly related to reducing or
+7 mitigating the effects of climate change; and
+8 (iv) demand response programs that are designed to promote
+9 changes in electric usage by customers in response to:
+10 1. changes in the price of electricity over time; or
+11 2. incentives designed to induce lower electricity use at times
+12 of high wholesale market prices or when system reliability is jeopardized;
+13 (2) to provide targeted programs, projects, activities, and investments to
+14 reduce electricity consumption by customers in the low–income and moderate–income
+15 residential sectors;
+16 (3) to provide supplemental funds for low–income energy assistance
+17 through the Electric Universal Service Program established under § 7–512.1 of the Public
+18 Utilities Article and other electric assistance programs in the Department of Human
+19 Services;
+20 (4) to provide rate relief by offsetting electricity rates of residential
+21 customers, including an offset of surcharges imposed on ratepayers under Title 7, Subtitle
+22 2, Part II of the Public Utilities Article;
+23 (5) to provide grants, loans, and other assistance and investment as
+24 necessary and appropriate to implement the purposes of the Program as set forth in §
+25 9–20B–03 of this subtitle;
+26 (6) to implement energy–related public education and outreach initiatives
+27 regarding reducing energy consumption and greenhouse gas emissions;
+28 (7) to provide rebates under the Electric Vehicle Recharging Equipment
+29 Rebate Program established under § 9–2009 of this title;
+30 (8) to provide grants to encourage combined heat and power projects at
+31 industrial facilities;
+4 HOUSE BILL 1273
+1 (9) to provide at least $1,200,000 in each fiscal year for fiscal year 2025
+2 through fiscal year 2028 to the Climate Technology Founder’s Fund established under §
+3 10–858 of the Economic Development Article;
+4 (10) subject to subsection (f–2) of this section, to provide at least $2,100,000
+5 in funding each fiscal year to the Maryland Energy Innovation Fund established under §
+6 10–835 of the Economic Development Article;
+7 (11) to provide at least $500,000 each year to the Resiliency Hub Grant
+8 Program Fund under § 9–2011 of this title;
+9 (12) to provide grants through the Customer–Sited Solar Program under §
+10 9–2016 of this title; [and]
+11 (13) TO PROVIDE LOANS AND GRANTS FOR BUILDING
+12 ELECTRIFICATION AND TRANSPORTATION ELECTRIFICATION; AND
+13 (14) to pay the expenses of the Program.
+14 (f–1) (1) Any funding provided under subsection (f)(9) of this section that is not
+15 spent in a given fiscal year shall revert to the Fund in the following fiscal year.
+16 (2) The Administration may provide additional funding for the purposes
+17 stated in subsection (f)(9) of this section.
+18 (f–2) Of the funds transferred to the Maryland Energy Innovation Fund under
+19 subsection (f)(10) of this section:
+20 (1) at least $1,200,000 may be used to fund the Maryland Clean Energy
+21 Center established under § 10–806 of the Economic Development Article; and
+22 (2) at least $900,000 may be used to fund the Maryland Energy Innovation
+23 Institute established under § 10–829 of the Economic Development Article.
+24 (g) Proceeds received by the Fund from the sale of allowances under § 2–1002(g)
+25 of the Environment Article shall be allocated as follows:
+26 (1) at least 50% shall be credited to an energy assistance account to be used
+27 for the Electric Universal Service Program and other electricity assistance programs in the
+28 Department of Human Services;
+29 (2) at least 20% shall be credited to a low and moderate income
+30 ELECTRIFICATION, efficiency, and conservation programs account and to a general
+31 ELECTRIFICATION, efficiency, and conservation programs account for
+32 ELECTRIFICATION, energy efficiency, and conservation programs, projects, or activities
+HOUSE BILL 1273 5
+1 and demand response programs, of which at least one–half shall be targeted to the low and
+2 moderate income ELECTRIFICATION, efficiency, and conservation programs account for:
+3 (i) the low–income residential sector at no cost to the participants
+4 of the programs, projects, or activities; and
+5 (ii) the moderate–income residential sector;
+6 (3) at least 20% shall be credited to a renewable and clean energy programs
+7 account for:
+8 (i) renewable and clean energy programs and initiatives;
+9 (ii) energy–related public education and outreach; and
+10 (iii) climate change and resiliency programs; and
+11 (4) up to 10%, but not more than $7,500,000, shall be credited to an
+12 administrative expense account for costs related to the administration of the Fund,
+13 including the review of electric company plans for achieving electricity savings and demand
+14 reductions that the electric companies are required under law to submit to the
+15 Administration.
+16 (g–1) Proceeds received by the Fund from compliance fees under § 7–705(b)(2)(i)2 of
+17 the Public Utilities Article shall be allocated as follows:
+18 (1) beginning in fiscal year 2025, at least 20% of the proceeds shall be used
+19 to provide grants to support the installation of new solar energy generating systems under
+20 the Customer–Sited Solar Program;
+21 (2) up to 10% of the proceeds shall be credited to an administrative expense
+22 account for costs related to the administration of the Fund;
+23 (3) proceeds collected but unused from a previous year shall be used before
+24 proceeds allocated for the current year; and
+25 (4) the Administration shall reallocate to other authorized uses any
+26 proceeds that are not used within 3 fiscal years after collection.
+27 (h) (1) [Energy] ELECTRIFICATION, ENERGY efficiency, and conservation
+28 programs under subsection (g)(2) of this section include:
+29 (i) low–income energy efficiency programs;
+30 (ii) residential and small business energy efficiency programs;
+31 (iii) commercial and industrial energy efficiency programs;
+6 HOUSE BILL 1273
+1 (iv) State and local energy efficiency programs;
+2 (v) demand response programs;
+3 (vi) loan programs and alternative financing mechanisms; and
+4 (vii) grants to training funds and other organizations supporting job
+5 training for deployment of energy efficiency and energy conservation technology and
+6 equipment.
+7 (2) Energy–related public education and outreach and renewable and clean
+8 energy programs and initiatives under subsection (g)(3)(i) and (ii) of this section include:
+9 (i) production incentives for specified renewable energy sources;
+10 (ii) expansion of existing grant programs for solar, geothermal, and
+11 wind programs;
+12 (iii) loan programs and alternative financing mechanisms; and
+13 (iv) consumer education and outreach programs that are designed to
+14 reach low–income communities.
+15 (i) (1) Except as provided in paragraph (2) of this subsection, compliance fees
+16 paid under § 7–705(b) of the Public Utilities Article may be used only to make loans and
+17 grants to support the creation of new Tier 1 renewable energy sources in the State that are
+18 owned by or directly benefit:
+19 (i) low– to moderate–income communities located in a census tract
+20 with [an average] A median income at or below 80% of the [average] median income for the
+21 State; [or]
+22 (ii) overburdened or underserved communities, as defined in § 1–701
+23 of the Environment Article; OR
+24 (III) HOUSEHOLDS WITH LOW TO MODERATE INCOME.
+25 (2) Compliance fees paid under § 7–705(b)(2)(i)2 of the Public Utilities
+26 Article shall be accounted for separately within the Fund and may be used only to make
+27 loans and grants to support the creation of new solar energy sources in the State that are
+28 owned by or directly benefit:
+29 (i) low– to moderate–income communities located in a census tract
+30 with [an average] A median income at or below 80% of the [average] median income for the
+31 State;
+HOUSE BILL 1273 7
+1 (ii) overburdened or underserved communities, as defined in § 1–701
+2 of the Environment Article; or
+3 (iii) households with low to moderate income[, as defined in § 9–2016
+4 of this title].
+5 [(i–1) (1) (i) In this subsection the following words have the meanings
+6 indicated.
+7 (ii) “Area median income” has the meaning stated in § 4–1801 of the
+8 Housing and Community Development Article.
+9 (iii) “Low and moderate income” means having an annual household
+10 income that is at or below 120% of the area median income.
+11 (2)] (3) Compliance fees paid under § 7–705(b–1) of the Public Utilities
+12 Article shall be accounted for separately within the Fund and may be used only to make
+13 loans and grants to promote increased opportunities for the growth and development of
+14 small, minority, women–owned, and veteran–owned businesses in the State that install
+15 geothermal systems in the State.
+16 (j) (1) The Treasurer shall invest the money of the Fund in the same manner
+17 as other State money may be invested.
+18 (2) Any investment earnings of the Fund shall be paid into the Fund.
+19 (3) Any repayment of principal and interest on loans made from the Fund
+20 shall be paid into the Fund.
+21 (4) Balances in the Fund shall be held for the benefit of the Program, shall
+22 be expended solely for the purposes of the Program, and may not be used for the general
+23 obligations of government.
+24 (k) Expenditures from the Fund shall be made by:
+25 (1) an appropriation in the annual State budget; or
+26 (2) a budget amendment in accordance with § 7–209 of the State Finance
+27 and Procurement Article.
+28 (l) An expenditure by budget amendment may be made under subsection (k) of
+29 this section only after:
+30 (1) the Administration has submitted the proposed budget amendment and
+31 supporting documentation to the Senate Budget and Taxation Committee, Senate
+32 Education, Energy, and the Environment Committee, House Appropriations Committee,
+33 and House Economic Matters Committee; and
+8 HOUSE BILL 1273
+1 (2) the committees have had 45 days for review and comment.
+2 (m) (1) A loan or grant made available from the Fund to a unit of State or local
+3 government shall comply with §§ 14–416 and 17–303 of the State Finance and Procurement
+4 Article.
+5 (2) At least 80% of workers participating in a project or program that
+6 receives money from the Fund must reside within 50 miles of the project or program, or
+7 another distance defined by the local jurisdiction where the project or program is located.
+8 9–20B–12.
+9 (a) On or before January 1 each year, the Administration shall report to the
+10 Governor, to the Board, and, in accordance with § 2–1257 of this article, to the General
+11 Assembly and the members of the Senate Finance Committee and the House Economic
+12 Matters Committee on the uses and expenditures of the Fund from the prior fiscal year.
+13 (b) The report shall include:
+14 (1) a detailed accounting of all amounts IN EXCESS OF $10,000 received
+15 by and disbursed from the Fund, including the amount and recipient of each grant awarded
+16 by the Administration[, and identifying multiple grants awarded to the same person or the
+17 same address];
+18 (2) all amounts used by the Administration for administrative purposes,
+19 including the funding source from which each amount was obtained;
+20 (3) programs, projects, and activities included in each category under §
+21 9–20B–05(g) of this subtitle;
+22 (4) the status of programs, projects, activities, and investments
+23 implemented with funds from the Fund, including an evaluation of the impact of the
+24 programs, projects, activities, and investments that are directed to low–income or
+25 moderate–income residential sectors or to other particular classes of ratepayers;
+26 (5) an estimate of [electricity] GREENHOUSE GAS savings from the
+27 programs, projects, activities, and investments;
+28 (6) the number of allowances sold in each auction;
+29 (7) the average allowance price from each auction;
+30 (8) an estimate of revenue from future auctions;
+HOUSE BILL 1273 9
+1 (9) an accounting of all amounts received or disbursed by the Fund from
+2 all other sources, including money received in accordance with orders issued and settlement
+3 agreements approved by the Public Service Commission;
+4 (10) recommendations for changes to the allocation of funds under §
+5 9–20B–05(g) of this subtitle;
+6 (11) the status of programs and expenditures in the current fiscal year; and
+7 (12) possible or expected program initiatives and changes in later years.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+9 1, 2025.
+[DELETED: :CA      5   C A M P F f G r r f t F a t d o “ t m i t P B  A  S  A  ( B  A  S  A  (  S T A 9]
+[DELETED:  H   ( ( I   ( “ t m i m a h w a a h ae  fe.][  ( T 9  (,“ T SN H W L T M IE   T–  ( T P  ( T  ( ( T t   ( T a  ( T   ( a E   ( m   ( r f   ( i   ( c   ( m F   ( m t f t P S C u § 7   ( m]
+[DELETED: H 3  ( T   ( t    ( c e e a c p p    ( r    ( c c p d r t r o m    ( d r p t a d t p c     1 c     2 i o   ( t r e c b c i t l a m r   ( t p s f f l e a t U A a o e a p i t D o H S   ( t p r r b o e r o r c 2   ( t p g l a o a a i a n 9   ( t r   ( t R   ( t i]
+[DELETED:  H    ( t t 1   ( s i 1   ( t p a l $ e y t t R H G P   ( t 9 ad   ( P L A G F BN      t  ( ( A s   ( T s  ( O t f t t t M E I F u s   ( a C   ( a I  ( P o   ( a f D   ( a l 2 s b c t a l a m iN  ey a cnp a a t a gN  ey a cnp a fN  ey np]
+[DELETED: H 5 a m ey npN     ( t o    ( t   ( a a    ( r    ( e    ( c   ( u t 1 b n m t $ s b c t a a e a f c r t t a o t F i r t t e c a r u l t s t t A  ( P t   ( b t t   ( u a   ( p p   () t A s r t o a u a p  ( ( Ey ey a c]E,LN EY p    ( l    ( r    ( c]
+[DELETED:  H     ( S    ( d    ( l    ( g t f d o e e a e c t a e   ( E e    ( p    ( e w    ( l    ( c r  ( ( E p g o    ( l w ae  ae ][ S or    ( o oe    .)IH   ( C f p u § 7 o t P U A l o    ( l w ae  ae ][ S]
+[DELETED: H 7    ( o o    ( he, oe.  ( ( ( I t s t f w h t m i    ( “ H    ( “ i   () C( A l s g  ( ( T a   ( A   ( A s   ( B b o  ( E   ( a   ( a a  ( A t   ( t s d t t S B a T C S E a]
+[DELETED:  H    ( t  ( ( A g A   ( A l 8 o w p i a p o p t r a 9  ( O o b J 1 e y t A s r t t G A M  ( T   ( a   b bn, ss;   ( a i   ( p p a a i i e c u § 9   ( t s o p p a a i i w f f t F i a e o t i o t p p a a i t a d t l o m   ( a e o ey s f tG G p   ( t   ( t   ( a]
+[DELETED: H 9   ( a a a   ( r f c t t a o f u § 9   ( t   ( p  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1273
+M5 5lr0063
+CF 5lr0064
+By: Chair, Economic Matters Committee (By Request – Departmental – Maryland
+Energy Administration)
+Introduced and read first time: February 7, 2025
+Assigned to: Economic Matters and Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Maryland Strategic Energy Investment Fund and Customer–Sited Solar
+3 Program – Alterations
+4 FOR the purpose of authorizing the use of the Maryland Strategic Energy Investment Fund
+5 for certain grants and loans; altering the allowed uses of the Regional Greenhouse
+6 Gas Initiative auction revenue and certain compliance fee revenue; altering certain
+7 reporting requirements for the Fund; altering the definition of “low to moderate
+8 income” for purposes of the Customer–Sited Solar Program; and generally relating
+9 to the Maryland Strategic Energy Investment Fund and the Customer–Sited Solar
+10 Program.
+11 BY repealing and reenacting, without amendments,
+12 Article – State Government
+13 Section 9–2016(a)(1) and (b)
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – State Government
+18 Section 9–2016(a)(3), 9–20B–05, and 9–20B–12
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – State Government
+24 9–2016.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1273*
+
+2 HOUSE BILL 1273
+1 (a) (1) In this section the following words have the meanings indicated.
+2 (3) “Low to moderate income” means a household with an annual
+3 household income at or below 150% of the [average] AREA median income [for the State].
+4 (b) There is a Customer–Sited Solar Program in the Administration.
+5 9–20B–05.
+6 (a) IN THIS SECTION, “HOUSEHOLDS WITH LOW TO MODERATE INCOME”
+7 MEANS A HOUSEHOLD WITH AN ANNUAL HOUSEHOLD INCOME AT OR BELOW 150%
+8 OF THE AREA MEDIAN INCOME.
+9 (A–1) There is a Maryland Strategic Energy Investment Fund.
+10 (b) The purpose of the Fund is to implement the Strategic Energy Investment
+11 Program.
+12 (c) The Administration shall administer the Fund.
+13 (d) (1) The Fund is a special, nonlapsing fund that is not subject to § 7–302 of
+14 the State Finance and Procurement Article.
+15 (2) The Treasurer shall hold the Fund separately and the Comptroller shall
+16 account for the Fund.
+17 (e) The Fund consists of:
+18 (1) all of the proceeds from the sale of allowances under § 2–1002(g) of the
+19 Environment Article;
+20 (2) money appropriated in the State budget to the Program;
+21 (3) repayments and prepayments of principal and interest on loans made
+22 from the Fund;
+23 (4) interest and investment earnings on the Fund;
+24 (5) compliance fees paid under § 7–705 of the Public Utilities Article;
+25 (6) money received from any public or private source for the benefit of the
+26 Fund;
+27 (7) money transferred from the Public Service Commission under §
+28 7–207.2(c)(3) of the Public Utilities Article; and
+29 (8) money distributed under § 2–614.1 of the Tax – General Article.
+
+HOUSE BILL 1273 3
+1 (f) The Administration shall use the Fund:
+2 (1) to invest in the promotion, development, and implementation of:
+3 (i) cost–effective energy efficiency and conservation programs,
+4 projects, or activities, including measurement and verification of energy savings;
+5 (ii) renewable and clean energy resources;
+6 (iii) climate change programs directly related to reducing or
+7 mitigating the effects of climate change; and
+8 (iv) demand response programs that are designed to promote
+9 changes in electric usage by customers in response to:
+10 1. changes in the price of electricity over time; or
+11 2. incentives designed to induce lower electricity use at times
+12 of high wholesale market prices or when system reliability is jeopardized;
+13 (2) to provide targeted programs, projects, activities, and investments to
+14 reduce electricity consumption by customers in the low–income and moderate–income
+15 residential sectors;
+16 (3) to provide supplemental funds for low–income energy assistance
+17 through the Electric Universal Service Program established under § 7–512.1 of the Public
+18 Utilities Article and other electric assistance programs in the Department of Human
+19 Services;
+20 (4) to provide rate relief by offsetting electricity rates of residential
+21 customers, including an offset of surcharges imposed on ratepayers under Title 7, Subtitle
+22 2, Part II of the Public Utilities Article;
+23 (5) to provide grants, loans, and other assistance and investment as
+24 necessary and appropriate to implement the purposes of the Program as set forth in §
+25 9–20B–03 of this subtitle;
+26 (6) to implement energy–related public education and outreach initiatives
+27 regarding reducing energy consumption and greenhouse gas emissions;
+28 (7) to provide rebates under the Electric Vehicle Recharging Equipment
+29 Rebate Program established under § 9–2009 of this title;
+30 (8) to provide grants to encourage combined heat and power projects at
+31 industrial facilities;
+
+4 HOUSE BILL 1273
+1 (9) to provide at least $1,200,000 in each fiscal year for fiscal year 2025
+2 through fiscal year 2028 to the Climate Technology Founder’s Fund established under §
+3 10–858 of the Economic Development Article;
+4 (10) subject to subsection (f–2) of this section, to provide at least $2,100,000
+5 in funding each fiscal year to the Maryland Energy Innovation Fund established under §
+6 10–835 of the Economic Development Article;
+7 (11) to provide at least $500,000 each year to the Resiliency Hub Grant
+8 Program Fund under § 9–2011 of this title;
+9 (12) to provide grants through the Customer–Sited Solar Program under §
+10 9–2016 of this title; [and]
+11 (13) TO PROVIDE LOANS AND GRANTS FOR BUILDING
+12 ELECTRIFICATION AND TRANSPORTATION ELECTRIFICATION; AND
+13 (14) to pay the expenses of the Program.
+14 (f–1) (1) Any funding provided under subsection (f)(9) of this section that is not
+15 spent in a given fiscal year shall revert to the Fund in the following fiscal year.
+16 (2) The Administration may provide additional funding for the purposes
+17 stated in subsection (f)(9) of this section.
+18 (f–2) Of the funds transferred to the Maryland Energy Innovation Fund under
+19 subsection (f)(10) of this section:
+20 (1) at least $1,200,000 may be used to fund the Maryland Clean Energy
+21 Center established under § 10–806 of the Economic Development Article; and
+22 (2) at least $900,000 may be used to fund the Maryland Energy Innovation
+23 Institute established under § 10–829 of the Economic Development Article.
+24 (g) Proceeds received by the Fund from the sale of allowances under § 2–1002(g)
+25 of the Environment Article shall be allocated as follows:
+26 (1) at least 50% shall be credited to an energy assistance account to be used
+27 for the Electric Universal Service Program and other electricity assistance programs in the
+28 Department of Human Services;
+29 (2) at least 20% shall be credited to a low and moderate income
+30 ELECTRIFICATION, efficiency, and conservation programs account and to a general
+31 ELECTRIFICATION, efficiency, and conservation programs account for
+32 ELECTRIFICATION, energy efficiency, and conservation programs, projects, or activities
+
+HOUSE BILL 1273 5
+1 and demand response programs, of which at least one–half shall be targeted to the low and
+2 moderate income ELECTRIFICATION, efficiency, and conservation programs account for:
+3 (i) the low–income residential sector at no cost to the participants
+4 of the programs, projects, or activities; and
+5 (ii) the moderate–income residential sector;
+6 (3) at least 20% shall be credited to a renewable and clean energy programs
+7 account for:
+8 (i) renewable and clean energy programs and initiatives;
+9 (ii) energy–related public education and outreach; and
+10 (iii) climate change and resiliency programs; and
+11 (4) up to 10%, but not more than $7,500,000, shall be credited to an
+12 administrative expense account for costs related to the administration of the Fund,
+13 including the review of electric company plans for achieving electricity savings and demand
+14 reductions that the electric companies are required under law to submit to the
+15 Administration.
+16 (g–1) Proceeds received by the Fund from compliance fees under § 7–705(b)(2)(i)2 of
+17 the Public Utilities Article shall be allocated as follows:
+18 (1) beginning in fiscal year 2025, at least 20% of the proceeds shall be used
+19 to provide grants to support the installation of new solar energy generating systems under
+20 the Customer–Sited Solar Program;
+21 (2) up to 10% of the proceeds shall be credited to an administrative expense
+22 account for costs related to the administration of the Fund;
+23 (3) proceeds collected but unused from a previous year shall be used before
+24 proceeds allocated for the current year; and
+25 (4) the Administration shall reallocate to other authorized uses any
+26 proceeds that are not used within 3 fiscal years after collection.
+27 (h) (1) [Energy] ELECTRIFICATION, ENERGY efficiency, and conservation
+28 programs under subsection (g)(2) of this section include:
+29 (i) low–income energy efficiency programs;
+30 (ii) residential and small business energy efficiency programs;
+31 (iii) commercial and industrial energy efficiency programs;
+
+6 HOUSE BILL 1273
+1 (iv) State and local energy efficiency programs;
+2 (v) demand response programs;
+3 (vi) loan programs and alternative financing mechanisms; and
+4 (vii) grants to training funds and other organizations supporting job
+5 training for deployment of energy efficiency and energy conservation technology and
+6 equipment.
+7 (2) Energy–related public education and outreach and renewable and clean
+8 energy programs and initiatives under subsection (g)(3)(i) and (ii) of this section include:
+9 (i) production incentives for specified renewable energy sources;
+10 (ii) expansion of existing grant programs for solar, geothermal, and
+11 wind programs;
+12 (iii) loan programs and alternative financing mechanisms; and
+13 (iv) consumer education and outreach programs that are designed to
+14 reach low–income communities.
+15 (i) (1) Except as provided in paragraph (2) of this subsection, compliance fees
+16 paid under § 7–705(b) of the Public Utilities Article may be used only to make loans and
+17 grants to support the creation of new Tier 1 renewable energy sources in the State that are
+18 owned by or directly benefit:
+19 (i) low– to moderate–income communities located in a census tract
+20 with [an average] A median income at or below 80% of the [average] median income for the
+21 State; [or]
+22 (ii) overburdened or underserved communities, as defined in § 1–701
+23 of the Environment Article; OR
+24 (III) HOUSEHOLDS WITH LOW TO MODERATE INCOME.
+25 (2) Compliance fees paid under § 7–705(b)(2)(i)2 of the Public Utilities
+26 Article shall be accounted for separately within the Fund and may be used only to make
+27 loans and grants to support the creation of new solar energy sources in the State that are
+28 owned by or directly benefit:
+29 (i) low– to moderate–income communities located in a census tract
+30 with [an average] A median income at or below 80% of the [average] median income for the
+31 State;
+
+HOUSE BILL 1273 7
+1 (ii) overburdened or underserved communities, as defined in § 1–701
+2 of the Environment Article; or
+3 (iii) households with low to moderate income[, as defined in § 9–2016
+4 of this title].
+5 [(i–1) (1) (i) In this subsection the following words have the meanings
+6 indicated.
+7 (ii) “Area median income” has the meaning stated in § 4–1801 of the
+8 Housing and Community Development Article.
+9 (iii) “Low and moderate income” means having an annual household
+10 income that is at or below 120% of the area median income.
+11 (2)] (3) Compliance fees paid under § 7–705(b–1) of the Public Utilities
+12 Article shall be accounted for separately within the Fund and may be used only to make
+13 loans and grants to promote increased opportunities for the growth and development of
+14 small, minority, women–owned, and veteran–owned businesses in the State that install
+15 geothermal systems in the State.
+16 (j) (1) The Treasurer shall invest the money of the Fund in the same manner
+17 as other State money may be invested.
+18 (2) Any investment earnings of the Fund shall be paid into the Fund.
+19 (3) Any repayment of principal and interest on loans made from the Fund
+20 shall be paid into the Fund.
+21 (4) Balances in the Fund shall be held for the benefit of the Program, shall
+22 be expended solely for the purposes of the Program, and may not be used for the general
+23 obligations of government.
+24 (k) Expenditures from the Fund shall be made by:
+25 (1) an appropriation in the annual State budget; or
+26 (2) a budget amendment in accordance with § 7–209 of the State Finance
+27 and Procurement Article.
+28 (l) An expenditure by budget amendment may be made under subsection (k) of
+29 this section only after:
+30 (1) the Administration has submitted the proposed budget amendment and
+31 supporting documentation to the Senate Budget and Taxation Committee, Senate
+32 Education, Energy, and the Environment Committee, House Appropriations Committee,
+33 and House Economic Matters Committee; and
+
+8 HOUSE BILL 1273
+1 (2) the committees have had 45 days for review and comment.
+2 (m) (1) A loan or grant made available from the Fund to a unit of State or local
+3 government shall comply with §§ 14–416 and 17–303 of the State Finance and Procurement
+4 Article.
+5 (2) At least 80% of workers participating in a project or program that
+6 receives money from the Fund must reside within 50 miles of the project or program, or
+7 another distance defined by the local jurisdiction where the project or program is located.
+8 9–20B–12.
+9 (a) On or before January 1 each year, the Administration shall report to the
+10 Governor, to the Board, and, in accordance with § 2–1257 of this article, to the General
+11 Assembly and the members of the Senate Finance Committee and the House Economic
+12 Matters Committee on the uses and expenditures of the Fund from the prior fiscal year.
+13 (b) The report shall include:
+14 (1) a detailed accounting of all amounts IN EXCESS OF $10,000 received
+15 by and disbursed from the Fund, including the amount and recipient of each grant awarded
+16 by the Administration[, and identifying multiple grants awarded to the same person or the
+17 same address];
+18 (2) all amounts used by the Administration for administrative purposes,
+19 including the funding source from which each amount was obtained;
+20 (3) programs, projects, and activities included in each category under §
+21 9–20B–05(g) of this subtitle;
+22 (4) the status of programs, projects, activities, and investments
+23 implemented with funds from the Fund, including an evaluation of the impact of the
+24 programs, projects, activities, and investments that are directed to low–income or
+25 moderate–income residential sectors or to other particular classes of ratepayers;
+26 (5) an estimate of [electricity] GREENHOUSE GAS savings from the
+27 programs, projects, activities, and investments;
+28 (6) the number of allowances sold in each auction;
+29 (7) the average allowance price from each auction;
+30 (8) an estimate of revenue from future auctions;
+
+HOUSE BILL 1273 9
+1 (9) an accounting of all amounts received or disbursed by the Fund from
+2 all other sources, including money received in accordance with orders issued and settlement
+3 agreements approved by the Public Service Commission;
+4 (10) recommendations for changes to the allocation of funds under §
+5 9–20B–05(g) of this subtitle;
+6 (11) the status of programs and expenditures in the current fiscal year; and
+7 (12) possible or expected program initiatives and changes in later years.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+9 1, 2025.
+
+[DELETED: :CA      5   C A M P F f G r r f t F a t d o “ t m i t P B  A  S  A  ( B  A  S  A  (  S T A 9]
+[DELETED:  H   ( ( I   ( “ t m i m a h w a a h ae  fe.][  ( T 9  (,“ T SN H W L T M IE   T–  ( T P  ( T  ( ( T t   ( T a  ( T   ( a E   ( m   ( r f   ( i   ( c   ( m F   ( m t f t P S C u § 7   ( m]
+[DELETED: H 3  ( T   ( t    ( c e e a c p p    ( r    ( c c p d r t r o m    ( d r p t a d t p c     1 c     2 i o   ( t r e c b c i t l a m r   ( t p s f f l e a t U A a o e a p i t D o H S   ( t p r r b o e r o r c 2   ( t p g l a o a a i a n 9   ( t r   ( t R   ( t i]
+[DELETED:  H    ( t t 1   ( s i 1   ( t p a l $ e y t t R H G P   ( t 9 ad   ( P L A G F BN      t  ( ( A s   ( T s  ( O t f t t t M E I F u s   ( a C   ( a I  ( P o   ( a f D   ( a l 2 s b c t a l a m iN  ey a cnp a a t a gN  ey a cnp a fN  ey np]
+[DELETED: H 5 a m ey npN     ( t o    ( t   ( a a    ( r    ( e    ( c   ( u t 1 b n m t $ s b c t a a e a f c r t t a o t F i r t t e c a r u l t s t t A  ( P t   ( b t t   ( u a   ( p p   () t A s r t o a u a p  ( ( Ey ey a c]E,LN EY p    ( l    ( r    ( c]
+[DELETED:  H     ( S    ( d    ( l    ( g t f d o e e a e c t a e   ( E e    ( p    ( e w    ( l    ( c r  ( ( E p g o    ( l w ae  ae ][ S or    ( o oe    .)IH   ( C f p u § 7 o t P U A l o    ( l w ae  ae ][ S]
+[DELETED: H 7    ( o o    ( he, oe.  ( ( ( I t s t f w h t m i    ( “ H    ( “ i   () C( A l s g  ( ( T a   ( A   ( A s   ( B b o  ( E   ( a   ( a a  ( A t   ( t s d t t S B a T C S E a]
+[DELETED:  H    ( t  ( ( A g A   ( A l 8 o w p i a p o p t r a 9  ( O o b J 1 e y t A s r t t G A M  ( T   ( a   b bn, ss;   ( a i   ( p p a a i i e c u § 9   ( t s o p p a a i i w f f t F i a e o t i o t p p a a i t a d t l o m   ( a e o ey s f tG G p   ( t   ( t   ( a]
+[DELETED: H 9   ( a a a   ( r f c t t a o f u § 9   ( t   ( p  S 1]
