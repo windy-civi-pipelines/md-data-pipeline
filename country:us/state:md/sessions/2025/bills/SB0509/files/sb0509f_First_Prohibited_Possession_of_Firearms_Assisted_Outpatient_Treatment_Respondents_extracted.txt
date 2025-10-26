@@ -1,0 +1,384 @@
+Title: SENATE BILL 509
+Official Title: SENATE BILL 509
+Number of Sections: 1
+Source: versions - First - Prohibited Possession of Firearms - Assisted Outpatient Treatment Respondents
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+E4 5lr3116
+CF HB 592
+By: Senator Henson
+Introduced and read first time: January 23, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Prohibited Possession of Firearms – Assisted Outpatient Treatment
+3 Respondents
+4 FOR the purpose of prohibiting a person from possessing a regulated firearm, rifle, or
+5 shotgun if the person is currently a respondent subject to a court order to comply
+6 with certain assisted outpatient treatment; requiring a court to promptly report
+7 certain information through a certain data portal if the court orders a person to
+8 comply with certain assisted outpatient treatment; and generally relating to persons
+9 prohibited from possessing regulated firearms, rifles, and shotguns.
+10 BY repealing and reenacting, with amendments,
+11 Article – Health – General
+12 Section 10–6A–02(b)
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 (As enacted by Chapter 704 of the Acts of the General Assembly of 2024)
+16 BY repealing and reenacting, with amendments,
+17 Article – Public Safety
+18 Section 5–133(b), 5–133.2, and 5–205(b)
+19 Annotated Code of Maryland
+20 (2022 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – Health – General
+24 10–6A–02.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0509*
+2 SENATE BILL 509
+1 (b) This subtitle may not be construed to abridge or modify any civil right of the
+2 respondent, including:
+3 (1) Any civil service ranking or appointment;
+4 (2) The right to apply for voluntary admission to a facility under § 10–609
+5 of this title; and
+6 (3) [Any] EXCEPT AS PROVIDED IN §§ 5–133 AND 5–205 OF THE
+7 PUBLIC SAFETY ARTICLE, ANY right relating to a license, permit, certification, privilege,
+8 or benefit under any law.
+9 Article – Public Safety
+10 5–133.
+11 (b) Subject to § 5–133.3 of this subtitle, a person may not possess a regulated
+12 firearm if the person:
+13 (1) has been convicted of a disqualifying crime;
+14 (2) has been convicted of a violation classified as a common law crime and
+15 received a term of imprisonment of more than 2 years;
+16 (3) (i) has been convicted on or after October 1, 2023, of a second or
+17 subsequent violation of § 4–104 of the Criminal Law Article; or
+18 (ii) has been convicted on or after October 1, 2023, of a violation of §
+19 4–104 of the Criminal Law Article if the violation resulted in the use of a loaded firearm by
+20 a minor causing death or serious bodily injury to the minor or another person;
+21 (4) subject to subsection (b–1) of this section, is on supervised probation
+22 after being convicted:
+23 (i) of a crime punishable by imprisonment for 1 year or more;
+24 (ii) for a violation of § 21–902(b) or (c) of the Transportation Article;
+25 or
+26 (iii) for violating a protective order under § 4–509 of the Family Law
+27 Article;
+28 (5) is a fugitive from justice;
+29 (6) is a habitual drunkard;
+30 (7) is addicted to a controlled dangerous substance or is a habitual user;
+SENATE BILL 509 3
+1 (8) suffers from a mental disorder as defined in § 10–101(i)(2) of the Health
+2 – General Article and has a history of violent behavior against the person or another;
+3 (9) has been found incompetent to stand trial under § 3–106 of the Criminal
+4 Procedure Article;
+5 (10) has been found not criminally responsible under § 3–110 of the
+6 Criminal Procedure Article;
+7 (11) has been voluntarily admitted for more than 30 consecutive days to a
+8 facility as defined in § 10–101 of the Health – General Article;
+9 (12) has been involuntarily committed to a facility as defined in § 10–101 of
+10 the Health – General Article;
+11 (13) is under the protection of a guardian appointed by a court under §
+12 13–201(c) or § 13–705 of the Estates and Trusts Article, except for cases in which the
+13 appointment of a guardian is solely a result of a physical disability;
+14 (14) except as provided in subsection (e) of this section, is a respondent
+15 against whom:
+16 (i) a current non ex parte civil protective order has been entered
+17 under § 4–506 of the Family Law Article; or
+18 (ii) an order for protection, as defined in § 4–508.1 of the Family Law
+19 Article, has been issued by a court of another state or a Native American tribe and is in
+20 effect; [or]
+21 (15) if under the age of 30 years at the time of possession, has been
+22 adjudicated delinquent by a juvenile court for an act that would be a disqualifying crime if
+23 committed by an adult; OR
+24 (16) IS CURRENTLY A RESPONDENT SUBJECT TO A COURT ORDER TO
+25 COMPLY WITH ASSISTED OUTPATIENT TREATMENT UNDER § 10–6A–08 OF THE
+26 HEALTH – GENERAL ARTICLE.
+27 5–133.2.
+28 (a) (1) In this section the following words have the meanings indicated.
+29 (2) “Facility” has the meaning stated in § 10–101 of the Health – General
+30 Article.
+4 SENATE BILL 509
+1 (3) “NICS Index” means the Federal Bureau of Investigation’s National
+2 Instant Criminal Background Check System.
+3 (b) (1) A court shall promptly report information required in paragraph (2) of
+4 this subsection through a secure data portal approved by the Department of Public Safety
+5 and Correctional Services if a court:
+6 (i) determines that a person is not criminally responsible under §
+7 3–110 of the Criminal Procedure Article;
+8 (ii) finds that a person is incompetent to stand trial under § 3–106 of
+9 the Criminal Procedure Article; [or]
+10 (iii) finds under § 13–201(c) or § 13–705 of the Estates and Trusts
+11 Article that a person should be under the protection of a guardian, except for cases in which
+12 the appointment of a guardian is solely a result of a physical disability; OR
+13 (IV) ORDERS A PERSON TO COMPLY WITH ASSISTED OUTPATIENT
+14 TREATMENT UNDER § 10–6A–08 OF THE HEALTH – GENERAL ARTICLE.
+15 (2) On a finding or determination under paragraph (1) of this subsection,
+16 the following information shall be reported to the NICS Index:
+17 (i) the name and identifying information of the person; and
+18 (ii) the date of the determination or finding.
+19 (c) (1) A facility shall report information required in paragraph (2) of this
+20 subsection regarding a person admitted to the facility under § 10–609 of the Health –
+21 General Article or committed to the facility under Title 10, Subtitle 6, Part III of the Health
+22 – General Article to the NICS Index through a secure data portal approved by the
+23 Department of Public Safety and Correctional Services, if:
+24 (i) the person has been admitted to a facility for 30 consecutive days
+25 or more; or
+26 (ii) the person has been involuntarily committed to a facility.
+27 (2) On admission to a facility the following information shall be reported to
+28 the NICS Index:
+29 (i) the name and identifying information of the person admitted or
+30 committed;
+31 (ii) the date the person was admitted or committed to the facility;
+32 and
+SENATE BILL 509 5
+1 (iii) the name of the facility to which the person was admitted or
+2 committed.
+3 5–205.
+4 (b) A person may not possess a rifle or shotgun if the person:
+5 (1) has been convicted of a disqualifying crime as defined in § 5–101 of this
+6 title;
+7 (2) has been convicted of a violation classified as a crime under common
+8 law and received a term of imprisonment of more than 2 years;
+9 (3) is a fugitive from justice;
+10 (4) is a habitual drunkard as defined in § 5–101 of this title;
+11 (5) is addicted to a controlled dangerous substance or is a habitual user as
+12 defined in § 5–101 of this title;
+13 (6) suffers from a mental disorder as defined in § 10–101(i)(2) of the Health
+14 – General Article and has a history of violent behavior against the person or another;
+15 (7) has been found incompetent to stand trial under § 3–106 of the Criminal
+16 Procedure Article;
+17 (8) has been found not criminally responsible under § 3–110 of the
+18 Criminal Procedure Article;
+19 (9) has been voluntarily admitted for more than 30 consecutive days to a
+20 facility as defined in § 10–101 of the Health – General Article;
+21 (10) has been involuntarily committed to a facility as defined in § 10–101 of
+22 the Health – General Article;
+23 (11) is under the protection of a guardian appointed by a court under §
+24 13–201(c) or § 13–705 of the Estates and Trusts Article, except for cases in which the
+25 appointment of a guardian is solely a result of a physical disability;
+26 (12) except as provided in subsection (c) of this section, is a respondent
+27 against whom:
+28 (i) a current non ex parte civil protective order has been entered
+29 under § 4–506 of the Family Law Article; or
+6 SENATE BILL 509
+1 (ii) an order for protection, as defined in § 4–508.1 of the Family Law
+2 Article, has been issued by a court of another state or a Native American tribe and is in
+3 effect; [or]
+4 (13) if under the age of 30 years at the time of possession, has been
+5 adjudicated delinquent by a juvenile court for an act that would be a disqualifying crime if
+6 committed by an adult; OR
+7 (14) IS CURRENTLY A RESPONDENT SUBJECT TO A COURT ORDER TO
+8 COMPLY WITH ASSISTED OUTPATIENT TREATMENT UNDER § 10–6A–08 OF THE
+9 HEALTH – GENERAL ARTICLE.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+11 1, 2025, contingent on the taking effect of Chapter 704 of the Acts of the General Assembly
+12 of 2024, and if Chapter 704 does not become effective, this Act, with no further action
+13 required by the General Assembly, shall be null and void. This Act shall remain effective
+14 until the taking effect of the termination provision specified in Section 3 of Chapter 704 of
+15 the Acts of the General Assembly of 2024. If that termination provision takes effect, this
+16 Act shall be abrogated and of no further force and effect. This Act may not be interpreted
+17 to have any effect on that termination provision.
+[DELETED: :CA      5   C A P R F t p o p a p p a r f r o s w c a o t r a c t p r c c p B  A S  A  (  ( B  A S  A  (  S T A 1]
+[DELETED:  S   ( T r   ( A   ( T o   ( A]E§§535X A P I   A  O TSA A RE    o A 5  ( S f   ( h   ( h r   ( ( h s    ( h 4 a   ( s a    ( o    ( f o    ( f A   ( i   ( i   ( i]
+[DELETED: S 3   ( s –   ( h P   ( h b f n c r u § 3 o t C   ( h f   ( h t   ( i u t p o a g a b a c u § 1 a   ( e a p i s ( o t s i a r a    ( a u    ( a A e o]   ( i u t a o 3 y a t t o p h b a c ( W A O T U   O T1–G  E R . 5  ( ( I   ( “ A]
+[DELETED:  S    ( “ I  ( ( A t a    ( d 3    ( f t o]    ( f A t  ()VO    E  E R18H–G .   ( O t    ( t    ( t  ( ( A f s r i r i p ( o t s r a p a t t f u § 1 o t H – G – G A t t N I t a s d p a b t D    ( t o    ( t   ( O t    ( t c    ( t a]
+[DELETED: S 5    ( t n o t f t w t p w a o c 5  ( A   ( h t   ( h l   ( i   ( i   ( i d   ( s –   ( h P   ( h b f n c r u § 3 o t C   ( h f   ( h t   ( i u t p o a g a b a c u § 1 a   ( e a p i s ( o t s i a r a    ( a u]
+[DELETED:  S     ( a A e o]   ( i u t a o 3 y a t t o p h b a c ( W A O T U   O T1–G  E R .  S 1 o r u t A t]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 509
+E4 5lr3116
+CF HB 592
+By: Senator Henson
+Introduced and read first time: January 23, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Prohibited Possession of Firearms – Assisted Outpatient Treatment
+3 Respondents
+4 FOR the purpose of prohibiting a person from possessing a regulated firearm, rifle, or
+5 shotgun if the person is currently a respondent subject to a court order to comply
+6 with certain assisted outpatient treatment; requiring a court to promptly report
+7 certain information through a certain data portal if the court orders a person to
+8 comply with certain assisted outpatient treatment; and generally relating to persons
+9 prohibited from possessing regulated firearms, rifles, and shotguns.
+10 BY repealing and reenacting, with amendments,
+11 Article – Health – General
+12 Section 10–6A–02(b)
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 (As enacted by Chapter 704 of the Acts of the General Assembly of 2024)
+16 BY repealing and reenacting, with amendments,
+17 Article – Public Safety
+18 Section 5–133(b), 5–133.2, and 5–205(b)
+19 Annotated Code of Maryland
+20 (2022 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – Health – General
+24 10–6A–02.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0509*
+
+2 SENATE BILL 509
+1 (b) This subtitle may not be construed to abridge or modify any civil right of the
+2 respondent, including:
+3 (1) Any civil service ranking or appointment;
+4 (2) The right to apply for voluntary admission to a facility under § 10–609
+5 of this title; and
+6 (3) [Any] EXCEPT AS PROVIDED IN §§ 5–133 AND 5–205 OF THE
+7 PUBLIC SAFETY ARTICLE, ANY right relating to a license, permit, certification, privilege,
+8 or benefit under any law.
+9 Article – Public Safety
+10 5–133.
+11 (b) Subject to § 5–133.3 of this subtitle, a person may not possess a regulated
+12 firearm if the person:
+13 (1) has been convicted of a disqualifying crime;
+14 (2) has been convicted of a violation classified as a common law crime and
+15 received a term of imprisonment of more than 2 years;
+16 (3) (i) has been convicted on or after October 1, 2023, of a second or
+17 subsequent violation of § 4–104 of the Criminal Law Article; or
+18 (ii) has been convicted on or after October 1, 2023, of a violation of §
+19 4–104 of the Criminal Law Article if the violation resulted in the use of a loaded firearm by
+20 a minor causing death or serious bodily injury to the minor or another person;
+21 (4) subject to subsection (b–1) of this section, is on supervised probation
+22 after being convicted:
+23 (i) of a crime punishable by imprisonment for 1 year or more;
+24 (ii) for a violation of § 21–902(b) or (c) of the Transportation Article;
+25 or
+26 (iii) for violating a protective order under § 4–509 of the Family Law
+27 Article;
+28 (5) is a fugitive from justice;
+29 (6) is a habitual drunkard;
+30 (7) is addicted to a controlled dangerous substance or is a habitual user;
+
+SENATE BILL 509 3
+1 (8) suffers from a mental disorder as defined in § 10–101(i)(2) of the Health
+2 – General Article and has a history of violent behavior against the person or another;
+3 (9) has been found incompetent to stand trial under § 3–106 of the Criminal
+4 Procedure Article;
+5 (10) has been found not criminally responsible under § 3–110 of the
+6 Criminal Procedure Article;
+7 (11) has been voluntarily admitted for more than 30 consecutive days to a
+8 facility as defined in § 10–101 of the Health – General Article;
+9 (12) has been involuntarily committed to a facility as defined in § 10–101 of
+10 the Health – General Article;
+11 (13) is under the protection of a guardian appointed by a court under §
+12 13–201(c) or § 13–705 of the Estates and Trusts Article, except for cases in which the
+13 appointment of a guardian is solely a result of a physical disability;
+14 (14) except as provided in subsection (e) of this section, is a respondent
+15 against whom:
+16 (i) a current non ex parte civil protective order has been entered
+17 under § 4–506 of the Family Law Article; or
+18 (ii) an order for protection, as defined in § 4–508.1 of the Family Law
+19 Article, has been issued by a court of another state or a Native American tribe and is in
+20 effect; [or]
+21 (15) if under the age of 30 years at the time of possession, has been
+22 adjudicated delinquent by a juvenile court for an act that would be a disqualifying crime if
+23 committed by an adult; OR
+24 (16) IS CURRENTLY A RESPONDENT SUBJECT TO A COURT ORDER TO
+25 COMPLY WITH ASSISTED OUTPATIENT TREATMENT UNDER § 10–6A–08 OF THE
+26 HEALTH – GENERAL ARTICLE.
+27 5–133.2.
+28 (a) (1) In this section the following words have the meanings indicated.
+29 (2) “Facility” has the meaning stated in § 10–101 of the Health – General
+30 Article.
+
+4 SENATE BILL 509
+1 (3) “NICS Index” means the Federal Bureau of Investigation’s National
+2 Instant Criminal Background Check System.
+3 (b) (1) A court shall promptly report information required in paragraph (2) of
+4 this subsection through a secure data portal approved by the Department of Public Safety
+5 and Correctional Services if a court:
+6 (i) determines that a person is not criminally responsible under §
+7 3–110 of the Criminal Procedure Article;
+8 (ii) finds that a person is incompetent to stand trial under § 3–106 of
+9 the Criminal Procedure Article; [or]
+10 (iii) finds under § 13–201(c) or § 13–705 of the Estates and Trusts
+11 Article that a person should be under the protection of a guardian, except for cases in which
+12 the appointment of a guardian is solely a result of a physical disability; OR
+13 (IV) ORDERS A PERSON TO COMPLY WITH ASSISTED OUTPATIENT
+14 TREATMENT UNDER § 10–6A–08 OF THE HEALTH – GENERAL ARTICLE.
+15 (2) On a finding or determination under paragraph (1) of this subsection,
+16 the following information shall be reported to the NICS Index:
+17 (i) the name and identifying information of the person; and
+18 (ii) the date of the determination or finding.
+19 (c) (1) A facility shall report information required in paragraph (2) of this
+20 subsection regarding a person admitted to the facility under § 10–609 of the Health –
+21 General Article or committed to the facility under Title 10, Subtitle 6, Part III of the Health
+22 – General Article to the NICS Index through a secure data portal approved by the
+23 Department of Public Safety and Correctional Services, if:
+24 (i) the person has been admitted to a facility for 30 consecutive days
+25 or more; or
+26 (ii) the person has been involuntarily committed to a facility.
+27 (2) On admission to a facility the following information shall be reported to
+28 the NICS Index:
+29 (i) the name and identifying information of the person admitted or
+30 committed;
+31 (ii) the date the person was admitted or committed to the facility;
+32 and
+
+SENATE BILL 509 5
+1 (iii) the name of the facility to which the person was admitted or
+2 committed.
+3 5–205.
+4 (b) A person may not possess a rifle or shotgun if the person:
+5 (1) has been convicted of a disqualifying crime as defined in § 5–101 of this
+6 title;
+7 (2) has been convicted of a violation classified as a crime under common
+8 law and received a term of imprisonment of more than 2 years;
+9 (3) is a fugitive from justice;
+10 (4) is a habitual drunkard as defined in § 5–101 of this title;
+11 (5) is addicted to a controlled dangerous substance or is a habitual user as
+12 defined in § 5–101 of this title;
+13 (6) suffers from a mental disorder as defined in § 10–101(i)(2) of the Health
+14 – General Article and has a history of violent behavior against the person or another;
+15 (7) has been found incompetent to stand trial under § 3–106 of the Criminal
+16 Procedure Article;
+17 (8) has been found not criminally responsible under § 3–110 of the
+18 Criminal Procedure Article;
+19 (9) has been voluntarily admitted for more than 30 consecutive days to a
+20 facility as defined in § 10–101 of the Health – General Article;
+21 (10) has been involuntarily committed to a facility as defined in § 10–101 of
+22 the Health – General Article;
+23 (11) is under the protection of a guardian appointed by a court under §
+24 13–201(c) or § 13–705 of the Estates and Trusts Article, except for cases in which the
+25 appointment of a guardian is solely a result of a physical disability;
+26 (12) except as provided in subsection (c) of this section, is a respondent
+27 against whom:
+28 (i) a current non ex parte civil protective order has been entered
+29 under § 4–506 of the Family Law Article; or
+
+6 SENATE BILL 509
+1 (ii) an order for protection, as defined in § 4–508.1 of the Family Law
+2 Article, has been issued by a court of another state or a Native American tribe and is in
+3 effect; [or]
+4 (13) if under the age of 30 years at the time of possession, has been
+5 adjudicated delinquent by a juvenile court for an act that would be a disqualifying crime if
+6 committed by an adult; OR
+7 (14) IS CURRENTLY A RESPONDENT SUBJECT TO A COURT ORDER TO
+8 COMPLY WITH ASSISTED OUTPATIENT TREATMENT UNDER § 10–6A–08 OF THE
+9 HEALTH – GENERAL ARTICLE.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+11 1, 2025, contingent on the taking effect of Chapter 704 of the Acts of the General Assembly
+12 of 2024, and if Chapter 704 does not become effective, this Act, with no further action
+13 required by the General Assembly, shall be null and void. This Act shall remain effective
+14 until the taking effect of the termination provision specified in Section 3 of Chapter 704 of
+15 the Acts of the General Assembly of 2024. If that termination provision takes effect, this
+16 Act shall be abrogated and of no further force and effect. This Act may not be interpreted
+17 to have any effect on that termination provision.
+
+[DELETED: :CA      5   C A P R F t p o p a p p a r f r o s w c a o t r a c t p r c c p B  A S  A  (  ( B  A S  A  (  S T A 1]
+[DELETED:  S   ( T r   ( A   ( T o   ( A]E§§535X A P I   A  O TSA A RE    o A 5  ( S f   ( h   ( h r   ( ( h s    ( h 4 a   ( s a    ( o    ( f o    ( f A   ( i   ( i   ( i]
+[DELETED: S 3   ( s –   ( h P   ( h b f n c r u § 3 o t C   ( h f   ( h t   ( i u t p o a g a b a c u § 1 a   ( e a p i s ( o t s i a r a    ( a u    ( a A e o]   ( i u t a o 3 y a t t o p h b a c ( W A O T U   O T1–G  E R . 5  ( ( I   ( “ A]
+[DELETED:  S    ( “ I  ( ( A t a    ( d 3    ( f t o]    ( f A t  ()VO    E  E R18H–G .   ( O t    ( t    ( t  ( ( A f s r i r i p ( o t s r a p a t t f u § 1 o t H – G – G A t t N I t a s d p a b t D    ( t o    ( t   ( O t    ( t c    ( t a]
+[DELETED: S 5    ( t n o t f t w t p w a o c 5  ( A   ( h t   ( h l   ( i   ( i   ( i d   ( s –   ( h P   ( h b f n c r u § 3 o t C   ( h f   ( h t   ( i u t p o a g a b a c u § 1 a   ( e a p i s ( o t s i a r a    ( a u]
+[DELETED:  S     ( a A e o]   ( i u t a o 3 y a t t o p h b a c ( W A O T U   O T1–G  E R .  S 1 o r u t A t]

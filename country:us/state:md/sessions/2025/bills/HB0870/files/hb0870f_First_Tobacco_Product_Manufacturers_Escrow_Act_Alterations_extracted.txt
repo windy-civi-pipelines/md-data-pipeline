@@ -1,0 +1,836 @@
+Title: HOUSE BILL 870
+Official Title: HOUSE BILL 870
+Number of Sections: 1
+Source: versions - First - Tobacco Product Manufacturers - Escrow Act - Alterations
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+C2 5lr2620
+HB 1173/24 – HGO CF 5lr3063
+By: Delegate Rosenberg
+Introduced and read first time: January 30, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Tobacco Product Manufacturers – Escrow Act – Alterations
+3 FOR the purpose of requiring, beginning in a certain year, a certain tobacco product
+4 manufacturer to pay a certain equity fee instead of depositing certain funds in a
+5 certain escrow account; authorizing a certain tobacco product manufacturer to
+6 contest the amount of the equity fee paid under certain circumstances; requiring a
+7 certain tobacco product manufacturer to make a certain certification to the Attorney
+8 General each year; authorizing the Attorney General to recover the attorney’s fees,
+9 costs, and expenses of a certain action and to deposit certain funds into the Cigarette
+10 Restitution Fund; altering the information that certain tobacco product
+11 manufacturers must include in a certain certification to the Attorney General; and
+12 generally relating to the tobacco product manufacturers and the Escrow Act.
+13 BY repealing and reenacting, with amendments,
+14 Article – Business Regulation
+15 Section 16–401 and 16–403 to be under the amended subtitle “Subtitle 4. Tobacco
+16 Product Manufacturers Equity Act”; and 16–501, 16–503, 16–504, and
+17 16–506(e) to be under the amended subtitle “Subtitle 5. Certification
+18 Requirements for Tobacco Product Manufacturers”
+19 Annotated Code of Maryland
+20 (2024 Replacement Volume)
+21 BY adding to
+22 Article – Business Regulation
+23 Section 16–404
+24 Annotated Code of Maryland
+25 (2024 Replacement Volume)
+26 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+27 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0870*
+2 HOUSE BILL 870
+1 Article – Business Regulation
+2 Subtitle 4. Tobacco Product Manufacturers [Escrow] EQUITY Act.
+3 16–401.
+4 (a) Cigarette smoking presents serious public health concerns to the State and to
+5 the citizens of the State. The United States Surgeon General has determined that smoking
+6 causes lung cancer, heart disease, and other serious diseases, and that there are hundreds
+7 of thousands of tobacco–related deaths in the United States each year. These diseases most
+8 often do not appear until many years after the person in question begins smoking.
+9 (b) Cigarette smoking also presents serious financial concerns for the State.
+10 Under certain health care programs, the State may have a legal obligation to provide
+11 medical assistance to eligible persons for health conditions associated with cigarette
+12 smoking, and those persons may have a legal entitlement to receive the medical assistance.
+13 (c) Under these programs, the State pays millions of dollars each year to provide
+14 medical assistance for these persons for health conditions associated with cigarette
+15 smoking.
+16 (d) It is the policy of the State that financial burdens imposed on the State by
+17 cigarette smoking be borne by tobacco product manufacturers rather than by the State [to
+18 the extent that such manufacturers either determine to enter into a settlement with the
+19 State or are found culpable by the courts] AND, FOR THAT PURPOSE, TOBACCO
+20 PRODUCT MANUFACTURERS THAT HAVE SETTLED WITH THE STATE PAY THE STATE
+21 MILLIONS OF DOLLARS EACH YEAR, UNLIKE OTHER TOBACCO PRODUCT
+22 MANUFACTURERS THAT DO NOT MAKE DIRECT PAYMENTS.
+23 (e) On November 23, 1998, leading United States tobacco product manufacturers
+24 entered into a settlement agreement, entitled the “Master Settlement Agreement”, with
+25 the State. The Master Settlement Agreement obligates these manufacturers, in return for
+26 a release of past, present, and certain future claims against them as described in the
+27 Agreement, to pay substantial sums to the State (tied in part to their volume of sales); to
+28 fund a national foundation devoted to the interests of public health; and to make
+29 substantial changes in their advertising and marketing practices and corporate culture,
+30 with the intention of reducing underage smoking.
+31 (f) [(1) It would be contrary to the policy of the State if tobacco product
+32 manufacturers who determine not to enter into such a settlement could use a resulting cost
+33 advantage to derive large, short–term profits in the years before liability may arise without
+34 ensuring that the State will have an eventual source of recovery from them if they are
+35 proven to have acted culpably.
+36 (2) It is thus in the interest of the State to require such tobacco product
+37 manufacturers to establish a reserve fund to guarantee a source of compensation in order
+HOUSE BILL 870 3
+1 to prevent them from deriving large, short–term profits and then becoming judgment–proof
+2 before liability may arise] THE PUBLIC HEALTH OBLIGATIONS OF THE STATE ARE
+3 OWED EQUALLY TO ALL INDIVIDUALS IN THE STATE WHO SMOKE, REGARDLESS OF
+4 THE BRAND OF CIGARETTE SMOKED OR THE STATUS OF THE TOBACCO PRODUCT
+5 MANUFACTURER UNDER THE MASTER SETTLEMENT AGREEMENT.
+6 (G) IT IS CONSISTENT WITH THE POLICY OF THE STATE TO REQUIRE
+7 TOBACCO PRODUCT MANUFACTURERS THAT DO NOT MAKE PAYMENTS DIRECTLY TO
+8 THE STATE THROUGH THE MASTER SETTLEMENT AGREEMENT TO PAY AN AMOUNT
+9 THAT IS INTENDED TO:
+10 (1) PREVENT MANUFACTURERS FROM DERIVING LARGE,
+11 SHORT–TERM PROFITS AND THEN BECOMING JUDGMENT–PROOF;
+12 (2) REQUIRE TOBACCO PRODUCT MANUFACTURERS TO INTERNALIZE
+13 THE HEALTH CARE COSTS IMPOSED ON THE STATE BY CIGARETTE SMOKING;
+14 (3) INCREASE THE PRICE OF CIGARETTES TO REDUCE SMOKING
+15 RATES, PARTICULARLY AMONG THE YOUTH OF THE STATE; AND
+16 (4) SERVE AS PARTIAL COMPENSATION FOR THE FINANCIAL
+17 BURDENS IMPOSED ON THE STATE BY CIGARETTE SMOKING.
+18 16–403.
+19 (a) Any tobacco product manufacturer that sells cigarettes to consumers within
+20 the State, whether directly or through a distributor, retailer, or similar intermediary or
+21 intermediaries, after June 1, 1999, shall either:
+22 (1) become a participating manufacturer, as that term is defined in section
+23 II(jj) of the Master Settlement Agreement, and generally perform its financial obligations
+24 under the Master Settlement Agreement; or
+25 (2) (I) [place] HAVE PLACED into a qualified escrow fund by April 15
+26 of the year following the year in question the following amounts, as such amounts are
+27 adjusted for inflation:
+28 [(i)] 1. for 1999, $.0094241 per unit sold after June 1, 1999;
+29 [(ii)] 2. for 2000, $.0104712 per unit sold;
+30 [(iii)] 3. for each of 2001 and 2002, $.0136125 per unit sold;
+31 [(iv)] 4. for each of 2003, 2004, 2005, and 2006, $.0167539 per unit
+32 sold; and
+4 HOUSE BILL 870
+1 [(v)] 5. for 2007 [and each year thereafter] THROUGH 2025,
+2 $.0188482 per unit sold; AND
+3 (II) BEGINNING IN 2026 AND EACH YEAR THEREAFTER, PAY TO
+4 THE ATTORNEY GENERAL AN EQUITY FEE OF $.0188482 PER UNIT SOLD, AS
+5 ADJUSTED FOR INFLATION.
+6 (b) (1) A tobacco product manufacturer that [places] PLACED funds into
+7 escrow in accordance with subsection [(a)(2)] (A)(2)(I) of this section shall receive the
+8 interest or other appreciation on the funds as earned.
+9 (2) The funds themselves shall be released from escrow only under the
+10 following circumstances:
+11 (i) to pay a judgment or settlement on any released claim brought
+12 against such tobacco product manufacturer by the State or any releasing party located or
+13 residing in the State. Funds shall be released from escrow under this subparagraph:
+14 1. in the order in which they were placed into escrow; and
+15 2. only to the extent and at the time necessary to make
+16 payments required under such judgment or settlement;
+17 (ii) to the extent that a tobacco product manufacturer establishes
+18 that the amount it was required to place into escrow on account of units sold in the State
+19 in a particular year was greater than the Master Settlement Agreement payments, as
+20 determined pursuant to section IX(i) of that Agreement, including after final determination
+21 of all adjustments, that such manufacturer would have been required to make on account
+22 of such units sold had it been a participating manufacturer, the excess shall be released
+23 from escrow and revert back to such tobacco manufacturer; or
+24 (iii) to the extent funds are not released from escrow under item (i)
+25 or (ii) of this paragraph, funds shall be released from escrow and revert to such tobacco
+26 product manufacturer 25 years after the date on which they were placed into escrow.
+27 (C) A TOBACCO PRODUCT MANUFACTURER THAT TIMELY PAYS THE EQUITY
+28 FEE UNDER SUBSECTION (A)(2)(II) OF THIS SECTION MAY CONTEST THE AMOUNT OF
+29 THE EQUITY FEE REQUIRED WITHIN 1 YEAR AFTER THE DATE OF PAYMENT.
+30 (D) (1) THE ATTORNEY GENERAL SHALL DISTRIBUTE THE EQUITY FEES
+31 PAID UNDER SUBSECTION (A)(2)(II) OF THIS SECTION TO THE CIGARETTE
+32 RESTITUTION FUND ESTABLISHED UNDER § 7–317 OF THE STATE FINANCE AND
+33 PROCUREMENT ARTICLE.
+HOUSE BILL 870 5
+1 (2) EQUITY FEES DISTRIBUTED TO THE CIGARETTE RESTITUTION
+2 FUND UNDER PARAGRAPH (1) OF THIS SUBSECTION SHALL BE APPROPRIATED FOR
+3 PURPOSES CONSISTENT WITH § 7–317(F)(1)(VI)1 OF THE STATE FINANCE AND
+4 PROCUREMENT ARTICLE.
+5 [(c)] (E) (1) [Each] ON OR BEFORE APRIL 30 EACH YEAR, EACH tobacco
+6 product manufacturer [that elects to place funds into escrow pursuant to subsection (a)(2)
+7 of this section] shall [annually] certify to the Attorney General that it:
+8 (I) is in compliance with subsections (a)(2) and (b) of this section;
+9 AND
+10 (II) 1. HAS PLACED FUNDS INTO ESCROW UNDER
+11 SUBSECTION (A)(2)(I) OF THIS SECTION; OR
+12 2. HAS PAID THE EQUITY FEE UNDER SUBSECTION
+13 (A)(2)(II) OF THIS SECTION.
+14 (2) (I) The Attorney General may bring a civil action on behalf of the
+15 State against any tobacco product manufacturer that fails to place into escrow the funds
+16 OR PAY THE EQUITY FEE required under this section.
+17 (II) THE ATTORNEY GENERAL IS ENTITLED TO RECOVER THE
+18 ATTORNEY’S FEES, COSTS, AND EXPENSES OF THE ACTION FOR THE USE OF THE
+19 STATE.
+20 (III) 1. THE ATTORNEY GENERAL SHALL DEPOSIT ANY
+21 FUNDS RECEIVED UNDER SUBPARAGRAPH (II) OF THIS PARAGRAPH INTO THE
+22 CIGARETTE RESTITUTION FUND ESTABLISHED UNDER § 7–317 OF THE STATE
+23 FINANCE AND PROCUREMENT ARTICLE.
+24 2. EQUITY FEES DISTRIBUTED TO THE CIGARETTE
+25 RESTITUTION FUND UNDER SUBSECTION (D) OF THIS SECTION SHALL BE
+26 APPROPRIATED FOR PURPOSES CONSISTENT WITH § 7–317(F)(1)(VI)1 OF THE
+27 STATE FINANCE AND PROCUREMENT ARTICLE.
+28 (3) (i) Any tobacco product manufacturer that fails in any year to place
+29 into escrow the funds OR PAY THE EQUITY FEE required under this section shall be
+30 required within 15 days to place such funds into escrow OR PAY THE EQUITY FEE as will
+31 bring the manufacturer into compliance with this section.
+32 (ii) The court, upon a finding of a violation of subsection (a)(2) or (b)
+33 of this section, may impose a civil penalty, to be paid to the General Fund of the State:
+6 HOUSE BILL 870
+1 1. in an amount not to exceed 5 percent of the amount
+2 improperly withheld [from escrow] per day of the violation; and
+3 2. in a total amount not to exceed 100 percent of the original
+4 amount improperly withheld [from escrow].
+5 (4) (i) If a tobacco product manufacturer has knowingly violated
+6 subsection (a)(2) or (b) of this section, the manufacturer shall be required within 15 days to
+7 place such funds into escrow OR PAY THE EQUITY FEE as will bring it into compliance with
+8 this section.
+9 (ii) Upon a finding of a knowing violation of subsection (a)(2) or (b)
+10 of this section, the court may impose a civil penalty, to be paid to the General Fund of the
+11 State:
+12 1. in an amount not to exceed 15 percent of the amount
+13 improperly withheld [from escrow] per day of the violation; and
+14 2. in a total amount not to exceed 300 percent of the original
+15 amount improperly withheld [from escrow].
+16 (5) In the case of a second knowing violation of subsection (a)(2) or (b) of
+17 this section, the tobacco product manufacturer shall be prohibited from selling cigarettes
+18 to consumers within the State, whether directly or through a distributor, retailer, or similar
+19 intermediary or intermediaries, for a period not to exceed 2 years.
+20 (6) Each failure to make the annual deposit OR PAY THE EQUITY FEE
+21 required under this section shall constitute a separate violation.
+22 16–404.
+23 THE ATTORNEY GENERAL MAY ADOPT REGULATIONS TO CARRY OUT THE
+24 PROVISIONS OF THIS SUBTITLE.
+25 Subtitle 5. [Escrow] CERTIFICATION Requirements for [Nonparticipating] Tobacco
+26 Product Manufacturers.
+27 16–501.
+28 (a) In this subtitle the following words have the meanings indicated.
+29 (b) (1) “Brand family” means all styles of cigarettes sold under the same
+30 trademark, regardless of whether the cigarettes are differentiated from one another by
+31 means of additional modifiers or descriptors such as “menthol”, “lights”, “kings”, “100s”, or
+32 other differentiation.
+HOUSE BILL 870 7
+1 (2) “Brand family” includes any use of a brand name (alone or in
+2 conjunction with any other word) trademark, logo, symbol, motto, selling message,
+3 recognizable pattern of colors, or any other indicia of product identification identical or
+4 similar to, or identifiable with, a previously known brand of cigarettes.
+5 (c) “Cigarette” has the meaning stated in § 16–402(e) of this title (the [Escrow]
+6 EQUITY Act).
+7 (d) “Comptroller” means the Comptroller of the State or any authorized agent of
+8 the Comptroller who is responsible for collection of the excise tax on cigarettes.
+9 (e) [“Escrow] “EQUITY Act” means Subtitle 4 of this title.
+10 (f) “Executive Director” includes an agent or employee of the Alcohol, Tobacco,
+11 and Cannabis Commission responsible for the enforcement of State tobacco laws and
+12 regulations.
+13 (g) “Licensed wholesaler” means a wholesaler who is licensed under Subtitle 2 of
+14 this title to act as a wholesaler and any person who is an authorized agent of the licensed
+15 wholesaler for the stamping and distribution of cigarettes.
+16 (h) “Master Settlement Agreement” has the meaning stated in § 16–402(f) of this
+17 title (the [Escrow] EQUITY Act).
+18 (i) “Nonparticipating manufacturer” means any tobacco product manufacturer
+19 that is not a participating manufacturer.
+20 (j) “Participating manufacturer” has the meaning stated in section II(jj) of the
+21 Master Settlement Agreement and all amendments to the Agreement.
+22 (k) “Qualified escrow fund” has the meaning stated in § 16–402(g) of this title (the
+23 [Escrow] EQUITY Act).
+24 (l) “Tobacco product manufacturer” has the meaning stated in § 16–402(j) of this
+25 title (the [Escrow] EQUITY Act).
+26 (m) “Units sold” has the meaning stated in § 16–402(k) of this title (the [Escrow]
+27 EQUITY Act).
+28 16–503.
+29 (a) A tobacco product manufacturer whose cigarettes are sold in this State,
+30 whether directly or through a distributor, retailer or similar intermediary, shall execute
+31 and deliver, on a form prescribed by the Attorney General, a certification to the Attorney
+32 General no later than the 30th day of April each year, certifying under penalty of perjury
+33 that, as of the date of the certification, the tobacco product manufacturer either:
+8 HOUSE BILL 870
+1 (1) is a participating manufacturer; or
+2 (2) is in full compliance with the [Escrow] EQUITY Act.
+3 (b) (1) A participating manufacturer shall include in its certification a list of
+4 its brand families.
+5 (2) The participating manufacturer shall update the list at least 30
+6 calendar days prior to any addition or modification to its brand families by executing and
+7 delivering a supplemental certification to the Attorney General.
+8 (c) (1) A nonparticipating manufacturer shall include in its certification a
+9 complete list of all of its brand families.
+10 (2) The certification shall:
+11 (i) separately list each brand family of cigarettes and the number of
+12 units sold for each brand family that was sold in the State during the preceding calendar
+13 year;
+14 (ii) list each of its brand families that have been sold in the State at
+15 any time during the current calendar year;
+16 (iii) indicate by an asterisk any brand family sold in the State during
+17 the preceding calendar year that is no longer being sold in the State as of the date of such
+18 certification; and
+19 (iv) identify by name and address any other manufacturer of such
+20 brand families in the preceding or current calendar year.
+21 (3) The nonparticipating manufacturer shall update the list at least 30
+22 calendar days prior to any addition or modification of its brand families by executing and
+23 delivering a supplemental certification to the Attorney General.
+24 (d) (1) In the case of a nonparticipating manufacturer, the certification shall
+25 further certify that the nonparticipating manufacturer:
+26 (i) is registered to do business in the State or has appointed a
+27 resident agent for service of process and provided notice of the appointment as required by
+28 § 16–505 of this subtitle;
+29 (ii) 1. REGARDING SALES MADE ON OR BEFORE DECEMBER
+30 31, 2025, has established and continues to maintain a qualified escrow fund, and has
+31 executed a qualified escrow agreement that has been reviewed and approved by the
+32 Attorney General and that governs the qualified escrow fund; [and] OR
+HOUSE BILL 870 9
+1 2. HAS PAID THE EQUITY FEE REQUIRED UNDER §
+2 16–403(A)(2)(II) OF THIS TITLE; AND
+3 (iii) is in full compliance with the [Escrow] EQUITY Act and this
+4 subtitle and any regulations adopted in accordance with the [Escrow] EQUITY Act and this
+5 subtitle.
+6 (2) The certification shall include:
+7 (i) FOR NONPARTICIPATING MANUFACTURERS THAT
+8 ESTABLISHED AN ESCROW FUND:
+9 1. the name, address and telephone number of the financial
+10 institution in which the nonparticipating manufacturer has established a qualified escrow
+11 fund required under [§ 16–403(a)(2)] § 16–403(A)(2)(I) of this title (the [Escrow] EQUITY
+12 Act) and all regulations adopted under it;
+13 [(ii)] 2. the account number of the qualified escrow fund and
+14 subaccount number for the State of Maryland;
+15 [(iii)] 3. the amount the nonparticipating manufacturer HAS
+16 placed in the fund for cigarettes sold in the State during the preceding calendar year, the
+17 date and amount of each deposit, and any additional information the Attorney General
+18 considers necessary to confirm the information required by this subparagraph; and
+19 [(iv)] 4. the amount of and date of any withdrawal or transfer of
+20 funds the nonparticipating manufacturer made at any time from the fund or from any other
+21 qualified escrow fund into which the nonparticipating manufacturer made escrow
+22 payments under [§ 16–403(a)(2)] § 16–403(A)(2)(I) of this title (the [Escrow] EQUITY Act)
+23 and all regulations adopted under that section; OR
+24 (II) FOR A NONPARTICIPATING MANUFACTURER THAT PAID THE
+25 EQUITY FEE, THE AMOUNT OF THE PAYMENT THE NONPARTICIPATING
+26 MANUFACTURER HAS PAID FOR CIGARETTES SOLD IN THE STATE DURING THE
+27 PRECEDING CALENDAR YEAR, THE DATE AND AMOUNT OF THE PAYMENT, AND ANY
+28 ADDITIONAL INFORMATION THE ATTORNEY GENERAL CONSIDERS NECESSARY TO
+29 CONFIRM THE INFORMATION REQUIRED BY THIS ITEM.
+30 (e) (1) A tobacco product manufacturer may not include a brand family in its
+31 certification unless:
+32 (i) in the case of a participating manufacturer, the participating
+33 manufacturer affirms that the brand family is deemed to be its cigarettes for purposes of
+34 calculating its payments under the Master Settlement Agreement for the relevant year, in
+10 HOUSE BILL 870
+1 the volume and shares determined in accordance with the Master Settlement Agreement;
+2 and
+3 (ii) in the case of a nonparticipating manufacturer, the
+4 nonparticipating manufacturer affirms that the brand family is deemed to be its cigarettes
+5 for purposes of the [Escrow] EQUITY Act.
+6 (2) Nothing in this section may be construed as limiting or otherwise
+7 affecting the State’s right to maintain that a brand family constitutes cigarettes of a
+8 different tobacco product manufacturer for purposes of calculating payments under the
+9 Master Settlement Agreement or for purposes of the [Escrow] EQUITY Act.
+10 (3) The tobacco product manufacturer shall maintain all invoices and
+11 documentation of sales and any other information relied upon for its certification for a
+12 period of 5 years, unless otherwise required by law to maintain them for a greater period
+13 of time.
+14 16–504.
+15 (a) Except as provided in subsection (b) of this section, the Attorney General shall
+16 develop and make available for public inspection a directory listing all tobacco product
+17 manufacturers that THE ATTORNEY GENERAL DETERMINES have provided current and
+18 accurate certifications conforming to the requirements of § 16–503 of this subtitle AND
+19 WITH ALL APPLICABLE FEDERAL, STATE, AND LOCAL LAWS and all COMPLIANT brand
+20 families that are listed in such certifications.
+21 (b) (1) The Attorney General may not include or retain in the directory the
+22 name or brand families of any nonparticipating manufacturer that fails to provide the
+23 required certification or whose certification the Attorney General determines is not in
+24 compliance with § 16–503(c)(3) and (d) of this subtitle, unless the Attorney General has
+25 determined that the violation has been cured to the satisfaction of the Attorney General.
+26 (2) Neither a tobacco product manufacturer nor a brand family may be
+27 included or retained in the directory if the Attorney General concludes, in the case of a
+28 nonparticipating manufacturer, that:
+29 (i) 1. any escrow payment required under [§ 16–403(a)(2)] §
+30 16–403(A)(2)(I) of this title (the [Escrow] EQUITY Act) for any period for any brand
+31 family, whether or not listed by such nonparticipating manufacturer, has not been fully
+32 paid into a qualified escrow fund governed by a qualified escrow agreement that has been
+33 approved by the Attorney General; or
+34 2. ANY EQUITY FEE REQUIRED UNDER § 16–403(A)(2)(II)
+35 OF THIS TITLE FOR ANY PERIOD FOR ANY BRAND FAMILY, WHETHER OR NOT LISTED
+36 BY SUCH NONPARTICIPATING MANUFACTURER, HAS NOT BEEN FULLY PAID TO THE
+37 ATTORNEY GENERAL; OR
+HOUSE BILL 870 11
+1 (ii) any outstanding final judgment, including interest on the
+2 judgment, for a violation of the Escrow Act has not been fully satisfied for the brand family
+3 or the manufacturer.
+4 (3) The Attorney General shall update the directory as necessary in order
+5 to correct mistakes and to add or remove a tobacco product manufacturer or brand family
+6 to keep the directory in conformity with the requirements of this subtitle.
+7 (4) Each licensed wholesaler shall provide and update as necessary an
+8 electronic mail address to the Attorney General for the purpose of receiving any
+9 notifications that may be required by this subtitle.
+10 (c) A person may not:
+11 (1) affix a stamp to a package or other container of cigarettes of a tobacco
+12 product manufacturer or brand family not included in the directory; or
+13 (2) sell, offer or possess for sale in this State, or import for personal
+14 consumption in this State, cigarettes of a tobacco product manufacturer or brand family
+15 not included in the directory.
+16 16–506.
+17 (e) (1) To promote compliance with this subtitle, the Attorney General may
+18 adopt regulations requiring a tobacco product manufacturer subject to the requirements of
+19 § 16–503(a) of this subtitle to make the escrow deposits OR PAY THE EQUITY FEE required
+20 in quarterly installments during the year in which the sales covered by the deposits OR
+21 PAYMENTS are made.
+22 (2) The Attorney General may require production of information sufficient
+23 to enable the Attorney General to determine the adequacy of the amount of the installment
+24 deposit OR PAYMENT.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That, notwithstanding the
+26 provisions of § 1–210 of the General Provisions Article, the provisions of this Act are not
+27 severable, and if any provision of this Act or the application thereof to any person or
+28 circumstance is held invalid for any reason in a court of competent jurisdiction no other
+29 provision or application of this Act may be given effect.
+30 SECTION 3. AND BE IT FURTHER ENACTED, That:
+31 (a) In this section, “Master Settlement Agreement” means the settlement
+32 agreement and related documents entered into on November 23, 1998, by the State and
+33 leading United States tobacco product manufacturers.
+12 HOUSE BILL 870
+1 (b) Notwithstanding the provisions of § 1–210 of the General Provisions Article,
+2 the provisions of this Act are not severable, and if all or any portion of the equity fee
+3 established under § 16–403 of the Business Regulation Article, as enacted under Section 1
+4 of this Act, results in a determination by the Firm, as that term is defined by the Master
+5 Settlement Agreement, that Title 16, Subtitle 4 (the Equity Act) of the Business Regulation
+6 Article no longer constitutes a qualifying statute, as that term is defined in § IX(d)(1)(C) of
+7 the Master Settlement Agreement, no other provision or application of this Act may be
+8 given effect.
+9 SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2025.
+[DELETED: :CA      5   C A T F t p o r b i a c y a c t p m c e a a a c t p m t c c G c R F a t i t c t p m g B  A S P M E A a 1 1 1 a 1 t b u t a s “ 5 C R  A  ( B  A S  A  (  S T]
+[DELETED:  H  A S Ew ]Q 1  ( C t c o o  ( C s a p s f c f t S U c h c p t S m h a l o t p m a t e p f h c a w c s  ( U m a f t p f h c a w c s  ( I c t t S o a f c b t c,AD F T PE T T T O D E YR U O T P .  ( O e t a r o p p a c f c a t a d i t A f a n f d t t i o p h a t m s w  ( ( I w b c t t p o t S i t p m a e p   ( I m]
+[DELETED: H 3 t b l m aTH P O O T TE  A E GSA () IT I C W T P O T T T R T A E GMSO ( , M F D LETTTPF–; ( T; ( T P O C T R SS  TE S; ( A P C F T F T  1  ( A t i   ( b I u   ( pe ) [  o a    () f] 1    () f] 2    () f] 3    ()  f]4 s]
+[DELETED:  H     () f 2  e y tr,]5 [d]2T $  () 26IB  R  T E A E F O  P U SD AG$2 .  ( ( A t p m t ps f iP e i a w s () o t s s r]()(A i   ( T f t s b r f e o u t f    ( t a r     1 i     2 o t t e a a t t n t m p    ( t t i a p y g t t M S p a d o o f    ( t o p()   AII )(  .() ( TAH T E U S AII O T S T T I)()F§77S U    T IA. R]
+[DELETED: H 5 ( EC F D T T I E(   C W  FVI O T T I A7()()1SA. R  () ( Eh ]()[]OA30E N P  R  p t on  ayc[]:  ()  i  () 1IH P F I E U AI N )();   2 P T E F U S)(II  .   ( T) S     ) TAIH T EYSS S  A U,.  () 1 TAIH T E S D A R U S II O T P I TRF§77 E U E U   O T TPA. R R   2 E F D T T IF( U U S D O T S S B F P C W  FVI O T7()()FPA. I R R   ( ( A i e t f  r u t s s b P T E F r a b    ( T o]
+[DELETED:  H      1 i a a n t e 5 p o t a i fw      2 i a fw.   ( ( I a t p m h k v s pw  t    ( U o S     1 i a a n t e 1 p o t a i fw      2 i a fw.   ( I t t i   ( E rTA T E M A R T C O T S Ew  Ng ]C[E P 1  ( I  ( ( “ f m a s o c s u t s t m o]
+[DELETED: H 7   ( “ f i a u o a b n ( o i c w a o w t l s m s m r s  ( “ E    ( “ t  ( “w ]“Q  ( “ a C C r f t e o S t l a r  ( “ t w  ( “ t Ew ]Q  ( “ t  ( “ M  ( “] Ew Q  ( “ t Ew ]Q  ( “ E   1  ( A t p m w c a s i t S w a G t]
+[DELETED:  H    ( i   ( i Ew ]Q  ( ( A i   ( T p m s u t l a l 3 c d  ( ( A n m s i i i c a c   ( T    ( s u y    ( l a    ( i t c    ( i b   ( T n m s t l a l 3 c d  ( ( I f    ( i r t d b i t S o h a a r §    (  E,2  hse h e a q e a t h b r a a b t A;a ]]
+[DELETED: H 9   2 § P T E F R U ()();II E     ( i i f c t Ew A a t]Q s Ew ]Q s   ( T    ( N M T     t i f §)  Ew]§1()()[] AI Q A    () t a n o t q e f a] 2 s    () t a t n m] 3H p d c    () t] 4 f q e f i w t n m m e p §)  Ew ]§1()()[] AI Q a  ()IF FE T A O T P T N H P F C S I T T D TR T  T E .  ( ( A c    ( i t c o a p m t p m c]
+[DELETED:  H  t a    ( i t c o a n m t n f Ew ]Q   ( N i t s m b c a l o o a t S r t m t a b f c c o a d M Ew ]Q   ( T t p m s m a i a d p o 1  ( E d m  dc T ES aL TE SCS   b f  ( ( T n o b f o a n m t f t p t r c o w c t A G d i n i c d   ( N n i n    ( a e p r u § 1 []§()()[]I Q  o t t ( Ew A f a p f a b f p a     §1()(  AIIY R G; EL ]
+[DELETED: H 1    ( a o f j i i o t j o   ( T t t   ( E l w s p a u a n a e m a t t A G f t p o r a n  ( A   ( a p   ( s o o p f s i t S o i f p c n 1  ( ( T a §   i     ( T t d .  S 2 A B I F E T n t p s a i a p o t A o t a t t a p o c p  S  ( I t s “ S A m t s a l]
+[DELETED:  H   ( N t p o t A a n s a o a p o t e f e o S A t g  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 870
+C2 5lr2620
+HB 1173/24 – HGO CF 5lr3063
+By: Delegate Rosenberg
+Introduced and read first time: January 30, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Tobacco Product Manufacturers – Escrow Act – Alterations
+3 FOR the purpose of requiring, beginning in a certain year, a certain tobacco product
+4 manufacturer to pay a certain equity fee instead of depositing certain funds in a
+5 certain escrow account; authorizing a certain tobacco product manufacturer to
+6 contest the amount of the equity fee paid under certain circumstances; requiring a
+7 certain tobacco product manufacturer to make a certain certification to the Attorney
+8 General each year; authorizing the Attorney General to recover the attorney’s fees,
+9 costs, and expenses of a certain action and to deposit certain funds into the Cigarette
+10 Restitution Fund; altering the information that certain tobacco product
+11 manufacturers must include in a certain certification to the Attorney General; and
+12 generally relating to the tobacco product manufacturers and the Escrow Act.
+13 BY repealing and reenacting, with amendments,
+14 Article – Business Regulation
+15 Section 16–401 and 16–403 to be under the amended subtitle “Subtitle 4. Tobacco
+16 Product Manufacturers Equity Act”; and 16–501, 16–503, 16–504, and
+17 16–506(e) to be under the amended subtitle “Subtitle 5. Certification
+18 Requirements for Tobacco Product Manufacturers”
+19 Annotated Code of Maryland
+20 (2024 Replacement Volume)
+21 BY adding to
+22 Article – Business Regulation
+23 Section 16–404
+24 Annotated Code of Maryland
+25 (2024 Replacement Volume)
+26 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+27 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0870*
+
+2 HOUSE BILL 870
+1 Article – Business Regulation
+2 Subtitle 4. Tobacco Product Manufacturers [Escrow] EQUITY Act.
+3 16–401.
+4 (a) Cigarette smoking presents serious public health concerns to the State and to
+5 the citizens of the State. The United States Surgeon General has determined that smoking
+6 causes lung cancer, heart disease, and other serious diseases, and that there are hundreds
+7 of thousands of tobacco–related deaths in the United States each year. These diseases most
+8 often do not appear until many years after the person in question begins smoking.
+9 (b) Cigarette smoking also presents serious financial concerns for the State.
+10 Under certain health care programs, the State may have a legal obligation to provide
+11 medical assistance to eligible persons for health conditions associated with cigarette
+12 smoking, and those persons may have a legal entitlement to receive the medical assistance.
+13 (c) Under these programs, the State pays millions of dollars each year to provide
+14 medical assistance for these persons for health conditions associated with cigarette
+15 smoking.
+16 (d) It is the policy of the State that financial burdens imposed on the State by
+17 cigarette smoking be borne by tobacco product manufacturers rather than by the State [to
+18 the extent that such manufacturers either determine to enter into a settlement with the
+19 State or are found culpable by the courts] AND, FOR THAT PURPOSE, TOBACCO
+20 PRODUCT MANUFACTURERS THAT HAVE SETTLED WITH THE STATE PAY THE STATE
+21 MILLIONS OF DOLLARS EACH YEAR, UNLIKE OTHER TOBACCO PRODUCT
+22 MANUFACTURERS THAT DO NOT MAKE DIRECT PAYMENTS.
+23 (e) On November 23, 1998, leading United States tobacco product manufacturers
+24 entered into a settlement agreement, entitled the “Master Settlement Agreement”, with
+25 the State. The Master Settlement Agreement obligates these manufacturers, in return for
+26 a release of past, present, and certain future claims against them as described in the
+27 Agreement, to pay substantial sums to the State (tied in part to their volume of sales); to
+28 fund a national foundation devoted to the interests of public health; and to make
+29 substantial changes in their advertising and marketing practices and corporate culture,
+30 with the intention of reducing underage smoking.
+31 (f) [(1) It would be contrary to the policy of the State if tobacco product
+32 manufacturers who determine not to enter into such a settlement could use a resulting cost
+33 advantage to derive large, short–term profits in the years before liability may arise without
+34 ensuring that the State will have an eventual source of recovery from them if they are
+35 proven to have acted culpably.
+36 (2) It is thus in the interest of the State to require such tobacco product
+37 manufacturers to establish a reserve fund to guarantee a source of compensation in order
+
+HOUSE BILL 870 3
+1 to prevent them from deriving large, short–term profits and then becoming judgment–proof
+2 before liability may arise] THE PUBLIC HEALTH OBLIGATIONS OF THE STATE ARE
+3 OWED EQUALLY TO ALL INDIVIDUALS IN THE STATE WHO SMOKE, REGARDLESS OF
+4 THE BRAND OF CIGARETTE SMOKED OR THE STATUS OF THE TOBACCO PRODUCT
+5 MANUFACTURER UNDER THE MASTER SETTLEMENT AGREEMENT.
+6 (G) IT IS CONSISTENT WITH THE POLICY OF THE STATE TO REQUIRE
+7 TOBACCO PRODUCT MANUFACTURERS THAT DO NOT MAKE PAYMENTS DIRECTLY TO
+8 THE STATE THROUGH THE MASTER SETTLEMENT AGREEMENT TO PAY AN AMOUNT
+9 THAT IS INTENDED TO:
+10 (1) PREVENT MANUFACTURERS FROM DERIVING LARGE,
+11 SHORT–TERM PROFITS AND THEN BECOMING JUDGMENT–PROOF;
+12 (2) REQUIRE TOBACCO PRODUCT MANUFACTURERS TO INTERNALIZE
+13 THE HEALTH CARE COSTS IMPOSED ON THE STATE BY CIGARETTE SMOKING;
+14 (3) INCREASE THE PRICE OF CIGARETTES TO REDUCE SMOKING
+15 RATES, PARTICULARLY AMONG THE YOUTH OF THE STATE; AND
+16 (4) SERVE AS PARTIAL COMPENSATION FOR THE FINANCIAL
+17 BURDENS IMPOSED ON THE STATE BY CIGARETTE SMOKING.
+18 16–403.
+19 (a) Any tobacco product manufacturer that sells cigarettes to consumers within
+20 the State, whether directly or through a distributor, retailer, or similar intermediary or
+21 intermediaries, after June 1, 1999, shall either:
+22 (1) become a participating manufacturer, as that term is defined in section
+23 II(jj) of the Master Settlement Agreement, and generally perform its financial obligations
+24 under the Master Settlement Agreement; or
+25 (2) (I) [place] HAVE PLACED into a qualified escrow fund by April 15
+26 of the year following the year in question the following amounts, as such amounts are
+27 adjusted for inflation:
+28 [(i)] 1. for 1999, $.0094241 per unit sold after June 1, 1999;
+29 [(ii)] 2. for 2000, $.0104712 per unit sold;
+30 [(iii)] 3. for each of 2001 and 2002, $.0136125 per unit sold;
+31 [(iv)] 4. for each of 2003, 2004, 2005, and 2006, $.0167539 per unit
+32 sold; and
+
+4 HOUSE BILL 870
+1 [(v)] 5. for 2007 [and each year thereafter] THROUGH 2025,
+2 $.0188482 per unit sold; AND
+3 (II) BEGINNING IN 2026 AND EACH YEAR THEREAFTER, PAY TO
+4 THE ATTORNEY GENERAL AN EQUITY FEE OF $.0188482 PER UNIT SOLD, AS
+5 ADJUSTED FOR INFLATION.
+6 (b) (1) A tobacco product manufacturer that [places] PLACED funds into
+7 escrow in accordance with subsection [(a)(2)] (A)(2)(I) of this section shall receive the
+8 interest or other appreciation on the funds as earned.
+9 (2) The funds themselves shall be released from escrow only under the
+10 following circumstances:
+11 (i) to pay a judgment or settlement on any released claim brought
+12 against such tobacco product manufacturer by the State or any releasing party located or
+13 residing in the State. Funds shall be released from escrow under this subparagraph:
+14 1. in the order in which they were placed into escrow; and
+15 2. only to the extent and at the time necessary to make
+16 payments required under such judgment or settlement;
+17 (ii) to the extent that a tobacco product manufacturer establishes
+18 that the amount it was required to place into escrow on account of units sold in the State
+19 in a particular year was greater than the Master Settlement Agreement payments, as
+20 determined pursuant to section IX(i) of that Agreement, including after final determination
+21 of all adjustments, that such manufacturer would have been required to make on account
+22 of such units sold had it been a participating manufacturer, the excess shall be released
+23 from escrow and revert back to such tobacco manufacturer; or
+24 (iii) to the extent funds are not released from escrow under item (i)
+25 or (ii) of this paragraph, funds shall be released from escrow and revert to such tobacco
+26 product manufacturer 25 years after the date on which they were placed into escrow.
+27 (C) A TOBACCO PRODUCT MANUFACTURER THAT TIMELY PAYS THE EQUITY
+28 FEE UNDER SUBSECTION (A)(2)(II) OF THIS SECTION MAY CONTEST THE AMOUNT OF
+29 THE EQUITY FEE REQUIRED WITHIN 1 YEAR AFTER THE DATE OF PAYMENT.
+30 (D) (1) THE ATTORNEY GENERAL SHALL DISTRIBUTE THE EQUITY FEES
+31 PAID UNDER SUBSECTION (A)(2)(II) OF THIS SECTION TO THE CIGARETTE
+32 RESTITUTION FUND ESTABLISHED UNDER § 7–317 OF THE STATE FINANCE AND
+33 PROCUREMENT ARTICLE.
+
+HOUSE BILL 870 5
+1 (2) EQUITY FEES DISTRIBUTED TO THE CIGARETTE RESTITUTION
+2 FUND UNDER PARAGRAPH (1) OF THIS SUBSECTION SHALL BE APPROPRIATED FOR
+3 PURPOSES CONSISTENT WITH § 7–317(F)(1)(VI)1 OF THE STATE FINANCE AND
+4 PROCUREMENT ARTICLE.
+5 [(c)] (E) (1) [Each] ON OR BEFORE APRIL 30 EACH YEAR, EACH tobacco
+6 product manufacturer [that elects to place funds into escrow pursuant to subsection (a)(2)
+7 of this section] shall [annually] certify to the Attorney General that it:
+8 (I) is in compliance with subsections (a)(2) and (b) of this section;
+9 AND
+10 (II) 1. HAS PLACED FUNDS INTO ESCROW UNDER
+11 SUBSECTION (A)(2)(I) OF THIS SECTION; OR
+12 2. HAS PAID THE EQUITY FEE UNDER SUBSECTION
+13 (A)(2)(II) OF THIS SECTION.
+14 (2) (I) The Attorney General may bring a civil action on behalf of the
+15 State against any tobacco product manufacturer that fails to place into escrow the funds
+16 OR PAY THE EQUITY FEE required under this section.
+17 (II) THE ATTORNEY GENERAL IS ENTITLED TO RECOVER THE
+18 ATTORNEY’S FEES, COSTS, AND EXPENSES OF THE ACTION FOR THE USE OF THE
+19 STATE.
+20 (III) 1. THE ATTORNEY GENERAL SHALL DEPOSIT ANY
+21 FUNDS RECEIVED UNDER SUBPARAGRAPH (II) OF THIS PARAGRAPH INTO THE
+22 CIGARETTE RESTITUTION FUND ESTABLISHED UNDER § 7–317 OF THE STATE
+23 FINANCE AND PROCUREMENT ARTICLE.
+24 2. EQUITY FEES DISTRIBUTED TO THE CIGARETTE
+25 RESTITUTION FUND UNDER SUBSECTION (D) OF THIS SECTION SHALL BE
+26 APPROPRIATED FOR PURPOSES CONSISTENT WITH § 7–317(F)(1)(VI)1 OF THE
+27 STATE FINANCE AND PROCUREMENT ARTICLE.
+28 (3) (i) Any tobacco product manufacturer that fails in any year to place
+29 into escrow the funds OR PAY THE EQUITY FEE required under this section shall be
+30 required within 15 days to place such funds into escrow OR PAY THE EQUITY FEE as will
+31 bring the manufacturer into compliance with this section.
+32 (ii) The court, upon a finding of a violation of subsection (a)(2) or (b)
+33 of this section, may impose a civil penalty, to be paid to the General Fund of the State:
+
+6 HOUSE BILL 870
+1 1. in an amount not to exceed 5 percent of the amount
+2 improperly withheld [from escrow] per day of the violation; and
+3 2. in a total amount not to exceed 100 percent of the original
+4 amount improperly withheld [from escrow].
+5 (4) (i) If a tobacco product manufacturer has knowingly violated
+6 subsection (a)(2) or (b) of this section, the manufacturer shall be required within 15 days to
+7 place such funds into escrow OR PAY THE EQUITY FEE as will bring it into compliance with
+8 this section.
+9 (ii) Upon a finding of a knowing violation of subsection (a)(2) or (b)
+10 of this section, the court may impose a civil penalty, to be paid to the General Fund of the
+11 State:
+12 1. in an amount not to exceed 15 percent of the amount
+13 improperly withheld [from escrow] per day of the violation; and
+14 2. in a total amount not to exceed 300 percent of the original
+15 amount improperly withheld [from escrow].
+16 (5) In the case of a second knowing violation of subsection (a)(2) or (b) of
+17 this section, the tobacco product manufacturer shall be prohibited from selling cigarettes
+18 to consumers within the State, whether directly or through a distributor, retailer, or similar
+19 intermediary or intermediaries, for a period not to exceed 2 years.
+20 (6) Each failure to make the annual deposit OR PAY THE EQUITY FEE
+21 required under this section shall constitute a separate violation.
+22 16–404.
+23 THE ATTORNEY GENERAL MAY ADOPT REGULATIONS TO CARRY OUT THE
+24 PROVISIONS OF THIS SUBTITLE.
+25 Subtitle 5. [Escrow] CERTIFICATION Requirements for [Nonparticipating] Tobacco
+26 Product Manufacturers.
+27 16–501.
+28 (a) In this subtitle the following words have the meanings indicated.
+29 (b) (1) “Brand family” means all styles of cigarettes sold under the same
+30 trademark, regardless of whether the cigarettes are differentiated from one another by
+31 means of additional modifiers or descriptors such as “menthol”, “lights”, “kings”, “100s”, or
+32 other differentiation.
+
+HOUSE BILL 870 7
+1 (2) “Brand family” includes any use of a brand name (alone or in
+2 conjunction with any other word) trademark, logo, symbol, motto, selling message,
+3 recognizable pattern of colors, or any other indicia of product identification identical or
+4 similar to, or identifiable with, a previously known brand of cigarettes.
+5 (c) “Cigarette” has the meaning stated in § 16–402(e) of this title (the [Escrow]
+6 EQUITY Act).
+7 (d) “Comptroller” means the Comptroller of the State or any authorized agent of
+8 the Comptroller who is responsible for collection of the excise tax on cigarettes.
+9 (e) [“Escrow] “EQUITY Act” means Subtitle 4 of this title.
+10 (f) “Executive Director” includes an agent or employee of the Alcohol, Tobacco,
+11 and Cannabis Commission responsible for the enforcement of State tobacco laws and
+12 regulations.
+13 (g) “Licensed wholesaler” means a wholesaler who is licensed under Subtitle 2 of
+14 this title to act as a wholesaler and any person who is an authorized agent of the licensed
+15 wholesaler for the stamping and distribution of cigarettes.
+16 (h) “Master Settlement Agreement” has the meaning stated in § 16–402(f) of this
+17 title (the [Escrow] EQUITY Act).
+18 (i) “Nonparticipating manufacturer” means any tobacco product manufacturer
+19 that is not a participating manufacturer.
+20 (j) “Participating manufacturer” has the meaning stated in section II(jj) of the
+21 Master Settlement Agreement and all amendments to the Agreement.
+22 (k) “Qualified escrow fund” has the meaning stated in § 16–402(g) of this title (the
+23 [Escrow] EQUITY Act).
+24 (l) “Tobacco product manufacturer” has the meaning stated in § 16–402(j) of this
+25 title (the [Escrow] EQUITY Act).
+26 (m) “Units sold” has the meaning stated in § 16–402(k) of this title (the [Escrow]
+27 EQUITY Act).
+28 16–503.
+29 (a) A tobacco product manufacturer whose cigarettes are sold in this State,
+30 whether directly or through a distributor, retailer or similar intermediary, shall execute
+31 and deliver, on a form prescribed by the Attorney General, a certification to the Attorney
+32 General no later than the 30th day of April each year, certifying under penalty of perjury
+33 that, as of the date of the certification, the tobacco product manufacturer either:
+
+8 HOUSE BILL 870
+1 (1) is a participating manufacturer; or
+2 (2) is in full compliance with the [Escrow] EQUITY Act.
+3 (b) (1) A participating manufacturer shall include in its certification a list of
+4 its brand families.
+5 (2) The participating manufacturer shall update the list at least 30
+6 calendar days prior to any addition or modification to its brand families by executing and
+7 delivering a supplemental certification to the Attorney General.
+8 (c) (1) A nonparticipating manufacturer shall include in its certification a
+9 complete list of all of its brand families.
+10 (2) The certification shall:
+11 (i) separately list each brand family of cigarettes and the number of
+12 units sold for each brand family that was sold in the State during the preceding calendar
+13 year;
+14 (ii) list each of its brand families that have been sold in the State at
+15 any time during the current calendar year;
+16 (iii) indicate by an asterisk any brand family sold in the State during
+17 the preceding calendar year that is no longer being sold in the State as of the date of such
+18 certification; and
+19 (iv) identify by name and address any other manufacturer of such
+20 brand families in the preceding or current calendar year.
+21 (3) The nonparticipating manufacturer shall update the list at least 30
+22 calendar days prior to any addition or modification of its brand families by executing and
+23 delivering a supplemental certification to the Attorney General.
+24 (d) (1) In the case of a nonparticipating manufacturer, the certification shall
+25 further certify that the nonparticipating manufacturer:
+26 (i) is registered to do business in the State or has appointed a
+27 resident agent for service of process and provided notice of the appointment as required by
+28 § 16–505 of this subtitle;
+29 (ii) 1. REGARDING SALES MADE ON OR BEFORE DECEMBER
+30 31, 2025, has established and continues to maintain a qualified escrow fund, and has
+31 executed a qualified escrow agreement that has been reviewed and approved by the
+32 Attorney General and that governs the qualified escrow fund; [and] OR
+
+HOUSE BILL 870 9
+1 2. HAS PAID THE EQUITY FEE REQUIRED UNDER §
+2 16–403(A)(2)(II) OF THIS TITLE; AND
+3 (iii) is in full compliance with the [Escrow] EQUITY Act and this
+4 subtitle and any regulations adopted in accordance with the [Escrow] EQUITY Act and this
+5 subtitle.
+6 (2) The certification shall include:
+7 (i) FOR NONPARTICIPATING MANUFACTURERS THAT
+8 ESTABLISHED AN ESCROW FUND:
+9 1. the name, address and telephone number of the financial
+10 institution in which the nonparticipating manufacturer has established a qualified escrow
+11 fund required under [§ 16–403(a)(2)] § 16–403(A)(2)(I) of this title (the [Escrow] EQUITY
+12 Act) and all regulations adopted under it;
+13 [(ii)] 2. the account number of the qualified escrow fund and
+14 subaccount number for the State of Maryland;
+15 [(iii)] 3. the amount the nonparticipating manufacturer HAS
+16 placed in the fund for cigarettes sold in the State during the preceding calendar year, the
+17 date and amount of each deposit, and any additional information the Attorney General
+18 considers necessary to confirm the information required by this subparagraph; and
+19 [(iv)] 4. the amount of and date of any withdrawal or transfer of
+20 funds the nonparticipating manufacturer made at any time from the fund or from any other
+21 qualified escrow fund into which the nonparticipating manufacturer made escrow
+22 payments under [§ 16–403(a)(2)] § 16–403(A)(2)(I) of this title (the [Escrow] EQUITY Act)
+23 and all regulations adopted under that section; OR
+24 (II) FOR A NONPARTICIPATING MANUFACTURER THAT PAID THE
+25 EQUITY FEE, THE AMOUNT OF THE PAYMENT THE NONPARTICIPATING
+26 MANUFACTURER HAS PAID FOR CIGARETTES SOLD IN THE STATE DURING THE
+27 PRECEDING CALENDAR YEAR, THE DATE AND AMOUNT OF THE PAYMENT, AND ANY
+28 ADDITIONAL INFORMATION THE ATTORNEY GENERAL CONSIDERS NECESSARY TO
+29 CONFIRM THE INFORMATION REQUIRED BY THIS ITEM.
+30 (e) (1) A tobacco product manufacturer may not include a brand family in its
+31 certification unless:
+32 (i) in the case of a participating manufacturer, the participating
+33 manufacturer affirms that the brand family is deemed to be its cigarettes for purposes of
+34 calculating its payments under the Master Settlement Agreement for the relevant year, in
+
+10 HOUSE BILL 870
+1 the volume and shares determined in accordance with the Master Settlement Agreement;
+2 and
+3 (ii) in the case of a nonparticipating manufacturer, the
+4 nonparticipating manufacturer affirms that the brand family is deemed to be its cigarettes
+5 for purposes of the [Escrow] EQUITY Act.
+6 (2) Nothing in this section may be construed as limiting or otherwise
+7 affecting the State’s right to maintain that a brand family constitutes cigarettes of a
+8 different tobacco product manufacturer for purposes of calculating payments under the
+9 Master Settlement Agreement or for purposes of the [Escrow] EQUITY Act.
+10 (3) The tobacco product manufacturer shall maintain all invoices and
+11 documentation of sales and any other information relied upon for its certification for a
+12 period of 5 years, unless otherwise required by law to maintain them for a greater period
+13 of time.
+14 16–504.
+15 (a) Except as provided in subsection (b) of this section, the Attorney General shall
+16 develop and make available for public inspection a directory listing all tobacco product
+17 manufacturers that THE ATTORNEY GENERAL DETERMINES have provided current and
+18 accurate certifications conforming to the requirements of § 16–503 of this subtitle AND
+19 WITH ALL APPLICABLE FEDERAL, STATE, AND LOCAL LAWS and all COMPLIANT brand
+20 families that are listed in such certifications.
+21 (b) (1) The Attorney General may not include or retain in the directory the
+22 name or brand families of any nonparticipating manufacturer that fails to provide the
+23 required certification or whose certification the Attorney General determines is not in
+24 compliance with § 16–503(c)(3) and (d) of this subtitle, unless the Attorney General has
+25 determined that the violation has been cured to the satisfaction of the Attorney General.
+26 (2) Neither a tobacco product manufacturer nor a brand family may be
+27 included or retained in the directory if the Attorney General concludes, in the case of a
+28 nonparticipating manufacturer, that:
+29 (i) 1. any escrow payment required under [§ 16–403(a)(2)] §
+30 16–403(A)(2)(I) of this title (the [Escrow] EQUITY Act) for any period for any brand
+31 family, whether or not listed by such nonparticipating manufacturer, has not been fully
+32 paid into a qualified escrow fund governed by a qualified escrow agreement that has been
+33 approved by the Attorney General; or
+34 2. ANY EQUITY FEE REQUIRED UNDER § 16–403(A)(2)(II)
+35 OF THIS TITLE FOR ANY PERIOD FOR ANY BRAND FAMILY, WHETHER OR NOT LISTED
+36 BY SUCH NONPARTICIPATING MANUFACTURER, HAS NOT BEEN FULLY PAID TO THE
+37 ATTORNEY GENERAL; OR
+
+HOUSE BILL 870 11
+1 (ii) any outstanding final judgment, including interest on the
+2 judgment, for a violation of the Escrow Act has not been fully satisfied for the brand family
+3 or the manufacturer.
+4 (3) The Attorney General shall update the directory as necessary in order
+5 to correct mistakes and to add or remove a tobacco product manufacturer or brand family
+6 to keep the directory in conformity with the requirements of this subtitle.
+7 (4) Each licensed wholesaler shall provide and update as necessary an
+8 electronic mail address to the Attorney General for the purpose of receiving any
+9 notifications that may be required by this subtitle.
+10 (c) A person may not:
+11 (1) affix a stamp to a package or other container of cigarettes of a tobacco
+12 product manufacturer or brand family not included in the directory; or
+13 (2) sell, offer or possess for sale in this State, or import for personal
+14 consumption in this State, cigarettes of a tobacco product manufacturer or brand family
+15 not included in the directory.
+16 16–506.
+17 (e) (1) To promote compliance with this subtitle, the Attorney General may
+18 adopt regulations requiring a tobacco product manufacturer subject to the requirements of
+19 § 16–503(a) of this subtitle to make the escrow deposits OR PAY THE EQUITY FEE required
+20 in quarterly installments during the year in which the sales covered by the deposits OR
+21 PAYMENTS are made.
+22 (2) The Attorney General may require production of information sufficient
+23 to enable the Attorney General to determine the adequacy of the amount of the installment
+24 deposit OR PAYMENT.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That, notwithstanding the
+26 provisions of § 1–210 of the General Provisions Article, the provisions of this Act are not
+27 severable, and if any provision of this Act or the application thereof to any person or
+28 circumstance is held invalid for any reason in a court of competent jurisdiction no other
+29 provision or application of this Act may be given effect.
+30 SECTION 3. AND BE IT FURTHER ENACTED, That:
+31 (a) In this section, “Master Settlement Agreement” means the settlement
+32 agreement and related documents entered into on November 23, 1998, by the State and
+33 leading United States tobacco product manufacturers.
+
+12 HOUSE BILL 870
+1 (b) Notwithstanding the provisions of § 1–210 of the General Provisions Article,
+2 the provisions of this Act are not severable, and if all or any portion of the equity fee
+3 established under § 16–403 of the Business Regulation Article, as enacted under Section 1
+4 of this Act, results in a determination by the Firm, as that term is defined by the Master
+5 Settlement Agreement, that Title 16, Subtitle 4 (the Equity Act) of the Business Regulation
+6 Article no longer constitutes a qualifying statute, as that term is defined in § IX(d)(1)(C) of
+7 the Master Settlement Agreement, no other provision or application of this Act may be
+8 given effect.
+9 SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2025.
+
+[DELETED: :CA      5   C A T F t p o r b i a c y a c t p m c e a a a c t p m t c c G c R F a t i t c t p m g B  A S P M E A a 1 1 1 a 1 t b u t a s “ 5 C R  A  ( B  A S  A  (  S T]
+[DELETED:  H  A S Ew ]Q 1  ( C t c o o  ( C s a p s f c f t S U c h c p t S m h a l o t p m a t e p f h c a w c s  ( U m a f t p f h c a w c s  ( I c t t S o a f c b t c,AD F T PE T T T O D E YR U O T P .  ( O e t a r o p p a c f c a t a d i t A f a n f d t t i o p h a t m s w  ( ( I w b c t t p o t S i t p m a e p   ( I m]
+[DELETED: H 3 t b l m aTH P O O T TE  A E GSA () IT I C W T P O T T T R T A E GMSO ( , M F D LETTTPF–; ( T; ( T P O C T R SS  TE S; ( A P C F T F T  1  ( A t i   ( b I u   ( pe ) [  o a    () f] 1    () f] 2    () f] 3    ()  f]4 s]
+[DELETED:  H     () f 2  e y tr,]5 [d]2T $  () 26IB  R  T E A E F O  P U SD AG$2 .  ( ( A t p m t ps f iP e i a w s () o t s s r]()(A i   ( T f t s b r f e o u t f    ( t a r     1 i     2 o t t e a a t t n t m p    ( t t i a p y g t t M S p a d o o f    ( t o p()   AII )(  .() ( TAH T E U S AII O T S T T I)()F§77S U    T IA. R]
+[DELETED: H 5 ( EC F D T T I E(   C W  FVI O T T I A7()()1SA. R  () ( Eh ]()[]OA30E N P  R  p t on  ayc[]:  ()  i  () 1IH P F I E U AI N )();   2 P T E F U S)(II  .   ( T) S     ) TAIH T EYSS S  A U,.  () 1 TAIH T E S D A R U S II O T P I TRF§77 E U E U   O T TPA. R R   2 E F D T T IF( U U S D O T S S B F P C W  FVI O T7()()FPA. I R R   ( ( A i e t f  r u t s s b P T E F r a b    ( T o]
+[DELETED:  H      1 i a a n t e 5 p o t a i fw      2 i a fw.   ( ( I a t p m h k v s pw  t    ( U o S     1 i a a n t e 1 p o t a i fw      2 i a fw.   ( I t t i   ( E rTA T E M A R T C O T S Ew  Ng ]C[E P 1  ( I  ( ( “ f m a s o c s u t s t m o]
+[DELETED: H 7   ( “ f i a u o a b n ( o i c w a o w t l s m s m r s  ( “ E    ( “ t  ( “w ]“Q  ( “ a C C r f t e o S t l a r  ( “ t w  ( “ t Ew ]Q  ( “ t  ( “ M  ( “] Ew Q  ( “ t Ew ]Q  ( “ E   1  ( A t p m w c a s i t S w a G t]
+[DELETED:  H    ( i   ( i Ew ]Q  ( ( A i   ( T p m s u t l a l 3 c d  ( ( A n m s i i i c a c   ( T    ( s u y    ( l a    ( i t c    ( i b   ( T n m s t l a l 3 c d  ( ( I f    ( i r t d b i t S o h a a r §    (  E,2  hse h e a q e a t h b r a a b t A;a ]]
+[DELETED: H 9   2 § P T E F R U ()();II E     ( i i f c t Ew A a t]Q s Ew ]Q s   ( T    ( N M T     t i f §)  Ew]§1()()[] AI Q A    () t a n o t q e f a] 2 s    () t a t n m] 3H p d c    () t] 4 f q e f i w t n m m e p §)  Ew ]§1()()[] AI Q a  ()IF FE T A O T P T N H P F C S I T T D TR T  T E .  ( ( A c    ( i t c o a p m t p m c]
+[DELETED:  H  t a    ( i t c o a n m t n f Ew ]Q   ( N i t s m b c a l o o a t S r t m t a b f c c o a d M Ew ]Q   ( T t p m s m a i a d p o 1  ( E d m  dc T ES aL TE SCS   b f  ( ( T n o b f o a n m t f t p t r c o w c t A G d i n i c d   ( N n i n    ( a e p r u § 1 []§()()[]I Q  o t t ( Ew A f a p f a b f p a     §1()(  AIIY R G; EL ]
+[DELETED: H 1    ( a o f j i i o t j o   ( T t t   ( E l w s p a u a n a e m a t t A G f t p o r a n  ( A   ( a p   ( s o o p f s i t S o i f p c n 1  ( ( T a §   i     ( T t d .  S 2 A B I F E T n t p s a i a p o t A o t a t t a p o c p  S  ( I t s “ S A m t s a l]
+[DELETED:  H   ( N t p o t A a n s a o a p o t e f e o S A t g  S A B I F E T t A s t e O]

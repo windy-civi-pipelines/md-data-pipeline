@@ -1,0 +1,540 @@
+Title: HOUSE BILL 848
+Official Title: HOUSE BILL 848
+Number of Sections: 1
+Source: versions - Third - Health Insurance - Adverse Decisions - Notices, Reporting, and Examinations
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+J5 5lr2020
+CF SB 474
+By: Delegates Pena–Melnyk, Bagnall, Cullison, Kerr, and Rosenberg Rosenberg,
+Bhandari, Chisholm, Guzzone, Hill, Hutchinson, S. Johnson, Kaiser, Kipke,
+Lopez, Martinez, Reilly, Szeliga, Taveras, White Holland, Woods, and
+Woorman
+Introduced and read first time: January 30, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 25, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Health Insurance – Adverse Decisions – Reporting Notices, Reporting, and
+3 Examinations
+4 FOR the purpose of requiring that certain adverse decision and grievance decision notices
+5 include certain information in a certain manner; requiring that certain information
+6 submitted to the Maryland Insurance Commissioner by carriers be aggregated by zip
+7 code; requiring certain carriers to provide certain information to the Maryland
+8 Insurance Commissioner on adverse decisions on types of services that have grown
+9 by more than certain percentages or more over certain periods of time; authorizing
+10 the Commissioner to use certain adverse decision information as the basis of a
+11 certain examination; and generally relating to health insurance and adverse
+12 decisions.
+13 BY repealing and reenacting, without amendments,
+14 Article – Insurance
+15 Section 15–10A–02(a)
+16 Annotated Code of Maryland
+17 (2017 Replacement Volume and 2024 Supplement)
+18 BY repealing and reenacting, with amendments,
+19 Article – Insurance
+20 Section 15–10A–02(f) and (i), 15–10A–06, and 15–10B–05(a)(4)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0848*
+2 HOUSE BILL 848
+1 Annotated Code of Maryland
+2 (2017 Replacement Volume and 2024 Supplement)
+3 BY adding to
+4 Article – Insurance
+5 Section 15–10B–05(e)
+6 Annotated Code of Maryland
+7 (2017 Replacement Volume and 2024 Supplement)
+8 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+9 That the Laws of Maryland read as follows:
+10 Article – Insurance
+11 15–10A–02.
+12 (a) Each carrier shall establish an internal grievance process for its members.
+13 (f) (1) For nonemergency cases, when a carrier renders an adverse decision,
+14 the carrier shall:
+15 (i) inform the member, the member’s representative, or the health
+16 care provider acting on behalf of the member of the adverse decision:
+17 1. orally by telephone; or
+18 2. with the affirmative consent of the member, the member’s
+19 representative, or the health care provider acting on behalf of the member, by text,
+20 facsimile, e–mail, an online portal, or other expedited means; and
+21 (ii) send, within 5 working days after the adverse decision has been
+22 made, a written notice to the member, the member’s representative, and a health care
+23 provider acting on behalf of the member that:
+24 1. STATES AT THE TOP IN PROMINENT BOLD PRINT:
+25 A. THAT THE NOTICE IS A DENIAL OF A REQUESTED
+26 HEALTH CARE SERVICE;
+27 B. THAT THE MEMBER MAY FILE AN APPEAL;
+28 C. THE PHONE NUMBER AND E–MAIL ADDRESS
+29 REQUIRED TO BE AVAILABLE UNDER § 15–10B–05(E) OF THIS TITLE; AND
+HOUSE BILL 848 3
+1 D. THAT THE NOTICE INCLUDES ADDITIONAL
+2 INFORMATION ON HOW TO FILE AND RECEIVE ASSISTANCE FOR FILING A
+3 COMPLAINT;
+4 [1.] 2. states in detail in clear, understandable language the
+5 specific factual bases for the carrier’s decision and the reasoning used to determine that the
+6 health care service is not medically necessary and did not meet the carrier’s criteria and
+7 standards used in conducting the utilization review;
+8 [2.] 3. provides the specific reference, language, or requirements
+9 from the criteria and standards, including any interpretive guidelines, on which the
+10 decision was based, and may not solely use:
+11 A. generalized terms such as “experimental procedure not
+12 covered”, “cosmetic procedure not covered”, “service included under another procedure”, or
+13 “not medically necessary”; or
+14 B. language directing the member to review the additional
+15 coverage criteria in the member’s policy or plan documents;
+16 [3.] 4. [states the name,] INCLUDES A UNIQUE IDENTIFIER
+17 FOR AND THE business address[,] and business telephone number of:
+18 A. if the carrier is a health maintenance organization, the
+19 medical director or associate medical director, as appropriate, who made the decision; or
+20 B. if the carrier is not a health maintenance organization, the
+21 designated employee or representative of the carrier who has responsibility for the carrier’s
+22 internal grievance process and the physician who is required to make all adverse decisions
+23 as required in § 15–10B–07(a) of this title;
+24 [4.] 5. gives written details of the carrier’s internal grievance
+25 process and procedures under this subtitle; and
+26 [5.] 6. includes the following information:
+27 A. that the member, the member’s representative, or a health
+28 care provider on behalf of the member has a right to file a complaint with the Commissioner
+29 within 4 months after receipt of a carrier’s grievance decision;
+30 B. that a complaint may be filed without first filing a
+31 grievance if the member, the member’s representative, or a health care provider filing a
+32 grievance on behalf of the member can demonstrate a compelling reason to do so as
+33 determined by the Commissioner;
+4 HOUSE BILL 848
+1 C. the Commissioner’s address, telephone number, and
+2 facsimile number;
+3 D. a statement that the Health Advocacy Unit is available to
+4 assist the member or the member’s representative in both mediating and filing a grievance
+5 under the carrier’s internal grievance process; and
+6 E. the address, telephone number, facsimile number, and
+7 electronic mail address of the Health Advocacy Unit.
+8 (2) The business telephone number included in the notice as required
+9 under paragraph [(1)(ii)3] (1)(II)4 of this subsection must be a dedicated number for
+10 adverse decisions and may not be the general customer call number for the carrier.
+11 (i) (1) For nonemergency cases, when a carrier renders a grievance decision,
+12 the carrier shall:
+13 (i) document the grievance decision in writing after the carrier has
+14 provided oral communication of the decision to the member, the member’s representative,
+15 or the health care provider acting on behalf of the member; and
+16 (ii) send, within 5 working days after the grievance decision has been
+17 made, a written notice to the member, the member’s representative, and a health care
+18 provider acting on behalf of the member that:
+19 1. STATES AT THE TOP IN PROMINENT BOLD PRINT:
+20 A. THAT THE NOTICE IS A DENIAL OF A REQUESTED
+21 HEALTH CARE SERVICE;
+22 B. THAT THE MEMBER MAY FILE A COMPLAINT WITH THE
+23 COMMISSIONER;
+24 C. THE PHONE NUMBER AND E–MAIL ADDRESS
+25 REQUIRED TO BE AVAILABLE UNDER § 15–10B–05(E) OF THIS TITLE; AND
+26 D. THAT THE NOTICE INCLUDES ADDITIONAL
+27 INFORMATION ON HOW TO FILE AND RECEIVE ASSISTANCE FOR AN APPEAL;
+28 [1.] 2. states in detail in clear, understandable language the
+29 specific factual bases for the carrier’s decision and the reasoning used to determine that the
+30 health care service is not medically necessary and did not meet the carrier’s criteria and
+31 standards used in conducting utilization review;
+HOUSE BILL 848 5
+1 [2.] 3. provides the specific reference, language, or requirements
+2 from the criteria and standards, including any interpretive guidelines used by the carrier,
+3 on which the grievance decision was based;
+4 [3.] 4. [states the name,] INCLUDES A UNIQUE IDENTIFIER
+5 FOR AND THE business address[,] and business telephone number of:
+6 A. if the carrier is a health maintenance organization, the
+7 medical director or associate medical director, as appropriate, who made the grievance
+8 decision; or
+9 B. if the carrier is not a health maintenance organization, the
+10 designated employee or representative of the carrier who has responsibility for the carrier’s
+11 internal grievance process and the designated employee or representative’s title and
+12 clinical specialty; and
+13 [4.] 5. includes the following information:
+14 A. that the member or the member’s representative has a
+15 right to file a complaint with the Commissioner within 4 months after receipt of a carrier’s
+16 grievance decision;
+17 B. the Commissioner’s address, telephone number, and
+18 facsimile number;
+19 C. a statement that the Health Advocacy Unit is available to
+20 assist the member or the member’s representative in filing a complaint with the
+21 Commissioner; and
+22 D. the address, telephone number, facsimile number, and
+23 electronic mail address of the Health Advocacy Unit.
+24 (2) The business telephone number included in the notice as required
+25 under paragraph [(1)(ii)3] (1)(II)4 of this subsection must be a dedicated number for
+26 grievance decisions and may not be the general customer call number for the carrier.
+27 (3) To satisfy the requirements of this subsection, a carrier may not use
+28 solely in the written notice sent under paragraph (1) of this subsection:
+29 (i) generalized terms such as “experimental procedure not covered”,
+30 “cosmetic procedure not covered”, “service included under another procedure”, or “not
+31 medically necessary”; or
+32 (ii) language directing the member to review the additional coverage
+33 criteria in the member’s policy or plan documents.
+34 15–10A–06.
+6 HOUSE BILL 848
+1 (a) (1) On a quarterly basis, each carrier shall submit to the Commissioner, on
+2 the form the Commissioner requires, a report that describes THE FOLLOWING
+3 INFORMATION AGGREGATED BY ZIP CODE AS REQUIRED BY THE COMMISSIONER:
+4 [(1)] (I) the number of members entitled to health care benefits under a
+5 policy, plan, or certificate issued or delivered in the State by the carrier;
+6 [(2)] (II) the number of clean claims for reimbursement processed by the
+7 carrier;
+8 [(3)] (III) the activities of the carrier under this subtitle, including:
+9 [(i)] 1. the outcome of each grievance filed with the carrier;
+10 [(ii)] 2. the number and outcomes of cases that were considered
+11 emergency cases under § 15–10A–02(b)(2)(i) of this subtitle;
+12 [(iii)] 3. the time within which the carrier made a grievance
+13 decision on each emergency case;
+14 [(iv)] 4. the time within which the carrier made a grievance
+15 decision on all other cases that were not considered emergency cases;
+16 [(v)] 5. the number of grievances filed with the carrier that
+17 resulted from an adverse decision involving length of stay for inpatient hospitalization as
+18 related to the medical procedure involved;
+19 [(vi)] 6. the number of adverse decisions issued by the carrier
+20 under § 15–10A–02(f) of this subtitle, whether the adverse decision involved a prior
+21 authorization or step therapy protocol, and the type of service at issue in the adverse
+22 decisions;
+23 [(vii)] 7. the number of adverse decisions overturned after a
+24 reconsideration request under § 15–10B–06 of this title; and
+25 [(viii)] 8. the number of requests made and granted under §
+26 15–831(c)(1) and (2) of this title; and
+27 [(4)] (IV) the number and outcome of all other cases that are not subject to
+28 activities of the carrier under this subtitle that resulted from an adverse decision involving
+29 the length of stay for inpatient hospitalization as related to the medical procedure involved.
+30 (2) IF THE NUMBER OF ADVERSE DECISIONS ISSUED BY A CARRIER
+31 FOR A TYPE OF SERVICE HAS GROWN BY MORE THAN 10% OR MORE IN THE
+HOUSE BILL 848 7
+1 IMMEDIATELY PRECEDING CALENDAR YEAR OR 25% OR MORE IN THE IMMEDIATELY
+2 PRECEDING 3 CALENDAR YEARS, THE CARRIER SHALL SUBMIT IN THE REPORT
+3 REQUIRED UNDER PARAGRAPH (1) OF THIS SUBSECTION:
+4 (I) A DESCRIPTION OF ANY CHANGES IN MEDICAL
+5 MANAGEMENT CONTRIBUTING TO THE RISE IN ADVERSE DECISIONS FOR THE TYPE
+6 OF SERVICE; AND
+7 (II) ANY OTHER KNOWN REASONS FOR THE INCREASE; AND
+8 (III) A DESCRIPTION OF THE CARRIER’S EFFORTS AND ACTIONS
+9 TAKEN TO DETERMINE THE REASON FOR THE INCREASE.
+10 (b) The Commissioner shall:
+11 (1) compile an annual summary report based on the information provided:
+12 (i) under subsection (a) of this section; and
+13 (ii) by the Secretary under § 19–705.2(e) of the Health – General
+14 Article;
+15 (2) report any violations or actions taken under § 15–10B–11 of this title;
+16 and
+17 (3) provide copies of the summary report to the Governor and, subject to §
+18 2–1257 of the State Government Article, to the General Assembly.
+19 (C) THE COMMISSIONER MAY USE INFORMATION PROVIDED UNDER
+20 SUBSECTION (A) OF THIS SECTION AS THE BASIS FOR AN EXAMINATION UNDER
+21 TITLE 2, SUBTITLE 2 OF THIS ARTICLE.
+22 15–10B–05.
+23 (a) In conjunction with the application, the private review agent shall submit
+24 information that the Commissioner requires including:
+25 (4) the procedures and policies to ensure that a representative of the
+26 private review agent is reasonably accessible to patients and health care providers 7 days
+27 a week, 24 hours a day in this State INCLUDING HAVING A DIRECT PHONE NUMBER
+28 AND MONITORED E–MAIL AS REQUIRED IN SUBSECTION (E) OF THIS SECTION;
+29 (E) (1) A PRIVATE REVIEW AGENT SHALL:
+30 (I) HAVE AVAILABLE THE FOLLOWING DEDICATED TO
+31 UTILIZATION REVIEW:
+8 HOUSE BILL 848
+1 1. A DIRECT TELEPHONE NUMBER THAT IS NOT THE
+2 GENERAL CUSTOMER CALL NUMBER; AND
+3 2. A MONITORED E–MAIL ADDRESS; AND
+4 (II) RESPOND TO VOICEMAILS OR E–MAILS WITHIN 2 BUSINESS
+5 DAYS AFTER RECEIPT OF THE VOICEMAIL OR E–MAIL.
+6 (2) THE PHONE NUMBER AND E–MAIL ADDRESS SHALL BE
+7 PROMINENTLY DISPLAYED ON THE NOTICES REQUIRED UNDER § 15–10A–02(F) AND
+8 (I) OF THIS TITLE.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5   C M R S T W W a A H E F i s c r c c t p c i t t M I b t C t u c a d i a t b o a c e a g r t h i a a d B  A  S  A  ( B  A S]
+[DELETED:  H   A  ( B  A  S  A  (  S T A 1  ( E  ( ( F t    ( i c     1 o     2 w r o t h c p a o b o t m b t f    ( s m p      .      T N I A D O A R       .     . P N A EM A  E E 1() ]
+[DELETED: H 3      T N I A O H T F A R A F F A      1.  i d i c u l t]2 s h s     2. ]3 f t c a s i a i g o w t d     A g t s a “ p n c “     B l c     3. s t n]4[ I A U IDT  bs,      A i m     B i d i a     4.  w d o t c i g]5 p     5. ]6     A t c w     B t a c m b f w f f a g g o b o t m c d a c r t d s a d]
+[DELETED:  H      C t C a t n a f     D a a u     E t a t n f n a e   ( T b t n i i t n a r u p (3 o t s m b a d n f](()I a  ( ( F t    ( d p o    ( s m p      .      T N I A D O A R            . P N A EM A  E E 1()       T N I A      1.  i d i c u l t]2 s h s]
+[DELETED: H 5     2. ]3 f o     3. s t n]4[ I A U IDT  bs,      A i m d     B i d i g p a t d e o r t a c     4. ]5     A t t m o t m r h a r g     B t C a t n a f     C a a t m o t m r i f a c w t C     D t a t n f n a e   ( T b t n i i t n a r u p (3 o t s m b a d n f](()I g   ( T s    ( g “ p n c “ i u a p o “ m    ( l c 1]
+[DELETED:  H   (  O t f t C r a r t d F O :   () t] ( p   () t] ( c   () t] (    () t] 1    () t] 2 e    () t t w w t c m a g] 3 d    () t t w w t c m a g] 4 d    () t n o g f w t c t] 5 r r    () t n o a d i b t c] 6 u § 1 o t s w t a d i a p a o s t p a t t o s a i i t a d    () t n o a d o a a] r    () t] 8 1   () t] ( a t    A T O S H G B M T  O MEI T ]
+[DELETED: H 7  EI   C YS T C S S I T R  N)    )A D O A C I ME    ) ;IAE     )IARSE   ( T   ( c    ( u    ( b A   ( r a   ( p 2 ) TH O M U I P U A O T S A T B F A E U2,S2.  U  E 1  ( I i   ( t p a p t e t a r o t p aEM E ( ;    )()A     H A T F D T ]
+[DELETED:  H       D T N T I N TR        .–EMS     )–IREM  EM    )T P N A EM A S B  F 1()     S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 848
+J5 5lr2020
+CF SB 474
+By: Delegates Pena–Melnyk, Bagnall, Cullison, Kerr, and Rosenberg Rosenberg,
+Bhandari, Chisholm, Guzzone, Hill, Hutchinson, S. Johnson, Kaiser, Kipke,
+Lopez, Martinez, Reilly, Szeliga, Taveras, White Holland, Woods, and
+Woorman
+Introduced and read first time: January 30, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 25, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Health Insurance – Adverse Decisions – Reporting Notices, Reporting, and
+3 Examinations
+4 FOR the purpose of requiring that certain adverse decision and grievance decision notices
+5 include certain information in a certain manner; requiring that certain information
+6 submitted to the Maryland Insurance Commissioner by carriers be aggregated by zip
+7 code; requiring certain carriers to provide certain information to the Maryland
+8 Insurance Commissioner on adverse decisions on types of services that have grown
+9 by more than certain percentages or more over certain periods of time; authorizing
+10 the Commissioner to use certain adverse decision information as the basis of a
+11 certain examination; and generally relating to health insurance and adverse
+12 decisions.
+13 BY repealing and reenacting, without amendments,
+14 Article – Insurance
+15 Section 15–10A–02(a)
+16 Annotated Code of Maryland
+17 (2017 Replacement Volume and 2024 Supplement)
+18 BY repealing and reenacting, with amendments,
+19 Article – Insurance
+20 Section 15–10A–02(f) and (i), 15–10A–06, and 15–10B–05(a)(4)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0848*
+
+2 HOUSE BILL 848
+1 Annotated Code of Maryland
+2 (2017 Replacement Volume and 2024 Supplement)
+3 BY adding to
+4 Article – Insurance
+5 Section 15–10B–05(e)
+6 Annotated Code of Maryland
+7 (2017 Replacement Volume and 2024 Supplement)
+8 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+9 That the Laws of Maryland read as follows:
+10 Article – Insurance
+11 15–10A–02.
+12 (a) Each carrier shall establish an internal grievance process for its members.
+13 (f) (1) For nonemergency cases, when a carrier renders an adverse decision,
+14 the carrier shall:
+15 (i) inform the member, the member’s representative, or the health
+16 care provider acting on behalf of the member of the adverse decision:
+17 1. orally by telephone; or
+18 2. with the affirmative consent of the member, the member’s
+19 representative, or the health care provider acting on behalf of the member, by text,
+20 facsimile, e–mail, an online portal, or other expedited means; and
+21 (ii) send, within 5 working days after the adverse decision has been
+22 made, a written notice to the member, the member’s representative, and a health care
+23 provider acting on behalf of the member that:
+24 1. STATES AT THE TOP IN PROMINENT BOLD PRINT:
+25 A. THAT THE NOTICE IS A DENIAL OF A REQUESTED
+26 HEALTH CARE SERVICE;
+27 B. THAT THE MEMBER MAY FILE AN APPEAL;
+28 C. THE PHONE NUMBER AND E–MAIL ADDRESS
+29 REQUIRED TO BE AVAILABLE UNDER § 15–10B–05(E) OF THIS TITLE; AND
+
+HOUSE BILL 848 3
+1 D. THAT THE NOTICE INCLUDES ADDITIONAL
+2 INFORMATION ON HOW TO FILE AND RECEIVE ASSISTANCE FOR FILING A
+3 COMPLAINT;
+4 [1.] 2. states in detail in clear, understandable language the
+5 specific factual bases for the carrier’s decision and the reasoning used to determine that the
+6 health care service is not medically necessary and did not meet the carrier’s criteria and
+7 standards used in conducting the utilization review;
+8 [2.] 3. provides the specific reference, language, or requirements
+9 from the criteria and standards, including any interpretive guidelines, on which the
+10 decision was based, and may not solely use:
+11 A. generalized terms such as “experimental procedure not
+12 covered”, “cosmetic procedure not covered”, “service included under another procedure”, or
+13 “not medically necessary”; or
+14 B. language directing the member to review the additional
+15 coverage criteria in the member’s policy or plan documents;
+16 [3.] 4. [states the name,] INCLUDES A UNIQUE IDENTIFIER
+17 FOR AND THE business address[,] and business telephone number of:
+18 A. if the carrier is a health maintenance organization, the
+19 medical director or associate medical director, as appropriate, who made the decision; or
+20 B. if the carrier is not a health maintenance organization, the
+21 designated employee or representative of the carrier who has responsibility for the carrier’s
+22 internal grievance process and the physician who is required to make all adverse decisions
+23 as required in § 15–10B–07(a) of this title;
+24 [4.] 5. gives written details of the carrier’s internal grievance
+25 process and procedures under this subtitle; and
+26 [5.] 6. includes the following information:
+27 A. that the member, the member’s representative, or a health
+28 care provider on behalf of the member has a right to file a complaint with the Commissioner
+29 within 4 months after receipt of a carrier’s grievance decision;
+30 B. that a complaint may be filed without first filing a
+31 grievance if the member, the member’s representative, or a health care provider filing a
+32 grievance on behalf of the member can demonstrate a compelling reason to do so as
+33 determined by the Commissioner;
+
+4 HOUSE BILL 848
+1 C. the Commissioner’s address, telephone number, and
+2 facsimile number;
+3 D. a statement that the Health Advocacy Unit is available to
+4 assist the member or the member’s representative in both mediating and filing a grievance
+5 under the carrier’s internal grievance process; and
+6 E. the address, telephone number, facsimile number, and
+7 electronic mail address of the Health Advocacy Unit.
+8 (2) The business telephone number included in the notice as required
+9 under paragraph [(1)(ii)3] (1)(II)4 of this subsection must be a dedicated number for
+10 adverse decisions and may not be the general customer call number for the carrier.
+11 (i) (1) For nonemergency cases, when a carrier renders a grievance decision,
+12 the carrier shall:
+13 (i) document the grievance decision in writing after the carrier has
+14 provided oral communication of the decision to the member, the member’s representative,
+15 or the health care provider acting on behalf of the member; and
+16 (ii) send, within 5 working days after the grievance decision has been
+17 made, a written notice to the member, the member’s representative, and a health care
+18 provider acting on behalf of the member that:
+19 1. STATES AT THE TOP IN PROMINENT BOLD PRINT:
+20 A. THAT THE NOTICE IS A DENIAL OF A REQUESTED
+21 HEALTH CARE SERVICE;
+22 B. THAT THE MEMBER MAY FILE A COMPLAINT WITH THE
+23 COMMISSIONER;
+24 C. THE PHONE NUMBER AND E–MAIL ADDRESS
+25 REQUIRED TO BE AVAILABLE UNDER § 15–10B–05(E) OF THIS TITLE; AND
+26 D. THAT THE NOTICE INCLUDES ADDITIONAL
+27 INFORMATION ON HOW TO FILE AND RECEIVE ASSISTANCE FOR AN APPEAL;
+28 [1.] 2. states in detail in clear, understandable language the
+29 specific factual bases for the carrier’s decision and the reasoning used to determine that the
+30 health care service is not medically necessary and did not meet the carrier’s criteria and
+31 standards used in conducting utilization review;
+
+HOUSE BILL 848 5
+1 [2.] 3. provides the specific reference, language, or requirements
+2 from the criteria and standards, including any interpretive guidelines used by the carrier,
+3 on which the grievance decision was based;
+4 [3.] 4. [states the name,] INCLUDES A UNIQUE IDENTIFIER
+5 FOR AND THE business address[,] and business telephone number of:
+6 A. if the carrier is a health maintenance organization, the
+7 medical director or associate medical director, as appropriate, who made the grievance
+8 decision; or
+9 B. if the carrier is not a health maintenance organization, the
+10 designated employee or representative of the carrier who has responsibility for the carrier’s
+11 internal grievance process and the designated employee or representative’s title and
+12 clinical specialty; and
+13 [4.] 5. includes the following information:
+14 A. that the member or the member’s representative has a
+15 right to file a complaint with the Commissioner within 4 months after receipt of a carrier’s
+16 grievance decision;
+17 B. the Commissioner’s address, telephone number, and
+18 facsimile number;
+19 C. a statement that the Health Advocacy Unit is available to
+20 assist the member or the member’s representative in filing a complaint with the
+21 Commissioner; and
+22 D. the address, telephone number, facsimile number, and
+23 electronic mail address of the Health Advocacy Unit.
+24 (2) The business telephone number included in the notice as required
+25 under paragraph [(1)(ii)3] (1)(II)4 of this subsection must be a dedicated number for
+26 grievance decisions and may not be the general customer call number for the carrier.
+27 (3) To satisfy the requirements of this subsection, a carrier may not use
+28 solely in the written notice sent under paragraph (1) of this subsection:
+29 (i) generalized terms such as “experimental procedure not covered”,
+30 “cosmetic procedure not covered”, “service included under another procedure”, or “not
+31 medically necessary”; or
+32 (ii) language directing the member to review the additional coverage
+33 criteria in the member’s policy or plan documents.
+34 15–10A–06.
+
+6 HOUSE BILL 848
+1 (a) (1) On a quarterly basis, each carrier shall submit to the Commissioner, on
+2 the form the Commissioner requires, a report that describes THE FOLLOWING
+3 INFORMATION AGGREGATED BY ZIP CODE AS REQUIRED BY THE COMMISSIONER:
+4 [(1)] (I) the number of members entitled to health care benefits under a
+5 policy, plan, or certificate issued or delivered in the State by the carrier;
+6 [(2)] (II) the number of clean claims for reimbursement processed by the
+7 carrier;
+8 [(3)] (III) the activities of the carrier under this subtitle, including:
+9 [(i)] 1. the outcome of each grievance filed with the carrier;
+10 [(ii)] 2. the number and outcomes of cases that were considered
+11 emergency cases under § 15–10A–02(b)(2)(i) of this subtitle;
+12 [(iii)] 3. the time within which the carrier made a grievance
+13 decision on each emergency case;
+14 [(iv)] 4. the time within which the carrier made a grievance
+15 decision on all other cases that were not considered emergency cases;
+16 [(v)] 5. the number of grievances filed with the carrier that
+17 resulted from an adverse decision involving length of stay for inpatient hospitalization as
+18 related to the medical procedure involved;
+19 [(vi)] 6. the number of adverse decisions issued by the carrier
+20 under § 15–10A–02(f) of this subtitle, whether the adverse decision involved a prior
+21 authorization or step therapy protocol, and the type of service at issue in the adverse
+22 decisions;
+23 [(vii)] 7. the number of adverse decisions overturned after a
+24 reconsideration request under § 15–10B–06 of this title; and
+25 [(viii)] 8. the number of requests made and granted under §
+26 15–831(c)(1) and (2) of this title; and
+27 [(4)] (IV) the number and outcome of all other cases that are not subject to
+28 activities of the carrier under this subtitle that resulted from an adverse decision involving
+29 the length of stay for inpatient hospitalization as related to the medical procedure involved.
+30 (2) IF THE NUMBER OF ADVERSE DECISIONS ISSUED BY A CARRIER
+31 FOR A TYPE OF SERVICE HAS GROWN BY MORE THAN 10% OR MORE IN THE
+
+HOUSE BILL 848 7
+1 IMMEDIATELY PRECEDING CALENDAR YEAR OR 25% OR MORE IN THE IMMEDIATELY
+2 PRECEDING 3 CALENDAR YEARS, THE CARRIER SHALL SUBMIT IN THE REPORT
+3 REQUIRED UNDER PARAGRAPH (1) OF THIS SUBSECTION:
+4 (I) A DESCRIPTION OF ANY CHANGES IN MEDICAL
+5 MANAGEMENT CONTRIBUTING TO THE RISE IN ADVERSE DECISIONS FOR THE TYPE
+6 OF SERVICE; AND
+7 (II) ANY OTHER KNOWN REASONS FOR THE INCREASE; AND
+8 (III) A DESCRIPTION OF THE CARRIER’S EFFORTS AND ACTIONS
+9 TAKEN TO DETERMINE THE REASON FOR THE INCREASE.
+10 (b) The Commissioner shall:
+11 (1) compile an annual summary report based on the information provided:
+12 (i) under subsection (a) of this section; and
+13 (ii) by the Secretary under § 19–705.2(e) of the Health – General
+14 Article;
+15 (2) report any violations or actions taken under § 15–10B–11 of this title;
+16 and
+17 (3) provide copies of the summary report to the Governor and, subject to §
+18 2–1257 of the State Government Article, to the General Assembly.
+19 (C) THE COMMISSIONER MAY USE INFORMATION PROVIDED UNDER
+20 SUBSECTION (A) OF THIS SECTION AS THE BASIS FOR AN EXAMINATION UNDER
+21 TITLE 2, SUBTITLE 2 OF THIS ARTICLE.
+22 15–10B–05.
+23 (a) In conjunction with the application, the private review agent shall submit
+24 information that the Commissioner requires including:
+25 (4) the procedures and policies to ensure that a representative of the
+26 private review agent is reasonably accessible to patients and health care providers 7 days
+27 a week, 24 hours a day in this State INCLUDING HAVING A DIRECT PHONE NUMBER
+28 AND MONITORED E–MAIL AS REQUIRED IN SUBSECTION (E) OF THIS SECTION;
+29 (E) (1) A PRIVATE REVIEW AGENT SHALL:
+30 (I) HAVE AVAILABLE THE FOLLOWING DEDICATED TO
+31 UTILIZATION REVIEW:
+
+8 HOUSE BILL 848
+1 1. A DIRECT TELEPHONE NUMBER THAT IS NOT THE
+2 GENERAL CUSTOMER CALL NUMBER; AND
+3 2. A MONITORED E–MAIL ADDRESS; AND
+4 (II) RESPOND TO VOICEMAILS OR E–MAILS WITHIN 2 BUSINESS
+5 DAYS AFTER RECEIPT OF THE VOICEMAIL OR E–MAIL.
+6 (2) THE PHONE NUMBER AND E–MAIL ADDRESS SHALL BE
+7 PROMINENTLY DISPLAYED ON THE NOTICES REQUIRED UNDER § 15–10A–02(F) AND
+8 (I) OF THIS TITLE.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5   C M R S T W W a A H E F i s c r c c t p c i t t M I b t C t u c a d i a t b o a c e a g r t h i a a d B  A  S  A  ( B  A S]
+[DELETED:  H   A  ( B  A  S  A  (  S T A 1  ( E  ( ( F t    ( i c     1 o     2 w r o t h c p a o b o t m b t f    ( s m p      .      T N I A D O A R       .     . P N A EM A  E E 1() ]
+[DELETED: H 3      T N I A O H T F A R A F F A      1.  i d i c u l t]2 s h s     2. ]3 f t c a s i a i g o w t d     A g t s a “ p n c “     B l c     3. s t n]4[ I A U IDT  bs,      A i m     B i d i a     4.  w d o t c i g]5 p     5. ]6     A t c w     B t a c m b f w f f a g g o b o t m c d a c r t d s a d]
+[DELETED:  H      C t C a t n a f     D a a u     E t a t n f n a e   ( T b t n i i t n a r u p (3 o t s m b a d n f](()I a  ( ( F t    ( d p o    ( s m p      .      T N I A D O A R            . P N A EM A  E E 1()       T N I A      1.  i d i c u l t]2 s h s]
+[DELETED: H 5     2. ]3 f o     3. s t n]4[ I A U IDT  bs,      A i m d     B i d i g p a t d e o r t a c     4. ]5     A t t m o t m r h a r g     B t C a t n a f     C a a t m o t m r i f a c w t C     D t a t n f n a e   ( T b t n i i t n a r u p (3 o t s m b a d n f](()I g   ( T s    ( g “ p n c “ i u a p o “ m    ( l c 1]
+[DELETED:  H   (  O t f t C r a r t d F O :   () t] ( p   () t] ( c   () t] (    () t] 1    () t] 2 e    () t t w w t c m a g] 3 d    () t t w w t c m a g] 4 d    () t n o g f w t c t] 5 r r    () t n o a d i b t c] 6 u § 1 o t s w t a d i a p a o s t p a t t o s a i i t a d    () t n o a d o a a] r    () t] 8 1   () t] ( a t    A T O S H G B M T  O MEI T ]
+[DELETED: H 7  EI   C YS T C S S I T R  N)    )A D O A C I ME    ) ;IAE     )IARSE   ( T   ( c    ( u    ( b A   ( r a   ( p 2 ) TH O M U I P U A O T S A T B F A E U2,S2.  U  E 1  ( I i   ( t p a p t e t a r o t p aEM E ( ;    )()A     H A T F D T ]
+[DELETED:  H       D T N T I N TR        .–EMS     )–IREM  EM    )T P N A EM A S B  F 1()     S A B I F E T t A s t e O          G               ]

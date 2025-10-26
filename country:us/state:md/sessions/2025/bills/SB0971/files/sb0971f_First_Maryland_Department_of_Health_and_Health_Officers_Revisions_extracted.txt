@@ -1,0 +1,284 @@
+Title: SENATE BILL 971
+Official Title: SENATE BILL 971
+Number of Sections: 1
+Source: versions - First - Maryland Department of Health and Health Officers - Revisions
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+J1 5lr3458
+By: Senator Lam (By Request – Commission on Public Health)
+Introduced and read first time: January 28, 2025
+Assigned to: Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Maryland Department of Health and Health Officers – Revisions
+3 FOR the purpose of requiring the Maryland Department of Health to notify each health
+4 officer for a county of a certain procurement to offer the opportunity for the county
+5 health department to join the procurement; authorizing a health officer for a county
+6 to make an appointment to a position without the approval of the Maryland
+7 Department of Health or the Department of Budget and Management if the position
+8 is fully funded through the use of local funding or grant funding; authorizing a health
+9 officer for a county to enter into certain contracts if the Secretary of Health does not
+10 respond to a request for approval within a certain time period; requiring the
+11 Department to include certain data in a health care workforce data clearinghouse if
+12 the Department creates the clearinghouse; authorizing a health officer for a county
+13 to serve on the board of a hospital if the health officer does not accept payment for
+14 the health officer’s service on the board; and generally relating to the Maryland
+15 Department of Health and health officers of counties.
+16 BY repealing and reenacting, with amendments,
+17 Article – Health – General
+18 Section 3–306
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Health – General
+23 Section 24–2501 and 24–2502 to be under the new subtitle “Subtitle 25. Health Care
+24 Workforce Data Clearinghouse”
+25 Annotated Code of Maryland
+26 (2023 Replacement Volume and 2024 Supplement)
+27 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+28 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0971*
+2 SENATE BILL 971
+1 Article – Health – General
+2 3–306.
+3 (a) Except as provided by agreement between the Secretary and the local
+4 governing body, and in addition to the powers and duties set forth elsewhere, each health
+5 officer has the powers and duties set forth in this section.
+6 (b) A health officer may obtain samples of food and drugs for analysis.
+7 (c) (1) The health officer for a county is the executive officer and secretary of
+8 the county board of health.
+9 (2) (I) Except in Montgomery County, the health officer for a county
+10 shall appoint the staff of the county health department.
+11 (II) IF A POSITION WITH A COUNTY HEALTH DEPARTMENT IS
+12 FULLY FUNDED THROUGH THE USE OF LOCAL FUNDING OR GRANT FUNDING, THE
+13 HEALTH OFFICER FOR THE COUNTY MAY APPOINT AN INDIVIDUAL TO THE POSITION
+14 WITHOUT APPROVAL BY THE SECRETARY OR THE SECRETARY OF BUDGET AND
+15 MANAGEMENT.
+16 (3) The health officer for a county shall have an office at an accessible place
+17 in the county.
+18 (4) (i) The health officer for a county shall enforce throughout the
+19 county:
+20 1. Under the direction of the Secretary, the State health laws
+21 and the policies, rules, and regulations that the Secretary adopts; and
+22 2. Except as provided in subparagraph (ii) of this paragraph,
+23 under the direction of the county board of health, the rules and regulations that the county
+24 board of health adopts.
+25 (ii) The health officer for a county shall enforce in each municipality
+26 or special taxing district in the county the rules or regulations that the county board of
+27 health adopts unless the municipality or district has a charter provision or ordinance that:
+28 1. Covers the same subject matter as the county rule or
+29 regulation;
+30 2. Is at least as restrictive as the county rule or regulation;
+31 and
+SENATE BILL 971 3
+1 3. Includes provisions for enforcement.
+2 (5) A health officer shall perform any investigation or other duty or
+3 function directed by the Secretary or the county board of health and submit appropriate
+4 reports to them.
+5 (d) (1) Subject to the consent of the governing body of the county and the
+6 written approval of the Secretary, a health officer for a county may enter into a contract or
+7 any other written agreement to assist or participate in the delivery of health care services
+8 with a person that is authorized to provide, finance, coordinate, facilitate, or otherwise
+9 deliver health care services in the State.
+10 (2) IF THE SECRETARY DOES NOT RESPOND TO A REQUEST FOR
+11 WRITTEN APPROVAL WITHIN 7 DAYS AFTER RECEIVING THE REQUEST, THE HEALTH
+12 OFFICER FOR THE COUNTY MAY PROCEED TO ENTER THE CONTRACT OR WRITTEN
+13 AGREEMENT.
+14 (e) (1) Except as provided in paragraph (2) of this subsection, a health officer
+15 for a county and the Baltimore City Commissioner of Health may authorize the county
+16 health department to retain all collections, including any unspent balance at the end of a
+17 fiscal year, received from:
+18 (i) Fees authorized under this article;
+19 (ii) Fees authorized under the Environment Article; and
+20 (iii) Fees derived from charges authorized under Title 16, Subtitle 2
+21 of this article.
+22 (2) The authority to retain collections under paragraph (1) of this
+23 subsection does not apply:
+24 (i) To license fees set by a county governing body or Baltimore City
+25 and paid to the chief financial officer of the county or Baltimore City as authorized under
+26 State law;
+27 (ii) To fees that must be transferred to the General Fund under §
+28 4–217(c) of this article from the fees collected for each birth certificate issued or report
+29 issued that a search was made but the requested record is not on file; or
+30 (iii) If the retention of collections would be inconsistent with
+31 established local practice.
+32 (3) Each health officer for a county and the Baltimore City Commissioner
+33 of Health shall report annually to the Secretary on the use of collections retained under
+34 paragraph (1) of this subsection.
+4 SENATE BILL 971
+1 (F) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A HEALTH
+2 OFFICER FOR A COUNTY MAY SERVE ON THE BOARD OF A HOSPITAL IN THE STATE IF
+3 THE HEALTH OFFICER DOES NOT ACCEPT PAYMENT FOR THE HEALTH OFFICER’S
+4 SERVICE ON THE BOARD.
+5 (G) IF THE DEPARTMENT PROCURES A SYSTEM FOR COLLECTING AND
+6 STORING ELECTRONIC HEALTH RECORDS, AS DEFINED UNDER § 19–142 OF THIS
+7 ARTICLE, THE DEPARTMENT SHALL NOTIFY EACH HEALTH OFFICER FOR A COUNTY
+8 AND OFFER THE COUNTY HEALTH DEPARTMENT THE OPPORTUNITY TO JOIN THE
+9 PROCUREMENT.
+10 [(f)] (H) The Secretary may delegate duties, powers, and functions as provided
+11 in this article to a health officer for a county or other county official authorized to
+12 administer and enforce health and environmental laws.
+13 SUBTITLE 25. HEALTH CARE WORKFORCE DATA CLEARINGHOUSE.
+14 24–2501.
+15 IN THIS SUBTITLE, “PUBLIC HEALTH WORKFORCE” MEANS THE STAFF OF:
+16 (1) THE PUBLIC HEALTH SERVICES ADMINISTRATION;
+17 (2) A LOCAL HEALTH DEPARTMENT; OR
+18 (3) THE DEPARTMENT OF THE ENVIRONMENT WHO FOCUS ON
+19 COMMUNITY AND POPULATION HEALTH EFFORTS.
+20 24–2502.
+21 IF THE DEPARTMENT CREATES A HEALTH CARE WORKFORCE DATA
+22 CLEARINGHOUSE, THE CLEARINGHOUSE SHALL INCLUDE DATA RELATED TO THE
+23 PUBLIC HEALTH WORKFORCE.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025.
+[DELETED: :CA      5     A M F o h t m a a t a p w t a o t M D i o r t a r f a w a c t p r t D t t t a t D B  A S  A  ( B  A S W  A  (  S T]
+[DELETED:  S  A 3  ( E a p b a b t S a t l g o  ( A  ( ( T t   ( E) s   ) IF A P W A C H D IG  A B T E O T E O U AS.   ( T i   ( ( T h o f a c s e t t c     1 U a     2 E u b    ( T o h     1 C t s s m a t c r o r     2 I a]
+[DELETED: S 3     3 I   ( A h o s p a i o o d o f r  ( S t t c o t g b o t c a t w a w d   I T E D N R T A R F  T   ( ( E f h f    ( F    ( F    ( F o   ( T a t r c u p ( o t s    ( T a S    ( T 4 i    ( I t r o c w b i w e   ( E o p]
+[DELETED:  S   )NO A O P O LW A H TRS() IF T E P A S F C AS    O§1E  E  ()T]() i t a t a h o f a c o o c o a t a2.HCWDC.  E A O A LI,“”:E PE  ( TPHSA; U E E D ( A;T  ( TD E O T N W F OI T E C A H C W DE  C S D  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 971
+J1 5lr3458
+By: Senator Lam (By Request – Commission on Public Health)
+Introduced and read first time: January 28, 2025
+Assigned to: Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Maryland Department of Health and Health Officers – Revisions
+3 FOR the purpose of requiring the Maryland Department of Health to notify each health
+4 officer for a county of a certain procurement to offer the opportunity for the county
+5 health department to join the procurement; authorizing a health officer for a county
+6 to make an appointment to a position without the approval of the Maryland
+7 Department of Health or the Department of Budget and Management if the position
+8 is fully funded through the use of local funding or grant funding; authorizing a health
+9 officer for a county to enter into certain contracts if the Secretary of Health does not
+10 respond to a request for approval within a certain time period; requiring the
+11 Department to include certain data in a health care workforce data clearinghouse if
+12 the Department creates the clearinghouse; authorizing a health officer for a county
+13 to serve on the board of a hospital if the health officer does not accept payment for
+14 the health officer’s service on the board; and generally relating to the Maryland
+15 Department of Health and health officers of counties.
+16 BY repealing and reenacting, with amendments,
+17 Article – Health – General
+18 Section 3–306
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Health – General
+23 Section 24–2501 and 24–2502 to be under the new subtitle “Subtitle 25. Health Care
+24 Workforce Data Clearinghouse”
+25 Annotated Code of Maryland
+26 (2023 Replacement Volume and 2024 Supplement)
+27 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+28 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0971*
+
+2 SENATE BILL 971
+1 Article – Health – General
+2 3–306.
+3 (a) Except as provided by agreement between the Secretary and the local
+4 governing body, and in addition to the powers and duties set forth elsewhere, each health
+5 officer has the powers and duties set forth in this section.
+6 (b) A health officer may obtain samples of food and drugs for analysis.
+7 (c) (1) The health officer for a county is the executive officer and secretary of
+8 the county board of health.
+9 (2) (I) Except in Montgomery County, the health officer for a county
+10 shall appoint the staff of the county health department.
+11 (II) IF A POSITION WITH A COUNTY HEALTH DEPARTMENT IS
+12 FULLY FUNDED THROUGH THE USE OF LOCAL FUNDING OR GRANT FUNDING, THE
+13 HEALTH OFFICER FOR THE COUNTY MAY APPOINT AN INDIVIDUAL TO THE POSITION
+14 WITHOUT APPROVAL BY THE SECRETARY OR THE SECRETARY OF BUDGET AND
+15 MANAGEMENT.
+16 (3) The health officer for a county shall have an office at an accessible place
+17 in the county.
+18 (4) (i) The health officer for a county shall enforce throughout the
+19 county:
+20 1. Under the direction of the Secretary, the State health laws
+21 and the policies, rules, and regulations that the Secretary adopts; and
+22 2. Except as provided in subparagraph (ii) of this paragraph,
+23 under the direction of the county board of health, the rules and regulations that the county
+24 board of health adopts.
+25 (ii) The health officer for a county shall enforce in each municipality
+26 or special taxing district in the county the rules or regulations that the county board of
+27 health adopts unless the municipality or district has a charter provision or ordinance that:
+28 1. Covers the same subject matter as the county rule or
+29 regulation;
+30 2. Is at least as restrictive as the county rule or regulation;
+31 and
+
+SENATE BILL 971 3
+1 3. Includes provisions for enforcement.
+2 (5) A health officer shall perform any investigation or other duty or
+3 function directed by the Secretary or the county board of health and submit appropriate
+4 reports to them.
+5 (d) (1) Subject to the consent of the governing body of the county and the
+6 written approval of the Secretary, a health officer for a county may enter into a contract or
+7 any other written agreement to assist or participate in the delivery of health care services
+8 with a person that is authorized to provide, finance, coordinate, facilitate, or otherwise
+9 deliver health care services in the State.
+10 (2) IF THE SECRETARY DOES NOT RESPOND TO A REQUEST FOR
+11 WRITTEN APPROVAL WITHIN 7 DAYS AFTER RECEIVING THE REQUEST, THE HEALTH
+12 OFFICER FOR THE COUNTY MAY PROCEED TO ENTER THE CONTRACT OR WRITTEN
+13 AGREEMENT.
+14 (e) (1) Except as provided in paragraph (2) of this subsection, a health officer
+15 for a county and the Baltimore City Commissioner of Health may authorize the county
+16 health department to retain all collections, including any unspent balance at the end of a
+17 fiscal year, received from:
+18 (i) Fees authorized under this article;
+19 (ii) Fees authorized under the Environment Article; and
+20 (iii) Fees derived from charges authorized under Title 16, Subtitle 2
+21 of this article.
+22 (2) The authority to retain collections under paragraph (1) of this
+23 subsection does not apply:
+24 (i) To license fees set by a county governing body or Baltimore City
+25 and paid to the chief financial officer of the county or Baltimore City as authorized under
+26 State law;
+27 (ii) To fees that must be transferred to the General Fund under §
+28 4–217(c) of this article from the fees collected for each birth certificate issued or report
+29 issued that a search was made but the requested record is not on file; or
+30 (iii) If the retention of collections would be inconsistent with
+31 established local practice.
+32 (3) Each health officer for a county and the Baltimore City Commissioner
+33 of Health shall report annually to the Secretary on the use of collections retained under
+34 paragraph (1) of this subsection.
+
+4 SENATE BILL 971
+1 (F) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A HEALTH
+2 OFFICER FOR A COUNTY MAY SERVE ON THE BOARD OF A HOSPITAL IN THE STATE IF
+3 THE HEALTH OFFICER DOES NOT ACCEPT PAYMENT FOR THE HEALTH OFFICER’S
+4 SERVICE ON THE BOARD.
+5 (G) IF THE DEPARTMENT PROCURES A SYSTEM FOR COLLECTING AND
+6 STORING ELECTRONIC HEALTH RECORDS, AS DEFINED UNDER § 19–142 OF THIS
+7 ARTICLE, THE DEPARTMENT SHALL NOTIFY EACH HEALTH OFFICER FOR A COUNTY
+8 AND OFFER THE COUNTY HEALTH DEPARTMENT THE OPPORTUNITY TO JOIN THE
+9 PROCUREMENT.
+10 [(f)] (H) The Secretary may delegate duties, powers, and functions as provided
+11 in this article to a health officer for a county or other county official authorized to
+12 administer and enforce health and environmental laws.
+13 SUBTITLE 25. HEALTH CARE WORKFORCE DATA CLEARINGHOUSE.
+14 24–2501.
+15 IN THIS SUBTITLE, “PUBLIC HEALTH WORKFORCE” MEANS THE STAFF OF:
+16 (1) THE PUBLIC HEALTH SERVICES ADMINISTRATION;
+17 (2) A LOCAL HEALTH DEPARTMENT; OR
+18 (3) THE DEPARTMENT OF THE ENVIRONMENT WHO FOCUS ON
+19 COMMUNITY AND POPULATION HEALTH EFFORTS.
+20 24–2502.
+21 IF THE DEPARTMENT CREATES A HEALTH CARE WORKFORCE DATA
+22 CLEARINGHOUSE, THE CLEARINGHOUSE SHALL INCLUDE DATA RELATED TO THE
+23 PUBLIC HEALTH WORKFORCE.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025.
+
+[DELETED: :CA      5     A M F o h t m a a t a p w t a o t M D i o r t a r f a w a c t p r t D t t t a t D B  A S  A  ( B  A S W  A  (  S T]
+[DELETED:  S  A 3  ( E a p b a b t S a t l g o  ( A  ( ( T t   ( E) s   ) IF A P W A C H D IG  A B T E O T E O U AS.   ( T i   ( ( T h o f a c s e t t c     1 U a     2 E u b    ( T o h     1 C t s s m a t c r o r     2 I a]
+[DELETED: S 3     3 I   ( A h o s p a i o o d o f r  ( S t t c o t g b o t c a t w a w d   I T E D N R T A R F  T   ( ( E f h f    ( F    ( F    ( F o   ( T a t r c u p ( o t s    ( T a S    ( T 4 i    ( I t r o c w b i w e   ( E o p]
+[DELETED:  S   )NO A O P O LW A H TRS() IF T E P A S F C AS    O§1E  E  ()T]() i t a t a h o f a c o o c o a t a2.HCWDC.  E A O A LI,“”:E PE  ( TPHSA; U E E D ( A;T  ( TD E O T N W F OI T E C A H C W DE  C S D  S A B I F E T t A s t e O]

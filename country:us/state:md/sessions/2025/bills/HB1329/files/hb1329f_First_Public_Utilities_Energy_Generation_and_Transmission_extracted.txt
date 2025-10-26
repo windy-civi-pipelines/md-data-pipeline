@@ -1,0 +1,177 @@
+Title: HOUSE BILL 1329
+Official Title: HOUSE BILL 1329
+Number of Sections: 1
+Source: versions - First - Public Utilities - Energy Generation and Transmission
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+C5, M5 5lr1823
+CF SB 643
+By: Delegates Reilly, Arentz, Arikan, Chisholm, Grammer, Hartman, Hutchinson,
+Mangione, Miller, M. Morgan, T. Morgan, Nawrocki, Otto, Pippy, Rose,
+Szeliga, and Wivell
+Introduced and read first time: February 7, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Utilities – Energy Generation and Transmission
+3 FOR the purpose of stating the authority to construct, permit, and operate in the State an
+4 energy generating system that produces energy from natural gas; authorizing
+5 investor–owned electric companies and electricity suppliers in the State to construct,
+6 acquire, or lease, and operate, their own generating facilities and construct, acquire,
+7 or lease, and operate, certain transmission facilities; repealing the authority of the
+8 Public Service Commission to allow an investor–owned electric company to
+9 construct, acquire, or lease, and operate, its own generating facilities or construct,
+10 acquire, or lease, and operate, certain transmission facilities under certain
+11 circumstances; stating the General Assembly’s support for the development of
+12 additional nuclear energy in the State; stating that the General Assembly
+13 encourages PJM Interconnection, LLC to provide an expedited interconnection
+14 process for new thermal generation resources in the State; and generally relating to
+15 energy generation and transmission in the State.
+16 BY adding to
+17 Article – Public Utilities
+18 Section 7–218
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2024 Supplement)
+21 BY repealing and reenacting, with amendments,
+22 Article – Public Utilities
+23 Section 7–510(c)(6)
+24 Annotated Code of Maryland
+25 (2020 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1329*
+2 HOUSE BILL 1329
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Public Utilities
+4 7–218.
+5 (A) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, AND SUBJECT TO
+6 SUBSECTION (B) OF THIS SECTION, ENERGY GENERATING SYSTEMS THAT PRODUCE
+7 ENERGY FROM NATURAL GAS MAY BE CONSTRUCTED, PERMITTED, AND OPERATED
+8 IN THE STATE.
+9 (B) A PERSON CONSTRUCTING AN ENERGY GENERATING SYSTEM UNDER
+10 THIS SECTION SHALL COMPLY WITH THE PROVISIONS OF THIS SUBTITLE RELATING
+11 TO REQUIREMENTS TO OBTAIN:
+12 (1) A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY; OR
+13 (2) COMMISSION APPROVAL FOR THE CONSTRUCTION OF THE
+14 GENERATING SYSTEM.
+15 7–510.
+16 (c) (6) (I) SUBJECT TO THE REQUIREMENTS OF SUBTITLE 2 OF THIS
+17 TITLE, AN INVESTOR–OWNED ELECTRIC COMPANY OR ELECTRICITY SUPPLIER MAY:
+18 1. CONSTRUCT, ACQUIRE, OR LEASE, AND OPERATE, ITS
+19 OWN GENERATING FACILITIES; AND
+20 2. CONSTRUCT, ACQUIRE, OR LEASE, AND OPERATE, ITS
+21 OWN TRANSMISSION FACILITIES NECESSARY TO INTERCONNECT THE GENERATING
+22 FACILITIES WITH THE ELECTRIC SYSTEM.
+23 (II) [In] IF THE COMMISSION DETERMINES THAT IT IS
+24 NECESSARY IN order to meet long–term, anticipated demand in the State for standard
+25 offer service and other electricity supply, the Commission may require [or allow], SUBJECT
+26 TO APPROPRIATE COST RECOVERY, an investor–owned electric company to:
+27 1. construct, acquire, or lease, and operate, its own
+28 generating facilities[,]; and
+29 2. CONSTRUCT, ACQUIRE, OR LEASE, AND OPERATE, ITS
+30 OWN transmission facilities necessary to interconnect the generating facilities with the
+31 electric [grid, subject to appropriate cost recovery] SYSTEM.
+HOUSE BILL 1329 3
+1 SECTION 2. AND BE IT FURTHER ENACTED, That:
+2 (1) the General Assembly supports the development of additional nuclear
+3 energy in the State, including small modular reactors and the combination of nuclear
+4 energy and energy produced from natural gas, for reliable clean energy in the State; and
+5 (2) the General Assembly encourages PJM Interconnection, LLC to provide
+6 an expedited interconnection process for new thermal generation resources in the State.
+7 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+8 October 1, 2025.
+[DELETED: :CA      5   C M M T N O P R A P F e g s t p e f n g a i a o P S C t a a i e c t c a o l a o c t f u c c s t G A s f t d o a n e i t S s t t G A e P I L t p a e i p e B  A S  A  ( B  A S  A  (]
+[DELETED:  H   S T A() NOW  B N )D D  T.()  P C A E G S U ( ;Y  (  A F T C O T 7() SS ( (U U  E RO–:   1 ,,,T E E E S    2 ,,,T E E E   () []II F T O D T I I I o oeo ]Y: a   1 c a o l a o i o gs,a]     ,,,T E E E  t ecgy. ]
+[DELETED: H 3 S   ( t e i t S i s m r a t c o n e   ( t a  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1329
+C5, M5 5lr1823
+CF SB 643
+By: Delegates Reilly, Arentz, Arikan, Chisholm, Grammer, Hartman, Hutchinson,
+Mangione, Miller, M. Morgan, T. Morgan, Nawrocki, Otto, Pippy, Rose,
+Szeliga, and Wivell
+Introduced and read first time: February 7, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Utilities – Energy Generation and Transmission
+3 FOR the purpose of stating the authority to construct, permit, and operate in the State an
+4 energy generating system that produces energy from natural gas; authorizing
+5 investor–owned electric companies and electricity suppliers in the State to construct,
+6 acquire, or lease, and operate, their own generating facilities and construct, acquire,
+7 or lease, and operate, certain transmission facilities; repealing the authority of the
+8 Public Service Commission to allow an investor–owned electric company to
+9 construct, acquire, or lease, and operate, its own generating facilities or construct,
+10 acquire, or lease, and operate, certain transmission facilities under certain
+11 circumstances; stating the General Assembly’s support for the development of
+12 additional nuclear energy in the State; stating that the General Assembly
+13 encourages PJM Interconnection, LLC to provide an expedited interconnection
+14 process for new thermal generation resources in the State; and generally relating to
+15 energy generation and transmission in the State.
+16 BY adding to
+17 Article – Public Utilities
+18 Section 7–218
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2024 Supplement)
+21 BY repealing and reenacting, with amendments,
+22 Article – Public Utilities
+23 Section 7–510(c)(6)
+24 Annotated Code of Maryland
+25 (2020 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1329*
+
+2 HOUSE BILL 1329
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Public Utilities
+4 7–218.
+5 (A) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, AND SUBJECT TO
+6 SUBSECTION (B) OF THIS SECTION, ENERGY GENERATING SYSTEMS THAT PRODUCE
+7 ENERGY FROM NATURAL GAS MAY BE CONSTRUCTED, PERMITTED, AND OPERATED
+8 IN THE STATE.
+9 (B) A PERSON CONSTRUCTING AN ENERGY GENERATING SYSTEM UNDER
+10 THIS SECTION SHALL COMPLY WITH THE PROVISIONS OF THIS SUBTITLE RELATING
+11 TO REQUIREMENTS TO OBTAIN:
+12 (1) A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY; OR
+13 (2) COMMISSION APPROVAL FOR THE CONSTRUCTION OF THE
+14 GENERATING SYSTEM.
+15 7–510.
+16 (c) (6) (I) SUBJECT TO THE REQUIREMENTS OF SUBTITLE 2 OF THIS
+17 TITLE, AN INVESTOR–OWNED ELECTRIC COMPANY OR ELECTRICITY SUPPLIER MAY:
+18 1. CONSTRUCT, ACQUIRE, OR LEASE, AND OPERATE, ITS
+19 OWN GENERATING FACILITIES; AND
+20 2. CONSTRUCT, ACQUIRE, OR LEASE, AND OPERATE, ITS
+21 OWN TRANSMISSION FACILITIES NECESSARY TO INTERCONNECT THE GENERATING
+22 FACILITIES WITH THE ELECTRIC SYSTEM.
+23 (II) [In] IF THE COMMISSION DETERMINES THAT IT IS
+24 NECESSARY IN order to meet long–term, anticipated demand in the State for standard
+25 offer service and other electricity supply, the Commission may require [or allow], SUBJECT
+26 TO APPROPRIATE COST RECOVERY, an investor–owned electric company to:
+27 1. construct, acquire, or lease, and operate, its own
+28 generating facilities[,]; and
+29 2. CONSTRUCT, ACQUIRE, OR LEASE, AND OPERATE, ITS
+30 OWN transmission facilities necessary to interconnect the generating facilities with the
+31 electric [grid, subject to appropriate cost recovery] SYSTEM.
+
+HOUSE BILL 1329 3
+1 SECTION 2. AND BE IT FURTHER ENACTED, That:
+2 (1) the General Assembly supports the development of additional nuclear
+3 energy in the State, including small modular reactors and the combination of nuclear
+4 energy and energy produced from natural gas, for reliable clean energy in the State; and
+5 (2) the General Assembly encourages PJM Interconnection, LLC to provide
+6 an expedited interconnection process for new thermal generation resources in the State.
+7 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+8 October 1, 2025.
+
+[DELETED: :CA      5   C M M T N O P R A P F e g s t p e f n g a i a o P S C t a a i e c t c a o l a o c t f u c c s t G A s f t d o a n e i t S s t t G A e P I L t p a e i p e B  A S  A  ( B  A S  A  (]
+[DELETED:  H   S T A() NOW  B N )D D  T.()  P C A E G S U ( ;Y  (  A F T C O T 7() SS ( (U U  E RO–:   1 ,,,T E E E S    2 ,,,T E E E   () []II F T O D T I I I o oeo ]Y: a   1 c a o l a o i o gs,a]     ,,,T E E E  t ecgy. ]
+[DELETED: H 3 S   ( t e i t S i s m r a t c o n e   ( t a  S A B I F E T t A s t e O]

@@ -1,0 +1,309 @@
+Title: HOUSE BILL 1020
+Official Title: HOUSE BILL 1020
+Number of Sections: 1
+Source: versions - First - Consumer Protection - Credit Reporting - Medical Debt (Fair Medical Debt Reporting Act)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+I3, J3 5lr2315
+CF SB 614
+By: Delegate Palakovich Carr
+Introduced and read first time: February 3, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Consumer Protection – Credit Reporting – Medical Debt
+3 (Fair Medical Debt Reporting Act)
+4 FOR the purpose of prohibiting a consumer reporting agency from including certain
+5 medical debt information in a consumer report; prohibiting a person from using
+6 medical debt information included in a consumer report when making a
+7 creditworthiness determination; prohibiting certain entities from disclosing medical
+8 debt to a consumer reporting agency; requiring certain entities to include a certain
+9 provision in contracts entered into with a collection entity regarding medical debt
+10 and establishing a contract that does not contain the provision is void and
+11 unenforceable; and generally relating to credit reporting and medical debt.
+12 BY adding to
+13 Article – Commercial Law
+14 Section 14–1213
+15 Annotated Code of Maryland
+16 (2013 Replacement Volume and 2024 Supplement)
+17 BY repealing and reenacting, with amendments,
+18 Article – Health – General
+19 Section 19–214.2(f)
+20 Annotated Code of Maryland
+21 (2023 Replacement Volume and 2024 Supplement)
+22 BY adding to
+23 Article – Health – General
+24 Section 24–2501 and 24–2502 be under the new subtitle “Subtitle 25. Medical Debt
+25 Reporting”
+26 Annotated Code of Maryland
+27 (2023 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1020*
+2 HOUSE BILL 1020
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Commercial Law
+4 14–1213.
+5 (A) (1) IN THIS SECTION, “MEDICAL DEBT” MEANS AN OBLIGATION OF A
+6 CONSUMER TO PAY ANY AMOUNT RELATED TO THE RECEIPT OF HEALTH CARE
+7 SERVICES, PRODUCTS, DEVICES, DURABLE MEDICAL EQUIPMENT, OR
+8 PRESCRIPTION DRUGS PROVIDED TO A PERSON BY:
+9 (I) A HEALTH CARE FACILITY AS DEFINED IN § 19–114 OF THE
+10 HEALTH – GENERAL ARTICLE;
+11 (II) A HEALTH CARE PRACTITIONER AS DEFINED IN § 19–114 OF
+12 THE HEALTH – GENERAL ARTICLE; OR
+13 (III) AN AMBULANCE SERVICE AS DEFINED IN § 13–515 OF THE
+14 EDUCATION ARTICLE.
+15 (2) “MEDICAL DEBT” INCLUDES MEDICAL BILLS THAT:
+16 (I) ARE NOT PAST DUE; OR
+17 (II) HAVE ALREADY BEEN PAID.
+18 (3) “MEDICAL DEBT” DOES NOT INCLUDE DEBT CHARGED TO A
+19 CREDIT CARD UNLESS THE CREDIT CARD IS ISSUED UNDER AN OPEN–ENDED OR A
+20 CLOSE–ENDED PLAN OFFERED SPECIFICALLY FOR THE PAYMENT OF HEALTH CARE
+21 SERVICES, PRODUCTS, DEVICES, DURABLE MEDICAL EQUIPMENT, OR
+22 PRESCRIPTION DRUGS.
+23 (B) (1) A CONSUMER REPORTING AGENCY MAY NOT:
+24 (I) MAKE, CREATE, OR FURNISH ANY CONSUMER REPORT
+25 CONTAINING, INCORPORATING, OR REFLECTING:
+26 1. ANY ADVERSE INFORMATION THAT THE CONSUMER
+27 REPORTING AGENCY KNOWS OR SHOULD KNOW RELATES TO MEDICAL DEBT
+28 INCURRED BY THE CONSUMER; OR
+29 2. ANY COLLECTION ACTION AGAINST A CONSUMER TO
+30 COLLECT MEDICAL DEBT; OR
+HOUSE BILL 1020 3
+1 (II) MAINTAIN IN A FILE ON A CONSUMER ANY INFORMATION
+2 RELATING TO:
+3 1. MEDICAL DEBT INCURRED BY THE CONSUMER; OR
+4 2. ANY COLLECTION ACTION AGAINST THE CONSUMER
+5 TO COLLECT MEDICAL DEBT.
+6 (2) THE PROHIBITIONS ESTABLISHED UNDER PARAGRAPH (1) OF
+7 THIS SUBSECTION APPLY REGARDLESS OF WHEN MEDICAL DEBT WAS INCURRED BY
+8 A CONSUMER.
+9 (C) A PERSON MAY NOT USE MEDICAL DEBT INFORMATION INCLUDED IN A
+10 CONSUMER REPORT TO MAKE A DETERMINATION REGARDING THE
+11 CREDITWORTHINESS OF THE CONSUMER.
+12 Article – Health – General
+13 19–214.2.
+14 (f) (1) A HOSPITAL SHALL COMPLY WITH § 24–2502 OF THIS ARTICLE.
+15 (2) For at least 180 days after issuing an initial patient bill, a hospital may
+16 not report adverse information about a patient to a consumer reporting agency or
+17 commence civil action against a patient for nonpayment.
+18 [(2)] (3) A hospital shall report the fulfillment of a patient’s payment
+19 obligation within 60 days after the obligation is fulfilled to any consumer reporting agency
+20 to which the hospital had reported adverse information about the patient.
+21 [(3)] (4) A hospital may not report adverse information to a consumer
+22 reporting agency regarding a patient who at the time of service was uninsured or eligible
+23 for free or reduced–cost care under § 19–214.1 of this subtitle.
+24 [(4)] (5) A hospital may not report adverse information about a patient to
+25 a consumer reporting agency, commence a civil action against a patient for nonpayment, or
+26 delegate collection activity to a debt collector:
+27 (i) If the hospital was notified in accordance with federal law by the
+28 patient or the insurance carrier that an appeal or a review of a health insurance decision
+29 is pending within the immediately preceding 60 days; or
+4 HOUSE BILL 1020
+1 (ii) If the hospital has completed a requested reconsideration of the
+2 denial of free or reduced–cost care that was appropriately completed by the patient within
+3 the immediately preceding 60 days.
+4 [(5)] (6) If a hospital has reported adverse information about a patient to
+5 a consumer reporting agency, the hospital shall instruct the consumer reporting agency to
+6 delete the adverse information about the patient:
+7 (i) If the hospital was informed by the patient or the insurance
+8 carrier that an appeal or a review of a health insurance decision is pending, and until 60
+9 days after the appeal is complete; or
+10 (ii) Until 60 days after the hospital has completed a requested
+11 reconsideration of the denial of free or reduced–cost care.
+12 SUBTITLE 25. MEDICAL DEBT REPORTING.
+13 24–2501.
+14 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+15 INDICATED.
+16 (B) “AMBULANCE SERVICE” HAS THE MEANING STATED IN § 13–515 OF THE
+17 EDUCATION ARTICLE.
+18 (C) “COLLECTION ENTITY” MEANS ANY INDIVIDUAL, PARTNERSHIP,
+19 CORPORATION, TRUST, ESTATE, COOPERATIVE, ASSOCIATION, GOVERNMENT OR
+20 GOVERNMENT SUBDIVISION, AGENCY, OR OTHER ENTITY THAT PURCHASES
+21 MEDICAL DEBT OR COLLECTS MEDICAL DEBT ON BEHALF OF ANOTHER.
+22 (D) “HEALTH CARE FACILITY” HAS THE MEANING STATED IN § 19–114 OF
+23 THIS ARTICLE.
+24 (E) “HEALTH CARE PRACTITIONER” HAS THE MEANING STATED IN § 19–114
+25 OF THIS ARTICLE.
+26 (F) “MEDICAL DEBT” HAS THE MEANING STATED IN § 14–1213 OF THE
+27 COMMERCIAL LAW ARTICLE.
+28 24–2502.
+29 (A) A HEALTH CARE FACILITY, A HEALTH CARE PRACTITIONER, OR AN
+30 AMBULANCE SERVICE:
+HOUSE BILL 1020 5
+1 (1) MAY NOT DISCLOSE ANY PORTION OF A MEDICAL DEBT TO A
+2 CONSUMER REPORTING AGENCY; AND
+3 (2) SHALL INCLUDE IN ANY CONTRACT ENTERED INTO WITH A
+4 COLLECTION ENTITY FOR THE PURCHASE OR COLLECTION OF MEDICAL DEBT A
+5 PROVISION PROHIBITING THE DISCLOSURE OF ANY PORTION OF THE MEDICAL DEBT
+6 TO A CONSUMER REPORTING AGENCY.
+7 (B) A CONTRACT ENTERED INTO ON OR AFTER OCTOBER 1, 2025, THAT
+8 DOES NOT INCLUDE THE PROVISION REQUIRED UNDER SUBSECTION (A)(2) OF THIS
+9 SECTION IS VOID AND UNENFORCEABLE.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 October 1, 2025.
+[DELETED: :CA      5   C A C ( F t p o p a c r a f i c m d i i a c r p a p f u m d i i i a c r w m a c d p a e a c t d n c t p i v a u B  A S  A  ( B  A  S  A  ( B  A S R  A  (]
+[DELETED:  H   S T A() ( I,“NN MT  T P A A R T T R O H CS PS DS D M ET O,,  () A§1    –GA;  E R  () A§1I     E  E RE –GA;  () A§1IN   A. RE ( “M”:T   () A;RE   () H.IA ( “M DT D N I D C T ANEEES PS DS D M ET O,,() ( A:   () M,AE CE O F A C RG G G,:   1  A I T T C A K O S K R T M DR    2 T ]
+[DELETED: H 3  () IA   1 M;R    2  ( T( P E U P  O()   R T M A D R T A 1  ( (§22.    ( F n r a i a a p t a c r a o c   () A h s r t f o a p p]( o t   () A]( r f   () A]( a d    ( I p i]
+[DELETED:  H     ( I d t   () I]( a d    ( I t h w i b t p o t i c d    ( U 6 d a t h h c a r r2.MDR.  E E E() N T S T F W H T M() “A”§1ME    A. R() “C”,O EY M A IL PPN TT EE CE AN G O,,, SN AY O O E T P() “H”§1EY     R.() “H”§1ER    R.() “M”§1E DT H T M S I   O TLA. A R() A, H C FY A H C PR O A]
+[DELETED: H 5 (  N D A P O A M D T AY  (  I I A C E I W A E F T P O C O M D A() AO1,2 C E I O O A C   T A )  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1020
+I3, J3 5lr2315
+CF SB 614
+By: Delegate Palakovich Carr
+Introduced and read first time: February 3, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Consumer Protection – Credit Reporting – Medical Debt
+3 (Fair Medical Debt Reporting Act)
+4 FOR the purpose of prohibiting a consumer reporting agency from including certain
+5 medical debt information in a consumer report; prohibiting a person from using
+6 medical debt information included in a consumer report when making a
+7 creditworthiness determination; prohibiting certain entities from disclosing medical
+8 debt to a consumer reporting agency; requiring certain entities to include a certain
+9 provision in contracts entered into with a collection entity regarding medical debt
+10 and establishing a contract that does not contain the provision is void and
+11 unenforceable; and generally relating to credit reporting and medical debt.
+12 BY adding to
+13 Article – Commercial Law
+14 Section 14–1213
+15 Annotated Code of Maryland
+16 (2013 Replacement Volume and 2024 Supplement)
+17 BY repealing and reenacting, with amendments,
+18 Article – Health – General
+19 Section 19–214.2(f)
+20 Annotated Code of Maryland
+21 (2023 Replacement Volume and 2024 Supplement)
+22 BY adding to
+23 Article – Health – General
+24 Section 24–2501 and 24–2502 be under the new subtitle “Subtitle 25. Medical Debt
+25 Reporting”
+26 Annotated Code of Maryland
+27 (2023 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1020*
+
+2 HOUSE BILL 1020
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Commercial Law
+4 14–1213.
+5 (A) (1) IN THIS SECTION, “MEDICAL DEBT” MEANS AN OBLIGATION OF A
+6 CONSUMER TO PAY ANY AMOUNT RELATED TO THE RECEIPT OF HEALTH CARE
+7 SERVICES, PRODUCTS, DEVICES, DURABLE MEDICAL EQUIPMENT, OR
+8 PRESCRIPTION DRUGS PROVIDED TO A PERSON BY:
+9 (I) A HEALTH CARE FACILITY AS DEFINED IN § 19–114 OF THE
+10 HEALTH – GENERAL ARTICLE;
+11 (II) A HEALTH CARE PRACTITIONER AS DEFINED IN § 19–114 OF
+12 THE HEALTH – GENERAL ARTICLE; OR
+13 (III) AN AMBULANCE SERVICE AS DEFINED IN § 13–515 OF THE
+14 EDUCATION ARTICLE.
+15 (2) “MEDICAL DEBT” INCLUDES MEDICAL BILLS THAT:
+16 (I) ARE NOT PAST DUE; OR
+17 (II) HAVE ALREADY BEEN PAID.
+18 (3) “MEDICAL DEBT” DOES NOT INCLUDE DEBT CHARGED TO A
+19 CREDIT CARD UNLESS THE CREDIT CARD IS ISSUED UNDER AN OPEN–ENDED OR A
+20 CLOSE–ENDED PLAN OFFERED SPECIFICALLY FOR THE PAYMENT OF HEALTH CARE
+21 SERVICES, PRODUCTS, DEVICES, DURABLE MEDICAL EQUIPMENT, OR
+22 PRESCRIPTION DRUGS.
+23 (B) (1) A CONSUMER REPORTING AGENCY MAY NOT:
+24 (I) MAKE, CREATE, OR FURNISH ANY CONSUMER REPORT
+25 CONTAINING, INCORPORATING, OR REFLECTING:
+26 1. ANY ADVERSE INFORMATION THAT THE CONSUMER
+27 REPORTING AGENCY KNOWS OR SHOULD KNOW RELATES TO MEDICAL DEBT
+28 INCURRED BY THE CONSUMER; OR
+29 2. ANY COLLECTION ACTION AGAINST A CONSUMER TO
+30 COLLECT MEDICAL DEBT; OR
+
+HOUSE BILL 1020 3
+1 (II) MAINTAIN IN A FILE ON A CONSUMER ANY INFORMATION
+2 RELATING TO:
+3 1. MEDICAL DEBT INCURRED BY THE CONSUMER; OR
+4 2. ANY COLLECTION ACTION AGAINST THE CONSUMER
+5 TO COLLECT MEDICAL DEBT.
+6 (2) THE PROHIBITIONS ESTABLISHED UNDER PARAGRAPH (1) OF
+7 THIS SUBSECTION APPLY REGARDLESS OF WHEN MEDICAL DEBT WAS INCURRED BY
+8 A CONSUMER.
+9 (C) A PERSON MAY NOT USE MEDICAL DEBT INFORMATION INCLUDED IN A
+10 CONSUMER REPORT TO MAKE A DETERMINATION REGARDING THE
+11 CREDITWORTHINESS OF THE CONSUMER.
+12 Article – Health – General
+13 19–214.2.
+14 (f) (1) A HOSPITAL SHALL COMPLY WITH § 24–2502 OF THIS ARTICLE.
+15 (2) For at least 180 days after issuing an initial patient bill, a hospital may
+16 not report adverse information about a patient to a consumer reporting agency or
+17 commence civil action against a patient for nonpayment.
+18 [(2)] (3) A hospital shall report the fulfillment of a patient’s payment
+19 obligation within 60 days after the obligation is fulfilled to any consumer reporting agency
+20 to which the hospital had reported adverse information about the patient.
+21 [(3)] (4) A hospital may not report adverse information to a consumer
+22 reporting agency regarding a patient who at the time of service was uninsured or eligible
+23 for free or reduced–cost care under § 19–214.1 of this subtitle.
+24 [(4)] (5) A hospital may not report adverse information about a patient to
+25 a consumer reporting agency, commence a civil action against a patient for nonpayment, or
+26 delegate collection activity to a debt collector:
+27 (i) If the hospital was notified in accordance with federal law by the
+28 patient or the insurance carrier that an appeal or a review of a health insurance decision
+29 is pending within the immediately preceding 60 days; or
+
+4 HOUSE BILL 1020
+1 (ii) If the hospital has completed a requested reconsideration of the
+2 denial of free or reduced–cost care that was appropriately completed by the patient within
+3 the immediately preceding 60 days.
+4 [(5)] (6) If a hospital has reported adverse information about a patient to
+5 a consumer reporting agency, the hospital shall instruct the consumer reporting agency to
+6 delete the adverse information about the patient:
+7 (i) If the hospital was informed by the patient or the insurance
+8 carrier that an appeal or a review of a health insurance decision is pending, and until 60
+9 days after the appeal is complete; or
+10 (ii) Until 60 days after the hospital has completed a requested
+11 reconsideration of the denial of free or reduced–cost care.
+12 SUBTITLE 25. MEDICAL DEBT REPORTING.
+13 24–2501.
+14 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+15 INDICATED.
+16 (B) “AMBULANCE SERVICE” HAS THE MEANING STATED IN § 13–515 OF THE
+17 EDUCATION ARTICLE.
+18 (C) “COLLECTION ENTITY” MEANS ANY INDIVIDUAL, PARTNERSHIP,
+19 CORPORATION, TRUST, ESTATE, COOPERATIVE, ASSOCIATION, GOVERNMENT OR
+20 GOVERNMENT SUBDIVISION, AGENCY, OR OTHER ENTITY THAT PURCHASES
+21 MEDICAL DEBT OR COLLECTS MEDICAL DEBT ON BEHALF OF ANOTHER.
+22 (D) “HEALTH CARE FACILITY” HAS THE MEANING STATED IN § 19–114 OF
+23 THIS ARTICLE.
+24 (E) “HEALTH CARE PRACTITIONER” HAS THE MEANING STATED IN § 19–114
+25 OF THIS ARTICLE.
+26 (F) “MEDICAL DEBT” HAS THE MEANING STATED IN § 14–1213 OF THE
+27 COMMERCIAL LAW ARTICLE.
+28 24–2502.
+29 (A) A HEALTH CARE FACILITY, A HEALTH CARE PRACTITIONER, OR AN
+30 AMBULANCE SERVICE:
+
+HOUSE BILL 1020 5
+1 (1) MAY NOT DISCLOSE ANY PORTION OF A MEDICAL DEBT TO A
+2 CONSUMER REPORTING AGENCY; AND
+3 (2) SHALL INCLUDE IN ANY CONTRACT ENTERED INTO WITH A
+4 COLLECTION ENTITY FOR THE PURCHASE OR COLLECTION OF MEDICAL DEBT A
+5 PROVISION PROHIBITING THE DISCLOSURE OF ANY PORTION OF THE MEDICAL DEBT
+6 TO A CONSUMER REPORTING AGENCY.
+7 (B) A CONTRACT ENTERED INTO ON OR AFTER OCTOBER 1, 2025, THAT
+8 DOES NOT INCLUDE THE PROVISION REQUIRED UNDER SUBSECTION (A)(2) OF THIS
+9 SECTION IS VOID AND UNENFORCEABLE.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 October 1, 2025.
+
+[DELETED: :CA      5   C A C ( F t p o p a c r a f i c m d i i a c r p a p f u m d i i i a c r w m a c d p a e a c t d n c t p i v a u B  A S  A  ( B  A  S  A  ( B  A S R  A  (]
+[DELETED:  H   S T A() ( I,“NN MT  T P A A R T T R O H CS PS DS D M ET O,,  () A§1    –GA;  E R  () A§1I     E  E RE –GA;  () A§1IN   A. RE ( “M”:T   () A;RE   () H.IA ( “M DT D N I D C T ANEEES PS DS D M ET O,,() ( A:   () M,AE CE O F A C RG G G,:   1  A I T T C A K O S K R T M DR    2 T ]
+[DELETED: H 3  () IA   1 M;R    2  ( T( P E U P  O()   R T M A D R T A 1  ( (§22.    ( F n r a i a a p t a c r a o c   () A h s r t f o a p p]( o t   () A]( r f   () A]( a d    ( I p i]
+[DELETED:  H     ( I d t   () I]( a d    ( I t h w i b t p o t i c d    ( U 6 d a t h h c a r r2.MDR.  E E E() N T S T F W H T M() “A”§1ME    A. R() “C”,O EY M A IL PPN TT EE CE AN G O,,, SN AY O O E T P() “H”§1EY     R.() “H”§1ER    R.() “M”§1E DT H T M S I   O TLA. A R() A, H C FY A H C PR O A]
+[DELETED: H 5 (  N D A P O A M D T AY  (  I I A C E I W A E F T P O C O M D A() AO1,2 C E I O O A C   T A )  S A B I F E T t A s t e O]

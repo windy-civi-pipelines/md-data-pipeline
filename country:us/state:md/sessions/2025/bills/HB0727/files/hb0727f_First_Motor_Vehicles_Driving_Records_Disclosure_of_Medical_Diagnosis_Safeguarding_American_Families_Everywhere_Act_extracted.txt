@@ -1,0 +1,173 @@
+Title: HOUSE BILL 727
+Official Title: HOUSE BILL 727
+Number of Sections: 1
+Source: versions - First - Motor Vehicles - Driving Records - Disclosure of Medical Diagnosis (Safeguarding American Families Everywhere Act)
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+R4 5lr1841
+By: Delegates M. Morgan, Arentz, Arikan, Bagnall, Chisholm, Cullison, Grammer,
+Howard, Hutchinson, T. Morgan, Nawrocki, Nkongolo, Schmidt, Szeliga,
+and Valentine
+Introduced and read first time: January 27, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Motor Vehicles – Driving Records – Disclosure of Medical Diagnosis
+3 (Safeguarding American Families Everywhere Act)
+4 FOR the purpose of authorizing an applicant for a driver’s license or a license holder to
+5 voluntarily disclose to the Motor Vehicle Administration certain information
+6 regarding certain medical diagnoses; requiring the Administration to include a
+7 description of the voluntary disclosure in the applicant’s or license holder’s driving
+8 record; and generally relating to motor vehicle driving records.
+9 BY adding to
+10 Article – Transportation
+11 Section 16–125
+12 Annotated Code of Maryland
+13 (2020 Replacement Volume and 2024 Supplement)
+14 Preamble
+15 WHEREAS, Individuals with special needs, including developmental disabilities and
+16 mental illnesses, are among the most vulnerable individuals in their communities; and
+17 WHEREAS, Interacting with law enforcement officers or first responders in an
+18 emergency, such as a motor vehicle crash or other crisis situation, can be more complex for
+19 individuals with special needs, as language, physical, cognitive, learning, or mental
+20 disabilities may create barriers to receiving immediate and appropriate assistance; and
+21 WHEREAS, Providing law enforcement officers and first responders with advance
+22 notice that an individual with whom they are about to interact may have a developmental
+23 disability, mental illness, or other special need will improve communication, reduce
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0727*
+2 HOUSE BILL 727
+1 unnecessary adverse actions, and ensure that the individual receives the specific response
+2 and care the individual requires; now, therefore,
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – Transportation
+6 16–125.
+7 (A) AN APPLICANT FOR A DRIVER’S LICENSE OR A LICENSE HOLDER MAY
+8 VOLUNTARILY DISCLOSE, ON A FORM PROVIDED BY THE ADMINISTRATION, THAT
+9 THE APPLICANT OR LICENSE HOLDER HAS BEEN DIAGNOSED BY A PHYSICIAN, OR IS
+10 THE PARENT OR GUARDIAN OF A MINOR WHO HAS BEEN DIAGNOSED BY A PHYSICIAN,
+11 WITH ANY OF THE FOLLOWING CONDITIONS:
+12 (1) AUTISM OR AUTISM SPECTRUM DISORDER;
+13 (2) ATTENTION–DEFICIT/HYPERACTIVITY DISORDER;
+14 (3) DOWN SYNDROME;
+15 (4) ALZHEIMER’S DISEASE;
+16 (5) TRAUMATIC BRAIN INJURY;
+17 (6) POST–TRAUMATIC STRESS DISORDER;
+18 (7) DIABETES;
+19 (8) AN AUTOIMMUNE DISORDER;
+20 (9) DEAFNESS OR HEARING IMPAIRMENT;
+21 (10) BLINDNESS OR VISION IMPAIRMENT; OR
+22 (11) ANY OTHER MENTALLY OR PHYSICALLY LIMITING DISABILITY OR
+23 DISORDER.
+24 (B) (1) IF AN INDIVIDUAL PROVIDES A VOLUNTARY DISCLOSURE UNDER
+25 SUBSECTION (A) OF THIS SECTION, THE ADMINISTRATION SHALL INCLUDE A BRIEF
+26 DESCRIPTION OF THE DISCLOSURE IN THE APPLICANT’S DRIVING RECORD.
+HOUSE BILL 727 3
+1 (2) THE DESCRIPTION OF THE VOLUNTARY DISCLOSURE MAY NOT
+2 INCLUDE:
+3 (I) ANY PERSONAL IDENTIFYING INFORMATION OF AN
+4 INDIVIDUAL NAMED IN THE DISCLOSURE; OR
+5 (II) THE SPECIFIC DIAGNOSIS OR CONDITION DISCLOSED.
+6 (C) (1) ON A FORM PROVIDED BY THE ADMINISTRATION, AN INDIVIDUAL
+7 WHO HAS MADE A VOLUNTARY DISCLOSURE MAY SUBMIT A REQUEST TO REMOVE
+8 THE DESCRIPTION OF THE VOLUNTARY DISCLOSURE FROM THE INDIVIDUAL’S
+9 DRIVING RECORD.
+10 (2) AFTER RECEIVING A PROPERLY COMPLETED REQUEST FOR
+11 REMOVAL, THE ADMINISTRATION SHALL REMOVE THE DESCRIPTION OF THE
+12 VOLUNTARY DISCLOSURE FROM THE INDIVIDUAL’S DRIVING RECORD.
+13 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+14 October 1, 2025.
+[DELETED: :CA      5     H T N N S S A M ( F v d t t M V A c i r c m d r t A t i a d r B  A S  A  ( P  W m  W I w l e o o f r i a e i w s n a l p c l o m d  W n d m i o o s n w i c r]
+[DELETED:  H  u a  S T A() ANRSE  DN AN N ( A; ( A–/;NDTH ( D; ( A’;RS ( T; ( P–;TT ( D; ( A; ( D; ( B;T  ( () ( F A N  D),TS.]
+[DELETED: H 3 (  D O T V D M N  () N P I I O AE   () T.IH() ( OAN DN  D O T V D F T ILS (  R A P C R FL T D S R T D O TLS.  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 727
+R4 5lr1841
+By: Delegates M. Morgan, Arentz, Arikan, Bagnall, Chisholm, Cullison, Grammer,
+Howard, Hutchinson, T. Morgan, Nawrocki, Nkongolo, Schmidt, Szeliga,
+and Valentine
+Introduced and read first time: January 27, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Motor Vehicles – Driving Records – Disclosure of Medical Diagnosis
+3 (Safeguarding American Families Everywhere Act)
+4 FOR the purpose of authorizing an applicant for a driver’s license or a license holder to
+5 voluntarily disclose to the Motor Vehicle Administration certain information
+6 regarding certain medical diagnoses; requiring the Administration to include a
+7 description of the voluntary disclosure in the applicant’s or license holder’s driving
+8 record; and generally relating to motor vehicle driving records.
+9 BY adding to
+10 Article – Transportation
+11 Section 16–125
+12 Annotated Code of Maryland
+13 (2020 Replacement Volume and 2024 Supplement)
+14 Preamble
+15 WHEREAS, Individuals with special needs, including developmental disabilities and
+16 mental illnesses, are among the most vulnerable individuals in their communities; and
+17 WHEREAS, Interacting with law enforcement officers or first responders in an
+18 emergency, such as a motor vehicle crash or other crisis situation, can be more complex for
+19 individuals with special needs, as language, physical, cognitive, learning, or mental
+20 disabilities may create barriers to receiving immediate and appropriate assistance; and
+21 WHEREAS, Providing law enforcement officers and first responders with advance
+22 notice that an individual with whom they are about to interact may have a developmental
+23 disability, mental illness, or other special need will improve communication, reduce
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0727*
+
+2 HOUSE BILL 727
+1 unnecessary adverse actions, and ensure that the individual receives the specific response
+2 and care the individual requires; now, therefore,
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – Transportation
+6 16–125.
+7 (A) AN APPLICANT FOR A DRIVER’S LICENSE OR A LICENSE HOLDER MAY
+8 VOLUNTARILY DISCLOSE, ON A FORM PROVIDED BY THE ADMINISTRATION, THAT
+9 THE APPLICANT OR LICENSE HOLDER HAS BEEN DIAGNOSED BY A PHYSICIAN, OR IS
+10 THE PARENT OR GUARDIAN OF A MINOR WHO HAS BEEN DIAGNOSED BY A PHYSICIAN,
+11 WITH ANY OF THE FOLLOWING CONDITIONS:
+12 (1) AUTISM OR AUTISM SPECTRUM DISORDER;
+13 (2) ATTENTION–DEFICIT/HYPERACTIVITY DISORDER;
+14 (3) DOWN SYNDROME;
+15 (4) ALZHEIMER’S DISEASE;
+16 (5) TRAUMATIC BRAIN INJURY;
+17 (6) POST–TRAUMATIC STRESS DISORDER;
+18 (7) DIABETES;
+19 (8) AN AUTOIMMUNE DISORDER;
+20 (9) DEAFNESS OR HEARING IMPAIRMENT;
+21 (10) BLINDNESS OR VISION IMPAIRMENT; OR
+22 (11) ANY OTHER MENTALLY OR PHYSICALLY LIMITING DISABILITY OR
+23 DISORDER.
+24 (B) (1) IF AN INDIVIDUAL PROVIDES A VOLUNTARY DISCLOSURE UNDER
+25 SUBSECTION (A) OF THIS SECTION, THE ADMINISTRATION SHALL INCLUDE A BRIEF
+26 DESCRIPTION OF THE DISCLOSURE IN THE APPLICANT’S DRIVING RECORD.
+
+HOUSE BILL 727 3
+1 (2) THE DESCRIPTION OF THE VOLUNTARY DISCLOSURE MAY NOT
+2 INCLUDE:
+3 (I) ANY PERSONAL IDENTIFYING INFORMATION OF AN
+4 INDIVIDUAL NAMED IN THE DISCLOSURE; OR
+5 (II) THE SPECIFIC DIAGNOSIS OR CONDITION DISCLOSED.
+6 (C) (1) ON A FORM PROVIDED BY THE ADMINISTRATION, AN INDIVIDUAL
+7 WHO HAS MADE A VOLUNTARY DISCLOSURE MAY SUBMIT A REQUEST TO REMOVE
+8 THE DESCRIPTION OF THE VOLUNTARY DISCLOSURE FROM THE INDIVIDUAL’S
+9 DRIVING RECORD.
+10 (2) AFTER RECEIVING A PROPERLY COMPLETED REQUEST FOR
+11 REMOVAL, THE ADMINISTRATION SHALL REMOVE THE DESCRIPTION OF THE
+12 VOLUNTARY DISCLOSURE FROM THE INDIVIDUAL’S DRIVING RECORD.
+13 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+14 October 1, 2025.
+
+[DELETED: :CA      5     H T N N S S A M ( F v d t t M V A c i r c m d r t A t i a d r B  A S  A  ( P  W m  W I w l e o o f r i a e i w s n a l p c l o m d  W n d m i o o s n w i c r]
+[DELETED:  H  u a  S T A() ANRSE  DN AN N ( A; ( A–/;NDTH ( D; ( A’;RS ( T; ( P–;TT ( D; ( A; ( D; ( B;T  ( () ( F A N  D),TS.]
+[DELETED: H 3 (  D O T V D M N  () N P I I O AE   () T.IH() ( OAN DN  D O T V D F T ILS (  R A P C R FL T D S R T D O TLS.  S A B I F E T t A s t e O]
