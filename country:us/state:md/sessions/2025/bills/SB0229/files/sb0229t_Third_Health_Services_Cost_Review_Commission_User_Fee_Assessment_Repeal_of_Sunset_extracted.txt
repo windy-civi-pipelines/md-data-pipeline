@@ -1,0 +1,187 @@
+Title: SENATE BILL 229
+Official Title: SENATE BILL 229
+Number of Sections: 1
+Source: versions - Third - Health Services Cost Review Commission - User Fee Assessment - Repeal of Sunset
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+J3 5lr0271
+(PRE–FILED) CF HB 54
+By: Chair, Finance Committee (By Request – Departmental – Health)
+Requested: September 29, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Finance
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 21, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Health Services Cost Review Commission – User Fee Assessment – Repeal of
+3 Sunset
+4 FOR the purpose of repealing the termination date for a certain provision of law related to
+5 the maximum amount of total user fees that may be assessed on hospitals and
+6 related institutions by the Health Services Cost Review Commission; and generally
+7 relating to fees assessed by the Health Services Cost Review Commission.
+8 BY repealing and reenacting, without amendments,
+9 Article – Health – General
+10 Section 19–213(a), (b), and (c)
+11 Annotated Code of Maryland
+12 (2023 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Chapter 696 of the Acts of the General Assembly of 2022
+15 Section 3
+16 BY repealing and reenacting, with amendments,
+17 Chapter 697 of the Acts of the General Assembly of 2022
+18 Section 3
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0229*
+2 SENATE BILL 229
+1 Article – Health – General
+2 19–213.
+3 (a) (1) In this section the following words have the meanings indicated.
+4 (2) “Facilities” means hospitals and related institutions whose rates have
+5 been approved by the Commission.
+6 (b) The Commission shall assess and collect user fees on facilities as defined in
+7 this section.
+8 (c) (1) The total fees assessed by the Commission may not exceed the greater
+9 of:
+10 (i) 0.1% of the immediately preceding fiscal year’s budgeted,
+11 regulated, gross hospital revenue; or
+12 (ii) The largest amount determined under this paragraph for a fiscal
+13 year during the immediately preceding 5 fiscal years.
+14 (2) The total user fees assessed by the Commission may not exceed the
+15 Special Fund appropriation for the Commission by more than 20%.
+16 (3) The user fees assessed by the Commission shall be used exclusively to
+17 cover the actual documented direct costs of fulfilling the statutory and regulatory duties of
+18 the Commission in accordance with the provisions of this subtitle and any administrative
+19 costs for services to the Commission provided by the Department.
+20 (4) The Commission shall pay all funds collected from fees assessed in
+21 accordance with this section into the Health Services Cost Review Commission Fund.
+22 (5) The user fees assessed by the Commission may be expended only for
+23 purposes authorized by the provisions of this subtitle.
+24 (6) The amount specified in paragraph (1) of this subsection limits only the
+25 total user fees the Commission may assess in a fiscal year.
+26 Chapter 696 of the Acts of 2022
+27 SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take
+28 effect July 1, 2022. [Section 1 of this Act shall remain effective for a period of 3 years and,
+29 at the end of June 30, 2025, Section 1 of this Act, with no further action required by the
+30 General Assembly, shall be abrogated and of no further force and effect.]
+31 Chapter 697 of the Acts of 2022
+SENATE BILL 229 3
+1 SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take
+2 effect July 1, 2022. [Section 1 of this Act shall remain effective for a period of 3 years and,
+3 at the end of June 30, 2025, Section 1 of this Act, with no further action required by the
+4 General Assembly, shall be abrogated and of no further force and effect.]
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+6 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5 ( C A H S F t m a o t u f t m b a o h a r r B  A S  A  ( B  C  S B  C  S  S T]
+[DELETED:  S  A 1  ( ( I   ( “ b  ( T t  ( ( T o    ( 0 o t i p f y b r    ( T y   ( T S   ( T c t c   ( T C s p a f c f f a i a   ( T p   ( T t C  S e S a G C]
+[DELETED: S 3  S e S a G  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 229
+J3 5lr0271
+(PRE–FILED) CF HB 54
+By: Chair, Finance Committee (By Request – Departmental – Health)
+Requested: September 29, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Finance
+Committee Report: Favorable
+Senate action: Adopted
+Read second time: February 21, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Health Services Cost Review Commission – User Fee Assessment – Repeal of
+3 Sunset
+4 FOR the purpose of repealing the termination date for a certain provision of law related to
+5 the maximum amount of total user fees that may be assessed on hospitals and
+6 related institutions by the Health Services Cost Review Commission; and generally
+7 relating to fees assessed by the Health Services Cost Review Commission.
+8 BY repealing and reenacting, without amendments,
+9 Article – Health – General
+10 Section 19–213(a), (b), and (c)
+11 Annotated Code of Maryland
+12 (2023 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Chapter 696 of the Acts of the General Assembly of 2022
+15 Section 3
+16 BY repealing and reenacting, with amendments,
+17 Chapter 697 of the Acts of the General Assembly of 2022
+18 Section 3
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0229*
+
+2 SENATE BILL 229
+1 Article – Health – General
+2 19–213.
+3 (a) (1) In this section the following words have the meanings indicated.
+4 (2) “Facilities” means hospitals and related institutions whose rates have
+5 been approved by the Commission.
+6 (b) The Commission shall assess and collect user fees on facilities as defined in
+7 this section.
+8 (c) (1) The total fees assessed by the Commission may not exceed the greater
+9 of:
+10 (i) 0.1% of the immediately preceding fiscal year’s budgeted,
+11 regulated, gross hospital revenue; or
+12 (ii) The largest amount determined under this paragraph for a fiscal
+13 year during the immediately preceding 5 fiscal years.
+14 (2) The total user fees assessed by the Commission may not exceed the
+15 Special Fund appropriation for the Commission by more than 20%.
+16 (3) The user fees assessed by the Commission shall be used exclusively to
+17 cover the actual documented direct costs of fulfilling the statutory and regulatory duties of
+18 the Commission in accordance with the provisions of this subtitle and any administrative
+19 costs for services to the Commission provided by the Department.
+20 (4) The Commission shall pay all funds collected from fees assessed in
+21 accordance with this section into the Health Services Cost Review Commission Fund.
+22 (5) The user fees assessed by the Commission may be expended only for
+23 purposes authorized by the provisions of this subtitle.
+24 (6) The amount specified in paragraph (1) of this subsection limits only the
+25 total user fees the Commission may assess in a fiscal year.
+26 Chapter 696 of the Acts of 2022
+27 SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take
+28 effect July 1, 2022. [Section 1 of this Act shall remain effective for a period of 3 years and,
+29 at the end of June 30, 2025, Section 1 of this Act, with no further action required by the
+30 General Assembly, shall be abrogated and of no further force and effect.]
+31 Chapter 697 of the Acts of 2022
+
+SENATE BILL 229 3
+1 SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take
+2 effect July 1, 2022. [Section 1 of this Act shall remain effective for a period of 3 years and,
+3 at the end of June 30, 2025, Section 1 of this Act, with no further action required by the
+4 General Assembly, shall be abrogated and of no further force and effect.]
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+6 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5 ( C A H S F t m a o t u f t m b a o h a r r B  A S  A  ( B  C  S B  C  S  S T]
+[DELETED:  S  A 1  ( ( I   ( “ b  ( T t  ( ( T o    ( 0 o t i p f y b r    ( T y   ( T S   ( T c t c   ( T C s p a f c f f a i a   ( T p   ( T t C  S e S a G C]
+[DELETED: S 3  S e S a G  S 1          G               ]

@@ -1,0 +1,942 @@
+Title: HOUSE BILL 59
+Official Title: HOUSE BILL 59
+Number of Sections: 1
+Source: versions - First - Property Tax – Tax Sales – Revisions
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+Q1 5lr0140
+(PRE–FILED) CF SB 192
+By: Chair, Ways and Means Committee (By Request – Departmental – Housing and
+Community Development)
+Requested: October 6, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Property Tax – Tax Sales – Revisions
+3 FOR the purpose of requiring that certain owner–occupied property be withheld from tax
+4 sale; requiring a county or municipal corporation to withhold from tax sale certain
+5 property when the taxes consist only of a lien for unpaid water and sewer service;
+6 authorizing a county or a municipal corporation to withhold from tax sale certain
+7 property designated for redevelopment purposes; altering the contents of certain
+8 statements required to be sent to an owner of property subject to tax sale; altering
+9 certain provisions of law concerning abandoned property that is sold for less than
+10 the lien amount; establishing a maximum rate of redemption for owner–occupied
+11 property sold at tax sale; prohibiting taxes, interest, and penalties accruing after the
+12 date of a tax sale from being included in the payment required to redeem
+13 owner–occupied residential property; extending the period of time during which a
+14 holder of a certificate of sale is prohibited from filing a complaint to foreclose the
+15 right of redemption for owner–occupied residential property after the date of sale;
+16 altering the contents of certain notices required to be sent to certain persons with an
+17 interest in property sold at tax sale; extending the period of time after a tax sale
+18 during which a certain notice may not be sent to certain persons with an interest in
+19 owner–occupied residential property sold at the tax sale; requiring the plaintiff in an
+20 action to foreclose the right of redemption for an owner–occupied property subject to
+21 tax sale to send written notice of the proceeding to the State Tax Sale Ombudsman;
+22 extending the period of time after issuance of a judgment foreclosing the right of
+23 redemption before a plaintiff may take possession of a property that has tenants;
+24 altering certain notice requirements that apply before a plaintiff may take
+25 possession of a property that has tenants; extending the amount of time that has to
+26 pass after a tax sale before the plaintiff or the holder of a certificate of sale for
+27 owner–occupied residential property may be reimbursed for certain expenses when
+28 the property is redeemed; prohibiting the sale of property to enforce a lien for unpaid
+29 charges for water and sewer service except under certain circumstances; requiring a
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0059*
+2 HOUSE BILL 59
+1 county to maintain a record of the information the county provides for the Annual
+2 Tax Sale Survey for a certain minimum number of years; altering certain
+3 requirements concerning eligibility for participation in the Homeowner Protection
+4 Program; and generally relating to tax sales.
+5 BY repealing and reenacting, with amendments,
+6 Article – Tax – Property
+7 Section 14–811(b) and (e), 14–817.1(a), 14–820, 14–828(a), 14–833(a)(2), (a–1)(3)(v)3.
+8 and (vi)3. and (4)(i)2., (c)(2), and (d)(2), 14–836(b)(4)(i) and (7), 14–843(a)(4)(ii)
+9 and (b)(1)(ii), 14–844(e), 14–845(c), 14–849.1, 14–879(a), and 14–883(d)
+10 Annotated Code of Maryland
+11 (2019 Replacement Volume and 2024 Supplement)
+12 BY repealing and reenacting, without amendments,
+13 Article – Tax – Property
+14 Section 14–817(c), 14–883(a), and 14–884
+15 Annotated Code of Maryland
+16 (2019 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Tax – Property
+20 14–811.
+21 (b) (1) The collector may withhold from sale any NON–OWNER–OCCUPIED
+22 residential property, when the total taxes on the property, including interest and penalties,
+23 amount to less than $750.
+24 (2) [In Baltimore City, the] THE collector shall withhold from sale
+25 owner–occupied residential property, when the total taxes on the property, including
+26 interest and penalties, amount to less than [$750] $1,000.
+27 (3) [In Baltimore City, the] THE collector shall withhold from sale
+28 residential property or property that is exempt from taxation under § 7–204(1) or (2) of this
+29 article, if the taxes on the property consist only of a lien for unpaid charges for water and
+30 sewer service.
+31 (e) [Baltimore City] THE MAYOR AND CITY COUNCIL OF BALTIMORE CITY
+32 OR THE GOVERNING BODY OF A COUNTY OR MUNICIPAL CORPORATION may withhold
+33 from sale property that has been designated for redevelopment purposes if the property
+34 meets objective criteria established by the Mayor and City Council of Baltimore City OR
+35 THE GOVERNING BODY.
+36 14–817.
+HOUSE BILL 59 3
+1 (c) (1) Abandoned property consisting of either a vacant lot or improved
+2 property cited as vacant and unfit for habitation on a housing or building violation notice
+3 may be sold for a sum less than the total amount of:
+4 (i) all taxes on the property that are certified to the collector under
+5 § 14–810 of this subtitle;
+6 (ii) interest and penalties on the taxes; and
+7 (iii) expenses incurred in making the sale.
+8 (2) The collector shall establish a minimum bid for abandoned property
+9 sold under this subsection.
+10 (3) The person responsible for the taxes prior to the sale shall remain liable
+11 to the collector for the difference between the amount received in the tax sale under this
+12 section and the taxes, interest, penalties, and expenses remaining after the sale.
+13 (4) The balance remaining after the tax sale shall be included in the
+14 amount necessary to redeem the property under § 14–828 of this subtitle.
+15 (5) In a proceeding brought by the governing body of a county or municipal
+16 corporation to foreclose the right of redemption under this subtitle, the complaint may
+17 request a judgment for the county or municipal corporation in the amount of the balance.
+18 (6) The balance remaining after the tax sale is no longer a lien on the
+19 property when:
+20 (i) a judgment is entered foreclosing the owner’s right of
+21 redemption;
+22 (ii) the deed is recorded; and
+23 (iii) all liens accruing subsequent to the date of sale are paid in full.
+24 (7) The governing body of a county or municipal corporation may institute
+25 a separate action to collect the balance at any time within 7 years after the tax sale if the
+26 plaintiff is a private purchaser.
+27 14–817.1.
+28 (a) Within 60 days after a property is sold at a tax sale, the collector shall send to
+29 the person who last appears as owner of the property on the collector’s tax roll, at the last
+30 address shown on the tax roll, a notice that includes:
+31 (1) a statement that the property has been sold to satisfy unpaid taxes;
+4 HOUSE BILL 59
+1 (2) the date of the tax sale;
+2 (3) the amount of the highest bid;
+3 (4) the lien amount on the property at the time of sale;
+4 (5) a statement that the owner has the right to redeem the property until
+5 a court forecloses that right;
+6 (6) a statement that the purchaser of the property may institute an action
+7 to foreclose the property:
+8 (i) as early as 6 months from the date of the sale; or
+9 (ii) if a government agency certifies that the property requires, or
+10 shall require, substantial repair to comply with applicable business codes, as early as 60
+11 days from the date of the sale;
+12 (7) a statement that if the property is redeemed before an action to
+13 foreclose the right of redemption is filed, the amount that shall be paid to redeem the
+14 property is:
+15 (i) the total lien amount on the property at the time of sale, with
+16 interest;
+17 (ii) any taxes, interest, and penalties paid by the holder of the
+18 certificate of sale; and
+19 (iii) FOR PROPERTY THAT IS NOT OWNER–OCCUPIED
+20 RESIDENTIAL PROPERTY, any DELINQUENT taxes, interest, and penalties accruing after
+21 the date of the tax sale;
+22 (8) a statement that, if the property is redeemed more than 4 months after
+23 the date of the tax sale, and before an action to foreclose the right of redemption is filed,
+24 the holder of the certificate of sale may be reimbursed for:
+25 (i) attorney’s fees for recording the certificate of sale;
+26 (ii) a title search fee, not to exceed $250; and
+27 (iii) reasonable attorney’s fees, not to exceed $500;
+28 (9) a statement that, if the property is redeemed after an action to foreclose
+29 the right of redemption has been filed, the amount that shall be paid to redeem the property
+30 is the sum of:
+HOUSE BILL 59 5
+1 (i) the total lien amount on the property at the time of sale, with
+2 interest;
+3 (ii) any taxes, interest, and penalties paid by the holder of the
+4 certificate of sale;
+5 (iii) FOR PROPERTY THAT IS NOT OWNER–OCCUPIED
+6 RESIDENTIAL PROPERTY, any DELINQUENT taxes, interest, and penalties accruing after
+7 the date of the tax sale; and
+8 (iv) attorney’s fees and expenses to which the holder of the certificate
+9 of sale may be entitled under § 14–843(a)(4) and (5) of this subtitle; and
+10 (10) the provisions of § 14–843(a) of this subtitle, reproduced as they appear
+11 in the Code.
+12 14–820.
+13 (a) The collector shall deliver to the purchaser a certificate of sale under the
+14 collector’s hand and seal, or by the collector’s authorized facsimile signature, acknowledged
+15 by the collector as a conveyance of land, which certificate shall set forth:
+16 (1) that the property described in it was sold by the collector to the
+17 purchaser;
+18 (2) the date of the sale;
+19 (3) the amount for which the property was sold;
+20 (4) the total amount of taxes due on the property at the time of sale
+21 together with interest, penalties and expenses incurred in making the sale;
+22 (5) a description of the property in substantially the same form as the
+23 description appearing on the collector’s tax roll. If the property is unimproved or has no
+24 street number, and the collector has procured a description of the property from the county
+25 or municipal corporation surveyor, this description shall be included in the certificate of
+26 sale. In Garrett County a copy of the description as required by § 14–813(f) of this subtitle,
+27 as that section relates specifically to Garrett County, shall be included in the certificate of
+28 sale;
+29 (6) a statement that the rate of redemption is 6% a year, except as provided
+30 in subsection (b) of this section;
+31 (7) the time when an action to foreclose the right of redemption may be
+32 instituted; and
+6 HOUSE BILL 59
+1 (8) (i) that the certificate will be void unless foreclosure proceedings are
+2 brought within 2 years from the date of the certificate; or
+3 (ii) that, unless foreclosure proceedings are brought within 3
+4 months from the date of the certificate to any abandoned property [in Baltimore City] sold
+5 under § 14–817(c)(1) of this subtitle with a minimum bid less than the lien amount, the
+6 certificate:
+7 1. is void as to a private purchaser; and
+8 2. reverts to the Mayor and City Council OF BALTIMORE
+9 CITY OR THE GOVERNING BODY OF A COUNTY, OR IF THE PROPERTY IS LOCATED IN
+10 A MUNICIPAL CORPORATION, THE GOVERNING BODY OF THE MUNICIPAL
+11 CORPORATION for a period of 2 years from the date of the tax sale.
+12 (b) [The] SUBJECT TO SUBSECTION (C) OF THIS SECTION, THE rate of
+13 redemption is 6% a year except:
+14 (1) in Allegany County the rate is 6% a year or as fixed by the County
+15 Commissioners;
+16 (2) in Anne Arundel County the rate is 6% a year or as fixed by a law of the
+17 County Council;
+18 (3) in Baltimore City the rate is 6% a year or as fixed by a law of the City
+19 Council;
+20 (4) in Baltimore County the rate is 6% a year or as fixed by a law of the
+21 County Council;
+22 (5) in Cecil County the rate is 6% a year or as fixed by the County
+23 Commissioners;
+24 (6) in Calvert County the rate is 10% a year or as fixed by the County
+25 Commissioners;
+26 (7) in Caroline County the rate is 10% a year or as fixed by the County
+27 Commissioners;
+28 (8) in Carroll County the rate is 14% a year or as fixed by the County
+29 Commissioners;
+30 (9) in Dorchester County the rate is 10% a year or as fixed by the County
+31 Commissioners;
+HOUSE BILL 59 7
+1 (10) in Frederick County the rate is 6% a year or as fixed by the governing
+2 body of Frederick County;
+3 (11) in Garrett County the rate is 10% a year or as fixed by the County
+4 Commissioners;
+5 (12) in Harford County the rate is 6% a year or as fixed by a law of the
+6 County Council;
+7 (13) in Howard County the rate is 6% a year or as fixed by a law of the
+8 County Council;
+9 (14) in Kent County the rate is 6% a year or as fixed by the County
+10 Commissioners;
+11 (15) in Montgomery County the rate is 6% a year or as fixed by a law of the
+12 County Council;
+13 (16) in Prince George’s County the rate is 6% a year or as fixed by a law of
+14 the County Council;
+15 (17) in Queen Anne’s County the rate is 6% a year or as fixed by the County
+16 Commissioners;
+17 (18) in Somerset County, Charles County, Wicomico County, and Worcester
+18 County the rate is 6% a year or as fixed by the County Commissioners or by a law of the
+19 County Council;
+20 (19) in Talbot County the rate is 6% a year or as fixed by a law of the County
+21 Council; and
+22 (20) in Washington County the rate is 6% a year or as fixed by the County
+23 Commissioners.
+24 (C) FOR OWNER–OCCUPIED RESIDENTIAL PROPERTY, THE RATE OF
+25 REDEMPTION MAY NOT EXCEED 10% A YEAR.
+26 [(c)] (D) The certificate of sale shall be in substantially the following form:
+27 “I, .........., Collector of Taxes for the State of Maryland and the .......... of ........, certify that
+28 on ......., 20...., I sold to ........, at public auction for the sum of .......... Dollars and ......... Cents,
+29 of which ...... Dollars has been paid, the property in ......... described as ........ and assessed
+30 to ......... The property described in this certificate is subject to redemption. On redemption
+31 the holder of the certificate will be refunded the sums paid on account of the purchase price
+32 together with interest at the rate of 6% a year from the date of payment to the date of
+33 redemption (except as stated in [subsection (b) of] § 14–820 of the Tax – Property Article
+34 of the Annotated Code of Maryland), together with all other amounts specified by Chapter
+8 HOUSE BILL 59
+1 761 of the Acts of 1943, and acts that amend that chapter. The balance due on account of
+2 the purchase price and all taxes, together with interest and penalties on the taxes, accruing
+3 after the date of sale, must be paid to the Collector before a deed can be delivered to the
+4 purchaser. After .........., 20...., a proceeding can be brought to foreclose all rights of
+5 redemption in the property. This certificate will be void unless such a proceeding is brought
+6 within 2 years from the date of this certificate, except that [in Baltimore City,] with respect
+7 to any abandoned property sold under § 14–817(c) of the Tax – Property Article of the
+8 Annotated Code of Maryland with a minimum bid less than the lien amount, the certificate
+9 will revert to the Mayor and City Council OF BALTIMORE CITY OR THE GOVERNING
+10 BODY OF THE COUNTY, OR IF THE PROPERTY IS LOCATED IN A MUNICIPAL
+11 CORPORATION, THE GOVERNING BODY OF THE MUNICIPAL CORPORATION, and will
+12 be void as to the private purchaser at tax sale unless such a proceeding is brought within 3
+13 months from the date of the certificate.
+14 Witness my hand and seal, this ....... day of ......, 20...............
+15 ...............................
+16 Collector”
+17 (To be followed by acknowledgment).
+18 14–828.
+19 (a) (1) If the property is redeemed, the person redeeming shall pay the
+20 collector:
+21 (i) the total lien amount paid at the tax sale for the property
+22 together with interest;
+23 (ii) any taxes, interest, and penalties paid by any holder of the
+24 certificate of sale;
+25 (iii) except as provided under paragraph (2) of this subsection, any
+26 delinquent taxes, interest, and penalties accruing after the date of the tax sale;
+27 (iv) in the manner and by the terms required by the collector, any
+28 expenses or fees for which the plaintiff or the holder of a certificate of sale is entitled to
+29 reimbursement under § 14–843 of this subtitle; and
+30 (v) for vacant and abandoned property sold under § 14–817 of this
+31 subtitle for a sum less than the amount due, the difference between the price paid and the
+32 unpaid taxes, interest, penalties, and expenses.
+33 (2) For owner–occupied residential property [in Baltimore City], any taxes,
+34 interest, and penalties accruing after the date of the tax sale may not be included in the
+35 redemption payment required under paragraph (1) of this subsection.
+36 14–833.
+HOUSE BILL 59 9
+1 (a) (2) Except as provided in subsections (a–1), (e), (f), and (g) of this section,
+2 at any time after [9] 12 months from the date of sale of owner–occupied residential
+3 property, a holder of any certificate of sale may file a complaint to foreclose all rights of
+4 redemption of the property to which the certificate relates.
+5 (a–1) (3) The notices required under this subsection shall include at least the
+6 following:
+7 (v) a statement that if the property is redeemed before an action to
+8 foreclose the right of redemption is filed, the amount that shall be paid to redeem the
+9 property is:
+10 3. FOR PROPERTY THAT IS NOT OWNER–OCCUPIED
+11 RESIDENTIAL PROPERTY, any delinquent taxes, interest, and penalties accruing after the
+12 date of the tax sale; and
+13 (vi) a statement that if the property is redeemed after an action to
+14 foreclose the right of redemption has been filed, the amount that shall be paid to redeem
+15 the property is the sum of:
+16 3. FOR PROPERTY THAT IS NOT OWNER–OCCUPIED
+17 RESIDENTIAL PROPERTY, any delinquent taxes, interest, and penalties accruing after the
+18 date of the tax sale; and
+19 (4) (i) 2. For owner–occupied residential property, the first of the
+20 two notices required under this subsection may not be sent until [7] 10 months after the
+21 date of sale.
+22 (c) (2) A certificate for abandoned property sold under § 14–817(c) of this
+23 subtitle with a minimum bid less than the lien amount reverts to the MAYOR AND CITY
+24 COUNCIL OF BALTIMORE CITY OR THE GOVERNING BODY OF THE county or, IF THE
+25 PROPERTY IS LOCATED IN A MUNICIPAL CORPORATION, THE GOVERNING BODY OF
+26 THE municipal corporation and is void as to the private purchaser at tax sale unless:
+27 (i) a proceeding to foreclose the right of redemption is filed within 3
+28 months of the date of the certificate of sale; and
+29 (ii) unless the holder is granted an extension by the court due to a
+30 showing of extraordinary circumstances beyond the certificate holder’s control, the holder
+31 secures a decree from the circuit court in which the foreclosure proceeding was filed within
+32 18 months from the date of the filing of the foreclosure proceeding.
+33 (d) (2) If a certificate for abandoned property reverts to the Mayor and City
+34 Council of Baltimore City OR THE GOVERNING BODY OF A COUNTY OR, IF THE
+35 PROPERTY IS LOCATED IN A MUNICIPAL CORPORATION, THE GOVERNING BODY OF
+10 HOUSE BILL 59
+1 THE MUNICIPAL CORPORATION under this section, the Mayor and City Council OR THE
+2 GOVERNING BODY may:
+3 (i) file a foreclosure proceeding in its own name; or
+4 (ii) 1. resell the certificate; and
+5 2. apply all money received on account of the sale to any
+6 outstanding balance remaining after the sale on the tax debt owed by the previous owner
+7 of the abandoned property.
+8 14–836.
+9 (b) (4) (i) Notwithstanding the provision of paragraph (3) of this
+10 subsection, the plaintiff shall send written notice of the proceeding to:
+11 1. all persons having a recorded interest, claim, or lien,
+12 including a judgment, who have not been made a defendant in the proceeding, and, if the
+13 subject property is part of a homeowners association or condominium association, to the
+14 homeowners association or condominium association governing the property, at the last
+15 reasonably ascertainable address; [and]
+16 2. each tenant of the subject property whose identity is
+17 known to the plaintiff, at the tenant’s last reasonably ascertainable address; AND
+18 3. IF THE SUBJECT PROPERTY IS OWNER–OCCUPIED,
+19 THE STATE TAX SALE OMBUDSMAN.
+20 (7) (i) Subject to subparagraphs (ii) and (iii) of this paragraph, after
+21 issuance of the judgment foreclosing right of redemption and at least [30] 90 days before
+22 taking possession of the property, the plaintiff shall give any tenant of the property written
+23 notice of the plaintiff’s intention to obtain possession of the property and that the tenant
+24 must vacate the property within [30] 90 days after the notice.
+25 (ii) During the [30–day] 90–DAY period immediately following
+26 issuance of the judgment foreclosing the right of redemption, the plaintiff may apply for,
+27 process, and obtain, but not execute upon, a writ for possession of the property.
+28 (iii) The notice shall be sent:
+29 1. by first–class mail, postage prepaid, CERTIFICATE OF
+30 MAILING, bearing a postmark from the United States Postal Service addressed to the
+31 tenant by name if the identity of the tenant is known to the plaintiff, and addressed to
+32 “occupant” if the identity of the tenant is not known;
+HOUSE BILL 59 11
+1 2. to each separately leased area of the property that the
+2 plaintiff can reasonably ascertain is occupied; and
+3 3. in an envelope prominently marked on the outside with
+4 the following phrase “Notice of Taking Possession of Property”.
+5 (IV) THE NOTICE REQUIRED UNDER THIS PARAGRAPH SHALL
+6 ALSO BE POSTED ON THE PROPERTY WITHIN 1 DAY OF FIRST BEING SENT UNDER
+7 SUBPARAGRAPH (III) OF THIS PARAGRAPH.
+8 14–843.
+9 (a) (4) (ii) For owner–occupied residential property, if an action to foreclose
+10 the right of redemption has not been filed, and the property is redeemed more than [7] 10
+11 months after the date of the tax sale, the holder of a certificate of sale may be reimbursed
+12 for the following expenses actually incurred:
+13 1. costs for recording the certificate of sale;
+14 2. a title search fee, not to exceed $250;
+15 3. the postage and certified mailing costs for the notices
+16 required under § 14–833(a–1) of this subtitle; and
+17 4. reasonable attorney’s fees, not to exceed $500.
+18 (b) (1) (ii) For owner–occupied residential property, the plaintiff or holder
+19 of a certificate of sale may not be reimbursed for expenses incurred within [7] 10 months
+20 after the date of sale.
+21 14–844.
+22 (e) [In Baltimore City where] WHERE abandoned property has been sold for a
+23 sum less than the amount due under § 14–817 of this subtitle, in a foreclosure proceeding
+24 brought by the Mayor and City Council OF BALTIMORE CITY OR THE GOVERNING BODY
+25 OF A COUNTY OR MUNICIPAL CORPORATION, the final order may include a judgment in
+26 favor of the city, COUNTY, OR MUNICIPAL CORPORATION and against the person liable
+27 for taxes prior to the sale, in the amount of the unpaid taxes, interest, penalties, and
+28 expenses otherwise due in a tax sale.
+29 14–845.
+30 (c) [In Baltimore City, with] WITH respect to abandoned property that is subject
+31 to § 14–817(c) of this subtitle:
+12 HOUSE BILL 59
+1 (1) a defendant or any person described in § 14–836(b)(1) or (4)(i) of this
+2 subtitle may file an action to recover damages on the ground of inadequate notice within 3
+3 years after the date of judgment foreclosing rights of redemption;
+4 (2) damages in an action under item (1) of this subsection may not exceed
+5 the fair market value of that person’s interest in the property at the time of the sale; and
+6 (3) a person may not file to reopen a judgment foreclosing rights of
+7 redemption based on inadequate notice.
+8 14–849.1.
+9 (a) [In Baltimore City, the Mayor and City Council] THE MAYOR AND CITY
+10 COUNCIL OF BALTIMORE CITY OR THE GOVERNING BODY OF A COUNTY OR
+11 MUNICIPAL CORPORATION may not sell a property to enforce a lien for unpaid charges
+12 for water and sewer service unless:
+13 (1) the lien is for at least $350;
+14 (2) the property is not:
+15 (i) a residential property; or
+16 (ii) real property that is exempt from taxation under § 7–204(1) or
+17 (2) of this article; and
+18 (3) the unpaid charges for water and sewer service are at least 3 quarters
+19 in arrears.
+20 (b) Notwithstanding subsection (a) of this section, the Mayor and City Council OF
+21 BALTIMORE CITY OR THE GOVERNING BODY OF A COUNTY OR MUNICIPAL
+22 CORPORATION may enforce a lien on a property other than residential property or real
+23 property that is exempt from taxation under § 7–204(1) or (2) of this article for unpaid water
+24 and sewer service that is less than $350 if the property is being sold to enforce another lien.
+25 (c) This section does not affect any other right or remedy of Baltimore City, A
+26 COUNTY, OR A MUNICIPAL CORPORATION for the collection of a water and sewer service
+27 charge.
+28 14–879.
+29 (a) (1) The Department shall conduct an annual survey of each county that
+30 conducts a tax sale under Part III of this subtitle to obtain the information specified in this
+31 section.
+HOUSE BILL 59 13
+1 (2) Each county shall provide the Department all the information specified
+2 in this section on the form that the Department provides.
+3 (3) The Department may not disburse or authorize the disbursement of any
+4 funds to a county under this article if the county has not provided all the information
+5 specified in this section.
+6 (4) EACH COUNTY SHALL MAINTAIN A RECORD OF THE INFORMATION
+7 SPECIFIED IN THIS SECTION FOR AT LEAST 3 YEARS AFTER THE DATE OF A TAX SALE.
+8 14–883.
+9 (a) In this part the following words have the meanings indicated.
+10 (d) “Homeowner” [has the meaning stated] MEANS:
+11 (1) A HOMEOWNER AS DEFINED in § 9–105 of this article; OR
+12 (2) IF A HOMEOWNER AS DEFINED IN § 9–105 OF THIS ARTICLE IS
+13 DECEASED:
+14 (I) THE ESTATE OF THE HOMEOWNER;
+15 (II) THE PERSONAL REPRESENTATIVE OF THE HOMEOWNER; OR
+16 (III) AN HEIR OR LEGATEE OF THE HOMEOWNER WHO IS
+17 ENTITLED TO INHERIT THE HOMEOWNER’S DWELLING.
+18 14–884.
+19 (a) There is a Homeowner Protection Program administered by the Ombudsman
+20 in the Department.
+21 (b) The purpose of the Program is to divert vulnerable homeowners from the
+22 private tax lien sale process under Part III of this subtitle into an alternative program with
+23 the primary purpose of:
+24 (1) minimizing tax collection costs to homeowners;
+25 (2) assisting homeowners to pay their taxes; and
+26 (3) allowing homeowners to remain in their homes.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+28 apply only prospectively and may not be applied or interpreted to have any effect on or
+29 application to any tax sale certificate issued before the effective date of this Act.
+14 HOUSE BILL 59
+1 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 January 1, 2026.
+[DELETED: :CA      5 ( C A P F s p a p d f r p a t c o c s c t p d o a t s f b i i t p r t r o h r a i d o a t e r a c n r t a b a p m t p p a a t s b t p o t h o a c o s f o t c]
+[DELETED:  H  c T S S f a c m n o y a c r P B  A S a a  A  ( B  A S  A  (  S T A 1  ( ( T NORO r a   ( I B C te c s w f s]H o r p w t t t o t p i i $0.]$   ( I B C te c s w f s]H r a s  ( B]TMCCBH A I O A I   f m . 1]
+[DELETED: H 3  ( ( A p c o e a v l o i p m    ( a §    ( i    ( e   ( T s   ( T t s   ( T b r a t t s s b i i t a   ( I c r   ( T b r a t t s i n l a l t p    ( a j i e f t o r o r    ( t    ( a   ( T a p 1  ( W t a   ( a]
+[DELETED:  H    ( t   ( t   ( t   ( a a   ( a t    ( a    ( i s d   ( a s t i t p i r b a a t f p    ( t i    ( a t i a p p b t h o t c    ( P T I N OROY   ay  t   ( a t t    ( a    ( a    ( r   ( a t i]
+[DELETED: H 5    ( t i    ( a t i a p p b t h o t c    ( P T I N OROYD     t    ( a o   ( t i 1  ( T c s d t t p a c o s u t c b   ( t t p d i i w s b t c t t p   ( t   (     ( t t a o t d o t p a t t o s t   ( a d o t p i s t s f a t d s o s a s   ( a i   ( t i]
+[DELETED:  H    ( ( t b    (   u f p a b w 3 m iy  u c     1 i     2 r AY  M CN T G B O T M f  ( Ter o]S()U T S C O T SN T r   ( i C   ( i C   ( i C   ( i C   ( i C C t r i 6 a y o a f b t C C   ( i C   ( i C   ( i C C t r 1 a y o a f b t C C   ( i C]
+[DELETED: H 7   ( i b   ( i C   ( i C   ( i C   ( i K C t r i 6 a y o a f b t C C   ( i C   ( i t   ( i C   ( i C C   ( i C   ( i C() F–O ORO R PY T R O  %   () T]( “ o o t t t r sf  o]
+[DELETED:  H  7 t a p A . 2 a p c b b t f a r o r w i,  t A w A I O T CY O I T P I L I A MN N a b m W . C ( 1  ( ( I t p i r t p r s p t c    ( t t l a p a t t s f t p t    ( a t i a p p b a h o t c    ( e d    ( i e r    ( f s u   ( Fyiy, i r 1]
+[DELETED: H 9  ( ( E a a t a 9 m f t d o s o o r]1 p r  ( ( T f    ( a f p     3 P T I N ORO   d    ( a f t     3 P T I N ORO   d   ( ( 2 F t 7 ]1 d  ( ( A c f a p s u § 1 o t s IBC A IE   N       ( a m    ( u s s 1  ( ( I C o B C T G B O A C OR I TN ]
+[DELETED:  H NO   m    ( f    ( 1 r     2 a a m r o a o t s t a o o 1  ( ( ( N t p o p ( o t s     1 a p h a r i c o l i s h r ad     2 e t o t s p w i i ks   3 – T S P I OROD T A A MTSO    ( ( S i 30 ]9 t n m 30 ]9    ( D t 3y p i f]9D i p    ( T     1 b f m p p O  b a f t U S P S a t t t “]
+[DELETED: H 1     2 t e s l a o t p t t p     3 i t  () VH N R U T P S   II )  1  ( ( ( F t 7]1 m f     1 c     2 a     3 t p a c m c f t n r     4 r  ( ( ( F o 7 ]1 a 1  ( Ie ]H s b A I , fy Y  f t p t t s i t a o t u t i p a e 1  ( Ihr]I t]
+[DELETED:  H    ( a s y   ( d t   ( a p m n f t r a j f r o r 1  ( I]TMH A IB O A I O T G B O A C O m f   ( t   ( t    ( a    ( r (   ( t i  ( N I O T G B O A C O M m p a  ( TY  f c 1  ( ( T c s]
+[DELETED: H 1   ( E i   ( T f s (      1  ( I  ( “ hd]: ( ;   i ( §9 A H D I   O T A I  () ;T  () ;ITR   ()IA H O L O T H W IRS . 1  ( T i  ( T p o t P i t d v h f t p t   ( m   ( a   ( a  S a a]
+[DELETED:  H   S A B I F E T t A s t e J]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 59
+Q1 5lr0140
+(PRE–FILED) CF SB 192
+By: Chair, Ways and Means Committee (By Request – Departmental – Housing and
+Community Development)
+Requested: October 6, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Property Tax – Tax Sales – Revisions
+3 FOR the purpose of requiring that certain owner–occupied property be withheld from tax
+4 sale; requiring a county or municipal corporation to withhold from tax sale certain
+5 property when the taxes consist only of a lien for unpaid water and sewer service;
+6 authorizing a county or a municipal corporation to withhold from tax sale certain
+7 property designated for redevelopment purposes; altering the contents of certain
+8 statements required to be sent to an owner of property subject to tax sale; altering
+9 certain provisions of law concerning abandoned property that is sold for less than
+10 the lien amount; establishing a maximum rate of redemption for owner–occupied
+11 property sold at tax sale; prohibiting taxes, interest, and penalties accruing after the
+12 date of a tax sale from being included in the payment required to redeem
+13 owner–occupied residential property; extending the period of time during which a
+14 holder of a certificate of sale is prohibited from filing a complaint to foreclose the
+15 right of redemption for owner–occupied residential property after the date of sale;
+16 altering the contents of certain notices required to be sent to certain persons with an
+17 interest in property sold at tax sale; extending the period of time after a tax sale
+18 during which a certain notice may not be sent to certain persons with an interest in
+19 owner–occupied residential property sold at the tax sale; requiring the plaintiff in an
+20 action to foreclose the right of redemption for an owner–occupied property subject to
+21 tax sale to send written notice of the proceeding to the State Tax Sale Ombudsman;
+22 extending the period of time after issuance of a judgment foreclosing the right of
+23 redemption before a plaintiff may take possession of a property that has tenants;
+24 altering certain notice requirements that apply before a plaintiff may take
+25 possession of a property that has tenants; extending the amount of time that has to
+26 pass after a tax sale before the plaintiff or the holder of a certificate of sale for
+27 owner–occupied residential property may be reimbursed for certain expenses when
+28 the property is redeemed; prohibiting the sale of property to enforce a lien for unpaid
+29 charges for water and sewer service except under certain circumstances; requiring a
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0059*
+
+2 HOUSE BILL 59
+1 county to maintain a record of the information the county provides for the Annual
+2 Tax Sale Survey for a certain minimum number of years; altering certain
+3 requirements concerning eligibility for participation in the Homeowner Protection
+4 Program; and generally relating to tax sales.
+5 BY repealing and reenacting, with amendments,
+6 Article – Tax – Property
+7 Section 14–811(b) and (e), 14–817.1(a), 14–820, 14–828(a), 14–833(a)(2), (a–1)(3)(v)3.
+8 and (vi)3. and (4)(i)2., (c)(2), and (d)(2), 14–836(b)(4)(i) and (7), 14–843(a)(4)(ii)
+9 and (b)(1)(ii), 14–844(e), 14–845(c), 14–849.1, 14–879(a), and 14–883(d)
+10 Annotated Code of Maryland
+11 (2019 Replacement Volume and 2024 Supplement)
+12 BY repealing and reenacting, without amendments,
+13 Article – Tax – Property
+14 Section 14–817(c), 14–883(a), and 14–884
+15 Annotated Code of Maryland
+16 (2019 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Tax – Property
+20 14–811.
+21 (b) (1) The collector may withhold from sale any NON–OWNER–OCCUPIED
+22 residential property, when the total taxes on the property, including interest and penalties,
+23 amount to less than $750.
+24 (2) [In Baltimore City, the] THE collector shall withhold from sale
+25 owner–occupied residential property, when the total taxes on the property, including
+26 interest and penalties, amount to less than [$750] $1,000.
+27 (3) [In Baltimore City, the] THE collector shall withhold from sale
+28 residential property or property that is exempt from taxation under § 7–204(1) or (2) of this
+29 article, if the taxes on the property consist only of a lien for unpaid charges for water and
+30 sewer service.
+31 (e) [Baltimore City] THE MAYOR AND CITY COUNCIL OF BALTIMORE CITY
+32 OR THE GOVERNING BODY OF A COUNTY OR MUNICIPAL CORPORATION may withhold
+33 from sale property that has been designated for redevelopment purposes if the property
+34 meets objective criteria established by the Mayor and City Council of Baltimore City OR
+35 THE GOVERNING BODY.
+36 14–817.
+
+HOUSE BILL 59 3
+1 (c) (1) Abandoned property consisting of either a vacant lot or improved
+2 property cited as vacant and unfit for habitation on a housing or building violation notice
+3 may be sold for a sum less than the total amount of:
+4 (i) all taxes on the property that are certified to the collector under
+5 § 14–810 of this subtitle;
+6 (ii) interest and penalties on the taxes; and
+7 (iii) expenses incurred in making the sale.
+8 (2) The collector shall establish a minimum bid for abandoned property
+9 sold under this subsection.
+10 (3) The person responsible for the taxes prior to the sale shall remain liable
+11 to the collector for the difference between the amount received in the tax sale under this
+12 section and the taxes, interest, penalties, and expenses remaining after the sale.
+13 (4) The balance remaining after the tax sale shall be included in the
+14 amount necessary to redeem the property under § 14–828 of this subtitle.
+15 (5) In a proceeding brought by the governing body of a county or municipal
+16 corporation to foreclose the right of redemption under this subtitle, the complaint may
+17 request a judgment for the county or municipal corporation in the amount of the balance.
+18 (6) The balance remaining after the tax sale is no longer a lien on the
+19 property when:
+20 (i) a judgment is entered foreclosing the owner’s right of
+21 redemption;
+22 (ii) the deed is recorded; and
+23 (iii) all liens accruing subsequent to the date of sale are paid in full.
+24 (7) The governing body of a county or municipal corporation may institute
+25 a separate action to collect the balance at any time within 7 years after the tax sale if the
+26 plaintiff is a private purchaser.
+27 14–817.1.
+28 (a) Within 60 days after a property is sold at a tax sale, the collector shall send to
+29 the person who last appears as owner of the property on the collector’s tax roll, at the last
+30 address shown on the tax roll, a notice that includes:
+31 (1) a statement that the property has been sold to satisfy unpaid taxes;
+
+4 HOUSE BILL 59
+1 (2) the date of the tax sale;
+2 (3) the amount of the highest bid;
+3 (4) the lien amount on the property at the time of sale;
+4 (5) a statement that the owner has the right to redeem the property until
+5 a court forecloses that right;
+6 (6) a statement that the purchaser of the property may institute an action
+7 to foreclose the property:
+8 (i) as early as 6 months from the date of the sale; or
+9 (ii) if a government agency certifies that the property requires, or
+10 shall require, substantial repair to comply with applicable business codes, as early as 60
+11 days from the date of the sale;
+12 (7) a statement that if the property is redeemed before an action to
+13 foreclose the right of redemption is filed, the amount that shall be paid to redeem the
+14 property is:
+15 (i) the total lien amount on the property at the time of sale, with
+16 interest;
+17 (ii) any taxes, interest, and penalties paid by the holder of the
+18 certificate of sale; and
+19 (iii) FOR PROPERTY THAT IS NOT OWNER–OCCUPIED
+20 RESIDENTIAL PROPERTY, any DELINQUENT taxes, interest, and penalties accruing after
+21 the date of the tax sale;
+22 (8) a statement that, if the property is redeemed more than 4 months after
+23 the date of the tax sale, and before an action to foreclose the right of redemption is filed,
+24 the holder of the certificate of sale may be reimbursed for:
+25 (i) attorney’s fees for recording the certificate of sale;
+26 (ii) a title search fee, not to exceed $250; and
+27 (iii) reasonable attorney’s fees, not to exceed $500;
+28 (9) a statement that, if the property is redeemed after an action to foreclose
+29 the right of redemption has been filed, the amount that shall be paid to redeem the property
+30 is the sum of:
+
+HOUSE BILL 59 5
+1 (i) the total lien amount on the property at the time of sale, with
+2 interest;
+3 (ii) any taxes, interest, and penalties paid by the holder of the
+4 certificate of sale;
+5 (iii) FOR PROPERTY THAT IS NOT OWNER–OCCUPIED
+6 RESIDENTIAL PROPERTY, any DELINQUENT taxes, interest, and penalties accruing after
+7 the date of the tax sale; and
+8 (iv) attorney’s fees and expenses to which the holder of the certificate
+9 of sale may be entitled under § 14–843(a)(4) and (5) of this subtitle; and
+10 (10) the provisions of § 14–843(a) of this subtitle, reproduced as they appear
+11 in the Code.
+12 14–820.
+13 (a) The collector shall deliver to the purchaser a certificate of sale under the
+14 collector’s hand and seal, or by the collector’s authorized facsimile signature, acknowledged
+15 by the collector as a conveyance of land, which certificate shall set forth:
+16 (1) that the property described in it was sold by the collector to the
+17 purchaser;
+18 (2) the date of the sale;
+19 (3) the amount for which the property was sold;
+20 (4) the total amount of taxes due on the property at the time of sale
+21 together with interest, penalties and expenses incurred in making the sale;
+22 (5) a description of the property in substantially the same form as the
+23 description appearing on the collector’s tax roll. If the property is unimproved or has no
+24 street number, and the collector has procured a description of the property from the county
+25 or municipal corporation surveyor, this description shall be included in the certificate of
+26 sale. In Garrett County a copy of the description as required by § 14–813(f) of this subtitle,
+27 as that section relates specifically to Garrett County, shall be included in the certificate of
+28 sale;
+29 (6) a statement that the rate of redemption is 6% a year, except as provided
+30 in subsection (b) of this section;
+31 (7) the time when an action to foreclose the right of redemption may be
+32 instituted; and
+
+6 HOUSE BILL 59
+1 (8) (i) that the certificate will be void unless foreclosure proceedings are
+2 brought within 2 years from the date of the certificate; or
+3 (ii) that, unless foreclosure proceedings are brought within 3
+4 months from the date of the certificate to any abandoned property [in Baltimore City] sold
+5 under § 14–817(c)(1) of this subtitle with a minimum bid less than the lien amount, the
+6 certificate:
+7 1. is void as to a private purchaser; and
+8 2. reverts to the Mayor and City Council OF BALTIMORE
+9 CITY OR THE GOVERNING BODY OF A COUNTY, OR IF THE PROPERTY IS LOCATED IN
+10 A MUNICIPAL CORPORATION, THE GOVERNING BODY OF THE MUNICIPAL
+11 CORPORATION for a period of 2 years from the date of the tax sale.
+12 (b) [The] SUBJECT TO SUBSECTION (C) OF THIS SECTION, THE rate of
+13 redemption is 6% a year except:
+14 (1) in Allegany County the rate is 6% a year or as fixed by the County
+15 Commissioners;
+16 (2) in Anne Arundel County the rate is 6% a year or as fixed by a law of the
+17 County Council;
+18 (3) in Baltimore City the rate is 6% a year or as fixed by a law of the City
+19 Council;
+20 (4) in Baltimore County the rate is 6% a year or as fixed by a law of the
+21 County Council;
+22 (5) in Cecil County the rate is 6% a year or as fixed by the County
+23 Commissioners;
+24 (6) in Calvert County the rate is 10% a year or as fixed by the County
+25 Commissioners;
+26 (7) in Caroline County the rate is 10% a year or as fixed by the County
+27 Commissioners;
+28 (8) in Carroll County the rate is 14% a year or as fixed by the County
+29 Commissioners;
+30 (9) in Dorchester County the rate is 10% a year or as fixed by the County
+31 Commissioners;
+
+HOUSE BILL 59 7
+1 (10) in Frederick County the rate is 6% a year or as fixed by the governing
+2 body of Frederick County;
+3 (11) in Garrett County the rate is 10% a year or as fixed by the County
+4 Commissioners;
+5 (12) in Harford County the rate is 6% a year or as fixed by a law of the
+6 County Council;
+7 (13) in Howard County the rate is 6% a year or as fixed by a law of the
+8 County Council;
+9 (14) in Kent County the rate is 6% a year or as fixed by the County
+10 Commissioners;
+11 (15) in Montgomery County the rate is 6% a year or as fixed by a law of the
+12 County Council;
+13 (16) in Prince George’s County the rate is 6% a year or as fixed by a law of
+14 the County Council;
+15 (17) in Queen Anne’s County the rate is 6% a year or as fixed by the County
+16 Commissioners;
+17 (18) in Somerset County, Charles County, Wicomico County, and Worcester
+18 County the rate is 6% a year or as fixed by the County Commissioners or by a law of the
+19 County Council;
+20 (19) in Talbot County the rate is 6% a year or as fixed by a law of the County
+21 Council; and
+22 (20) in Washington County the rate is 6% a year or as fixed by the County
+23 Commissioners.
+24 (C) FOR OWNER–OCCUPIED RESIDENTIAL PROPERTY, THE RATE OF
+25 REDEMPTION MAY NOT EXCEED 10% A YEAR.
+26 [(c)] (D) The certificate of sale shall be in substantially the following form:
+27 “I, .........., Collector of Taxes for the State of Maryland and the .......... of ........, certify that
+28 on ......., 20...., I sold to ........, at public auction for the sum of .......... Dollars and ......... Cents,
+29 of which ...... Dollars has been paid, the property in ......... described as ........ and assessed
+30 to ......... The property described in this certificate is subject to redemption. On redemption
+31 the holder of the certificate will be refunded the sums paid on account of the purchase price
+32 together with interest at the rate of 6% a year from the date of payment to the date of
+33 redemption (except as stated in [subsection (b) of] § 14–820 of the Tax – Property Article
+34 of the Annotated Code of Maryland), together with all other amounts specified by Chapter
+
+8 HOUSE BILL 59
+1 761 of the Acts of 1943, and acts that amend that chapter. The balance due on account of
+2 the purchase price and all taxes, together with interest and penalties on the taxes, accruing
+3 after the date of sale, must be paid to the Collector before a deed can be delivered to the
+4 purchaser. After .........., 20...., a proceeding can be brought to foreclose all rights of
+5 redemption in the property. This certificate will be void unless such a proceeding is brought
+6 within 2 years from the date of this certificate, except that [in Baltimore City,] with respect
+7 to any abandoned property sold under § 14–817(c) of the Tax – Property Article of the
+8 Annotated Code of Maryland with a minimum bid less than the lien amount, the certificate
+9 will revert to the Mayor and City Council OF BALTIMORE CITY OR THE GOVERNING
+10 BODY OF THE COUNTY, OR IF THE PROPERTY IS LOCATED IN A MUNICIPAL
+11 CORPORATION, THE GOVERNING BODY OF THE MUNICIPAL CORPORATION, and will
+12 be void as to the private purchaser at tax sale unless such a proceeding is brought within 3
+13 months from the date of the certificate.
+14 Witness my hand and seal, this ....... day of ......, 20...............
+15 ...............................
+16 Collector”
+17 (To be followed by acknowledgment).
+18 14–828.
+19 (a) (1) If the property is redeemed, the person redeeming shall pay the
+20 collector:
+21 (i) the total lien amount paid at the tax sale for the property
+22 together with interest;
+23 (ii) any taxes, interest, and penalties paid by any holder of the
+24 certificate of sale;
+25 (iii) except as provided under paragraph (2) of this subsection, any
+26 delinquent taxes, interest, and penalties accruing after the date of the tax sale;
+27 (iv) in the manner and by the terms required by the collector, any
+28 expenses or fees for which the plaintiff or the holder of a certificate of sale is entitled to
+29 reimbursement under § 14–843 of this subtitle; and
+30 (v) for vacant and abandoned property sold under § 14–817 of this
+31 subtitle for a sum less than the amount due, the difference between the price paid and the
+32 unpaid taxes, interest, penalties, and expenses.
+33 (2) For owner–occupied residential property [in Baltimore City], any taxes,
+34 interest, and penalties accruing after the date of the tax sale may not be included in the
+35 redemption payment required under paragraph (1) of this subsection.
+36 14–833.
+
+HOUSE BILL 59 9
+1 (a) (2) Except as provided in subsections (a–1), (e), (f), and (g) of this section,
+2 at any time after [9] 12 months from the date of sale of owner–occupied residential
+3 property, a holder of any certificate of sale may file a complaint to foreclose all rights of
+4 redemption of the property to which the certificate relates.
+5 (a–1) (3) The notices required under this subsection shall include at least the
+6 following:
+7 (v) a statement that if the property is redeemed before an action to
+8 foreclose the right of redemption is filed, the amount that shall be paid to redeem the
+9 property is:
+10 3. FOR PROPERTY THAT IS NOT OWNER–OCCUPIED
+11 RESIDENTIAL PROPERTY, any delinquent taxes, interest, and penalties accruing after the
+12 date of the tax sale; and
+13 (vi) a statement that if the property is redeemed after an action to
+14 foreclose the right of redemption has been filed, the amount that shall be paid to redeem
+15 the property is the sum of:
+16 3. FOR PROPERTY THAT IS NOT OWNER–OCCUPIED
+17 RESIDENTIAL PROPERTY, any delinquent taxes, interest, and penalties accruing after the
+18 date of the tax sale; and
+19 (4) (i) 2. For owner–occupied residential property, the first of the
+20 two notices required under this subsection may not be sent until [7] 10 months after the
+21 date of sale.
+22 (c) (2) A certificate for abandoned property sold under § 14–817(c) of this
+23 subtitle with a minimum bid less than the lien amount reverts to the MAYOR AND CITY
+24 COUNCIL OF BALTIMORE CITY OR THE GOVERNING BODY OF THE county or, IF THE
+25 PROPERTY IS LOCATED IN A MUNICIPAL CORPORATION, THE GOVERNING BODY OF
+26 THE municipal corporation and is void as to the private purchaser at tax sale unless:
+27 (i) a proceeding to foreclose the right of redemption is filed within 3
+28 months of the date of the certificate of sale; and
+29 (ii) unless the holder is granted an extension by the court due to a
+30 showing of extraordinary circumstances beyond the certificate holder’s control, the holder
+31 secures a decree from the circuit court in which the foreclosure proceeding was filed within
+32 18 months from the date of the filing of the foreclosure proceeding.
+33 (d) (2) If a certificate for abandoned property reverts to the Mayor and City
+34 Council of Baltimore City OR THE GOVERNING BODY OF A COUNTY OR, IF THE
+35 PROPERTY IS LOCATED IN A MUNICIPAL CORPORATION, THE GOVERNING BODY OF
+
+10 HOUSE BILL 59
+1 THE MUNICIPAL CORPORATION under this section, the Mayor and City Council OR THE
+2 GOVERNING BODY may:
+3 (i) file a foreclosure proceeding in its own name; or
+4 (ii) 1. resell the certificate; and
+5 2. apply all money received on account of the sale to any
+6 outstanding balance remaining after the sale on the tax debt owed by the previous owner
+7 of the abandoned property.
+8 14–836.
+9 (b) (4) (i) Notwithstanding the provision of paragraph (3) of this
+10 subsection, the plaintiff shall send written notice of the proceeding to:
+11 1. all persons having a recorded interest, claim, or lien,
+12 including a judgment, who have not been made a defendant in the proceeding, and, if the
+13 subject property is part of a homeowners association or condominium association, to the
+14 homeowners association or condominium association governing the property, at the last
+15 reasonably ascertainable address; [and]
+16 2. each tenant of the subject property whose identity is
+17 known to the plaintiff, at the tenant’s last reasonably ascertainable address; AND
+18 3. IF THE SUBJECT PROPERTY IS OWNER–OCCUPIED,
+19 THE STATE TAX SALE OMBUDSMAN.
+20 (7) (i) Subject to subparagraphs (ii) and (iii) of this paragraph, after
+21 issuance of the judgment foreclosing right of redemption and at least [30] 90 days before
+22 taking possession of the property, the plaintiff shall give any tenant of the property written
+23 notice of the plaintiff’s intention to obtain possession of the property and that the tenant
+24 must vacate the property within [30] 90 days after the notice.
+25 (ii) During the [30–day] 90–DAY period immediately following
+26 issuance of the judgment foreclosing the right of redemption, the plaintiff may apply for,
+27 process, and obtain, but not execute upon, a writ for possession of the property.
+28 (iii) The notice shall be sent:
+29 1. by first–class mail, postage prepaid, CERTIFICATE OF
+30 MAILING, bearing a postmark from the United States Postal Service addressed to the
+31 tenant by name if the identity of the tenant is known to the plaintiff, and addressed to
+32 “occupant” if the identity of the tenant is not known;
+
+HOUSE BILL 59 11
+1 2. to each separately leased area of the property that the
+2 plaintiff can reasonably ascertain is occupied; and
+3 3. in an envelope prominently marked on the outside with
+4 the following phrase “Notice of Taking Possession of Property”.
+5 (IV) THE NOTICE REQUIRED UNDER THIS PARAGRAPH SHALL
+6 ALSO BE POSTED ON THE PROPERTY WITHIN 1 DAY OF FIRST BEING SENT UNDER
+7 SUBPARAGRAPH (III) OF THIS PARAGRAPH.
+8 14–843.
+9 (a) (4) (ii) For owner–occupied residential property, if an action to foreclose
+10 the right of redemption has not been filed, and the property is redeemed more than [7] 10
+11 months after the date of the tax sale, the holder of a certificate of sale may be reimbursed
+12 for the following expenses actually incurred:
+13 1. costs for recording the certificate of sale;
+14 2. a title search fee, not to exceed $250;
+15 3. the postage and certified mailing costs for the notices
+16 required under § 14–833(a–1) of this subtitle; and
+17 4. reasonable attorney’s fees, not to exceed $500.
+18 (b) (1) (ii) For owner–occupied residential property, the plaintiff or holder
+19 of a certificate of sale may not be reimbursed for expenses incurred within [7] 10 months
+20 after the date of sale.
+21 14–844.
+22 (e) [In Baltimore City where] WHERE abandoned property has been sold for a
+23 sum less than the amount due under § 14–817 of this subtitle, in a foreclosure proceeding
+24 brought by the Mayor and City Council OF BALTIMORE CITY OR THE GOVERNING BODY
+25 OF A COUNTY OR MUNICIPAL CORPORATION, the final order may include a judgment in
+26 favor of the city, COUNTY, OR MUNICIPAL CORPORATION and against the person liable
+27 for taxes prior to the sale, in the amount of the unpaid taxes, interest, penalties, and
+28 expenses otherwise due in a tax sale.
+29 14–845.
+30 (c) [In Baltimore City, with] WITH respect to abandoned property that is subject
+31 to § 14–817(c) of this subtitle:
+
+12 HOUSE BILL 59
+1 (1) a defendant or any person described in § 14–836(b)(1) or (4)(i) of this
+2 subtitle may file an action to recover damages on the ground of inadequate notice within 3
+3 years after the date of judgment foreclosing rights of redemption;
+4 (2) damages in an action under item (1) of this subsection may not exceed
+5 the fair market value of that person’s interest in the property at the time of the sale; and
+6 (3) a person may not file to reopen a judgment foreclosing rights of
+7 redemption based on inadequate notice.
+8 14–849.1.
+9 (a) [In Baltimore City, the Mayor and City Council] THE MAYOR AND CITY
+10 COUNCIL OF BALTIMORE CITY OR THE GOVERNING BODY OF A COUNTY OR
+11 MUNICIPAL CORPORATION may not sell a property to enforce a lien for unpaid charges
+12 for water and sewer service unless:
+13 (1) the lien is for at least $350;
+14 (2) the property is not:
+15 (i) a residential property; or
+16 (ii) real property that is exempt from taxation under § 7–204(1) or
+17 (2) of this article; and
+18 (3) the unpaid charges for water and sewer service are at least 3 quarters
+19 in arrears.
+20 (b) Notwithstanding subsection (a) of this section, the Mayor and City Council OF
+21 BALTIMORE CITY OR THE GOVERNING BODY OF A COUNTY OR MUNICIPAL
+22 CORPORATION may enforce a lien on a property other than residential property or real
+23 property that is exempt from taxation under § 7–204(1) or (2) of this article for unpaid water
+24 and sewer service that is less than $350 if the property is being sold to enforce another lien.
+25 (c) This section does not affect any other right or remedy of Baltimore City, A
+26 COUNTY, OR A MUNICIPAL CORPORATION for the collection of a water and sewer service
+27 charge.
+28 14–879.
+29 (a) (1) The Department shall conduct an annual survey of each county that
+30 conducts a tax sale under Part III of this subtitle to obtain the information specified in this
+31 section.
+
+HOUSE BILL 59 13
+1 (2) Each county shall provide the Department all the information specified
+2 in this section on the form that the Department provides.
+3 (3) The Department may not disburse or authorize the disbursement of any
+4 funds to a county under this article if the county has not provided all the information
+5 specified in this section.
+6 (4) EACH COUNTY SHALL MAINTAIN A RECORD OF THE INFORMATION
+7 SPECIFIED IN THIS SECTION FOR AT LEAST 3 YEARS AFTER THE DATE OF A TAX SALE.
+8 14–883.
+9 (a) In this part the following words have the meanings indicated.
+10 (d) “Homeowner” [has the meaning stated] MEANS:
+11 (1) A HOMEOWNER AS DEFINED in § 9–105 of this article; OR
+12 (2) IF A HOMEOWNER AS DEFINED IN § 9–105 OF THIS ARTICLE IS
+13 DECEASED:
+14 (I) THE ESTATE OF THE HOMEOWNER;
+15 (II) THE PERSONAL REPRESENTATIVE OF THE HOMEOWNER; OR
+16 (III) AN HEIR OR LEGATEE OF THE HOMEOWNER WHO IS
+17 ENTITLED TO INHERIT THE HOMEOWNER’S DWELLING.
+18 14–884.
+19 (a) There is a Homeowner Protection Program administered by the Ombudsman
+20 in the Department.
+21 (b) The purpose of the Program is to divert vulnerable homeowners from the
+22 private tax lien sale process under Part III of this subtitle into an alternative program with
+23 the primary purpose of:
+24 (1) minimizing tax collection costs to homeowners;
+25 (2) assisting homeowners to pay their taxes; and
+26 (3) allowing homeowners to remain in their homes.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+28 apply only prospectively and may not be applied or interpreted to have any effect on or
+29 application to any tax sale certificate issued before the effective date of this Act.
+
+14 HOUSE BILL 59
+1 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 January 1, 2026.
+
+[DELETED: :CA      5 ( C A P F s p a p d f r p a t c o c s c t p d o a t s f b i i t p r t r o h r a i d o a t e r a c n r t a b a p m t p p a a t s b t p o t h o a c o s f o t c]
+[DELETED:  H  c T S S f a c m n o y a c r P B  A S a a  A  ( B  A S  A  (  S T A 1  ( ( T NORO r a   ( I B C te c s w f s]H o r p w t t t o t p i i $0.]$   ( I B C te c s w f s]H r a s  ( B]TMCCBH A I O A I   f m . 1]
+[DELETED: H 3  ( ( A p c o e a v l o i p m    ( a §    ( i    ( e   ( T s   ( T t s   ( T b r a t t s s b i i t a   ( I c r   ( T b r a t t s i n l a l t p    ( a j i e f t o r o r    ( t    ( a   ( T a p 1  ( W t a   ( a]
+[DELETED:  H    ( t   ( t   ( t   ( a a   ( a t    ( a    ( i s d   ( a s t i t p i r b a a t f p    ( t i    ( a t i a p p b t h o t c    ( P T I N OROY   ay  t   ( a t t    ( a    ( a    ( r   ( a t i]
+[DELETED: H 5    ( t i    ( a t i a p p b t h o t c    ( P T I N OROYD     t    ( a o   ( t i 1  ( T c s d t t p a c o s u t c b   ( t t p d i i w s b t c t t p   ( t   (     ( t t a o t d o t p a t t o s t   ( a d o t p i s t s f a t d s o s a s   ( a i   ( t i]
+[DELETED:  H    ( ( t b    (   u f p a b w 3 m iy  u c     1 i     2 r AY  M CN T G B O T M f  ( Ter o]S()U T S C O T SN T r   ( i C   ( i C   ( i C   ( i C   ( i C C t r i 6 a y o a f b t C C   ( i C   ( i C   ( i C C t r 1 a y o a f b t C C   ( i C]
+[DELETED: H 7   ( i b   ( i C   ( i C   ( i C   ( i K C t r i 6 a y o a f b t C C   ( i C   ( i t   ( i C   ( i C C   ( i C   ( i C() F–O ORO R PY T R O  %   () T]( “ o o t t t r sf  o]
+[DELETED:  H  7 t a p A . 2 a p c b b t f a r o r w i,  t A w A I O T CY O I T P I L I A MN N a b m W . C ( 1  ( ( I t p i r t p r s p t c    ( t t l a p a t t s f t p t    ( a t i a p p b a h o t c    ( e d    ( i e r    ( f s u   ( Fyiy, i r 1]
+[DELETED: H 9  ( ( E a a t a 9 m f t d o s o o r]1 p r  ( ( T f    ( a f p     3 P T I N ORO   d    ( a f t     3 P T I N ORO   d   ( ( 2 F t 7 ]1 d  ( ( A c f a p s u § 1 o t s IBC A IE   N       ( a m    ( u s s 1  ( ( I C o B C T G B O A C OR I TN ]
+[DELETED:  H NO   m    ( f    ( 1 r     2 a a m r o a o t s t a o o 1  ( ( ( N t p o p ( o t s     1 a p h a r i c o l i s h r ad     2 e t o t s p w i i ks   3 – T S P I OROD T A A MTSO    ( ( S i 30 ]9 t n m 30 ]9    ( D t 3y p i f]9D i p    ( T     1 b f m p p O  b a f t U S P S a t t t “]
+[DELETED: H 1     2 t e s l a o t p t t p     3 i t  () VH N R U T P S   II )  1  ( ( ( F t 7]1 m f     1 c     2 a     3 t p a c m c f t n r     4 r  ( ( ( F o 7 ]1 a 1  ( Ie ]H s b A I , fy Y  f t p t t s i t a o t u t i p a e 1  ( Ihr]I t]
+[DELETED:  H    ( a s y   ( d t   ( a p m n f t r a j f r o r 1  ( I]TMH A IB O A I O T G B O A C O m f   ( t   ( t    ( a    ( r (   ( t i  ( N I O T G B O A C O M m p a  ( TY  f c 1  ( ( T c s]
+[DELETED: H 1   ( E i   ( T f s (      1  ( I  ( “ hd]: ( ;   i ( §9 A H D I   O T A I  () ;T  () ;ITR   ()IA H O L O T H W IRS . 1  ( T i  ( T p o t P i t d v h f t p t   ( m   ( a   ( a  S a a]
+[DELETED:  H   S A B I F E T t A s t e J]

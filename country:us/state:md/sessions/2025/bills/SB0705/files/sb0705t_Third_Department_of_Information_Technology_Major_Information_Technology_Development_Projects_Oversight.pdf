@@ -1,0 +1,901 @@
+SENATE BILL 705
+S1 5lr2986
+CF HB 738
+By: Senator Hester Senators Hester and Hershey
+Introduced and read first time: January 27, 2025
+Assigned to: Budget and Taxation
+Committee Report: Favorable with amendments
+Senate action: Adopted with floor amendments
+Read second time: March 20, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Department of Information Technology – Reporting Guidelines Major
+3 Information Technology Development Projects – Oversight
+4 FOR the purpose of altering the content of certain reports by the Department of
+5 Information Technology relating to the Information Technology Investment Fund;
+6 requiring the reports to be written and structured in a certain manner and made
+7 publicly available on the Department’s website; and generally relating to reporting
+8 by the Department of Information Technology providing that a unit of State
+9 government may not purchase, lease, contract for, or rent an information technology
+10 service or product under certain circumstances; providing that the Secretary of
+11 Information Technology is responsible for overseeing the implementation of major
+12 information technology development projects in the State; authorizing the Secretary
+13 of Information Technology and the Secretary of Budget and Management to withhold
+14 or reallocate major information technology development project funds under certain
+15 circumstances; altering the reporting requirements for allocations from the
+16 Information Technology Investment Fund; requiring the Department of Information
+17 Technology to publish a public dashboard with certain information about major
+18 information technology projects using the Information Technology Investment Fund;
+19 requiring Chief Information Officers for a unit of State government with a planned
+20 or ongoing major information technology development project to meet with the
+21 Secretary of Information Technology on a certain basis to discuss certain aspects of
+22 the projects; establishing the Maryland Office of Digital Experience within the
+23 Department to provide oversight, leadership, intervention, and strategic
+24 modernization for major information technology development projects; authorizing
+25 the Office to require units to provide certain reimbursement for services under
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0705*
+
+2 SENATE BILL 705
+1 certain circumstances; establishing the Maryland Digital Service Unit within the
+2 Maryland Office of Digital Experience to collaborate with units of State government
+3 to improve digital services; establishing the Major Information Technology
+4 Development Project Oversight Division to standardize, monitor, and support the
+5 implementation of major information technology development projects and expedited
+6 projects in the State; establishing the Information Technology Advisory Board to
+7 advise the Legislative Policy Committee; repealing a requirement that the Joint
+8 Audit and Evaluation Committee conduct a certain study and report certain
+9 recommendations to certain committees of the General Assembly; repealing the
+10 Modernize Maryland Commission; and generally relating to major information
+11 technology development projects and the Department of Information Technology.
+12 BY repealing and reenacting, without amendments,
+13 Article – State Finance and Procurement
+14 Section 3.5–309(a)
+15 Annotated Code of Maryland
+16 (2021 Replacement Volume and 2024 Supplement)
+17 BY repealing and reenacting, with amendments,
+18 Article – State Finance and Procurement
+19 Section 3.5–309(n) and (o) 3.5–101, 3.5–307(a) and (d)(1), 3.5–308, and 3.5–309(o)
+20 and (p)
+21 Annotated Code of Maryland
+22 (2021 Replacement Volume and 2024 Supplement)
+23 BY repealing and reenacting, without amendments,
+24 Article – State Finance and Procurement
+25 Section 3.5–309(a)
+26 Annotated Code of Maryland
+27 (2021 Replacement Volume and 2024 Supplement)
+28 BY repealing
+29 Article – State Finance and Procurement
+30 Section 3.5–309(n) and 3.5–316
+31 Annotated Code of Maryland
+32 (2021 Replacement Volume and 2024 Supplement)
+33 BY adding to
+34 Article – State Finance and Procurement
+35 Section 3.5–309(o), (p), and (r); and 3.5–901 through 3.5–907 to be under the new
+36 subtitle “Subtitle 9. Maryland Office of Digital Experience”
+37 Annotated Code of Maryland
+38 (2021 Replacement Volume and 2024 Supplement)
+39 BY adding to
+40 Article – State Government
+41 Section 2–411
+
+SENATE BILL 705 3
+1 Annotated Code of Maryland
+2 (2021 Replacement Volume and 2024 Supplement)
+3 BY repealing
+4 Chapter 497 of the Acts of the General Assembly of 2024
+5 Section 4
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
+8 Article – State Finance and Procurement
+9 3.5–101.
+10 (a) In this title the following words have the meanings indicated.
+11 (b) “Cloud computing” means a service that enables on–demand self–service
+12 network access to a shared pool of configurable computer resources, including data storage,
+13 analytics, commerce, streaming, e–mail, document sharing, and document editing.
+14 (c) “Department” means the Department of Information Technology.
+15 (D) (1) “OVERSIGHT OF IMPLEMENTATION” MEANS MANAGEMENT OF
+16 THE PROCESS TO IMPLEMENT A NEW TECHNOLOGY, SYSTEM, OR PRODUCT INTO
+17 PRACTICE AND USE BY A UNIT.
+18 (2) “OVERSIGHT OF IMPLEMENTATION” INCLUDES:
+19 (I) PLANNING AND PREPARATION TO IMPLEMENT THE
+20 PRODUCT OR PRACTICE; AND
+21 (II) ONGOING MONITORING AND SUPPORT OF THE
+22 IMPLEMENTATION TEAM TO ENSURE SUCCESSFUL EXECUTION AND THAT THE
+23 PROJECT GOALS ARE MET.
+24 (3) “OVERSIGHT OF IMPLEMENTATION” DOES NOT INCLUDE:
+25 (I) RESPONSIBILITY FOR DAY–TO–DAY MANAGEMENT OF ANY
+26 INDIVIDUAL PROJECTS OR PRODUCTS; OR
+27 (II) RESPONSIBILITY FOR IMPLEMENTING INDIVIDUAL–LEVEL
+28 PROCESS REQUIREMENTS FOR A PROJECT OR PRODUCT.
+29 [(d)] (E) “Secretary” means the Secretary of Information Technology.
+
+4 SENATE BILL 705
+1 [(e)] (F) “Telecommunication” means the transmission of information, images,
+2 pictures, voice, or data by radio, video, or other electronic or impulse means.
+3 [(f)] (G) “Unit of State government” means an agency or unit of the Executive
+4 Branch of State government.
+5 3.5–307.
+6 (a) (1) A unit of State government may not purchase, lease, CONTRACT FOR,
+7 or rent AN information technology SERVICE OR PRODUCT unless consistent with the
+8 master plan, as determined by the Secretary.
+9 (2) A unit of State government other than a public institution of higher
+10 education may not make expenditures for major information technology development
+11 projects or cybersecurity projects except as provided in § 3.5–308 of this subtitle.
+12 (d) (1) The Department [of General Services], in consultation with the
+13 Department OF GENERAL SERVICES, shall [hire a consultant to] assess the procurement
+14 process for information technology projects involving modernization and make
+15 recommendations to increase the State’s ability to proceed with a modernization project in
+16 a rapid and responsive manner.
+17 3.5–308.
+18 (a) This section does not apply to a public institution of higher education.
+19 (b) Before submitting its information technology project requests, a unit of State
+20 government shall submit information in support of the request required by the Secretary
+21 for review and determination consistent with § 3.5–301(k) of this subtitle.
+22 (c) In reviewing information technology project requests, the Secretary may
+23 change a unit’s designation of a major information technology development project.
+24 (d) The Secretary shall review and, with the advice of the Secretary of Budget and
+25 Management, approve major information technology development projects and
+26 specifications for consistency with all statewide plans, policies, and standards, including a
+27 systems development life cycle plan.
+28 (e) (1) [The] SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THE
+29 Secretary shall be responsible for overseeing the implementation of major information
+30 technology development projects, regardless of fund source.
+31 (2) AS PART OF THE SECRETARY’S RESPONSIBILITIES UNDER THIS
+32 SECTION, THE SECRETARY SHALL ENSURE THAT NO FUNDING IS PROVIDED FOR THE
+33 IMPLEMENTATION OF A MAJOR INFORMATION TECHNOLOGY DEVELOPMENT
+34 PROJECT UNLESS:
+
+SENATE BILL 705 5
+1 (I) THE SECRETARY DETERMINES THAT THE UNIT HAS THE
+2 INTERNAL CAPACITY TO ADEQUATELY SUPPORT THE PROJECT, PROGRAM
+3 MANAGEMENT, AND RESPONSIBILITY OVER PROGRAM ACTIVITIES, INCLUDING:
+4 1. HUMAN CAPITAL;
+5 2. SUBJECT MATTER EXPERTISE; AND
+6 3. TECHNICAL INFRASTRUCTURE;
+7 (II) WITHIN 30 DAYS OF AWARDING A CONTRACT, THE
+8 MANAGING UNIT SENDS TO THE BOARD OF PUBLIC WORKS AND THE LEGISLATIVE
+9 POLICY COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+10 ARTICLE, NOTICE THAT:
+11 1. IDENTIFIES THE PROJECT MANAGEMENT TEAM;
+12 2. AFFIRMS THAT THE DEPARTMENT HAS REVIEWED
+13 AND APPROVED THE CONTRACT; AND
+14 3. IS SIGNED BY THE HEAD OF THE UNIT
+15 ACKNOWLEDGING AND ACCEPTING THE ACCOUNTABILITY FOR THE
+16 IMPLEMENTATION OF THE INFORMATION TECHNOLOGY PROJECT OR PRODUCT; AND
+17 (III) WHILE A UNIT IS MANAGING AN ACTIVE PROJECT OR
+18 PRODUCT, THE UNIT AGREES TO REPORT TO THE DEPARTMENT EVERY 3 MONTHS
+19 ON THE PROJECT STATUS IN A MANNER REQUESTED BY THE DEPARTMENT.
+20 (f) (1) With the advice of the Secretary of Budget and Management,
+21 expenditures for major information technology development projects shall be subject to the
+22 approval of the Secretary who shall approve expenditures only when those projects are
+23 consistent with statewide plans, policies, and standards.
+24 (2) (I) The Secretary shall make a recommendation to the Secretary of
+25 Budget and Management [that] TO WITHHOLD project funds, regardless of fund source,
+26 [be withheld] if:
+27 [(i)] 1. a unit of State government is not consistently reporting on
+28 the status of a project or projects to the Department in the form and manner required by
+29 the Department; or
+30 [(ii)] 2. the Department determines that project implementation
+31 issues exist, including project timeline delays, significant cost increases, vendor
+
+6 SENATE BILL 705
+1 nonperformance, decreased agency capacity, or other issues that indicate issues of concern
+2 that could jeopardize successful implementation.
+3 (II) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, AND
+4 EXCEPT AS PROVIDED IN SUBPARAGRAPH (III) OF THIS PARAGRAPH, THE
+5 SECRETARY OF BUDGET AND MANAGEMENT SHALL WITHHOLD ANY UNEXPENDED
+6 FUNDS APPROPRIATED IN A FISCAL YEAR FOR A MAJOR INFORMATION TECHNOLOGY
+7 DEVELOPMENT PROJECT AT THE SECRETARY’S RECOMMENDATION ISSUED UNDER
+8 SUBPARAGRAPH (I) OF THIS PARAGRAPH.
+9 (III) THE SECRETARY OF BUDGET AND MANAGEMENT MAY
+10 RELEASE FUNDS WITHHELD UNDER THIS PARAGRAPH AT THE DIRECTION OF THE
+11 SECRETARY IF THE SECRETARY DETERMINES THAT THE ISSUE LEADING TO THE
+12 INITIAL WITHHOLDING OF FUNDS HAS BEEN ADDRESSED.
+13 (3) WITHIN 30 DAYS AFTER FUNDING IS WITHHELD IN ACCORDANCE
+14 WITH THIS SUBSECTION, THE DEPARTMENT SHALL REPORT ON THE PURPOSE OF
+15 THE WITHHOLDING:
+16 (I) TO THE GOVERNOR; AND
+17 (II) SUBJECT TO § 2–1257 OF THE STATE GOVERNMENT
+18 ARTICLE, TO:
+19 1. THE SENATE BUDGET AND TAXATION COMMITTEE;
+20 2. THE SENATE COMMITTEE ON EDUCATION, ENERGY,
+21 AND THE ENVIRONMENT;
+22 3. THE HOUSE APPROPRIATIONS COMMITTEE;
+23 4. THE HOUSE HEALTH AND GOVERNMENT
+24 OPERATIONS COMMITTEE; AND
+25 5. THE JOINT COMMITTEE ON CYBERSECURITY,
+26 INFORMATION TECHNOLOGY, AND BIOTECHNOLOGY.
+27 (4) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH:
+28 1. THE SECRETARY MAY RECOMMEND TO THE
+29 SECRETARY OF BUDGET AND MANAGEMENT THAT FUNDING WITHHELD UNDER THIS
+30 SECTION BE REALLOCATED TO OTHER EXPENSES OF THE INFORMATION
+31 TECHNOLOGY INVESTMENT FUND UNDER § 3.5–309 OF THIS SUBTITLE; AND
+
+SENATE BILL 705 7
+1 2. THE SECRETARY OF BUDGET AND MANAGEMENT
+2 MAY, AT THEIR DISCRETION, FOLLOW THE SECRETARY’S RECOMMENDATION TO
+3 REALLOCATE FUNDS.
+4 (II) IF THE REALLOCATED FUNDS EXCEED $500,000, THE
+5 SECRETARY, IN CONSULTATION WITH THE SECRETARY OF BUDGET AND
+6 MANAGEMENT, SHALL SUBMIT A PROPOSAL TO THE LEGISLATIVE POLICY
+7 COMMITTEE FOR A 60–DAY REVIEW AND COMMENT PERIOD.
+8 (g) (1) The Secretary shall approve funding for major information technology
+9 development projects, expedited projects, and other expenditures from the Fund only when:
+10 (i) the major information technology development projects or the
+11 expedited projects are in compliance with statewide plans, policies, and standards, as
+12 determined by the Secretary; and
+13 (ii) the major information technology development projects are
+14 supported by an approved systems development life cycle plan.
+15 (2) An approved systems development life cycle plan shall include
+16 submission of:
+17 (i) a project planning request that details initial planning for the
+18 project, including:
+19 1. the project title, appropriation code, and summary;
+20 2. a description of:
+21 A. the business and technology outcomes to be achieved by
+22 the project;
+23 B. the features available to the end user on completion,
+24 including user acceptance testing and accessibility plans;
+25 C. the potential risks associated with the project;
+26 D. possible alternatives; and
+27 E. the scope and complexity of the project; and
+28 3. an estimate of:
+29 A. the total costs required to complete through planning; and
+30 B. the fund sources available to support planning costs; and
+
+8 SENATE BILL 705
+1 (ii) a project implementation request to begin full design,
+2 development, and implementation of the project after the completion of planning, including:
+3 1. the project title, appropriation code, and summary;
+4 2. a description of:
+5 A. the business and technology outcomes to be achieved by
+6 the project and the metrics by which the success of those outcomes will be measured;
+7 B. the features available to the end user on completion,
+8 including user acceptance testing and accessibility plans;
+9 C. the potential risks associated with the project;
+10 D. possible alternatives;
+11 E. the scope and complexity of the project; and
+12 F. how the project meets the goals of the statewide master
+13 plan; and
+14 3. an estimate of:
+15 A. the total project cost, by phase; and
+16 B. the fund sources to be utilized.
+17 (3) The Secretary may approve funding incrementally, consistent with the
+18 systems development life cycle plan.
+19 (h) [The Department, in consultation with the Modernize Maryland Commission
+20 established under § 3.5–316 of this subtitle,] ON OR BEFORE JULY 1, 2026, THE
+21 DEPARTMENT shall:
+22 (1) develop standards for units of State government to assist in identifying
+23 legacy systems that require modernization projects appropriate to be financed as an
+24 expedited project through the Fund;
+25 (2) adopt an Information Technology Investment Maturity Model that
+26 includes:
+27 (i) criteria to inform and prioritize investment decisions;
+28 (ii) processes to develop the information required to evaluate
+29 investment proposals against the criteria under item (i) of this item; and
+
+SENATE BILL 705 9
+1 (iii) management processes to monitor the implementation of
+2 approved modernization projects; and
+3 (3) develop a State Modernization Plan.
+4 3.5–309.
+5 (a) There is an Information Technology Investment Fund.
+6 [(n) (1) On or before November 1 of each year, the Secretary shall report to the
+7 Governor and the Secretary of Budget and Management and, in accordance with § 2–1257
+8 of the State Government Article, to the Senate Budget and Taxation Committee, the Senate
+9 Committee on Education, Energy, and the Environment, the House Appropriations
+10 Committee, the House Health and Government Operations Committee, and the Joint
+11 Committee on Cybersecurity, Information Technology, and Biotechnology.
+12 (2) The report shall include:
+13 (i) the financial status of the Fund and a summary of its operations
+14 for the preceding fiscal year;
+15 (ii) an accounting for the preceding fiscal year of all money from each
+16 of the revenue sources specified in subsection (e) of this section, including any expenditures
+17 made from the Fund; and
+18 (iii) for each project receiving money from the Fund in the preceding
+19 fiscal year and for each major information technology development project or expedited
+20 project receiving funding from any source other than the Fund in the preceding fiscal year:
+21 1. the status of the project and project funding decisions;
+22 2. a comparison of estimated and actual costs of the project;
+23 3. any known or anticipated changes in scope or costs of the
+24 project;
+25 4. an evaluation of whether the project is using best
+26 practices; and
+27 5. a summary of any monitoring and oversight of the project
+28 from outside the agency in which the project is being developed, including a description of
+29 any problems identified by any external review and any corrective actions taken.]
+30 [(o)] (N) (1) On or before January 15 of each year, for each major information
+31 technology development project or expedited project currently in development or for which
+32 operations and maintenance funding is being provided in accordance with subsection (i)(3)
+
+10 SENATE BILL 705
+1 of this section, subject to § 2–1257 of the State Government Article, the Secretary shall
+2 provide a summary report to the Department of Legislative Services with the most
+3 up–to–date project information including:
+4 [(1)] (I) project funding decisions and project status, INCLUDING:
+5 1. ESTIMATED PROJECT OR PRODUCT COSTS;
+6 2. FUNDING SOURCES; AND
+7 3. ONGOING OPERATING COSTS AFTER THE PROJECT IS
+8 NO LONGER A MAJOR DEVELOPMENT PROJECT OR EXPEDITED PROJECT,
+9 INCLUDING:
+10 A. COSTS ASSOCIATED WITH PROCURING AND
+11 MAINTAINING LICENSES; AND
+12 B. SUPPORT TO CONTINUOUSLY MAINTAIN AND
+13 IMPROVE THE PROJECT OR PRODUCT;
+14 [(2)] (II) any schedule, cost, and scope changes since the last annual
+15 report;
+16 [(3)] (III) a risk assessment [including any problems identified by any
+17 internal or external review and any corrective actions taken; and] PROVIDED BY EITHER
+18 THE DEPARTMENT OR THE DESIGNATED UNIT OF STATE GOVERNMENT THAT
+19 DETAILS THE IDENTIFIED PROJECT OR PRODUCT RISK, INCLUDING:
+20 1. A DESCRIPTION OF THE TYPE OF RISK, INCLUDING:
+21 A. GOVERNANCE;
+22 B. RESOURCE AVAILABILITY OR CAPABILITY;
+23 C. FUNDING;
+24 D. INTERDEPENDENCIES WITH OTHER SYSTEMS;
+25 E. TECHNICAL ISSUES;
+26 F. ORGANIZATIONAL CULTURE; OR
+27 G. ABILITY TO SUPPORT IN THE LONG TERM;
+28 2. THE RISK LIKELIHOOD;
+
+SENATE BILL 705 11
+1 3. THE RISK PRIORITY;
+2 4. THE RISK OWNER;
+3 5. PLANNED RISK MITIGATION STRATEGY; AND
+4 6. THE RISK STATUS AS OF THE REPORT DATE;
+5 (IV) PROJECT TRACKING METRICS, INCLUDING:
+6 1. DESCRIBING THE FUNCTIONALITY AND FEATURES
+7 THAT HAVE BEEN DELIVERED AS OF THE REPORT DATE; AND
+8 2. QUALITATIVE AND QUANTITATIVE DATA SHOWING
+9 PROGRESS TOWARDS PROJECT GOALS; AND
+10 [(4)] (V) any change in the monitoring or oversight status.
+11 (2) THE REPORT SUBMITTED UNDER THIS SUBSECTION:
+12 (I) IS CONFIDENTIAL AND NOT SUBJECT TO DISCLOSURE
+13 UNDER TITLE 4 OF THE GENERAL PROVISIONS ARTICLE;
+14 (II) SHALL COMMUNICATE THE REQUISITE INFORMATION IN A
+15 CLEAR AND CONCISE MANNER THAT, TO THE GREATEST EXTENT POSSIBLE, AVOIDS
+16 THE USE OF TECHNICAL LANGUAGE OR RELIANCE ON EXISTING INDUSTRY
+17 KNOWLEDGE; AND
+18 (III) SHALL INCLUDE AN EXECUTIVE SUMMARY OF KEY
+19 INFORMATION, INCLUDING:
+20 1. THE TOTAL VALUE OF THE PORTFOLIO, INCLUDING:
+21 A. ANNUAL DEVELOPMENT COSTS;
+22 B. FUNDING SOURCES; AND
+23 C. PROJECTED ONGOING OPERATING COSTS OVER THE
+24 NEXT 5 YEARS; AND
+25 2. A SUMMARY OF NEW PROJECTS INCLUDING:
+26 A. THE ADVANTAGES OF THE NEW PROJECTS; AND
+
+12 SENATE BILL 705
+1 B. ANY NEW OR INNOVATIVE ASPECTS OF DEVELOPMENT
+2 PROCESSES.
+3 (O) (1) THE DEPARTMENT SHALL PUBLISH AND MAINTAIN A PUBLICLY
+4 AVAILABLE PROJECT AND PORTFOLIO DASHBOARD ON THE DEPARTMENT’S
+5 WEBSITE.
+6 (2) THE DASHBOARD SHALL INCLUDE ALL MAJOR INFORMATION
+7 TECHNOLOGY DEVELOPMENT PROJECTS AND EXPEDITED PROJECTS, ORGANIZED
+8 BY THE ACCOUNTABLE UNIT OF STATE GOVERNMENT.
+9 (3) FOR EACH PROJECT, THE DASHBOARD SHALL:
+10 (I) SPECIFY THE SCHEDULE MANAGEMENT FOR THE PROJECT,
+11 INCLUDING:
+12 1. THE PROJECT START DATE;
+13 2. ESTIMATED LENGTH OF THE PROJECT, BY PHASE;
+14 3. PLANNED MILESTONES WITH ESTIMATED
+15 COMPLETION DATES; AND
+16 4. COMPLETED MILESTONES WITH COMPLETION DATES;
+17 (II) LIST THE ESTIMATED PROJECT COST;
+18 (III) LIST THE TOTAL AMOUNT APPROPRIATED FOR THE
+19 CURRENT FISCAL YEAR;
+20 (IV) LIST THE TOTAL AMOUNT SPENT DURING THE PRIOR FISCAL
+21 YEAR, CATEGORIZED BY:
+22 1. VENDOR COSTS;
+23 2. AGENCY LABOR;
+24 3. SOFTWARE LICENSES, SUBSCRIPTIONS, AND OTHER
+25 COSTS;
+26 4. OTHER EXPENSES; AND
+27 5. TOTAL EXPENDITURES;
+28 (V) FOR PROJECTS IN DEVELOPMENT:
+
+SENATE BILL 705 13
+1 1. THE PRIOR FISCAL YEAR FORECAST ACCOMPANIED
+2 BY ACTUAL DATA AND THE RESULTING VARIANCE; AND
+3 2. THE CURRENT YEAR FORECAST; AND
+4 (VI) SUBJECT TO SUBSECTION (P) OF THIS SECTION, IDENTIFY
+5 MAJOR PROJECT OR PRODUCT RISKS, INCLUDING:
+6 1. RISK DESCRIPTION;
+7 2. RISK IMPACT;
+8 3. RISK LIKELIHOOD;
+9 4. MITIGATION STRATEGY; AND
+10 5. RISK STATUS.
+11 (P) (1) THE DEPARTMENT MAY REDACT SPECIFIC RISKS IDENTIFIED
+12 UNDER SUBSECTION (O)(3)(VI) OF THIS SECTION FROM THE PUBLIC DASHBOARD IF
+13 THE DEPARTMENT DETERMINES THAT PUBLIC SHARING OF THE INFORMATION
+14 COULD POSE A RISK TO THE PROJECT.
+15 (2) IF A RISK IS REDACTED FROM THE DASHBOARD, THE
+16 INFORMATION SHALL BE SHARED WITH THE LEGISLATIVE POLICY COMMITTEE.
+17 (3) A RISK REDACTED FROM THE DASHBOARD IS CONFIDENTIAL AND
+18 NOT SUBJECT TO DISCLOSURE UNDER TITLE 4 OF THE GENERAL PROVISIONS
+19 ARTICLE.
+20 [(p)] (Q) (1) The Secretary may adopt regulations necessary to carry out this
+21 section.
+22 (2) The Secretary shall adopt regulations necessary to establish a process
+23 for units of State government to request and receive funding for an expedited project
+24 aligned with the State Modernization Plan that shall:
+25 (i) allow units of State government to apply for project funding
+26 biannually;
+27 (ii) be consistent with the goals and preferences established under
+28 Title 14 of this article and encourage small and minority business enterprise vendors; and
+
+14 SENATE BILL 705
+1 (iii) provide measures that ensure compliance with this subtitle and
+2 the Department’s regulations by both vendors and units of State government.
+3 (R) THE CHIEF INFORMATION OFFICER FOR A UNIT OF STATE
+4 GOVERNMENT WITH A PLANNED OR ONGOING MAJOR INFORMATION TECHNOLOGY
+5 DEVELOPMENT PROJECT SHALL MEET WITH THE SECRETARY ON A QUARTERLY
+6 BASIS TO REPORT ON AND DISCUSS THE ONGOING INFORMATION TECHNOLOGY
+7 DEVELOPMENT PROJECTS, INCLUDING:
+8 (1) PROJECT BUDGET;
+9 (2) PROJECT VENDOR PERFORMANCE OR NONPERFORMANCE;
+10 (3) PROJECT SCOPE;
+11 (4) PROJECT SCHEDULE;
+12 (5) THE CAPACITY OF THE UNIT TO IMPLEMENT THE PROJECT; AND
+13 (6) ANY OTHER ITEMS THE SECRETARY DEEMS RELEVANT TO THE
+14 SUCCESSFUL IMPLEMENTATION OF THE PROJECT.
+15 SUBTITLE 9. MARYLAND OFFICE OF DIGITAL EXPERIENCE.
+16 3.5–901.
+17 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+18 INDICATED.
+19 (B) “DIVISION” MEANS THE MAJOR INFORMATION TECHNOLOGY
+20 DEVELOPMENT PROJECT OVERSIGHT DIVISION.
+21 (C) “OFFICE” MEANS THE MARYLAND OFFICE OF DIGITAL EXPERIENCE.
+22 (D) “SERVICE” MEANS THE MARYLAND DIGITAL SERVICE UNIT.
+23 3.5–902.
+24 (A) THERE IS A MARYLAND OFFICE OF DIGITAL EXPERIENCE.
+25 (B) THE PURPOSE OF THE OFFICE IS TO:
+26 (1) PROVIDE OVERSIGHT, LEADERSHIP, INTERVENTION, AND
+27 STRATEGIC MODERNIZATION FOR MAJOR INFORMATION TECHNOLOGY
+28 DEVELOPMENT PROJECTS, INCLUDING LARGE–SCALE, HIGH IMPACT,
+
+SENATE BILL 705 15
+1 MULTI–AGENCY PROJECTS, IN A TRANSPARENT MANNER THAT ENSURES A POSITIVE
+2 RETURN ON INVESTMENT; AND
+3 (2) DIRECT THE DEVELOPMENT OF MODERNIZED SYSTEMS IN A
+4 MANNER THAT:
+5 (I) WHEN APPROPRIATE, PRIORITIZES A PRODUCT–BASED
+6 APPROACH TO THE DEVELOPMENT OF MODERNIZED SYSTEMS OVER A
+7 PROJECT–BASED APPROACH;
+8 (II) IS COST–EFFECTIVE;
+9 (III) LOWERS RISKS;
+10 (IV) DELIVERS VALUE FASTER; AND
+11 (V) OTHERWISE IMPROVES THE DELIVERY OF SERVICES FOR
+12 RESIDENTS OF THE STATE.
+13 3.5–903.
+14 THE SECRETARY SHALL APPOINT A CHIEF DIGITAL EXPERIENCE OFFICER TO
+15 SERVE AS THE HEAD OF THE OFFICE.
+16 3.5–904.
+17 (A) (1) THE OFFICE MAY EMPLOY OR RETAIN REGULAR OR
+18 CONTRACTUAL EMPLOYEES AT THE DISCRETION OF THE CHIEF DIGITAL SERVICES
+19 OFFICER AND CHIEF OF THE DIVISION AS NECESSARY TO MEET THE
+20 REQUIREMENTS OF THE OFFICE.
+21 (2) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE
+22 CHIEF DIGITAL SERVICES OFFICER AND CHIEF OF THE DIVISION MAY SET THE
+23 COMPENSATION FOR OFFICE EMPLOYEES.
+24 (II) THE SECRETARY OF BUDGET AND MANAGEMENT SHALL
+25 APPROVE ANY COMPENSATION PROPOSED UNDER THIS SUBSECTION.
+26 (B) THE OFFICE MAY USE A SHORT–TERM CONTRACT OR CONTRACTUAL
+27 HIRING TO SUPPORT HUMAN RESOURCE NEEDS TO SUPPORT THE RAPID HIRING OF
+28 OFFICE EMPLOYEES AND CONTRACTORS.
+29 (C) TO MEET THE REQUIREMENTS OF THIS SUBTITLE, THE OFFICE MAY
+30 REQUIRE A UNIT TO PROVIDE REIMBURSEMENT FOR SERVICES PROVIDED BY THE
+
+16 SENATE BILL 705
+1 OFFICE FROM FUNDS PROVIDED TO THE UNIT FROM THE INFORMATION
+2 TECHNOLOGY INVESTMENT FUND OR OTHER FUNDS ALLOCATED TO THE UNIT FOR
+3 AN INFORMATION TECHNOLOGY PROJECT OR PRODUCT.
+4 3.5–905.
+5 (A) THERE IS A MARYLAND DIGITAL SERVICE UNIT IN THE OFFICE.
+6 (B) THE SERVICE SHALL COLLABORATE WITH UNITS OF STATE
+7 GOVERNMENT TO SUPPORT IMPROVED SERVICE DELIVERY TO STATE RESIDENTS
+8 AND AGENCY STAFF TO IMPLEMENT:
+9 (1) USER–CENTERED DESIGN;
+10 (2) SOFTWARE DEVELOPMENT; AND
+11 (3) PROJECT MANAGEMENT BEST PRACTICES.
+12 (C) THE SERVICE IS RESPONSIBLE FOR:
+13 (1) ASSISTING UNITS OF STATE GOVERNMENT TO PRIORITIZE THE
+14 DEVELOPMENT AND PROCUREMENT OF USER–FRIENDLY, ACCESSIBLE, AND
+15 MULTILINGUAL DIGITAL PLATFORMS TO ENSURE THAT ALL STATE RESIDENTS,
+16 INCLUDING THOSE WITH DISABILITIES, CAN EASILY ACCESS AND USE GOVERNMENT
+17 SERVICES AND INFORMATION;
+18 (2) WORKING COLLABORATIVELY WITH UNITS OF STATE
+19 GOVERNMENT TO:
+20 (I) CONSOLIDATE AND STREAMLINE STATE WEBSITES AND
+21 DIGITAL APPLICATIONS TO REDUCE REDUNDANCY, COMPLEXITY, AND
+22 MAINTENANCE COSTS; AND
+23 (II) PRIORITIZE PROJECTS THAT ARE FINANCIALLY EFFICIENT
+24 AND DRIVE POSITIVE OUTCOMES FOR STATE RESIDENTS; AND
+25 (3) OVERSEEING THE IMPLEMENTATION OF USER–CENTERED DESIGN
+26 PRINCIPLES, ACCESSIBILITY STANDARDS, AND BEST PRACTICES ACROSS UNITS OF
+27 STATE GOVERNMENT.
+28 (D) UNITS OF STATE GOVERNMENT SHALL COLLABORATE WITH THE
+29 SERVICE TO ENSURE THAT THE ALIGNMENT AND FUNDING OF A DIGITAL INITIATIVE
+30 IS CONSISTENT WITH:
+
+SENATE BILL 705 17
+1 (1) THE OVERALL GOALS AND PRIORITIES OF THE STATE; AND
+2 (2) THE STATEWIDE INFORMATION TECHNOLOGY MASTER PLAN.
+3 3.5–906.
+4 (A) THERE IS A MAJOR INFORMATION TECHNOLOGY DEVELOPMENT
+5 PROJECT OVERSIGHT DIVISION IN THE OFFICE.
+6 (B) THE DIVISION, IN CONSULTATION WITH THE DEPARTMENT, SHALL:
+7 (1) ADOPT NEW STANDARDS BY WHICH MAJOR INFORMATION
+8 TECHNOLOGY DEVELOPMENT PROJECTS AND EXPEDITED PROJECTS ARE REQUIRED
+9 TO COMPLY, IN ALIGNMENT WITH THE STATE SYSTEM DEVELOPMENT LIFE CYCLE;
+10 (2) MONITOR THE PERFORMANCE OF PROJECT MANAGEMENT TEAMS
+11 FOR MAJOR INFORMATION TECHNOLOGY DEVELOPMENT PROJECTS AND
+12 EXPEDITED PROJECTS AND ENSURE THE TEAMS HAVE THE APPROPRIATE TALENT
+13 AND EXPERTISE NECESSARY TO DELIVER THE INTENDED PROJECT VALUE; AND
+14 (3) PROVIDE EXPERTISE, SUPPORT, AND INTERVENTION AS
+15 NECESSARY FOR THE PROJECT MANAGEMENT TEAM TO SUCCESSFULLY IMPLEMENT
+16 A PROJECT IN A MANNER CONSISTENT WITH STANDARDS ADOPTED UNDER ITEM (1)
+17 OF THIS SUBSECTION.
+18 (C) THE DIVISION SHALL ESTABLISH AND STAFF A DISCOVERY TEAM TO
+19 DEPLOY TEAM MEMBERS TO HELP UNITS OF STATE GOVERNMENT ASSIST THE UNIT
+20 IN IDENTIFYING:
+21 (1) WHAT PROBLEM THE USE OF AN INFORMATION TECHNOLOGY
+22 PROJECT OR PRODUCT IS SOLVING;
+23 (2) WHO THE USERS OF THE PROJECT OR PRODUCT WILL BE;
+24 (3) WHAT A SUCCESSFUL SOLUTION WOULD LOOK LIKE; AND
+25 (4) OTHER ISSUES TO ENSURE SUCCESSFUL IMPLEMENTATION OF
+26 THE PROJECT OR PRODUCT.
+27 (D) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, THE SECRETARY
+28 MAY DELEGATE ANY MAJOR INFORMATION TECHNOLOGY DEVELOPMENT PROJECT
+29 TO THE DIVISION THAT THE SECRETARY DETERMINES IS APPROPRIATE TO SERVE
+30 AS A PILOT PROJECT FOR THE DIVISION TO PROVIDE THE SERVICES DESCRIBED IN
+31 THIS SECTION.
+
+18 SENATE BILL 705
+1 3.5–907.
+2 BEGINNING DECEMBER 31, 2025, AND EACH JULY 1 AND DECEMBER 31
+3 THEREAFTER, THE DEPARTMENT OF GENERAL SERVICES, IN CONSULTATION WITH
+4 THE DEPARTMENT, SHALL REPORT TO THE SENATE BUDGET AND TAXATION
+5 COMMITTEE AND THE HOUSE HEALTH AND GOVERNMENT OPERATIONS
+6 COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+7 ARTICLE, ON ANY PROJECTS OVER $1,000,000 UNDERTAKEN BY A UNIT OF STATE
+8 GOVERNMENT UNDER A MASTER CONTRACT FOR STATEWIDE AGILE RESOURCES
+9 AND TEAMS CONTRACT OR WORK ORDER APPROVED BY THE BOARD OF PUBLIC
+10 WORKS IN FISCAL YEAR 2025, INCLUDING:
+11 (1) THE CONTRACT OR WORK ORDER AMOUNT AND TOTAL ESTIMATED
+12 PROJECT COST;
+13 (2) WHETHER THE SECRETARY OF GENERAL SERVICES AND THE
+14 SECRETARY HAVE DETERMINED THAT THE UNIT HAS THE INTERNAL CAPACITY TO
+15 ADEQUATELY SUPPORT THE PROJECT AND PROGRAM MANAGEMENT
+16 RESPONSIBILITIES, INCLUDING ADEQUATE:
+17 (I) HUMAN CAPITAL;
+18 (II) SUBJECT MATTER EXPERTISE; AND
+19 (III) TECHNICAL INFRASTRUCTURE;
+20 (3) WHETHER THE HEAD OF THE UNIT ACCEPTED ACCOUNTABILITY
+21 FOR THE OVERSIGHT AND IMPLEMENTATION OF THE PROJECT;
+22 (4) THE MEMBERS OF THE PROJECT MANAGEMENT TEAM; AND
+23 (5) AFFIRMATIVE AGREEMENTS THAT, AS PART OF THE CONTRACT OR
+24 WORK ORDER APPROVAL, THE UNIT OF STATE GOVERNMENT SUBMITS A REPORT
+25 REGARDING PROJECT STATUS TO THE DEPARTMENT EVERY 3 MONTHS.
+26 Article – State Government
+27 2–411.
+28 (A) IN THIS SECTION, “BOARD” MEANS THE INFORMATION TECHNOLOGY
+29 ADVISORY BOARD.
+
+SENATE BILL 705 19
+1 (B) THERE IS AN INFORMATION TECHNOLOGY ADVISORY BOARD TO
+2 ADVISE THE LEGISLATIVE POLICY COMMITTEE.
+3 (C) (1) THE BOARD CONSISTS OF EIGHT MEMBERS OF THE PUBLIC WITH
+4 EXPERTISE IN:
+5 (I) ENTERPRISE INFORMATION TECHNOLOGY MANAGEMENT
+6 EXPERIENCE; AND
+7 (II) SPECIFIC TECHNOLOGY EXPERIENCE, INCLUDING
+8 EXPERIENCE WITH ARTIFICIAL INTELLIGENCE AND CYBERSECURITY.
+9 (2) (I) THE PRESIDENT OF THE SENATE SHALL APPOINT FOUR OF
+10 THE BOARD MEMBERS.
+11 (II) THE SPEAKER OF THE HOUSE SHALL APPOINT FOUR OF
+12 THE BOARD MEMBERS.
+13 (3) THE PRESIDENT AND THE SPEAKER SHALL JOINTLY DESIGNATE
+14 A MEMBER TO SERVE AS CHAIR OF THE BOARD.
+15 (D) A MEMBER OF THE BOARD:
+16 (1) (I) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE
+17 BOARD; BUT
+18 (II) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES UNDER
+19 THE STANDARD STATE TRAVEL REGULATIONS, AS PROVIDED IN THE STATE
+20 BUDGET;
+21 (2) IS SUBJECT TO THE PUBLIC ETHICS LAW; AND
+22 (3) SHALL DISCLOSE TO THE STATE ETHICS COMMISSION IF THE
+23 MEMBER:
+24 (I) IS EMPLOYED BY AN ENTITY THAT CURRENTLY DOES
+25 BUSINESS WITH THE STATE THAT IS RELATED TO THE MATTERS BEFORE THE
+26 BOARD; OR
+27 (II) HAS A FINANCIAL INTEREST IN AN ENTITY THAT CURRENTLY
+28 DOES BUSINESS WITH THE STATE THAT IS RELATED TO THE MATTERS BEFORE THE
+29 BOARD.
+
+20 SENATE BILL 705
+1 (E) THE BOARD SHALL BE STAFFED BY THE DEPARTMENT OF LEGISLATIVE
+2 SERVICES.
+3 (F) THE BOARD SHALL:
+4 (1) SERVE AS AN EXPERT ADVISORY ENTITY TO THE GENERAL
+5 ASSEMBLY; AND
+6 (2) REVIEW ANY STATE REPORTS OR OTHER AVAILABLE
+7 INFORMATION REGARDING EXISTING MAJOR INFORMATION TECHNOLOGY
+8 DEVELOPMENT PROJECTS, INCLUDING:
+9 (I) PROJECT MANAGEMENT AND OVERSIGHT REPORTS
+10 PROVIDED CONFIDENTIALLY TO THE DEPARTMENT OF LEGISLATIVE SERVICES;
+11 (II) ANY CONFIDENTIAL INFORMATION REGARDING PROJECT
+12 RISKS SUBMITTED TO THE LEGISLATIVE POLICY COMMITTEE;
+13 (III) THE STATE MODERNIZATION PLAN;
+14 (IV) LEGACY SYSTEM STANDARDS, INVENTORY, AND FUNDING
+15 PROJECTIONS;
+16 (V) STATE USE OF THE INFORMATION TECHNOLOGY
+17 INVESTMENT MATURITY MODEL;
+18 (VI) THE STATE CENTRALIZATION STRATEGIES FOR:
+19 1. INFORMATION TECHNOLOGY MANAGEMENT; AND
+20 2. CYBERSECURITY; AND
+21 (VII) THE STATE ARTIFICIAL INTELLIGENCE ROADMAP
+22 DEVELOPED BY THE GOVERNOR’S ARTIFICIAL INTELLIGENCE SUBCABINET.
+23 (G) ON OR BEFORE DECEMBER 15 EACH YEAR, THE BOARD SHALL SUBMIT
+24 TO THE LEGISLATIVE POLICY COMMITTEE AND THE JOINT COMMITTEE ON
+25 CYBERSECURITY, INFORMATION TECHNOLOGY, AND BIOTECHNOLOGY, IN
+26 ACCORDANCE WITH § 2–1257 OF THIS TITLE, A REPORT THAT:
+27 (1) INTERPRETS AND SUMMARIZES THE REPORTS AND OTHER
+28 INFORMATION REVIEWED UNDER SUBSECTION (F)(2) OF THIS SECTION;
+
+SENATE BILL 705 21
+1 (2) PROVIDES ADVICE TO THE STATE BASED ON THE REPORTS AND
+2 OTHER INFORMATION REVIEWED; AND
+3 (3) COMMUNICATES THE REQUISITE INFORMATION IN A CLEAR AND
+4 CONCISE MANNER THAT, TO THE GREATEST EXTENT POSSIBLE, AVOIDS THE USE OF
+5 TECHNICAL LANGUAGE OR RELIANCE ON EXISTING INDUSTRY KNOWLEDGE.
+6 Chapter 497 of the Acts of 2024
+7 [SECTION 4. AND BE IT FURTHER ENACTED, That, on or before December 1,
+8 2024, the Joint Audit and Evaluation Committee, in consultation with the Joint Committee
+9 on Cybersecurity, Information Technology, and Biotechnology, shall study and make
+10 recommendations for any statutory and operational changes necessary to address the
+11 findings of the audit issued on April 2, 2024, by the Office of Legislative Audits in the
+12 Department of Legislative Services and shall report on any recommendations for statutory
+13 changes to the Governor and, in accordance with § 2–1257 of the State Government Article,
+14 the General Assembly, including the Senate Budget and Taxation Committee, the Senate
+15 Committee on Education, Energy, and the Environment, the House Appropriations
+16 Committee, and the House Health and Government Operations Committee.]
+17 3.5–309.
+18 (a) There is an Information Technology Investment Fund.
+19 (n) (1) On or before [November] OCTOBER 1 of each year, the Secretary shall
+20 report to the Governor and the Secretary of Budget and Management and, in accordance
+21 with § 2–1257 of the State Government Article, to the Senate Budget and Taxation
+22 Committee, the Senate Committee on Education, Energy, and the Environment, the House
+23 Appropriations Committee, the House Health and Government Operations Committee, and
+24 the Joint Committee on Cybersecurity, Information Technology, and Biotechnology.
+25 (2) The report shall include:
+26 (i) the financial status of the Fund and a summary of its operations
+27 for the preceding fiscal year;
+28 (ii) an accounting for the preceding fiscal year of all money from each
+29 of the revenue sources specified in subsection (e) of this section, including any expenditures
+30 made from the Fund; and
+31 (iii) for each project receiving money from the Fund in the preceding
+32 fiscal year and for each major information technology development project or expedited
+33 project receiving funding from any source other than the Fund in the preceding fiscal year:
+34 1. A BRIEF DESCRIPTION OF THE PROJECT, INCLUDING
+35 MAJOR CUSTOMERS AND INTERDEPENDENCIES WITH OTHER SYSTEMS;
+
+22 SENATE BILL 705
+1 2. AN ANALYSIS OF HOW THE PROJECT GOALS PROVIDE
+2 AN ADVANTAGE OVER CURRENT AGENCY OPERATIONS, INCLUDING A DESCRIPTION
+3 OF KEY PROJECT GOALS, CRITICAL SUCCESS FACTORS, HOW THE PROJECT
+4 SUPPORTS THE BUSINESS PROCESS, AND WHETHER THE SUCCESSFUL PROJECT
+5 WILL PROVIDE A BASIS FOR A FUTURE PROJECT AT THE SAME OR ANY OTHER UNIT
+6 OF STATE GOVERNMENT;
+7 3. A DESCRIPTION OF TECHNOLOGIES EMPLOYED IN
+8 THE PROJECT;
+9 4. AN ASSESSMENT OF THE VENDOR POOL OF LIKELY
+10 BIDDERS OR OFFERORS;
+11 5. A DESCRIPTION OF THE PROCESS USED TO DEVELOP
+12 THE PROJECT;
+13 6. AN OVERVIEW OF THE PROJECT SCHEDULE,
+14 INCLUDING ANY INTERMEDIATE PROJECT DEADLINES;
+15 [1.] 7. the status of the project and project funding
+16 decisions;
+17 [2.] 8. a comparison of estimated and actual costs of the
+18 project;
+19 [3.] 9. any known or anticipated changes in scope or costs
+20 of the project;
+21 10. A DESCRIPTION OF ANY ONGOING OPERATING
+22 EXPENSES AS A RESULT OF THE PROJECT AND A TIMELINE OF WHEN THOSE COSTS
+23 WILL BE INCURRED;
+24 [4.] 11. an evaluation of whether the project is using best
+25 practices; and
+26 [5.] 12. a summary of any monitoring and oversight of the
+27 project from outside the agency in which the project is being developed, including a
+28 description of any problems identified by any external review and any corrective actions
+29 taken.
+30 (3) THE REPORT SUBMITTED UNDER THIS SUBSECTION SHALL BE:
+31 (I) WRITTEN, AS PRACTICABLE, IN A MANNER THAT IS CLEAR,
+32 CONCISE, AND WELL–ORGANIZED AND AVOIDS TECHNICAL JARGON;
+
+SENATE BILL 705 23
+1 (II) STRUCTURED TO INCLUDE AN EXECUTIVE SUMMARY OF KEY
+2 INFORMATION THAT HIGHLIGHTS ACTION ITEMS AND DECISION POINTS,
+3 INCLUDING:
+4 1. THE TOTAL VALUE OF THE PORTFOLIO, INCLUDING
+5 ANNUAL DEVELOPMENT COSTS, FUNDING SOURCES, AND PREDICTED ONGOING
+6 OPERATING COSTS OVER THE NEXT 5 YEARS;
+7 2. A SUMMARY OF NEW PROJECTS, THE ADVANTAGES OF
+8 THE PROJECTS, AND ANY NEW OR INNOVATIVE ASPECTS OF THE DEVELOPMENT
+9 PROCESSES;
+10 3. AN ASSESSMENT OF THE NEW TECHNOLOGIES AND
+11 BEST PRACTICES EMPLOYED ACROSS THE PORTFOLIO, INCLUDING HOW THOSE
+12 TECHNOLOGIES ALIGN TO THE STATE MASTER PLAN;
+13 4. A DASHBOARD GRAPHIC TO DEPICT THE BASIC
+14 STATUS OF ALL PROJECTS IN THE PORTFOLIO, INCLUDING THE STATUS AS IT
+15 RELATES TO MILESTONES AND FINANCIAL INVESTMENT; AND
+16 5. AN ASSESSMENT OF ANY RISKS IDENTIFIED, BY TYPE
+17 AND AGENCY; AND
+18 (III) MADE PUBLICLY AVAILABLE ON THE DEPARTMENT’S
+19 WEBSITE.
+20 (o) (1) On or before January 15 of each year, for each major information
+21 technology development project or expedited project currently in development or for which
+22 operations and maintenance funding is being provided in accordance with subsection (i)(3)
+23 of this section, subject to § 2–1257 of the State Government Article, the Secretary shall
+24 provide a summary report to THE SENATE BUDGET AND TAXATION COMMITTEE, THE
+25 SENATE COMMITTEE ON EDUCATION, ENERGY, AND THE ENVIRONMENT, THE
+26 HOUSE APPROPRIATIONS COMMITTEE, THE HOUSE HEALTH AND GOVERNMENT
+27 OPERATIONS COMMITTEE, THE JOINT COMMITTEE ON CYBERSECURITY,
+28 INFORMATION TECHNOLOGY, AND BIOTECHNOLOGY, AND the Department of
+29 Legislative Services with the most up–to–date project information including:
+30 [(1)] (I) project funding decisions and project status, INCLUDING:
+31 1. ANNUAL DEVELOPMENT COSTS;
+32 2. FUNDING SOURCES; AND
+
+24 SENATE BILL 705
+1 3. ONGOING OPERATING COSTS, INCLUDING LICENSES
+2 AND SUPPORT TO MAINTAIN AND UPDATE THE SYSTEM;
+3 [(2)] (II) any schedule, cost, and scope changes since the [last annual]
+4 report REQUIRED UNDER SUBSECTION (N) OF THIS SECTION WAS SUBMITTED;
+5 [(3)] (III) a risk assessment THAT GIVES A DETAILED DESCRIPTION OF
+6 THE RISK IDENTIFIED, including:
+7 1. TYPE OF RISK IDENTIFIED, INCLUDING AGENCY
+8 GOVERNANCE, STAFF RESOURCE AVAILABILITY OR TRAINING, FUNDING,
+9 INTERDEPENDENCIES WITH OTHER SYSTEMS, TECHNICAL ISSUES,
+10 ORGANIZATIONAL CULTURE, OR LONG–TERM SUPPORTABILITY; AND
+11 2. any problems identified by any internal or external review
+12 and any corrective actions taken; [and]
+13 (IV) PROJECT TRACKING METRICS, INCLUDING:
+14 1. PROJECT DEADLINES AND ASSOCIATED
+15 DELIVERABLES; AND
+16 2. A DESCRIPTION OF ANY CHANGES IN SCOPE,
+17 TIMELINE, AND COSTS; AND
+18 [(4)] (V) any change in the monitoring or oversight status.
+19 (2) THE REPORT SUBMITTED UNDER THIS SUBSECTION SHALL BE:
+20 (I) WRITTEN, AS PRACTICABLE, IN A MANNER THAT IS CLEAR,
+21 CONCISE, AND WELL–ORGANIZED AND AVOIDS TECHNICAL JARGON;
+22 (II) STRUCTURED TO INCLUDE AN EXECUTIVE SUMMARY OF KEY
+23 INFORMATION THAT HIGHLIGHTS ACTION ITEMS AND DECISION POINTS,
+24 INCLUDING:
+25 1. THE TOTAL VALUE OF THE PORTFOLIO, INCLUDING
+26 ANNUAL DEVELOPMENT COSTS, FUNDING SOURCES, AND PREDICTED ONGOING
+27 OPERATING COSTS OVER THE NEXT 5 YEARS;
+28 2. A SUMMARY OF NEW PROJECTS, THE ADVANTAGES OF
+29 THE PROJECTS, AND ANY NEW OR INNOVATIVE ASPECTS OF THE DEVELOPMENT
+30 PROCESSES;
+
+SENATE BILL 705 25
+1 3. AN ASSESSMENT OF THE NEW TECHNOLOGIES AND
+2 BEST PRACTICES EMPLOYED ACROSS THE PORTFOLIO, INCLUDING HOW THOSE
+3 TECHNOLOGIES ALIGN TO THE STATE MASTER PLAN;
+4 4. A DASHBOARD GRAPHIC TO DEPICT THE BASIC
+5 STATUS OF ALL PROJECTS IN THE PORTFOLIO, INCLUDING THE STATUS AS IT
+6 RELATES TO MILESTONES AND FINANCIAL INVESTMENT;
+7 5. AN ASSESSMENT OF ANY RISKS IDENTIFIED UNDER
+8 PARAGRAPH (1)(III) OF THIS SUBSECTION, BY TYPE AND AGENCY; AND
+9 6. FOR THE ENTIRE PORTFOLIO, AN ASSESSMENT OF
+10 PROJECT MANAGEMENT AND OVERSIGHT, DELINEATED BY AGENCY–LED PROJECTS
+11 AND DEPARTMENT–LED PROJECTS, INCLUDING ALL ANTICIPATED CHANGES IN
+12 SCOPE OR COSTS AND PROJECT TRACKING METRICS; AND
+13 (III) MADE PUBLICLY AVAILABLE ON THE DEPARTMENT’S
+14 WEBSITE.
+15 SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 3.5–316 of
+16 Article – State Finance and Procurement of the Annotated Code of Maryland be repealed.
+17 SECTION 3. AND BE IT FURTHER ENACTED, That, notwithstanding any other
+18 provision of law, on or before June 30, 2026, the Secretary of Budget and Management,
+19 with the approval of the Governor, to meet the requirements of this Act, may transfer by
+20 budget amendment to the Maryland Office of Digital Experience, as enacted by Section 1
+21 of this Act, the following appropriations included in the fiscal year 2026 operating budget,
+22 as enacted by Chapter _ (H.B. 350) of the Acts of the General Assembly of 2025:
+23 (1) up to $4,300,000 in staff augmentation funds; and
+24 (2) up to 20% of the remaining appropriation to the Information
+25 Technology Investment Fund under § 3.5–309 of the State Finance and Procurement
+26 Article.
+27 SECTION 4. AND BE IT FURTHER ENACTED, That, notwithstanding any other
+28 provision of law:
+29 (1) on or before June 30, 2026, the Governor may transfer to the Maryland
+30 Office of Digital Experience, as enacted by Section 1 of this Act, up to 50 positions, vacant
+31 or filled, along with the associated funds and unexpended appropriations that were
+32 included in the fiscal year 2026 operating budget, as enacted by Chapter (H.B. 350) of
+33 the Acts of the General Assembly of 2025; and
+34 (2) an individual who is a permanent or contractual staff member in a
+35 budgeted position in the Department of Information Technology or a unit of the State
+
+26 SENATE BILL 705
+1 executive branch whose position is transferred to the Maryland Office of Digital Experience
+2 shall be transferred without any decrease to or loss of the individual’s rights, pay, status,
+3 working conditions, benefits, or retirement benefit status.
+4 SECTION 5. AND BE IT FURTHER ENACTED, That, in fiscal year 2026, the
+5 Department of Information Technology:
+6 (1) shall work with units of State government to find economies of scale
+7 through use of one statewide productivity suite under one State license but may provide for
+8 specific exceptions as necessary to meet specific unit needs;
+9 (2) shall identify any other technology licensing or costs that could be
+10 reduced with a statewide contract for licensing or services; and
+11 (3) provide that any savings identified through the provisions of this
+12 section shall accrue to the Information Technology Investment Fund to assist in
+13 implementing the provisions of this Act.
+14 SECTION 6. AND BE IT FURTHER ENACTED, That in fiscal year 2026, except for
+15 funds transferred under Sections 3 and 4 of this Act, no additional general funds beyond
+16 those appropriated for the Department of Information Technology in the fiscal year 2026
+17 operating budget, as enacted by Chapter (H.B. 350) of the Acts of the General Assembly
+18 of 2025, may be used to implement this Act.
+19 SECTION 7. AND BE IT FURTHER ENACTED, That the Senate Budget and
+20 Taxation Committee and the House Health and Government Operations Committee shall
+21 convene a workgroup to evaluate the provisions of this Act, including:
+22 (1) the duties and responsibilities that should be assigned to the
+23 Department of Information Technology, the Maryland Office of Digital Experience, the
+24 Major Information Technology Development Project Oversight Division, the Maryland
+25 Digital Service Unit, or other offices in the Department;
+26 (2) what, if any, additional actions should be taken to ensure adequate
+27 resolution of the findings made by the Office of Legislative Audits in 2024;
+28 (3) whether it would be efficient and effective to have a Department of
+29 Information Technology employee embedded on–site in units of State government with a
+30 major information technology development project to assist in project management, to
+31 provide expertise, and to serve as a liaison between the unit and the Department;
+32 (4) whether additional or independent procurement authority should be
+33 given to the Department of Information Technology; and
+34 (5) whether there are more efficient and effective ways or mechanisms,
+35 including establishment of an independent information technology project management
+36 authority to provide project and program management and implementation.
+
+SENATE BILL 705 27
+1 SECTION 2. 8. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 June 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5   C A D I F t p o a t c o c r b t D o I r p b t D o I T p t a u o S g s o p u c c p t t S o I i o o c a t r r f a f t I T t p a p d w c i a m i r o o m i t d p t m w t S t p e t M O o D E w t D t p o l i a s m t O t r u t p c r f s u]
+[DELETED:  S  c M t i d s e t M I T D i p a t L P C a r t t J A a E C c a c s a r c r t c c o t G A r t M M C a g r t m i t B  A S  A  ( B  A S a  A  ( B  A  S  A  ( B  A  S  A  ( B  A  S   s  A  ( B  A  S]
+[DELETED: S 3  A  ( B  C  S  S T A 3  ( I  ( “ c m a s t e o s n a  ( “   )()“OV O IN M M O P T I A N TY SM O P I     )“O”N     P A P T I TE      IO M A S O T T T E S E A T T     )“O”N     )–R DYTOD M OS      )IR F I ILL   () “](]
+[DELETED:  S   () “]( p  () “]( B 3  ( ( A  o r  i t  u c w tNS O m   ( A e m n m e f m i t d p  ( ( T D o G Ss, i c w t D , ho  E ES[ p f i t p i m a m r a 3  ( T  ( B g f  ( I r i t p r t S m c  ( T M a m i t d p a s s  (  Te)[]S() T P  O T SN T S s b r f o t i o m i t   )AS EYSN  E O A M I T D ]
+[DELETED: S 5    )T E D T T U H T C T A S T PT PT S ,       .      .E       .E    )30IW  D O A A CT T O U O EPWC,§27S OE     T O,E        .     . T T E H RT        S B T H O T U A A T A F TT      IW A U I M A A P OT  E  D E   ( ( W t a o t S o B a M e a c   (  T B tt  bd     ()  a]1 t t    ()  t]2 i e i p t d s c i v]
+[DELETED:  S  n t    )NIO A O OW A A P I S II O T PH T)B U A EYS I )     )TSBIH E O U A A M E T    )W3  N  EG      )GT OR     )§27SIS T   O T T O,E        .SBTC E U A O     .SCE,E E O DN NY N       .HAC O P O     .HH O E A OC OE       .JCC O O O YYT,B EY  I      )()S()U II      . E M R T TB U A B R T O E O T NIF§39 N U   E  ]
+[DELETED: S 7     .SB E O U A AY A T DN F T EYS R T,S     )I$IF T R F E  T,SY I C W T E O U A,LT S S A P T T E O6– D   ( ( T d    ( t m i t d p o t e p a i c w s p p a s a d    ( t m i t d p a s   ( A a s d l c p s i s    ( a p     1 t     2 a     A t t     B t f a t t e u o c i     C t     D p     E t     3 a     A t     B t]
+[DELETED:  S     ( a p i r t b f d d     1 t     2 a     A t t     B t f a t t e u o c i     C t     D p     E t     F h p     3 a     A t     B t   ( T s  ( T e u § 3 o t sOJ1,2N O B U   T     ( d l s t r m p a t b f a a e   ( a a I T I M M t i    ( c    ( p t d t i r t e i]
+[DELETED: S 9    ( m p t m t i o a   ( d 3  ( T  ( ( O G o C o E E a t E t H A C t H H a G O C a t J C   ( T    ( t f    ( a o m    ( f f p     1 t     2 a     3 a p     4 a e o w t p i u b p     5 a f a.  ()  O]()( t o]
+[DELETED:  S  o p a s r t t D o L S w t m u   ()  ps](),       .      .S       L A M D P O E PT       A W P AS        T C M A ;   ()  a s c a s c s t l a]( r   ()  a r a i a p i b a]() i E O T D U O T G TK        .,K       .      .      .      .      .      .E       .      .]
+[DELETED: S 1      .      .      .Y       .     ),VPS       T F A FE        A Q D SS     ()  a](    )T    I C A N S T D I   E R R4GPA     IST E  U O T L O R O E IE      IS I A E S O KN        .,O       .      .S        S        .      .S ]
+[DELETED:  S          )()TH E P A P D O T ETS    ) D S I A M I D A ES O T     )F,T     )ST       .      .,T       M W ES        .     )IL    IL T T A A F T     VLR        .      .     ., LS SS A O       .S       .     )F]
+[DELETED: S 1      P F Y F AE        .T     )()IS P N S        .      .      .      .Y       .   )()TH E M R S R I OVI )( E D T P S O T I    )I A R I R F T DD T E O OPC    ) S T D U I  O T E R4G   () ( T]( s   ( T f u o S g t r a r f f a e p a    ( a u o S g t a f p f b    ( b T]
+[DELETED:  S     ( p t  )TCIOH H N F F A U O T P S M W T E O A Q T R O A D T O I TS      )    )    )    )    )T    ) O I T E D R T T 9.MODE.  A F I X   )N T S T F W H T M   )“D”MIIN M T A N EPOD R V I    )“O”MODEFE  A F I X   )“S”MDSUEE  A I E N    )TMODEH A F I X   )TOH F   ),, OT LP IN A M F M I T PS I LESE H IT–,,]
+[DELETED: S 1IAS T      T D O M S I A     ),W AE P A PTB T T D O M S O ATB      )–IITE     )IL     )VDR     O I T D O S F T   SCDE E H I X F F     )()TH F M E O R R O H I EDC A H O T I A N T M T F     )()S()U II H DSOC I E F H O I M F     )TSBIH E O U A A S   )TOH F M U A STT C O C   )T,O M T R O T SE T F M]
+[DELETED:  S  F F P T T U F T NI N UT     )TMDSUOH A I E N F  )TSH E S C W U O T T     )–RC    )T     )   )TSH E   ) U O T G T P T A P O URFY AE A, D P T E T A T RSS     ) C W U O T     )C A S T W A A T R RY CY AS      IP TS     )RCS S    )UN O T G S C W T ]
+[DELETED: S 1    )S TE     )SITMP T N E A L   )TMITH I A A N E EODO V I F    )TD,D,H IN  ET     N S B W M IY  T Y E I YSSDLC     M I T D P AE     ), EE ST A I A    )TDDH I I E T     P T U O A I T     )    )E     I T E S I O   )N,OW  E I E I ]
+[DELETED:  S   D3,2,J1D3 E   A E U  A E R  E E ES DGS ET S R T T E U A A,SBHHG A T O E A O P,§27SE I A W   O T T O,$0E    T T G EA E C O W O B T O O UB2,          )SG T E O E E A T S T P A P MS       )H     )ISE      )IT        )M    )T L  T E  3  A   )I,“B”INN OD  N EB O ]
+[DELETED: S 1  )TITAH I A N E D O T E O OPC    )()TH O     E I T ME      )IS T EE I     )()TPH R E O     )TSIH P O T O S A F O O    )TP R P O    )AB  OD    )(MD      II E R F E U T T R ES A P I T TSTR,     )PEL U T AW    )SE D T T T T O I T     I E B A E T C D W T T T I R T T M B TD      IH T ]
+[DELETED:  S   )TBDH O E E    )TBH O   ) A A E A E T T EY     ) A T R O O A R E M I TS      P M A O R E E ELS     IA C I R P E O OPC      )SIT T    ),VL S SS IY A F     )T U O T I T      )SIT T      .T       .Y     )IT T A I R ORS’   )OD15,N E  R  O T E O O A T O O OPCJ,IT,BY N EY A IY I   E 27,     A S T R A O F )) ]
+[DELETED: S 2   ) TD     T E   C  S 2 o C I T a B s s a m r f a s a o c n t a t f D c t C o E E a t E t H A C.  3  ( T  ( ( O Nr ]C r w § 2 o t S G A t t S B a T C A t   ( T    ( t f    ( a o m    ( f f p      .T S ]
+[DELETED:  S      S   K P GS C S FS H T P  T B PS A W T S P   TT       D O T E IT       A O T V P O LS      T        O O T P SS      1. t s o t p a p f]7 d     2.  a]8 p     3.  a]9 o      D O A O O D      4. a]1 p     5. a]1 p f o t a i w t p i b d i a d t    T    ) ,,WN E E LON– ]
+[DELETED: S 2    )IS T H A I A D P G        T V O T PO I D CS F SS A P O   S       S  PS A A N O I A O T D S       A O T N T A P E A T PO I H T  TN       D G T D T B O A P I T PO I T S A I T        D Y      ) DIM P A O T ET   (  O o b J 1 o e y f e m i t o o p  E U A OE BTCCE,E,E O O DN NY A T NT T AC,HH P OE T O E O C,JCC OE T O O O Y T,B EY A IY A  t D o L   () ps] (), G      S      S ]
+[DELETED:  S        O CS I L ;   () a s c a s c s t l al] ()[ rt; N    () at] (I D  ig       O R ID I AE S R A O TG F,  W O SS T I E GTY –       a a ad    ) ,VPS G      D A AS         D O A C I SE S     () a] (    T    ) ,,WN E E LON–     )IS T H A I A D P G        T V O T PO I D CS F SS A P O   S       S  PS A A N O I A O T D S ]
+[DELETED: S 2      A O T N T A P E A T PO I H T  TN       D G T D T B O A P I T PO I T S A I T       A O A R I U II N Y (),        T E PO A A OT YL  ETL PS I A A C I– S      ) DIM P A O T ETE   S 2 A B I F E T S 3 o A  S p w b o a   ( u   ( u t 2 o t r a t t I T I F u § 3 o t S F a P A  S p   ( o O o f a w t a f a u a t w i t   ( a i w i a p o c s m i a b p i t D o I T o a u o t S]
+[DELETED:  S  e s w  S 5 A B I F E T i f y 2 t D   ( s t s   ( s i a o t l o c t c b r   ( p t a s i t t p o t s s a t t I T I F t a i i  S f t o o  S 7 A B I F E T t S B a T c   ( t d a r t s b a t t D o I T t M O o D E t M I T D P O D t M D   ( w a s b t t e a r   ( w i a e t h o I m i t d p t a i p m t p   ( w p g   ( w i a]
+[DELETED: S 2  S J          G               ]

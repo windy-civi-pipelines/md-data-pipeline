@@ -1,0 +1,721 @@
+Title: HOUSE BILL 1555
+Official Title: HOUSE BILL 1555
+Number of Sections: 1
+Source: versions - First - Funeral Establishments, Crematories, and Reduction Facilities - Oversight (Ensuring Dignity and Accountability in Crematory and Funeral Home Operations Act)
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+C2, J2 5lr3632
+By: Delegates Bhandari, Allen, Bagnall, Chisholm, Cullison, Guzzone, Hill,
+Hutchinson, S. Johnson, Kaiser, Kipke, Lopez, Martinez, M. Morgan,
+Pena–Melnyk, Rosenberg, Ross, Taveras, White Holland, Woods, and
+Woorman
+Rules suspended
+Introduced and read first time: February 26, 2025
+Assigned to: Rules and Executive Nominations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Funeral Establishments, Crematories, and Reduction Facilities – Oversight
+3 (Ensuring Dignity and Accountability in Crematory and Funeral Home
+4 Operations Act)
+5 FOR the purpose of requiring the Director of the Office of Cemetery Oversight and the State
+6 Board of Morticians and Funeral Directors to adopt regulations that require funeral
+7 establishments, crematories, and reduction facilities to maintain adequate
+8 refrigerated holding facilities to ensure proper storage of human remains; requiring
+9 the Director and the Board to establish and maintain certain online databases,
+10 conduct certain inspections, and make certain notifications to authorizing agents;
+11 providing that a person who violates certain provisions of law is subject to certain
+12 civil and administrative penalties and referral for criminal prosecution under certain
+13 circumstances; and generally relating to funeral establishments, crematories, and
+14 reduction facilities.
+15 BY repealing and reenacting, without amendments,
+16 Article – Business Regulation
+17 Section 5–101(a), (c), and (i)
+18 Annotated Code of Maryland
+19 (2024 Replacement Volume)
+20 BY repealing and reenacting, with amendments,
+21 Article – Business Regulation
+22 Section 5–204(a)(2) and (b) and 5–310
+23 Annotated Code of Maryland
+24 (2024 Replacement Volume)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1555*
+2 HOUSE BILL 1555
+1 BY adding to
+2 Article – Business Regulation
+3 Section 5–207 and 5–208
+4 Annotated Code of Maryland
+5 (2024 Replacement Volume)
+6 BY repealing and reenacting, without amendments,
+7 Article – Health – General
+8 Section 5–508(a) and (c)
+9 Annotated Code of Maryland
+10 (2023 Replacement Volume and 2024 Supplement)
+11 BY repealing and reenacting, without amendments,
+12 Article – Health Occupations
+13 Section 7–101(a), (c–1), and (d)
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Health Occupations
+18 Section 7–205(c) and 7–409
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Health Occupations
+23 Section 7–209, 7–210, and 7–317.1
+24 Annotated Code of Maryland
+25 (2021 Replacement Volume and 2024 Supplement)
+26 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+27 That the Laws of Maryland read as follows:
+28 Article – Business Regulation
+29 5–101.
+30 (a) In this title the following words have the meanings indicated.
+31 (c) “Authorizing agent” has the meaning stated in § 5–508 of the Health – General
+32 Article.
+33 (i) “Director” means the Director of the Office of Cemetery Oversight.
+34 5–204.
+HOUSE BILL 1555 3
+1 (a) (2) In conjunction with the State Board of Morticians and Funeral
+2 Directors, the Director shall:
+3 (i) establish a process for regulating crematories and reduction
+4 facilities that provides for:
+5 1. registration of crematory operators and reduction facility
+6 operators or issuance of permits for operating crematories and reduction facilities, and
+7 renewal;
+8 2. applications, including certification of ownership and
+9 identification of individuals who will perform alkaline hydrolysis, cremation, or natural
+10 organic reduction;
+11 3. registration and permit fees;
+12 4. inspections and oversight;
+13 5. grounds for discipline and penalties; and
+14 6. complaints and hearings; [and]
+15 (II) ADOPT REGULATIONS THAT REQUIRE FUNERAL
+16 ESTABLISHMENTS, CREMATORIES, AND REDUCTION FACILITIES TO MAINTAIN
+17 ADEQUATE REFRIGERATED HOLDING FACILITIES TO ENSURE PROPER STORAGE OF
+18 HUMAN REMAINS; AND
+19 [(ii)] (III) adopt regulations that are identical to regulations adopted
+20 by the State Board of Morticians and Funeral Directors to:
+21 1. implement [item] ITEMS (i) AND (II) of this paragraph;
+22 and
+23 2. ensure public health and safety.
+24 (b) (1) [Upon] SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, ON
+25 receipt of a written complaint, or at the discretion of the Director, the Director or the
+26 Director’s designee may conduct an investigation and an inspection of the records and site
+27 of a registered cemeterian, registered crematory operator, registered reduction operator,
+28 registered seller, permit holder, or any other person subject to the registration or permit
+29 provisions of this title.
+30 (2) (I) EACH YEAR, THE DIRECTOR SHALL CONDUCT AT LEAST
+31 TWO UNANNOUNCED INSPECTIONS OF EACH REGISTERED CREMATORY OPERATOR
+32 AND REGISTERED REDUCTION OPERATOR TO ENSURE COMPLIANCE WITH THIS
+33 TITLE.
+4 HOUSE BILL 1555
+1 (II) IF A REGISTERED CREMATORY OPERATOR OR REGISTERED
+2 REDUCTION OPERATOR IS CITED FOR A SANITATION VIOLATION OR THE
+3 MISHANDLING OF HUMAN REMAINS, THE DIRECTOR SHALL CONDUCT AN
+4 UNANNOUNCED INSPECTION OF THE REGISTERED CREMATORY OR REGISTERED
+5 REDUCTION OPERATOR WITHIN 30 DAYS AFTER THE CITATION WAS ISSUED.
+6 (3) THE DIRECTOR SHALL EMPLOY AT LEAST ONE INSPECTOR TO:
+7 (I) ENSURE COMPLIANCE WITH REGULATORY REQUIREMENTS;
+8 (II) CONDUCT ROUTINE AND COMPLAINT–BASED INSPECTIONS;
+9 AND
+10 (III) RESPOND TO PUBLIC CONCERNS REGARDING VIOLATIONS
+11 OF THIS TITLE.
+12 5–207.
+13 THE OFFICE SHALL:
+14 (1) ESTABLISH AND MAINTAIN A PUBLICLY ACCESSIBLE, ONLINE
+15 DATABASE THAT INCLUDES INFORMATION ABOUT EACH VIOLATION BY, INSPECTION
+16 OF, AND COMPLAINT AGAINST A CREMATORY OR REDUCTION FACILITY;
+17 (2) NOTIFY THE AUTHORIZING AGENT WITHIN 24 HOURS AFTER THE
+18 OFFICE BECOMES AWARE OF A DELAY, AN EQUIPMENT FAILURE, OR A REGULATORY
+19 VIOLATION THAT INVOLVES A DECEDENT’S REMAINS; AND
+20 (3) PUBLISH ON ITS WEBSITE EACH REPORT SUBMITTED BY THE
+21 OFFICE TO THE GENERAL ASSEMBLY UNDER THIS TITLE.
+22 5–208.
+23 ON OR BEFORE DECEMBER 31 EACH YEAR, THE OFFICE SHALL SUBMIT A
+24 REPORT TO THE SENATE FINANCE COMMITTEE AND THE HOUSE HEALTH AND
+25 GOVERNMENT OPERATIONS COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE
+26 STATE GOVERNMENT ARTICLE, THAT INCLUDES:
+27 (1) THE RESULTS OF INSPECTIONS CONDUCTED UNDER § 5–204(B) OF
+28 THIS SUBTITLE, INCLUDING ANY VIOLATIONS AND CORRECTIVE ACTIONS TAKEN;
+HOUSE BILL 1555 5
+1 (2) IN ADDITION TO THE INFORMATION REQUIRED TO BE REPORTED
+2 UNDER § 5–311(H)(2) OF THIS TITLE, THE NUMBER OF COMPLAINTS RECEIVED AND
+3 THE RESOLUTIONS OF EACH COMPLAINT; AND
+4 (3) RECOMMENDATIONS FOR IMPROVING THE REGULATION OF
+5 CREMATORIES AND REDUCTION FACILITIES.
+6 5–310.
+7 (a) Subject to the hearing provisions of § 5–312 of this subtitle, the Director may
+8 deny a registration or permit to an applicant, reprimand a person subject to the registration
+9 or permit provisions of this title, or suspend or revoke a registration or permit if an
+10 applicant, registrant, or permit holder, or an agent, employee, officer, director, or partner
+11 of the applicant, registrant, or permit holder:
+12 (1) fraudulently or deceptively obtains or attempts to obtain a registration
+13 or permit;
+14 (2) fraudulently or deceptively uses a registration or permit;
+15 (3) under the laws of the United States or of any state, is convicted of a:
+16 (i) felony; or
+17 (ii) misdemeanor that is directly related to the fitness and
+18 qualifications of the applicant, registrant, or permit holder to own or operate a cemetery,
+19 crematory, or reduction facility or provide burial goods;
+20 (4) fails to provide or misrepresents any information required to be
+21 provided under this title;
+22 (5) violates this title;
+23 (6) violates the code of ethics adopted by the Director;
+24 (7) violates a regulation adopted under this title;
+25 (8) fails to provide reasonable and adequate supervision of the operation of
+26 the cemetery, crematory, or reduction facility or the provision of burial goods by agents,
+27 employees, officers, directors, or partners affiliated with a cemetery, crematory, reduction
+28 facility, or burial goods business;
+29 (9) refuses to allow an inspection required by this title;
+30 (10) fails to comply with an order of the Director;
+6 HOUSE BILL 1555
+1 (11) fails to comply with any terms of settlement under a binding arbitration
+2 agreement;
+3 (12) is found guilty by a court in this State of violating an unfair or deceptive
+4 trade practices provision under Title 13 of the Commercial Law Article; or
+5 (13) fails to comply with § 5–513 of the Health – General Article.
+6 (b) (1) If a person is charged with a violation of this title that could result in
+7 suspension or revocation of a registration or permit, the Director may seek an immediate
+8 restraining order in a circuit court in this State to prohibit the person from engaging in the
+9 operation of any cemetery, crematory, reduction facility, or burial goods business.
+10 (2) The restraining order is in effect until:
+11 (i) the court lifts the order; or
+12 (ii) the charges are adjudicated or dismissed.
+13 (c) If a person is charged with a violation of this title that could result in
+14 suspension or revocation of a registration or permit, the Director may petition a court to:
+15 (1) appoint a receiver or trustee to take charge of the assets and operate
+16 the business of the person in the event that the registration or permit is suspended or
+17 revoked; and
+18 (2) take any actions as are appropriate to protect the public interest.
+19 (d) Instead of or in addition to reprimanding a person, or suspending or revoking
+20 a registration or permit, the Director may impose a civil penalty:
+21 (1) not to exceed $5,000 for each violation of this title or an order of the
+22 Director under this title; and
+23 (2) not to exceed $500 for each day a violation continues past the time set
+24 for its correction.
+25 (E) IF THE DIRECTOR FINDS THAT A PERSON HAS VIOLATED THIS TITLE
+26 WITH GROSS NEGLIGENCE, IMPROPERLY HANDLED HUMAN REMAINS, OR
+27 REPEATEDLY VIOLATED THIS TITLE, THE PERSON IS SUBJECT TO:
+28 (1) A CIVIL PENALTY NOT EXCEEDING $50,000;
+29 (2) PERMANENT REVOCATION OF LICENSURE; AND
+HOUSE BILL 1555 7
+1 (3) REFERRAL UNDER § 5–905(A)(2) OF THIS TITLE FOR CRIMINAL
+2 PROSECUTION.
+3 [(e)] (F) To determine the amount of the penalty imposed under this
+4 [subsection] SECTION, the Director shall consider:
+5 (1) the seriousness of the violation;
+6 (2) the harm caused by the violation;
+7 (3) the good faith efforts of the person; and
+8 (4) any history of previous violations by the person.
+9 [(f)] (G) Any civil penalties collected under this section shall be paid into the
+10 General Fund of the State.
+11 [(g)] (H) The Director shall consider the following facts in the granting, denial,
+12 renewal, suspension, or revocation of a registration or permit or the reprimand of a
+13 registrant or permit holder when an applicant, registrant, or permit holder, or an agent,
+14 employee, officer, director, or partner of an applicant, registrant, or permit holder is
+15 convicted of a felony or misdemeanor described in subsection (a)(3) of this section:
+16 (1) the nature of the crime;
+17 (2) the relationship of the crime to the activities authorized by this title;
+18 (3) with respect to a felony, the relevance of the conviction to the fitness
+19 and qualifications of the applicant, registrant, or permit holder, or agent, employee, officer,
+20 director, or partner to operate a cemetery or provide burial goods;
+21 (4) the length of time since the conviction; and
+22 (5) the behavior and activities of the applicant, registrant, or permit
+23 holder, or any agent, employee, officer, director, or partner before and after the conviction.
+24 Article – Health – General
+25 5–508.
+26 (a) In this subtitle the following words have the meanings indicated.
+27 (c) “Authorizing agent” means the individual who has legal authority to arrange
+28 for and make decisions regarding the final disposition of a dead human body, including by
+29 cremation, alkaline hydrolysis, or natural organic reduction.
+8 HOUSE BILL 1555
+1 Article – Health Occupations
+2 7–101.
+3 (a) In this title the following words have the meanings indicated.
+4 (c–1) “Authorizing agent” has the meaning stated in § 5–508 of the Health – General
+5 Article.
+6 (d) “Board” means the State Board of Morticians and Funeral Directors.
+7 7–205.
+8 (c) In conjunction with the Office of Cemetery Oversight, the Board shall:
+9 (1) Establish a process for regulating crematories and reduction facilities
+10 that provides for:
+11 (i) Registration of crematory operators and reduction operators or
+12 issuance of permits for operating crematories and reduction facilities, and renewal;
+13 (ii) Applications, including certification of ownership and
+14 identification of individuals who will perform cremation, alkaline hydrolysis, or natural
+15 organic reduction;
+16 (iii) Registration or permit fees;
+17 (iv) Inspections and oversight;
+18 (v) Grounds for discipline and penalties; and
+19 (vi) Complaints and hearings; [and]
+20 (2) ADOPT REGULATIONS THAT REQUIRE FUNERAL
+21 ESTABLISHMENTS, CREMATORIES, AND REDUCTION FACILITIES TO MAINTAIN
+22 ADEQUATE REFRIGERATED HOLDING FACILITIES TO ENSURE PROPER STORAGE OF
+23 HUMAN REMAINS; AND
+24 [(2)] (3) Adopt regulations that are identical to regulations adopted by
+25 the Director of the Office of Cemetery Oversight to:
+26 (i) Implement [item] ITEMS (1) AND (2) of this subsection;
+27 (ii) Ensure public health and safety; and
+HOUSE BILL 1555 9
+1 (iii) Meet the requirements of § 5–204(a)(3) of the Business
+2 Regulation Article.
+3 7–209.
+4 THE BOARD SHALL:
+5 (1) ESTABLISH AND MAINTAIN A PUBLICLY ACCESSIBLE, ONLINE
+6 DATABASE THAT INCLUDES INFORMATION REGARDING EACH VIOLATION BY,
+7 INSPECTION OF, AND COMPLAINT AGAINST EACH FUNERAL ESTABLISHMENT;
+8 (2) NOTIFY THE AUTHORIZING AGENT WITHIN 24 HOURS AFTER THE
+9 BOARD BECOMES AWARE OF A DELAY, AN EQUIPMENT FAILURE, OR A REGULATORY
+10 VIOLATION THAT INVOLVES A DECEDENT’S REMAINS; AND
+11 (3) PUBLISH ON ITS WEBSITE EACH REPORT SUBMITTED UNDER §
+12 7–210 OF THIS SUBTITLE.
+13 7–210.
+14 ON OR BEFORE DECEMBER 31 EACH YEAR, THE BOARD SHALL SUBMIT A
+15 REPORT TO THE SENATE FINANCE COMMITTEE AND THE HOUSE HEALTH AND
+16 GOVERNMENT OPERATIONS COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE
+17 STATE GOVERNMENT ARTICLE, THAT INCLUDES:
+18 (1) THE RESULTS OF INSPECTIONS CONDUCTED UNDER § 7–409 OF
+19 THIS TITLE, INCLUDING ANY VIOLATIONS AND CORRECTIVE ACTIONS TAKEN;
+20 (2) THE NUMBER OF COMPLAINTS RECEIVED AND THE RESOLUTIONS
+21 OF EACH COMPLAINT; AND
+22 (3) RECOMMENDATIONS FOR IMPROVING THE REGULATION OF
+23 FUNERAL ESTABLISHMENTS.
+24 7–317.1.
+25 IF THE BOARD FINDS THAT A PERSON HAS VIOLATED THIS TITLE WITH GROSS
+26 NEGLIGENCE, IMPROPERLY HANDLED HUMAN REMAINS, OR REPEATEDLY VIOLATED
+27 THIS TITLE, THE PERSON IS SUBJECT TO:
+28 (1) A CIVIL PENALTY NOT EXCEEDING $50,000;
+29 (2) PERMANENT REVOCATION OF LICENSURE; AND
+10 HOUSE BILL 1555
+1 (3) REFERRAL FOR CRIMINAL PROSECUTION.
+2 7–409.
+3 (a) (1) Except as provided in subsection (b) of this section, all inspections of
+4 funeral establishments shall be unannounced and may take place at any time without
+5 notice from the Board.
+6 (2) (I) EACH YEAR, THE BOARD SHALL CONDUCT AT LEAST TWO
+7 UNANNOUNCED INSPECTIONS OF EACH LICENSED FUNERAL ESTABLISHMENT TO
+8 ENSURE COMPLIANCE WITH THIS TITLE.
+9 (II) IF A LICENSED FUNERAL ESTABLISHMENT IS CITED FOR A
+10 SANITATION VIOLATION OR FOR THE MISHANDLING OF HUMAN REMAINS, THE
+11 BOARD SHALL CONDUCT AN UNANNOUNCED INSPECTION OF THE LICENSED
+12 FUNERAL ESTABLISHMENT WITHIN 30 DAYS AFTER THE CITATION WAS ISSUED.
+13 (3) THE BOARD SHALL EMPLOY AT LEAST ONE INSPECTOR TO:
+14 (I) ENSURE COMPLIANCE WITH REGULATORY REQUIREMENTS;
+15 (II) CONDUCT ROUTINE AND COMPLAINT–BASED INSPECTIONS;
+16 AND
+17 (III) RESPOND TO PUBLIC CONCERNS REGARDING VIOLATIONS
+18 OF THIS TITLE.
+19 (b) An unannounced inspection may include advance notice that an inspector may
+20 be in the region of the funeral establishment for the purpose of conducting an inspection if:
+21 (1) The advance notice is no more than 14 days prior to the inspection;
+22 (2) No specific date or time is provided for the inspection; and
+23 (3) The advance notice is provided solely to ensure that a licensed
+24 mortician or funeral director will be on–site for the inspection.
+25 (c) (1) This subsection applies to inspections conducted:
+26 (i) In response to valid information provided to the Board resulting
+27 in a complaint being opened by the Board concerning the preparation or body storage areas
+28 of a licensed funeral establishment only if the Board has provided a copy of the complaint
+29 to the licensed funeral establishment; or
+HOUSE BILL 1555 11
+1 (ii) Of a funeral establishment that the Board has placed on
+2 probationary status in accordance with § 7–316(b) of this title.
+3 (2) A trained staff member of the Board who is qualified to do inspections
+4 may call the supervising mortician of a licensed funeral establishment, as designated under
+5 § 7–310(e) of this title, and request immediate access to the preparation and body storage
+6 areas of the funeral establishment.
+7 (3) If a request is made under paragraph (2) of this subsection, the
+8 supervising mortician immediately shall provide the staff member of the Board with the
+9 location of the key or access code to the preparation or body storage areas of the funeral
+10 establishment.
+11 (4) An employee of a licensed funeral establishment is not required to
+12 accompany a staff member of the Board while the staff member conducts an inspection of
+13 a preparation or body storage area in accordance with this subsection.
+14 (d) An unannounced inspection of a licensed funeral establishment shall be
+15 conducted during the hours that the business of mortuary science is being conducted at the
+16 licensed funeral establishment.
+17 (e) Within 24 hours after the completion of an unannounced inspection of a
+18 licensed funeral establishment, the Board shall provide the results of the inspection to:
+19 (1) The holder of the funeral establishment license; or
+20 (2) The supervising mortician for the licensed funeral establishment, as
+21 designated under § 7–310(e) of this title.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+23 October 1, 2025.
+[DELETED: :CA      5     D B A B C C G H S K K L M M R R T W W a A F ( O F B e c a r f t m a r t D a t B t e a m c o d c p c c r B  A S  A  ( B  A S  A  (]
+[DELETED:  H  B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 5  ( I  ( “ A  ( “ 5]
+[DELETED: H 3  ( ( I c w t S B o M a F D    ( e a p f r c a r f     1 r o f r     2 a i c o o a i o     3 r     4 i     5 g     6 c a]  ()IA R T R FS CS A R F T MS     () a](I b     1 i im   ](SA I a     2 e  ( Un []S()U T P  O T SN O r o a w c o t d o t D t D o t D o r p ( () E,A YR T I S C A L R R O T E C W T]
+[DELETED:  H   () IF O I C F A S V O T O H RS T I S C A I O T R C O R  0. ( TD: I  () ;E  () –ICTBS  ()IRTO: F (  A M A P AE OY F ; ( 2  ,Y E TSS ; ( O I W E R S B TGA. E SOD31, O B E  E YR T F S S A T T E I O A T O E AFCHOC,§2 P OE    GA,: O RE  ( §5(  B E ;]
+[DELETED: H 5 (  H E 5())T  ( F I T R O 5  ( S d o p p o t t o s o r a r o p i a a o   ( f o   ( f   ( u    ( f    ( m t i d r t t f a q c   ( f t p o m a i r t b p   ( v   ( v   ( v   ( f t e f   ( r   ( f]
+[DELETED:  H    ( f a   ( i t   ( f  ( ( I s r o   ( T    ( t    ( t  ( I a p i c w a v o t t t c r i s   ( a t r   ( t  ( I a   ( n D   ( n f ) IF I P G NE I H H RS OE : ( $ ( ;E ]
+[DELETED: H 7 ( §5()  A O C  () T d t a o t p i u t]( sn,   ( t   ( t   ( t   ( a  () A]( G  () T]( r s o r o a r o p o t r o a r e o d o p o a a r o p h i c   ( t   ( t   ( w a d   ( t   ( t b a a o t a r o p h A 5  ( I  ( “ f c]
+[DELETED:  H  A 7  ( I  ( “ A  ( “ 7  ( I   ( E t    ( R i    ( A i c o o a i o    ( R    ( I    ( G    ( C a] (  R T R FS CS A R F T MS    () A]( t    ( I im ) ](S     ( E]
+[DELETED: H 9    ( M t r o § 5 o t B RTB: O ( E A M A P AE O T I I R E V BYF ; ( N2  ,Y E TSS ; ( P§ O I W E R S U 0.OD31, O B E  E YR T O S S A T T E I O A T O E AFCHOC,§2 P OE    GA,: O RE  ( T§7   E ; ( T  (  F I T R O   OE S E : ( A$ ( P;E ]
+[DELETED:  H  ( R  7  ( E f n   () E,AR  O I O E L F E T  () IF V O F T M O H RS T S C A U I O T L  0. ( TB: O  () E;N  () C–IOTBS  () IE  ( A b   ( T   ( N   ( T a n i p s t e t a l m  ( ( T    ( I i o t]
+[DELETED: H 1    ( O a f e t t B h p o p   ( A m § a   ( I a r i m u p ( o t s t s l e   ( A e o a l f e i n r t a a  ( A u i o a l f e s b c l  ( W 2 h a t c o a u i o a l   ( T   ( T d  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1555
+C2, J2 5lr3632
+By: Delegates Bhandari, Allen, Bagnall, Chisholm, Cullison, Guzzone, Hill,
+Hutchinson, S. Johnson, Kaiser, Kipke, Lopez, Martinez, M. Morgan,
+Pena–Melnyk, Rosenberg, Ross, Taveras, White Holland, Woods, and
+Woorman
+Rules suspended
+Introduced and read first time: February 26, 2025
+Assigned to: Rules and Executive Nominations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Funeral Establishments, Crematories, and Reduction Facilities – Oversight
+3 (Ensuring Dignity and Accountability in Crematory and Funeral Home
+4 Operations Act)
+5 FOR the purpose of requiring the Director of the Office of Cemetery Oversight and the State
+6 Board of Morticians and Funeral Directors to adopt regulations that require funeral
+7 establishments, crematories, and reduction facilities to maintain adequate
+8 refrigerated holding facilities to ensure proper storage of human remains; requiring
+9 the Director and the Board to establish and maintain certain online databases,
+10 conduct certain inspections, and make certain notifications to authorizing agents;
+11 providing that a person who violates certain provisions of law is subject to certain
+12 civil and administrative penalties and referral for criminal prosecution under certain
+13 circumstances; and generally relating to funeral establishments, crematories, and
+14 reduction facilities.
+15 BY repealing and reenacting, without amendments,
+16 Article – Business Regulation
+17 Section 5–101(a), (c), and (i)
+18 Annotated Code of Maryland
+19 (2024 Replacement Volume)
+20 BY repealing and reenacting, with amendments,
+21 Article – Business Regulation
+22 Section 5–204(a)(2) and (b) and 5–310
+23 Annotated Code of Maryland
+24 (2024 Replacement Volume)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1555*
+
+2 HOUSE BILL 1555
+1 BY adding to
+2 Article – Business Regulation
+3 Section 5–207 and 5–208
+4 Annotated Code of Maryland
+5 (2024 Replacement Volume)
+6 BY repealing and reenacting, without amendments,
+7 Article – Health – General
+8 Section 5–508(a) and (c)
+9 Annotated Code of Maryland
+10 (2023 Replacement Volume and 2024 Supplement)
+11 BY repealing and reenacting, without amendments,
+12 Article – Health Occupations
+13 Section 7–101(a), (c–1), and (d)
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Health Occupations
+18 Section 7–205(c) and 7–409
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Health Occupations
+23 Section 7–209, 7–210, and 7–317.1
+24 Annotated Code of Maryland
+25 (2021 Replacement Volume and 2024 Supplement)
+26 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+27 That the Laws of Maryland read as follows:
+28 Article – Business Regulation
+29 5–101.
+30 (a) In this title the following words have the meanings indicated.
+31 (c) “Authorizing agent” has the meaning stated in § 5–508 of the Health – General
+32 Article.
+33 (i) “Director” means the Director of the Office of Cemetery Oversight.
+34 5–204.
+
+HOUSE BILL 1555 3
+1 (a) (2) In conjunction with the State Board of Morticians and Funeral
+2 Directors, the Director shall:
+3 (i) establish a process for regulating crematories and reduction
+4 facilities that provides for:
+5 1. registration of crematory operators and reduction facility
+6 operators or issuance of permits for operating crematories and reduction facilities, and
+7 renewal;
+8 2. applications, including certification of ownership and
+9 identification of individuals who will perform alkaline hydrolysis, cremation, or natural
+10 organic reduction;
+11 3. registration and permit fees;
+12 4. inspections and oversight;
+13 5. grounds for discipline and penalties; and
+14 6. complaints and hearings; [and]
+15 (II) ADOPT REGULATIONS THAT REQUIRE FUNERAL
+16 ESTABLISHMENTS, CREMATORIES, AND REDUCTION FACILITIES TO MAINTAIN
+17 ADEQUATE REFRIGERATED HOLDING FACILITIES TO ENSURE PROPER STORAGE OF
+18 HUMAN REMAINS; AND
+19 [(ii)] (III) adopt regulations that are identical to regulations adopted
+20 by the State Board of Morticians and Funeral Directors to:
+21 1. implement [item] ITEMS (i) AND (II) of this paragraph;
+22 and
+23 2. ensure public health and safety.
+24 (b) (1) [Upon] SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, ON
+25 receipt of a written complaint, or at the discretion of the Director, the Director or the
+26 Director’s designee may conduct an investigation and an inspection of the records and site
+27 of a registered cemeterian, registered crematory operator, registered reduction operator,
+28 registered seller, permit holder, or any other person subject to the registration or permit
+29 provisions of this title.
+30 (2) (I) EACH YEAR, THE DIRECTOR SHALL CONDUCT AT LEAST
+31 TWO UNANNOUNCED INSPECTIONS OF EACH REGISTERED CREMATORY OPERATOR
+32 AND REGISTERED REDUCTION OPERATOR TO ENSURE COMPLIANCE WITH THIS
+33 TITLE.
+
+4 HOUSE BILL 1555
+1 (II) IF A REGISTERED CREMATORY OPERATOR OR REGISTERED
+2 REDUCTION OPERATOR IS CITED FOR A SANITATION VIOLATION OR THE
+3 MISHANDLING OF HUMAN REMAINS, THE DIRECTOR SHALL CONDUCT AN
+4 UNANNOUNCED INSPECTION OF THE REGISTERED CREMATORY OR REGISTERED
+5 REDUCTION OPERATOR WITHIN 30 DAYS AFTER THE CITATION WAS ISSUED.
+6 (3) THE DIRECTOR SHALL EMPLOY AT LEAST ONE INSPECTOR TO:
+7 (I) ENSURE COMPLIANCE WITH REGULATORY REQUIREMENTS;
+8 (II) CONDUCT ROUTINE AND COMPLAINT–BASED INSPECTIONS;
+9 AND
+10 (III) RESPOND TO PUBLIC CONCERNS REGARDING VIOLATIONS
+11 OF THIS TITLE.
+12 5–207.
+13 THE OFFICE SHALL:
+14 (1) ESTABLISH AND MAINTAIN A PUBLICLY ACCESSIBLE, ONLINE
+15 DATABASE THAT INCLUDES INFORMATION ABOUT EACH VIOLATION BY, INSPECTION
+16 OF, AND COMPLAINT AGAINST A CREMATORY OR REDUCTION FACILITY;
+17 (2) NOTIFY THE AUTHORIZING AGENT WITHIN 24 HOURS AFTER THE
+18 OFFICE BECOMES AWARE OF A DELAY, AN EQUIPMENT FAILURE, OR A REGULATORY
+19 VIOLATION THAT INVOLVES A DECEDENT’S REMAINS; AND
+20 (3) PUBLISH ON ITS WEBSITE EACH REPORT SUBMITTED BY THE
+21 OFFICE TO THE GENERAL ASSEMBLY UNDER THIS TITLE.
+22 5–208.
+23 ON OR BEFORE DECEMBER 31 EACH YEAR, THE OFFICE SHALL SUBMIT A
+24 REPORT TO THE SENATE FINANCE COMMITTEE AND THE HOUSE HEALTH AND
+25 GOVERNMENT OPERATIONS COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE
+26 STATE GOVERNMENT ARTICLE, THAT INCLUDES:
+27 (1) THE RESULTS OF INSPECTIONS CONDUCTED UNDER § 5–204(B) OF
+28 THIS SUBTITLE, INCLUDING ANY VIOLATIONS AND CORRECTIVE ACTIONS TAKEN;
+
+HOUSE BILL 1555 5
+1 (2) IN ADDITION TO THE INFORMATION REQUIRED TO BE REPORTED
+2 UNDER § 5–311(H)(2) OF THIS TITLE, THE NUMBER OF COMPLAINTS RECEIVED AND
+3 THE RESOLUTIONS OF EACH COMPLAINT; AND
+4 (3) RECOMMENDATIONS FOR IMPROVING THE REGULATION OF
+5 CREMATORIES AND REDUCTION FACILITIES.
+6 5–310.
+7 (a) Subject to the hearing provisions of § 5–312 of this subtitle, the Director may
+8 deny a registration or permit to an applicant, reprimand a person subject to the registration
+9 or permit provisions of this title, or suspend or revoke a registration or permit if an
+10 applicant, registrant, or permit holder, or an agent, employee, officer, director, or partner
+11 of the applicant, registrant, or permit holder:
+12 (1) fraudulently or deceptively obtains or attempts to obtain a registration
+13 or permit;
+14 (2) fraudulently or deceptively uses a registration or permit;
+15 (3) under the laws of the United States or of any state, is convicted of a:
+16 (i) felony; or
+17 (ii) misdemeanor that is directly related to the fitness and
+18 qualifications of the applicant, registrant, or permit holder to own or operate a cemetery,
+19 crematory, or reduction facility or provide burial goods;
+20 (4) fails to provide or misrepresents any information required to be
+21 provided under this title;
+22 (5) violates this title;
+23 (6) violates the code of ethics adopted by the Director;
+24 (7) violates a regulation adopted under this title;
+25 (8) fails to provide reasonable and adequate supervision of the operation of
+26 the cemetery, crematory, or reduction facility or the provision of burial goods by agents,
+27 employees, officers, directors, or partners affiliated with a cemetery, crematory, reduction
+28 facility, or burial goods business;
+29 (9) refuses to allow an inspection required by this title;
+30 (10) fails to comply with an order of the Director;
+
+6 HOUSE BILL 1555
+1 (11) fails to comply with any terms of settlement under a binding arbitration
+2 agreement;
+3 (12) is found guilty by a court in this State of violating an unfair or deceptive
+4 trade practices provision under Title 13 of the Commercial Law Article; or
+5 (13) fails to comply with § 5–513 of the Health – General Article.
+6 (b) (1) If a person is charged with a violation of this title that could result in
+7 suspension or revocation of a registration or permit, the Director may seek an immediate
+8 restraining order in a circuit court in this State to prohibit the person from engaging in the
+9 operation of any cemetery, crematory, reduction facility, or burial goods business.
+10 (2) The restraining order is in effect until:
+11 (i) the court lifts the order; or
+12 (ii) the charges are adjudicated or dismissed.
+13 (c) If a person is charged with a violation of this title that could result in
+14 suspension or revocation of a registration or permit, the Director may petition a court to:
+15 (1) appoint a receiver or trustee to take charge of the assets and operate
+16 the business of the person in the event that the registration or permit is suspended or
+17 revoked; and
+18 (2) take any actions as are appropriate to protect the public interest.
+19 (d) Instead of or in addition to reprimanding a person, or suspending or revoking
+20 a registration or permit, the Director may impose a civil penalty:
+21 (1) not to exceed $5,000 for each violation of this title or an order of the
+22 Director under this title; and
+23 (2) not to exceed $500 for each day a violation continues past the time set
+24 for its correction.
+25 (E) IF THE DIRECTOR FINDS THAT A PERSON HAS VIOLATED THIS TITLE
+26 WITH GROSS NEGLIGENCE, IMPROPERLY HANDLED HUMAN REMAINS, OR
+27 REPEATEDLY VIOLATED THIS TITLE, THE PERSON IS SUBJECT TO:
+28 (1) A CIVIL PENALTY NOT EXCEEDING $50,000;
+29 (2) PERMANENT REVOCATION OF LICENSURE; AND
+
+HOUSE BILL 1555 7
+1 (3) REFERRAL UNDER § 5–905(A)(2) OF THIS TITLE FOR CRIMINAL
+2 PROSECUTION.
+3 [(e)] (F) To determine the amount of the penalty imposed under this
+4 [subsection] SECTION, the Director shall consider:
+5 (1) the seriousness of the violation;
+6 (2) the harm caused by the violation;
+7 (3) the good faith efforts of the person; and
+8 (4) any history of previous violations by the person.
+9 [(f)] (G) Any civil penalties collected under this section shall be paid into the
+10 General Fund of the State.
+11 [(g)] (H) The Director shall consider the following facts in the granting, denial,
+12 renewal, suspension, or revocation of a registration or permit or the reprimand of a
+13 registrant or permit holder when an applicant, registrant, or permit holder, or an agent,
+14 employee, officer, director, or partner of an applicant, registrant, or permit holder is
+15 convicted of a felony or misdemeanor described in subsection (a)(3) of this section:
+16 (1) the nature of the crime;
+17 (2) the relationship of the crime to the activities authorized by this title;
+18 (3) with respect to a felony, the relevance of the conviction to the fitness
+19 and qualifications of the applicant, registrant, or permit holder, or agent, employee, officer,
+20 director, or partner to operate a cemetery or provide burial goods;
+21 (4) the length of time since the conviction; and
+22 (5) the behavior and activities of the applicant, registrant, or permit
+23 holder, or any agent, employee, officer, director, or partner before and after the conviction.
+24 Article – Health – General
+25 5–508.
+26 (a) In this subtitle the following words have the meanings indicated.
+27 (c) “Authorizing agent” means the individual who has legal authority to arrange
+28 for and make decisions regarding the final disposition of a dead human body, including by
+29 cremation, alkaline hydrolysis, or natural organic reduction.
+
+8 HOUSE BILL 1555
+1 Article – Health Occupations
+2 7–101.
+3 (a) In this title the following words have the meanings indicated.
+4 (c–1) “Authorizing agent” has the meaning stated in § 5–508 of the Health – General
+5 Article.
+6 (d) “Board” means the State Board of Morticians and Funeral Directors.
+7 7–205.
+8 (c) In conjunction with the Office of Cemetery Oversight, the Board shall:
+9 (1) Establish a process for regulating crematories and reduction facilities
+10 that provides for:
+11 (i) Registration of crematory operators and reduction operators or
+12 issuance of permits for operating crematories and reduction facilities, and renewal;
+13 (ii) Applications, including certification of ownership and
+14 identification of individuals who will perform cremation, alkaline hydrolysis, or natural
+15 organic reduction;
+16 (iii) Registration or permit fees;
+17 (iv) Inspections and oversight;
+18 (v) Grounds for discipline and penalties; and
+19 (vi) Complaints and hearings; [and]
+20 (2) ADOPT REGULATIONS THAT REQUIRE FUNERAL
+21 ESTABLISHMENTS, CREMATORIES, AND REDUCTION FACILITIES TO MAINTAIN
+22 ADEQUATE REFRIGERATED HOLDING FACILITIES TO ENSURE PROPER STORAGE OF
+23 HUMAN REMAINS; AND
+24 [(2)] (3) Adopt regulations that are identical to regulations adopted by
+25 the Director of the Office of Cemetery Oversight to:
+26 (i) Implement [item] ITEMS (1) AND (2) of this subsection;
+27 (ii) Ensure public health and safety; and
+
+HOUSE BILL 1555 9
+1 (iii) Meet the requirements of § 5–204(a)(3) of the Business
+2 Regulation Article.
+3 7–209.
+4 THE BOARD SHALL:
+5 (1) ESTABLISH AND MAINTAIN A PUBLICLY ACCESSIBLE, ONLINE
+6 DATABASE THAT INCLUDES INFORMATION REGARDING EACH VIOLATION BY,
+7 INSPECTION OF, AND COMPLAINT AGAINST EACH FUNERAL ESTABLISHMENT;
+8 (2) NOTIFY THE AUTHORIZING AGENT WITHIN 24 HOURS AFTER THE
+9 BOARD BECOMES AWARE OF A DELAY, AN EQUIPMENT FAILURE, OR A REGULATORY
+10 VIOLATION THAT INVOLVES A DECEDENT’S REMAINS; AND
+11 (3) PUBLISH ON ITS WEBSITE EACH REPORT SUBMITTED UNDER §
+12 7–210 OF THIS SUBTITLE.
+13 7–210.
+14 ON OR BEFORE DECEMBER 31 EACH YEAR, THE BOARD SHALL SUBMIT A
+15 REPORT TO THE SENATE FINANCE COMMITTEE AND THE HOUSE HEALTH AND
+16 GOVERNMENT OPERATIONS COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE
+17 STATE GOVERNMENT ARTICLE, THAT INCLUDES:
+18 (1) THE RESULTS OF INSPECTIONS CONDUCTED UNDER § 7–409 OF
+19 THIS TITLE, INCLUDING ANY VIOLATIONS AND CORRECTIVE ACTIONS TAKEN;
+20 (2) THE NUMBER OF COMPLAINTS RECEIVED AND THE RESOLUTIONS
+21 OF EACH COMPLAINT; AND
+22 (3) RECOMMENDATIONS FOR IMPROVING THE REGULATION OF
+23 FUNERAL ESTABLISHMENTS.
+24 7–317.1.
+25 IF THE BOARD FINDS THAT A PERSON HAS VIOLATED THIS TITLE WITH GROSS
+26 NEGLIGENCE, IMPROPERLY HANDLED HUMAN REMAINS, OR REPEATEDLY VIOLATED
+27 THIS TITLE, THE PERSON IS SUBJECT TO:
+28 (1) A CIVIL PENALTY NOT EXCEEDING $50,000;
+29 (2) PERMANENT REVOCATION OF LICENSURE; AND
+
+10 HOUSE BILL 1555
+1 (3) REFERRAL FOR CRIMINAL PROSECUTION.
+2 7–409.
+3 (a) (1) Except as provided in subsection (b) of this section, all inspections of
+4 funeral establishments shall be unannounced and may take place at any time without
+5 notice from the Board.
+6 (2) (I) EACH YEAR, THE BOARD SHALL CONDUCT AT LEAST TWO
+7 UNANNOUNCED INSPECTIONS OF EACH LICENSED FUNERAL ESTABLISHMENT TO
+8 ENSURE COMPLIANCE WITH THIS TITLE.
+9 (II) IF A LICENSED FUNERAL ESTABLISHMENT IS CITED FOR A
+10 SANITATION VIOLATION OR FOR THE MISHANDLING OF HUMAN REMAINS, THE
+11 BOARD SHALL CONDUCT AN UNANNOUNCED INSPECTION OF THE LICENSED
+12 FUNERAL ESTABLISHMENT WITHIN 30 DAYS AFTER THE CITATION WAS ISSUED.
+13 (3) THE BOARD SHALL EMPLOY AT LEAST ONE INSPECTOR TO:
+14 (I) ENSURE COMPLIANCE WITH REGULATORY REQUIREMENTS;
+15 (II) CONDUCT ROUTINE AND COMPLAINT–BASED INSPECTIONS;
+16 AND
+17 (III) RESPOND TO PUBLIC CONCERNS REGARDING VIOLATIONS
+18 OF THIS TITLE.
+19 (b) An unannounced inspection may include advance notice that an inspector may
+20 be in the region of the funeral establishment for the purpose of conducting an inspection if:
+21 (1) The advance notice is no more than 14 days prior to the inspection;
+22 (2) No specific date or time is provided for the inspection; and
+23 (3) The advance notice is provided solely to ensure that a licensed
+24 mortician or funeral director will be on–site for the inspection.
+25 (c) (1) This subsection applies to inspections conducted:
+26 (i) In response to valid information provided to the Board resulting
+27 in a complaint being opened by the Board concerning the preparation or body storage areas
+28 of a licensed funeral establishment only if the Board has provided a copy of the complaint
+29 to the licensed funeral establishment; or
+
+HOUSE BILL 1555 11
+1 (ii) Of a funeral establishment that the Board has placed on
+2 probationary status in accordance with § 7–316(b) of this title.
+3 (2) A trained staff member of the Board who is qualified to do inspections
+4 may call the supervising mortician of a licensed funeral establishment, as designated under
+5 § 7–310(e) of this title, and request immediate access to the preparation and body storage
+6 areas of the funeral establishment.
+7 (3) If a request is made under paragraph (2) of this subsection, the
+8 supervising mortician immediately shall provide the staff member of the Board with the
+9 location of the key or access code to the preparation or body storage areas of the funeral
+10 establishment.
+11 (4) An employee of a licensed funeral establishment is not required to
+12 accompany a staff member of the Board while the staff member conducts an inspection of
+13 a preparation or body storage area in accordance with this subsection.
+14 (d) An unannounced inspection of a licensed funeral establishment shall be
+15 conducted during the hours that the business of mortuary science is being conducted at the
+16 licensed funeral establishment.
+17 (e) Within 24 hours after the completion of an unannounced inspection of a
+18 licensed funeral establishment, the Board shall provide the results of the inspection to:
+19 (1) The holder of the funeral establishment license; or
+20 (2) The supervising mortician for the licensed funeral establishment, as
+21 designated under § 7–310(e) of this title.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+23 October 1, 2025.
+
+[DELETED: :CA      5     D B A B C C G H S K K L M M R R T W W a A F ( O F B e c a r f t m a r t D a t B t e a m c o d c p c c r B  A S  A  ( B  A S  A  (]
+[DELETED:  H  B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 5  ( I  ( “ A  ( “ 5]
+[DELETED: H 3  ( ( I c w t S B o M a F D    ( e a p f r c a r f     1 r o f r     2 a i c o o a i o     3 r     4 i     5 g     6 c a]  ()IA R T R FS CS A R F T MS     () a](I b     1 i im   ](SA I a     2 e  ( Un []S()U T P  O T SN O r o a w c o t d o t D t D o t D o r p ( () E,A YR T I S C A L R R O T E C W T]
+[DELETED:  H   () IF O I C F A S V O T O H RS T I S C A I O T R C O R  0. ( TD: I  () ;E  () –ICTBS  ()IRTO: F (  A M A P AE OY F ; ( 2  ,Y E TSS ; ( O I W E R S B TGA. E SOD31, O B E  E YR T F S S A T T E I O A T O E AFCHOC,§2 P OE    GA,: O RE  ( §5(  B E ;]
+[DELETED: H 5 (  H E 5())T  ( F I T R O 5  ( S d o p p o t t o s o r a r o p i a a o   ( f o   ( f   ( u    ( f    ( m t i d r t t f a q c   ( f t p o m a i r t b p   ( v   ( v   ( v   ( f t e f   ( r   ( f]
+[DELETED:  H    ( f a   ( i t   ( f  ( ( I s r o   ( T    ( t    ( t  ( I a p i c w a v o t t t c r i s   ( a t r   ( t  ( I a   ( n D   ( n f ) IF I P G NE I H H RS OE : ( $ ( ;E ]
+[DELETED: H 7 ( §5()  A O C  () T d t a o t p i u t]( sn,   ( t   ( t   ( t   ( a  () A]( G  () T]( r s o r o a r o p o t r o a r e o d o p o a a r o p h i c   ( t   ( t   ( w a d   ( t   ( t b a a o t a r o p h A 5  ( I  ( “ f c]
+[DELETED:  H  A 7  ( I  ( “ A  ( “ 7  ( I   ( E t    ( R i    ( A i c o o a i o    ( R    ( I    ( G    ( C a] (  R T R FS CS A R F T MS    () A]( t    ( I im ) ](S     ( E]
+[DELETED: H 9    ( M t r o § 5 o t B RTB: O ( E A M A P AE O T I I R E V BYF ; ( N2  ,Y E TSS ; ( P§ O I W E R S U 0.OD31, O B E  E YR T O S S A T T E I O A T O E AFCHOC,§2 P OE    GA,: O RE  ( T§7   E ; ( T  (  F I T R O   OE S E : ( A$ ( P;E ]
+[DELETED:  H  ( R  7  ( E f n   () E,AR  O I O E L F E T  () IF V O F T M O H RS T S C A U I O T L  0. ( TB: O  () E;N  () C–IOTBS  () IE  ( A b   ( T   ( N   ( T a n i p s t e t a l m  ( ( T    ( I i o t]
+[DELETED: H 1    ( O a f e t t B h p o p   ( A m § a   ( I a r i m u p ( o t s t s l e   ( A e o a l f e i n r t a a  ( A u i o a l f e s b c l  ( W 2 h a t c o a u i o a l   ( T   ( T d  S A B I F E T t A s t e O]

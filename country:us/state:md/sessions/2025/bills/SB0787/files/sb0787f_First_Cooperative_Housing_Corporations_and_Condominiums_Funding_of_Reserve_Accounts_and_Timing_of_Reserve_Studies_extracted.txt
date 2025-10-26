@@ -1,0 +1,552 @@
+Title: SENATE BILL 787
+Official Title: SENATE BILL 787
+Number of Sections: 1
+Source: versions - First - Cooperative Housing Corporations and Condominiums - Funding of Reserve Accounts and Timing of Reserve Studies
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+N1, C1 5lr3051
+By: Senator Jennings
+Introduced and read first time: January 28, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Cooperative Housing Corporations and Condominiums – Funding of Reserve
+3 Accounts and Timing of Reserve Studies
+4 FOR the purpose of establishing that a reserve study conducted for a cooperative housing
+5 corporation or condominium must identify only certain components with a value
+6 exceeding a certain amount; establishing a certain exception to the requirement to
+7 conduct a reserve study for certain cooperative housing corporations and
+8 condominiums; extending the amount of time that a cooperative housing corporation
+9 or a residential condominium has to complete a certain reserve study; extending the
+10 amount of time after an initial reserve study that a cooperative housing corporation
+11 or a residential condominium has to obtain a certain recommended reserve funding
+12 level; providing that a reserve study may be prepared by certain persons; and
+13 generally relating to cooperative housing corporations and condominiums.
+14 BY repealing and reenacting, with amendments,
+15 Article – Corporations and Associations
+16 Section 5–6B–26.1
+17 Annotated Code of Maryland
+18 (2014 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, without amendments,
+20 Article – Real Property
+21 Section 11–109.2(a) and (b)
+22 Annotated Code of Maryland
+23 (2023 Replacement Volume and 2024 Supplement)
+24 BY repealing and reenacting, with amendments,
+25 Article – Real Property
+26 Section 11–109.2(c) and 11–109.4
+27 Annotated Code of Maryland
+28 (2023 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0787*
+2 SENATE BILL 787
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Corporations and Associations
+4 5–6B–26.1.
+5 (a) In this section, “reserve study” means a study of the reserves required for
+6 future major repairs and replacement of the common elements of a cooperative housing
+7 corporation that:
+8 (1) Identifies each structural, mechanical, electrical, and plumbing
+9 component of the common elements and any other components that are the responsibility
+10 of the cooperative housing corporation [to repair and replace] WITH A REPAIR OR
+11 REPLACEMENT COST THAT EXCEEDS $10,000;
+12 (2) States the normal useful life and the estimated remaining useful life of
+13 each identified component;
+14 (3) States the estimated cost of repair or replacement of each identified
+15 component; and
+16 (4) States the estimated annual reserve amount necessary to accomplish
+17 any identified future repair or replacement.
+18 (B) THIS SECTION APPLIES ONLY TO A COOPERATIVE HOUSING
+19 CORPORATION THAT:
+20 (1) CONSISTS OF ANY BUILDING CONTAINING FOUR OR MORE
+21 STORIES USED FOR HABITATION BY RESIDENTS; OR
+22 (2) CONTAINS FOUR OR MORE SINGLE–FAMILY UNITS.
+23 [(b)] (C) (1) This subsection applies only to a cooperative housing corporation
+24 established in:
+25 (i) Prince George’s County on or after October 1, 2020;
+26 (ii) Montgomery County on or after October 1, 2021; or
+27 (iii) Any county other than Prince George’s County or Montgomery
+28 County on or after October 1, 2022.
+29 (2) The governing body of the cooperative housing corporation shall have
+30 an independent reserve study completed not less than 30 calendar days before the first
+SENATE BILL 787 3
+1 meeting of the cooperative housing corporation at which the members other than the owner
+2 have a majority of votes in the cooperative housing corporation.
+3 (3) The governing body shall have an updated reserve study completed
+4 within 5 years after the date of the initial reserve study conducted under paragraph (2) of
+5 this subsection, which shall be updated at least every [5] 10 years thereafter.
+6 [(c)] (D) (1) (i) This paragraph applies only to a cooperative housing
+7 corporation established in Prince George’s County before October 1, 2020.
+8 (ii) If the governing body of a cooperative housing corporation has
+9 had a reserve study conducted on or after October 1, 2016, the governing body shall have
+10 an updated reserve study conducted within 5 years after the date of that reserve study and
+11 at least every [5] 10 years thereafter.
+12 (iii) If the governing body of a cooperative housing corporation has
+13 not had a reserve study conducted on or after October 1, 2016, the governing body shall
+14 have a reserve study conducted on or before October 1, 2021, and an updated reserve study
+15 at least every [5] 10 years thereafter.
+16 (2) (i) This paragraph applies only to a cooperative housing corporation
+17 established in Montgomery County before October 1, 2021.
+18 (ii) If the governing body of a cooperative housing corporation has
+19 had a reserve study conducted on or after October 1, 2017, the governing body shall have
+20 an updated reserve study conducted within 5 years after the date of that reserve study and
+21 at least every [5] 10 years thereafter.
+22 (iii) If the governing body of a cooperative housing corporation has
+23 not had a reserve study conducted on or after October 1, 2017, the governing body shall
+24 have a reserve study conducted on or before October 1, 2022, and an updated reserve study
+25 at least every [5] 10 years thereafter.
+26 (3) (i) This paragraph applies to a cooperative housing corporation
+27 established in any county other than Prince George’s County or Montgomery County before
+28 October 1, 2022.
+29 (ii) If the governing body of a cooperative housing corporation has
+30 had a reserve study conducted on or after October 1, 2018, the governing body shall have
+31 an updated reserve study conducted within 5 years after the date of that reserve study and
+32 at least every [5] 10 years thereafter.
+33 (iii) If the governing body of a cooperative housing corporation has
+34 not had a reserve study conducted on or after October 1, 2018, the governing body shall
+35 have a reserve study conducted on or before October 1, 2023, and an updated reserve study
+36 at least every [5] 10 years thereafter.
+4 SENATE BILL 787
+1 [(d)] (E) Each reserve study required under this section shall:
+2 (1) Be prepared by a person who:
+3 (i) Has prepared at least 30 reserve studies within the prior 3
+4 calendar years;
+5 (ii) Has participated in the preparation of at least 30 reserve studies
+6 within the prior 3 calendar years while employed by a firm that prepares reserve studies;
+7 (iii) Holds a current license from the State Board of Architects or the
+8 State Board for Professional Engineers; [or]
+9 (iv) Is currently designated as a reserve specialist by the Community
+10 Association Institute or as a professional reserve analyst by the Association of Professional
+11 Reserve Analysts; OR
+12 (V) HOLDS A CURRENT LICENSE FROM:
+13 1. THE STATE BOARD OF ELECTRICIANS;
+14 2. THE STATE BOARD OF PLUMBERS; OR
+15 3. THE MARYLAND HOME IMPROVEMENT COMMISSION;
+16 (2) Be available for inspection and copying by any unit owner;
+17 (3) Be reviewed by the governing body of the cooperative housing
+18 corporation in connection with the preparation of the annual proposed budget; and
+19 (4) Be summarized for submission with the annual proposed budget to the
+20 unit owners.
+21 [(e)] (F) To the extent that a reserve study conducted in accordance with this
+22 section indicates a need to budget for reserves, the budget shall include:
+23 (1) For the capital components, the current estimated:
+24 (i) Replacement cost IF THE ESTIMATED REPLACEMENT COST IS
+25 GREATER THAN $10,000 AS DETERMINED BY THE MOST RECENT RESERVE STUDY;
+26 (ii) Remaining life; and
+27 (iii) Useful life;
+SENATE BILL 787 5
+1 (2) The amount of accumulated cash reserves set aside for the repair,
+2 replacement, or restoration of capital components as of the beginning of the fiscal year in
+3 which the reserve study is conducted and the amount of the expected contribution to the
+4 reserve fund for the fiscal year;
+5 (3) A statement describing the procedures used for estimation and
+6 accumulation of cash reserves in accordance with this section; and
+7 (4) A statement of the amount of reserves recommended in the study and
+8 the amount of current cash for replacement reserves.
+9 [(f)] (G) (1) (i) Subject to subparagraph (ii) of this paragraph, the
+10 governing body of a cooperative housing corporation shall provide funds to the reserve in
+11 accordance with the most recent reserve study and shall review the reserve study annually
+12 for accuracy.
+13 (ii) If the most recent reserve study was an initial reserve study, the
+14 governing body shall, within [3] 10 fiscal years following the fiscal year in which the initial
+15 reserve study was completed, attain the annual reserve funding level recommended in the
+16 initial reserve study.
+17 (2) The governing body of a cooperative housing corporation has the
+18 authority to increase an assessment levied to cover the reserve funding amount required
+19 under this section, notwithstanding any provision of the articles of incorporation, bylaws,
+20 or proprietary lease restricting assessment increases or capping the assessment that may
+21 be levied in a fiscal year.
+22 Article – Real Property
+23 11–109.2.
+24 (a) The council of unit owners shall cause to be prepared and submitted to the
+25 unit owners an annual proposed budget at least 30 days before its adoption.
+26 (b) The annual budget shall provide for at least the following items:
+27 (1) Income;
+28 (2) Administration;
+29 (3) Maintenance;
+30 (4) Utilities;
+31 (5) General expenses;
+32 (6) Reserves; and
+6 SENATE BILL 787
+1 (7) Capital items.
+2 (c) (1) Subject to paragraph (2) of this subsection, the reserves provided for in
+3 the annual budget under subsection (b) of this section for a residential condominium shall
+4 be the funding amount recommended in the most recent reserve study completed under §
+5 11–109.4 of this title.
+6 (2) If the most recent reserve study was an initial reserve study, the
+7 governing body shall, within [3] 10 fiscal years following the fiscal year in which the initial
+8 reserve study was completed, attain the annual reserve funding level recommended in the
+9 initial reserve study.
+10 11–109.4.
+11 (a) In this section, “reserve study” means a study of the reserves required for
+12 future major repairs and replacement of the common elements of a condominium that:
+13 (1) Identifies each structural, mechanical, electrical, and plumbing
+14 component of the common elements and any other components that are the responsibility
+15 of the council of unit owners to repair and replace WITH A REPAIR OR REPLACEMENT
+16 COST THAT EXCEEDS $10,000;
+17 (2) States the normal useful life and the estimated remaining useful life of
+18 each identified component;
+19 (3) States the estimated cost of repair or replacement of each identified
+20 component; and
+21 (4) States the estimated annual reserve amount necessary to accomplish
+22 any identified future repair or replacement.
+23 (b) This section applies only to a residential condominium THAT:
+24 (1) CONSISTS OF ANY BUILDING CONTAINING FOUR OR MORE
+25 STORIES USED FOR HABITATION BY RESIDENTS; OR
+26 (2) CONTAINS FOUR OR MORE SINGLE–FAMILY UNITS.
+27 (c) (1) This subsection applies only to a condominium established in:
+28 (i) Prince George’s County on or after October 1, 2020;
+29 (ii) Montgomery County on or after October 1, 2021; or
+SENATE BILL 787 7
+1 (iii) Any county other than Prince George’s County or Montgomery
+2 County on or after October 1, 2022.
+3 (2) The governing body of the condominium shall have an independent
+4 reserve study completed not less than 30 calendar days before the meeting of the council of
+5 unit owners required under § 11–109(c)(16) of this title.
+6 (3) The governing body shall have an updated reserve study completed
+7 within 5 years after the date of the initial reserve study conducted under paragraph (2) of
+8 this subsection and at least every [5] 10 years thereafter.
+9 (d) (1) (i) This paragraph applies only to a condominium established in
+10 Prince George’s County before October 1, 2020.
+11 (ii) If the governing body of a condominium has had a reserve study
+12 conducted on or after October 1, 2016, the governing body shall have an updated reserve
+13 study conducted within 5 years after the date of that reserve study and at least every [5]
+14 10 years thereafter.
+15 (iii) If the governing body of a condominium has not had a reserve
+16 study conducted on or after October 1, 2016, the governing body shall have a reserve study
+17 conducted on or before October 1, 2021, and an updated reserve study at least every [5] 10
+18 years thereafter.
+19 (2) (i) This paragraph applies only to a condominium established in
+20 Montgomery County before October 1, 2021.
+21 (ii) If the governing body of a condominium has had a reserve study
+22 conducted on or after October 1, 2017, the governing body shall have an updated reserve
+23 study conducted within 5 years after the date of that reserve study and at least every [5]
+24 10 years thereafter.
+25 (iii) If the governing body of a condominium has not had a reserve
+26 study conducted on or after October 1, 2017, the governing body shall have a reserve study
+27 conducted on or before October 1, 2022, and an updated reserve study at least every [5] 10
+28 years thereafter.
+29 (3) (i) This paragraph applies only to a condominium established in any
+30 county other than Prince George’s County or Montgomery County before October 1, 2022.
+31 (ii) If the governing body of a condominium has had a reserve study
+32 conducted on or after October 1, 2018, the governing body shall have an updated reserve
+33 study conducted within 5 years after the date of that reserve study and at least every [5]
+34 10 years thereafter.
+8 SENATE BILL 787
+1 (iii) If the governing body of a condominium has not had a reserve
+2 study conducted on or after October 1, 2018, the governing body shall have a reserve study
+3 conducted on or before October 1, 2023, and an updated reserve study at least every [5] 10
+4 years thereafter.
+5 (e) Each reserve study required under this section shall:
+6 (1) Be prepared by a person who:
+7 (i) Has prepared at least 30 reserve studies within the prior 3
+8 calendar years;
+9 (ii) Has participated in the preparation of at least 30 reserve studies
+10 within the prior 3 calendar years while employed by a firm that prepares reserve studies;
+11 (iii) Holds a current license from the State Board of Architects or the
+12 State Board for Professional Engineers; [or]
+13 (iv) Is currently designated as a reserve specialist by the Community
+14 Association Institute or as a professional reserve analyst by the Association of Professional
+15 Reserve Analysts; OR
+16 (V) HOLDS A CURRENT LICENSE FROM:
+17 1. THE STATE BOARD OF ELECTRICIANS;
+18 2. THE STATE BOARD OF PLUMBERS; OR
+19 3. THE MARYLAND HOME IMPROVEMENT COMMISSION;
+20 (2) Be available for inspection and copying by any unit owner;
+21 (3) Be reviewed by the governing body of the condominium in connection
+22 with the preparation of the annual proposed budget; and
+23 (4) Be summarized for submission with the annual proposed budget to the
+24 unit owners.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+26 October 1, 2025.
+[DELETED: :CA      5     A C A F c w e c a r s f c c h c a c o a o l p t a r s m b p b c p a g B  A S  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  S   S T A 5  ( I f c   ( I e s m e a p c o t c h c t r a rW A R O ;   ( S e   ( S c   ( S a() H S A O T A C H (  O A B C F O MS  ( C–.EF  () ( T]( e    ( P    ( M    ( A C   ( T a]
+[DELETED: S 3 m h   ( T g b s h a u r s c w5y t 5 ]1  () ( ( T p a o t a c h]( c    ( I h a a 5 ]1    ( I n h a 5 ]1   ( ( T e    ( I h a a 5 ]1    ( I n h a 5 ]1   ( ( T p a t a c h c e O    ( I h a5y a 5 ]1    ( I n h a 5 ]1]
+[DELETED:  S   () E](   ( B    ( H p a l 3 r s w t p 3 c    ( H w    ( H S o]    ( I A R  () H:OM   1 TSBE; T O LS   2 TSBP; T O LS    3 TMHIC; A O M O   ( B   ( B r b t g b o t c h c   ( B u  () T]( s   ( F    ( R   ;    ( R    ( U]
+[DELETED: S 5   ( T a o a c r s a f t r r w r   ( A s d t p u f e a a   ( A t  () ( ( S t s ()o t p t](G g a f    ( I g 3 ]1 r i   ( T g b o a c h c h t a u o b A 1  ( T u  ( T   ( I   ( A   ( M   ( U   ( G   ( R]
+[DELETED:  S    ( C  ( ( S t b 1   ( I t m r r s w a i r s t g 3 ]1 r i 1  ( I f   ( I e s m e a p c o ;   ( S e   ( S c   ( S a  ( T (  O A B C F O MS  ( CEF .  ( ( T    ( P    ( M]
+[DELETED: S 7    ( A C   ( T g b o t c s h a i r u   ( T g b s h a u r s c w t 5 ]1  ( ( ( T p a o t a c e i P    ( I c s       ( I s c 5]1 y   ( ( T p a o t a c e i M    ( I c s       ( I s c 5]1 y   ( ( T c    ( I c s   ]
+[DELETED:  S     ( I s c 5]1 y  ( E   ( B    ( H p a l 3 r s w t p 3 c    ( H w    ( H S o]    ( I A R  () H:O   1 TSBE; T O LS   2 TSBP; T O LS    3 TMHIC; A O M O   ( B   ( B w   ( B u  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 787
+N1, C1 5lr3051
+By: Senator Jennings
+Introduced and read first time: January 28, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Cooperative Housing Corporations and Condominiums – Funding of Reserve
+3 Accounts and Timing of Reserve Studies
+4 FOR the purpose of establishing that a reserve study conducted for a cooperative housing
+5 corporation or condominium must identify only certain components with a value
+6 exceeding a certain amount; establishing a certain exception to the requirement to
+7 conduct a reserve study for certain cooperative housing corporations and
+8 condominiums; extending the amount of time that a cooperative housing corporation
+9 or a residential condominium has to complete a certain reserve study; extending the
+10 amount of time after an initial reserve study that a cooperative housing corporation
+11 or a residential condominium has to obtain a certain recommended reserve funding
+12 level; providing that a reserve study may be prepared by certain persons; and
+13 generally relating to cooperative housing corporations and condominiums.
+14 BY repealing and reenacting, with amendments,
+15 Article – Corporations and Associations
+16 Section 5–6B–26.1
+17 Annotated Code of Maryland
+18 (2014 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, without amendments,
+20 Article – Real Property
+21 Section 11–109.2(a) and (b)
+22 Annotated Code of Maryland
+23 (2023 Replacement Volume and 2024 Supplement)
+24 BY repealing and reenacting, with amendments,
+25 Article – Real Property
+26 Section 11–109.2(c) and 11–109.4
+27 Annotated Code of Maryland
+28 (2023 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0787*
+
+2 SENATE BILL 787
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Corporations and Associations
+4 5–6B–26.1.
+5 (a) In this section, “reserve study” means a study of the reserves required for
+6 future major repairs and replacement of the common elements of a cooperative housing
+7 corporation that:
+8 (1) Identifies each structural, mechanical, electrical, and plumbing
+9 component of the common elements and any other components that are the responsibility
+10 of the cooperative housing corporation [to repair and replace] WITH A REPAIR OR
+11 REPLACEMENT COST THAT EXCEEDS $10,000;
+12 (2) States the normal useful life and the estimated remaining useful life of
+13 each identified component;
+14 (3) States the estimated cost of repair or replacement of each identified
+15 component; and
+16 (4) States the estimated annual reserve amount necessary to accomplish
+17 any identified future repair or replacement.
+18 (B) THIS SECTION APPLIES ONLY TO A COOPERATIVE HOUSING
+19 CORPORATION THAT:
+20 (1) CONSISTS OF ANY BUILDING CONTAINING FOUR OR MORE
+21 STORIES USED FOR HABITATION BY RESIDENTS; OR
+22 (2) CONTAINS FOUR OR MORE SINGLE–FAMILY UNITS.
+23 [(b)] (C) (1) This subsection applies only to a cooperative housing corporation
+24 established in:
+25 (i) Prince George’s County on or after October 1, 2020;
+26 (ii) Montgomery County on or after October 1, 2021; or
+27 (iii) Any county other than Prince George’s County or Montgomery
+28 County on or after October 1, 2022.
+29 (2) The governing body of the cooperative housing corporation shall have
+30 an independent reserve study completed not less than 30 calendar days before the first
+
+SENATE BILL 787 3
+1 meeting of the cooperative housing corporation at which the members other than the owner
+2 have a majority of votes in the cooperative housing corporation.
+3 (3) The governing body shall have an updated reserve study completed
+4 within 5 years after the date of the initial reserve study conducted under paragraph (2) of
+5 this subsection, which shall be updated at least every [5] 10 years thereafter.
+6 [(c)] (D) (1) (i) This paragraph applies only to a cooperative housing
+7 corporation established in Prince George’s County before October 1, 2020.
+8 (ii) If the governing body of a cooperative housing corporation has
+9 had a reserve study conducted on or after October 1, 2016, the governing body shall have
+10 an updated reserve study conducted within 5 years after the date of that reserve study and
+11 at least every [5] 10 years thereafter.
+12 (iii) If the governing body of a cooperative housing corporation has
+13 not had a reserve study conducted on or after October 1, 2016, the governing body shall
+14 have a reserve study conducted on or before October 1, 2021, and an updated reserve study
+15 at least every [5] 10 years thereafter.
+16 (2) (i) This paragraph applies only to a cooperative housing corporation
+17 established in Montgomery County before October 1, 2021.
+18 (ii) If the governing body of a cooperative housing corporation has
+19 had a reserve study conducted on or after October 1, 2017, the governing body shall have
+20 an updated reserve study conducted within 5 years after the date of that reserve study and
+21 at least every [5] 10 years thereafter.
+22 (iii) If the governing body of a cooperative housing corporation has
+23 not had a reserve study conducted on or after October 1, 2017, the governing body shall
+24 have a reserve study conducted on or before October 1, 2022, and an updated reserve study
+25 at least every [5] 10 years thereafter.
+26 (3) (i) This paragraph applies to a cooperative housing corporation
+27 established in any county other than Prince George’s County or Montgomery County before
+28 October 1, 2022.
+29 (ii) If the governing body of a cooperative housing corporation has
+30 had a reserve study conducted on or after October 1, 2018, the governing body shall have
+31 an updated reserve study conducted within 5 years after the date of that reserve study and
+32 at least every [5] 10 years thereafter.
+33 (iii) If the governing body of a cooperative housing corporation has
+34 not had a reserve study conducted on or after October 1, 2018, the governing body shall
+35 have a reserve study conducted on or before October 1, 2023, and an updated reserve study
+36 at least every [5] 10 years thereafter.
+
+4 SENATE BILL 787
+1 [(d)] (E) Each reserve study required under this section shall:
+2 (1) Be prepared by a person who:
+3 (i) Has prepared at least 30 reserve studies within the prior 3
+4 calendar years;
+5 (ii) Has participated in the preparation of at least 30 reserve studies
+6 within the prior 3 calendar years while employed by a firm that prepares reserve studies;
+7 (iii) Holds a current license from the State Board of Architects or the
+8 State Board for Professional Engineers; [or]
+9 (iv) Is currently designated as a reserve specialist by the Community
+10 Association Institute or as a professional reserve analyst by the Association of Professional
+11 Reserve Analysts; OR
+12 (V) HOLDS A CURRENT LICENSE FROM:
+13 1. THE STATE BOARD OF ELECTRICIANS;
+14 2. THE STATE BOARD OF PLUMBERS; OR
+15 3. THE MARYLAND HOME IMPROVEMENT COMMISSION;
+16 (2) Be available for inspection and copying by any unit owner;
+17 (3) Be reviewed by the governing body of the cooperative housing
+18 corporation in connection with the preparation of the annual proposed budget; and
+19 (4) Be summarized for submission with the annual proposed budget to the
+20 unit owners.
+21 [(e)] (F) To the extent that a reserve study conducted in accordance with this
+22 section indicates a need to budget for reserves, the budget shall include:
+23 (1) For the capital components, the current estimated:
+24 (i) Replacement cost IF THE ESTIMATED REPLACEMENT COST IS
+25 GREATER THAN $10,000 AS DETERMINED BY THE MOST RECENT RESERVE STUDY;
+26 (ii) Remaining life; and
+27 (iii) Useful life;
+
+SENATE BILL 787 5
+1 (2) The amount of accumulated cash reserves set aside for the repair,
+2 replacement, or restoration of capital components as of the beginning of the fiscal year in
+3 which the reserve study is conducted and the amount of the expected contribution to the
+4 reserve fund for the fiscal year;
+5 (3) A statement describing the procedures used for estimation and
+6 accumulation of cash reserves in accordance with this section; and
+7 (4) A statement of the amount of reserves recommended in the study and
+8 the amount of current cash for replacement reserves.
+9 [(f)] (G) (1) (i) Subject to subparagraph (ii) of this paragraph, the
+10 governing body of a cooperative housing corporation shall provide funds to the reserve in
+11 accordance with the most recent reserve study and shall review the reserve study annually
+12 for accuracy.
+13 (ii) If the most recent reserve study was an initial reserve study, the
+14 governing body shall, within [3] 10 fiscal years following the fiscal year in which the initial
+15 reserve study was completed, attain the annual reserve funding level recommended in the
+16 initial reserve study.
+17 (2) The governing body of a cooperative housing corporation has the
+18 authority to increase an assessment levied to cover the reserve funding amount required
+19 under this section, notwithstanding any provision of the articles of incorporation, bylaws,
+20 or proprietary lease restricting assessment increases or capping the assessment that may
+21 be levied in a fiscal year.
+22 Article – Real Property
+23 11–109.2.
+24 (a) The council of unit owners shall cause to be prepared and submitted to the
+25 unit owners an annual proposed budget at least 30 days before its adoption.
+26 (b) The annual budget shall provide for at least the following items:
+27 (1) Income;
+28 (2) Administration;
+29 (3) Maintenance;
+30 (4) Utilities;
+31 (5) General expenses;
+32 (6) Reserves; and
+
+6 SENATE BILL 787
+1 (7) Capital items.
+2 (c) (1) Subject to paragraph (2) of this subsection, the reserves provided for in
+3 the annual budget under subsection (b) of this section for a residential condominium shall
+4 be the funding amount recommended in the most recent reserve study completed under §
+5 11–109.4 of this title.
+6 (2) If the most recent reserve study was an initial reserve study, the
+7 governing body shall, within [3] 10 fiscal years following the fiscal year in which the initial
+8 reserve study was completed, attain the annual reserve funding level recommended in the
+9 initial reserve study.
+10 11–109.4.
+11 (a) In this section, “reserve study” means a study of the reserves required for
+12 future major repairs and replacement of the common elements of a condominium that:
+13 (1) Identifies each structural, mechanical, electrical, and plumbing
+14 component of the common elements and any other components that are the responsibility
+15 of the council of unit owners to repair and replace WITH A REPAIR OR REPLACEMENT
+16 COST THAT EXCEEDS $10,000;
+17 (2) States the normal useful life and the estimated remaining useful life of
+18 each identified component;
+19 (3) States the estimated cost of repair or replacement of each identified
+20 component; and
+21 (4) States the estimated annual reserve amount necessary to accomplish
+22 any identified future repair or replacement.
+23 (b) This section applies only to a residential condominium THAT:
+24 (1) CONSISTS OF ANY BUILDING CONTAINING FOUR OR MORE
+25 STORIES USED FOR HABITATION BY RESIDENTS; OR
+26 (2) CONTAINS FOUR OR MORE SINGLE–FAMILY UNITS.
+27 (c) (1) This subsection applies only to a condominium established in:
+28 (i) Prince George’s County on or after October 1, 2020;
+29 (ii) Montgomery County on or after October 1, 2021; or
+
+SENATE BILL 787 7
+1 (iii) Any county other than Prince George’s County or Montgomery
+2 County on or after October 1, 2022.
+3 (2) The governing body of the condominium shall have an independent
+4 reserve study completed not less than 30 calendar days before the meeting of the council of
+5 unit owners required under § 11–109(c)(16) of this title.
+6 (3) The governing body shall have an updated reserve study completed
+7 within 5 years after the date of the initial reserve study conducted under paragraph (2) of
+8 this subsection and at least every [5] 10 years thereafter.
+9 (d) (1) (i) This paragraph applies only to a condominium established in
+10 Prince George’s County before October 1, 2020.
+11 (ii) If the governing body of a condominium has had a reserve study
+12 conducted on or after October 1, 2016, the governing body shall have an updated reserve
+13 study conducted within 5 years after the date of that reserve study and at least every [5]
+14 10 years thereafter.
+15 (iii) If the governing body of a condominium has not had a reserve
+16 study conducted on or after October 1, 2016, the governing body shall have a reserve study
+17 conducted on or before October 1, 2021, and an updated reserve study at least every [5] 10
+18 years thereafter.
+19 (2) (i) This paragraph applies only to a condominium established in
+20 Montgomery County before October 1, 2021.
+21 (ii) If the governing body of a condominium has had a reserve study
+22 conducted on or after October 1, 2017, the governing body shall have an updated reserve
+23 study conducted within 5 years after the date of that reserve study and at least every [5]
+24 10 years thereafter.
+25 (iii) If the governing body of a condominium has not had a reserve
+26 study conducted on or after October 1, 2017, the governing body shall have a reserve study
+27 conducted on or before October 1, 2022, and an updated reserve study at least every [5] 10
+28 years thereafter.
+29 (3) (i) This paragraph applies only to a condominium established in any
+30 county other than Prince George’s County or Montgomery County before October 1, 2022.
+31 (ii) If the governing body of a condominium has had a reserve study
+32 conducted on or after October 1, 2018, the governing body shall have an updated reserve
+33 study conducted within 5 years after the date of that reserve study and at least every [5]
+34 10 years thereafter.
+
+8 SENATE BILL 787
+1 (iii) If the governing body of a condominium has not had a reserve
+2 study conducted on or after October 1, 2018, the governing body shall have a reserve study
+3 conducted on or before October 1, 2023, and an updated reserve study at least every [5] 10
+4 years thereafter.
+5 (e) Each reserve study required under this section shall:
+6 (1) Be prepared by a person who:
+7 (i) Has prepared at least 30 reserve studies within the prior 3
+8 calendar years;
+9 (ii) Has participated in the preparation of at least 30 reserve studies
+10 within the prior 3 calendar years while employed by a firm that prepares reserve studies;
+11 (iii) Holds a current license from the State Board of Architects or the
+12 State Board for Professional Engineers; [or]
+13 (iv) Is currently designated as a reserve specialist by the Community
+14 Association Institute or as a professional reserve analyst by the Association of Professional
+15 Reserve Analysts; OR
+16 (V) HOLDS A CURRENT LICENSE FROM:
+17 1. THE STATE BOARD OF ELECTRICIANS;
+18 2. THE STATE BOARD OF PLUMBERS; OR
+19 3. THE MARYLAND HOME IMPROVEMENT COMMISSION;
+20 (2) Be available for inspection and copying by any unit owner;
+21 (3) Be reviewed by the governing body of the condominium in connection
+22 with the preparation of the annual proposed budget; and
+23 (4) Be summarized for submission with the annual proposed budget to the
+24 unit owners.
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+26 October 1, 2025.
+
+[DELETED: :CA      5     A C A F c w e c a r s f c c h c a c o a o l p t a r s m b p b c p a g B  A S  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  S   S T A 5  ( I f c   ( I e s m e a p c o t c h c t r a rW A R O ;   ( S e   ( S c   ( S a() H S A O T A C H (  O A B C F O MS  ( C–.EF  () ( T]( e    ( P    ( M    ( A C   ( T a]
+[DELETED: S 3 m h   ( T g b s h a u r s c w5y t 5 ]1  () ( ( T p a o t a c h]( c    ( I h a a 5 ]1    ( I n h a 5 ]1   ( ( T e    ( I h a a 5 ]1    ( I n h a 5 ]1   ( ( T p a t a c h c e O    ( I h a5y a 5 ]1    ( I n h a 5 ]1]
+[DELETED:  S   () E](   ( B    ( H p a l 3 r s w t p 3 c    ( H w    ( H S o]    ( I A R  () H:OM   1 TSBE; T O LS   2 TSBP; T O LS    3 TMHIC; A O M O   ( B   ( B r b t g b o t c h c   ( B u  () T]( s   ( F    ( R   ;    ( R    ( U]
+[DELETED: S 5   ( T a o a c r s a f t r r w r   ( A s d t p u f e a a   ( A t  () ( ( S t s ()o t p t](G g a f    ( I g 3 ]1 r i   ( T g b o a c h c h t a u o b A 1  ( T u  ( T   ( I   ( A   ( M   ( U   ( G   ( R]
+[DELETED:  S    ( C  ( ( S t b 1   ( I t m r r s w a i r s t g 3 ]1 r i 1  ( I f   ( I e s m e a p c o ;   ( S e   ( S c   ( S a  ( T (  O A B C F O MS  ( CEF .  ( ( T    ( P    ( M]
+[DELETED: S 7    ( A C   ( T g b o t c s h a i r u   ( T g b s h a u r s c w t 5 ]1  ( ( ( T p a o t a c e i P    ( I c s       ( I s c 5]1 y   ( ( T p a o t a c e i M    ( I c s       ( I s c 5]1 y   ( ( T c    ( I c s   ]
+[DELETED:  S     ( I s c 5]1 y  ( E   ( B    ( H p a l 3 r s w t p 3 c    ( H w    ( H S o]    ( I A R  () H:O   1 TSBE; T O LS   2 TSBP; T O LS    3 TMHIC; A O M O   ( B   ( B w   ( B u  S A B I F E T t A s t e O]

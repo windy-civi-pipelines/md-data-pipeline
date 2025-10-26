@@ -222,6 +222,7 @@
     "division_id": "ocd-division/country:us/state:md"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T23:22:32Z"
+    "logs_latest_update": "2025-10-25T23:22:32Z",
+    "text_extraction_latest_update": "2025-10-26T05:44:35.688235Z"
   }
 }

@@ -1,0 +1,313 @@
+Title: HOUSE BILL 708
+Official Title: HOUSE BILL 708
+Number of Sections: 1
+Source: versions - First - Earned Income Tax Credit - Individuals Without Qualifying Children - Eligibility
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Q3 5lr1325
+HB 608/24 – W&M CF 5lr3340
+By: Delegate Wilkins
+Introduced and read first time: January 24, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Earned Income Tax Credit – Individuals Without Qualifying Children –
+3 Eligibility
+4 FOR the purpose of expanding eligibility for the Maryland earned income tax credit for
+5 individuals without qualifying children by altering the income thresholds at which
+6 the credit phases out; providing that, after a certain taxable year, the income
+7 threshold and phase–out amounts are adjusted annually for inflation; and generally
+8 relating to the Maryland earned income tax credit.
+9 BY repealing and reenacting, with amendments,
+10 Article – Tax – General
+11 Section 10–704
+12 Annotated Code of Maryland
+13 (2022 Replacement Volume and 2024 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
+16 Article – Tax – General
+17 10–704.
+18 (a) In this section, “taxpayer” means:
+19 (1) an individual filing an income tax return; or
+20 (2) a married couple filing a joint income tax return.
+21 (b) (1) A resident who is a taxpayer may claim a credit against the State
+22 income tax for a taxable year in the amount determined under subsection (c) of this section
+23 for earned income.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0708*
+2 HOUSE BILL 708
+1 (2) A resident who is a taxpayer may claim a credit against the county
+2 income tax for a taxable year in the amount determined under subsection (d) of this section
+3 for earned income.
+4 (c) (1) Except as provided in paragraphs (2) and (3) of this subsection and
+5 subject to subsection (e) of this section, the credit allowed against the State income tax
+6 under subsection (b)(1) of this section is the lesser of:
+7 (i) 50% of the earned income credit allowable for the taxable year
+8 under § 32 of the Internal Revenue Code or that would have been allowable but for the
+9 limitation under § 32(m) of the Internal Revenue Code; or
+10 (ii) the State income tax for the taxable year.
+11 (2) (i) Subject to subparagraph (iii) of this paragraph and subsection (e)
+12 of this section, a resident may claim a refund in the amount, if any, by which the applicable
+13 percentage specified in subparagraph (ii) of this paragraph of the earned income credit
+14 allowable for the taxable year under § 32 of the Internal Revenue Code exceeds the State
+15 income tax for the taxable year.
+16 (ii) Subject to subparagraph (iii) of this paragraph, the applicable
+17 percentage of the earned income credit allowable under § 32 of the Internal Revenue Code
+18 to be used for purposes of determining the refund provided under this paragraph is:
+19 1. 25% for a taxable year beginning after December 31, 2013,
+20 but before January 1, 2015;
+21 2. 25.5% for a taxable year beginning after December 31,
+22 2014, but before January 1, 2016;
+23 3. 26% for a taxable year beginning after December 31, 2015,
+24 but before January 1, 2017;
+25 4. 27% for a taxable year beginning after December 31, 2016,
+26 but before January 1, 2018;
+27 5. 28% for a taxable year beginning after December 31, 2017,
+28 but before January 1, 2020; and
+29 6. 45% for a taxable year beginning after December 31, 2019.
+30 (iii) For purposes of determining the refund provided under this
+31 paragraph, the earned income credit allowable under § 32 of the Internal Revenue Code is
+32 calculated without regard to the limitation under § 32(m) of the Internal Revenue Code.
+33 (3) (i) For purposes of this section for an individual without a qualifying
+HOUSE BILL 708 3
+1 child, the credit allowable for a taxable year under § 32 of the Internal Revenue Code is
+2 calculated without regard to:
+3 1. the minimum age requirement under § 32(c)(1)(A)(ii)(II) of
+4 the Internal Revenue Code; or
+5 2. the limitation under § 32(m) of the Internal Revenue Code.
+6 (ii) [Subject to subparagraph (iii) of this paragraph, the] THE credit
+7 allowed against the State income tax under subsection (b)(1) of this section for an individual
+8 without a qualifying child is:
+9 1. equal to 100% of the earned income credit allowable for a
+10 taxable year under § 32 of the Internal Revenue Code; AND
+11 2. CALCULATED BY SUBSTITUTING:
+12 A. $7,840 FOR THE EARNED INCOME AMOUNT IN §
+13 32(B)(2)(A) OF THE INTERNAL REVENUE CODE; AND
+14 B. $19,160 FOR THE PHASE–OUT AMOUNT IN §
+15 32(B)(2)(A) OF THE INTERNAL REVENUE CODE.
+16 [(iii) For a taxable year beginning after December 31, 2019, but before
+17 January 1, 2023, the tax credit allowed under this paragraph may not exceed $530 for a
+18 taxable year.]
+19 (III) 1. FOR EACH TAXABLE YEAR BEGINNING AFTER
+20 DECEMBER 31, 2024, THE EARNED INCOME AMOUNT AND PHASE–OUT AMOUNT IN
+21 SUBPARAGRAPH (II)2 OF THIS PARAGRAPH SHALL BE INCREASED BY AN AMOUNT
+22 EQUAL TO THE PRODUCT OF MULTIPLYING EACH AMOUNT BY THE COST–OF–LIVING
+23 ADJUSTMENT SPECIFIED IN SUBSUBPARAGRAPH 2 OF THIS SUBPARAGRAPH.
+24 2. FOR THE PURPOSES OF THIS SUBPARAGRAPH, THE
+25 COST–OF–LIVING ADJUSTMENT IS THE COST–OF–LIVING ADJUSTMENT WITHIN THE
+26 MEANING OF § 1(F)(3) OF THE INTERNAL REVENUE CODE FOR THE CALENDAR YEAR
+27 IN WHICH THE TAXABLE YEAR BEGINS, AS DETERMINED BY THE COMPTROLLER BY
+28 SUBSTITUTING “CALENDAR YEAR 2022” FOR “CALENDAR YEAR 2016” IN § 1(F)(3)(A)
+29 OF THE INTERNAL REVENUE CODE.
+30 3. IF ANY INCREASE DETERMINED UNDER
+31 SUBSUBPARAGRAPH 1 OF THIS SUBPARAGRAPH IS NOT A MULTIPLE OF $10, THE
+32 INCREASE SHALL BE ROUNDED DOWN TO THE NEXT LOWEST MULTIPLE OF $10.
+4 HOUSE BILL 708
+1 (iv) If the tax credit allowed under this paragraph in any taxable year
+2 exceeds the total tax otherwise payable by the individual without a qualifying child for that
+3 taxable year, the individual may claim a refund in the amount of the excess.
+4 (d) (1) Except as provided in paragraph (2) of this subsection and subject to
+5 subsection (e) of this section, the credit allowed against the county income tax under
+6 subsection (b)(2) of this section is the lesser of:
+7 (i) the earned income credit allowable for the taxable year under §
+8 32 of the Internal Revenue Code or that would have been allowable but for the limitation
+9 under § 32(m) of the Internal Revenue Code multiplied by 10 times the county income tax
+10 rate for the taxable year; or
+11 (ii) the county income tax for the taxable year.
+12 (2) (i) A county may provide, by law, for a refundable county earned
+13 income credit as provided in this paragraph.
+14 (ii) If a county provides for a refundable county earned income credit
+15 under this paragraph, on or before July 1 prior to the beginning of the first taxable year for
+16 which it is applicable, the county shall give the Comptroller notice of the refundable county
+17 earned income credit.
+18 (iii) If a county provides for a refundable county earned income credit
+19 under this paragraph, a resident may claim a refund of the amount, if any, by which the
+20 product of multiplying the credit allowable for the taxable year under § 32 of the Internal
+21 Revenue Code or that would have been allowable but for the limitation under § 32(m) of
+22 the Internal Revenue Code by 5 times the county income tax rate for the taxable year
+23 exceeds the county income tax for the taxable year.
+24 (iv) The amount of any refunds payable under a refundable county
+25 earned income credit operates to reduce the income tax revenue from individuals
+26 attributable to the county income tax for that county.
+27 (e) (1) Subject to paragraph (2) of this subsection, for an individual who is a
+28 resident of the State for only a part of the year, the amount of the credit or refund allowed
+29 under this section shall be determined based on the part of the earned income credit
+30 allowable for the taxable year under § 32 of the Internal Revenue Code that is attributable
+31 to Maryland, determined by multiplying the federal earned income credit by a fraction:
+32 (i) the numerator of which is the Maryland adjusted gross income of
+33 the individual; and
+34 (ii) the denominator of which is the federal adjusted gross income of
+35 the individual.
+36 (2) For purposes of determining the amount of the credit or refund under
+HOUSE BILL 708 5
+1 paragraph (1) of this subsection, the part of the earned income credit allowable for the
+2 taxable year under § 32 of the Internal Revenue Code is calculated without regard to the
+3 limitation under § 32(m) of the Internal Revenue Code.
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+5 1, 2025, and shall be applicable to all taxable years beginning after December 31, 2024.
+[DELETED: :CA      5   C A E E F i t c p o p t a a c t y t i t r B  A S  A  (  S T A 1  ( I   ( a   ( a  ( ( A r w i a t m c a c a t S i f]
+[DELETED:  H    ( A i f  ( ( E s s u    ( 5 u l    ( t   ( ( S o p a i    ( S p t     1 2 b     2 2 f a t y b a D 3 2     3 2 b     4 2 b     5 2 b     6 4    ( F p o d t r p u t p c   ( ( F]
+[DELETED: H 3 c c     1 t t     2 t    ( Se ]H a w   1 e t   2 :   A $0F T E I A I ())IRC;  N E OE    B $0–F T PEO A I ())IR  N E O .    ( F J t  () 1 IO E T Y B A3,2,   EO II )TOFL  .   2 F T P O T SH TTOFLTOFL––  F  N E O1())IRS  O C   C    F2”“2”§1() N E ORC.   3  A I D U    $]
+[DELETED:  H     ( I e t  ( ( E s ( o t s t c a a t c i t u s    ( t 3 u r    ( t   ( ( A i    ( I u w e    ( I u p R t e    ( T e i c o t r t i t r f i a  ( ( S r u t s s b d b o t p o t e i c a t    ( t t    ( t t   ( F]
+[DELETED: H 5 p t l  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 708
+Q3 5lr1325
+HB 608/24 – W&M CF 5lr3340
+By: Delegate Wilkins
+Introduced and read first time: January 24, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Earned Income Tax Credit – Individuals Without Qualifying Children –
+3 Eligibility
+4 FOR the purpose of expanding eligibility for the Maryland earned income tax credit for
+5 individuals without qualifying children by altering the income thresholds at which
+6 the credit phases out; providing that, after a certain taxable year, the income
+7 threshold and phase–out amounts are adjusted annually for inflation; and generally
+8 relating to the Maryland earned income tax credit.
+9 BY repealing and reenacting, with amendments,
+10 Article – Tax – General
+11 Section 10–704
+12 Annotated Code of Maryland
+13 (2022 Replacement Volume and 2024 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
+16 Article – Tax – General
+17 10–704.
+18 (a) In this section, “taxpayer” means:
+19 (1) an individual filing an income tax return; or
+20 (2) a married couple filing a joint income tax return.
+21 (b) (1) A resident who is a taxpayer may claim a credit against the State
+22 income tax for a taxable year in the amount determined under subsection (c) of this section
+23 for earned income.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0708*
+
+2 HOUSE BILL 708
+1 (2) A resident who is a taxpayer may claim a credit against the county
+2 income tax for a taxable year in the amount determined under subsection (d) of this section
+3 for earned income.
+4 (c) (1) Except as provided in paragraphs (2) and (3) of this subsection and
+5 subject to subsection (e) of this section, the credit allowed against the State income tax
+6 under subsection (b)(1) of this section is the lesser of:
+7 (i) 50% of the earned income credit allowable for the taxable year
+8 under § 32 of the Internal Revenue Code or that would have been allowable but for the
+9 limitation under § 32(m) of the Internal Revenue Code; or
+10 (ii) the State income tax for the taxable year.
+11 (2) (i) Subject to subparagraph (iii) of this paragraph and subsection (e)
+12 of this section, a resident may claim a refund in the amount, if any, by which the applicable
+13 percentage specified in subparagraph (ii) of this paragraph of the earned income credit
+14 allowable for the taxable year under § 32 of the Internal Revenue Code exceeds the State
+15 income tax for the taxable year.
+16 (ii) Subject to subparagraph (iii) of this paragraph, the applicable
+17 percentage of the earned income credit allowable under § 32 of the Internal Revenue Code
+18 to be used for purposes of determining the refund provided under this paragraph is:
+19 1. 25% for a taxable year beginning after December 31, 2013,
+20 but before January 1, 2015;
+21 2. 25.5% for a taxable year beginning after December 31,
+22 2014, but before January 1, 2016;
+23 3. 26% for a taxable year beginning after December 31, 2015,
+24 but before January 1, 2017;
+25 4. 27% for a taxable year beginning after December 31, 2016,
+26 but before January 1, 2018;
+27 5. 28% for a taxable year beginning after December 31, 2017,
+28 but before January 1, 2020; and
+29 6. 45% for a taxable year beginning after December 31, 2019.
+30 (iii) For purposes of determining the refund provided under this
+31 paragraph, the earned income credit allowable under § 32 of the Internal Revenue Code is
+32 calculated without regard to the limitation under § 32(m) of the Internal Revenue Code.
+33 (3) (i) For purposes of this section for an individual without a qualifying
+
+HOUSE BILL 708 3
+1 child, the credit allowable for a taxable year under § 32 of the Internal Revenue Code is
+2 calculated without regard to:
+3 1. the minimum age requirement under § 32(c)(1)(A)(ii)(II) of
+4 the Internal Revenue Code; or
+5 2. the limitation under § 32(m) of the Internal Revenue Code.
+6 (ii) [Subject to subparagraph (iii) of this paragraph, the] THE credit
+7 allowed against the State income tax under subsection (b)(1) of this section for an individual
+8 without a qualifying child is:
+9 1. equal to 100% of the earned income credit allowable for a
+10 taxable year under § 32 of the Internal Revenue Code; AND
+11 2. CALCULATED BY SUBSTITUTING:
+12 A. $7,840 FOR THE EARNED INCOME AMOUNT IN §
+13 32(B)(2)(A) OF THE INTERNAL REVENUE CODE; AND
+14 B. $19,160 FOR THE PHASE–OUT AMOUNT IN §
+15 32(B)(2)(A) OF THE INTERNAL REVENUE CODE.
+16 [(iii) For a taxable year beginning after December 31, 2019, but before
+17 January 1, 2023, the tax credit allowed under this paragraph may not exceed $530 for a
+18 taxable year.]
+19 (III) 1. FOR EACH TAXABLE YEAR BEGINNING AFTER
+20 DECEMBER 31, 2024, THE EARNED INCOME AMOUNT AND PHASE–OUT AMOUNT IN
+21 SUBPARAGRAPH (II)2 OF THIS PARAGRAPH SHALL BE INCREASED BY AN AMOUNT
+22 EQUAL TO THE PRODUCT OF MULTIPLYING EACH AMOUNT BY THE COST–OF–LIVING
+23 ADJUSTMENT SPECIFIED IN SUBSUBPARAGRAPH 2 OF THIS SUBPARAGRAPH.
+24 2. FOR THE PURPOSES OF THIS SUBPARAGRAPH, THE
+25 COST–OF–LIVING ADJUSTMENT IS THE COST–OF–LIVING ADJUSTMENT WITHIN THE
+26 MEANING OF § 1(F)(3) OF THE INTERNAL REVENUE CODE FOR THE CALENDAR YEAR
+27 IN WHICH THE TAXABLE YEAR BEGINS, AS DETERMINED BY THE COMPTROLLER BY
+28 SUBSTITUTING “CALENDAR YEAR 2022” FOR “CALENDAR YEAR 2016” IN § 1(F)(3)(A)
+29 OF THE INTERNAL REVENUE CODE.
+30 3. IF ANY INCREASE DETERMINED UNDER
+31 SUBSUBPARAGRAPH 1 OF THIS SUBPARAGRAPH IS NOT A MULTIPLE OF $10, THE
+32 INCREASE SHALL BE ROUNDED DOWN TO THE NEXT LOWEST MULTIPLE OF $10.
+
+4 HOUSE BILL 708
+1 (iv) If the tax credit allowed under this paragraph in any taxable year
+2 exceeds the total tax otherwise payable by the individual without a qualifying child for that
+3 taxable year, the individual may claim a refund in the amount of the excess.
+4 (d) (1) Except as provided in paragraph (2) of this subsection and subject to
+5 subsection (e) of this section, the credit allowed against the county income tax under
+6 subsection (b)(2) of this section is the lesser of:
+7 (i) the earned income credit allowable for the taxable year under §
+8 32 of the Internal Revenue Code or that would have been allowable but for the limitation
+9 under § 32(m) of the Internal Revenue Code multiplied by 10 times the county income tax
+10 rate for the taxable year; or
+11 (ii) the county income tax for the taxable year.
+12 (2) (i) A county may provide, by law, for a refundable county earned
+13 income credit as provided in this paragraph.
+14 (ii) If a county provides for a refundable county earned income credit
+15 under this paragraph, on or before July 1 prior to the beginning of the first taxable year for
+16 which it is applicable, the county shall give the Comptroller notice of the refundable county
+17 earned income credit.
+18 (iii) If a county provides for a refundable county earned income credit
+19 under this paragraph, a resident may claim a refund of the amount, if any, by which the
+20 product of multiplying the credit allowable for the taxable year under § 32 of the Internal
+21 Revenue Code or that would have been allowable but for the limitation under § 32(m) of
+22 the Internal Revenue Code by 5 times the county income tax rate for the taxable year
+23 exceeds the county income tax for the taxable year.
+24 (iv) The amount of any refunds payable under a refundable county
+25 earned income credit operates to reduce the income tax revenue from individuals
+26 attributable to the county income tax for that county.
+27 (e) (1) Subject to paragraph (2) of this subsection, for an individual who is a
+28 resident of the State for only a part of the year, the amount of the credit or refund allowed
+29 under this section shall be determined based on the part of the earned income credit
+30 allowable for the taxable year under § 32 of the Internal Revenue Code that is attributable
+31 to Maryland, determined by multiplying the federal earned income credit by a fraction:
+32 (i) the numerator of which is the Maryland adjusted gross income of
+33 the individual; and
+34 (ii) the denominator of which is the federal adjusted gross income of
+35 the individual.
+36 (2) For purposes of determining the amount of the credit or refund under
+
+HOUSE BILL 708 5
+1 paragraph (1) of this subsection, the part of the earned income credit allowable for the
+2 taxable year under § 32 of the Internal Revenue Code is calculated without regard to the
+3 limitation under § 32(m) of the Internal Revenue Code.
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+5 1, 2025, and shall be applicable to all taxable years beginning after December 31, 2024.
+
+[DELETED: :CA      5   C A E E F i t c p o p t a a c t y t i t r B  A S  A  (  S T A 1  ( I   ( a   ( a  ( ( A r w i a t m c a c a t S i f]
+[DELETED:  H    ( A i f  ( ( E s s u    ( 5 u l    ( t   ( ( S o p a i    ( S p t     1 2 b     2 2 f a t y b a D 3 2     3 2 b     4 2 b     5 2 b     6 4    ( F p o d t r p u t p c   ( ( F]
+[DELETED: H 3 c c     1 t t     2 t    ( Se ]H a w   1 e t   2 :   A $0F T E I A I ())IRC;  N E OE    B $0–F T PEO A I ())IR  N E O .    ( F J t  () 1 IO E T Y B A3,2,   EO II )TOFL  .   2 F T P O T SH TTOFLTOFL––  F  N E O1())IRS  O C   C    F2”“2”§1() N E ORC.   3  A I D U    $]
+[DELETED:  H     ( I e t  ( ( E s ( o t s t c a a t c i t u s    ( t 3 u r    ( t   ( ( A i    ( I u w e    ( I u p R t e    ( T e i c o t r t i t r f i a  ( ( S r u t s s b d b o t p o t e i c a t    ( t t    ( t t   ( F]
+[DELETED: H 5 p t l  S 1]

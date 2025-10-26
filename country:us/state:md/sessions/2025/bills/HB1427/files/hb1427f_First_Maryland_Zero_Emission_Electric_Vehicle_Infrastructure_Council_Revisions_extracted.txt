@@ -1,0 +1,340 @@
+Title: HOUSE BILL 1427
+Official Title: HOUSE BILL 1427
+Number of Sections: 1
+Source: versions - First - Maryland Zero Emission Electric Vehicle Infrastructure Council - Revisions
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+E4 5lr3027
+HB 1428/24 – JUD
+By: Delegates Miller, Rose, Schmidt, and Valentine
+Introduced and read first time: February 7, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Maryland Zero Emission Electric Vehicle Infrastructure Council – Revisions
+3 FOR the purpose of altering the membership of the Maryland Zero Emission Electric
+4 Vehicle Infrastructure Council to include the Secretary of State Police or the
+5 Secretary’s designee; requiring the council to study and make recommendations on
+6 safety design elements and the reliability of charging stations; and generally relating
+7 to the Maryland Zero Emission Electric Vehicle Infrastructure Council.
+8 BY repealing and reenacting, with amendments,
+9 Article – Transportation
+10 Section 2–113
+11 Annotated Code of Maryland
+12 (2020 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Transportation
+16 2–113.
+17 (a) (1) In this section the following words have the meanings indicated.
+18 (2) “Council” means the Maryland Zero Emission Electric Vehicle
+19 Infrastructure Council.
+20 (3) “Fuel cell electric vehicle” has the meaning stated in § 11–125.1 of this
+21 article.
+22 (4) “Plug–in electric drive vehicle” has the meaning stated in § 11–145.1 of
+23 this article.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1427*
+2 HOUSE BILL 1427
+1 (5) “Zero emission electric vehicle” includes:
+2 (i) A plug–in electric drive vehicle; and
+3 (ii) A fuel cell electric vehicle.
+4 (b) There is a Maryland Zero Emission Electric Vehicle Infrastructure Council.
+5 (c) The Council consists of the following members:
+6 (1) One member of the Senate of Maryland, appointed by the President of
+7 the Senate;
+8 (2) Two members of the House of Delegates, appointed by the Speaker of
+9 the House;
+10 (3) The Secretary, or the Secretary’s designee;
+11 (4) The Secretary of Planning, or the Secretary’s designee;
+12 (5) The Secretary of the Environment, or the Secretary’s designee;
+13 (6) The Secretary of Commerce, or the Secretary’s designee;
+14 (7) The Secretary of General Services, or the Secretary’s designee;
+15 (8) THE SECRETARY OF STATE POLICE, OR THE SECRETARY’S
+16 DESIGNEE;
+17 [(8)] (9) The Executive Director of the Technical Staff of the Maryland
+18 Public Service Commission, or the Executive Director’s designee;
+19 [(9)] (10) The Director of the Maryland Energy Administration, or the
+20 Director’s designee;
+21 [(10)] (11) The People’s Counsel, or the People’s Counsel’s designee; and
+22 [(11)] (12) The following members appointed by the Governor:
+23 (i) One representative of an institution of higher education in the
+24 State with expertise in energy, transportation, or the environment;
+25 (ii) Two representatives of the Maryland Association of Counties,
+26 including:
+HOUSE BILL 1427 3
+1 1. A representative who resides in a rural region of the State;
+2 and
+3 2. A representative who resides in an urban or suburban
+4 region of the State;
+5 (iii) Two representatives of the Maryland Municipal League,
+6 including:
+7 1. A representative who resides in a rural region of the State;
+8 and
+9 2. A representative who resides in an urban or suburban
+10 region of the State;
+11 (iv) One representative of an electric vehicle driver advocacy
+12 organization;
+13 (v) Two representatives of electric companies in the State;
+14 (vi) One representative of a light–duty plug–in electric drive vehicle
+15 manufacturer;
+16 (vii) One representative of a heavy–duty plug–in electric drive vehicle
+17 manufacturer;
+18 (viii) One representative of a manufacturer of plug–in electric drive
+19 vehicle charging stations;
+20 (ix) One representative of manufacturers of fuel cell electric vehicles;
+21 (x) One representative of manufacturers of fuel cell electric vehicle
+22 infrastructure equipment;
+23 (xi) One representative of fleet vehicle operators;
+24 (xii) One representative of electrical workers;
+25 (xiii) Two representatives of the environmental community;
+26 (xiv) One public member with expertise in energy or transportation
+27 policy;
+28 (xv) One representative of a new vehicle dealer association in the
+29 State;
+30 (xvi) One representative of the retail electric supplier community; and
+4 HOUSE BILL 1427
+1 (xvii) One representative of an automotive dismantler and recycler
+2 that dismantles, destroys, or recycles zero emission electric vehicles and that, if applicable,
+3 recycles lithium–ion batteries.
+4 (d) The Governor shall designate the chair or cochairs of the Council.
+5 (e) The Department shall provide staff support to the Council with the assistance
+6 of the Maryland Energy Administration and the Maryland Public Service Commission.
+7 (f) A member of the Council:
+8 (1) May not receive compensation as a member of the Council; but
+9 (2) Is entitled to reimbursement of expenses under the Standard State
+10 Travel Regulations, as provided in the State budget.
+11 (g) The Council shall:
+12 (1) Develop an action plan to facilitate the successful integration of zero
+13 emission electric vehicles into the State’s transportation network;
+14 (2) Assist in developing and coordinating statewide standards for
+15 streamlined permitting and installation of residential and commercial electric vehicle
+16 charging and hydrogen refueling stations and supply equipment;
+17 (3) Develop a recommendation for a statewide electric vehicle charging and
+18 hydrogen refueling infrastructure plan, including placement opportunities for public
+19 charging and hydrogen refueling stations;
+20 (4) Increase consumer awareness and demand for zero emission electric
+21 vehicles through public outreach;
+22 (5) Make recommendations regarding monetary and nonmonetary
+23 incentives to support zero emission electric vehicle ownership and maximize private sector
+24 investment in zero emission electric vehicles;
+25 (6) Develop targeted policies to support fleet purchases of zero emission
+26 electric vehicles;
+27 (7) Develop charging solutions for existing and future multidwelling units;
+28 (8) Develop model procurement practices for light–duty vehicles that
+29 include an evaluation of the vehicle life cycle costs inclusive of estimated fuel cost over the
+30 anticipated life of the vehicle;
+HOUSE BILL 1427 5
+1 (9) Encourage local and regional efforts to promote the use of electric
+2 vehicles and attract federal funding for State and local zero emission electric vehicle
+3 programs;
+4 (10) Recommend policies that support zero emission electric vehicle
+5 charging and hydrogen refueling from clean energy sources;
+6 (11) Recommend a method of displaying pricing information at public
+7 charging and hydrogen refueling stations;
+8 (12) Establish performance measures for meeting zero emission electric
+9 vehicle–related employment, infrastructure, and regulatory goals; [and]
+10 (13) STUDY AND MAKE RECOMMENDATIONS ON DESIGN ELEMENTS
+11 FOR INCREASING SAFETY AT ELECTRIC VEHICLE CHARGING STATIONS, INCLUDING:
+12 (I) IMPROVED LIGHTING;
+13 (II) MONITORING BY SECURITY CAMERAS;
+14 (III) SMART PHONE APPLICATIONS AIMED AT REPORTING
+15 INCIDENTS TO LOCAL LAW ENFORCEMENT;
+16 (IV) EMERGENCY BLUE LIGHTS; AND
+17 (V) POTENTIAL METHODS FOR THE OCCUPANT OF AN ELECTRIC
+18 VEHICLE TO SAFELY DISCONNECT FROM A CHARGING STATION WITHOUT HAVING TO
+19 EXIT THE VEHICLE;
+20 (14) STUDY AND MAKE RECOMMENDATIONS ON IMPROVING THE
+21 RELIABILITY OF CURRENT CHARGING STATIONS; AND
+22 [(13)] (15) Pursue other goals and objectives that promote the utilization of
+23 zero emission electric vehicles in the State.
+24 (h) (1) On or before December 1, 2024, and December 1, 2025, the Council shall
+25 submit interim reports of its work and recommendations to the Governor and, in accordance
+26 with § 2–1257 of the State Government Article, the General Assembly.
+27 (2) On or before June 30, 2026, the Council shall submit a final report of
+28 its work and recommendations to the Governor and, in accordance with § 2–1257 of the
+29 State Government Article, the General Assembly.
+30 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+31 1, 2025.
+6 HOUSE BILL 1427
+[DELETED: :CA      5     A M F t p o a t m o t M Z E E V I C t i t S o S P o t S s t B  A  S  A  (  S T A 2  ( ( I   ( “ m t M Z E E V I   ( “ a   ( “ t]
+[DELETED:  H    ( “    ( A    ( A  ( T  ( T   ( O t   ( T t   ( T   ( T   ( T   ( T   ( T   TSSP,S E O T OE O T EYS   () T]( P   () T D o t M E A o t]( D   () T](   () T](    ( O S    ( T r o t M A o C i]
+[DELETED: H 3     1 A a     2 A r w r i a u o s r    ( T r o t M M L i     1 A a     2 A r w r i a u o s r    ( O r o a e v d a o    ( T    ( O m    ( O m    ( O v    ( O    ( O i    ( O    ( O    ( T    ( O p    ( O r o a n v d a i t S    ( O]
+[DELETED:  H     ( O r o a a d a r t r  ( T  ( T o  ( A   ( M   ( I e t r o e u t S S T  ( T   ( D e   ( A i d a c s s f s p a i o r a c e v c   ( D h r i p i p o f p c   ( I v   ( M r r m a n i i   ( D e   ( D   ( D m p p f l v t i a]
+[DELETED: H 5   ( E l a r e t p t u o e v a a f f f S a l z e e v p   ( R p t s z e e v c   ( R a m o d p i a p c   ( E p m f m z e e v ad    A M R O D ES :  () I;M  () M;IO  () IM P A A A R  () E;VMS   () O (  A M R O I TS    () P]( z  ( ( O s w   ( O i S  S 1]
+[DELETED:  H ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1427
+E4 5lr3027
+HB 1428/24 – JUD
+By: Delegates Miller, Rose, Schmidt, and Valentine
+Introduced and read first time: February 7, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Maryland Zero Emission Electric Vehicle Infrastructure Council – Revisions
+3 FOR the purpose of altering the membership of the Maryland Zero Emission Electric
+4 Vehicle Infrastructure Council to include the Secretary of State Police or the
+5 Secretary’s designee; requiring the council to study and make recommendations on
+6 safety design elements and the reliability of charging stations; and generally relating
+7 to the Maryland Zero Emission Electric Vehicle Infrastructure Council.
+8 BY repealing and reenacting, with amendments,
+9 Article – Transportation
+10 Section 2–113
+11 Annotated Code of Maryland
+12 (2020 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Transportation
+16 2–113.
+17 (a) (1) In this section the following words have the meanings indicated.
+18 (2) “Council” means the Maryland Zero Emission Electric Vehicle
+19 Infrastructure Council.
+20 (3) “Fuel cell electric vehicle” has the meaning stated in § 11–125.1 of this
+21 article.
+22 (4) “Plug–in electric drive vehicle” has the meaning stated in § 11–145.1 of
+23 this article.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1427*
+
+2 HOUSE BILL 1427
+1 (5) “Zero emission electric vehicle” includes:
+2 (i) A plug–in electric drive vehicle; and
+3 (ii) A fuel cell electric vehicle.
+4 (b) There is a Maryland Zero Emission Electric Vehicle Infrastructure Council.
+5 (c) The Council consists of the following members:
+6 (1) One member of the Senate of Maryland, appointed by the President of
+7 the Senate;
+8 (2) Two members of the House of Delegates, appointed by the Speaker of
+9 the House;
+10 (3) The Secretary, or the Secretary’s designee;
+11 (4) The Secretary of Planning, or the Secretary’s designee;
+12 (5) The Secretary of the Environment, or the Secretary’s designee;
+13 (6) The Secretary of Commerce, or the Secretary’s designee;
+14 (7) The Secretary of General Services, or the Secretary’s designee;
+15 (8) THE SECRETARY OF STATE POLICE, OR THE SECRETARY’S
+16 DESIGNEE;
+17 [(8)] (9) The Executive Director of the Technical Staff of the Maryland
+18 Public Service Commission, or the Executive Director’s designee;
+19 [(9)] (10) The Director of the Maryland Energy Administration, or the
+20 Director’s designee;
+21 [(10)] (11) The People’s Counsel, or the People’s Counsel’s designee; and
+22 [(11)] (12) The following members appointed by the Governor:
+23 (i) One representative of an institution of higher education in the
+24 State with expertise in energy, transportation, or the environment;
+25 (ii) Two representatives of the Maryland Association of Counties,
+26 including:
+
+HOUSE BILL 1427 3
+1 1. A representative who resides in a rural region of the State;
+2 and
+3 2. A representative who resides in an urban or suburban
+4 region of the State;
+5 (iii) Two representatives of the Maryland Municipal League,
+6 including:
+7 1. A representative who resides in a rural region of the State;
+8 and
+9 2. A representative who resides in an urban or suburban
+10 region of the State;
+11 (iv) One representative of an electric vehicle driver advocacy
+12 organization;
+13 (v) Two representatives of electric companies in the State;
+14 (vi) One representative of a light–duty plug–in electric drive vehicle
+15 manufacturer;
+16 (vii) One representative of a heavy–duty plug–in electric drive vehicle
+17 manufacturer;
+18 (viii) One representative of a manufacturer of plug–in electric drive
+19 vehicle charging stations;
+20 (ix) One representative of manufacturers of fuel cell electric vehicles;
+21 (x) One representative of manufacturers of fuel cell electric vehicle
+22 infrastructure equipment;
+23 (xi) One representative of fleet vehicle operators;
+24 (xii) One representative of electrical workers;
+25 (xiii) Two representatives of the environmental community;
+26 (xiv) One public member with expertise in energy or transportation
+27 policy;
+28 (xv) One representative of a new vehicle dealer association in the
+29 State;
+30 (xvi) One representative of the retail electric supplier community; and
+
+4 HOUSE BILL 1427
+1 (xvii) One representative of an automotive dismantler and recycler
+2 that dismantles, destroys, or recycles zero emission electric vehicles and that, if applicable,
+3 recycles lithium–ion batteries.
+4 (d) The Governor shall designate the chair or cochairs of the Council.
+5 (e) The Department shall provide staff support to the Council with the assistance
+6 of the Maryland Energy Administration and the Maryland Public Service Commission.
+7 (f) A member of the Council:
+8 (1) May not receive compensation as a member of the Council; but
+9 (2) Is entitled to reimbursement of expenses under the Standard State
+10 Travel Regulations, as provided in the State budget.
+11 (g) The Council shall:
+12 (1) Develop an action plan to facilitate the successful integration of zero
+13 emission electric vehicles into the State’s transportation network;
+14 (2) Assist in developing and coordinating statewide standards for
+15 streamlined permitting and installation of residential and commercial electric vehicle
+16 charging and hydrogen refueling stations and supply equipment;
+17 (3) Develop a recommendation for a statewide electric vehicle charging and
+18 hydrogen refueling infrastructure plan, including placement opportunities for public
+19 charging and hydrogen refueling stations;
+20 (4) Increase consumer awareness and demand for zero emission electric
+21 vehicles through public outreach;
+22 (5) Make recommendations regarding monetary and nonmonetary
+23 incentives to support zero emission electric vehicle ownership and maximize private sector
+24 investment in zero emission electric vehicles;
+25 (6) Develop targeted policies to support fleet purchases of zero emission
+26 electric vehicles;
+27 (7) Develop charging solutions for existing and future multidwelling units;
+28 (8) Develop model procurement practices for light–duty vehicles that
+29 include an evaluation of the vehicle life cycle costs inclusive of estimated fuel cost over the
+30 anticipated life of the vehicle;
+
+HOUSE BILL 1427 5
+1 (9) Encourage local and regional efforts to promote the use of electric
+2 vehicles and attract federal funding for State and local zero emission electric vehicle
+3 programs;
+4 (10) Recommend policies that support zero emission electric vehicle
+5 charging and hydrogen refueling from clean energy sources;
+6 (11) Recommend a method of displaying pricing information at public
+7 charging and hydrogen refueling stations;
+8 (12) Establish performance measures for meeting zero emission electric
+9 vehicle–related employment, infrastructure, and regulatory goals; [and]
+10 (13) STUDY AND MAKE RECOMMENDATIONS ON DESIGN ELEMENTS
+11 FOR INCREASING SAFETY AT ELECTRIC VEHICLE CHARGING STATIONS, INCLUDING:
+12 (I) IMPROVED LIGHTING;
+13 (II) MONITORING BY SECURITY CAMERAS;
+14 (III) SMART PHONE APPLICATIONS AIMED AT REPORTING
+15 INCIDENTS TO LOCAL LAW ENFORCEMENT;
+16 (IV) EMERGENCY BLUE LIGHTS; AND
+17 (V) POTENTIAL METHODS FOR THE OCCUPANT OF AN ELECTRIC
+18 VEHICLE TO SAFELY DISCONNECT FROM A CHARGING STATION WITHOUT HAVING TO
+19 EXIT THE VEHICLE;
+20 (14) STUDY AND MAKE RECOMMENDATIONS ON IMPROVING THE
+21 RELIABILITY OF CURRENT CHARGING STATIONS; AND
+22 [(13)] (15) Pursue other goals and objectives that promote the utilization of
+23 zero emission electric vehicles in the State.
+24 (h) (1) On or before December 1, 2024, and December 1, 2025, the Council shall
+25 submit interim reports of its work and recommendations to the Governor and, in accordance
+26 with § 2–1257 of the State Government Article, the General Assembly.
+27 (2) On or before June 30, 2026, the Council shall submit a final report of
+28 its work and recommendations to the Governor and, in accordance with § 2–1257 of the
+29 State Government Article, the General Assembly.
+30 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+31 1, 2025.
+
+6 HOUSE BILL 1427
+
+[DELETED: :CA      5     A M F t p o a t m o t M Z E E V I C t i t S o S P o t S s t B  A  S  A  (  S T A 2  ( ( I   ( “ m t M Z E E V I   ( “ a   ( “ t]
+[DELETED:  H    ( “    ( A    ( A  ( T  ( T   ( O t   ( T t   ( T   ( T   ( T   ( T   ( T   TSSP,S E O T OE O T EYS   () T]( P   () T D o t M E A o t]( D   () T](   () T](    ( O S    ( T r o t M A o C i]
+[DELETED: H 3     1 A a     2 A r w r i a u o s r    ( T r o t M M L i     1 A a     2 A r w r i a u o s r    ( O r o a e v d a o    ( T    ( O m    ( O m    ( O v    ( O    ( O i    ( O    ( O    ( T    ( O p    ( O r o a n v d a i t S    ( O]
+[DELETED:  H     ( O r o a a d a r t r  ( T  ( T o  ( A   ( M   ( I e t r o e u t S S T  ( T   ( D e   ( A i d a c s s f s p a i o r a c e v c   ( D h r i p i p o f p c   ( I v   ( M r r m a n i i   ( D e   ( D   ( D m p p f l v t i a]
+[DELETED: H 5   ( E l a r e t p t u o e v a a f f f S a l z e e v p   ( R p t s z e e v c   ( R a m o d p i a p c   ( E p m f m z e e v ad    A M R O D ES :  () I;M  () M;IO  () IM P A A A R  () E;VMS   () O (  A M R O I TS    () P]( z  ( ( O s w   ( O i S  S 1]
+[DELETED:  H ]

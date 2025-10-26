@@ -1,0 +1,321 @@
+Title: SENATE BILL 760
+Official Title: SENATE BILL 760
+Number of Sections: 1
+Source: versions - First - Better Small Business Employee Benefit Act of 2025
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+J5 5lr2236
+CF 5lr1878
+By: Senator Feldman
+Introduced and read first time: January 27, 2025
+Assigned to: Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Better Small Business Employee Benefit Act of 2025
+3 FOR the purpose of exempting from certain requirements relating to offering health benefit
+4 plans to small employers in the State health benefit plans issued through a
+5 professional employer organization, coemployer, or other organization located in the
+6 State; and generally relating to health benefit plans issued through professional
+7 employer organizations, coemployers, and other organizations that engage in
+8 employee leasing.
+9 BY repealing and reenacting, without amendments,
+10 Article – Insurance
+11 Section 15–1201(a) and (i)(1) and 31–101(a)
+12 Annotated Code of Maryland
+13 (2017 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Article – Insurance
+16 Section 15–1201(i)(2), 15–1202(b), 15–1204.1, and 31–101(aa)
+17 Annotated Code of Maryland
+18 (2017 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Insurance
+21 Section 15–1201(r–1)
+22 Annotated Code of Maryland
+23 (2017 Replacement Volume and 2024 Supplement)
+24 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+25 That the Laws of Maryland read as follows:
+26 Article – Insurance
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0760*
+2 SENATE BILL 760
+1 15–1201.
+2 (a) In this subtitle the following words have the meanings indicated.
+3 (i) (1) “Health benefit plan” means:
+4 (i) a policy or certificate for hospital or medical benefits issued by
+5 an insurer;
+6 (ii) a nonprofit health service plan contract; or
+7 (iii) a health maintenance organization subscriber or group master
+8 contract.
+9 (2) “Health benefit plan” includes a policy or certificate for hospital or
+10 medical benefits that covers residents of this State who are eligible employees and that is
+11 issued through[:
+12 (i)] a multiple employer trust or association located in this State or
+13 another state[; or
+14 (ii) a professional employer organization, coemployer, or other
+15 organization located in this State or another state that engages in employee leasing].
+16 (R–1) (1) “PROFESSIONAL EMPLOYER ORGANIZATION” MEANS A BUSINESS
+17 ENTITY THAT ENTERS INTO A CONTRACTUAL AGREEMENT WITH ANOTHER BUSINESS
+18 ENTITY UNDER WHICH EMPLOYER RESPONSIBILITIES ARE ALLOCATED BETWEEN
+19 THE BUSINESS ENTITIES FOR ALL OR AT LEAST HALF OF THE WORKSITE EMPLOYEES
+20 OF THE SECOND BUSINESS ENTITY.
+21 (2) “PROFESSIONAL EMPLOYER ORGANIZATION” DOES NOT INCLUDE
+22 A BUSINESS ENTITY THAT:
+23 (I) RECRUITS AND HIRES ITS OWN EMPLOYEES;
+24 (II) FINDS OTHER ORGANIZATIONS THAT NEED THE SERVICES
+25 OF ITS EMPLOYEES;
+26 (III) ASSIGNS EMPLOYEES TO CLIENTS ON A TEMPORARY BASIS
+27 TO SUPPORT OR SUPPLEMENT THE CLIENT’S WORKFORCE IN SPECIAL
+28 CIRCUMSTANCES SUCH AS EMPLOYEE ABSENCES, TEMPORARY SKILL SHORTAGES,
+29 AND SEASONAL WORKLOADS; AND
+SENATE BILL 760 3
+1 (IV) CUSTOMARILY ATTEMPTS TO REASSIGN THE EMPLOYEES TO
+2 OTHER CLIENTS WHEN THE EMPLOYEES FINISH EACH ASSIGNMENT.
+3 15–1202.
+4 (b) This subtitle applies to any health benefit plan offered by an association, [a
+5 professional employer organization, or any other entity,] including a plan issued under the
+6 laws of another state, if the health benefit plan covers eligible employees of one or more
+7 small employers and meets the requirements of subsection (a) of this section.
+8 15–1204.1.
+9 (a) (1) This section applies to a carrier with respect to any health benefit plan
+10 that:
+11 [(1)] (I) is not a grandfathered health plan, as defined in § 1251 of the
+12 Affordable Care Act; and
+13 [(2)] (II) is issued, delivered, or renewed in the State on or after January
+14 1, 2014.
+15 (2) THIS SECTION DOES NOT APPLY WITH RESPECT TO A HEALTH
+16 BENEFIT PLAN ISSUED THROUGH A PROFESSIONAL EMPLOYER ORGANIZATION.
+17 (b) (1) Except as provided in this subsection and § 31–110(f) of this article, a
+18 carrier may not offer health benefit plans to small employers in the State unless the carrier
+19 also offers qualified health plans, as defined in § 31–101 of this article, in the Small
+20 Business Health Options Program of the Maryland Health Benefit Exchange in compliance
+21 with the requirements of Title 31 of this article.
+22 (2) A carrier is exempt from the requirement in paragraph (1) of this
+23 subsection if:
+24 (i) the reported total aggregate annual earned premium from all
+25 health benefit plans offered to small employers in the State for the carrier and any other
+26 carriers in the same insurance holding company system, as defined in § 7–101 of this
+27 article, is less than $20,000,000;
+28 (ii) the Commissioner determines that the carrier complies with the
+29 procedures established under paragraph (3) of this subsection; and
+30 (iii) when the carrier ceases to meet the requirements for the
+31 exemption, the carrier provides to the Commissioner immediate notice and its plan for
+32 complying with the requirement in paragraph (1) of this subsection.
+4 SENATE BILL 760
+1 (3) The Commissioner shall establish procedures for a carrier to submit
+2 evidence each year that the carrier meets the requirements necessary to qualify for an
+3 exemption under paragraph (2) of this subsection.
+4 (4) Notwithstanding the exemption provided in paragraph (2) of this
+5 subsection, the Commissioner, in consultation with the Maryland Health Benefit
+6 Exchange:
+7 (i) may assess the impact of the exemption provided in paragraph
+8 (2) of this subsection and, based on that assessment, alter the limit on the amount of annual
+9 premiums that may not be exceeded to qualify for the exemption; and
+10 (ii) shall make any change in the exemption requirement by
+11 regulation.
+12 31–101.
+13 (a) In this subtitle the following words have the meanings indicated.
+14 (aa) (1) “Small employer” means an employer that, during the preceding
+15 calendar year, employed an average of not more than 50 employees.
+16 (2) For purposes of this subsection:
+17 (i) all persons treated as a single employer under § 414(b), (c), or (o)
+18 of the Internal Revenue Code shall be treated as a single employer;
+19 (ii) an employer and any predecessor employer shall be treated as a
+20 single employer;
+21 (iii) the number of employees of an employer shall be determined by
+22 adding:
+23 1. the number of full–time employees; and
+24 2. the number of full–time equivalent employees, which shall
+25 be calculated for a particular month by dividing the aggregate number of hours of service
+26 of employees who are not full–time employees for the month by 120;
+27 (iv) if an employer was not in existence throughout the preceding
+28 calendar year, the determination of whether the employer is a small employer shall be
+29 based on the average number of employees that the employer is reasonably expected to
+30 employ on business days in the current calendar year;
+31 (v) an employer that makes enrollment in qualified health plans
+32 available to its employees through the SHOP Exchange, and would cease to be a small
+33 employer by reason of an increase in the number of its employees, shall continue to be
+SENATE BILL 760 5
+1 treated as a small employer for purposes of this subtitle as long as it continuously makes
+2 enrollment through the SHOP Exchange available to its employees; and
+3 (vi) [to the extent permitted by federal law, an entity that leases
+4 employees from a professional employer organization, coemployer, or other organization
+5 engaged in employee leasing and that otherwise meets the description in this section shall
+6 be treated as a small employer] A WELFARE BENEFIT PLAN OFFERED TO A WORKSITE
+7 EMPLOYEE OF A PROFESSIONAL EMPLOYER ORGANIZATION SHALL BE TREATED AS
+8 A SINGLE EMPLOYER WELFARE BENEFIT PLAN.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all
+10 policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or
+11 after January 1, 2026.
+12 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+13 January 1, 2026.
+[DELETED: :CA      5   C A B F p t s e i t S h b p i t a p S g t h b p t p e o c a o o t e i e B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  S  1  ( I  ( ( “    ( a a    ( a    ( a c   ( “ b p i a p o c f h o m ih:    () a ae;    ( a p e o c o o og. – “PRN  U W E R A A BY ( “PN T  () ;RS  ()IF  ()IA S O S T CTS W I SS SS ]
+[DELETED: S 3  ()VCT 1  ( T a p,  l s 1  ( T t   () i] ( A   ()i] () 1    S D N A W R T A HN  ( ( E c a o q h p a d i § 3 o t a i t S B w   ( A c i e f t r i p ( o t s    ( t r t e p f a h c i t s i h c s a d i § 7 o t a    ( t p    ( w t c c t m t r f t e c]
+[DELETED:  S    ( T e e   ( N t e p i p ( o t s t C i c w t M H B E    ( m ( p    ( s m a c i t e r b r 3  ( I  ( ( “ e m a e t d t p c   ( F    ( a o    ( a s    ( t a     1 t     2 t b o    ( i c b e    ( a e t m e i q h p a e]
+[DELETED: S 5 t e    ( t t e p b f l a e t e e b .  S p a  S A B I F E T t A s t e J]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 760
+J5 5lr2236
+CF 5lr1878
+By: Senator Feldman
+Introduced and read first time: January 27, 2025
+Assigned to: Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Better Small Business Employee Benefit Act of 2025
+3 FOR the purpose of exempting from certain requirements relating to offering health benefit
+4 plans to small employers in the State health benefit plans issued through a
+5 professional employer organization, coemployer, or other organization located in the
+6 State; and generally relating to health benefit plans issued through professional
+7 employer organizations, coemployers, and other organizations that engage in
+8 employee leasing.
+9 BY repealing and reenacting, without amendments,
+10 Article – Insurance
+11 Section 15–1201(a) and (i)(1) and 31–101(a)
+12 Annotated Code of Maryland
+13 (2017 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Article – Insurance
+16 Section 15–1201(i)(2), 15–1202(b), 15–1204.1, and 31–101(aa)
+17 Annotated Code of Maryland
+18 (2017 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Insurance
+21 Section 15–1201(r–1)
+22 Annotated Code of Maryland
+23 (2017 Replacement Volume and 2024 Supplement)
+24 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+25 That the Laws of Maryland read as follows:
+26 Article – Insurance
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0760*
+
+2 SENATE BILL 760
+1 15–1201.
+2 (a) In this subtitle the following words have the meanings indicated.
+3 (i) (1) “Health benefit plan” means:
+4 (i) a policy or certificate for hospital or medical benefits issued by
+5 an insurer;
+6 (ii) a nonprofit health service plan contract; or
+7 (iii) a health maintenance organization subscriber or group master
+8 contract.
+9 (2) “Health benefit plan” includes a policy or certificate for hospital or
+10 medical benefits that covers residents of this State who are eligible employees and that is
+11 issued through[:
+12 (i)] a multiple employer trust or association located in this State or
+13 another state[; or
+14 (ii) a professional employer organization, coemployer, or other
+15 organization located in this State or another state that engages in employee leasing].
+16 (R–1) (1) “PROFESSIONAL EMPLOYER ORGANIZATION” MEANS A BUSINESS
+17 ENTITY THAT ENTERS INTO A CONTRACTUAL AGREEMENT WITH ANOTHER BUSINESS
+18 ENTITY UNDER WHICH EMPLOYER RESPONSIBILITIES ARE ALLOCATED BETWEEN
+19 THE BUSINESS ENTITIES FOR ALL OR AT LEAST HALF OF THE WORKSITE EMPLOYEES
+20 OF THE SECOND BUSINESS ENTITY.
+21 (2) “PROFESSIONAL EMPLOYER ORGANIZATION” DOES NOT INCLUDE
+22 A BUSINESS ENTITY THAT:
+23 (I) RECRUITS AND HIRES ITS OWN EMPLOYEES;
+24 (II) FINDS OTHER ORGANIZATIONS THAT NEED THE SERVICES
+25 OF ITS EMPLOYEES;
+26 (III) ASSIGNS EMPLOYEES TO CLIENTS ON A TEMPORARY BASIS
+27 TO SUPPORT OR SUPPLEMENT THE CLIENT’S WORKFORCE IN SPECIAL
+28 CIRCUMSTANCES SUCH AS EMPLOYEE ABSENCES, TEMPORARY SKILL SHORTAGES,
+29 AND SEASONAL WORKLOADS; AND
+
+SENATE BILL 760 3
+1 (IV) CUSTOMARILY ATTEMPTS TO REASSIGN THE EMPLOYEES TO
+2 OTHER CLIENTS WHEN THE EMPLOYEES FINISH EACH ASSIGNMENT.
+3 15–1202.
+4 (b) This subtitle applies to any health benefit plan offered by an association, [a
+5 professional employer organization, or any other entity,] including a plan issued under the
+6 laws of another state, if the health benefit plan covers eligible employees of one or more
+7 small employers and meets the requirements of subsection (a) of this section.
+8 15–1204.1.
+9 (a) (1) This section applies to a carrier with respect to any health benefit plan
+10 that:
+11 [(1)] (I) is not a grandfathered health plan, as defined in § 1251 of the
+12 Affordable Care Act; and
+13 [(2)] (II) is issued, delivered, or renewed in the State on or after January
+14 1, 2014.
+15 (2) THIS SECTION DOES NOT APPLY WITH RESPECT TO A HEALTH
+16 BENEFIT PLAN ISSUED THROUGH A PROFESSIONAL EMPLOYER ORGANIZATION.
+17 (b) (1) Except as provided in this subsection and § 31–110(f) of this article, a
+18 carrier may not offer health benefit plans to small employers in the State unless the carrier
+19 also offers qualified health plans, as defined in § 31–101 of this article, in the Small
+20 Business Health Options Program of the Maryland Health Benefit Exchange in compliance
+21 with the requirements of Title 31 of this article.
+22 (2) A carrier is exempt from the requirement in paragraph (1) of this
+23 subsection if:
+24 (i) the reported total aggregate annual earned premium from all
+25 health benefit plans offered to small employers in the State for the carrier and any other
+26 carriers in the same insurance holding company system, as defined in § 7–101 of this
+27 article, is less than $20,000,000;
+28 (ii) the Commissioner determines that the carrier complies with the
+29 procedures established under paragraph (3) of this subsection; and
+30 (iii) when the carrier ceases to meet the requirements for the
+31 exemption, the carrier provides to the Commissioner immediate notice and its plan for
+32 complying with the requirement in paragraph (1) of this subsection.
+
+4 SENATE BILL 760
+1 (3) The Commissioner shall establish procedures for a carrier to submit
+2 evidence each year that the carrier meets the requirements necessary to qualify for an
+3 exemption under paragraph (2) of this subsection.
+4 (4) Notwithstanding the exemption provided in paragraph (2) of this
+5 subsection, the Commissioner, in consultation with the Maryland Health Benefit
+6 Exchange:
+7 (i) may assess the impact of the exemption provided in paragraph
+8 (2) of this subsection and, based on that assessment, alter the limit on the amount of annual
+9 premiums that may not be exceeded to qualify for the exemption; and
+10 (ii) shall make any change in the exemption requirement by
+11 regulation.
+12 31–101.
+13 (a) In this subtitle the following words have the meanings indicated.
+14 (aa) (1) “Small employer” means an employer that, during the preceding
+15 calendar year, employed an average of not more than 50 employees.
+16 (2) For purposes of this subsection:
+17 (i) all persons treated as a single employer under § 414(b), (c), or (o)
+18 of the Internal Revenue Code shall be treated as a single employer;
+19 (ii) an employer and any predecessor employer shall be treated as a
+20 single employer;
+21 (iii) the number of employees of an employer shall be determined by
+22 adding:
+23 1. the number of full–time employees; and
+24 2. the number of full–time equivalent employees, which shall
+25 be calculated for a particular month by dividing the aggregate number of hours of service
+26 of employees who are not full–time employees for the month by 120;
+27 (iv) if an employer was not in existence throughout the preceding
+28 calendar year, the determination of whether the employer is a small employer shall be
+29 based on the average number of employees that the employer is reasonably expected to
+30 employ on business days in the current calendar year;
+31 (v) an employer that makes enrollment in qualified health plans
+32 available to its employees through the SHOP Exchange, and would cease to be a small
+33 employer by reason of an increase in the number of its employees, shall continue to be
+
+SENATE BILL 760 5
+1 treated as a small employer for purposes of this subtitle as long as it continuously makes
+2 enrollment through the SHOP Exchange available to its employees; and
+3 (vi) [to the extent permitted by federal law, an entity that leases
+4 employees from a professional employer organization, coemployer, or other organization
+5 engaged in employee leasing and that otherwise meets the description in this section shall
+6 be treated as a small employer] A WELFARE BENEFIT PLAN OFFERED TO A WORKSITE
+7 EMPLOYEE OF A PROFESSIONAL EMPLOYER ORGANIZATION SHALL BE TREATED AS
+8 A SINGLE EMPLOYER WELFARE BENEFIT PLAN.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all
+10 policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or
+11 after January 1, 2026.
+12 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+13 January 1, 2026.
+
+[DELETED: :CA      5   C A B F p t s e i t S h b p i t a p S g t h b p t p e o c a o o t e i e B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  S  1  ( I  ( ( “    ( a a    ( a    ( a c   ( “ b p i a p o c f h o m ih:    () a ae;    ( a p e o c o o og. – “PRN  U W E R A A BY ( “PN T  () ;RS  ()IF  ()IA S O S T CTS W I SS SS ]
+[DELETED: S 3  ()VCT 1  ( T a p,  l s 1  ( T t   () i] ( A   ()i] () 1    S D N A W R T A HN  ( ( E c a o q h p a d i § 3 o t a i t S B w   ( A c i e f t r i p ( o t s    ( t r t e p f a h c i t s i h c s a d i § 7 o t a    ( t p    ( w t c c t m t r f t e c]
+[DELETED:  S    ( T e e   ( N t e p i p ( o t s t C i c w t M H B E    ( m ( p    ( s m a c i t e r b r 3  ( I  ( ( “ e m a e t d t p c   ( F    ( a o    ( a s    ( t a     1 t     2 t b o    ( i c b e    ( a e t m e i q h p a e]
+[DELETED: S 5 t e    ( t t e p b f l a e t e e b .  S p a  S A B I F E T t A s t e J]

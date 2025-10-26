@@ -1,0 +1,358 @@
+Title: SENATE BILL 705
+Official Title: SENATE BILL 705
+Number of Sections: 1
+Source: versions - First - Department of Information Technology - Reporting Guidelines
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+S1 5lr2986
+CF HB 738
+By: Senator Hester
+Introduced and read first time: January 27, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Department of Information Technology – Reporting Guidelines
+3 FOR the purpose of altering the content of certain reports by the Department of
+4 Information Technology relating to the Information Technology Investment Fund;
+5 requiring the reports to be written and structured in a certain manner and made
+6 publicly available on the Department’s website; and generally relating to reporting
+7 by the Department of Information Technology.
+8 BY repealing and reenacting, without amendments,
+9 Article – State Finance and Procurement
+10 Section 3.5–309(a)
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – State Finance and Procurement
+15 Section 3.5–309(n) and (o)
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2024 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – State Finance and Procurement
+21 3.5–309.
+22 (a) There is an Information Technology Investment Fund.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0705*
+2 SENATE BILL 705
+1 (n) (1) On or before [November] OCTOBER 1 of each year, the Secretary shall
+2 report to the Governor and the Secretary of Budget and Management and, in accordance
+3 with § 2–1257 of the State Government Article, to the Senate Budget and Taxation
+4 Committee, the Senate Committee on Education, Energy, and the Environment, the House
+5 Appropriations Committee, the House Health and Government Operations Committee, and
+6 the Joint Committee on Cybersecurity, Information Technology, and Biotechnology.
+7 (2) The report shall include:
+8 (i) the financial status of the Fund and a summary of its operations
+9 for the preceding fiscal year;
+10 (ii) an accounting for the preceding fiscal year of all money from each
+11 of the revenue sources specified in subsection (e) of this section, including any expenditures
+12 made from the Fund; and
+13 (iii) for each project receiving money from the Fund in the preceding
+14 fiscal year and for each major information technology development project or expedited
+15 project receiving funding from any source other than the Fund in the preceding fiscal year:
+16 1. A BRIEF DESCRIPTION OF THE PROJECT, INCLUDING
+17 MAJOR CUSTOMERS AND INTERDEPENDENCIES WITH OTHER SYSTEMS;
+18 2. AN ANALYSIS OF HOW THE PROJECT GOALS PROVIDE
+19 AN ADVANTAGE OVER CURRENT AGENCY OPERATIONS, INCLUDING A DESCRIPTION
+20 OF KEY PROJECT GOALS, CRITICAL SUCCESS FACTORS, HOW THE PROJECT
+21 SUPPORTS THE BUSINESS PROCESS, AND WHETHER THE SUCCESSFUL PROJECT
+22 WILL PROVIDE A BASIS FOR A FUTURE PROJECT AT THE SAME OR ANY OTHER UNIT
+23 OF STATE GOVERNMENT;
+24 3. A DESCRIPTION OF TECHNOLOGIES EMPLOYED IN
+25 THE PROJECT;
+26 4. AN ASSESSMENT OF THE VENDOR POOL OF LIKELY
+27 BIDDERS OR OFFERORS;
+28 5. A DESCRIPTION OF THE PROCESS USED TO DEVELOP
+29 THE PROJECT;
+30 6. AN OVERVIEW OF THE PROJECT SCHEDULE,
+31 INCLUDING ANY INTERMEDIATE PROJECT DEADLINES;
+32 [1.] 7. the status of the project and project funding
+33 decisions;
+SENATE BILL 705 3
+1 [2.] 8. a comparison of estimated and actual costs of the
+2 project;
+3 [3.] 9. any known or anticipated changes in scope or costs
+4 of the project;
+5 10. A DESCRIPTION OF ANY ONGOING OPERATING
+6 EXPENSES AS A RESULT OF THE PROJECT AND A TIMELINE OF WHEN THOSE COSTS
+7 WILL BE INCURRED;
+8 [4.] 11. an evaluation of whether the project is using best
+9 practices; and
+10 [5.] 12. a summary of any monitoring and oversight of the
+11 project from outside the agency in which the project is being developed, including a
+12 description of any problems identified by any external review and any corrective actions
+13 taken.
+14 (3) THE REPORT SUBMITTED UNDER THIS SUBSECTION SHALL BE:
+15 (I) WRITTEN, AS PRACTICABLE, IN A MANNER THAT IS CLEAR,
+16 CONCISE, AND WELL–ORGANIZED AND AVOIDS TECHNICAL JARGON;
+17 (II) STRUCTURED TO INCLUDE AN EXECUTIVE SUMMARY OF KEY
+18 INFORMATION THAT HIGHLIGHTS ACTION ITEMS AND DECISION POINTS,
+19 INCLUDING:
+20 1. THE TOTAL VALUE OF THE PORTFOLIO, INCLUDING
+21 ANNUAL DEVELOPMENT COSTS, FUNDING SOURCES, AND PREDICTED ONGOING
+22 OPERATING COSTS OVER THE NEXT 5 YEARS;
+23 2. A SUMMARY OF NEW PROJECTS, THE ADVANTAGES OF
+24 THE PROJECTS, AND ANY NEW OR INNOVATIVE ASPECTS OF THE DEVELOPMENT
+25 PROCESSES;
+26 3. AN ASSESSMENT OF THE NEW TECHNOLOGIES AND
+27 BEST PRACTICES EMPLOYED ACROSS THE PORTFOLIO, INCLUDING HOW THOSE
+28 TECHNOLOGIES ALIGN TO THE STATE MASTER PLAN;
+29 4. A DASHBOARD GRAPHIC TO DEPICT THE BASIC
+30 STATUS OF ALL PROJECTS IN THE PORTFOLIO, INCLUDING THE STATUS AS IT
+31 RELATES TO MILESTONES AND FINANCIAL INVESTMENT; AND
+4 SENATE BILL 705
+1 5. AN ASSESSMENT OF ANY RISKS IDENTIFIED, BY TYPE
+2 AND AGENCY; AND
+3 (III) MADE PUBLICLY AVAILABLE ON THE DEPARTMENT’S
+4 WEBSITE.
+5 (o) (1) On or before January 15 of each year, for each major information
+6 technology development project or expedited project currently in development or for which
+7 operations and maintenance funding is being provided in accordance with subsection (i)(3)
+8 of this section, subject to § 2–1257 of the State Government Article, the Secretary shall
+9 provide a summary report to THE SENATE BUDGET AND TAXATION COMMITTEE, THE
+10 SENATE COMMITTEE ON EDUCATION, ENERGY, AND THE ENVIRONMENT, THE
+11 HOUSE APPROPRIATIONS COMMITTEE, THE HOUSE HEALTH AND GOVERNMENT
+12 OPERATIONS COMMITTEE, THE JOINT COMMITTEE ON CYBERSECURITY,
+13 INFORMATION TECHNOLOGY, AND BIOTECHNOLOGY, AND the Department of
+14 Legislative Services with the most up–to–date project information including:
+15 [(1)] (I) project funding decisions and project status, INCLUDING:
+16 1. ANNUAL DEVELOPMENT COSTS;
+17 2. FUNDING SOURCES; AND
+18 3. ONGOING OPERATING COSTS, INCLUDING LICENSES
+19 AND SUPPORT TO MAINTAIN AND UPDATE THE SYSTEM;
+20 [(2)] (II) any schedule, cost, and scope changes since the [last annual]
+21 report REQUIRED UNDER SUBSECTION (N) OF THIS SECTION WAS SUBMITTED;
+22 [(3)] (III) a risk assessment THAT GIVES A DETAILED DESCRIPTION OF
+23 THE RISK IDENTIFIED, including:
+24 1. TYPE OF RISK IDENTIFIED, INCLUDING AGENCY
+25 GOVERNANCE, STAFF RESOURCE AVAILABILITY OR TRAINING, FUNDING,
+26 INTERDEPENDENCIES WITH OTHER SYSTEMS, TECHNICAL ISSUES,
+27 ORGANIZATIONAL CULTURE, OR LONG–TERM SUPPORTABILITY; AND
+28 2. any problems identified by any internal or external review
+29 and any corrective actions taken; [and]
+30 (IV) PROJECT TRACKING METRICS, INCLUDING:
+SENATE BILL 705 5
+1 1. PROJECT DEADLINES AND ASSOCIATED
+2 DELIVERABLES; AND
+3 2. A DESCRIPTION OF ANY CHANGES IN SCOPE,
+4 TIMELINE, AND COSTS; AND
+5 [(4)] (V) any change in the monitoring or oversight status.
+6 (2) THE REPORT SUBMITTED UNDER THIS SUBSECTION SHALL BE:
+7 (I) WRITTEN, AS PRACTICABLE, IN A MANNER THAT IS CLEAR,
+8 CONCISE, AND WELL–ORGANIZED AND AVOIDS TECHNICAL JARGON;
+9 (II) STRUCTURED TO INCLUDE AN EXECUTIVE SUMMARY OF KEY
+10 INFORMATION THAT HIGHLIGHTS ACTION ITEMS AND DECISION POINTS,
+11 INCLUDING:
+12 1. THE TOTAL VALUE OF THE PORTFOLIO, INCLUDING
+13 ANNUAL DEVELOPMENT COSTS, FUNDING SOURCES, AND PREDICTED ONGOING
+14 OPERATING COSTS OVER THE NEXT 5 YEARS;
+15 2. A SUMMARY OF NEW PROJECTS, THE ADVANTAGES OF
+16 THE PROJECTS, AND ANY NEW OR INNOVATIVE ASPECTS OF THE DEVELOPMENT
+17 PROCESSES;
+18 3. AN ASSESSMENT OF THE NEW TECHNOLOGIES AND
+19 BEST PRACTICES EMPLOYED ACROSS THE PORTFOLIO, INCLUDING HOW THOSE
+20 TECHNOLOGIES ALIGN TO THE STATE MASTER PLAN;
+21 4. A DASHBOARD GRAPHIC TO DEPICT THE BASIC
+22 STATUS OF ALL PROJECTS IN THE PORTFOLIO, INCLUDING THE STATUS AS IT
+23 RELATES TO MILESTONES AND FINANCIAL INVESTMENT;
+24 5. AN ASSESSMENT OF ANY RISKS IDENTIFIED UNDER
+25 PARAGRAPH (1)(III) OF THIS SUBSECTION, BY TYPE AND AGENCY; AND
+26 6. FOR THE ENTIRE PORTFOLIO, AN ASSESSMENT OF
+27 PROJECT MANAGEMENT AND OVERSIGHT, DELINEATED BY AGENCY–LED PROJECTS
+28 AND DEPARTMENT–LED PROJECTS, INCLUDING ALL ANTICIPATED CHANGES IN
+29 SCOPE OR COSTS AND PROJECT TRACKING METRICS; AND
+30 (III) MADE PUBLICLY AVAILABLE ON THE DEPARTMENT’S
+31 WEBSITE.
+6 SENATE BILL 705
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+2 1, 2025.
+[DELETED: :CA      5   C A D F t p o a t c o c r b t D o I r p b B  A S  A  ( B  A S  A  (  S T A 3  ( T]
+[DELETED:  S   ( ( O Nr ]C r w § 2 o t S G A t t S B a T C A t   ( T    ( t f    ( a o m    ( f f p     .T S   2S  K P GS C S FS H T P T B PS A W T S P TT;   3 D O T E IT   4 A O T V P O LS   5T   6  O O T P SES     1. t s o t p a p f]7 d]
+[DELETED: S 3     2.  a]8 p     3.  a]9 o     D O A O OD     4. a]1 p     5. a]1 p f o t a i w t p i b d i a d t   T:  () ,,WN E RE LON–;  ()IS T H A I A D PSG   1  T V O T PO I D CS F SS A P O  S;   2 S  PS A A N O I A O T DS   3 A O T N T A P E A T PO I H T TN;   4 D G T D T B O A P I T PO I T S A IT ]
+[DELETED:  S    5 D Y    () DIM P A O T ETS  ( O o b J 1 o e y f e m i t o o p E U A OE BTCCE,E,E O O DN NY A T NT TAC,HH P OE T O E OC,JCC OE T O O O YYT,B EY A IY A  t D o L   () p] (),: G   1 ;S   2 ;S    3  O CS I L    () a s c a s c s t l al] ()[ rt; N    () a] (I D : i   1  O R ID I AE S R A O TG FG, W O SS T ISE GTY –;   2 a a a]  () ,:VPS G]
+[DELETED: S 5   1 D A AS    2  D O A C I SEE S ;   () a] (   T:  () ,,WN E RE LON–;  ()IS T H A I A D PSG   1  T V O T PO I D CS F SS A P O  S;   2 S  PS A A N O I A O T DS   3 A O T N T A P E A T PO I H T TN;   4 D G T D T B O A P I T PO I T S A IT   5 A O A R I U II N Y (),;   6  T E PO A A OT YL ETL PS I A A C I–S   () DIM P A O T ETSE]
+[DELETED:  S   S 1]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 705
+S1 5lr2986
+CF HB 738
+By: Senator Hester
+Introduced and read first time: January 27, 2025
+Assigned to: Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Department of Information Technology – Reporting Guidelines
+3 FOR the purpose of altering the content of certain reports by the Department of
+4 Information Technology relating to the Information Technology Investment Fund;
+5 requiring the reports to be written and structured in a certain manner and made
+6 publicly available on the Department’s website; and generally relating to reporting
+7 by the Department of Information Technology.
+8 BY repealing and reenacting, without amendments,
+9 Article – State Finance and Procurement
+10 Section 3.5–309(a)
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – State Finance and Procurement
+15 Section 3.5–309(n) and (o)
+16 Annotated Code of Maryland
+17 (2021 Replacement Volume and 2024 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – State Finance and Procurement
+21 3.5–309.
+22 (a) There is an Information Technology Investment Fund.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0705*
+
+2 SENATE BILL 705
+1 (n) (1) On or before [November] OCTOBER 1 of each year, the Secretary shall
+2 report to the Governor and the Secretary of Budget and Management and, in accordance
+3 with § 2–1257 of the State Government Article, to the Senate Budget and Taxation
+4 Committee, the Senate Committee on Education, Energy, and the Environment, the House
+5 Appropriations Committee, the House Health and Government Operations Committee, and
+6 the Joint Committee on Cybersecurity, Information Technology, and Biotechnology.
+7 (2) The report shall include:
+8 (i) the financial status of the Fund and a summary of its operations
+9 for the preceding fiscal year;
+10 (ii) an accounting for the preceding fiscal year of all money from each
+11 of the revenue sources specified in subsection (e) of this section, including any expenditures
+12 made from the Fund; and
+13 (iii) for each project receiving money from the Fund in the preceding
+14 fiscal year and for each major information technology development project or expedited
+15 project receiving funding from any source other than the Fund in the preceding fiscal year:
+16 1. A BRIEF DESCRIPTION OF THE PROJECT, INCLUDING
+17 MAJOR CUSTOMERS AND INTERDEPENDENCIES WITH OTHER SYSTEMS;
+18 2. AN ANALYSIS OF HOW THE PROJECT GOALS PROVIDE
+19 AN ADVANTAGE OVER CURRENT AGENCY OPERATIONS, INCLUDING A DESCRIPTION
+20 OF KEY PROJECT GOALS, CRITICAL SUCCESS FACTORS, HOW THE PROJECT
+21 SUPPORTS THE BUSINESS PROCESS, AND WHETHER THE SUCCESSFUL PROJECT
+22 WILL PROVIDE A BASIS FOR A FUTURE PROJECT AT THE SAME OR ANY OTHER UNIT
+23 OF STATE GOVERNMENT;
+24 3. A DESCRIPTION OF TECHNOLOGIES EMPLOYED IN
+25 THE PROJECT;
+26 4. AN ASSESSMENT OF THE VENDOR POOL OF LIKELY
+27 BIDDERS OR OFFERORS;
+28 5. A DESCRIPTION OF THE PROCESS USED TO DEVELOP
+29 THE PROJECT;
+30 6. AN OVERVIEW OF THE PROJECT SCHEDULE,
+31 INCLUDING ANY INTERMEDIATE PROJECT DEADLINES;
+32 [1.] 7. the status of the project and project funding
+33 decisions;
+
+SENATE BILL 705 3
+1 [2.] 8. a comparison of estimated and actual costs of the
+2 project;
+3 [3.] 9. any known or anticipated changes in scope or costs
+4 of the project;
+5 10. A DESCRIPTION OF ANY ONGOING OPERATING
+6 EXPENSES AS A RESULT OF THE PROJECT AND A TIMELINE OF WHEN THOSE COSTS
+7 WILL BE INCURRED;
+8 [4.] 11. an evaluation of whether the project is using best
+9 practices; and
+10 [5.] 12. a summary of any monitoring and oversight of the
+11 project from outside the agency in which the project is being developed, including a
+12 description of any problems identified by any external review and any corrective actions
+13 taken.
+14 (3) THE REPORT SUBMITTED UNDER THIS SUBSECTION SHALL BE:
+15 (I) WRITTEN, AS PRACTICABLE, IN A MANNER THAT IS CLEAR,
+16 CONCISE, AND WELL–ORGANIZED AND AVOIDS TECHNICAL JARGON;
+17 (II) STRUCTURED TO INCLUDE AN EXECUTIVE SUMMARY OF KEY
+18 INFORMATION THAT HIGHLIGHTS ACTION ITEMS AND DECISION POINTS,
+19 INCLUDING:
+20 1. THE TOTAL VALUE OF THE PORTFOLIO, INCLUDING
+21 ANNUAL DEVELOPMENT COSTS, FUNDING SOURCES, AND PREDICTED ONGOING
+22 OPERATING COSTS OVER THE NEXT 5 YEARS;
+23 2. A SUMMARY OF NEW PROJECTS, THE ADVANTAGES OF
+24 THE PROJECTS, AND ANY NEW OR INNOVATIVE ASPECTS OF THE DEVELOPMENT
+25 PROCESSES;
+26 3. AN ASSESSMENT OF THE NEW TECHNOLOGIES AND
+27 BEST PRACTICES EMPLOYED ACROSS THE PORTFOLIO, INCLUDING HOW THOSE
+28 TECHNOLOGIES ALIGN TO THE STATE MASTER PLAN;
+29 4. A DASHBOARD GRAPHIC TO DEPICT THE BASIC
+30 STATUS OF ALL PROJECTS IN THE PORTFOLIO, INCLUDING THE STATUS AS IT
+31 RELATES TO MILESTONES AND FINANCIAL INVESTMENT; AND
+
+4 SENATE BILL 705
+1 5. AN ASSESSMENT OF ANY RISKS IDENTIFIED, BY TYPE
+2 AND AGENCY; AND
+3 (III) MADE PUBLICLY AVAILABLE ON THE DEPARTMENT’S
+4 WEBSITE.
+5 (o) (1) On or before January 15 of each year, for each major information
+6 technology development project or expedited project currently in development or for which
+7 operations and maintenance funding is being provided in accordance with subsection (i)(3)
+8 of this section, subject to § 2–1257 of the State Government Article, the Secretary shall
+9 provide a summary report to THE SENATE BUDGET AND TAXATION COMMITTEE, THE
+10 SENATE COMMITTEE ON EDUCATION, ENERGY, AND THE ENVIRONMENT, THE
+11 HOUSE APPROPRIATIONS COMMITTEE, THE HOUSE HEALTH AND GOVERNMENT
+12 OPERATIONS COMMITTEE, THE JOINT COMMITTEE ON CYBERSECURITY,
+13 INFORMATION TECHNOLOGY, AND BIOTECHNOLOGY, AND the Department of
+14 Legislative Services with the most up–to–date project information including:
+15 [(1)] (I) project funding decisions and project status, INCLUDING:
+16 1. ANNUAL DEVELOPMENT COSTS;
+17 2. FUNDING SOURCES; AND
+18 3. ONGOING OPERATING COSTS, INCLUDING LICENSES
+19 AND SUPPORT TO MAINTAIN AND UPDATE THE SYSTEM;
+20 [(2)] (II) any schedule, cost, and scope changes since the [last annual]
+21 report REQUIRED UNDER SUBSECTION (N) OF THIS SECTION WAS SUBMITTED;
+22 [(3)] (III) a risk assessment THAT GIVES A DETAILED DESCRIPTION OF
+23 THE RISK IDENTIFIED, including:
+24 1. TYPE OF RISK IDENTIFIED, INCLUDING AGENCY
+25 GOVERNANCE, STAFF RESOURCE AVAILABILITY OR TRAINING, FUNDING,
+26 INTERDEPENDENCIES WITH OTHER SYSTEMS, TECHNICAL ISSUES,
+27 ORGANIZATIONAL CULTURE, OR LONG–TERM SUPPORTABILITY; AND
+28 2. any problems identified by any internal or external review
+29 and any corrective actions taken; [and]
+30 (IV) PROJECT TRACKING METRICS, INCLUDING:
+
+SENATE BILL 705 5
+1 1. PROJECT DEADLINES AND ASSOCIATED
+2 DELIVERABLES; AND
+3 2. A DESCRIPTION OF ANY CHANGES IN SCOPE,
+4 TIMELINE, AND COSTS; AND
+5 [(4)] (V) any change in the monitoring or oversight status.
+6 (2) THE REPORT SUBMITTED UNDER THIS SUBSECTION SHALL BE:
+7 (I) WRITTEN, AS PRACTICABLE, IN A MANNER THAT IS CLEAR,
+8 CONCISE, AND WELL–ORGANIZED AND AVOIDS TECHNICAL JARGON;
+9 (II) STRUCTURED TO INCLUDE AN EXECUTIVE SUMMARY OF KEY
+10 INFORMATION THAT HIGHLIGHTS ACTION ITEMS AND DECISION POINTS,
+11 INCLUDING:
+12 1. THE TOTAL VALUE OF THE PORTFOLIO, INCLUDING
+13 ANNUAL DEVELOPMENT COSTS, FUNDING SOURCES, AND PREDICTED ONGOING
+14 OPERATING COSTS OVER THE NEXT 5 YEARS;
+15 2. A SUMMARY OF NEW PROJECTS, THE ADVANTAGES OF
+16 THE PROJECTS, AND ANY NEW OR INNOVATIVE ASPECTS OF THE DEVELOPMENT
+17 PROCESSES;
+18 3. AN ASSESSMENT OF THE NEW TECHNOLOGIES AND
+19 BEST PRACTICES EMPLOYED ACROSS THE PORTFOLIO, INCLUDING HOW THOSE
+20 TECHNOLOGIES ALIGN TO THE STATE MASTER PLAN;
+21 4. A DASHBOARD GRAPHIC TO DEPICT THE BASIC
+22 STATUS OF ALL PROJECTS IN THE PORTFOLIO, INCLUDING THE STATUS AS IT
+23 RELATES TO MILESTONES AND FINANCIAL INVESTMENT;
+24 5. AN ASSESSMENT OF ANY RISKS IDENTIFIED UNDER
+25 PARAGRAPH (1)(III) OF THIS SUBSECTION, BY TYPE AND AGENCY; AND
+26 6. FOR THE ENTIRE PORTFOLIO, AN ASSESSMENT OF
+27 PROJECT MANAGEMENT AND OVERSIGHT, DELINEATED BY AGENCY–LED PROJECTS
+28 AND DEPARTMENT–LED PROJECTS, INCLUDING ALL ANTICIPATED CHANGES IN
+29 SCOPE OR COSTS AND PROJECT TRACKING METRICS; AND
+30 (III) MADE PUBLICLY AVAILABLE ON THE DEPARTMENT’S
+31 WEBSITE.
+
+6 SENATE BILL 705
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+2 1, 2025.
+
+[DELETED: :CA      5   C A D F t p o a t c o c r b t D o I r p b B  A S  A  ( B  A S  A  (  S T A 3  ( T]
+[DELETED:  S   ( ( O Nr ]C r w § 2 o t S G A t t S B a T C A t   ( T    ( t f    ( a o m    ( f f p     .T S   2S  K P GS C S FS H T P T B PS A W T S P TT;   3 D O T E IT   4 A O T V P O LS   5T   6  O O T P SES     1. t s o t p a p f]7 d]
+[DELETED: S 3     2.  a]8 p     3.  a]9 o     D O A O OD     4. a]1 p     5. a]1 p f o t a i w t p i b d i a d t   T:  () ,,WN E RE LON–;  ()IS T H A I A D PSG   1  T V O T PO I D CS F SS A P O  S;   2 S  PS A A N O I A O T DS   3 A O T N T A P E A T PO I H T TN;   4 D G T D T B O A P I T PO I T S A IT ]
+[DELETED:  S    5 D Y    () DIM P A O T ETS  ( O o b J 1 o e y f e m i t o o p E U A OE BTCCE,E,E O O DN NY A T NT TAC,HH P OE T O E OC,JCC OE T O O O YYT,B EY A IY A  t D o L   () p] (),: G   1 ;S   2 ;S    3  O CS I L    () a s c a s c s t l al] ()[ rt; N    () a] (I D : i   1  O R ID I AE S R A O TG FG, W O SS T ISE GTY –;   2 a a a]  () ,:VPS G]
+[DELETED: S 5   1 D A AS    2  D O A C I SEE S ;   () a] (   T:  () ,,WN E RE LON–;  ()IS T H A I A D PSG   1  T V O T PO I D CS F SS A P O  S;   2 S  PS A A N O I A O T DS   3 A O T N T A P E A T PO I H T TN;   4 D G T D T B O A P I T PO I T S A IT   5 A O A R I U II N Y (),;   6  T E PO A A OT YL ETL PS I A A C I–S   () DIM P A O T ETSE]
+[DELETED:  S   S 1]

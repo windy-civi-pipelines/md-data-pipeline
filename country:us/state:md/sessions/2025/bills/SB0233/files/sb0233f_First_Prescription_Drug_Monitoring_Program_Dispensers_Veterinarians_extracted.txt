@@ -1,0 +1,291 @@
+Title: SENATE BILL 233
+Official Title: SENATE BILL 233
+Number of Sections: 1
+Source: versions - First - Prescription Drug Monitoring Program - Dispensers - Veterinarians
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+J1 5lr0263
+SB 235/24 – FIN (PRE–FILED) CF 5lr0264
+By: Chair, Finance Committee (By Request – Departmental – Health)
+Requested: October 6, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Prescription Drug Monitoring Program – Dispensers – Veterinarians
+3 FOR the purpose of altering the definition of “dispenser” for purposes of the Prescription
+4 Drug Monitoring Program to include certain licensed veterinarians when dispensing
+5 controlled substances in the usual course of providing professional services;
+6 providing that the Program is not required to disclose prescription drug monitoring
+7 data to veterinarians; and generally relating to the Prescription Drug Monitoring
+8 Program and veterinarians.
+9 BY repealing and reenacting, with amendments,
+10 Article – Health – General
+11 Section 21–2A–01 and 21–2A–06(b)(2)
+12 Annotated Code of Maryland
+13 (2023 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, without amendments,
+15 Article – Health – General
+16 Section 21–2A–06(a) and (b)(1)
+17 Annotated Code of Maryland
+18 (2023 Replacement Volume and 2024 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Health – General
+22 21–2A–01.
+23 (a) In this subtitle the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0233*
+2 SENATE BILL 233
+1 (b) “Board” means the Advisory Board on Prescription Drug Monitoring.
+2 (c) (1) “Dispense” has the meaning stated in § 12–101 of the Health
+3 Occupations Article.
+4 (2) “Dispense” does not include:
+5 (i) Directly administering a monitored prescription drug to a
+6 patient; or
+7 (ii) Giving out prescription drug samples.
+8 (d) (1) “Dispenser” means a person authorized by law to dispense a monitored
+9 prescription drug to a patient or the patient’s agent in the State.
+10 (2) “Dispenser” includes [a]:
+11 (I) A nonresident pharmacy; AND
+12 (II) A VETERINARIAN LICENSED UNDER TITLE 2, SUBTITLE 3 OF
+13 THE AGRICULTURE ARTICLE WHEN DISPENSING CONTROLLED SUBSTANCES FOR
+14 ANIMALS IN THE USUAL COURSE OF PROVIDING PROFESSIONAL SERVICES.
+15 (3) “Dispenser” does not include:
+16 (i) A licensed hospital pharmacy that only dispenses a monitored
+17 prescription drug for direct administration to an inpatient of the hospital;
+18 (ii) An opioid treatment services program;
+19 (iii) [A veterinarian licensed under Title 2, Subtitle 3 of the
+20 Agriculture Article when prescribing controlled substances for animals in the usual course
+21 of providing professional services;
+22 (iv)] A pharmacy issued a waiver permit under COMAR 10.34.17.03
+23 that provides pharmaceutical specialty services exclusively to persons living in assisted
+24 living facilities, comprehensive care facilities, and developmental disabilities facilities; and
+25 [(v)] (IV) A pharmacy that:
+26 1. Dispenses medications to an inpatient hospice; and
+27 2. Has been granted a waiver under § 21–2A–03(f) of this
+28 subtitle.
+SENATE BILL 233 3
+1 (e) “Licensing entity” means an entity authorized under the AGRICULTURE
+2 ARTICLE OR THE Health Occupations Article to license, regulate, or discipline a prescriber
+3 or dispenser.
+4 (f) (1) “Monitored prescription drug” means a prescription drug that contains
+5 a Schedule II, Schedule III, Schedule IV, or Schedule V controlled dangerous substance
+6 designated under Title 5, Subtitle 4 of the Criminal Law Article.
+7 (2) “Monitored prescription drug” does not include naloxone medication.
+8 (g) “Naloxone medication” means an opioid antagonist approved by the federal
+9 Food and Drug Administration for the reversal of an opioid overdose.
+10 (h) “Naloxone medication data” means the information submitted to the Program
+11 for naloxone medication.
+12 (i) “Office” means the Office of Controlled Substances Administration in the
+13 Department.
+14 (j) “Opioid treatment services program” means a program that:
+15 (1) Is certified in accordance with § 8–401 of this article or licensed by the
+16 State under § 7.5–401 of this article;
+17 (2) Is authorized to treat patients with opioid dependence with a
+18 medication approved by the federal Food and Drug Administration for opioid dependence;
+19 (3) Complies with:
+20 (i) The Code of Federal Regulations 42, Part 8;
+21 (ii) COMAR 10.47.02.11; and
+22 (iii) Requirements for the secure storage and accounting of opioid
+23 medication imposed by the federal Drug Enforcement Administration and the Office; and
+24 (4) Has been granted a certification for operation by the Department, the
+25 federal Substance Abuse and Mental Health Services Administration, and the federal
+26 Center for Substance Abuse Treatment.
+27 (k) “Pharmacist” means an individual who is licensed under Title 12 of the Health
+28 Occupations Article, or by another state, to dispense a monitored prescription drug.
+29 (l) “Pharmacist delegate” means an individual who is:
+30 (1) Authorized by a registered pharmacist to request or access prescription
+31 monitoring data; and
+4 SENATE BILL 233
+1 (2) Employed by or under contract with the same professional practice as
+2 the registered pharmacist.
+3 (m) “Prescriber” means a licensed health care professional authorized by law to
+4 prescribe a monitored prescription drug.
+5 (n) “Prescriber delegate” means an individual who is:
+6 (1) Authorized by a registered prescriber to request or access prescription
+7 monitoring data; and
+8 (2) Employed by or under contract with the same professional practice as
+9 the prescriber.
+10 (o) “Prescription drug” has the meaning stated in § 21–201 of this title.
+11 (p) “Prescription monitoring data” means the information submitted to the
+12 Program for a monitored prescription drug.
+13 (q) “Program” means the Prescription Drug Monitoring Program established
+14 under this subtitle.
+15 (r) “Registered” means registered with the Program to request or access
+16 prescription monitoring data for clinical use.
+17 (s) “Terminal illness” means a medical condition that, within reasonable medical
+18 judgment, involves a prognosis for a patient that likely will result in the patient’s death
+19 within 6 months.
+20 21–2A–06.
+21 (a) Prescription monitoring data:
+22 (1) Are confidential and privileged, and not subject to discovery, subpoena,
+23 or other means of legal compulsion in civil litigation;
+24 (2) Are not public records; and
+25 (3) Except as provided in subsections (b), (c), (d), and (f) of this section or
+26 as otherwise provided by law, may not disclosed to any person.
+27 (b) The Program shall disclose prescription monitoring data, in accordance with
+28 regulations adopted by the Secretary, to:
+29 (1) A prescriber, or licensed health care practitioner authorized by the
+30 prescriber, in connection with the medical care of a patient;
+SENATE BILL 233 5
+1 (2) [A] EXCEPT FOR A VETERINARIAN, A dispenser, or a licensed health
+2 care practitioner authorized by the dispenser, in connection with the dispensing of a
+3 monitored prescription drug;
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2025.
+[DELETED: :CA      5 ( C A P F D c s i t u c o p p s p d P B  A  S  A  ( B  A  S  A  (  S T A 2  ( I]
+[DELETED:  S   ( “  ( ( “ h t m s i § 1 o t H O   ( “    ( D a a m p d t a p    ( G  ( ( “ p   ( “ ]  () A;     () AT2,SI  I  U   G R W D C .   ( “    ( A p    ( A    ( A v l u T 2 S 3 o t A o    () A t l    () A](I     1 D     2 H s]
+[DELETED: S 3  ( “ e m a e a u t   o  ( ( “ a d   ( “  ( “ F  ( “ f  ( “ m t O o C S A i t D  ( “   ( I S   ( I a t t p w o d w a m   ( C    ( T    ( C    ( R f t s s a a o o m   ( H f S A a M H S A a t f C  ( “ O  ( “   ( A m]
+[DELETED:  S    ( E t  ( “ p  ( “   ( A m   ( E t  ( “  ( “ m d m t i s t t P  ( “ m t P D M P e u  ( “ m r w t P t r o a p  ( “ j w 2  ( P   ( A o   ( A   ( E a  ( T r   ( A p o l h c p a b t p]
+[DELETED: S 5   ( Ad]EXN  c p a b t d i c w t d o a m  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 233
+J1 5lr0263
+SB 235/24 – FIN (PRE–FILED) CF 5lr0264
+By: Chair, Finance Committee (By Request – Departmental – Health)
+Requested: October 6, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Prescription Drug Monitoring Program – Dispensers – Veterinarians
+3 FOR the purpose of altering the definition of “dispenser” for purposes of the Prescription
+4 Drug Monitoring Program to include certain licensed veterinarians when dispensing
+5 controlled substances in the usual course of providing professional services;
+6 providing that the Program is not required to disclose prescription drug monitoring
+7 data to veterinarians; and generally relating to the Prescription Drug Monitoring
+8 Program and veterinarians.
+9 BY repealing and reenacting, with amendments,
+10 Article – Health – General
+11 Section 21–2A–01 and 21–2A–06(b)(2)
+12 Annotated Code of Maryland
+13 (2023 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, without amendments,
+15 Article – Health – General
+16 Section 21–2A–06(a) and (b)(1)
+17 Annotated Code of Maryland
+18 (2023 Replacement Volume and 2024 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Health – General
+22 21–2A–01.
+23 (a) In this subtitle the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0233*
+
+2 SENATE BILL 233
+1 (b) “Board” means the Advisory Board on Prescription Drug Monitoring.
+2 (c) (1) “Dispense” has the meaning stated in § 12–101 of the Health
+3 Occupations Article.
+4 (2) “Dispense” does not include:
+5 (i) Directly administering a monitored prescription drug to a
+6 patient; or
+7 (ii) Giving out prescription drug samples.
+8 (d) (1) “Dispenser” means a person authorized by law to dispense a monitored
+9 prescription drug to a patient or the patient’s agent in the State.
+10 (2) “Dispenser” includes [a]:
+11 (I) A nonresident pharmacy; AND
+12 (II) A VETERINARIAN LICENSED UNDER TITLE 2, SUBTITLE 3 OF
+13 THE AGRICULTURE ARTICLE WHEN DISPENSING CONTROLLED SUBSTANCES FOR
+14 ANIMALS IN THE USUAL COURSE OF PROVIDING PROFESSIONAL SERVICES.
+15 (3) “Dispenser” does not include:
+16 (i) A licensed hospital pharmacy that only dispenses a monitored
+17 prescription drug for direct administration to an inpatient of the hospital;
+18 (ii) An opioid treatment services program;
+19 (iii) [A veterinarian licensed under Title 2, Subtitle 3 of the
+20 Agriculture Article when prescribing controlled substances for animals in the usual course
+21 of providing professional services;
+22 (iv)] A pharmacy issued a waiver permit under COMAR 10.34.17.03
+23 that provides pharmaceutical specialty services exclusively to persons living in assisted
+24 living facilities, comprehensive care facilities, and developmental disabilities facilities; and
+25 [(v)] (IV) A pharmacy that:
+26 1. Dispenses medications to an inpatient hospice; and
+27 2. Has been granted a waiver under § 21–2A–03(f) of this
+28 subtitle.
+
+SENATE BILL 233 3
+1 (e) “Licensing entity” means an entity authorized under the AGRICULTURE
+2 ARTICLE OR THE Health Occupations Article to license, regulate, or discipline a prescriber
+3 or dispenser.
+4 (f) (1) “Monitored prescription drug” means a prescription drug that contains
+5 a Schedule II, Schedule III, Schedule IV, or Schedule V controlled dangerous substance
+6 designated under Title 5, Subtitle 4 of the Criminal Law Article.
+7 (2) “Monitored prescription drug” does not include naloxone medication.
+8 (g) “Naloxone medication” means an opioid antagonist approved by the federal
+9 Food and Drug Administration for the reversal of an opioid overdose.
+10 (h) “Naloxone medication data” means the information submitted to the Program
+11 for naloxone medication.
+12 (i) “Office” means the Office of Controlled Substances Administration in the
+13 Department.
+14 (j) “Opioid treatment services program” means a program that:
+15 (1) Is certified in accordance with § 8–401 of this article or licensed by the
+16 State under § 7.5–401 of this article;
+17 (2) Is authorized to treat patients with opioid dependence with a
+18 medication approved by the federal Food and Drug Administration for opioid dependence;
+19 (3) Complies with:
+20 (i) The Code of Federal Regulations 42, Part 8;
+21 (ii) COMAR 10.47.02.11; and
+22 (iii) Requirements for the secure storage and accounting of opioid
+23 medication imposed by the federal Drug Enforcement Administration and the Office; and
+24 (4) Has been granted a certification for operation by the Department, the
+25 federal Substance Abuse and Mental Health Services Administration, and the federal
+26 Center for Substance Abuse Treatment.
+27 (k) “Pharmacist” means an individual who is licensed under Title 12 of the Health
+28 Occupations Article, or by another state, to dispense a monitored prescription drug.
+29 (l) “Pharmacist delegate” means an individual who is:
+30 (1) Authorized by a registered pharmacist to request or access prescription
+31 monitoring data; and
+
+4 SENATE BILL 233
+1 (2) Employed by or under contract with the same professional practice as
+2 the registered pharmacist.
+3 (m) “Prescriber” means a licensed health care professional authorized by law to
+4 prescribe a monitored prescription drug.
+5 (n) “Prescriber delegate” means an individual who is:
+6 (1) Authorized by a registered prescriber to request or access prescription
+7 monitoring data; and
+8 (2) Employed by or under contract with the same professional practice as
+9 the prescriber.
+10 (o) “Prescription drug” has the meaning stated in § 21–201 of this title.
+11 (p) “Prescription monitoring data” means the information submitted to the
+12 Program for a monitored prescription drug.
+13 (q) “Program” means the Prescription Drug Monitoring Program established
+14 under this subtitle.
+15 (r) “Registered” means registered with the Program to request or access
+16 prescription monitoring data for clinical use.
+17 (s) “Terminal illness” means a medical condition that, within reasonable medical
+18 judgment, involves a prognosis for a patient that likely will result in the patient’s death
+19 within 6 months.
+20 21–2A–06.
+21 (a) Prescription monitoring data:
+22 (1) Are confidential and privileged, and not subject to discovery, subpoena,
+23 or other means of legal compulsion in civil litigation;
+24 (2) Are not public records; and
+25 (3) Except as provided in subsections (b), (c), (d), and (f) of this section or
+26 as otherwise provided by law, may not disclosed to any person.
+27 (b) The Program shall disclose prescription monitoring data, in accordance with
+28 regulations adopted by the Secretary, to:
+29 (1) A prescriber, or licensed health care practitioner authorized by the
+30 prescriber, in connection with the medical care of a patient;
+
+SENATE BILL 233 5
+1 (2) [A] EXCEPT FOR A VETERINARIAN, A dispenser, or a licensed health
+2 care practitioner authorized by the dispenser, in connection with the dispensing of a
+3 monitored prescription drug;
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2025.
+
+[DELETED: :CA      5 ( C A P F D c s i t u c o p p s p d P B  A  S  A  ( B  A  S  A  (  S T A 2  ( I]
+[DELETED:  S   ( “  ( ( “ h t m s i § 1 o t H O   ( “    ( D a a m p d t a p    ( G  ( ( “ p   ( “ ]  () A;     () AT2,SI  I  U   G R W D C .   ( “    ( A p    ( A    ( A v l u T 2 S 3 o t A o    () A t l    () A](I     1 D     2 H s]
+[DELETED: S 3  ( “ e m a e a u t   o  ( ( “ a d   ( “  ( “ F  ( “ f  ( “ m t O o C S A i t D  ( “   ( I S   ( I a t t p w o d w a m   ( C    ( T    ( C    ( R f t s s a a o o m   ( H f S A a M H S A a t f C  ( “ O  ( “   ( A m]
+[DELETED:  S    ( E t  ( “ p  ( “   ( A m   ( E t  ( “  ( “ m d m t i s t t P  ( “ m t P D M P e u  ( “ m r w t P t r o a p  ( “ j w 2  ( P   ( A o   ( A   ( E a  ( T r   ( A p o l h c p a b t p]
+[DELETED: S 5   ( Ad]EXN  c p a b t d i c w t d o a m  S A B I F E T t A s t e O]

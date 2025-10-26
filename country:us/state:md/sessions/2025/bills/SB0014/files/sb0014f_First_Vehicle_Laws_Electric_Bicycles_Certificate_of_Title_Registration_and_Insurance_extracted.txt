@@ -1,0 +1,589 @@
+Title: SENATE BILL 14
+Official Title: SENATE BILL 14
+Number of Sections: 1
+Source: versions - First - Vehicle Laws - Electric Bicycles - Certificate of Title, Registration, and Insurance
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+R4 5lr0867
+(PRE–FILED)
+By: Senator Salling
+Requested: September 17, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judicial Proceedings and Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Vehicle Laws – Electric Bicycles – Certificate of Title, Registration, and
+3 Insurance
+4 FOR the purpose of requiring an electric bicycle to be titled and registered by the Motor
+5 Vehicle Administration; requiring an application for a certificate of title and
+6 registration for an electric bicycle to be submitted electronically; requiring an owner
+7 of an electric bicycle to maintain certain security; authorizing an insurer to exclude
+8 certain benefits from a policy for electric bicycles; and generally relating to the titling
+9 and registration of, and insurance for, electric bicycles.
+10 BY repealing and reenacting, with amendments,
+11 Article – Insurance
+12 Section 19–505(c)
+13 Annotated Code of Maryland
+14 (2017 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – Transportation
+17 Section 11–117.1, 13–407, 13–408, and 17–103
+18 Annotated Code of Maryland
+19 (2020 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – Transportation
+22 Section 13–102, 13–104(a), 13–106, 13–402(a)(1), 13–403, 13–802, and 17–104.1
+23 Annotated Code of Maryland
+24 (2020 Replacement Volume and 2024 Supplement)
+25 BY adding to
+26 Article – Transportation
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0014*
+2 SENATE BILL 14
+1 Section 13–424 and 13–939.3
+2 Annotated Code of Maryland
+3 (2020 Replacement Volume and 2024 Supplement)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Insurance
+7 19–505.
+8 (c) (1) An insurer may exclude from the coverage described in this section
+9 benefits for:
+10 (i) an individual, otherwise insured under the policy, who:
+11 1. intentionally causes the motor vehicle accident resulting
+12 in the injury for which benefits are claimed;
+13 2. is a nonresident of the State and is injured as a pedestrian
+14 in a motor vehicle accident that occurs outside of the State;
+15 3. is injured in a motor vehicle accident while operating or
+16 voluntarily riding in a motor vehicle that the individual knows is stolen; or
+17 4. is injured in a motor vehicle accident while committing a
+18 felony or while violating § 21–904 of the Transportation Article; or
+19 (ii) the named insured or a family member of the named insured who
+20 resides in the named insured’s household for an injury that occurs while the named insured
+21 or family member is occupying an uninsured motor vehicle owned by:
+22 1. the named insured; or
+23 2. an immediate family member of the named insured who
+24 resides in the named insured’s household.
+25 (2) In the case of ELECTRIC BICYCLES, motorcycles, mopeds, or motor
+26 scooters, an insurer may:
+27 (i) exclude the economic loss benefits described in this section; or
+28 (ii) offer the economic loss benefits with deductibles, options, or
+29 specific exclusions.
+30 Article – Transportation
+SENATE BILL 14 3
+1 11–117.1.
+2 (a) “Electric bicycle” means a vehicle that:
+3 (1) Is designed to be operated by human power with the assistance of an
+4 electric motor;
+5 (2) Is equipped with fully operable pedals;
+6 (3) Has two or three wheels;
+7 (4) Has a motor with a rating of 750 watts or less; and
+8 (5) Meets one of the requirements of subsection (b) of this section.
+9 (b) (1) A Class 1 electric bicycle is equipped with a motor that provides
+10 assistance only when the rider is pedaling and ceases to provide assistance when the bicycle
+11 reaches a speed of 20 miles per hour.
+12 (2) A Class 2 electric bicycle is equipped with a motor that provides
+13 assistance whether or not the rider is pedaling the bicycle and ceases to provide assistance
+14 when the bicycle reaches a speed of 20 miles per hour.
+15 (3) A Class 3 electric bicycle is equipped with a motor that provides
+16 assistance only when the rider is pedaling and ceases to provide assistance when the bicycle
+17 reaches a speed of 28 miles per hour.
+18 13–102.
+19 A certificate of title is not required for:
+20 (1) A vehicle owned and used by the United States, unless it is registered
+21 in this State;
+22 (2) A new vehicle owned by a manufacturer or dealer and held for sale,
+23 even though incidentally moved on the highway or used for purposes of testing or
+24 demonstration or used as allowed under § 13–621 of this title;
+25 (3) A vehicle used by a manufacturer only for testing;
+26 (4) A vehicle owned by a nonresident of this State and not required by law
+27 to be registered in this State;
+28 (5) A vehicle regularly engaged in the interstate transportation of people
+29 or property and for which a currently effective certificate of title has been issued in another
+30 state;
+4 SENATE BILL 14
+1 (6) A vehicle moved only by human or animal power;
+2 (7) A bicycle, except for a moped OR AN ELECTRIC BICYCLE;
+3 (8) A vehicle in which interest has passed to a secured party on default of
+4 the owner;
+5 (9) Farm equipment;
+6 (10) Special mobile equipment;
+7 (11) A self–propelled invalid:
+8 (i) Wheelchair; or
+9 (ii) Tricycle;
+10 (12) A trailer, other than a camping trailer, rated by the manufacturer as
+11 having a gross vehicle weight of 2,500 pounds or less; or
+12 (13) An off–highway recreational vehicle purchased before October 1, 2010.
+13 13–104.
+14 (a) (1) The application for a certificate of title of a vehicle shall be made by the
+15 owner of the vehicle on the form that the Administration requires.
+16 (2) Notwithstanding any other provision of this title, an application for a
+17 certificate of title of an off–highway recreational vehicle, AN ELECTRIC BICYCLE, a motor
+18 scooter, or a moped shall be made by electronic transmission under § 13–610 of this title.
+19 (3) The owner of [a] AN ELECTRIC BICYCLE, A motor scooter, or A moped
+20 shall certify at the time of titling that the ELECTRIC BICYCLE, motor scooter, or moped is
+21 covered by the required security described in § 17–103 of this article.
+22 13–106.
+23 (a) The Administration shall:
+24 (1) File each application for a certificate of title that it receives; and
+25 (2) Issue a certificate of title of the vehicle if:
+26 (i) It finds that the applicant is entitled to the certificate of title; and
+27 (ii) It has received the required fees.
+SENATE BILL 14 5
+1 (b) The Administration shall keep a record of all certificates of title that it issues,
+2 as follows:
+3 (1) Under a distinctive title number assigned to the vehicle;
+4 (2) Under the vehicle identification number of the vehicle or, if a
+5 distinguishing number has been assigned to it, under the distinguishing number; and
+6 (3) Under any other method that the Administration determines.
+7 (c) Upon receipt with the application for a certificate of title, the Administration
+8 shall maintain a record of the following documents as a part of its certificate of title records
+9 for a motor vehicle:
+10 (1) A notice from a dealer under § 14–1502(f)(1) of the Commercial Law
+11 Article;
+12 (2) A notice from a manufacturer or factory branch under § 14–1502(f)(2)
+13 of the Commercial Law Article; and
+14 (3) A manufacturer’s disclosure form provided to the Administration under
+15 § 14–1502(g) of the Commercial Law Article.
+16 (d) (1) The Administration shall issue a permanent decal to the owner of a
+17 motor scooter [or], A moped, OR AN ELECTRIC BICYCLE for which a certificate of title is
+18 issued.
+19 (2) An owner of a motor scooter [or], A moped, OR AN ELECTRIC BICYCLE
+20 for which a certificate of title is issued shall display the decal on the vehicle as prescribed
+21 by the Administration.
+22 (3) A decal shall display a unique number sequence assigned by the
+23 Administration.
+24 (4) The Administration:
+25 (i) Shall establish a fee of $5 for a decal; and
+26 (ii) May adopt regulations to implement this section.
+27 13–402.
+28 (a) (1) Except as otherwise provided in this section or elsewhere in the
+29 Maryland Vehicle Law, each motor vehicle, trailer, semitrailer, and pole trailer driven on
+30 a highway, AND EACH ELECTRIC BICYCLE, shall be registered under this subtitle.
+31 13–403.
+6 SENATE BILL 14
+1 (a) (1) Except as provided in paragraph (2) of this subsection, the owner of a
+2 vehicle subject to registration under this subtitle shall apply to the Administration for the
+3 registration of the vehicle in a manner that the Administration requires.
+4 (2) The application for registration of a low speed vehicle OR AN ELECTRIC
+5 BICYCLE shall be made by electronic transmission under § 13–610 of this title.
+6 (b) The application shall contain the information that the Administration
+7 reasonably requires to determine if the vehicle is entitled to registration.
+8 (c) If a licensed dealer holds a low speed vehicle for sale and transfers the vehicle
+9 to a person other than another licensed dealer, the dealer shall:
+10 (1) Obtain from the transferee a completed application;
+11 (2) Collect all fees required to register the low speed vehicle under this
+12 subtitle; and
+13 (3) Within 30 days of the date of delivery of the low speed vehicle,
+14 electronically transmit the application and fees in accordance with § 13–610 of this title.
+15 13–407.
+16 The Administration shall:
+17 (1) File each application for registration that it receives;
+18 (2) Register the described vehicle if it finds that the applicant is entitled to
+19 the registration; and
+20 (3) Keep a record of the registration in a manner that permits identification
+21 of the vehicle and its owner.
+22 13–408.
+23 When it registers a vehicle, the Administration shall issue and deliver to the owner
+24 a registration card that contains:
+25 (1) The date issued;
+26 (2) The name and Maryland address of the owner;
+27 (3) The registration number assigned by the Administration to the vehicle;
+28 and
+29 (4) Such description of the vehicle as the Administrator determines.
+SENATE BILL 14 7
+1 13–424.
+2 (A) THIS SECTION APPLIES ONLY TO ELECTRIC BICYCLES.
+3 (B) IF THE OWNER OF AN ELECTRIC BICYCLE IS A MINOR, THE PARENT OR
+4 GUARDIAN OF THE MINOR SHALL APPLY TO THE ADMINISTRATION FOR THE
+5 REGISTRATION OF THE ELECTRIC BICYCLE IN ACCORDANCE WITH THIS SUBTITLE.
+6 (C) EACH ELECTRIC BICYCLE REGISTRATION AND RENEWAL EXPIRES 2
+7 YEARS AFTER THE DATE OF ISSUANCE.
+8 (D) EACH ELECTRIC BICYCLE REGISTERED SHALL POSSESS OR BE
+9 ASSIGNED BY THE ADMINISTRATION A REGISTRATION NUMBER, WHICH SHALL BE
+10 AFFIXED TO THE BICYCLE IN A MANNER THAT THE ADMINISTRATION REQUIRES.
+11 13–802.
+12 (a) Except as provided in subsection (b) of this section and § 13–805 of this
+13 subtitle, the fee for each certificate of title issued under this title is $100.
+14 (b) (1) The fee for each certificate of title issued for a rental vehicle is $50.
+15 (2) The fee for each certificate of title issued for an off–highway
+16 recreational vehicle is $35.
+17 (3) The fee for each certificate of title issued for AN ELECTRIC BICYCLE,
+18 a motor scooter, or a moped is $20.
+19 (4) The fee for each certificate of title issued for a trailer with a gross
+20 vehicle weight of 3,000 pounds or less is $50 if:
+21 (i) The trailer is transferred to:
+22 1. A spouse, child, grandchild, parent, sibling, grandparent,
+23 father–in–law, mother–in–law, son–in–law, or daughter–in–law of the transferor; or
+24 2. A niece or nephew of the transferor if the transferor is at
+25 least 65 years of age at the time of the transfer; and
+26 (ii) No money or other valuable consideration is involved in the
+27 transfer.
+28 (5) On the death of a joint owner of a vehicle, the Administration may not
+29 charge a fee for a new certificate of title issued for the vehicle to another joint owner who
+30 is the surviving spouse.
+8 SENATE BILL 14
+1 (6) On the death of a sole owner of a vehicle, the Administration may not
+2 charge a fee for a new certificate of title issued for the vehicle to a surviving spouse if
+3 ownership of the vehicle is transferred in accordance with § 13–114 of this title.
+4 (c) The Administration may not charge a fee for a certificate of title issued for a
+5 vehicle that is transferred to a trust or from a trust to one or more beneficiaries in
+6 accordance with § 14.5–1001 of the Estates and Trusts Article.
+7 13–939.3.
+8 FOR AN ELECTRIC BICYCLE AS DEFINED IN § 11–117.1 OF THIS ARTICLE, THE
+9 ANNUAL REGISTRATION FEE IS $30.
+10 17–103.
+11 (a) (1) Except as provided in paragraph (2) or (3) of this subsection, the form
+12 of security required under this subtitle is a vehicle liability insurance policy written by an
+13 insurer authorized to write these policies in this State.
+14 (2) The Administration may accept another form of security in place of a
+15 vehicle liability insurance policy if it finds that the other form of security adequately
+16 provides the benefits required by subsection (b) of this section.
+17 (3) (i) 1. In this paragraph the following words have the meanings
+18 indicated.
+19 2. “Affiliate” means any company that controls, is controlled
+20 by, or is under common control with another company.
+21 3. “Provide taxicab services”, “transportation network
+22 company”, and “transportation network operator” have the meanings stated in § 10–101 of
+23 the Public Utilities Article.
+24 (ii) The Administration may accept another form of security from a
+25 transportation network company in place of an insurance policy required by § 10–405 of the
+26 Public Utilities Article if:
+27 1. The other form of security adequately provides the
+28 benefits required by § 10–405 of the Public Utilities Article; and
+29 2. The transportation network company is an affiliate of a
+30 company that provides taxicab services and has no fewer than 26 nor more than 300
+31 transportation network operators.
+SENATE BILL 14 9
+1 (4) The Administration shall, by regulation, assess each self–insurer an
+2 annual sum which may not exceed $750, and which shall be used for actuarial studies and
+3 audits to determine financial solvency.
+4 (b) The security required under this subtitle shall provide for at least:
+5 (1) The payment of claims for bodily injury or death arising from an
+6 accident of up to $30,000 for any one person and up to $60,000 for any two or more persons,
+7 in addition to interest and costs;
+8 (2) The payment of claims for property of others damaged or destroyed in
+9 an accident of up to $15,000, in addition to interest and costs;
+10 (3) Unless waived under § 19–506 of the Insurance Article or rejected
+11 under § 19–506.1 of the Insurance Article, the benefits described under § 19–505 of the
+12 Insurance Article as to basic required primary coverage;
+13 (4) The benefits required under § 19–509 or § 19–509.1 of the Insurance
+14 Article as to required additional coverage; and
+15 (5) For vehicles subject to the provisions of § 25–111.1 of this article, the
+16 security requirements adopted under 49 C.F.R., Part 387.
+17 17–104.1.
+18 The operator of AN ELECTRIC BICYCLE, A moped, or A motor scooter shall carry
+19 evidence of the required security when operating the ELECTRIC BICYCLE, moped, or motor
+20 scooter.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2025.
+[DELETED: :CA      5 (   A V I F V A r a a f a c o t a r o c a B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A]
+[DELETED:  S  S  A  (  S T A 1  ( ( A i m e f t c d i t s b    ( a     1 i i     2 i i     3 i v     4 i f    ( t r o     1 t     2 a r   ( I t c o m m o mS s    ( e    ( o t e l b w d o o s A]
+[DELETED: S 3 1  ( “   ( I e   ( I   ( H   ( H   ( M  ( ( A C 1 e b i e w a m t p a r   ( A C 2 e b i e w a m t p a w   ( A C 3 e b i e w a m t p a r 1  A   ( A i   ( A e t i m o t h o u f p o t o d   ( A   ( A t   ( A o s]
+[DELETED:  S    ( A   ( A ;   ( A t   ( F   ( S   ( A    ( W    ( T   ( A h   ( A 1  ( ( T o   ( N c aE s   ( T a  r   ],EA s mr E c 1  ( T   ( F   ( I    ( I    ( I]
+[DELETED: S 5  ( T a   ( U   ( U t v i n o t v o i a d   ( U  ( U s f   ( A A   ( A o   ( A §  ( ( T m or  d ],  i   ( A or  d],  f b   ( A d s d a u n s a b t A   ( T    ( S    ( M 1  ( ( E a o p i t s o e i t M ay  1]
+[DELETED:  S   ( ( E v r   ( T s  ( T a s c t i t t A r  ( I t   ( O   ( C s   ( W 3 d o t d o d o t l s v e 1  T   ( F   ( R t   ( K o 1  W a   ( T   ( T   ( T a   ( S]
+[DELETED: S 7() T.H() IFR  O T M S A T T D F T() EA E B R A R E () A E B R S P O B DR  D. 1  ( E a p i s ( o t s a § 1 o t s  ( ( T   ( T f f e c o t i f a o r   ( TE ar    ( T f f e c o t i f a t w a g v    ( T     1 A f     2 A l    ( N m o o v c i i i t t   ( O c i]
+[DELETED:  S    ( O c o  ( T v t i t t a t o f a t t o o m b i aF§11   E  1  ( ( E o i   ( T v l i p i i f t t o f o s a p   ( ( 1 I i     2 “ b     3 “ t s “ n c t    ( T t P     1 T o f o s a p t b     2 T c t p t s a h n f t 2 n m t 3 t]
+[DELETED: S 9   ( T a a  ( T   ( T p o c f b i o d a f a a i   ( T a   ( U w u § 1 o t I A o r u I   ( T A   ( F s 1  T   d   EA e md E s  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 14
+R4 5lr0867
+(PRE–FILED)
+By: Senator Salling
+Requested: September 17, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judicial Proceedings and Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Vehicle Laws – Electric Bicycles – Certificate of Title, Registration, and
+3 Insurance
+4 FOR the purpose of requiring an electric bicycle to be titled and registered by the Motor
+5 Vehicle Administration; requiring an application for a certificate of title and
+6 registration for an electric bicycle to be submitted electronically; requiring an owner
+7 of an electric bicycle to maintain certain security; authorizing an insurer to exclude
+8 certain benefits from a policy for electric bicycles; and generally relating to the titling
+9 and registration of, and insurance for, electric bicycles.
+10 BY repealing and reenacting, with amendments,
+11 Article – Insurance
+12 Section 19–505(c)
+13 Annotated Code of Maryland
+14 (2017 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – Transportation
+17 Section 11–117.1, 13–407, 13–408, and 17–103
+18 Annotated Code of Maryland
+19 (2020 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – Transportation
+22 Section 13–102, 13–104(a), 13–106, 13–402(a)(1), 13–403, 13–802, and 17–104.1
+23 Annotated Code of Maryland
+24 (2020 Replacement Volume and 2024 Supplement)
+25 BY adding to
+26 Article – Transportation
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0014*
+
+2 SENATE BILL 14
+1 Section 13–424 and 13–939.3
+2 Annotated Code of Maryland
+3 (2020 Replacement Volume and 2024 Supplement)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Insurance
+7 19–505.
+8 (c) (1) An insurer may exclude from the coverage described in this section
+9 benefits for:
+10 (i) an individual, otherwise insured under the policy, who:
+11 1. intentionally causes the motor vehicle accident resulting
+12 in the injury for which benefits are claimed;
+13 2. is a nonresident of the State and is injured as a pedestrian
+14 in a motor vehicle accident that occurs outside of the State;
+15 3. is injured in a motor vehicle accident while operating or
+16 voluntarily riding in a motor vehicle that the individual knows is stolen; or
+17 4. is injured in a motor vehicle accident while committing a
+18 felony or while violating § 21–904 of the Transportation Article; or
+19 (ii) the named insured or a family member of the named insured who
+20 resides in the named insured’s household for an injury that occurs while the named insured
+21 or family member is occupying an uninsured motor vehicle owned by:
+22 1. the named insured; or
+23 2. an immediate family member of the named insured who
+24 resides in the named insured’s household.
+25 (2) In the case of ELECTRIC BICYCLES, motorcycles, mopeds, or motor
+26 scooters, an insurer may:
+27 (i) exclude the economic loss benefits described in this section; or
+28 (ii) offer the economic loss benefits with deductibles, options, or
+29 specific exclusions.
+30 Article – Transportation
+
+SENATE BILL 14 3
+1 11–117.1.
+2 (a) “Electric bicycle” means a vehicle that:
+3 (1) Is designed to be operated by human power with the assistance of an
+4 electric motor;
+5 (2) Is equipped with fully operable pedals;
+6 (3) Has two or three wheels;
+7 (4) Has a motor with a rating of 750 watts or less; and
+8 (5) Meets one of the requirements of subsection (b) of this section.
+9 (b) (1) A Class 1 electric bicycle is equipped with a motor that provides
+10 assistance only when the rider is pedaling and ceases to provide assistance when the bicycle
+11 reaches a speed of 20 miles per hour.
+12 (2) A Class 2 electric bicycle is equipped with a motor that provides
+13 assistance whether or not the rider is pedaling the bicycle and ceases to provide assistance
+14 when the bicycle reaches a speed of 20 miles per hour.
+15 (3) A Class 3 electric bicycle is equipped with a motor that provides
+16 assistance only when the rider is pedaling and ceases to provide assistance when the bicycle
+17 reaches a speed of 28 miles per hour.
+18 13–102.
+19 A certificate of title is not required for:
+20 (1) A vehicle owned and used by the United States, unless it is registered
+21 in this State;
+22 (2) A new vehicle owned by a manufacturer or dealer and held for sale,
+23 even though incidentally moved on the highway or used for purposes of testing or
+24 demonstration or used as allowed under § 13–621 of this title;
+25 (3) A vehicle used by a manufacturer only for testing;
+26 (4) A vehicle owned by a nonresident of this State and not required by law
+27 to be registered in this State;
+28 (5) A vehicle regularly engaged in the interstate transportation of people
+29 or property and for which a currently effective certificate of title has been issued in another
+30 state;
+
+4 SENATE BILL 14
+1 (6) A vehicle moved only by human or animal power;
+2 (7) A bicycle, except for a moped OR AN ELECTRIC BICYCLE;
+3 (8) A vehicle in which interest has passed to a secured party on default of
+4 the owner;
+5 (9) Farm equipment;
+6 (10) Special mobile equipment;
+7 (11) A self–propelled invalid:
+8 (i) Wheelchair; or
+9 (ii) Tricycle;
+10 (12) A trailer, other than a camping trailer, rated by the manufacturer as
+11 having a gross vehicle weight of 2,500 pounds or less; or
+12 (13) An off–highway recreational vehicle purchased before October 1, 2010.
+13 13–104.
+14 (a) (1) The application for a certificate of title of a vehicle shall be made by the
+15 owner of the vehicle on the form that the Administration requires.
+16 (2) Notwithstanding any other provision of this title, an application for a
+17 certificate of title of an off–highway recreational vehicle, AN ELECTRIC BICYCLE, a motor
+18 scooter, or a moped shall be made by electronic transmission under § 13–610 of this title.
+19 (3) The owner of [a] AN ELECTRIC BICYCLE, A motor scooter, or A moped
+20 shall certify at the time of titling that the ELECTRIC BICYCLE, motor scooter, or moped is
+21 covered by the required security described in § 17–103 of this article.
+22 13–106.
+23 (a) The Administration shall:
+24 (1) File each application for a certificate of title that it receives; and
+25 (2) Issue a certificate of title of the vehicle if:
+26 (i) It finds that the applicant is entitled to the certificate of title; and
+27 (ii) It has received the required fees.
+
+SENATE BILL 14 5
+1 (b) The Administration shall keep a record of all certificates of title that it issues,
+2 as follows:
+3 (1) Under a distinctive title number assigned to the vehicle;
+4 (2) Under the vehicle identification number of the vehicle or, if a
+5 distinguishing number has been assigned to it, under the distinguishing number; and
+6 (3) Under any other method that the Administration determines.
+7 (c) Upon receipt with the application for a certificate of title, the Administration
+8 shall maintain a record of the following documents as a part of its certificate of title records
+9 for a motor vehicle:
+10 (1) A notice from a dealer under § 14–1502(f)(1) of the Commercial Law
+11 Article;
+12 (2) A notice from a manufacturer or factory branch under § 14–1502(f)(2)
+13 of the Commercial Law Article; and
+14 (3) A manufacturer’s disclosure form provided to the Administration under
+15 § 14–1502(g) of the Commercial Law Article.
+16 (d) (1) The Administration shall issue a permanent decal to the owner of a
+17 motor scooter [or], A moped, OR AN ELECTRIC BICYCLE for which a certificate of title is
+18 issued.
+19 (2) An owner of a motor scooter [or], A moped, OR AN ELECTRIC BICYCLE
+20 for which a certificate of title is issued shall display the decal on the vehicle as prescribed
+21 by the Administration.
+22 (3) A decal shall display a unique number sequence assigned by the
+23 Administration.
+24 (4) The Administration:
+25 (i) Shall establish a fee of $5 for a decal; and
+26 (ii) May adopt regulations to implement this section.
+27 13–402.
+28 (a) (1) Except as otherwise provided in this section or elsewhere in the
+29 Maryland Vehicle Law, each motor vehicle, trailer, semitrailer, and pole trailer driven on
+30 a highway, AND EACH ELECTRIC BICYCLE, shall be registered under this subtitle.
+31 13–403.
+
+6 SENATE BILL 14
+1 (a) (1) Except as provided in paragraph (2) of this subsection, the owner of a
+2 vehicle subject to registration under this subtitle shall apply to the Administration for the
+3 registration of the vehicle in a manner that the Administration requires.
+4 (2) The application for registration of a low speed vehicle OR AN ELECTRIC
+5 BICYCLE shall be made by electronic transmission under § 13–610 of this title.
+6 (b) The application shall contain the information that the Administration
+7 reasonably requires to determine if the vehicle is entitled to registration.
+8 (c) If a licensed dealer holds a low speed vehicle for sale and transfers the vehicle
+9 to a person other than another licensed dealer, the dealer shall:
+10 (1) Obtain from the transferee a completed application;
+11 (2) Collect all fees required to register the low speed vehicle under this
+12 subtitle; and
+13 (3) Within 30 days of the date of delivery of the low speed vehicle,
+14 electronically transmit the application and fees in accordance with § 13–610 of this title.
+15 13–407.
+16 The Administration shall:
+17 (1) File each application for registration that it receives;
+18 (2) Register the described vehicle if it finds that the applicant is entitled to
+19 the registration; and
+20 (3) Keep a record of the registration in a manner that permits identification
+21 of the vehicle and its owner.
+22 13–408.
+23 When it registers a vehicle, the Administration shall issue and deliver to the owner
+24 a registration card that contains:
+25 (1) The date issued;
+26 (2) The name and Maryland address of the owner;
+27 (3) The registration number assigned by the Administration to the vehicle;
+28 and
+29 (4) Such description of the vehicle as the Administrator determines.
+
+SENATE BILL 14 7
+1 13–424.
+2 (A) THIS SECTION APPLIES ONLY TO ELECTRIC BICYCLES.
+3 (B) IF THE OWNER OF AN ELECTRIC BICYCLE IS A MINOR, THE PARENT OR
+4 GUARDIAN OF THE MINOR SHALL APPLY TO THE ADMINISTRATION FOR THE
+5 REGISTRATION OF THE ELECTRIC BICYCLE IN ACCORDANCE WITH THIS SUBTITLE.
+6 (C) EACH ELECTRIC BICYCLE REGISTRATION AND RENEWAL EXPIRES 2
+7 YEARS AFTER THE DATE OF ISSUANCE.
+8 (D) EACH ELECTRIC BICYCLE REGISTERED SHALL POSSESS OR BE
+9 ASSIGNED BY THE ADMINISTRATION A REGISTRATION NUMBER, WHICH SHALL BE
+10 AFFIXED TO THE BICYCLE IN A MANNER THAT THE ADMINISTRATION REQUIRES.
+11 13–802.
+12 (a) Except as provided in subsection (b) of this section and § 13–805 of this
+13 subtitle, the fee for each certificate of title issued under this title is $100.
+14 (b) (1) The fee for each certificate of title issued for a rental vehicle is $50.
+15 (2) The fee for each certificate of title issued for an off–highway
+16 recreational vehicle is $35.
+17 (3) The fee for each certificate of title issued for AN ELECTRIC BICYCLE,
+18 a motor scooter, or a moped is $20.
+19 (4) The fee for each certificate of title issued for a trailer with a gross
+20 vehicle weight of 3,000 pounds or less is $50 if:
+21 (i) The trailer is transferred to:
+22 1. A spouse, child, grandchild, parent, sibling, grandparent,
+23 father–in–law, mother–in–law, son–in–law, or daughter–in–law of the transferor; or
+24 2. A niece or nephew of the transferor if the transferor is at
+25 least 65 years of age at the time of the transfer; and
+26 (ii) No money or other valuable consideration is involved in the
+27 transfer.
+28 (5) On the death of a joint owner of a vehicle, the Administration may not
+29 charge a fee for a new certificate of title issued for the vehicle to another joint owner who
+30 is the surviving spouse.
+
+8 SENATE BILL 14
+1 (6) On the death of a sole owner of a vehicle, the Administration may not
+2 charge a fee for a new certificate of title issued for the vehicle to a surviving spouse if
+3 ownership of the vehicle is transferred in accordance with § 13–114 of this title.
+4 (c) The Administration may not charge a fee for a certificate of title issued for a
+5 vehicle that is transferred to a trust or from a trust to one or more beneficiaries in
+6 accordance with § 14.5–1001 of the Estates and Trusts Article.
+7 13–939.3.
+8 FOR AN ELECTRIC BICYCLE AS DEFINED IN § 11–117.1 OF THIS ARTICLE, THE
+9 ANNUAL REGISTRATION FEE IS $30.
+10 17–103.
+11 (a) (1) Except as provided in paragraph (2) or (3) of this subsection, the form
+12 of security required under this subtitle is a vehicle liability insurance policy written by an
+13 insurer authorized to write these policies in this State.
+14 (2) The Administration may accept another form of security in place of a
+15 vehicle liability insurance policy if it finds that the other form of security adequately
+16 provides the benefits required by subsection (b) of this section.
+17 (3) (i) 1. In this paragraph the following words have the meanings
+18 indicated.
+19 2. “Affiliate” means any company that controls, is controlled
+20 by, or is under common control with another company.
+21 3. “Provide taxicab services”, “transportation network
+22 company”, and “transportation network operator” have the meanings stated in § 10–101 of
+23 the Public Utilities Article.
+24 (ii) The Administration may accept another form of security from a
+25 transportation network company in place of an insurance policy required by § 10–405 of the
+26 Public Utilities Article if:
+27 1. The other form of security adequately provides the
+28 benefits required by § 10–405 of the Public Utilities Article; and
+29 2. The transportation network company is an affiliate of a
+30 company that provides taxicab services and has no fewer than 26 nor more than 300
+31 transportation network operators.
+
+SENATE BILL 14 9
+1 (4) The Administration shall, by regulation, assess each self–insurer an
+2 annual sum which may not exceed $750, and which shall be used for actuarial studies and
+3 audits to determine financial solvency.
+4 (b) The security required under this subtitle shall provide for at least:
+5 (1) The payment of claims for bodily injury or death arising from an
+6 accident of up to $30,000 for any one person and up to $60,000 for any two or more persons,
+7 in addition to interest and costs;
+8 (2) The payment of claims for property of others damaged or destroyed in
+9 an accident of up to $15,000, in addition to interest and costs;
+10 (3) Unless waived under § 19–506 of the Insurance Article or rejected
+11 under § 19–506.1 of the Insurance Article, the benefits described under § 19–505 of the
+12 Insurance Article as to basic required primary coverage;
+13 (4) The benefits required under § 19–509 or § 19–509.1 of the Insurance
+14 Article as to required additional coverage; and
+15 (5) For vehicles subject to the provisions of § 25–111.1 of this article, the
+16 security requirements adopted under 49 C.F.R., Part 387.
+17 17–104.1.
+18 The operator of AN ELECTRIC BICYCLE, A moped, or A motor scooter shall carry
+19 evidence of the required security when operating the ELECTRIC BICYCLE, moped, or motor
+20 scooter.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2025.
+
+[DELETED: :CA      5 (   A V I F V A r a a f a c o t a r o c a B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A]
+[DELETED:  S  S  A  (  S T A 1  ( ( A i m e f t c d i t s b    ( a     1 i i     2 i i     3 i v     4 i f    ( t r o     1 t     2 a r   ( I t c o m m o mS s    ( e    ( o t e l b w d o o s A]
+[DELETED: S 3 1  ( “   ( I e   ( I   ( H   ( H   ( M  ( ( A C 1 e b i e w a m t p a r   ( A C 2 e b i e w a m t p a w   ( A C 3 e b i e w a m t p a r 1  A   ( A i   ( A e t i m o t h o u f p o t o d   ( A   ( A t   ( A o s]
+[DELETED:  S    ( A   ( A ;   ( A t   ( F   ( S   ( A    ( W    ( T   ( A h   ( A 1  ( ( T o   ( N c aE s   ( T a  r   ],EA s mr E c 1  ( T   ( F   ( I    ( I    ( I]
+[DELETED: S 5  ( T a   ( U   ( U t v i n o t v o i a d   ( U  ( U s f   ( A A   ( A o   ( A §  ( ( T m or  d ],  i   ( A or  d],  f b   ( A d s d a u n s a b t A   ( T    ( S    ( M 1  ( ( E a o p i t s o e i t M ay  1]
+[DELETED:  S   ( ( E v r   ( T s  ( T a s c t i t t A r  ( I t   ( O   ( C s   ( W 3 d o t d o d o t l s v e 1  T   ( F   ( R t   ( K o 1  W a   ( T   ( T   ( T a   ( S]
+[DELETED: S 7() T.H() IFR  O T M S A T T D F T() EA E B R A R E () A E B R S P O B DR  D. 1  ( E a p i s ( o t s a § 1 o t s  ( ( T   ( T f f e c o t i f a o r   ( TE ar    ( T f f e c o t i f a t w a g v    ( T     1 A f     2 A l    ( N m o o v c i i i t t   ( O c i]
+[DELETED:  S    ( O c o  ( T v t i t t a t o f a t t o o m b i aF§11   E  1  ( ( E o i   ( T v l i p i i f t t o f o s a p   ( ( 1 I i     2 “ b     3 “ t s “ n c t    ( T t P     1 T o f o s a p t b     2 T c t p t s a h n f t 2 n m t 3 t]
+[DELETED: S 9   ( T a a  ( T   ( T p o c f b i o d a f a a i   ( T a   ( U w u § 1 o t I A o r u I   ( T A   ( F s 1  T   d   EA e md E s  S A B I F E T t A s t e O]

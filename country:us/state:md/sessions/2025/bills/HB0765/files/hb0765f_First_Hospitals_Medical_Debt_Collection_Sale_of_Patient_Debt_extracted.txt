@@ -1,0 +1,424 @@
+Title: HOUSE BILL 765
+Official Title: HOUSE BILL 765
+Number of Sections: 1
+Source: versions - First - Hospitals - Medical Debt Collection - Sale of Patient Debt
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+J3 EMERGENCY BILL 5lr0749
+SB 1006/24 – FIN
+By: Delegate Ivey
+Introduced and read first time: January 29, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Hospitals – Medical Debt Collection – Sale of Patient Debt
+3 FOR the purpose of authorizing a hospital, under certain circumstances, to sell the medical
+4 debt of patients if the debt is sold to a governmental unit or an entity under contract
+5 with the unit for the purpose of canceling the debt; requiring that a hospital’s
+6 financial policy require the hospital to dismiss actions pending against a patient for
+7 the collection of debt that was sold and prohibit the hospital from engaging in
+8 specified collection activities on patient debt that was sold; requiring a purchaser of
+9 medical debt to notify the patient of certain information and to take certain other
+10 actions; and generally relating to hospital debt collection policies and the sale of
+11 patient debt.
+12 BY repealing and reenacting, with amendments,
+13 Article – Health – General
+14 Section 19–214.2(a), (b), (f), (m), and (n) and 19–219(a)(3)
+15 Annotated Code of Maryland
+16 (2023 Replacement Volume and 2024 Supplement)
+17 BY adding to
+18 Article – Health – General
+19 Section 19–214.2(m)
+20 Annotated Code of Maryland
+21 (2023 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Health – General
+25 19–214.2.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0765*
+2 HOUSE BILL 765
+1 (a) (1) Each hospital annually shall submit to the Commission:
+2 (i) At times prescribed by the Commission, the hospital’s policy on
+3 the collection of debts owed by patients; and
+4 (ii) A report including:
+5 1. The total number of patients by race or ethnicity, gender,
+6 and zip code of residence against whom the hospital, or a debt collector used by the hospital,
+7 filed an action to collect a debt owed on a hospital bill;
+8 2. The total number of patients by race or ethnicity, gender,
+9 and zip code of residence with respect to whom the hospital has and has not reported or
+10 classified a bad debt; [and]
+11 3. The total dollar amount of the charges for hospital services
+12 provided to patients but not collected by the hospital for patients covered by insurance,
+13 including the out–of–pocket costs for patients covered by insurance, and patients without
+14 insurance; AND
+15 4. FOR HOSPITAL DEBTS OWED BY PATIENTS OF THE
+16 HOSPITAL THAT THE HOSPITAL SOLD TO A GOVERNMENTAL UNIT OR CONTRACTOR
+17 UNDER SUBSECTION (M) OF THIS SECTION:
+18 A. THE TOTAL DOLLAR AMOUNT OF THE DEBT SOLD BY
+19 THE HOSPITAL FOR THE REPORTING YEAR;
+20 B. THE TOTAL DOLLAR AMOUNT PAID TO THE HOSPITAL
+21 BY THE UNIT OR CONTRACTOR WHO PURCHASED THE DEBT; AND
+22 C. THE TOTAL NUMBER OF PATIENTS WHOSE DEBT WAS
+23 SOLD, IN FULL OR IN PART, TO THE UNIT OR CONTRACTOR WHO PURCHASED THE
+24 DEBT.
+25 (2) The Commission shall post the information submitted under paragraph
+26 (1) of this subsection on its website.
+27 (b) The policy submitted under subsection (a)(1) of this section shall:
+28 (1) Provide for active oversight by the hospital of any contract for collection
+29 of debts on behalf of the hospital;
+30 (2) [Prohibit] EXCEPT AS PROVIDED IN SUBSECTION (M) OF THIS
+31 SECTION, PROHIBIT the hospital from selling any debt;
+HOUSE BILL 765 3
+1 (3) Prohibit the charging of interest on bills incurred by self–pay patients
+2 before a court judgment is obtained;
+3 (4) Describe in detail the consideration by the hospital of patient income,
+4 assets, and other criteria;
+5 (5) Prohibit the hospital from reporting to a consumer reporting agency or
+6 filing a civil action to collect a debt within 180 days after the initial bill is provided;
+7 (6) Describe the hospital’s procedures for collecting a debt;
+8 (7) Describe the circumstances in which the hospital will seek a judgment
+9 against a patient;
+10 (8) In accordance with subsection (c) of this section, provide for a refund of
+11 amounts collected from a patient or the guarantor of a patient who was later found to be
+12 eligible for free care within 240 days after the initial bill was provided;
+13 (9) If the hospital has obtained a judgment against or reported adverse
+14 information to a consumer reporting agency about a patient who later was found to be
+15 eligible for free care within 240 days after the initial bill was provided for which the
+16 judgment was awarded or the adverse information was reported, require the hospital to
+17 seek to vacate the judgment or strike the adverse information;
+18 (10) Provide a mechanism for a patient to:
+19 (i) Request the hospital to reconsider the denial of free or
+20 reduced–cost care;
+21 (ii) File with the hospital a complaint against the hospital or a debt
+22 collector used by the hospital regarding the handling of the patient’s bill; and
+23 (iii) Allow the patient and the hospital to mutually agree to modify
+24 the terms of a payment plan offered under subsection (e) of this section or entered into with
+25 the patient; [and]
+26 (11) Prohibit the hospital from collecting additional fees in an amount that
+27 exceeds the approved charge for the hospital service as established by the Commission for
+28 which the medical debt is owed on a bill for a patient who is eligible for free or
+29 reduced–cost care under the hospital’s financial assistance policy;
+30 (12) REQUIRE THE HOSPITAL TO DISMISS ACTIONS PENDING AGAINST
+31 A PATIENT FOR COLLECTION OF DEBT THAT WAS SOLD UNDER SUBSECTION (M) OF
+32 THIS SECTION; AND
+33 (13) PROHIBIT THE HOSPITAL FROM:
+4 HOUSE BILL 765
+1 (I) ENGAGING IN COLLECTION ACTIVITIES ON 100% OF THE
+2 OUTSTANDING AMOUNT OF THE COMMISSION–SET CHARGE FOR DEBT SOLD UNDER
+3 SUBSECTION (M) OF THIS SECTION; AND
+4 (II) COLLECTING ON JUDGMENTS ENTERED INTO ON PATIENT
+5 DEBT THAT WAS SOLD UNDER SUBSECTION (M) OF THIS SECTION.
+6 (f) (1) For at least 180 days after issuing an initial patient bill, a hospital may
+7 not report adverse information about a patient to a consumer reporting agency or
+8 commence civil action against a patient for nonpayment.
+9 (2) A hospital shall report the fulfillment of a patient’s payment obligation
+10 within 60 days after the obligation is fulfilled to any consumer reporting agency to which
+11 the hospital had reported adverse information about the patient, INCLUDING IF THE DEBT
+12 WAS SOLD UNDER SUBSECTION (M) OF THIS SECTION.
+13 (3) A hospital may not report adverse information to a consumer reporting
+14 agency regarding a patient who at the time of service was uninsured or eligible for free or
+15 reduced–cost care under § 19–214.1 of this subtitle.
+16 (4) A hospital may not report adverse information about a patient to a
+17 consumer reporting agency, commence a civil action against a patient for nonpayment, or
+18 delegate collection activity to a debt collector:
+19 (i) If the hospital was notified in accordance with federal law by the
+20 patient or the insurance carrier that an appeal or a review of a health insurance decision
+21 is pending within the immediately preceding 60 days; [or]
+22 (ii) If the hospital has completed a requested reconsideration of the
+23 denial of free or reduced–cost care that was appropriately completed by the patient within
+24 the immediately preceding 60 days; OR
+25 (III) IF THE HOSPITAL SOLD THE DEBT UNDER SUBSECTION (M)
+26 OF THIS SECTION.
+27 (5) If a hospital has reported adverse information about a patient to a
+28 consumer reporting agency, the hospital shall instruct the consumer reporting agency to
+29 delete the adverse information about the patient:
+30 (i) If the hospital was informed by the patient or the insurance
+31 carrier that an appeal or a review of a health insurance decision is pending, and until 60
+32 days after the appeal is complete; or
+33 (ii) Until 60 days after the hospital has completed a requested
+34 reconsideration of the denial of free or reduced–cost care.
+HOUSE BILL 765 5
+1 (M) (1) (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, A
+2 HOSPITAL MAY SELL DEBT OWED TO THE HOSPITAL BY A PATIENT FOR HOSPITAL
+3 SERVICES TO A GOVERNMENTAL UNIT OR AN ENTITY THAT IS UNDER CONTRACT
+4 WITH THE UNIT FOR THE SOLE PURPOSE OF CANCELING THE DEBT.
+5 (II) THE CONTRACT BETWEEN THE HOSPITAL AND THE
+6 GOVERNMENTAL UNIT OR CONTRACTOR PURCHASING THE DEBT UNDER THIS
+7 SUBSECTION SHALL STATE THAT THE SOLE PURPOSE OF THE SALE OF THE DEBT IS
+8 TO CANCEL THE DEBT.
+9 (III) THE PATIENT IS NOT RESPONSIBLE TO THE HOSPITAL, THE
+10 GOVERNMENTAL UNIT, OR THE CONTRACTOR FOR ANY AMOUNT OF THE DEBT THAT
+11 IS SOLD UNDER THIS SUBSECTION OR ANY INTEREST, FEES, OR COSTS ASSOCIATED
+12 WITH THE DEBT OR THE SALE.
+13 (2) DEBT SOLD UNDER THIS SUBSECTION:
+14 (I) MUST BE FOR HOSPITAL SERVICES PROVIDED AT LEAST 2
+15 YEARS BEFORE THE DATE OF THE SALE;
+16 (II) MAY NOT BE EXPECTED TO YIELD ADDITIONAL
+17 REIMBURSEMENTS FROM A THIRD–PARTY PAYOR;
+18 (III) MAY NOT BE SUBJECT TO AN OPEN APPEAL WITH AN
+19 INSURANCE COMPANY; AND
+20 (IV) MUST BE FOR AN INDIVIDUAL WHOSE FAMILY INCOME IS AT
+21 OR BELOW 500% OF THE FEDERAL POVERTY LEVEL OR WHO HAS MEDICAL DEBT
+22 EXCEEDING 5% OF THE INDIVIDUAL’S FAMILY INCOME, AS DETERMINED BY THE
+23 GOVERNMENTAL UNIT OR CONTRACTOR PURCHASING THE DEBT.
+24 (3) DEBT SOLD UNDER THIS SUBSECTION MAY BE SOLD WITH A
+25 REDUCTION OF COMMISSION CHARGES.
+26 (4) THE COMMISSION SHALL TREAT THE AMOUNT OF PAYMENTS TO
+27 HOSPITALS UNDER THIS SUBSECTION AS AN OFFSET TO UNCOMPENSATED CARE
+28 AMOUNTS REPORTED BY HOSPITALS.
+29 (5) THE PURCHASER OF THE DEBT SHALL:
+30 (I) NOTIFY THE PATIENT THAT THE DEBT HAS BEEN
+31 CANCELED; AND
+6 HOUSE BILL 765
+1 (II) IF THE HOSPITAL OBTAINED A JUDGMENT AGAINST THE
+2 PATIENT OR REPORTED ADVERSE INFORMATION TO A CONSUMER REPORTING
+3 AGENCY ABOUT THE PATIENT, SEEK TO VACATE THE JUDGMENT OR STRIKE THE
+4 ADVERSE INFORMATION.
+5 [(m)] (N) The Commission shall review each hospital’s implementation of and
+6 compliance with the hospital’s policies and the requirements of this section.
+7 [(n)] (O) (1) On or before February 1 each year, beginning in 2023, the
+8 Commission shall compile the information required under subsection (a) of this section and
+9 prepare a medical debt collection report based on the compiled information.
+10 (2) The report required under paragraph (1) of this subsection shall be:
+11 (i) Made available to the public free of charge; and
+12 (ii) Submitted to the Senate Finance Committee and the House
+13 Health and Government Operations Committee in accordance with § 2–1257 of the State
+14 Government Article.
+15 19–219.
+16 (a) The Commission may review the costs, and rates, quality, and efficiency of
+17 facility services, and make any investigation that the Commission considers necessary to
+18 assure each purchaser of health care facility services that:
+19 (3) [The] EXCEPT AS PROVIDED IN § 19–214.2(M) OF THIS SUBTITLE,
+20 THE rates are set equitably among all purchasers or classes of purchasers without undue
+21 discrimination or preference.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency
+23 measure, is necessary for the immediate preservation of the public health or safety, has
+24 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+25 each of the two Houses of the General Assembly, and shall take effect from the date it is
+26 enacted. It shall remain effective through December 31, 2027, and, at the end of December
+27 31, 2027, this Act, with no further action required by the General Assembly, shall be
+28 abrogated and of no further force and effect.
+[DELETED: :CA    E 5     A H F d w t u f t p o c t d r t a h f t c o d t w s a p t h f e i s m a d p B  A S  A  ( B  A S  A  (  S T A 1]
+[DELETED:  H   ( ( E    ( A t    ( A     1 T a f     2 T a c ad     3 T p i ie      H D O B P O T M ):          T      D T  .   ( T (  ( T   ( P o   ( P]E(X A P I S M O TN   ]
+[DELETED: H 3   ( P b   ( D a   ( P f   ( D   ( D a   ( I a e   ( I i t e f f c w 2 d a t i b w p f w t j s   ( P    ( R t h t r t d o f o r    ( F c    ( A t t ad   ( P e w t m d i o o a b f a p w i e f f o ry    M N    P:]
+[DELETED:  H    ) E1N I C A O  O T ONS M N );   ) IO M  .  ( ( F n r a i a a p t a c r a o c   ( A w t M  .   ( A a r   ( A h m n r a i a a p t a c d    ( I p i or    ( I d ts   ) I(IF M .   ( I a h h r a i a a p t a c d    ( I t h w i b t p o t i c d    ( U 6 d a t h h c a r r]
+[DELETED: H 5 ) ( () S()IU T P  O T SN A G   ) IH C B T H A T U O C P T D U TET     ) TIHL T T S    D:   ) MU    ) IA N B E T Y ADP     )IA N B S T A O A W AY      )VU O   O T ILS F IE A D B T%’     S U T S M B S W ANO O     T O U T S A A O T U C ()T      )O T P T T D H BD  ]
+[DELETED:  H     )IF T H O A J A T O R A I T A C R PT S J   () T h]( c  () ( O o b F 1 e y b i 2 t]( C p   ( T    ( M    ( S t t S F C a t H H G 1  ( T f a   ( T]E§1()X  M E   d  S m b e e 3 2 t A w n f a r b t G A s b a]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 765
+J3 EMERGENCY BILL 5lr0749
+SB 1006/24 – FIN
+By: Delegate Ivey
+Introduced and read first time: January 29, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Hospitals – Medical Debt Collection – Sale of Patient Debt
+3 FOR the purpose of authorizing a hospital, under certain circumstances, to sell the medical
+4 debt of patients if the debt is sold to a governmental unit or an entity under contract
+5 with the unit for the purpose of canceling the debt; requiring that a hospital’s
+6 financial policy require the hospital to dismiss actions pending against a patient for
+7 the collection of debt that was sold and prohibit the hospital from engaging in
+8 specified collection activities on patient debt that was sold; requiring a purchaser of
+9 medical debt to notify the patient of certain information and to take certain other
+10 actions; and generally relating to hospital debt collection policies and the sale of
+11 patient debt.
+12 BY repealing and reenacting, with amendments,
+13 Article – Health – General
+14 Section 19–214.2(a), (b), (f), (m), and (n) and 19–219(a)(3)
+15 Annotated Code of Maryland
+16 (2023 Replacement Volume and 2024 Supplement)
+17 BY adding to
+18 Article – Health – General
+19 Section 19–214.2(m)
+20 Annotated Code of Maryland
+21 (2023 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Health – General
+25 19–214.2.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0765*
+
+2 HOUSE BILL 765
+1 (a) (1) Each hospital annually shall submit to the Commission:
+2 (i) At times prescribed by the Commission, the hospital’s policy on
+3 the collection of debts owed by patients; and
+4 (ii) A report including:
+5 1. The total number of patients by race or ethnicity, gender,
+6 and zip code of residence against whom the hospital, or a debt collector used by the hospital,
+7 filed an action to collect a debt owed on a hospital bill;
+8 2. The total number of patients by race or ethnicity, gender,
+9 and zip code of residence with respect to whom the hospital has and has not reported or
+10 classified a bad debt; [and]
+11 3. The total dollar amount of the charges for hospital services
+12 provided to patients but not collected by the hospital for patients covered by insurance,
+13 including the out–of–pocket costs for patients covered by insurance, and patients without
+14 insurance; AND
+15 4. FOR HOSPITAL DEBTS OWED BY PATIENTS OF THE
+16 HOSPITAL THAT THE HOSPITAL SOLD TO A GOVERNMENTAL UNIT OR CONTRACTOR
+17 UNDER SUBSECTION (M) OF THIS SECTION:
+18 A. THE TOTAL DOLLAR AMOUNT OF THE DEBT SOLD BY
+19 THE HOSPITAL FOR THE REPORTING YEAR;
+20 B. THE TOTAL DOLLAR AMOUNT PAID TO THE HOSPITAL
+21 BY THE UNIT OR CONTRACTOR WHO PURCHASED THE DEBT; AND
+22 C. THE TOTAL NUMBER OF PATIENTS WHOSE DEBT WAS
+23 SOLD, IN FULL OR IN PART, TO THE UNIT OR CONTRACTOR WHO PURCHASED THE
+24 DEBT.
+25 (2) The Commission shall post the information submitted under paragraph
+26 (1) of this subsection on its website.
+27 (b) The policy submitted under subsection (a)(1) of this section shall:
+28 (1) Provide for active oversight by the hospital of any contract for collection
+29 of debts on behalf of the hospital;
+30 (2) [Prohibit] EXCEPT AS PROVIDED IN SUBSECTION (M) OF THIS
+31 SECTION, PROHIBIT the hospital from selling any debt;
+
+HOUSE BILL 765 3
+1 (3) Prohibit the charging of interest on bills incurred by self–pay patients
+2 before a court judgment is obtained;
+3 (4) Describe in detail the consideration by the hospital of patient income,
+4 assets, and other criteria;
+5 (5) Prohibit the hospital from reporting to a consumer reporting agency or
+6 filing a civil action to collect a debt within 180 days after the initial bill is provided;
+7 (6) Describe the hospital’s procedures for collecting a debt;
+8 (7) Describe the circumstances in which the hospital will seek a judgment
+9 against a patient;
+10 (8) In accordance with subsection (c) of this section, provide for a refund of
+11 amounts collected from a patient or the guarantor of a patient who was later found to be
+12 eligible for free care within 240 days after the initial bill was provided;
+13 (9) If the hospital has obtained a judgment against or reported adverse
+14 information to a consumer reporting agency about a patient who later was found to be
+15 eligible for free care within 240 days after the initial bill was provided for which the
+16 judgment was awarded or the adverse information was reported, require the hospital to
+17 seek to vacate the judgment or strike the adverse information;
+18 (10) Provide a mechanism for a patient to:
+19 (i) Request the hospital to reconsider the denial of free or
+20 reduced–cost care;
+21 (ii) File with the hospital a complaint against the hospital or a debt
+22 collector used by the hospital regarding the handling of the patient’s bill; and
+23 (iii) Allow the patient and the hospital to mutually agree to modify
+24 the terms of a payment plan offered under subsection (e) of this section or entered into with
+25 the patient; [and]
+26 (11) Prohibit the hospital from collecting additional fees in an amount that
+27 exceeds the approved charge for the hospital service as established by the Commission for
+28 which the medical debt is owed on a bill for a patient who is eligible for free or
+29 reduced–cost care under the hospital’s financial assistance policy;
+30 (12) REQUIRE THE HOSPITAL TO DISMISS ACTIONS PENDING AGAINST
+31 A PATIENT FOR COLLECTION OF DEBT THAT WAS SOLD UNDER SUBSECTION (M) OF
+32 THIS SECTION; AND
+33 (13) PROHIBIT THE HOSPITAL FROM:
+
+4 HOUSE BILL 765
+1 (I) ENGAGING IN COLLECTION ACTIVITIES ON 100% OF THE
+2 OUTSTANDING AMOUNT OF THE COMMISSION–SET CHARGE FOR DEBT SOLD UNDER
+3 SUBSECTION (M) OF THIS SECTION; AND
+4 (II) COLLECTING ON JUDGMENTS ENTERED INTO ON PATIENT
+5 DEBT THAT WAS SOLD UNDER SUBSECTION (M) OF THIS SECTION.
+6 (f) (1) For at least 180 days after issuing an initial patient bill, a hospital may
+7 not report adverse information about a patient to a consumer reporting agency or
+8 commence civil action against a patient for nonpayment.
+9 (2) A hospital shall report the fulfillment of a patient’s payment obligation
+10 within 60 days after the obligation is fulfilled to any consumer reporting agency to which
+11 the hospital had reported adverse information about the patient, INCLUDING IF THE DEBT
+12 WAS SOLD UNDER SUBSECTION (M) OF THIS SECTION.
+13 (3) A hospital may not report adverse information to a consumer reporting
+14 agency regarding a patient who at the time of service was uninsured or eligible for free or
+15 reduced–cost care under § 19–214.1 of this subtitle.
+16 (4) A hospital may not report adverse information about a patient to a
+17 consumer reporting agency, commence a civil action against a patient for nonpayment, or
+18 delegate collection activity to a debt collector:
+19 (i) If the hospital was notified in accordance with federal law by the
+20 patient or the insurance carrier that an appeal or a review of a health insurance decision
+21 is pending within the immediately preceding 60 days; [or]
+22 (ii) If the hospital has completed a requested reconsideration of the
+23 denial of free or reduced–cost care that was appropriately completed by the patient within
+24 the immediately preceding 60 days; OR
+25 (III) IF THE HOSPITAL SOLD THE DEBT UNDER SUBSECTION (M)
+26 OF THIS SECTION.
+27 (5) If a hospital has reported adverse information about a patient to a
+28 consumer reporting agency, the hospital shall instruct the consumer reporting agency to
+29 delete the adverse information about the patient:
+30 (i) If the hospital was informed by the patient or the insurance
+31 carrier that an appeal or a review of a health insurance decision is pending, and until 60
+32 days after the appeal is complete; or
+33 (ii) Until 60 days after the hospital has completed a requested
+34 reconsideration of the denial of free or reduced–cost care.
+
+HOUSE BILL 765 5
+1 (M) (1) (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, A
+2 HOSPITAL MAY SELL DEBT OWED TO THE HOSPITAL BY A PATIENT FOR HOSPITAL
+3 SERVICES TO A GOVERNMENTAL UNIT OR AN ENTITY THAT IS UNDER CONTRACT
+4 WITH THE UNIT FOR THE SOLE PURPOSE OF CANCELING THE DEBT.
+5 (II) THE CONTRACT BETWEEN THE HOSPITAL AND THE
+6 GOVERNMENTAL UNIT OR CONTRACTOR PURCHASING THE DEBT UNDER THIS
+7 SUBSECTION SHALL STATE THAT THE SOLE PURPOSE OF THE SALE OF THE DEBT IS
+8 TO CANCEL THE DEBT.
+9 (III) THE PATIENT IS NOT RESPONSIBLE TO THE HOSPITAL, THE
+10 GOVERNMENTAL UNIT, OR THE CONTRACTOR FOR ANY AMOUNT OF THE DEBT THAT
+11 IS SOLD UNDER THIS SUBSECTION OR ANY INTEREST, FEES, OR COSTS ASSOCIATED
+12 WITH THE DEBT OR THE SALE.
+13 (2) DEBT SOLD UNDER THIS SUBSECTION:
+14 (I) MUST BE FOR HOSPITAL SERVICES PROVIDED AT LEAST 2
+15 YEARS BEFORE THE DATE OF THE SALE;
+16 (II) MAY NOT BE EXPECTED TO YIELD ADDITIONAL
+17 REIMBURSEMENTS FROM A THIRD–PARTY PAYOR;
+18 (III) MAY NOT BE SUBJECT TO AN OPEN APPEAL WITH AN
+19 INSURANCE COMPANY; AND
+20 (IV) MUST BE FOR AN INDIVIDUAL WHOSE FAMILY INCOME IS AT
+21 OR BELOW 500% OF THE FEDERAL POVERTY LEVEL OR WHO HAS MEDICAL DEBT
+22 EXCEEDING 5% OF THE INDIVIDUAL’S FAMILY INCOME, AS DETERMINED BY THE
+23 GOVERNMENTAL UNIT OR CONTRACTOR PURCHASING THE DEBT.
+24 (3) DEBT SOLD UNDER THIS SUBSECTION MAY BE SOLD WITH A
+25 REDUCTION OF COMMISSION CHARGES.
+26 (4) THE COMMISSION SHALL TREAT THE AMOUNT OF PAYMENTS TO
+27 HOSPITALS UNDER THIS SUBSECTION AS AN OFFSET TO UNCOMPENSATED CARE
+28 AMOUNTS REPORTED BY HOSPITALS.
+29 (5) THE PURCHASER OF THE DEBT SHALL:
+30 (I) NOTIFY THE PATIENT THAT THE DEBT HAS BEEN
+31 CANCELED; AND
+
+6 HOUSE BILL 765
+1 (II) IF THE HOSPITAL OBTAINED A JUDGMENT AGAINST THE
+2 PATIENT OR REPORTED ADVERSE INFORMATION TO A CONSUMER REPORTING
+3 AGENCY ABOUT THE PATIENT, SEEK TO VACATE THE JUDGMENT OR STRIKE THE
+4 ADVERSE INFORMATION.
+5 [(m)] (N) The Commission shall review each hospital’s implementation of and
+6 compliance with the hospital’s policies and the requirements of this section.
+7 [(n)] (O) (1) On or before February 1 each year, beginning in 2023, the
+8 Commission shall compile the information required under subsection (a) of this section and
+9 prepare a medical debt collection report based on the compiled information.
+10 (2) The report required under paragraph (1) of this subsection shall be:
+11 (i) Made available to the public free of charge; and
+12 (ii) Submitted to the Senate Finance Committee and the House
+13 Health and Government Operations Committee in accordance with § 2–1257 of the State
+14 Government Article.
+15 19–219.
+16 (a) The Commission may review the costs, and rates, quality, and efficiency of
+17 facility services, and make any investigation that the Commission considers necessary to
+18 assure each purchaser of health care facility services that:
+19 (3) [The] EXCEPT AS PROVIDED IN § 19–214.2(M) OF THIS SUBTITLE,
+20 THE rates are set equitably among all purchasers or classes of purchasers without undue
+21 discrimination or preference.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency
+23 measure, is necessary for the immediate preservation of the public health or safety, has
+24 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+25 each of the two Houses of the General Assembly, and shall take effect from the date it is
+26 enacted. It shall remain effective through December 31, 2027, and, at the end of December
+27 31, 2027, this Act, with no further action required by the General Assembly, shall be
+28 abrogated and of no further force and effect.
+
+[DELETED: :CA    E 5     A H F d w t u f t p o c t d r t a h f t c o d t w s a p t h f e i s m a d p B  A S  A  ( B  A S  A  (  S T A 1]
+[DELETED:  H   ( ( E    ( A t    ( A     1 T a f     2 T a c ad     3 T p i ie      H D O B P O T M ):          T      D T  .   ( T (  ( T   ( P o   ( P]E(X A P I S M O TN   ]
+[DELETED: H 3   ( P b   ( D a   ( P f   ( D   ( D a   ( I a e   ( I i t e f f c w 2 d a t i b w p f w t j s   ( P    ( R t h t r t d o f o r    ( F c    ( A t t ad   ( P e w t m d i o o a b f a p w i e f f o ry    M N    P:]
+[DELETED:  H    ) E1N I C A O  O T ONS M N );   ) IO M  .  ( ( F n r a i a a p t a c r a o c   ( A w t M  .   ( A a r   ( A h m n r a i a a p t a c d    ( I p i or    ( I d ts   ) I(IF M .   ( I a h h r a i a a p t a c d    ( I t h w i b t p o t i c d    ( U 6 d a t h h c a r r]
+[DELETED: H 5 ) ( () S()IU T P  O T SN A G   ) IH C B T H A T U O C P T D U TET     ) TIHL T T S    D:   ) MU    ) IA N B E T Y ADP     )IA N B S T A O A W AY      )VU O   O T ILS F IE A D B T%’     S U T S M B S W ANO O     T O U T S A A O T U C ()T      )O T P T T D H BD  ]
+[DELETED:  H     )IF T H O A J A T O R A I T A C R PT S J   () T h]( c  () ( O o b F 1 e y b i 2 t]( C p   ( T    ( M    ( S t t S F C a t H H G 1  ( T f a   ( T]E§1()X  M E   d  S m b e e 3 2 t A w n f a r b t G A s b a]

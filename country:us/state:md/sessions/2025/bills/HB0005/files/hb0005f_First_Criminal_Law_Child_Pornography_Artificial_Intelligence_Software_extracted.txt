@@ -1,0 +1,171 @@
+Title: HOUSE BILL 5
+Official Title: HOUSE BILL 5
+Number of Sections: 1
+Source: versions - First - Criminal Law - Child Pornography - Artificial Intelligence Software
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+E1, O4 5lr0669
+(PRE–FILED)
+By: Delegate Wilson
+Requested: September 5, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Law – Child Pornography – Artificial Intelligence Software
+3 FOR the purpose of defining “computer–generated image” to include images created
+4 through the use of artificial intelligence software as the term pertains to provisions
+5 of law related to child pornography; and generally relating to child pornography and
+6 artificial intelligence software.
+7 BY repealing and reenacting, with amendments,
+8 Article – Criminal Law
+9 Section 11–208
+10 Annotated Code of Maryland
+11 (2021 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Criminal Law
+15 11–208.
+16 (a) (1) In this section[, “indistinguishable] THE FOLLOWING WORDS HAVE
+17 THE MEANINGS INDICATED.
+18 (2) “COMPUTER–GENERATED IMAGE” INCLUDES IMAGES CREATED
+19 THROUGH THE USE OF ARTIFICIAL INTELLIGENCE SOFTWARE.
+20 (3) (I) “INDISTINGUISHABLE from an actual and identifiable child”
+21 means an ordinary person would conclude that the image is of an actual and identifiable
+22 minor.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0005*
+2 HOUSE BILL 5
+1 [(2)] (II) “Indistinguishable from an actual and identifiable child”
+2 includes a computer–generated image that has been created, adapted, or modified to appear
+3 as an actual and identifiable child.
+4 [(3)] (III) “Indistinguishable from an actual and identifiable child” does not
+5 include images or items depicting minors that are:
+6 [(i)] 1. drawings;
+7 [(ii)] 2. cartoons;
+8 [(iii)] 3. sculptures; or
+9 [(iv)] 4. paintings.
+10 (b) (1) A person may not knowingly possess and intentionally retain a film,
+11 videotape, photograph, or other visual representation showing an actual child or a
+12 computer–generated image that is indistinguishable from an actual and identifiable child
+13 under the age of 16 years:
+14 (i) engaged as a subject of sadomasochistic abuse;
+15 (ii) engaged in sexual conduct; or
+16 (iii) in a state of sexual excitement.
+17 (2) A person may not knowingly or intentionally access and intentionally
+18 view a film, videotape, photograph, or other visual representation showing an actual child
+19 or a computer–generated image that is indistinguishable from an actual and identifiable
+20 child under the age of 16 years:
+21 (i) engaged as a subject of sadomasochistic abuse;
+22 (ii) engaged in sexual conduct; or
+23 (iii) in a state of sexual excitement.
+24 (c) (1) Except as provided in paragraph (2) of this subsection, a person who
+25 violates this section is guilty of a misdemeanor and on conviction is subject to imprisonment
+26 not exceeding 5 years or a fine not exceeding $2,500 or both.
+27 (2) A person who violates this section, having previously been convicted
+28 under this section, is guilty of a felony and on conviction is subject to imprisonment not
+29 exceeding 10 years or a fine not exceeding $10,000 or both.
+HOUSE BILL 5 3
+1 (d) Nothing in this section may be construed to prohibit a parent from possessing
+2 visual representations of the parent’s own child in the nude unless the visual
+3 representations show the child engaged:
+4 (1) as a subject of sadomasochistic abuse; or
+5 (2) in sexual conduct and in a state of sexual excitement.
+6 (e) It is an affirmative defense to a charge of violating this section that the person
+7 promptly and in good faith:
+8 (1) took reasonable steps to destroy each visual representation; or
+9 (2) reported the matter to a law enforcement agency.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 October 1, 2025.
+[DELETED: :CA      5 (   A C F t p o d “ i t i i c t o a B  A S  A  (  S T A 1  ( ( In,e ( “C–RG IE I I C ( () “N f a a a i c m m]
+[DELETED:  H    ()  “ f a a a i c]( idi a   ()  “]( i    ()  d]1    ()  c]2    ()  s]3    ()  p]4  ( ( A v p o o v r s a a c o a cdiet u    ( e    ( e    ( i   ( A v o c    ( e    ( e    ( i  ( ( E v n   ( A u e]
+[DELETED: H 3  ( N v r o t p o c i t n u t v r   ( a   ( i  ( I p   ( t   ( r  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 5
+E1, O4 5lr0669
+(PRE–FILED)
+By: Delegate Wilson
+Requested: September 5, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Law – Child Pornography – Artificial Intelligence Software
+3 FOR the purpose of defining “computer–generated image” to include images created
+4 through the use of artificial intelligence software as the term pertains to provisions
+5 of law related to child pornography; and generally relating to child pornography and
+6 artificial intelligence software.
+7 BY repealing and reenacting, with amendments,
+8 Article – Criminal Law
+9 Section 11–208
+10 Annotated Code of Maryland
+11 (2021 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Criminal Law
+15 11–208.
+16 (a) (1) In this section[, “indistinguishable] THE FOLLOWING WORDS HAVE
+17 THE MEANINGS INDICATED.
+18 (2) “COMPUTER–GENERATED IMAGE” INCLUDES IMAGES CREATED
+19 THROUGH THE USE OF ARTIFICIAL INTELLIGENCE SOFTWARE.
+20 (3) (I) “INDISTINGUISHABLE from an actual and identifiable child”
+21 means an ordinary person would conclude that the image is of an actual and identifiable
+22 minor.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0005*
+
+2 HOUSE BILL 5
+1 [(2)] (II) “Indistinguishable from an actual and identifiable child”
+2 includes a computer–generated image that has been created, adapted, or modified to appear
+3 as an actual and identifiable child.
+4 [(3)] (III) “Indistinguishable from an actual and identifiable child” does not
+5 include images or items depicting minors that are:
+6 [(i)] 1. drawings;
+7 [(ii)] 2. cartoons;
+8 [(iii)] 3. sculptures; or
+9 [(iv)] 4. paintings.
+10 (b) (1) A person may not knowingly possess and intentionally retain a film,
+11 videotape, photograph, or other visual representation showing an actual child or a
+12 computer–generated image that is indistinguishable from an actual and identifiable child
+13 under the age of 16 years:
+14 (i) engaged as a subject of sadomasochistic abuse;
+15 (ii) engaged in sexual conduct; or
+16 (iii) in a state of sexual excitement.
+17 (2) A person may not knowingly or intentionally access and intentionally
+18 view a film, videotape, photograph, or other visual representation showing an actual child
+19 or a computer–generated image that is indistinguishable from an actual and identifiable
+20 child under the age of 16 years:
+21 (i) engaged as a subject of sadomasochistic abuse;
+22 (ii) engaged in sexual conduct; or
+23 (iii) in a state of sexual excitement.
+24 (c) (1) Except as provided in paragraph (2) of this subsection, a person who
+25 violates this section is guilty of a misdemeanor and on conviction is subject to imprisonment
+26 not exceeding 5 years or a fine not exceeding $2,500 or both.
+27 (2) A person who violates this section, having previously been convicted
+28 under this section, is guilty of a felony and on conviction is subject to imprisonment not
+29 exceeding 10 years or a fine not exceeding $10,000 or both.
+
+HOUSE BILL 5 3
+1 (d) Nothing in this section may be construed to prohibit a parent from possessing
+2 visual representations of the parent’s own child in the nude unless the visual
+3 representations show the child engaged:
+4 (1) as a subject of sadomasochistic abuse; or
+5 (2) in sexual conduct and in a state of sexual excitement.
+6 (e) It is an affirmative defense to a charge of violating this section that the person
+7 promptly and in good faith:
+8 (1) took reasonable steps to destroy each visual representation; or
+9 (2) reported the matter to a law enforcement agency.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 October 1, 2025.
+
+[DELETED: :CA      5 (   A C F t p o d “ i t i i c t o a B  A S  A  (  S T A 1  ( ( In,e ( “C–RG IE I I C ( () “N f a a a i c m m]
+[DELETED:  H    ()  “ f a a a i c]( idi a   ()  “]( i    ()  d]1    ()  c]2    ()  s]3    ()  p]4  ( ( A v p o o v r s a a c o a cdiet u    ( e    ( e    ( i   ( A v o c    ( e    ( e    ( i  ( ( E v n   ( A u e]
+[DELETED: H 3  ( N v r o t p o c i t n u t v r   ( a   ( i  ( I p   ( t   ( r  S A B I F E T t A s t e O]

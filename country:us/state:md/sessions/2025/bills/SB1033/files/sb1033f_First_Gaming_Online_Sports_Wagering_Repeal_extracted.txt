@@ -1,0 +1,946 @@
+Title: SENATE BILL 1033
+Official Title: SENATE BILL 1033
+Number of Sections: 1
+Source: versions - First - Gaming - Online Sports Wagering - Repeal
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+C7 5lr3506
+By: Senator Benson
+Introduced and read first time: February 9, 2025
+Assigned to: Rules
+A BILL ENTITLED
+1 AN ACT concerning
+2 Gaming – Online Sports Wagering – Repeal
+3 FOR the purpose of repealing online sports wagering; requiring the State Lottery and
+4 Gaming Control Commission, notwithstanding a certain provision of law, to refund
+5 the application fee submitted by certain applicants for and holders of mobile sports
+6 wagering licenses under certain circumstances; and generally relating to the repeal
+7 of online sports wagering.
+8 BY repealing
+9 Article – State Government
+10 Section 9–1E–01(e) through (g) and (k) and 9–1E–10
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 BY renumbering
+14 Article – State Government
+15 Section 9–1E–01(h) through (j) and (l) through (p) and 9–1E–11 through 9–1E–17
+16 to be Section 9–1E–01(e) through (l) and 9–1E–10 through 9–1E–16, respectively
+17 Annotated Code of Maryland
+18 (2021 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Business Regulation
+21 Section 11–818(e)(3)
+22 Annotated Code of Maryland
+23 (2024 Replacement Volume)
+24 BY repealing and reenacting, with amendments,
+25 Article – State Government
+26 Section 9–1E–04(b)(1), 9–1E–05(a), (c)(2)(ii), and (d)(3), 9–1E–06(a), (b), and (c)(3),
+27 9–1E–07(a)(2)(v), (c), (d)(2), and (i), and 9–1E–09
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb1033*
+2 SENATE BILL 1033
+1 Annotated Code of Maryland
+2 (2021 Replacement Volume and 2024 Supplement)
+3 BY repealing and reenacting, with amendments,
+4 Article – State Government
+5 Section 9–1E–10, 9–1E–11(b), 9–1E–13(c), and 9–1E–14(f) and (h)
+6 Annotated Code of Maryland
+7 (2021 Replacement Volume and 2024 Supplement)
+8 (As enacted by Section 2 of this Act)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That Section(s) 9–1E–01(e) through (g) and (k) and 9–1E–10 of Article – State Government
+11 of the Annotated Code of Maryland be repealed.
+12 SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 9–1E–01(h)
+13 through (j) and (l) through (p) and 9–1E–11 through 9–1E–17 of Article – State Government
+14 of the Annotated Code of Maryland be renumbered to be Section(s) 9–1E–01(e) through (l)
+15 and 9–1E–10 through 9–1E–16, respectively.
+16 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+17 as follows:
+18 Article – Business Regulation
+19 11–818.
+20 (e) The Commission may waive all or any portion of the review that it determines
+21 to be appropriate for any applicant that is:
+22 (3) a sports wagering [facility] licensee under Title 9, Subtitle 1E of the
+23 State Government Article.
+24 Article – State Government
+25 9–1E–04.
+26 (b) In accordance with this subtitle, the Commission shall adopt regulations that
+27 establish:
+28 (1) subject to [§ 9–1E–15] § 9–1E–14 of this subtitle, the form and content
+29 of an application for any license required under this subtitle;
+30 9–1E–05.
+31 (a) The following persons shall be licensed under this subtitle:
+32 (1) a person that operates sports wagering;
+SENATE BILL 1033 3
+1 (2) a person that operates sports wagering on behalf of a sports wagering
+2 licensee[, including an online sports wagering operator];
+3 (3) a person not licensed under item (1) or (2) of this subsection that
+4 manages, operates, supplies, provides security for, or provides service, maintenance, or
+5 repairs for sports wagering equipment and devices; and
+6 (4) an individual directly employed in the operation of sports wagering by
+7 a sports wagering licensee if the individual does not otherwise hold a valid license under
+8 Subtitle 1A of this title.
+9 (c) (2) Except as provided under this subtitle or in regulation, the Commission
+10 may not waive a requirement under paragraph (1) of this subsection that relates to:
+11 (ii) a requirement of the Sports Wagering Application Review
+12 Commission under [§ 9–1E–15] § 9–1E–14 of this subtitle.
+13 (d) (3) Except as provided under this subtitle or in regulation, the Commission
+14 may not grant an exemption or a waiver of a licensing requirement adopted by the Sports
+15 Wagering Application Review Commission in accordance with [§ 9–1E–15(h)(2)] §
+16 9–1E–14(H)(2) of this subtitle to implement remedial measures based on the findings of
+17 a study of the sports wagering industry and market.
+18 9–1E–06.
+19 (a) (1) On an award of a license by the Sports Wagering Application Review
+20 Commission established under [§ 9–1E–15] § 9–1E–14 of this subtitle, the Commission
+21 shall:
+22 (i) issue a Class A–1 sports wagering [facility] license to an
+23 applicant that meets the requirements for licensure under this subtitle who is:
+24 1. a video lottery operator with more than 1,000 video lottery
+25 terminals; or
+26 2. A. the owner, or the designee of the owner, of a
+27 stadium in Prince George’s County that is primarily used for professional football (NFL);
+28 B. the owner, or the designee of the owner, of a professional
+29 football (NFL) franchise that is a lessee of a stadium in Baltimore City;
+30 C. the owner, or the designee of the owner, of a professional
+31 major league baseball franchise that is a lessee of a stadium in Baltimore City;
+4 SENATE BILL 1033
+1 D. the owner, or the designee of the owner, of a professional
+2 hockey league (NHL) franchise, that is a lessee of a stadium in the State;
+3 E. the owner, or the designee of the owner, of a professional
+4 basketball association (NBA) franchise, that is a lessee of a stadium in the State; or
+5 F. the owner, or the designee of the owner, of a professional
+6 soccer league (MLS) franchise, that is a lessee of a stadium in the State;
+7 (ii) issue a Class A–2 sports wagering [facility] license to an
+8 applicant that meets the requirements for licensure under this subtitle who is:
+9 1. a video lottery operator with 1,000 or fewer video lottery
+10 terminals; or
+11 2. a horse racing licensee;
+12 (iii) subject to paragraphs (2) and (3) of this subsection, issue a Class
+13 B–1 sports wagering [facility] license to any applicant who meets the requirements for
+14 licensure under this subtitle and who is not eligible for a Class B–2 sports wagering
+15 [facility] license; AND
+16 (iv) subject to paragraphs (2) and (3) of this subsection, issue a Class
+17 B–2 sports wagering [facility] license to any applicant who is a person with less than:
+18 1. 25 full–time equivalent employees; or
+19 2. $3,000,000 in annual gross receipts[; and
+20 (v) issue not more than 60 mobile sports wagering licenses to any
+21 applicant who meets the requirements for licensure under this subtitle].
+22 (2) (i) The Commission shall issue a Class B–1 or Class B–2 sports
+23 wagering [facility] license to an applicant that meets the requirements for licensure under
+24 this subtitle who is:
+25 1. the holder of a license issued by the State Racing
+26 Commission under § 11–524 of the Business Regulation Article, including a subsidiary of
+27 the license holder;
+28 2. a person who is the owner or lessee of a facility approved
+29 for satellite simulcast betting before January 1, 2021, unless the satellite simulcast facility
+30 is located at a video lottery facility or a racetrack; and
+SENATE BILL 1033 5
+1 3. a person who holds a commercial bingo license, if the
+2 facility at which the person operates commercial bingo was permitted to operate at least
+3 200 electronic bingo machines or electronic tip jar machines on January 1, 2021.
+4 (ii) In addition to the Class B–1 and B–2 sports wagering [facility]
+5 licenses issued in accordance with subparagraph (i) of this paragraph, the Commission may
+6 issue not more than 30 Class B–1 and Class B–2 sports wagering [facility] licenses under
+7 paragraph (1) of this subsection.
+8 (3) (i) The Sports Wagering Application Review Commission
+9 established under [§ 9–1E–15] § 9–1E–14 of this subtitle may not award a Class B–1 or
+10 B–2 sports wagering [facility] license to an applicant:
+11 1. who is eligible to apply for a Class A–1 or A–2 sports
+12 wagering [facility] license under paragraph (1) of this subsection;
+13 2. who holds a Class A–1 or A–2 sports wagering [facility]
+14 license; or
+15 3. whose sports wagering facility will be located:
+16 A. except as provided under subparagraph (ii) of this
+17 paragraph, within a 15–mile radius of a Class A–1 or A–2 sports wagering facility located
+18 in Allegany County, Cecil County, or Worcester County;
+19 B. with respect to an application for a sports wagering
+20 [facility] license submitted before June 1, 2025, within a 15–mile radius of a Class B–1 or
+21 B–2 sports wagering facility licensed to a person described under paragraph (2)(i) of this
+22 subsection and located in Charles County;
+23 C. with respect to an application for a sports wagering
+24 [facility] license submitted before June 1, 2025, within a 10–mile radius of a Class B–1 or
+25 B–2 sports wagering facility licensed to a person described under paragraph (2)(i) of this
+26 subsection and located in Carroll County;
+27 D. with respect to an application for a sports wagering
+28 [facility] license submitted before June 1, 2025, within a 5–mile radius of a Class B–1 or
+29 B–2 sports wagering facility licensed to a person described under paragraph (2)(i) of this
+30 subsection and located in Frederick County; or
+31 E. within a 1.5–mile radius of a Class A–1 or A–2 sports
+32 wagering facility located in a county not described under item A, B, C, or D of this item or
+33 any other Class B–1 or B–2 sports wagering facility.
+6 SENATE BILL 1033
+1 (ii) 1. The prohibition under subparagraph (i)3A of this
+2 paragraph does not apply in Allegany County prior to the issuance of a Class A–1 or A–2
+3 sports wagering [facility] license in Allegany County.
+4 2. A Class B–1 or B–2 sports wagering [facility] license
+5 issued within a 15–mile radius of a Class A–1 or A–2 sports wagering facility in Allegany
+6 County may be renewed if the license was initially issued prior to the issuance of the Class
+7 A–1 or A–2 license.
+8 (4) A for–profit entity, nonprofit organization, or public–private
+9 partnership operating at the racing location described under Title 11, Subtitle 7 of the
+10 Business Regulation Article located on lands owned by the Department of Natural
+11 Resources may apply for a Class B–1 or B–2 sports wagering [facility] license.
+12 (5) If an applicant designates an entity to hold the license under paragraph
+13 (1)(i)2 of this subsection, the designee shall be considered the applicant and subject to the
+14 requirements of the application process.
+15 [(6) In addition to any other person, an applicant for or holder of a Class
+16 A–1, A–2, B–1, or B–2 sports wagering facility license may apply for a mobile sports
+17 wagering license under this subsection.]
+18 (b) (1) Except as provided in paragraph (2) of this subsection, an applicant for
+19 a sports wagering license shall pay to the Commission an application fee of:
+20 (i) $2,000,000 for a Class A–1 sports wagering [facility] license;
+21 (ii) $1,000,000 for a Class A–2 sports wagering [facility] license;
+22 (iii) $250,000 for a Class B–1 sports wagering [facility] license; AND
+23 (iv) $50,000 for a Class B–2 sports wagering [facility] license[; and
+24 (v) $500,000 for a mobile sports wagering license].
+25 (2) The requirement to pay an application fee to the Commission under
+26 paragraph (1) of this subsection does not apply to an applicant for a Class A–2 sports
+27 wagering [facility] license that is a horse racing licensee described under § 11–510(b)(3) of
+28 the Business Regulation Article.
+29 (c) (3) The license renewal fee is equal to 1% of the licensee’s average annual
+30 proceeds from sports wagering for the preceding 3–year period less any proceeds remitted
+31 by the licensee in accordance with [§ 9–1E–12] § 9–1E–11 of this subtitle.
+32 9–1E–07.
+SENATE BILL 1033 7
+1 (a) An applicant for a license under this subtitle shall submit to the Commission:
+2 (2) if the applicant is applying for a sports wagering license, an affidavit
+3 attesting to:
+4 (v) any other information considered necessary by the Commission
+5 or the Sports Wagering Application Review Commission established under [§ 9–1E–15] §
+6 9–1E–14 of this subtitle.
+7 (c) (1) This subsection does not apply to the application or license renewal fees
+8 for a sports wagering license required under § 9–1E–06 of this subtitle.
+9 (2) [(i) Subject to subparagraph (ii) of this paragraph, the] THE
+10 Commission shall adopt regulations that establish an application fee and license renewal
+11 fee for a license under this subtitle.
+12 [(ii) The application fee for an online sports wagering operator license
+13 may not be less than $5,000.]
+14 (3) An applicant shall submit the application fee with the application.
+15 (4) The term of the license is 5 years.
+16 (d) On a properly approved transmittal prepared by the Commission, the
+17 Comptroller shall pay the following amounts from the application fees and license renewal
+18 fees collected by the Commission under this section and § 9–1E–06 of this subtitle:
+19 (2) 5% of the fees collected for each Class A–1 and A–2 sports wagering
+20 [facility] license to the Small, Minority–Owned, and Women–Owned Business Sports
+21 Wagering Assistance Fund established under [§ 9–1E–16] § 9–1E–15 of this subtitle; and
+22 (i) (1) The holder of a Class B–1 or B–2 sports wagering [facility] license [or
+23 a mobile sports wagering license] may only sell or transfer ownership of the license if the
+24 licensee was actively engaged in operating sports wagering in the State for at least 3 years
+25 immediately preceding the sale or transfer of the ownership of the license.
+26 (2) Nothing in paragraph (1) of this subsection may be construed to limit
+27 the ability of the Commission to enforce this subtitle.
+28 9–1E–09.
+29 (a) A sports wagering [facility] licensee may accept wagers on sporting events
+30 that are made:
+31 (1) by an individual physically present:
+8 SENATE BILL 1033
+1 (i) at a video lottery facility, if the sports wagering licensee is a video
+2 lottery operator;
+3 (ii) at Pimlico Race Course or a race track located at Laurel Park, if
+4 the sports wagering licensee is a horse racing licensee;
+5 (iii) subject to subsection [(d)] (B) of this section, at a stadium
+6 primarily used for professional football (NFL), professional major league baseball,
+7 professional hockey (NHL), professional basketball (NBA), or professional soccer (MLS), if
+8 the sports wagering licensee is the owner or a lessee or the designee of the owner or lessee
+9 of the stadium;
+10 (iv) at the Maryland State Fairgrounds in Timonium, if the sports
+11 wagering licensee is the holder of a license issued by the State Racing Commission under §
+12 11–524 of the Business Regulation Article, or a subsidiary of the license holder;
+13 (v) at a satellite simulcast facility, if the sports wagering licensee is
+14 the owner or lessee of a satellite simulcast facility described under § 9–1E–06(a)(2) of this
+15 subtitle;
+16 (vi) at a commercial bingo facility with at least 200 electronic bingo
+17 machines or electronic tip jar machines, if the sports wagering licensee is a commercial
+18 bingo operator described under § 9–1E–06(a)(2) of this subtitle; or
+19 (vii) subject to subsection [(e)] (C) of this section, at the facility
+20 identified in the application approved by the Sports Wagering Application Review
+21 Commission, if the sports wagering licensee is a holder of a Class B–1 or B–2 sports
+22 wagering [facility] license; or
+23 (2) on a self–service kiosk, device, or machine, approved by the
+24 Commission, located in a facility or at a location identified under item (1) of this subsection.
+25 (b) [A mobile sports wagering licensee may accept wagers on sporting events that
+26 are made through online sports wagering by an individual physically located in the State.
+27 (c) To participate in online sports wagering under this section, an individual shall
+28 register:
+29 (1) in person at a facility or location identified under subsection (a)(1) of
+30 this section; or
+31 (2) online using a website or mobile application approved by the
+32 Commission.
+33 (d)] (1) Subject to paragraph (2) of this subsection, a sports wagering [facility]
+34 licensee may contract with any other sports wagering [facility] licensee to provide sports
+SENATE BILL 1033 9
+1 wagering services on behalf of the licensee at a location where the licensee is authorized to
+2 accept wagers on sporting events.
+3 (2) If a sports wagering licensee authorized to accept wagers at a stadium
+4 under subsection (a)(1)(iii) of this section contracts with a video lottery operator, or an
+5 affiliate or a subsidiary of that video lottery operator, to provide sports wagering services
+6 at the stadium, the licensee may contract only with a video lottery operator, or an affiliate
+7 or a subsidiary of that video lottery operator, that operates a video lottery facility located
+8 in the same county as the stadium.
+9 [(e)] (C) A sports wagering [facility] licensee authorized to accept in–person
+10 wagers at the racing location described under Title 11, Subtitle 7 of the Business Regulation
+11 Article located on lands owned by the Department of Natural Resources may only accept
+12 wagers in the special event zone.
+13 9–1E–10.
+14 (a) An individual may not wager on a sporting event and a sports wagering
+15 licensee may not accept a wager from an individual on a sporting event if the individual:
+16 (1) is under the age of 21 years;
+17 (2) is not physically present in the State;
+18 (3) is an athlete, a coach, a referee, or a director or an employee of a sports
+19 governing entity or any of its member teams;
+20 (4) is the direct or indirect legal or beneficial owner of 10% or more of a
+21 sports governing entity or any of its member teams if any member team of that sports
+22 governing entity participates in the sporting event;
+23 (5) has access to certain types of exclusive information on any sporting
+24 event overseen by that individual’s sports governing entity;
+25 (6) holds a position of authority or influence sufficient to exert influence
+26 over the participants in a sporting event, including coaches, managers, handlers, or athletic
+27 trainers;
+28 (7) is identified on a mandatory or voluntary sports wagering exclusion list
+29 maintained by the Commission;
+30 (8) is the operator, director, officer, owner, or employee of the sports
+31 wagering licensee [or online sports wagering operator] or any relative of the licensee [or
+32 operator] living in the same household as the licensee [or operator];
+33 (9) has access to nonpublic confidential information held by the sports
+34 wagering licensee [or online sports wagering operator]; or
+10 SENATE BILL 1033
+1 (10) is a category of individuals prohibited by the Commission under
+2 subsection [(e)] (D) of this section from wagering on a sporting event.
+3 (b) [For online sports wagering, a mobile sports wagering licensee shall:
+4 (1) have in place technical and operational measures to prevent access by
+5 individuals who are underage or physically located outside the State, including:
+6 (i) age verification procedures, which may require the use of a
+7 reputable independent third party that is in the business of verifying an individual’s
+8 personally identifiable information; and
+9 (ii) the use of geolocation technology to verify a bettor’s geographic
+10 location;
+11 (2) include on its online sports wagering website a description of the
+12 possible repercussions for an underage or out–of–state bettor, which may include
+13 immediate stoppage of play, account closure, and forfeiture and confiscation of winnings;
+14 and
+15 (3) establish procedures to prevent prohibited individuals from wagering
+16 on sporting events.
+17 (c)] A sports wagering licensee shall:
+18 (1) promptly report to the Commission:
+19 (i) any criminal or disciplinary proceedings against the licensee or
+20 its employees in connection with the licensee’s sports wagering operation;
+21 (ii) any abnormal betting activity or patterns that may indicate a
+22 concern about the integrity of a sporting event;
+23 (iii) any other conduct with the potential to corrupt the outcome of a
+24 sporting event for purposes of financial gain, including match fixing; and
+25 (iv) any suspicious or illegal wagering activities, including the use of
+26 funds derived from illegal activity, wagers to conceal or launder funds derived from illegal
+27 activity, use of agents to place wagers, or use of false identification; and
+28 (2) maintain records of sports wagering operations in accordance with
+29 regulations adopted by the Commission.
+30 [(d)] (C) The Commission is authorized to share any information under this
+31 section with any law enforcement agency, sports team, sports governing entity, or
+32 regulatory agency the Commission deems appropriate.
+SENATE BILL 1033 11
+1 [(e)] (D) (1) In this subsection, “interested party” means:
+2 (i) a sports wagering licensee;
+3 (ii) a professional sports team, league, association, or governing
+4 entity; or
+5 (iii) an institution of higher education.
+6 (2) If an interested party believes that a type or form of wagering or a
+7 category of individuals wagering on sporting events is contrary to public policy, is unfair to
+8 consumers, or affects the integrity of a particular sport or the sports wagering industry, the
+9 interested party may submit to the Commission, in writing, a request to prohibit the type
+10 or form of sports wagering or the category of individuals from wagering on sporting events.
+11 (3) After conducting a public hearing on a request submitted under
+12 paragraph (2) of this subsection, the Commission may grant the request on a showing of
+13 good cause by the interested party.
+14 (4) The Commission shall respond to a request under this subsection
+15 concerning a particular sporting event before the start of the sporting event to the greatest
+16 extent feasible, or as soon as practicable.
+17 9–1E–11.
+18 (b) (1) (i) Except as provided in [subparagraphs] SUBPARAGRAPH (ii)[,
+19 (iii), and (iv)] of this paragraph, all proceeds from sports wagering shall be electronically
+20 transferred monthly into the State Lottery Fund established under Subtitle 1 of this title.
+21 (ii) [A Class A–1 and A–2 sports wagering facility licensee shall
+22 retain 85% of the proceeds from sports wagering conducted at the locations described in §
+23 9–1E–09(a) of this subtitle.
+24 (iii)] A [Class B–1 and B–2] sports wagering [facility] licensee shall
+25 retain 85% of the proceeds from sports wagering conducted at the location described in the
+26 licensee’s application.
+27 [(iv) A mobile sports wagering licensee shall retain 85% of the
+28 proceeds from online sports wagering received by the licensee.]
+29 (2) All proceeds from sports wagering in the State Lottery Fund
+30 established under Subtitle 1 of this title shall be distributed on a monthly basis, on a
+31 properly approved transmittal prepared by the Commission to the Blueprint for Maryland’s
+32 Future Fund established under § 5–206 of the Education Article.
+12 SENATE BILL 1033
+1 9–1E–13.
+2 (c) (1) Subject to paragraph (2) of this subsection, on or before December 1,
+3 2025, the Commission shall report to the General Assembly, in accordance with § 2–1257
+4 of [the State Government Article] THIS ARTICLE, on the racial, ethnic, gender, and
+5 geographic diversity of holders of Class B–1 and B–2 sports wagering [facility] licenses
+6 [and mobile sports wagering licenses] under this subtitle, the level of market saturation of
+7 sports wagering in the State, and whether the number of Class B–1 and B–2 sports
+8 wagering [facility] licenses [and mobile sports wagering licenses] that may be issued under
+9 this subtitle should be increased in order to address the demand for sports wagering in the
+10 State.
+11 (2) Before the Commission submits the report described under paragraph
+12 (1) of this subsection, the Commission shall provide the Legislative Policy Committee with
+13 at least 30 days to submit comments to the Commission.
+14 9–1E–14.
+15 (f) The Sports Wagering Application Review Commission:
+16 (1) shall review applications for sports wagering licenses submitted in
+17 accordance with § 9–1E–06 of this subtitle;
+18 (2) shall award:
+19 (i) a Class A–1 or A–2 [facility] SPORTS WAGERING license to any
+20 applicant that meets the requirements for licensure under this subtitle; and
+21 (ii) a Class B–1 or B–2 [facility] SPORTS WAGERING license to any
+22 applicant that is described under § 9–1E–06(a)(2)(i) of this subtitle and meets the
+23 requirements for licensure under this subtitle; and
+24 (3) may not award a Class B–1 or B–2 sports wagering [facility] license,
+25 other than to an applicant described under § 9–1E–06(a)(2)(i) of this subtitle, [or a mobile
+26 sports wagering license] until after the Sports Wagering Application Review Commission
+27 adopts the regulations required under subsection (h) of this section.
+28 (h) (1) This subsection applies only to Class B–1 or B–2 sports wagering
+29 [facility] licenses, other than licenses issued to an applicant described under §
+30 9–1E–06(a)(2)(i) of this subtitle[, and mobile sports wagering licenses].
+31 (2) Subject to paragraph (3) of this subsection, the Sports Wagering
+32 Application Review Commission shall adopt regulations governing the evaluation of
+33 applications for Class B–1 or B–2 sports wagering [facility] licenses, other than licenses
+34 issued to an applicant described under § 9–1E–06(a)(2)(i) of this subtitle, [and mobile sports
+35 wagering licenses] submitted in accordance with § 9–1E–06 of this subtitle.
+SENATE BILL 1033 13
+1 (3) The Sports Wagering Application Review Commission, in consultation
+2 with the certification agency as defined in § 14–301 of the State Finance and Procurement
+3 Article, the Governor’s Office of Small, Minority, and Women Business Affairs, and the
+4 Office of the Attorney General, shall:
+5 (i) evaluate a study of the sports wagering industry and market to
+6 determine whether there is a compelling interest to implement remedial measures, in
+7 addition to the application of the State Minority Business Enterprise Program under Title
+8 14, Subtitle 3 of the State Finance and Procurement Article or a similar program, to assist
+9 minorities and women in the sports wagering industry;
+10 (ii) evaluate race–neutral programs or other methods that may be
+11 used to address the needs of minorities, women, and minority and women–owned
+12 businesses seeking to participate in the sports wagering industry, including through the
+13 ownership of entities licensed to conduct sports wagering under this subtitle;
+14 (iii) consider whether an applicant for a Class B–1 or B–2 sports
+15 wagering [facility] license intends to conduct sports wagering at a facility located in an
+16 opportunity zone or an enterprise zone; AND
+17 (iv) [consider allowing early access to the mobile sports wagering
+18 market to entities with a meaningful partnership with minorities, women, and
+19 minority– and women–owned businesses; and
+20 (v)] adopt emergency regulations to implement remedial measures,
+21 if necessary and to the extent permitted by State and federal law, based on the findings of
+22 the study evaluated under item (i) of this paragraph.
+23 (4) The Sports Wagering Application Review Commission shall:
+24 (i) to the extent permitted by federal and State law, actively seek to
+25 achieve racial, ethnic, and gender diversity when awarding licenses; and
+26 (ii) encourage applicants who qualify as a minority business
+27 enterprise, as defined in § 14–301 of the State Finance and Procurement Article, or who
+28 are small, minority, or women–owned business entities to apply for sports wagering
+29 licenses under this subtitle.
+30 SECTION 4. AND BE IT FURTHER ENACTED, That, notwithstanding §
+31 9–1E–06(d)(2) of the State Government Article, the State Lottery and Gaming Control
+32 Commission shall refund the application fee submitted in accordance with §
+33 9–1E–06(b)(1)(v) of the State Government Article by:
+34 (1) an applicant for a mobile sports wagering license whose application is
+35 still pending on or after July 1, 2025, if the applicant rescinds the application; and
+14 SENATE BILL 1033
+1 (2) the holder of a mobile sports wagering license, if the licensee surrenders
+2 the license before accepting any sports wagers under that license.
+3 SECTION 5. AND BE IT FURTHER ENACTED, That Sections 1, 2, and 3 of this
+4 Act shall take effect January 1, 2026.
+5 SECTION 6. AND BE IT FURTHER ENACTED, That, except as provided in Section
+6 5 of this Act, this Act shall take effect July 1, 2025.
+[DELETED: :CA      5     A G F t p o r o s w r t S L a G t w o B  A S  A  ( B  A S t  A  ( B  A S  A  ( B  A S 9]
+[DELETED:  S   A  ( B  A S  A  (  (  S T o  S 2 A B I F E T S 9 t o a  S a A 1  ( T t   ( a fy  S A 9  ( I e   ( s §5 ]§9 o 9  ( T   ( a]
+[DELETED: S 3   ( a le,r;   ( a p n l u i ( o ( o t s t m r   ( a a S  ( ( E m    ( a r o t S W A R C §5 ]§9  ( ( E m W A R C i a w § 9]§()   a 9  ( ( O C §5 ]§9 s    ( i a C A s w fy l t a a     1 a t     2 A t o o t d o t o o a s     B t f     C t m]
+[DELETED:  S      D t h     E t b     F t s    ( i a C A s w fy l t a a     1 a t     2 a    ( s B fy  l u t s a w i n e f a C B s w] fy     ( s B fy      1 2     2 $s;    ( i ae.   ( ( T C s i a C B o C B s w fy  t     1 t h o a l i b t S R C t     2 a f i]
+[DELETED: S 5     3 a p w h a c b l i t f 2    ( I fy l i fy  p   ( ( T S W A R C e §5 ]§9 B fy      1 w i e t a f a C A o A s w fy      2 w fy l     3 w     A e a p u s ( o t p i     B w r t a a f a s w fy  B s     C w r t a a f a s w fy  B s     D w r t a a f a s w fy  B s     E w a 1 r o a C A o A s w a]
+[DELETED:  S     ( 1 T p u s ( o t p s fy      2 A C B o B s w fy l i C A   ( A f e n o o p p B R A l o l o b t D o N R fy    ( I ( r   ( I A A B o B s w f l m a f a m s w  ( ( E a    ( $ fy     ( $ fy     ( $ fy ]    ( $ fy e;]    ( $e.   ( T p ( o t s d n t a f a C A s w fy  t  ( ( T p b §2 ]§9 9]
+[DELETED: S 7  ( A   ( i a    ( a o §]    ( ( T f   ( ( S t s ( o t p te]H C f    ( T m   ( A   ( T  ( O a p a t p b t C t C f 9   ( 5 fy l t t S M a W B S W §6 ]§9  ( ( T fy  o] ae  l i   ( N t 9  ( A fy  t   ( b]
+[DELETED:  S     ( a l    ( a t    ( s t s () o t s a a s]( p u f p f ( p m l b p t o    ( a w 1    ( a t s    ( a m b    ( s t s () o t s a t f]( i i t a a b t S W A R C i t s w l i a h o a C B o B s w fy    ( o a s k d o m a b t C  ( A a  ( T r   ( i t   ( o u a w o m a a b t C  () ( S fy[ l fy ]
+[DELETED: S 9 w a   ( I u a a o i  () A s w fy l a t a i]()[ w A w 9  ( A i m n w o a s e a a s w l   ( i   ( i   ( i g   ( i s g   ( h e   ( h o t   ( i m   ( i t o d o o o e o t s w or  o] or  or;[   ( h a t n c i h b t s w or;]
+[DELETED:  S    ( i a c o i p b t C u s () ](  ( F   ( h i    ( a v p w m r t u o a r i t p t i i t b o v a i p    ( t l   ( i o i o s w w a d o t p r f a u o o b w m i i a   ( e o  () A   ( p    ( a i    ( a c    ( a s    ( a f a   ( m r o s w o i a w r  () T C i a t s a i u t]( s w a l e a s t s g e o r]
+[DELETED: S 1  () ( I](    ( a    ( a p s t l a o g e    ( a   ( I c c i o   ( A c a p h o a r s u p g   ( T C s r t a r u t s c e 9  ( ( ( E ss ),] ()  t    ( A C A a A s w f l s r 9    () A C2  fy [][ r l    ( A m s w l s r 8 o t p   ( A p f s w i t S L F e u S 1 o t t s b d o a m b o a p F]
+[DELETED:  S  9  ( ( S 2 o t S G Ae, o t r e g aT A g fy  as  s w i t S a w t n o C B a B s w fy  as ][ t S   ( B ( a 9  ( T   ( s r a f s w l s i a   ( s    ( a fy  a    ( a fy  a t i d u § 9 o t s a m t r   ( m fy  o o se  a  ( ( T s a o t C B o B s w fy l o t l i t a a d u § 9e,s.   ( S t p ( o t s t S W A R C s a r g t e o a fy  i a ws ]
+[DELETED: S 1   ( T w A O    ( e d w t i a c i t i r m i a 1 m    ( e u t a t n o m w a m a w b o    ( c w a a f a C B o B s w fy  o    ( c a e a t t m s w m t e w a m p w m w a m    () a i t   ( T    ( t a    ( e a w q a a m b e a s m o w b e t a f s w l  S 4 A B I F E T n § 9 o t S G A t S L a G C C s r t a f s i a w § 9   ( a s]
+[DELETED:  S    ( t t  S A  S 5]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1033
+C7 5lr3506
+By: Senator Benson
+Introduced and read first time: February 9, 2025
+Assigned to: Rules
+A BILL ENTITLED
+1 AN ACT concerning
+2 Gaming – Online Sports Wagering – Repeal
+3 FOR the purpose of repealing online sports wagering; requiring the State Lottery and
+4 Gaming Control Commission, notwithstanding a certain provision of law, to refund
+5 the application fee submitted by certain applicants for and holders of mobile sports
+6 wagering licenses under certain circumstances; and generally relating to the repeal
+7 of online sports wagering.
+8 BY repealing
+9 Article – State Government
+10 Section 9–1E–01(e) through (g) and (k) and 9–1E–10
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 BY renumbering
+14 Article – State Government
+15 Section 9–1E–01(h) through (j) and (l) through (p) and 9–1E–11 through 9–1E–17
+16 to be Section 9–1E–01(e) through (l) and 9–1E–10 through 9–1E–16, respectively
+17 Annotated Code of Maryland
+18 (2021 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Business Regulation
+21 Section 11–818(e)(3)
+22 Annotated Code of Maryland
+23 (2024 Replacement Volume)
+24 BY repealing and reenacting, with amendments,
+25 Article – State Government
+26 Section 9–1E–04(b)(1), 9–1E–05(a), (c)(2)(ii), and (d)(3), 9–1E–06(a), (b), and (c)(3),
+27 9–1E–07(a)(2)(v), (c), (d)(2), and (i), and 9–1E–09
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb1033*
+
+2 SENATE BILL 1033
+1 Annotated Code of Maryland
+2 (2021 Replacement Volume and 2024 Supplement)
+3 BY repealing and reenacting, with amendments,
+4 Article – State Government
+5 Section 9–1E–10, 9–1E–11(b), 9–1E–13(c), and 9–1E–14(f) and (h)
+6 Annotated Code of Maryland
+7 (2021 Replacement Volume and 2024 Supplement)
+8 (As enacted by Section 2 of this Act)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That Section(s) 9–1E–01(e) through (g) and (k) and 9–1E–10 of Article – State Government
+11 of the Annotated Code of Maryland be repealed.
+12 SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 9–1E–01(h)
+13 through (j) and (l) through (p) and 9–1E–11 through 9–1E–17 of Article – State Government
+14 of the Annotated Code of Maryland be renumbered to be Section(s) 9–1E–01(e) through (l)
+15 and 9–1E–10 through 9–1E–16, respectively.
+16 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+17 as follows:
+18 Article – Business Regulation
+19 11–818.
+20 (e) The Commission may waive all or any portion of the review that it determines
+21 to be appropriate for any applicant that is:
+22 (3) a sports wagering [facility] licensee under Title 9, Subtitle 1E of the
+23 State Government Article.
+24 Article – State Government
+25 9–1E–04.
+26 (b) In accordance with this subtitle, the Commission shall adopt regulations that
+27 establish:
+28 (1) subject to [§ 9–1E–15] § 9–1E–14 of this subtitle, the form and content
+29 of an application for any license required under this subtitle;
+30 9–1E–05.
+31 (a) The following persons shall be licensed under this subtitle:
+32 (1) a person that operates sports wagering;
+
+SENATE BILL 1033 3
+1 (2) a person that operates sports wagering on behalf of a sports wagering
+2 licensee[, including an online sports wagering operator];
+3 (3) a person not licensed under item (1) or (2) of this subsection that
+4 manages, operates, supplies, provides security for, or provides service, maintenance, or
+5 repairs for sports wagering equipment and devices; and
+6 (4) an individual directly employed in the operation of sports wagering by
+7 a sports wagering licensee if the individual does not otherwise hold a valid license under
+8 Subtitle 1A of this title.
+9 (c) (2) Except as provided under this subtitle or in regulation, the Commission
+10 may not waive a requirement under paragraph (1) of this subsection that relates to:
+11 (ii) a requirement of the Sports Wagering Application Review
+12 Commission under [§ 9–1E–15] § 9–1E–14 of this subtitle.
+13 (d) (3) Except as provided under this subtitle or in regulation, the Commission
+14 may not grant an exemption or a waiver of a licensing requirement adopted by the Sports
+15 Wagering Application Review Commission in accordance with [§ 9–1E–15(h)(2)] §
+16 9–1E–14(H)(2) of this subtitle to implement remedial measures based on the findings of
+17 a study of the sports wagering industry and market.
+18 9–1E–06.
+19 (a) (1) On an award of a license by the Sports Wagering Application Review
+20 Commission established under [§ 9–1E–15] § 9–1E–14 of this subtitle, the Commission
+21 shall:
+22 (i) issue a Class A–1 sports wagering [facility] license to an
+23 applicant that meets the requirements for licensure under this subtitle who is:
+24 1. a video lottery operator with more than 1,000 video lottery
+25 terminals; or
+26 2. A. the owner, or the designee of the owner, of a
+27 stadium in Prince George’s County that is primarily used for professional football (NFL);
+28 B. the owner, or the designee of the owner, of a professional
+29 football (NFL) franchise that is a lessee of a stadium in Baltimore City;
+30 C. the owner, or the designee of the owner, of a professional
+31 major league baseball franchise that is a lessee of a stadium in Baltimore City;
+
+4 SENATE BILL 1033
+1 D. the owner, or the designee of the owner, of a professional
+2 hockey league (NHL) franchise, that is a lessee of a stadium in the State;
+3 E. the owner, or the designee of the owner, of a professional
+4 basketball association (NBA) franchise, that is a lessee of a stadium in the State; or
+5 F. the owner, or the designee of the owner, of a professional
+6 soccer league (MLS) franchise, that is a lessee of a stadium in the State;
+7 (ii) issue a Class A–2 sports wagering [facility] license to an
+8 applicant that meets the requirements for licensure under this subtitle who is:
+9 1. a video lottery operator with 1,000 or fewer video lottery
+10 terminals; or
+11 2. a horse racing licensee;
+12 (iii) subject to paragraphs (2) and (3) of this subsection, issue a Class
+13 B–1 sports wagering [facility] license to any applicant who meets the requirements for
+14 licensure under this subtitle and who is not eligible for a Class B–2 sports wagering
+15 [facility] license; AND
+16 (iv) subject to paragraphs (2) and (3) of this subsection, issue a Class
+17 B–2 sports wagering [facility] license to any applicant who is a person with less than:
+18 1. 25 full–time equivalent employees; or
+19 2. $3,000,000 in annual gross receipts[; and
+20 (v) issue not more than 60 mobile sports wagering licenses to any
+21 applicant who meets the requirements for licensure under this subtitle].
+22 (2) (i) The Commission shall issue a Class B–1 or Class B–2 sports
+23 wagering [facility] license to an applicant that meets the requirements for licensure under
+24 this subtitle who is:
+25 1. the holder of a license issued by the State Racing
+26 Commission under § 11–524 of the Business Regulation Article, including a subsidiary of
+27 the license holder;
+28 2. a person who is the owner or lessee of a facility approved
+29 for satellite simulcast betting before January 1, 2021, unless the satellite simulcast facility
+30 is located at a video lottery facility or a racetrack; and
+
+SENATE BILL 1033 5
+1 3. a person who holds a commercial bingo license, if the
+2 facility at which the person operates commercial bingo was permitted to operate at least
+3 200 electronic bingo machines or electronic tip jar machines on January 1, 2021.
+4 (ii) In addition to the Class B–1 and B–2 sports wagering [facility]
+5 licenses issued in accordance with subparagraph (i) of this paragraph, the Commission may
+6 issue not more than 30 Class B–1 and Class B–2 sports wagering [facility] licenses under
+7 paragraph (1) of this subsection.
+8 (3) (i) The Sports Wagering Application Review Commission
+9 established under [§ 9–1E–15] § 9–1E–14 of this subtitle may not award a Class B–1 or
+10 B–2 sports wagering [facility] license to an applicant:
+11 1. who is eligible to apply for a Class A–1 or A–2 sports
+12 wagering [facility] license under paragraph (1) of this subsection;
+13 2. who holds a Class A–1 or A–2 sports wagering [facility]
+14 license; or
+15 3. whose sports wagering facility will be located:
+16 A. except as provided under subparagraph (ii) of this
+17 paragraph, within a 15–mile radius of a Class A–1 or A–2 sports wagering facility located
+18 in Allegany County, Cecil County, or Worcester County;
+19 B. with respect to an application for a sports wagering
+20 [facility] license submitted before June 1, 2025, within a 15–mile radius of a Class B–1 or
+21 B–2 sports wagering facility licensed to a person described under paragraph (2)(i) of this
+22 subsection and located in Charles County;
+23 C. with respect to an application for a sports wagering
+24 [facility] license submitted before June 1, 2025, within a 10–mile radius of a Class B–1 or
+25 B–2 sports wagering facility licensed to a person described under paragraph (2)(i) of this
+26 subsection and located in Carroll County;
+27 D. with respect to an application for a sports wagering
+28 [facility] license submitted before June 1, 2025, within a 5–mile radius of a Class B–1 or
+29 B–2 sports wagering facility licensed to a person described under paragraph (2)(i) of this
+30 subsection and located in Frederick County; or
+31 E. within a 1.5–mile radius of a Class A–1 or A–2 sports
+32 wagering facility located in a county not described under item A, B, C, or D of this item or
+33 any other Class B–1 or B–2 sports wagering facility.
+
+6 SENATE BILL 1033
+1 (ii) 1. The prohibition under subparagraph (i)3A of this
+2 paragraph does not apply in Allegany County prior to the issuance of a Class A–1 or A–2
+3 sports wagering [facility] license in Allegany County.
+4 2. A Class B–1 or B–2 sports wagering [facility] license
+5 issued within a 15–mile radius of a Class A–1 or A–2 sports wagering facility in Allegany
+6 County may be renewed if the license was initially issued prior to the issuance of the Class
+7 A–1 or A–2 license.
+8 (4) A for–profit entity, nonprofit organization, or public–private
+9 partnership operating at the racing location described under Title 11, Subtitle 7 of the
+10 Business Regulation Article located on lands owned by the Department of Natural
+11 Resources may apply for a Class B–1 or B–2 sports wagering [facility] license.
+12 (5) If an applicant designates an entity to hold the license under paragraph
+13 (1)(i)2 of this subsection, the designee shall be considered the applicant and subject to the
+14 requirements of the application process.
+15 [(6) In addition to any other person, an applicant for or holder of a Class
+16 A–1, A–2, B–1, or B–2 sports wagering facility license may apply for a mobile sports
+17 wagering license under this subsection.]
+18 (b) (1) Except as provided in paragraph (2) of this subsection, an applicant for
+19 a sports wagering license shall pay to the Commission an application fee of:
+20 (i) $2,000,000 for a Class A–1 sports wagering [facility] license;
+21 (ii) $1,000,000 for a Class A–2 sports wagering [facility] license;
+22 (iii) $250,000 for a Class B–1 sports wagering [facility] license; AND
+23 (iv) $50,000 for a Class B–2 sports wagering [facility] license[; and
+24 (v) $500,000 for a mobile sports wagering license].
+25 (2) The requirement to pay an application fee to the Commission under
+26 paragraph (1) of this subsection does not apply to an applicant for a Class A–2 sports
+27 wagering [facility] license that is a horse racing licensee described under § 11–510(b)(3) of
+28 the Business Regulation Article.
+29 (c) (3) The license renewal fee is equal to 1% of the licensee’s average annual
+30 proceeds from sports wagering for the preceding 3–year period less any proceeds remitted
+31 by the licensee in accordance with [§ 9–1E–12] § 9–1E–11 of this subtitle.
+32 9–1E–07.
+
+SENATE BILL 1033 7
+1 (a) An applicant for a license under this subtitle shall submit to the Commission:
+2 (2) if the applicant is applying for a sports wagering license, an affidavit
+3 attesting to:
+4 (v) any other information considered necessary by the Commission
+5 or the Sports Wagering Application Review Commission established under [§ 9–1E–15] §
+6 9–1E–14 of this subtitle.
+7 (c) (1) This subsection does not apply to the application or license renewal fees
+8 for a sports wagering license required under § 9–1E–06 of this subtitle.
+9 (2) [(i) Subject to subparagraph (ii) of this paragraph, the] THE
+10 Commission shall adopt regulations that establish an application fee and license renewal
+11 fee for a license under this subtitle.
+12 [(ii) The application fee for an online sports wagering operator license
+13 may not be less than $5,000.]
+14 (3) An applicant shall submit the application fee with the application.
+15 (4) The term of the license is 5 years.
+16 (d) On a properly approved transmittal prepared by the Commission, the
+17 Comptroller shall pay the following amounts from the application fees and license renewal
+18 fees collected by the Commission under this section and § 9–1E–06 of this subtitle:
+19 (2) 5% of the fees collected for each Class A–1 and A–2 sports wagering
+20 [facility] license to the Small, Minority–Owned, and Women–Owned Business Sports
+21 Wagering Assistance Fund established under [§ 9–1E–16] § 9–1E–15 of this subtitle; and
+22 (i) (1) The holder of a Class B–1 or B–2 sports wagering [facility] license [or
+23 a mobile sports wagering license] may only sell or transfer ownership of the license if the
+24 licensee was actively engaged in operating sports wagering in the State for at least 3 years
+25 immediately preceding the sale or transfer of the ownership of the license.
+26 (2) Nothing in paragraph (1) of this subsection may be construed to limit
+27 the ability of the Commission to enforce this subtitle.
+28 9–1E–09.
+29 (a) A sports wagering [facility] licensee may accept wagers on sporting events
+30 that are made:
+31 (1) by an individual physically present:
+
+8 SENATE BILL 1033
+1 (i) at a video lottery facility, if the sports wagering licensee is a video
+2 lottery operator;
+3 (ii) at Pimlico Race Course or a race track located at Laurel Park, if
+4 the sports wagering licensee is a horse racing licensee;
+5 (iii) subject to subsection [(d)] (B) of this section, at a stadium
+6 primarily used for professional football (NFL), professional major league baseball,
+7 professional hockey (NHL), professional basketball (NBA), or professional soccer (MLS), if
+8 the sports wagering licensee is the owner or a lessee or the designee of the owner or lessee
+9 of the stadium;
+10 (iv) at the Maryland State Fairgrounds in Timonium, if the sports
+11 wagering licensee is the holder of a license issued by the State Racing Commission under §
+12 11–524 of the Business Regulation Article, or a subsidiary of the license holder;
+13 (v) at a satellite simulcast facility, if the sports wagering licensee is
+14 the owner or lessee of a satellite simulcast facility described under § 9–1E–06(a)(2) of this
+15 subtitle;
+16 (vi) at a commercial bingo facility with at least 200 electronic bingo
+17 machines or electronic tip jar machines, if the sports wagering licensee is a commercial
+18 bingo operator described under § 9–1E–06(a)(2) of this subtitle; or
+19 (vii) subject to subsection [(e)] (C) of this section, at the facility
+20 identified in the application approved by the Sports Wagering Application Review
+21 Commission, if the sports wagering licensee is a holder of a Class B–1 or B–2 sports
+22 wagering [facility] license; or
+23 (2) on a self–service kiosk, device, or machine, approved by the
+24 Commission, located in a facility or at a location identified under item (1) of this subsection.
+25 (b) [A mobile sports wagering licensee may accept wagers on sporting events that
+26 are made through online sports wagering by an individual physically located in the State.
+27 (c) To participate in online sports wagering under this section, an individual shall
+28 register:
+29 (1) in person at a facility or location identified under subsection (a)(1) of
+30 this section; or
+31 (2) online using a website or mobile application approved by the
+32 Commission.
+33 (d)] (1) Subject to paragraph (2) of this subsection, a sports wagering [facility]
+34 licensee may contract with any other sports wagering [facility] licensee to provide sports
+
+SENATE BILL 1033 9
+1 wagering services on behalf of the licensee at a location where the licensee is authorized to
+2 accept wagers on sporting events.
+3 (2) If a sports wagering licensee authorized to accept wagers at a stadium
+4 under subsection (a)(1)(iii) of this section contracts with a video lottery operator, or an
+5 affiliate or a subsidiary of that video lottery operator, to provide sports wagering services
+6 at the stadium, the licensee may contract only with a video lottery operator, or an affiliate
+7 or a subsidiary of that video lottery operator, that operates a video lottery facility located
+8 in the same county as the stadium.
+9 [(e)] (C) A sports wagering [facility] licensee authorized to accept in–person
+10 wagers at the racing location described under Title 11, Subtitle 7 of the Business Regulation
+11 Article located on lands owned by the Department of Natural Resources may only accept
+12 wagers in the special event zone.
+13 9–1E–10.
+14 (a) An individual may not wager on a sporting event and a sports wagering
+15 licensee may not accept a wager from an individual on a sporting event if the individual:
+16 (1) is under the age of 21 years;
+17 (2) is not physically present in the State;
+18 (3) is an athlete, a coach, a referee, or a director or an employee of a sports
+19 governing entity or any of its member teams;
+20 (4) is the direct or indirect legal or beneficial owner of 10% or more of a
+21 sports governing entity or any of its member teams if any member team of that sports
+22 governing entity participates in the sporting event;
+23 (5) has access to certain types of exclusive information on any sporting
+24 event overseen by that individual’s sports governing entity;
+25 (6) holds a position of authority or influence sufficient to exert influence
+26 over the participants in a sporting event, including coaches, managers, handlers, or athletic
+27 trainers;
+28 (7) is identified on a mandatory or voluntary sports wagering exclusion list
+29 maintained by the Commission;
+30 (8) is the operator, director, officer, owner, or employee of the sports
+31 wagering licensee [or online sports wagering operator] or any relative of the licensee [or
+32 operator] living in the same household as the licensee [or operator];
+33 (9) has access to nonpublic confidential information held by the sports
+34 wagering licensee [or online sports wagering operator]; or
+
+10 SENATE BILL 1033
+1 (10) is a category of individuals prohibited by the Commission under
+2 subsection [(e)] (D) of this section from wagering on a sporting event.
+3 (b) [For online sports wagering, a mobile sports wagering licensee shall:
+4 (1) have in place technical and operational measures to prevent access by
+5 individuals who are underage or physically located outside the State, including:
+6 (i) age verification procedures, which may require the use of a
+7 reputable independent third party that is in the business of verifying an individual’s
+8 personally identifiable information; and
+9 (ii) the use of geolocation technology to verify a bettor’s geographic
+10 location;
+11 (2) include on its online sports wagering website a description of the
+12 possible repercussions for an underage or out–of–state bettor, which may include
+13 immediate stoppage of play, account closure, and forfeiture and confiscation of winnings;
+14 and
+15 (3) establish procedures to prevent prohibited individuals from wagering
+16 on sporting events.
+17 (c)] A sports wagering licensee shall:
+18 (1) promptly report to the Commission:
+19 (i) any criminal or disciplinary proceedings against the licensee or
+20 its employees in connection with the licensee’s sports wagering operation;
+21 (ii) any abnormal betting activity or patterns that may indicate a
+22 concern about the integrity of a sporting event;
+23 (iii) any other conduct with the potential to corrupt the outcome of a
+24 sporting event for purposes of financial gain, including match fixing; and
+25 (iv) any suspicious or illegal wagering activities, including the use of
+26 funds derived from illegal activity, wagers to conceal or launder funds derived from illegal
+27 activity, use of agents to place wagers, or use of false identification; and
+28 (2) maintain records of sports wagering operations in accordance with
+29 regulations adopted by the Commission.
+30 [(d)] (C) The Commission is authorized to share any information under this
+31 section with any law enforcement agency, sports team, sports governing entity, or
+32 regulatory agency the Commission deems appropriate.
+
+SENATE BILL 1033 11
+1 [(e)] (D) (1) In this subsection, “interested party” means:
+2 (i) a sports wagering licensee;
+3 (ii) a professional sports team, league, association, or governing
+4 entity; or
+5 (iii) an institution of higher education.
+6 (2) If an interested party believes that a type or form of wagering or a
+7 category of individuals wagering on sporting events is contrary to public policy, is unfair to
+8 consumers, or affects the integrity of a particular sport or the sports wagering industry, the
+9 interested party may submit to the Commission, in writing, a request to prohibit the type
+10 or form of sports wagering or the category of individuals from wagering on sporting events.
+11 (3) After conducting a public hearing on a request submitted under
+12 paragraph (2) of this subsection, the Commission may grant the request on a showing of
+13 good cause by the interested party.
+14 (4) The Commission shall respond to a request under this subsection
+15 concerning a particular sporting event before the start of the sporting event to the greatest
+16 extent feasible, or as soon as practicable.
+17 9–1E–11.
+18 (b) (1) (i) Except as provided in [subparagraphs] SUBPARAGRAPH (ii)[,
+19 (iii), and (iv)] of this paragraph, all proceeds from sports wagering shall be electronically
+20 transferred monthly into the State Lottery Fund established under Subtitle 1 of this title.
+21 (ii) [A Class A–1 and A–2 sports wagering facility licensee shall
+22 retain 85% of the proceeds from sports wagering conducted at the locations described in §
+23 9–1E–09(a) of this subtitle.
+24 (iii)] A [Class B–1 and B–2] sports wagering [facility] licensee shall
+25 retain 85% of the proceeds from sports wagering conducted at the location described in the
+26 licensee’s application.
+27 [(iv) A mobile sports wagering licensee shall retain 85% of the
+28 proceeds from online sports wagering received by the licensee.]
+29 (2) All proceeds from sports wagering in the State Lottery Fund
+30 established under Subtitle 1 of this title shall be distributed on a monthly basis, on a
+31 properly approved transmittal prepared by the Commission to the Blueprint for Maryland’s
+32 Future Fund established under § 5–206 of the Education Article.
+
+12 SENATE BILL 1033
+1 9–1E–13.
+2 (c) (1) Subject to paragraph (2) of this subsection, on or before December 1,
+3 2025, the Commission shall report to the General Assembly, in accordance with § 2–1257
+4 of [the State Government Article] THIS ARTICLE, on the racial, ethnic, gender, and
+5 geographic diversity of holders of Class B–1 and B–2 sports wagering [facility] licenses
+6 [and mobile sports wagering licenses] under this subtitle, the level of market saturation of
+7 sports wagering in the State, and whether the number of Class B–1 and B–2 sports
+8 wagering [facility] licenses [and mobile sports wagering licenses] that may be issued under
+9 this subtitle should be increased in order to address the demand for sports wagering in the
+10 State.
+11 (2) Before the Commission submits the report described under paragraph
+12 (1) of this subsection, the Commission shall provide the Legislative Policy Committee with
+13 at least 30 days to submit comments to the Commission.
+14 9–1E–14.
+15 (f) The Sports Wagering Application Review Commission:
+16 (1) shall review applications for sports wagering licenses submitted in
+17 accordance with § 9–1E–06 of this subtitle;
+18 (2) shall award:
+19 (i) a Class A–1 or A–2 [facility] SPORTS WAGERING license to any
+20 applicant that meets the requirements for licensure under this subtitle; and
+21 (ii) a Class B–1 or B–2 [facility] SPORTS WAGERING license to any
+22 applicant that is described under § 9–1E–06(a)(2)(i) of this subtitle and meets the
+23 requirements for licensure under this subtitle; and
+24 (3) may not award a Class B–1 or B–2 sports wagering [facility] license,
+25 other than to an applicant described under § 9–1E–06(a)(2)(i) of this subtitle, [or a mobile
+26 sports wagering license] until after the Sports Wagering Application Review Commission
+27 adopts the regulations required under subsection (h) of this section.
+28 (h) (1) This subsection applies only to Class B–1 or B–2 sports wagering
+29 [facility] licenses, other than licenses issued to an applicant described under §
+30 9–1E–06(a)(2)(i) of this subtitle[, and mobile sports wagering licenses].
+31 (2) Subject to paragraph (3) of this subsection, the Sports Wagering
+32 Application Review Commission shall adopt regulations governing the evaluation of
+33 applications for Class B–1 or B–2 sports wagering [facility] licenses, other than licenses
+34 issued to an applicant described under § 9–1E–06(a)(2)(i) of this subtitle, [and mobile sports
+35 wagering licenses] submitted in accordance with § 9–1E–06 of this subtitle.
+
+SENATE BILL 1033 13
+1 (3) The Sports Wagering Application Review Commission, in consultation
+2 with the certification agency as defined in § 14–301 of the State Finance and Procurement
+3 Article, the Governor’s Office of Small, Minority, and Women Business Affairs, and the
+4 Office of the Attorney General, shall:
+5 (i) evaluate a study of the sports wagering industry and market to
+6 determine whether there is a compelling interest to implement remedial measures, in
+7 addition to the application of the State Minority Business Enterprise Program under Title
+8 14, Subtitle 3 of the State Finance and Procurement Article or a similar program, to assist
+9 minorities and women in the sports wagering industry;
+10 (ii) evaluate race–neutral programs or other methods that may be
+11 used to address the needs of minorities, women, and minority and women–owned
+12 businesses seeking to participate in the sports wagering industry, including through the
+13 ownership of entities licensed to conduct sports wagering under this subtitle;
+14 (iii) consider whether an applicant for a Class B–1 or B–2 sports
+15 wagering [facility] license intends to conduct sports wagering at a facility located in an
+16 opportunity zone or an enterprise zone; AND
+17 (iv) [consider allowing early access to the mobile sports wagering
+18 market to entities with a meaningful partnership with minorities, women, and
+19 minority– and women–owned businesses; and
+20 (v)] adopt emergency regulations to implement remedial measures,
+21 if necessary and to the extent permitted by State and federal law, based on the findings of
+22 the study evaluated under item (i) of this paragraph.
+23 (4) The Sports Wagering Application Review Commission shall:
+24 (i) to the extent permitted by federal and State law, actively seek to
+25 achieve racial, ethnic, and gender diversity when awarding licenses; and
+26 (ii) encourage applicants who qualify as a minority business
+27 enterprise, as defined in § 14–301 of the State Finance and Procurement Article, or who
+28 are small, minority, or women–owned business entities to apply for sports wagering
+29 licenses under this subtitle.
+30 SECTION 4. AND BE IT FURTHER ENACTED, That, notwithstanding §
+31 9–1E–06(d)(2) of the State Government Article, the State Lottery and Gaming Control
+32 Commission shall refund the application fee submitted in accordance with §
+33 9–1E–06(b)(1)(v) of the State Government Article by:
+34 (1) an applicant for a mobile sports wagering license whose application is
+35 still pending on or after July 1, 2025, if the applicant rescinds the application; and
+
+14 SENATE BILL 1033
+1 (2) the holder of a mobile sports wagering license, if the licensee surrenders
+2 the license before accepting any sports wagers under that license.
+3 SECTION 5. AND BE IT FURTHER ENACTED, That Sections 1, 2, and 3 of this
+4 Act shall take effect January 1, 2026.
+5 SECTION 6. AND BE IT FURTHER ENACTED, That, except as provided in Section
+6 5 of this Act, this Act shall take effect July 1, 2025.
+
+[DELETED: :CA      5     A G F t p o r o s w r t S L a G t w o B  A S  A  ( B  A S t  A  ( B  A S  A  ( B  A S 9]
+[DELETED:  S   A  ( B  A S  A  (  (  S T o  S 2 A B I F E T S 9 t o a  S a A 1  ( T t   ( a fy  S A 9  ( I e   ( s §5 ]§9 o 9  ( T   ( a]
+[DELETED: S 3   ( a le,r;   ( a p n l u i ( o ( o t s t m r   ( a a S  ( ( E m    ( a r o t S W A R C §5 ]§9  ( ( E m W A R C i a w § 9]§()   a 9  ( ( O C §5 ]§9 s    ( i a C A s w fy l t a a     1 a t     2 A t o o t d o t o o a s     B t f     C t m]
+[DELETED:  S      D t h     E t b     F t s    ( i a C A s w fy l t a a     1 a t     2 a    ( s B fy  l u t s a w i n e f a C B s w] fy     ( s B fy      1 2     2 $s;    ( i ae.   ( ( T C s i a C B o C B s w fy  t     1 t h o a l i b t S R C t     2 a f i]
+[DELETED: S 5     3 a p w h a c b l i t f 2    ( I fy l i fy  p   ( ( T S W A R C e §5 ]§9 B fy      1 w i e t a f a C A o A s w fy      2 w fy l     3 w     A e a p u s ( o t p i     B w r t a a f a s w fy  B s     C w r t a a f a s w fy  B s     D w r t a a f a s w fy  B s     E w a 1 r o a C A o A s w a]
+[DELETED:  S     ( 1 T p u s ( o t p s fy      2 A C B o B s w fy l i C A   ( A f e n o o p p B R A l o l o b t D o N R fy    ( I ( r   ( I A A B o B s w f l m a f a m s w  ( ( E a    ( $ fy     ( $ fy     ( $ fy ]    ( $ fy e;]    ( $e.   ( T p ( o t s d n t a f a C A s w fy  t  ( ( T p b §2 ]§9 9]
+[DELETED: S 7  ( A   ( i a    ( a o §]    ( ( T f   ( ( S t s ( o t p te]H C f    ( T m   ( A   ( T  ( O a p a t p b t C t C f 9   ( 5 fy l t t S M a W B S W §6 ]§9  ( ( T fy  o] ae  l i   ( N t 9  ( A fy  t   ( b]
+[DELETED:  S     ( a l    ( a t    ( s t s () o t s a a s]( p u f p f ( p m l b p t o    ( a w 1    ( a t s    ( a m b    ( s t s () o t s a t f]( i i t a a b t S W A R C i t s w l i a h o a C B o B s w fy    ( o a s k d o m a b t C  ( A a  ( T r   ( i t   ( o u a w o m a a b t C  () ( S fy[ l fy ]
+[DELETED: S 9 w a   ( I u a a o i  () A s w fy l a t a i]()[ w A w 9  ( A i m n w o a s e a a s w l   ( i   ( i   ( i g   ( i s g   ( h e   ( h o t   ( i m   ( i t o d o o o e o t s w or  o] or  or;[   ( h a t n c i h b t s w or;]
+[DELETED:  S    ( i a c o i p b t C u s () ](  ( F   ( h i    ( a v p w m r t u o a r i t p t i i t b o v a i p    ( t l   ( i o i o s w w a d o t p r f a u o o b w m i i a   ( e o  () A   ( p    ( a i    ( a c    ( a s    ( a f a   ( m r o s w o i a w r  () T C i a t s a i u t]( s w a l e a s t s g e o r]
+[DELETED: S 1  () ( I](    ( a    ( a p s t l a o g e    ( a   ( I c c i o   ( A c a p h o a r s u p g   ( T C s r t a r u t s c e 9  ( ( ( E ss ),] ()  t    ( A C A a A s w f l s r 9    () A C2  fy [][ r l    ( A m s w l s r 8 o t p   ( A p f s w i t S L F e u S 1 o t t s b d o a m b o a p F]
+[DELETED:  S  9  ( ( S 2 o t S G Ae, o t r e g aT A g fy  as  s w i t S a w t n o C B a B s w fy  as ][ t S   ( B ( a 9  ( T   ( s r a f s w l s i a   ( s    ( a fy  a    ( a fy  a t i d u § 9 o t s a m t r   ( m fy  o o se  a  ( ( T s a o t C B o B s w fy l o t l i t a a d u § 9e,s.   ( S t p ( o t s t S W A R C s a r g t e o a fy  i a ws ]
+[DELETED: S 1   ( T w A O    ( e d w t i a c i t i r m i a 1 m    ( e u t a t n o m w a m a w b o    ( c w a a f a C B o B s w fy  o    ( c a e a t t m s w m t e w a m p w m w a m    () a i t   ( T    ( t a    ( e a w q a a m b e a s m o w b e t a f s w l  S 4 A B I F E T n § 9 o t S G A t S L a G C C s r t a f s i a w § 9   ( a s]
+[DELETED:  S    ( t t  S A  S 5]

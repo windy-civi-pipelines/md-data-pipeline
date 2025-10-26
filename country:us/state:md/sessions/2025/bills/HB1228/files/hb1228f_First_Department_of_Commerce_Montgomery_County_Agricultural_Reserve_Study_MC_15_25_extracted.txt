@@ -1,0 +1,187 @@
+Title: HOUSE BILL 1228
+Official Title: HOUSE BILL 1228
+Number of Sections: 1
+Source: versions - First - Department of Commerce - Montgomery County Agricultural Reserve Study MC 15-25
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+L1, C8 5lr1227
+By: Montgomery County Delegation
+Introduced and read first time: February 7, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Department of Commerce – Montgomery County Agricultural Reserve Study
+3 MC 15–25
+4 FOR the purpose of requiring the Department of Commerce to study the tourist and visitor
+5 economy of the Montgomery County Agricultural Reserve and, on or before a certain
+6 date, report its findings to the members of the Montgomery County Delegation to the
+7 General Assembly; and generally relating to the Montgomery County Agricultural
+8 Reserve.
+9 Preamble
+10 WHEREAS, There has been a consensus for decades in Montgomery County in
+11 support of preserving the Montgomery County Agricultural Reserve, a large segment of
+12 which is located in western Montgomery County; and
+13 WHEREAS, The Montgomery County Agricultural Reserve was founded with the
+14 principal goal of preserving open space and land for agriculture; and
+15 WHEREAS, Farming remains the foundation of the Montgomery County
+16 Agricultural Reserve and Montgomery County has established a Department of Agriculture
+17 to help promote, support, and preserve farming and farmland; and
+18 WHEREAS, The farming economy is a key focus of Montgomery County and its
+19 Department of Agriculture and the farming economy is monitored and studied
+20 continuously; and
+21 WHEREAS, Outside of farming, a significant part of the land in the Montgomery
+22 County Agricultural Reserve exists in the form of woodlands, open spaces, parks, historic
+23 sites, and recreation areas of various kinds; and
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1228*
+2 HOUSE BILL 1228
+1 WHEREAS, Small nonprofit organizations and businesses are a major part of the
+2 Montgomery County Agricultural Reserve and these organizations and businesses are
+3 reliant on tourists and visitors, both locally and from throughout the Washington
+4 metropolitan area, to support their operations; now, therefore,
+5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+6 That:
+7 (a) The Department of Commerce shall study the tourist and visitor economy of
+8 the Montgomery County Agricultural Reserve to develop:
+9 (1) a deeper understanding of the tourist and visitor sector of the
+10 Montgomery County Agricultural Reserve due to these sectors being not as well understood
+11 as the agricultural sector of the reserve; and
+12 (2) policies and recommendations to help the Montgomery County
+13 Agricultural Reserve thrive.
+14 (b) In conducting the study required under subsection (a) of this section, the
+15 Department of Commerce shall:
+16 (1) (i) establish a geofence around the Montgomery County
+17 Agricultural Reserve and other key attractions in the area; and
+18 (ii) use geolocation technology to gather information on visitor
+19 volume and how those visitors interact with other parts of the regional economy;
+20 (2) engage with visitors, including by surveying visitors, to gather
+21 information about visitor behavior and attitudes;
+22 (3) consider whether in–depth interviews with residents, businesses, and
+23 other stakeholders are necessary; and
+24 (4) review existing data models to gather information on the upstream and
+25 downstream impacts of visitation to the region.
+26 (c) The Department of Commerce may consult with government agencies,
+27 academic institutions, and stakeholders to complete the study required under this section.
+28 (d) (1) On or before June 30, 2026, the Department of Commerce shall report
+29 the findings of the study required under this section, in accordance with § 2–1257 of the
+30 State Government Article, to the members of the Montgomery County Delegation to the
+31 General Assembly.
+32 (2) In considering the data and its findings, the Department shall:
+HOUSE BILL 1228 3
+1 (i) examine how tourists and visitors view the Montgomery County
+2 Agricultural Reserve, including why they visit, where they came from, and what attractions
+3 they found most compelling and why;
+4 (ii) 1. identify the small businesses, recreation sites, and historic
+5 sites that are located in the Montgomery County Agricultural Reserve; and
+6 2. A. analyze how tourism and visitors contribute to
+7 these operations and their success;
+8 B. assess and evaluate the barriers that may deter visitors
+9 from coming to the reserve; and
+10 C. develop an overall assessment of the economic impact of
+11 tourism in the reserve; and
+12 (iii) make recommendations regarding policies and programs that
+13 can help promote and preserve the Montgomery County Agricultural Reserve and better
+14 support the small businesses, recreation sites, and historic sites that depend on the visitor
+15 and tourist economy.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+17 1, 2025.
+[DELETED: :CA      5     A D M F e d G R P  W T h b a c f d i M C i s w  W p  W F r t f o t M C A t  W T f e a k f o M C a i D o A a t f e i m a s c  W C s]
+[DELETED:  H   W M C A R a t o a b a r o t a v b l a f t t W m  S T  ( T t   ( a d u o t t a v s o t M a   ( p a r t h t M C A  ( I c t s r u s ( o t s t D   ( ( e a g a t M C A    ( u g t t g i o v v   ( e w v i b s v t g i   ( c o   ( r d  ( T D o C m c w g a a  ( ( O t S G   ( I]
+[DELETED: H 3    ( e A t    ( 1 i s     2 A a h t a v c t t     B a f     C d t    ( m r r p a p t c s a  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1228
+L1, C8 5lr1227
+By: Montgomery County Delegation
+Introduced and read first time: February 7, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Department of Commerce – Montgomery County Agricultural Reserve Study
+3 MC 15–25
+4 FOR the purpose of requiring the Department of Commerce to study the tourist and visitor
+5 economy of the Montgomery County Agricultural Reserve and, on or before a certain
+6 date, report its findings to the members of the Montgomery County Delegation to the
+7 General Assembly; and generally relating to the Montgomery County Agricultural
+8 Reserve.
+9 Preamble
+10 WHEREAS, There has been a consensus for decades in Montgomery County in
+11 support of preserving the Montgomery County Agricultural Reserve, a large segment of
+12 which is located in western Montgomery County; and
+13 WHEREAS, The Montgomery County Agricultural Reserve was founded with the
+14 principal goal of preserving open space and land for agriculture; and
+15 WHEREAS, Farming remains the foundation of the Montgomery County
+16 Agricultural Reserve and Montgomery County has established a Department of Agriculture
+17 to help promote, support, and preserve farming and farmland; and
+18 WHEREAS, The farming economy is a key focus of Montgomery County and its
+19 Department of Agriculture and the farming economy is monitored and studied
+20 continuously; and
+21 WHEREAS, Outside of farming, a significant part of the land in the Montgomery
+22 County Agricultural Reserve exists in the form of woodlands, open spaces, parks, historic
+23 sites, and recreation areas of various kinds; and
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1228*
+
+2 HOUSE BILL 1228
+1 WHEREAS, Small nonprofit organizations and businesses are a major part of the
+2 Montgomery County Agricultural Reserve and these organizations and businesses are
+3 reliant on tourists and visitors, both locally and from throughout the Washington
+4 metropolitan area, to support their operations; now, therefore,
+5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+6 That:
+7 (a) The Department of Commerce shall study the tourist and visitor economy of
+8 the Montgomery County Agricultural Reserve to develop:
+9 (1) a deeper understanding of the tourist and visitor sector of the
+10 Montgomery County Agricultural Reserve due to these sectors being not as well understood
+11 as the agricultural sector of the reserve; and
+12 (2) policies and recommendations to help the Montgomery County
+13 Agricultural Reserve thrive.
+14 (b) In conducting the study required under subsection (a) of this section, the
+15 Department of Commerce shall:
+16 (1) (i) establish a geofence around the Montgomery County
+17 Agricultural Reserve and other key attractions in the area; and
+18 (ii) use geolocation technology to gather information on visitor
+19 volume and how those visitors interact with other parts of the regional economy;
+20 (2) engage with visitors, including by surveying visitors, to gather
+21 information about visitor behavior and attitudes;
+22 (3) consider whether in–depth interviews with residents, businesses, and
+23 other stakeholders are necessary; and
+24 (4) review existing data models to gather information on the upstream and
+25 downstream impacts of visitation to the region.
+26 (c) The Department of Commerce may consult with government agencies,
+27 academic institutions, and stakeholders to complete the study required under this section.
+28 (d) (1) On or before June 30, 2026, the Department of Commerce shall report
+29 the findings of the study required under this section, in accordance with § 2–1257 of the
+30 State Government Article, to the members of the Montgomery County Delegation to the
+31 General Assembly.
+32 (2) In considering the data and its findings, the Department shall:
+
+HOUSE BILL 1228 3
+1 (i) examine how tourists and visitors view the Montgomery County
+2 Agricultural Reserve, including why they visit, where they came from, and what attractions
+3 they found most compelling and why;
+4 (ii) 1. identify the small businesses, recreation sites, and historic
+5 sites that are located in the Montgomery County Agricultural Reserve; and
+6 2. A. analyze how tourism and visitors contribute to
+7 these operations and their success;
+8 B. assess and evaluate the barriers that may deter visitors
+9 from coming to the reserve; and
+10 C. develop an overall assessment of the economic impact of
+11 tourism in the reserve; and
+12 (iii) make recommendations regarding policies and programs that
+13 can help promote and preserve the Montgomery County Agricultural Reserve and better
+14 support the small businesses, recreation sites, and historic sites that depend on the visitor
+15 and tourist economy.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+17 1, 2025.
+
+[DELETED: :CA      5     A D M F e d G R P  W T h b a c f d i M C i s w  W p  W F r t f o t M C A t  W T f e a k f o M C a i D o A a t f e i m a s c  W C s]
+[DELETED:  H   W M C A R a t o a b a r o t a v b l a f t t W m  S T  ( T t   ( a d u o t t a v s o t M a   ( p a r t h t M C A  ( I c t s r u s ( o t s t D   ( ( e a g a t M C A    ( u g t t g i o v v   ( e w v i b s v t g i   ( c o   ( r d  ( T D o C m c w g a a  ( ( O t S G   ( I]
+[DELETED: H 3    ( e A t    ( 1 i s     2 A a h t a v c t t     B a f     C d t    ( m r r p a p t c s a  S 1]

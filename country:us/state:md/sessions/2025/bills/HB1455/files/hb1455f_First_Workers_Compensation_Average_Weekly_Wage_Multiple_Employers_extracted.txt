@@ -1,0 +1,499 @@
+Title: HOUSE BILL 1455
+Official Title: HOUSE BILL 1455
+Number of Sections: 1
+Source: versions - First - Workers' Compensation - Average Weekly Wage - Multiple Employers
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+K1 5lr2544
+By: Delegate Arentz
+Introduced and read first time: February 7, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Workers’ Compensation – Average Weekly Wage – Multiple Employers
+3 FOR the purpose of requiring that the average weekly wages from employments of a
+4 covered employee who, at the time of an accidental personal injury, was concurrently
+5 employed by more than one employer be combined for purposes of computing the
+6 average weekly wages under certain circumstances; requiring that the Subsequent
+7 Injury Fund or the Uninsured Employers’ Fund reimburse an employer for certain
+8 compensation paid by the employer under certain circumstances; requiring average
+9 weekly wage for certain covered employees be recalculated under this Act; and
+10 generally relating to the computation of the average weekly wage of a covered
+11 employee.
+12 BY adding to
+13 Article – Labor and Employment
+14 Section 9–602(a–1)
+15 Annotated Code of Maryland
+16 (2016 Replacement Volume and 2024 Supplement)
+17 BY repealing and reenacting, with amendments,
+18 Article – Labor and Employment
+19 Section 9–602(b), (c), (g), and (j), 9–615, and 9–621
+20 Annotated Code of Maryland
+21 (2016 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Labor and Employment
+25 9–602.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1455*
+2 HOUSE BILL 1455
+1 (A–1) (1) THIS SUBSECTION APPLIES ONLY TO A COVERED EMPLOYEE WHO:
+2 (I) HAS SUFFERED:
+3 1. A TEMPORARY PARTIAL DISABILITY UNDER § 9–615
+4 OF THIS SUBTITLE; OR
+5 2. A TEMPORARY TOTAL DISABILITY UNDER § 9–621 OF
+6 THIS SUBTITLE;
+7 (II) WAS CONCURRENTLY EMPLOYED BY MORE THAN ONE
+8 EMPLOYER AT THE TIME OF THE ACCIDENTAL PERSONAL INJURY; AND
+9 (III) AS A RESULT OF THE ACCIDENTAL PERSONAL INJURY, IS
+10 UNABLE TO WORK AT ANY EMPLOYMENT THE COVERED EMPLOYEE WAS ENGAGED IN
+11 AT THE TIME OF THE ACCIDENTAL PERSONAL INJURY OR ANY SIMILAR TYPE OF
+12 EMPLOYMENT.
+13 (2) EXCEPT AS OTHERWISE PROVIDED IN THIS SECTION, THE WEEKLY
+14 WAGES FROM THE EMPLOYMENTS THE COVERED EMPLOYEE WAS ENGAGED IN AT
+15 THE TIME OF THE ACCIDENTAL PERSONAL INJURY SHALL BE COMBINED FOR
+16 PURPOSES OF COMPUTING THE AVERAGE WEEKLY WAGE OF THE COVERED
+17 EMPLOYEE.
+18 (3) THIS SUBSECTION MAY NOT BE INTERPRETED TO:
+19 (I) EXCEPT AS OTHERWISE PROVIDED UNDER THIS TITLE,
+20 RELIEVE THE EMPLOYER IN WHOSE EMPLOYMENT THE ACCIDENTAL PERSONAL
+21 INJURY OCCURRED FROM LIABILITY TO PAY COMPENSATION; OR
+22 (II) CREATE LIABILITY TO PAY COMPENSATION ON THE PART OF
+23 ANOTHER EMPLOYER IN WHOSE EMPLOYMENT THE ACCIDENTAL PERSONAL INJURY
+24 DID NOT OCCUR.
+25 (b) (1) THIS SUBSECTION APPLIES TO A COVERED EMPLOYEE ONLY IF
+26 THE APPLICATION OF SUBSECTION (A–1) OF THIS SECTION RESULTS IN A LOWER
+27 AVERAGE WEEKLY WAGE FOR THE COVERED EMPLOYEE.
+28 (2) For the purpose of computing the average weekly wage of an auxiliary
+29 police officer of Baltimore County who is a covered employee under § 9–220(a) of this title
+30 or a member of a volunteer ambulance, ambulance and rescue, or fire company in Baltimore
+31 County who is a covered employee under § 9–234 of this title, the wages of the covered
+32 employee shall be:
+HOUSE BILL 1455 3
+1 [(1)] (I) if the covered employee had other employment at the time of the
+2 accidental personal injury or last injurious exposure, the salary or wages from the other
+3 employment;
+4 [(2)] (II) if the covered employee had had other employment but was not
+5 otherwise employed at the time of the accidental personal injury or last injurious exposure,
+6 the salary or wages last received by the covered employee from the other employment; or
+7 [(3)] (III) if the covered employee had never had other employment at the
+8 time of the accidental personal injury or last injurious exposure, an amount that allows
+9 minimum death or disability benefits under this title.
+10 (c) (1) THIS SUBSECTION APPLIES TO A COVERED EMPLOYEE ONLY IF
+11 THE APPLICATION OF SUBSECTION (A–1) OF THIS SECTION RESULTS IN A LOWER
+12 AVERAGE WEEKLY WAGE FOR THE COVERED EMPLOYEE.
+13 (2) For the purpose of computing the average weekly wage of an individual
+14 engaged for fire fighting by the Department of Natural Resources who is a covered employee
+15 under § 9–207 of this title, the wages of the covered employee shall be:
+16 [(1)] (I) the greater of:
+17 [(i)] 1. any salary or wages received by the covered employee for
+18 fire fighting; or
+19 [(ii)] 2. any salary or wages earned by the covered employee in
+20 other employment at the time of the accidental personal injury or last injurious exposure;
+21 or
+22 [(2)] (II) if the covered employee did not receive wages for fire fighting or
+23 from other employment at the time of the accidental personal injury or last injurious
+24 exposure, an amount that allows the minimum compensation or death benefits under this
+25 title.
+26 (g) (1) THIS SUBSECTION APPLIES TO A COVERED EMPLOYEE ONLY IF
+27 THE APPLICATION OF SUBSECTION (A–1) OF THIS SECTION RESULTS IN A LOWER
+28 AVERAGE WEEKLY WAGE FOR THE COVERED EMPLOYEE.
+29 [(1)] (2) Subject to paragraph [(2)] (3) of this subsection, for the purpose
+30 of computing the average weekly wage of an individual who is a covered employee under §
+31 9–234 of this title, the wages of the covered employee shall be:
+32 (i) for a covered employee who received a salary or wages from other
+33 employment at the time of the accidental personal injury or last injurious exposure, the
+34 salary or wages from the other employment; or
+4 HOUSE BILL 1455
+1 (ii) for a covered employee who did not receive a salary or wages from
+2 other employment at the time of the accidental personal injury or last injurious exposure:
+3 1. if the covered employee derived income from a source other
+4 than salary or wages at the time of the accidental personal injury or last injurious exposure,
+5 an amount that allows the maximum compensation under this title;
+6 2. if the covered employee was not engaged in a business
+7 enterprise at the time of the accidental personal injury or last injurious exposure, the
+8 weekly income last received by the covered employee when engaged in a business
+9 enterprise; or
+10 3. if the covered employee had never been engaged in a
+11 business enterprise at the time of the accidental personal injury or last injurious exposure,
+12 an amount that allows the minimum compensation under this title.
+13 [(2)] (3) A yearly stipend of $5,200 or less to help offset out–of–pocket
+14 expenses that a volunteer company, as defined in § 9–234 of this title, pays to a member
+15 may not be used when determining the average weekly wage of the member.
+16 (j) (1) THIS SUBSECTION APPLIES TO A COVERED EMPLOYEE ONLY IF
+17 THE APPLICATION OF SUBSECTION (A–1) OF THIS SECTION RESULTS IN A LOWER
+18 AVERAGE WEEKLY WAGE FOR THE COVERED EMPLOYEE.
+19 (2) For the purpose of computing the average weekly wage of a volunteer
+20 deputy sheriff of Cecil County or an auxiliary volunteer of the Charles County Sheriff’s
+21 Office who is a covered employee under § 9–233 of this title, the wages of the covered
+22 employee shall be:
+23 [(1)] (I) if the covered employee had other employment at the time of the
+24 accidental personal injury or last injurious exposure, the wages from the other employment;
+25 [(2)] (II) if the covered employee had had other employment but was not
+26 otherwise employed at the time of the accidental personal injury or last injurious exposure,
+27 the wages last received by the covered employee from the other employment; or
+28 [(3)] (III) if the covered employee had never had other employment at the
+29 time of the accidental personal injury or last injurious exposure, an amount that allows
+30 minimum compensation under this title.
+31 9–615.
+32 (a) (1) Subject to paragraph (2) of this subsection, if the wage earning capacity
+33 of a covered employee is less while temporarily partially disabled, the employer or its
+34 insurer shall pay the covered employee compensation that equals 50% of the difference
+35 between:
+HOUSE BILL 1455 5
+1 (i) the average weekly wage of the covered employee; and
+2 (ii) the wage earning capacity of the covered employee in the same
+3 or other employment while temporarily partially disabled.
+4 (2) The compensation payable under paragraph (1) of this subsection may
+5 not exceed 50% of the State average weekly wage.
+6 (b) The employer or its insurer shall pay the weekly compensation for the period
+7 that the covered employee is temporarily partially disabled.
+8 (C) (1) THIS SUBSECTION APPLIES TO THE PAYMENT OF WEEKLY
+9 COMPENSATION REQUIRED UNDER SUBSECTION (A) OF THIS SECTION ONLY IF THE
+10 AVERAGE WEEKLY WAGE OF THE COVERED EMPLOYEE IS COMPUTED UNDER §
+11 9–602(A–1) OF THIS SUBTITLE.
+12 (2) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION, THE
+13 EMPLOYER IN WHOSE EMPLOYMENT THE ACCIDENTAL PERSONAL INJURY
+14 OCCURRED OR THE EMPLOYER’S INSURER SHALL PAY THE COVERED EMPLOYEE
+15 WEEKLY COMPENSATION.
+16 (3) (I) SUBJECT TO SUBPARAGRAPHS (II) AND (III) OF THIS
+17 PARAGRAPH, THE SUBSEQUENT INJURY FUND OR THE UNINSURED EMPLOYERS’
+18 FUND SHALL REIMBURSE THE EMPLOYER OR THE EMPLOYER’S INSURER FOR THE
+19 AMOUNT OF WEEKLY COMPENSATION PAID UNDER PARAGRAPH (2) OF THIS
+20 SUBSECTION THAT IS BASED ON THE WEEKLY WAGES OF THE COVERED EMPLOYEE
+21 AT OTHER EMPLOYMENT.
+22 (II) THE FUND WITH THE HIGHER BALANCE AT THE BEGINNING
+23 OF THE FISCAL YEAR IN WHICH THE REIMBURSEMENT REQUIRED UNDER
+24 SUBPARAGRAPH (I) OF THIS PARAGRAPH IS TO BE MADE SHALL REIMBURSE THE
+25 EMPLOYER OR THE EMPLOYER’S INSURER UNDER SUBPARAGRAPH (I) OF THIS
+26 PARAGRAPH.
+27 (III) THE OBLIGATION OF THE SUBSEQUENT INJURY FUND OR
+28 THE UNINSURED EMPLOYERS’ FUND TO REIMBURSE AN EMPLOYER OR THE
+29 EMPLOYER’S INSURER UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH IS SUBJECT
+30 TO A RIGHT OF THE SUBSEQUENT INJURY FUND TO BE IMPLEADED OR A RIGHT OF
+31 THE SUBSEQUENT INJURY FUND OR THE UNINSURED EMPLOYERS’ FUND TO
+32 DEFEND IN A CASE INVOLVING PAYMENT FROM THE SUBSEQUENT INJURY FUND OR
+33 THE UNINSURED EMPLOYERS’ FUND AS ALLOWABLE UNDER SUBTITLE 8 OR 10 OF
+34 THIS TITLE, RESPECTIVELY.
+6 HOUSE BILL 1455
+1 9–621.
+2 (a) (1) Except as provided in paragraph (2) of this subsection, if a covered
+3 employee is temporarily totally disabled due to an accidental personal injury or an
+4 occupational disease, the employer or its insurer shall pay the covered employee
+5 compensation that equals two–thirds of the average weekly wage of the covered employee,
+6 but:
+7 (i) does not exceed the average weekly wage of the State; and
+8 (ii) is not less than $50.
+9 (2) If the average weekly wage of the covered employee is less than $50 at
+10 the time of the accidental personal injury or the last injurious exposure to the hazards of
+11 the occupational disease, the employer or its insurer shall pay the covered employee
+12 compensation that equals the average weekly wage of the covered employee.
+13 (b) The employer or its insurer shall pay the compensation for the period that the
+14 covered employee is temporarily totally disabled.
+15 (C) (1) THIS SUBSECTION APPLIES TO THE PAYMENT OF WEEKLY
+16 COMPENSATION REQUIRED UNDER SUBSECTION (A) OF THIS SECTION ONLY IF THE
+17 AVERAGE WEEKLY WAGE OF THE COVERED EMPLOYEE IS COMPUTED UNDER §
+18 9–602(A–1) OF THIS SUBTITLE.
+19 (2) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION, THE
+20 EMPLOYER IN WHOSE EMPLOYMENT THE ACCIDENTAL PERSONAL INJURY
+21 OCCURRED OR THE EMPLOYER’S INSURER SHALL PAY THE COVERED EMPLOYEE
+22 WEEKLY COMPENSATION.
+23 (3) (I) SUBJECT TO SUBPARAGRAPHS (II) AND (III) OF THIS
+24 PARAGRAPH, THE SUBSEQUENT INJURY FUND OR THE UNINSURED EMPLOYERS’
+25 FUND SHALL REIMBURSE THE EMPLOYER OR THE EMPLOYER’S INSURER FOR THE
+26 AMOUNT OF WEEKLY COMPENSATION PAID UNDER PARAGRAPH (2) OF THIS
+27 SUBSECTION THAT IS BASED ON THE WEEKLY WAGES OF THE COVERED EMPLOYEE
+28 AT OTHER EMPLOYMENT.
+29 (II) THE FUND WITH THE HIGHER BALANCE AT THE BEGINNING
+30 OF THE FISCAL YEAR IN WHICH THE REIMBURSEMENT REQUIRED UNDER
+31 SUBPARAGRAPH (I) OF THIS PARAGRAPH IS TO BE MADE SHALL REIMBURSE THE
+32 EMPLOYER OR THE EMPLOYER’S INSURER UNDER SUBPARAGRAPH (I) OF THIS
+33 PARAGRAPH.
+34 (III) THE OBLIGATION OF THE SUBSEQUENT INJURY FUND OR
+35 THE UNINSURED EMPLOYERS’ FUND TO REIMBURSE AN EMPLOYER OR THE
+HOUSE BILL 1455 7
+1 EMPLOYER’S INSURER UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH IS SUBJECT
+2 TO A RIGHT OF THE SUBSEQUENT INJURY FUND TO BE IMPLEADED OR A RIGHT OF
+3 THE SUBSEQUENT INJURY FUND OR THE UNINSURED EMPLOYERS’ FUND TO
+4 DEFEND IN A CASE INVOLVING PAYMENT FROM THE SUBSEQUENT INJURY FUND OR
+5 THE UNINSURED EMPLOYERS’ FUND AS ALLOWABLE UNDER SUBTITLE 8 OR 10 OF
+6 THIS TITLE, RESPECTIVELY.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That:
+8 (a) Section 9–602 of the Labor and Employment Article, as enacted by Section 1
+9 of this Act, shall be construed to apply retroactively to all active workers’ compensation
+10 claims awarded to covered employees to whom § 9–602(a–1) of the Labor and Employment
+11 Article, as enacted by Section 1 of this Act, applies for temporary partial disability or
+12 temporary total disability and for which benefits are being paid as of the effective date of
+13 this Act.
+14 (b) The Workers’ Compensation Commission shall recalculate the average weekly
+15 wage of a covered employee for a claim described under subsection (a) of this section in
+16 accordance with the method required under § 9–602(a–1) of the Labor and Employment
+17 Article, as enacted by Section 1 of this Act.
+18 (c) If the recalculation of the average weekly wage under subsection (b) of this
+19 section results in a higher weekly compensation, the increase in compensation shall be
+20 effective beginning only with the first payment of compensation that is due on or after the
+21 effective date of this Act.
+22 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+23 October 1, 2025.
+[DELETED: :CA      5     A W F t p o r t t a w w f e o a c e a I c w w f c c e b r u t A a g r t t c o t a w w o a c e B  A S  A  ( B  A S  A  (  S T A 9]
+[DELETED:  H  – T:H  () :H   1 §9 T D  E    2 §9     ()IW C E B M T OY   () IA A R O T A P IY I T T O A I A S T O ( EN  T O T A P I S B C F O C T A W W O T C ( T:  () E A O P U T TE T E I W E T A PN   ()IC  (  S A T C O I A – ( F p o C e]
+[DELETED: H 3   () i] ( a e   () i] ( o t   () i] ( t m  (  S C O A – ( F e u   () t] (    ()a] 1 f    () a] 2 o o   () i] ( f o e a t t o t a p i o l i e t  (  S C O A – []()[]( () S ()  o 9    ( f e s]
+[DELETED:  H     ( f o     1 i t a     2 i t c e w n e i a b e a t t o t a p i o l i e t w i l r b t c e w e i a b e     3 i t c e h n b e i a b a   () A]( e m  (  S C O A – ( F d O e   () i] ( a   () i] ( o t   () i] ( t m 9  ( ( S o a c e i l w t p d t e o i i b]
+[DELETED: H 5    ( t    ( t o   ( T n  ( T t() ( H S A T T P O W A  W W O T C E I C U (–).  ( S() T P  O T SN T I W E T A P I O T ERS I S P T C E ( () S()(U T S II A II O TH  U N U N MSSIFUERS O W C P U P  O T  () IH T F Y I W T R R U I  O T ERS I U S I O T(  () TSIIH U N U N MS U T R A E O TE’RS I ( U N UI U N U O T N MS U TIFUE’ U N UI N MS U U    E’FS81E .]
+[DELETED:  H  9  ( ( E a p i p ( o t s i a c e i t t d d t a a p i o a o d t e o i i s p t c e c b    ( d    ( i   ( I t t o d t e o i i s p t c e c  ( T c() ( H S A T T P O W A  W W O T C E I C U (–).  ( S() T P  O T SN T I W E T A P I O T ERS I S P T C E ( () S()(U T S II A II O TH  U N U N MSSIFUERS O W C P U P  O T  () IH T F Y I W T R R U I  O T ERS I U S I O T(  () TSIIH U N U N MS U T R A E O TE’]
+[DELETED: H 7RS I ( U N UI U N U O T N MS U TIFUE’ U N UI N MS U U    E’FS81E    S  ( S o c A a e b S 1 o t A a f t p d o t t  ( T w a A  ( I s e e  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1455
+K1 5lr2544
+By: Delegate Arentz
+Introduced and read first time: February 7, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Workers’ Compensation – Average Weekly Wage – Multiple Employers
+3 FOR the purpose of requiring that the average weekly wages from employments of a
+4 covered employee who, at the time of an accidental personal injury, was concurrently
+5 employed by more than one employer be combined for purposes of computing the
+6 average weekly wages under certain circumstances; requiring that the Subsequent
+7 Injury Fund or the Uninsured Employers’ Fund reimburse an employer for certain
+8 compensation paid by the employer under certain circumstances; requiring average
+9 weekly wage for certain covered employees be recalculated under this Act; and
+10 generally relating to the computation of the average weekly wage of a covered
+11 employee.
+12 BY adding to
+13 Article – Labor and Employment
+14 Section 9–602(a–1)
+15 Annotated Code of Maryland
+16 (2016 Replacement Volume and 2024 Supplement)
+17 BY repealing and reenacting, with amendments,
+18 Article – Labor and Employment
+19 Section 9–602(b), (c), (g), and (j), 9–615, and 9–621
+20 Annotated Code of Maryland
+21 (2016 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Labor and Employment
+25 9–602.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1455*
+
+2 HOUSE BILL 1455
+1 (A–1) (1) THIS SUBSECTION APPLIES ONLY TO A COVERED EMPLOYEE WHO:
+2 (I) HAS SUFFERED:
+3 1. A TEMPORARY PARTIAL DISABILITY UNDER § 9–615
+4 OF THIS SUBTITLE; OR
+5 2. A TEMPORARY TOTAL DISABILITY UNDER § 9–621 OF
+6 THIS SUBTITLE;
+7 (II) WAS CONCURRENTLY EMPLOYED BY MORE THAN ONE
+8 EMPLOYER AT THE TIME OF THE ACCIDENTAL PERSONAL INJURY; AND
+9 (III) AS A RESULT OF THE ACCIDENTAL PERSONAL INJURY, IS
+10 UNABLE TO WORK AT ANY EMPLOYMENT THE COVERED EMPLOYEE WAS ENGAGED IN
+11 AT THE TIME OF THE ACCIDENTAL PERSONAL INJURY OR ANY SIMILAR TYPE OF
+12 EMPLOYMENT.
+13 (2) EXCEPT AS OTHERWISE PROVIDED IN THIS SECTION, THE WEEKLY
+14 WAGES FROM THE EMPLOYMENTS THE COVERED EMPLOYEE WAS ENGAGED IN AT
+15 THE TIME OF THE ACCIDENTAL PERSONAL INJURY SHALL BE COMBINED FOR
+16 PURPOSES OF COMPUTING THE AVERAGE WEEKLY WAGE OF THE COVERED
+17 EMPLOYEE.
+18 (3) THIS SUBSECTION MAY NOT BE INTERPRETED TO:
+19 (I) EXCEPT AS OTHERWISE PROVIDED UNDER THIS TITLE,
+20 RELIEVE THE EMPLOYER IN WHOSE EMPLOYMENT THE ACCIDENTAL PERSONAL
+21 INJURY OCCURRED FROM LIABILITY TO PAY COMPENSATION; OR
+22 (II) CREATE LIABILITY TO PAY COMPENSATION ON THE PART OF
+23 ANOTHER EMPLOYER IN WHOSE EMPLOYMENT THE ACCIDENTAL PERSONAL INJURY
+24 DID NOT OCCUR.
+25 (b) (1) THIS SUBSECTION APPLIES TO A COVERED EMPLOYEE ONLY IF
+26 THE APPLICATION OF SUBSECTION (A–1) OF THIS SECTION RESULTS IN A LOWER
+27 AVERAGE WEEKLY WAGE FOR THE COVERED EMPLOYEE.
+28 (2) For the purpose of computing the average weekly wage of an auxiliary
+29 police officer of Baltimore County who is a covered employee under § 9–220(a) of this title
+30 or a member of a volunteer ambulance, ambulance and rescue, or fire company in Baltimore
+31 County who is a covered employee under § 9–234 of this title, the wages of the covered
+32 employee shall be:
+
+HOUSE BILL 1455 3
+1 [(1)] (I) if the covered employee had other employment at the time of the
+2 accidental personal injury or last injurious exposure, the salary or wages from the other
+3 employment;
+4 [(2)] (II) if the covered employee had had other employment but was not
+5 otherwise employed at the time of the accidental personal injury or last injurious exposure,
+6 the salary or wages last received by the covered employee from the other employment; or
+7 [(3)] (III) if the covered employee had never had other employment at the
+8 time of the accidental personal injury or last injurious exposure, an amount that allows
+9 minimum death or disability benefits under this title.
+10 (c) (1) THIS SUBSECTION APPLIES TO A COVERED EMPLOYEE ONLY IF
+11 THE APPLICATION OF SUBSECTION (A–1) OF THIS SECTION RESULTS IN A LOWER
+12 AVERAGE WEEKLY WAGE FOR THE COVERED EMPLOYEE.
+13 (2) For the purpose of computing the average weekly wage of an individual
+14 engaged for fire fighting by the Department of Natural Resources who is a covered employee
+15 under § 9–207 of this title, the wages of the covered employee shall be:
+16 [(1)] (I) the greater of:
+17 [(i)] 1. any salary or wages received by the covered employee for
+18 fire fighting; or
+19 [(ii)] 2. any salary or wages earned by the covered employee in
+20 other employment at the time of the accidental personal injury or last injurious exposure;
+21 or
+22 [(2)] (II) if the covered employee did not receive wages for fire fighting or
+23 from other employment at the time of the accidental personal injury or last injurious
+24 exposure, an amount that allows the minimum compensation or death benefits under this
+25 title.
+26 (g) (1) THIS SUBSECTION APPLIES TO A COVERED EMPLOYEE ONLY IF
+27 THE APPLICATION OF SUBSECTION (A–1) OF THIS SECTION RESULTS IN A LOWER
+28 AVERAGE WEEKLY WAGE FOR THE COVERED EMPLOYEE.
+29 [(1)] (2) Subject to paragraph [(2)] (3) of this subsection, for the purpose
+30 of computing the average weekly wage of an individual who is a covered employee under §
+31 9–234 of this title, the wages of the covered employee shall be:
+32 (i) for a covered employee who received a salary or wages from other
+33 employment at the time of the accidental personal injury or last injurious exposure, the
+34 salary or wages from the other employment; or
+
+4 HOUSE BILL 1455
+1 (ii) for a covered employee who did not receive a salary or wages from
+2 other employment at the time of the accidental personal injury or last injurious exposure:
+3 1. if the covered employee derived income from a source other
+4 than salary or wages at the time of the accidental personal injury or last injurious exposure,
+5 an amount that allows the maximum compensation under this title;
+6 2. if the covered employee was not engaged in a business
+7 enterprise at the time of the accidental personal injury or last injurious exposure, the
+8 weekly income last received by the covered employee when engaged in a business
+9 enterprise; or
+10 3. if the covered employee had never been engaged in a
+11 business enterprise at the time of the accidental personal injury or last injurious exposure,
+12 an amount that allows the minimum compensation under this title.
+13 [(2)] (3) A yearly stipend of $5,200 or less to help offset out–of–pocket
+14 expenses that a volunteer company, as defined in § 9–234 of this title, pays to a member
+15 may not be used when determining the average weekly wage of the member.
+16 (j) (1) THIS SUBSECTION APPLIES TO A COVERED EMPLOYEE ONLY IF
+17 THE APPLICATION OF SUBSECTION (A–1) OF THIS SECTION RESULTS IN A LOWER
+18 AVERAGE WEEKLY WAGE FOR THE COVERED EMPLOYEE.
+19 (2) For the purpose of computing the average weekly wage of a volunteer
+20 deputy sheriff of Cecil County or an auxiliary volunteer of the Charles County Sheriff’s
+21 Office who is a covered employee under § 9–233 of this title, the wages of the covered
+22 employee shall be:
+23 [(1)] (I) if the covered employee had other employment at the time of the
+24 accidental personal injury or last injurious exposure, the wages from the other employment;
+25 [(2)] (II) if the covered employee had had other employment but was not
+26 otherwise employed at the time of the accidental personal injury or last injurious exposure,
+27 the wages last received by the covered employee from the other employment; or
+28 [(3)] (III) if the covered employee had never had other employment at the
+29 time of the accidental personal injury or last injurious exposure, an amount that allows
+30 minimum compensation under this title.
+31 9–615.
+32 (a) (1) Subject to paragraph (2) of this subsection, if the wage earning capacity
+33 of a covered employee is less while temporarily partially disabled, the employer or its
+34 insurer shall pay the covered employee compensation that equals 50% of the difference
+35 between:
+
+HOUSE BILL 1455 5
+1 (i) the average weekly wage of the covered employee; and
+2 (ii) the wage earning capacity of the covered employee in the same
+3 or other employment while temporarily partially disabled.
+4 (2) The compensation payable under paragraph (1) of this subsection may
+5 not exceed 50% of the State average weekly wage.
+6 (b) The employer or its insurer shall pay the weekly compensation for the period
+7 that the covered employee is temporarily partially disabled.
+8 (C) (1) THIS SUBSECTION APPLIES TO THE PAYMENT OF WEEKLY
+9 COMPENSATION REQUIRED UNDER SUBSECTION (A) OF THIS SECTION ONLY IF THE
+10 AVERAGE WEEKLY WAGE OF THE COVERED EMPLOYEE IS COMPUTED UNDER §
+11 9–602(A–1) OF THIS SUBTITLE.
+12 (2) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION, THE
+13 EMPLOYER IN WHOSE EMPLOYMENT THE ACCIDENTAL PERSONAL INJURY
+14 OCCURRED OR THE EMPLOYER’S INSURER SHALL PAY THE COVERED EMPLOYEE
+15 WEEKLY COMPENSATION.
+16 (3) (I) SUBJECT TO SUBPARAGRAPHS (II) AND (III) OF THIS
+17 PARAGRAPH, THE SUBSEQUENT INJURY FUND OR THE UNINSURED EMPLOYERS’
+18 FUND SHALL REIMBURSE THE EMPLOYER OR THE EMPLOYER’S INSURER FOR THE
+19 AMOUNT OF WEEKLY COMPENSATION PAID UNDER PARAGRAPH (2) OF THIS
+20 SUBSECTION THAT IS BASED ON THE WEEKLY WAGES OF THE COVERED EMPLOYEE
+21 AT OTHER EMPLOYMENT.
+22 (II) THE FUND WITH THE HIGHER BALANCE AT THE BEGINNING
+23 OF THE FISCAL YEAR IN WHICH THE REIMBURSEMENT REQUIRED UNDER
+24 SUBPARAGRAPH (I) OF THIS PARAGRAPH IS TO BE MADE SHALL REIMBURSE THE
+25 EMPLOYER OR THE EMPLOYER’S INSURER UNDER SUBPARAGRAPH (I) OF THIS
+26 PARAGRAPH.
+27 (III) THE OBLIGATION OF THE SUBSEQUENT INJURY FUND OR
+28 THE UNINSURED EMPLOYERS’ FUND TO REIMBURSE AN EMPLOYER OR THE
+29 EMPLOYER’S INSURER UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH IS SUBJECT
+30 TO A RIGHT OF THE SUBSEQUENT INJURY FUND TO BE IMPLEADED OR A RIGHT OF
+31 THE SUBSEQUENT INJURY FUND OR THE UNINSURED EMPLOYERS’ FUND TO
+32 DEFEND IN A CASE INVOLVING PAYMENT FROM THE SUBSEQUENT INJURY FUND OR
+33 THE UNINSURED EMPLOYERS’ FUND AS ALLOWABLE UNDER SUBTITLE 8 OR 10 OF
+34 THIS TITLE, RESPECTIVELY.
+
+6 HOUSE BILL 1455
+1 9–621.
+2 (a) (1) Except as provided in paragraph (2) of this subsection, if a covered
+3 employee is temporarily totally disabled due to an accidental personal injury or an
+4 occupational disease, the employer or its insurer shall pay the covered employee
+5 compensation that equals two–thirds of the average weekly wage of the covered employee,
+6 but:
+7 (i) does not exceed the average weekly wage of the State; and
+8 (ii) is not less than $50.
+9 (2) If the average weekly wage of the covered employee is less than $50 at
+10 the time of the accidental personal injury or the last injurious exposure to the hazards of
+11 the occupational disease, the employer or its insurer shall pay the covered employee
+12 compensation that equals the average weekly wage of the covered employee.
+13 (b) The employer or its insurer shall pay the compensation for the period that the
+14 covered employee is temporarily totally disabled.
+15 (C) (1) THIS SUBSECTION APPLIES TO THE PAYMENT OF WEEKLY
+16 COMPENSATION REQUIRED UNDER SUBSECTION (A) OF THIS SECTION ONLY IF THE
+17 AVERAGE WEEKLY WAGE OF THE COVERED EMPLOYEE IS COMPUTED UNDER §
+18 9–602(A–1) OF THIS SUBTITLE.
+19 (2) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION, THE
+20 EMPLOYER IN WHOSE EMPLOYMENT THE ACCIDENTAL PERSONAL INJURY
+21 OCCURRED OR THE EMPLOYER’S INSURER SHALL PAY THE COVERED EMPLOYEE
+22 WEEKLY COMPENSATION.
+23 (3) (I) SUBJECT TO SUBPARAGRAPHS (II) AND (III) OF THIS
+24 PARAGRAPH, THE SUBSEQUENT INJURY FUND OR THE UNINSURED EMPLOYERS’
+25 FUND SHALL REIMBURSE THE EMPLOYER OR THE EMPLOYER’S INSURER FOR THE
+26 AMOUNT OF WEEKLY COMPENSATION PAID UNDER PARAGRAPH (2) OF THIS
+27 SUBSECTION THAT IS BASED ON THE WEEKLY WAGES OF THE COVERED EMPLOYEE
+28 AT OTHER EMPLOYMENT.
+29 (II) THE FUND WITH THE HIGHER BALANCE AT THE BEGINNING
+30 OF THE FISCAL YEAR IN WHICH THE REIMBURSEMENT REQUIRED UNDER
+31 SUBPARAGRAPH (I) OF THIS PARAGRAPH IS TO BE MADE SHALL REIMBURSE THE
+32 EMPLOYER OR THE EMPLOYER’S INSURER UNDER SUBPARAGRAPH (I) OF THIS
+33 PARAGRAPH.
+34 (III) THE OBLIGATION OF THE SUBSEQUENT INJURY FUND OR
+35 THE UNINSURED EMPLOYERS’ FUND TO REIMBURSE AN EMPLOYER OR THE
+
+HOUSE BILL 1455 7
+1 EMPLOYER’S INSURER UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH IS SUBJECT
+2 TO A RIGHT OF THE SUBSEQUENT INJURY FUND TO BE IMPLEADED OR A RIGHT OF
+3 THE SUBSEQUENT INJURY FUND OR THE UNINSURED EMPLOYERS’ FUND TO
+4 DEFEND IN A CASE INVOLVING PAYMENT FROM THE SUBSEQUENT INJURY FUND OR
+5 THE UNINSURED EMPLOYERS’ FUND AS ALLOWABLE UNDER SUBTITLE 8 OR 10 OF
+6 THIS TITLE, RESPECTIVELY.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That:
+8 (a) Section 9–602 of the Labor and Employment Article, as enacted by Section 1
+9 of this Act, shall be construed to apply retroactively to all active workers’ compensation
+10 claims awarded to covered employees to whom § 9–602(a–1) of the Labor and Employment
+11 Article, as enacted by Section 1 of this Act, applies for temporary partial disability or
+12 temporary total disability and for which benefits are being paid as of the effective date of
+13 this Act.
+14 (b) The Workers’ Compensation Commission shall recalculate the average weekly
+15 wage of a covered employee for a claim described under subsection (a) of this section in
+16 accordance with the method required under § 9–602(a–1) of the Labor and Employment
+17 Article, as enacted by Section 1 of this Act.
+18 (c) If the recalculation of the average weekly wage under subsection (b) of this
+19 section results in a higher weekly compensation, the increase in compensation shall be
+20 effective beginning only with the first payment of compensation that is due on or after the
+21 effective date of this Act.
+22 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+23 October 1, 2025.
+
+[DELETED: :CA      5     A W F t p o r t t a w w f e o a c e a I c w w f c c e b r u t A a g r t t c o t a w w o a c e B  A S  A  ( B  A S  A  (  S T A 9]
+[DELETED:  H  – T:H  () :H   1 §9 T D  E    2 §9     ()IW C E B M T OY   () IA A R O T A P IY I T T O A I A S T O ( EN  T O T A P I S B C F O C T A W W O T C ( T:  () E A O P U T TE T E I W E T A PN   ()IC  (  S A T C O I A – ( F p o C e]
+[DELETED: H 3   () i] ( a e   () i] ( o t   () i] ( t m  (  S C O A – ( F e u   () t] (    ()a] 1 f    () a] 2 o o   () i] ( f o e a t t o t a p i o l i e t  (  S C O A – []()[]( () S ()  o 9    ( f e s]
+[DELETED:  H     ( f o     1 i t a     2 i t c e w n e i a b e a t t o t a p i o l i e t w i l r b t c e w e i a b e     3 i t c e h n b e i a b a   () A]( e m  (  S C O A – ( F d O e   () i] ( a   () i] ( o t   () i] ( t m 9  ( ( S o a c e i l w t p d t e o i i b]
+[DELETED: H 5    ( t    ( t o   ( T n  ( T t() ( H S A T T P O W A  W W O T C E I C U (–).  ( S() T P  O T SN T I W E T A P I O T ERS I S P T C E ( () S()(U T S II A II O TH  U N U N MSSIFUERS O W C P U P  O T  () IH T F Y I W T R R U I  O T ERS I U S I O T(  () TSIIH U N U N MS U T R A E O TE’RS I ( U N UI U N U O T N MS U TIFUE’ U N UI N MS U U    E’FS81E .]
+[DELETED:  H  9  ( ( E a p i p ( o t s i a c e i t t d d t a a p i o a o d t e o i i s p t c e c b    ( d    ( i   ( I t t o d t e o i i s p t c e c  ( T c() ( H S A T T P O W A  W W O T C E I C U (–).  ( S() T P  O T SN T I W E T A P I O T ERS I S P T C E ( () S()(U T S II A II O TH  U N U N MSSIFUERS O W C P U P  O T  () IH T F Y I W T R R U I  O T ERS I U S I O T(  () TSIIH U N U N MS U T R A E O TE’]
+[DELETED: H 7RS I ( U N UI U N U O T N MS U TIFUE’ U N UI N MS U U    E’FS81E    S  ( S o c A a e b S 1 o t A a f t p d o t t  ( T w a A  ( I s e e  S A B I F E T t A s t e O]

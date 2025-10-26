@@ -1,0 +1,177 @@
+Title: HOUSE BILL 147
+Official Title: HOUSE BILL 147
+Number of Sections: 1
+Source: versions - Third - County Boards of Education - Student Technology Use Policy - Requirements
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+F1 5lr1207
+(PRE–FILED)
+By: Delegates Wu, Boafo, Fraser–Hidalgo, Grammer, T. Morgan, Pasteur, and
+Patterson
+Requested: October 14, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Ways and Means
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 1, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 County Boards of Education – Elementary and Middle Schools – Student
+3 Technology Use Policy – Requirements
+4 FOR the purpose of requiring certain county boards of education to develop and adopt a
+5 policy that prohibits elementary and middle school students from using a cellular
+6 phone or on the use of a personal electronic device during the school day except under
+7 certain circumstances; school hours; requiring that the policy limit the use of a
+8 smartphone and a device connected to a smartphone during instructional time,
+9 except under certain circumstances; and generally relating to county boards of
+10 education and a student technology use policy for elementary and middle schools
+11 during school hours.
+12 BY adding to
+13 Article – Education
+14 Section 7–136
+15 Annotated Code of Maryland
+16 (2022 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Education
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0147*
+2 HOUSE BILL 147
+1 7–136.
+2 (A) IN THIS SECTION, “PERSONAL ELECTRONIC DEVICE” MEANS ANY
+3 PORTABLE ELECTRONIC DEVICE FOR INDIVIDUAL USE, INCLUDING A SMARTPHONE,
+4 TABLET, LAPTOP, OR SMARTWATCH, OR SMARTGLASSES.
+5 (B) THIS SECTION DOES NOT APPLY TO A COUNTY BOARD THAT HAS AN
+6 EXISTING POLICY LIMITING THE USE OF CELLULAR PHONES AND ON THE USE OF
+7 PERSONAL ELECTRONIC DEVICES BY STUDENTS IN ELEMENTARY AND MIDDLE
+8 SCHOOLS DURING SCHOOL HOURS DURING SCHOOL HOURS THAT INCLUDES A
+9 LIMITATION ON THE USE OF A SMARTPHONE OR A DEVICE CONNECTED TO A
+10 SMARTPHONE DURING INSTRUCTIONAL TIME.
+11 (C) (1) EACH COUNTY BOARD SHALL DEVELOP AND ADOPT A POLICY
+12 THAT PROHIBITS AN ELEMENTARY SCHOOL OR A MIDDLE SCHOOL STUDENT FROM
+13 USING A CELLULAR PHONE OR PERSONAL ELECTRONIC DEVICE DURING SCHOOL
+14 HOURS ON THE USE OF PERSONAL ELECTRONIC DEVICES DURING SCHOOL HOURS.
+15 (2) EXCEPT AS PROVIDED UNDER SUBSECTION (D) OF THIS SECTION,
+16 THE POLICY SHALL INCLUDE A LIMITATION ON THE USE OF A SMARTPHONE OR A
+17 DEVICE CONNECTED TO A SMARTPHONE DURING INSTRUCTIONAL TIME.
+18 (D) A POLICY DEVELOPED UNDER THIS SECTION MAY NOT PROHIBIT A
+19 STUDENT FROM USING A CELLULAR PHONE OR PERSONAL ELECTRONIC DEVICE
+20 SMARTPHONE OR A DEVICE CONNECTED TO A SMARTPHONE:
+21 (1) FOR ANY PURPOSE DOCUMENTED IN THE STUDENT’S
+22 INDIVIDUALIZED EDUCATION PROGRAM OR SECTION 504 PLAN;
+23 (2) TO MONITOR OR ADDRESS A STUDENT’S DOCUMENTED HEALTH
+24 ISSUE; OR
+25 (3) WHEN DIRECTED BY AN EDUCATOR OR ADMINISTRATOR FOR
+26 EDUCATIONAL PURPOSES.
+27 (E) A POLICY ADOPTED IN ACCORDANCE WITH THIS SECTION SHALL BE
+28 PUBLISHED:
+29 (1) ON THE WEBSITE OF EACH COUNTY BOARD; AND
+30 (2) IN EACH PUBLIC SCHOOL STUDENT HANDBOOK.
+31 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+32 1, 2025.
+HOUSE BILL 147 3
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5 (   D W B F G T P a A C T F p p c c s h r t t p l t u o a s a a d c t a s d i t e u c c a g r t c b o e d B  A S  A  (  S T A]
+[DELETED:  H  ) I,“N T SN P E DE M AE ET P H ,,  ) H S D N A T A C B T H A  E D B S I E A MSD S H D S H T I A  O T U O A S O A D C T A   ) ()A C B S D A A A PTP GA   ()E()  D N   )  P D U T S M N P A F U A C P O P E D    F A P D I T STS E  54;   TTSE     D B A E O A F() P A I A W T S S B      )OD      )I  S 1]
+[DELETED: H 3          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 147
+F1 5lr1207
+(PRE–FILED)
+By: Delegates Wu, Boafo, Fraser–Hidalgo, Grammer, T. Morgan, Pasteur, and
+Patterson
+Requested: October 14, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Ways and Means
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 1, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 County Boards of Education – Elementary and Middle Schools – Student
+3 Technology Use Policy – Requirements
+4 FOR the purpose of requiring certain county boards of education to develop and adopt a
+5 policy that prohibits elementary and middle school students from using a cellular
+6 phone or on the use of a personal electronic device during the school day except under
+7 certain circumstances; school hours; requiring that the policy limit the use of a
+8 smartphone and a device connected to a smartphone during instructional time,
+9 except under certain circumstances; and generally relating to county boards of
+10 education and a student technology use policy for elementary and middle schools
+11 during school hours.
+12 BY adding to
+13 Article – Education
+14 Section 7–136
+15 Annotated Code of Maryland
+16 (2022 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Education
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0147*
+
+2 HOUSE BILL 147
+1 7–136.
+2 (A) IN THIS SECTION, “PERSONAL ELECTRONIC DEVICE” MEANS ANY
+3 PORTABLE ELECTRONIC DEVICE FOR INDIVIDUAL USE, INCLUDING A SMARTPHONE,
+4 TABLET, LAPTOP, OR SMARTWATCH, OR SMARTGLASSES.
+5 (B) THIS SECTION DOES NOT APPLY TO A COUNTY BOARD THAT HAS AN
+6 EXISTING POLICY LIMITING THE USE OF CELLULAR PHONES AND ON THE USE OF
+7 PERSONAL ELECTRONIC DEVICES BY STUDENTS IN ELEMENTARY AND MIDDLE
+8 SCHOOLS DURING SCHOOL HOURS DURING SCHOOL HOURS THAT INCLUDES A
+9 LIMITATION ON THE USE OF A SMARTPHONE OR A DEVICE CONNECTED TO A
+10 SMARTPHONE DURING INSTRUCTIONAL TIME.
+11 (C) (1) EACH COUNTY BOARD SHALL DEVELOP AND ADOPT A POLICY
+12 THAT PROHIBITS AN ELEMENTARY SCHOOL OR A MIDDLE SCHOOL STUDENT FROM
+13 USING A CELLULAR PHONE OR PERSONAL ELECTRONIC DEVICE DURING SCHOOL
+14 HOURS ON THE USE OF PERSONAL ELECTRONIC DEVICES DURING SCHOOL HOURS.
+15 (2) EXCEPT AS PROVIDED UNDER SUBSECTION (D) OF THIS SECTION,
+16 THE POLICY SHALL INCLUDE A LIMITATION ON THE USE OF A SMARTPHONE OR A
+17 DEVICE CONNECTED TO A SMARTPHONE DURING INSTRUCTIONAL TIME.
+18 (D) A POLICY DEVELOPED UNDER THIS SECTION MAY NOT PROHIBIT A
+19 STUDENT FROM USING A CELLULAR PHONE OR PERSONAL ELECTRONIC DEVICE
+20 SMARTPHONE OR A DEVICE CONNECTED TO A SMARTPHONE:
+21 (1) FOR ANY PURPOSE DOCUMENTED IN THE STUDENT’S
+22 INDIVIDUALIZED EDUCATION PROGRAM OR SECTION 504 PLAN;
+23 (2) TO MONITOR OR ADDRESS A STUDENT’S DOCUMENTED HEALTH
+24 ISSUE; OR
+25 (3) WHEN DIRECTED BY AN EDUCATOR OR ADMINISTRATOR FOR
+26 EDUCATIONAL PURPOSES.
+27 (E) A POLICY ADOPTED IN ACCORDANCE WITH THIS SECTION SHALL BE
+28 PUBLISHED:
+29 (1) ON THE WEBSITE OF EACH COUNTY BOARD; AND
+30 (2) IN EACH PUBLIC SCHOOL STUDENT HANDBOOK.
+31 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+32 1, 2025.
+
+HOUSE BILL 147 3
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5 (   D W B F G T P a A C T F p p c c s h r t t p l t u o a s a a d c t a s d i t e u c c a g r t c b o e d B  A S  A  (  S T A]
+[DELETED:  H  ) I,“N T SN P E DE M AE ET P H ,,  ) H S D N A T A C B T H A  E D B S I E A MSD S H D S H T I A  O T U O A S O A D C T A   ) ()A C B S D A A A PTP GA   ()E()  D N   )  P D U T S M N P A F U A C P O P E D    F A P D I T STS E  54;   TTSE     D B A E O A F() P A I A W T S S B      )OD      )I  S 1]
+[DELETED: H 3          G               ]

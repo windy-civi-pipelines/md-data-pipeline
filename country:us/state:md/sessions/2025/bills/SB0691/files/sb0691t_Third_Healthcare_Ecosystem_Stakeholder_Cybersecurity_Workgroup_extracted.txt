@@ -1,0 +1,1129 @@
+Title: SENATE BILL 691
+Official Title: SENATE BILL 691
+Number of Sections: 1
+Source: versions - Third - Healthcare Ecosystem Stakeholder Cybersecurity Workgroup
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+S2, J3, J5 5lr0886
+CF HB 333
+By: Senator Hester
+Introduced and read first time: January 26, 2025
+Assigned to: Finance and Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 11, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Cybersecurity – Healthcare Ecosystem Stakeholder Cybersecurity Workgroup
+3 FOR the purpose of requiring the Maryland Health Care Commission and the Maryland
+4 Insurance Administration to include a cybersecurity expert as staff to perform
+5 certain functions and submit to the State Chief Information Security Officer a report
+6 on the cybersecurity practices and policies of certain healthcare ecosystem entities
+7 on a certain basis; requiring healthcare ecosystem entities to take certain actions
+8 related to cybersecurity, including adopting and implementing certain cybersecurity
+9 standards, undergoing a third–party cybersecurity audit on a certain basis, and
+10 reporting cybersecurity incidents to the State Security Operations Center in the
+11 Department of Information Technology; requiring the Center to notify certain
+12 agencies of a cybersecurity incident reported under this Act; requiring the
+13 Commission to convene a workgroup to review cybersecurity practices, threats,
+14 responses to disruptions, and emerging issues in the healthcare ecosystem; requiring
+15 the Commission to convene a workgroup to study and make recommendations to
+16 improve the cybersecurity of the healthcare ecosystem; and generally relating to
+17 cybersecurity and the healthcare ecosystem establishing the Healthcare Ecosystem
+18 Stakeholder Cybersecurity Workgroup to develop strategies to prevent cybersecurity
+19 disruptions to the healthcare ecosystem, ensure the continuous delivery of essential
+20 healthcare ecosystem services, and enhance recovery efforts of the healthcare
+21 ecosystem following a cybersecurity incident; and generally relating to the
+22 Healthcare Ecosystem Stakeholder Cybersecurity Workgroup.
+23 BY repealing and reenacting, without amendments,
+24 Article – Health – General
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0691*
+2 SENATE BILL 691
+1 Section 19–101
+2 Annotated Code of Maryland
+3 (2023 Replacement Volume and 2024 Supplement)
+4 BY adding to
+5 Article – Health – General
+6 Section 19–113
+7 Annotated Code of Maryland
+8 (2023 Replacement Volume and 2024 Supplement)
+9 BY repealing and reenacting, without amendments,
+10 Article – Insurance
+11 Section 1–101(a), (b), and (k)
+12 Annotated Code of Maryland
+13 (2017 Replacement Volume and 2024 Supplement)
+14 BY adding to
+15 Article – Insurance
+16 Section 2–117
+17 Annotated Code of Maryland
+18 (2017 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, without amendments,
+20 Article – State Finance and Procurement
+21 Section 3.5–101(a) and (c), 3.5–2A–01, and 3.5–301(a) and (c)
+22 Annotated Code of Maryland
+23 (2021 Replacement Volume and 2024 Supplement)
+24 BY adding to
+25 Article – State Finance and Procurement
+26 Section 3.5–2A–07
+27 Annotated Code of Maryland
+28 (2021 Replacement Volume and 2024 Supplement)
+29 BY adding to
+30 Article – Health – General
+31 Section 19–113(f) and (g)
+32 Annotated Code of Maryland
+33 (2023 Replacement Volume and 2024 Supplement)
+34 (As enacted by Section 1 of this Act)
+35 BY adding to
+36 Article – Insurance
+37 Section 2–117(f)
+38 Annotated Code of Maryland
+39 (2017 Replacement Volume and 2024 Supplement)
+40 (As enacted by Section 1 of this Act)
+SENATE BILL 691 3
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Health – General
+4 19–101.
+5 In this subtitle, “Commission” means the Maryland Health Care Commission.
+6 19–113.
+7 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+8 INDICATED.
+9 (2) “CYBERSECURITY” HAS THE MEANING STATED IN § 3.5–301 OF
+10 THE STATE FINANCE AND PROCUREMENT ARTICLE.
+11 (3) “ESSENTIAL CAPABILITIES” MEANS THE SERVICES THAT MUST BE
+12 AVAILABLE IN THE HEALTHCARE ECOSYSTEM TO ENSURE THE CONTINUITY OF
+13 CRITICAL CARE AND PATIENT SAFETY, INCLUDING DURING AN INCIDENT
+14 DIMINISHING THE CAPACITY OF THE HEALTHCARE ECOSYSTEM.
+15 (4) “HEALTHCARE ECOSYSTEM” MEANS THE ENTITIES AND
+16 RELATIONSHIPS AMONG ENTITIES THAT ARE NECESSARY TO DELIVER TREATMENT,
+17 PAYMENT, AND HEALTH CARE OPERATIONS.
+18 (5) (I) “HEALTHCARE ECOSYSTEM ENTITY” INCLUDES:
+19 1. AN ELECTRONIC DATA INTERCHANGE
+20 CLEARINGHOUSE;
+21 2. A FREESTANDING MEDICAL FACILITY, AS DEFINED IN
+22 § 19–3A–01 OF THIS TITLE;
+23 3. A HEALTH INFORMATION EXCHANGE, AS DEFINED IN
+24 § 4–301 OF THIS ARTICLE;
+25 4. A HOSPITAL, AS DEFINED IN § 19–301 OF THIS TITLE;
+26 AND
+27 5. AN ENTITY IDENTIFIED BY THE COMMISSION IN
+28 REGULATIONS TO BE INCLUDED IN THE HEALTHCARE ECOSYSTEM.
+29 (II) “HEALTHCARE ECOSYSTEM ENTITY” DOES NOT INCLUDE:
+4 SENATE BILL 691
+1 1. A CARRIER, AS DEFINED IN § 2–117 OF THE
+2 INSURANCE ARTICLE; OR
+3 2. A PHARMACY BENEFITS MANAGER, AS DEFINED IN §
+4 15–1601 OF THE INSURANCE ARTICLE.
+5 (6) “ZERO–TRUST” MEANS A CYBERSECURITY APPROACH:
+6 (I) FOCUSED ON CYBERSECURITY RESOURCE PROTECTION;
+7 AND
+8 (II) BASED ON THE PREMISE THAT TRUST IS NOT GRANTED
+9 IMPLICITLY BUT MUST BE EVALUATED CONTINUALLY.
+10 (B) THE COMMISSION SHALL INCLUDE ON ITS STAFF AT LEAST ONE
+11 EMPLOYEE WHO IS AN EXPERT IN CYBERSECURITY TO:
+12 (1) ADVISE THE CHAIRMAN AND MEMBERS OF THE COMMISSION ON
+13 MEASURES TO IMPROVE OVERSIGHT OF THE CYBERSECURITY PRACTICES OF
+14 HEALTHCARE ECOSYSTEM ENTITIES;
+15 (2) CONSULT WITH THE OFFICE OF SECURITY MANAGEMENT ON
+16 CYBERSECURITY ISSUES RELATED TO HEALTH CARE REGULATION; AND
+17 (3) REPRESENT THE COMMISSION ON ANY WORKGROUP, TASK
+18 FORCE, OR SIMILAR ENTITY THAT IS FOCUSED ON CYBERSECURITY AND ON WHICH
+19 REPRESENTATION FROM THE COMMISSION IS REQUESTED OR REQUIRED.
+20 (C) A HEALTHCARE ECOSYSTEM ENTITY SHALL:
+21 (1) ADOPT AND IMPLEMENT CYBERSECURITY STANDARDS THAT ARE
+22 EQUAL TO OR EXCEED ANY STANDARDS ADOPTED BY THE COMMISSION;
+23 (2) ADOPT A ZERO–TRUST CYBERSECURITY APPROACH FOR
+24 ON–PREMISES SERVICES AND CLOUD–BASED SERVICES;
+25 (3) MEET MINIMUM SECURITY STANDARDS SET BY THE COMMISSION,
+26 IN CONSULTATION WITH THE OFFICE OF SECURITY MANAGEMENT, FOR EACH
+27 OPERATIONAL TECHNOLOGY AND INFORMATION TECHNOLOGY DEVICE BASED ON
+28 THE LEVEL OF SECURITY RISK FOR EACH DEVICE, INCLUDING SECURITY RISKS
+29 ASSOCIATED WITH SUPPLY CHAINS; AND
+SENATE BILL 691 5
+1 (4) ON OR BEFORE JANUARY 1, 2026, AND EVERY 2 YEARS
+2 THEREAFTER:
+3 (I) UNDERGO A THIRD–PARTY AUDIT TO EVALUATE THE
+4 ENTITY’S CYBERSECURITY PRACTICES AND RESOURCES BASED ON THE
+5 CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY’S CROSS–SECTOR
+6 CYBERSECURITY PERFORMANCE GOALS OR A MORE STRINGENT STANDARD BASED
+7 ON THE NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY’S FRAMEWORK;
+8 AND
+9 (II) SUBMIT TO THE COMMISSION A REPORT THAT INCLUDES:
+10 1. THE RECOMMENDATIONS OF THE AUDIT;
+11 2. THE DATE OF THE CYBERSECURITY AUDIT;
+12 3. THE CYBERSECURITY FRAMEWORK USED TO
+13 EVALUATE THE ENTITY; AND
+14 4. THE NAME OF THE THIRD PARTY THAT CONDUCTED
+15 THE AUDIT.
+16 (D) ON OR BEFORE JULY 1, 2026, AND EVERY 2 YEARS THEREAFTER, THE
+17 COMMISSION SHALL COLLECT CERTIFICATION OF A HEALTHCARE ECOSYSTEM
+18 ENTITY’S COMPLIANCE WITH THE STANDARD USED IN THE AUDIT CONDUCTED
+19 UNDER SUBSECTION (C)(4) OF THIS SECTION FOR CYBERSECURITY–RELATED
+20 POLICIES AND PROCEDURES.
+21 (E) ON OR BEFORE JANUARY 1, 2027, AND EVERY 2 YEARS THEREAFTER,
+22 THE COMMISSION SHALL SUBMIT A REPORT TO THE STATE CHIEF INFORMATION
+23 SECURITY OFFICER OR THE OFFICER’S DESIGNEE THAT INCLUDES:
+24 (1) A GENERAL OVERVIEW OF CYBERSECURITY TECHNOLOGY AND
+25 POLICIES USED BY HEALTHCARE ECOSYSTEM ENTITIES IN THE STATE, GROUPED IN
+26 THE FOLLOWING MANNER:
+27 (I) HOSPITALS;
+28 (II) FREESTANDING MEDICAL FACILITIES;
+29 (III) ELECTRONIC DATA INTERCHANGE CLEARINGHOUSES;
+30 (IV) HEALTH INFORMATION EXCHANGES; AND
+6 SENATE BILL 691
+1 (V) ANY OTHER ENTITY THE COMMISSION CONSIDERS
+2 SIGNIFICANT ENOUGH TO INCLUDE IN THE REPORT;
+3 (2) INFORMATION ABOUT EACH CERTIFICATION COLLECTED,
+4 INCLUDING:
+5 (I) THE NAME OF THE HEALTHCARE ECOSYSTEM ENTITY;
+6 (II) THE DATE OF THE HEALTHCARE ECOSYSTEM ENTITY’S
+7 MOST RECENT CYBERSECURITY AUDIT;
+8 (III) THE CYBERSECURITY FRAMEWORK USED IN THE
+9 CYBERSECURITY AUDIT OF THE HEALTHCARE ECOSYSTEM ENTITY; AND
+10 (IV) THE NAME OF THE THIRD PARTY THAT COMPLETED THE
+11 CYBERSECURITY AUDIT;
+12 (3) AN OVERVIEW OF ESSENTIAL CAPABILITIES PROVIDED BY
+13 HEALTHCARE ECOSYSTEM ENTITIES;
+14 (4) RECOMMENDATIONS FOR ENSURING THE CONTINUOUS DELIVERY
+15 OF ESSENTIAL CAPABILITIES DURING AND FOLLOWING A DISRUPTION TO THE
+16 HEALTHCARE ECOSYSTEM; AND
+17 (5) RECOMMENDATIONS TO IMPROVE CYBERSECURITY FOR THE
+18 GROUPS OF HEALTHCARE ECOSYSTEM ENTITIES IDENTIFIED IN ITEM (1) OF THIS
+19 SUBSECTION.
+20 Article – Insurance
+21 1–101.
+22 (a) In this article the following words have the meanings indicated.
+23 (b) “Administration” means the Maryland Insurance Administration.
+24 (k) “Commissioner” means the Maryland Insurance Commissioner.
+25 2–117.
+26 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+27 INDICATED.
+28 (2) “CARRIER” MEANS:
+SENATE BILL 691 7
+1 (I) AN INSURER AUTHORIZED TO SELL HEALTH INSURANCE;
+2 (II) A NONPROFIT HEALTH SERVICE PLAN;
+3 (III) A HEALTH MAINTENANCE ORGANIZATION;
+4 (IV) A DENTAL PLAN ORGANIZATION; AND
+5 (V) ANY OTHER ENTITY PROVIDING A PLAN OF HEALTH
+6 INSURANCE, HEALTH BENEFITS, OR HEALTH SERVICES AUTHORIZED UNDER THIS
+7 ARTICLE OR THE AFFORDABLE CARE ACT.
+8 (3) “ESSENTIAL CAPABILITIES” MEANS THE SERVICES THAT MUST BE
+9 AVAILABLE IN THE HEALTHCARE ECOSYSTEM TO ENSURE THE CONTINUITY OF
+10 CRITICAL CARE AND PATIENT SAFETY, INCLUDING DURING AN INCIDENT
+11 DIMINISHING THE CAPACITY OF THE HEALTHCARE ECOSYSTEM.
+12 (4) “HEALTHCARE ECOSYSTEM” MEANS THE ENTITIES AND
+13 RELATIONSHIPS AMONG ENTITIES THAT ARE NECESSARY TO DELIVER TREATMENT,
+14 PAYMENT, AND HEALTH CARE OPERATIONS.
+15 (5) (I) “HEALTHCARE ECOSYSTEM ENTITY” MEANS:
+16 1. A CARRIER; OR
+17 2. A PHARMACY BENEFITS MANAGER, AS DEFINED IN §
+18 15–1601 OF THIS ARTICLE.
+19 (II) “HEALTHCARE ECOSYSTEM ENTITY” DOES NOT INCLUDE A
+20 GOVERNMENTAL PAYOR.
+21 (6) “ZERO–TRUST” MEANS A CYBERSECURITY APPROACH:
+22 (I) FOCUSED ON CYBERSECURITY RESOURCE PROTECTION;
+23 AND
+24 (II) BASED ON THE PREMISE THAT TRUST IS NOT GRANTED
+25 IMPLICITLY BUT MUST BE EVALUATED CONTINUALLY.
+26 (B) THE ADMINISTRATION SHALL INCLUDE ON ITS STAFF AT LEAST ONE
+27 EMPLOYEE WHO IS AN EXPERT IN CYBERSECURITY TO:
+8 SENATE BILL 691
+1 (1) ADVISE THE COMMISSIONER ON MEASURES TO IMPROVE
+2 OVERSIGHT OF THE CYBERSECURITY PRACTICES OF HEALTHCARE ECOSYSTEM
+3 ENTITIES;
+4 (2) CONSULT WITH THE OFFICE OF SECURITY MANAGEMENT ON
+5 CYBERSECURITY ISSUES RELATED TO HEALTH INSURANCE REGULATION; AND
+6 (3) REPRESENT THE ADMINISTRATION ON ANY WORKGROUP, TASK
+7 FORCE, OR SIMILAR ENTITY THAT IS FOCUSED ON CYBERSECURITY AND ON WHICH
+8 REPRESENTATION FROM THE ADMINISTRATION IS REQUIRED OR REQUESTED.
+9 (C) A HEALTHCARE ECOSYSTEM ENTITY SHALL:
+10 (1) ADOPT AND IMPLEMENT CYBERSECURITY STANDARDS THAT ARE
+11 EQUAL TO OR EXCEED ANY STANDARDS ADOPTED BY THE ADMINISTRATION;
+12 (2) ADOPT A ZERO–TRUST CYBERSECURITY APPROACH FOR
+13 ON–PREMISES SERVICES AND CLOUD–BASED SERVICES;
+14 (3) MEET MINIMUM SECURITY STANDARDS SET BY THE MARYLAND
+15 HEALTH CARE COMMISSION, IN CONSULTATION WITH THE OFFICE OF SECURITY
+16 MANAGEMENT, FOR EACH OPERATIONAL TECHNOLOGY AND INFORMATION
+17 TECHNOLOGY DEVICE BASED ON THE LEVEL OF SECURITY RISK FOR EACH DEVICE,
+18 INCLUDING SECURITY RISKS ASSOCIATED WITH SUPPLY CHAINS; AND
+19 (4) ON OR BEFORE JANUARY 1, 2026, AND EVERY 2 YEARS
+20 THEREAFTER:
+21 (I) UNDERGO A THIRD–PARTY AUDIT TO EVALUATE THE
+22 ENTITY’S CYBERSECURITY PRACTICES AND RESOURCES BASED ON THE
+23 CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY’S CROSS–SECTOR
+24 CYBERSECURITY PERFORMANCE GOALS OR A MORE STRINGENT STANDARD BASED
+25 ON THE NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY’S FRAMEWORK;
+26 AND
+27 (II) SUBMIT TO THE ADMINISTRATION A REPORT THAT
+28 INCLUDES:
+29 1. THE RECOMMENDATIONS FROM THE AUDIT;
+30 2. THE DATE OF THE CYBERSECURITY AUDIT;
+31 3. THE CYBERSECURITY FRAMEWORK USED TO
+32 EVALUATE THE ENTITY; AND
+SENATE BILL 691 9
+1 4. THE NAME OF THE THIRD PARTY THAT CONDUCTED
+2 THE AUDIT.
+3 (D) ON OR BEFORE JULY 1, 2026, AND EVERY 2 YEARS THEREAFTER, THE
+4 ADMINISTRATION SHALL COLLECT CERTIFICATION OF A HEALTHCARE ECOSYSTEM
+5 ENTITY’S COMPLIANCE WITH THE STANDARD USED IN THE AUDIT CONDUCTED
+6 UNDER SUBSECTION (C)(4) OF THIS SECTION FOR CYBERSECURITY–RELATED
+7 POLICIES AND PROCEDURES.
+8 (E) ON OR BEFORE JANUARY 1, 2027, AND EVERY 2 YEARS THEREAFTER,
+9 THE ADMINISTRATION SHALL SUBMIT A REPORT TO THE STATE CHIEF
+10 INFORMATION SECURITY OFFICER OR THE OFFICER’S DESIGNEE THAT INCLUDES:
+11 (1) A GENERAL OVERVIEW OF CYBERSECURITY TECHNOLOGY AND
+12 POLICIES USED BY HEALTHCARE ECOSYSTEM ENTITIES IN THE STATE, GROUPED IN
+13 THE FOLLOWING MANNER:
+14 (I) INSURERS AUTHORIZED TO SELL HEALTH INSURANCE;
+15 (II) NONPROFIT HEALTH SERVICE PLANS;
+16 (III) HEALTH MAINTENANCE ORGANIZATIONS;
+17 (IV) DENTAL PLAN ORGANIZATIONS;
+18 (V) PHARMACY BENEFITS MANAGERS; AND
+19 (VI) ANY OTHER ENTITY PROVIDING A PLAN OF HEALTH
+20 INSURANCE, HEALTH BENEFITS, OR HEALTH SERVICES AUTHORIZED UNDER THIS
+21 ARTICLE OR THE AFFORDABLE CARE ACT;
+22 (2) INFORMATION ABOUT EACH CERTIFICATION COLLECTED,
+23 INCLUDING:
+24 (I) THE NAME OF THE HEALTHCARE ECOSYSTEM ENTITY;
+25 (II) THE DATE OF THE HEALTHCARE ECOSYSTEM ENTITY’S MOST
+26 RECENT CYBERSECURITY AUDIT;
+27 (III) THE CYBERSECURITY FRAMEWORK USED IN THE
+28 CYBERSECURITY AUDIT OF THE HEALTHCARE ECOSYSTEM ENTITY; AND
+10 SENATE BILL 691
+1 (IV) THE NAME OF THE THIRD PARTY THAT COMPLETED THE
+2 CYBERSECURITY AUDIT;
+3 (3) AN OVERVIEW OF ESSENTIAL CAPABILITIES PROVIDED BY THE
+4 HEALTHCARE ECOSYSTEM ENTITY;
+5 (4) RECOMMENDATIONS FOR ENSURING THE CONTINUOUS DELIVERY
+6 OF ESSENTIAL CAPABILITIES DURING AND FOLLOWING A DISRUPTION TO THE
+7 HEALTHCARE ECOSYSTEM; AND
+8 (5) RECOMMENDATIONS TO IMPROVE CYBERSECURITY FOR THE
+9 GROUPS OF HEALTHCARE ECOSYSTEM ENTITIES IDENTIFIED IN ITEM (1) OF THIS
+10 SUBSECTION.
+11 Article – State Finance and Procurement
+12 3.5–101.
+13 (a) In this title the following words have the meanings indicated.
+14 (c) “Department” means the Department of Information Technology.
+15 3.5–2A–01.
+16 (a) In this subtitle the following words have the meanings indicated.
+17 (b) “Council” means the Maryland Cybersecurity Coordinating Council.
+18 (c) “Office” means the Office of Security Management.
+19 3.5–2A–07.
+20 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+21 INDICATED.
+22 (2) “HEALTHCARE ECOSYSTEM” MEANS THE ENTITIES AND
+23 RELATIONSHIPS AMONG ENTITIES THAT ARE NECESSARY TO DELIVER HEALTH CARE
+24 TREATMENT, PAYMENT, AND HEALTH CARE OPERATIONS.
+25 (3) “HEALTHCARE ECOSYSTEM ENTITY” INCLUDES:
+26 (I) A CARRIER;
+27 (II) AN ELECTRONIC DATA INTERCHANGE CLEARINGHOUSE;
+SENATE BILL 691 11
+1 (III) A FREESTANDING MEDICAL FACILITY;
+2 (IV) A HOSPITAL;
+3 (V) A PHARMACY BENEFITS MANAGER;
+4 (VI) A HEALTH INFORMATION EXCHANGE; AND
+5 (VII) ANY OTHER ENTITY IDENTIFIED BY THE MARYLAND
+6 HEALTH CARE COMMISSION OR THE MARYLAND INSURANCE ADMINISTRATION IN
+7 REGULATIONS TO BE INCLUDED IN THE HEALTHCARE ECOSYSTEM.
+8 (B) (1) A HEALTHCARE ECOSYSTEM ENTITY SHALL REPORT, IN
+9 ACCORDANCE WITH THE PROCESS ESTABLISHED UNDER PARAGRAPH (2) OF THIS
+10 SUBSECTION, A CYBERSECURITY INCIDENT, INCLUDING AN ATTACK ON A SYSTEM
+11 BEING USED BY THE HEALTHCARE ECOSYSTEM ENTITY, TO THE STATE SECURITY
+12 OPERATIONS CENTER IN THE DEPARTMENT.
+13 (2) THE OFFICE, IN CONSULTATION WITH THE MARYLAND HEALTH
+14 CARE COMMISSION AND THE MARYLAND INSURANCE ADMINISTRATION, SHALL
+15 ESTABLISH A PROCESS FOR A HEALTHCARE ECOSYSTEM ENTITY TO REPORT A
+16 CYBERSECURITY INCIDENT UNDER PARAGRAPH (1) OF THIS SUBSECTION,
+17 INCLUDING:
+18 (I) THE CRITERIA FOR DETERMINING THE CIRCUMSTANCES
+19 UNDER WHICH A CYBERSECURITY INCIDENT MUST BE REPORTED;
+20 (II) THE MANNER IN WHICH A CYBERSECURITY INCIDENT MUST
+21 BE REPORTED; AND
+22 (III) THE TIME PERIOD WITHIN WHICH A CYBERSECURITY
+23 INCIDENT MUST BE REPORTED.
+24 (3) THE STATE SECURITY OPERATIONS CENTER IMMEDIATELY
+25 SHALL NOTIFY APPROPRIATE STATE AND LOCAL AGENCIES OF A CYBERSECURITY
+26 INCIDENT REPORTED UNDER THIS SUBSECTION.
+27 (4) (I) ON OR BEFORE JULY 1 EACH YEAR, BEGINNING IN 2026,
+28 THE OFFICE SHALL REPORT TO THE GOVERNOR, THE COUNCIL, AND, IN
+29 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, THE GENERAL
+30 ASSEMBLY ON THE NUMBER OF CYBERSECURITY INCIDENTS AND TYPES OF
+31 CYBERSECURITY INCIDENTS REPORTED UNDER PARAGRAPH (1) OF THIS
+32 SUBSECTION IN THE IMMEDIATELY PRECEDING CALENDAR YEAR.
+12 SENATE BILL 691
+1 (II) A REPORT SUBMITTED IN ACCORDANCE WITH
+2 SUBPARAGRAPH (I) OF THIS PARAGRAPH MAY NOT IDENTIFY A HEALTHCARE
+3 ECOSYSTEM ENTITY THAT REPORTED AN INCIDENT TO THE OFFICE OR A
+4 HEALTHCARE ECOSYSTEM ENTITY THAT WAS DIRECTLY AFFECTED BY AN INCIDENT
+5 REPORTED TO THE CENTER.
+6 3.5–301.
+7 (a) In this subtitle the following words have the meanings indicated.
+8 (c) “Cybersecurity” means processes or capabilities wherein systems,
+9 communications, and information are protected and defended against damage,
+10 unauthorized use or modification, and exploitation.
+11 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+12 as follows:
+13 Article – Health – General
+14 19–113.
+15 (F) THE COMMISSION, IN CONSULTATION WITH THE DEPARTMENT OF
+16 INFORMATION TECHNOLOGY, SHALL ADOPT REGULATIONS TO IMPLEMENT
+17 CYBERSECURITY STANDARDS AND PROCEDURES TO:
+18 (1) PREVENT DISRUPTIONS TO THE HEALTHCARE ECOSYSTEM;
+19 (2) ENABLE THE DELIVERY OF ESSENTIAL CAPABILITIES BY THE
+20 HEALTHCARE ECOSYSTEM; AND
+21 (3) SUPPORT RECOVERY FROM AN INCIDENT THAT DISRUPTS THE
+22 HEALTHCARE ECOSYSTEM.
+23 (G) THE COMMISSION, IN CONJUNCTION WITH THE MARYLAND
+24 DEPARTMENT OF EMERGENCY MANAGEMENT, THE DEPARTMENT OF
+25 INFORMATION TECHNOLOGY, AND THE MARYLAND INSURANCE ADMINISTRATION,
+26 SHALL REGULARLY CONVENE A STAKEHOLDER WORKGROUP TO REVIEW
+27 CYBERSECURITY PRACTICES, THREATS, RESPONSES TO DISRUPTIONS, AND
+28 EMERGING ISSUES AFFECTING THE HEALTHCARE ECOSYSTEM.
+29 Article – Insurance
+30 2–117.
+SENATE BILL 691 13
+1 (F) THE ADMINISTRATION, IN CONSULTATION WITH THE DEPARTMENT OF
+2 INFORMATION TECHNOLOGY, SHALL ADOPT REGULATIONS TO IMPLEMENT
+3 CYBERSECURITY STANDARDS AND PROCEDURES TO:
+4 (1) PREVENT DISRUPTIONS TO THE HEALTHCARE ECOSYSTEM;
+5 (2) ENABLE THE DELIVERY OF ESSENTIAL CAPABILITIES BY THE
+6 HEALTHCARE ECOSYSTEM; AND
+7 (3) SUPPORT RECOVERY FROM AN INCIDENT THAT DISRUPTS THE
+8 HEALTHCARE ECOSYSTEM.
+9 SECTION 3. AND BE IT FURTHER ENACTED, That:
+10 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+11 That:
+12 (a) (1) In this section the following words have the meanings indicated.
+13 (2) “Cybersecurity” has the meaning stated in § 3.5–301 of the State
+14 Finance and Procurement Article.
+15 (3) “Essential capabilities” means the services that must be available in
+16 the healthcare ecosystem to ensure the continuity of critical care and patient safety,
+17 including during an incident diminishing the capacity of the healthcare ecosystem.
+18 (4) “Healthcare ecosystem” means the entities and relationships among
+19 entities that are necessary to deliver treatment, payment, and health care operations.
+20 (5) (i) “Healthcare ecosystem entity” includes:
+21 1. a carrier, as defined in § 2–117 of the Insurance Article;
+22 2. an electronic data interchange clearinghouse;
+23 3. a freestanding medical facility, as defined in § 19–3A–01
+24 of the Health – General Article;
+25 4. a health information exchange, as defined in § 4–301 of the
+26 Health – General Article;
+27 5. a hospital, as defined in § 19–301 of the Health – General
+28 Article; and
+29 6. a pharmacy benefits manager, as defined in § 15–1601 of
+30 the Insurance Article.
+14 SENATE BILL 691
+1 (ii) “Healthcare ecosystem entity” does not include a governmental
+2 payor.
+3 (6) “Health care operations” has the meaning stated in 45 C.F.R. § 164.501.
+4 (7) “Payment” has the meaning stated in 45 C.F.R. § 164.501.
+5 (8) “Treatment” has the meaning stated in 45 C.F.R. § 164.501.
+6 (9) “Workgroup” means the Healthcare Ecosystem Stakeholder
+7 Cybersecurity Workgroup.
+8 (b) (1) The Maryland Health Care Commission shall convene a healthcare
+9 ecosystem stakeholder workgroup to study and make recommendations to improve the
+10 cybersecurity of the healthcare ecosystem in the State There is a Healthcare Ecosystem
+11 Stakeholder Cybersecurity Workgroup.
+12 (2) The purpose of the Workgroup is to develop strategies to:
+13 (i) prevent cybersecurity disruptions to healthcare ecosystem
+14 operations;
+15 (ii) ensure the continuous delivery of essential healthcare ecosystem
+16 services; and
+17 (iii) enhance recovery efforts of the healthcare ecosystem following a
+18 cybersecurity incident.
+19 (c) The Workgroup consists of the following members:
+20 (1) one member of the Senate of Maryland, appointed by the President of
+21 the Senate;
+22 (2) one member of the House of Delegates, appointed by the Speaker of the
+23 House;
+24 (3) the Chairman of the Maryland Health Care Commission, or the
+25 Chairman’s designee;
+26 (4) the Maryland Insurance Commissioner, or the Commissioner’s
+27 designee;
+28 (5) the Secretary of Emergency Management, or the Secretary’s designee;
+29 (6) the State Chief Information Security Officer, or the State Chief Officer’s
+30 designee;
+SENATE BILL 691 15
+1 (7) two representatives from the Subcommittee on Critical Infrastructure
+2 of the Maryland Cybersecurity Council, appointed by the Chair of the Maryland
+3 Cybersecurity Council;
+4 (8) one representative from each of the following organizations, designated
+5 by the head of the organization:
+6 (i) one representative of the Cooperative Exchange;
+7 (ii) one representative of the Electronic Health Record Association;
+8 (iii) one representative of the Maryland League of Life and Health
+9 Insurers;
+10 (iv) one representative of the Maryland Hospital Association; and
+11 (v) one representative of the Maryland Cybersecurity Association;
+12 (9) one representative of a pharmacy benefits manager, appointed by the
+13 Maryland Insurance Commissioner;
+14 (10) the following representatives appointed by the Chairman of the
+15 Maryland Health Care Commission:
+16 (i) one representative of an electronic data interchange
+17 clearinghouse;
+18 (ii) one representative of a freestanding medical facility;
+19 (iii) one representative of a large hospital;
+20 (iv) one representative of a small hospital;
+21 (v) one representative of an inpatient psychiatric hospital; and
+22 (vi) one representative of a health information exchange; and
+23 (11) three representatives of a patient advocacy group, jointly appointed by
+24 the Chairman of the Maryland Health Care Commission and the Maryland Insurance
+25 Commissioner.
+26 (d) The Chairman of the Maryland Health Care Commission, or the Chairman’s
+27 designee, and the Maryland Insurance Commissioner, or the Commissioner’s designee,
+28 shall cochair the Workgroup.
+16 SENATE BILL 691
+1 (e) The Maryland Health Care Commission and the Maryland Insurance
+2 Administration shall provide staff for the Workgroup.
+3 (f) A member of the Workgroup:
+4 (1) may not receive compensation as a member of the Workgroup; but
+5 (2) is entitled to reimbursement for expenses under the Standard State
+6 Travel Regulations, as provided in the State budget.
+7 (g) The workgroup Workgroup shall:
+8 (1) identify essential capabilities required for the delivery of health care
+9 during a cybersecurity attack;
+10 (2) identify functional requirements for the healthcare ecosystem to be
+11 capable of providing the essential capabilities identified under item (1) of this subsection;
+12 (3) identify and map all healthcare ecosystem entities in the State against
+13 the essential health care capabilities and identified functional requirements;
+14 (4) identify which healthcare ecosystem entities are needed, directly or
+15 indirectly, to provide the essential capabilities identified under item (1) of this subsection;
+16 (5) identify other issues related to cybersecurity in the healthcare
+17 ecosystem develop an ecosystem cybersecurity threat and risk assessment based on the
+18 essential health care capabilities and supporting functions;
+19 (6) examine cybersecurity challenges affecting the healthcare ecosystem
+20 based on the threat and risk assessment;
+21 (6) (7) review best practices for cybersecurity and processes used in the
+22 healthcare ecosystem, including NIST 800–207, NIST 800–207A, NIST 800–53A, the NIST
+23 Cybersecurity Framework, HICP Technical Volume 1, and HICP Technical Volume 2; and
+24 (7) provide guidance for the Maryland Health Care Commission and the
+25 Maryland Insurance Administration regarding the adoption and maintenance of
+26 cybersecurity regulatory standards.
+27 (8) make recommendations for adopting and maintaining cybersecurity
+28 regulatory standards; and
+29 (9) make recommendations for ensuring that essential capabilities and
+30 supporting functions are resilient to disruption.
+31 (d) (h) (1) On or before July January 1, 2026, the Maryland Health Care
+32 Commission Workgroup shall submit an interim report defining the scope and contents of
+SENATE BILL 691 17
+1 the State’s healthcare ecosystem of its findings and recommendations to the Governor, the
+2 Secretary of Emergency Management, the Chairman of the Maryland Health Care
+3 Commission, the Maryland Insurance Commissioner, the State Chief Information Security
+4 Officer, and, in accordance with § 2–1257 of the State Government Article, the General
+5 Assembly.
+6 (2) On or before July December 1, 2028 2026, the Maryland Health Care
+7 Commission Workgroup shall submit a final report of the findings and recommendations of
+8 the workgroup to the Governor, the Secretary of Emergency Management, the Chairman
+9 of the Maryland Health Care Commission, the Maryland Insurance Commissioner, the
+10 State Chief Information Security Officer, and, in accordance with §
+11 2–1257 of the State Government Article, the General Assembly.
+12 SECTION 4. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
+13 effect July 1, 2028.
+14 SECTION 5. 2. AND BE IT FURTHER ENACTED, That, except as provided in
+15 Section 4 of this Act, this Act shall take effect July 1, 2025. Section 3 of this Act It shall
+16 remain effective for a period of 4 2 years and, at the end of June 30, 2029 2027, Section 3 of
+17 this Act, with no further action required by the General Assembly, shall be abrogated and
+18 of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5   C A C F I A t i a c e a s t p c o o r s u a t c a o a c b a r c i t t S S O C i t D o I T r t C t n c a o a c i r u t A r t C t c a w t r c p t r t i c S d h e s a e r e o t h e f a c i a g r t t H B  A]
+[DELETED:  S  S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  ( B  A S  A  (  (]
+[DELETED: S 3  S T A 1  I   ) ( N     “C”§3Y  M   O T I R RFPA     “ES  I T H E T E T C O  C A P SY I D A I      “H EM M T E A T      () “H”EY        E D IE       AY 11 E       AE 41        A,§11L           A E I B T O I     ) “H”IEY ]
+[DELETED:  S       A,§2CR A D I   O TA RE        A,R 1IA N R     “Z–”OTT     ) FO O C R P     ) IA O T P T T I N G   ) TH O S I O I S A L O     A O T I O O T C P O S     COS W T F O E A ON      RC T O O A WP TE   OD   ) A      O    A– A ZOT C A FNPDB–     MC O C W T F O E AT F ESM   L O S R F E DE I S R S  ]
+[DELETED: S 5    OJ1,2, O B A   A E  Y     ) UN A TDP A T E TYS C P A R B O T ISA’C– A N E GYS RSE P E O  A N T EYS RIST’F      ) SCIU O      T      T       C F U TY           ) OJ1,2,2N U     R  S C C O A H E YS C W T S U I T A C  S C O T S F CYR))    ) OJ1,2,2N A      O T H NSC OO’ F FRS     G O O C T A TE       ) HO    ) FIR    ) EIL    ) HVES ]
+[DELETED:  S     ) AN O E T O C     I A E C C     ) TH    ) TIH D O T H E EY     ) IH C F U I TY      ) VH N O T T P T C TT      O O E C P B      E C D A F A D T T M       T I C F T   N  A 1  ( I  ( “  ( “   ) ( ND     “C”R ]
+[DELETED: S 7    ) A    ) IA    ) IA    ) VAN     )A O E P A P O HE S   F A CCA     “ES  I T H E T E T C O  C A P SY I D A I      “H EM M T E A T      () “H”EY       R       ,R 1     ) “HIEY R     “Z–”OTT     ) F O C R P     )IB O T P T T I N G   ) TH D S I O I A O ]
+[DELETED:  S      T O O M T I O T C P O H E S     OS W T F O E A ON      A T D O A WP TE   DD   ) A     D    – A ZOT C A FNPDB–      ACC,O A ON  F E T F E O T A I  S      J1,2, O B A   A E  Y     ) U A TDP A T E TYS C P A R B O T ISA’C– A N E GYS RSE P E O  A N T EYS RIST’F      ) IS T T D A R T                   C F U TY  ]
+[DELETED: S 9        ) OJ1,2,2N U     R  YS C W T S U I T A C  S C O T S F CYR))    ) OJ1,2,2N A      D S S A R T T T HS SOO’ E F FRS     G O O C T A TE       ) I    ) IN    ) IH    ) VD    ) PS     )IA O E P A P O HE S   F A CCA      A E C C     ) T    ) ITYS     )IT C F U I TY  ]
+[DELETED:  S     )VT N O T T P T C TT     O O E C P B T     E C D A F A D T T M      T I C F T   N  A 3  ( I  ( “ 3  ( I  ( “  ( “   ) ( N     “H EM M T E A T T ,     “H”Y     ) A    ) IA]
+[DELETED: S 1    ) IA    ) VA    ) A    ) IAE     ) IA O E I B T ACCMI A O A N D     ) ()A H E E S RT I   N T  Y OT T ES  CD E E     )TO,M FE  A ECMIA O A T A N DN S  A P F A H E E T R   I U P  O T S)       T C F D T C      ITD       IT T P W W A C     )TSSO T E P E I T       () OJ1,2N U  ER B F S R T T OR T OL AD IG,C,     T O RE  E27SGA,  O T N O C I A T O  I R U P  O T  ]
+[DELETED:  S     ) I R S I A W I O T P M N I A H  E T R A I T T F O    ER  3  ( I  ( “ m p o c w s c a i a p a d a d u  S a A 1  ) TC,H ON I C W T E OT EY S A R T I      P     T D O E C B TM       R F A I T D T   ) TC,H ON I C W T AEM, O M AT T E O T,MIA EY  A N D  R C A S W T R  PS TS R T DS A, M  A 2]
+[DELETED: S 1  ) TA,H DN  ET EY S A R T I          T D O E C B TM      R F A I T D T   S  S T  ( ( I   ( “ h t m s i § 3 o t S F   ( “ t h e t e t c o c c a p s i   ( “ e m t e a r a e   ( ( “     1 a     2 a     3 a o     4 a H     5 a A     6 a t]
+[DELETED:  S     ( “ p   ( “   ( “   ( “   ( “ m t H E S C  ( ( T M H C C s c a h e s w t s a m r t i t c S   ( T    ( p c d t h e o    ( e s    ( e c  ( T   ( o t   ( o H   ( t C o t M H C C o t C   ( t M I C o t C d   ( t   ( t d]
+[DELETED: S 1   ( t o t M C C a b t C o t M C   ( o b    ( o    ( o    ( o I    ( o    ( o   ( o M   ( t f r a b t C o t M    ( o r o a e d i c    ( o    ( o    ( o    ( o    ( o   ( t t C o t M H C C a t M I C  ( T d a t M I C o t C d s]
+[DELETED:  S   ( T M H C C a t M I A  ( A   ( m   ( i T  ( T   ( i d   ( i f r f t h e t b c   ( i t   ( i w h e e a n d o i   ( i o i r t c i t h e e   ( e b   ( b p f c a p u i t h C   ( p M I A r t a a m o c   ( m r f a a m c r   ( m r f e t e c a s  ( O o b J J 1 2 t M H C C]
+[DELETED: S 1 t S o E M t C o t M H C C O A   ( O C t o S C I S O a i a w § 2  S e  S 5 2 A B I F E T e a p i S r t o          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 691
+S2, J3, J5 5lr0886
+CF HB 333
+By: Senator Hester
+Introduced and read first time: January 26, 2025
+Assigned to: Finance and Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 11, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Cybersecurity – Healthcare Ecosystem Stakeholder Cybersecurity Workgroup
+3 FOR the purpose of requiring the Maryland Health Care Commission and the Maryland
+4 Insurance Administration to include a cybersecurity expert as staff to perform
+5 certain functions and submit to the State Chief Information Security Officer a report
+6 on the cybersecurity practices and policies of certain healthcare ecosystem entities
+7 on a certain basis; requiring healthcare ecosystem entities to take certain actions
+8 related to cybersecurity, including adopting and implementing certain cybersecurity
+9 standards, undergoing a third–party cybersecurity audit on a certain basis, and
+10 reporting cybersecurity incidents to the State Security Operations Center in the
+11 Department of Information Technology; requiring the Center to notify certain
+12 agencies of a cybersecurity incident reported under this Act; requiring the
+13 Commission to convene a workgroup to review cybersecurity practices, threats,
+14 responses to disruptions, and emerging issues in the healthcare ecosystem; requiring
+15 the Commission to convene a workgroup to study and make recommendations to
+16 improve the cybersecurity of the healthcare ecosystem; and generally relating to
+17 cybersecurity and the healthcare ecosystem establishing the Healthcare Ecosystem
+18 Stakeholder Cybersecurity Workgroup to develop strategies to prevent cybersecurity
+19 disruptions to the healthcare ecosystem, ensure the continuous delivery of essential
+20 healthcare ecosystem services, and enhance recovery efforts of the healthcare
+21 ecosystem following a cybersecurity incident; and generally relating to the
+22 Healthcare Ecosystem Stakeholder Cybersecurity Workgroup.
+23 BY repealing and reenacting, without amendments,
+24 Article – Health – General
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0691*
+
+2 SENATE BILL 691
+1 Section 19–101
+2 Annotated Code of Maryland
+3 (2023 Replacement Volume and 2024 Supplement)
+4 BY adding to
+5 Article – Health – General
+6 Section 19–113
+7 Annotated Code of Maryland
+8 (2023 Replacement Volume and 2024 Supplement)
+9 BY repealing and reenacting, without amendments,
+10 Article – Insurance
+11 Section 1–101(a), (b), and (k)
+12 Annotated Code of Maryland
+13 (2017 Replacement Volume and 2024 Supplement)
+14 BY adding to
+15 Article – Insurance
+16 Section 2–117
+17 Annotated Code of Maryland
+18 (2017 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, without amendments,
+20 Article – State Finance and Procurement
+21 Section 3.5–101(a) and (c), 3.5–2A–01, and 3.5–301(a) and (c)
+22 Annotated Code of Maryland
+23 (2021 Replacement Volume and 2024 Supplement)
+24 BY adding to
+25 Article – State Finance and Procurement
+26 Section 3.5–2A–07
+27 Annotated Code of Maryland
+28 (2021 Replacement Volume and 2024 Supplement)
+29 BY adding to
+30 Article – Health – General
+31 Section 19–113(f) and (g)
+32 Annotated Code of Maryland
+33 (2023 Replacement Volume and 2024 Supplement)
+34 (As enacted by Section 1 of this Act)
+35 BY adding to
+36 Article – Insurance
+37 Section 2–117(f)
+38 Annotated Code of Maryland
+39 (2017 Replacement Volume and 2024 Supplement)
+40 (As enacted by Section 1 of this Act)
+
+SENATE BILL 691 3
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Health – General
+4 19–101.
+5 In this subtitle, “Commission” means the Maryland Health Care Commission.
+6 19–113.
+7 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+8 INDICATED.
+9 (2) “CYBERSECURITY” HAS THE MEANING STATED IN § 3.5–301 OF
+10 THE STATE FINANCE AND PROCUREMENT ARTICLE.
+11 (3) “ESSENTIAL CAPABILITIES” MEANS THE SERVICES THAT MUST BE
+12 AVAILABLE IN THE HEALTHCARE ECOSYSTEM TO ENSURE THE CONTINUITY OF
+13 CRITICAL CARE AND PATIENT SAFETY, INCLUDING DURING AN INCIDENT
+14 DIMINISHING THE CAPACITY OF THE HEALTHCARE ECOSYSTEM.
+15 (4) “HEALTHCARE ECOSYSTEM” MEANS THE ENTITIES AND
+16 RELATIONSHIPS AMONG ENTITIES THAT ARE NECESSARY TO DELIVER TREATMENT,
+17 PAYMENT, AND HEALTH CARE OPERATIONS.
+18 (5) (I) “HEALTHCARE ECOSYSTEM ENTITY” INCLUDES:
+19 1. AN ELECTRONIC DATA INTERCHANGE
+20 CLEARINGHOUSE;
+21 2. A FREESTANDING MEDICAL FACILITY, AS DEFINED IN
+22 § 19–3A–01 OF THIS TITLE;
+23 3. A HEALTH INFORMATION EXCHANGE, AS DEFINED IN
+24 § 4–301 OF THIS ARTICLE;
+25 4. A HOSPITAL, AS DEFINED IN § 19–301 OF THIS TITLE;
+26 AND
+27 5. AN ENTITY IDENTIFIED BY THE COMMISSION IN
+28 REGULATIONS TO BE INCLUDED IN THE HEALTHCARE ECOSYSTEM.
+29 (II) “HEALTHCARE ECOSYSTEM ENTITY” DOES NOT INCLUDE:
+
+4 SENATE BILL 691
+1 1. A CARRIER, AS DEFINED IN § 2–117 OF THE
+2 INSURANCE ARTICLE; OR
+3 2. A PHARMACY BENEFITS MANAGER, AS DEFINED IN §
+4 15–1601 OF THE INSURANCE ARTICLE.
+5 (6) “ZERO–TRUST” MEANS A CYBERSECURITY APPROACH:
+6 (I) FOCUSED ON CYBERSECURITY RESOURCE PROTECTION;
+7 AND
+8 (II) BASED ON THE PREMISE THAT TRUST IS NOT GRANTED
+9 IMPLICITLY BUT MUST BE EVALUATED CONTINUALLY.
+10 (B) THE COMMISSION SHALL INCLUDE ON ITS STAFF AT LEAST ONE
+11 EMPLOYEE WHO IS AN EXPERT IN CYBERSECURITY TO:
+12 (1) ADVISE THE CHAIRMAN AND MEMBERS OF THE COMMISSION ON
+13 MEASURES TO IMPROVE OVERSIGHT OF THE CYBERSECURITY PRACTICES OF
+14 HEALTHCARE ECOSYSTEM ENTITIES;
+15 (2) CONSULT WITH THE OFFICE OF SECURITY MANAGEMENT ON
+16 CYBERSECURITY ISSUES RELATED TO HEALTH CARE REGULATION; AND
+17 (3) REPRESENT THE COMMISSION ON ANY WORKGROUP, TASK
+18 FORCE, OR SIMILAR ENTITY THAT IS FOCUSED ON CYBERSECURITY AND ON WHICH
+19 REPRESENTATION FROM THE COMMISSION IS REQUESTED OR REQUIRED.
+20 (C) A HEALTHCARE ECOSYSTEM ENTITY SHALL:
+21 (1) ADOPT AND IMPLEMENT CYBERSECURITY STANDARDS THAT ARE
+22 EQUAL TO OR EXCEED ANY STANDARDS ADOPTED BY THE COMMISSION;
+23 (2) ADOPT A ZERO–TRUST CYBERSECURITY APPROACH FOR
+24 ON–PREMISES SERVICES AND CLOUD–BASED SERVICES;
+25 (3) MEET MINIMUM SECURITY STANDARDS SET BY THE COMMISSION,
+26 IN CONSULTATION WITH THE OFFICE OF SECURITY MANAGEMENT, FOR EACH
+27 OPERATIONAL TECHNOLOGY AND INFORMATION TECHNOLOGY DEVICE BASED ON
+28 THE LEVEL OF SECURITY RISK FOR EACH DEVICE, INCLUDING SECURITY RISKS
+29 ASSOCIATED WITH SUPPLY CHAINS; AND
+
+SENATE BILL 691 5
+1 (4) ON OR BEFORE JANUARY 1, 2026, AND EVERY 2 YEARS
+2 THEREAFTER:
+3 (I) UNDERGO A THIRD–PARTY AUDIT TO EVALUATE THE
+4 ENTITY’S CYBERSECURITY PRACTICES AND RESOURCES BASED ON THE
+5 CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY’S CROSS–SECTOR
+6 CYBERSECURITY PERFORMANCE GOALS OR A MORE STRINGENT STANDARD BASED
+7 ON THE NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY’S FRAMEWORK;
+8 AND
+9 (II) SUBMIT TO THE COMMISSION A REPORT THAT INCLUDES:
+10 1. THE RECOMMENDATIONS OF THE AUDIT;
+11 2. THE DATE OF THE CYBERSECURITY AUDIT;
+12 3. THE CYBERSECURITY FRAMEWORK USED TO
+13 EVALUATE THE ENTITY; AND
+14 4. THE NAME OF THE THIRD PARTY THAT CONDUCTED
+15 THE AUDIT.
+16 (D) ON OR BEFORE JULY 1, 2026, AND EVERY 2 YEARS THEREAFTER, THE
+17 COMMISSION SHALL COLLECT CERTIFICATION OF A HEALTHCARE ECOSYSTEM
+18 ENTITY’S COMPLIANCE WITH THE STANDARD USED IN THE AUDIT CONDUCTED
+19 UNDER SUBSECTION (C)(4) OF THIS SECTION FOR CYBERSECURITY–RELATED
+20 POLICIES AND PROCEDURES.
+21 (E) ON OR BEFORE JANUARY 1, 2027, AND EVERY 2 YEARS THEREAFTER,
+22 THE COMMISSION SHALL SUBMIT A REPORT TO THE STATE CHIEF INFORMATION
+23 SECURITY OFFICER OR THE OFFICER’S DESIGNEE THAT INCLUDES:
+24 (1) A GENERAL OVERVIEW OF CYBERSECURITY TECHNOLOGY AND
+25 POLICIES USED BY HEALTHCARE ECOSYSTEM ENTITIES IN THE STATE, GROUPED IN
+26 THE FOLLOWING MANNER:
+27 (I) HOSPITALS;
+28 (II) FREESTANDING MEDICAL FACILITIES;
+29 (III) ELECTRONIC DATA INTERCHANGE CLEARINGHOUSES;
+30 (IV) HEALTH INFORMATION EXCHANGES; AND
+
+6 SENATE BILL 691
+1 (V) ANY OTHER ENTITY THE COMMISSION CONSIDERS
+2 SIGNIFICANT ENOUGH TO INCLUDE IN THE REPORT;
+3 (2) INFORMATION ABOUT EACH CERTIFICATION COLLECTED,
+4 INCLUDING:
+5 (I) THE NAME OF THE HEALTHCARE ECOSYSTEM ENTITY;
+6 (II) THE DATE OF THE HEALTHCARE ECOSYSTEM ENTITY’S
+7 MOST RECENT CYBERSECURITY AUDIT;
+8 (III) THE CYBERSECURITY FRAMEWORK USED IN THE
+9 CYBERSECURITY AUDIT OF THE HEALTHCARE ECOSYSTEM ENTITY; AND
+10 (IV) THE NAME OF THE THIRD PARTY THAT COMPLETED THE
+11 CYBERSECURITY AUDIT;
+12 (3) AN OVERVIEW OF ESSENTIAL CAPABILITIES PROVIDED BY
+13 HEALTHCARE ECOSYSTEM ENTITIES;
+14 (4) RECOMMENDATIONS FOR ENSURING THE CONTINUOUS DELIVERY
+15 OF ESSENTIAL CAPABILITIES DURING AND FOLLOWING A DISRUPTION TO THE
+16 HEALTHCARE ECOSYSTEM; AND
+17 (5) RECOMMENDATIONS TO IMPROVE CYBERSECURITY FOR THE
+18 GROUPS OF HEALTHCARE ECOSYSTEM ENTITIES IDENTIFIED IN ITEM (1) OF THIS
+19 SUBSECTION.
+20 Article – Insurance
+21 1–101.
+22 (a) In this article the following words have the meanings indicated.
+23 (b) “Administration” means the Maryland Insurance Administration.
+24 (k) “Commissioner” means the Maryland Insurance Commissioner.
+25 2–117.
+26 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+27 INDICATED.
+28 (2) “CARRIER” MEANS:
+
+SENATE BILL 691 7
+1 (I) AN INSURER AUTHORIZED TO SELL HEALTH INSURANCE;
+2 (II) A NONPROFIT HEALTH SERVICE PLAN;
+3 (III) A HEALTH MAINTENANCE ORGANIZATION;
+4 (IV) A DENTAL PLAN ORGANIZATION; AND
+5 (V) ANY OTHER ENTITY PROVIDING A PLAN OF HEALTH
+6 INSURANCE, HEALTH BENEFITS, OR HEALTH SERVICES AUTHORIZED UNDER THIS
+7 ARTICLE OR THE AFFORDABLE CARE ACT.
+8 (3) “ESSENTIAL CAPABILITIES” MEANS THE SERVICES THAT MUST BE
+9 AVAILABLE IN THE HEALTHCARE ECOSYSTEM TO ENSURE THE CONTINUITY OF
+10 CRITICAL CARE AND PATIENT SAFETY, INCLUDING DURING AN INCIDENT
+11 DIMINISHING THE CAPACITY OF THE HEALTHCARE ECOSYSTEM.
+12 (4) “HEALTHCARE ECOSYSTEM” MEANS THE ENTITIES AND
+13 RELATIONSHIPS AMONG ENTITIES THAT ARE NECESSARY TO DELIVER TREATMENT,
+14 PAYMENT, AND HEALTH CARE OPERATIONS.
+15 (5) (I) “HEALTHCARE ECOSYSTEM ENTITY” MEANS:
+16 1. A CARRIER; OR
+17 2. A PHARMACY BENEFITS MANAGER, AS DEFINED IN §
+18 15–1601 OF THIS ARTICLE.
+19 (II) “HEALTHCARE ECOSYSTEM ENTITY” DOES NOT INCLUDE A
+20 GOVERNMENTAL PAYOR.
+21 (6) “ZERO–TRUST” MEANS A CYBERSECURITY APPROACH:
+22 (I) FOCUSED ON CYBERSECURITY RESOURCE PROTECTION;
+23 AND
+24 (II) BASED ON THE PREMISE THAT TRUST IS NOT GRANTED
+25 IMPLICITLY BUT MUST BE EVALUATED CONTINUALLY.
+26 (B) THE ADMINISTRATION SHALL INCLUDE ON ITS STAFF AT LEAST ONE
+27 EMPLOYEE WHO IS AN EXPERT IN CYBERSECURITY TO:
+
+8 SENATE BILL 691
+1 (1) ADVISE THE COMMISSIONER ON MEASURES TO IMPROVE
+2 OVERSIGHT OF THE CYBERSECURITY PRACTICES OF HEALTHCARE ECOSYSTEM
+3 ENTITIES;
+4 (2) CONSULT WITH THE OFFICE OF SECURITY MANAGEMENT ON
+5 CYBERSECURITY ISSUES RELATED TO HEALTH INSURANCE REGULATION; AND
+6 (3) REPRESENT THE ADMINISTRATION ON ANY WORKGROUP, TASK
+7 FORCE, OR SIMILAR ENTITY THAT IS FOCUSED ON CYBERSECURITY AND ON WHICH
+8 REPRESENTATION FROM THE ADMINISTRATION IS REQUIRED OR REQUESTED.
+9 (C) A HEALTHCARE ECOSYSTEM ENTITY SHALL:
+10 (1) ADOPT AND IMPLEMENT CYBERSECURITY STANDARDS THAT ARE
+11 EQUAL TO OR EXCEED ANY STANDARDS ADOPTED BY THE ADMINISTRATION;
+12 (2) ADOPT A ZERO–TRUST CYBERSECURITY APPROACH FOR
+13 ON–PREMISES SERVICES AND CLOUD–BASED SERVICES;
+14 (3) MEET MINIMUM SECURITY STANDARDS SET BY THE MARYLAND
+15 HEALTH CARE COMMISSION, IN CONSULTATION WITH THE OFFICE OF SECURITY
+16 MANAGEMENT, FOR EACH OPERATIONAL TECHNOLOGY AND INFORMATION
+17 TECHNOLOGY DEVICE BASED ON THE LEVEL OF SECURITY RISK FOR EACH DEVICE,
+18 INCLUDING SECURITY RISKS ASSOCIATED WITH SUPPLY CHAINS; AND
+19 (4) ON OR BEFORE JANUARY 1, 2026, AND EVERY 2 YEARS
+20 THEREAFTER:
+21 (I) UNDERGO A THIRD–PARTY AUDIT TO EVALUATE THE
+22 ENTITY’S CYBERSECURITY PRACTICES AND RESOURCES BASED ON THE
+23 CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY’S CROSS–SECTOR
+24 CYBERSECURITY PERFORMANCE GOALS OR A MORE STRINGENT STANDARD BASED
+25 ON THE NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY’S FRAMEWORK;
+26 AND
+27 (II) SUBMIT TO THE ADMINISTRATION A REPORT THAT
+28 INCLUDES:
+29 1. THE RECOMMENDATIONS FROM THE AUDIT;
+30 2. THE DATE OF THE CYBERSECURITY AUDIT;
+31 3. THE CYBERSECURITY FRAMEWORK USED TO
+32 EVALUATE THE ENTITY; AND
+
+SENATE BILL 691 9
+1 4. THE NAME OF THE THIRD PARTY THAT CONDUCTED
+2 THE AUDIT.
+3 (D) ON OR BEFORE JULY 1, 2026, AND EVERY 2 YEARS THEREAFTER, THE
+4 ADMINISTRATION SHALL COLLECT CERTIFICATION OF A HEALTHCARE ECOSYSTEM
+5 ENTITY’S COMPLIANCE WITH THE STANDARD USED IN THE AUDIT CONDUCTED
+6 UNDER SUBSECTION (C)(4) OF THIS SECTION FOR CYBERSECURITY–RELATED
+7 POLICIES AND PROCEDURES.
+8 (E) ON OR BEFORE JANUARY 1, 2027, AND EVERY 2 YEARS THEREAFTER,
+9 THE ADMINISTRATION SHALL SUBMIT A REPORT TO THE STATE CHIEF
+10 INFORMATION SECURITY OFFICER OR THE OFFICER’S DESIGNEE THAT INCLUDES:
+11 (1) A GENERAL OVERVIEW OF CYBERSECURITY TECHNOLOGY AND
+12 POLICIES USED BY HEALTHCARE ECOSYSTEM ENTITIES IN THE STATE, GROUPED IN
+13 THE FOLLOWING MANNER:
+14 (I) INSURERS AUTHORIZED TO SELL HEALTH INSURANCE;
+15 (II) NONPROFIT HEALTH SERVICE PLANS;
+16 (III) HEALTH MAINTENANCE ORGANIZATIONS;
+17 (IV) DENTAL PLAN ORGANIZATIONS;
+18 (V) PHARMACY BENEFITS MANAGERS; AND
+19 (VI) ANY OTHER ENTITY PROVIDING A PLAN OF HEALTH
+20 INSURANCE, HEALTH BENEFITS, OR HEALTH SERVICES AUTHORIZED UNDER THIS
+21 ARTICLE OR THE AFFORDABLE CARE ACT;
+22 (2) INFORMATION ABOUT EACH CERTIFICATION COLLECTED,
+23 INCLUDING:
+24 (I) THE NAME OF THE HEALTHCARE ECOSYSTEM ENTITY;
+25 (II) THE DATE OF THE HEALTHCARE ECOSYSTEM ENTITY’S MOST
+26 RECENT CYBERSECURITY AUDIT;
+27 (III) THE CYBERSECURITY FRAMEWORK USED IN THE
+28 CYBERSECURITY AUDIT OF THE HEALTHCARE ECOSYSTEM ENTITY; AND
+
+10 SENATE BILL 691
+1 (IV) THE NAME OF THE THIRD PARTY THAT COMPLETED THE
+2 CYBERSECURITY AUDIT;
+3 (3) AN OVERVIEW OF ESSENTIAL CAPABILITIES PROVIDED BY THE
+4 HEALTHCARE ECOSYSTEM ENTITY;
+5 (4) RECOMMENDATIONS FOR ENSURING THE CONTINUOUS DELIVERY
+6 OF ESSENTIAL CAPABILITIES DURING AND FOLLOWING A DISRUPTION TO THE
+7 HEALTHCARE ECOSYSTEM; AND
+8 (5) RECOMMENDATIONS TO IMPROVE CYBERSECURITY FOR THE
+9 GROUPS OF HEALTHCARE ECOSYSTEM ENTITIES IDENTIFIED IN ITEM (1) OF THIS
+10 SUBSECTION.
+11 Article – State Finance and Procurement
+12 3.5–101.
+13 (a) In this title the following words have the meanings indicated.
+14 (c) “Department” means the Department of Information Technology.
+15 3.5–2A–01.
+16 (a) In this subtitle the following words have the meanings indicated.
+17 (b) “Council” means the Maryland Cybersecurity Coordinating Council.
+18 (c) “Office” means the Office of Security Management.
+19 3.5–2A–07.
+20 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+21 INDICATED.
+22 (2) “HEALTHCARE ECOSYSTEM” MEANS THE ENTITIES AND
+23 RELATIONSHIPS AMONG ENTITIES THAT ARE NECESSARY TO DELIVER HEALTH CARE
+24 TREATMENT, PAYMENT, AND HEALTH CARE OPERATIONS.
+25 (3) “HEALTHCARE ECOSYSTEM ENTITY” INCLUDES:
+26 (I) A CARRIER;
+27 (II) AN ELECTRONIC DATA INTERCHANGE CLEARINGHOUSE;
+
+SENATE BILL 691 11
+1 (III) A FREESTANDING MEDICAL FACILITY;
+2 (IV) A HOSPITAL;
+3 (V) A PHARMACY BENEFITS MANAGER;
+4 (VI) A HEALTH INFORMATION EXCHANGE; AND
+5 (VII) ANY OTHER ENTITY IDENTIFIED BY THE MARYLAND
+6 HEALTH CARE COMMISSION OR THE MARYLAND INSURANCE ADMINISTRATION IN
+7 REGULATIONS TO BE INCLUDED IN THE HEALTHCARE ECOSYSTEM.
+8 (B) (1) A HEALTHCARE ECOSYSTEM ENTITY SHALL REPORT, IN
+9 ACCORDANCE WITH THE PROCESS ESTABLISHED UNDER PARAGRAPH (2) OF THIS
+10 SUBSECTION, A CYBERSECURITY INCIDENT, INCLUDING AN ATTACK ON A SYSTEM
+11 BEING USED BY THE HEALTHCARE ECOSYSTEM ENTITY, TO THE STATE SECURITY
+12 OPERATIONS CENTER IN THE DEPARTMENT.
+13 (2) THE OFFICE, IN CONSULTATION WITH THE MARYLAND HEALTH
+14 CARE COMMISSION AND THE MARYLAND INSURANCE ADMINISTRATION, SHALL
+15 ESTABLISH A PROCESS FOR A HEALTHCARE ECOSYSTEM ENTITY TO REPORT A
+16 CYBERSECURITY INCIDENT UNDER PARAGRAPH (1) OF THIS SUBSECTION,
+17 INCLUDING:
+18 (I) THE CRITERIA FOR DETERMINING THE CIRCUMSTANCES
+19 UNDER WHICH A CYBERSECURITY INCIDENT MUST BE REPORTED;
+20 (II) THE MANNER IN WHICH A CYBERSECURITY INCIDENT MUST
+21 BE REPORTED; AND
+22 (III) THE TIME PERIOD WITHIN WHICH A CYBERSECURITY
+23 INCIDENT MUST BE REPORTED.
+24 (3) THE STATE SECURITY OPERATIONS CENTER IMMEDIATELY
+25 SHALL NOTIFY APPROPRIATE STATE AND LOCAL AGENCIES OF A CYBERSECURITY
+26 INCIDENT REPORTED UNDER THIS SUBSECTION.
+27 (4) (I) ON OR BEFORE JULY 1 EACH YEAR, BEGINNING IN 2026,
+28 THE OFFICE SHALL REPORT TO THE GOVERNOR, THE COUNCIL, AND, IN
+29 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, THE GENERAL
+30 ASSEMBLY ON THE NUMBER OF CYBERSECURITY INCIDENTS AND TYPES OF
+31 CYBERSECURITY INCIDENTS REPORTED UNDER PARAGRAPH (1) OF THIS
+32 SUBSECTION IN THE IMMEDIATELY PRECEDING CALENDAR YEAR.
+
+12 SENATE BILL 691
+1 (II) A REPORT SUBMITTED IN ACCORDANCE WITH
+2 SUBPARAGRAPH (I) OF THIS PARAGRAPH MAY NOT IDENTIFY A HEALTHCARE
+3 ECOSYSTEM ENTITY THAT REPORTED AN INCIDENT TO THE OFFICE OR A
+4 HEALTHCARE ECOSYSTEM ENTITY THAT WAS DIRECTLY AFFECTED BY AN INCIDENT
+5 REPORTED TO THE CENTER.
+6 3.5–301.
+7 (a) In this subtitle the following words have the meanings indicated.
+8 (c) “Cybersecurity” means processes or capabilities wherein systems,
+9 communications, and information are protected and defended against damage,
+10 unauthorized use or modification, and exploitation.
+11 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+12 as follows:
+13 Article – Health – General
+14 19–113.
+15 (F) THE COMMISSION, IN CONSULTATION WITH THE DEPARTMENT OF
+16 INFORMATION TECHNOLOGY, SHALL ADOPT REGULATIONS TO IMPLEMENT
+17 CYBERSECURITY STANDARDS AND PROCEDURES TO:
+18 (1) PREVENT DISRUPTIONS TO THE HEALTHCARE ECOSYSTEM;
+19 (2) ENABLE THE DELIVERY OF ESSENTIAL CAPABILITIES BY THE
+20 HEALTHCARE ECOSYSTEM; AND
+21 (3) SUPPORT RECOVERY FROM AN INCIDENT THAT DISRUPTS THE
+22 HEALTHCARE ECOSYSTEM.
+23 (G) THE COMMISSION, IN CONJUNCTION WITH THE MARYLAND
+24 DEPARTMENT OF EMERGENCY MANAGEMENT, THE DEPARTMENT OF
+25 INFORMATION TECHNOLOGY, AND THE MARYLAND INSURANCE ADMINISTRATION,
+26 SHALL REGULARLY CONVENE A STAKEHOLDER WORKGROUP TO REVIEW
+27 CYBERSECURITY PRACTICES, THREATS, RESPONSES TO DISRUPTIONS, AND
+28 EMERGING ISSUES AFFECTING THE HEALTHCARE ECOSYSTEM.
+29 Article – Insurance
+30 2–117.
+
+SENATE BILL 691 13
+1 (F) THE ADMINISTRATION, IN CONSULTATION WITH THE DEPARTMENT OF
+2 INFORMATION TECHNOLOGY, SHALL ADOPT REGULATIONS TO IMPLEMENT
+3 CYBERSECURITY STANDARDS AND PROCEDURES TO:
+4 (1) PREVENT DISRUPTIONS TO THE HEALTHCARE ECOSYSTEM;
+5 (2) ENABLE THE DELIVERY OF ESSENTIAL CAPABILITIES BY THE
+6 HEALTHCARE ECOSYSTEM; AND
+7 (3) SUPPORT RECOVERY FROM AN INCIDENT THAT DISRUPTS THE
+8 HEALTHCARE ECOSYSTEM.
+9 SECTION 3. AND BE IT FURTHER ENACTED, That:
+10 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+11 That:
+12 (a) (1) In this section the following words have the meanings indicated.
+13 (2) “Cybersecurity” has the meaning stated in § 3.5–301 of the State
+14 Finance and Procurement Article.
+15 (3) “Essential capabilities” means the services that must be available in
+16 the healthcare ecosystem to ensure the continuity of critical care and patient safety,
+17 including during an incident diminishing the capacity of the healthcare ecosystem.
+18 (4) “Healthcare ecosystem” means the entities and relationships among
+19 entities that are necessary to deliver treatment, payment, and health care operations.
+20 (5) (i) “Healthcare ecosystem entity” includes:
+21 1. a carrier, as defined in § 2–117 of the Insurance Article;
+22 2. an electronic data interchange clearinghouse;
+23 3. a freestanding medical facility, as defined in § 19–3A–01
+24 of the Health – General Article;
+25 4. a health information exchange, as defined in § 4–301 of the
+26 Health – General Article;
+27 5. a hospital, as defined in § 19–301 of the Health – General
+28 Article; and
+29 6. a pharmacy benefits manager, as defined in § 15–1601 of
+30 the Insurance Article.
+
+14 SENATE BILL 691
+1 (ii) “Healthcare ecosystem entity” does not include a governmental
+2 payor.
+3 (6) “Health care operations” has the meaning stated in 45 C.F.R. § 164.501.
+4 (7) “Payment” has the meaning stated in 45 C.F.R. § 164.501.
+5 (8) “Treatment” has the meaning stated in 45 C.F.R. § 164.501.
+6 (9) “Workgroup” means the Healthcare Ecosystem Stakeholder
+7 Cybersecurity Workgroup.
+8 (b) (1) The Maryland Health Care Commission shall convene a healthcare
+9 ecosystem stakeholder workgroup to study and make recommendations to improve the
+10 cybersecurity of the healthcare ecosystem in the State There is a Healthcare Ecosystem
+11 Stakeholder Cybersecurity Workgroup.
+12 (2) The purpose of the Workgroup is to develop strategies to:
+13 (i) prevent cybersecurity disruptions to healthcare ecosystem
+14 operations;
+15 (ii) ensure the continuous delivery of essential healthcare ecosystem
+16 services; and
+17 (iii) enhance recovery efforts of the healthcare ecosystem following a
+18 cybersecurity incident.
+19 (c) The Workgroup consists of the following members:
+20 (1) one member of the Senate of Maryland, appointed by the President of
+21 the Senate;
+22 (2) one member of the House of Delegates, appointed by the Speaker of the
+23 House;
+24 (3) the Chairman of the Maryland Health Care Commission, or the
+25 Chairman’s designee;
+26 (4) the Maryland Insurance Commissioner, or the Commissioner’s
+27 designee;
+28 (5) the Secretary of Emergency Management, or the Secretary’s designee;
+29 (6) the State Chief Information Security Officer, or the State Chief Officer’s
+30 designee;
+
+SENATE BILL 691 15
+1 (7) two representatives from the Subcommittee on Critical Infrastructure
+2 of the Maryland Cybersecurity Council, appointed by the Chair of the Maryland
+3 Cybersecurity Council;
+4 (8) one representative from each of the following organizations, designated
+5 by the head of the organization:
+6 (i) one representative of the Cooperative Exchange;
+7 (ii) one representative of the Electronic Health Record Association;
+8 (iii) one representative of the Maryland League of Life and Health
+9 Insurers;
+10 (iv) one representative of the Maryland Hospital Association; and
+11 (v) one representative of the Maryland Cybersecurity Association;
+12 (9) one representative of a pharmacy benefits manager, appointed by the
+13 Maryland Insurance Commissioner;
+14 (10) the following representatives appointed by the Chairman of the
+15 Maryland Health Care Commission:
+16 (i) one representative of an electronic data interchange
+17 clearinghouse;
+18 (ii) one representative of a freestanding medical facility;
+19 (iii) one representative of a large hospital;
+20 (iv) one representative of a small hospital;
+21 (v) one representative of an inpatient psychiatric hospital; and
+22 (vi) one representative of a health information exchange; and
+23 (11) three representatives of a patient advocacy group, jointly appointed by
+24 the Chairman of the Maryland Health Care Commission and the Maryland Insurance
+25 Commissioner.
+26 (d) The Chairman of the Maryland Health Care Commission, or the Chairman’s
+27 designee, and the Maryland Insurance Commissioner, or the Commissioner’s designee,
+28 shall cochair the Workgroup.
+
+16 SENATE BILL 691
+1 (e) The Maryland Health Care Commission and the Maryland Insurance
+2 Administration shall provide staff for the Workgroup.
+3 (f) A member of the Workgroup:
+4 (1) may not receive compensation as a member of the Workgroup; but
+5 (2) is entitled to reimbursement for expenses under the Standard State
+6 Travel Regulations, as provided in the State budget.
+7 (g) The workgroup Workgroup shall:
+8 (1) identify essential capabilities required for the delivery of health care
+9 during a cybersecurity attack;
+10 (2) identify functional requirements for the healthcare ecosystem to be
+11 capable of providing the essential capabilities identified under item (1) of this subsection;
+12 (3) identify and map all healthcare ecosystem entities in the State against
+13 the essential health care capabilities and identified functional requirements;
+14 (4) identify which healthcare ecosystem entities are needed, directly or
+15 indirectly, to provide the essential capabilities identified under item (1) of this subsection;
+16 (5) identify other issues related to cybersecurity in the healthcare
+17 ecosystem develop an ecosystem cybersecurity threat and risk assessment based on the
+18 essential health care capabilities and supporting functions;
+19 (6) examine cybersecurity challenges affecting the healthcare ecosystem
+20 based on the threat and risk assessment;
+21 (6) (7) review best practices for cybersecurity and processes used in the
+22 healthcare ecosystem, including NIST 800–207, NIST 800–207A, NIST 800–53A, the NIST
+23 Cybersecurity Framework, HICP Technical Volume 1, and HICP Technical Volume 2; and
+24 (7) provide guidance for the Maryland Health Care Commission and the
+25 Maryland Insurance Administration regarding the adoption and maintenance of
+26 cybersecurity regulatory standards.
+27 (8) make recommendations for adopting and maintaining cybersecurity
+28 regulatory standards; and
+29 (9) make recommendations for ensuring that essential capabilities and
+30 supporting functions are resilient to disruption.
+31 (d) (h) (1) On or before July January 1, 2026, the Maryland Health Care
+32 Commission Workgroup shall submit an interim report defining the scope and contents of
+
+SENATE BILL 691 17
+1 the State’s healthcare ecosystem of its findings and recommendations to the Governor, the
+2 Secretary of Emergency Management, the Chairman of the Maryland Health Care
+3 Commission, the Maryland Insurance Commissioner, the State Chief Information Security
+4 Officer, and, in accordance with § 2–1257 of the State Government Article, the General
+5 Assembly.
+6 (2) On or before July December 1, 2028 2026, the Maryland Health Care
+7 Commission Workgroup shall submit a final report of the findings and recommendations of
+8 the workgroup to the Governor, the Secretary of Emergency Management, the Chairman
+9 of the Maryland Health Care Commission, the Maryland Insurance Commissioner, the
+10 State Chief Information Security Officer, and, in accordance with §
+11 2–1257 of the State Government Article, the General Assembly.
+12 SECTION 4. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
+13 effect July 1, 2028.
+14 SECTION 5. 2. AND BE IT FURTHER ENACTED, That, except as provided in
+15 Section 4 of this Act, this Act shall take effect July 1, 2025. Section 3 of this Act It shall
+16 remain effective for a period of 4 2 years and, at the end of June 30, 2029 2027, Section 3 of
+17 this Act, with no further action required by the General Assembly, shall be abrogated and
+18 of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5   C A C F I A t i a c e a s t p c o o r s u a t c a o a c b a r c i t t S S O C i t D o I T r t C t n c a o a c i r u t A r t C t c a w t r c p t r t i c S d h e s a e r e o t h e f a c i a g r t t H B  A]
+[DELETED:  S  S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  ( B  A S  A  (  (]
+[DELETED: S 3  S T A 1  I   ) ( N     “C”§3Y  M   O T I R RFPA     “ES  I T H E T E T C O  C A P SY I D A I      “H EM M T E A T      () “H”EY        E D IE       AY 11 E       AE 41        A,§11L           A E I B T O I     ) “H”IEY ]
+[DELETED:  S       A,§2CR A D I   O TA RE        A,R 1IA N R     “Z–”OTT     ) FO O C R P     ) IA O T P T T I N G   ) TH O S I O I S A L O     A O T I O O T C P O S     COS W T F O E A ON      RC T O O A WP TE   OD   ) A      O    A– A ZOT C A FNPDB–     MC O C W T F O E AT F ESM   L O S R F E DE I S R S  ]
+[DELETED: S 5    OJ1,2, O B A   A E  Y     ) UN A TDP A T E TYS C P A R B O T ISA’C– A N E GYS RSE P E O  A N T EYS RIST’F      ) SCIU O      T      T       C F U TY           ) OJ1,2,2N U     R  S C C O A H E YS C W T S U I T A C  S C O T S F CYR))    ) OJ1,2,2N A      O T H NSC OO’ F FRS     G O O C T A TE       ) HO    ) FIR    ) EIL    ) HVES ]
+[DELETED:  S     ) AN O E T O C     I A E C C     ) TH    ) TIH D O T H E EY     ) IH C F U I TY      ) VH N O T T P T C TT      O O E C P B      E C D A F A D T T M       T I C F T   N  A 1  ( I  ( “  ( “   ) ( ND     “C”R ]
+[DELETED: S 7    ) A    ) IA    ) IA    ) VAN     )A O E P A P O HE S   F A CCA     “ES  I T H E T E T C O  C A P SY I D A I      “H EM M T E A T      () “H”EY       R       ,R 1     ) “HIEY R     “Z–”OTT     ) F O C R P     )IB O T P T T I N G   ) TH D S I O I A O ]
+[DELETED:  S      T O O M T I O T C P O H E S     OS W T F O E A ON      A T D O A WP TE   DD   ) A     D    – A ZOT C A FNPDB–      ACC,O A ON  F E T F E O T A I  S      J1,2, O B A   A E  Y     ) U A TDP A T E TYS C P A R B O T ISA’C– A N E GYS RSE P E O  A N T EYS RIST’F      ) IS T T D A R T                   C F U TY  ]
+[DELETED: S 9        ) OJ1,2,2N U     R  YS C W T S U I T A C  S C O T S F CYR))    ) OJ1,2,2N A      D S S A R T T T HS SOO’ E F FRS     G O O C T A TE       ) I    ) IN    ) IH    ) VD    ) PS     )IA O E P A P O HE S   F A CCA      A E C C     ) T    ) ITYS     )IT C F U I TY  ]
+[DELETED:  S     )VT N O T T P T C TT     O O E C P B T     E C D A F A D T T M      T I C F T   N  A 3  ( I  ( “ 3  ( I  ( “  ( “   ) ( N     “H EM M T E A T T ,     “H”Y     ) A    ) IA]
+[DELETED: S 1    ) IA    ) VA    ) A    ) IAE     ) IA O E I B T ACCMI A O A N D     ) ()A H E E S RT I   N T  Y OT T ES  CD E E     )TO,M FE  A ECMIA O A T A N DN S  A P F A H E E T R   I U P  O T S)       T C F D T C      ITD       IT T P W W A C     )TSSO T E P E I T       () OJ1,2N U  ER B F S R T T OR T OL AD IG,C,     T O RE  E27SGA,  O T N O C I A T O  I R U P  O T  ]
+[DELETED:  S     ) I R S I A W I O T P M N I A H  E T R A I T T F O    ER  3  ( I  ( “ m p o c w s c a i a p a d a d u  S a A 1  ) TC,H ON I C W T E OT EY S A R T I      P     T D O E C B TM       R F A I T D T   ) TC,H ON I C W T AEM, O M AT T E O T,MIA EY  A N D  R C A S W T R  PS TS R T DS A, M  A 2]
+[DELETED: S 1  ) TA,H DN  ET EY S A R T I          T D O E C B TM      R F A I T D T   S  S T  ( ( I   ( “ h t m s i § 3 o t S F   ( “ t h e t e t c o c c a p s i   ( “ e m t e a r a e   ( ( “     1 a     2 a     3 a o     4 a H     5 a A     6 a t]
+[DELETED:  S     ( “ p   ( “   ( “   ( “   ( “ m t H E S C  ( ( T M H C C s c a h e s w t s a m r t i t c S   ( T    ( p c d t h e o    ( e s    ( e c  ( T   ( o t   ( o H   ( t C o t M H C C o t C   ( t M I C o t C d   ( t   ( t d]
+[DELETED: S 1   ( t o t M C C a b t C o t M C   ( o b    ( o    ( o    ( o I    ( o    ( o   ( o M   ( t f r a b t C o t M    ( o r o a e d i c    ( o    ( o    ( o    ( o    ( o   ( t t C o t M H C C a t M I C  ( T d a t M I C o t C d s]
+[DELETED:  S   ( T M H C C a t M I A  ( A   ( m   ( i T  ( T   ( i d   ( i f r f t h e t b c   ( i t   ( i w h e e a n d o i   ( i o i r t c i t h e e   ( e b   ( b p f c a p u i t h C   ( p M I A r t a a m o c   ( m r f a a m c r   ( m r f e t e c a s  ( O o b J J 1 2 t M H C C]
+[DELETED: S 1 t S o E M t C o t M H C C O A   ( O C t o S C I S O a i a w § 2  S e  S 5 2 A B I F E T e a p i S r t o          G               ]

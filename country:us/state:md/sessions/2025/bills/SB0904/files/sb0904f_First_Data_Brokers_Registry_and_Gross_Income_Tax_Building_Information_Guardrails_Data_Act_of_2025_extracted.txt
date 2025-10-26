@@ -1,0 +1,1324 @@
+Title: SENATE BILL 904
+Official Title: SENATE BILL 904
+Number of Sections: 1
+Source: versions - First - Data Brokers - Registry and Gross Income Tax (Building Information Guardrails Data Act of 2025)
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+Q7, C2 5lr2194
+CF 5lr2196
+By: Senators Hester, Ferguson, Love, Gile, Jackson, and Rosapepe
+Introduced and read first time: January 28, 2025
+Assigned to: Budget and Taxation and Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Data Brokers – Registry and Gross Income Tax
+3 (Building Information Guardrails Data Act of 2025)
+4 FOR the purpose of establishing the Privacy Protection and Enforcement Unit within the
+5 Division of Consumer Protection in the Office of the Attorney General; establishing
+6 a data broker registry; requiring certain data brokers to register each year with the
+7 Comptroller; imposing a tax on the gross income of certain data brokers; and
+8 generally relating to data brokers.
+9 BY renumbering
+10 Article – Tax – General
+11 Section 2–4A–01 and 2–4A–02 and the subtitle “Subtitle 4A. Digital Advertising
+12 Gross Revenues Tax Revenue Distribution”
+13 to be Section 2–4B–01 and 2–4B–02, respectively, and the subtitle “Subtitle 4B.
+14 Digital Advertising Gross Revenues Tax Revenue Distribution”
+15 Annotated Code of Maryland
+16 (2022 Replacement Volume and 2024 Supplement)
+17 BY repealing and reenacting, without amendments,
+18 Article – Commercial Law
+19 Section 13–101(a) and (e)
+20 Annotated Code of Maryland
+21 (2013 Replacement Volume and 2024 Supplement)
+22 BY adding to
+23 Article – Commercial Law
+24 Section 13–204.1
+25 Annotated Code of Maryland
+26 (2013 Replacement Volume and 2024 Supplement)
+27 BY repealing and reenacting, without amendments,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0904*
+2 SENATE BILL 904
+1 Article – Education
+2 Section 7–447.1(p)(2)
+3 Annotated Code of Maryland
+4 (2022 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, with amendments,
+6 Article – Education
+7 Section 7–447.1(p)(6)
+8 Annotated Code of Maryland
+9 (2022 Replacement Volume and 2024 Supplement)
+10 BY adding to
+11 Article – Education
+12 Section 24–204(e)
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – State Finance and Procurement
+17 Section 3.5–309(a)
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – State Finance and Procurement
+22 Section 3.5–309(e)
+23 Annotated Code of Maryland
+24 (2021 Replacement Volume and 2024 Supplement)
+25 BY repealing and reenacting, without amendments,
+26 Article – Tax – General
+27 Section 1–101(a) and 13–508(b)
+28 Annotated Code of Maryland
+29 (2022 Replacement Volume and 2024 Supplement)
+30 BY adding to
+31 Article – Tax – General
+32 Section 1–101(f–1); 2–4A–01 and 2–4A–02 to be under the new subtitle “Subtitle 4A.
+33 Data Broker Gross Income Tax Revenue Distribution”; 7.3–101 through
+34 7.3–501 to be under the new title “Title 7.3. Data Broker Registry and Gross
+35 Income Tax”; and 13–402(a)(7) and 13–1001(h)
+36 Annotated Code of Maryland
+37 (2022 Replacement Volume and 2024 Supplement)
+38 BY repealing and reenacting, with amendments,
+39 Article – Tax – General
+SENATE BILL 904 3
+1 Section 2–102(a), 13–201(4), 13–402(a)(5) and (6), 13–508(a) and (c), 13–509,
+2 13–1002(b) and (c), and 13–1101(b) and (c)
+3 Annotated Code of Maryland
+4 (2022 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, with amendments,
+6 Article – Commercial Law
+7 Section 13–204.1(c)(1)
+8 Annotated Code of Maryland
+9 (2013 Replacement Volume and 2024 Supplement)
+10 (As enacted by Section 2 of this Act)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That Section(s) 2–4A–01 and 2–4A–02 and the subtitle “Subtitle 4A. Digital Advertising
+13 Gross Revenues Tax Revenue Distribution” of Article – Tax – General of the Annotated
+14 Code of Maryland be renumbered to be Section(s) 2–4B–01 and 2–4B–02, respectively, and
+15 the subtitle “Subtitle 4B. Digital Advertising Gross Revenues Tax Revenue Distribution”.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+17 as follows:
+18 Article – Commercial Law
+19 13–101.
+20 (a) In this title the following words have the meanings indicated.
+21 (e) “Division” means the Division of Consumer Protection of the Office of the
+22 Attorney General.
+23 13–204.1.
+24 (A) THERE IS A PRIVACY PROTECTION AND ENFORCEMENT UNIT IN THE
+25 DIVISION.
+26 (B) THE PURPOSE OF THE UNIT IS TO PROTECT THE PRIVACY AND ONLINE
+27 SECURITY OF INDIVIDUALS’ PERSONAL INFORMATION AND THE INDIVIDUALS’
+28 DIGITAL RIGHTS AND TO PROTECT THE PUBLIC FROM UNFAIR, ABUSIVE, OR
+29 DECEPTIVE PRACTICES INVOLVING ARTIFICIAL INTELLIGENCE, CYBERSECURITY,
+30 AND OTHER ONLINE OR DIGITAL PRIVACY ISSUES.
+31 (C) THE UNIT SHALL:
+32 (1) ENFORCE:
+4 SENATE BILL 904
+1 (I) THE MARYLAND AGE–APPROPRIATE DESIGN CODE ACT;
+2 AND
+3 (II) ANY STATE OR FEDERAL LAWS INVOLVING TECHNOLOGY,
+4 ONLINE SERVICES AND PRODUCTS, CYBERSECURITY, ARTIFICIAL INTELLIGENCE,
+5 AND DIGITAL PRIVACY;
+6 (2) EMPOWER AND EDUCATE STATE CONSUMERS WITH
+7 INFORMATION ON THEIR RIGHTS AND STRATEGIES FOR PROTECTING THE
+8 CONSUMER’S PRIVACY, ONLINE SAFETY, AND SECURITY AGAINST RISKS ASSOCIATED
+9 WITH ARTIFICIAL INTELLIGENCE, CYBERSECURITY BREACHES, AND OTHER DIGITAL
+10 THREATS; AND
+11 (3) ASSIST, ADVISE, AND COOPERATE WITH LOCAL, STATE, AND
+12 FEDERAL AGENCIES AND OFFICIALS TO PROTECT AND PROMOTE THE INTERESTS OF
+13 CONSUMERS IN THE STATE REGARDING PRIVACY–RELATED ISSUES,
+14 CYBERSECURITY RISKS, ARTIFICIAL INTELLIGENCE, AND UNLAWFUL ONLINE
+15 CONDUCT OR PRACTICES.
+16 (D) (1) THE REVENUES FROM THE DATA BROKER GROSS INCOME TAX
+17 SHALL BE DISTRIBUTED TO A SPECIAL FUND TO BE USED ONLY FOR THE PURPOSES
+18 OF THE UNIT.
+19 (2) THE FUND IS A CONTINUING, NONLAPSING SPECIAL FUND THAT IS
+20 NOT SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+21 Article – Education
+22 7–447.1.
+23 (p) (2) There is a Coordinated Community Supports Partnership Fund.
+24 (6) The Fund consists of:
+25 (i) Money appropriated in the State budget to the Fund;
+26 (ii) REVENUE DISTRIBUTED TO THE FUND UNDER § 2–4A–02 OF
+27 THE TAX – GENERAL ARTICLE;
+28 (III) Interest earnings; and
+29 [(iii)] (IV) Any other money from any other source accepted for the
+30 benefit of the Fund.
+SENATE BILL 904 5
+1 24–204.
+2 (E) (1) THE REVENUES FROM THE DATA BROKER GROSS INCOME TAX
+3 SHALL BE DISTRIBUTED TO A SPECIAL FUND, TO BE USED ONLY BY MARYLAND
+4 PUBLIC TELEVISION TO PROVIDE DIGITAL LITERACY SUPPORT TO STUDENTS IN
+5 KINDERGARTEN THROUGH 12TH GRADE.
+6 (2) THE FUND IS A CONTINUING, NONLAPSING SPECIAL FUND THAT IS
+7 NOT SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+8 Article – State Finance and Procurement
+9 3.5–309.
+10 (a) There is an Information Technology Investment Fund.
+11 (e) Except as provided in subsection (f) of this section, the Fund consists of:
+12 (1) money appropriated in the State budget to the Fund;
+13 (2) as approved by the Secretary, money received from:
+14 (i) the sale, lease, or exchange of communication sites,
+15 communication facilities, or communication frequencies for information technology
+16 purposes; or
+17 (ii) an information technology agreement involving resource
+18 sharing;
+19 (3) that portion of money earned from pay phone commissions to the extent
+20 that the commission rates exceed those in effect in December 1993;
+21 (4) money received and accepted as contributions, grants, or gifts as
+22 authorized under subsection (c) of this section;
+23 (5) general funds appropriated for major information technology
+24 development projects of any unit of State government other than a public institution of
+25 higher education that:
+26 (i) are unencumbered and unexpended at the end of a fiscal year;
+27 (ii) have been abandoned; or
+28 (iii) have been withheld by the General Assembly or the Secretary;
+6 SENATE BILL 904
+1 (6) REVENUE DISTRIBUTED TO THE FUND UNDER § 2–4A–02 OF THE
+2 TAX – GENERAL ARTICLE;
+3 (7) any investment earnings; and
+4 [(7)] (8) any other money from any source accepted for the benefit of the
+5 Fund.
+6 Article – Tax – General
+7 1–101.
+8 (a) In this article the following words have the meanings indicated.
+9 (F–1) “DATA BROKER GROSS INCOME TAX” MEANS THE TAX IMPOSED UNDER
+10 TITLE 7.3 OF THIS ARTICLE.
+11 2–102.
+12 (a) In addition to the duties set forth elsewhere in this article and in other articles
+13 of the Code, the Comptroller shall administer the laws that relate to:
+14 (1) the admissions and amusement tax;
+15 (2) the boxing and wrestling tax;
+16 (3) THE DATA BROKER GROSS INCOME TAX;
+17 (4) the digital advertising gross revenues tax;
+18 [(4)] (5) the income tax;
+19 [(5)] (6) the Maryland estate tax;
+20 [(6)] (7) the Maryland generation–skipping transfer tax;
+21 [(7)] (8) the motor carrier tax;
+22 [(8)] (9) the motor fuel tax;
+23 [(9)] (10) the sales and use tax; and
+24 [(10)] (11) the savings and loan association franchise tax.
+25 SUBTITLE 4A. DATA BROKER GROSS INCOME TAX REVENUE DISTRIBUTION.
+SENATE BILL 904 7
+1 2–4A–01.
+2 FROM THE DATA BROKER GROSS INCOME TAX REVENUE, THE COMPTROLLER
+3 SHALL DISTRIBUTE THE AMOUNT NECESSARY TO ADMINISTER THE DATA BROKER
+4 GROSS INCOME TAX LAWS TO AN ADMINISTRATIVE COST ACCOUNT.
+5 2–4A–02.
+6 (A) AFTER MAKING THE DISTRIBUTION UNDER § 2–4A–01 OF THIS
+7 SUBTITLE, OF THE REMAINING DATA BROKER GROSS INCOME TAX REVENUE THE
+8 COMPTROLLER SHALL DISTRIBUTE:
+9 (1) THE GREATER OF 0.75% OR $2,500,000 TO THE SPECIAL FUND
+10 ESTABLISHED UNDER § 13–204.1 OF THE COMMERCIAL LAW ARTICLE FOR THE USE
+11 OF THE PRIVACY PROTECTION AND ENFORCEMENT UNIT IN THE DIVISION OF
+12 CONSUMER PROTECTION OF THE OFFICE OF THE ATTORNEY GENERAL;
+13 (2) THE GREATER OF 0.75% OR $2,500,000 TO THE INFORMATION
+14 TECHNOLOGY INVESTMENT FUND ESTABLISHED UNDER § 3.5–309 OF THE STATE
+15 FINANCE AND PROCUREMENT ARTICLE FOR EXPEDITED PROJECTS RELATED TO
+16 ARTIFICIAL INTELLIGENCE;
+17 (3) THE GREATER OF 0.75% OR $2,500,000 TO THE SPECIAL FUND
+18 ESTABLISHED UNDER § 24–204 OF THE EDUCATION ARTICLE FOR THE USE OF
+19 MARYLAND PUBLIC TELEVISION TO PROVIDE DIGITAL LITERACY SUPPORT TO
+20 STUDENTS IN KINDERGARTEN THROUGH 12TH GRADE; AND
+21 (4) THE GREATER OF 35% OR $120,000,000 TO THE COORDINATED
+22 COMMUNITY SUPPORTS PARTNERSHIP FUND ESTABLISHED UNDER § 7–447.1 OF
+23 THE EDUCATION ARTICLE.
+24 (B) AFTER MAKING THE DISTRIBUTIONS REQUIRED UNDER § 2–4A–01 OF
+25 THIS SUBTITLE AND SUBSECTION (A) OF THIS SECTION, THE COMPTROLLER SHALL
+26 DISTRIBUTE THE REMAINING DATA BROKER GROSS INCOME TAX REVENUE TO THE
+27 BLUEPRINT FOR MARYLAND’S FUTURE FUND ESTABLISHED UNDER § 5–206 OF THE
+28 EDUCATION ARTICLE.
+29 TITLE 7.3. DATA BROKER REGISTRY AND GROSS INCOME TAX.
+30 SUBTITLE 1. DEFINITIONS.
+31 7.3–101.
+8 SENATE BILL 904
+1 (A) IN THIS TITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (B) “APPORTIONABLE INCOME” MEANS GROSS INCOME OF A DATA BROKER
+4 GENERATED FROM ENGAGING IN DATA BROKERING, INCLUDING INCOME RECEIVED
+5 FROM DATA BROKERING PERFORMED OUTSIDE THE STATE IF THE INCOME WOULD
+6 BE TAXABLE UNDER THIS TITLE IF RECEIVED FROM DATA BROKERING IN THE
+7 STATE.
+8 (C) (1) “BIOMETRIC INFORMATION” MEANS A RECORD OF ONE OR MORE
+9 MEASURABLE BIOLOGICAL OR BEHAVIORAL CHARACTERISTICS THAT CAN BE USED
+10 ALONE OR IN COMBINATION WITH EACH OTHER OR WITH OTHER INFORMATION FOR
+11 AUTOMATED RECOGNITION OF A KNOWN OR UNKNOWN INDIVIDUAL.
+12 (2) “BIOMETRIC INFORMATION” INCLUDES:
+13 (I) FINGERPRINTS;
+14 (II) RETINA AND IRIS PATTERNS;
+15 (III) VOICEPRINTS;
+16 (IV) DNA SEQUENCE;
+17 (V) FACIAL CHARACTERISTICS;
+18 (VI) GAIT;
+19 (VII) HANDWRITING;
+20 (VIII) KEYSTROKE DYNAMICS; AND
+21 (IX) MOUSE MOVEMENTS.
+22 (3) “BIOMETRIC INFORMATION” DOES NOT INCLUDE:
+23 (I) WRITING SAMPLES;
+24 (II) WRITTEN SIGNATURES;
+25 (III) HUMAN BIOLOGICAL SAMPLES USED FOR VALID SCIENTIFIC
+26 TESTING OR SCREENING;
+SENATE BILL 904 9
+1 (IV) DEMOGRAPHIC DATA;
+2 (V) TATTOO DESCRIPTIONS;
+3 (VI) PHYSICAL DESCRIPTIONS, SUCH AS HEIGHT, WEIGHT, HAIR
+4 COLOR, OR EYE COLOR; OR
+5 (VII) DONATED ORGANS, TISSUES, OR PARTS, OR BLOOD OR
+6 SERUM STORED ON BEHALF OF RECIPIENTS OR POTENTIAL RECIPIENTS OF LIVING
+7 OR CADAVERIC TRANSPLANTS AND OBTAINED OR STORED BY A FEDERALLY
+8 DESIGNATED ORGAN PROCUREMENT AGENCY.
+9 (D) “BROKERED PERSONAL DATA” MEANS ANY OF THE FOLLOWING
+10 COMPUTERIZED DATA ELEMENTS ABOUT A RESIDENT INDIVIDUAL, IF CATEGORIZED
+11 OR ORGANIZED FOR SALE OR LICENSING TO ANOTHER ENTITY:
+12 (1) THE RESIDENT INDIVIDUAL’S NAME OR THE NAME OF A MEMBER
+13 OF THE RESIDENT INDIVIDUAL’S IMMEDIATE FAMILY OR HOUSEHOLD;
+14 (2) THE RESIDENT INDIVIDUAL’S ADDRESS OR AN ADDRESS FOR A
+15 MEMBER OF THE RESIDENT INDIVIDUAL’S IMMEDIATE FAMILY OR HOUSEHOLD;
+16 (3) THE RESIDENT INDIVIDUAL’S DATE OF BIRTH OR PLACE OF BIRTH;
+17 (4) THE MAIDEN NAME OF THE RESIDENT INDIVIDUAL’S MOTHER;
+18 (5) BIOMETRIC INFORMATION ABOUT THE RESIDENT INDIVIDUAL;
+19 (6) PERSONAL DATA ABOUT THE RESIDENT INDIVIDUAL;
+20 (7) THE RESIDENT INDIVIDUAL’S SOCIAL SECURITY NUMBER OR THE
+21 NUMBER OF ANY OTHER GOVERNMENT–ISSUED IDENTIFICATION FOR THE
+22 RESIDENT INDIVIDUAL; OR
+23 (8) OTHER INFORMATION THAT, ALONE OR IN COMBINATION WITH
+24 OTHER INFORMATION THAT IS SOLD OR LICENSED, CAN REASONABLY BE
+25 ASSOCIATED WITH THE RESIDENT INDIVIDUAL.
+26 (E) (1) “BUSINESS ENTITY” MEANS:
+27 (I) A RESIDENT INDIVIDUAL WHO REGULARLY ENGAGES IN
+28 COMMERCIAL ACTIVITY FOR THE PURPOSE OF GENERATING INCOME;
+10 SENATE BILL 904
+1 (II) A CORPORATION OR NONPROFIT CORPORATION, LIMITED
+2 LIABILITY COMPANY, PARTNERSHIP OR LIMITED LIABILITY PARTNERSHIP,
+3 BUSINESS TRUST, JOINT VENTURE, OR ANY OTHER FORM OF BUSINESS
+4 ORGANIZATION THE CONSTITUENT PARTS OF WHICH SHARE A COMMON ECONOMIC
+5 INTEREST; OR
+6 (III) AN INDIVIDUAL THAT CONTROLS, IS CONTROLLED BY, OR IS
+7 UNDER COMMON CONTROL WITH A PERSON DESCRIBED IN ITEM (I) OR (II) OF THIS
+8 PARAGRAPH.
+9 (2) “BUSINESS ENTITY” DOES NOT INCLUDE THE STATE OR A UNIT OF
+10 THE STATE, A LOCAL GOVERNMENT, OR A BUSINESS ENTITY OR OTHER PERSON
+11 DURING A PERIOD IN WHICH THE BUSINESS ENTITY OR PERSON IS ACTING SOLELY
+12 ON BEHALF OF AND AT THE DIRECTION OF THE STATE, A UNIT OF THE STATE, OR A
+13 LOCAL GOVERNMENT.
+14 (F) (1) “DATA BROKER” MEANS ANY BUSINESS ENTITY THAT ENGAGES IN
+15 DATA BROKERING.
+16 (2) “DATA BROKER” DOES NOT INCLUDE:
+17 (I) A CONSUMER REPORTING AGENCY, AS DEFINED IN 15
+18 U.S.C. § 1681A, A PERSON THAT FURNISHES INFORMATION TO A CONSUMER
+19 REPORTING AGENCY, AS PROVIDED IN 15 U.S.C. § 1681S–2, OR A USER OF A
+20 CONSUMER REPORT, AS DEFINED IN 15 U.S.C. § 1681A, TO THE EXTENT THAT THE
+21 CONSUMER REPORTING AGENCY, THE PERSON THAT FURNISHES INFORMATION TO
+22 A CONSUMER REPORTING AGENCY, OR THE USER OF A CONSUMER REPORT ENGAGES
+23 IN ACTIVITIES THAT ARE SUBJECT TO REGULATION UNDER THE FEDERAL FAIR
+24 CREDIT REPORTING ACT, 15 U.S.C. § 1681; AND
+25 (II) A FINANCIAL INSTITUTION, AN AFFILIATE, OR A
+26 NONAFFILIATED THIRD PARTY, AS THOSE TERMS ARE DEFINED IN 15 U.S.C. § 6809,
+27 TO THE EXTENT THAT THE FINANCIAL INSTITUTION, AFFILIATE, OR NONAFFILIATED
+28 THIRD PARTY IS SUBJECT TO REGULATION UNDER TITLE V OF THE
+29 GRAMM–LEACH–BLILEY ACT, 15 U.S.C. §§ 6801 THROUGH 6809 AND REGULATIONS
+30 ADOPTED UNDER TITLE V OF THE GRAMM–LEACH–BLILEY ACT.
+31 (G) “DATA BROKERING” MEANS THE ACT OF COLLECTING, AGGREGATING,
+32 ANALYZING, BUYING, SELLING, AND SHARING BROKERED PERSONAL DATA.
+33 (H) “DE–IDENTIFIED DATA” MEANS DATA THAT CANNOT REASONABLY BE
+34 USED TO INFER INFORMATION ABOUT OR OTHERWISE BE LINKED TO AN IDENTIFIED
+SENATE BILL 904 11
+1 OR IDENTIFIABLE INDIVIDUAL OR A DEVICE LINKED TO THAT INDIVIDUAL,
+2 PROVIDED THAT THE PERSON IN CONTROL OF THE DATA:
+3 (1) TAKES REASONABLE MEASURES TO ENSURE THAT THE DATA
+4 CANNOT BE ASSOCIATED WITH A NATURAL PERSON;
+5 (2) PUBLICLY COMMITS TO MAINTAIN AND USE THE DATA ONLY IN A
+6 DE–IDENTIFIED FASHION AND NOT ATTEMPT TO RE–IDENTIFY THE DATA; AND
+7 (3) CONTRACTUALLY OBLIGATES ANY RECIPIENTS OF THE
+8 INFORMATION TO COMPLY WITH ALL PROVISIONS OF THIS SUBSECTION.
+9 (I) “GROSS INCOME” MEANS THE VALUE PROCEEDING OR ACCRUING BY
+10 REASON OF COLLECTING, AGGREGATING, ANALYZING, BUYING, SELLING, AND
+11 SHARING BROKERED PERSONAL DATA WITHOUT ANY DEDUCTION ON ACCOUNT OF
+12 THE COST OF TANGIBLE PROPERTY SOLD, THE COST OF MATERIALS USED, LABOR
+13 COSTS, INTEREST, DISCOUNT, DELIVERY COSTS, TAXES, OR ANY OTHER EXPENSE
+14 PAID OR ACCRUED AND WITHOUT ANY DEDUCTION ON ACCOUNT OF LOSSES.
+15 (J) (1) “PERSONAL DATA” MEANS ANY INFORMATION THAT IS LINKED OR
+16 REASONABLY LINKED TO AN IDENTIFIED OR IDENTIFIABLE NATURAL PERSON.
+17 (2) “PERSONAL DATA” DOES NOT INCLUDE DE–IDENTIFIED DATA OR
+18 PUBLICLY AVAILABLE INFORMATION.
+19 (K) “RESIDENT INDIVIDUAL” MEANS A PERSON WHO RESIDES IN THE
+20 STATE.
+21 SUBTITLE 2. DATA BROKER REGISTRY.
+22 7.3–201.
+23 (A) EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, A DATA
+24 BROKER SHALL REGISTER WITH THE COMPTROLLER AS PROVIDED IN § 7.3–202 OF
+25 THIS SUBTITLE.
+26 (B) A DATA BROKER IS NOT REQUIRED TO REGISTER WITH THE
+27 COMPTROLLER IF THE BROKERED PERSONAL DATA INVOLVES ANY OF THE
+28 FOLLOWING:
+29 (1) PROVIDING PUBLICLY AVAILABLE INFORMATION THAT IS
+30 RELATED TO A RESIDENT INDIVIDUAL’S BUSINESS OR PROFESSION;
+12 SENATE BILL 904
+1 (2) PROVIDING PUBLICLY AVAILABLE INFORMATION AS PART OF A
+2 SERVICE THAT PROVIDES ALERTS FOR HEALTH OR SAFETY PURPOSES;
+3 (3) PROVIDING DIRECTORY ASSISTANCE OR DIRECTORY
+4 INFORMATION SERVICES AS OR ON BEHALF OF A TELECOMMUNICATIONS CARRIER;
+5 OR
+6 (4) SELLING THE ASSETS OF A BUSINESS ENTITY OR A PART OF A
+7 BUSINESS ENTITY A SINGLE TIME OR ONLY OCCASIONALLY AS PART OF A TRANSFER
+8 OF CONTROL OVER THE ASSETS THAT IS NOT PART OF THE ORDINARY CONDUCT OF
+9 THE BUSINESS ENTITY OR A PART OF THE BUSINESS ENTITY.
+10 7.3–202.
+11 (A) (1) ON OR BEFORE JANUARY 31 EACH YEAR, FOLLOWING A YEAR IN
+12 WHICH A BUSINESS ENTITY MEETS THE DEFINITION OF A DATA BROKER, A DATA
+13 BROKER SHALL:
+14 (I) SUBMIT ON A FORM AND IN A FORMAT THE COMPTROLLER
+15 SPECIFIES:
+16 1. THE NAME OF THE DATA BROKER;
+17 2. THE STREET ADDRESS AND TELEPHONE NUMBER OF
+18 THE DATA BROKER; AND
+19 3. THE DATA BROKER’S PRIMARY WEBSITE AND E–MAIL
+20 ADDRESS;
+21 (II) PAY A FEE IN AN AMOUNT THAT THE COMPTROLLER
+22 DETERMINES; AND
+23 (III) INCLUDE WITH THE REGISTRATION FORM A DECLARATION
+24 IN WHICH THE DATA BROKER:
+25 1. STATES WHETHER A RESIDENT INDIVIDUAL’S
+26 PRECISE GEOLOCATION INFORMATION IS A PART OF THE DATA BROKER’S DATA
+27 BROKERING ACTIVITY;
+28 2. STATES WHETHER RESIDENT INDIVIDUALS’
+29 CONSUMER HEALTH DATA IS A PART OF THE DATA BROKER’S DATA BROKERING
+30 ACTIVITY;
+SENATE BILL 904 13
+1 3. STATES WHETHER RESIDENT INDIVIDUALS MAY OPT
+2 OUT OF ALL OR A PORTION OF THE DATA BROKER’S USE OF THEIR BROKERED
+3 PERSONAL DATA;
+4 4. A. IDENTIFIES WHICH OF THE DATA BROKER’S
+5 ACTIVITIES A RESIDENT INDIVIDUAL MAY OPT OUT OF; AND
+6 B. IDENTIFIES WHICH PORTION OF THE RESIDENT
+7 INDIVIDUAL’S BROKERED PERSONAL DATA THE RESIDENT INDIVIDUAL MAY OPT
+8 OUT FROM PROVIDING OR PERMITTING THE DATA BROKER TO USE;
+9 5. DESCRIBES THE METHOD BY WHICH A RESIDENT
+10 INDIVIDUAL MAY EXERCISE THE CHOICES DESCRIBED IN ITEMS 3 AND 4 OF THIS
+11 ITEM; AND
+12 6. STATES WHETHER A RESIDENT INDIVIDUAL MAY
+13 AUTHORIZE AN INDIVIDUAL TO EXERCISE THE OPTIONS DESCRIBED IN ITEMS 3 AND
+14 4 OF THIS ITEM ON THE RESIDENT INDIVIDUAL’S BEHALF AND IF SO, THE
+15 APPROPRIATE PROCESS FOR THE AUTHORIZATION.
+16 (2) (I) THE COMPTROLLER SHALL ESTABLISH THE FEE REQUIRED
+17 UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION IN AN AMOUNT THAT IS SUFFICIENT
+18 TO PAY THE COSTS OF ADMINISTERING THE REGISTRATION PROGRAM ESTABLISHED
+19 UNDER THIS SUBTITLE.
+20 (II) THE FEES COLLECTED UNDER THIS SUBSECTION SHALL BE
+21 DEPOSITED IN THE GENERAL FUND.
+22 (B) (1) IF A DATA BROKER COMPLIES WITH THE REQUIREMENTS OF THIS
+23 SECTION, THE COMPTROLLER SHALL APPROVE THE REGISTRATION.
+24 (2) A REGISTRATION UNDER THIS SECTION IS VALID UNTIL
+25 DECEMBER 31 OF THE YEAR IN WHICH THE COMPTROLLER APPROVES THE
+26 REGISTRATION.
+27 7.3–203.
+28 (A) THE COMPTROLLER SHALL MAKE THE INFORMATION THAT BUSINESS
+29 ENTITIES SUBMIT FOR REGISTRATION UNDER THIS SUBTITLE PUBLICLY AVAILABLE
+30 ON THE COMPTROLLER’S WEBSITE.
+31 (B) ON OR BEFORE DECEMBER 31, 2026, AND EACH DECEMBER 31
+32 THEREAFTER, THE COMPTROLLER SHALL REPORT TO THE GOVERNOR AND, IN
+14 SENATE BILL 904
+1 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, TO THE
+2 GENERAL ASSEMBLY ON THE FOLLOWING:
+3 (1) HOW MANY BUSINESS ENTITIES REGISTERED WITH THE
+4 COMPTROLLER AS DATA BROKERS IN THAT YEAR;
+5 (2) THE FEE THE COMPTROLLER CHARGED FOR REGISTRATION PER
+6 DATA BROKER AND THE TOTAL REVENUE COLLECTED;
+7 (3) HOW MANY BUSINESS ENTITIES WERE FINED FOR
+8 NONCOMPLIANCE WITH THIS SUBTITLE; AND
+9 (4) ANY OTHER INFORMATION THE COMPTROLLER DETERMINES IS
+10 RELEVANT.
+11 SUBTITLE 3. DATA BROKER GROSS INCOME TAX.
+12 7.3–301.
+13 A TAX IS IMPOSED ON THE ANNUAL GROSS INCOME OF A DATA BROKER.
+14 7.3–302.
+15 THE DATA BROKERING TAX RATE IS 6% OF THE GROSS INCOME OF A DATA
+16 BROKER APPORTIONED UNDER § 7.3–303 OF THIS SUBTITLE.
+17 7.3–303.
+18 (A) THE APPORTIONABLE INCOME OF A DATA BROKER IS APPORTIONED TO
+19 THE STATE BY MULTIPLYING ITS APPORTIONABLE INCOME BY THE RECEIPTS
+20 FACTOR DETERMINED UNDER SUBSECTION (B) OF THIS SUBSECTION.
+21 (B) (1) THE NUMERATOR OF THE RECEIPTS FACTOR IS THE TOTAL GROSS
+22 INCOME OF THE DATA BROKER ATTRIBUTABLE TO THE STATE DURING THE TAXABLE
+23 YEAR FROM ENGAGING IN DATA BROKERING DURING THE TAXABLE YEAR.
+24 (2) THE DENOMINATOR OF THE RECEIPTS FACTOR IS THE TOTAL
+25 GROSS INCOME OF THE DATA BROKER FROM ENGAGING IN DATA BROKERING
+26 EVERYWHERE IN THE WORLD DURING THE TAXABLE YEAR.
+27 (C) (1) (I) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+28 SUBSECTION AND SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, FOR
+29 PURPOSES OF COMPUTING THE RECEIPTS FACTOR UNDER SUBSECTION (B) OF THIS
+SENATE BILL 904 15
+1 SECTION, GROSS INCOME OF A DATA BROKER GENERATING SALES OR EXCHANGE
+2 FOR CONSIDERATION OF PERSONAL DATA IS ATTRIBUTABLE TO THE STATE IN THE
+3 RATIO, EXPRESSED AS A PERCENTAGE, THAT THE NUMBER OF MARYLAND
+4 ADDRESSES IN THE PERSONAL DATA BEARS TO ALL ADDRESSES IN THE PERSONAL
+5 DATA.
+6 (II) ONLY PERSONAL DATA USED TO GENERATE THE GROSS
+7 INCOME OF THE BUSINESS TO BE ATTRIBUTED UNDER THIS SUBSECTION IS
+8 APPLICABLE IN CALCULATING THE RATIO DESCRIBED UNDER SUBPARAGRAPH (I)
+9 OF THIS PARAGRAPH.
+10 (2) IF THE DATA BROKER IS UNABLE TO ATTRIBUTE GROSS INCOME
+11 UNDER PARAGRAPH (1) OF THIS SUBSECTION, GROSS INCOME OF THE DATA BROKER
+12 GENERATED FROM MAKING SALES, OR EXCHANGING FOR CONSIDERATION, OF
+13 PERSONAL DATA IS ATTRIBUTED TO THE STATE:
+14 (I) IN THE RATIO, EXPRESSED AS A PERCENTAGE, OF THE
+15 POPULATION OF THE STATE TO ALL THE STATES OF THE UNITED STATES IN THE
+16 DATA BROKERS’ MARKET; OR
+17 (II) BY ANY OTHER REASONABLE METHODS OF ATTRIBUTION
+18 ALLOWED BY THE COMPTROLLER.
+19 (D) (1) (I) A DATA BROKER MAY CALCULATE THE RECEIPTS FACTOR
+20 FOR THE CURRENT TAXABLE YEAR BASED ON THE MOST RECENT CALENDAR YEAR
+21 FOR WHICH INFORMATION IS AVAILABLE FOR THE FULL CALENDAR YEAR.
+22 (II) IF A DATA BROKER DOES NOT CALCULATE THE RECEIPTS
+23 FACTOR FOR THE CURRENT TAXABLE YEAR BASED ON PREVIOUS CALENDAR YEAR
+24 INFORMATION, THE DATA BROKER SHALL USE THE CURRENT YEAR INFORMATION
+25 TO CALCULATE THE RECEIPTS FACTOR FOR THE CURRENT TAXABLE YEAR.
+26 (2) A DATA BROKER SHALL CORRECT THE REPORTING FOR THE
+27 CURRENT TAXABLE YEAR WHEN COMPLETE INFORMATION IS AVAILABLE TO
+28 CALCULATE THE RECEIPTS FACTOR FOR THAT YEAR, BUT NOT LATER THAN
+29 OCTOBER 31 OF THE FOLLOWING TAXABLE YEAR.
+30 SUBTITLE 4. RETURNS.
+31 7.3–401.
+16 SENATE BILL 904
+1 (A) EACH DATA BROKER THAT, IN A CALENDAR YEAR, HAS GROSS INCOME
+2 DERIVED FROM DATA BROKERING SHALL COMPLETE, UNDER OATH, AND FILE WITH
+3 THE COMPTROLLER A RETURN ON OR BEFORE APRIL 15 THE NEXT YEAR.
+4 (B) A PERSON REQUIRED TO FILE A RETURN UNDER THIS SECTION SHALL
+5 FILE WITH THE RETURN AN ATTACHMENT THAT STATES ANY INFORMATION THAT
+6 THE COMPTROLLER REQUIRES.
+7 7.3–402.
+8 A PERSON REQUIRED TO FILE A RETURN UNDER § 7.3–401 OF THIS SUBTITLE
+9 SHALL MAINTAIN RECORDS OF DATA BROKERING AND THE BASIS FOR THE
+10 CALCULATION OF THE DATA BROKERING GROSS INCOME TAX OWED.
+11 SUBTITLE 5. TAX PAYMENT.
+12 7.3–501.
+13 EACH PERSON REQUIRED TO FILE A RETURN UNDER § 7.3–401 OF THIS TITLE
+14 SHALL PAY THE DATA BROKER GROSS INCOME TAX WITH THE RETURN THAT COVERS
+15 THE PERIOD FOR WHICH THE TAX IS DUE.
+16 13–201.
+17 In this subtitle, “tax information” means:
+18 (4) any information contained in:
+19 (i) an admissions and amusement tax return;
+20 (ii) an alcoholic beverage tax return;
+21 (iii) a bay restoration fee return;
+22 (iv) a boxing and wrestling tax return;
+23 (v) A DATA BROKER GROSS INCOME TAX RETURN;
+24 (VI) a digital advertising gross revenues tax return;
+25 [(vi)] (VII) an E–9–1–1 fee return;
+26 [(vii)] (VIII) a financial institution franchise tax return;
+27 [(viii)] (IX) an inheritance tax return;
+SENATE BILL 904 17
+1 [(ix)] (X) a Maryland estate tax return;
+2 [(x)] (XI) a motor carrier tax return;
+3 [(xi)] (XII) a motor fuel tax return;
+4 [(xii)] (XIII) an other tobacco products tax return;
+5 [(xiii)] (XIV) a public service company franchise tax return;
+6 [(xiv)] (XV) a sales and use tax return;
+7 [(xv)] (XVI) a savings and loan association franchise tax return;
+8 [(xvi)] (XVII) a tire recycling fee return;
+9 [(xvii)] (XVIII) a tobacco tax return; or
+10 [(xviii)] (XIX) a transportation services assessment return.
+11 13–402.
+12 (a) If a notice and demand for a return is made under § 13–303 of this title and
+13 the person or governmental unit fails to file the return, the tax collector shall:
+14 (5) for public service company franchise tax:
+15 (i) estimate gross receipts from the best information in the
+16 possession of the tax collector; and
+17 (ii) assess the tax due on the estimated gross receipts; [and]
+18 (6) for digital advertising gross revenues tax:
+19 (i) estimate gross revenues from the best information in possession
+20 of the tax collector; and
+21 (ii) assess the tax due on the estimated assessable base; AND
+22 (7) FOR DATA BROKER GROSS INCOME TAX:
+23 (I) ESTIMATE THE GROSS INCOME FROM THE BEST
+24 INFORMATION IN POSSESSION OF THE TAX COLLECTOR; AND
+18 SENATE BILL 904
+1 (II) ASSESS THE TAX DUE ON THE ESTIMATED ASSESSABLE
+2 BASE.
+3 13–508.
+4 (a) Within 30 days after the date on which a notice of assessment of the
+5 admissions and amusement tax, alcoholic beverage tax, boxing and wrestling tax, DATA
+6 BROKER GROSS INCOME TAX, income tax, motor carrier tax, motor fuel tax, public service
+7 company franchise tax, financial institution franchise tax, sales and use tax, or tobacco tax
+8 is mailed, a person or governmental unit against which the assessment is made may submit
+9 to the tax collector:
+10 (1) an application for revision of the assessment; or
+11 (2) except for the public service company franchise tax, if the assessment
+12 is paid, a claim for refund.
+13 (b) If a person or governmental unit fails to submit an application for revision or
+14 claim for refund within the time allowed in subsection (a) of this section, the assessment
+15 becomes final.
+16 (c) The Comptroller or an employee of the Comptroller’s office expressly
+17 designated by the Comptroller promptly:
+18 (1) (i) shall hold an informal hearing on a person’s or governmental
+19 unit’s admissions and amusement tax, alcoholic beverage tax, boxing and wrestling tax,
+20 DATA BROKER GROSS INCOME TAX, income tax, motor carrier tax, motor fuel tax, sales
+21 and use tax, or tobacco tax application for revision or claim for refund under subsection (a)
+22 of this section; and
+23 (ii) after the hearing:
+24 1. shall act on the application for revision; and
+25 2. may assess any additional tax, penalty, and interest due;
+26 and
+27 (2) shall mail to the person or governmental unit a notice of final
+28 determination.
+29 13–509.
+30 (a) Notwithstanding a person’s failure to file a timely application for revision or
+31 claim for refund of an assessment of the admissions and amusement tax, alcoholic beverage
+32 tax, boxing and wrestling tax, DATA BROKER GROSS INCOME TAX, income tax, motor
+33 carrier tax, motor fuel tax, sales and use tax, or tobacco tax under § 13–508(a) of this
+SENATE BILL 904 19
+1 subtitle, the Comptroller or the Comptroller’s designee may issue an order decreasing or
+2 abating an assessment to correct an erroneous assessment.
+3 (b) If action is taken under subsection (a) of this section, the order shall state
+4 clearly the reasons for decreasing or abating the assessment.
+5 (c) Any order issued by the Comptroller under subsection (a) of this section shall
+6 be final and not subject to appeal.
+7 (d) The Comptroller’s refusal to enter an order under subsection (a) of this section
+8 shall be final and not subject to appeal.
+9 13–1001.
+10 (H) A PERSON WHO IS REQUIRED TO FILE A DATA BROKER GROSS INCOME
+11 TAX RETURN AND WHO WILLFULLY FAILS TO FILE THE RETURN AS REQUIRED UNDER
+12 TITLE 7.3 OF THIS ARTICLE IS GUILTY OF A MISDEMEANOR AND ON CONVICTION IS
+13 SUBJECT TO A FINE NOT EXCEEDING $5,000 OR IMPRISONMENT NOT EXCEEDING 5
+14 YEARS OR BOTH.
+15 13–1002.
+16 (b) A person, including an officer of a corporation, who willfully files A FALSE
+17 DATA BROKER GROSS INCOME TAX RETURN, a false digital advertising gross revenues
+18 tax return, a false financial institution franchise tax return, a false public service company
+19 franchise tax return, or a false income tax return with the intent to evade the payment of
+20 tax due under this article is guilty of perjury and, on conviction, is subject to the penalty
+21 for perjury.
+22 (c) Subsections (a) and (b) of this section apply to the alcoholic beverage, DATA
+23 BROKER GROSS INCOME, digital advertising gross revenues, financial institution
+24 franchise, public service company franchise, and income taxes.
+25 13–1101.
+26 (b) An assessment of digital advertising gross revenues tax, financial institution
+27 franchise tax, public service company franchise tax, income tax, or estate tax may be made
+28 at any time if:
+29 (1) a false return is filed with the intent to evade the tax;
+30 (2) a willful attempt is made to evade the tax;
+31 (3) a return is not filed as required under Title 7, TITLE 7.3, Title 7.5, Title
+32 8, or Title 10 of this article;
+20 SENATE BILL 904
+1 (4) an amended estate tax return is not filed as required under Title 7 of
+2 this article;
+3 (5) an incomplete return is filed; or
+4 (6) a report of federal adjustment is not filed within the period required
+5 under § 13–409 of this title.
+6 (c) If a report of federal adjustment is filed within the time required under §
+7 13–409 of this title, the tax collector shall assess the DATA BROKER GROSS INCOME TAX,
+8 digital advertising gross revenues tax, financial institution franchise tax, public service
+9 company franchise tax, income tax, or estate tax within 1 year after the date on which the
+10 tax collector receives the report.
+11 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+12 as follows:
+13 Article – Commercial Law
+14 13–204.1.
+15 (c) The Unit shall:
+16 (1) Enforce:
+17 (i) The Maryland Age–Appropriate Design Code Act;
+18 (II) THE ONLINE DATA PRIVACY ACT; and
+19 [(ii)] (III) Any State or federal laws involving technology, online
+20 services and products, cybersecurity, artificial intelligence, and digital privacy;
+21 SECTION 4. AND BE IT FURTHER ENACTED, That the data broker gross income
+22 tax enacted under Section 2 of this Act shall be applicable to all taxable years beginning on
+23 or after December 31, 2026.
+24 SECTION 5. AND BE IT FURTHER ENACTED, That Section 3 of this Act shall take
+25 effect October 1, 2025, the effective date of Chapters 454 and 455 of the Acts of the General
+26 Assembly of 2024. If the effective date of Chapters 454 and 455 is amended, Section 3 of
+27 this Act shall take effect on the taking effect of Chapters 454 and 455.
+28 SECTION 6. AND BE IT FURTHER ENACTED, That, except as provided in Section
+29 5 of this Act, this Act shall take effect July 1, 2025.
+[DELETED: :CA      5   C A D ( F D a C i a t o t g i o c d b a g B  A S G t b S 2 a 2 r a t s “ 4 D  A  ( B  A S  A  ( B  A S  A  ( B]
+[DELETED:  S   A  S  A  ( B  A  S  A  ( B  A  S  A  ( B  A  S  A  ( B  A  S  A  ( B  A S  A  ( B  A S D B G I T R D 7 t 7 I  A  ( B  A]
+[DELETED: S 3 S 2 1 1 a ( 1 a ( 1 1  A  ( B  A S  A  (  (  S T G C t  S a A 1  ( I  ( “ m t D o C P o t O o t A() TPPEH R R N N.() TH N O IS P I A T IS R A T P T P F UR AE O P I A IE CY() TU:H N ( E:]
+[DELETED:  S   () TMA–ADCAH A GEP E O CT  () ASIN TY S A PS CY A IE, ( E A E T C W O T R A S F P TRSY Y ,E S S  ( A,,,ST AE A C W LL TE A I T T R PYR IS– RS A IE A U O() ( H R F T D B G I T N. ( TG     T I R R72SFPA. A 7  ( ( T   ( T    ( M    (F§2 U    A  E R–GA;  () I    () A](I b]
+[DELETED: S 5 2 ) ( H R F T D B G I T B D T A S FD T B U O B A E T P D L S T S I T2. ( TG     T I R R72SFPA. A 3 ( T  ( E   ( m   ( a    ( t s l o e o c s c f o c f f i t p    ( a i t a i r s   ( t t   ( m r a a a c g o g a a   ( g f a f m i t d h    ( a    ( h    ( h]
+[DELETED:  S    ( U   §2–GA;  E R   a   () a]( F A 1  ( I –DAX 73.   2  ( I o   ( t   ( t   (   t   () t](   () t](   () t](   () t](   () t](   () t](   () t](4.DBGITRD.  A R R N A E I]
+[DELETED: S 7F,E  O() A§2F M T D U   O TE : ( 0%$ G O  O  T T S    O A R11CL T R R A N N I T I OPEUPOAG; R F T E ( 0%$0 G O  O  T T NIF§39 N U    TP R R ( 0%$ G O  O  T T S U   O T D R F T U O24EP U E T P D L S T TE 2; ( 3%$0     OSPF§7 U A U    D RA.() A§2F    A N  O),M’FF§5 ADS U U   A. R7.DBRGIT.  A R E R N A1.D.  E]
+[DELETED:  S () N T T T F W H T M() “APE G  T T U T T I R F D B I T.() ( “BIN  ( “B”:N   () ;F  () ;IR  () ;IV  () DA;V   () ;F  () ;IG  () ;IH  () ;IKS   () .XM ( “B”:N   () ;W  () ;IW  ()IH]
+[DELETED: S 9  () ;VD  () ;T  () ,,IPS T T R R ;  () ,,ID OS TS O PS O B O C T A O O S B A F() “BR P DA M A O T FL  ( LSLS; (  R ILS A O A A F ALS; ( ’;LS ( ’;LS ( ; ( ; ( ’SLS O E O A O GTI I F TL  (  I TT A O I C W I T I S O LD C R B() ( “B”:UY   ()A R I W R E I]
+[DELETED:  S   () IA C O N CN L CY P O L L PP TT J VE O A O F O BT   () ,IAS Y  I  II )( ( “B”Y  T TE A L GT O A B E O O P, TE  TE ,S() ( “DAR  ( “D”:R   () ,1A C R AY A D I .§11 A A P T F I T A C AY A P I    S O A U O A15U.§11–T     A 15U.§11Y Y  A T A S T R U T F ARA,15U.§1; E CT       () ,IA F IN A AE O AY     15U.§6N E  P I S T R U I  O TV–L–BA,15U.§§616MEHL CT        I   RMEHL CVG–L–BA.() “D”,AG G GG G G ,,.() “D–EIA ]
+[DELETED: S 1 I I O A D L T T IL ( R M T E T T D (EIEIA –; ( O A R O T() “GR IE M V P O B O CG AG AG BG SG A,,,D D S T T S S ,,,() ( “PEA  ( “P”A EI() “RE IL M A P W R I T.2.DBR.  A R E() E()X S B ON A D O   §7()  D B I N R T R W T I T B P D I A O T ( P A I T ILS;]
+[DELETED:  S  ( P A I A P O A ( D A O DR ( T A O A B E O A P O A() ( OJ31N A  R R   () S O   1 ;   2R    3 ’RSEM  () IP A F I A A T T OS   ()II   1  W A R ILS G I I A P O T D BRS D   2  W R IS H D I A P O T D BRS D B]
+[DELETED: S 1   3 O A O A P O T D BRS U O T B   4 A  W O T D BRSF    B W P O T RLS B P D T R I M O   5 T M B W A R    M    6 W A R I M  ’O T I O T R ILS B A I SO T ( () TH O II (  () IH E UF.() ( FN  ONC. ( R U T S I V U31  O T Y I W T O A T() TH O ORS’.() OD3,2,D3N O B E   A E E R T O S R T T O AD ICG]
+[DELETED:  S  W   O T T O RE T T27SGAA: S (H M B E R W T; (  O ( M B E W F FE  (  O3.DBGIT.  A R R N AA.T6     73.() H T B M I A I B T R B ).() ( H T (  D O T R F I T T I O T D B F E I D B() ( () E(IX A P I P  O T A S T S II O T PH F) B ]
+[DELETED: S 1N  TO E A A PE T T N O A,  () IN P D U T G T G O T B T B A U T S I I (   N ) F M SS O E F CN O T:  () ,I T RO E A A PE O T T N TUS T ;  ()IB A O R M O A O.() ( () I   () IFN  ( D B S C T R F T T Y W C I I A T T R F F T YR B N L T31   4.R.  E]
+[DELETED:  S () E,AT R E H  O P  A15.()   O.A§7    M R O D B A T B F T5.TP.  A AE§7    1  I   ( a    ( a    ( a    ( a    ( a    (    a)    () a](V    () ](V    () a](I]
+[DELETED: S 1    () a](    () a](X    () a](X    () ](X    () ](X    () a](X    () a](X    ()a]()X    () a](X    () a](X 1  ( I t   ( f    ( e g r f t b i i t p    ( a a]   ( f    ( e o    ( a ( :  ()E T G I F T BR ]
+[DELETED:  S   ()IA T T D O T E A . 1  ( W 3 d a t d o w a n o a o t a   c i t   ( a   ( e i  ( I c b  ( T C o a e o t C o e d   ( ( s uX i a o    ( a     1 s     2 m a   ( s m t t p o g u a n o f d 1  ( N c t iX c]
+[DELETED: S 1 s a  ( I c  ( A b  ( T s 1 )  7     0 1  ( A   t f t f  ( S G I  d a g r f i f 1  ( A f a   ( a   ( a   ( a  7 8]
+[DELETED:  S    ( a t   ( a   ( a u  ( I 1  d c t  S a A 1  ( T   ( E    ( T    a) TODPAIH N A R CT    () A S o f l i t o](I s  S t o  S e A t  S 5]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 904
+Q7, C2 5lr2194
+CF 5lr2196
+By: Senators Hester, Ferguson, Love, Gile, Jackson, and Rosapepe
+Introduced and read first time: January 28, 2025
+Assigned to: Budget and Taxation and Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Data Brokers – Registry and Gross Income Tax
+3 (Building Information Guardrails Data Act of 2025)
+4 FOR the purpose of establishing the Privacy Protection and Enforcement Unit within the
+5 Division of Consumer Protection in the Office of the Attorney General; establishing
+6 a data broker registry; requiring certain data brokers to register each year with the
+7 Comptroller; imposing a tax on the gross income of certain data brokers; and
+8 generally relating to data brokers.
+9 BY renumbering
+10 Article – Tax – General
+11 Section 2–4A–01 and 2–4A–02 and the subtitle “Subtitle 4A. Digital Advertising
+12 Gross Revenues Tax Revenue Distribution”
+13 to be Section 2–4B–01 and 2–4B–02, respectively, and the subtitle “Subtitle 4B.
+14 Digital Advertising Gross Revenues Tax Revenue Distribution”
+15 Annotated Code of Maryland
+16 (2022 Replacement Volume and 2024 Supplement)
+17 BY repealing and reenacting, without amendments,
+18 Article – Commercial Law
+19 Section 13–101(a) and (e)
+20 Annotated Code of Maryland
+21 (2013 Replacement Volume and 2024 Supplement)
+22 BY adding to
+23 Article – Commercial Law
+24 Section 13–204.1
+25 Annotated Code of Maryland
+26 (2013 Replacement Volume and 2024 Supplement)
+27 BY repealing and reenacting, without amendments,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0904*
+
+2 SENATE BILL 904
+1 Article – Education
+2 Section 7–447.1(p)(2)
+3 Annotated Code of Maryland
+4 (2022 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, with amendments,
+6 Article – Education
+7 Section 7–447.1(p)(6)
+8 Annotated Code of Maryland
+9 (2022 Replacement Volume and 2024 Supplement)
+10 BY adding to
+11 Article – Education
+12 Section 24–204(e)
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – State Finance and Procurement
+17 Section 3.5–309(a)
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – State Finance and Procurement
+22 Section 3.5–309(e)
+23 Annotated Code of Maryland
+24 (2021 Replacement Volume and 2024 Supplement)
+25 BY repealing and reenacting, without amendments,
+26 Article – Tax – General
+27 Section 1–101(a) and 13–508(b)
+28 Annotated Code of Maryland
+29 (2022 Replacement Volume and 2024 Supplement)
+30 BY adding to
+31 Article – Tax – General
+32 Section 1–101(f–1); 2–4A–01 and 2–4A–02 to be under the new subtitle “Subtitle 4A.
+33 Data Broker Gross Income Tax Revenue Distribution”; 7.3–101 through
+34 7.3–501 to be under the new title “Title 7.3. Data Broker Registry and Gross
+35 Income Tax”; and 13–402(a)(7) and 13–1001(h)
+36 Annotated Code of Maryland
+37 (2022 Replacement Volume and 2024 Supplement)
+38 BY repealing and reenacting, with amendments,
+39 Article – Tax – General
+
+SENATE BILL 904 3
+1 Section 2–102(a), 13–201(4), 13–402(a)(5) and (6), 13–508(a) and (c), 13–509,
+2 13–1002(b) and (c), and 13–1101(b) and (c)
+3 Annotated Code of Maryland
+4 (2022 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, with amendments,
+6 Article – Commercial Law
+7 Section 13–204.1(c)(1)
+8 Annotated Code of Maryland
+9 (2013 Replacement Volume and 2024 Supplement)
+10 (As enacted by Section 2 of this Act)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That Section(s) 2–4A–01 and 2–4A–02 and the subtitle “Subtitle 4A. Digital Advertising
+13 Gross Revenues Tax Revenue Distribution” of Article – Tax – General of the Annotated
+14 Code of Maryland be renumbered to be Section(s) 2–4B–01 and 2–4B–02, respectively, and
+15 the subtitle “Subtitle 4B. Digital Advertising Gross Revenues Tax Revenue Distribution”.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+17 as follows:
+18 Article – Commercial Law
+19 13–101.
+20 (a) In this title the following words have the meanings indicated.
+21 (e) “Division” means the Division of Consumer Protection of the Office of the
+22 Attorney General.
+23 13–204.1.
+24 (A) THERE IS A PRIVACY PROTECTION AND ENFORCEMENT UNIT IN THE
+25 DIVISION.
+26 (B) THE PURPOSE OF THE UNIT IS TO PROTECT THE PRIVACY AND ONLINE
+27 SECURITY OF INDIVIDUALS’ PERSONAL INFORMATION AND THE INDIVIDUALS’
+28 DIGITAL RIGHTS AND TO PROTECT THE PUBLIC FROM UNFAIR, ABUSIVE, OR
+29 DECEPTIVE PRACTICES INVOLVING ARTIFICIAL INTELLIGENCE, CYBERSECURITY,
+30 AND OTHER ONLINE OR DIGITAL PRIVACY ISSUES.
+31 (C) THE UNIT SHALL:
+32 (1) ENFORCE:
+
+4 SENATE BILL 904
+1 (I) THE MARYLAND AGE–APPROPRIATE DESIGN CODE ACT;
+2 AND
+3 (II) ANY STATE OR FEDERAL LAWS INVOLVING TECHNOLOGY,
+4 ONLINE SERVICES AND PRODUCTS, CYBERSECURITY, ARTIFICIAL INTELLIGENCE,
+5 AND DIGITAL PRIVACY;
+6 (2) EMPOWER AND EDUCATE STATE CONSUMERS WITH
+7 INFORMATION ON THEIR RIGHTS AND STRATEGIES FOR PROTECTING THE
+8 CONSUMER’S PRIVACY, ONLINE SAFETY, AND SECURITY AGAINST RISKS ASSOCIATED
+9 WITH ARTIFICIAL INTELLIGENCE, CYBERSECURITY BREACHES, AND OTHER DIGITAL
+10 THREATS; AND
+11 (3) ASSIST, ADVISE, AND COOPERATE WITH LOCAL, STATE, AND
+12 FEDERAL AGENCIES AND OFFICIALS TO PROTECT AND PROMOTE THE INTERESTS OF
+13 CONSUMERS IN THE STATE REGARDING PRIVACY–RELATED ISSUES,
+14 CYBERSECURITY RISKS, ARTIFICIAL INTELLIGENCE, AND UNLAWFUL ONLINE
+15 CONDUCT OR PRACTICES.
+16 (D) (1) THE REVENUES FROM THE DATA BROKER GROSS INCOME TAX
+17 SHALL BE DISTRIBUTED TO A SPECIAL FUND TO BE USED ONLY FOR THE PURPOSES
+18 OF THE UNIT.
+19 (2) THE FUND IS A CONTINUING, NONLAPSING SPECIAL FUND THAT IS
+20 NOT SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+21 Article – Education
+22 7–447.1.
+23 (p) (2) There is a Coordinated Community Supports Partnership Fund.
+24 (6) The Fund consists of:
+25 (i) Money appropriated in the State budget to the Fund;
+26 (ii) REVENUE DISTRIBUTED TO THE FUND UNDER § 2–4A–02 OF
+27 THE TAX – GENERAL ARTICLE;
+28 (III) Interest earnings; and
+29 [(iii)] (IV) Any other money from any other source accepted for the
+30 benefit of the Fund.
+
+SENATE BILL 904 5
+1 24–204.
+2 (E) (1) THE REVENUES FROM THE DATA BROKER GROSS INCOME TAX
+3 SHALL BE DISTRIBUTED TO A SPECIAL FUND, TO BE USED ONLY BY MARYLAND
+4 PUBLIC TELEVISION TO PROVIDE DIGITAL LITERACY SUPPORT TO STUDENTS IN
+5 KINDERGARTEN THROUGH 12TH GRADE.
+6 (2) THE FUND IS A CONTINUING, NONLAPSING SPECIAL FUND THAT IS
+7 NOT SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+8 Article – State Finance and Procurement
+9 3.5–309.
+10 (a) There is an Information Technology Investment Fund.
+11 (e) Except as provided in subsection (f) of this section, the Fund consists of:
+12 (1) money appropriated in the State budget to the Fund;
+13 (2) as approved by the Secretary, money received from:
+14 (i) the sale, lease, or exchange of communication sites,
+15 communication facilities, or communication frequencies for information technology
+16 purposes; or
+17 (ii) an information technology agreement involving resource
+18 sharing;
+19 (3) that portion of money earned from pay phone commissions to the extent
+20 that the commission rates exceed those in effect in December 1993;
+21 (4) money received and accepted as contributions, grants, or gifts as
+22 authorized under subsection (c) of this section;
+23 (5) general funds appropriated for major information technology
+24 development projects of any unit of State government other than a public institution of
+25 higher education that:
+26 (i) are unencumbered and unexpended at the end of a fiscal year;
+27 (ii) have been abandoned; or
+28 (iii) have been withheld by the General Assembly or the Secretary;
+
+6 SENATE BILL 904
+1 (6) REVENUE DISTRIBUTED TO THE FUND UNDER § 2–4A–02 OF THE
+2 TAX – GENERAL ARTICLE;
+3 (7) any investment earnings; and
+4 [(7)] (8) any other money from any source accepted for the benefit of the
+5 Fund.
+6 Article – Tax – General
+7 1–101.
+8 (a) In this article the following words have the meanings indicated.
+9 (F–1) “DATA BROKER GROSS INCOME TAX” MEANS THE TAX IMPOSED UNDER
+10 TITLE 7.3 OF THIS ARTICLE.
+11 2–102.
+12 (a) In addition to the duties set forth elsewhere in this article and in other articles
+13 of the Code, the Comptroller shall administer the laws that relate to:
+14 (1) the admissions and amusement tax;
+15 (2) the boxing and wrestling tax;
+16 (3) THE DATA BROKER GROSS INCOME TAX;
+17 (4) the digital advertising gross revenues tax;
+18 [(4)] (5) the income tax;
+19 [(5)] (6) the Maryland estate tax;
+20 [(6)] (7) the Maryland generation–skipping transfer tax;
+21 [(7)] (8) the motor carrier tax;
+22 [(8)] (9) the motor fuel tax;
+23 [(9)] (10) the sales and use tax; and
+24 [(10)] (11) the savings and loan association franchise tax.
+25 SUBTITLE 4A. DATA BROKER GROSS INCOME TAX REVENUE DISTRIBUTION.
+
+SENATE BILL 904 7
+1 2–4A–01.
+2 FROM THE DATA BROKER GROSS INCOME TAX REVENUE, THE COMPTROLLER
+3 SHALL DISTRIBUTE THE AMOUNT NECESSARY TO ADMINISTER THE DATA BROKER
+4 GROSS INCOME TAX LAWS TO AN ADMINISTRATIVE COST ACCOUNT.
+5 2–4A–02.
+6 (A) AFTER MAKING THE DISTRIBUTION UNDER § 2–4A–01 OF THIS
+7 SUBTITLE, OF THE REMAINING DATA BROKER GROSS INCOME TAX REVENUE THE
+8 COMPTROLLER SHALL DISTRIBUTE:
+9 (1) THE GREATER OF 0.75% OR $2,500,000 TO THE SPECIAL FUND
+10 ESTABLISHED UNDER § 13–204.1 OF THE COMMERCIAL LAW ARTICLE FOR THE USE
+11 OF THE PRIVACY PROTECTION AND ENFORCEMENT UNIT IN THE DIVISION OF
+12 CONSUMER PROTECTION OF THE OFFICE OF THE ATTORNEY GENERAL;
+13 (2) THE GREATER OF 0.75% OR $2,500,000 TO THE INFORMATION
+14 TECHNOLOGY INVESTMENT FUND ESTABLISHED UNDER § 3.5–309 OF THE STATE
+15 FINANCE AND PROCUREMENT ARTICLE FOR EXPEDITED PROJECTS RELATED TO
+16 ARTIFICIAL INTELLIGENCE;
+17 (3) THE GREATER OF 0.75% OR $2,500,000 TO THE SPECIAL FUND
+18 ESTABLISHED UNDER § 24–204 OF THE EDUCATION ARTICLE FOR THE USE OF
+19 MARYLAND PUBLIC TELEVISION TO PROVIDE DIGITAL LITERACY SUPPORT TO
+20 STUDENTS IN KINDERGARTEN THROUGH 12TH GRADE; AND
+21 (4) THE GREATER OF 35% OR $120,000,000 TO THE COORDINATED
+22 COMMUNITY SUPPORTS PARTNERSHIP FUND ESTABLISHED UNDER § 7–447.1 OF
+23 THE EDUCATION ARTICLE.
+24 (B) AFTER MAKING THE DISTRIBUTIONS REQUIRED UNDER § 2–4A–01 OF
+25 THIS SUBTITLE AND SUBSECTION (A) OF THIS SECTION, THE COMPTROLLER SHALL
+26 DISTRIBUTE THE REMAINING DATA BROKER GROSS INCOME TAX REVENUE TO THE
+27 BLUEPRINT FOR MARYLAND’S FUTURE FUND ESTABLISHED UNDER § 5–206 OF THE
+28 EDUCATION ARTICLE.
+29 TITLE 7.3. DATA BROKER REGISTRY AND GROSS INCOME TAX.
+30 SUBTITLE 1. DEFINITIONS.
+31 7.3–101.
+
+8 SENATE BILL 904
+1 (A) IN THIS TITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (B) “APPORTIONABLE INCOME” MEANS GROSS INCOME OF A DATA BROKER
+4 GENERATED FROM ENGAGING IN DATA BROKERING, INCLUDING INCOME RECEIVED
+5 FROM DATA BROKERING PERFORMED OUTSIDE THE STATE IF THE INCOME WOULD
+6 BE TAXABLE UNDER THIS TITLE IF RECEIVED FROM DATA BROKERING IN THE
+7 STATE.
+8 (C) (1) “BIOMETRIC INFORMATION” MEANS A RECORD OF ONE OR MORE
+9 MEASURABLE BIOLOGICAL OR BEHAVIORAL CHARACTERISTICS THAT CAN BE USED
+10 ALONE OR IN COMBINATION WITH EACH OTHER OR WITH OTHER INFORMATION FOR
+11 AUTOMATED RECOGNITION OF A KNOWN OR UNKNOWN INDIVIDUAL.
+12 (2) “BIOMETRIC INFORMATION” INCLUDES:
+13 (I) FINGERPRINTS;
+14 (II) RETINA AND IRIS PATTERNS;
+15 (III) VOICEPRINTS;
+16 (IV) DNA SEQUENCE;
+17 (V) FACIAL CHARACTERISTICS;
+18 (VI) GAIT;
+19 (VII) HANDWRITING;
+20 (VIII) KEYSTROKE DYNAMICS; AND
+21 (IX) MOUSE MOVEMENTS.
+22 (3) “BIOMETRIC INFORMATION” DOES NOT INCLUDE:
+23 (I) WRITING SAMPLES;
+24 (II) WRITTEN SIGNATURES;
+25 (III) HUMAN BIOLOGICAL SAMPLES USED FOR VALID SCIENTIFIC
+26 TESTING OR SCREENING;
+
+SENATE BILL 904 9
+1 (IV) DEMOGRAPHIC DATA;
+2 (V) TATTOO DESCRIPTIONS;
+3 (VI) PHYSICAL DESCRIPTIONS, SUCH AS HEIGHT, WEIGHT, HAIR
+4 COLOR, OR EYE COLOR; OR
+5 (VII) DONATED ORGANS, TISSUES, OR PARTS, OR BLOOD OR
+6 SERUM STORED ON BEHALF OF RECIPIENTS OR POTENTIAL RECIPIENTS OF LIVING
+7 OR CADAVERIC TRANSPLANTS AND OBTAINED OR STORED BY A FEDERALLY
+8 DESIGNATED ORGAN PROCUREMENT AGENCY.
+9 (D) “BROKERED PERSONAL DATA” MEANS ANY OF THE FOLLOWING
+10 COMPUTERIZED DATA ELEMENTS ABOUT A RESIDENT INDIVIDUAL, IF CATEGORIZED
+11 OR ORGANIZED FOR SALE OR LICENSING TO ANOTHER ENTITY:
+12 (1) THE RESIDENT INDIVIDUAL’S NAME OR THE NAME OF A MEMBER
+13 OF THE RESIDENT INDIVIDUAL’S IMMEDIATE FAMILY OR HOUSEHOLD;
+14 (2) THE RESIDENT INDIVIDUAL’S ADDRESS OR AN ADDRESS FOR A
+15 MEMBER OF THE RESIDENT INDIVIDUAL’S IMMEDIATE FAMILY OR HOUSEHOLD;
+16 (3) THE RESIDENT INDIVIDUAL’S DATE OF BIRTH OR PLACE OF BIRTH;
+17 (4) THE MAIDEN NAME OF THE RESIDENT INDIVIDUAL’S MOTHER;
+18 (5) BIOMETRIC INFORMATION ABOUT THE RESIDENT INDIVIDUAL;
+19 (6) PERSONAL DATA ABOUT THE RESIDENT INDIVIDUAL;
+20 (7) THE RESIDENT INDIVIDUAL’S SOCIAL SECURITY NUMBER OR THE
+21 NUMBER OF ANY OTHER GOVERNMENT–ISSUED IDENTIFICATION FOR THE
+22 RESIDENT INDIVIDUAL; OR
+23 (8) OTHER INFORMATION THAT, ALONE OR IN COMBINATION WITH
+24 OTHER INFORMATION THAT IS SOLD OR LICENSED, CAN REASONABLY BE
+25 ASSOCIATED WITH THE RESIDENT INDIVIDUAL.
+26 (E) (1) “BUSINESS ENTITY” MEANS:
+27 (I) A RESIDENT INDIVIDUAL WHO REGULARLY ENGAGES IN
+28 COMMERCIAL ACTIVITY FOR THE PURPOSE OF GENERATING INCOME;
+
+10 SENATE BILL 904
+1 (II) A CORPORATION OR NONPROFIT CORPORATION, LIMITED
+2 LIABILITY COMPANY, PARTNERSHIP OR LIMITED LIABILITY PARTNERSHIP,
+3 BUSINESS TRUST, JOINT VENTURE, OR ANY OTHER FORM OF BUSINESS
+4 ORGANIZATION THE CONSTITUENT PARTS OF WHICH SHARE A COMMON ECONOMIC
+5 INTEREST; OR
+6 (III) AN INDIVIDUAL THAT CONTROLS, IS CONTROLLED BY, OR IS
+7 UNDER COMMON CONTROL WITH A PERSON DESCRIBED IN ITEM (I) OR (II) OF THIS
+8 PARAGRAPH.
+9 (2) “BUSINESS ENTITY” DOES NOT INCLUDE THE STATE OR A UNIT OF
+10 THE STATE, A LOCAL GOVERNMENT, OR A BUSINESS ENTITY OR OTHER PERSON
+11 DURING A PERIOD IN WHICH THE BUSINESS ENTITY OR PERSON IS ACTING SOLELY
+12 ON BEHALF OF AND AT THE DIRECTION OF THE STATE, A UNIT OF THE STATE, OR A
+13 LOCAL GOVERNMENT.
+14 (F) (1) “DATA BROKER” MEANS ANY BUSINESS ENTITY THAT ENGAGES IN
+15 DATA BROKERING.
+16 (2) “DATA BROKER” DOES NOT INCLUDE:
+17 (I) A CONSUMER REPORTING AGENCY, AS DEFINED IN 15
+18 U.S.C. § 1681A, A PERSON THAT FURNISHES INFORMATION TO A CONSUMER
+19 REPORTING AGENCY, AS PROVIDED IN 15 U.S.C. § 1681S–2, OR A USER OF A
+20 CONSUMER REPORT, AS DEFINED IN 15 U.S.C. § 1681A, TO THE EXTENT THAT THE
+21 CONSUMER REPORTING AGENCY, THE PERSON THAT FURNISHES INFORMATION TO
+22 A CONSUMER REPORTING AGENCY, OR THE USER OF A CONSUMER REPORT ENGAGES
+23 IN ACTIVITIES THAT ARE SUBJECT TO REGULATION UNDER THE FEDERAL FAIR
+24 CREDIT REPORTING ACT, 15 U.S.C. § 1681; AND
+25 (II) A FINANCIAL INSTITUTION, AN AFFILIATE, OR A
+26 NONAFFILIATED THIRD PARTY, AS THOSE TERMS ARE DEFINED IN 15 U.S.C. § 6809,
+27 TO THE EXTENT THAT THE FINANCIAL INSTITUTION, AFFILIATE, OR NONAFFILIATED
+28 THIRD PARTY IS SUBJECT TO REGULATION UNDER TITLE V OF THE
+29 GRAMM–LEACH–BLILEY ACT, 15 U.S.C. §§ 6801 THROUGH 6809 AND REGULATIONS
+30 ADOPTED UNDER TITLE V OF THE GRAMM–LEACH–BLILEY ACT.
+31 (G) “DATA BROKERING” MEANS THE ACT OF COLLECTING, AGGREGATING,
+32 ANALYZING, BUYING, SELLING, AND SHARING BROKERED PERSONAL DATA.
+33 (H) “DE–IDENTIFIED DATA” MEANS DATA THAT CANNOT REASONABLY BE
+34 USED TO INFER INFORMATION ABOUT OR OTHERWISE BE LINKED TO AN IDENTIFIED
+
+SENATE BILL 904 11
+1 OR IDENTIFIABLE INDIVIDUAL OR A DEVICE LINKED TO THAT INDIVIDUAL,
+2 PROVIDED THAT THE PERSON IN CONTROL OF THE DATA:
+3 (1) TAKES REASONABLE MEASURES TO ENSURE THAT THE DATA
+4 CANNOT BE ASSOCIATED WITH A NATURAL PERSON;
+5 (2) PUBLICLY COMMITS TO MAINTAIN AND USE THE DATA ONLY IN A
+6 DE–IDENTIFIED FASHION AND NOT ATTEMPT TO RE–IDENTIFY THE DATA; AND
+7 (3) CONTRACTUALLY OBLIGATES ANY RECIPIENTS OF THE
+8 INFORMATION TO COMPLY WITH ALL PROVISIONS OF THIS SUBSECTION.
+9 (I) “GROSS INCOME” MEANS THE VALUE PROCEEDING OR ACCRUING BY
+10 REASON OF COLLECTING, AGGREGATING, ANALYZING, BUYING, SELLING, AND
+11 SHARING BROKERED PERSONAL DATA WITHOUT ANY DEDUCTION ON ACCOUNT OF
+12 THE COST OF TANGIBLE PROPERTY SOLD, THE COST OF MATERIALS USED, LABOR
+13 COSTS, INTEREST, DISCOUNT, DELIVERY COSTS, TAXES, OR ANY OTHER EXPENSE
+14 PAID OR ACCRUED AND WITHOUT ANY DEDUCTION ON ACCOUNT OF LOSSES.
+15 (J) (1) “PERSONAL DATA” MEANS ANY INFORMATION THAT IS LINKED OR
+16 REASONABLY LINKED TO AN IDENTIFIED OR IDENTIFIABLE NATURAL PERSON.
+17 (2) “PERSONAL DATA” DOES NOT INCLUDE DE–IDENTIFIED DATA OR
+18 PUBLICLY AVAILABLE INFORMATION.
+19 (K) “RESIDENT INDIVIDUAL” MEANS A PERSON WHO RESIDES IN THE
+20 STATE.
+21 SUBTITLE 2. DATA BROKER REGISTRY.
+22 7.3–201.
+23 (A) EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, A DATA
+24 BROKER SHALL REGISTER WITH THE COMPTROLLER AS PROVIDED IN § 7.3–202 OF
+25 THIS SUBTITLE.
+26 (B) A DATA BROKER IS NOT REQUIRED TO REGISTER WITH THE
+27 COMPTROLLER IF THE BROKERED PERSONAL DATA INVOLVES ANY OF THE
+28 FOLLOWING:
+29 (1) PROVIDING PUBLICLY AVAILABLE INFORMATION THAT IS
+30 RELATED TO A RESIDENT INDIVIDUAL’S BUSINESS OR PROFESSION;
+
+12 SENATE BILL 904
+1 (2) PROVIDING PUBLICLY AVAILABLE INFORMATION AS PART OF A
+2 SERVICE THAT PROVIDES ALERTS FOR HEALTH OR SAFETY PURPOSES;
+3 (3) PROVIDING DIRECTORY ASSISTANCE OR DIRECTORY
+4 INFORMATION SERVICES AS OR ON BEHALF OF A TELECOMMUNICATIONS CARRIER;
+5 OR
+6 (4) SELLING THE ASSETS OF A BUSINESS ENTITY OR A PART OF A
+7 BUSINESS ENTITY A SINGLE TIME OR ONLY OCCASIONALLY AS PART OF A TRANSFER
+8 OF CONTROL OVER THE ASSETS THAT IS NOT PART OF THE ORDINARY CONDUCT OF
+9 THE BUSINESS ENTITY OR A PART OF THE BUSINESS ENTITY.
+10 7.3–202.
+11 (A) (1) ON OR BEFORE JANUARY 31 EACH YEAR, FOLLOWING A YEAR IN
+12 WHICH A BUSINESS ENTITY MEETS THE DEFINITION OF A DATA BROKER, A DATA
+13 BROKER SHALL:
+14 (I) SUBMIT ON A FORM AND IN A FORMAT THE COMPTROLLER
+15 SPECIFIES:
+16 1. THE NAME OF THE DATA BROKER;
+17 2. THE STREET ADDRESS AND TELEPHONE NUMBER OF
+18 THE DATA BROKER; AND
+19 3. THE DATA BROKER’S PRIMARY WEBSITE AND E–MAIL
+20 ADDRESS;
+21 (II) PAY A FEE IN AN AMOUNT THAT THE COMPTROLLER
+22 DETERMINES; AND
+23 (III) INCLUDE WITH THE REGISTRATION FORM A DECLARATION
+24 IN WHICH THE DATA BROKER:
+25 1. STATES WHETHER A RESIDENT INDIVIDUAL’S
+26 PRECISE GEOLOCATION INFORMATION IS A PART OF THE DATA BROKER’S DATA
+27 BROKERING ACTIVITY;
+28 2. STATES WHETHER RESIDENT INDIVIDUALS’
+29 CONSUMER HEALTH DATA IS A PART OF THE DATA BROKER’S DATA BROKERING
+30 ACTIVITY;
+
+SENATE BILL 904 13
+1 3. STATES WHETHER RESIDENT INDIVIDUALS MAY OPT
+2 OUT OF ALL OR A PORTION OF THE DATA BROKER’S USE OF THEIR BROKERED
+3 PERSONAL DATA;
+4 4. A. IDENTIFIES WHICH OF THE DATA BROKER’S
+5 ACTIVITIES A RESIDENT INDIVIDUAL MAY OPT OUT OF; AND
+6 B. IDENTIFIES WHICH PORTION OF THE RESIDENT
+7 INDIVIDUAL’S BROKERED PERSONAL DATA THE RESIDENT INDIVIDUAL MAY OPT
+8 OUT FROM PROVIDING OR PERMITTING THE DATA BROKER TO USE;
+9 5. DESCRIBES THE METHOD BY WHICH A RESIDENT
+10 INDIVIDUAL MAY EXERCISE THE CHOICES DESCRIBED IN ITEMS 3 AND 4 OF THIS
+11 ITEM; AND
+12 6. STATES WHETHER A RESIDENT INDIVIDUAL MAY
+13 AUTHORIZE AN INDIVIDUAL TO EXERCISE THE OPTIONS DESCRIBED IN ITEMS 3 AND
+14 4 OF THIS ITEM ON THE RESIDENT INDIVIDUAL’S BEHALF AND IF SO, THE
+15 APPROPRIATE PROCESS FOR THE AUTHORIZATION.
+16 (2) (I) THE COMPTROLLER SHALL ESTABLISH THE FEE REQUIRED
+17 UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION IN AN AMOUNT THAT IS SUFFICIENT
+18 TO PAY THE COSTS OF ADMINISTERING THE REGISTRATION PROGRAM ESTABLISHED
+19 UNDER THIS SUBTITLE.
+20 (II) THE FEES COLLECTED UNDER THIS SUBSECTION SHALL BE
+21 DEPOSITED IN THE GENERAL FUND.
+22 (B) (1) IF A DATA BROKER COMPLIES WITH THE REQUIREMENTS OF THIS
+23 SECTION, THE COMPTROLLER SHALL APPROVE THE REGISTRATION.
+24 (2) A REGISTRATION UNDER THIS SECTION IS VALID UNTIL
+25 DECEMBER 31 OF THE YEAR IN WHICH THE COMPTROLLER APPROVES THE
+26 REGISTRATION.
+27 7.3–203.
+28 (A) THE COMPTROLLER SHALL MAKE THE INFORMATION THAT BUSINESS
+29 ENTITIES SUBMIT FOR REGISTRATION UNDER THIS SUBTITLE PUBLICLY AVAILABLE
+30 ON THE COMPTROLLER’S WEBSITE.
+31 (B) ON OR BEFORE DECEMBER 31, 2026, AND EACH DECEMBER 31
+32 THEREAFTER, THE COMPTROLLER SHALL REPORT TO THE GOVERNOR AND, IN
+
+14 SENATE BILL 904
+1 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, TO THE
+2 GENERAL ASSEMBLY ON THE FOLLOWING:
+3 (1) HOW MANY BUSINESS ENTITIES REGISTERED WITH THE
+4 COMPTROLLER AS DATA BROKERS IN THAT YEAR;
+5 (2) THE FEE THE COMPTROLLER CHARGED FOR REGISTRATION PER
+6 DATA BROKER AND THE TOTAL REVENUE COLLECTED;
+7 (3) HOW MANY BUSINESS ENTITIES WERE FINED FOR
+8 NONCOMPLIANCE WITH THIS SUBTITLE; AND
+9 (4) ANY OTHER INFORMATION THE COMPTROLLER DETERMINES IS
+10 RELEVANT.
+11 SUBTITLE 3. DATA BROKER GROSS INCOME TAX.
+12 7.3–301.
+13 A TAX IS IMPOSED ON THE ANNUAL GROSS INCOME OF A DATA BROKER.
+14 7.3–302.
+15 THE DATA BROKERING TAX RATE IS 6% OF THE GROSS INCOME OF A DATA
+16 BROKER APPORTIONED UNDER § 7.3–303 OF THIS SUBTITLE.
+17 7.3–303.
+18 (A) THE APPORTIONABLE INCOME OF A DATA BROKER IS APPORTIONED TO
+19 THE STATE BY MULTIPLYING ITS APPORTIONABLE INCOME BY THE RECEIPTS
+20 FACTOR DETERMINED UNDER SUBSECTION (B) OF THIS SUBSECTION.
+21 (B) (1) THE NUMERATOR OF THE RECEIPTS FACTOR IS THE TOTAL GROSS
+22 INCOME OF THE DATA BROKER ATTRIBUTABLE TO THE STATE DURING THE TAXABLE
+23 YEAR FROM ENGAGING IN DATA BROKERING DURING THE TAXABLE YEAR.
+24 (2) THE DENOMINATOR OF THE RECEIPTS FACTOR IS THE TOTAL
+25 GROSS INCOME OF THE DATA BROKER FROM ENGAGING IN DATA BROKERING
+26 EVERYWHERE IN THE WORLD DURING THE TAXABLE YEAR.
+27 (C) (1) (I) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+28 SUBSECTION AND SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, FOR
+29 PURPOSES OF COMPUTING THE RECEIPTS FACTOR UNDER SUBSECTION (B) OF THIS
+
+SENATE BILL 904 15
+1 SECTION, GROSS INCOME OF A DATA BROKER GENERATING SALES OR EXCHANGE
+2 FOR CONSIDERATION OF PERSONAL DATA IS ATTRIBUTABLE TO THE STATE IN THE
+3 RATIO, EXPRESSED AS A PERCENTAGE, THAT THE NUMBER OF MARYLAND
+4 ADDRESSES IN THE PERSONAL DATA BEARS TO ALL ADDRESSES IN THE PERSONAL
+5 DATA.
+6 (II) ONLY PERSONAL DATA USED TO GENERATE THE GROSS
+7 INCOME OF THE BUSINESS TO BE ATTRIBUTED UNDER THIS SUBSECTION IS
+8 APPLICABLE IN CALCULATING THE RATIO DESCRIBED UNDER SUBPARAGRAPH (I)
+9 OF THIS PARAGRAPH.
+10 (2) IF THE DATA BROKER IS UNABLE TO ATTRIBUTE GROSS INCOME
+11 UNDER PARAGRAPH (1) OF THIS SUBSECTION, GROSS INCOME OF THE DATA BROKER
+12 GENERATED FROM MAKING SALES, OR EXCHANGING FOR CONSIDERATION, OF
+13 PERSONAL DATA IS ATTRIBUTED TO THE STATE:
+14 (I) IN THE RATIO, EXPRESSED AS A PERCENTAGE, OF THE
+15 POPULATION OF THE STATE TO ALL THE STATES OF THE UNITED STATES IN THE
+16 DATA BROKERS’ MARKET; OR
+17 (II) BY ANY OTHER REASONABLE METHODS OF ATTRIBUTION
+18 ALLOWED BY THE COMPTROLLER.
+19 (D) (1) (I) A DATA BROKER MAY CALCULATE THE RECEIPTS FACTOR
+20 FOR THE CURRENT TAXABLE YEAR BASED ON THE MOST RECENT CALENDAR YEAR
+21 FOR WHICH INFORMATION IS AVAILABLE FOR THE FULL CALENDAR YEAR.
+22 (II) IF A DATA BROKER DOES NOT CALCULATE THE RECEIPTS
+23 FACTOR FOR THE CURRENT TAXABLE YEAR BASED ON PREVIOUS CALENDAR YEAR
+24 INFORMATION, THE DATA BROKER SHALL USE THE CURRENT YEAR INFORMATION
+25 TO CALCULATE THE RECEIPTS FACTOR FOR THE CURRENT TAXABLE YEAR.
+26 (2) A DATA BROKER SHALL CORRECT THE REPORTING FOR THE
+27 CURRENT TAXABLE YEAR WHEN COMPLETE INFORMATION IS AVAILABLE TO
+28 CALCULATE THE RECEIPTS FACTOR FOR THAT YEAR, BUT NOT LATER THAN
+29 OCTOBER 31 OF THE FOLLOWING TAXABLE YEAR.
+30 SUBTITLE 4. RETURNS.
+31 7.3–401.
+
+16 SENATE BILL 904
+1 (A) EACH DATA BROKER THAT, IN A CALENDAR YEAR, HAS GROSS INCOME
+2 DERIVED FROM DATA BROKERING SHALL COMPLETE, UNDER OATH, AND FILE WITH
+3 THE COMPTROLLER A RETURN ON OR BEFORE APRIL 15 THE NEXT YEAR.
+4 (B) A PERSON REQUIRED TO FILE A RETURN UNDER THIS SECTION SHALL
+5 FILE WITH THE RETURN AN ATTACHMENT THAT STATES ANY INFORMATION THAT
+6 THE COMPTROLLER REQUIRES.
+7 7.3–402.
+8 A PERSON REQUIRED TO FILE A RETURN UNDER § 7.3–401 OF THIS SUBTITLE
+9 SHALL MAINTAIN RECORDS OF DATA BROKERING AND THE BASIS FOR THE
+10 CALCULATION OF THE DATA BROKERING GROSS INCOME TAX OWED.
+11 SUBTITLE 5. TAX PAYMENT.
+12 7.3–501.
+13 EACH PERSON REQUIRED TO FILE A RETURN UNDER § 7.3–401 OF THIS TITLE
+14 SHALL PAY THE DATA BROKER GROSS INCOME TAX WITH THE RETURN THAT COVERS
+15 THE PERIOD FOR WHICH THE TAX IS DUE.
+16 13–201.
+17 In this subtitle, “tax information” means:
+18 (4) any information contained in:
+19 (i) an admissions and amusement tax return;
+20 (ii) an alcoholic beverage tax return;
+21 (iii) a bay restoration fee return;
+22 (iv) a boxing and wrestling tax return;
+23 (v) A DATA BROKER GROSS INCOME TAX RETURN;
+24 (VI) a digital advertising gross revenues tax return;
+25 [(vi)] (VII) an E–9–1–1 fee return;
+26 [(vii)] (VIII) a financial institution franchise tax return;
+27 [(viii)] (IX) an inheritance tax return;
+
+SENATE BILL 904 17
+1 [(ix)] (X) a Maryland estate tax return;
+2 [(x)] (XI) a motor carrier tax return;
+3 [(xi)] (XII) a motor fuel tax return;
+4 [(xii)] (XIII) an other tobacco products tax return;
+5 [(xiii)] (XIV) a public service company franchise tax return;
+6 [(xiv)] (XV) a sales and use tax return;
+7 [(xv)] (XVI) a savings and loan association franchise tax return;
+8 [(xvi)] (XVII) a tire recycling fee return;
+9 [(xvii)] (XVIII) a tobacco tax return; or
+10 [(xviii)] (XIX) a transportation services assessment return.
+11 13–402.
+12 (a) If a notice and demand for a return is made under § 13–303 of this title and
+13 the person or governmental unit fails to file the return, the tax collector shall:
+14 (5) for public service company franchise tax:
+15 (i) estimate gross receipts from the best information in the
+16 possession of the tax collector; and
+17 (ii) assess the tax due on the estimated gross receipts; [and]
+18 (6) for digital advertising gross revenues tax:
+19 (i) estimate gross revenues from the best information in possession
+20 of the tax collector; and
+21 (ii) assess the tax due on the estimated assessable base; AND
+22 (7) FOR DATA BROKER GROSS INCOME TAX:
+23 (I) ESTIMATE THE GROSS INCOME FROM THE BEST
+24 INFORMATION IN POSSESSION OF THE TAX COLLECTOR; AND
+
+18 SENATE BILL 904
+1 (II) ASSESS THE TAX DUE ON THE ESTIMATED ASSESSABLE
+2 BASE.
+3 13–508.
+4 (a) Within 30 days after the date on which a notice of assessment of the
+5 admissions and amusement tax, alcoholic beverage tax, boxing and wrestling tax, DATA
+6 BROKER GROSS INCOME TAX, income tax, motor carrier tax, motor fuel tax, public service
+7 company franchise tax, financial institution franchise tax, sales and use tax, or tobacco tax
+8 is mailed, a person or governmental unit against which the assessment is made may submit
+9 to the tax collector:
+10 (1) an application for revision of the assessment; or
+11 (2) except for the public service company franchise tax, if the assessment
+12 is paid, a claim for refund.
+13 (b) If a person or governmental unit fails to submit an application for revision or
+14 claim for refund within the time allowed in subsection (a) of this section, the assessment
+15 becomes final.
+16 (c) The Comptroller or an employee of the Comptroller’s office expressly
+17 designated by the Comptroller promptly:
+18 (1) (i) shall hold an informal hearing on a person’s or governmental
+19 unit’s admissions and amusement tax, alcoholic beverage tax, boxing and wrestling tax,
+20 DATA BROKER GROSS INCOME TAX, income tax, motor carrier tax, motor fuel tax, sales
+21 and use tax, or tobacco tax application for revision or claim for refund under subsection (a)
+22 of this section; and
+23 (ii) after the hearing:
+24 1. shall act on the application for revision; and
+25 2. may assess any additional tax, penalty, and interest due;
+26 and
+27 (2) shall mail to the person or governmental unit a notice of final
+28 determination.
+29 13–509.
+30 (a) Notwithstanding a person’s failure to file a timely application for revision or
+31 claim for refund of an assessment of the admissions and amusement tax, alcoholic beverage
+32 tax, boxing and wrestling tax, DATA BROKER GROSS INCOME TAX, income tax, motor
+33 carrier tax, motor fuel tax, sales and use tax, or tobacco tax under § 13–508(a) of this
+
+SENATE BILL 904 19
+1 subtitle, the Comptroller or the Comptroller’s designee may issue an order decreasing or
+2 abating an assessment to correct an erroneous assessment.
+3 (b) If action is taken under subsection (a) of this section, the order shall state
+4 clearly the reasons for decreasing or abating the assessment.
+5 (c) Any order issued by the Comptroller under subsection (a) of this section shall
+6 be final and not subject to appeal.
+7 (d) The Comptroller’s refusal to enter an order under subsection (a) of this section
+8 shall be final and not subject to appeal.
+9 13–1001.
+10 (H) A PERSON WHO IS REQUIRED TO FILE A DATA BROKER GROSS INCOME
+11 TAX RETURN AND WHO WILLFULLY FAILS TO FILE THE RETURN AS REQUIRED UNDER
+12 TITLE 7.3 OF THIS ARTICLE IS GUILTY OF A MISDEMEANOR AND ON CONVICTION IS
+13 SUBJECT TO A FINE NOT EXCEEDING $5,000 OR IMPRISONMENT NOT EXCEEDING 5
+14 YEARS OR BOTH.
+15 13–1002.
+16 (b) A person, including an officer of a corporation, who willfully files A FALSE
+17 DATA BROKER GROSS INCOME TAX RETURN, a false digital advertising gross revenues
+18 tax return, a false financial institution franchise tax return, a false public service company
+19 franchise tax return, or a false income tax return with the intent to evade the payment of
+20 tax due under this article is guilty of perjury and, on conviction, is subject to the penalty
+21 for perjury.
+22 (c) Subsections (a) and (b) of this section apply to the alcoholic beverage, DATA
+23 BROKER GROSS INCOME, digital advertising gross revenues, financial institution
+24 franchise, public service company franchise, and income taxes.
+25 13–1101.
+26 (b) An assessment of digital advertising gross revenues tax, financial institution
+27 franchise tax, public service company franchise tax, income tax, or estate tax may be made
+28 at any time if:
+29 (1) a false return is filed with the intent to evade the tax;
+30 (2) a willful attempt is made to evade the tax;
+31 (3) a return is not filed as required under Title 7, TITLE 7.3, Title 7.5, Title
+32 8, or Title 10 of this article;
+
+20 SENATE BILL 904
+1 (4) an amended estate tax return is not filed as required under Title 7 of
+2 this article;
+3 (5) an incomplete return is filed; or
+4 (6) a report of federal adjustment is not filed within the period required
+5 under § 13–409 of this title.
+6 (c) If a report of federal adjustment is filed within the time required under §
+7 13–409 of this title, the tax collector shall assess the DATA BROKER GROSS INCOME TAX,
+8 digital advertising gross revenues tax, financial institution franchise tax, public service
+9 company franchise tax, income tax, or estate tax within 1 year after the date on which the
+10 tax collector receives the report.
+11 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+12 as follows:
+13 Article – Commercial Law
+14 13–204.1.
+15 (c) The Unit shall:
+16 (1) Enforce:
+17 (i) The Maryland Age–Appropriate Design Code Act;
+18 (II) THE ONLINE DATA PRIVACY ACT; and
+19 [(ii)] (III) Any State or federal laws involving technology, online
+20 services and products, cybersecurity, artificial intelligence, and digital privacy;
+21 SECTION 4. AND BE IT FURTHER ENACTED, That the data broker gross income
+22 tax enacted under Section 2 of this Act shall be applicable to all taxable years beginning on
+23 or after December 31, 2026.
+24 SECTION 5. AND BE IT FURTHER ENACTED, That Section 3 of this Act shall take
+25 effect October 1, 2025, the effective date of Chapters 454 and 455 of the Acts of the General
+26 Assembly of 2024. If the effective date of Chapters 454 and 455 is amended, Section 3 of
+27 this Act shall take effect on the taking effect of Chapters 454 and 455.
+28 SECTION 6. AND BE IT FURTHER ENACTED, That, except as provided in Section
+29 5 of this Act, this Act shall take effect July 1, 2025.
+
+[DELETED: :CA      5   C A D ( F D a C i a t o t g i o c d b a g B  A S G t b S 2 a 2 r a t s “ 4 D  A  ( B  A S  A  ( B  A S  A  ( B]
+[DELETED:  S   A  S  A  ( B  A  S  A  ( B  A  S  A  ( B  A  S  A  ( B  A  S  A  ( B  A S  A  ( B  A S D B G I T R D 7 t 7 I  A  ( B  A]
+[DELETED: S 3 S 2 1 1 a ( 1 a ( 1 1  A  ( B  A S  A  (  (  S T G C t  S a A 1  ( I  ( “ m t D o C P o t O o t A() TPPEH R R N N.() TH N O IS P I A T IS R A T P T P F UR AE O P I A IE CY() TU:H N ( E:]
+[DELETED:  S   () TMA–ADCAH A GEP E O CT  () ASIN TY S A PS CY A IE, ( E A E T C W O T R A S F P TRSY Y ,E S S  ( A,,,ST AE A C W LL TE A I T T R PYR IS– RS A IE A U O() ( H R F T D B G I T N. ( TG     T I R R72SFPA. A 7  ( ( T   ( T    ( M    (F§2 U    A  E R–GA;  () I    () A](I b]
+[DELETED: S 5 2 ) ( H R F T D B G I T B D T A S FD T B U O B A E T P D L S T S I T2. ( TG     T I R R72SFPA. A 3 ( T  ( E   ( m   ( a    ( t s l o e o c s c f o c f f i t p    ( a i t a i r s   ( t t   ( m r a a a c g o g a a   ( g f a f m i t d h    ( a    ( h    ( h]
+[DELETED:  S    ( U   §2–GA;  E R   a   () a]( F A 1  ( I –DAX 73.   2  ( I o   ( t   ( t   (   t   () t](   () t](   () t](   () t](   () t](   () t](   () t](4.DBGITRD.  A R R N A E I]
+[DELETED: S 7F,E  O() A§2F M T D U   O TE : ( 0%$ G O  O  T T S    O A R11CL T R R A N N I T I OPEUPOAG; R F T E ( 0%$0 G O  O  T T NIF§39 N U    TP R R ( 0%$ G O  O  T T S U   O T D R F T U O24EP U E T P D L S T TE 2; ( 3%$0     OSPF§7 U A U    D RA.() A§2F    A N  O),M’FF§5 ADS U U   A. R7.DBRGIT.  A R E R N A1.D.  E]
+[DELETED:  S () N T T T F W H T M() “APE G  T T U T T I R F D B I T.() ( “BIN  ( “B”:N   () ;F  () ;IR  () ;IV  () DA;V   () ;F  () ;IG  () ;IH  () ;IKS   () .XM ( “B”:N   () ;W  () ;IW  ()IH]
+[DELETED: S 9  () ;VD  () ;T  () ,,IPS T T R R ;  () ,,ID OS TS O PS O B O C T A O O S B A F() “BR P DA M A O T FL  ( LSLS; (  R ILS A O A A F ALS; ( ’;LS ( ’;LS ( ; ( ; ( ’SLS O E O A O GTI I F TL  (  I TT A O I C W I T I S O LD C R B() ( “B”:UY   ()A R I W R E I]
+[DELETED:  S   () IA C O N CN L CY P O L L PP TT J VE O A O F O BT   () ,IAS Y  I  II )( ( “B”Y  T TE A L GT O A B E O O P, TE  TE ,S() ( “DAR  ( “D”:R   () ,1A C R AY A D I .§11 A A P T F I T A C AY A P I    S O A U O A15U.§11–T     A 15U.§11Y Y  A T A S T R U T F ARA,15U.§1; E CT       () ,IA F IN A AE O AY     15U.§6N E  P I S T R U I  O TV–L–BA,15U.§§616MEHL CT        I   RMEHL CVG–L–BA.() “D”,AG G GG G G ,,.() “D–EIA ]
+[DELETED: S 1 I I O A D L T T IL ( R M T E T T D (EIEIA –; ( O A R O T() “GR IE M V P O B O CG AG AG BG SG A,,,D D S T T S S ,,,() ( “PEA  ( “P”A EI() “RE IL M A P W R I T.2.DBR.  A R E() E()X S B ON A D O   §7()  D B I N R T R W T I T B P D I A O T ( P A I T ILS;]
+[DELETED:  S  ( P A I A P O A ( D A O DR ( T A O A B E O A P O A() ( OJ31N A  R R   () S O   1 ;   2R    3 ’RSEM  () IP A F I A A T T OS   ()II   1  W A R ILS G I I A P O T D BRS D   2  W R IS H D I A P O T D BRS D B]
+[DELETED: S 1   3 O A O A P O T D BRS U O T B   4 A  W O T D BRSF    B W P O T RLS B P D T R I M O   5 T M B W A R    M    6 W A R I M  ’O T I O T R ILS B A I SO T ( () TH O II (  () IH E UF.() ( FN  ONC. ( R U T S I V U31  O T Y I W T O A T() TH O ORS’.() OD3,2,D3N O B E   A E E R T O S R T T O AD ICG]
+[DELETED:  S  W   O T T O RE T T27SGAA: S (H M B E R W T; (  O ( M B E W F FE  (  O3.DBGIT.  A R R N AA.T6     73.() H T B M I A I B T R B ).() ( H T (  D O T R F I T T I O T D B F E I D B() ( () E(IX A P I P  O T A S T S II O T PH F) B ]
+[DELETED: S 1N  TO E A A PE T T N O A,  () IN P D U T G T G O T B T B A U T S I I (   N ) F M SS O E F CN O T:  () ,I T RO E A A PE O T T N TUS T ;  ()IB A O R M O A O.() ( () I   () IFN  ( D B S C T R F T T Y W C I I A T T R F F T YR B N L T31   4.R.  E]
+[DELETED:  S () E,AT R E H  O P  A15.()   O.A§7    M R O D B A T B F T5.TP.  A AE§7    1  I   ( a    ( a    ( a    ( a    ( a    (    a)    () a](V    () ](V    () a](I]
+[DELETED: S 1    () a](    () a](X    () a](X    () ](X    () ](X    () a](X    () a](X    ()a]()X    () a](X    () a](X 1  ( I t   ( f    ( e g r f t b i i t p    ( a a]   ( f    ( e o    ( a ( :  ()E T G I F T BR ]
+[DELETED:  S   ()IA T T D O T E A . 1  ( W 3 d a t d o w a n o a o t a   c i t   ( a   ( e i  ( I c b  ( T C o a e o t C o e d   ( ( s uX i a o    ( a     1 s     2 m a   ( s m t t p o g u a n o f d 1  ( N c t iX c]
+[DELETED: S 1 s a  ( I c  ( A b  ( T s 1 )  7     0 1  ( A   t f t f  ( S G I  d a g r f i f 1  ( A f a   ( a   ( a   ( a  7 8]
+[DELETED:  S    ( a t   ( a   ( a u  ( I 1  d c t  S a A 1  ( T   ( E    ( T    a) TODPAIH N A R CT    () A S o f l i t o](I s  S t o  S e A t  S 5]

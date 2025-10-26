@@ -1,0 +1,1326 @@
+Title: SENATE BILL 591
+Official Title: SENATE BILL 591
+Number of Sections: 1
+Source: versions - First - Environment - Covered Electronic Device Recycling Program - Establishment (Electronics Recycling Health and Safety Modernization Act)
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+M3 5lr2271
+SB 686/24 – EEE CF 5lr2270
+By: Senator Augustine
+Introduced and read first time: January 23, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 Environment – Covered Electronic Device Recycling Program – Establishment
+3 (Electronics Recycling Health and Safety Modernization Act)
+4 FOR the purpose of altering the contents and use of the State Recycling Trust Fund;
+5 establishing a separate covered electronic device recycling account and a separate
+6 covered electronic device manufacturer registration fee account within the Fund;
+7 repealing certain provisions of law relating to existing covered electronic device
+8 takeback programs; altering certain provisions of law relating to registration fees for
+9 certain manufacturers of covered electronic devices; requiring that a certain
+10 manufacturer registration fee be paid into a certain account within the Fund;
+11 requiring certain manufacturers to include certain information with certain covered
+12 electronic devices in a certain manner; establishing the Covered Electronic Device
+13 Recycling Program in the Department of the Environment to facilitate the collection
+14 and recycling, refurbishment, or reuse of certain covered electronic devices in the
+15 State; requiring a consumer, beginning on a certain date, to pay a certain recycling
+16 fee with the purchase of a new covered electronic device; requiring certain retailers,
+17 beginning on a certain date, to remit the recycling fee to the Comptroller in a certain
+18 manner; requiring the Department, beginning on a certain date, to disburse certain
+19 funds to authorized collectors and authorized recyclers in a certain manner;
+20 prohibiting an authorized collector or authorized recycler from charging a person a
+21 certain fee, subject to certain exceptions; establishing the covered electronic device
+22 advisory council to advise the Department on the implementation and the
+23 administration of the Program; requiring that certain regulations adopted by the
+24 Department establish certain application materials and procedures for authorized
+25 collectors and authorized recyclers; requiring the Department to notify certain
+26 manufacturers of covered electronic devices of certain information on or before a
+27 certain date; and generally relating to the recycling of covered electronic devices in
+28 the State.
+29 BY repealing and reenacting, with amendments,
+30 Article – Environment
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0591*
+2 SENATE BILL 591
+1 Section 9–1701, 9–1707(f), 9–1727, 9–1728, 9–1728.1, 9–1728.2, 9–1729, and 9–1730
+2 Annotated Code of Maryland
+3 (2014 Replacement Volume and 2024 Supplement)
+4 BY adding to
+5 Article – Environment
+6 Section 9–1728.3 and 9–1728.4
+7 Annotated Code of Maryland
+8 (2014 Replacement Volume and 2024 Supplement)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
+11 Article – Environment
+12 9–1701.
+13 (a) In this subtitle the following words have the meanings indicated.
+14 (b) “Anaerobic digestion” means the controlled anaerobic biological decomposition
+15 of organic waste material to produce biogas and digestate.
+16 (b–1) (1) “Architectural paint” means interior and exterior architectural coatings
+17 sold in containers of 5 gallons or less.
+18 (2) “Architectural paint” does not include industrial coatings, original
+19 equipment coatings, or specialty coatings.
+20 (B–2) (1) “AUTHORIZED COLLECTOR” MEANS AN ENTITY THAT IS
+21 AUTHORIZED BY THE DEPARTMENT TO ACCEPT OR COLLECT ALL MAKES AND
+22 MODELS OF COVERED ELECTRONIC DEVICES TO BE RECYCLED, REFURBISHED, OR
+23 REUSED.
+24 (2) “AUTHORIZED COLLECTOR” INCLUDES:
+25 (I) LOCAL GOVERNMENTS;
+26 (II) NONPROFIT ORGANIZATIONS;
+27 (III) ELECTRONICS RETAILERS;
+28 (IV) A PERSON AUTHORIZED BY A COUNTY, MUNICIPALITY, OR
+29 DISTRICT TO COLLECT COVERED ELECTRONIC DEVICES UNDER THE TERMS OF A
+30 CONTRACT, LICENSE, PERMIT, OR OTHER WRITTEN AUTHORIZATION; AND
+SENATE BILL 591 3
+1 (V) A MANUFACTURER THAT IS AN ELECTRONICS RETAILER:
+2 1. WITH THEIR OWN PHYSICAL COVERED ELECTRONIC
+3 DEVICE TAKEBACK LOCATION IN THE STATE; AND
+4 2. THAT ACCEPTS AND COLLECTS ALL MAKES AND
+5 MODELS OF COVERED ELECTRONIC DEVICES FROM THE PUBLIC AT NO COST.
+6 (3) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION,
+7 “AUTHORIZED COLLECTOR” DOES NOT INCLUDE A MANUFACTURER.
+8 (B–3) (1) “AUTHORIZED RECYCLER” MEANS:
+9 (I) A PERSON THAT:
+10 1. ENGAGES IN THE MANUAL OR MECHANICAL
+11 REFURBISHMENT OR SEPARATION OF ALL MAKES AND MODELS OF COVERED
+12 ELECTRONIC DEVICES IN ORDER TO RECOVER:
+13 A. THE ENTIRE DEVICE FOR THE PURPOSE OF REUSE; OR
+14 B. COMPONENTS OR COMMODITIES FROM THE DEVICES
+15 FOR THE PURPOSE OF RECYCLING; OR
+16 2. A. CHANGES THE PHYSICAL OR CHEMICAL
+17 COMPOSITION OF A COVERED ELECTRONIC DEVICE BY DECONSTRUCTING,
+18 REDUCING IN SIZE, CRUSHING, CUTTING, SAWING, COMPACTING, SHREDDING, OR
+19 REFINING IN ORDER TO SEGREGATE COMPONENTS FOR THE PURPOSE OF
+20 RECYCLING THE COMPONENTS; AND
+21 B. ARRANGES FOR THE TRANSPORT OF SEGREGATED
+22 COMPONENTS TO AN END USER; OR
+23 (II) AN ELECTRONICS RETAILER THAT IS AUTHORIZED BY THE
+24 DEPARTMENT TO COLLECT, REFURBISH, REUSE, OR RECYCLE A COVERED
+25 ELECTRONIC DEVICE IN ACCORDANCE WITH THE COVERED ELECTRONIC DEVICE
+26 RECYCLING PROGRAM ESTABLISHED UNDER § 9–1728.3 OF THIS SUBTITLE.
+27 (2) “AUTHORIZED RECYCLER” DOES NOT INCLUDE A
+28 MANUFACTURER.
+29 (c) “Compost” means the product of composting in accordance with the standards
+30 established by the Secretary of Agriculture under § 6–221 of the Agriculture Article.
+4 SENATE BILL 591
+1 (d) “Composting” means the controlled aerobic biological decomposition of organic
+2 waste material in accordance with the standards established by the Secretary under this
+3 title.
+4 (e) (1) “Composting facility” means a facility where composting takes place.
+5 (2) “Composting facility” does not include a facility that is required to
+6 obtain:
+7 (i) A natural wood waste recycling facility permit in accordance with
+8 this title;
+9 (ii) A sewage sludge utilization permit in accordance with this title;
+10 or
+11 (iii) A refuse disposal permit in accordance with this title.
+12 (f) (1) “Computer” means a desktop personal computer or laptop computer,
+13 including the computer monitor.
+14 (2) “Computer” does not include:
+15 (i) A personal digital assistant device; or
+16 (ii) A computer peripheral device, including:
+17 1. A mouse or other similar pointing device;
+18 2. A printer; or
+19 3. A detachable keyboard.
+20 (g) (1) “Covered electronic device” means a [computer or video display] TIER
+21 I OR A TIER II COVERED ELECTRONIC device [with a screen that is greater than 4 inches
+22 measured diagonally] OR OTHER TIER OF COVERED ELECTRONIC DEVICE IF
+23 ESTABLISHED BY THE DEPARTMENT IN REGULATION.
+24 (2) “Covered electronic device” does not include a video display OR OTHER
+25 ELECTRONIC device that is part of a motor vehicle or that is contained within a household
+26 appliance, INCLUDING WHITE GOODS, or commercial, industrial, or medical equipment.
+27 (h) [“Covered electronic device takeback program” means a program, established
+28 by a covered electronic device manufacturer or a group of covered electronic device
+29 manufacturers, for the collection and recycling, refurbishing, or reuse of a covered
+30 electronic device labeled with the name of the manufacturer or the manufacturer’s brand
+31 label, including:
+SENATE BILL 591 5
+1 (1) Providing, at no cost to the returner, a method of returning a covered
+2 electronic device to the manufacturer, including postage paid mailing packages or
+3 designated collection points throughout the State;
+4 (2) Contracting with a recycler, local government, other manufacturer, or
+5 any other person; or
+6 (3) Any other program approved by the Department.
+7 (i)] “Director” means the Director of the Office of Recycling.
+8 [(i–1)] (I) “Distributor” means a company that has a contractual relationship with
+9 one or more producers to market and sell architectural paint to retailers in the State.
+10 (I–1) “ELECTRONICS RETAILER” MEANS ANY PERSON THAT SELLS A
+11 COVERED ELECTRONIC DEVICE DIRECTLY TO A CONSUMER.
+12 (i–2) “Food residuals” means material derived from the processing or discarding of
+13 food, including pre– and post–consumer vegetables, fruits, grains, dairy products, and
+14 meats.
+15 (j) “Manufacturer” means a person that is the brand owner of a covered electronic
+16 device sold or offered for sale in the State, by any means, including transactions conducted
+17 through sales outlets, catalogs, or the Internet.
+18 (k) (1) “Natural wood waste” means tree and other natural vegetative refuse.
+19 (2) “Natural wood waste” includes tree stumps, brush and limbs, root mats,
+20 logs, and other natural vegetative material.
+21 (l) (1) “Natural wood waste recycling facility” means a facility where recycling
+22 services for natural wood waste are provided.
+23 (2) “Natural wood waste recycling facility” does not include a collection or
+24 processing facility operated by:
+25 (i) A nonprofit or governmental organization located in the State; or
+26 (ii) A single individual or business that provides recycling services
+27 for its own employees or for its own recyclable materials generated on its own premises.
+28 (m) “Office” means the Office of Recycling within the Department.
+29 (n) (1) “Organics recycling” means any process in which organic materials or
+30 compostable packaging materials are collected, separated, or processed and returned to the
+31 marketplace in the form of raw materials or products.
+6 SENATE BILL 591
+1 (2) “Organics recycling” includes anaerobic digestion and composting.
+2 (o) “Organics recycling facility” means a facility where organics recycling takes
+3 place.
+4 (o–1) “Paint stewardship assessment” means the amount added to the purchase
+5 price of architectural paint sold in the State that is necessary to cover the Paint
+6 Stewardship Program’s cost of collecting, transporting, and processing postconsumer paint
+7 statewide.
+8 (o–2) “Postconsumer paint” means architectural paint not used and no longer
+9 wanted by a purchaser.
+10 (o–3) “Producer” means a manufacturer of architectural paint that sells, offers for
+11 sale, or distributes the paint in the State under the producer’s own name or brand.
+12 (p) (1) “Recyclable materials” means those materials that:
+13 (i) Would otherwise become solid waste for disposal in a refuse
+14 disposal system; and
+15 (ii) May be collected, separated, composted, or processed and
+16 returned to the marketplace in the form of raw materials or products.
+17 (2) “Recyclable materials” does not include incinerator ash.
+18 (q) “Recycling” means any process in which recyclable materials are collected,
+19 separated, or processed and returned to the marketplace in the form of raw materials or
+20 products.
+21 (r) “Recycling services” means the services provided by persons engaged in the
+22 business of recycling, including the collection, processing, storage, purchase, sale, or
+23 disposition of recyclable materials.
+24 (r–1) “Refuse disposal system” has the meaning stated in § 9–201 of this title.
+25 (r–2) “Representative organization” means a nonprofit organization created by
+26 producers to implement a Paint Stewardship Program.
+27 (r–3) “Retailer” means any person that offers architectural paint for sale at retail
+28 in the State.
+29 (r–4) “Sale” or “sell” means any transfer of title for consideration, including remote
+30 sales conducted through sales outlets, catalogues, the Internet, or any other similar
+31 electronic means.
+SENATE BILL 591 7
+1 (s) (1) “Solid waste stream” means garbage or refuse that would, unless
+2 recycled, be disposed of in a refuse disposal system.
+3 (2) “Solid waste stream” includes organic material capable of being
+4 composted that is not composted in accordance with regulations adopted under § 9–1725(b)
+5 of this subtitle.
+6 (3) “Solid waste stream” does not include:
+7 (i) Hospital waste;
+8 (ii) Rubble;
+9 (iii) Scrap material;
+10 (iv) Land clearing debris;
+11 (v) Sewage sludge; or
+12 (vi) Waste generated by a single individual or business and disposed
+13 of in a facility dedicated solely for that entity’s waste.
+14 (T) “TIER I COVERED ELECTRONIC DEVICE” MEANS A COMPUTER MONITOR,
+15 TELEVISION, OR VIDEO DISPLAY DEVICE THAT IS NOT OTHERWISE SPECIFIED AS A
+16 TIER II COVERED ELECTRONIC DEVICE.
+17 (U) “TIER II COVERED ELECTRONIC DEVICE” MEANS:
+18 (1) A LAPTOP COMPUTER;
+19 (2) A PERSONAL DIGITAL ASSISTANT, NOTEBOOK, READER, OR
+20 TABLET DEVICE;
+21 (3) A CELL PHONE;
+22 (4) A CENTRAL PROCESSING UNIT OF A COMPUTER;
+23 (5) A PRINTER;
+24 (6) A SCANNER;
+25 (7) A FACSIMILE MACHINE;
+26 (8) A COPIER; AND
+8 SENATE BILL 591
+1 (9) ANY OTHER COMPUTER OR ELECTRONIC DEVICE OR ACCESSORY
+2 THAT HAS A PLUG OR BATTERY THAT IS DESIGNATED AS A TIER II COVERED
+3 ELECTRONIC DEVICE BY THE DEPARTMENT.
+4 [(t)] (V) (1) “Video display device” means an electronic device with an output
+5 surface that displays or is capable of displaying moving graphical images or visual
+6 representations of image sequences or pictures that show a number of quickly changing
+7 images on a screen to create the illusion of motion.
+8 (2) “Video display device” includes a device that is an integral part of the
+9 display and cannot easily be removed from the display by the consumer and that produces
+10 the moving image on the screen.
+11 (3) A video display device may use a cathode–ray tube (CRT), liquid crystal
+12 display (LCD), gas plasma, digital light processing, or other image–projection technology.
+13 [(u)] (W) “White goods” includes:
+14 (1) Refrigerators;
+15 (2) Stoves;
+16 (3) Washing machines;
+17 (4) Dryers;
+18 (5) Water heaters; [and]
+19 (6) Air conditioners; AND
+20 (7) ANY OTHER APPLIANCES DESIGNATED BY THE DEPARTMENT IN
+21 REGULATION.
+22 [(v)] (X) (1) “Yard waste” means organic plant waste derived from gardening,
+23 landscaping, and tree trimming activities.
+24 (2) “Yard waste” includes leaves, garden waste, lawn cuttings, weeds, and
+25 prunings.
+26 9–1707.
+27 (f) (1) There is a State Recycling Trust Fund.
+28 (2) The Fund shall consist of:
+29 (i) The newsprint recycling incentive fee;
+SENATE BILL 591 9
+1 (ii) The telephone directory recycling incentive fee collected under §
+2 9–1709 of this subtitle;
+3 (iii) [The covered electronic device manufacturer registration fee
+4 collected under § 9–1728 of this subtitle;
+5 (iv)] The Paint Stewardship Program plan and annual report review
+6 fees collected under § 9–1733(b) and (h) of this subtitle;
+7 [(v)] (IV) All fines and penalties collected under this subtitle;
+8 [(vi)] (V) Money appropriated in the State budget to the Fund; and
+9 [(vii)] (VI) Any other money from any other source accepted for the
+10 benefit of the Fund.
+11 (3) The Secretary shall administer the Fund.
+12 (4) The Treasurer shall hold the Fund separately and the Comptroller shall
+13 account for the Fund.
+14 (5) At the end of each fiscal year, any unspent or unencumbered balance in
+15 the Fund that exceeds $2,000,000 shall revert to the General Fund of the State in
+16 accordance with § 7–302 of the State Finance and Procurement Article.
+17 (6) In accordance with the State budget, the Fund shall be used only:
+18 (i) To provide grants to the counties to be used by the counties to
+19 develop and implement local recycling plans;
+20 (ii) [To provide grants to counties that have addressed methods for
+21 the separate collection and recycling of covered electronic devices in accordance with §
+22 9–1703(c)(1) of this subtitle;
+23 (iii) To provide grants to municipalities to be used by the
+24 municipalities to implement local covered electronic device recycling programs;
+25 (iv)] To cover the costs of the Paint Stewardship Program plan review
+26 under § 9–1733(b) of this subtitle, the annual report review under § 9–1733(h) of this
+27 subtitle, and associated costs for Program compliance oversight; [and]
+28 (III) IN ACCORDANCE WITH PARAGRAPH (7) OF THIS
+29 SUBSECTION, TO MAKE A DISBURSEMENT TO AN AUTHORIZED COLLECTOR OR AN
+30 AUTHORIZED RECYCLER IN ACCORDANCE WITH § 9–1728.3(G) OF THIS SUBTITLE;
+31 AND
+10 SENATE BILL 591
+1 [(v)] (IV) To carry out the purposes of the land management
+2 administration.
+3 (7) (I) 1. THERE SHALL BE A SEPARATE COVERED ELECTRONIC
+4 DEVICE RECYCLING ACCOUNT WITHIN THE FUND.
+5 2. THE ACCOUNT SHALL CONSIST OF ANY FEES
+6 COLLECTED FROM ELECTRONICS RETAILERS UNDER § 9–1728.3(E) OF THIS
+7 SUBTITLE.
+8 3. THE ACCOUNT SHALL BE USED ONLY TO MAKE A
+9 DISBURSEMENT TO AN AUTHORIZED RECYCLER OR AN AUTHORIZED COLLECTOR IN
+10 ACCORDANCE WITH § 9–1728.3(G) OF THIS SUBTITLE.
+11 (II) 1. THERE SHALL BE A SEPARATE COVERED ELECTRONIC
+12 DEVICE MANUFACTURER REGISTRATION FEE ACCOUNT WITHIN THE FUND.
+13 2. THE ACCOUNT SHALL CONSIST OF THE COVERED
+14 ELECTRONIC DEVICE MANUFACTURER REGISTRATION FEE COLLECTED IN
+15 ACCORDANCE WITH § 9–1728(C) OF THIS SUBTITLE.
+16 3. THE ACCOUNT SHALL BE USED TO:
+17 A. FUND THE COVERED ELECTRONIC DEVICE
+18 RECYCLING PROGRAM ESTABLISHED UNDER § 9–1728.3 OF THIS SUBTITLE; AND
+19 B. REIMBURSE EXPENSES OF MEMBERS OF THE
+20 COVERED ELECTRONIC DEVICE ADVISORY COUNCIL UNDER § 9–1728.4 OF THIS
+21 SUBTITLE.
+22 [(7)] (8) (i) The Treasurer shall invest the money in the Fund in the
+23 same manner as other State money may be invested.
+24 (ii) Any investment earnings of the Fund shall be credited to the
+25 General Fund of the State.
+26 9–1727.
+27 (a) This section applies to a manufacturer that sells or offers for sale a new
+28 covered electronic device in the State.
+29 (b) A manufacturer may not sell or offer for sale to any person in the State a new
+30 covered electronic device unless:
+SENATE BILL 591 11
+1 (1) The covered electronic device is labeled with the name of the
+2 manufacturer or the manufacturer’s brand label; and
+3 (2) The manufacturer has registered with and[, if applicable,] submitted a
+4 registration fee to the Department as provided under this part.
+5 9–1728.
+6 (a) A covered electronic device manufacturer’s registration shall include:
+7 (1) The brand names under which the manufacturer sells or offers for sale
+8 covered electronic devices in the State;
+9 (2) [Whether the manufacturer has implemented a covered electronic
+10 device takeback program;
+11 (3) If the manufacturer has implemented a covered electronic device
+12 takeback program:
+13 (i)] A toll–free number or Web site address that provides
+14 [information about the takeback program, including] a detailed description of how a person
+15 may return a covered electronic device for recycling, refurbishing, or reuse; [and]
+16 [(ii) One year after the implementation of the program and each year
+17 thereafter, a report on the implementation of the program during the prior year, including:
+18 1. The total weight of the covered electronic devices received
+19 by the program from Maryland during the prior year;
+20 2. The total number of covered electronic devices from
+21 Maryland recycled, refurbished, and reused during the prior year; and
+22 3. The processes and methods used to recycle, refurbish, or
+23 reuse the covered electronic devices received from Maryland;]
+24 [(4)] (3) The total number of covered electronic devices sold in the State
+25 in the prior year, including:
+26 (i) The types of covered electronic devices sold; and
+27 (ii) The brand names under which the covered electronic devices
+28 were sold; and
+29 [(5)] (4) Any additional information required by the Department in
+30 regulation.
+12 SENATE BILL 591
+1 (b) The registration shall[:
+2 (1) Be] BE submitted to the Department by March 1 of each year[; and
+3 (2) If the manufacturer has implemented a covered electronic device
+4 takeback program, be updated prior to any significant change in the program].
+5 (c) (1) [The] SUBJECT TO PARAGRAPH (5) OF THIS SUBSECTION, THE
+6 covered electronic device manufacturer registration fee shall be paid by a manufacturer in
+7 accordance with this subsection.
+8 (2) [For the initial registration by a manufacturer, the] THE registration
+9 fee is:
+10 (i) $10,000 for a manufacturer that sold at least 1,000 covered
+11 electronic devices in the State in the prior year; and
+12 (ii) $5,000 for a manufacturer that sold at least 100 but not more
+13 than 999 covered electronic devices in the State in the prior year.
+14 [(3) For each subsequent annual registration by a manufacturer that did
+15 not have an implemented covered electronic device takeback program in the prior year, the
+16 registration fee is:
+17 (i) 1. On or after March 1, 2013, and before March 1, 2016,
+18 $10,000 for a manufacturer that sold at least 1,000 covered electronic devices in the State
+19 in the prior year; and
+20 2. On or after March 1, 2016, $5,000 for a manufacturer that
+21 sold at least 1,000 covered electronic devices in the State in the prior year; and
+22 (ii) $5,000 for a manufacturer that sold at least 100 but not more
+23 than 999 covered electronic devices in the State in the prior year.
+24 (4) For each subsequent annual registration by a manufacturer that had
+25 an implemented covered electronic device takeback program in the prior year, the
+26 registration fee is $500.]
+27 [(5)] (3) There is no registration fee for a manufacturer that sold less than
+28 100 covered electronic devices in the State in the prior year.
+29 [(6)] (4) The registration fee required under this subsection shall:
+30 (i) Be submitted to the Department by March 1 of each year; and
+SENATE BILL 591 13
+1 (ii) Be paid into the COVERED ELECTRONIC DEVICE
+2 MANUFACTURER REGISTRATION FEE ACCOUNT WITHIN THE State Recycling Trust
+3 Fund.
+4 (5) THE DEPARTMENT MAY ADJUST THE COVERED ELECTRONIC
+5 DEVICE MANUFACTURER REGISTRATION FEE BY REGULATION.
+6 (d) (1) The Department shall:
+7 (i) Review the registration submitted under this section; and
+8 (ii) If the registration does not meet the requirements of this section
+9 and the regulations adopted by the Department under this subtitle, notify the
+10 manufacturer of the insufficiency.
+11 (2) Within 60 days after receipt of a notice of insufficiency, the
+12 manufacturer shall submit a revised registration that addresses the insufficiencies noted
+13 by the Department.
+14 (e) The Department shall maintain a list of registered covered electronic device
+15 manufacturers on its Web site.
+16 (f) The sales data submitted in accordance with subsection [(a)(4)] (A)(3) of this
+17 section shall be treated as confidential and proprietary, and may not be disclosed except as
+18 otherwise required by law.
+19 9–1728.1.
+20 [(a) In this section, “retailer” means any person that sells a covered electronic
+21 device to a consumer.
+22 (b)] If a manufacturer is subject to the requirements of §§ 9–1727 and 9–1728 of
+23 this [part] SUBTITLE, [a] AN ELECTRONICS retailer may not sell or offer for sale to any
+24 person in the State a new covered electronic device manufactured by the manufacturer,
+25 unless the manufacturer has complied with the requirements of §§ 9–1727 and 9–1728 of
+26 this [part] SUBTITLE.
+27 9–1728.2.
+28 [(a)] A manufacturer [that has implemented a covered electronic device takeback
+29 program] shall include educational and instructional materials relating to the destruction
+30 and sanitization of data from a covered electronic device[:
+31 (1) With] WITH each new covered electronic device sold or offered for sale
+32 in the State[;]:
+14 SENATE BILL 591
+1 [(2)] (1) (I) On the manufacturer’s [covered electronic device takeback
+2 program Web site] WEBSITE; or
+3 [(3)] (II) As information provided through [the manufacturer’s covered
+4 electronic device takeback program] A toll–free number; AND
+5 (2) IN MULTIPLE LANGUAGES, AS DETERMINED BY THE
+6 DEPARTMENT, AND FORMATS TO COMPLY WITH THE FEDERAL AMERICANS WITH
+7 DISABILITIES ACT.
+8 [(b) A manufacturer that is participating in a covered electronic device takeback
+9 program established by a group of covered electronic device manufacturers shall be
+10 considered as having implemented a covered electronic device takeback program under this
+11 part.]
+12 9–1728.3.
+13 (A) IN THIS SECTION, “PROGRAM” MEANS THE COVERED ELECTRONIC
+14 DEVICE RECYCLING PROGRAM.
+15 (B) (1) THERE IS A COVERED ELECTRONIC DEVICE RECYCLING
+16 PROGRAM IN THE DEPARTMENT.
+17 (2) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE
+18 DEPARTMENT SHALL ADMINISTER THE PROGRAM.
+19 (II) THE DEPARTMENT MAY CONTRACT WITH A NONPROFIT
+20 ORGANIZATION, A B CORPORATION, OR ANY OTHER ENTITY THAT SPECIALIZES IN
+21 THE PRIVATE MANAGEMENT OF ELECTRONICS RECYCLING SYSTEMS FOR
+22 GOVERNMENTAL ENTITIES TO ADMINISTER THE PROGRAM.
+23 (C) THE PURPOSE OF THE PROGRAM IS TO FACILITATE THE COLLECTION
+24 AND RECYCLING, REFURBISHING, OR REUSE OF COVERED ELECTRONIC DEVICES IN
+25 THE STATE.
+26 (D) THE PROGRAM SHALL BE FUNDED BY THE COVERED ELECTRONIC
+27 DEVICE MANUFACTURER REGISTRATION FEE ACCOUNT ESTABLISHED WITHIN THE
+28 STATE RECYCLING TRUST FUND UNDER § 9–1707(F)(7)(II) OF THIS SUBTITLE.
+29 (E) (1) BEGINNING JULY 1, 2027, A CONSUMER SHALL PAY A RECYCLING
+30 FEE WITH THE PURCHASE OF A NEW COVERED ELECTRONIC DEVICE IN THE STATE.
+31 (2) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE
+32 RECYCLING FEE REQUIRED UNDER PARAGRAPH (1) OF THIS SUBSECTION SHALL BE
+SENATE BILL 591 15
+1 IN AN AMOUNT NECESSARY TO COVER REIMBURSEMENT FOR COSTS UNDER
+2 SUBSECTION (G) OF THIS SECTION.
+3 (II) THE DEPARTMENT, IN CONSULTATION WITH THE COVERED
+4 ELECTRONIC DEVICE ADVISORY COUNCIL ESTABLISHED UNDER § 9–1728.4 OF THIS
+5 SUBTITLE, MAY BY REGULATION:
+6 1. DETERMINE REASONABLE RECYCLING FEES
+7 REQUIRED UNDER PARAGRAPH (1) OF THIS SUBSECTION;
+8 2. AMEND OR EXPAND:
+9 A. EXISTING TIERS OF COVERED ELECTRONIC DEVICES;
+10 AND
+11 B. THE DEFINITION OF “WHITE GOODS” AS DEFINED IN §
+12 9–1701 OF THIS SUBTITLE; AND
+13 3. ESTABLISH ADDITIONAL TIERS OF COVERED
+14 ELECTRONIC DEVICES.
+15 (F) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION
+16 AND BEGINNING AUGUST 1, 2027, AND EACH MONTH THEREAFTER, AN
+17 ELECTRONICS RETAILER SHALL REMIT THE RECYCLING FEE COLLECTED DURING
+18 THE IMMEDIATELY PRECEDING MONTH TO THE COMPTROLLER.
+19 (2) (I) AN ELECTRONICS RETAILER THAT TIMELY SUBMITS THE
+20 RECYCLING FEE UNDER THIS SUBSECTION IS ALLOWED, FOR THE EXPENSE OF
+21 ADMINISTERING AND PAYING THE RECYCLING FEE, A CREDIT IN AN AMOUNT NOT
+22 MORE THAN 3% OF THE TOTAL AMOUNT OF RECYCLING FEES COLLECTED UNDER
+23 SUBSECTION (E) OF THIS SECTION.
+24 (II) THE DEPARTMENT AND THE COMPTROLLER JOINTLY
+25 SHALL DETERMINE THE AMOUNT OF THE CREDIT AUTHORIZED UNDER THIS
+26 PARAGRAPH.
+27 (3) EACH QUARTER, THE COMPTROLLER SHALL DEPOSIT ALL
+28 RECYCLING FEES COLLECTED UNDER THIS SECTION INTO THE COVERED
+29 ELECTRONIC DEVICE RECYCLING ACCOUNT ESTABLISHED WITHIN THE STATE
+30 RECYCLING TRUST FUND UNDER § 9–1707(F)(7)(I) OF THIS SUBTITLE, LESS THE
+31 COST OF ADMINISTRATION.
+16 SENATE BILL 591
+1 (G) BEGINNING JULY 1, 2028, AND EACH MONTH THEREAFTER AND ON
+2 RECEIPT OF ACCURATE AND REASONABLE REIMBURSEMENT REQUESTS AS
+3 DETERMINED BY THE DEPARTMENT, THE DEPARTMENT SHALL, WITHIN 45 DAYS
+4 AFTER THE DATE THAT THE REIMBURSEMENT REQUEST IS RECEIVED, DISBURSE
+5 FUNDS FROM THE COVERED ELECTRONIC DEVICE RECYCLING ACCOUNT WITHIN
+6 THE STATE RECYCLING TRUST FUND TO:
+7 (1) AUTHORIZED RECYCLERS AS REIMBURSEMENT FOR THE COSTS
+8 OF RECYCLING, REFURBISHMENT, OR REUSE OF COVERED ELECTRONIC DEVICES IN
+9 ACCORDANCE WITH THE PROGRAM, INCLUDING COLLECTION AND
+10 TRANSPORTATION SUCH AS THE ADMINISTRATION OF MAILBACK PROGRAMS,
+11 CURBSIDE PICKUP PROGRAMS, AND COLLECTION FROM DROP–OFF SITES, AS
+12 DETERMINED BY THE DEPARTMENT IN REGULATION; AND
+13 (2) AUTHORIZED COLLECTORS AS REIMBURSEMENT FOR THE COSTS
+14 OF STORAGE, ON–SITE COLLECTION, EQUIPMENT, HEAT AND FIRE DETECTION AND
+15 SUPPRESSION AND EXTINGUISHING SYSTEMS AND EQUIPMENT, TRANSPORTATION,
+16 STAFFING, EDUCATION, AND, IF APPLICABLE, THE ADMINISTRATION OF MAILBACK
+17 AND CURBSIDE PICKUP PROGRAMS, AS DETERMINED BY THE DEPARTMENT IN
+18 REGULATION.
+19 (H) (1) IF AN AUTHORIZED RECYCLER OR AN AUTHORIZED COLLECTOR
+20 RECEIVES REIMBURSEMENT IN ACCORDANCE WITH SUBSECTION (G) OF THIS
+21 SECTION, THE AUTHORIZED RECYCLER AND THE AUTHORIZED COLLECTOR:
+22 (I) EXCEPT AS PROVIDED IN ITEM (II) OF THIS PARAGRAPH AND
+23 SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, MAY NOT CHARGE A PERSON A
+24 FEE FOR DELIVERING OR DROPPING OFF A COVERED ELECTRONIC DEVICE ON–SITE;
+25 AND
+26 (II) SHALL, IF APPLICABLE, CHARGE A COVERED ELECTRONIC
+27 DEVICE MANUFACTURER A FEE FOR DELIVERING OR DROPPING OFF A COVERED
+28 ELECTRONIC DEVICE ON–SITE.
+29 (2) THE DEPARTMENT MAY AUTHORIZE AN AUTHORIZED RECYCLER
+30 OR AUTHORIZED COLLECTOR TO CHARGE A PERSON A FEE FOR DROPPING OFF A
+31 COVERED ELECTRONIC DEVICE IF THE AUTHORIZED RECYCLER OR AUTHORIZED
+32 COLLECTOR SUBMITS A WAIVER JUSTIFYING THE NEED TO CHARGE THE FEE.
+33 9–1728.4.
+34 (A) THERE IS A COVERED ELECTRONIC DEVICE ADVISORY COUNCIL.
+SENATE BILL 591 17
+1 (B) THE PURPOSE OF THE ADVISORY COUNCIL IS TO ADVISE THE
+2 DEPARTMENT ON THE IMPLEMENTATION AND THE ADMINISTRATION OF THE
+3 COVERED ELECTRONIC DEVICE RECYCLING PROGRAM ESTABLISHED UNDER §
+4 9–1728.3 OF THIS SUBTITLE.
+5 (C) THE ADVISORY COUNCIL CONSISTS OF THE FOLLOWING MEMBERS:
+6 (1) ONE MEMBER OF THE SENATE OF MARYLAND, OR THE MEMBER’S
+7 DESIGNEE, APPOINTED BY THE PRESIDENT OF THE SENATE;
+8 (2) ONE MEMBER OF THE HOUSE OF DELEGATES, OR THE MEMBER’S
+9 DESIGNEE, APPOINTED BY THE SPEAKER OF THE HOUSE;
+10 (3) THE COMPTROLLER, OR THE COMPTROLLER’S DESIGNEE;
+11 (4) THE SECRETARY, OR THE SECRETARY’S DESIGNEE; AND
+12 (5) THE FOLLOWING MEMBERS, APPOINTED BY THE SECRETARY:
+13 (I) ONE REPRESENTATIVE OF THE MARYLAND ASSOCIATION
+14 OF COUNTIES;
+15 (II) ONE REPRESENTATIVE OF THE MARYLAND MUNICIPAL
+16 LEAGUE;
+17 (III) ONE REPRESENTATIVE OF COVERED ELECTRONIC DEVICE
+18 RECYCLERS IN THE STATE;
+19 (IV) ONE REPRESENTATIVE OF COVERED ELECTRONIC DEVICE
+20 MANUFACTURERS IN THE STATE;
+21 (V) ONE REPRESENTATIVE OF ELECTRONICS RETAILERS IN
+22 THE STATE;
+23 (VI) ONE REPRESENTATIVE OF THE MARYLAND
+24 ENVIRONMENTAL SERVICE;
+25 (VII) ONE REPRESENTATIVE OF THE NORTHEAST MARYLAND
+26 WASTE DISPOSAL AUTHORITY;
+27 (VIII) ONE REPRESENTATIVE OF A NONPROFIT ENVIRONMENTAL
+28 ADVOCACY ORGANIZATION THAT HAS EXPERIENCE WITH EXTENDED PRODUCER
+29 RESPONSIBILITY LAWS;
+18 SENATE BILL 591
+1 (IX) ONE REPRESENTATIVE OF THE MARYLAND RECYCLING
+2 NETWORK; AND
+3 (X) ANY OTHER MEMBER AS DETERMINED BY THE SECRETARY.
+4 (D) FROM AMONG THE ADVISORY COUNCIL MEMBERS, THE SECRETARY
+5 SHALL DESIGNATE TWO MEMBERS TO SERVE AS COCHAIRS OF THE ADVISORY
+6 COUNCIL.
+7 (E) THE DEPARTMENT SHALL PROVIDE STAFF FOR THE ADVISORY
+8 COUNCIL.
+9 (F) A MEMBER OF THE ADVISORY COUNCIL:
+10 (1) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE
+11 ADVISORY COUNCIL; BUT
+12 (2) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES:
+13 (I) UNDER THE STANDARD STATE TRAVEL REGULATIONS, AS
+14 PROVIDED IN THE STATE BUDGET; AND
+15 (II) FROM THE COVERED ELECTRONIC DEVICE MANUFACTURER
+16 REGISTRATION FEE ACCOUNT IN THE STATE RECYCLING TRUST FUND.
+17 (G) THE ADVISORY COUNCIL SHALL MEET AT THE REQUEST OF THE
+18 SECRETARY.
+19 (H) THE ADVISORY COUNCIL SHALL STUDY AND MAKE RECOMMENDATIONS
+20 REGARDING:
+21 (1) CHANGES TO THE DEFINITION OF “COVERED ELECTRONIC
+22 DEVICE”;
+23 (2) THE AMOUNT OF:
+24 (I) RECYCLING FEES COLLECTED BY ELECTRONICS RETAILERS
+25 EACH YEAR TO ENSURE COSTS BORNE BY AUTHORIZED COLLECTORS AND
+26 AUTHORIZED RECYCLERS ARE COVERED; AND
+27 (II) COVERED ELECTRONIC DEVICE MANUFACTURER
+28 REGISTRATION FEES COLLECTED EACH YEAR TO ENSURE ADEQUATE FUNDING FOR
+SENATE BILL 591 19
+1 THE DEPARTMENT’S ADMINISTRATION OF THE COVERED ELECTRONIC DEVICE
+2 RECYCLING PROGRAM;
+3 (3) REASONABLE CAPS ON:
+4 (I) COVERED ELECTRONIC DEVICE RECYCLING PAYMENTS;
+5 AND
+6 (II) COVERED ELECTRONIC DEVICE RECOVERY FEE PAYMENTS;
+7 (4) STANDARDS TO BE USED BY THE DEPARTMENT IN DEVELOPING
+8 APPLICATION MATERIALS AND PROCEDURES FOR AUTHORIZED COLLECTORS AND
+9 AUTHORIZED RECYCLERS IN ACCORDANCE WITH § 9–1729(B) OF THIS SUBTITLE;
+10 (5) THE CONVENIENCE AND AVAILABILITY OF DROP–OFF SITES FOR
+11 COVERED ELECTRONIC DEVICES IN THE STATE, INCLUDING AN EVALUATION OF THE
+12 FEASIBILITY AND COSTS OF INCREASING PUBLIC ACCESS TO DROP–OFF SITES,
+13 MAILBACK PROGRAMS, AND CURBSIDE PICKUP FOR PURPOSES OF DEVELOPING
+14 ADOPTION AND CONVENIENCE TARGETS FOR EACH METHOD;
+15 (6) THE REUSE, REFURBISHMENT, AND RECYCLABILITY OF COVERED
+16 ELECTRONIC DEVICES AND OTHER ELECTRONIC DEVICES UNDER CONSIDERATION
+17 TO BE COVERED ELECTRONIC DEVICES; AND
+18 (7) ANY OTHER RELATED TOPICS IF REQUESTED BY THE
+19 DEPARTMENT.
+20 (I) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, ON OR
+21 BEFORE DECEMBER 1, 2026, AND EACH DECEMBER 1 THEREAFTER, THE ADVISORY
+22 COUNCIL SHALL REPORT ITS FINDINGS AND RECOMMENDATIONS TO THE
+23 DEPARTMENT.
+24 (2) (I) RECOMMENDATIONS SUBMITTED UNDER THIS SUBSECTION
+25 MAY NOT BE REQUIRED TO BE CONSENSUS RECOMMENDATIONS.
+26 (II) IF MULTIPLE RECOMMENDATIONS ARE SUBMITTED UNDER
+27 THIS SUBSECTION, EACH RECOMMENDATION SHALL INDICATE EACH MEMBER IN
+28 FAVOR OF THE RECOMMENDATION.
+29 9–1729.
+30 (A) The Department may adopt regulations necessary to implement AND
+31 ADMINISTER the provisions of this subtitle[, including the required components of a
+32 covered electronic device takeback program].
+20 SENATE BILL 591
+1 (B) REGULATIONS ADOPTED TO IMPLEMENT AND ADMINISTER THE
+2 COVERED ELECTRONIC DEVICE RECYCLING PROGRAM IN ACCORDANCE WITH §
+3 9–1728.3 OF THIS SUBTITLE SHALL ESTABLISH APPLICATION MATERIALS AND
+4 PROCEDURES FOR AUTHORIZED COLLECTORS AND AUTHORIZED RECYCLERS.
+5 9–1730.
+6 (a) The provisions and penalties of § 9–342 of this title shall be used and shall
+7 apply to enforce violations of this part.
+8 (b) (1) In addition to any other penalty provided by law, the Department may
+9 assess against any ELECTRONICS retailer that violates [§ 9–1728.1(b)] § 9–1728.1 of this
+10 [part] SUBTITLE a fine up to $1,000 for each violation, but not exceeding $10,000 total.
+11 (2) A fine under paragraph (1) of this subsection may be assessed only after
+12 the ELECTRONICS retailer that committed the violation has been issued three warnings
+13 regarding the violation.
+14 (3) Each day on which a violation occurs or continues is a separate violation
+15 under this subsection.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
+17 2025, the Department of the Environment shall notify manufacturers of covered electronic
+18 devices of the Covered Electronic Device Recycling Program as enacted by Section 1 of this
+19 Act.
+20 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2025.
+[DELETED: :CA      5   C A E ( F t p o a t c a u o t S R T F e c r c p o l r t e c e d t c m o c e d r t a c m r f b p i a c a w t F r e R a S f b m f t a c a a r i a c m p c a c t a t D o t i a t a D c a a r r t D t n c m c t B  A]
+[DELETED:  S  S  A  ( B  A S  A  (  S T A 9  ( I  ( “ o  ( ( “ s   ( “ p d n i i c o e(– “AU CR M A E T I B T E T A O C A M AD D  ( “A”:R   () L;O  () N;IO  () E;ILS  () A,V Y Y T E T N ,,;]
+[DELETED: S 3  () A:    1  TE ;   2  A A C A M A ( E()  N”.R (– “A”:UR   () A:    1  I T M O M O S O A M A M O C   A T;E    B G    2 A  T P O C O A C E D B DGE G G G G G ,,,, I O T S C F T P OS    B  F T T O SR   () IN,, T CT RH RE O R A C O L EEP§93. R    ( “A RR D N I A   ( “ e]
+[DELETED:  S   ( “ w t  ( ( “   ( “ f d n i a f t i r t o    ( A t    ( A o    ( A  ( ( “ i   ( “    ( A    ( A     1 A     2 A     3 A  ( ( “ c]ITII I     w m dy O T O C E D I E .   ( “   ae   ( “ b a c e d m o a g o c e d m f t c a r r o r o a c e l]
+[DELETED: S 5   ( P e d t t m i p p m p o d   ( C a   ( A  () “  () “]( o – “EL RR M A P T S A  ( “ f i p a p v f g d p a m  ( “ d t  ( ( “   ( “ l  ( ( “ s   ( “ p    ( A    ( A f  ( “  ( ( “ c m]
+[DELETED:  S    ( “  ( “ p  ( “ p o a p s i t S t i n t c t P S s  ( “ p m a p n u a n l w  ( “ s  ( ( “    ( W o b s w f d i a r d    ( M b c s c o p a r   ( “  ( “ s p  ( “ b o r i t c p s p s o d  ( “  ( “ o m a n o c b p  ( “ i  ( “ s c t s o c t I o a o s e]
+[DELETED: S 7  ( ( “ w s m g o r t w u r   ( “ w s i o m c o b c o   ( “    ( H    ( R    ( S    ( L    ( S    ( W o() “TI”I  E RN II.  () “TII”:I  E  ( A; ( A,,P D AT NK RR O ( A; ( A; ( A; ( A; ( A; ( A;R ]
+[DELETED:  S  (  H A P O B T I D A A I  CI E   () ( “]( s t d o i c o d m g i o v r i   ( “ d t   ( A d  () “](   ( R   ( S   ( W   ( D   ( W a]   ( A ( A E .  () ( “]( l   ( “ p 9  ( ( T   ( T    ( T]
+[DELETED: S 9    ( T 9    ( T c e d m r f c    () T f    () A](I    () M](    () A](V b   ( T   ( T a   ( A t F t e $ s r t t G F o t S i a   ( I    ( T d    ( T t 9    ( T p g t m t b u b t m   () T u § 9 o t s t a r r u § 9 o t s a]  () I(IN A W P  O TN   G E9()]
+[DELETED:  S     () T c o t p o t l m](I a   () 1 H U.   2  A S C O A F F E R U  E O T9(   3  A S B U O T M A  G 9().  () 1 IH U.   2  A S C O T C D M R F C I  C 9().   3 T:   A FCE T O L EP§93; R   E    B  E O M O T E D A C U   O T9   () ( T]( s    ( A G 9  ( T s a t a m t s o o f s a n c  ( A c]
+[DELETED: S 1   ( T c e d i l w t n o t m   ( Td,,  r 9  ( A   ( T c   ( W t m h i a c e d   ( I t m h i a c e d t    () A t n o W s a t p ig  m a]    ()Oma t     1 T b     2 T t n o c e d f M     3 T r   () T]( i    ( T    ( T b n u w t c e d w   () A a i r b t D i]( r]
+[DELETED:  S   ( Tl:   ( Be r;   ( I t m h i a c e d tm.  ( ( Te]S()U T P  O T SN T c a   ( Fe ]H f    ( $ f a m t s a l 1 c e    ( $ t   ( F n r    ( 1 O o a M 1 2 a b M 1 2 $ i     2 O s    ( $ t   ( F a i c e d t p i t p y t r   () T]( 1   () T](    ( B]
+[DELETED: S 1    ( B p i t E D R F A W T  S R T F   T E M A T C E  ( ( T    ( R    ( I a t r a b t D u t s n t m   ( W 6 d a r o a n o i t m b  ( T m  ( T () ]() s o 9  ( I d  () I t pt, a ][E  p u t pt. 9  () A t] pm  ae:   ( Wh  ie]]
+[DELETED:  S    () O c]()()  pe;   () A i p t t m c] () em ;A  ( I M LS A D B T,T  M C .  ( A p e b a g o c e d m s b c p() I,“P”CN T SN RM M T O LRP. E R() ( TCEDH I A O L E ED. E ( () S()U II H P. R  () TIH E M C W A NN   N B P M O E R S F R.() TH RG G  T.() TH R S B F B T C ERTF§9()(). E R U  FII () ( BJ1,2E U    T. ( () S()U II H   ]
+[DELETED: S 1 A A N T C R F C U G ).  () TDIH ET    9E :   1  R R F  );   2 A:   A ES   B T“” WS  1;E    3  A T O C() ( E(X   B U   A E M TR A1,2, O. ( () N E R T T S T F U T S I AD F T E OE    E ).  () TDIH E A T O J D T A O T C A U T ( E, QR T O S D A F C U T S I T C D R A E W T TTF§9()() R U  FI E ]
+[DELETED:  S () BJ1,2E U   A E M T A O O A A R R R A ET  EL W  ,D,4 DD D F T C E D R A W T E R URTF: (  A CG T  W T RM I C A S A T A O M PS P PS A C F DPO SS A– EN ; ( E NSN T –,T NG N D E ,, C P PS A D B T E I() ( F R I A W S G O TN :  () E(X II   N )NSE  () S,IHL E  M A D D CNS    T E E D I A O ) T.H]
+[DELETED: S 1() H P O T A C I T A T O T I A T A O TEDRP§ L E E R E U 3.() T:H ( OSM, E AD RSE  R EPS; ( OHD, O ES RSE  P OSH; ( TC,C’; OR  ORS ( TS,S’; EY  EYSE  ( T,S:S  E  () OMN R O T A S O;  () OMIN R O T A U;  () IN T;  () VN T;  () N R O E R I T;  () OIN R O T AS; E  () ONIN R O T O ADA; I U  ()IN O T H E W E P]
+[DELETED:  S   () OMXN R O T A E;K   () AS.N E() F,R A T A C MS T E D T M T S A C O T A() TH E S P S F T A() A:  (  N R C A A M O TL  ( I:  () USSTRN T T R ES  TT ;  () IR T E R URTF.() H A C S M A T R O T.() H ( C T T D O C E ( T:  () E Y T E C B B A C AD   () IO E D M]
+[DELETED: S 1 ETS A O T O L E’CEP; R ( R:  () CO E D R PS  () C;IO ( S E  B 9(); ( TPO TE  A C O I P A T DPO SS PS A C P F P O D ( T,E T S  (  O R T I R B T.() ( S()U T P  O T SN O O E    E  R 1,2,D1 S R I F A R T T. ( () E  () IF SN E R S I E M I  9  T D m a r n t i)A  t p o t se, i t r c o a cm]
+[DELETED:  S () E A T I A A TEDRP§ L E E R I A W O T S S E A M A  9  ( T a  ( ( I a r §)   ]§9 pt    ( A t r r   ( E u  S 2 d A  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 591
+M3 5lr2271
+SB 686/24 – EEE CF 5lr2270
+By: Senator Augustine
+Introduced and read first time: January 23, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 Environment – Covered Electronic Device Recycling Program – Establishment
+3 (Electronics Recycling Health and Safety Modernization Act)
+4 FOR the purpose of altering the contents and use of the State Recycling Trust Fund;
+5 establishing a separate covered electronic device recycling account and a separate
+6 covered electronic device manufacturer registration fee account within the Fund;
+7 repealing certain provisions of law relating to existing covered electronic device
+8 takeback programs; altering certain provisions of law relating to registration fees for
+9 certain manufacturers of covered electronic devices; requiring that a certain
+10 manufacturer registration fee be paid into a certain account within the Fund;
+11 requiring certain manufacturers to include certain information with certain covered
+12 electronic devices in a certain manner; establishing the Covered Electronic Device
+13 Recycling Program in the Department of the Environment to facilitate the collection
+14 and recycling, refurbishment, or reuse of certain covered electronic devices in the
+15 State; requiring a consumer, beginning on a certain date, to pay a certain recycling
+16 fee with the purchase of a new covered electronic device; requiring certain retailers,
+17 beginning on a certain date, to remit the recycling fee to the Comptroller in a certain
+18 manner; requiring the Department, beginning on a certain date, to disburse certain
+19 funds to authorized collectors and authorized recyclers in a certain manner;
+20 prohibiting an authorized collector or authorized recycler from charging a person a
+21 certain fee, subject to certain exceptions; establishing the covered electronic device
+22 advisory council to advise the Department on the implementation and the
+23 administration of the Program; requiring that certain regulations adopted by the
+24 Department establish certain application materials and procedures for authorized
+25 collectors and authorized recyclers; requiring the Department to notify certain
+26 manufacturers of covered electronic devices of certain information on or before a
+27 certain date; and generally relating to the recycling of covered electronic devices in
+28 the State.
+29 BY repealing and reenacting, with amendments,
+30 Article – Environment
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0591*
+
+2 SENATE BILL 591
+1 Section 9–1701, 9–1707(f), 9–1727, 9–1728, 9–1728.1, 9–1728.2, 9–1729, and 9–1730
+2 Annotated Code of Maryland
+3 (2014 Replacement Volume and 2024 Supplement)
+4 BY adding to
+5 Article – Environment
+6 Section 9–1728.3 and 9–1728.4
+7 Annotated Code of Maryland
+8 (2014 Replacement Volume and 2024 Supplement)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
+11 Article – Environment
+12 9–1701.
+13 (a) In this subtitle the following words have the meanings indicated.
+14 (b) “Anaerobic digestion” means the controlled anaerobic biological decomposition
+15 of organic waste material to produce biogas and digestate.
+16 (b–1) (1) “Architectural paint” means interior and exterior architectural coatings
+17 sold in containers of 5 gallons or less.
+18 (2) “Architectural paint” does not include industrial coatings, original
+19 equipment coatings, or specialty coatings.
+20 (B–2) (1) “AUTHORIZED COLLECTOR” MEANS AN ENTITY THAT IS
+21 AUTHORIZED BY THE DEPARTMENT TO ACCEPT OR COLLECT ALL MAKES AND
+22 MODELS OF COVERED ELECTRONIC DEVICES TO BE RECYCLED, REFURBISHED, OR
+23 REUSED.
+24 (2) “AUTHORIZED COLLECTOR” INCLUDES:
+25 (I) LOCAL GOVERNMENTS;
+26 (II) NONPROFIT ORGANIZATIONS;
+27 (III) ELECTRONICS RETAILERS;
+28 (IV) A PERSON AUTHORIZED BY A COUNTY, MUNICIPALITY, OR
+29 DISTRICT TO COLLECT COVERED ELECTRONIC DEVICES UNDER THE TERMS OF A
+30 CONTRACT, LICENSE, PERMIT, OR OTHER WRITTEN AUTHORIZATION; AND
+
+SENATE BILL 591 3
+1 (V) A MANUFACTURER THAT IS AN ELECTRONICS RETAILER:
+2 1. WITH THEIR OWN PHYSICAL COVERED ELECTRONIC
+3 DEVICE TAKEBACK LOCATION IN THE STATE; AND
+4 2. THAT ACCEPTS AND COLLECTS ALL MAKES AND
+5 MODELS OF COVERED ELECTRONIC DEVICES FROM THE PUBLIC AT NO COST.
+6 (3) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION,
+7 “AUTHORIZED COLLECTOR” DOES NOT INCLUDE A MANUFACTURER.
+8 (B–3) (1) “AUTHORIZED RECYCLER” MEANS:
+9 (I) A PERSON THAT:
+10 1. ENGAGES IN THE MANUAL OR MECHANICAL
+11 REFURBISHMENT OR SEPARATION OF ALL MAKES AND MODELS OF COVERED
+12 ELECTRONIC DEVICES IN ORDER TO RECOVER:
+13 A. THE ENTIRE DEVICE FOR THE PURPOSE OF REUSE; OR
+14 B. COMPONENTS OR COMMODITIES FROM THE DEVICES
+15 FOR THE PURPOSE OF RECYCLING; OR
+16 2. A. CHANGES THE PHYSICAL OR CHEMICAL
+17 COMPOSITION OF A COVERED ELECTRONIC DEVICE BY DECONSTRUCTING,
+18 REDUCING IN SIZE, CRUSHING, CUTTING, SAWING, COMPACTING, SHREDDING, OR
+19 REFINING IN ORDER TO SEGREGATE COMPONENTS FOR THE PURPOSE OF
+20 RECYCLING THE COMPONENTS; AND
+21 B. ARRANGES FOR THE TRANSPORT OF SEGREGATED
+22 COMPONENTS TO AN END USER; OR
+23 (II) AN ELECTRONICS RETAILER THAT IS AUTHORIZED BY THE
+24 DEPARTMENT TO COLLECT, REFURBISH, REUSE, OR RECYCLE A COVERED
+25 ELECTRONIC DEVICE IN ACCORDANCE WITH THE COVERED ELECTRONIC DEVICE
+26 RECYCLING PROGRAM ESTABLISHED UNDER § 9–1728.3 OF THIS SUBTITLE.
+27 (2) “AUTHORIZED RECYCLER” DOES NOT INCLUDE A
+28 MANUFACTURER.
+29 (c) “Compost” means the product of composting in accordance with the standards
+30 established by the Secretary of Agriculture under § 6–221 of the Agriculture Article.
+
+4 SENATE BILL 591
+1 (d) “Composting” means the controlled aerobic biological decomposition of organic
+2 waste material in accordance with the standards established by the Secretary under this
+3 title.
+4 (e) (1) “Composting facility” means a facility where composting takes place.
+5 (2) “Composting facility” does not include a facility that is required to
+6 obtain:
+7 (i) A natural wood waste recycling facility permit in accordance with
+8 this title;
+9 (ii) A sewage sludge utilization permit in accordance with this title;
+10 or
+11 (iii) A refuse disposal permit in accordance with this title.
+12 (f) (1) “Computer” means a desktop personal computer or laptop computer,
+13 including the computer monitor.
+14 (2) “Computer” does not include:
+15 (i) A personal digital assistant device; or
+16 (ii) A computer peripheral device, including:
+17 1. A mouse or other similar pointing device;
+18 2. A printer; or
+19 3. A detachable keyboard.
+20 (g) (1) “Covered electronic device” means a [computer or video display] TIER
+21 I OR A TIER II COVERED ELECTRONIC device [with a screen that is greater than 4 inches
+22 measured diagonally] OR OTHER TIER OF COVERED ELECTRONIC DEVICE IF
+23 ESTABLISHED BY THE DEPARTMENT IN REGULATION.
+24 (2) “Covered electronic device” does not include a video display OR OTHER
+25 ELECTRONIC device that is part of a motor vehicle or that is contained within a household
+26 appliance, INCLUDING WHITE GOODS, or commercial, industrial, or medical equipment.
+27 (h) [“Covered electronic device takeback program” means a program, established
+28 by a covered electronic device manufacturer or a group of covered electronic device
+29 manufacturers, for the collection and recycling, refurbishing, or reuse of a covered
+30 electronic device labeled with the name of the manufacturer or the manufacturer’s brand
+31 label, including:
+
+SENATE BILL 591 5
+1 (1) Providing, at no cost to the returner, a method of returning a covered
+2 electronic device to the manufacturer, including postage paid mailing packages or
+3 designated collection points throughout the State;
+4 (2) Contracting with a recycler, local government, other manufacturer, or
+5 any other person; or
+6 (3) Any other program approved by the Department.
+7 (i)] “Director” means the Director of the Office of Recycling.
+8 [(i–1)] (I) “Distributor” means a company that has a contractual relationship with
+9 one or more producers to market and sell architectural paint to retailers in the State.
+10 (I–1) “ELECTRONICS RETAILER” MEANS ANY PERSON THAT SELLS A
+11 COVERED ELECTRONIC DEVICE DIRECTLY TO A CONSUMER.
+12 (i–2) “Food residuals” means material derived from the processing or discarding of
+13 food, including pre– and post–consumer vegetables, fruits, grains, dairy products, and
+14 meats.
+15 (j) “Manufacturer” means a person that is the brand owner of a covered electronic
+16 device sold or offered for sale in the State, by any means, including transactions conducted
+17 through sales outlets, catalogs, or the Internet.
+18 (k) (1) “Natural wood waste” means tree and other natural vegetative refuse.
+19 (2) “Natural wood waste” includes tree stumps, brush and limbs, root mats,
+20 logs, and other natural vegetative material.
+21 (l) (1) “Natural wood waste recycling facility” means a facility where recycling
+22 services for natural wood waste are provided.
+23 (2) “Natural wood waste recycling facility” does not include a collection or
+24 processing facility operated by:
+25 (i) A nonprofit or governmental organization located in the State; or
+26 (ii) A single individual or business that provides recycling services
+27 for its own employees or for its own recyclable materials generated on its own premises.
+28 (m) “Office” means the Office of Recycling within the Department.
+29 (n) (1) “Organics recycling” means any process in which organic materials or
+30 compostable packaging materials are collected, separated, or processed and returned to the
+31 marketplace in the form of raw materials or products.
+
+6 SENATE BILL 591
+1 (2) “Organics recycling” includes anaerobic digestion and composting.
+2 (o) “Organics recycling facility” means a facility where organics recycling takes
+3 place.
+4 (o–1) “Paint stewardship assessment” means the amount added to the purchase
+5 price of architectural paint sold in the State that is necessary to cover the Paint
+6 Stewardship Program’s cost of collecting, transporting, and processing postconsumer paint
+7 statewide.
+8 (o–2) “Postconsumer paint” means architectural paint not used and no longer
+9 wanted by a purchaser.
+10 (o–3) “Producer” means a manufacturer of architectural paint that sells, offers for
+11 sale, or distributes the paint in the State under the producer’s own name or brand.
+12 (p) (1) “Recyclable materials” means those materials that:
+13 (i) Would otherwise become solid waste for disposal in a refuse
+14 disposal system; and
+15 (ii) May be collected, separated, composted, or processed and
+16 returned to the marketplace in the form of raw materials or products.
+17 (2) “Recyclable materials” does not include incinerator ash.
+18 (q) “Recycling” means any process in which recyclable materials are collected,
+19 separated, or processed and returned to the marketplace in the form of raw materials or
+20 products.
+21 (r) “Recycling services” means the services provided by persons engaged in the
+22 business of recycling, including the collection, processing, storage, purchase, sale, or
+23 disposition of recyclable materials.
+24 (r–1) “Refuse disposal system” has the meaning stated in § 9–201 of this title.
+25 (r–2) “Representative organization” means a nonprofit organization created by
+26 producers to implement a Paint Stewardship Program.
+27 (r–3) “Retailer” means any person that offers architectural paint for sale at retail
+28 in the State.
+29 (r–4) “Sale” or “sell” means any transfer of title for consideration, including remote
+30 sales conducted through sales outlets, catalogues, the Internet, or any other similar
+31 electronic means.
+
+SENATE BILL 591 7
+1 (s) (1) “Solid waste stream” means garbage or refuse that would, unless
+2 recycled, be disposed of in a refuse disposal system.
+3 (2) “Solid waste stream” includes organic material capable of being
+4 composted that is not composted in accordance with regulations adopted under § 9–1725(b)
+5 of this subtitle.
+6 (3) “Solid waste stream” does not include:
+7 (i) Hospital waste;
+8 (ii) Rubble;
+9 (iii) Scrap material;
+10 (iv) Land clearing debris;
+11 (v) Sewage sludge; or
+12 (vi) Waste generated by a single individual or business and disposed
+13 of in a facility dedicated solely for that entity’s waste.
+14 (T) “TIER I COVERED ELECTRONIC DEVICE” MEANS A COMPUTER MONITOR,
+15 TELEVISION, OR VIDEO DISPLAY DEVICE THAT IS NOT OTHERWISE SPECIFIED AS A
+16 TIER II COVERED ELECTRONIC DEVICE.
+17 (U) “TIER II COVERED ELECTRONIC DEVICE” MEANS:
+18 (1) A LAPTOP COMPUTER;
+19 (2) A PERSONAL DIGITAL ASSISTANT, NOTEBOOK, READER, OR
+20 TABLET DEVICE;
+21 (3) A CELL PHONE;
+22 (4) A CENTRAL PROCESSING UNIT OF A COMPUTER;
+23 (5) A PRINTER;
+24 (6) A SCANNER;
+25 (7) A FACSIMILE MACHINE;
+26 (8) A COPIER; AND
+
+8 SENATE BILL 591
+1 (9) ANY OTHER COMPUTER OR ELECTRONIC DEVICE OR ACCESSORY
+2 THAT HAS A PLUG OR BATTERY THAT IS DESIGNATED AS A TIER II COVERED
+3 ELECTRONIC DEVICE BY THE DEPARTMENT.
+4 [(t)] (V) (1) “Video display device” means an electronic device with an output
+5 surface that displays or is capable of displaying moving graphical images or visual
+6 representations of image sequences or pictures that show a number of quickly changing
+7 images on a screen to create the illusion of motion.
+8 (2) “Video display device” includes a device that is an integral part of the
+9 display and cannot easily be removed from the display by the consumer and that produces
+10 the moving image on the screen.
+11 (3) A video display device may use a cathode–ray tube (CRT), liquid crystal
+12 display (LCD), gas plasma, digital light processing, or other image–projection technology.
+13 [(u)] (W) “White goods” includes:
+14 (1) Refrigerators;
+15 (2) Stoves;
+16 (3) Washing machines;
+17 (4) Dryers;
+18 (5) Water heaters; [and]
+19 (6) Air conditioners; AND
+20 (7) ANY OTHER APPLIANCES DESIGNATED BY THE DEPARTMENT IN
+21 REGULATION.
+22 [(v)] (X) (1) “Yard waste” means organic plant waste derived from gardening,
+23 landscaping, and tree trimming activities.
+24 (2) “Yard waste” includes leaves, garden waste, lawn cuttings, weeds, and
+25 prunings.
+26 9–1707.
+27 (f) (1) There is a State Recycling Trust Fund.
+28 (2) The Fund shall consist of:
+29 (i) The newsprint recycling incentive fee;
+
+SENATE BILL 591 9
+1 (ii) The telephone directory recycling incentive fee collected under §
+2 9–1709 of this subtitle;
+3 (iii) [The covered electronic device manufacturer registration fee
+4 collected under § 9–1728 of this subtitle;
+5 (iv)] The Paint Stewardship Program plan and annual report review
+6 fees collected under § 9–1733(b) and (h) of this subtitle;
+7 [(v)] (IV) All fines and penalties collected under this subtitle;
+8 [(vi)] (V) Money appropriated in the State budget to the Fund; and
+9 [(vii)] (VI) Any other money from any other source accepted for the
+10 benefit of the Fund.
+11 (3) The Secretary shall administer the Fund.
+12 (4) The Treasurer shall hold the Fund separately and the Comptroller shall
+13 account for the Fund.
+14 (5) At the end of each fiscal year, any unspent or unencumbered balance in
+15 the Fund that exceeds $2,000,000 shall revert to the General Fund of the State in
+16 accordance with § 7–302 of the State Finance and Procurement Article.
+17 (6) In accordance with the State budget, the Fund shall be used only:
+18 (i) To provide grants to the counties to be used by the counties to
+19 develop and implement local recycling plans;
+20 (ii) [To provide grants to counties that have addressed methods for
+21 the separate collection and recycling of covered electronic devices in accordance with §
+22 9–1703(c)(1) of this subtitle;
+23 (iii) To provide grants to municipalities to be used by the
+24 municipalities to implement local covered electronic device recycling programs;
+25 (iv)] To cover the costs of the Paint Stewardship Program plan review
+26 under § 9–1733(b) of this subtitle, the annual report review under § 9–1733(h) of this
+27 subtitle, and associated costs for Program compliance oversight; [and]
+28 (III) IN ACCORDANCE WITH PARAGRAPH (7) OF THIS
+29 SUBSECTION, TO MAKE A DISBURSEMENT TO AN AUTHORIZED COLLECTOR OR AN
+30 AUTHORIZED RECYCLER IN ACCORDANCE WITH § 9–1728.3(G) OF THIS SUBTITLE;
+31 AND
+
+10 SENATE BILL 591
+1 [(v)] (IV) To carry out the purposes of the land management
+2 administration.
+3 (7) (I) 1. THERE SHALL BE A SEPARATE COVERED ELECTRONIC
+4 DEVICE RECYCLING ACCOUNT WITHIN THE FUND.
+5 2. THE ACCOUNT SHALL CONSIST OF ANY FEES
+6 COLLECTED FROM ELECTRONICS RETAILERS UNDER § 9–1728.3(E) OF THIS
+7 SUBTITLE.
+8 3. THE ACCOUNT SHALL BE USED ONLY TO MAKE A
+9 DISBURSEMENT TO AN AUTHORIZED RECYCLER OR AN AUTHORIZED COLLECTOR IN
+10 ACCORDANCE WITH § 9–1728.3(G) OF THIS SUBTITLE.
+11 (II) 1. THERE SHALL BE A SEPARATE COVERED ELECTRONIC
+12 DEVICE MANUFACTURER REGISTRATION FEE ACCOUNT WITHIN THE FUND.
+13 2. THE ACCOUNT SHALL CONSIST OF THE COVERED
+14 ELECTRONIC DEVICE MANUFACTURER REGISTRATION FEE COLLECTED IN
+15 ACCORDANCE WITH § 9–1728(C) OF THIS SUBTITLE.
+16 3. THE ACCOUNT SHALL BE USED TO:
+17 A. FUND THE COVERED ELECTRONIC DEVICE
+18 RECYCLING PROGRAM ESTABLISHED UNDER § 9–1728.3 OF THIS SUBTITLE; AND
+19 B. REIMBURSE EXPENSES OF MEMBERS OF THE
+20 COVERED ELECTRONIC DEVICE ADVISORY COUNCIL UNDER § 9–1728.4 OF THIS
+21 SUBTITLE.
+22 [(7)] (8) (i) The Treasurer shall invest the money in the Fund in the
+23 same manner as other State money may be invested.
+24 (ii) Any investment earnings of the Fund shall be credited to the
+25 General Fund of the State.
+26 9–1727.
+27 (a) This section applies to a manufacturer that sells or offers for sale a new
+28 covered electronic device in the State.
+29 (b) A manufacturer may not sell or offer for sale to any person in the State a new
+30 covered electronic device unless:
+
+SENATE BILL 591 11
+1 (1) The covered electronic device is labeled with the name of the
+2 manufacturer or the manufacturer’s brand label; and
+3 (2) The manufacturer has registered with and[, if applicable,] submitted a
+4 registration fee to the Department as provided under this part.
+5 9–1728.
+6 (a) A covered electronic device manufacturer’s registration shall include:
+7 (1) The brand names under which the manufacturer sells or offers for sale
+8 covered electronic devices in the State;
+9 (2) [Whether the manufacturer has implemented a covered electronic
+10 device takeback program;
+11 (3) If the manufacturer has implemented a covered electronic device
+12 takeback program:
+13 (i)] A toll–free number or Web site address that provides
+14 [information about the takeback program, including] a detailed description of how a person
+15 may return a covered electronic device for recycling, refurbishing, or reuse; [and]
+16 [(ii) One year after the implementation of the program and each year
+17 thereafter, a report on the implementation of the program during the prior year, including:
+18 1. The total weight of the covered electronic devices received
+19 by the program from Maryland during the prior year;
+20 2. The total number of covered electronic devices from
+21 Maryland recycled, refurbished, and reused during the prior year; and
+22 3. The processes and methods used to recycle, refurbish, or
+23 reuse the covered electronic devices received from Maryland;]
+24 [(4)] (3) The total number of covered electronic devices sold in the State
+25 in the prior year, including:
+26 (i) The types of covered electronic devices sold; and
+27 (ii) The brand names under which the covered electronic devices
+28 were sold; and
+29 [(5)] (4) Any additional information required by the Department in
+30 regulation.
+
+12 SENATE BILL 591
+1 (b) The registration shall[:
+2 (1) Be] BE submitted to the Department by March 1 of each year[; and
+3 (2) If the manufacturer has implemented a covered electronic device
+4 takeback program, be updated prior to any significant change in the program].
+5 (c) (1) [The] SUBJECT TO PARAGRAPH (5) OF THIS SUBSECTION, THE
+6 covered electronic device manufacturer registration fee shall be paid by a manufacturer in
+7 accordance with this subsection.
+8 (2) [For the initial registration by a manufacturer, the] THE registration
+9 fee is:
+10 (i) $10,000 for a manufacturer that sold at least 1,000 covered
+11 electronic devices in the State in the prior year; and
+12 (ii) $5,000 for a manufacturer that sold at least 100 but not more
+13 than 999 covered electronic devices in the State in the prior year.
+14 [(3) For each subsequent annual registration by a manufacturer that did
+15 not have an implemented covered electronic device takeback program in the prior year, the
+16 registration fee is:
+17 (i) 1. On or after March 1, 2013, and before March 1, 2016,
+18 $10,000 for a manufacturer that sold at least 1,000 covered electronic devices in the State
+19 in the prior year; and
+20 2. On or after March 1, 2016, $5,000 for a manufacturer that
+21 sold at least 1,000 covered electronic devices in the State in the prior year; and
+22 (ii) $5,000 for a manufacturer that sold at least 100 but not more
+23 than 999 covered electronic devices in the State in the prior year.
+24 (4) For each subsequent annual registration by a manufacturer that had
+25 an implemented covered electronic device takeback program in the prior year, the
+26 registration fee is $500.]
+27 [(5)] (3) There is no registration fee for a manufacturer that sold less than
+28 100 covered electronic devices in the State in the prior year.
+29 [(6)] (4) The registration fee required under this subsection shall:
+30 (i) Be submitted to the Department by March 1 of each year; and
+
+SENATE BILL 591 13
+1 (ii) Be paid into the COVERED ELECTRONIC DEVICE
+2 MANUFACTURER REGISTRATION FEE ACCOUNT WITHIN THE State Recycling Trust
+3 Fund.
+4 (5) THE DEPARTMENT MAY ADJUST THE COVERED ELECTRONIC
+5 DEVICE MANUFACTURER REGISTRATION FEE BY REGULATION.
+6 (d) (1) The Department shall:
+7 (i) Review the registration submitted under this section; and
+8 (ii) If the registration does not meet the requirements of this section
+9 and the regulations adopted by the Department under this subtitle, notify the
+10 manufacturer of the insufficiency.
+11 (2) Within 60 days after receipt of a notice of insufficiency, the
+12 manufacturer shall submit a revised registration that addresses the insufficiencies noted
+13 by the Department.
+14 (e) The Department shall maintain a list of registered covered electronic device
+15 manufacturers on its Web site.
+16 (f) The sales data submitted in accordance with subsection [(a)(4)] (A)(3) of this
+17 section shall be treated as confidential and proprietary, and may not be disclosed except as
+18 otherwise required by law.
+19 9–1728.1.
+20 [(a) In this section, “retailer” means any person that sells a covered electronic
+21 device to a consumer.
+22 (b)] If a manufacturer is subject to the requirements of §§ 9–1727 and 9–1728 of
+23 this [part] SUBTITLE, [a] AN ELECTRONICS retailer may not sell or offer for sale to any
+24 person in the State a new covered electronic device manufactured by the manufacturer,
+25 unless the manufacturer has complied with the requirements of §§ 9–1727 and 9–1728 of
+26 this [part] SUBTITLE.
+27 9–1728.2.
+28 [(a)] A manufacturer [that has implemented a covered electronic device takeback
+29 program] shall include educational and instructional materials relating to the destruction
+30 and sanitization of data from a covered electronic device[:
+31 (1) With] WITH each new covered electronic device sold or offered for sale
+32 in the State[;]:
+
+14 SENATE BILL 591
+1 [(2)] (1) (I) On the manufacturer’s [covered electronic device takeback
+2 program Web site] WEBSITE; or
+3 [(3)] (II) As information provided through [the manufacturer’s covered
+4 electronic device takeback program] A toll–free number; AND
+5 (2) IN MULTIPLE LANGUAGES, AS DETERMINED BY THE
+6 DEPARTMENT, AND FORMATS TO COMPLY WITH THE FEDERAL AMERICANS WITH
+7 DISABILITIES ACT.
+8 [(b) A manufacturer that is participating in a covered electronic device takeback
+9 program established by a group of covered electronic device manufacturers shall be
+10 considered as having implemented a covered electronic device takeback program under this
+11 part.]
+12 9–1728.3.
+13 (A) IN THIS SECTION, “PROGRAM” MEANS THE COVERED ELECTRONIC
+14 DEVICE RECYCLING PROGRAM.
+15 (B) (1) THERE IS A COVERED ELECTRONIC DEVICE RECYCLING
+16 PROGRAM IN THE DEPARTMENT.
+17 (2) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE
+18 DEPARTMENT SHALL ADMINISTER THE PROGRAM.
+19 (II) THE DEPARTMENT MAY CONTRACT WITH A NONPROFIT
+20 ORGANIZATION, A B CORPORATION, OR ANY OTHER ENTITY THAT SPECIALIZES IN
+21 THE PRIVATE MANAGEMENT OF ELECTRONICS RECYCLING SYSTEMS FOR
+22 GOVERNMENTAL ENTITIES TO ADMINISTER THE PROGRAM.
+23 (C) THE PURPOSE OF THE PROGRAM IS TO FACILITATE THE COLLECTION
+24 AND RECYCLING, REFURBISHING, OR REUSE OF COVERED ELECTRONIC DEVICES IN
+25 THE STATE.
+26 (D) THE PROGRAM SHALL BE FUNDED BY THE COVERED ELECTRONIC
+27 DEVICE MANUFACTURER REGISTRATION FEE ACCOUNT ESTABLISHED WITHIN THE
+28 STATE RECYCLING TRUST FUND UNDER § 9–1707(F)(7)(II) OF THIS SUBTITLE.
+29 (E) (1) BEGINNING JULY 1, 2027, A CONSUMER SHALL PAY A RECYCLING
+30 FEE WITH THE PURCHASE OF A NEW COVERED ELECTRONIC DEVICE IN THE STATE.
+31 (2) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, THE
+32 RECYCLING FEE REQUIRED UNDER PARAGRAPH (1) OF THIS SUBSECTION SHALL BE
+
+SENATE BILL 591 15
+1 IN AN AMOUNT NECESSARY TO COVER REIMBURSEMENT FOR COSTS UNDER
+2 SUBSECTION (G) OF THIS SECTION.
+3 (II) THE DEPARTMENT, IN CONSULTATION WITH THE COVERED
+4 ELECTRONIC DEVICE ADVISORY COUNCIL ESTABLISHED UNDER § 9–1728.4 OF THIS
+5 SUBTITLE, MAY BY REGULATION:
+6 1. DETERMINE REASONABLE RECYCLING FEES
+7 REQUIRED UNDER PARAGRAPH (1) OF THIS SUBSECTION;
+8 2. AMEND OR EXPAND:
+9 A. EXISTING TIERS OF COVERED ELECTRONIC DEVICES;
+10 AND
+11 B. THE DEFINITION OF “WHITE GOODS” AS DEFINED IN §
+12 9–1701 OF THIS SUBTITLE; AND
+13 3. ESTABLISH ADDITIONAL TIERS OF COVERED
+14 ELECTRONIC DEVICES.
+15 (F) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION
+16 AND BEGINNING AUGUST 1, 2027, AND EACH MONTH THEREAFTER, AN
+17 ELECTRONICS RETAILER SHALL REMIT THE RECYCLING FEE COLLECTED DURING
+18 THE IMMEDIATELY PRECEDING MONTH TO THE COMPTROLLER.
+19 (2) (I) AN ELECTRONICS RETAILER THAT TIMELY SUBMITS THE
+20 RECYCLING FEE UNDER THIS SUBSECTION IS ALLOWED, FOR THE EXPENSE OF
+21 ADMINISTERING AND PAYING THE RECYCLING FEE, A CREDIT IN AN AMOUNT NOT
+22 MORE THAN 3% OF THE TOTAL AMOUNT OF RECYCLING FEES COLLECTED UNDER
+23 SUBSECTION (E) OF THIS SECTION.
+24 (II) THE DEPARTMENT AND THE COMPTROLLER JOINTLY
+25 SHALL DETERMINE THE AMOUNT OF THE CREDIT AUTHORIZED UNDER THIS
+26 PARAGRAPH.
+27 (3) EACH QUARTER, THE COMPTROLLER SHALL DEPOSIT ALL
+28 RECYCLING FEES COLLECTED UNDER THIS SECTION INTO THE COVERED
+29 ELECTRONIC DEVICE RECYCLING ACCOUNT ESTABLISHED WITHIN THE STATE
+30 RECYCLING TRUST FUND UNDER § 9–1707(F)(7)(I) OF THIS SUBTITLE, LESS THE
+31 COST OF ADMINISTRATION.
+
+16 SENATE BILL 591
+1 (G) BEGINNING JULY 1, 2028, AND EACH MONTH THEREAFTER AND ON
+2 RECEIPT OF ACCURATE AND REASONABLE REIMBURSEMENT REQUESTS AS
+3 DETERMINED BY THE DEPARTMENT, THE DEPARTMENT SHALL, WITHIN 45 DAYS
+4 AFTER THE DATE THAT THE REIMBURSEMENT REQUEST IS RECEIVED, DISBURSE
+5 FUNDS FROM THE COVERED ELECTRONIC DEVICE RECYCLING ACCOUNT WITHIN
+6 THE STATE RECYCLING TRUST FUND TO:
+7 (1) AUTHORIZED RECYCLERS AS REIMBURSEMENT FOR THE COSTS
+8 OF RECYCLING, REFURBISHMENT, OR REUSE OF COVERED ELECTRONIC DEVICES IN
+9 ACCORDANCE WITH THE PROGRAM, INCLUDING COLLECTION AND
+10 TRANSPORTATION SUCH AS THE ADMINISTRATION OF MAILBACK PROGRAMS,
+11 CURBSIDE PICKUP PROGRAMS, AND COLLECTION FROM DROP–OFF SITES, AS
+12 DETERMINED BY THE DEPARTMENT IN REGULATION; AND
+13 (2) AUTHORIZED COLLECTORS AS REIMBURSEMENT FOR THE COSTS
+14 OF STORAGE, ON–SITE COLLECTION, EQUIPMENT, HEAT AND FIRE DETECTION AND
+15 SUPPRESSION AND EXTINGUISHING SYSTEMS AND EQUIPMENT, TRANSPORTATION,
+16 STAFFING, EDUCATION, AND, IF APPLICABLE, THE ADMINISTRATION OF MAILBACK
+17 AND CURBSIDE PICKUP PROGRAMS, AS DETERMINED BY THE DEPARTMENT IN
+18 REGULATION.
+19 (H) (1) IF AN AUTHORIZED RECYCLER OR AN AUTHORIZED COLLECTOR
+20 RECEIVES REIMBURSEMENT IN ACCORDANCE WITH SUBSECTION (G) OF THIS
+21 SECTION, THE AUTHORIZED RECYCLER AND THE AUTHORIZED COLLECTOR:
+22 (I) EXCEPT AS PROVIDED IN ITEM (II) OF THIS PARAGRAPH AND
+23 SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, MAY NOT CHARGE A PERSON A
+24 FEE FOR DELIVERING OR DROPPING OFF A COVERED ELECTRONIC DEVICE ON–SITE;
+25 AND
+26 (II) SHALL, IF APPLICABLE, CHARGE A COVERED ELECTRONIC
+27 DEVICE MANUFACTURER A FEE FOR DELIVERING OR DROPPING OFF A COVERED
+28 ELECTRONIC DEVICE ON–SITE.
+29 (2) THE DEPARTMENT MAY AUTHORIZE AN AUTHORIZED RECYCLER
+30 OR AUTHORIZED COLLECTOR TO CHARGE A PERSON A FEE FOR DROPPING OFF A
+31 COVERED ELECTRONIC DEVICE IF THE AUTHORIZED RECYCLER OR AUTHORIZED
+32 COLLECTOR SUBMITS A WAIVER JUSTIFYING THE NEED TO CHARGE THE FEE.
+33 9–1728.4.
+34 (A) THERE IS A COVERED ELECTRONIC DEVICE ADVISORY COUNCIL.
+
+SENATE BILL 591 17
+1 (B) THE PURPOSE OF THE ADVISORY COUNCIL IS TO ADVISE THE
+2 DEPARTMENT ON THE IMPLEMENTATION AND THE ADMINISTRATION OF THE
+3 COVERED ELECTRONIC DEVICE RECYCLING PROGRAM ESTABLISHED UNDER §
+4 9–1728.3 OF THIS SUBTITLE.
+5 (C) THE ADVISORY COUNCIL CONSISTS OF THE FOLLOWING MEMBERS:
+6 (1) ONE MEMBER OF THE SENATE OF MARYLAND, OR THE MEMBER’S
+7 DESIGNEE, APPOINTED BY THE PRESIDENT OF THE SENATE;
+8 (2) ONE MEMBER OF THE HOUSE OF DELEGATES, OR THE MEMBER’S
+9 DESIGNEE, APPOINTED BY THE SPEAKER OF THE HOUSE;
+10 (3) THE COMPTROLLER, OR THE COMPTROLLER’S DESIGNEE;
+11 (4) THE SECRETARY, OR THE SECRETARY’S DESIGNEE; AND
+12 (5) THE FOLLOWING MEMBERS, APPOINTED BY THE SECRETARY:
+13 (I) ONE REPRESENTATIVE OF THE MARYLAND ASSOCIATION
+14 OF COUNTIES;
+15 (II) ONE REPRESENTATIVE OF THE MARYLAND MUNICIPAL
+16 LEAGUE;
+17 (III) ONE REPRESENTATIVE OF COVERED ELECTRONIC DEVICE
+18 RECYCLERS IN THE STATE;
+19 (IV) ONE REPRESENTATIVE OF COVERED ELECTRONIC DEVICE
+20 MANUFACTURERS IN THE STATE;
+21 (V) ONE REPRESENTATIVE OF ELECTRONICS RETAILERS IN
+22 THE STATE;
+23 (VI) ONE REPRESENTATIVE OF THE MARYLAND
+24 ENVIRONMENTAL SERVICE;
+25 (VII) ONE REPRESENTATIVE OF THE NORTHEAST MARYLAND
+26 WASTE DISPOSAL AUTHORITY;
+27 (VIII) ONE REPRESENTATIVE OF A NONPROFIT ENVIRONMENTAL
+28 ADVOCACY ORGANIZATION THAT HAS EXPERIENCE WITH EXTENDED PRODUCER
+29 RESPONSIBILITY LAWS;
+
+18 SENATE BILL 591
+1 (IX) ONE REPRESENTATIVE OF THE MARYLAND RECYCLING
+2 NETWORK; AND
+3 (X) ANY OTHER MEMBER AS DETERMINED BY THE SECRETARY.
+4 (D) FROM AMONG THE ADVISORY COUNCIL MEMBERS, THE SECRETARY
+5 SHALL DESIGNATE TWO MEMBERS TO SERVE AS COCHAIRS OF THE ADVISORY
+6 COUNCIL.
+7 (E) THE DEPARTMENT SHALL PROVIDE STAFF FOR THE ADVISORY
+8 COUNCIL.
+9 (F) A MEMBER OF THE ADVISORY COUNCIL:
+10 (1) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE
+11 ADVISORY COUNCIL; BUT
+12 (2) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES:
+13 (I) UNDER THE STANDARD STATE TRAVEL REGULATIONS, AS
+14 PROVIDED IN THE STATE BUDGET; AND
+15 (II) FROM THE COVERED ELECTRONIC DEVICE MANUFACTURER
+16 REGISTRATION FEE ACCOUNT IN THE STATE RECYCLING TRUST FUND.
+17 (G) THE ADVISORY COUNCIL SHALL MEET AT THE REQUEST OF THE
+18 SECRETARY.
+19 (H) THE ADVISORY COUNCIL SHALL STUDY AND MAKE RECOMMENDATIONS
+20 REGARDING:
+21 (1) CHANGES TO THE DEFINITION OF “COVERED ELECTRONIC
+22 DEVICE”;
+23 (2) THE AMOUNT OF:
+24 (I) RECYCLING FEES COLLECTED BY ELECTRONICS RETAILERS
+25 EACH YEAR TO ENSURE COSTS BORNE BY AUTHORIZED COLLECTORS AND
+26 AUTHORIZED RECYCLERS ARE COVERED; AND
+27 (II) COVERED ELECTRONIC DEVICE MANUFACTURER
+28 REGISTRATION FEES COLLECTED EACH YEAR TO ENSURE ADEQUATE FUNDING FOR
+
+SENATE BILL 591 19
+1 THE DEPARTMENT’S ADMINISTRATION OF THE COVERED ELECTRONIC DEVICE
+2 RECYCLING PROGRAM;
+3 (3) REASONABLE CAPS ON:
+4 (I) COVERED ELECTRONIC DEVICE RECYCLING PAYMENTS;
+5 AND
+6 (II) COVERED ELECTRONIC DEVICE RECOVERY FEE PAYMENTS;
+7 (4) STANDARDS TO BE USED BY THE DEPARTMENT IN DEVELOPING
+8 APPLICATION MATERIALS AND PROCEDURES FOR AUTHORIZED COLLECTORS AND
+9 AUTHORIZED RECYCLERS IN ACCORDANCE WITH § 9–1729(B) OF THIS SUBTITLE;
+10 (5) THE CONVENIENCE AND AVAILABILITY OF DROP–OFF SITES FOR
+11 COVERED ELECTRONIC DEVICES IN THE STATE, INCLUDING AN EVALUATION OF THE
+12 FEASIBILITY AND COSTS OF INCREASING PUBLIC ACCESS TO DROP–OFF SITES,
+13 MAILBACK PROGRAMS, AND CURBSIDE PICKUP FOR PURPOSES OF DEVELOPING
+14 ADOPTION AND CONVENIENCE TARGETS FOR EACH METHOD;
+15 (6) THE REUSE, REFURBISHMENT, AND RECYCLABILITY OF COVERED
+16 ELECTRONIC DEVICES AND OTHER ELECTRONIC DEVICES UNDER CONSIDERATION
+17 TO BE COVERED ELECTRONIC DEVICES; AND
+18 (7) ANY OTHER RELATED TOPICS IF REQUESTED BY THE
+19 DEPARTMENT.
+20 (I) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, ON OR
+21 BEFORE DECEMBER 1, 2026, AND EACH DECEMBER 1 THEREAFTER, THE ADVISORY
+22 COUNCIL SHALL REPORT ITS FINDINGS AND RECOMMENDATIONS TO THE
+23 DEPARTMENT.
+24 (2) (I) RECOMMENDATIONS SUBMITTED UNDER THIS SUBSECTION
+25 MAY NOT BE REQUIRED TO BE CONSENSUS RECOMMENDATIONS.
+26 (II) IF MULTIPLE RECOMMENDATIONS ARE SUBMITTED UNDER
+27 THIS SUBSECTION, EACH RECOMMENDATION SHALL INDICATE EACH MEMBER IN
+28 FAVOR OF THE RECOMMENDATION.
+29 9–1729.
+30 (A) The Department may adopt regulations necessary to implement AND
+31 ADMINISTER the provisions of this subtitle[, including the required components of a
+32 covered electronic device takeback program].
+
+20 SENATE BILL 591
+1 (B) REGULATIONS ADOPTED TO IMPLEMENT AND ADMINISTER THE
+2 COVERED ELECTRONIC DEVICE RECYCLING PROGRAM IN ACCORDANCE WITH §
+3 9–1728.3 OF THIS SUBTITLE SHALL ESTABLISH APPLICATION MATERIALS AND
+4 PROCEDURES FOR AUTHORIZED COLLECTORS AND AUTHORIZED RECYCLERS.
+5 9–1730.
+6 (a) The provisions and penalties of § 9–342 of this title shall be used and shall
+7 apply to enforce violations of this part.
+8 (b) (1) In addition to any other penalty provided by law, the Department may
+9 assess against any ELECTRONICS retailer that violates [§ 9–1728.1(b)] § 9–1728.1 of this
+10 [part] SUBTITLE a fine up to $1,000 for each violation, but not exceeding $10,000 total.
+11 (2) A fine under paragraph (1) of this subsection may be assessed only after
+12 the ELECTRONICS retailer that committed the violation has been issued three warnings
+13 regarding the violation.
+14 (3) Each day on which a violation occurs or continues is a separate violation
+15 under this subsection.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
+17 2025, the Department of the Environment shall notify manufacturers of covered electronic
+18 devices of the Covered Electronic Device Recycling Program as enacted by Section 1 of this
+19 Act.
+20 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2025.
+
+[DELETED: :CA      5   C A E ( F t p o a t c a u o t S R T F e c r c p o l r t e c e d t c m o c e d r t a c m r f b p i a c a w t F r e R a S f b m f t a c a a r i a c m p c a c t a t D o t i a t a D c a a r r t D t n c m c t B  A]
+[DELETED:  S  S  A  ( B  A S  A  (  S T A 9  ( I  ( “ o  ( ( “ s   ( “ p d n i i c o e(– “AU CR M A E T I B T E T A O C A M AD D  ( “A”:R   () L;O  () N;IO  () E;ILS  () A,V Y Y T E T N ,,;]
+[DELETED: S 3  () A:    1  TE ;   2  A A C A M A ( E()  N”.R (– “A”:UR   () A:    1  I T M O M O S O A M A M O C   A T;E    B G    2 A  T P O C O A C E D B DGE G G G G G ,,,, I O T S C F T P OS    B  F T T O SR   () IN,, T CT RH RE O R A C O L EEP§93. R    ( “A RR D N I A   ( “ e]
+[DELETED:  S   ( “ w t  ( ( “   ( “ f d n i a f t i r t o    ( A t    ( A o    ( A  ( ( “ i   ( “    ( A    ( A     1 A     2 A     3 A  ( ( “ c]ITII I     w m dy O T O C E D I E .   ( “   ae   ( “ b a c e d m o a g o c e d m f t c a r r o r o a c e l]
+[DELETED: S 5   ( P e d t t m i p p m p o d   ( C a   ( A  () “  () “]( o – “EL RR M A P T S A  ( “ f i p a p v f g d p a m  ( “ d t  ( ( “   ( “ l  ( ( “ s   ( “ p    ( A    ( A f  ( “  ( ( “ c m]
+[DELETED:  S    ( “  ( “ p  ( “ p o a p s i t S t i n t c t P S s  ( “ p m a p n u a n l w  ( “ s  ( ( “    ( W o b s w f d i a r d    ( M b c s c o p a r   ( “  ( “ s p  ( “ b o r i t c p s p s o d  ( “  ( “ o m a n o c b p  ( “ i  ( “ s c t s o c t I o a o s e]
+[DELETED: S 7  ( ( “ w s m g o r t w u r   ( “ w s i o m c o b c o   ( “    ( H    ( R    ( S    ( L    ( S    ( W o() “TI”I  E RN II.  () “TII”:I  E  ( A; ( A,,P D AT NK RR O ( A; ( A; ( A; ( A; ( A; ( A;R ]
+[DELETED:  S  (  H A P O B T I D A A I  CI E   () ( “]( s t d o i c o d m g i o v r i   ( “ d t   ( A d  () “](   ( R   ( S   ( W   ( D   ( W a]   ( A ( A E .  () ( “]( l   ( “ p 9  ( ( T   ( T    ( T]
+[DELETED: S 9    ( T 9    ( T c e d m r f c    () T f    () A](I    () M](    () A](V b   ( T   ( T a   ( A t F t e $ s r t t G F o t S i a   ( I    ( T d    ( T t 9    ( T p g t m t b u b t m   () T u § 9 o t s t a r r u § 9 o t s a]  () I(IN A W P  O TN   G E9()]
+[DELETED:  S     () T c o t p o t l m](I a   () 1 H U.   2  A S C O A F F E R U  E O T9(   3  A S B U O T M A  G 9().  () 1 IH U.   2  A S C O T C D M R F C I  C 9().   3 T:   A FCE T O L EP§93; R   E    B  E O M O T E D A C U   O T9   () ( T]( s    ( A G 9  ( T s a t a m t s o o f s a n c  ( A c]
+[DELETED: S 1   ( T c e d i l w t n o t m   ( Td,,  r 9  ( A   ( T c   ( W t m h i a c e d   ( I t m h i a c e d t    () A t n o W s a t p ig  m a]    ()Oma t     1 T b     2 T t n o c e d f M     3 T r   () T]( i    ( T    ( T b n u w t c e d w   () A a i r b t D i]( r]
+[DELETED:  S   ( Tl:   ( Be r;   ( I t m h i a c e d tm.  ( ( Te]S()U T P  O T SN T c a   ( Fe ]H f    ( $ f a m t s a l 1 c e    ( $ t   ( F n r    ( 1 O o a M 1 2 a b M 1 2 $ i     2 O s    ( $ t   ( F a i c e d t p i t p y t r   () T]( 1   () T](    ( B]
+[DELETED: S 1    ( B p i t E D R F A W T  S R T F   T E M A T C E  ( ( T    ( R    ( I a t r a b t D u t s n t m   ( W 6 d a r o a n o i t m b  ( T m  ( T () ]() s o 9  ( I d  () I t pt, a ][E  p u t pt. 9  () A t] pm  ae:   ( Wh  ie]]
+[DELETED:  S    () O c]()()  pe;   () A i p t t m c] () em ;A  ( I M LS A D B T,T  M C .  ( A p e b a g o c e d m s b c p() I,“P”CN T SN RM M T O LRP. E R() ( TCEDH I A O L E ED. E ( () S()U II H P. R  () TIH E M C W A NN   N B P M O E R S F R.() TH RG G  T.() TH R S B F B T C ERTF§9()(). E R U  FII () ( BJ1,2E U    T. ( () S()U II H   ]
+[DELETED: S 1 A A N T C R F C U G ).  () TDIH ET    9E :   1  R R F  );   2 A:   A ES   B T“” WS  1;E    3  A T O C() ( E(X   B U   A E M TR A1,2, O. ( () N E R T T S T F U T S I AD F T E OE    E ).  () TDIH E A T O J D T A O T C A U T ( E, QR T O S D A F C U T S I T C D R A E W T TTF§9()() R U  FI E ]
+[DELETED:  S () BJ1,2E U   A E M T A O O A A R R R A ET  EL W  ,D,4 DD D F T C E D R A W T E R URTF: (  A CG T  W T RM I C A S A T A O M PS P PS A C F DPO SS A– EN ; ( E NSN T –,T NG N D E ,, C P PS A D B T E I() ( F R I A W S G O TN :  () E(X II   N )NSE  () S,IHL E  M A D D CNS    T E E D I A O ) T.H]
+[DELETED: S 1() H P O T A C I T A T O T I A T A O TEDRP§ L E E R E U 3.() T:H ( OSM, E AD RSE  R EPS; ( OHD, O ES RSE  P OSH; ( TC,C’; OR  ORS ( TS,S’; EY  EYSE  ( T,S:S  E  () OMN R O T A S O;  () OMIN R O T A U;  () IN T;  () VN T;  () N R O E R I T;  () OIN R O T AS; E  () ONIN R O T O ADA; I U  ()IN O T H E W E P]
+[DELETED:  S   () OMXN R O T A E;K   () AS.N E() F,R A T A C MS T E D T M T S A C O T A() TH E S P S F T A() A:  (  N R C A A M O TL  ( I:  () USSTRN T T R ES  TT ;  () IR T E R URTF.() H A C S M A T R O T.() H ( C T T D O C E ( T:  () E Y T E C B B A C AD   () IO E D M]
+[DELETED: S 1 ETS A O T O L E’CEP; R ( R:  () CO E D R PS  () C;IO ( S E  B 9(); ( TPO TE  A C O I P A T DPO SS PS A C P F P O D ( T,E T S  (  O R T I R B T.() ( S()U T P  O T SN O O E    E  R 1,2,D1 S R I F A R T T. ( () E  () IF SN E R S I E M I  9  T D m a r n t i)A  t p o t se, i t r c o a cm]
+[DELETED:  S () E A T I A A TEDRP§ L E E R I A W O T S S E A M A  9  ( T a  ( ( I a r §)   ]§9 pt    ( A t r r   ( E u  S 2 d A  S A B I F E T t A s t e O]

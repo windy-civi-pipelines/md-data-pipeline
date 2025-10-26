@@ -1,0 +1,820 @@
+Title: HOUSE BILL 1017
+Official Title: HOUSE BILL 1017
+Number of Sections: 1
+Source: versions - First - Public Works Contracts - Apprenticeship Requirements (Maryland Workforce Apprenticeship Utilization Act)
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+P2 5lr2659
+CF SB 688
+By: Delegate Wells
+Introduced and read first time: February 3, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Works Contracts – Apprenticeship Requirements
+3 (Maryland Workforce Apprenticeship Utilization Act)
+4 FOR the purpose of altering certain apprenticeship requirements relating to public works
+5 contracts to require certain contractors and subcontractors to employ a certain
+6 number of qualified apprentices or journeyworkers necessary to meet a certain
+7 applicable percentage for the project; altering which projects are subject to certain
+8 apprenticeship requirements; repealing certain provisions of law that authorized
+9 contractors and subcontractors to make certain payments to a certain apprenticeship
+10 program in lieu of employing certain apprentices; requiring the Secretary of Labor
+11 to annually establish a certain applicable percentage; authorizing the Secretary to
+12 waive certain requirements under certain circumstances; establishing that certain
+13 apprenticeship requirements apply to the University System of Maryland and
+14 Baltimore City Community College; and generally relating to apprenticeship
+15 requirements for public works contracts.
+16 BY repealing and reenacting, with amendments,
+17 Article – State Finance and Procurement
+18 Section 11–203(e)
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 (As enacted by Chapter 732 of the Acts of the General Assembly of 2021 and
+22 Chapters 575 and 576 of the Acts of the General Assembly of 2023)
+23 BY repealing and reenacting, with amendments,
+24 Article – State Finance and Procurement
+25 Section 17–601, 17–603, 17–604, and 17–606
+26 Annotated Code of Maryland
+27 (2021 Replacement Volume and 2024 Supplement)
+28 BY adding to
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1017*
+2 HOUSE BILL 1017
+1 Article – State Finance and Procurement
+2 Section 17–601.1, 17–602.1, 17–604.1, 17–605.1, and 17–607
+3 Annotated Code of Maryland
+4 (2021 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, without amendments,
+6 Article – State Finance and Procurement
+7 Section 17–602
+8 Annotated Code of Maryland
+9 (2021 Replacement Volume and 2024 Supplement)
+10 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+11 That the Laws of Maryland read as follows:
+12 Article – State Finance and Procurement
+13 11–203.
+14 (e) (1) In this subsection, “University” means the University System of
+15 Maryland, Morgan State University, or St. Mary’s College of Maryland.
+16 (2) Except as otherwise provided in this subsection, this Division II does
+17 not apply to the University System of Maryland, Morgan State University, St. Mary’s
+18 College of Maryland, or Baltimore City Community College.
+19 (3) (i) A procurement by a University or Baltimore City Community
+20 College shall comply with the policies and procedures developed by the University or
+21 Baltimore City Community College and approved by the Board of Public Works and the
+22 Administrative, Executive, and Legislative Review Committee of the General Assembly in
+23 accordance with:
+24 1. § 12–112 of the Education Article for the University
+25 System of Maryland;
+26 2. § 14–109 of the Education Article for Morgan State
+27 University;
+28 3. § 14–405(f) of the Education Article for St. Mary’s College
+29 of Maryland; or
+30 4. § 16–505.3 of the Education Article for Baltimore City
+31 Community College.
+32 (ii) 1. The review and approval of the Board of Public Works
+33 shall be required for the following types of contracts with a value that exceeds $1,000,000
+34 for a University or $500,000 for Baltimore City Community College:
+HOUSE BILL 1017 3
+1 A. capital improvements; and
+2 B. services.
+3 2. In its review of a contract for services or capital
+4 improvements with a value that exceeds $1,000,000, the Board of Public Works may request
+5 the comments of the appropriate agencies, including the Department of Budget and
+6 Management and the Department of General Services.
+7 3. For Baltimore City Community College contracts that are
+8 not subject to the review and approval of the Board of Public Works under subsubparagraph
+9 1 of this subparagraph:
+10 A. contracts with a value of $100,000 or less shall be reviewed
+11 and approved by the President of Baltimore City Community College or the President’s
+12 designee; and
+13 B. contracts with a value that exceeds $100,000 but does not
+14 exceed $500,000 shall be approved by the Board of Trustees of Baltimore City Community
+15 College.
+16 (4) The policies of a University or Baltimore City Community College shall:
+17 (i) to the maximum extent practicable, require the purchasing of
+18 supplies and services in accordance with Title 14, Subtitle 1 of this article;
+19 (ii) promote the purposes of the regulations adopted by the
+20 Department of General Services governing the procurement of architectural and
+21 engineering services;
+22 (iii) promote the purposes of § 13–402 of the State Personnel and
+23 Pensions Article;
+24 (iv) to the maximum extent practicable, be similar to § 13–218.1 of
+25 this article; and
+26 (v) to the maximum extent practicable, require the procurement of
+27 food in accordance with Title 14, Subtitle 7 of this article.
+28 (5) (i) Except as provided in paragraph (7) of this subsection, the
+29 following provisions of Division II of this article apply to a University and to Baltimore City
+30 Community College:
+31 1. § 11–205 of this subtitle (“Collusion”);
+32 2. § 11–205.1 of this subtitle (“Falsification, concealment,
+33 etc., of material facts”);
+4 HOUSE BILL 1017
+1 3. § 13–219 of this article (“Required clauses –
+2 Nondiscrimination clause”);
+3 4. § 13–225 of this article (“Retainage”);
+4 5. Title 14, Subtitle 3 of this article (“Minority Business
+5 Participation”);
+6 6. Title 14, Subtitle 7 of this article (“Certified Local Farm
+7 and Fish Program”);
+8 7. Title 15, Subtitle 1 of this article (“Procurement Contract
+9 Administration”);
+10 8. § 15–226 of this article (“Policy established; timing of
+11 payments; notice upon nonpayment; disputes; appeals”); [and]
+12 9. Title 16 of this article (“Suspension and Debarment of
+13 Contractors”); AND
+14 10. TITLE 17, SUBTITLE 6 OF THIS ARTICLE
+15 (“APPRENTICESHIP REQUIREMENTS FOR PUBLIC WORKS CONTRACTS”).
+16 (ii) If a procurement violates the provisions of this subsection or
+17 policies adopted in accordance with this subsection, the procurement contract is void or
+18 voidable in accordance with the provisions of § 11–204 of this subtitle.
+19 (6) (i) The State Board of Contract Appeals shall have authority over
+20 contract claims related to procurement contracts awarded by:
+21 1. the University System of Maryland before July 1, 1999;
+22 2. Morgan State University before July 1, 2004; and
+23 3. Baltimore City Community College before July 1, 2021.
+24 (ii) At the election of the Board of Regents of the University System
+25 of Maryland and subject to the approval of the Board of Public Works, the State Board of
+26 Contract Appeals shall have authority over contract claims related to procurement
+27 contracts awarded by the University after June 30, 1999.
+28 (iii) At the election of the Board of Regents of Morgan State
+29 University and subject to the approval of the Board of Public Works, the State Board of
+30 Contract Appeals shall have authority over contract claims related to procurement
+31 contracts awarded by the University after June 30, 2004.
+HOUSE BILL 1017 5
+1 (iv) At the election of the Board of Trustees of St. Mary’s College of
+2 Maryland and subject to the approval of the Board of Public Works, the State Board of
+3 Contract Appeals shall have authority over contract claims related to procurement
+4 contracts awarded by St. Mary’s College of Maryland after June 30, 2006.
+5 (v) At the election of the Board of Trustees of Baltimore City
+6 Community College and subject to the approval of the Board of Public Works, the State
+7 Board of Contract Appeals shall have authority over contract claims related to procurement
+8 contracts awarded by Baltimore City Community College after June 30, 2021.
+9 (7) Except with regard to the provisions of § 15–113 of this article,
+10 paragraphs (3), (4), and (5) of this subsection do not apply to:
+11 (i) procurement by a University or Baltimore City Community
+12 College from:
+13 1. another unit;
+14 2. a political subdivision of the State;
+15 3. an agency of a political subdivision of the State;
+16 4. a government, including the government of another state,
+17 of the United States, or of another country;
+18 5. an agency or political subdivision of a government; or
+19 6. a bistate, multistate, bicounty, or multicounty
+20 governmental agency;
+21 (ii) procurement by a University in support of enterprise activities
+22 for the purpose of:
+23 1. direct resale;
+24 2. remanufacture and subsequent resale; or
+25 3. procurement by the University for overseas programs; or
+26 (iii) procurement by the University System of Maryland for:
+27 1. services of managers to invest, in accordance with the
+28 management and investment policies adopted by the Board of Regents of the University
+29 System of Maryland, gift and endowment assets received by the University System of
+30 Maryland in accordance with § 12–104(e) of the Education Article; or
+6 HOUSE BILL 1017
+1 2. expenditures to manage, maintain, and enhance, in
+2 accordance with the management and investment policies adopted by the Board of Regents
+3 of the University System of Maryland, the value of gift and endowment assets received by
+4 the University System of Maryland in accordance with § 12–104(e) of the Education Article.
+5 17–601.
+6 (a) In this subtitle the following words have the meanings indicated.
+7 (B) “APPLICABLE PERCENTAGE” MEANS THE PERCENTAGE OF TOTAL
+8 LABOR HOURS OF WORK ON A COVERED PROJECT, INCLUDING CONSTRUCTION,
+9 ALTERATION, AND REPAIR WORK, PERFORMED BY AN APPRENTICE OR A
+10 JOURNEYWORKER ESTABLISHED UNDER § 17–602.1 OF THIS SUBTITLE.
+11 [(b)] (C) “Apprenticeship training program” means an apprenticeship training
+12 program that:
+13 (1) is registered with, and approved by, the Apprenticeship and Training
+14 Council or the U.S. Department of Labor; AND
+15 (2) COMPLIES WITH THE REQUIREMENTS OF 29 C.F.R. PART 29 AND
+16 PART 30.
+17 [(c)] (D) “Covered craft” means a classification of workers listed in the prevailing
+18 wage determination applicable to the covered project.
+19 [(d)] (E) “Covered project” means a project for the construction of a public work[,
+20 as defined under § 17–201 of this title, that is valued at $500,000 or more] THAT IS
+21 SUBJECT TO SUBTITLE 2 OF THIS TITLE.
+22 [(e)] (F) “Department” means the Maryland Department of Labor.
+23 [(f)] (G) “Fund” means the State Apprenticeship Training Fund established
+24 under § 17–602 of this subtitle.
+25 (H) “LABOR HOURS” MEANS THE TOTAL NUMBER OF HOURS DEVOTED TO
+26 THE PERFORMANCE OF CONSTRUCTION, ALTERATION, OR REPAIR WORK BY ANY
+27 INDIVIDUAL AND EXCLUDES HOURS WORKED BY:
+28 (1) FOREMEN;
+29 (2) SUPERINTENDENTS;
+30 (3) OWNERS; OR
+HOUSE BILL 1017 7
+1 (4) ANY PERSON EMPLOYED IN A BONA FIDE EXECUTIVE,
+2 ADMINISTRATIVE, OR PROFESSIONAL CAPACITY, AS DEFINED IN 29 C.F.R. PART
+3 541.
+4 [(g)] (I) “Participates in an apprenticeship training program” means that a
+5 contractor or subcontractor makes regular financial contributions for each covered craft to
+6 apprenticeship training programs for covered crafts during the term of the covered project
+7 that are at least equal to the hourly fringe benefit contribution rates required for
+8 apprenticeship training by the applicable prevailing wage determination for the project, as
+9 specified by the Secretary.
+10 (J) “QUALIFIED APPRENTICE OR JOURNEYWORKER” MEANS AN
+11 INDIVIDUAL WHO IS PARTICIPATING IN AN APPRENTICESHIP TRAINING PROGRAM.
+12 [(h)] (K) “Secretary” means the Secretary of Labor.
+13 17–601.1.
+14 (A) THIS SUBTITLE APPLIES ONLY TO CONTRACTORS AND
+15 SUBCONTRACTORS WHO EMPLOY FOUR OR MORE INDIVIDUALS TO PERFORM WORK
+16 ON A COVERED PROJECT.
+17 (B) NOTHING IN THIS SUBTITLE MAY PREEMPT A LOCAL LAW OR POLICY
+18 PROVIDING FOR ADDITIONAL SKILLED AND TRAINED WORKFORCE REQUIREMENTS
+19 ON PUBLIC WORKS PROJECTS.
+20 17–602.
+21 (a) There is a State Apprenticeship Training Fund in the Department.
+22 (b) The Fund consists of:
+23 (1) payments made by contractors or subcontractors in accordance with
+24 this subtitle and Subtitle 6A of this title; and
+25 (2) penalties collected as a result of violations of this subtitle and Subtitle
+26 6A of this title.
+27 (c) The Fund is a special, nonlapsing fund that is not subject to § 7–302 of this
+28 article.
+29 (d) The State Treasurer shall hold the Fund separately, and the Comptroller shall
+30 account for the Fund.
+31 (e) The Secretary shall use money in the Fund to:
+8 HOUSE BILL 1017
+1 (1) promote preapprenticeship programs and other workforce development
+2 programs in the State’s public secondary schools and community colleges that assist
+3 students in preparing for and entering apprenticeship training programs; and
+4 (2) pay any costs associated with carrying out the provisions of this subtitle
+5 and Subtitle 6A of this title.
+6 17–602.1.
+7 (A) FOR CONSTRUCTION ON A COVERED PROJECT FOR WHICH A PUBLIC
+8 BODY ADVERTISES FOR BIDS OR PROPOSALS FOR A PUBLIC WORKS CONTRACT ON
+9 OR AFTER JANUARY 1, 2026, THE APPLICABLE PERCENTAGE IS 20%.
+10 (B) ON OR BEFORE DECEMBER 31, 2026, AND EACH YEAR THEREAFTER,
+11 THE SECRETARY SHALL SET THE APPLICABLE PERCENTAGE THAT WILL APPLY FOR
+12 THE FOLLOWING CALENDAR YEAR.
+13 (C) THE SECRETARY MAY ALTER THE APPLICABLE PERCENTAGE FOR A
+14 COVERED PROJECT TO MEET ANY RATIO REQUIREMENTS NECESSARY FOR
+15 APPRENTICE OR JOURNEYWORKER SUPERVISION IN THE COVERED CRAFT.
+16 17–603.
+17 (a) A contractor that is awarded a procurement contract for a covered project shall
+18 provide to a unit, as a condition of receiving the contract, written verification that:
+19 (1) the contractor [participates in an apprenticeship training program for
+20 each covered craft in which it will employ persons for the covered project] IS EMPLOYING
+21 THE NUMBER OF QUALIFIED APPRENTICES OR JOURNEYWORKERS FOR A COVERED
+22 PROJECT NECESSARY TO MEET THE APPLICABLE PERCENTAGE FOR THE COVERED
+23 PROJECT; OR
+24 (2) the contractor will make payments to the Fund[; or
+25 (3) the contractor will make payments in amounts determined under §
+26 17–605 of this subtitle to a registered apprenticeship program or to an organization that
+27 has registered apprenticeship programs for the purpose of supporting these programs].
+28 (b) The written verification required under subsection (a) of this section shall be
+29 provided by a contractor to the unit responsible for the project before the contractor
+30 commences performance under the procurement contract.
+31 [(c) Organizations that have registered apprenticeship programs and receive
+32 funds from contractors under subsection (a)(3) of this section shall certify to the Secretary
+HOUSE BILL 1017 9
+1 that all funds received are used solely for the purpose of improving or expanding
+2 apprenticeship training in the State.
+3 (d) The Secretary shall adopt regulations to establish a process for auditing
+4 organizations that provide registered apprenticeship programs to ensure that all funds
+5 received under subsection (a)(3) of this section are used solely to improve and expand
+6 apprenticeship programs in the State.]
+7 17–604.
+8 (a) A subcontractor that performs work valued at $100,000 or more for a covered
+9 project shall provide to a unit written verification that:
+10 (1) the subcontractor [participates in an apprenticeship training program
+11 for each covered craft in which it will employ persons] IS EMPLOYING THE NUMBER OF
+12 QUALIFIED APPRENTICES OR JOURNEYWORKERS FOR A COVERED PROJECT
+13 NECESSARY TO MEET THE APPLICABLE PERCENTAGE for the covered project; OR
+14 (2) the subcontractor will make payments to the Fund[; or
+15 (3) the subcontractor will make payments in amounts determined under §
+16 17–605 of this subtitle to a registered apprenticeship program or to an organization that
+17 has registered apprenticeship programs for the purpose of supporting these programs].
+18 (b) The written verification required under subsection (a) of this section shall be
+19 provided by a subcontractor to the unit responsible for the project before the subcontractor
+20 commences performance under the procurement contract.
+21 [(c) Organizations that have registered apprenticeship programs and receive
+22 funds from contractors under subsection (a)(3) of this section shall certify to the Secretary
+23 that all funds received are used solely for the purpose of improving or expanding
+24 apprenticeship training in the State.
+25 (d) The Secretary shall adopt regulations to establish a process for auditing
+26 organizations that provide registered apprenticeship programs to ensure that all funds
+27 received under subsection (a)(3) of this section are used solely to improve and expand
+28 apprenticeship programs in the State.]
+29 17–604.1.
+30 (A) IN THIS SECTION, “ALL APPLICABLE APPRENTICESHIP TRAINING
+31 PROGRAMS” MEANS EACH APPRENTICESHIP TRAINING PROGRAM THAT HAS A
+32 GEOGRAPHIC AREA OF OPERATION THAT INCLUDES THE LOCATION OF THE
+33 COVERED PROJECT AND HAS A USUAL AND CUSTOMARY BUSINESS PRACTICE OF
+10 HOUSE BILL 1017
+1 ENTERING INTO AGREEMENTS WITH EMPLOYERS FOR THE PLACEMENT OF
+2 APPRENTICES IN THE COVERED CRAFT.
+3 (B) THE SECRETARY MAY WAIVE THE REQUIREMENTS UNDER § 17–603 OR
+4 § 17–604 OF THIS SUBTITLE IF A CONTRACTOR OR SUBCONTRACTOR SUBMITS A
+5 WRITTEN WAIVER APPLICATION, INCLUDING ANY SUPPORTING DOCUMENTATION
+6 REQUIRED BY THE SECRETARY, DEMONSTRATING THAT THE CONTRACTOR OR
+7 SUBCONTRACTOR:
+8 (1) SUBJECT TO SUBSECTION (C) OF THIS SECTION, HAS REQUESTED
+9 QUALIFIED APPRENTICES FROM ALL APPLICABLE APPRENTICESHIP TRAINING
+10 PROGRAMS; AND
+11 (2) FOR EACH REQUEST:
+12 (I) THE REQUEST HAS BEEN DENIED FOR A REASON THAT IS
+13 NOT THE RESULT OF A REFUSAL BY THE CONTRACTOR OR SUBCONTRACTOR TO
+14 COMPLY WITH THE ESTABLISHED STANDARDS AND REQUIREMENTS OF THE
+15 APPRENTICESHIP TRAINING PROGRAM; OR
+16 (II) THE APPRENTICESHIP TRAINING PROGRAM HAS FAILED TO
+17 RESPOND TO THE REQUEST WITHIN 10 BUSINESS DAYS AFTER THE DATE ON WHICH
+18 THE APPRENTICESHIP TRAINING PROGRAM RECEIVED THE REQUEST.
+19 (C) TO REQUEST QUALIFIED APPRENTICES FROM AN APPRENTICESHIP
+20 TRAINING PROGRAM, A CONTRACTOR OR SUBCONTRACTOR SHALL SUBMIT:
+21 (1) A REQUEST BY TELEPHONE AND IN WRITING SENT
+22 ELECTRONICALLY AND BY REGISTERED MAIL; AND
+23 (2) A REQUEST TO AN APPRENTICESHIP TRAINING PROGRAM WITH
+24 WHICH THE CONTRACTOR OR SUBCONTRACTOR DOES NOT HAVE AN EXISTING
+25 PARTICIPATION AGREEMENT, AT LEAST 90 CALENDAR DAYS BEFORE THE DATE THE
+26 CONTRACTOR OR SUBCONTRACTOR EXPECTS TO USE APPRENTICE LABOR.
+27 17–605.1.
+28 (A) WHILE CONSTRUCTION ACTIVITY ON A COVERED PROJECT IS ONGOING,
+29 EACH CONTRACTOR AND SUBCONTRACTOR PERFORMING WORK ON THE COVERED
+30 PROJECT SHALL SUBMIT A MONTHLY REPORT TO THE DEPARTMENT THAT
+31 INCLUDES:
+32 (1) FOR EACH APPRENTICE OR JOURNEYWORKER:
+HOUSE BILL 1017 11
+1 (I) THE NAME OF THE APPRENTICE OR JOURNEYWORKER;
+2 (II) THE NAME OF THE ASSOCIATED APPRENTICESHIP TRAINING
+3 PROGRAM; AND
+4 (III) THE APPRENTICE REGISTRATION OR IDENTIFICATION
+5 NUMBER;
+6 (2) THE TOTAL NUMBER OF APPRENTICES AND LABOR HOURS
+7 WORKED, CATEGORIZED BY TRADE OR CRAFT; AND
+8 (3) THE TOTAL NUMBER OF JOURNEYWORKERS AND LABOR HOURS
+9 WORKED, CATEGORIZED BY TRADE OR CRAFT.
+10 (B) WITHIN 60 DAYS AFTER COMPLETING WORK ON A COVERED PROJECT,
+11 EACH CONTRACTOR AND SUBCONTRACTOR SHALL SUBMIT TO THE DEPARTMENT:
+12 (1) A STATEMENT OF THE TOTAL NUMBER OF LABOR HOURS OF WORK
+13 ON A COVERED PROJECT, INCLUDING CONSTRUCTION, ALTERATION, AND REPAIR
+14 WORK, PERFORMED BY AN APPRENTICE OR JOURNEYWORKER; AND
+15 (2) IF APPLICABLE, A WRITTEN DECLARATION AND SUPPORTING
+16 DOCUMENTS JUSTIFYING ANY WAIVER RECEIVED UNDER § 17–604.1 OF THIS
+17 SUBTITLE.
+18 (C) THE DEPARTMENT SHALL MAINTAIN ON ITS WEBSITE:
+19 (1) DATA AGGREGATED FROM THE REPORTS RECEIVED UNDER
+20 SUBSECTIONS (A) AND (B) OF THIS SECTION SHOWING THE USE OF QUALIFIED
+21 APPRENTICES AND JOURNEYWORKERS ON COVERED PROJECTS; AND
+22 (2) DESCRIPTIONS OF THE CIRCUMSTANCES OF ANY WAIVER
+23 GRANTED UNDER § 17–604.1 OF THIS SUBTITLE.
+24 17–606.
+25 (a) A contractor or subcontractor that fails to meet the requirements of this
+26 subtitle shall be liable for an amount equal to:
+27 (1) twice the amount of unpaid apprenticeship training contributions
+28 required by §§ 17–603 AND 17–604 OF this subtitle; AND
+12 HOUSE BILL 1017
+1 (2) $100 MULTIPLIED BY THE TOTAL LABOR HOURS FOR WHICH THE
+2 REQUIREMENT UNDER § 17–603 OF THIS SUBTITLE WAS APPLICABLE.
+3 (b) (1) In this subsection, “willfully” means representations or omissions
+4 known to be false or made with deliberate ignorance or reckless disregard for their truth or
+5 falsity.
+6 (2) Any person, firm, or corporation that is found to have made willfully a
+7 false or fraudulent representation or omission regarding a material fact in connection with
+8 prevailing wage records required by this section shall be liable for a civil penalty in an
+9 amount of up to $1,000 for each employee and each falsified record.
+10 (3) Penalties shall be recoverable [in civil actions and paid to the State]
+11 UNDER THE MARYLAND FALSE CLAIMS ACT.
+12 (c) (1) The Secretary shall adopt regulations to establish administrative
+13 procedures for the collection of payments under this subtitle.
+14 (2) (i) The Secretary may file suit to enforce this section in any court of
+15 competent jurisdiction.
+16 (ii) In an action filed under this subsection, the court shall require
+17 the contractor or subcontractor to pay the amount required by subsection (a) of this section,
+18 including interest, reasonable counsel fees, and court costs.
+19 17–607.
+20 THE SECRETARY SHALL ADOPT REGULATIONS NECESSARY TO CARRY OUT THE
+21 REQUIREMENTS OF THIS SUBTITLE.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+23 October 1, 2025.
+[DELETED: :CA      5   C A P ( F c t r c c a s t e a c n o q a o j n t m a c a a r r c p o l t a c p t w a r a t t U S o M a B C C C a g r t a r B  A  S  A  (  ( e b C 7 o t A o t G A o 2 a  C B  A S  A  ( B]
+[DELETED:  H   A S  A  ( B  A S  A  (  S T A 1  ( ( I t s “ m t U S o M   ( E n a t t U S o M M S U S M C   ( ( A C s c w t p a p d b t U o B A a     1 § 1 o t E A f t U S     2 § 1 o t E A f M S U     3 § o     4 § 1 o t E A f B C C    ( 1 T r a a o t B o P W s f]
+[DELETED: H 3     A c     B s     2 I i r o a c f s o c i t c o t a a i t D o B a M     3 F n 1     A c a d     B c e C   ( T    ( t s    ( p t p o t r a b t D o G S g t p o a a e    ( p t p o § 1 o t P P    ( t t    ( t f   ( ( E a p i p ( o t s t f C     1 §     2 § 1 o t s ( c e]
+[DELETED:  H      3 § 1 o t a ( c – N     4 §     5 T 1 S 3 o t a ( B P     6 T a     7 T A     8 § 1 o t a ( e t o p a]     9 T 1 o t a ( a D o C   1 T1,S  U  O T AARPWC” E U O O .    ( I a p v t p o t s o p v   ( ( T c     1 t     2 M     3 B    ( A o C A s h a o c c r t p c    ( A t e o t B o R o M S U C A s h a o c c r t p c]
+[DELETED: H 5    ( A M C A s h a o c c r t p c    ( A t e o t B o T o B C C B c   ( E w r t t p o § 1 o t a p    ( p b a U o B C C C     1 a     2 a     3 a     4 a o     5 a     6 a b m b o m g    ( p f     1 d     2 r     3 p    ( p     1 s o m t i i a w t m S o M g a e a r b t U S o M]
+[DELETED:  H      2 e t m m a e i a o t 1  ( I ) “AP PE M T P O T H O W O A C PT I CNN A R WK P B A A O A   11.  () “]( p ( i C ( 29C.P2   A  3 .  () “]( w  () “k,]() a d u § 1 o t t t i v a $ o mT I U   .  () “](  () “ m t S A T F e]( u ) “LAS  P O CN AN O R W B A ( ; ( ; ( ;S ]
+[DELETED: H 7 (  P E I A B F EEE O P CY A D I   A,29C.  () “ i a a t p m t a]( c a t a a l e t t h f b c r r f a s) “QU A O JR M A   () “](() H S A O T C A() O 1  ( T  ( T   ( p t   ( p 6  ( T a  ( T a  ( T]
+[DELETED:  H    ( p p i t S p s s a c c t a s   ( p a() O C O A C P F W A P A   1,2,2() OD3,2,N E   AR E() TH E M A T A P F A P T M A R R N FT 1  ( A p   ( t p eTO ;   ( td;   ( t c w m p i a d u § 1 hs. ( T p b a c t t u r f t p b t c c  ( O t h r a p a r f]
+[DELETED: H 9 t a f r a u s f t p o i o e a  ( T S s a r t e a p f a o r u s ( o t s a u s t i a e a 1  ( A p   ( t p f A O J F A C PEO     ( td;   ( t 1 hs.  ( T p c  ( O t h r a p a r f t a f r a u s f t p o i o e a  ( T S s a r t e a p f a o r u s ( o t s a u s t i a e a() I,N T SN A A A TS M E A T P T H A A O O T I T L O T P A H A U A C B P O]
+[DELETED:  H  I A W E F T P O() TS§1H E   1 O T I A C O S S A W AN I A S D B T EY D T T C O ( () C N  A F A A A TS  ( :  ()T D R T R O A R B T C O S T W T E S A R O TM   ()IT  () O R Q A F A AM : ( R B T A I W SL  ( R T A T P W T C O S D N H A ET   9() WHG S S A M R T T E T( :]
+[DELETED: H 1 () ;T ()ITM  ()IT A R O I( T N O A A L HD T ;(D .) W60I  T E:(T N N ,K R ;(  AE A W D A S J A W R U   O T1() TD:H E ( A F T R R U A A B O T S S T U O Q)(S  ( O T C O A W   11. 1  ( A c o s t f t m t r o t ses ( t t a o u a t c r t§1314;     ]
+[DELETED:  H  ( $   1 .  ( ( I t s “ m r o o k f   ( A f p a   ( P isa A A L CFC .  ( ( T S s a r t e a p   ( ( T c    ( I t iT E  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1017
+P2 5lr2659
+CF SB 688
+By: Delegate Wells
+Introduced and read first time: February 3, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Works Contracts – Apprenticeship Requirements
+3 (Maryland Workforce Apprenticeship Utilization Act)
+4 FOR the purpose of altering certain apprenticeship requirements relating to public works
+5 contracts to require certain contractors and subcontractors to employ a certain
+6 number of qualified apprentices or journeyworkers necessary to meet a certain
+7 applicable percentage for the project; altering which projects are subject to certain
+8 apprenticeship requirements; repealing certain provisions of law that authorized
+9 contractors and subcontractors to make certain payments to a certain apprenticeship
+10 program in lieu of employing certain apprentices; requiring the Secretary of Labor
+11 to annually establish a certain applicable percentage; authorizing the Secretary to
+12 waive certain requirements under certain circumstances; establishing that certain
+13 apprenticeship requirements apply to the University System of Maryland and
+14 Baltimore City Community College; and generally relating to apprenticeship
+15 requirements for public works contracts.
+16 BY repealing and reenacting, with amendments,
+17 Article – State Finance and Procurement
+18 Section 11–203(e)
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 (As enacted by Chapter 732 of the Acts of the General Assembly of 2021 and
+22 Chapters 575 and 576 of the Acts of the General Assembly of 2023)
+23 BY repealing and reenacting, with amendments,
+24 Article – State Finance and Procurement
+25 Section 17–601, 17–603, 17–604, and 17–606
+26 Annotated Code of Maryland
+27 (2021 Replacement Volume and 2024 Supplement)
+28 BY adding to
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1017*
+
+2 HOUSE BILL 1017
+1 Article – State Finance and Procurement
+2 Section 17–601.1, 17–602.1, 17–604.1, 17–605.1, and 17–607
+3 Annotated Code of Maryland
+4 (2021 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, without amendments,
+6 Article – State Finance and Procurement
+7 Section 17–602
+8 Annotated Code of Maryland
+9 (2021 Replacement Volume and 2024 Supplement)
+10 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+11 That the Laws of Maryland read as follows:
+12 Article – State Finance and Procurement
+13 11–203.
+14 (e) (1) In this subsection, “University” means the University System of
+15 Maryland, Morgan State University, or St. Mary’s College of Maryland.
+16 (2) Except as otherwise provided in this subsection, this Division II does
+17 not apply to the University System of Maryland, Morgan State University, St. Mary’s
+18 College of Maryland, or Baltimore City Community College.
+19 (3) (i) A procurement by a University or Baltimore City Community
+20 College shall comply with the policies and procedures developed by the University or
+21 Baltimore City Community College and approved by the Board of Public Works and the
+22 Administrative, Executive, and Legislative Review Committee of the General Assembly in
+23 accordance with:
+24 1. § 12–112 of the Education Article for the University
+25 System of Maryland;
+26 2. § 14–109 of the Education Article for Morgan State
+27 University;
+28 3. § 14–405(f) of the Education Article for St. Mary’s College
+29 of Maryland; or
+30 4. § 16–505.3 of the Education Article for Baltimore City
+31 Community College.
+32 (ii) 1. The review and approval of the Board of Public Works
+33 shall be required for the following types of contracts with a value that exceeds $1,000,000
+34 for a University or $500,000 for Baltimore City Community College:
+
+HOUSE BILL 1017 3
+1 A. capital improvements; and
+2 B. services.
+3 2. In its review of a contract for services or capital
+4 improvements with a value that exceeds $1,000,000, the Board of Public Works may request
+5 the comments of the appropriate agencies, including the Department of Budget and
+6 Management and the Department of General Services.
+7 3. For Baltimore City Community College contracts that are
+8 not subject to the review and approval of the Board of Public Works under subsubparagraph
+9 1 of this subparagraph:
+10 A. contracts with a value of $100,000 or less shall be reviewed
+11 and approved by the President of Baltimore City Community College or the President’s
+12 designee; and
+13 B. contracts with a value that exceeds $100,000 but does not
+14 exceed $500,000 shall be approved by the Board of Trustees of Baltimore City Community
+15 College.
+16 (4) The policies of a University or Baltimore City Community College shall:
+17 (i) to the maximum extent practicable, require the purchasing of
+18 supplies and services in accordance with Title 14, Subtitle 1 of this article;
+19 (ii) promote the purposes of the regulations adopted by the
+20 Department of General Services governing the procurement of architectural and
+21 engineering services;
+22 (iii) promote the purposes of § 13–402 of the State Personnel and
+23 Pensions Article;
+24 (iv) to the maximum extent practicable, be similar to § 13–218.1 of
+25 this article; and
+26 (v) to the maximum extent practicable, require the procurement of
+27 food in accordance with Title 14, Subtitle 7 of this article.
+28 (5) (i) Except as provided in paragraph (7) of this subsection, the
+29 following provisions of Division II of this article apply to a University and to Baltimore City
+30 Community College:
+31 1. § 11–205 of this subtitle (“Collusion”);
+32 2. § 11–205.1 of this subtitle (“Falsification, concealment,
+33 etc., of material facts”);
+
+4 HOUSE BILL 1017
+1 3. § 13–219 of this article (“Required clauses –
+2 Nondiscrimination clause”);
+3 4. § 13–225 of this article (“Retainage”);
+4 5. Title 14, Subtitle 3 of this article (“Minority Business
+5 Participation”);
+6 6. Title 14, Subtitle 7 of this article (“Certified Local Farm
+7 and Fish Program”);
+8 7. Title 15, Subtitle 1 of this article (“Procurement Contract
+9 Administration”);
+10 8. § 15–226 of this article (“Policy established; timing of
+11 payments; notice upon nonpayment; disputes; appeals”); [and]
+12 9. Title 16 of this article (“Suspension and Debarment of
+13 Contractors”); AND
+14 10. TITLE 17, SUBTITLE 6 OF THIS ARTICLE
+15 (“APPRENTICESHIP REQUIREMENTS FOR PUBLIC WORKS CONTRACTS”).
+16 (ii) If a procurement violates the provisions of this subsection or
+17 policies adopted in accordance with this subsection, the procurement contract is void or
+18 voidable in accordance with the provisions of § 11–204 of this subtitle.
+19 (6) (i) The State Board of Contract Appeals shall have authority over
+20 contract claims related to procurement contracts awarded by:
+21 1. the University System of Maryland before July 1, 1999;
+22 2. Morgan State University before July 1, 2004; and
+23 3. Baltimore City Community College before July 1, 2021.
+24 (ii) At the election of the Board of Regents of the University System
+25 of Maryland and subject to the approval of the Board of Public Works, the State Board of
+26 Contract Appeals shall have authority over contract claims related to procurement
+27 contracts awarded by the University after June 30, 1999.
+28 (iii) At the election of the Board of Regents of Morgan State
+29 University and subject to the approval of the Board of Public Works, the State Board of
+30 Contract Appeals shall have authority over contract claims related to procurement
+31 contracts awarded by the University after June 30, 2004.
+
+HOUSE BILL 1017 5
+1 (iv) At the election of the Board of Trustees of St. Mary’s College of
+2 Maryland and subject to the approval of the Board of Public Works, the State Board of
+3 Contract Appeals shall have authority over contract claims related to procurement
+4 contracts awarded by St. Mary’s College of Maryland after June 30, 2006.
+5 (v) At the election of the Board of Trustees of Baltimore City
+6 Community College and subject to the approval of the Board of Public Works, the State
+7 Board of Contract Appeals shall have authority over contract claims related to procurement
+8 contracts awarded by Baltimore City Community College after June 30, 2021.
+9 (7) Except with regard to the provisions of § 15–113 of this article,
+10 paragraphs (3), (4), and (5) of this subsection do not apply to:
+11 (i) procurement by a University or Baltimore City Community
+12 College from:
+13 1. another unit;
+14 2. a political subdivision of the State;
+15 3. an agency of a political subdivision of the State;
+16 4. a government, including the government of another state,
+17 of the United States, or of another country;
+18 5. an agency or political subdivision of a government; or
+19 6. a bistate, multistate, bicounty, or multicounty
+20 governmental agency;
+21 (ii) procurement by a University in support of enterprise activities
+22 for the purpose of:
+23 1. direct resale;
+24 2. remanufacture and subsequent resale; or
+25 3. procurement by the University for overseas programs; or
+26 (iii) procurement by the University System of Maryland for:
+27 1. services of managers to invest, in accordance with the
+28 management and investment policies adopted by the Board of Regents of the University
+29 System of Maryland, gift and endowment assets received by the University System of
+30 Maryland in accordance with § 12–104(e) of the Education Article; or
+
+6 HOUSE BILL 1017
+1 2. expenditures to manage, maintain, and enhance, in
+2 accordance with the management and investment policies adopted by the Board of Regents
+3 of the University System of Maryland, the value of gift and endowment assets received by
+4 the University System of Maryland in accordance with § 12–104(e) of the Education Article.
+5 17–601.
+6 (a) In this subtitle the following words have the meanings indicated.
+7 (B) “APPLICABLE PERCENTAGE” MEANS THE PERCENTAGE OF TOTAL
+8 LABOR HOURS OF WORK ON A COVERED PROJECT, INCLUDING CONSTRUCTION,
+9 ALTERATION, AND REPAIR WORK, PERFORMED BY AN APPRENTICE OR A
+10 JOURNEYWORKER ESTABLISHED UNDER § 17–602.1 OF THIS SUBTITLE.
+11 [(b)] (C) “Apprenticeship training program” means an apprenticeship training
+12 program that:
+13 (1) is registered with, and approved by, the Apprenticeship and Training
+14 Council or the U.S. Department of Labor; AND
+15 (2) COMPLIES WITH THE REQUIREMENTS OF 29 C.F.R. PART 29 AND
+16 PART 30.
+17 [(c)] (D) “Covered craft” means a classification of workers listed in the prevailing
+18 wage determination applicable to the covered project.
+19 [(d)] (E) “Covered project” means a project for the construction of a public work[,
+20 as defined under § 17–201 of this title, that is valued at $500,000 or more] THAT IS
+21 SUBJECT TO SUBTITLE 2 OF THIS TITLE.
+22 [(e)] (F) “Department” means the Maryland Department of Labor.
+23 [(f)] (G) “Fund” means the State Apprenticeship Training Fund established
+24 under § 17–602 of this subtitle.
+25 (H) “LABOR HOURS” MEANS THE TOTAL NUMBER OF HOURS DEVOTED TO
+26 THE PERFORMANCE OF CONSTRUCTION, ALTERATION, OR REPAIR WORK BY ANY
+27 INDIVIDUAL AND EXCLUDES HOURS WORKED BY:
+28 (1) FOREMEN;
+29 (2) SUPERINTENDENTS;
+30 (3) OWNERS; OR
+
+HOUSE BILL 1017 7
+1 (4) ANY PERSON EMPLOYED IN A BONA FIDE EXECUTIVE,
+2 ADMINISTRATIVE, OR PROFESSIONAL CAPACITY, AS DEFINED IN 29 C.F.R. PART
+3 541.
+4 [(g)] (I) “Participates in an apprenticeship training program” means that a
+5 contractor or subcontractor makes regular financial contributions for each covered craft to
+6 apprenticeship training programs for covered crafts during the term of the covered project
+7 that are at least equal to the hourly fringe benefit contribution rates required for
+8 apprenticeship training by the applicable prevailing wage determination for the project, as
+9 specified by the Secretary.
+10 (J) “QUALIFIED APPRENTICE OR JOURNEYWORKER” MEANS AN
+11 INDIVIDUAL WHO IS PARTICIPATING IN AN APPRENTICESHIP TRAINING PROGRAM.
+12 [(h)] (K) “Secretary” means the Secretary of Labor.
+13 17–601.1.
+14 (A) THIS SUBTITLE APPLIES ONLY TO CONTRACTORS AND
+15 SUBCONTRACTORS WHO EMPLOY FOUR OR MORE INDIVIDUALS TO PERFORM WORK
+16 ON A COVERED PROJECT.
+17 (B) NOTHING IN THIS SUBTITLE MAY PREEMPT A LOCAL LAW OR POLICY
+18 PROVIDING FOR ADDITIONAL SKILLED AND TRAINED WORKFORCE REQUIREMENTS
+19 ON PUBLIC WORKS PROJECTS.
+20 17–602.
+21 (a) There is a State Apprenticeship Training Fund in the Department.
+22 (b) The Fund consists of:
+23 (1) payments made by contractors or subcontractors in accordance with
+24 this subtitle and Subtitle 6A of this title; and
+25 (2) penalties collected as a result of violations of this subtitle and Subtitle
+26 6A of this title.
+27 (c) The Fund is a special, nonlapsing fund that is not subject to § 7–302 of this
+28 article.
+29 (d) The State Treasurer shall hold the Fund separately, and the Comptroller shall
+30 account for the Fund.
+31 (e) The Secretary shall use money in the Fund to:
+
+8 HOUSE BILL 1017
+1 (1) promote preapprenticeship programs and other workforce development
+2 programs in the State’s public secondary schools and community colleges that assist
+3 students in preparing for and entering apprenticeship training programs; and
+4 (2) pay any costs associated with carrying out the provisions of this subtitle
+5 and Subtitle 6A of this title.
+6 17–602.1.
+7 (A) FOR CONSTRUCTION ON A COVERED PROJECT FOR WHICH A PUBLIC
+8 BODY ADVERTISES FOR BIDS OR PROPOSALS FOR A PUBLIC WORKS CONTRACT ON
+9 OR AFTER JANUARY 1, 2026, THE APPLICABLE PERCENTAGE IS 20%.
+10 (B) ON OR BEFORE DECEMBER 31, 2026, AND EACH YEAR THEREAFTER,
+11 THE SECRETARY SHALL SET THE APPLICABLE PERCENTAGE THAT WILL APPLY FOR
+12 THE FOLLOWING CALENDAR YEAR.
+13 (C) THE SECRETARY MAY ALTER THE APPLICABLE PERCENTAGE FOR A
+14 COVERED PROJECT TO MEET ANY RATIO REQUIREMENTS NECESSARY FOR
+15 APPRENTICE OR JOURNEYWORKER SUPERVISION IN THE COVERED CRAFT.
+16 17–603.
+17 (a) A contractor that is awarded a procurement contract for a covered project shall
+18 provide to a unit, as a condition of receiving the contract, written verification that:
+19 (1) the contractor [participates in an apprenticeship training program for
+20 each covered craft in which it will employ persons for the covered project] IS EMPLOYING
+21 THE NUMBER OF QUALIFIED APPRENTICES OR JOURNEYWORKERS FOR A COVERED
+22 PROJECT NECESSARY TO MEET THE APPLICABLE PERCENTAGE FOR THE COVERED
+23 PROJECT; OR
+24 (2) the contractor will make payments to the Fund[; or
+25 (3) the contractor will make payments in amounts determined under §
+26 17–605 of this subtitle to a registered apprenticeship program or to an organization that
+27 has registered apprenticeship programs for the purpose of supporting these programs].
+28 (b) The written verification required under subsection (a) of this section shall be
+29 provided by a contractor to the unit responsible for the project before the contractor
+30 commences performance under the procurement contract.
+31 [(c) Organizations that have registered apprenticeship programs and receive
+32 funds from contractors under subsection (a)(3) of this section shall certify to the Secretary
+
+HOUSE BILL 1017 9
+1 that all funds received are used solely for the purpose of improving or expanding
+2 apprenticeship training in the State.
+3 (d) The Secretary shall adopt regulations to establish a process for auditing
+4 organizations that provide registered apprenticeship programs to ensure that all funds
+5 received under subsection (a)(3) of this section are used solely to improve and expand
+6 apprenticeship programs in the State.]
+7 17–604.
+8 (a) A subcontractor that performs work valued at $100,000 or more for a covered
+9 project shall provide to a unit written verification that:
+10 (1) the subcontractor [participates in an apprenticeship training program
+11 for each covered craft in which it will employ persons] IS EMPLOYING THE NUMBER OF
+12 QUALIFIED APPRENTICES OR JOURNEYWORKERS FOR A COVERED PROJECT
+13 NECESSARY TO MEET THE APPLICABLE PERCENTAGE for the covered project; OR
+14 (2) the subcontractor will make payments to the Fund[; or
+15 (3) the subcontractor will make payments in amounts determined under §
+16 17–605 of this subtitle to a registered apprenticeship program or to an organization that
+17 has registered apprenticeship programs for the purpose of supporting these programs].
+18 (b) The written verification required under subsection (a) of this section shall be
+19 provided by a subcontractor to the unit responsible for the project before the subcontractor
+20 commences performance under the procurement contract.
+21 [(c) Organizations that have registered apprenticeship programs and receive
+22 funds from contractors under subsection (a)(3) of this section shall certify to the Secretary
+23 that all funds received are used solely for the purpose of improving or expanding
+24 apprenticeship training in the State.
+25 (d) The Secretary shall adopt regulations to establish a process for auditing
+26 organizations that provide registered apprenticeship programs to ensure that all funds
+27 received under subsection (a)(3) of this section are used solely to improve and expand
+28 apprenticeship programs in the State.]
+29 17–604.1.
+30 (A) IN THIS SECTION, “ALL APPLICABLE APPRENTICESHIP TRAINING
+31 PROGRAMS” MEANS EACH APPRENTICESHIP TRAINING PROGRAM THAT HAS A
+32 GEOGRAPHIC AREA OF OPERATION THAT INCLUDES THE LOCATION OF THE
+33 COVERED PROJECT AND HAS A USUAL AND CUSTOMARY BUSINESS PRACTICE OF
+
+10 HOUSE BILL 1017
+1 ENTERING INTO AGREEMENTS WITH EMPLOYERS FOR THE PLACEMENT OF
+2 APPRENTICES IN THE COVERED CRAFT.
+3 (B) THE SECRETARY MAY WAIVE THE REQUIREMENTS UNDER § 17–603 OR
+4 § 17–604 OF THIS SUBTITLE IF A CONTRACTOR OR SUBCONTRACTOR SUBMITS A
+5 WRITTEN WAIVER APPLICATION, INCLUDING ANY SUPPORTING DOCUMENTATION
+6 REQUIRED BY THE SECRETARY, DEMONSTRATING THAT THE CONTRACTOR OR
+7 SUBCONTRACTOR:
+8 (1) SUBJECT TO SUBSECTION (C) OF THIS SECTION, HAS REQUESTED
+9 QUALIFIED APPRENTICES FROM ALL APPLICABLE APPRENTICESHIP TRAINING
+10 PROGRAMS; AND
+11 (2) FOR EACH REQUEST:
+12 (I) THE REQUEST HAS BEEN DENIED FOR A REASON THAT IS
+13 NOT THE RESULT OF A REFUSAL BY THE CONTRACTOR OR SUBCONTRACTOR TO
+14 COMPLY WITH THE ESTABLISHED STANDARDS AND REQUIREMENTS OF THE
+15 APPRENTICESHIP TRAINING PROGRAM; OR
+16 (II) THE APPRENTICESHIP TRAINING PROGRAM HAS FAILED TO
+17 RESPOND TO THE REQUEST WITHIN 10 BUSINESS DAYS AFTER THE DATE ON WHICH
+18 THE APPRENTICESHIP TRAINING PROGRAM RECEIVED THE REQUEST.
+19 (C) TO REQUEST QUALIFIED APPRENTICES FROM AN APPRENTICESHIP
+20 TRAINING PROGRAM, A CONTRACTOR OR SUBCONTRACTOR SHALL SUBMIT:
+21 (1) A REQUEST BY TELEPHONE AND IN WRITING SENT
+22 ELECTRONICALLY AND BY REGISTERED MAIL; AND
+23 (2) A REQUEST TO AN APPRENTICESHIP TRAINING PROGRAM WITH
+24 WHICH THE CONTRACTOR OR SUBCONTRACTOR DOES NOT HAVE AN EXISTING
+25 PARTICIPATION AGREEMENT, AT LEAST 90 CALENDAR DAYS BEFORE THE DATE THE
+26 CONTRACTOR OR SUBCONTRACTOR EXPECTS TO USE APPRENTICE LABOR.
+27 17–605.1.
+28 (A) WHILE CONSTRUCTION ACTIVITY ON A COVERED PROJECT IS ONGOING,
+29 EACH CONTRACTOR AND SUBCONTRACTOR PERFORMING WORK ON THE COVERED
+30 PROJECT SHALL SUBMIT A MONTHLY REPORT TO THE DEPARTMENT THAT
+31 INCLUDES:
+32 (1) FOR EACH APPRENTICE OR JOURNEYWORKER:
+
+HOUSE BILL 1017 11
+1 (I) THE NAME OF THE APPRENTICE OR JOURNEYWORKER;
+2 (II) THE NAME OF THE ASSOCIATED APPRENTICESHIP TRAINING
+3 PROGRAM; AND
+4 (III) THE APPRENTICE REGISTRATION OR IDENTIFICATION
+5 NUMBER;
+6 (2) THE TOTAL NUMBER OF APPRENTICES AND LABOR HOURS
+7 WORKED, CATEGORIZED BY TRADE OR CRAFT; AND
+8 (3) THE TOTAL NUMBER OF JOURNEYWORKERS AND LABOR HOURS
+9 WORKED, CATEGORIZED BY TRADE OR CRAFT.
+10 (B) WITHIN 60 DAYS AFTER COMPLETING WORK ON A COVERED PROJECT,
+11 EACH CONTRACTOR AND SUBCONTRACTOR SHALL SUBMIT TO THE DEPARTMENT:
+12 (1) A STATEMENT OF THE TOTAL NUMBER OF LABOR HOURS OF WORK
+13 ON A COVERED PROJECT, INCLUDING CONSTRUCTION, ALTERATION, AND REPAIR
+14 WORK, PERFORMED BY AN APPRENTICE OR JOURNEYWORKER; AND
+15 (2) IF APPLICABLE, A WRITTEN DECLARATION AND SUPPORTING
+16 DOCUMENTS JUSTIFYING ANY WAIVER RECEIVED UNDER § 17–604.1 OF THIS
+17 SUBTITLE.
+18 (C) THE DEPARTMENT SHALL MAINTAIN ON ITS WEBSITE:
+19 (1) DATA AGGREGATED FROM THE REPORTS RECEIVED UNDER
+20 SUBSECTIONS (A) AND (B) OF THIS SECTION SHOWING THE USE OF QUALIFIED
+21 APPRENTICES AND JOURNEYWORKERS ON COVERED PROJECTS; AND
+22 (2) DESCRIPTIONS OF THE CIRCUMSTANCES OF ANY WAIVER
+23 GRANTED UNDER § 17–604.1 OF THIS SUBTITLE.
+24 17–606.
+25 (a) A contractor or subcontractor that fails to meet the requirements of this
+26 subtitle shall be liable for an amount equal to:
+27 (1) twice the amount of unpaid apprenticeship training contributions
+28 required by §§ 17–603 AND 17–604 OF this subtitle; AND
+
+12 HOUSE BILL 1017
+1 (2) $100 MULTIPLIED BY THE TOTAL LABOR HOURS FOR WHICH THE
+2 REQUIREMENT UNDER § 17–603 OF THIS SUBTITLE WAS APPLICABLE.
+3 (b) (1) In this subsection, “willfully” means representations or omissions
+4 known to be false or made with deliberate ignorance or reckless disregard for their truth or
+5 falsity.
+6 (2) Any person, firm, or corporation that is found to have made willfully a
+7 false or fraudulent representation or omission regarding a material fact in connection with
+8 prevailing wage records required by this section shall be liable for a civil penalty in an
+9 amount of up to $1,000 for each employee and each falsified record.
+10 (3) Penalties shall be recoverable [in civil actions and paid to the State]
+11 UNDER THE MARYLAND FALSE CLAIMS ACT.
+12 (c) (1) The Secretary shall adopt regulations to establish administrative
+13 procedures for the collection of payments under this subtitle.
+14 (2) (i) The Secretary may file suit to enforce this section in any court of
+15 competent jurisdiction.
+16 (ii) In an action filed under this subsection, the court shall require
+17 the contractor or subcontractor to pay the amount required by subsection (a) of this section,
+18 including interest, reasonable counsel fees, and court costs.
+19 17–607.
+20 THE SECRETARY SHALL ADOPT REGULATIONS NECESSARY TO CARRY OUT THE
+21 REQUIREMENTS OF THIS SUBTITLE.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+23 October 1, 2025.
+
+[DELETED: :CA      5   C A P ( F c t r c c a s t e a c n o q a o j n t m a c a a r r c p o l t a c p t w a r a t t U S o M a B C C C a g r t a r B  A  S  A  (  ( e b C 7 o t A o t G A o 2 a  C B  A S  A  ( B]
+[DELETED:  H   A S  A  ( B  A S  A  (  S T A 1  ( ( I t s “ m t U S o M   ( E n a t t U S o M M S U S M C   ( ( A C s c w t p a p d b t U o B A a     1 § 1 o t E A f t U S     2 § 1 o t E A f M S U     3 § o     4 § 1 o t E A f B C C    ( 1 T r a a o t B o P W s f]
+[DELETED: H 3     A c     B s     2 I i r o a c f s o c i t c o t a a i t D o B a M     3 F n 1     A c a d     B c e C   ( T    ( t s    ( p t p o t r a b t D o G S g t p o a a e    ( p t p o § 1 o t P P    ( t t    ( t f   ( ( E a p i p ( o t s t f C     1 §     2 § 1 o t s ( c e]
+[DELETED:  H      3 § 1 o t a ( c – N     4 §     5 T 1 S 3 o t a ( B P     6 T a     7 T A     8 § 1 o t a ( e t o p a]     9 T 1 o t a ( a D o C   1 T1,S  U  O T AARPWC” E U O O .    ( I a p v t p o t s o p v   ( ( T c     1 t     2 M     3 B    ( A o C A s h a o c c r t p c    ( A t e o t B o R o M S U C A s h a o c c r t p c]
+[DELETED: H 5    ( A M C A s h a o c c r t p c    ( A t e o t B o T o B C C B c   ( E w r t t p o § 1 o t a p    ( p b a U o B C C C     1 a     2 a     3 a     4 a o     5 a     6 a b m b o m g    ( p f     1 d     2 r     3 p    ( p     1 s o m t i i a w t m S o M g a e a r b t U S o M]
+[DELETED:  H      2 e t m m a e i a o t 1  ( I ) “AP PE M T P O T H O W O A C PT I CNN A R WK P B A A O A   11.  () “]( p ( i C ( 29C.P2   A  3 .  () “]( w  () “k,]() a d u § 1 o t t t i v a $ o mT I U   .  () “](  () “ m t S A T F e]( u ) “LAS  P O CN AN O R W B A ( ; ( ; ( ;S ]
+[DELETED: H 7 (  P E I A B F EEE O P CY A D I   A,29C.  () “ i a a t p m t a]( c a t a a l e t t h f b c r r f a s) “QU A O JR M A   () “](() H S A O T C A() O 1  ( T  ( T   ( p t   ( p 6  ( T a  ( T a  ( T]
+[DELETED:  H    ( p p i t S p s s a c c t a s   ( p a() O C O A C P F W A P A   1,2,2() OD3,2,N E   AR E() TH E M A T A P F A P T M A R R N FT 1  ( A p   ( t p eTO ;   ( td;   ( t c w m p i a d u § 1 hs. ( T p b a c t t u r f t p b t c c  ( O t h r a p a r f]
+[DELETED: H 9 t a f r a u s f t p o i o e a  ( T S s a r t e a p f a o r u s ( o t s a u s t i a e a 1  ( A p   ( t p f A O J F A C PEO     ( td;   ( t 1 hs.  ( T p c  ( O t h r a p a r f t a f r a u s f t p o i o e a  ( T S s a r t e a p f a o r u s ( o t s a u s t i a e a() I,N T SN A A A TS M E A T P T H A A O O T I T L O T P A H A U A C B P O]
+[DELETED:  H  I A W E F T P O() TS§1H E   1 O T I A C O S S A W AN I A S D B T EY D T T C O ( () C N  A F A A A TS  ( :  ()T D R T R O A R B T C O S T W T E S A R O TM   ()IT  () O R Q A F A AM : ( R B T A I W SL  ( R T A T P W T C O S D N H A ET   9() WHG S S A M R T T E T( :]
+[DELETED: H 1 () ;T ()ITM  ()IT A R O I( T N O A A L HD T ;(D .) W60I  T E:(T N N ,K R ;(  AE A W D A S J A W R U   O T1() TD:H E ( A F T R R U A A B O T S S T U O Q)(S  ( O T C O A W   11. 1  ( A c o s t f t m t r o t ses ( t t a o u a t c r t§1314;     ]
+[DELETED:  H  ( $   1 .  ( ( I t s “ m r o o k f   ( A f p a   ( P isa A A L CFC .  ( ( T S s a r t e a p   ( ( T c    ( I t iT E  S A B I F E T t A s t e O]
