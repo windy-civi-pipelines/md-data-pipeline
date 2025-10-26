@@ -1,0 +1,1039 @@
+Title: SENATE BILL 381
+Official Title: SENATE BILL 381
+Number of Sections: 1
+Source: versions - Third - Motor Vehicles - Automated Enforcement Programs - Privacy Protections
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+R5 5lr1591
+CF HB 516
+By: Senator Love Senators Love, Folden, McCray, McKay, Smith, and Sydnor
+Introduced and read first time: January 17, 2025
+Assigned to: Judicial Proceedings
+Committee Report: Favorable with amendments
+Senate action: Adopted with floor amendments
+Read second time: February 7, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Motor Vehicles – Automated Enforcement Programs – Privacy Protections
+3 FOR the purpose of requiring a custodian of recorded images produced by certain
+4 automated enforcement systems to deny inspection of the recorded images, subject
+5 to certain exceptions; prohibiting certain State and local agencies from using a
+6 recorded image or associated data produced by an automated enforcement system
+7 without a warrant, subpoena, or court order unless the use is for an appropriate
+8 traffic enforcement purpose;, subject to certain exceptions; establishing certain
+9 requirements and authorizations for the removal and destruction of recorded images
+10 and associated data produced by an automated enforcement system; establishing
+11 certain prohibitions and requirements for privacy protection under automated
+12 enforcement programs; and generally relating to privacy protections for automated
+13 enforcement programs.
+14 BY repealing and reenacting, with amendments,
+15 Article – General Provisions
+16 Section 4–321
+17 Annotated Code of Maryland
+18 (2019 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Transportation
+21 Section 12–113.1
+22 Annotated Code of Maryland
+23 (2020 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0381*
+2 SENATE BILL 381
+1 BY repealing and reenacting, without amendments,
+2 Article – Transportation
+3 Section 21–202.1(c), 21–704.1(b) and (e)(1), 21–706.1(c)(1), 21–707.1(c)(2),
+4 21–809(b)(1)(i), 21–810(b)(1), 21–1134(b)(1), 22–612(c)(1)(i), and 24–111.3(b)
+5 and (c)(1)
+6 Annotated Code of Maryland
+7 (2020 Replacement Volume and 2024 Supplement)
+8 BY repealing and reenacting, with amendments,
+9 Article – Transportation
+10 Section 21–202.1(j), 21–704.1(k), 21–706.1(k), 21–707.1(k), 21–809(i), 21–810(i),
+11 21–1134(k), 22–612(j), and 24–111.3(j)
+12 Annotated Code of Maryland
+13 (2020 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Article – General Provisions
+16 Section 4–321(b) and (c)
+17 Annotated Code of Maryland
+18 (2019 Replacement Volume and 2024 Supplement)
+19 (As enacted by Section 1 of this Act)
+20 BY repealing and reenacting, with amendments,
+21 Article – Transportation
+22 Section 12–113.1(b)
+23 Annotated Code of Maryland
+24 (2020 Replacement Volume and 2024 Supplement)
+25 (As enacted by Section 1 of this Act)
+26 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+27 That the Laws of Maryland read as follows:
+28 Article – General Provisions
+29 4–321.
+30 (a) In this section, “RECORDED IMAGE” OR “recorded images” has the meaning
+31 stated in § 21–202.1, § 21–706.1, § 21–809, § 21–810, § 21–1134, or § 24–111.3 of the
+32 Transportation Article.
+33 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+34 inspection of recorded images produced by:
+35 (1) a traffic control signal monitoring system operated under § 21–202.1 of
+36 the Transportation Article;
+SENATE BILL 381 3
+1 (2) AN AUTOMATED RAILROAD GRADE CROSSING ENFORCEMENT
+2 SYSTEM OPERATED UNDER § 21–704.1 OF THE TRANSPORTATION ARTICLE;
+3 (3) A SCHOOL BUS MONITORING CAMERA OPERATED UNDER §
+4 21–706.1 OF THE TRANSPORTATION ARTICLE;
+5 (4) A STOP SIGN MONITORING SYSTEM OPERATED UNDER § 21–707.1
+6 OF THE TRANSPORTATION ARTICLE;
+7 [(2)] (5) a speed monitoring system operated under § 21–809 of the
+8 Transportation Article;
+9 [(3)] (6) a work zone speed control system operated under § 21–810 of the
+10 Transportation Article; [or]
+11 (7) A BUS LANE MONITORING SYSTEM OPERATED UNDER §
+12 21–1134 OF THE TRANSPORTATION ARTICLE;
+13 (8) A NOISE ABATEMENT MONITORING SYSTEM OPERATED UNDER §
+14 22–612 OF THE TRANSPORTATION ARTICLE; OR
+15 [(4)] (9) a vehicle height monitoring system operated under § 24–111.3 of
+16 the Transportation Article.
+17 (c) A custodian shall allow inspection of recorded images:
+18 (1) as required in § 12–113.1, § 21–202.1, § 21–704.1, § 21–706.1, §
+19 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the Transportation
+20 Article;
+21 (2) by any person issued a citation under § 21–202.1, § 21–704.1, §
+22 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the
+23 Transportation Article, or by an attorney of record for the person; or
+24 (3) by an employee or agent of an agency in an investigation or a proceeding
+25 relating to the imposition of or indemnification from civil liability under §
+26 21–202.1, § 21–704.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612,
+27 or § 24–111.3 of the Transportation Article.
+28 Article – Transportation
+29 12–113.1.
+30 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+31 INDICATED.
+4 SENATE BILL 381
+1 (2) “AGENCY” MEANS A STATE POLICE DEPARTMENT, THE STATE
+2 HIGHWAY ADMINISTRATION, A LOCAL POLICE DEPARTMENT, OR ANOTHER LOCAL
+3 AGENCY THAT IMPLEMENTS AND OPERATES AN AUTOMATED ENFORCEMENT
+4 PROGRAM.
+5 (3) “APPROPRIATE TRAFFIC ENFORCEMENT PURPOSE” MEANS THE
+6 DETECTION, INVESTIGATION, OR ANALYSIS OF, OR ASSESSMENT OR ADJUDICATION
+7 OF LIABILITY FOR, A VIOLATION.
+8 (4) “AUTOMATED ENFORCEMENT” MEANS THE USE OF CAMERAS,
+9 MONITORING DEVICES, AND OTHER TECHNOLOGY BY AN AGENCY TO CAPTURE
+10 RECORDED IMAGES OF A MOTOR VEHICLE BEING OPERATED IN VIOLATION OF A
+11 TRAFFIC LAW.
+12 (5) “FACIAL RECOGNITION TECHNOLOGY” MEANS A BIOMETRIC
+13 SOFTWARE APPLICATION THAT IDENTIFIES OR VERIFIES THE IDENTITY OF AN
+14 INDIVIDUAL BY COMPARING AND ANALYZING PATTERNS BASED ON AN INDIVIDUAL’S
+15 FACIAL CONTOURS.
+16 (6) “LAW ENFORCEMENT AGENCY” HAS THE MEANING STATED IN §
+17 3–201 OF THE PUBLIC SAFETY ARTICLE.
+18 (6) (7) “PROGRAM” MEANS AN AUTOMATED ENFORCEMENT
+19 PROGRAM IMPLEMENTED AND OPERATED BY AN AGENCY.
+20 (7) (8) “RECORDED IMAGE OR ASSOCIATED DATA” MEANS ANY
+21 IMAGE OR DATA RECORDED UNDER A PROGRAM BY ELECTRONIC OR DIGITAL MEANS,
+22 BY PHOTOGRAPHIC MEANS, OR BY WAY OF ANY OTHER MEDIUM THAT:
+23 (I) SHOWS A MOTOR VEHICLE;
+24 (II) CLEARLY IDENTIFIES THE ENTIRE REGISTRATION PLATE
+25 NUMBER OF THE MOTOR VEHICLE; AND
+26 (III) MAY CONSTITUTE EVIDENCE OF A VIOLATION.
+27 (8) (9) “VIOLATION” MEANS A TRAFFIC VIOLATION THAT A
+28 PARTICULAR AUTOMATED ENFORCEMENT SYSTEM IS INTENDED TO CAPTURE.
+29 (B) THIS SECTION APPLIES TO:
+30 (1) TRAFFIC CONTROL SIGNAL MONITORING SYSTEMS UNDER §
+31 21–202.1 OF THIS ARTICLE;
+SENATE BILL 381 5
+1 (2) AUTOMATED RAILROAD GRADE CROSSING ENFORCEMENT
+2 SYSTEMS UNDER § 21–704.1 OF THIS ARTICLE;
+3 (3) SCHOOL BUS MONITORING CAMERAS UNDER § 21–706.1 OF THIS
+4 ARTICLE;
+5 (4) STOP SIGN MONITORING SYSTEMS UNDER § 21–707.1 OF THIS
+6 ARTICLE;
+7 (5) SPEED MONITORING SYSTEMS UNDER § 21–809 OF THIS ARTICLE;
+8 (6) WORK ZONE SPEED CONTROL SYSTEMS UNDER § 21–810 OF THIS
+9 ARTICLE;
+10 (7) BUS LANE MONITORING SYSTEMS UNDER § 21–1134 OF THIS
+11 ARTICLE;
+12 (8) NOISE ABATEMENT MONITORING SYSTEMS UNDER § 22–612 OF
+13 THIS ARTICLE;
+14 (9) VEHICLE HEIGHT MONITORING SYSTEMS UNDER § 24–111.3 OF
+15 THIS ARTICLE; AND
+16 (10) ANY OTHER AUTOMATED TRAFFIC ENFORCEMENT SYSTEM
+17 AUTHORIZED UNDER STATE LAW.
+18 (C) (1) EXCEPT AS PROVIDED IN PARAGRAPHS (2) AND (3) OF THIS
+19 SUBSECTION, AN AGENCY MAY NOT ACCESS OR USE A RECORDED IMAGE OR
+20 ASSOCIATED DATA WITHOUT A WARRANT, SUBPOENA, OR COURT ORDER UNLESS
+21 THE ACCESS OR USE IS FOR AN APPROPRIATE TRAFFIC ENFORCEMENT PURPOSE.
+22 (2) AN AGENCY MAY ACCESS AND USE A RECORDED IMAGE AND
+23 ASSOCIATED DATA WITHOUT A WARRANT, SUBPOENA, OR COURT ORDER IN EXIGENT
+24 CIRCUMSTANCES.
+25 (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, A
+26 LAW ENFORCEMENT AGENCY MAY ACCESS AND USE A RECORDED IMAGE OR
+27 ASSOCIATED DATA ALREADY RETAINED BY THE LAW ENFORCEMENT AGENCY IF:
+28 1. THE LAW ENFORCEMENT AGENCY DOCUMENTS A
+29 REQUEST TO ACCESS AND USE THE RECORDED IMAGE OR ASSOCIATED DATA THAT
+30 ARTICULATES A SPECIFIC LEGITIMATE LAW ENFORCEMENT PURPOSE FOR
+31 ACCESSING AND USING THE RECORDED IMAGE OR ASSOCIATED DATA; AND
+6 SENATE BILL 381
+1 2. THE CUSTODIAN OF THE RECORDED IMAGE OR
+2 ASSOCIATED DATA MAINTAINS A WRITTEN RECORD OF THE REQUEST AND WHETHER
+3 OR NOT THE REQUEST WAS GRANTED.
+4 (II) A LAW ENFORCEMENT AGENCY THAT ACCESSES A
+5 RECORDED IMAGE OR ASSOCIATED DATA UNDER THIS PARAGRAPH MAY USE THE
+6 RECORDED IMAGE OR ASSOCIATED DATA ONLY FOR THE LEGITIMATE LAW
+7 ENFORCEMENT PURPOSE DESCRIBED IN THE REQUEST REQUIRED BY
+8 SUBPARAGRAPH (I)1 OF THIS PARAGRAPH.
+9 (3) AN EMPLOYEE OR A CONTRACTOR OF AN AGENCY MAY ACCESS
+10 AND USE A RECORDED IMAGE AND ASSOCIATED DATA:
+11 (I) TO AUDIT OR EVALUATE THE ACCURACY OF THE
+12 AUTOMATED ENFORCEMENT SYSTEM; AND
+13 (II) IN A MANNER CONSISTENT WITH SUBSECTION (D) OF THIS
+14 SECTION.
+15 (4) AN AGENCY THAT KNOWINGLY VIOLATES THIS SUBSECTION IS
+16 SUBJECT TO A FINE NOT EXCEEDING $1,000 FOR EACH VIOLATION.
+17 (D) (1) AN AGENCY SHALL IMMEDIATELY REMOVE FROM ITS RECORDS
+18 AND DESTROY ANY RECORDED IMAGE OR ASSOCIATED DATA CAPTURED UNDER A
+19 PROGRAM THAT DOES NOT CONSTITUTE EVIDENCE OF A VIOLATION.
+20 (2) A RECORDED IMAGE OR ASSOCIATED DATA CAPTURED UNDER A
+21 PROGRAM THAT CONSTITUTES EVIDENCE OF A VIOLATION MAY BE RETAINED ONLY
+22 FOR UP TO 6 MONTHS OR UNTIL THE CONCLUSION OF ANY CRIMINAL INVESTIGATION
+23 OR CRIMINAL OR CIVIL COURT ACTION INVOLVING THE RECORDED IMAGE OR
+24 ASSOCIATED DATA UNTIL THE EARLIER OF:
+25 (I) 1 YEAR FOLLOWING THE CONCLUSION OF ANY CRIMINAL
+26 INVESTIGATION OR THE EXHAUSTION OF ALL THE AVENUES OF ADJUDICATION FOR
+27 THE VIOLATION; OR
+28 (II) 5 YEARS AFTER THE DAY ON WHICH THE RECORDED IMAGE
+29 OR ASSOCIATED DATA WAS CAPTURED.
+30 (3) BEFORE AN AGENCY REMOVES AND DESTROYS A RECORDED
+31 IMAGE OR ASSOCIATED DATA, THE AGENCY MAY DISAGGREGATE THE DATA FOR
+32 ANALYSIS PURPOSES IN A MANNER THAT DOES NOT IDENTIFY ANY INDIVIDUAL OR
+33 VEHICLE.
+SENATE BILL 381 7
+1 (E) (1) AN AGENCY THAT IMPLEMENTS AND OPERATES A PROGRAM
+2 SHALL ADOPT PROCEDURES RELATING TO THE OPERATION OF THE PROGRAM AND
+3 THE USE OF AUTOMATED ENFORCEMENT SYSTEMS.
+4 (2) THE PROCEDURES SHALL:
+5 (I) IDENTIFY THE EMPLOYEE CLASSIFICATIONS IN THE
+6 AGENCY THAT HAVE AUTHORIZATION TO ACCESS OR USE RECORDED IMAGES AND
+7 ASSOCIATED DATA PRODUCED BY AN AUTOMATED ENFORCEMENT SYSTEM;
+8 (II) ESTABLISH AN AUDIT PROCESS TO ENSURE THAT
+9 INFORMATION OBTAINED THROUGH THE USE OF AN AUTOMATED ENFORCEMENT
+10 SYSTEM IS USED ONLY FOR APPROPRIATE TRAFFIC ENFORCEMENT PURPOSES AS
+11 AUTHORIZED IN THIS SECTION;
+12 (III) ESTABLISH PROCEDURES AND SAFEGUARDS TO ENSURE
+13 THAT AGENCY PERSONNEL WITH ACCESS TO RECORDED IMAGES AND ASSOCIATED
+14 DATA ARE ADEQUATELY SCREENED AND TRAINED;
+15 (IV) ESTABLISH PROCEDURES AND SAFEGUARDS FOR THE
+16 SECURE STORAGE OF THE RECORDED IMAGES AND ASSOCIATED DATA BEFORE THE
+17 IMAGES AND DATA ARE REMOVED AND DESTROYED; AND
+18 (V) ESTABLISH PROCEDURES FOR THE REMOVAL AND
+19 DESTRUCTION OF RECORDED IMAGES AND ASSOCIATED DATA.
+20 (F) (1) RECORDED IMAGES AND ASSOCIATED DATA SHALL BE STORED
+21 USING SOFTWARE THAT IS INDEPENDENT FROM AND INACCESSIBLE TO OTHER
+22 SYSTEMS AND NETWORKS.
+23 (2) AN AUTOMATED ENFORCEMENT SYSTEM SHALL BE SITUATED AND
+24 FOCUSED IN A MANNER THAT:
+25 (I) CAPTURES RECORDED IMAGES AND ASSOCIATED DATA OF
+26 VIOLATIONS; AND
+27 (II) TO THE MAXIMUM EXTENT POSSIBLE, DOES NOT CAPTURE
+28 IDENTIFYING IMAGES OF THE DRIVER, OTHER DRIVERS OR VEHICLES, OR
+29 PEDESTRIANS.
+30 (3) AN AUTOMATED ENFORCEMENT SYSTEM MAY NOT USE
+31 BIOMETRIC IDENTIFYING TECHNOLOGY, INCLUDING FACIAL RECOGNITION
+32 TECHNOLOGY.
+8 SENATE BILL 381
+1 (4) (I) AN AGENCY OR A CONTRACTOR OF AN AGENCY MAY NOT
+2 SELL OR OTHERWISE TRANSFER OR SHARE RECORDED IMAGES AND ASSOCIATED
+3 DATA WITH ANOTHER PERSON OTHER THAN:
+4 1. A PERSON ALLEGED TO BE LIABLE FOR A CIVIL
+5 VIOLATION RECORDED BY AN AUTOMATED ENFORCEMENT SYSTEM;
+6 2. A COURT OF COMPETENT JURISDICTION WHEN
+7 ADJUDICATING LIABILITY; OR
+8 3. ANOTHER LAW ENFORCEMENT AGENCY FOR USE
+9 ONLY IN AN ONGOING INVESTIGATION:, AFTER THE OTHER LAW ENFORCEMENT
+10 AGENCY HAS OBTAINED AN APPROPRIATE WARRANT, SUBPOENA, OR COURT ORDER.
+11 A. AFTER THE OTHER LAW ENFORCEMENT AGENCY HAS
+12 OBTAINED AN APPROPRIATE WARRANT, SUBPOENA, OR COURT ORDER; OR
+13 B. IN EXIGENT CIRCUMSTANCES.
+14 (II) A LAW ENFORCEMENT AGENCY THAT RECEIVES RECORDED
+15 IMAGES OR ASSOCIATED DATA UNDER SUBPARAGRAPH (I)3 OF THIS PARAGRAPH IS
+16 SUBJECT TO THE PROHIBITIONS AND REQUIREMENTS OF THIS SECTION.
+17 21–202.1.
+18 (c) This section applies to a violation of § 21–202(h) of this subtitle at an
+19 intersection monitored by a traffic control signal monitoring system.
+20 (j) (1) In consultation with local governments, the chief judge of the District
+21 Court shall adopt procedures for the issuance of citations, the trial of civil violations, and
+22 the collection of civil penalties under this section.
+23 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+24 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+25 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+26 UNDER THIS SECTION.
+27 21–704.1.
+28 (b) This section applies only in Montgomery County and Prince George’s County.
+29 (e) (1) Unless the driver of the motor vehicle received a citation from a police
+30 officer at the time of the violation, the owner or, in accordance with subsection (h)(5) of this
+31 section, the driver of a motor vehicle is subject to a civil penalty if the motor vehicle is
+SENATE BILL 381 9
+1 recorded by an automated railroad grade crossing enforcement system during the
+2 commission of a violation.
+3 (k) (1) In consultation with local law enforcement agencies in Montgomery
+4 County and Prince George’s County, the Chief Judge of the District Court shall adopt
+5 procedures for the issuance of citations, the trial of violations, and the collection of civil
+6 penalties under this section.
+7 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+8 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+9 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+10 UNDER THIS SECTION.
+11 21–706.1.
+12 (c) (1) A school bus monitoring camera may not be used in a local jurisdiction
+13 under this section unless its use is authorized by the governing body of the local jurisdiction
+14 by local law enacted after reasonable notice and a public hearing.
+15 (k) (1) In consultation with law enforcement agencies, the Chief Judge of the
+16 District Court shall adopt procedures for the issuance of citations, trials for violations, and
+17 the collection of civil penalties imposed under this section.
+18 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+19 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+20 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+21 UNDER THIS SECTION.
+22 21–707.1.
+23 (c) (2) A stop sign monitoring system:
+24 (i) May not be used in a local jurisdiction under this section unless
+25 its use is authorized by the governing body of the local jurisdiction by local law enacted
+26 after reasonable notice and a public hearing; and
+27 (ii) May only be used at a location approved by the Prince George’s
+28 County Council.
+29 (k) (1) In consultation with law enforcement agencies, the Chief Judge of the
+30 District Court shall adopt procedures for the issuance of citations, trials for violations, and
+31 the collection of civil penalties imposed under this section.
+32 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+33 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+10 SENATE BILL 381
+1 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+2 UNDER THIS SECTION.
+3 21–809.
+4 (b) (1) (i) A speed monitoring system may not be used in a local jurisdiction
+5 under this section unless its use is authorized by the governing body of the local jurisdiction
+6 by local law enacted after reasonable notice and a public hearing.
+7 (i) (1) In consultation with the appropriate local government agencies, the
+8 Chief Judge of the District Court shall adopt procedures for the issuance of citations, the
+9 trial of civil violations, and the collection of civil penalties under this section.
+10 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+11 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+12 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+13 UNDER THIS SECTION.
+14 21–810.
+15 (b) (1) A work zone speed control system that meets the requirements of this
+16 subsection may be used to record the images of motor vehicles traveling on a highway:
+17 (i) Within a work zone; and
+18 (ii) On which the speed limit, as posted before the work zone was
+19 implemented and established using generally accepted traffic engineering practices, is 45
+20 miles per hour or greater.
+21 (i) (1) In consultation with local police departments and State police
+22 departments, the Chief Judge of the District Court shall adopt procedures for the issuance
+23 of citations, the trial of civil violations, and the collection of civil penalties under this
+24 section.
+25 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+26 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+27 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+28 UNDER THIS SECTION.
+29 21–1134.
+30 (b) (1) An agency may use a bus lane monitoring system that meets the
+31 requirements of this subsection to record the images of motor vehicles during the
+32 commission of a violation.
+SENATE BILL 381 11
+1 (k) (1) In consultation with the appropriate local government agencies, the
+2 Chief Judge of the District Court shall adopt procedures for the issuance of citations, trials
+3 for violations, and the collection of civil penalties imposed under this section.
+4 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+5 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+6 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+7 UNDER THIS SECTION.
+8 22–612.
+9 (c) (1) (i) A county may use not more than three noise abatement
+10 monitoring systems under this section if the use is authorized by the county governing body
+11 by local law enacted after reasonable notice and a public hearing.
+12 (j) (1) In consultation with the appropriate county agencies, the Chief Judge
+13 of the District Court shall adopt procedures for the issuance of citations, the trial of civil
+14 violations, and the collection of civil penalties under this section.
+15 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+16 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+17 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+18 UNDER THIS SECTION.
+19 24–111.3.
+20 (b) This section applies only in Baltimore City, Baltimore County, Harford
+21 County, and Prince George’s County.
+22 (c) (1) A vehicle height monitoring system may be used to record images of
+23 vehicles traveling on a highway in a local jurisdiction under this section only if the use of
+24 vehicle height monitoring systems is authorized by local law adopted by the governing body
+25 of the local jurisdiction after reasonable notice and a public hearing.
+26 (j) (1) In consultation with the appropriate local government agency, the
+27 Chief Judge of the District Court shall adopt procedures for the issuance of citations, the
+28 trial of civil violations, and the collection of civil penalties under this section.
+29 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+30 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+31 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+32 UNDER THIS SECTION.
+33 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+34 as follows:
+12 SENATE BILL 381
+1 Article – General Provisions
+2 4–321.
+3 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+4 inspection of recorded images produced by:
+5 (1) a traffic control signal monitoring system operated under § 21–202.1 of
+6 the Transportation Article;
+7 (2) an automated railroad grade crossing enforcement system operated
+8 under § 21–704.1 of the Transportation Article;
+9 (3) a school bus monitoring camera operated under §
+10 21–706.1 of the Transportation Article;
+11 (4) a stop sign monitoring system operated under § 21–707.1 of the
+12 Transportation Article;
+13 (5) a speed monitoring system operated under § 21–809 of the
+14 Transportation Article;
+15 (6) a work zone speed control system operated under § 21–810 of the
+16 Transportation Article;
+17 (7) a bus lane monitoring system operated under §
+18 21–1134 of the Transportation Article; OR
+19 (8) [a noise abatement monitoring system operated under § 22–612 of the
+20 Transportation Article; or
+21 (9)] a vehicle height monitoring system operated under § 24–111.3 of the
+22 Transportation Article.
+23 (c) A custodian shall allow inspection of recorded images:
+24 (1) as required in § 12–113.1, § 21–202.1, § 21–704.1, § 21–706.1, §
+25 21–707.1, § 21–809, § 21–810, § 21–1134, [§ 22–612,] or § 24–111.3 of the Transportation
+26 Article;
+27 (2) by any person issued a citation under § 21–202.1, § 21–704.1, §
+28 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, [§ 22–612,] or § 24–111.3 of the
+29 Transportation Article, or by an attorney of record for the person; or
+30 (3) by an employee or agent of an agency in an investigation or a proceeding
+31 relating to the imposition of or indemnification from civil liability under §
+SENATE BILL 381 13
+1 21–202.1, § 21–704.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, [§ 22–612,]
+2 or § 24–111.3 of the Transportation Article.
+3 Article – Transportation
+4 12–113.1.
+5 (b) This section applies to:
+6 (1) Traffic control signal monitoring systems under §
+7 21–202.1 of this article;
+8 (2) Automated railroad grade crossing enforcement systems under §
+9 21–704.1 of this article;
+10 (3) School bus monitoring cameras under § 21–706.1 of this article;
+11 (4) Stop sign monitoring systems under § 21–707.1 of this article;
+12 (5) Speed monitoring systems under § 21–809 of this article;
+13 (6) Work zone speed control systems under § 21–810 of this article;
+14 (7) Bus lane monitoring systems under § 21–1134 of this article;
+15 (8) [Noise abatement monitoring systems under § 22–612 of this article;
+16 (9)] Vehicle height monitoring systems under § 24–111.3 of this article; and
+17 [(10)] (9) Any other automated traffic enforcement system authorized
+18 under State law.
+19 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+20 as follows:
+21 Article – General Provisions
+22 4–321.
+23 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+24 inspection of recorded images produced by:
+25 (1) a traffic control signal monitoring system operated under § 21–202.1 of
+26 the Transportation Article;
+27 (2) an automated railroad grade crossing enforcement system operated
+28 under § 21–704.1 of the Transportation Article;
+14 SENATE BILL 381
+1 (3) a school bus monitoring camera operated under §
+2 21–706.1 of the Transportation Article;
+3 (4) [a stop sign monitoring system operated under § 21–707.1 of the
+4 Transportation Article;
+5 (5)] a speed monitoring system operated under § 21–809 of the
+6 Transportation Article;
+7 [(6)] (5) a work zone speed control system operated under § 21–810 of the
+8 Transportation Article;
+9 [(7)] (6) a bus lane monitoring system operated under §
+10 21–1134 of the Transportation Article;
+11 [(8)] (7) a noise abatement monitoring system operated under § 22–612
+12 of the Transportation Article; or
+13 [(9)] (8) a vehicle height monitoring system operated under § 24–111.3 of
+14 the Transportation Article.
+15 (c) A custodian shall allow inspection of recorded images:
+16 (1) as required in § 12–113.1, § 21–202.1, § 21–704.1, § 21–706.1, [§
+17 21–707.1,] § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the Transportation
+18 Article;
+19 (2) by any person issued a citation under § 21–202.1, § 21–704.1, §
+20 21–706.1, [§ 21–707.1,] § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the
+21 Transportation Article, or by an attorney of record for the person; or
+22 (3) by an employee or agent of an agency in an investigation or a proceeding
+23 relating to the imposition of or indemnification from civil liability under §
+24 21–202.1, § 21–704.1, § 21–706.1, [§ 21–707.1,] § 21–809, § 21–810, § 21–1134, § 22–612,
+25 or § 24–111.3 of the Transportation Article.
+26 Article – Transportation
+27 12–113.1.
+28 (b) This section applies to:
+29 (1) Traffic control signal monitoring systems under §
+30 21–202.1 of this article;
+SENATE BILL 381 15
+1 (2) Automated railroad grade crossing enforcement systems under §
+2 21–704.1 of this article;
+3 (3) School bus monitoring cameras under § 21–706.1 of this article;
+4 (4) [Stop sign monitoring systems under § 21–707.1 of this article;
+5 (5)] Speed monitoring systems under § 21–809 of this article;
+6 [(6)] (5) Work zone speed control systems under § 21–810 of this article;
+7 [(7)] (6) Bus lane monitoring systems under § 21–1134 of this article;
+8 [(8)] (7) Noise abatement monitoring systems under § 22–612 of this
+9 article;
+10 [(9)] (8) Vehicle height monitoring systems under § 24–111.3 of this
+11 article; and
+12 [(10)] (9) Any other automated traffic enforcement system authorized
+13 under State law.
+14 SECTION 4. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
+15 effect July 1, 2026, the termination date of Chapter 625 of the Acts of the General Assembly
+16 of 2024. If the termination date of Chapter 625 is amended, this Act shall take effect on the
+17 termination of Chapter 625. This Act may not be interpreted to have any effect on that
+18 termination provision.
+19 SECTION 5. AND BE IT FURTHER ENACTED, That Section 3 of this Act shall take
+20 effect July 1, 2029, the termination date of Chapter 678 of the Acts of the General Assembly
+21 of 2024. If the termination date of Chapter 678 is amended, this Act shall take effect on the
+22 termination of Chapter 678. This Act may not be interpreted to have any effect on that
+23 termination provision.
+24 SECTION 6. AND BE IT FURTHER ENACTED, That, except as provided in
+25 Sections 4 and 5 of this Act, this Act shall take effect October 1, 2025.
+[DELETED: :CA      5   C A M F t p o r a c o r i p b c a t c e p c S a l a f u a r w t e p s t c e e c r a c p a r f p p u a e e B  A S  A  ( B  A S  A  (]
+[DELETED:  S  B  A S 2 2 a ( 2 2 2 a  A  ( B  A S 2 2 2 2 2 2 2  A  ( B  A S  A  ( ( B  A S  A  ( (  S T A 4  ( I “E  s §  2,§2  T  ( E i   ( a t]
+[DELETED: S 3    A R G C E    R R21TA    § S B M C O U 1TA R R    §2   R RA;   () a s m s o u § 2 o t]( T   () a]( T or   § B L M S O U 4TA R RE     )MO 2TA R RE     () a]( t  ( A   ( a r i § 21,§2,§2,§     ,§2,§2   §  o A   ( b a p i a c u § 22,§ ,§2,§2,§2     §  o T   ( b r t t i o o i f c l u § 2 §  2,§2,§2,§2,§2       o A ) ( N]
+[DELETED:  S    “A”S,Y M A T P DT T TA, DN T  T I A O A A E   “AE N N F ,R .   “A” ET M T U O CS DS A O T B A A T C I O M B O I O   “F R TY M A B A T I O V T I O ALS ()“L”§ Y  1PSA U A R     )()“PRM M A A E    )()“RE I O A DA M ASS     ) S;H   ) IL I T E R PE    ) M.IA   )()“VIN M A T V T A  ) T:H   T§ C S M S U 1 ]
+[DELETED: S 5    R G C E   21;   S§2      S§2 S M S U   O T   S§29;      W§2   E   B§2 L M S U   O T   )N§2 U   O    V§2 H   OE    ) O A T E S T  ) ( E()(X A P I P  A  O TN ANA M N A ORU A R I O   W WT SA ORU RUET        A M A A U A R I AT A     ()S()U II H   E A M A A U A R I O      . L E A D A A S L L E P FA  ]
+[DELETED:  S      . C O T R I O     )I L E A T A A I O A D O F T L L P D I T R R B I )1     ) C M     )O A O E T A O TM      )I(IN D     ) A T K V T S I  0  ) ( N A S R I       C O C C A I T R I O   ()  Y F T C O A CN   () I       A A R A D A R O A DA T A M D T D F]
+[DELETED: S 7 ) ( N A T I A O A P   T:   ) D T E C I TER     ) IS A A P T E T O T T U O A   ) IS P A S T E   ) VS P A S F TD    ) S P F T R A ) ( E I A A D S B S S T I I F A I T O      ) AS    ) TIOE  I O T DR O D O VS O    A E S M N U I TY I F R]
+[DELETED:  S    () N A O A C O A A M N     P A T B L F A C     C O C J WY       L E A F U I A O IN A T O L ET A ,       T A R ,       I   ) I  I ) 2  ( T s a t a v o § 2 o t s a a i  (  I C t   T S A R F T UEG A D O R I A A D    O A1  2  ( T  ( ( U o s]
+[DELETED: S 9 r b a a r g c e s d t c  (  I c w l l e a i M C a P G C t C J o t D C s a p p   T S A R F T UEG A D O R I A A D   O A A1 2  ( ( A u b  (  I D t   T S A R F T UEG A D O R I A A D   O A1 2  ( ( A    ( M i a    ( M C  (  I D t   T S A R F T UEG A D O R I A A D]
+[DELETED:  S    O A1 2  ( ( ( A u b  (  I c w a l g a t C t   T S A R F T UEG A D O R I A A D   O A1 2  ( ( A s    ( W    ( O i m  (  I c w l p d a S p d o c t t o c v a t c o c p u t s   T S A R F T UEG A D O R I A A D    O A1  2  ( ( A a m u a b l m s t m t r o t s t r t i o m v d t c]
+[DELETED: S 1  (  I c w a l g a t C f   )T S A R F T UEG A D O R I A A D   O A1  2  ( ( ( A c m u n m t t n a m b  (  I o v   T S A R F T UEG A D O R I A A D   O A1 2  ( T s a o i B C B C H C  ( ( A v v o  (  I c w t a l g a t C t   T S A R F T UEG A D O R I A A D   O A1  S a]
+[DELETED:  S  A 4  ( E i   ( a t   ( a a r g c e s o u   ( a s b m c o u § 2   ( a s s m s o u § 2 o t T   ( a s m s o u § 2 o t T   ( a w z s c s o u § 2 o t T   ( a b l m s o u § 2    ( a T   () a T  ( A   ( a r i § 1 § 2 § 2 § 2 § 2 §,  A   ( b a p i a c u § 2 § 2 § 2 §,  T   ( b r t t i o o i f c l u §]
+[DELETED: S 1 2 §, o A 1  ( T   ( T c s m s u § 2   ( A r g c e s u § 2   ( S   ( S   ( S   ( W   ( B   ( N   () V   () A o a t e s a]( u  S a A 4  ( E i   ( a t   ( a a r g c e s o u]
+[DELETED:  S    ( a s b m c o u § 2   ( a s s m s o u § 2 o t T   () a s m s o u § 2 o t T   () a]( T   () a b l m s o u §]( 2   () a]( o   () a]( t  ( A   ( a r i § 1 § 2 § 2 § 2 § 2,  A   ( b a p i a c u § 2 § 2 § 2 §,  T   ( b r t t i o o i f c l u § 2 §,  o A 1  ( T   ( T c s m s u § 2]
+[DELETED: S 1   ( A r g c e s u § 2   ( S   ( S   () S   () W](   () B](   () N a m s u § 2 o t]( a   () V h m s u § 2 o t]( a   () A o a t e s a]( u  S e o t t  S e o t t  S 6 A B I F E T e a p i S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 381
+R5 5lr1591
+CF HB 516
+By: Senator Love Senators Love, Folden, McCray, McKay, Smith, and Sydnor
+Introduced and read first time: January 17, 2025
+Assigned to: Judicial Proceedings
+Committee Report: Favorable with amendments
+Senate action: Adopted with floor amendments
+Read second time: February 7, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Motor Vehicles – Automated Enforcement Programs – Privacy Protections
+3 FOR the purpose of requiring a custodian of recorded images produced by certain
+4 automated enforcement systems to deny inspection of the recorded images, subject
+5 to certain exceptions; prohibiting certain State and local agencies from using a
+6 recorded image or associated data produced by an automated enforcement system
+7 without a warrant, subpoena, or court order unless the use is for an appropriate
+8 traffic enforcement purpose;, subject to certain exceptions; establishing certain
+9 requirements and authorizations for the removal and destruction of recorded images
+10 and associated data produced by an automated enforcement system; establishing
+11 certain prohibitions and requirements for privacy protection under automated
+12 enforcement programs; and generally relating to privacy protections for automated
+13 enforcement programs.
+14 BY repealing and reenacting, with amendments,
+15 Article – General Provisions
+16 Section 4–321
+17 Annotated Code of Maryland
+18 (2019 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Transportation
+21 Section 12–113.1
+22 Annotated Code of Maryland
+23 (2020 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0381*
+
+2 SENATE BILL 381
+1 BY repealing and reenacting, without amendments,
+2 Article – Transportation
+3 Section 21–202.1(c), 21–704.1(b) and (e)(1), 21–706.1(c)(1), 21–707.1(c)(2),
+4 21–809(b)(1)(i), 21–810(b)(1), 21–1134(b)(1), 22–612(c)(1)(i), and 24–111.3(b)
+5 and (c)(1)
+6 Annotated Code of Maryland
+7 (2020 Replacement Volume and 2024 Supplement)
+8 BY repealing and reenacting, with amendments,
+9 Article – Transportation
+10 Section 21–202.1(j), 21–704.1(k), 21–706.1(k), 21–707.1(k), 21–809(i), 21–810(i),
+11 21–1134(k), 22–612(j), and 24–111.3(j)
+12 Annotated Code of Maryland
+13 (2020 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Article – General Provisions
+16 Section 4–321(b) and (c)
+17 Annotated Code of Maryland
+18 (2019 Replacement Volume and 2024 Supplement)
+19 (As enacted by Section 1 of this Act)
+20 BY repealing and reenacting, with amendments,
+21 Article – Transportation
+22 Section 12–113.1(b)
+23 Annotated Code of Maryland
+24 (2020 Replacement Volume and 2024 Supplement)
+25 (As enacted by Section 1 of this Act)
+26 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+27 That the Laws of Maryland read as follows:
+28 Article – General Provisions
+29 4–321.
+30 (a) In this section, “RECORDED IMAGE” OR “recorded images” has the meaning
+31 stated in § 21–202.1, § 21–706.1, § 21–809, § 21–810, § 21–1134, or § 24–111.3 of the
+32 Transportation Article.
+33 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+34 inspection of recorded images produced by:
+35 (1) a traffic control signal monitoring system operated under § 21–202.1 of
+36 the Transportation Article;
+
+SENATE BILL 381 3
+1 (2) AN AUTOMATED RAILROAD GRADE CROSSING ENFORCEMENT
+2 SYSTEM OPERATED UNDER § 21–704.1 OF THE TRANSPORTATION ARTICLE;
+3 (3) A SCHOOL BUS MONITORING CAMERA OPERATED UNDER §
+4 21–706.1 OF THE TRANSPORTATION ARTICLE;
+5 (4) A STOP SIGN MONITORING SYSTEM OPERATED UNDER § 21–707.1
+6 OF THE TRANSPORTATION ARTICLE;
+7 [(2)] (5) a speed monitoring system operated under § 21–809 of the
+8 Transportation Article;
+9 [(3)] (6) a work zone speed control system operated under § 21–810 of the
+10 Transportation Article; [or]
+11 (7) A BUS LANE MONITORING SYSTEM OPERATED UNDER §
+12 21–1134 OF THE TRANSPORTATION ARTICLE;
+13 (8) A NOISE ABATEMENT MONITORING SYSTEM OPERATED UNDER §
+14 22–612 OF THE TRANSPORTATION ARTICLE; OR
+15 [(4)] (9) a vehicle height monitoring system operated under § 24–111.3 of
+16 the Transportation Article.
+17 (c) A custodian shall allow inspection of recorded images:
+18 (1) as required in § 12–113.1, § 21–202.1, § 21–704.1, § 21–706.1, §
+19 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the Transportation
+20 Article;
+21 (2) by any person issued a citation under § 21–202.1, § 21–704.1, §
+22 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the
+23 Transportation Article, or by an attorney of record for the person; or
+24 (3) by an employee or agent of an agency in an investigation or a proceeding
+25 relating to the imposition of or indemnification from civil liability under §
+26 21–202.1, § 21–704.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612,
+27 or § 24–111.3 of the Transportation Article.
+28 Article – Transportation
+29 12–113.1.
+30 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+31 INDICATED.
+
+4 SENATE BILL 381
+1 (2) “AGENCY” MEANS A STATE POLICE DEPARTMENT, THE STATE
+2 HIGHWAY ADMINISTRATION, A LOCAL POLICE DEPARTMENT, OR ANOTHER LOCAL
+3 AGENCY THAT IMPLEMENTS AND OPERATES AN AUTOMATED ENFORCEMENT
+4 PROGRAM.
+5 (3) “APPROPRIATE TRAFFIC ENFORCEMENT PURPOSE” MEANS THE
+6 DETECTION, INVESTIGATION, OR ANALYSIS OF, OR ASSESSMENT OR ADJUDICATION
+7 OF LIABILITY FOR, A VIOLATION.
+8 (4) “AUTOMATED ENFORCEMENT” MEANS THE USE OF CAMERAS,
+9 MONITORING DEVICES, AND OTHER TECHNOLOGY BY AN AGENCY TO CAPTURE
+10 RECORDED IMAGES OF A MOTOR VEHICLE BEING OPERATED IN VIOLATION OF A
+11 TRAFFIC LAW.
+12 (5) “FACIAL RECOGNITION TECHNOLOGY” MEANS A BIOMETRIC
+13 SOFTWARE APPLICATION THAT IDENTIFIES OR VERIFIES THE IDENTITY OF AN
+14 INDIVIDUAL BY COMPARING AND ANALYZING PATTERNS BASED ON AN INDIVIDUAL’S
+15 FACIAL CONTOURS.
+16 (6) “LAW ENFORCEMENT AGENCY” HAS THE MEANING STATED IN §
+17 3–201 OF THE PUBLIC SAFETY ARTICLE.
+18 (6) (7) “PROGRAM” MEANS AN AUTOMATED ENFORCEMENT
+19 PROGRAM IMPLEMENTED AND OPERATED BY AN AGENCY.
+20 (7) (8) “RECORDED IMAGE OR ASSOCIATED DATA” MEANS ANY
+21 IMAGE OR DATA RECORDED UNDER A PROGRAM BY ELECTRONIC OR DIGITAL MEANS,
+22 BY PHOTOGRAPHIC MEANS, OR BY WAY OF ANY OTHER MEDIUM THAT:
+23 (I) SHOWS A MOTOR VEHICLE;
+24 (II) CLEARLY IDENTIFIES THE ENTIRE REGISTRATION PLATE
+25 NUMBER OF THE MOTOR VEHICLE; AND
+26 (III) MAY CONSTITUTE EVIDENCE OF A VIOLATION.
+27 (8) (9) “VIOLATION” MEANS A TRAFFIC VIOLATION THAT A
+28 PARTICULAR AUTOMATED ENFORCEMENT SYSTEM IS INTENDED TO CAPTURE.
+29 (B) THIS SECTION APPLIES TO:
+30 (1) TRAFFIC CONTROL SIGNAL MONITORING SYSTEMS UNDER §
+31 21–202.1 OF THIS ARTICLE;
+
+SENATE BILL 381 5
+1 (2) AUTOMATED RAILROAD GRADE CROSSING ENFORCEMENT
+2 SYSTEMS UNDER § 21–704.1 OF THIS ARTICLE;
+3 (3) SCHOOL BUS MONITORING CAMERAS UNDER § 21–706.1 OF THIS
+4 ARTICLE;
+5 (4) STOP SIGN MONITORING SYSTEMS UNDER § 21–707.1 OF THIS
+6 ARTICLE;
+7 (5) SPEED MONITORING SYSTEMS UNDER § 21–809 OF THIS ARTICLE;
+8 (6) WORK ZONE SPEED CONTROL SYSTEMS UNDER § 21–810 OF THIS
+9 ARTICLE;
+10 (7) BUS LANE MONITORING SYSTEMS UNDER § 21–1134 OF THIS
+11 ARTICLE;
+12 (8) NOISE ABATEMENT MONITORING SYSTEMS UNDER § 22–612 OF
+13 THIS ARTICLE;
+14 (9) VEHICLE HEIGHT MONITORING SYSTEMS UNDER § 24–111.3 OF
+15 THIS ARTICLE; AND
+16 (10) ANY OTHER AUTOMATED TRAFFIC ENFORCEMENT SYSTEM
+17 AUTHORIZED UNDER STATE LAW.
+18 (C) (1) EXCEPT AS PROVIDED IN PARAGRAPHS (2) AND (3) OF THIS
+19 SUBSECTION, AN AGENCY MAY NOT ACCESS OR USE A RECORDED IMAGE OR
+20 ASSOCIATED DATA WITHOUT A WARRANT, SUBPOENA, OR COURT ORDER UNLESS
+21 THE ACCESS OR USE IS FOR AN APPROPRIATE TRAFFIC ENFORCEMENT PURPOSE.
+22 (2) AN AGENCY MAY ACCESS AND USE A RECORDED IMAGE AND
+23 ASSOCIATED DATA WITHOUT A WARRANT, SUBPOENA, OR COURT ORDER IN EXIGENT
+24 CIRCUMSTANCES.
+25 (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, A
+26 LAW ENFORCEMENT AGENCY MAY ACCESS AND USE A RECORDED IMAGE OR
+27 ASSOCIATED DATA ALREADY RETAINED BY THE LAW ENFORCEMENT AGENCY IF:
+28 1. THE LAW ENFORCEMENT AGENCY DOCUMENTS A
+29 REQUEST TO ACCESS AND USE THE RECORDED IMAGE OR ASSOCIATED DATA THAT
+30 ARTICULATES A SPECIFIC LEGITIMATE LAW ENFORCEMENT PURPOSE FOR
+31 ACCESSING AND USING THE RECORDED IMAGE OR ASSOCIATED DATA; AND
+
+6 SENATE BILL 381
+1 2. THE CUSTODIAN OF THE RECORDED IMAGE OR
+2 ASSOCIATED DATA MAINTAINS A WRITTEN RECORD OF THE REQUEST AND WHETHER
+3 OR NOT THE REQUEST WAS GRANTED.
+4 (II) A LAW ENFORCEMENT AGENCY THAT ACCESSES A
+5 RECORDED IMAGE OR ASSOCIATED DATA UNDER THIS PARAGRAPH MAY USE THE
+6 RECORDED IMAGE OR ASSOCIATED DATA ONLY FOR THE LEGITIMATE LAW
+7 ENFORCEMENT PURPOSE DESCRIBED IN THE REQUEST REQUIRED BY
+8 SUBPARAGRAPH (I)1 OF THIS PARAGRAPH.
+9 (3) AN EMPLOYEE OR A CONTRACTOR OF AN AGENCY MAY ACCESS
+10 AND USE A RECORDED IMAGE AND ASSOCIATED DATA:
+11 (I) TO AUDIT OR EVALUATE THE ACCURACY OF THE
+12 AUTOMATED ENFORCEMENT SYSTEM; AND
+13 (II) IN A MANNER CONSISTENT WITH SUBSECTION (D) OF THIS
+14 SECTION.
+15 (4) AN AGENCY THAT KNOWINGLY VIOLATES THIS SUBSECTION IS
+16 SUBJECT TO A FINE NOT EXCEEDING $1,000 FOR EACH VIOLATION.
+17 (D) (1) AN AGENCY SHALL IMMEDIATELY REMOVE FROM ITS RECORDS
+18 AND DESTROY ANY RECORDED IMAGE OR ASSOCIATED DATA CAPTURED UNDER A
+19 PROGRAM THAT DOES NOT CONSTITUTE EVIDENCE OF A VIOLATION.
+20 (2) A RECORDED IMAGE OR ASSOCIATED DATA CAPTURED UNDER A
+21 PROGRAM THAT CONSTITUTES EVIDENCE OF A VIOLATION MAY BE RETAINED ONLY
+22 FOR UP TO 6 MONTHS OR UNTIL THE CONCLUSION OF ANY CRIMINAL INVESTIGATION
+23 OR CRIMINAL OR CIVIL COURT ACTION INVOLVING THE RECORDED IMAGE OR
+24 ASSOCIATED DATA UNTIL THE EARLIER OF:
+25 (I) 1 YEAR FOLLOWING THE CONCLUSION OF ANY CRIMINAL
+26 INVESTIGATION OR THE EXHAUSTION OF ALL THE AVENUES OF ADJUDICATION FOR
+27 THE VIOLATION; OR
+28 (II) 5 YEARS AFTER THE DAY ON WHICH THE RECORDED IMAGE
+29 OR ASSOCIATED DATA WAS CAPTURED.
+30 (3) BEFORE AN AGENCY REMOVES AND DESTROYS A RECORDED
+31 IMAGE OR ASSOCIATED DATA, THE AGENCY MAY DISAGGREGATE THE DATA FOR
+32 ANALYSIS PURPOSES IN A MANNER THAT DOES NOT IDENTIFY ANY INDIVIDUAL OR
+33 VEHICLE.
+
+SENATE BILL 381 7
+1 (E) (1) AN AGENCY THAT IMPLEMENTS AND OPERATES A PROGRAM
+2 SHALL ADOPT PROCEDURES RELATING TO THE OPERATION OF THE PROGRAM AND
+3 THE USE OF AUTOMATED ENFORCEMENT SYSTEMS.
+4 (2) THE PROCEDURES SHALL:
+5 (I) IDENTIFY THE EMPLOYEE CLASSIFICATIONS IN THE
+6 AGENCY THAT HAVE AUTHORIZATION TO ACCESS OR USE RECORDED IMAGES AND
+7 ASSOCIATED DATA PRODUCED BY AN AUTOMATED ENFORCEMENT SYSTEM;
+8 (II) ESTABLISH AN AUDIT PROCESS TO ENSURE THAT
+9 INFORMATION OBTAINED THROUGH THE USE OF AN AUTOMATED ENFORCEMENT
+10 SYSTEM IS USED ONLY FOR APPROPRIATE TRAFFIC ENFORCEMENT PURPOSES AS
+11 AUTHORIZED IN THIS SECTION;
+12 (III) ESTABLISH PROCEDURES AND SAFEGUARDS TO ENSURE
+13 THAT AGENCY PERSONNEL WITH ACCESS TO RECORDED IMAGES AND ASSOCIATED
+14 DATA ARE ADEQUATELY SCREENED AND TRAINED;
+15 (IV) ESTABLISH PROCEDURES AND SAFEGUARDS FOR THE
+16 SECURE STORAGE OF THE RECORDED IMAGES AND ASSOCIATED DATA BEFORE THE
+17 IMAGES AND DATA ARE REMOVED AND DESTROYED; AND
+18 (V) ESTABLISH PROCEDURES FOR THE REMOVAL AND
+19 DESTRUCTION OF RECORDED IMAGES AND ASSOCIATED DATA.
+20 (F) (1) RECORDED IMAGES AND ASSOCIATED DATA SHALL BE STORED
+21 USING SOFTWARE THAT IS INDEPENDENT FROM AND INACCESSIBLE TO OTHER
+22 SYSTEMS AND NETWORKS.
+23 (2) AN AUTOMATED ENFORCEMENT SYSTEM SHALL BE SITUATED AND
+24 FOCUSED IN A MANNER THAT:
+25 (I) CAPTURES RECORDED IMAGES AND ASSOCIATED DATA OF
+26 VIOLATIONS; AND
+27 (II) TO THE MAXIMUM EXTENT POSSIBLE, DOES NOT CAPTURE
+28 IDENTIFYING IMAGES OF THE DRIVER, OTHER DRIVERS OR VEHICLES, OR
+29 PEDESTRIANS.
+30 (3) AN AUTOMATED ENFORCEMENT SYSTEM MAY NOT USE
+31 BIOMETRIC IDENTIFYING TECHNOLOGY, INCLUDING FACIAL RECOGNITION
+32 TECHNOLOGY.
+
+8 SENATE BILL 381
+1 (4) (I) AN AGENCY OR A CONTRACTOR OF AN AGENCY MAY NOT
+2 SELL OR OTHERWISE TRANSFER OR SHARE RECORDED IMAGES AND ASSOCIATED
+3 DATA WITH ANOTHER PERSON OTHER THAN:
+4 1. A PERSON ALLEGED TO BE LIABLE FOR A CIVIL
+5 VIOLATION RECORDED BY AN AUTOMATED ENFORCEMENT SYSTEM;
+6 2. A COURT OF COMPETENT JURISDICTION WHEN
+7 ADJUDICATING LIABILITY; OR
+8 3. ANOTHER LAW ENFORCEMENT AGENCY FOR USE
+9 ONLY IN AN ONGOING INVESTIGATION:, AFTER THE OTHER LAW ENFORCEMENT
+10 AGENCY HAS OBTAINED AN APPROPRIATE WARRANT, SUBPOENA, OR COURT ORDER.
+11 A. AFTER THE OTHER LAW ENFORCEMENT AGENCY HAS
+12 OBTAINED AN APPROPRIATE WARRANT, SUBPOENA, OR COURT ORDER; OR
+13 B. IN EXIGENT CIRCUMSTANCES.
+14 (II) A LAW ENFORCEMENT AGENCY THAT RECEIVES RECORDED
+15 IMAGES OR ASSOCIATED DATA UNDER SUBPARAGRAPH (I)3 OF THIS PARAGRAPH IS
+16 SUBJECT TO THE PROHIBITIONS AND REQUIREMENTS OF THIS SECTION.
+17 21–202.1.
+18 (c) This section applies to a violation of § 21–202(h) of this subtitle at an
+19 intersection monitored by a traffic control signal monitoring system.
+20 (j) (1) In consultation with local governments, the chief judge of the District
+21 Court shall adopt procedures for the issuance of citations, the trial of civil violations, and
+22 the collection of civil penalties under this section.
+23 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+24 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+25 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+26 UNDER THIS SECTION.
+27 21–704.1.
+28 (b) This section applies only in Montgomery County and Prince George’s County.
+29 (e) (1) Unless the driver of the motor vehicle received a citation from a police
+30 officer at the time of the violation, the owner or, in accordance with subsection (h)(5) of this
+31 section, the driver of a motor vehicle is subject to a civil penalty if the motor vehicle is
+
+SENATE BILL 381 9
+1 recorded by an automated railroad grade crossing enforcement system during the
+2 commission of a violation.
+3 (k) (1) In consultation with local law enforcement agencies in Montgomery
+4 County and Prince George’s County, the Chief Judge of the District Court shall adopt
+5 procedures for the issuance of citations, the trial of violations, and the collection of civil
+6 penalties under this section.
+7 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+8 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+9 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+10 UNDER THIS SECTION.
+11 21–706.1.
+12 (c) (1) A school bus monitoring camera may not be used in a local jurisdiction
+13 under this section unless its use is authorized by the governing body of the local jurisdiction
+14 by local law enacted after reasonable notice and a public hearing.
+15 (k) (1) In consultation with law enforcement agencies, the Chief Judge of the
+16 District Court shall adopt procedures for the issuance of citations, trials for violations, and
+17 the collection of civil penalties imposed under this section.
+18 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+19 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+20 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+21 UNDER THIS SECTION.
+22 21–707.1.
+23 (c) (2) A stop sign monitoring system:
+24 (i) May not be used in a local jurisdiction under this section unless
+25 its use is authorized by the governing body of the local jurisdiction by local law enacted
+26 after reasonable notice and a public hearing; and
+27 (ii) May only be used at a location approved by the Prince George’s
+28 County Council.
+29 (k) (1) In consultation with law enforcement agencies, the Chief Judge of the
+30 District Court shall adopt procedures for the issuance of citations, trials for violations, and
+31 the collection of civil penalties imposed under this section.
+32 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+33 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+
+10 SENATE BILL 381
+1 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+2 UNDER THIS SECTION.
+3 21–809.
+4 (b) (1) (i) A speed monitoring system may not be used in a local jurisdiction
+5 under this section unless its use is authorized by the governing body of the local jurisdiction
+6 by local law enacted after reasonable notice and a public hearing.
+7 (i) (1) In consultation with the appropriate local government agencies, the
+8 Chief Judge of the District Court shall adopt procedures for the issuance of citations, the
+9 trial of civil violations, and the collection of civil penalties under this section.
+10 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+11 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+12 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+13 UNDER THIS SECTION.
+14 21–810.
+15 (b) (1) A work zone speed control system that meets the requirements of this
+16 subsection may be used to record the images of motor vehicles traveling on a highway:
+17 (i) Within a work zone; and
+18 (ii) On which the speed limit, as posted before the work zone was
+19 implemented and established using generally accepted traffic engineering practices, is 45
+20 miles per hour or greater.
+21 (i) (1) In consultation with local police departments and State police
+22 departments, the Chief Judge of the District Court shall adopt procedures for the issuance
+23 of citations, the trial of civil violations, and the collection of civil penalties under this
+24 section.
+25 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+26 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+27 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+28 UNDER THIS SECTION.
+29 21–1134.
+30 (b) (1) An agency may use a bus lane monitoring system that meets the
+31 requirements of this subsection to record the images of motor vehicles during the
+32 commission of a violation.
+
+SENATE BILL 381 11
+1 (k) (1) In consultation with the appropriate local government agencies, the
+2 Chief Judge of the District Court shall adopt procedures for the issuance of citations, trials
+3 for violations, and the collection of civil penalties imposed under this section.
+4 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+5 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+6 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+7 UNDER THIS SECTION.
+8 22–612.
+9 (c) (1) (i) A county may use not more than three noise abatement
+10 monitoring systems under this section if the use is authorized by the county governing body
+11 by local law enacted after reasonable notice and a public hearing.
+12 (j) (1) In consultation with the appropriate county agencies, the Chief Judge
+13 of the District Court shall adopt procedures for the issuance of citations, the trial of civil
+14 violations, and the collection of civil penalties under this section.
+15 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+16 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+17 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+18 UNDER THIS SECTION.
+19 24–111.3.
+20 (b) This section applies only in Baltimore City, Baltimore County, Harford
+21 County, and Prince George’s County.
+22 (c) (1) A vehicle height monitoring system may be used to record images of
+23 vehicles traveling on a highway in a local jurisdiction under this section only if the use of
+24 vehicle height monitoring systems is authorized by local law adopted by the governing body
+25 of the local jurisdiction after reasonable notice and a public hearing.
+26 (j) (1) In consultation with the appropriate local government agency, the
+27 Chief Judge of the District Court shall adopt procedures for the issuance of citations, the
+28 trial of civil violations, and the collection of civil penalties under this section.
+29 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+30 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+31 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+32 UNDER THIS SECTION.
+33 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+34 as follows:
+
+12 SENATE BILL 381
+1 Article – General Provisions
+2 4–321.
+3 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+4 inspection of recorded images produced by:
+5 (1) a traffic control signal monitoring system operated under § 21–202.1 of
+6 the Transportation Article;
+7 (2) an automated railroad grade crossing enforcement system operated
+8 under § 21–704.1 of the Transportation Article;
+9 (3) a school bus monitoring camera operated under §
+10 21–706.1 of the Transportation Article;
+11 (4) a stop sign monitoring system operated under § 21–707.1 of the
+12 Transportation Article;
+13 (5) a speed monitoring system operated under § 21–809 of the
+14 Transportation Article;
+15 (6) a work zone speed control system operated under § 21–810 of the
+16 Transportation Article;
+17 (7) a bus lane monitoring system operated under §
+18 21–1134 of the Transportation Article; OR
+19 (8) [a noise abatement monitoring system operated under § 22–612 of the
+20 Transportation Article; or
+21 (9)] a vehicle height monitoring system operated under § 24–111.3 of the
+22 Transportation Article.
+23 (c) A custodian shall allow inspection of recorded images:
+24 (1) as required in § 12–113.1, § 21–202.1, § 21–704.1, § 21–706.1, §
+25 21–707.1, § 21–809, § 21–810, § 21–1134, [§ 22–612,] or § 24–111.3 of the Transportation
+26 Article;
+27 (2) by any person issued a citation under § 21–202.1, § 21–704.1, §
+28 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, [§ 22–612,] or § 24–111.3 of the
+29 Transportation Article, or by an attorney of record for the person; or
+30 (3) by an employee or agent of an agency in an investigation or a proceeding
+31 relating to the imposition of or indemnification from civil liability under §
+
+SENATE BILL 381 13
+1 21–202.1, § 21–704.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, [§ 22–612,]
+2 or § 24–111.3 of the Transportation Article.
+3 Article – Transportation
+4 12–113.1.
+5 (b) This section applies to:
+6 (1) Traffic control signal monitoring systems under §
+7 21–202.1 of this article;
+8 (2) Automated railroad grade crossing enforcement systems under §
+9 21–704.1 of this article;
+10 (3) School bus monitoring cameras under § 21–706.1 of this article;
+11 (4) Stop sign monitoring systems under § 21–707.1 of this article;
+12 (5) Speed monitoring systems under § 21–809 of this article;
+13 (6) Work zone speed control systems under § 21–810 of this article;
+14 (7) Bus lane monitoring systems under § 21–1134 of this article;
+15 (8) [Noise abatement monitoring systems under § 22–612 of this article;
+16 (9)] Vehicle height monitoring systems under § 24–111.3 of this article; and
+17 [(10)] (9) Any other automated traffic enforcement system authorized
+18 under State law.
+19 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+20 as follows:
+21 Article – General Provisions
+22 4–321.
+23 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+24 inspection of recorded images produced by:
+25 (1) a traffic control signal monitoring system operated under § 21–202.1 of
+26 the Transportation Article;
+27 (2) an automated railroad grade crossing enforcement system operated
+28 under § 21–704.1 of the Transportation Article;
+
+14 SENATE BILL 381
+1 (3) a school bus monitoring camera operated under §
+2 21–706.1 of the Transportation Article;
+3 (4) [a stop sign monitoring system operated under § 21–707.1 of the
+4 Transportation Article;
+5 (5)] a speed monitoring system operated under § 21–809 of the
+6 Transportation Article;
+7 [(6)] (5) a work zone speed control system operated under § 21–810 of the
+8 Transportation Article;
+9 [(7)] (6) a bus lane monitoring system operated under §
+10 21–1134 of the Transportation Article;
+11 [(8)] (7) a noise abatement monitoring system operated under § 22–612
+12 of the Transportation Article; or
+13 [(9)] (8) a vehicle height monitoring system operated under § 24–111.3 of
+14 the Transportation Article.
+15 (c) A custodian shall allow inspection of recorded images:
+16 (1) as required in § 12–113.1, § 21–202.1, § 21–704.1, § 21–706.1, [§
+17 21–707.1,] § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the Transportation
+18 Article;
+19 (2) by any person issued a citation under § 21–202.1, § 21–704.1, §
+20 21–706.1, [§ 21–707.1,] § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the
+21 Transportation Article, or by an attorney of record for the person; or
+22 (3) by an employee or agent of an agency in an investigation or a proceeding
+23 relating to the imposition of or indemnification from civil liability under §
+24 21–202.1, § 21–704.1, § 21–706.1, [§ 21–707.1,] § 21–809, § 21–810, § 21–1134, § 22–612,
+25 or § 24–111.3 of the Transportation Article.
+26 Article – Transportation
+27 12–113.1.
+28 (b) This section applies to:
+29 (1) Traffic control signal monitoring systems under §
+30 21–202.1 of this article;
+
+SENATE BILL 381 15
+1 (2) Automated railroad grade crossing enforcement systems under §
+2 21–704.1 of this article;
+3 (3) School bus monitoring cameras under § 21–706.1 of this article;
+4 (4) [Stop sign monitoring systems under § 21–707.1 of this article;
+5 (5)] Speed monitoring systems under § 21–809 of this article;
+6 [(6)] (5) Work zone speed control systems under § 21–810 of this article;
+7 [(7)] (6) Bus lane monitoring systems under § 21–1134 of this article;
+8 [(8)] (7) Noise abatement monitoring systems under § 22–612 of this
+9 article;
+10 [(9)] (8) Vehicle height monitoring systems under § 24–111.3 of this
+11 article; and
+12 [(10)] (9) Any other automated traffic enforcement system authorized
+13 under State law.
+14 SECTION 4. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
+15 effect July 1, 2026, the termination date of Chapter 625 of the Acts of the General Assembly
+16 of 2024. If the termination date of Chapter 625 is amended, this Act shall take effect on the
+17 termination of Chapter 625. This Act may not be interpreted to have any effect on that
+18 termination provision.
+19 SECTION 5. AND BE IT FURTHER ENACTED, That Section 3 of this Act shall take
+20 effect July 1, 2029, the termination date of Chapter 678 of the Acts of the General Assembly
+21 of 2024. If the termination date of Chapter 678 is amended, this Act shall take effect on the
+22 termination of Chapter 678. This Act may not be interpreted to have any effect on that
+23 termination provision.
+24 SECTION 6. AND BE IT FURTHER ENACTED, That, except as provided in
+25 Sections 4 and 5 of this Act, this Act shall take effect October 1, 2025.
+
+[DELETED: :CA      5   C A M F t p o r a c o r i p b c a t c e p c S a l a f u a r w t e p s t c e e c r a c p a r f p p u a e e B  A S  A  ( B  A S  A  (]
+[DELETED:  S  B  A S 2 2 a ( 2 2 2 a  A  ( B  A S 2 2 2 2 2 2 2  A  ( B  A S  A  ( ( B  A S  A  ( (  S T A 4  ( I “E  s §  2,§2  T  ( E i   ( a t]
+[DELETED: S 3    A R G C E    R R21TA    § S B M C O U 1TA R R    §2   R RA;   () a s m s o u § 2 o t]( T   () a]( T or   § B L M S O U 4TA R RE     )MO 2TA R RE     () a]( t  ( A   ( a r i § 21,§2,§2,§     ,§2,§2   §  o A   ( b a p i a c u § 22,§ ,§2,§2,§2     §  o T   ( b r t t i o o i f c l u § 2 §  2,§2,§2,§2,§2       o A ) ( N]
+[DELETED:  S    “A”S,Y M A T P DT T TA, DN T  T I A O A A E   “AE N N F ,R .   “A” ET M T U O CS DS A O T B A A T C I O M B O I O   “F R TY M A B A T I O V T I O ALS ()“L”§ Y  1PSA U A R     )()“PRM M A A E    )()“RE I O A DA M ASS     ) S;H   ) IL I T E R PE    ) M.IA   )()“VIN M A T V T A  ) T:H   T§ C S M S U 1 ]
+[DELETED: S 5    R G C E   21;   S§2      S§2 S M S U   O T   S§29;      W§2   E   B§2 L M S U   O T   )N§2 U   O    V§2 H   OE    ) O A T E S T  ) ( E()(X A P I P  A  O TN ANA M N A ORU A R I O   W WT SA ORU RUET        A M A A U A R I AT A     ()S()U II H   E A M A A U A R I O      . L E A D A A S L L E P FA  ]
+[DELETED:  S      . C O T R I O     )I L E A T A A I O A D O F T L L P D I T R R B I )1     ) C M     )O A O E T A O TM      )I(IN D     ) A T K V T S I  0  ) ( N A S R I       C O C C A I T R I O   ()  Y F T C O A CN   () I       A A R A D A R O A DA T A M D T D F]
+[DELETED: S 7 ) ( N A T I A O A P   T:   ) D T E C I TER     ) IS A A P T E T O T T U O A   ) IS P A S T E   ) VS P A S F TD    ) S P F T R A ) ( E I A A D S B S S T I I F A I T O      ) AS    ) TIOE  I O T DR O D O VS O    A E S M N U I TY I F R]
+[DELETED:  S    () N A O A C O A A M N     P A T B L F A C     C O C J WY       L E A F U I A O IN A T O L ET A ,       T A R ,       I   ) I  I ) 2  ( T s a t a v o § 2 o t s a a i  (  I C t   T S A R F T UEG A D O R I A A D    O A1  2  ( T  ( ( U o s]
+[DELETED: S 9 r b a a r g c e s d t c  (  I c w l l e a i M C a P G C t C J o t D C s a p p   T S A R F T UEG A D O R I A A D   O A A1 2  ( ( A u b  (  I D t   T S A R F T UEG A D O R I A A D   O A1 2  ( ( A    ( M i a    ( M C  (  I D t   T S A R F T UEG A D O R I A A D]
+[DELETED:  S    O A1 2  ( ( ( A u b  (  I c w a l g a t C t   T S A R F T UEG A D O R I A A D   O A1 2  ( ( A s    ( W    ( O i m  (  I c w l p d a S p d o c t t o c v a t c o c p u t s   T S A R F T UEG A D O R I A A D    O A1  2  ( ( A a m u a b l m s t m t r o t s t r t i o m v d t c]
+[DELETED: S 1  (  I c w a l g a t C f   )T S A R F T UEG A D O R I A A D   O A1  2  ( ( ( A c m u n m t t n a m b  (  I o v   T S A R F T UEG A D O R I A A D   O A1 2  ( T s a o i B C B C H C  ( ( A v v o  (  I c w t a l g a t C t   T S A R F T UEG A D O R I A A D   O A1  S a]
+[DELETED:  S  A 4  ( E i   ( a t   ( a a r g c e s o u   ( a s b m c o u § 2   ( a s s m s o u § 2 o t T   ( a s m s o u § 2 o t T   ( a w z s c s o u § 2 o t T   ( a b l m s o u § 2    ( a T   () a T  ( A   ( a r i § 1 § 2 § 2 § 2 § 2 §,  A   ( b a p i a c u § 2 § 2 § 2 §,  T   ( b r t t i o o i f c l u §]
+[DELETED: S 1 2 §, o A 1  ( T   ( T c s m s u § 2   ( A r g c e s u § 2   ( S   ( S   ( S   ( W   ( B   ( N   () V   () A o a t e s a]( u  S a A 4  ( E i   ( a t   ( a a r g c e s o u]
+[DELETED:  S    ( a s b m c o u § 2   ( a s s m s o u § 2 o t T   () a s m s o u § 2 o t T   () a]( T   () a b l m s o u §]( 2   () a]( o   () a]( t  ( A   ( a r i § 1 § 2 § 2 § 2 § 2,  A   ( b a p i a c u § 2 § 2 § 2 §,  T   ( b r t t i o o i f c l u § 2 §,  o A 1  ( T   ( T c s m s u § 2]
+[DELETED: S 1   ( A r g c e s u § 2   ( S   ( S   () S   () W](   () B](   () N a m s u § 2 o t]( a   () V h m s u § 2 o t]( a   () A o a t e s a]( u  S e o t t  S e o t t  S 6 A B I F E T e a p i S]

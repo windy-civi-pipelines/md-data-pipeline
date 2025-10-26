@@ -1,0 +1,260 @@
+Title: HOUSE BILL 6
+Official Title: HOUSE BILL 6
+Number of Sections: 1
+Source: versions - Third - State Department of Assessments and Taxation and Department of General Services - Property Appraisal Aids - Geographic Images
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Q1 5lr0782
+HB 491/24 – W&M (PRE–FILED) CF SB 143
+By: Delegates Fair and Pruski
+Requested: September 9, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Ways and Means
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 23, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 State Department of Assessments and Taxation and Department of General
+3 Services – Property Appraisal Aids – Geographic Images
+4 FOR the purpose of requiring the State Department of Assessments and Taxation to
+5 prepare, install, and maintain certain property appraisal aids that consist of a
+6 database of certain geographic images; requiring the Department of General
+7 Services to procure for the State a certain uniform system that includes any tools or
+8 services needed to prepare, maintain, and install the appraisal aids; requiring each
+9 county and Baltimore City to reimburse the State for certain costs of the database of
+10 geographic images; requiring the Department to develop certain policies to protect
+11 the identity of certain individuals; and generally relating to property appraisal aids
+12 and records.
+13 BY repealing and reenacting, with amendments,
+14 Article – Tax – Property
+15 Section 2–106(b) and (c) and 2–210
+16 Annotated Code of Maryland
+17 (2019 Replacement Volume and 2024 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Tax – Property
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0006*
+2 HOUSE BILL 6
+1 2–106.
+2 (b) (1) Except as provided in paragraph (2) of this subsection, each county and
+3 Baltimore City shall be responsible for reimbursing the State for the costs of administering
+4 the Department as follows:
+5 (i) 50% of the costs of real property valuation;
+6 (ii) 50% of the costs of business personal property valuation; and
+7 (iii) 50% of the costs of the Office of Information Technology within
+8 the Department, including any funding for departmental projects in the Major Information
+9 Technology Development Project Fund established under § 3.5–309 of the State Finance
+10 and Procurement Article.
+11 [(2) For each of fiscal years 2012 and 2013, each county and Baltimore City
+12 shall be responsible for reimbursing the State 90% instead of 50% of the costs of
+13 administering the Department described in paragraph (1) of this subsection.]
+14 (2) OF THE COSTS INCURRED ANNUALLY FOR THE DATABASE OF
+15 GEOGRAPHIC IMAGES REQUIRED UNDER § 2–210(A)(1)(III) OF THIS TITLE, EACH
+16 COUNTY AND BALTIMORE CITY SHALL BE RESPONSIBLE FOR REIMBURSING THE
+17 STATE FOR:
+18 (I) 100% OF THE COSTS TOTALING $1,000,000 OR LESS; AND
+19 (II) 50% OF ANY COSTS IN EXCESS OF $1,000,000.
+20 (c) Costs under subsection (b) of this section shall be allocated among the counties
+21 and Baltimore City as follows:
+22 (1) costs under subsection (b)(1)(i) and (iii) AND (2) of this section will be
+23 allocated based on the number of real property accounts of a county or Baltimore City as a
+24 percentage of the total number of real property accounts statewide as of July 1 of the
+25 preceding fiscal year; and
+26 (2) costs under subsection (b)(1)(ii) of this section will be allocated based on
+27 the business personal property assessable base of a county or Baltimore City as a
+28 percentage of the total business personal property assessable bases statewide as of July 1
+29 of the preceding fiscal year.
+30 2–210.
+31 (a) (1) The Department shall prepare, install, and maintain for each county a
+32 complete record of properties, with appropriate indexes and cross indexes, and a system of
+33 appraisal aids that consist of:
+HOUSE BILL 6 3
+1 [(1)] (I) property location maps; [and]
+2 [(2)] (II) records of:
+3 [(i)] 1. new construction;
+4 [(ii)] 2. sales;
+5 [(iii)] 3. building costs; and
+6 [(iv)] 4. private appraisals; AND
+7 (III) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, A
+8 DATABASE OF STATEWIDE AND LOCAL GEOGRAPHIC IMAGES THAT INCLUDES:
+9 1. GEOGRAPHIC INFORMATION SYSTEM
+10 VISUALIZATIONS; AND
+11 2. OBLIQUE AERIAL PHOTOGRAPHIC IMAGERY.
+12 (2) (I) THE DEPARTMENT OF GENERAL SERVICES SHALL
+13 PROCURE FOR THE STATE A UNIFORM SYSTEM THAT INCLUDES ANY TOOLS OR
+14 SERVICES NEEDED TO PREPARE, INSTALL, AND MAINTAIN THE APPRAISAL AIDS
+15 DESCRIBED IN PARAGRAPH (1)(III) OF THIS SUBSECTION.
+16 (II) TO CARRY OUT THE REQUIREMENT UNDER SUBPARAGRAPH
+17 (I) OF THIS PARAGRAPH, THE DEPARTMENT OF GENERAL SERVICES SHALL GATHER
+18 INFORMATION AND INPUT ON THE REQUIREMENTS OF THE APPRAISAL AIDS BY
+19 CONSULTING WITH THE DEPARTMENT AND AFFECTED OR RELEVANT UNITS OF
+20 STATE AND LOCAL GOVERNMENT.
+21 (3) ON OR BEFORE JUNE 30, 2025, THE DEPARTMENT SHALL
+22 DEVELOP POLICIES TO PROTECT THE IDENTITY OF ANY INDIVIDUAL WHOSE IMAGE
+23 IS CAPTURED BY OBLIQUE AERIAL PHOTOGRAPHIC IMAGERY.
+24 (b) (1) The Department shall publish instructions and directions that set forth
+25 generally the duties to be performed and the procedures to be followed in making and
+26 recording assessments.
+27 (2) The instructions and directions shall be distributed to the governing
+28 body of each county, all assessment officers, and any official who has any duty that relates
+29 to assessments.
+4 HOUSE BILL 6
+1 (c) The Director shall establish and provide all forms for notices, records, reports,
+2 and other matters that relate to the functions of supervisors and assessors.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before July 15, 2025,
+4 the State Department of Assessments and Taxation shall report to the General Assembly,
+5 in accordance with § 2–1257 of the State Government Article, on the policies the
+6 Department adopted under § 2–210(a)(3) of the Tax – Property Article, as enacted by
+7 Section 1 of this Act.
+8 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 June 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5 ( C A S S F t p o r t S D o A a T t p i a m c p a a t c o a d o c g i r t D o G S s c g t a B  A  S  A  (  S T A]
+[DELETED:  H  2  ( ( E B t    ( 5    ( 5    ( 5 t T a   ( F s b r f r t S 9 i o 5 o t c o a.   ) T C I A F T D O I U  AII O T TE E2()() A A I B R F R T      )1%$0   S      )5%$I   ( C a   ( c o  a p o t t n o r p a s a o J o p   ( c t b p p a b o a c o B C a a p o 2  (  T c a]
+[DELETED: H 3   () p ad] ()[   () r] (    () n] 1    () s] 2    () b] 3    () ps ] 4.   ) ()IS T P  O T SN A     I SS      .   () TDGH E O E E S F T T A U S T I A T O N T PE IL A M T A A II ().   ) IO),DG H  E E E A I O T R O T A A B W T E A A O R U O. ()OJ3,2,  O B U   T E S    ( ( T g d r   ( T b t]
+[DELETED:  H   ( T a  S t i a w § 2 o t S G A o t p t D a u § 2 o t T – P A a e b S  S J          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 6
+Q1 5lr0782
+HB 491/24 – W&M (PRE–FILED) CF SB 143
+By: Delegates Fair and Pruski
+Requested: September 9, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Ways and Means
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 23, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 State Department of Assessments and Taxation and Department of General
+3 Services – Property Appraisal Aids – Geographic Images
+4 FOR the purpose of requiring the State Department of Assessments and Taxation to
+5 prepare, install, and maintain certain property appraisal aids that consist of a
+6 database of certain geographic images; requiring the Department of General
+7 Services to procure for the State a certain uniform system that includes any tools or
+8 services needed to prepare, maintain, and install the appraisal aids; requiring each
+9 county and Baltimore City to reimburse the State for certain costs of the database of
+10 geographic images; requiring the Department to develop certain policies to protect
+11 the identity of certain individuals; and generally relating to property appraisal aids
+12 and records.
+13 BY repealing and reenacting, with amendments,
+14 Article – Tax – Property
+15 Section 2–106(b) and (c) and 2–210
+16 Annotated Code of Maryland
+17 (2019 Replacement Volume and 2024 Supplement)
+18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+19 That the Laws of Maryland read as follows:
+20 Article – Tax – Property
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0006*
+
+2 HOUSE BILL 6
+1 2–106.
+2 (b) (1) Except as provided in paragraph (2) of this subsection, each county and
+3 Baltimore City shall be responsible for reimbursing the State for the costs of administering
+4 the Department as follows:
+5 (i) 50% of the costs of real property valuation;
+6 (ii) 50% of the costs of business personal property valuation; and
+7 (iii) 50% of the costs of the Office of Information Technology within
+8 the Department, including any funding for departmental projects in the Major Information
+9 Technology Development Project Fund established under § 3.5–309 of the State Finance
+10 and Procurement Article.
+11 [(2) For each of fiscal years 2012 and 2013, each county and Baltimore City
+12 shall be responsible for reimbursing the State 90% instead of 50% of the costs of
+13 administering the Department described in paragraph (1) of this subsection.]
+14 (2) OF THE COSTS INCURRED ANNUALLY FOR THE DATABASE OF
+15 GEOGRAPHIC IMAGES REQUIRED UNDER § 2–210(A)(1)(III) OF THIS TITLE, EACH
+16 COUNTY AND BALTIMORE CITY SHALL BE RESPONSIBLE FOR REIMBURSING THE
+17 STATE FOR:
+18 (I) 100% OF THE COSTS TOTALING $1,000,000 OR LESS; AND
+19 (II) 50% OF ANY COSTS IN EXCESS OF $1,000,000.
+20 (c) Costs under subsection (b) of this section shall be allocated among the counties
+21 and Baltimore City as follows:
+22 (1) costs under subsection (b)(1)(i) and (iii) AND (2) of this section will be
+23 allocated based on the number of real property accounts of a county or Baltimore City as a
+24 percentage of the total number of real property accounts statewide as of July 1 of the
+25 preceding fiscal year; and
+26 (2) costs under subsection (b)(1)(ii) of this section will be allocated based on
+27 the business personal property assessable base of a county or Baltimore City as a
+28 percentage of the total business personal property assessable bases statewide as of July 1
+29 of the preceding fiscal year.
+30 2–210.
+31 (a) (1) The Department shall prepare, install, and maintain for each county a
+32 complete record of properties, with appropriate indexes and cross indexes, and a system of
+33 appraisal aids that consist of:
+
+HOUSE BILL 6 3
+1 [(1)] (I) property location maps; [and]
+2 [(2)] (II) records of:
+3 [(i)] 1. new construction;
+4 [(ii)] 2. sales;
+5 [(iii)] 3. building costs; and
+6 [(iv)] 4. private appraisals; AND
+7 (III) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, A
+8 DATABASE OF STATEWIDE AND LOCAL GEOGRAPHIC IMAGES THAT INCLUDES:
+9 1. GEOGRAPHIC INFORMATION SYSTEM
+10 VISUALIZATIONS; AND
+11 2. OBLIQUE AERIAL PHOTOGRAPHIC IMAGERY.
+12 (2) (I) THE DEPARTMENT OF GENERAL SERVICES SHALL
+13 PROCURE FOR THE STATE A UNIFORM SYSTEM THAT INCLUDES ANY TOOLS OR
+14 SERVICES NEEDED TO PREPARE, INSTALL, AND MAINTAIN THE APPRAISAL AIDS
+15 DESCRIBED IN PARAGRAPH (1)(III) OF THIS SUBSECTION.
+16 (II) TO CARRY OUT THE REQUIREMENT UNDER SUBPARAGRAPH
+17 (I) OF THIS PARAGRAPH, THE DEPARTMENT OF GENERAL SERVICES SHALL GATHER
+18 INFORMATION AND INPUT ON THE REQUIREMENTS OF THE APPRAISAL AIDS BY
+19 CONSULTING WITH THE DEPARTMENT AND AFFECTED OR RELEVANT UNITS OF
+20 STATE AND LOCAL GOVERNMENT.
+21 (3) ON OR BEFORE JUNE 30, 2025, THE DEPARTMENT SHALL
+22 DEVELOP POLICIES TO PROTECT THE IDENTITY OF ANY INDIVIDUAL WHOSE IMAGE
+23 IS CAPTURED BY OBLIQUE AERIAL PHOTOGRAPHIC IMAGERY.
+24 (b) (1) The Department shall publish instructions and directions that set forth
+25 generally the duties to be performed and the procedures to be followed in making and
+26 recording assessments.
+27 (2) The instructions and directions shall be distributed to the governing
+28 body of each county, all assessment officers, and any official who has any duty that relates
+29 to assessments.
+
+4 HOUSE BILL 6
+1 (c) The Director shall establish and provide all forms for notices, records, reports,
+2 and other matters that relate to the functions of supervisors and assessors.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before July 15, 2025,
+4 the State Department of Assessments and Taxation shall report to the General Assembly,
+5 in accordance with § 2–1257 of the State Government Article, on the policies the
+6 Department adopted under § 2–210(a)(3) of the Tax – Property Article, as enacted by
+7 Section 1 of this Act.
+8 SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 June 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5 ( C A S S F t p o r t S D o A a T t p i a m c p a a t c o a d o c g i r t D o G S s c g t a B  A  S  A  (  S T A]
+[DELETED:  H  2  ( ( E B t    ( 5    ( 5    ( 5 t T a   ( F s b r f r t S 9 i o 5 o t c o a.   ) T C I A F T D O I U  AII O T TE E2()() A A I B R F R T      )1%$0   S      )5%$I   ( C a   ( c o  a p o t t n o r p a s a o J o p   ( c t b p p a b o a c o B C a a p o 2  (  T c a]
+[DELETED: H 3   () p ad] ()[   () r] (    () n] 1    () s] 2    () b] 3    () ps ] 4.   ) ()IS T P  O T SN A     I SS      .   () TDGH E O E E S F T T A U S T I A T O N T PE IL A M T A A II ().   ) IO),DG H  E E E A I O T R O T A A B W T E A A O R U O. ()OJ3,2,  O B U   T E S    ( ( T g d r   ( T b t]
+[DELETED:  H   ( T a  S t i a w § 2 o t S G A o t p t D a u § 2 o t T – P A a e b S  S J          G               ]

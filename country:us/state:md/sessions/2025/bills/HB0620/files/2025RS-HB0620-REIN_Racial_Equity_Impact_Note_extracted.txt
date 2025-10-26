@@ -1,0 +1,526 @@
+Title: Primary and Secondary Education - Reportable Offense - Alteration
+Official Title: Primary and Secondary Education - Reportable Offense - Alteration
+Number of Sections: 15
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 Session
+HB0620
+Bill Summary
+This bill alters the definition of “reportable offense” to be only a crime of violence as defined by
+the Criminal Law Article. Therefore, law enforcement agencies are subject to notification
+requirements in current law when they arrest a student only for a crime of violence and not for
+other crimes currently included in the definition of a “reportable offense.”
+Racial Equity Impact Statement
+The bill will limit the number of offenses that require law enforcement officers to notify school
+officials when they arrest a student to only offenses defined as a crime of violence in § 14-101 of
+the Criminal Law Article. This would reduce the current list of reportable offenses by at least 11
+offenses. By way of example, the bill would have reduced the number of offenses reported during
+the 2022-2023 school year by 41%. Data shows that Black students are overrepresented in arrests
+for reportable offenses under existing law, and Department of Juvenile Services (DJS) data
+confirms that Black juveniles are overwhelmingly charged, arrested, and adjudicated delinquent
+for crimes of violence in the juvenile court. Thus, the bill will likely reduce the overall number of
+students affected by reportable offense reporting and thereby reduce any associated disciplinary
+measures. Additional data is needed to understand the exact nature and magnitude of the bill’s
+impacts on racial equity overall, including demographic data on each of the offenses removed from
+the reporting requirements as well as data on the public safety effects of the bill and how those
+relate to the overall equity impacts.
+Analysis
+The bill would require law enforcement to report arrests of students for only crimes of violence
+listed in § 14-101 of the Criminal Law Article.
+HB 620/ Page 1
+Reportable Offenses
+Under existing law, a reportable offense is an offense that (1) occurred off school premises; (2) did
+not occur at an event sponsored by the school; and (3) includes a crime of violence, as specified in
+current law, and numerous other specified weapons, drug, assault, and theft-related offenses. When
+a student is arrested for a reportable offense or an offense related to the student’s membership in a
+criminal organization, the law enforcement agency making the arrest must notify (1) the local
+superintendent; (2) the school principal; and (3) if appropriate, the school security officer. The law
+enforcement agency may also notify the State’s Attorney.
+In 2022, the General Assembly expressed concern about the purported misuse or overuse of school
+removals for students arrested for a reportable offense. Chapter 742 of 2022 clarifies that a
+“reportable offense” as it relates to students in public or nonpublic schools is an offense that
+occurred off school premises and did not occur at an event sponsored by the school. The Act also
+requires that students accused of reportable offenses be disciplined according to existing State
+regulations and provides for additional due process accommodations by allowing a student accused
+of a reportable offense to have an attorney attend the conference between the student or parent and
+principal or county superintendent.
+The Maryland State Department of Education (MSDE) is required to report to the General
+Assembly annually (on or before December 30 each year) specified information about each
+reportable offense for which a local school has received information in the previous school year.
+Exhibit 1 lists and sorts reportable offenses under existing law based on whether they are defined
+as a crime of violence under § 14-101 of the Criminal Law Article.
+Exhibit 1
+Reportable Offenses Under Existing Law
+Offenses Included as Crimes of Violence Under § 14–101 Offenses Not Included Under § 14–101
+Arson Burglary
+Assault (including assault in the first degree and assault with Crimes relating to animals
+the intent to murder/rape/rob/commit a sexual offense)
+Attempted arson Distribution of controlled dangerous substances
+Attempted carjacking Drug possession
+Attempted murder Illegal possession of a firearm
+Attempted rape Malicious destruction of property
+Attempted robbery Manufacturing a controlled dangerous substance
+Attempted sexual abuse of a minor Motor vehicle theft
+Carjacking Obstruction of justice
+Home invasion Wearing or carrying a dangerous weapon
+(e.g., firearm)
+Manslaughter Other (include explanation)
+Murder (including first and second degree)
+Rape (including first and second degree)
+Robbery
+Sexual abuse of a minor
+Sexual assault
+Source: Maryland State Department of Education
+HB 620/ Page 2
+Suspensions and Expulsions in General
+In accordance with rules developed by each local school board, a principal may suspend a student
+for cause for up to 10 school days. The principal must provide the suspended student and the
+student’s parents with a conference during the suspension period and a list of community
+resources. Upon request by a principal, a local superintendent may suspend a student for more than
+10 days or expel a student, subject to investigation, conferencing, and appeal procedures in statute.
+A student may not be suspended or expelled only for attendance-related offenses but may be
+subject to in-school suspension for those offenses.
+A student who has been suspended or expelled may not return to the classroom until the principal
+confers with (1) the teacher(s) who referred the student (if appropriate); (2) other appropriate
+school personnel; (3) the student; and (4) the student’s parent or guardian.
+If disruptive behavior results in action less than suspension, the principal or designee must confer
+with the teacher who referred the student prior to the student returning to the teacher’s classroom.
+Addressing Disproportionate and Discrepant Impacts of School Discipline
+State regulations require MSDE to develop a method to analyze local school system discipline data
+to determine whether there is a disproportionate impact on minority students. MSDE may use the
+discrepancy model to assess the impact of discipline on special education students. The
+discrepancy model uses a risk ratio of 3.0 as the threshold for determining whether
+disproportionality exists; a risk ratio of 3.0 means that a target population (e.g., Black males) is
+three times more likely than a control population (e.g., all other males) to be identified for special
+education services or disciplined in some manner. A risk ratio greater than 1.0 indicates
+overrepresentation. If MSDE identifies a school’s discipline process as having a disproportionate
+impact on minority students or a discrepant impact on special education students, the local school
+system must prepare and present to the State board a plan to reduce the impact within one year and
+eliminate it within three years. A local school system must report its progress annually to the State
+board.
+Impacts of the Bill
+Black juveniles are overrepresented in on-campus and off-campus arrests for reportable offenses
+as defined under existing law. MSDE reported 986 reportable offense incidents during the
+2022-2023 school year. Reportable offense incidents refer to events during which one or more
+reportable offenses are reported. Of these incidents, 65% involved Black students, 18% were
+white, 9% were Hispanic, and 6% involved students of two or more races. Asian, American Indian
+or Alaskan Natives, and Native Hawaiian/Pacific Islanders accounted for less than 2% of the total.
+Exhibit 2 shows the racial and ethnic breakdowns for reportable offenses compared to each
+group’s share of the State’s public school population during the same time period.
+HB 620/ Page 3
+Exhibit 2
+Reportable Offenses and Public School Enrollment
+by Race and Ethnicity
+2022-2023 School Year
+
+Section 2:
+65.2%
+
+Section 3:
+32.9% 32.7%
+
+Section 4:
+22.0%
+
+Section 5:
+18.1%
+
+Section 6:
+9.1%
+
+Section 7:
+5.2% 6.3%
+White Black Hispanic Two or More Races
+Public School Enrollment Reportable Offenses
+Source: Maryland State Department of Education
+MSDE also tracks arrests that occurred as a result of a referral of a student by school personnel to
+law enforcement or to DJS for a disciplinary offense that occurred on school grounds or during
+off-campus activities, including transportation to and from school. Exhibit 3 shows the racial and
+ethnic breakdown of on-campus school arrests during the 2022-2023 school year compared to
+enrollment data. Offense categories include sex offenses, weapons violations, threats, serious
+bodily injury, fighting, and alcohol and drug violations. The data shows 57% of arrestees were
+Black students, 25% were white, 9% were Hispanic, and 8% were students of two or more races.
+Asian, American Indian or Alaskan Natives, and Native Hawaiian/Pacific Islanders account for
+less than 2% of the total.
+HB 620/ Page 4
+Exhibit 3
+School Arrests and Public School Enrollment
+by Race and Ethnicity
+2022-2023 School Year
+
+Section 8:
+56.6%
+
+Section 9:
+32.9% 32.7%
+
+Section 10:
+24.6%
+
+Section 11:
+22.0%
+
+Section 12:
+9.3%
+
+Section 13:
+8.1%
+
+Section 14:
+5.2%
+White Black Hispanic Two or More Races
+Public School Enrollment Arrests
+Exhibit 4 shows the breakdown of reportable offenses for the 2022-2023 school year grouped by
+crimes of violence as defined under the bill versus those offenses not covered by the bill. It is
+important to note that one reportable offense incident could have several offenses associated with
+it. For example, a student who is charged with burglary may also be charged with drug possession
+(a second offense) as part of the one incident. Despite the incident resulting in multiple charges
+for multiple offenses, MSDE considers it a singular reportable offense incident.
+The data shows that 986 singular reportable offense incidents involved a total of 1,231 offenses.
+Of those offenses, 500, or 41%, were for crimes that did not fall under the crimes of violence
+definition stipulated in § 14-101 of the Criminal Law Article. Under the bill, those offenses would
+not be included as crimes that are subject to the notification requirements under current law.
+The MSDE data does not provide demographic information to determine the racial makeup of the
+juveniles responsible for crimes of violence versus all other offenses, but DJS intake data
+demonstrates that Black juveniles are significantly overrepresented in both intakes and
+adjudications for crimes of violence. In fiscal 2024, DJS reported a total of 2,482 intakes for
+charges relating to crimes of violence, with youth of color accounting for 88% of this total and
+89% of adjudications of delinquency by the juvenile court. DJS does not currently distinguish
+between racial minorities in its offense reporting, thus the offense data groups all racial minorities
+into the youth of color category. Black juveniles do, however, make up a significant portion of the
+youth of color category as DJS does partially breakdown the category for total intakes. DJS data
+HB 620/ Page 5
+from fiscal 2022 through 2024 shows that Black juveniles made up 85% of total youth of color
+intakes.
+Exhibit 4
+Reportable Offenses under the Bill
+2022-2023 School Year
+41%
+59%
+
+Section 15:
+§14–101 Offenses All Other Offenses
+Source: Maryland State Department of Education; Department of Legislative Services
+Conclusion
+Arrest data from MSDE confirms significant disparities among racial groups arrested for
+reportable offenses both on and off-campus, particularly for Black students. Additionally, there is
+substantial evidence that Black juveniles are overwhelmingly charged, arrested, and adjudicated
+for crimes of violence specifically. Based on the data that is reported, it is likely that the bill’s
+alteration of the definition of reportable offenses would result in an overall reduction of any
+associated discipline or programmatic changes to a student’s education program. Additional data
+would be needed to understand the specific impacts for students and the magnitude of those
+impacts, including data regarding the racial and ethnic distribution of individual reportable offense
+incidents.
+Removing offenses from the reporting requirements could also affect public safety and limit
+needed support from school staff and officials who may not be aware of a student’s behavioral
+issues. The overall equity impacts of this bill encompass weighing the public safety impacts on the
+student population as well as the quality and extent of the support, intervention, and restorative
+practices provided by a school for students arrested for reportable offenses under existing law.
+Additional data would be needed to understand the interplay between these considerations.
+HB 620/ Page 6
+Information Sources: Department of Juvenile Services; Maryland State Department of
+Education; Department of Legislative Services
+Analysis by: Dr. Jasmón Bailey
+P ublished: 03/05/2025
+HB 620/ Page 7
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 620/ Page 8
+[DELETED:  C L A T l e a a s t n r o u e l a D o J S ( d]
+[DELETED:  f s a f a r o C 7 o 2 c t a M S D o E ( i r t r t t G a ( o b D 3 e y s i a e O B C D D I M M M O W O]
+[DELETED:  p w a c d t s p a a l o c m t a t i o d o s e s T m u a r r o 3 a t t f d w s o d i s m A r r g t 1 i d u e l M r 9 r o i d t 6 2 s t r a e b f r o c t e]
+[DELETED:  d O c i s o w v t seBkHcTtR]
+[DELETED:  r f c o v v a o o b D i d t B j a s o i b i aeBkHcTtA]
+[DELETED: ;D d f M c s d a r g a f a b n t u t s i f s a t m o o f t r r c a a p s a l1]
+[DELETED:  S  D o J S M S D o ]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]
+
+
+================================================================================
+
+Raw Text:
+2025 Session
+HB0620
+Primary and Secondary Education - Reportable Offense - Alteration
+Bill Summary
+This bill alters the definition of “reportable offense” to be only a crime of violence as defined by
+the Criminal Law Article. Therefore, law enforcement agencies are subject to notification
+requirements in current law when they arrest a student only for a crime of violence and not for
+other crimes currently included in the definition of a “reportable offense.”
+Racial Equity Impact Statement
+The bill will limit the number of offenses that require law enforcement officers to notify school
+officials when they arrest a student to only offenses defined as a crime of violence in § 14-101 of
+the Criminal Law Article. This would reduce the current list of reportable offenses by at least 11
+offenses. By way of example, the bill would have reduced the number of offenses reported during
+the 2022-2023 school year by 41%. Data shows that Black students are overrepresented in arrests
+for reportable offenses under existing law, and Department of Juvenile Services (DJS) data
+confirms that Black juveniles are overwhelmingly charged, arrested, and adjudicated delinquent
+for crimes of violence in the juvenile court. Thus, the bill will likely reduce the overall number of
+students affected by reportable offense reporting and thereby reduce any associated disciplinary
+measures. Additional data is needed to understand the exact nature and magnitude of the bill’s
+impacts on racial equity overall, including demographic data on each of the offenses removed from
+the reporting requirements as well as data on the public safety effects of the bill and how those
+relate to the overall equity impacts.
+Analysis
+The bill would require law enforcement to report arrests of students for only crimes of violence
+listed in § 14-101 of the Criminal Law Article.
+HB 620/ Page 1
+
+Reportable Offenses
+Under existing law, a reportable offense is an offense that (1) occurred off school premises; (2) did
+not occur at an event sponsored by the school; and (3) includes a crime of violence, as specified in
+current law, and numerous other specified weapons, drug, assault, and theft-related offenses. When
+a student is arrested for a reportable offense or an offense related to the student’s membership in a
+criminal organization, the law enforcement agency making the arrest must notify (1) the local
+superintendent; (2) the school principal; and (3) if appropriate, the school security officer. The law
+enforcement agency may also notify the State’s Attorney.
+In 2022, the General Assembly expressed concern about the purported misuse or overuse of school
+removals for students arrested for a reportable offense. Chapter 742 of 2022 clarifies that a
+“reportable offense” as it relates to students in public or nonpublic schools is an offense that
+occurred off school premises and did not occur at an event sponsored by the school. The Act also
+requires that students accused of reportable offenses be disciplined according to existing State
+regulations and provides for additional due process accommodations by allowing a student accused
+of a reportable offense to have an attorney attend the conference between the student or parent and
+principal or county superintendent.
+The Maryland State Department of Education (MSDE) is required to report to the General
+Assembly annually (on or before December 30 each year) specified information about each
+reportable offense for which a local school has received information in the previous school year.
+Exhibit 1 lists and sorts reportable offenses under existing law based on whether they are defined
+as a crime of violence under § 14-101 of the Criminal Law Article.
+Exhibit 1
+Reportable Offenses Under Existing Law
+Offenses Included as Crimes of Violence Under § 14–101 Offenses Not Included Under § 14–101
+Arson Burglary
+Assault (including assault in the first degree and assault with Crimes relating to animals
+the intent to murder/rape/rob/commit a sexual offense)
+Attempted arson Distribution of controlled dangerous substances
+Attempted carjacking Drug possession
+Attempted murder Illegal possession of a firearm
+Attempted rape Malicious destruction of property
+Attempted robbery Manufacturing a controlled dangerous substance
+Attempted sexual abuse of a minor Motor vehicle theft
+Carjacking Obstruction of justice
+Home invasion Wearing or carrying a dangerous weapon
+(e.g., firearm)
+Manslaughter Other (include explanation)
+Murder (including first and second degree)
+Rape (including first and second degree)
+Robbery
+Sexual abuse of a minor
+Sexual assault
+Source: Maryland State Department of Education
+HB 620/ Page 2
+
+Suspensions and Expulsions in General
+In accordance with rules developed by each local school board, a principal may suspend a student
+for cause for up to 10 school days. The principal must provide the suspended student and the
+student’s parents with a conference during the suspension period and a list of community
+resources. Upon request by a principal, a local superintendent may suspend a student for more than
+10 days or expel a student, subject to investigation, conferencing, and appeal procedures in statute.
+A student may not be suspended or expelled only for attendance-related offenses but may be
+subject to in-school suspension for those offenses.
+A student who has been suspended or expelled may not return to the classroom until the principal
+confers with (1) the teacher(s) who referred the student (if appropriate); (2) other appropriate
+school personnel; (3) the student; and (4) the student’s parent or guardian.
+If disruptive behavior results in action less than suspension, the principal or designee must confer
+with the teacher who referred the student prior to the student returning to the teacher’s classroom.
+Addressing Disproportionate and Discrepant Impacts of School Discipline
+State regulations require MSDE to develop a method to analyze local school system discipline data
+to determine whether there is a disproportionate impact on minority students. MSDE may use the
+discrepancy model to assess the impact of discipline on special education students. The
+discrepancy model uses a risk ratio of 3.0 as the threshold for determining whether
+disproportionality exists; a risk ratio of 3.0 means that a target population (e.g., Black males) is
+three times more likely than a control population (e.g., all other males) to be identified for special
+education services or disciplined in some manner. A risk ratio greater than 1.0 indicates
+overrepresentation. If MSDE identifies a school’s discipline process as having a disproportionate
+impact on minority students or a discrepant impact on special education students, the local school
+system must prepare and present to the State board a plan to reduce the impact within one year and
+eliminate it within three years. A local school system must report its progress annually to the State
+board.
+Impacts of the Bill
+Black juveniles are overrepresented in on-campus and off-campus arrests for reportable offenses
+as defined under existing law. MSDE reported 986 reportable offense incidents during the
+2022-2023 school year. Reportable offense incidents refer to events during which one or more
+reportable offenses are reported. Of these incidents, 65% involved Black students, 18% were
+white, 9% were Hispanic, and 6% involved students of two or more races. Asian, American Indian
+or Alaskan Natives, and Native Hawaiian/Pacific Islanders accounted for less than 2% of the total.
+Exhibit 2 shows the racial and ethnic breakdowns for reportable offenses compared to each
+group’s share of the State’s public school population during the same time period.
+HB 620/ Page 3
+
+Exhibit 2
+Reportable Offenses and Public School Enrollment
+by Race and Ethnicity
+2022-2023 School Year
+65.2%
+32.9% 32.7%
+22.0%
+18.1%
+9.1%
+5.2% 6.3%
+White Black Hispanic Two or More Races
+Public School Enrollment Reportable Offenses
+Source: Maryland State Department of Education
+MSDE also tracks arrests that occurred as a result of a referral of a student by school personnel to
+law enforcement or to DJS for a disciplinary offense that occurred on school grounds or during
+off-campus activities, including transportation to and from school. Exhibit 3 shows the racial and
+ethnic breakdown of on-campus school arrests during the 2022-2023 school year compared to
+enrollment data. Offense categories include sex offenses, weapons violations, threats, serious
+bodily injury, fighting, and alcohol and drug violations. The data shows 57% of arrestees were
+Black students, 25% were white, 9% were Hispanic, and 8% were students of two or more races.
+Asian, American Indian or Alaskan Natives, and Native Hawaiian/Pacific Islanders account for
+less than 2% of the total.
+HB 620/ Page 4
+
+Exhibit 3
+School Arrests and Public School Enrollment
+by Race and Ethnicity
+2022-2023 School Year
+56.6%
+32.9% 32.7%
+24.6%
+22.0%
+9.3%
+8.1%
+5.2%
+White Black Hispanic Two or More Races
+Public School Enrollment Arrests
+Exhibit 4 shows the breakdown of reportable offenses for the 2022-2023 school year grouped by
+crimes of violence as defined under the bill versus those offenses not covered by the bill. It is
+important to note that one reportable offense incident could have several offenses associated with
+it. For example, a student who is charged with burglary may also be charged with drug possession
+(a second offense) as part of the one incident. Despite the incident resulting in multiple charges
+for multiple offenses, MSDE considers it a singular reportable offense incident.
+The data shows that 986 singular reportable offense incidents involved a total of 1,231 offenses.
+Of those offenses, 500, or 41%, were for crimes that did not fall under the crimes of violence
+definition stipulated in § 14-101 of the Criminal Law Article. Under the bill, those offenses would
+not be included as crimes that are subject to the notification requirements under current law.
+The MSDE data does not provide demographic information to determine the racial makeup of the
+juveniles responsible for crimes of violence versus all other offenses, but DJS intake data
+demonstrates that Black juveniles are significantly overrepresented in both intakes and
+adjudications for crimes of violence. In fiscal 2024, DJS reported a total of 2,482 intakes for
+charges relating to crimes of violence, with youth of color accounting for 88% of this total and
+89% of adjudications of delinquency by the juvenile court. DJS does not currently distinguish
+between racial minorities in its offense reporting, thus the offense data groups all racial minorities
+into the youth of color category. Black juveniles do, however, make up a significant portion of the
+youth of color category as DJS does partially breakdown the category for total intakes. DJS data
+HB 620/ Page 5
+
+from fiscal 2022 through 2024 shows that Black juveniles made up 85% of total youth of color
+intakes.
+Exhibit 4
+Reportable Offenses under the Bill
+2022-2023 School Year
+41%
+59%
+§14–101 Offenses All Other Offenses
+Source: Maryland State Department of Education; Department of Legislative Services
+Conclusion
+Arrest data from MSDE confirms significant disparities among racial groups arrested for
+reportable offenses both on and off-campus, particularly for Black students. Additionally, there is
+substantial evidence that Black juveniles are overwhelmingly charged, arrested, and adjudicated
+for crimes of violence specifically. Based on the data that is reported, it is likely that the bill’s
+alteration of the definition of reportable offenses would result in an overall reduction of any
+associated discipline or programmatic changes to a student’s education program. Additional data
+would be needed to understand the specific impacts for students and the magnitude of those
+impacts, including data regarding the racial and ethnic distribution of individual reportable offense
+incidents.
+Removing offenses from the reporting requirements could also affect public safety and limit
+needed support from school staff and officials who may not be aware of a student’s behavioral
+issues. The overall equity impacts of this bill encompass weighing the public safety impacts on the
+student population as well as the quality and extent of the support, intervention, and restorative
+practices provided by a school for students arrested for reportable offenses under existing law.
+Additional data would be needed to understand the interplay between these considerations.
+HB 620/ Page 6
+
+Information Sources: Department of Juvenile Services; Maryland State Department of
+Education; Department of Legislative Services
+Analysis by: Dr. Jasmón Bailey
+P ublished: 03/05/2025
+HB 620/ Page 7
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 620/ Page 8
+
+[DELETED:  C L A T l e a a s t n r o u e l a D o J S ( d]
+[DELETED:  f s a f a r o C 7 o 2 c t a M S D o E ( i r t r t t G a ( o b D 3 e y s i a e O B C D D I M M M O W O]
+[DELETED:  p w a c d t s p a a l o c m t a t i o d o s e s T m u a r r o 3 a t t f d w s o d i s m A r r g t 1 i d u e l M r 9 r o i d t 6 2 s t r a e b f r o c t e]
+[DELETED:  d O c i s o w v t seBkHcTtR]
+[DELETED:  r f c o v v a o o b D i d t B j a s o i b i aeBkHcTtA]
+[DELETED: ;D d f M c s d a r g a f a b n t u t s i f s a t m o o f t r r c a a p s a l1]
+[DELETED:  S  D o J S M S D o ]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]

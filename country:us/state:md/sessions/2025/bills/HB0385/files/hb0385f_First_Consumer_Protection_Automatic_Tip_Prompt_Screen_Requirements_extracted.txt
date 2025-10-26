@@ -1,0 +1,171 @@
+Title: HOUSE BILL 385
+Official Title: HOUSE BILL 385
+Number of Sections: 1
+Source: versions - First - Consumer Protection - Automatic Tip Prompt Screen - Requirements
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+I3 5lr1812
+HB 419/24 – ECM
+By: Delegates Lehman, Acevero, Allen, Bagnall, Foley, Guyton, Harris, Ivey,
+D. Jones, Kaufman, R. Lewis, J. Long, Pena–Melnyk, Phillips, Pruski,
+Schmidt, Stewart, Taveras, Taylor, Williams, Woods, Wu, and Ziegler
+Introduced and read first time: January 16, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Consumer Protection – Automatic Tip Prompt Screen – Requirements
+3 FOR the purpose of requiring certain businesses that use a point–of–sale system that
+4 automatically prompts a customer to leave a tip to disclose to whom the tip will be
+5 allocated and display a tip amount that is set at zero by default; establishing that a
+6 violation of this Act is an unfair, abusive, or deceptive trade practice; and generally
+7 relating to automatic tip prompt screen requirements.
+8 BY repealing and reenacting, with amendments,
+9 Article – Commercial Law
+10 Section 13–301(14)(xliv)
+11 Annotated Code of Maryland
+12 (2013 Replacement Volume and 2024 Supplement)
+13 (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the
+14 General Assembly of 2024)
+15 BY repealing and reenacting, without amendments,
+16 Article – Commercial Law
+17 Section 13–301(14)(xlv)
+18 Annotated Code of Maryland
+19 (2013 Replacement Volume and 2024 Supplement)
+20 (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the
+21 General Assembly of 2024)
+22 BY adding to
+23 Article – Commercial Law
+24 Section 13–301(14)(xlvi) and 14–1328
+25 Annotated Code of Maryland
+26 (2013 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0385*
+2 HOUSE BILL 385
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Commercial Law
+4 13–301.
+5 Unfair, abusive, or deceptive trade practices include any:
+6 (14) Violation of a provision of:
+7 (xliv) Title 14, Subtitle 49 of this article; [or]
+8 (xlv) Section 12–6C–09.1 of the Health Occupations Article; or
+9 (XLVI) SECTION 14–1328 OF THIS ARTICLE; OR
+10 14–1328.
+11 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+12 INDICATED.
+13 (2) “POINT–OF–SALE SYSTEM” MEANS A DIGITAL DEVICE USED TO
+14 PROCESS ELECTRONIC TRANSACTIONS FOR THE PURCHASE OF GOODS OR SERVICES.
+15 (3) “TIP” MEANS AN ADDITIONAL PAYMENT VOLUNTARILY MADE BY A
+16 CUSTOMER IN RECOGNITION OF SERVICE PROVIDED TO THE CUSTOMER.
+17 (B) BEGINNING JANUARY 1, 2026, EACH BUSINESS THAT USES A
+18 POINT–OF–SALE SYSTEM THAT DURING A TRANSACTION AUTOMATICALLY DISPLAYS
+19 A SCREEN PROMPTING THE CUSTOMER TO SELECT AN AMOUNT FOR A TIP SHALL
+20 CONSPICUOUSLY DISPLAY ON THE SAME SCREEN:
+21 (1) INFORMATION DISCLOSING TO WHOM THE TIP WILL BE
+22 ALLOCATED; AND
+23 (2) A TIP AMOUNT SET AT ZERO BY DEFAULT.
+24 (C) A DISCLOSURE UNDER SUBSECTION (B) OF THIS SECTION IS SUBJECT TO
+25 THE RECORD–KEEPING REQUIREMENTS UNDER § 3–424 OF THE LABOR AND
+26 EMPLOYMENT ARTICLE.
+27 (D) THE DIVISION OF CONSUMER PROTECTION SHALL ADOPT
+28 REGULATIONS NECESSARY TO ADMINISTER AND ENFORCE THIS SECTION.
+HOUSE BILL 385 3
+1 (E) A VIOLATION OF THIS SECTION IS:
+2 (1) AN UNFAIR, ABUSIVE, OR DECEPTIVE TRADE PRACTICE WITHIN
+3 THE MEANING OF TITLE 13 OF THIS ARTICLE; AND
+4 (2) SUBJECT TO THE ENFORCEMENT AND PENALTY PROVISIONS
+5 CONTAINED IN TITLE 13 OF THIS ARTICLE.
+6 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2025.
+[DELETED: :CA      5     D L A A B F G H I K R J P P P A C F t p o r c b t u a p s t a a v r B  A S  A  (  (  G B  A S  A  (  (  G B  A  S  A  (]
+[DELETED:  H   S T A 1  U   ( V    ( T o]    ( S   ) S18;IE  E   ) ( N   “P––TOFS SM M A D D U T   “TP  ) BJ1,2,E A   E B T U ATOFS    ) D T W T T W BD       )A ) A(  B  RDK R U   O T A A§34A R   ) TDCH I O O RNS A ]
+[DELETED: H 3()A      )A,R E  I  E 13    ) T T E A P P I  13    S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 385
+I3 5lr1812
+HB 419/24 – ECM
+By: Delegates Lehman, Acevero, Allen, Bagnall, Foley, Guyton, Harris, Ivey,
+D. Jones, Kaufman, R. Lewis, J. Long, Pena–Melnyk, Phillips, Pruski,
+Schmidt, Stewart, Taveras, Taylor, Williams, Woods, Wu, and Ziegler
+Introduced and read first time: January 16, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Consumer Protection – Automatic Tip Prompt Screen – Requirements
+3 FOR the purpose of requiring certain businesses that use a point–of–sale system that
+4 automatically prompts a customer to leave a tip to disclose to whom the tip will be
+5 allocated and display a tip amount that is set at zero by default; establishing that a
+6 violation of this Act is an unfair, abusive, or deceptive trade practice; and generally
+7 relating to automatic tip prompt screen requirements.
+8 BY repealing and reenacting, with amendments,
+9 Article – Commercial Law
+10 Section 13–301(14)(xliv)
+11 Annotated Code of Maryland
+12 (2013 Replacement Volume and 2024 Supplement)
+13 (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the
+14 General Assembly of 2024)
+15 BY repealing and reenacting, without amendments,
+16 Article – Commercial Law
+17 Section 13–301(14)(xlv)
+18 Annotated Code of Maryland
+19 (2013 Replacement Volume and 2024 Supplement)
+20 (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the
+21 General Assembly of 2024)
+22 BY adding to
+23 Article – Commercial Law
+24 Section 13–301(14)(xlvi) and 14–1328
+25 Annotated Code of Maryland
+26 (2013 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0385*
+
+2 HOUSE BILL 385
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Commercial Law
+4 13–301.
+5 Unfair, abusive, or deceptive trade practices include any:
+6 (14) Violation of a provision of:
+7 (xliv) Title 14, Subtitle 49 of this article; [or]
+8 (xlv) Section 12–6C–09.1 of the Health Occupations Article; or
+9 (XLVI) SECTION 14–1328 OF THIS ARTICLE; OR
+10 14–1328.
+11 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+12 INDICATED.
+13 (2) “POINT–OF–SALE SYSTEM” MEANS A DIGITAL DEVICE USED TO
+14 PROCESS ELECTRONIC TRANSACTIONS FOR THE PURCHASE OF GOODS OR SERVICES.
+15 (3) “TIP” MEANS AN ADDITIONAL PAYMENT VOLUNTARILY MADE BY A
+16 CUSTOMER IN RECOGNITION OF SERVICE PROVIDED TO THE CUSTOMER.
+17 (B) BEGINNING JANUARY 1, 2026, EACH BUSINESS THAT USES A
+18 POINT–OF–SALE SYSTEM THAT DURING A TRANSACTION AUTOMATICALLY DISPLAYS
+19 A SCREEN PROMPTING THE CUSTOMER TO SELECT AN AMOUNT FOR A TIP SHALL
+20 CONSPICUOUSLY DISPLAY ON THE SAME SCREEN:
+21 (1) INFORMATION DISCLOSING TO WHOM THE TIP WILL BE
+22 ALLOCATED; AND
+23 (2) A TIP AMOUNT SET AT ZERO BY DEFAULT.
+24 (C) A DISCLOSURE UNDER SUBSECTION (B) OF THIS SECTION IS SUBJECT TO
+25 THE RECORD–KEEPING REQUIREMENTS UNDER § 3–424 OF THE LABOR AND
+26 EMPLOYMENT ARTICLE.
+27 (D) THE DIVISION OF CONSUMER PROTECTION SHALL ADOPT
+28 REGULATIONS NECESSARY TO ADMINISTER AND ENFORCE THIS SECTION.
+
+HOUSE BILL 385 3
+1 (E) A VIOLATION OF THIS SECTION IS:
+2 (1) AN UNFAIR, ABUSIVE, OR DECEPTIVE TRADE PRACTICE WITHIN
+3 THE MEANING OF TITLE 13 OF THIS ARTICLE; AND
+4 (2) SUBJECT TO THE ENFORCEMENT AND PENALTY PROVISIONS
+5 CONTAINED IN TITLE 13 OF THIS ARTICLE.
+6 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2025.
+
+[DELETED: :CA      5     D L A A B F G H I K R J P P P A C F t p o r c b t u a p s t a a v r B  A S  A  (  (  G B  A S  A  (  (  G B  A  S  A  (]
+[DELETED:  H   S T A 1  U   ( V    ( T o]    ( S   ) S18;IE  E   ) ( N   “P––TOFS SM M A D D U T   “TP  ) BJ1,2,E A   E B T U ATOFS    ) D T W T T W BD       )A ) A(  B  RDK R U   O T A A§34A R   ) TDCH I O O RNS A ]
+[DELETED: H 3()A      )A,R E  I  E 13    ) T T E A P P I  13    S A B I F E T t A s t e O]

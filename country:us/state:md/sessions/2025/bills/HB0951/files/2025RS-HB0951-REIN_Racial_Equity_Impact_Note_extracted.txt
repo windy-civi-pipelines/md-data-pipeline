@@ -1,0 +1,452 @@
+Title: Bill Summary
+Official Title: Bill Summary
+Number of Sections: 16
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 Session
+HB0951
+School Systems - Reportable Offenses - Alterations
+This bill generally alters statutory provisions that govern procedures related to “reportable
+offenses.” Among other provisions, the bill (1) expands the offenses that qualify as reportable
+offenses and (2) requires that a law enforcement agency notify the State’s Attorney when a student
+is a suspect in an investigation of an act that, if committed by an adult, would be a felony or crime
+of violence, as specified.
+Racial Equity Impact Statement
+Black students are disproportionately arrested for reportable offenses and also disproportionately
+subjected to suspensions and expulsions as compared to their peers. The bill will likely increase
+the volume of reportable offenses by adding new offenses and requiring dual-program institutions
+of higher education to receive and report under the reportable offenses statute. This may exacerbate
+existing disparities evident in reportable offense data reporting, but it is unclear whether increased
+reporting will result in increased disparities in school discipline. The bill also requires that law
+enforcement officers notify the State’s Attorney of a student who is a suspect in a specified violent
+crime, potentially resulting in a notification to school officials at the State’s Attorney’s discretion.
+While this requirement would benefit the overall public safety of students, the equity impacts in
+these cases would depend heavily on how the bill is implemented. More data regarding the offenses
+added to the bill, the number of suspects triggering the bill’s requirements, the length of any school
+program disruption as a result of a report, and the portion of students eventually arrested for the
+reported offense would be required to measure the actual impacts.
+HB 951/ Page 1
+Analysis
+Generally, the bill makes changes to the educational institutions covered by the reporting
+requirements, adds to the offenses for which an arrest triggers notifications, and expands reporting
+to include suspected offenders in specified violent crimes.
+Under the bill, a “school system” means (1) the schools and school programs under the supervision
+of a local superintendent and (2) the institution of higher education or higher education program
+in which a student is enrolled as part of a dual enrollment program.
+The following offenses are added to the list of reportable offenses in current law:
+ sexual offense in the fourth degree;
+ child pornography, if the victim does not have knowledge of or does not consent to the
+production or the distribution of the child pornography;
+ visual surveillance with prurient intent;
+ making a threat of mass violence;
+ stalking;
+ distributing revenge porn; and
+ any other act that if committed by an adult would be a felony.
+If a student is the suspect in an investigation of an act that if committed by an adult would be a
+felony or a crime of violence, the law enforcement agency conducting the investigation must notify
+the State’s Attorney within 24 hours of the student being identified as a suspect, as practicable.
+The State’s Attorney may notify the local superintendent within 24 hours of the notification, as
+practicable. If the law enforcement agency, after providing notice to the State’s Attorney,
+determines that the student is no longer a suspect, the law enforcement agency must notify the
+State’s Attorney that the student is no longer a suspect within 24 hours of making that
+determination. Similarly, if the State’s Attorney has notified the local superintendent of a student’s
+identification as a suspect, the State’s Attorney must notify the local superintendent that the student
+is no longer a suspect.
+If the State’s Attorney determines that school officials have not been notified of a student’s arrest
+for a reportable offense (as required under current law), the State’s Attorney may notify the school
+officials.
+Reportable Offenses
+Under existing law, a reportable offense is an offense that (1) occurred off school premises; (2) did
+not occur at an event sponsored by the school; and (3) includes a crime of violence, as specified in
+current law, and numerous other specified weapons, drug, assault, and theft related offenses. When
+a student is arrested for a reportable offense or an offense related to the student’s membership in a
+criminal organization, the law enforcement agency making the arrest must notify (1) the local
+superintendent; (2) the school principal; and (3) if appropriate, the school security officer. The law
+enforcement agency may also notify the State’s Attorney. In 2022, the General Assembly
+expressed concern about the purported misuse or overuse of school removals for students arrested
+HB 951/ Page 2
+for a reportable offense. Chapter 742 of 2022 cla rifies that a “reportable offense” as it relates to
+students in public or nonpublic schools is an offense that occurred off school premises and did not
+occur at an event sponsored by the school. The Act also requires that students accused of reportable
+offenses be disciplined according to existing State regulations and provides for additional due
+process accommodations by allowing a student accused of a reportable offense to have an attorney
+attend the conference between the student or parent and principal or county superintendent.
+Dual Enrollment Programs
+The bill broadens the definition of “school system” to include institutions and programs of higher
+education where a student is enrolled as part of a dual enrollment program. A “dually enrolled
+student” is a student enrolled in both (1) a secondary school in the State and (2) an institution of
+higher education in the State. The Maryland Longitudinal Data System Center (MLDS) defines
+“dual enrollment” as any program or opportunity that allows high school students to enroll in and
+take college courses. This includes programs in which students are enrolled in a dual enrollment
+course through a partnership agreement with their local school system and thereby receive both
+high school and college credit.
+According to MLDS, 23,514 students – approximately 8.25% of all high school students –
+participated in dual enrollment programs in Maryland during the 2022-2023 school year.
+Impacts of the Bill
+Maryland State Department of Education data shows that Black students are overrepresented in
+both school disciplinary activity as well as arrests for reportable offenses. Exhibit 1 shows
+out-of-school suspensions and expulsions by race and ethnicity for the 2022-2023 school year
+compared to each group’s share of the State’s public school enrollment during that year. Black
+students make up the largest share of out-of-school suspensions and expulsions at 58% despite
+making up only 33% of students.
+HB 951/ Page 3
+Exhibit 1
+Out-of-school Suspensions and Expulsions for Major Offenses
+Compared to School Enrollment
+2022-2023 School Year
+
+Section 2:
+5.2%
+
+Section 3:
+0.1%
+
+Section 4:
+13.3%
+
+Section 5:
+22.0%
+
+Section 6:
+0.0%
+
+Section 7:
+21.2% 6.7%
+
+Section 8:
+32.9%
+
+Section 9:
+57.9%
+
+Section 10:
+32.7%
+Suspensions and Expulsions School Enrollment
+Black White Asian Hispanic Two or More Races
+Source: Maryland Department of Education
+Exhibit 2 shows the racial and ethnic breakdowns for reportable offenses compared to each
+group’s share of public school enrollment during the 2022-2023 school year. Of the 986 reported
+incidents, 65% involved Black students, 18% were white, 9% were Hispanic, and 6% involved
+students of two or more races. Asian, American Indian or Alaskan Natives, and Native
+Hawaiian/Pacific Islanders accounted for less than 2% of the total.
+Exhibit 2
+Reportable Offenses and Public School Enrollment
+by Race and Ethnicity
+2022-2023 School Year
+
+Section 11:
+65.2%
+
+Section 12:
+32.9% 32.7%
+
+Section 13:
+22.0%
+
+Section 14:
+18.1%
+
+Section 15:
+9.1%
+
+Section 16:
+5.2% 6.3%
+White Black Hispanic Two or More Races
+Public School Enrollment Reportable Offenses
+Source: Maryland State Department of Education
+HB 951/ Page 4
+Local school boards are required to adopt regulati ons designed to maintain an atmosphere of order
+and discipline within schools necessary for effective learning. Current law requires that the
+primary purpose of any disciplinary measure be rehabilitative, restorative, and educational. State
+regulations limit the circumstances under which a student arrested for a reportable offense, which
+includes most violent crimes, can be removed from regular school programming to cases in which
+the student presents an imminent threat of serious harm to other students or staff.
+The bill’s changes to reportable offense notification requirements, covered educational
+institutions, and the offenses that must be reported all have the propensity to increase the overall
+number of reports under the reportable offense law. Black students would likely be affected to the
+greatest extent due to existing disparities in school discipline and arrests for reportable offenses.
+Requiring law enforcement to notify the State’s Attorney prior to an arrest for select students is
+likely to have the greatest impact on individual students since, in some cases, a student’s regular
+educational programming may be disrupted pending a possible arrest. However, it is unclear
+whether the increased reporting activity would exacerbate existing disparities in discipline for
+students arrested for reportable offenses because a school must follow the same disciplinary
+procedures as it does with all other students and removal from regular school programming is
+limited to those students that present an imminent danger.
+Conclusion
+The bill’s addition of offenses under the reportable offenses reporting law will likely increase the
+volume of reporting and amplify existing disparities in reportable offense data, particularly for
+Black students who already account for a disproportionate number of reportable offense arrests.
+Additional offense specific data is not readily available to determine the magnitude of this impact
+and the extent to which it results in negative disciplinary outcomes for Black students.
+The bill’s expansion of reportable offense reporting to dual-program institutions and additional
+notification requirements for students who are suspects in specified violent crimes will likely have
+a positive public safety impact since no current mechanism allows law enforcement to notify
+school officials of a juvenile attending their school that is a suspect, but who has not been officially
+charged. The bill’s overall impacts on racial equity will depend on the extent to which the
+discretionary aspects of the bill are carried out by law enforcement, the State’s Attorney, and
+school officials.
+Information Sources: Maryland State Department of Education; Maryland Longitudinal Data
+System Center; Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 03/07/2025
+HB 951/ Page 5
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 951/ Page 6
+[DELETED:  b g a s p t g p r t “]
+[DELETED:  t b m c t t e i c b t r I t l e a a p n t t S A A t t s i n l a s w 2 h o m t a m a n t S A I 2 t G A]
+[DELETED:  t M 2 s – a 8 o a h s s – s d a a w a a f r o E 1 stofs]
+[DELETED:  2 s t r a e b f r o c t e22 o t o m r A A I o A N a NsSkWeAnHcTeBkHcTtR]
+[DELETED:  d w s n f e l C l r t t b c t r o n r c e p m b d p a p a H i u a f r o b a s m f t s d T b o i o r e w d o t e t w t ]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]
+
+
+================================================================================
+
+Raw Text:
+2025 Session
+HB0951
+School Systems - Reportable Offenses - Alterations
+Bill Summary
+This bill generally alters statutory provisions that govern procedures related to “reportable
+offenses.” Among other provisions, the bill (1) expands the offenses that qualify as reportable
+offenses and (2) requires that a law enforcement agency notify the State’s Attorney when a student
+is a suspect in an investigation of an act that, if committed by an adult, would be a felony or crime
+of violence, as specified.
+Racial Equity Impact Statement
+Black students are disproportionately arrested for reportable offenses and also disproportionately
+subjected to suspensions and expulsions as compared to their peers. The bill will likely increase
+the volume of reportable offenses by adding new offenses and requiring dual-program institutions
+of higher education to receive and report under the reportable offenses statute. This may exacerbate
+existing disparities evident in reportable offense data reporting, but it is unclear whether increased
+reporting will result in increased disparities in school discipline. The bill also requires that law
+enforcement officers notify the State’s Attorney of a student who is a suspect in a specified violent
+crime, potentially resulting in a notification to school officials at the State’s Attorney’s discretion.
+While this requirement would benefit the overall public safety of students, the equity impacts in
+these cases would depend heavily on how the bill is implemented. More data regarding the offenses
+added to the bill, the number of suspects triggering the bill’s requirements, the length of any school
+program disruption as a result of a report, and the portion of students eventually arrested for the
+reported offense would be required to measure the actual impacts.
+HB 951/ Page 1
+
+Analysis
+Generally, the bill makes changes to the educational institutions covered by the reporting
+requirements, adds to the offenses for which an arrest triggers notifications, and expands reporting
+to include suspected offenders in specified violent crimes.
+Under the bill, a “school system” means (1) the schools and school programs under the supervision
+of a local superintendent and (2) the institution of higher education or higher education program
+in which a student is enrolled as part of a dual enrollment program.
+The following offenses are added to the list of reportable offenses in current law:
+ sexual offense in the fourth degree;
+ child pornography, if the victim does not have knowledge of or does not consent to the
+production or the distribution of the child pornography;
+ visual surveillance with prurient intent;
+ making a threat of mass violence;
+ stalking;
+ distributing revenge porn; and
+ any other act that if committed by an adult would be a felony.
+If a student is the suspect in an investigation of an act that if committed by an adult would be a
+felony or a crime of violence, the law enforcement agency conducting the investigation must notify
+the State’s Attorney within 24 hours of the student being identified as a suspect, as practicable.
+The State’s Attorney may notify the local superintendent within 24 hours of the notification, as
+practicable. If the law enforcement agency, after providing notice to the State’s Attorney,
+determines that the student is no longer a suspect, the law enforcement agency must notify the
+State’s Attorney that the student is no longer a suspect within 24 hours of making that
+determination. Similarly, if the State’s Attorney has notified the local superintendent of a student’s
+identification as a suspect, the State’s Attorney must notify the local superintendent that the student
+is no longer a suspect.
+If the State’s Attorney determines that school officials have not been notified of a student’s arrest
+for a reportable offense (as required under current law), the State’s Attorney may notify the school
+officials.
+Reportable Offenses
+Under existing law, a reportable offense is an offense that (1) occurred off school premises; (2) did
+not occur at an event sponsored by the school; and (3) includes a crime of violence, as specified in
+current law, and numerous other specified weapons, drug, assault, and theft related offenses. When
+a student is arrested for a reportable offense or an offense related to the student’s membership in a
+criminal organization, the law enforcement agency making the arrest must notify (1) the local
+superintendent; (2) the school principal; and (3) if appropriate, the school security officer. The law
+enforcement agency may also notify the State’s Attorney. In 2022, the General Assembly
+expressed concern about the purported misuse or overuse of school removals for students arrested
+HB 951/ Page 2
+
+for a reportable offense. Chapter 742 of 2022 cla rifies that a “reportable offense” as it relates to
+students in public or nonpublic schools is an offense that occurred off school premises and did not
+occur at an event sponsored by the school. The Act also requires that students accused of reportable
+offenses be disciplined according to existing State regulations and provides for additional due
+process accommodations by allowing a student accused of a reportable offense to have an attorney
+attend the conference between the student or parent and principal or county superintendent.
+Dual Enrollment Programs
+The bill broadens the definition of “school system” to include institutions and programs of higher
+education where a student is enrolled as part of a dual enrollment program. A “dually enrolled
+student” is a student enrolled in both (1) a secondary school in the State and (2) an institution of
+higher education in the State. The Maryland Longitudinal Data System Center (MLDS) defines
+“dual enrollment” as any program or opportunity that allows high school students to enroll in and
+take college courses. This includes programs in which students are enrolled in a dual enrollment
+course through a partnership agreement with their local school system and thereby receive both
+high school and college credit.
+According to MLDS, 23,514 students – approximately 8.25% of all high school students –
+participated in dual enrollment programs in Maryland during the 2022-2023 school year.
+Impacts of the Bill
+Maryland State Department of Education data shows that Black students are overrepresented in
+both school disciplinary activity as well as arrests for reportable offenses. Exhibit 1 shows
+out-of-school suspensions and expulsions by race and ethnicity for the 2022-2023 school year
+compared to each group’s share of the State’s public school enrollment during that year. Black
+students make up the largest share of out-of-school suspensions and expulsions at 58% despite
+making up only 33% of students.
+HB 951/ Page 3
+
+Exhibit 1
+Out-of-school Suspensions and Expulsions for Major Offenses
+Compared to School Enrollment
+2022-2023 School Year
+5.2%
+0.1%
+13.3%
+22.0%
+0.0%
+21.2% 6.7%
+32.9%
+57.9%
+32.7%
+Suspensions and Expulsions School Enrollment
+Black White Asian Hispanic Two or More Races
+Source: Maryland Department of Education
+Exhibit 2 shows the racial and ethnic breakdowns for reportable offenses compared to each
+group’s share of public school enrollment during the 2022-2023 school year. Of the 986 reported
+incidents, 65% involved Black students, 18% were white, 9% were Hispanic, and 6% involved
+students of two or more races. Asian, American Indian or Alaskan Natives, and Native
+Hawaiian/Pacific Islanders accounted for less than 2% of the total.
+Exhibit 2
+Reportable Offenses and Public School Enrollment
+by Race and Ethnicity
+2022-2023 School Year
+65.2%
+32.9% 32.7%
+22.0%
+18.1%
+9.1%
+5.2% 6.3%
+White Black Hispanic Two or More Races
+Public School Enrollment Reportable Offenses
+Source: Maryland State Department of Education
+HB 951/ Page 4
+
+Local school boards are required to adopt regulati ons designed to maintain an atmosphere of order
+and discipline within schools necessary for effective learning. Current law requires that the
+primary purpose of any disciplinary measure be rehabilitative, restorative, and educational. State
+regulations limit the circumstances under which a student arrested for a reportable offense, which
+includes most violent crimes, can be removed from regular school programming to cases in which
+the student presents an imminent threat of serious harm to other students or staff.
+The bill’s changes to reportable offense notification requirements, covered educational
+institutions, and the offenses that must be reported all have the propensity to increase the overall
+number of reports under the reportable offense law. Black students would likely be affected to the
+greatest extent due to existing disparities in school discipline and arrests for reportable offenses.
+Requiring law enforcement to notify the State’s Attorney prior to an arrest for select students is
+likely to have the greatest impact on individual students since, in some cases, a student’s regular
+educational programming may be disrupted pending a possible arrest. However, it is unclear
+whether the increased reporting activity would exacerbate existing disparities in discipline for
+students arrested for reportable offenses because a school must follow the same disciplinary
+procedures as it does with all other students and removal from regular school programming is
+limited to those students that present an imminent danger.
+Conclusion
+The bill’s addition of offenses under the reportable offenses reporting law will likely increase the
+volume of reporting and amplify existing disparities in reportable offense data, particularly for
+Black students who already account for a disproportionate number of reportable offense arrests.
+Additional offense specific data is not readily available to determine the magnitude of this impact
+and the extent to which it results in negative disciplinary outcomes for Black students.
+The bill’s expansion of reportable offense reporting to dual-program institutions and additional
+notification requirements for students who are suspects in specified violent crimes will likely have
+a positive public safety impact since no current mechanism allows law enforcement to notify
+school officials of a juvenile attending their school that is a suspect, but who has not been officially
+charged. The bill’s overall impacts on racial equity will depend on the extent to which the
+discretionary aspects of the bill are carried out by law enforcement, the State’s Attorney, and
+school officials.
+Information Sources: Maryland State Department of Education; Maryland Longitudinal Data
+System Center; Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 03/07/2025
+HB 951/ Page 5
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 951/ Page 6
+
+[DELETED:  b g a s p t g p r t “]
+[DELETED:  t b m c t t e i c b t r I t l e a a p n t t S A A t t s i n l a s w 2 h o m t a m a n t S A I 2 t G A]
+[DELETED:  t M 2 s – a 8 o a h s s – s d a a w a a f r o E 1 stofs]
+[DELETED:  2 s t r a e b f r o c t e22 o t o m r A A I o A N a NsSkWeAnHcTeBkHcTtR]
+[DELETED:  d w s n f e l C l r t t b c t r o n r c e p m b d p a p a H i u a f r o b a s m f t s d T b o i o r e w d o t e t w t ]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]

@@ -1,0 +1,589 @@
+Title: SENATE BILL 265
+Official Title: SENATE BILL 265
+Number of Sections: 1
+Source: versions - Third - Environment - Reservoir Augmentation Permit - Establishment
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+M3 5lr0293
+(PRE–FILED) CF HB 25
+By: Chair, Education, Energy, and the Environment Committee (By Request –
+Departmental – Environment)
+Requested: October 6, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 11, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Environment – Reservoir Augmentation Permit – Establishment
+3 FOR the purpose of establishing the Reservoir Augmentation Program in the Department
+4 of the Environment; requiring a person to obtain a permit from the Department to
+5 perform reservoir augmentation; providing for the issuance, modification, renewal,
+6 denial, or revocation of a reservoir augmentation permit under the Program;
+7 requiring certain revenues to be used for the operation and oversight of the Program;
+8 and generally relating to the establishment of the Reservoir Augmentation Program.
+9 BY repealing and reenacting, with amendments,
+10 Article – Environment
+11 Section 1–601(a)
+12 Annotated Code of Maryland
+13 (2013 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Article – Environment
+16 Section 9–301, 9–303.2(o), and 9–320(b)
+17 Annotated Code of Maryland
+18 (2014 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, without amendments,
+20 Article – Environment
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0265*
+2 SENATE BILL 265
+1 Section 9–303.2(b) and 9–320(a)
+2 Annotated Code of Maryland
+3 (2014 Replacement Volume and 2024 Supplement)
+4 BY adding to
+5 Article – Environment
+6 Section 9–303.4
+7 Annotated Code of Maryland
+8 (2014 Replacement Volume and 2024 Supplement)
+9 BY repealing and reenacting, without amendments,
+10 Article – Environment
+11 Section 9–320(a)
+12 Annotated Code of Maryland
+13 (2014 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Chapter 122 of the Acts of the General Assembly of 2023
+16 Section 3
+17 BY repealing and reenacting, with amendments,
+18 Chapter 123 of the Acts of the General Assembly of 2023
+19 Section 3
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Environment
+23 1–601.
+24 (a) Permits issued by the Department under the following sections shall be issued
+25 in accordance with this subtitle:
+26 (1) Air quality control permits to construct subject to § 2–404 of this article;
+27 (2) Permits to install, materially alter, or materially extend landfill
+28 systems, incinerators for public use, or rubble landfills subject to § 9–209 of this article;
+29 (3) Permits to discharge pollutants to waters of the State issued pursuant
+30 to § 9–323 of this article;
+31 (4) Permits to install, materially alter, or materially extend a structure
+32 used for storage or distribution of any type of sewage sludge issued, renewed, or amended
+33 pursuant to § 9–234.1 or § 9–238 of this article;
+SENATE BILL 265 3
+1 (5) Permits to own, operate, establish, or maintain a controlled hazardous
+2 substance facility issued pursuant to § 7–232 of this article;
+3 (6) Permits to own, operate, or maintain a hazardous material facility
+4 issued pursuant to § 7–103 of this article;
+5 (7) Permits to own, operate, establish, or maintain a low–level nuclear
+6 waste facility issued pursuant to § 7–233 of this article; [and]
+7 (8) Potable reuse permits issued in accordance with § 9–303.2 of this
+8 article; AND
+9 (9) PERMITS FOR RESERVOIR AUGMENTATION ISSUED IN
+10 ACCORDANCE WITH § 9–303.4 OF THIS ARTICLE.
+11 9–301.
+12 (a) In this subtitle the following words have the meanings indicated.
+13 (b) “Board” means the Water Science Advisory Board.
+14 (c) “CAFO” means a concentrated animal feeding operation, as defined in
+15 Department regulations.
+16 (d) “Discharge permit” means a permit issued by the Department for the
+17 discharge of any pollutant or combination of pollutants into the waters of this State.
+18 (E) “DRINKING WATER TREATMENT FACILITY” MEANS A FACILITY THAT IS
+19 USED TO TREAT WATER IN A PUBLIC WATER SYSTEM.
+20 [(e)] (F) “Person” includes the federal government, this State, any county,
+21 municipal corporation, or other political subdivision of this State, or any of their units.
+22 (G) “PUBLIC WATER SYSTEM” HAS THE MEANING STATED IN § 9–401 OF THIS
+23 TITLE.
+24 [(f)] (H) “Reclaimed water” means sewage that:
+25 (1) Has been treated to a high quality suitable for various reuses; and
+26 (2) Has a concentration of less than:
+27 (i) 3 fecal coliform colonies per 100 milliliters;
+28 (ii) 10 milligrams per liter of 5–day biological oxygen demand; and
+4 SENATE BILL 265
+1 (iii) 10 milligrams per liter of total suspended solids.
+2 (I) “RESERVOIR AUGMENTATION” MEANS THE PLANNED PLACEMENT OF
+3 RECLAIMED WATER INTO A SURFACE WATER RESERVOIR USED AS A SOURCE FOR A
+4 DRINKING WATER TREATMENT FACILITY.
+5 (J) “RESERVOIR AUGMENTATION PERMIT” MEANS A PERMIT ISSUED BY
+6 THE DEPARTMENT FOR RESERVOIR AUGMENTATION.
+7 [(g)] (K) “Sewage” means any human or animal excretion, domestic waste, or
+8 industrial waste.
+9 [(h)] (L) (1) “Sewerage system” means:
+10 (i) The channels used or intended to be used to collect and dispose
+11 of sewage; and
+12 (ii) Any structure and appurtenance used or intended to be used to
+13 collect or prepare sewage for discharge into the waters of this State.
+14 (2) “Sewerage system” includes any sewer of any size.
+15 (3) “Sewerage system” does not include the plumbing system inside any
+16 building served by the sewerage system.
+17 9–303.2.
+18 (b) There is an Indirect Potable Reuse Pilot Program in the Department.
+19 (o) (1) On or before December 31, 2024, the Department shall report to the
+20 Governor and, in accordance with § 2–1257 of the State Government Article, the General
+21 Assembly on:
+22 [(1)] (I) The status of the Pilot Program;
+23 [(2)] (II) Whether the Pilot Program should be extended or made
+24 permanent; and
+25 [(3)] (III) Any statutory or regulatory changes that the Department
+26 recommends to permanently authorize the regulated use of reclaimed water as a source for
+27 drinking water treatment facilities, if appropriate.
+28 (2) ON OR BEFORE DECEMBER 31, 2029, THE DEPARTMENT SHALL
+29 REPORT TO THE GOVERNOR AND, IN ACCORDANCE WITH § 2–1257 OF THE STATE
+30 GOVERNMENT ARTICLE, THE GENERAL ASSEMBLY ON THE IMPLEMENTATION OF
+31 THE PILOT PROGRAM.
+SENATE BILL 265 5
+1 9–303.4.
+2 (A) THERE IS A RESERVOIR AUGMENTATION PROGRAM IN THE
+3 DEPARTMENT.
+4 (B) EXCEPT AS PROVIDED IN THIS SECTION, A PERSON MAY NOT PERFORM
+5 RESERVOIR AUGMENTATION.
+6 (C) SUBJECT TO THE PROVISIONS OF THIS SECTION, THE DEPARTMENT
+7 MAY ISSUE, MODIFY, OR RENEW A RESERVOIR AUGMENTATION PERMIT IF THE
+8 DEPARTMENT FINDS THAT:
+9 (1) THE TREATMENT PROCESS WILL MEET OR SURPASS STANDARDS
+10 ESTABLISHED BY THE DEPARTMENT BEFORE WATER ENTERS THE RESERVOIR;
+11 (2) THE TREATMENT PROCESS WILL MEET OR SURPASS STANDARDS
+12 ESTABLISHED BY THE DEPARTMENT BEFORE WATER ENTERS THE DISTRIBUTION
+13 SYSTEM; AND
+14 (3) THE APPLICANT AGREES TO PROVIDE THE DEPARTMENT THE
+15 RIGHT OF ENTRY ON THE PERMIT SITE AT ANY REASONABLE TIME TO INSPECT OR
+16 INVESTIGATE FOR A VIOLATION OR POTENTIAL VIOLATION OF THE RESERVOIR
+17 AUGMENTATION PERMIT.
+18 (D) THE DEPARTMENT MAY INCLUDE IN A RESERVOIR AUGMENTATION
+19 PERMIT ANY TERM, CONDITION, OR REQUIREMENT THAT THE DEPARTMENT DEEMS
+20 APPROPRIATE TO PROTECT PUBLIC HEALTH OR THE ENVIRONMENT.
+21 (E) THE PROVISIONS OF TITLE 1, SUBTITLE 6 OF THIS ARTICLE SHALL
+22 GOVERN THE ISSUANCE OF POTABLE REUSE RESERVOIR AUGMENTATION PERMITS.
+23 (F) (1) A PERSON SHALL OBTAIN, ON WRITTEN APPLICATION TO THE
+24 DEPARTMENT, A PERMIT FROM THE DEPARTMENT TO PERFORM RESERVOIR
+25 AUGMENTATION.
+26 (2) AN APPLICATION FOR A RESERVOIR AUGMENTATION PERMIT
+27 SHALL INCLUDE:
+28 (I) A EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS
+29 SUBSECTION, A FEASIBILITY STUDY SHOWING THE PURPOSE AND THE NEED FOR
+30 THE RESERVOIR AUGMENTATION PROJECT, INCLUDING:
+6 SENATE BILL 265
+1 1. A DESCRIPTION AND TECHNICAL ANALYSIS OF THE
+2 RESERVOIR AUGMENTATION PROJECT AND ALTERNATIVE OPTIONS; AND
+3 2. THE COSTS ASSOCIATED WITH THE RESERVOIR
+4 AUGMENTATION PROJECT AND ALTERNATIVE OPTIONS; AND
+5 (II) ANY ADDITIONAL INFORMATION REQUESTED BY THE
+6 DEPARTMENT.
+7 (3) A FEASIBILITY STUDY IS NOT REQUIRED FOR A RESERVOIR
+8 AUGMENTATION PROJECT THAT WAS PREVIOUSLY APPROVED BY THE DEPARTMENT
+9 UNDER THE INDIRECT POTABLE REUSE PILOT PROGRAM.
+10 (G) THE DEPARTMENT MAY REFUSE TO ISSUE A RESERVOIR
+11 AUGMENTATION PERMIT IF:
+12 (1) THE APPLICANT FAILS TO PROVIDE ANY INFORMATION
+13 REQUESTED BY THE DEPARTMENT;
+14 (2) THE APPLICANT FAILS OR REFUSES TO ALLOW THE DEPARTMENT
+15 TO INSPECT THE PERMIT SITE;
+16 (3) THE SOURCE OF THE RECLAIMED WATER FAILS TO COMPLY WITH
+17 ANY STATE OR FEDERAL LAW, REGULATION, OR PERMIT;
+18 (4) THE DEPARTMENT FINDS THAT THE ISSUANCE OF THE
+19 RESERVOIR AUGMENTATION PERMIT WOULD VIOLATE ANY STATE OR FEDERAL LAW
+20 OR ANY REGULATION ADOPTED UNDER STATE OR FEDERAL LAW; OR
+21 (5) THE APPLICANT FAILS OR REFUSES TO PAY THE APPLICATION
+22 FEE ESTABLISHED UNDER SUBSECTION (J) OF THIS SECTION.
+23 (H) THE DEPARTMENT MAY NOT ISSUE A RESERVOIR AUGMENTATION
+24 PERMIT FOR A TERM LONGER THAN 5 YEARS.
+25 (I) THE DEPARTMENT MAY REVOKE A RESERVOIR AUGMENTATION PERMIT
+26 IF THE DEPARTMENT FINDS THAT:
+27 (1) THE APPLICATION INCLUDED FALSE OR INACCURATE
+28 INFORMATION;
+29 (2) CONDITIONS OR REQUIREMENTS OF THE RESERVOIR
+30 AUGMENTATION PERMIT HAVE BEEN OR ARE ABOUT TO BE VIOLATED;
+SENATE BILL 265 7
+1 (3) SUBSTANTIAL DEVIATION FROM PLANS, SPECIFICATIONS, OR
+2 REQUIREMENTS HAS OCCURRED OR IS ABOUT TO OCCUR;
+3 (4) THE DEPARTMENT IS REFUSED ENTRY TO ANY PREMISES FOR
+4 THE PURPOSE OF EVALUATING COMPLIANCE WITH THE RESERVOIR AUGMENTATION
+5 PERMIT;
+6 (5) A CHANGE IN CONDITIONS EXISTS THAT REQUIRES THE
+7 TEMPORARY OR PERMANENT REDUCTION OR ELIMINATION OF THE USE OF
+8 RECLAIMED WATER;
+9 (6) THERE IS NONCOMPLIANCE WITH A DISCHARGE PERMIT OR
+10 PRETREATMENT REGULATION ADOPTED BY THE DEPARTMENT THAT MAY AFFECT
+11 THE RECLAIMED WATER;
+12 (7) ANY REQUIREMENT ESTABLISHED UNDER THE FEDERAL SAFE
+13 DRINKING WATER ACT, SUBTITLE 4 OF THIS TITLE, OR TITLE 12 OF THIS ARTICLE
+14 HAS BEEN OR IS THREATENED TO BE VIOLATED; OR
+15 (8) THE RECLAIMED WATER MAY THREATEN PUBLIC HEALTH,
+16 SAFETY, COMFORT, OR THE ENVIRONMENT.
+17 (J) (1) THE DEPARTMENT SHALL ADOPT REGULATIONS THAT
+18 ESTABLISH:
+19 (I) THE STANDARDS FOR RESERVOIR AUGMENTATION; AND
+20 (II) THE APPLICATION, ISSUANCE, REVOCATION, AND
+21 MODIFICATION OF A RESERVOIR AUGMENTATION PERMIT.
+22 (2) THE REGULATIONS ADOPTED UNDER THIS SECTION SHALL SET A
+23 REASONABLE APPLICATION FEE IN AN AMOUNT DESIGNATED DESIGNED TO COVER
+24 THE COST OF ISSUING AND ADMINISTERING A RESERVOIR AUGMENTATION PERMIT
+25 UNDER THE PROGRAM.
+26 (K) ALL REVENUES COLLECTED BY THE DEPARTMENT UNDER THIS
+27 SECTION, INCLUDING APPLICATION FEES, PERMIT FEES, RENEWAL FEES, OR ANY
+28 ADMINISTRATIVE PENALTY, CIVIL PENALTY, OR ANY FINE IMPOSED BY A COURT FOR
+29 VIOLATIONS OF THIS SECTION, SHALL BE DISTRIBUTED TO A SPECIAL FUND, TO BE
+30 USED ONLY FOR THE OPERATION AND OVERSIGHT OF THE RESERVOIR
+31 AUGMENTATION PROGRAM.
+32 (L) ON OR BEFORE DECEMBER 31, 2035, AND EVERY 5 YEARS THEREAFTER,
+33 THE DEPARTMENT SHALL REPORT TO THE GOVERNOR AND, IN ACCORDANCE WITH
+8 SENATE BILL 265
+1 § 2–1257 OF THE STATE GOVERNMENT ARTICLE, THE GENERAL ASSEMBLY ON THE
+2 IMPLEMENTATION OF THE RESERVOIR AUGMENTATION PROGRAM.
+3 9–320.
+4 (a) There is a Maryland Clean Water Fund.
+5 (b) [The] EXCEPT AS PROVIDED IN § 9–303.4 OF THIS SUBTITLE, THE
+6 following payments shall be made into the Maryland Clean Water Fund:
+7 (1) All application fees, permit fees, renewal fees, and funds collected by
+8 the Department under this subtitle, including any civil or administrative penalty or any
+9 fine imposed by a court under the provisions of this subtitle;
+10 (2) Any civil penalty or any fine imposed by a court under the provisions of
+11 Title 5, Subtitle 5 of this article relating to water appropriation and use;
+12 (3) Any civil or administrative penalty or any fine imposed by a court under
+13 the provisions of Title 4, Subtitle 1 of this article;
+14 (4) Any fees or funds that the Department collects under Subtitle 2, Part
+15 III of this title and §§ 9–269 and 9–270 of this title and any civil or administrative penalty
+16 or fine imposed by a court under the provisions of Subtitle 2 of this title; and
+17 (5) Any fees or funds that the Department collects under Subtitle 24 of this
+18 title and any civil or administrative penalty or fine imposed by a court under the provisions
+19 of Subtitle 24 of this title.
+20 Chapter 122 of the Acts of 2023
+21 SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency
+22 measure, is necessary for the immediate preservation of the public health or safety, has
+23 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+24 each of the two Houses of the General Assembly, and shall take effect from the date it is
+25 enacted. [Section 1 of this Act] IT shall remain effective through June 30, [2028] 2030,
+26 and, at the end of June 30, [2028] 2030, [Section 1 of] this Act, with no further action
+27 required by the General Assembly, shall be abrogated and of no further force and effect.
+28 Chapter 123 of the Acts of 2023
+29 SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency
+30 measure, is necessary for the immediate preservation of the public health or safety, has
+31 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+32 each of the two Houses of the General Assembly, and shall take effect from the date it is
+33 enacted. [Section 1 of this Act] IT shall remain effective through June 30, [2028] 2030,
+SENATE BILL 265 9
+1 and, at the end of June 30, [2028] 2030, [Section 1 of] this Act, with no further action
+2 required by the General Assembly, shall be abrogated and of no further force and effect.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+4 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5 ( C C E E a t E C ( R – A E F o p d o r o a r a p u t P r a B  A  S  A  ( B  A  S  A  ( B  A]
+[DELETED:  S   S  A  ( B  A  S  A  ( B  A S  A  ( B  C  S B  C S  S T A 1  ( P i   ( A   ( P t i m a o m e l s   ( P t   ( P u p]
+[DELETED: S 3   ( P s   ( P t o o o m a h m f i   ( P t o o e o m a l n w ad   ( P r p i i a w § 9 o t ae    F R A I I   9 . 9  ( I  ( “  ( “ m a c a f o a d i D  ( “ p m a p i b t D f t d ) “DRY   () “ i t f g t S a c]( m ) “P”§9UM      () “](   ( H   ( H    ( 3    ( 1]
+[DELETED:  S     ( 1 ) “RE AN M P P O ) “RE A PT M A P I B E.  () “]( i  () ( “](    ( T o    ( A c   ( “   ( “ b 9  ( T  (  O G A   () T] (   () W t P P s b e o m] ( p   () A s o r c t t D] ( r d   )OD3,2, E    E OD     T,§27A,G RE  E S I RP  ]
+[DELETED: S 5 ) TRAH I A E U R I T. ) EXN  ) S,U T T P O T SN T E IE MY O R A R A P I T:    E;    EM    T A A T P T E T F A V O P V O T R ) TH E M I I A R AM N  E, ) TT1,SH P O I  U  O T A SNP   ) ( A P S ON O W A T T,T A P F T E T P R    A F A R A P   ) AE( X A P I P  O TN AF T  ]
+[DELETED:  S      D A T A O TS       C A W T RS    ) IN A I R B T. () F S I N R F A R E N O E I RPRPP   ) TH E M R T I A R    A F T P A I E;   T E    TW N ,,;   T E F T T I O T T TW ;    A F O R T P T A J ). ) TH E M N I A R A  . ) TH E E:    A I F O I    O R O T R]
+[DELETED: S 7   S, D F PS SS O   T E I R E T A P F   C I C E T R T O P R O E O T U O    I N W A D P O E   A R E U T F AWA,S4,T1 A CT U  E  I  D    T R W M T P HHY T ,. ) ( TH E S A R T   ) T;HN    ) T,,IH AN IE RN A   DT  R  ) AL R C B T E U TN S S S ,,Y Y N D  O F T O A O O T EP. R()OD3,2,5N E     R  E OD G]
+[DELETED:  S 27SGA,G  T O RE  E S E U RAP   9  ( T  ( Te]E§94X A P I   O T SE T f   ( A t f   ( A T   ( A t   ( A I o   ( A t o C  S m b e e St  28,]I[]2T a 28, Sf ]20[ r C  S m b e e St  28,]I[]2T]
+[DELETED: S 9 a 28, Sf ]20[ r  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 265
+M3 5lr0293
+(PRE–FILED) CF HB 25
+By: Chair, Education, Energy, and the Environment Committee (By Request –
+Departmental – Environment)
+Requested: October 6, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 11, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Environment – Reservoir Augmentation Permit – Establishment
+3 FOR the purpose of establishing the Reservoir Augmentation Program in the Department
+4 of the Environment; requiring a person to obtain a permit from the Department to
+5 perform reservoir augmentation; providing for the issuance, modification, renewal,
+6 denial, or revocation of a reservoir augmentation permit under the Program;
+7 requiring certain revenues to be used for the operation and oversight of the Program;
+8 and generally relating to the establishment of the Reservoir Augmentation Program.
+9 BY repealing and reenacting, with amendments,
+10 Article – Environment
+11 Section 1–601(a)
+12 Annotated Code of Maryland
+13 (2013 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Article – Environment
+16 Section 9–301, 9–303.2(o), and 9–320(b)
+17 Annotated Code of Maryland
+18 (2014 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, without amendments,
+20 Article – Environment
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0265*
+
+2 SENATE BILL 265
+1 Section 9–303.2(b) and 9–320(a)
+2 Annotated Code of Maryland
+3 (2014 Replacement Volume and 2024 Supplement)
+4 BY adding to
+5 Article – Environment
+6 Section 9–303.4
+7 Annotated Code of Maryland
+8 (2014 Replacement Volume and 2024 Supplement)
+9 BY repealing and reenacting, without amendments,
+10 Article – Environment
+11 Section 9–320(a)
+12 Annotated Code of Maryland
+13 (2014 Replacement Volume and 2024 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Chapter 122 of the Acts of the General Assembly of 2023
+16 Section 3
+17 BY repealing and reenacting, with amendments,
+18 Chapter 123 of the Acts of the General Assembly of 2023
+19 Section 3
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Environment
+23 1–601.
+24 (a) Permits issued by the Department under the following sections shall be issued
+25 in accordance with this subtitle:
+26 (1) Air quality control permits to construct subject to § 2–404 of this article;
+27 (2) Permits to install, materially alter, or materially extend landfill
+28 systems, incinerators for public use, or rubble landfills subject to § 9–209 of this article;
+29 (3) Permits to discharge pollutants to waters of the State issued pursuant
+30 to § 9–323 of this article;
+31 (4) Permits to install, materially alter, or materially extend a structure
+32 used for storage or distribution of any type of sewage sludge issued, renewed, or amended
+33 pursuant to § 9–234.1 or § 9–238 of this article;
+
+SENATE BILL 265 3
+1 (5) Permits to own, operate, establish, or maintain a controlled hazardous
+2 substance facility issued pursuant to § 7–232 of this article;
+3 (6) Permits to own, operate, or maintain a hazardous material facility
+4 issued pursuant to § 7–103 of this article;
+5 (7) Permits to own, operate, establish, or maintain a low–level nuclear
+6 waste facility issued pursuant to § 7–233 of this article; [and]
+7 (8) Potable reuse permits issued in accordance with § 9–303.2 of this
+8 article; AND
+9 (9) PERMITS FOR RESERVOIR AUGMENTATION ISSUED IN
+10 ACCORDANCE WITH § 9–303.4 OF THIS ARTICLE.
+11 9–301.
+12 (a) In this subtitle the following words have the meanings indicated.
+13 (b) “Board” means the Water Science Advisory Board.
+14 (c) “CAFO” means a concentrated animal feeding operation, as defined in
+15 Department regulations.
+16 (d) “Discharge permit” means a permit issued by the Department for the
+17 discharge of any pollutant or combination of pollutants into the waters of this State.
+18 (E) “DRINKING WATER TREATMENT FACILITY” MEANS A FACILITY THAT IS
+19 USED TO TREAT WATER IN A PUBLIC WATER SYSTEM.
+20 [(e)] (F) “Person” includes the federal government, this State, any county,
+21 municipal corporation, or other political subdivision of this State, or any of their units.
+22 (G) “PUBLIC WATER SYSTEM” HAS THE MEANING STATED IN § 9–401 OF THIS
+23 TITLE.
+24 [(f)] (H) “Reclaimed water” means sewage that:
+25 (1) Has been treated to a high quality suitable for various reuses; and
+26 (2) Has a concentration of less than:
+27 (i) 3 fecal coliform colonies per 100 milliliters;
+28 (ii) 10 milligrams per liter of 5–day biological oxygen demand; and
+
+4 SENATE BILL 265
+1 (iii) 10 milligrams per liter of total suspended solids.
+2 (I) “RESERVOIR AUGMENTATION” MEANS THE PLANNED PLACEMENT OF
+3 RECLAIMED WATER INTO A SURFACE WATER RESERVOIR USED AS A SOURCE FOR A
+4 DRINKING WATER TREATMENT FACILITY.
+5 (J) “RESERVOIR AUGMENTATION PERMIT” MEANS A PERMIT ISSUED BY
+6 THE DEPARTMENT FOR RESERVOIR AUGMENTATION.
+7 [(g)] (K) “Sewage” means any human or animal excretion, domestic waste, or
+8 industrial waste.
+9 [(h)] (L) (1) “Sewerage system” means:
+10 (i) The channels used or intended to be used to collect and dispose
+11 of sewage; and
+12 (ii) Any structure and appurtenance used or intended to be used to
+13 collect or prepare sewage for discharge into the waters of this State.
+14 (2) “Sewerage system” includes any sewer of any size.
+15 (3) “Sewerage system” does not include the plumbing system inside any
+16 building served by the sewerage system.
+17 9–303.2.
+18 (b) There is an Indirect Potable Reuse Pilot Program in the Department.
+19 (o) (1) On or before December 31, 2024, the Department shall report to the
+20 Governor and, in accordance with § 2–1257 of the State Government Article, the General
+21 Assembly on:
+22 [(1)] (I) The status of the Pilot Program;
+23 [(2)] (II) Whether the Pilot Program should be extended or made
+24 permanent; and
+25 [(3)] (III) Any statutory or regulatory changes that the Department
+26 recommends to permanently authorize the regulated use of reclaimed water as a source for
+27 drinking water treatment facilities, if appropriate.
+28 (2) ON OR BEFORE DECEMBER 31, 2029, THE DEPARTMENT SHALL
+29 REPORT TO THE GOVERNOR AND, IN ACCORDANCE WITH § 2–1257 OF THE STATE
+30 GOVERNMENT ARTICLE, THE GENERAL ASSEMBLY ON THE IMPLEMENTATION OF
+31 THE PILOT PROGRAM.
+
+SENATE BILL 265 5
+1 9–303.4.
+2 (A) THERE IS A RESERVOIR AUGMENTATION PROGRAM IN THE
+3 DEPARTMENT.
+4 (B) EXCEPT AS PROVIDED IN THIS SECTION, A PERSON MAY NOT PERFORM
+5 RESERVOIR AUGMENTATION.
+6 (C) SUBJECT TO THE PROVISIONS OF THIS SECTION, THE DEPARTMENT
+7 MAY ISSUE, MODIFY, OR RENEW A RESERVOIR AUGMENTATION PERMIT IF THE
+8 DEPARTMENT FINDS THAT:
+9 (1) THE TREATMENT PROCESS WILL MEET OR SURPASS STANDARDS
+10 ESTABLISHED BY THE DEPARTMENT BEFORE WATER ENTERS THE RESERVOIR;
+11 (2) THE TREATMENT PROCESS WILL MEET OR SURPASS STANDARDS
+12 ESTABLISHED BY THE DEPARTMENT BEFORE WATER ENTERS THE DISTRIBUTION
+13 SYSTEM; AND
+14 (3) THE APPLICANT AGREES TO PROVIDE THE DEPARTMENT THE
+15 RIGHT OF ENTRY ON THE PERMIT SITE AT ANY REASONABLE TIME TO INSPECT OR
+16 INVESTIGATE FOR A VIOLATION OR POTENTIAL VIOLATION OF THE RESERVOIR
+17 AUGMENTATION PERMIT.
+18 (D) THE DEPARTMENT MAY INCLUDE IN A RESERVOIR AUGMENTATION
+19 PERMIT ANY TERM, CONDITION, OR REQUIREMENT THAT THE DEPARTMENT DEEMS
+20 APPROPRIATE TO PROTECT PUBLIC HEALTH OR THE ENVIRONMENT.
+21 (E) THE PROVISIONS OF TITLE 1, SUBTITLE 6 OF THIS ARTICLE SHALL
+22 GOVERN THE ISSUANCE OF POTABLE REUSE RESERVOIR AUGMENTATION PERMITS.
+23 (F) (1) A PERSON SHALL OBTAIN, ON WRITTEN APPLICATION TO THE
+24 DEPARTMENT, A PERMIT FROM THE DEPARTMENT TO PERFORM RESERVOIR
+25 AUGMENTATION.
+26 (2) AN APPLICATION FOR A RESERVOIR AUGMENTATION PERMIT
+27 SHALL INCLUDE:
+28 (I) A EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS
+29 SUBSECTION, A FEASIBILITY STUDY SHOWING THE PURPOSE AND THE NEED FOR
+30 THE RESERVOIR AUGMENTATION PROJECT, INCLUDING:
+
+6 SENATE BILL 265
+1 1. A DESCRIPTION AND TECHNICAL ANALYSIS OF THE
+2 RESERVOIR AUGMENTATION PROJECT AND ALTERNATIVE OPTIONS; AND
+3 2. THE COSTS ASSOCIATED WITH THE RESERVOIR
+4 AUGMENTATION PROJECT AND ALTERNATIVE OPTIONS; AND
+5 (II) ANY ADDITIONAL INFORMATION REQUESTED BY THE
+6 DEPARTMENT.
+7 (3) A FEASIBILITY STUDY IS NOT REQUIRED FOR A RESERVOIR
+8 AUGMENTATION PROJECT THAT WAS PREVIOUSLY APPROVED BY THE DEPARTMENT
+9 UNDER THE INDIRECT POTABLE REUSE PILOT PROGRAM.
+10 (G) THE DEPARTMENT MAY REFUSE TO ISSUE A RESERVOIR
+11 AUGMENTATION PERMIT IF:
+12 (1) THE APPLICANT FAILS TO PROVIDE ANY INFORMATION
+13 REQUESTED BY THE DEPARTMENT;
+14 (2) THE APPLICANT FAILS OR REFUSES TO ALLOW THE DEPARTMENT
+15 TO INSPECT THE PERMIT SITE;
+16 (3) THE SOURCE OF THE RECLAIMED WATER FAILS TO COMPLY WITH
+17 ANY STATE OR FEDERAL LAW, REGULATION, OR PERMIT;
+18 (4) THE DEPARTMENT FINDS THAT THE ISSUANCE OF THE
+19 RESERVOIR AUGMENTATION PERMIT WOULD VIOLATE ANY STATE OR FEDERAL LAW
+20 OR ANY REGULATION ADOPTED UNDER STATE OR FEDERAL LAW; OR
+21 (5) THE APPLICANT FAILS OR REFUSES TO PAY THE APPLICATION
+22 FEE ESTABLISHED UNDER SUBSECTION (J) OF THIS SECTION.
+23 (H) THE DEPARTMENT MAY NOT ISSUE A RESERVOIR AUGMENTATION
+24 PERMIT FOR A TERM LONGER THAN 5 YEARS.
+25 (I) THE DEPARTMENT MAY REVOKE A RESERVOIR AUGMENTATION PERMIT
+26 IF THE DEPARTMENT FINDS THAT:
+27 (1) THE APPLICATION INCLUDED FALSE OR INACCURATE
+28 INFORMATION;
+29 (2) CONDITIONS OR REQUIREMENTS OF THE RESERVOIR
+30 AUGMENTATION PERMIT HAVE BEEN OR ARE ABOUT TO BE VIOLATED;
+
+SENATE BILL 265 7
+1 (3) SUBSTANTIAL DEVIATION FROM PLANS, SPECIFICATIONS, OR
+2 REQUIREMENTS HAS OCCURRED OR IS ABOUT TO OCCUR;
+3 (4) THE DEPARTMENT IS REFUSED ENTRY TO ANY PREMISES FOR
+4 THE PURPOSE OF EVALUATING COMPLIANCE WITH THE RESERVOIR AUGMENTATION
+5 PERMIT;
+6 (5) A CHANGE IN CONDITIONS EXISTS THAT REQUIRES THE
+7 TEMPORARY OR PERMANENT REDUCTION OR ELIMINATION OF THE USE OF
+8 RECLAIMED WATER;
+9 (6) THERE IS NONCOMPLIANCE WITH A DISCHARGE PERMIT OR
+10 PRETREATMENT REGULATION ADOPTED BY THE DEPARTMENT THAT MAY AFFECT
+11 THE RECLAIMED WATER;
+12 (7) ANY REQUIREMENT ESTABLISHED UNDER THE FEDERAL SAFE
+13 DRINKING WATER ACT, SUBTITLE 4 OF THIS TITLE, OR TITLE 12 OF THIS ARTICLE
+14 HAS BEEN OR IS THREATENED TO BE VIOLATED; OR
+15 (8) THE RECLAIMED WATER MAY THREATEN PUBLIC HEALTH,
+16 SAFETY, COMFORT, OR THE ENVIRONMENT.
+17 (J) (1) THE DEPARTMENT SHALL ADOPT REGULATIONS THAT
+18 ESTABLISH:
+19 (I) THE STANDARDS FOR RESERVOIR AUGMENTATION; AND
+20 (II) THE APPLICATION, ISSUANCE, REVOCATION, AND
+21 MODIFICATION OF A RESERVOIR AUGMENTATION PERMIT.
+22 (2) THE REGULATIONS ADOPTED UNDER THIS SECTION SHALL SET A
+23 REASONABLE APPLICATION FEE IN AN AMOUNT DESIGNATED DESIGNED TO COVER
+24 THE COST OF ISSUING AND ADMINISTERING A RESERVOIR AUGMENTATION PERMIT
+25 UNDER THE PROGRAM.
+26 (K) ALL REVENUES COLLECTED BY THE DEPARTMENT UNDER THIS
+27 SECTION, INCLUDING APPLICATION FEES, PERMIT FEES, RENEWAL FEES, OR ANY
+28 ADMINISTRATIVE PENALTY, CIVIL PENALTY, OR ANY FINE IMPOSED BY A COURT FOR
+29 VIOLATIONS OF THIS SECTION, SHALL BE DISTRIBUTED TO A SPECIAL FUND, TO BE
+30 USED ONLY FOR THE OPERATION AND OVERSIGHT OF THE RESERVOIR
+31 AUGMENTATION PROGRAM.
+32 (L) ON OR BEFORE DECEMBER 31, 2035, AND EVERY 5 YEARS THEREAFTER,
+33 THE DEPARTMENT SHALL REPORT TO THE GOVERNOR AND, IN ACCORDANCE WITH
+
+8 SENATE BILL 265
+1 § 2–1257 OF THE STATE GOVERNMENT ARTICLE, THE GENERAL ASSEMBLY ON THE
+2 IMPLEMENTATION OF THE RESERVOIR AUGMENTATION PROGRAM.
+3 9–320.
+4 (a) There is a Maryland Clean Water Fund.
+5 (b) [The] EXCEPT AS PROVIDED IN § 9–303.4 OF THIS SUBTITLE, THE
+6 following payments shall be made into the Maryland Clean Water Fund:
+7 (1) All application fees, permit fees, renewal fees, and funds collected by
+8 the Department under this subtitle, including any civil or administrative penalty or any
+9 fine imposed by a court under the provisions of this subtitle;
+10 (2) Any civil penalty or any fine imposed by a court under the provisions of
+11 Title 5, Subtitle 5 of this article relating to water appropriation and use;
+12 (3) Any civil or administrative penalty or any fine imposed by a court under
+13 the provisions of Title 4, Subtitle 1 of this article;
+14 (4) Any fees or funds that the Department collects under Subtitle 2, Part
+15 III of this title and §§ 9–269 and 9–270 of this title and any civil or administrative penalty
+16 or fine imposed by a court under the provisions of Subtitle 2 of this title; and
+17 (5) Any fees or funds that the Department collects under Subtitle 24 of this
+18 title and any civil or administrative penalty or fine imposed by a court under the provisions
+19 of Subtitle 24 of this title.
+20 Chapter 122 of the Acts of 2023
+21 SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency
+22 measure, is necessary for the immediate preservation of the public health or safety, has
+23 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+24 each of the two Houses of the General Assembly, and shall take effect from the date it is
+25 enacted. [Section 1 of this Act] IT shall remain effective through June 30, [2028] 2030,
+26 and, at the end of June 30, [2028] 2030, [Section 1 of] this Act, with no further action
+27 required by the General Assembly, shall be abrogated and of no further force and effect.
+28 Chapter 123 of the Acts of 2023
+29 SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency
+30 measure, is necessary for the immediate preservation of the public health or safety, has
+31 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+32 each of the two Houses of the General Assembly, and shall take effect from the date it is
+33 enacted. [Section 1 of this Act] IT shall remain effective through June 30, [2028] 2030,
+
+SENATE BILL 265 9
+1 and, at the end of June 30, [2028] 2030, [Section 1 of] this Act, with no further action
+2 required by the General Assembly, shall be abrogated and of no further force and effect.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+4 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5 ( C C E E a t E C ( R – A E F o p d o r o a r a p u t P r a B  A  S  A  ( B  A  S  A  ( B  A]
+[DELETED:  S   S  A  ( B  A  S  A  ( B  A S  A  ( B  C  S B  C S  S T A 1  ( P i   ( A   ( P t i m a o m e l s   ( P t   ( P u p]
+[DELETED: S 3   ( P s   ( P t o o o m a h m f i   ( P t o o e o m a l n w ad   ( P r p i i a w § 9 o t ae    F R A I I   9 . 9  ( I  ( “  ( “ m a c a f o a d i D  ( “ p m a p i b t D f t d ) “DRY   () “ i t f g t S a c]( m ) “P”§9UM      () “](   ( H   ( H    ( 3    ( 1]
+[DELETED:  S     ( 1 ) “RE AN M P P O ) “RE A PT M A P I B E.  () “]( i  () ( “](    ( T o    ( A c   ( “   ( “ b 9  ( T  (  O G A   () T] (   () W t P P s b e o m] ( p   () A s o r c t t D] ( r d   )OD3,2, E    E OD     T,§27A,G RE  E S I RP  ]
+[DELETED: S 5 ) TRAH I A E U R I T. ) EXN  ) S,U T T P O T SN T E IE MY O R A R A P I T:    E;    EM    T A A T P T E T F A V O P V O T R ) TH E M I I A R AM N  E, ) TT1,SH P O I  U  O T A SNP   ) ( A P S ON O W A T T,T A P F T E T P R    A F A R A P   ) AE( X A P I P  O TN AF T  ]
+[DELETED:  S      D A T A O TS       C A W T RS    ) IN A I R B T. () F S I N R F A R E N O E I RPRPP   ) TH E M R T I A R    A F T P A I E;   T E    TW N ,,;   T E F T T I O T T TW ;    A F O R T P T A J ). ) TH E M N I A R A  . ) TH E E:    A I F O I    O R O T R]
+[DELETED: S 7   S, D F PS SS O   T E I R E T A P F   C I C E T R T O P R O E O T U O    I N W A D P O E   A R E U T F AWA,S4,T1 A CT U  E  I  D    T R W M T P HHY T ,. ) ( TH E S A R T   ) T;HN    ) T,,IH AN IE RN A   DT  R  ) AL R C B T E U TN S S S ,,Y Y N D  O F T O A O O T EP. R()OD3,2,5N E     R  E OD G]
+[DELETED:  S 27SGA,G  T O RE  E S E U RAP   9  ( T  ( Te]E§94X A P I   O T SE T f   ( A t f   ( A T   ( A t   ( A I o   ( A t o C  S m b e e St  28,]I[]2T a 28, Sf ]20[ r C  S m b e e St  28,]I[]2T]
+[DELETED: S 9 a 28, Sf ]20[ r  S 1          G               ]

@@ -1,0 +1,1564 @@
+Title: HOUSE BILL 1557
+Official Title: HOUSE BILL 1557
+Number of Sections: 1
+Source: versions - First - Program to Protect Individuals Unemployed or Furloughed Due to Federal Actions - Establishment
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+N1, I2, I1 EMERGENCY BILL 5lr3637
+By: Delegate Feldmark
+Rules suspended
+Introduced and read first time: March 11, 2025
+Assigned to: Rules and Executive Nominations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Program to Protect Individuals Unemployed or Furloughed Due to Federal
+3 Actions – Establishment
+4 FOR the purpose of establishing the Program to Protect Individuals Unemployed or
+5 Furloughed Due to Federal Actions; requiring the Maryland Department of Labor to
+6 administer the Program; establishing certain consumer protections relating to debt
+7 collection, consumer credit reporting, loan payments, payments for certain utility
+8 services, foreclosure and failure to pay rent actions, and tax sales of certain dwellings
+9 for individuals who are unemployed or furloughed as a result of certain federal
+10 actions; applying certain provisions of this Act retroactively; and generally relating
+11 to the Program to Protect Individuals Unemployed or Furloughed Due to Federal
+12 Actions.
+13 BY repealing and reenacting, without amendments,
+14 Article – Commercial Law
+15 Section 14–201, 14–1212.1(b)(2)(i) and (ii) and (c)(5), and 14–1225
+16 Annotated Code of Maryland
+17 (2013 Replacement Volume and 2024 Supplement)
+18 BY adding to
+19 Article – Commercial Law
+20 Section 14–202.1 and 14–1212.4
+21 Annotated Code of Maryland
+22 (2013 Replacement Volume and 2024 Supplement)
+23 BY repealing and reenacting, with amendments,
+24 Article – Commercial Law
+25 Section 14–1203
+26 Annotated Code of Maryland
+27 (2013 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1557*
+2 HOUSE BILL 1557
+1 BY repealing and reenacting, without amendments,
+2 Article – Financial Institutions
+3 Section 1–101(a), (d), (i), (j), and (n), 8–101(a) and (i), 11–501(a), (c), (k), (l), and (n),
+4 and 11–601(a) and (q)
+5 Annotated Code of Maryland
+6 (2020 Replacement Volume and 2024 Supplement)
+7 BY adding to
+8 Article – Financial Institutions
+9 Section 5–514, 6–606.1, 9–409, 11–501(b–1), 11–522, and 11–605.1
+10 Annotated Code of Maryland
+11 (2020 Replacement Volume and 2024 Supplement)
+12 BY repealing and reenacting, without amendments,
+13 Article – Public Utilities
+14 Section 1–101(a), (d), and (z)
+15 Annotated Code of Maryland
+16 (2020 Replacement Volume and 2024 Supplement)
+17 BY adding to
+18 Article – Public Utilities
+19 Section 7–307.5
+20 Annotated Code of Maryland
+21 (2020 Replacement Volume and 2024 Supplement)
+22 BY repealing and reenacting, without amendments,
+23 Article – Real Property
+24 Section 7–105.1(a)(1) and (8), (b–1), (q), and (s) and 8–401(a) and (d)
+25 Annotated Code of Maryland
+26 (2023 Replacement Volume and 2024 Supplement)
+27 BY repealing and reenacting, with amendments,
+28 Article – Real Property
+29 Section 7–105.1(a)(12)
+30 Annotated Code of Maryland
+31 (2023 Replacement Volume and 2024 Supplement)
+32 BY adding to
+33 Article – Real Property
+34 Section 7–105.1(a)(12) and (13) and (b–2), 8–121, and 8–401(d–1)
+35 Annotated Code of Maryland
+36 (2023 Replacement Volume and 2024 Supplement)
+37 BY adding to
+38 Article – State Government
+HOUSE BILL 1557 3
+1 Section 9–4101 through 9–4105 to be under the new subtitle “Subtitle 41. Program
+2 to Protect Individuals Unemployed or Furloughed Due to Federal Actions”
+3 Annotated Code of Maryland
+4 (2021 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, without amendments,
+6 Article – Tax – Property
+7 Section 1–101(a) and (e)
+8 Annotated Code of Maryland
+9 (2019 Replacement Volume and 2024 Supplement)
+10 BY adding to
+11 Article – Tax – Property
+12 Section 14–811(j)
+13 Annotated Code of Maryland
+14 (2019 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Commercial Law
+18 14–201.
+19 (a) In this subtitle the following words have the meanings indicated.
+20 (b) “Collector” means a person collecting or attempting to collect an alleged debt
+21 arising out of a consumer transaction.
+22 (c) “Consumer transaction” means any transaction involving a person seeking or
+23 acquiring real or personal property, services, money, or credit for personal, family, or
+24 household purposes.
+25 (d) “Person” includes an individual, corporation, business trust, statutory trust,
+26 estate, trust, partnership, association, two or more persons having a joint or common
+27 interest, or any other legal or commercial entity.
+28 14–202.1.
+29 (A) (1) IN THIS SECTION THE FOLLOWING TERMS HAVE THE MEANINGS
+30 INDICATED.
+31 (2) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+32 OF THE STATE GOVERNMENT ARTICLE.
+4 HOUSE BILL 1557
+1 (3) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+2 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+3 (B) THIS SECTION APPLIES ONLY TO A QUALIFIED INDIVIDUAL WHO
+4 SUBMITS TO A COLLECTOR:
+5 (1) VERIFICATION THAT THE CONSUMER IS A QUALIFIED
+6 INDIVIDUAL; AND
+7 (2) A QUALIFIED PAYMENT PLAN.
+8 (C) A COLLECTOR:
+9 (1) SHALL ACCEPT PARTIAL PAYMENTS FOR AN ALLEGED DEBT FROM
+10 A QUALIFIED INDIVIDUAL; AND
+11 (2) MAY NOT:
+12 (I) IMPOSE A LATE FEE OR PENALTY ON AN ALLEGED DEBT
+13 OWED BY A QUALIFIED INDIVIDUAL; OR
+14 (II) REPOSSESS PROPERTY FROM A QUALIFIED INDIVIDUAL.
+15 14–1203.
+16 (a) Except as authorized under subsection (b) of this section, no consumer
+17 reporting agency may make any consumer report containing any of the following items of
+18 information:
+19 (1) Bankruptcies which, from date of adjudication of the most recent
+20 bankruptcy, antedate the report by more than 10 years;
+21 (2) Suits and judgments which, from date of entry, antedate the report by
+22 more than seven years or until the governing statute of limitations has expired, whichever
+23 is the longer period;
+24 (3) Paid tax liens which, from date of payment, antedate the report by more
+25 than seven years;
+26 (4) Accounts placed for collection or charged to profit and loss which
+27 antedate the report by more than seven years;
+28 (5) Records of arrest, indictment, or conviction of crime which, from date of
+29 disposition, release, or parole, antedate the report by more than seven years; or
+HOUSE BILL 1557 5
+1 (6) Any other adverse item of information which antedates the report by
+2 more than seven years.
+3 (b) The provisions of subsection (a) of this section are not applicable in the case of
+4 any consumer credit report to be used in connection with:
+5 (1) A credit transaction involving, or which may reasonably be expected to
+6 involve, a principal amount of $150,000 or more;
+7 (2) The underwriting of life insurance involving, or which may reasonably
+8 be expected to involve, a face amount of $150,000 or more; or
+9 (3) The employment of any individual at an annual salary which equals, or
+10 which may reasonably be expected to equal, $75,000 or more.
+11 (C) NO CONSUMER REPORTING AGENCY MAY MAKE ANY CONSUMER
+12 REPORT CONTAINING ADVERSE CREDIT INFORMATION FOR A CONSUMER WHILE THE
+13 CONSUMER IS A QUALIFIED INDIVIDUAL, AS DEFINED IN § 9–4101 OF THE STATE
+14 GOVERNMENT ARTICLE.
+15 14–1212.1.
+16 (b) (2) This section does not apply to:
+17 (i) A check services or fraud prevention services company that
+18 issues:
+19 1. Reports on incidents of fraud; or
+20 2. Authorizations for the purpose of approving or processing
+21 negotiable instruments, electronic funds transfers, or similar payment methods;
+22 (ii) A deposit account information service company that issues
+23 reports regarding account closures due to fraud, substantial overdrafts, automated teller
+24 machine abuse, or similar negative information regarding a consumer to inquiring banks
+25 or other financial institutions for use only in reviewing a consumer request for a deposit
+26 account at the inquiring bank or financial institution; or
+27 (c) (5) (i) Subject to subparagraph (ii) of this paragraph, a consumer
+28 reporting agency is not required to place a security freeze on a consumer report if the
+29 consumer reporting agency:
+30 1. Acts only as a reseller of credit information by assembling
+31 and merging information contained in a database of another consumer reporting agency or
+32 multiple consumer reporting agencies; and
+6 HOUSE BILL 1557
+1 2. Does not maintain a permanent database of credit
+2 information from which new consumer reports are produced.
+3 (ii) A consumer reporting agency that acts as a reseller of credit
+4 information shall honor a security freeze placed on a consumer report by another consumer
+5 reporting agency.
+6 14–1212.4.
+7 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+8 INDICATED.
+9 (2) “ADVERSE INFORMATION FREEZE” MEANS A RESTRICTION
+10 PLACED ON A QUALIFIED INDIVIDUAL’S RECORD IN ACCORDANCE WITH THIS
+11 SECTION THAT PROHIBITS THE CONSUMER REPORTING AGENCY FROM ADDING
+12 ADVERSE INFORMATION TO A QUALIFIED INDIVIDUAL’S CONSUMER REPORT.
+13 (3) “DEPARTMENT” MEANS THE MARYLAND DEPARTMENT OF
+14 LABOR.
+15 (4) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+16 OF THE STATE GOVERNMENT ARTICLE.
+17 (5) “RECORD” MEANS A COMPILATION OF INFORMATION THAT:
+18 (I) IDENTIFIES A QUALIFIED INDIVIDUAL;
+19 (II) IS CREATED BY A CONSUMER REPORTING AGENCY SOLELY
+20 FOR THE PURPOSE OF COMPLYING WITH THIS SECTION; AND
+21 (III) MAY NOT BE CREATED OR USED TO CONSIDER THE
+22 QUALIFIED INDIVIDUAL’S CREDITWORTHINESS, CREDIT STANDING, CREDIT
+23 CAPACITY, CHARACTER, GENERAL REPUTATION, PERSONAL CHARACTERISTICS, OR
+24 MODE OF LIVING FOR ANY PURPOSE LISTED IN § 14–1201(E)(1) OF THIS SUBTITLE.
+25 (B) THIS SECTION DOES NOT APPLY TO THE USE OF A QUALIFIED
+26 INDIVIDUAL’S CONSUMER REPORT OR RECORD BY:
+27 (1) A PERSON ADMINISTERING A CREDIT FILE MONITORING
+28 SUBSCRIPTION SERVICE TO WHICH:
+29 (I) THE QUALIFIED INDIVIDUAL HAS SUBSCRIBED; OR
+HOUSE BILL 1557 7
+1 (II) THE REPRESENTATIVE OF THE QUALIFIED INDIVIDUAL HAS
+2 SUBSCRIBED ON BEHALF OF THE QUALIFIED INDIVIDUAL;
+3 (2) A PERSON PROVIDING THE QUALIFIED INDIVIDUAL A COPY OF
+4 THE QUALIFIED INDIVIDUAL’S CONSUMER REPORT ON REQUEST OF THE QUALIFIED
+5 INDIVIDUAL; OR
+6 (3) AN ENTITY LISTED IN § 14–1212.1(B)(2)(I) OR (II) OR (C)(5) OF
+7 THIS SUBTITLE.
+8 (C) (1) A CONSUMER REPORTING AGENCY SHALL PLACE AN ADVERSE
+9 INFORMATION FREEZE FOR A QUALIFIED INDIVIDUAL FOR WHOM THE DEPARTMENT
+10 REQUESTS AN ADVERSE INFORMATION FREEZE UNDER SUBSECTION (G) OF THIS
+11 SECTION WITHIN 30 DAYS AFTER RECEIVING THE REQUEST.
+12 (2) IF A CONSUMER REPORTING AGENCY DOES NOT HAVE A FILE
+13 PERTAINING TO A QUALIFIED INDIVIDUAL WHEN THE CONSUMER REPORTING
+14 AGENCY RECEIVES A REQUEST FROM THE DEPARTMENT, THE CONSUMER
+15 REPORTING AGENCY SHALL CREATE A RECORD FOR THE QUALIFIED INDIVIDUAL.
+16 (D) UNLESS AN ADVERSE INFORMATION FREEZE FOR A QUALIFIED
+17 INDIVIDUAL IS REMOVED IN ACCORDANCE WITH SUBSECTION (H) OF THIS SECTION,
+18 A CONSUMER REPORTING AGENCY MAY NOT ADD ADVERSE INFORMATION TO A
+19 QUALIFIED INDIVIDUAL’S CONSUMER REPORT.
+20 (E) AN ADVERSE INFORMATION FREEZE FOR A QUALIFIED INDIVIDUAL
+21 PLACED UNDER SUBSECTION (C) OF THIS SECTION SHALL REMAIN IN EFFECT UNTIL
+22 THE QUALIFIED INDIVIDUAL IS NO LONGER ELIGIBLE FOR THE PROGRAM TO
+23 PROTECT INDIVIDUALS UNEMPLOYED OR FURLOUGHED DUE TO FEDERAL
+24 ACTIONS ESTABLISHED UNDER TITLE 9, SUBTITLE 41 OF THE STATE GOVERNMENT
+25 ARTICLE.
+26 (F) A CONSUMER REPORTING AGENCY MAY NOT CHARGE A FEE FOR ANY
+27 ACTION TAKEN TO COMPLY WITH THIS SECTION.
+28 (G) (1) AT LEAST ANNUALLY, THE DEPARTMENT SHALL SEND TO EACH
+29 CONSUMER REPORTING AGENCY BY ELECTRONIC TRANSMISSION A LIST OF
+30 INDIVIDUALS WHO ARE QUALIFIED INDIVIDUALS.
+31 (2) THE DEPARTMENT SHALL REQUEST AN ADVERSE INFORMATION
+32 FREEZE FOR EACH QUALIFIED INDIVIDUAL ON THE LIST SPECIFIED UNDER
+33 PARAGRAPH (1) OF THIS SUBSECTION ON BEHALF OF THE QUALIFIED INDIVIDUAL.
+8 HOUSE BILL 1557
+1 (3) (I) THE DEPARTMENT SHALL SUBMIT A REQUEST FOR AN
+2 ADVERSE INFORMATION FREEZE TO A CONSUMER REPORTING AGENCY BY
+3 ELECTRONIC TRANSMISSION TO THE E–MAIL ADDRESS OF THE CONSUMER
+4 REPORTING AGENCY OR OTHER POINT OF CONTACT IN THE MANNER SPECIFIED BY
+5 THE CONSUMER REPORTING AGENCY.
+6 (II) THE DEPARTMENT MAY ENTER INTO AN AGREEMENT WITH
+7 A CONSUMER REPORTING AGENCY CONCERNING THE TRANSMISSION OF
+8 INFORMATION BETWEEN THE DEPARTMENT AND A CONSUMER REPORTING AGENCY
+9 TO FACILITATE THE IMPLEMENTATION OF THIS SUBSECTION.
+10 (H) A CONSUMER REPORTING AGENCY MAY REMOVE AN ADVERSE
+11 INFORMATION FREEZE FOR A QUALIFIED INDIVIDUAL OR DELETE A RECORD OF A
+12 QUALIFIED INDIVIDUAL IF THE ADVERSE INFORMATION FREEZE WAS PLACED OR
+13 THE RECORD WAS CREATED BASED ON A MATERIAL MISREPRESENTATION OF FACT
+14 BY THE QUALIFIED INDIVIDUAL.
+15 (I) A PERSON MAY NOT REPORT ADVERSE INFORMATION THAT IS SUBJECT
+16 TO AN ADVERSE INFORMATION FREEZE UNDER THIS SECTION TO A CONSUMER
+17 REPORTING AGENCY.
+18 (J) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, THE EXCLUSIVE
+19 REMEDY FOR A VIOLATION OF THIS SECTION SHALL BE A COMPLAINT FILED WITH
+20 THE COMMISSIONER UNDER § 14–1225 OF THIS SUBTITLE.
+21 14–1225.
+22 (a) Any consumer who has reason to believe that this subtitle, or any other law
+23 regulating consumer credit reporting, has been violated by any person may file with the
+24 Commissioner a complaint setting forth the details of an alleged violation.
+25 (b) After receipt of the complaint, the Commissioner may inspect the pertinent
+26 books, records, letters and contracts of any agency, and of any person who has furnished
+27 information to the agency relating to the specific written complaint.
+28 Article – Financial Institutions
+29 1–101.
+30 (a) In this article, unless the context clearly requires otherwise, the following
+31 words have the meanings indicated.
+32 (d) “Banking institution” means an institution that is incorporated under the
+33 laws of this State as a State bank, trust company, or savings bank.
+HOUSE BILL 1557 9
+1 (i) “Credit union” means a credit union that is incorporated under the laws of this
+2 State as a credit union.
+3 (j) “Financial institution” means any financial institution of the type supervised
+4 under this article, whether or not State–chartered.
+5 (n) “Mortgage” includes a deed of trust that secures a debt or the performance of
+6 an obligation.
+7 5–514.
+8 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+9 INDICATED.
+10 (2) “CONVENTIONAL HOME MORTGAGE LOAN” HAS THE MEANING
+11 STATED IN § 11–501 OF THIS ARTICLE.
+12 (3) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+13 OF THE STATE GOVERNMENT ARTICLE.
+14 (4) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+15 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+16 (B) THIS SECTION APPLIES ONLY TO A BANKING INSTITUTION THAT MADE A
+17 CONVENTIONAL HOME MORTGAGE LOAN TO A QUALIFIED INDIVIDUAL WHO SUBMITS
+18 TO THE BANKING INSTITUTION:
+19 (1) VERIFICATION THAT THE CUSTOMER IS A QUALIFIED INDIVIDUAL;
+20 AND
+21 (2) A QUALIFIED PAYMENT PLAN TO PAY ANY MISSED PAYMENTS FOR
+22 THE BORROWER’S MORTGAGE AFTER THE BORROWER IS NO LONGER A QUALIFIED
+23 INDIVIDUAL.
+24 (C) A BANKING INSTITUTION:
+25 (1) SHALL ACCEPT FROM A QUALIFIED INDIVIDUAL A PARTIAL
+26 PAYMENT OF ANY LOAN PAYMENTS DUE; AND
+27 (2) MAY NOT IMPOSE A LATE FEE OR PENALTY ON A QUALIFIED
+28 INDIVIDUAL FOR THE NONPAYMENT OF THE QUALIFIED INDIVIDUAL’S MORTGAGE.
+29 6–606.1.
+10 HOUSE BILL 1557
+1 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (2) “CONVENTIONAL HOME MORTGAGE LOAN” HAS THE MEANING
+4 STATED IN § 11–501 OF THIS ARTICLE.
+5 (3) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+6 OF THE STATE GOVERNMENT ARTICLE.
+7 (4) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+8 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+9 (B) THIS SECTION APPLIES ONLY TO A CREDIT UNION THAT MADE A
+10 CONVENTIONAL HOME MORTGAGE LOAN TO A QUALIFIED INDIVIDUAL WHO SUBMITS
+11 TO THE CREDIT UNION:
+12 (1) VERIFICATION THAT THE CUSTOMER IS A QUALIFIED INDIVIDUAL;
+13 AND
+14 (2) A QUALIFIED PAYMENT PLAN TO PAY ANY MISSED PAYMENTS FOR
+15 THE BORROWER’S MORTGAGE AFTER THE BORROWER IS NO LONGER A QUALIFIED
+16 INDIVIDUAL.
+17 (C) A CREDIT UNION:
+18 (1) SHALL ACCEPT FROM A QUALIFIED INDIVIDUAL A PARTIAL
+19 PAYMENT OF ANY LOAN PAYMENT DUE; AND
+20 (2) MAY NOT IMPOSE A LATE FEE OR PENALTY ON A QUALIFIED
+21 INDIVIDUAL FOR THE NONPAYMENT OF THE QUALIFIED INDIVIDUAL’S MORTGAGE.
+22 8–101.
+23 (a) In this title and in Title 9, the following words have the meanings indicated.
+24 (i) “Savings and loan association” or “association” means, unless the context
+25 clearly requires otherwise, a corporation that is chartered under the laws of this State as a
+26 savings and loan association.
+27 9–409.
+28 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+29 INDICATED.
+HOUSE BILL 1557 11
+1 (2) “CONVENTIONAL HOME MORTGAGE LOAN” HAS THE MEANING
+2 STATED IN § 11–501 OF THIS ARTICLE.
+3 (3) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+4 OF THE STATE GOVERNMENT ARTICLE.
+5 (4) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+6 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+7 (B) THIS SECTION APPLIES ONLY TO A SAVINGS AND LOAN ASSOCIATION
+8 THAT MADE A CONVENTIONAL HOME MORTGAGE LOAN TO A QUALIFIED INDIVIDUAL
+9 WHO SUBMITS TO THE SAVINGS AND LOAN ASSOCIATION:
+10 (1) VERIFICATION THAT THE CUSTOMER IS A QUALIFIED INDIVIDUAL;
+11 AND
+12 (2) A QUALIFIED PAYMENT PLAN TO PAY ANY MISSED PAYMENTS FOR
+13 THE BORROWER’S MORTGAGE AFTER THE BORROWER IS NO LONGER A QUALIFIED
+14 INDIVIDUAL.
+15 (C) A SAVINGS AND LOAN ASSOCIATION:
+16 (1) SHALL ACCEPT FROM A QUALIFIED INDIVIDUAL A PARTIAL
+17 PAYMENT OF ANY LOAN PAYMENT DUE; AND
+18 (2) MAY NOT IMPOSE A LATE FEE OR PENALTY ON A QUALIFIED
+19 INDIVIDUAL FOR THE NONPAYMENT OF THE QUALIFIED INDIVIDUAL’S MORTGAGE.
+20 11–501.
+21 (a) In this subtitle the following words have the meanings indicated.
+22 (B–1) (1) “CONVENTIONAL HOME MORTGAGE LOAN” MEANS ANY LOAN
+23 PRIMARILY FOR PERSONAL, FAMILY, OR HOUSEHOLD USE THAT IS SECURED BY A
+24 MORTGAGE, DEED OF TRUST, OR OTHER EQUIVALENT CONSENSUAL SECURITY
+25 INTEREST ON A DWELLING OR RESIDENTIAL REAL ESTATE ON WHICH A DWELLING
+26 IS CONSTRUCTED OR INTENDED TO BE CONSTRUCTED.
+27 (2) “CONVENTIONAL HOME MORTGAGE LOAN” DOES NOT INCLUDE A
+28 LOAN THAT IS INSURED OR GUARANTEED BY THE FEDERAL GOVERNMENT.
+29 (c) (1) “Dwelling” means a residential structure or mobile home that contains
+30 one to four family housing units or individual units of condominiums or cooperatives.
+12 HOUSE BILL 1557
+1 (2) “Dwelling” does not include a residential structure or mobile home
+2 unless the residential structure or mobile home, or at least one unit contained in the
+3 residential structure or mobile home, is owner–occupied.
+4 (k) (1) “Mortgage lender” means any person who:
+5 (i) Is a mortgage broker;
+6 (ii) Makes a mortgage loan to any person; or
+7 (iii) Is a mortgage servicer.
+8 (2) “Mortgage lender” does not include:
+9 (i) A financial institution that accepts deposits and is regulated
+10 under Title 3, Title 4, Title 5, or Title 6 of this article;
+11 (ii) The Federal Home Loan Mortgage Corporation;
+12 (iii) The Federal National Mortgage Association;
+13 (iv) The Government National Mortgage Association;
+14 (v) Any person engaged exclusively in the acquisition of all or any
+15 portion of a mortgage loan under any federal, State, or local governmental program of
+16 mortgage loan purchases; or
+17 (vi) An affiliated insurance producer–mortgage loan originator
+18 licensed under § 11–603.1 of this title.
+19 (l) (1) “Mortgage lending business” means the activities set forth in the
+20 definition of “mortgage lender” in subsection (k) of this section which require that person
+21 to be licensed under this subtitle.
+22 (2) “Mortgage lending business” includes the making or procuring of
+23 mortgage loans secured by a dwelling or residential real estate located outside Maryland.
+24 (n) “Mortgage loan originator” has the meaning stated in § 11–601 of this title.
+25 11–522.
+26 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+27 INDICATED.
+28 (2) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+29 OF THE STATE GOVERNMENT ARTICLE.
+HOUSE BILL 1557 13
+1 (3) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+2 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+3 (B) THIS SECTION APPLIES ONLY TO A MORTGAGE LENDER OR MORTGAGE
+4 LENDING BUSINESS THAT MADE A CONVENTIONAL HOME MORTGAGE LOAN TO A
+5 QUALIFIED INDIVIDUAL WHO SUBMITS TO THE MORTGAGE LENDER OR MORTGAGE
+6 LENDING BUSINESS:
+7 (1) VERIFICATION THAT THE CUSTOMER IS A QUALIFIED INDIVIDUAL;
+8 AND
+9 (2) A QUALIFIED PAYMENT PLAN TO PAY ANY MISSED PAYMENTS FOR
+10 THE BORROWER’S MORTGAGE AFTER THE BORROWER IS NO LONGER A QUALIFIED
+11 INDIVIDUAL.
+12 (C) A MORTGAGE LENDER OR MORTGAGE LENDING BUSINESS:
+13 (1) SHALL ACCEPT FROM A QUALIFIED INDIVIDUAL A PARTIAL
+14 PAYMENT OF ANY LOAN PAYMENT DUE; AND
+15 (2) MAY NOT IMPOSE A LATE FEE OR PENALTY ON A QUALIFIED
+16 INDIVIDUAL FOR THE NONPAYMENT OF THE QUALIFIED INDIVIDUAL’S MORTGAGE.
+17 11–601.
+18 (a) In this subtitle the following words have the meanings indicated.
+19 (q) (1) “Mortgage loan originator” means an individual who for compensation
+20 or gain, or in the expectation of compensation or gain:
+21 (i) Takes a loan application; or
+22 (ii) Offers or negotiates terms of a mortgage loan.
+23 (2) “Mortgage loan originator” does not include an individual who:
+24 (i) Acts solely as a mortgage loan processor or underwriter;
+25 (ii) Performs only real estate brokerage activities and is licensed in
+26 accordance with Title 17 of the Business Occupations and Professions Article, unless the
+27 individual is compensated by a mortgage lender, mortgage broker, or other mortgage loan
+28 originator or by any agent of a mortgage lender, mortgage broker, or other mortgage loan
+29 originator;
+14 HOUSE BILL 1557
+1 (iii) Is involved solely in extensions of credit relating to timeshare
+2 plans, as that term is defined in 11 U.S.C. § 101(53D); or
+3 (iv) Is a retailer of mobile homes or an employee of the retailer if the
+4 retailer or employee, as applicable, does not receive, directly or indirectly, compensation or
+5 gain for engaging in activities described in paragraph (1) of this subsection that is in excess
+6 of compensation or gain received in a comparable cash transaction.
+7 11–605.1.
+8 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+9 INDICATED.
+10 (2) “CONVENTIONAL HOME MORTGAGE LOAN” HAS THE MEANING
+11 STATED IN § 11–501 OF THIS TITLE.
+12 (3) “DWELLING” HAS THE MEANING STATED IN § 11–501 OF THIS
+13 TITLE.
+14 (4) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+15 OF THE STATE GOVERNMENT ARTICLE.
+16 (5) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+17 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+18 (B) THIS SECTION APPLIES ONLY TO A MORTGAGE LOAN ORIGINATOR THAT
+19 MADE A CONVENTIONAL HOME MORTGAGE LOAN TO A QUALIFIED INDIVIDUAL WHO
+20 SUBMITS TO THE MORTGAGE LOAN ORIGINATOR:
+21 (1) VERIFICATION THAT THE CUSTOMER IS A QUALIFIED INDIVIDUAL;
+22 AND
+23 (2) A QUALIFIED PAYMENT PLAN TO PAY ANY MISSED PAYMENTS FOR
+24 THE BORROWER’S MORTGAGE AFTER THE BORROWER IS NO LONGER A QUALIFIED
+25 INDIVIDUAL.
+26 (C) A MORTGAGE LOAN ORIGINATOR:
+27 (1) SHALL ACCEPT FROM A QUALIFIED INDIVIDUAL A PARTIAL
+28 PAYMENT OF ANY LOAN PAYMENT DUE; AND
+29 (2) MAY NOT IMPOSE A LATE FEE OR PENALTY ON A QUALIFIED
+30 INDIVIDUAL FOR THE NONPAYMENT OF THE QUALIFIED INDIVIDUAL’S MORTGAGE.
+HOUSE BILL 1557 15
+1 Article – Public Utilities
+2 1–101.
+3 (a) In this division the following words have the meanings indicated.
+4 (d) “Commission” means the Public Service Commission.
+5 (z) (1) “Public service company” means a common carrier company, electric
+6 company, gas company, sewage disposal company, telegraph company, telephone company,
+7 water company, or any combination of public service companies.
+8 (2) “Public service company” does not include:
+9 (i) a campground that provides water, electric, gas, sewage, or
+10 telephone service to campers incident to the campground’s primary business of operating
+11 and maintaining the campground; or
+12 (ii) a person that owns or operates equipment used for charging
+13 electric vehicles, including a person that owns or operates:
+14 1. an electric vehicle charging station;
+15 2. electric vehicle supply equipment; or
+16 3. an electric vehicle charging station service company or
+17 provider.
+18 7–307.5.
+19 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+20 INDICATED.
+21 (2) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+22 OF THE STATE GOVERNMENT ARTICLE.
+23 (3) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+24 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+25 (B) A PUBLIC SERVICE COMPANY MAY NOT TERMINATE ELECTRIC OR GAS
+26 SERVICE OR ASSESS A LATE FEE, PENALTY, OR INTEREST TO A CUSTOMER WHO IS A
+27 QUALIFIED INDIVIDUAL FOR NONPAYMENT IF THE CUSTOMER CONTACTS THE
+28 PUBLIC SERVICE COMPANY BEFORE THE DATE OF TERMINATION TO:
+16 HOUSE BILL 1557
+1 (1) PROVIDE VERIFICATION THAT THE CUSTOMER IS A QUALIFIED
+2 INDIVIDUAL; AND
+3 (2) ENTER INTO A QUALIFIED PAYMENT PLAN TO PAY ANY
+4 OUTSTANDING AMOUNT ON THE CUSTOMER’S ACCOUNT AFTER THE CUSTOMER IS NO
+5 LONGER A QUALIFIED INDIVIDUAL.
+6 (C) IF A PUBLIC SERVICE COMPANY TERMINATES, FOR ANY REASON, THE
+7 ELECTRIC OR GAS SERVICE OF A CUSTOMER WHO IS A QUALIFIED INDIVIDUAL, THE
+8 COMPANY SHALL RESTORE THE SERVICE.
+9 (D) A PUBLIC SERVICE COMPANY SHALL ACCEPT PARTIAL PAYMENT OF A
+10 CHARGE FOR ELECTRIC OR GAS SERVICE FROM A QUALIFIED INDIVIDUAL.
+11 (E) IN CONSULTATION WITH THE MARYLAND DEPARTMENT OF LABOR, THE
+12 COMMISSION MAY ADOPT REGULATIONS TO IMPLEMENT THIS SECTION.
+13 Article – Real Property
+14 7–105.1.
+15 (a) (1) In this section the following words have the meanings indicated.
+16 (8) “Owner–occupied residential property” means residential property in
+17 which at least one unit is occupied by an individual who:
+18 (i) Has an ownership interest in the property; and
+19 (ii) Uses the property as the individual’s primary residence.
+20 (12) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+21 OF THE STATE GOVERNMENT ARTICLE.
+22 (13) “QUALIFIED LANDLORD” HAS THE MEANING STATED IN § 9–4101
+23 OF THE STATE GOVERNMENT ARTICLE.
+24 [(12)] (14) “Residential property” means real property improved by four or
+25 fewer single family dwelling units that are designed principally and are intended for human
+26 habitation.
+27 (b–1) (1) This subsection applies only to an action for the foreclosure of a
+28 mortgage or deed of trust on an owner–occupied residential property.
+29 (2) Notwithstanding any other law, the court shall stay the proceedings if
+30 the defendant presents evidence satisfactory to the court that the defendant is:
+HOUSE BILL 1557 17
+1 (i) An employee of the federal or State government or an employee
+2 of a local government in the State; and
+3 (ii) Involuntarily furloughed from work without pay because of a
+4 government shutdown, regardless of whether the employee is required to report to work
+5 during the furlough.
+6 (3) (i) Subject to subparagraph (ii) of this paragraph, a stay under this
+7 subsection shall be granted for a time that the court considers reasonable.
+8 (ii) A stay under this subsection may not be granted for a period that
+9 ends more than 30 days after the end of the government shutdown without a showing of
+10 sufficient cause by a party to the action.
+11 (B–2) (1) THIS SUBSECTION APPLIES ONLY TO AN ACTION FOR THE
+12 FORECLOSURE OF A MORTGAGE OR DEED OF TRUST ON A RESIDENTIAL PROPERTY
+13 THAT IS:
+14 (I) OWNER–OCCUPIED OR LEASED TO A TENANT; AND
+15 (II) OWNED BY A QUALIFIED LANDLORD OR A QUALIFIED
+16 INDIVIDUAL.
+17 (2) NOTWITHSTANDING ANY OTHER LAW, THE COURT SHALL STAY
+18 THE PROCEEDINGS IF THE DEFENDANT PRESENTS TO THE COURT VERIFICATION
+19 FROM THE MARYLAND DEPARTMENT OF LABOR THAT THE DEFENDANT IS A
+20 QUALIFIED LANDLORD OR A QUALIFIED INDIVIDUAL.
+21 (3) A STAY UNDER THIS SUBSECTION SHALL BE GRANTED UNTIL A
+22 DATE AFTER THE DEFENDANT IS NO LONGER ELIGIBLE TO BE A QUALIFIED
+23 LANDLORD OR QUALIFIED INDIVIDUAL THAT THE COURT CONSIDERS REASONABLE.
+24 (q) An action for failure to comply with the provisions of this section shall be
+25 brought within 3 years after the date of the order ratifying the sale.
+26 (s) The Commissioner of Financial Regulation may adopt additional regulations
+27 necessary to carry out the requirements of this section.
+28 8–121.
+29 (A) THIS SECTION APPLIES ONLY TO A TENANT OF A RESIDENTIAL
+30 PROPERTY WHO IS A QUALIFIED INDIVIDUAL, AS DEFINED IN § 9–4101 OF THE STATE
+31 GOVERNMENT ARTICLE.
+18 HOUSE BILL 1557
+1 (B) A TENANT SHALL:
+2 (1) ADHERE TO A QUALIFIED PAYMENT PLAN, AS DEFINED IN §
+3 9–4101 OF THE STATE GOVERNMENT ARTICLE; AND
+4 (2) PROVIDE VERIFICATION FROM THE MARYLAND DEPARTMENT OF
+5 LABOR WHEN:
+6 (I) THE TENANT IS DECLARED A QUALIFIED INDIVIDUAL; OR
+7 (II) THE TENANT’S STATUS AS A QUALIFIED INDIVIDUAL
+8 TERMINATES.
+9 (C) A LANDLORD:
+10 (1) MAY NOT IMPOSE A LATE FEE OR PENALTY ON A TENANT WHO IS
+11 A QUALIFIED INDIVIDUAL;
+12 (2) SHALL ACCEPT PARTIAL PAYMENT FOR:
+13 (I) UNPAID RENT; OR
+14 (II) A LATE FEE OR PENALTY IMPOSED ON A TENANT BEFORE
+15 THE TENANT BECAME A QUALIFIED INDIVIDUAL; AND
+16 (3) SHALL ACCEPT A QUALIFIED PAYMENT PLAN SUBMITTED BY A
+17 TENANT FOR UNPAID RENT OR A LATE FEE OR PENALTY.
+18 8–401.
+19 (a) Whenever the tenant or tenants fail to pay the rent when due and payable, it
+20 shall be lawful for the landlord to have again and repossess the premises in accordance
+21 with this section.
+22 (d) (1) This subsection applies only to an action for the repossession of
+23 residential property for failure to pay rent due during a government shutdown.
+24 (2) Notwithstanding any other law, the court shall stay the proceeding if
+25 the tenant or an occupant of the property that is the subject of the proceeding presents
+26 evidence satisfactory to the court that the occupant:
+27 (i) Uses the property as the individual’s primary residence;
+28 (ii) Is an employee of the federal or State government or an employee
+29 of a local government in the State; and
+HOUSE BILL 1557 19
+1 (iii) Is involuntarily furloughed from work without pay because of a
+2 government shutdown, regardless of whether the employee is required to report to work
+3 during the furlough.
+4 (3) (i) Subject to subparagraph (ii) of this paragraph, a stay under this
+5 subsection shall be granted for a time that the court considers reasonable.
+6 (ii) A stay under this subsection may not be granted for a period that
+7 ends more than 30 days after the end of the government shutdown without a showing of
+8 sufficient cause by a party to the action.
+9 (D–1) (1) THIS SUBSECTION APPLIES ONLY TO AN ACTION FOR THE
+10 REPOSSESSION OF RESIDENTIAL PROPERTY FOR FAILURE TO PAY RENT DUE BY A
+11 TENANT WHO IS A QUALIFIED INDIVIDUAL, AS DEFINED IN § 9–4101 OF THE STATE
+12 GOVERNMENT ARTICLE.
+13 (2) NOTWITHSTANDING ANY OTHER LAW, THE COURT SHALL STAY
+14 THE PROCEEDING IF THE TENANT OR AN OCCUPANT OF THE PROPERTY THAT IS THE
+15 SUBJECT OF THE PROCEEDING PRESENTS TO THE COURT VERIFICATION FROM THE
+16 MARYLAND DEPARTMENT OF LABOR THAT THE OCCUPANT IS A QUALIFIED
+17 INDIVIDUAL.
+18 (3) A STAY UNDER THIS SUBSECTION SHALL BE GRANTED UNTIL A
+19 DATE AFTER THE DEFENDANT LOSES STATUS AS A QUALIFIED LANDLORD OR
+20 QUALIFIED INDIVIDUAL THAT THE COURT CONSIDERS REASONABLE.
+21 Article – State Government
+22 SUBTITLE 41. PROGRAM TO PROTECT INDIVIDUALS UNEMPLOYED OR
+23 FURLOUGHED DUE TO FEDERAL ACTIONS.
+24 9–4101.
+25 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+26 INDICATED.
+27 (B) “DEPARTMENT” MEANS THE MARYLAND DEPARTMENT OF LABOR.
+28 (C) “PROGRAM” MEANS THE PROGRAM TO PROTECT INDIVIDUALS
+29 UNEMPLOYED OR FURLOUGHED DUE TO FEDERAL ACTIONS.
+20 HOUSE BILL 1557
+1 (D) (1) “QUALIFIED FURLOUGHED INDIVIDUAL” MEANS AN EMPLOYEE
+2 OF THE FEDERAL GOVERNMENT DURING A FEDERAL GOVERNMENT SHUTDOWN
+3 THAT LASTS FOR A PERIOD OF 30 DAYS OR MORE.
+4 (2) AN INDIVIDUAL MAY NOT BE CONSIDERED A “QUALIFIED
+5 FURLOUGHED INDIVIDUAL” IF THE FEDERAL GOVERNMENT IS NOT SHUT DOWN.
+6 (E) “QUALIFIED INDIVIDUAL” MEANS A QUALIFIED FURLOUGHED
+7 INDIVIDUAL OR A QUALIFIED UNEMPLOYED INDIVIDUAL.
+8 (F) “QUALIFIED LANDLORD” MEANS A LANDLORD WHO LEASES A
+9 RESIDENTIAL PROPERTY TO A QUALIFIED INDIVIDUAL.
+10 (G) “QUALIFIED PAYMENT PLAN” MEANS AN INTEREST–FREE PAYMENT
+11 PLAN THAT ALLOWS A QUALIFIED INDIVIDUAL TO REPAY AN OUTSTANDING
+12 BALANCE, FEE, OR OTHER MONEY OWED OVER A PERIOD OF 2 YEARS.
+13 (H) (1) “QUALIFIED UNEMPLOYED INDIVIDUAL” MEANS AN INDIVIDUAL
+14 WHO IS UNEMPLOYED DIRECTLY OR INDIRECTLY DUE TO PERSONNEL ACTIONS BY
+15 THE FEDERAL GOVERNMENT OR CHANGES IN THE FEDERAL GOVERNMENT’S
+16 BUDGET, CONTRACTS, OR FUNDING THAT OCCURRED ON OR AFTER JANUARY 20,
+17 2025.
+18 (2) “QUALIFIED UNEMPLOYED INDIVIDUAL” INCLUDES:
+19 (I) A FORMER OR FURLOUGHED FEDERAL CONTRACTOR;
+20 (II) A FORMER EMPLOYEE OF A BUSINESS THAT CLOSED OR
+21 REDUCED STAFF DIRECTLY OR INDIRECTLY DUE TO PERSONNEL ACTIONS BY THE
+22 FEDERAL GOVERNMENT OR CHANGES IN THE FEDERAL GOVERNMENT’S BUDGET,
+23 CONTRACTS, OR FUNDING; AND
+24 (III) A FORMER OWNER OF A BUSINESS THAT CLOSED DIRECTLY
+25 OR INDIRECTLY DUE TO PERSONNEL ACTIONS BY THE FEDERAL GOVERNMENT OR
+26 CHANGES IN THE FEDERAL GOVERNMENT’S BUDGET, CONTRACTS, OR FUNDING.
+27 (3) “QUALIFIED UNEMPLOYED INDIVIDUAL” DOES NOT INCLUDE AN
+28 INDIVIDUAL WHO RECEIVES WAGES FOR PERFORMING WORK.
+29 9–4102.
+30 (A) THERE IS A PROGRAM TO PROTECT INDIVIDUALS UNEMPLOYED OR
+31 FURLOUGHED DUE TO FEDERAL ACTIONS.
+HOUSE BILL 1557 21
+1 (B) THE DEPARTMENT SHALL ADMINISTER THE PROGRAM.
+2 9–4103.
+3 (A) THE DEPARTMENT SHALL:
+4 (1) ESTABLISH AN APPLICATION PROCESS FOR INDIVIDUALS WHO
+5 MAY QUALIFY FOR THE PROGRAM;
+6 (2) EVALUATE APPLICATIONS FOR ELIGIBILITY;
+7 (3) NOTIFY AN INDIVIDUAL WHO IS DETERMINED TO BE A QUALIFIED
+8 FURLOUGHED INDIVIDUAL, A QUALIFIED LANDLORD, OR A QUALIFIED UNEMPLOYED
+9 INDIVIDUAL:
+10 (I) THAT THE INDIVIDUAL WAS DETERMINED TO BE QUALIFIED
+11 FOR THE PROGRAM;
+12 (II) OF THE CONDITIONS THAT WOULD DISQUALIFY AN
+13 INDIVIDUAL FROM THE PROGRAM; AND
+14 (III) OF THE RIGHTS AND PROTECTIONS AFFORDED TO THE
+15 INDIVIDUAL UNDER THE PROGRAM;
+16 (4) REGULARLY REEVALUATE WHETHER A QUALIFIED INDIVIDUAL
+17 REMAINS ELIGIBLE FOR THE PROGRAM; AND
+18 (5) AT THE REQUEST OF A QUALIFIED INDIVIDUAL OR A QUALIFIED
+19 LANDLORD, PROVIDE VERIFICATION THAT THE INDIVIDUAL IS A QUALIFIED
+20 INDIVIDUAL OR A QUALIFIED LANDLORD TO AN ENTITY THAT IS REQUIRED TO DO OR
+21 PROHIBITED FROM DOING AN ACTION BECAUSE THE INDIVIDUAL IS A QUALIFIED
+22 INDIVIDUAL OR A QUALIFIED LANDLORD, INCLUDING:
+23 (I) A BANKING INSTITUTION, AS DEFINED IN § 1–101 OF THE
+24 FINANCIAL INSTITUTIONS ARTICLE;
+25 (II) A COLLECTOR, AS DEFINED IN § 14–201 OF THE
+26 COMMERCIAL LAW ARTICLE;
+27 (III) A COLLECTOR, AS DEFINED IN § 1–101 OF THE
+28 TAX – PROPERTY ARTICLE;
+22 HOUSE BILL 1557
+1 (IV) A CONSUMER REPORTING AGENCY, AS DEFINED IN §
+2 14–1201 OF THE COMMERCIAL LAW ARTICLE;
+3 (V) A CREDIT UNION, AS DEFINED IN § 1–101 OF THE FINANCIAL
+4 INSTITUTIONS ARTICLE;
+5 (VI) AN ENTITY SEEKING TO FORECLOSE A RESIDENTIAL
+6 PROPERTY UNDER § 7–105.1 OF THE REAL PROPERTY ARTICLE;
+7 (VII) A LANDLORD SUBJECT TO § 8–208 OF THE REAL PROPERTY
+8 ARTICLE;
+9 (VIII) A MORTGAGE LENDER, AS DEFINED IN § 11–501 OF THE
+10 FINANCIAL INSTITUTIONS ARTICLE;
+11 (IX) A MORTGAGE LENDING BUSINESS, AS DEFINED IN § 11–501
+12 OF THE FINANCIAL INSTITUTIONS ARTICLE;
+13 (X) A MORTGAGE LOAN ORIGINATOR, AS DEFINED IN § 11–501
+14 OF THE FINANCIAL INSTITUTIONS ARTICLE;
+15 (XI) A PUBLIC SERVICE COMPANY, AS DEFINED IN § 1–101 OF
+16 THE PUBLIC UTILITIES ARTICLE; OR
+17 (XII) A SAVINGS AND LOAN ASSOCIATION, AS DEFINED IN § 8–101
+18 OF THE FINANCIAL INSTITUTIONS ARTICLE.
+19 (B) (1) THIS SUBSECTION DOES NOT APPLY TO A QUALIFIED PAYMENT
+20 PLAN THAT A QUALIFIED INDIVIDUAL ENTERS WHILE PARTICIPATING IN THE
+21 PROGRAM.
+22 (2) FOR PURPOSES OF PARTICIPATING IN THE PROGRAM, AN
+23 INDIVIDUAL MAY NOT REMAIN:
+24 (I) A QUALIFIED INDIVIDUAL FOR MORE THAN 1 YEAR; OR
+25 (II) WHILE RECEIVING WAGES FOR PERFORMING WORK.
+26 (C) ON THE EARLIER OF THE DATE AN INDIVIDUAL LOSES ELIGIBILITY TO
+27 PARTICIPATE IN THE PROGRAM OR 30 DAYS BEFORE A QUALIFIED INDIVIDUAL WILL
+28 LOSE ELIGIBILITY TO BE IN THE PROGRAM DUE TO REACHING THE END OF THE
+29 1–YEAR ELIGIBILITY PERIOD, THE DEPARTMENT SHALL PROVIDE NOTICE TO A
+30 QUALIFIED INDIVIDUAL OF:
+HOUSE BILL 1557 23
+1 (1) WHEN THE INDIVIDUAL’S ELIGIBILITY ENDED OR IS SCHEDULED
+2 TO END;
+3 (2) THE PROTECTIONS PROVIDED BY THE PROGRAM THAT WILL NO
+4 LONGER APPLY TO THE INDIVIDUAL;
+5 (3) THE INDIVIDUAL’S RIGHT TO A QUALIFIED PAYMENT PLAN, EVEN
+6 AFTER THE INDIVIDUAL’S ELIGIBILITY FOR THE PROGRAM EXPIRES; AND
+7 (4) CONSUMER PROTECTION RESOURCES THAT ARE AVAILABLE TO
+8 INDIVIDUALS IN THE STATE.
+9 (D) A QUALIFIED INDIVIDUAL SHALL COMPLY WITH REQUIREMENTS SET BY
+10 THE DEPARTMENT TO VERIFY WHETHER THE QUALIFIED INDIVIDUAL CONTINUES
+11 TO BE ELIGIBLE FOR THE PROGRAM.
+12 9–4104.
+13 THE DEPARTMENT MAY ADOPT REGULATIONS TO CARRY OUT THIS SUBTITLE.
+14 9–4105.
+15 THIS SUBTITLE MAY BE CITED AS THE UNEMPLOYED AND FURLOUGHED
+16 WORKERS ASSISTANCE ACT.
+17 Article – Tax – Property
+18 1–101.
+19 (a) In this article the following words have the meanings indicated.
+20 (e) “Collector” includes an officer of a county or municipal corporation who has a
+21 duty to collect or remit taxes.
+22 14–811.
+23 (J) THE COLLECTOR SHALL WITHHOLD FROM SALE THE DWELLING OF A
+24 HOMEOWNER WHO IS:
+25 (1) A QUALIFIED INDIVIDUAL, AS DEFINED IN § 9–4101 OF THE STATE
+26 GOVERNMENT ARTICLE; OR
+24 HOUSE BILL 1557
+1 (2) A QUALIFIED LANDLORD, AS DEFINED IN § 9–4101 OF THE STATE
+2 GOVERNMENT ARTICLE.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That §§ 5–514, 6–606.1, 9–409,
+4 11–522, and 11–605.1 of the Financial Institutions Article, as enacted by Section 1 of this
+5 Act, shall be construed to apply retroactively and shall be applied to and interpreted to
+6 affect any conventional home mortgage loan entered into prior to the effective date of this
+7 Act.
+8 SECTION 3. AND BE IT FURTHER ENACTED, That §§ 7–105.1, 8–121, and 8–401
+9 of the Real Property Article, as enacted by Section 1 of this Act, shall be construed to apply
+10 immediately and shall be applied to and interpreted to affect any foreclosure action, lease,
+11 or action for repossession initiated prior to the effective date of this Act.
+12 SECTION 4. AND BE IT FURTHER ENACTED, That this Act is an emergency
+13 measure, is necessary for the immediate preservation of the public health or safety, has
+14 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+15 each of the two Houses of the General Assembly, and shall take effect from the date it is
+16 enacted.
+[DELETED: :CA    E 5     A P A F t p o e t P t P I U o F a c s f i w a u o f a a r o c f a t A B  A S  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  H  B  A S a  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A]
+[DELETED: H 3 S t  A  ( B  A S  A  ( B  A S  A  (  S T A 1  ( I  ( “ a  ( “ a r o p p s m o c f p f o h  ( “ e t p a t o m p h a j o c i() ( ND ( “Q”§9L    T O REGA.]
+[DELETED:  H  ( “Q”§ P PN H T M S I 1SGA. T O R() H S A O T A Q I W (  T T C I A QL  ( A.() A:  ( L  ( M:  () M A L F O P O A A DL   () R.IE 1  ( E a a u s ( o t s n c r i   ( B w f d o a o t m r b   ( S m i   ( P t   ( A p f c o c t p a l w a   ( R d]
+[DELETED: H 5   ( A m  ( T a   ( A i   ( T b   ( T w() O C R A M M A CL     T§91A. R 1  ( ( T    ( A c s o f p s c t i     1 R     2 A n    ( A d a i s c t i r m o a  ( ( ( S t s ( o t p a c r c     1 A a m]
+[DELETED:  H      2 D n m a p d o c i    ( A c r a t a a a r o c i r() ( N ( “A I FE M A R O A Q ILS R I A W T T P T C R A F ALS. ( “D”MT M T A E O. ( “Q”§9L    T O RGA. ( “R”:D   () I;D  () ISN   () IA N B C O U T C T ILS CS C SG C,Y R N S ,,  E 1()).() H S D N A T T U O A QLS: ( P A A C F M  () T;HD ]
+[DELETED: H 7  () IH ( P P T Q I A C OLSL  ( A§1()()()()  BI  II  C () (  C R A S P A A E A A I F U S G O T  0. (  A C R A D N H A F T A Q I W T C R R A R F T ET T C() N A A I F F A Q H N) C R A M N A A I T ALS.() N A I F F A Q I C  Q I I N L E F T R TIUFD N N O U U T ET9,S41S I  U   T O.()  () ( A,TY  E R A B E T A L O ( T E F E Q I O T L S U  ).]
+[DELETED:  H  ( () TH E S S A R F A I F T A C R A B T T T EM A O T C  () TIH E C R A C T T O E()  C R A M R A A()   A A I F U T S T A C() NO A O OW T O   §15. 1  ( A r C  ( A b i A 1  ( I w  ( “ i m a i t i i u t l]
+[DELETED: H 9  ( “ S  ( “ u  ( “ a ) ( N ( “C H M LN H T M   11. ( “Q”§9L    T O REGA. ( “Q”§ P PN H T M S I 1SGA. T O R() H ( VL ( RS() A:  (  A F A Q I A PE   (  N I A L F O P O A QLS.]
+[DELETED:  H  ) ( N ( “C H M LN H T M   11. ( “Q”§9L    T O REGA. ( “Q”§ P PN H T M S I 1SGA. T O R() H S A O T A C U T M A ( VL ( RS() A:  (  A F A Q I A PE   (  N I A L F O P O A QLS. 8  ( I  ( “ a l a o “ m u t c c s ) ( N]
+[DELETED: H 1 ( “C H M LN H T M   11. ( “Q”§9L    T O REGA. ( “Q”§ P PN H T M S I 1SGA. T O R() H O ( VL ( RS() A:  (  A F A Q I A PE   (  N I A L F O P O A QLS. 1  ( I(– “CO H M LN M A LL Y E D O TT O O E C S ( “CN   ( ( “ o]
+[DELETED:  H    ( “ d n i a r s o m h u t r s o m h o a l o u c i t r  ( ( “    ( I    ( M    ( I   ( “    ( A f i t a d a i r u    ( T    ( T    ( T    ( A p m    ( A a i p l o l  ( ( “ l b m t a s f i t d t   ( “ l b i t m o p o m  ( “ ) ( N ( “Q”§9L    T O REGA.]
+[DELETED: H 1 ( “Q”§ P PN H T M S I 1SGA. T O R() H B T M A C H M L T A ( VL ( RS() A:  (  A F A Q I A PE   (  N I A L F O P O A QLS  1  ( I  ( ( “ o    ( T    ( O   ( “    ( A    ( P a i o o]
+[DELETED:  H     ( I p    ( I r g o ) ( N ( “C H M LN H T M   11. ( “D”§1G H T M S I   O T ( “Q”§9L    T O REGA. ( “Q”§ P PN H T M S I 1SGA. T O R() H ( VL ( RS() A:  (  A F A Q I A PE   (  N I A L F O P O A QLS.]
+[DELETED: H 1 A 1  ( I  ( “  ( ( “ c w   ( “    ( a c t p w e g s o t a    ( a p t o o o e u f c e     1 a     2 e     3 a e v c s s c o p() ( N ( “Q”§9L    T O REGA. ( “Q”§ P PN H T M S I 1SGA. T O R()  E Y  I F N I T C C T]
+[DELETED:  H  ( V T T C I A QL  ( I A Q P P T P ARS() I,FS N L ()  () IMDLN A E AR . A 7  ( ( I   ( “ w    ( H    ( U ( “Q”§9L    T O RGA. ( “Q”§9D    T O RGA. []( ()“ f h  ( ( T s a o t a a f t f o a m   ( N t]
+[DELETED: H 1    ( A o    ( I f f w w p b o a g d   ( ( S s    ( A e s(– H S A O T A A F T  () O–;WROT   () IW B A Q L O A Q ( N A O LW T C S S T A E O A T T D I AD ( S G A T D I N L E T B A Q  ( A b  ( T n ) H S A O T A T O A RL     T§91A. R]
+[DELETED:  H () A:  ( A,§ T A Q P PN A D I 1SGA; T O RE  ( PM A E:  () T;HL   () TIH TTS S A A Q I() A:  (  ( S:  () U;NT   () I L  (  A A Q P P S B A 8  ( W s w  ( ( T s a o t a a f t r o r   ( N t e    ( U    ( I o]
+[DELETED: H 1    ( I g d   ( ( S set    ( A e s(– H S A O T A A F TL     T§91A. R ( N A O LW T C S SD E O A T T O I A Q ( S G A T D L S A A Q L O  A4.PPI  R R N NDFA. U E C() N T S T F W H T M() “D”MDL.ET  A E A() “P”PPRM M T R T R NFDFA. U U E C]
+[DELETED:  H () ( “QU F IL M A E T F G D A F G S  0. ( A I M N B C A QL .() “QU IL M A Q F() “QU LD M A L W L A() “Q”U P PN M A ITF P T A A Q I T R A OE E   ,2.() ( “QUL  F G O C I T F GTST S  A ,J2 ( “Q”:L   () ;A  ()IA F E O A B T C O C FTSTS G ;  ()IATST S ,,. ( “QL () TPPIH I A R T R N N ODFA. U E C]
+[DELETED: H 2() TDP.H E R() TD:H E ( A A P F I W R; ( ; (L D   ()T R;  ()IO T C T W D A RM ;  ()IO T R A P A T T R; ( R W A Q I RM ; (D P V T T I I A QD :  () ,§1AN    IA; N RE  () ,§1IA CR A D I   O TLA; A R  () ,§11IA CR A D I   O T–PA;  R R]
+[DELETED:  H   () ,§VA C R AY A D I 1CLA; O A R  () ,§11AN     IA; R  ()IA E S T F A R    E R R71RPA;  () §88RIA    E R;  () ,§1IA M LR A D I   O TIA; N R  () ,§1XAS    I N RIA;  () ,§1AR    I N RIA;  () ,§1IA P CY A   O U T RE UA;  () ,§8IAN    I N RIA.() ( H T A Q I E W P I T. ( FP P O P I T RM A  () 1;A  R   () .IW() N R  3 B I R–, E PD T E S P N T A]
+[DELETED: H 2 ( LS (  R ( ’LSN LS RS P; ( P R T A A T T.()   E RM.TD. EETU S M B C A T N A UAA. S C A 1  ( I  ( “ d 1 ) H ( ,§91L     TA; RE ]
+[DELETED:  H  ( ,§91D     TA. R  S 1 A a A  S o i o  S m b e e]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1557
+N1, I2, I1 EMERGENCY BILL 5lr3637
+By: Delegate Feldmark
+Rules suspended
+Introduced and read first time: March 11, 2025
+Assigned to: Rules and Executive Nominations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Program to Protect Individuals Unemployed or Furloughed Due to Federal
+3 Actions – Establishment
+4 FOR the purpose of establishing the Program to Protect Individuals Unemployed or
+5 Furloughed Due to Federal Actions; requiring the Maryland Department of Labor to
+6 administer the Program; establishing certain consumer protections relating to debt
+7 collection, consumer credit reporting, loan payments, payments for certain utility
+8 services, foreclosure and failure to pay rent actions, and tax sales of certain dwellings
+9 for individuals who are unemployed or furloughed as a result of certain federal
+10 actions; applying certain provisions of this Act retroactively; and generally relating
+11 to the Program to Protect Individuals Unemployed or Furloughed Due to Federal
+12 Actions.
+13 BY repealing and reenacting, without amendments,
+14 Article – Commercial Law
+15 Section 14–201, 14–1212.1(b)(2)(i) and (ii) and (c)(5), and 14–1225
+16 Annotated Code of Maryland
+17 (2013 Replacement Volume and 2024 Supplement)
+18 BY adding to
+19 Article – Commercial Law
+20 Section 14–202.1 and 14–1212.4
+21 Annotated Code of Maryland
+22 (2013 Replacement Volume and 2024 Supplement)
+23 BY repealing and reenacting, with amendments,
+24 Article – Commercial Law
+25 Section 14–1203
+26 Annotated Code of Maryland
+27 (2013 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1557*
+
+2 HOUSE BILL 1557
+1 BY repealing and reenacting, without amendments,
+2 Article – Financial Institutions
+3 Section 1–101(a), (d), (i), (j), and (n), 8–101(a) and (i), 11–501(a), (c), (k), (l), and (n),
+4 and 11–601(a) and (q)
+5 Annotated Code of Maryland
+6 (2020 Replacement Volume and 2024 Supplement)
+7 BY adding to
+8 Article – Financial Institutions
+9 Section 5–514, 6–606.1, 9–409, 11–501(b–1), 11–522, and 11–605.1
+10 Annotated Code of Maryland
+11 (2020 Replacement Volume and 2024 Supplement)
+12 BY repealing and reenacting, without amendments,
+13 Article – Public Utilities
+14 Section 1–101(a), (d), and (z)
+15 Annotated Code of Maryland
+16 (2020 Replacement Volume and 2024 Supplement)
+17 BY adding to
+18 Article – Public Utilities
+19 Section 7–307.5
+20 Annotated Code of Maryland
+21 (2020 Replacement Volume and 2024 Supplement)
+22 BY repealing and reenacting, without amendments,
+23 Article – Real Property
+24 Section 7–105.1(a)(1) and (8), (b–1), (q), and (s) and 8–401(a) and (d)
+25 Annotated Code of Maryland
+26 (2023 Replacement Volume and 2024 Supplement)
+27 BY repealing and reenacting, with amendments,
+28 Article – Real Property
+29 Section 7–105.1(a)(12)
+30 Annotated Code of Maryland
+31 (2023 Replacement Volume and 2024 Supplement)
+32 BY adding to
+33 Article – Real Property
+34 Section 7–105.1(a)(12) and (13) and (b–2), 8–121, and 8–401(d–1)
+35 Annotated Code of Maryland
+36 (2023 Replacement Volume and 2024 Supplement)
+37 BY adding to
+38 Article – State Government
+
+HOUSE BILL 1557 3
+1 Section 9–4101 through 9–4105 to be under the new subtitle “Subtitle 41. Program
+2 to Protect Individuals Unemployed or Furloughed Due to Federal Actions”
+3 Annotated Code of Maryland
+4 (2021 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, without amendments,
+6 Article – Tax – Property
+7 Section 1–101(a) and (e)
+8 Annotated Code of Maryland
+9 (2019 Replacement Volume and 2024 Supplement)
+10 BY adding to
+11 Article – Tax – Property
+12 Section 14–811(j)
+13 Annotated Code of Maryland
+14 (2019 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Commercial Law
+18 14–201.
+19 (a) In this subtitle the following words have the meanings indicated.
+20 (b) “Collector” means a person collecting or attempting to collect an alleged debt
+21 arising out of a consumer transaction.
+22 (c) “Consumer transaction” means any transaction involving a person seeking or
+23 acquiring real or personal property, services, money, or credit for personal, family, or
+24 household purposes.
+25 (d) “Person” includes an individual, corporation, business trust, statutory trust,
+26 estate, trust, partnership, association, two or more persons having a joint or common
+27 interest, or any other legal or commercial entity.
+28 14–202.1.
+29 (A) (1) IN THIS SECTION THE FOLLOWING TERMS HAVE THE MEANINGS
+30 INDICATED.
+31 (2) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+32 OF THE STATE GOVERNMENT ARTICLE.
+
+4 HOUSE BILL 1557
+1 (3) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+2 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+3 (B) THIS SECTION APPLIES ONLY TO A QUALIFIED INDIVIDUAL WHO
+4 SUBMITS TO A COLLECTOR:
+5 (1) VERIFICATION THAT THE CONSUMER IS A QUALIFIED
+6 INDIVIDUAL; AND
+7 (2) A QUALIFIED PAYMENT PLAN.
+8 (C) A COLLECTOR:
+9 (1) SHALL ACCEPT PARTIAL PAYMENTS FOR AN ALLEGED DEBT FROM
+10 A QUALIFIED INDIVIDUAL; AND
+11 (2) MAY NOT:
+12 (I) IMPOSE A LATE FEE OR PENALTY ON AN ALLEGED DEBT
+13 OWED BY A QUALIFIED INDIVIDUAL; OR
+14 (II) REPOSSESS PROPERTY FROM A QUALIFIED INDIVIDUAL.
+15 14–1203.
+16 (a) Except as authorized under subsection (b) of this section, no consumer
+17 reporting agency may make any consumer report containing any of the following items of
+18 information:
+19 (1) Bankruptcies which, from date of adjudication of the most recent
+20 bankruptcy, antedate the report by more than 10 years;
+21 (2) Suits and judgments which, from date of entry, antedate the report by
+22 more than seven years or until the governing statute of limitations has expired, whichever
+23 is the longer period;
+24 (3) Paid tax liens which, from date of payment, antedate the report by more
+25 than seven years;
+26 (4) Accounts placed for collection or charged to profit and loss which
+27 antedate the report by more than seven years;
+28 (5) Records of arrest, indictment, or conviction of crime which, from date of
+29 disposition, release, or parole, antedate the report by more than seven years; or
+
+HOUSE BILL 1557 5
+1 (6) Any other adverse item of information which antedates the report by
+2 more than seven years.
+3 (b) The provisions of subsection (a) of this section are not applicable in the case of
+4 any consumer credit report to be used in connection with:
+5 (1) A credit transaction involving, or which may reasonably be expected to
+6 involve, a principal amount of $150,000 or more;
+7 (2) The underwriting of life insurance involving, or which may reasonably
+8 be expected to involve, a face amount of $150,000 or more; or
+9 (3) The employment of any individual at an annual salary which equals, or
+10 which may reasonably be expected to equal, $75,000 or more.
+11 (C) NO CONSUMER REPORTING AGENCY MAY MAKE ANY CONSUMER
+12 REPORT CONTAINING ADVERSE CREDIT INFORMATION FOR A CONSUMER WHILE THE
+13 CONSUMER IS A QUALIFIED INDIVIDUAL, AS DEFINED IN § 9–4101 OF THE STATE
+14 GOVERNMENT ARTICLE.
+15 14–1212.1.
+16 (b) (2) This section does not apply to:
+17 (i) A check services or fraud prevention services company that
+18 issues:
+19 1. Reports on incidents of fraud; or
+20 2. Authorizations for the purpose of approving or processing
+21 negotiable instruments, electronic funds transfers, or similar payment methods;
+22 (ii) A deposit account information service company that issues
+23 reports regarding account closures due to fraud, substantial overdrafts, automated teller
+24 machine abuse, or similar negative information regarding a consumer to inquiring banks
+25 or other financial institutions for use only in reviewing a consumer request for a deposit
+26 account at the inquiring bank or financial institution; or
+27 (c) (5) (i) Subject to subparagraph (ii) of this paragraph, a consumer
+28 reporting agency is not required to place a security freeze on a consumer report if the
+29 consumer reporting agency:
+30 1. Acts only as a reseller of credit information by assembling
+31 and merging information contained in a database of another consumer reporting agency or
+32 multiple consumer reporting agencies; and
+
+6 HOUSE BILL 1557
+1 2. Does not maintain a permanent database of credit
+2 information from which new consumer reports are produced.
+3 (ii) A consumer reporting agency that acts as a reseller of credit
+4 information shall honor a security freeze placed on a consumer report by another consumer
+5 reporting agency.
+6 14–1212.4.
+7 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+8 INDICATED.
+9 (2) “ADVERSE INFORMATION FREEZE” MEANS A RESTRICTION
+10 PLACED ON A QUALIFIED INDIVIDUAL’S RECORD IN ACCORDANCE WITH THIS
+11 SECTION THAT PROHIBITS THE CONSUMER REPORTING AGENCY FROM ADDING
+12 ADVERSE INFORMATION TO A QUALIFIED INDIVIDUAL’S CONSUMER REPORT.
+13 (3) “DEPARTMENT” MEANS THE MARYLAND DEPARTMENT OF
+14 LABOR.
+15 (4) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+16 OF THE STATE GOVERNMENT ARTICLE.
+17 (5) “RECORD” MEANS A COMPILATION OF INFORMATION THAT:
+18 (I) IDENTIFIES A QUALIFIED INDIVIDUAL;
+19 (II) IS CREATED BY A CONSUMER REPORTING AGENCY SOLELY
+20 FOR THE PURPOSE OF COMPLYING WITH THIS SECTION; AND
+21 (III) MAY NOT BE CREATED OR USED TO CONSIDER THE
+22 QUALIFIED INDIVIDUAL’S CREDITWORTHINESS, CREDIT STANDING, CREDIT
+23 CAPACITY, CHARACTER, GENERAL REPUTATION, PERSONAL CHARACTERISTICS, OR
+24 MODE OF LIVING FOR ANY PURPOSE LISTED IN § 14–1201(E)(1) OF THIS SUBTITLE.
+25 (B) THIS SECTION DOES NOT APPLY TO THE USE OF A QUALIFIED
+26 INDIVIDUAL’S CONSUMER REPORT OR RECORD BY:
+27 (1) A PERSON ADMINISTERING A CREDIT FILE MONITORING
+28 SUBSCRIPTION SERVICE TO WHICH:
+29 (I) THE QUALIFIED INDIVIDUAL HAS SUBSCRIBED; OR
+
+HOUSE BILL 1557 7
+1 (II) THE REPRESENTATIVE OF THE QUALIFIED INDIVIDUAL HAS
+2 SUBSCRIBED ON BEHALF OF THE QUALIFIED INDIVIDUAL;
+3 (2) A PERSON PROVIDING THE QUALIFIED INDIVIDUAL A COPY OF
+4 THE QUALIFIED INDIVIDUAL’S CONSUMER REPORT ON REQUEST OF THE QUALIFIED
+5 INDIVIDUAL; OR
+6 (3) AN ENTITY LISTED IN § 14–1212.1(B)(2)(I) OR (II) OR (C)(5) OF
+7 THIS SUBTITLE.
+8 (C) (1) A CONSUMER REPORTING AGENCY SHALL PLACE AN ADVERSE
+9 INFORMATION FREEZE FOR A QUALIFIED INDIVIDUAL FOR WHOM THE DEPARTMENT
+10 REQUESTS AN ADVERSE INFORMATION FREEZE UNDER SUBSECTION (G) OF THIS
+11 SECTION WITHIN 30 DAYS AFTER RECEIVING THE REQUEST.
+12 (2) IF A CONSUMER REPORTING AGENCY DOES NOT HAVE A FILE
+13 PERTAINING TO A QUALIFIED INDIVIDUAL WHEN THE CONSUMER REPORTING
+14 AGENCY RECEIVES A REQUEST FROM THE DEPARTMENT, THE CONSUMER
+15 REPORTING AGENCY SHALL CREATE A RECORD FOR THE QUALIFIED INDIVIDUAL.
+16 (D) UNLESS AN ADVERSE INFORMATION FREEZE FOR A QUALIFIED
+17 INDIVIDUAL IS REMOVED IN ACCORDANCE WITH SUBSECTION (H) OF THIS SECTION,
+18 A CONSUMER REPORTING AGENCY MAY NOT ADD ADVERSE INFORMATION TO A
+19 QUALIFIED INDIVIDUAL’S CONSUMER REPORT.
+20 (E) AN ADVERSE INFORMATION FREEZE FOR A QUALIFIED INDIVIDUAL
+21 PLACED UNDER SUBSECTION (C) OF THIS SECTION SHALL REMAIN IN EFFECT UNTIL
+22 THE QUALIFIED INDIVIDUAL IS NO LONGER ELIGIBLE FOR THE PROGRAM TO
+23 PROTECT INDIVIDUALS UNEMPLOYED OR FURLOUGHED DUE TO FEDERAL
+24 ACTIONS ESTABLISHED UNDER TITLE 9, SUBTITLE 41 OF THE STATE GOVERNMENT
+25 ARTICLE.
+26 (F) A CONSUMER REPORTING AGENCY MAY NOT CHARGE A FEE FOR ANY
+27 ACTION TAKEN TO COMPLY WITH THIS SECTION.
+28 (G) (1) AT LEAST ANNUALLY, THE DEPARTMENT SHALL SEND TO EACH
+29 CONSUMER REPORTING AGENCY BY ELECTRONIC TRANSMISSION A LIST OF
+30 INDIVIDUALS WHO ARE QUALIFIED INDIVIDUALS.
+31 (2) THE DEPARTMENT SHALL REQUEST AN ADVERSE INFORMATION
+32 FREEZE FOR EACH QUALIFIED INDIVIDUAL ON THE LIST SPECIFIED UNDER
+33 PARAGRAPH (1) OF THIS SUBSECTION ON BEHALF OF THE QUALIFIED INDIVIDUAL.
+
+8 HOUSE BILL 1557
+1 (3) (I) THE DEPARTMENT SHALL SUBMIT A REQUEST FOR AN
+2 ADVERSE INFORMATION FREEZE TO A CONSUMER REPORTING AGENCY BY
+3 ELECTRONIC TRANSMISSION TO THE E–MAIL ADDRESS OF THE CONSUMER
+4 REPORTING AGENCY OR OTHER POINT OF CONTACT IN THE MANNER SPECIFIED BY
+5 THE CONSUMER REPORTING AGENCY.
+6 (II) THE DEPARTMENT MAY ENTER INTO AN AGREEMENT WITH
+7 A CONSUMER REPORTING AGENCY CONCERNING THE TRANSMISSION OF
+8 INFORMATION BETWEEN THE DEPARTMENT AND A CONSUMER REPORTING AGENCY
+9 TO FACILITATE THE IMPLEMENTATION OF THIS SUBSECTION.
+10 (H) A CONSUMER REPORTING AGENCY MAY REMOVE AN ADVERSE
+11 INFORMATION FREEZE FOR A QUALIFIED INDIVIDUAL OR DELETE A RECORD OF A
+12 QUALIFIED INDIVIDUAL IF THE ADVERSE INFORMATION FREEZE WAS PLACED OR
+13 THE RECORD WAS CREATED BASED ON A MATERIAL MISREPRESENTATION OF FACT
+14 BY THE QUALIFIED INDIVIDUAL.
+15 (I) A PERSON MAY NOT REPORT ADVERSE INFORMATION THAT IS SUBJECT
+16 TO AN ADVERSE INFORMATION FREEZE UNDER THIS SECTION TO A CONSUMER
+17 REPORTING AGENCY.
+18 (J) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, THE EXCLUSIVE
+19 REMEDY FOR A VIOLATION OF THIS SECTION SHALL BE A COMPLAINT FILED WITH
+20 THE COMMISSIONER UNDER § 14–1225 OF THIS SUBTITLE.
+21 14–1225.
+22 (a) Any consumer who has reason to believe that this subtitle, or any other law
+23 regulating consumer credit reporting, has been violated by any person may file with the
+24 Commissioner a complaint setting forth the details of an alleged violation.
+25 (b) After receipt of the complaint, the Commissioner may inspect the pertinent
+26 books, records, letters and contracts of any agency, and of any person who has furnished
+27 information to the agency relating to the specific written complaint.
+28 Article – Financial Institutions
+29 1–101.
+30 (a) In this article, unless the context clearly requires otherwise, the following
+31 words have the meanings indicated.
+32 (d) “Banking institution” means an institution that is incorporated under the
+33 laws of this State as a State bank, trust company, or savings bank.
+
+HOUSE BILL 1557 9
+1 (i) “Credit union” means a credit union that is incorporated under the laws of this
+2 State as a credit union.
+3 (j) “Financial institution” means any financial institution of the type supervised
+4 under this article, whether or not State–chartered.
+5 (n) “Mortgage” includes a deed of trust that secures a debt or the performance of
+6 an obligation.
+7 5–514.
+8 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+9 INDICATED.
+10 (2) “CONVENTIONAL HOME MORTGAGE LOAN” HAS THE MEANING
+11 STATED IN § 11–501 OF THIS ARTICLE.
+12 (3) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+13 OF THE STATE GOVERNMENT ARTICLE.
+14 (4) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+15 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+16 (B) THIS SECTION APPLIES ONLY TO A BANKING INSTITUTION THAT MADE A
+17 CONVENTIONAL HOME MORTGAGE LOAN TO A QUALIFIED INDIVIDUAL WHO SUBMITS
+18 TO THE BANKING INSTITUTION:
+19 (1) VERIFICATION THAT THE CUSTOMER IS A QUALIFIED INDIVIDUAL;
+20 AND
+21 (2) A QUALIFIED PAYMENT PLAN TO PAY ANY MISSED PAYMENTS FOR
+22 THE BORROWER’S MORTGAGE AFTER THE BORROWER IS NO LONGER A QUALIFIED
+23 INDIVIDUAL.
+24 (C) A BANKING INSTITUTION:
+25 (1) SHALL ACCEPT FROM A QUALIFIED INDIVIDUAL A PARTIAL
+26 PAYMENT OF ANY LOAN PAYMENTS DUE; AND
+27 (2) MAY NOT IMPOSE A LATE FEE OR PENALTY ON A QUALIFIED
+28 INDIVIDUAL FOR THE NONPAYMENT OF THE QUALIFIED INDIVIDUAL’S MORTGAGE.
+29 6–606.1.
+
+10 HOUSE BILL 1557
+1 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (2) “CONVENTIONAL HOME MORTGAGE LOAN” HAS THE MEANING
+4 STATED IN § 11–501 OF THIS ARTICLE.
+5 (3) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+6 OF THE STATE GOVERNMENT ARTICLE.
+7 (4) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+8 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+9 (B) THIS SECTION APPLIES ONLY TO A CREDIT UNION THAT MADE A
+10 CONVENTIONAL HOME MORTGAGE LOAN TO A QUALIFIED INDIVIDUAL WHO SUBMITS
+11 TO THE CREDIT UNION:
+12 (1) VERIFICATION THAT THE CUSTOMER IS A QUALIFIED INDIVIDUAL;
+13 AND
+14 (2) A QUALIFIED PAYMENT PLAN TO PAY ANY MISSED PAYMENTS FOR
+15 THE BORROWER’S MORTGAGE AFTER THE BORROWER IS NO LONGER A QUALIFIED
+16 INDIVIDUAL.
+17 (C) A CREDIT UNION:
+18 (1) SHALL ACCEPT FROM A QUALIFIED INDIVIDUAL A PARTIAL
+19 PAYMENT OF ANY LOAN PAYMENT DUE; AND
+20 (2) MAY NOT IMPOSE A LATE FEE OR PENALTY ON A QUALIFIED
+21 INDIVIDUAL FOR THE NONPAYMENT OF THE QUALIFIED INDIVIDUAL’S MORTGAGE.
+22 8–101.
+23 (a) In this title and in Title 9, the following words have the meanings indicated.
+24 (i) “Savings and loan association” or “association” means, unless the context
+25 clearly requires otherwise, a corporation that is chartered under the laws of this State as a
+26 savings and loan association.
+27 9–409.
+28 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+29 INDICATED.
+
+HOUSE BILL 1557 11
+1 (2) “CONVENTIONAL HOME MORTGAGE LOAN” HAS THE MEANING
+2 STATED IN § 11–501 OF THIS ARTICLE.
+3 (3) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+4 OF THE STATE GOVERNMENT ARTICLE.
+5 (4) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+6 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+7 (B) THIS SECTION APPLIES ONLY TO A SAVINGS AND LOAN ASSOCIATION
+8 THAT MADE A CONVENTIONAL HOME MORTGAGE LOAN TO A QUALIFIED INDIVIDUAL
+9 WHO SUBMITS TO THE SAVINGS AND LOAN ASSOCIATION:
+10 (1) VERIFICATION THAT THE CUSTOMER IS A QUALIFIED INDIVIDUAL;
+11 AND
+12 (2) A QUALIFIED PAYMENT PLAN TO PAY ANY MISSED PAYMENTS FOR
+13 THE BORROWER’S MORTGAGE AFTER THE BORROWER IS NO LONGER A QUALIFIED
+14 INDIVIDUAL.
+15 (C) A SAVINGS AND LOAN ASSOCIATION:
+16 (1) SHALL ACCEPT FROM A QUALIFIED INDIVIDUAL A PARTIAL
+17 PAYMENT OF ANY LOAN PAYMENT DUE; AND
+18 (2) MAY NOT IMPOSE A LATE FEE OR PENALTY ON A QUALIFIED
+19 INDIVIDUAL FOR THE NONPAYMENT OF THE QUALIFIED INDIVIDUAL’S MORTGAGE.
+20 11–501.
+21 (a) In this subtitle the following words have the meanings indicated.
+22 (B–1) (1) “CONVENTIONAL HOME MORTGAGE LOAN” MEANS ANY LOAN
+23 PRIMARILY FOR PERSONAL, FAMILY, OR HOUSEHOLD USE THAT IS SECURED BY A
+24 MORTGAGE, DEED OF TRUST, OR OTHER EQUIVALENT CONSENSUAL SECURITY
+25 INTEREST ON A DWELLING OR RESIDENTIAL REAL ESTATE ON WHICH A DWELLING
+26 IS CONSTRUCTED OR INTENDED TO BE CONSTRUCTED.
+27 (2) “CONVENTIONAL HOME MORTGAGE LOAN” DOES NOT INCLUDE A
+28 LOAN THAT IS INSURED OR GUARANTEED BY THE FEDERAL GOVERNMENT.
+29 (c) (1) “Dwelling” means a residential structure or mobile home that contains
+30 one to four family housing units or individual units of condominiums or cooperatives.
+
+12 HOUSE BILL 1557
+1 (2) “Dwelling” does not include a residential structure or mobile home
+2 unless the residential structure or mobile home, or at least one unit contained in the
+3 residential structure or mobile home, is owner–occupied.
+4 (k) (1) “Mortgage lender” means any person who:
+5 (i) Is a mortgage broker;
+6 (ii) Makes a mortgage loan to any person; or
+7 (iii) Is a mortgage servicer.
+8 (2) “Mortgage lender” does not include:
+9 (i) A financial institution that accepts deposits and is regulated
+10 under Title 3, Title 4, Title 5, or Title 6 of this article;
+11 (ii) The Federal Home Loan Mortgage Corporation;
+12 (iii) The Federal National Mortgage Association;
+13 (iv) The Government National Mortgage Association;
+14 (v) Any person engaged exclusively in the acquisition of all or any
+15 portion of a mortgage loan under any federal, State, or local governmental program of
+16 mortgage loan purchases; or
+17 (vi) An affiliated insurance producer–mortgage loan originator
+18 licensed under § 11–603.1 of this title.
+19 (l) (1) “Mortgage lending business” means the activities set forth in the
+20 definition of “mortgage lender” in subsection (k) of this section which require that person
+21 to be licensed under this subtitle.
+22 (2) “Mortgage lending business” includes the making or procuring of
+23 mortgage loans secured by a dwelling or residential real estate located outside Maryland.
+24 (n) “Mortgage loan originator” has the meaning stated in § 11–601 of this title.
+25 11–522.
+26 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+27 INDICATED.
+28 (2) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+29 OF THE STATE GOVERNMENT ARTICLE.
+
+HOUSE BILL 1557 13
+1 (3) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+2 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+3 (B) THIS SECTION APPLIES ONLY TO A MORTGAGE LENDER OR MORTGAGE
+4 LENDING BUSINESS THAT MADE A CONVENTIONAL HOME MORTGAGE LOAN TO A
+5 QUALIFIED INDIVIDUAL WHO SUBMITS TO THE MORTGAGE LENDER OR MORTGAGE
+6 LENDING BUSINESS:
+7 (1) VERIFICATION THAT THE CUSTOMER IS A QUALIFIED INDIVIDUAL;
+8 AND
+9 (2) A QUALIFIED PAYMENT PLAN TO PAY ANY MISSED PAYMENTS FOR
+10 THE BORROWER’S MORTGAGE AFTER THE BORROWER IS NO LONGER A QUALIFIED
+11 INDIVIDUAL.
+12 (C) A MORTGAGE LENDER OR MORTGAGE LENDING BUSINESS:
+13 (1) SHALL ACCEPT FROM A QUALIFIED INDIVIDUAL A PARTIAL
+14 PAYMENT OF ANY LOAN PAYMENT DUE; AND
+15 (2) MAY NOT IMPOSE A LATE FEE OR PENALTY ON A QUALIFIED
+16 INDIVIDUAL FOR THE NONPAYMENT OF THE QUALIFIED INDIVIDUAL’S MORTGAGE.
+17 11–601.
+18 (a) In this subtitle the following words have the meanings indicated.
+19 (q) (1) “Mortgage loan originator” means an individual who for compensation
+20 or gain, or in the expectation of compensation or gain:
+21 (i) Takes a loan application; or
+22 (ii) Offers or negotiates terms of a mortgage loan.
+23 (2) “Mortgage loan originator” does not include an individual who:
+24 (i) Acts solely as a mortgage loan processor or underwriter;
+25 (ii) Performs only real estate brokerage activities and is licensed in
+26 accordance with Title 17 of the Business Occupations and Professions Article, unless the
+27 individual is compensated by a mortgage lender, mortgage broker, or other mortgage loan
+28 originator or by any agent of a mortgage lender, mortgage broker, or other mortgage loan
+29 originator;
+
+14 HOUSE BILL 1557
+1 (iii) Is involved solely in extensions of credit relating to timeshare
+2 plans, as that term is defined in 11 U.S.C. § 101(53D); or
+3 (iv) Is a retailer of mobile homes or an employee of the retailer if the
+4 retailer or employee, as applicable, does not receive, directly or indirectly, compensation or
+5 gain for engaging in activities described in paragraph (1) of this subsection that is in excess
+6 of compensation or gain received in a comparable cash transaction.
+7 11–605.1.
+8 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+9 INDICATED.
+10 (2) “CONVENTIONAL HOME MORTGAGE LOAN” HAS THE MEANING
+11 STATED IN § 11–501 OF THIS TITLE.
+12 (3) “DWELLING” HAS THE MEANING STATED IN § 11–501 OF THIS
+13 TITLE.
+14 (4) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+15 OF THE STATE GOVERNMENT ARTICLE.
+16 (5) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+17 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+18 (B) THIS SECTION APPLIES ONLY TO A MORTGAGE LOAN ORIGINATOR THAT
+19 MADE A CONVENTIONAL HOME MORTGAGE LOAN TO A QUALIFIED INDIVIDUAL WHO
+20 SUBMITS TO THE MORTGAGE LOAN ORIGINATOR:
+21 (1) VERIFICATION THAT THE CUSTOMER IS A QUALIFIED INDIVIDUAL;
+22 AND
+23 (2) A QUALIFIED PAYMENT PLAN TO PAY ANY MISSED PAYMENTS FOR
+24 THE BORROWER’S MORTGAGE AFTER THE BORROWER IS NO LONGER A QUALIFIED
+25 INDIVIDUAL.
+26 (C) A MORTGAGE LOAN ORIGINATOR:
+27 (1) SHALL ACCEPT FROM A QUALIFIED INDIVIDUAL A PARTIAL
+28 PAYMENT OF ANY LOAN PAYMENT DUE; AND
+29 (2) MAY NOT IMPOSE A LATE FEE OR PENALTY ON A QUALIFIED
+30 INDIVIDUAL FOR THE NONPAYMENT OF THE QUALIFIED INDIVIDUAL’S MORTGAGE.
+
+HOUSE BILL 1557 15
+1 Article – Public Utilities
+2 1–101.
+3 (a) In this division the following words have the meanings indicated.
+4 (d) “Commission” means the Public Service Commission.
+5 (z) (1) “Public service company” means a common carrier company, electric
+6 company, gas company, sewage disposal company, telegraph company, telephone company,
+7 water company, or any combination of public service companies.
+8 (2) “Public service company” does not include:
+9 (i) a campground that provides water, electric, gas, sewage, or
+10 telephone service to campers incident to the campground’s primary business of operating
+11 and maintaining the campground; or
+12 (ii) a person that owns or operates equipment used for charging
+13 electric vehicles, including a person that owns or operates:
+14 1. an electric vehicle charging station;
+15 2. electric vehicle supply equipment; or
+16 3. an electric vehicle charging station service company or
+17 provider.
+18 7–307.5.
+19 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+20 INDICATED.
+21 (2) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+22 OF THE STATE GOVERNMENT ARTICLE.
+23 (3) “QUALIFIED PAYMENT PLAN” HAS THE MEANING STATED IN §
+24 9–4101 OF THE STATE GOVERNMENT ARTICLE.
+25 (B) A PUBLIC SERVICE COMPANY MAY NOT TERMINATE ELECTRIC OR GAS
+26 SERVICE OR ASSESS A LATE FEE, PENALTY, OR INTEREST TO A CUSTOMER WHO IS A
+27 QUALIFIED INDIVIDUAL FOR NONPAYMENT IF THE CUSTOMER CONTACTS THE
+28 PUBLIC SERVICE COMPANY BEFORE THE DATE OF TERMINATION TO:
+
+16 HOUSE BILL 1557
+1 (1) PROVIDE VERIFICATION THAT THE CUSTOMER IS A QUALIFIED
+2 INDIVIDUAL; AND
+3 (2) ENTER INTO A QUALIFIED PAYMENT PLAN TO PAY ANY
+4 OUTSTANDING AMOUNT ON THE CUSTOMER’S ACCOUNT AFTER THE CUSTOMER IS NO
+5 LONGER A QUALIFIED INDIVIDUAL.
+6 (C) IF A PUBLIC SERVICE COMPANY TERMINATES, FOR ANY REASON, THE
+7 ELECTRIC OR GAS SERVICE OF A CUSTOMER WHO IS A QUALIFIED INDIVIDUAL, THE
+8 COMPANY SHALL RESTORE THE SERVICE.
+9 (D) A PUBLIC SERVICE COMPANY SHALL ACCEPT PARTIAL PAYMENT OF A
+10 CHARGE FOR ELECTRIC OR GAS SERVICE FROM A QUALIFIED INDIVIDUAL.
+11 (E) IN CONSULTATION WITH THE MARYLAND DEPARTMENT OF LABOR, THE
+12 COMMISSION MAY ADOPT REGULATIONS TO IMPLEMENT THIS SECTION.
+13 Article – Real Property
+14 7–105.1.
+15 (a) (1) In this section the following words have the meanings indicated.
+16 (8) “Owner–occupied residential property” means residential property in
+17 which at least one unit is occupied by an individual who:
+18 (i) Has an ownership interest in the property; and
+19 (ii) Uses the property as the individual’s primary residence.
+20 (12) “QUALIFIED INDIVIDUAL” HAS THE MEANING STATED IN § 9–4101
+21 OF THE STATE GOVERNMENT ARTICLE.
+22 (13) “QUALIFIED LANDLORD” HAS THE MEANING STATED IN § 9–4101
+23 OF THE STATE GOVERNMENT ARTICLE.
+24 [(12)] (14) “Residential property” means real property improved by four or
+25 fewer single family dwelling units that are designed principally and are intended for human
+26 habitation.
+27 (b–1) (1) This subsection applies only to an action for the foreclosure of a
+28 mortgage or deed of trust on an owner–occupied residential property.
+29 (2) Notwithstanding any other law, the court shall stay the proceedings if
+30 the defendant presents evidence satisfactory to the court that the defendant is:
+
+HOUSE BILL 1557 17
+1 (i) An employee of the federal or State government or an employee
+2 of a local government in the State; and
+3 (ii) Involuntarily furloughed from work without pay because of a
+4 government shutdown, regardless of whether the employee is required to report to work
+5 during the furlough.
+6 (3) (i) Subject to subparagraph (ii) of this paragraph, a stay under this
+7 subsection shall be granted for a time that the court considers reasonable.
+8 (ii) A stay under this subsection may not be granted for a period that
+9 ends more than 30 days after the end of the government shutdown without a showing of
+10 sufficient cause by a party to the action.
+11 (B–2) (1) THIS SUBSECTION APPLIES ONLY TO AN ACTION FOR THE
+12 FORECLOSURE OF A MORTGAGE OR DEED OF TRUST ON A RESIDENTIAL PROPERTY
+13 THAT IS:
+14 (I) OWNER–OCCUPIED OR LEASED TO A TENANT; AND
+15 (II) OWNED BY A QUALIFIED LANDLORD OR A QUALIFIED
+16 INDIVIDUAL.
+17 (2) NOTWITHSTANDING ANY OTHER LAW, THE COURT SHALL STAY
+18 THE PROCEEDINGS IF THE DEFENDANT PRESENTS TO THE COURT VERIFICATION
+19 FROM THE MARYLAND DEPARTMENT OF LABOR THAT THE DEFENDANT IS A
+20 QUALIFIED LANDLORD OR A QUALIFIED INDIVIDUAL.
+21 (3) A STAY UNDER THIS SUBSECTION SHALL BE GRANTED UNTIL A
+22 DATE AFTER THE DEFENDANT IS NO LONGER ELIGIBLE TO BE A QUALIFIED
+23 LANDLORD OR QUALIFIED INDIVIDUAL THAT THE COURT CONSIDERS REASONABLE.
+24 (q) An action for failure to comply with the provisions of this section shall be
+25 brought within 3 years after the date of the order ratifying the sale.
+26 (s) The Commissioner of Financial Regulation may adopt additional regulations
+27 necessary to carry out the requirements of this section.
+28 8–121.
+29 (A) THIS SECTION APPLIES ONLY TO A TENANT OF A RESIDENTIAL
+30 PROPERTY WHO IS A QUALIFIED INDIVIDUAL, AS DEFINED IN § 9–4101 OF THE STATE
+31 GOVERNMENT ARTICLE.
+
+18 HOUSE BILL 1557
+1 (B) A TENANT SHALL:
+2 (1) ADHERE TO A QUALIFIED PAYMENT PLAN, AS DEFINED IN §
+3 9–4101 OF THE STATE GOVERNMENT ARTICLE; AND
+4 (2) PROVIDE VERIFICATION FROM THE MARYLAND DEPARTMENT OF
+5 LABOR WHEN:
+6 (I) THE TENANT IS DECLARED A QUALIFIED INDIVIDUAL; OR
+7 (II) THE TENANT’S STATUS AS A QUALIFIED INDIVIDUAL
+8 TERMINATES.
+9 (C) A LANDLORD:
+10 (1) MAY NOT IMPOSE A LATE FEE OR PENALTY ON A TENANT WHO IS
+11 A QUALIFIED INDIVIDUAL;
+12 (2) SHALL ACCEPT PARTIAL PAYMENT FOR:
+13 (I) UNPAID RENT; OR
+14 (II) A LATE FEE OR PENALTY IMPOSED ON A TENANT BEFORE
+15 THE TENANT BECAME A QUALIFIED INDIVIDUAL; AND
+16 (3) SHALL ACCEPT A QUALIFIED PAYMENT PLAN SUBMITTED BY A
+17 TENANT FOR UNPAID RENT OR A LATE FEE OR PENALTY.
+18 8–401.
+19 (a) Whenever the tenant or tenants fail to pay the rent when due and payable, it
+20 shall be lawful for the landlord to have again and repossess the premises in accordance
+21 with this section.
+22 (d) (1) This subsection applies only to an action for the repossession of
+23 residential property for failure to pay rent due during a government shutdown.
+24 (2) Notwithstanding any other law, the court shall stay the proceeding if
+25 the tenant or an occupant of the property that is the subject of the proceeding presents
+26 evidence satisfactory to the court that the occupant:
+27 (i) Uses the property as the individual’s primary residence;
+28 (ii) Is an employee of the federal or State government or an employee
+29 of a local government in the State; and
+
+HOUSE BILL 1557 19
+1 (iii) Is involuntarily furloughed from work without pay because of a
+2 government shutdown, regardless of whether the employee is required to report to work
+3 during the furlough.
+4 (3) (i) Subject to subparagraph (ii) of this paragraph, a stay under this
+5 subsection shall be granted for a time that the court considers reasonable.
+6 (ii) A stay under this subsection may not be granted for a period that
+7 ends more than 30 days after the end of the government shutdown without a showing of
+8 sufficient cause by a party to the action.
+9 (D–1) (1) THIS SUBSECTION APPLIES ONLY TO AN ACTION FOR THE
+10 REPOSSESSION OF RESIDENTIAL PROPERTY FOR FAILURE TO PAY RENT DUE BY A
+11 TENANT WHO IS A QUALIFIED INDIVIDUAL, AS DEFINED IN § 9–4101 OF THE STATE
+12 GOVERNMENT ARTICLE.
+13 (2) NOTWITHSTANDING ANY OTHER LAW, THE COURT SHALL STAY
+14 THE PROCEEDING IF THE TENANT OR AN OCCUPANT OF THE PROPERTY THAT IS THE
+15 SUBJECT OF THE PROCEEDING PRESENTS TO THE COURT VERIFICATION FROM THE
+16 MARYLAND DEPARTMENT OF LABOR THAT THE OCCUPANT IS A QUALIFIED
+17 INDIVIDUAL.
+18 (3) A STAY UNDER THIS SUBSECTION SHALL BE GRANTED UNTIL A
+19 DATE AFTER THE DEFENDANT LOSES STATUS AS A QUALIFIED LANDLORD OR
+20 QUALIFIED INDIVIDUAL THAT THE COURT CONSIDERS REASONABLE.
+21 Article – State Government
+22 SUBTITLE 41. PROGRAM TO PROTECT INDIVIDUALS UNEMPLOYED OR
+23 FURLOUGHED DUE TO FEDERAL ACTIONS.
+24 9–4101.
+25 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+26 INDICATED.
+27 (B) “DEPARTMENT” MEANS THE MARYLAND DEPARTMENT OF LABOR.
+28 (C) “PROGRAM” MEANS THE PROGRAM TO PROTECT INDIVIDUALS
+29 UNEMPLOYED OR FURLOUGHED DUE TO FEDERAL ACTIONS.
+
+20 HOUSE BILL 1557
+1 (D) (1) “QUALIFIED FURLOUGHED INDIVIDUAL” MEANS AN EMPLOYEE
+2 OF THE FEDERAL GOVERNMENT DURING A FEDERAL GOVERNMENT SHUTDOWN
+3 THAT LASTS FOR A PERIOD OF 30 DAYS OR MORE.
+4 (2) AN INDIVIDUAL MAY NOT BE CONSIDERED A “QUALIFIED
+5 FURLOUGHED INDIVIDUAL” IF THE FEDERAL GOVERNMENT IS NOT SHUT DOWN.
+6 (E) “QUALIFIED INDIVIDUAL” MEANS A QUALIFIED FURLOUGHED
+7 INDIVIDUAL OR A QUALIFIED UNEMPLOYED INDIVIDUAL.
+8 (F) “QUALIFIED LANDLORD” MEANS A LANDLORD WHO LEASES A
+9 RESIDENTIAL PROPERTY TO A QUALIFIED INDIVIDUAL.
+10 (G) “QUALIFIED PAYMENT PLAN” MEANS AN INTEREST–FREE PAYMENT
+11 PLAN THAT ALLOWS A QUALIFIED INDIVIDUAL TO REPAY AN OUTSTANDING
+12 BALANCE, FEE, OR OTHER MONEY OWED OVER A PERIOD OF 2 YEARS.
+13 (H) (1) “QUALIFIED UNEMPLOYED INDIVIDUAL” MEANS AN INDIVIDUAL
+14 WHO IS UNEMPLOYED DIRECTLY OR INDIRECTLY DUE TO PERSONNEL ACTIONS BY
+15 THE FEDERAL GOVERNMENT OR CHANGES IN THE FEDERAL GOVERNMENT’S
+16 BUDGET, CONTRACTS, OR FUNDING THAT OCCURRED ON OR AFTER JANUARY 20,
+17 2025.
+18 (2) “QUALIFIED UNEMPLOYED INDIVIDUAL” INCLUDES:
+19 (I) A FORMER OR FURLOUGHED FEDERAL CONTRACTOR;
+20 (II) A FORMER EMPLOYEE OF A BUSINESS THAT CLOSED OR
+21 REDUCED STAFF DIRECTLY OR INDIRECTLY DUE TO PERSONNEL ACTIONS BY THE
+22 FEDERAL GOVERNMENT OR CHANGES IN THE FEDERAL GOVERNMENT’S BUDGET,
+23 CONTRACTS, OR FUNDING; AND
+24 (III) A FORMER OWNER OF A BUSINESS THAT CLOSED DIRECTLY
+25 OR INDIRECTLY DUE TO PERSONNEL ACTIONS BY THE FEDERAL GOVERNMENT OR
+26 CHANGES IN THE FEDERAL GOVERNMENT’S BUDGET, CONTRACTS, OR FUNDING.
+27 (3) “QUALIFIED UNEMPLOYED INDIVIDUAL” DOES NOT INCLUDE AN
+28 INDIVIDUAL WHO RECEIVES WAGES FOR PERFORMING WORK.
+29 9–4102.
+30 (A) THERE IS A PROGRAM TO PROTECT INDIVIDUALS UNEMPLOYED OR
+31 FURLOUGHED DUE TO FEDERAL ACTIONS.
+
+HOUSE BILL 1557 21
+1 (B) THE DEPARTMENT SHALL ADMINISTER THE PROGRAM.
+2 9–4103.
+3 (A) THE DEPARTMENT SHALL:
+4 (1) ESTABLISH AN APPLICATION PROCESS FOR INDIVIDUALS WHO
+5 MAY QUALIFY FOR THE PROGRAM;
+6 (2) EVALUATE APPLICATIONS FOR ELIGIBILITY;
+7 (3) NOTIFY AN INDIVIDUAL WHO IS DETERMINED TO BE A QUALIFIED
+8 FURLOUGHED INDIVIDUAL, A QUALIFIED LANDLORD, OR A QUALIFIED UNEMPLOYED
+9 INDIVIDUAL:
+10 (I) THAT THE INDIVIDUAL WAS DETERMINED TO BE QUALIFIED
+11 FOR THE PROGRAM;
+12 (II) OF THE CONDITIONS THAT WOULD DISQUALIFY AN
+13 INDIVIDUAL FROM THE PROGRAM; AND
+14 (III) OF THE RIGHTS AND PROTECTIONS AFFORDED TO THE
+15 INDIVIDUAL UNDER THE PROGRAM;
+16 (4) REGULARLY REEVALUATE WHETHER A QUALIFIED INDIVIDUAL
+17 REMAINS ELIGIBLE FOR THE PROGRAM; AND
+18 (5) AT THE REQUEST OF A QUALIFIED INDIVIDUAL OR A QUALIFIED
+19 LANDLORD, PROVIDE VERIFICATION THAT THE INDIVIDUAL IS A QUALIFIED
+20 INDIVIDUAL OR A QUALIFIED LANDLORD TO AN ENTITY THAT IS REQUIRED TO DO OR
+21 PROHIBITED FROM DOING AN ACTION BECAUSE THE INDIVIDUAL IS A QUALIFIED
+22 INDIVIDUAL OR A QUALIFIED LANDLORD, INCLUDING:
+23 (I) A BANKING INSTITUTION, AS DEFINED IN § 1–101 OF THE
+24 FINANCIAL INSTITUTIONS ARTICLE;
+25 (II) A COLLECTOR, AS DEFINED IN § 14–201 OF THE
+26 COMMERCIAL LAW ARTICLE;
+27 (III) A COLLECTOR, AS DEFINED IN § 1–101 OF THE
+28 TAX – PROPERTY ARTICLE;
+
+22 HOUSE BILL 1557
+1 (IV) A CONSUMER REPORTING AGENCY, AS DEFINED IN §
+2 14–1201 OF THE COMMERCIAL LAW ARTICLE;
+3 (V) A CREDIT UNION, AS DEFINED IN § 1–101 OF THE FINANCIAL
+4 INSTITUTIONS ARTICLE;
+5 (VI) AN ENTITY SEEKING TO FORECLOSE A RESIDENTIAL
+6 PROPERTY UNDER § 7–105.1 OF THE REAL PROPERTY ARTICLE;
+7 (VII) A LANDLORD SUBJECT TO § 8–208 OF THE REAL PROPERTY
+8 ARTICLE;
+9 (VIII) A MORTGAGE LENDER, AS DEFINED IN § 11–501 OF THE
+10 FINANCIAL INSTITUTIONS ARTICLE;
+11 (IX) A MORTGAGE LENDING BUSINESS, AS DEFINED IN § 11–501
+12 OF THE FINANCIAL INSTITUTIONS ARTICLE;
+13 (X) A MORTGAGE LOAN ORIGINATOR, AS DEFINED IN § 11–501
+14 OF THE FINANCIAL INSTITUTIONS ARTICLE;
+15 (XI) A PUBLIC SERVICE COMPANY, AS DEFINED IN § 1–101 OF
+16 THE PUBLIC UTILITIES ARTICLE; OR
+17 (XII) A SAVINGS AND LOAN ASSOCIATION, AS DEFINED IN § 8–101
+18 OF THE FINANCIAL INSTITUTIONS ARTICLE.
+19 (B) (1) THIS SUBSECTION DOES NOT APPLY TO A QUALIFIED PAYMENT
+20 PLAN THAT A QUALIFIED INDIVIDUAL ENTERS WHILE PARTICIPATING IN THE
+21 PROGRAM.
+22 (2) FOR PURPOSES OF PARTICIPATING IN THE PROGRAM, AN
+23 INDIVIDUAL MAY NOT REMAIN:
+24 (I) A QUALIFIED INDIVIDUAL FOR MORE THAN 1 YEAR; OR
+25 (II) WHILE RECEIVING WAGES FOR PERFORMING WORK.
+26 (C) ON THE EARLIER OF THE DATE AN INDIVIDUAL LOSES ELIGIBILITY TO
+27 PARTICIPATE IN THE PROGRAM OR 30 DAYS BEFORE A QUALIFIED INDIVIDUAL WILL
+28 LOSE ELIGIBILITY TO BE IN THE PROGRAM DUE TO REACHING THE END OF THE
+29 1–YEAR ELIGIBILITY PERIOD, THE DEPARTMENT SHALL PROVIDE NOTICE TO A
+30 QUALIFIED INDIVIDUAL OF:
+
+HOUSE BILL 1557 23
+1 (1) WHEN THE INDIVIDUAL’S ELIGIBILITY ENDED OR IS SCHEDULED
+2 TO END;
+3 (2) THE PROTECTIONS PROVIDED BY THE PROGRAM THAT WILL NO
+4 LONGER APPLY TO THE INDIVIDUAL;
+5 (3) THE INDIVIDUAL’S RIGHT TO A QUALIFIED PAYMENT PLAN, EVEN
+6 AFTER THE INDIVIDUAL’S ELIGIBILITY FOR THE PROGRAM EXPIRES; AND
+7 (4) CONSUMER PROTECTION RESOURCES THAT ARE AVAILABLE TO
+8 INDIVIDUALS IN THE STATE.
+9 (D) A QUALIFIED INDIVIDUAL SHALL COMPLY WITH REQUIREMENTS SET BY
+10 THE DEPARTMENT TO VERIFY WHETHER THE QUALIFIED INDIVIDUAL CONTINUES
+11 TO BE ELIGIBLE FOR THE PROGRAM.
+12 9–4104.
+13 THE DEPARTMENT MAY ADOPT REGULATIONS TO CARRY OUT THIS SUBTITLE.
+14 9–4105.
+15 THIS SUBTITLE MAY BE CITED AS THE UNEMPLOYED AND FURLOUGHED
+16 WORKERS ASSISTANCE ACT.
+17 Article – Tax – Property
+18 1–101.
+19 (a) In this article the following words have the meanings indicated.
+20 (e) “Collector” includes an officer of a county or municipal corporation who has a
+21 duty to collect or remit taxes.
+22 14–811.
+23 (J) THE COLLECTOR SHALL WITHHOLD FROM SALE THE DWELLING OF A
+24 HOMEOWNER WHO IS:
+25 (1) A QUALIFIED INDIVIDUAL, AS DEFINED IN § 9–4101 OF THE STATE
+26 GOVERNMENT ARTICLE; OR
+
+24 HOUSE BILL 1557
+1 (2) A QUALIFIED LANDLORD, AS DEFINED IN § 9–4101 OF THE STATE
+2 GOVERNMENT ARTICLE.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That §§ 5–514, 6–606.1, 9–409,
+4 11–522, and 11–605.1 of the Financial Institutions Article, as enacted by Section 1 of this
+5 Act, shall be construed to apply retroactively and shall be applied to and interpreted to
+6 affect any conventional home mortgage loan entered into prior to the effective date of this
+7 Act.
+8 SECTION 3. AND BE IT FURTHER ENACTED, That §§ 7–105.1, 8–121, and 8–401
+9 of the Real Property Article, as enacted by Section 1 of this Act, shall be construed to apply
+10 immediately and shall be applied to and interpreted to affect any foreclosure action, lease,
+11 or action for repossession initiated prior to the effective date of this Act.
+12 SECTION 4. AND BE IT FURTHER ENACTED, That this Act is an emergency
+13 measure, is necessary for the immediate preservation of the public health or safety, has
+14 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+15 each of the two Houses of the General Assembly, and shall take effect from the date it is
+16 enacted.
+
+[DELETED: :CA    E 5     A P A F t p o e t P t P I U o F a c s f i w a u o f a a r o c f a t A B  A S  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  H  B  A S a  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A]
+[DELETED: H 3 S t  A  ( B  A S  A  ( B  A S  A  (  S T A 1  ( I  ( “ a  ( “ a r o p p s m o c f p f o h  ( “ e t p a t o m p h a j o c i() ( ND ( “Q”§9L    T O REGA.]
+[DELETED:  H  ( “Q”§ P PN H T M S I 1SGA. T O R() H S A O T A Q I W (  T T C I A QL  ( A.() A:  ( L  ( M:  () M A L F O P O A A DL   () R.IE 1  ( E a a u s ( o t s n c r i   ( B w f d o a o t m r b   ( S m i   ( P t   ( A p f c o c t p a l w a   ( R d]
+[DELETED: H 5   ( A m  ( T a   ( A i   ( T b   ( T w() O C R A M M A CL     T§91A. R 1  ( ( T    ( A c s o f p s c t i     1 R     2 A n    ( A d a i s c t i r m o a  ( ( ( S t s ( o t p a c r c     1 A a m]
+[DELETED:  H      2 D n m a p d o c i    ( A c r a t a a a r o c i r() ( N ( “A I FE M A R O A Q ILS R I A W T T P T C R A F ALS. ( “D”MT M T A E O. ( “Q”§9L    T O RGA. ( “R”:D   () I;D  () ISN   () IA N B C O U T C T ILS CS C SG C,Y R N S ,,  E 1()).() H S D N A T T U O A QLS: ( P A A C F M  () T;HD ]
+[DELETED: H 7  () IH ( P P T Q I A C OLSL  ( A§1()()()()  BI  II  C () (  C R A S P A A E A A I F U S G O T  0. (  A C R A D N H A F T A Q I W T C R R A R F T ET T C() N A A I F F A Q H N) C R A M N A A I T ALS.() N A I F F A Q I C  Q I I N L E F T R TIUFD N N O U U T ET9,S41S I  U   T O.()  () ( A,TY  E R A B E T A L O ( T E F E Q I O T L S U  ).]
+[DELETED:  H  ( () TH E S S A R F A I F T A C R A B T T T EM A O T C  () TIH E C R A C T T O E()  C R A M R A A()   A A I F U T S T A C() NO A O OW T O   §15. 1  ( A r C  ( A b i A 1  ( I w  ( “ i m a i t i i u t l]
+[DELETED: H 9  ( “ S  ( “ u  ( “ a ) ( N ( “C H M LN H T M   11. ( “Q”§9L    T O REGA. ( “Q”§ P PN H T M S I 1SGA. T O R() H ( VL ( RS() A:  (  A F A Q I A PE   (  N I A L F O P O A QLS.]
+[DELETED:  H  ) ( N ( “C H M LN H T M   11. ( “Q”§9L    T O REGA. ( “Q”§ P PN H T M S I 1SGA. T O R() H S A O T A C U T M A ( VL ( RS() A:  (  A F A Q I A PE   (  N I A L F O P O A QLS. 8  ( I  ( “ a l a o “ m u t c c s ) ( N]
+[DELETED: H 1 ( “C H M LN H T M   11. ( “Q”§9L    T O REGA. ( “Q”§ P PN H T M S I 1SGA. T O R() H O ( VL ( RS() A:  (  A F A Q I A PE   (  N I A L F O P O A QLS. 1  ( I(– “CO H M LN M A LL Y E D O TT O O E C S ( “CN   ( ( “ o]
+[DELETED:  H    ( “ d n i a r s o m h u t r s o m h o a l o u c i t r  ( ( “    ( I    ( M    ( I   ( “    ( A f i t a d a i r u    ( T    ( T    ( T    ( A p m    ( A a i p l o l  ( ( “ l b m t a s f i t d t   ( “ l b i t m o p o m  ( “ ) ( N ( “Q”§9L    T O REGA.]
+[DELETED: H 1 ( “Q”§ P PN H T M S I 1SGA. T O R() H B T M A C H M L T A ( VL ( RS() A:  (  A F A Q I A PE   (  N I A L F O P O A QLS  1  ( I  ( ( “ o    ( T    ( O   ( “    ( A    ( P a i o o]
+[DELETED:  H     ( I p    ( I r g o ) ( N ( “C H M LN H T M   11. ( “D”§1G H T M S I   O T ( “Q”§9L    T O REGA. ( “Q”§ P PN H T M S I 1SGA. T O R() H ( VL ( RS() A:  (  A F A Q I A PE   (  N I A L F O P O A QLS.]
+[DELETED: H 1 A 1  ( I  ( “  ( ( “ c w   ( “    ( a c t p w e g s o t a    ( a p t o o o e u f c e     1 a     2 e     3 a e v c s s c o p() ( N ( “Q”§9L    T O REGA. ( “Q”§ P PN H T M S I 1SGA. T O R()  E Y  I F N I T C C T]
+[DELETED:  H  ( V T T C I A QL  ( I A Q P P T P ARS() I,FS N L ()  () IMDLN A E AR . A 7  ( ( I   ( “ w    ( H    ( U ( “Q”§9L    T O RGA. ( “Q”§9D    T O RGA. []( ()“ f h  ( ( T s a o t a a f t f o a m   ( N t]
+[DELETED: H 1    ( A o    ( I f f w w p b o a g d   ( ( S s    ( A e s(– H S A O T A A F T  () O–;WROT   () IW B A Q L O A Q ( N A O LW T C S S T A E O A T T D I AD ( S G A T D I N L E T B A Q  ( A b  ( T n ) H S A O T A T O A RL     T§91A. R]
+[DELETED:  H () A:  ( A,§ T A Q P PN A D I 1SGA; T O RE  ( PM A E:  () T;HL   () TIH TTS S A A Q I() A:  (  ( S:  () U;NT   () I L  (  A A Q P P S B A 8  ( W s w  ( ( T s a o t a a f t r o r   ( N t e    ( U    ( I o]
+[DELETED: H 1    ( I g d   ( ( S set    ( A e s(– H S A O T A A F TL     T§91A. R ( N A O LW T C S SD E O A T T O I A Q ( S G A T D L S A A Q L O  A4.PPI  R R N NDFA. U E C() N T S T F W H T M() “D”MDL.ET  A E A() “P”PPRM M T R T R NFDFA. U U E C]
+[DELETED:  H () ( “QU F IL M A E T F G D A F G S  0. ( A I M N B C A QL .() “QU IL M A Q F() “QU LD M A L W L A() “Q”U P PN M A ITF P T A A Q I T R A OE E   ,2.() ( “QUL  F G O C I T F GTST S  A ,J2 ( “Q”:L   () ;A  ()IA F E O A B T C O C FTSTS G ;  ()IATST S ,,. ( “QL () TPPIH I A R T R N N ODFA. U E C]
+[DELETED: H 2() TDP.H E R() TD:H E ( A A P F I W R; ( ; (L D   ()T R;  ()IO T C T W D A RM ;  ()IO T R A P A T T R; ( R W A Q I RM ; (D P V T T I I A QD :  () ,§1AN    IA; N RE  () ,§1IA CR A D I   O TLA; A R  () ,§11IA CR A D I   O T–PA;  R R]
+[DELETED:  H   () ,§VA C R AY A D I 1CLA; O A R  () ,§11AN     IA; R  ()IA E S T F A R    E R R71RPA;  () §88RIA    E R;  () ,§1IA M LR A D I   O TIA; N R  () ,§1XAS    I N RIA;  () ,§1AR    I N RIA;  () ,§1IA P CY A   O U T RE UA;  () ,§8IAN    I N RIA.() ( H T A Q I E W P I T. ( FP P O P I T RM A  () 1;A  R   () .IW() N R  3 B I R–, E PD T E S P N T A]
+[DELETED: H 2 ( LS (  R ( ’LSN LS RS P; ( P R T A A T T.()   E RM.TD. EETU S M B C A T N A UAA. S C A 1  ( I  ( “ d 1 ) H ( ,§91L     TA; RE ]
+[DELETED:  H  ( ,§91D     TA. R  S 1 A a A  S o i o  S m b e e]

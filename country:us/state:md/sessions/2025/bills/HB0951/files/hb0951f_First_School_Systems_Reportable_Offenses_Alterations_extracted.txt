@@ -1,0 +1,495 @@
+Title: HOUSE BILL 951
+Official Title: HOUSE BILL 951
+Number of Sections: 1
+Source: versions - First - School Systems - Reportable Offenses - Alterations
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+F1, E2 5lr0874
+By: Delegates Griffith, Buckel, Pippy, and Reilly
+Introduced and read first time: January 31, 2025
+Assigned to: Ways and Means and Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 School Systems – Reportable Offenses – Alterations
+3 FOR the purpose of including institutions and programs of higher education in which a
+4 student is enrolled as part of a dual enrollment program in the definition of “school
+5 system”; adding certain offenses to the list of offenses a law enforcement agency must
+6 report to certain school personnel under certain circumstances; requiring law
+7 enforcement agencies to notify the State’s Attorney if a student is a suspect in an
+8 investigation of certain offenses and if the student no longer is a suspect; authorizing
+9 the State’s Attorney to notify the local superintendent or the superintendent’s
+10 designee if the student is a suspect in an investigation of certain offenses; requiring
+11 the State’s Attorney to notify the local superintendent or the superintendent’s
+12 designee if a student is no longer a suspect in certain investigations; expanding a
+13 certain reporting requirement to include instances when a student is identified as a
+14 suspect for certain offenses; authorizing State’s Attorneys to make a certain
+15 notification if a student is arrested for certain offenses; and generally relating to
+16 reportable offenses in school systems.
+17 BY repealing and reenacting, with amendments,
+18 Article – Education
+19 Section 7–303
+20 Annotated Code of Maryland
+21 (2022 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Education
+25 7–303.
+26 (a) (1) In this section the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0951*
+2 HOUSE BILL 951
+1 (2) “Criminal organization” has the meaning stated in § 9–801 of the
+2 Criminal Law Article.
+3 (3) “Law enforcement agency” means the law enforcement agencies listed
+4 in § 1–101(c) of the Public Safety Article.
+5 [(4) “Local school system” means the schools and school programs under the
+6 supervision of the local superintendent.]
+7 [(5)] (4) “Local superintendent” means:
+8 (i) The county superintendent, for the county in which a student is
+9 enrolled, or a designee of the superintendent, who is an administrator; or
+10 (ii) The superintendent of schools for the:
+11 1. Archdiocese of Baltimore;
+12 2. Archdiocese of Washington; and
+13 3. Catholic Diocese of Wilmington.
+14 [(6)] (5) “Reportable offense” means an offense that:
+15 (i) Occurred off school premises;
+16 (ii) Did not occur at an event sponsored by the school; and
+17 (iii) Involved any of the following:
+18 1. A crime of violence, as defined in § 14–101 of the Criminal
+19 Law Article;
+20 2. Any of the offenses enumerated in § 3–8A–03(e)(4) of the
+21 Courts Article;
+22 3. A violation of § 4–101, § 4–102, § 4–203, or § 4–204 of the
+23 Criminal Law Article;
+24 4. A violation of § 5–602, § 5–603, § 5–604, § 5–605, § 5–606,
+25 § 5–607, § 5–608, § 5–608.1, § 5–609, § 5–612, § 5–613, § 5–614, § 5–617, § 5–618, § 5–627,
+26 or § 5–628 of the Criminal Law Article;
+27 5. A violation of § 4–503, § 9–504, or § 9–505 of the Criminal
+28 Law Article;
+HOUSE BILL 951 3
+1 6. A violation of § 6–102, § 6–103, § 6–104, or § 6–105 of the
+2 Criminal Law Article;
+3 7. A violation of § 9–802 or § 9–803 of the Criminal Law
+4 Article;
+5 8. A violation of § 3–203 of the Criminal Law Article;
+6 9. A violation of § 6–301 of the Criminal Law Article;
+7 10. A violation of § 9–302, § 9–303, or § 9–305 of the Criminal
+8 Law Article;
+9 11. A violation of § 7–105 of the Criminal Law Article;
+10 12. A violation of § 6–202 of the Criminal Law Article; [or]
+11 13. A violation of § 10–606 of the Criminal Law Article;
+12 14. A VIOLATION OF § 3–308 OF THE CRIMINAL LAW
+13 ARTICLE;
+14 15. A VIOLATION OF § 11–207 OF THE CRIMINAL LAW
+15 ARTICLE, IF THE VICTIM DOES NOT HAVE KNOWLEDGE OF OR DOES NOT CONSENT
+16 TO THE PRODUCTION OR THE DISTRIBUTION OF THE CHILD PORNOGRAPHY;
+17 16. A VIOLATION OF § 3–902 OF THE CRIMINAL LAW
+18 ARTICLE;
+19 17. A VIOLATION OF § 3–1001 OF THE CRIMINAL LAW
+20 ARTICLE;
+21 18. A VIOLATION OF § 3–802 OF THE CRIMINAL LAW
+22 ARTICLE;
+23 19. A VIOLATION OF § 3–809 OF THE CRIMINAL LAW
+24 ARTICLE; OR
+25 20. ANY OTHER ACT THAT IF COMMITTED BY AN ADULT
+26 WOULD BE A FELONY.
+27 [(7)] (6) “School principal” means the principal of the public or nonpublic
+28 school in which a student is enrolled, or a designee of the principal, who is an administrator.
+4 HOUSE BILL 951
+1 [(8)] (7) (i) “School security officer” includes a school principal,
+2 another school administrator, a law enforcement officer, or other individual employed by a
+3 [local] school system or a local government who is designated by the county superintendent
+4 or a school principal to help maintain the security and safety of a school.
+5 (ii) “School security officer” does not include a teacher.
+6 (8) “SCHOOL SYSTEM” MEANS:
+7 (I) THE SCHOOLS AND SCHOOL PROGRAMS UNDER THE
+8 SUPERVISION OF THE LOCAL SUPERINTENDENT; AND
+9 (II) THE INSTITUTION OF HIGHER EDUCATION OR HIGHER
+10 EDUCATION PROGRAM IN WHICH A STUDENT IS ENROLLED AS PART OF A DUAL
+11 ENROLLMENT PROGRAM.
+12 (9) “Student” means an individual enrolled in a public school system or
+13 nonpublic school in the State who is 5 years of age or older and under 22 years of age.
+14 (b) (1) IF A STUDENT IS THE SUSPECT IN AN INVESTIGATION OF AN ACT
+15 THAT IF COMMITTED BY AN ADULT WOULD BE A FELONY OR CRIME OF VIOLENCE,
+16 THE LAW ENFORCEMENT AGENCY CONDUCTING THE INVESTIGATION SHALL NOTIFY
+17 THE STATE’S ATTORNEY OF THE INVESTIGATION WITHIN 24 HOURS OF THE
+18 IDENTIFICATION OF THE STUDENT AS A SUSPECT OR AS SOON AS PRACTICABLE.
+19 (2) ON NOTIFICATION UNDER PARAGRAPH (1) OF THIS SUBSECTION,
+20 THE STATE’S ATTORNEY MAY NOTIFY THE LOCAL SUPERINTENDENT OR THE
+21 SUPERINTENDENT’S DESIGNEE WITHIN 24 HOURS OF THE NOTIFICATION OR AS
+22 SOON AS PRACTICABLE.
+23 (3) IF NOTIFICATION HAS BEEN MADE UNDER PARAGRAPH (1) OF
+24 THIS SUBSECTION AND THE LAW ENFORCEMENT AGENCY DETERMINES THAT THE
+25 STUDENT IS NO LONGER A SUSPECT IN THE INVESTIGATION, WITHIN 24 HOURS OF
+26 MAKING THE DETERMINATION, THE LAW ENFORCEMENT AGENCY SHALL NOTIFY
+27 THE STATE’S ATTORNEY THAT THE STUDENT IS NO LONGER A SUSPECT.
+28 (4) IF THE STATE’S ATTORNEY IS NOTIFIED UNDER PARAGRAPH (3)
+29 OF THIS SUBSECTION AND HAD PREVIOUSLY NOTIFIED THE LOCAL
+30 SUPERINTENDENT OR SUPERINTENDENT’S DESIGNEE UNDER PARAGRAPH (2) OF
+31 THIS SUBSECTION, THE STATE’S ATTORNEY SHALL NOTIFY THE LOCAL
+32 SUPERINTENDENT OR THE SUPERINTENDENT’S DESIGNEE THAT THE STUDENT IS NO
+33 LONGER A SUSPECT WITHIN 24 HOURS OF RECEIVING THE NOTIFICATION OR AS
+34 SOON AS PRACTICABLE.
+HOUSE BILL 951 5
+1 (C) (1) If a student is arrested for a reportable offense or an offense that is
+2 related to the student’s membership in a criminal organization, the law enforcement agency
+3 making the arrest:
+4 [(1)] (I) Shall notify the following individuals of the arrest and the
+5 charges within 24 hours of the arrest or as soon as practicable:
+6 [(i)] 1. The local superintendent;
+7 [(ii)] 2. The school principal; and
+8 [(iii)] 3. For a school that has a school security officer, the school
+9 security officer; and
+10 [(2)] (II) May notify the State’s Attorney of the arrest and charges.
+11 (2) IF THE STATE’S ATTORNEY DETERMINES THAT NOTIFICATION
+12 WAS NOT MADE BY A LAW ENFORCEMENT AGENCY UNDER PARAGRAPH (1) OF THIS
+13 SUBSECTION, THE STATE’S ATTORNEY MAY PROVIDE THE NOTIFICATION.
+14 [(c)] (D) The State’s Attorney shall promptly notify either the local
+15 superintendent or the school principal of the disposition of the reportable offense required
+16 to be reported under subsection [(b)] (C) of this section.
+17 [(d)] (E) Except by order of a juvenile court or other court upon good cause
+18 shown, the information obtained by an individual pursuant to subsections (b) [and], (c),
+19 AND (D) of this section:
+20 (1) Is confidential and may not be redisclosed by subpoena or otherwise
+21 except as provided pursuant to subsections [(e) and] (f) AND (G) of this section; and
+22 (2) May not be made part of the student’s permanent educational record.
+23 [(e)] (F) (1) Notwithstanding the provisions of subsection [(d)] (E) of this
+24 section, nothing shall prohibit a local superintendent or school principal from transmitting
+25 the information obtained pursuant to subsections (b) [and], (c), AND (D) of this section as
+26 a confidential file to the local superintendent of another public school system in the State
+27 or another nonpublic school in the State in which the student has enrolled or been
+28 transferred in order to carry out the purposes of this section if the disposition of the
+29 reportable offense was a conviction or an adjudication of delinquency or the criminal charge
+30 or delinquency petition is still pending.
+31 (2) A local superintendent or school principal who transmits information
+32 about a student under this subsection shall include in the transmittal information
+33 regarding any educational programming and related services provided to the student.
+6 HOUSE BILL 951
+1 [(f)] (G) The State Board shall adopt regulations to ensure that information
+2 obtained by a local superintendent, a school principal, or a school security officer under
+3 subsections (b), (c), (D), and [(e)] (F) of this section is:
+4 (1) Used to provide appropriate educational programming and related
+5 services to the student and to maintain a safe and secure school environment for students
+6 and school personnel;
+7 (2) Transmitted only to school personnel of the school in which the student
+8 is enrolled as necessary to carry out the purposes set forth in item (1) of this subsection;
+9 and
+10 (3) Destroyed when the student graduates or otherwise permanently
+11 leaves school or turns 22 years old, whichever occurs first.
+12 [(g)] (H) (1) Except as otherwise provided in paragraph (2) of this subsection,
+13 the local superintendent and the school principal shall consider prohibiting a student who
+14 is arrested for a reportable offense involving rape or a sexual offense from attending the
+15 same school or riding on the same school bus as the alleged victim of the reportable offense
+16 if such action is necessary or appropriate to protect the physical or psychological well–being
+17 of the alleged victim.
+18 (2) If a student is arrested for a reportable offense involving rape or a
+19 sexual offense and is convicted of or adjudicated delinquent for the rape or sexual offense,
+20 the student may not attend the same school or ride on the same school bus as the victim.
+21 [(h)] (I) Nothing in this section is intended to limit the manner in which a local
+22 school obtains information or uses information obtained by any lawful means other than
+23 that set forth in subsections (b), (c), (D), and [(e)] (F) of this section.
+24 [(i)] (J) Each public school that enrolls students in grades six through twelve in
+25 the State shall designate at least one school security officer.
+26 [(j)] (K) (1) On or before December 30 each year, the Department, in
+27 accordance with State and federal privacy laws, shall submit to the Governor and, in
+28 accordance with § 2–1257 of the State Government Article, the General Assembly a report
+29 that includes the following information about each reportable offense for which a local
+30 school received information under [subsection] SUBSECTIONS (b) AND (C) of this section
+31 in the preceding school year:
+32 (i) The nature of the reportable offense;
+33 (ii) Verification that the offense occurred off school premises;
+HOUSE BILL 951 7
+1 (iii) Action taken by the local school and county board after being
+2 notified of the reportable offense OR THE IDENTIFICATION OF A STUDENT AS A
+3 SUSPECT;
+4 (iv) The race, ethnicity, gender, and disability status of the student
+5 arrested for the reportable offense OR IDENTIFIED AS A SUSPECT;
+6 (v) The grade of the student arrested for the reportable offense OR
+7 IDENTIFIED AS A SUSPECT;
+8 (vi) The regular school program OR APPLICABLE DUAL
+9 ENROLLMENT PROGRAM of the student arrested for the reportable offense OR
+10 IDENTIFIED AS A SUSPECT;
+11 (vii) Whether the student’s regular school program OR APPLICABLE
+12 DUAL ENROLLMENT PROGRAM was altered as a result of the reportable offense OR
+13 IDENTIFICATION OF THE STUDENT AS A SUSPECT;
+14 (viii) If the student was removed from the student’s regular school
+15 program OR APPLICABLE DUAL ENROLLMENT PROGRAM as a result of the reportable
+16 offense OR THE IDENTIFICATION OF THE STUDENT AS A SUSPECT:
+17 1. The amount of time during which the student was
+18 removed; and
+19 2. The student’s placement and educational programming
+20 during the period of removal; and
+21 (ix) If removed from the student’s regular school program OR
+22 APPLICABLE DUAL ENROLLMENT PROGRAM, the student’s academic performance
+23 during the time period the student was removed, including attendance, grades, and
+24 standardized test scores, and any additional disciplinary actions.
+25 (2) Each county board and public school shall provide the Department with
+26 any information necessary to issue its report in accordance with this section.
+27 [(k)] (L) If a student is removed or excluded from the student’s regular school
+28 program OR APPLICABLE DUAL ENROLLMENT PROGRAM for a reportable offense OR
+29 IDENTIFICATION AS A SUSPECT, the principal or county superintendent shall invite the
+30 student’s attorney, if the student has an attorney, to participate in the conference between
+31 the student or the student’s parent or guardian and the principal or county superintendent,
+32 and the manifestation determination review, if applicable.
+33 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+34 1, 2025.
+[DELETED: :CA      5     A S F s s r t c s p u c c r l e i t S A t n t l s o t s d t S A t n t l s o t s d c s f c o a S A t m a c n r B  A S  A  (  S T A 7  ( ( I]
+[DELETED:  H    ( “ o h t m s i § 9 o t C   ( “ i   ( “st s   () “](    ( T e    ( T     1 A     2 A     3 C   () “](    ( O    ( D    ( I     1 A L     2 A C     3 A C     4 A § o     5 A L]
+[DELETED: H 3     6 A C     7 A v o § 9 o § 9 o t C L A     8 A     9 A     1 A L     1 A     1 A or     1 Ae     A§38CV O   O T R A;   1 A§17CV O   O T R AE    1 A§32CV O   O T R A;   1 A§31CV O   O T R A;   1 A§32CV O   O T R A;E   1 A§39CV O   O T R A;E    2  .   () “]( s]
+[DELETED:  H    () ( “ s o i a s p]( a ll  o    ( “ ( “S”:M   () H S A S P U TT   () IH I O H E O H P I W A S I E A P O A D   ( “ n  ( )E TES T O T I W  H O T’A2 ( O()  N TES T M N T L S O T’TS D W  H O T N O A2 ( I( N H B M U P  ON   2 T DN T L E A S N TES T’A. ( IS’A( TES T  T S A H P N T L O STS D U P  O( SN T TES T S N T LS’TS S W  H O N]
+[DELETED: H 5    I)( r m   () S n t f i o t a a t] ( c    () T] 1    () T] 2    () F] 3 s   () M] (   IS’ T TES T D T N  N  TES TS’A.  () T S A s p n e t l]( s t () ](  () E b o o a j c o o c u g c]( s)ad ],      ( I e (d   ](    ( M  () ( N t p o s ()o t]()[](F E s t)ad )o  D],,( a o a n s i t S i w t s h e o b t i o t c o t p o t s i t d o t r o   ( A a a s u t s s i i t t i r]
+[DELETED:  H   ()T S B s a r t e t i]() o s   ()o),[]( F   ( U t p a e p a r s a   ( T i a   ( D w t s g o o p l  () ( E]( t i s i o   ( I a s i a f a r o i r o a s t  () N]( s t   ()o),[]( F  () E]( t  () ( O o b D 3 e y t D i]( a w S a f p l s s t t G a i a t i s sn   ](SA  i    ( T    ( V]
+[DELETED: H 7    ( A n o t r o T I O A S A A ;    ( T a ;    ( T ;    ( T r s p A D PMO  o t s a f t r o ;    ( W E PMO  w a a a r o t r o ;    ( I t s w r f t s r s p   o :     1 T a o t d w t s w r     2 T s p a e p d    ( I r f t s r s p D E P , t s a p d t t p t s w r i a g a s   ( E a  () I]( p  MO , s t a  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 951
+F1, E2 5lr0874
+By: Delegates Griffith, Buckel, Pippy, and Reilly
+Introduced and read first time: January 31, 2025
+Assigned to: Ways and Means and Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 School Systems – Reportable Offenses – Alterations
+3 FOR the purpose of including institutions and programs of higher education in which a
+4 student is enrolled as part of a dual enrollment program in the definition of “school
+5 system”; adding certain offenses to the list of offenses a law enforcement agency must
+6 report to certain school personnel under certain circumstances; requiring law
+7 enforcement agencies to notify the State’s Attorney if a student is a suspect in an
+8 investigation of certain offenses and if the student no longer is a suspect; authorizing
+9 the State’s Attorney to notify the local superintendent or the superintendent’s
+10 designee if the student is a suspect in an investigation of certain offenses; requiring
+11 the State’s Attorney to notify the local superintendent or the superintendent’s
+12 designee if a student is no longer a suspect in certain investigations; expanding a
+13 certain reporting requirement to include instances when a student is identified as a
+14 suspect for certain offenses; authorizing State’s Attorneys to make a certain
+15 notification if a student is arrested for certain offenses; and generally relating to
+16 reportable offenses in school systems.
+17 BY repealing and reenacting, with amendments,
+18 Article – Education
+19 Section 7–303
+20 Annotated Code of Maryland
+21 (2022 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Education
+25 7–303.
+26 (a) (1) In this section the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0951*
+
+2 HOUSE BILL 951
+1 (2) “Criminal organization” has the meaning stated in § 9–801 of the
+2 Criminal Law Article.
+3 (3) “Law enforcement agency” means the law enforcement agencies listed
+4 in § 1–101(c) of the Public Safety Article.
+5 [(4) “Local school system” means the schools and school programs under the
+6 supervision of the local superintendent.]
+7 [(5)] (4) “Local superintendent” means:
+8 (i) The county superintendent, for the county in which a student is
+9 enrolled, or a designee of the superintendent, who is an administrator; or
+10 (ii) The superintendent of schools for the:
+11 1. Archdiocese of Baltimore;
+12 2. Archdiocese of Washington; and
+13 3. Catholic Diocese of Wilmington.
+14 [(6)] (5) “Reportable offense” means an offense that:
+15 (i) Occurred off school premises;
+16 (ii) Did not occur at an event sponsored by the school; and
+17 (iii) Involved any of the following:
+18 1. A crime of violence, as defined in § 14–101 of the Criminal
+19 Law Article;
+20 2. Any of the offenses enumerated in § 3–8A–03(e)(4) of the
+21 Courts Article;
+22 3. A violation of § 4–101, § 4–102, § 4–203, or § 4–204 of the
+23 Criminal Law Article;
+24 4. A violation of § 5–602, § 5–603, § 5–604, § 5–605, § 5–606,
+25 § 5–607, § 5–608, § 5–608.1, § 5–609, § 5–612, § 5–613, § 5–614, § 5–617, § 5–618, § 5–627,
+26 or § 5–628 of the Criminal Law Article;
+27 5. A violation of § 4–503, § 9–504, or § 9–505 of the Criminal
+28 Law Article;
+
+HOUSE BILL 951 3
+1 6. A violation of § 6–102, § 6–103, § 6–104, or § 6–105 of the
+2 Criminal Law Article;
+3 7. A violation of § 9–802 or § 9–803 of the Criminal Law
+4 Article;
+5 8. A violation of § 3–203 of the Criminal Law Article;
+6 9. A violation of § 6–301 of the Criminal Law Article;
+7 10. A violation of § 9–302, § 9–303, or § 9–305 of the Criminal
+8 Law Article;
+9 11. A violation of § 7–105 of the Criminal Law Article;
+10 12. A violation of § 6–202 of the Criminal Law Article; [or]
+11 13. A violation of § 10–606 of the Criminal Law Article;
+12 14. A VIOLATION OF § 3–308 OF THE CRIMINAL LAW
+13 ARTICLE;
+14 15. A VIOLATION OF § 11–207 OF THE CRIMINAL LAW
+15 ARTICLE, IF THE VICTIM DOES NOT HAVE KNOWLEDGE OF OR DOES NOT CONSENT
+16 TO THE PRODUCTION OR THE DISTRIBUTION OF THE CHILD PORNOGRAPHY;
+17 16. A VIOLATION OF § 3–902 OF THE CRIMINAL LAW
+18 ARTICLE;
+19 17. A VIOLATION OF § 3–1001 OF THE CRIMINAL LAW
+20 ARTICLE;
+21 18. A VIOLATION OF § 3–802 OF THE CRIMINAL LAW
+22 ARTICLE;
+23 19. A VIOLATION OF § 3–809 OF THE CRIMINAL LAW
+24 ARTICLE; OR
+25 20. ANY OTHER ACT THAT IF COMMITTED BY AN ADULT
+26 WOULD BE A FELONY.
+27 [(7)] (6) “School principal” means the principal of the public or nonpublic
+28 school in which a student is enrolled, or a designee of the principal, who is an administrator.
+
+4 HOUSE BILL 951
+1 [(8)] (7) (i) “School security officer” includes a school principal,
+2 another school administrator, a law enforcement officer, or other individual employed by a
+3 [local] school system or a local government who is designated by the county superintendent
+4 or a school principal to help maintain the security and safety of a school.
+5 (ii) “School security officer” does not include a teacher.
+6 (8) “SCHOOL SYSTEM” MEANS:
+7 (I) THE SCHOOLS AND SCHOOL PROGRAMS UNDER THE
+8 SUPERVISION OF THE LOCAL SUPERINTENDENT; AND
+9 (II) THE INSTITUTION OF HIGHER EDUCATION OR HIGHER
+10 EDUCATION PROGRAM IN WHICH A STUDENT IS ENROLLED AS PART OF A DUAL
+11 ENROLLMENT PROGRAM.
+12 (9) “Student” means an individual enrolled in a public school system or
+13 nonpublic school in the State who is 5 years of age or older and under 22 years of age.
+14 (b) (1) IF A STUDENT IS THE SUSPECT IN AN INVESTIGATION OF AN ACT
+15 THAT IF COMMITTED BY AN ADULT WOULD BE A FELONY OR CRIME OF VIOLENCE,
+16 THE LAW ENFORCEMENT AGENCY CONDUCTING THE INVESTIGATION SHALL NOTIFY
+17 THE STATE’S ATTORNEY OF THE INVESTIGATION WITHIN 24 HOURS OF THE
+18 IDENTIFICATION OF THE STUDENT AS A SUSPECT OR AS SOON AS PRACTICABLE.
+19 (2) ON NOTIFICATION UNDER PARAGRAPH (1) OF THIS SUBSECTION,
+20 THE STATE’S ATTORNEY MAY NOTIFY THE LOCAL SUPERINTENDENT OR THE
+21 SUPERINTENDENT’S DESIGNEE WITHIN 24 HOURS OF THE NOTIFICATION OR AS
+22 SOON AS PRACTICABLE.
+23 (3) IF NOTIFICATION HAS BEEN MADE UNDER PARAGRAPH (1) OF
+24 THIS SUBSECTION AND THE LAW ENFORCEMENT AGENCY DETERMINES THAT THE
+25 STUDENT IS NO LONGER A SUSPECT IN THE INVESTIGATION, WITHIN 24 HOURS OF
+26 MAKING THE DETERMINATION, THE LAW ENFORCEMENT AGENCY SHALL NOTIFY
+27 THE STATE’S ATTORNEY THAT THE STUDENT IS NO LONGER A SUSPECT.
+28 (4) IF THE STATE’S ATTORNEY IS NOTIFIED UNDER PARAGRAPH (3)
+29 OF THIS SUBSECTION AND HAD PREVIOUSLY NOTIFIED THE LOCAL
+30 SUPERINTENDENT OR SUPERINTENDENT’S DESIGNEE UNDER PARAGRAPH (2) OF
+31 THIS SUBSECTION, THE STATE’S ATTORNEY SHALL NOTIFY THE LOCAL
+32 SUPERINTENDENT OR THE SUPERINTENDENT’S DESIGNEE THAT THE STUDENT IS NO
+33 LONGER A SUSPECT WITHIN 24 HOURS OF RECEIVING THE NOTIFICATION OR AS
+34 SOON AS PRACTICABLE.
+
+HOUSE BILL 951 5
+1 (C) (1) If a student is arrested for a reportable offense or an offense that is
+2 related to the student’s membership in a criminal organization, the law enforcement agency
+3 making the arrest:
+4 [(1)] (I) Shall notify the following individuals of the arrest and the
+5 charges within 24 hours of the arrest or as soon as practicable:
+6 [(i)] 1. The local superintendent;
+7 [(ii)] 2. The school principal; and
+8 [(iii)] 3. For a school that has a school security officer, the school
+9 security officer; and
+10 [(2)] (II) May notify the State’s Attorney of the arrest and charges.
+11 (2) IF THE STATE’S ATTORNEY DETERMINES THAT NOTIFICATION
+12 WAS NOT MADE BY A LAW ENFORCEMENT AGENCY UNDER PARAGRAPH (1) OF THIS
+13 SUBSECTION, THE STATE’S ATTORNEY MAY PROVIDE THE NOTIFICATION.
+14 [(c)] (D) The State’s Attorney shall promptly notify either the local
+15 superintendent or the school principal of the disposition of the reportable offense required
+16 to be reported under subsection [(b)] (C) of this section.
+17 [(d)] (E) Except by order of a juvenile court or other court upon good cause
+18 shown, the information obtained by an individual pursuant to subsections (b) [and], (c),
+19 AND (D) of this section:
+20 (1) Is confidential and may not be redisclosed by subpoena or otherwise
+21 except as provided pursuant to subsections [(e) and] (f) AND (G) of this section; and
+22 (2) May not be made part of the student’s permanent educational record.
+23 [(e)] (F) (1) Notwithstanding the provisions of subsection [(d)] (E) of this
+24 section, nothing shall prohibit a local superintendent or school principal from transmitting
+25 the information obtained pursuant to subsections (b) [and], (c), AND (D) of this section as
+26 a confidential file to the local superintendent of another public school system in the State
+27 or another nonpublic school in the State in which the student has enrolled or been
+28 transferred in order to carry out the purposes of this section if the disposition of the
+29 reportable offense was a conviction or an adjudication of delinquency or the criminal charge
+30 or delinquency petition is still pending.
+31 (2) A local superintendent or school principal who transmits information
+32 about a student under this subsection shall include in the transmittal information
+33 regarding any educational programming and related services provided to the student.
+
+6 HOUSE BILL 951
+1 [(f)] (G) The State Board shall adopt regulations to ensure that information
+2 obtained by a local superintendent, a school principal, or a school security officer under
+3 subsections (b), (c), (D), and [(e)] (F) of this section is:
+4 (1) Used to provide appropriate educational programming and related
+5 services to the student and to maintain a safe and secure school environment for students
+6 and school personnel;
+7 (2) Transmitted only to school personnel of the school in which the student
+8 is enrolled as necessary to carry out the purposes set forth in item (1) of this subsection;
+9 and
+10 (3) Destroyed when the student graduates or otherwise permanently
+11 leaves school or turns 22 years old, whichever occurs first.
+12 [(g)] (H) (1) Except as otherwise provided in paragraph (2) of this subsection,
+13 the local superintendent and the school principal shall consider prohibiting a student who
+14 is arrested for a reportable offense involving rape or a sexual offense from attending the
+15 same school or riding on the same school bus as the alleged victim of the reportable offense
+16 if such action is necessary or appropriate to protect the physical or psychological well–being
+17 of the alleged victim.
+18 (2) If a student is arrested for a reportable offense involving rape or a
+19 sexual offense and is convicted of or adjudicated delinquent for the rape or sexual offense,
+20 the student may not attend the same school or ride on the same school bus as the victim.
+21 [(h)] (I) Nothing in this section is intended to limit the manner in which a local
+22 school obtains information or uses information obtained by any lawful means other than
+23 that set forth in subsections (b), (c), (D), and [(e)] (F) of this section.
+24 [(i)] (J) Each public school that enrolls students in grades six through twelve in
+25 the State shall designate at least one school security officer.
+26 [(j)] (K) (1) On or before December 30 each year, the Department, in
+27 accordance with State and federal privacy laws, shall submit to the Governor and, in
+28 accordance with § 2–1257 of the State Government Article, the General Assembly a report
+29 that includes the following information about each reportable offense for which a local
+30 school received information under [subsection] SUBSECTIONS (b) AND (C) of this section
+31 in the preceding school year:
+32 (i) The nature of the reportable offense;
+33 (ii) Verification that the offense occurred off school premises;
+
+HOUSE BILL 951 7
+1 (iii) Action taken by the local school and county board after being
+2 notified of the reportable offense OR THE IDENTIFICATION OF A STUDENT AS A
+3 SUSPECT;
+4 (iv) The race, ethnicity, gender, and disability status of the student
+5 arrested for the reportable offense OR IDENTIFIED AS A SUSPECT;
+6 (v) The grade of the student arrested for the reportable offense OR
+7 IDENTIFIED AS A SUSPECT;
+8 (vi) The regular school program OR APPLICABLE DUAL
+9 ENROLLMENT PROGRAM of the student arrested for the reportable offense OR
+10 IDENTIFIED AS A SUSPECT;
+11 (vii) Whether the student’s regular school program OR APPLICABLE
+12 DUAL ENROLLMENT PROGRAM was altered as a result of the reportable offense OR
+13 IDENTIFICATION OF THE STUDENT AS A SUSPECT;
+14 (viii) If the student was removed from the student’s regular school
+15 program OR APPLICABLE DUAL ENROLLMENT PROGRAM as a result of the reportable
+16 offense OR THE IDENTIFICATION OF THE STUDENT AS A SUSPECT:
+17 1. The amount of time during which the student was
+18 removed; and
+19 2. The student’s placement and educational programming
+20 during the period of removal; and
+21 (ix) If removed from the student’s regular school program OR
+22 APPLICABLE DUAL ENROLLMENT PROGRAM, the student’s academic performance
+23 during the time period the student was removed, including attendance, grades, and
+24 standardized test scores, and any additional disciplinary actions.
+25 (2) Each county board and public school shall provide the Department with
+26 any information necessary to issue its report in accordance with this section.
+27 [(k)] (L) If a student is removed or excluded from the student’s regular school
+28 program OR APPLICABLE DUAL ENROLLMENT PROGRAM for a reportable offense OR
+29 IDENTIFICATION AS A SUSPECT, the principal or county superintendent shall invite the
+30 student’s attorney, if the student has an attorney, to participate in the conference between
+31 the student or the student’s parent or guardian and the principal or county superintendent,
+32 and the manifestation determination review, if applicable.
+33 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+34 1, 2025.
+
+[DELETED: :CA      5     A S F s s r t c s p u c c r l e i t S A t n t l s o t s d t S A t n t l s o t s d c s f c o a S A t m a c n r B  A S  A  (  S T A 7  ( ( I]
+[DELETED:  H    ( “ o h t m s i § 9 o t C   ( “ i   ( “st s   () “](    ( T e    ( T     1 A     2 A     3 C   () “](    ( O    ( D    ( I     1 A L     2 A C     3 A C     4 A § o     5 A L]
+[DELETED: H 3     6 A C     7 A v o § 9 o § 9 o t C L A     8 A     9 A     1 A L     1 A     1 A or     1 Ae     A§38CV O   O T R A;   1 A§17CV O   O T R AE    1 A§32CV O   O T R A;   1 A§31CV O   O T R A;   1 A§32CV O   O T R A;E   1 A§39CV O   O T R A;E    2  .   () “]( s]
+[DELETED:  H    () ( “ s o i a s p]( a ll  o    ( “ ( “S”:M   () H S A S P U TT   () IH I O H E O H P I W A S I E A P O A D   ( “ n  ( )E TES T O T I W  H O T’A2 ( O()  N TES T M N T L S O T’TS D W  H O T N O A2 ( I( N H B M U P  ON   2 T DN T L E A S N TES T’A. ( IS’A( TES T  T S A H P N T L O STS D U P  O( SN T TES T S N T LS’TS S W  H O N]
+[DELETED: H 5    I)( r m   () S n t f i o t a a t] ( c    () T] 1    () T] 2    () F] 3 s   () M] (   IS’ T TES T D T N  N  TES TS’A.  () T S A s p n e t l]( s t () ](  () E b o o a j c o o c u g c]( s)ad ],      ( I e (d   ](    ( M  () ( N t p o s ()o t]()[](F E s t)ad )o  D],,( a o a n s i t S i w t s h e o b t i o t c o t p o t s i t d o t r o   ( A a a s u t s s i i t t i r]
+[DELETED:  H   ()T S B s a r t e t i]() o s   ()o),[]( F   ( U t p a e p a r s a   ( T i a   ( D w t s g o o p l  () ( E]( t i s i o   ( I a s i a f a r o i r o a s t  () N]( s t   ()o),[]( F  () E]( t  () ( O o b D 3 e y t D i]( a w S a f p l s s t t G a i a t i s sn   ](SA  i    ( T    ( V]
+[DELETED: H 7    ( A n o t r o T I O A S A A ;    ( T a ;    ( T ;    ( T r s p A D PMO  o t s a f t r o ;    ( W E PMO  w a a a r o t r o ;    ( I t s w r f t s r s p   o :     1 T a o t d w t s w r     2 T s p a e p d    ( I r f t s r s p D E P , t s a p d t t p t s w r i a g a s   ( E a  () I]( p  MO , s t a  S 1]

@@ -1,0 +1,173 @@
+Title: HOUSE BILL 706
+Official Title: HOUSE BILL 706
+Number of Sections: 1
+Source: versions - First - Intercepted Communications - Statute of Limitations and Penalties
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+E2 5lr0954
+HB 274/24 – JUD
+By: Delegate Grammer
+Introduced and read first time: January 24, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Intercepted Communications – Statute of Limitations and Penalties
+3 FOR the purpose of altering the statute of limitations applicable to a certain offense
+4 relating to the prohibition against intercepting and disclosing any wire, oral, or
+5 electronic communications and reclassifying the offense as a misdemeanor instead
+6 of a felony; providing that certain provisions do not limit the amount of restitution
+7 that may be ordered for a certain violation; and generally relating to intercepted
+8 communications.
+9 BY repealing and reenacting, without amendments,
+10 Article – Courts and Judicial Proceedings
+11 Section 5–106(a) and (b) and 10–402(a)
+12 Annotated Code of Maryland
+13 (2020 Replacement Volume and 2024 Supplement)
+14 BY adding to
+15 Article – Courts and Judicial Proceedings
+16 Section 5–106(jj)
+17 Annotated Code of Maryland
+18 (2020 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Courts and Judicial Proceedings
+21 Section 10–402(b)
+22 Annotated Code of Maryland
+23 (2020 Replacement Volume and 2024 Supplement)
+24 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+25 That the Laws of Maryland read as follows:
+26 Article – Courts and Judicial Proceedings
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0706*
+2 HOUSE BILL 706
+1 5–106.
+2 (a) Except as provided by this section, § 1–303 of the Environment Article, and §
+3 8–1815 of the Natural Resources Article, a prosecution for a misdemeanor shall be
+4 instituted within 1 year after the offense was committed.
+5 (b) Notwithstanding § 9–103(a)(3) of the Correctional Services Article or any
+6 other provision of the Code, if a statute provides that a misdemeanor is punishable by
+7 imprisonment in the penitentiary or that a person is subject to this subsection:
+8 (1) The State may institute a prosecution for the misdemeanor at any time;
+9 and
+10 (2) For purposes of the Maryland Constitution, the person:
+11 (i) Shall be deemed to have committed a misdemeanor whose
+12 punishment is confinement in the penitentiary; and
+13 (ii) May reserve a point or question for in banc review as provided
+14 under Article IV, § 22 of the Maryland Constitution.
+15 (JJ) A CRIMINAL PROSECUTION OR SUIT FOR A CIVIL PENALTY FOR AN
+16 OFFENSE UNDER § 10–402(A) OF THIS ARTICLE SHALL BE INSTITUTED WITHIN 5
+17 YEARS AFTER THE OFFENSE WAS COMMITTED.
+18 10–402.
+19 (a) Except as otherwise specifically provided in this subtitle it is unlawful for any
+20 person to:
+21 (1) Willfully intercept, endeavor to intercept, or procure any other person
+22 to intercept or endeavor to intercept, any wire, oral, or electronic communication;
+23 (2) Willfully disclose, or endeavor to disclose, to any other person the
+24 contents of any wire, oral, or electronic communication, knowing or having reason to know
+25 that the information was obtained through the interception of a wire, oral, or electronic
+26 communication in violation of this subtitle; or
+27 (3) Willfully use, or endeavor to use, the contents of any wire, oral, or
+28 electronic communication, knowing or having reason to know that the information was
+29 obtained through the interception of a wire, oral, or electronic communication in violation
+30 of this subtitle.
+31 (b) (1) Any person who violates subsection (a) of this section is guilty of a
+32 [felony] MISDEMEANOR and is subject to imprisonment for not more than 5 years or a fine
+33 of not more than $10,000, or both.
+HOUSE BILL 706 3
+1 (2) TITLE 11, SUBTITLE 6 OF THE CRIMINAL PROCEDURE ARTICLE
+2 MAY NOT BE CONSTRUED TO LIMIT THE AMOUNT OF RESTITUTION ORDERED TO BE
+3 PAID TO A VICTIM OF A VIOLATION OF SUBSECTION (A) OF THIS SECTION.
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2025.
+[DELETED: :CA      5     A I F t p o a t s o l a t a c o r t t p a i a d a w o o e o t c B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  H  5  ( E 8 o t N R A a p f a m s b i  ( N § 9 o t C S A o a o i   ( T a   ( F    ( S b d t h c a m w p    ( M u ) J C P O S F A C P F A U  A O S 1()D 1  ( E p   ( W t   ( W d o e t d t a o p t c t c   ( W u o e t u t c o a w o o e o o  ( A p w v s ( o t s isg o a fy  o]
+[DELETED: H 3   T1,S6CP  U   R R R A ).  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 706
+E2 5lr0954
+HB 274/24 – JUD
+By: Delegate Grammer
+Introduced and read first time: January 24, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Intercepted Communications – Statute of Limitations and Penalties
+3 FOR the purpose of altering the statute of limitations applicable to a certain offense
+4 relating to the prohibition against intercepting and disclosing any wire, oral, or
+5 electronic communications and reclassifying the offense as a misdemeanor instead
+6 of a felony; providing that certain provisions do not limit the amount of restitution
+7 that may be ordered for a certain violation; and generally relating to intercepted
+8 communications.
+9 BY repealing and reenacting, without amendments,
+10 Article – Courts and Judicial Proceedings
+11 Section 5–106(a) and (b) and 10–402(a)
+12 Annotated Code of Maryland
+13 (2020 Replacement Volume and 2024 Supplement)
+14 BY adding to
+15 Article – Courts and Judicial Proceedings
+16 Section 5–106(jj)
+17 Annotated Code of Maryland
+18 (2020 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Courts and Judicial Proceedings
+21 Section 10–402(b)
+22 Annotated Code of Maryland
+23 (2020 Replacement Volume and 2024 Supplement)
+24 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+25 That the Laws of Maryland read as follows:
+26 Article – Courts and Judicial Proceedings
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0706*
+
+2 HOUSE BILL 706
+1 5–106.
+2 (a) Except as provided by this section, § 1–303 of the Environment Article, and §
+3 8–1815 of the Natural Resources Article, a prosecution for a misdemeanor shall be
+4 instituted within 1 year after the offense was committed.
+5 (b) Notwithstanding § 9–103(a)(3) of the Correctional Services Article or any
+6 other provision of the Code, if a statute provides that a misdemeanor is punishable by
+7 imprisonment in the penitentiary or that a person is subject to this subsection:
+8 (1) The State may institute a prosecution for the misdemeanor at any time;
+9 and
+10 (2) For purposes of the Maryland Constitution, the person:
+11 (i) Shall be deemed to have committed a misdemeanor whose
+12 punishment is confinement in the penitentiary; and
+13 (ii) May reserve a point or question for in banc review as provided
+14 under Article IV, § 22 of the Maryland Constitution.
+15 (JJ) A CRIMINAL PROSECUTION OR SUIT FOR A CIVIL PENALTY FOR AN
+16 OFFENSE UNDER § 10–402(A) OF THIS ARTICLE SHALL BE INSTITUTED WITHIN 5
+17 YEARS AFTER THE OFFENSE WAS COMMITTED.
+18 10–402.
+19 (a) Except as otherwise specifically provided in this subtitle it is unlawful for any
+20 person to:
+21 (1) Willfully intercept, endeavor to intercept, or procure any other person
+22 to intercept or endeavor to intercept, any wire, oral, or electronic communication;
+23 (2) Willfully disclose, or endeavor to disclose, to any other person the
+24 contents of any wire, oral, or electronic communication, knowing or having reason to know
+25 that the information was obtained through the interception of a wire, oral, or electronic
+26 communication in violation of this subtitle; or
+27 (3) Willfully use, or endeavor to use, the contents of any wire, oral, or
+28 electronic communication, knowing or having reason to know that the information was
+29 obtained through the interception of a wire, oral, or electronic communication in violation
+30 of this subtitle.
+31 (b) (1) Any person who violates subsection (a) of this section is guilty of a
+32 [felony] MISDEMEANOR and is subject to imprisonment for not more than 5 years or a fine
+33 of not more than $10,000, or both.
+
+HOUSE BILL 706 3
+1 (2) TITLE 11, SUBTITLE 6 OF THE CRIMINAL PROCEDURE ARTICLE
+2 MAY NOT BE CONSTRUED TO LIMIT THE AMOUNT OF RESTITUTION ORDERED TO BE
+3 PAID TO A VICTIM OF A VIOLATION OF SUBSECTION (A) OF THIS SECTION.
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2025.
+
+[DELETED: :CA      5     A I F t p o a t s o l a t a c o r t t p a i a d a w o o e o t c B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  H  5  ( E 8 o t N R A a p f a m s b i  ( N § 9 o t C S A o a o i   ( T a   ( F    ( S b d t h c a m w p    ( M u ) J C P O S F A C P F A U  A O S 1()D 1  ( E p   ( W t   ( W d o e t d t a o p t c t c   ( W u o e t u t c o a w o o e o o  ( A p w v s ( o t s isg o a fy  o]
+[DELETED: H 3   T1,S6CP  U   R R R A ).  S A B I F E T t A s t e O]

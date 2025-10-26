@@ -1,0 +1,272 @@
+Title: SENATE BILL 115
+Official Title: SENATE BILL 115
+Number of Sections: 1
+Source: versions - First - Office of the Chief Medical Examiner - Disclosure of Autopsy Information and Maintenance of Investigative Database
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+J1, P1 5lr0259
+(PRE–FILED) CF HB 290
+By: Chair, Finance Committee (By Request – Departmental – Health)
+Requested: October 9, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Office of the Chief Medical Examiner – Disclosure of Autopsy Information and
+3 Maintenance of Investigative Database
+4 FOR the purpose of altering the autopsy information in a public record with respect to
+5 which a custodian is required to deny inspection; requiring the Office of the Chief
+6 Medical Examiner to maintain an investigative database; providing that certain data
+7 and records maintained in the database are not public records and not subject to the
+8 Maryland Public Information Act; and generally relating to the Office of the Chief
+9 Medical Examiner.
+10 BY repealing and reenacting, with amendments,
+11 Article – General Provisions
+12 Section 4–329
+13 Annotated Code of Maryland
+14 (2019 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Health – General
+17 Section 5–301 and 5–310
+18 Annotated Code of Maryland
+19 (2023 Replacement Volume and 2024 Supplement)
+20 Preamble
+21 WHEREAS, The safeguarding of personal information pertaining to decedents is a
+22 matter of pressing concern, as these details are presently susceptible to exposure under the
+23 current parameters of the Maryland Public Information Act; and
+24 WHEREAS, The Office of the Chief Medical Examiner’s duty to protect sensitive
+25 personal information highlighted an essential requirement to curb the undue and extensive
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0115*
+2 SENATE BILL 115
+1 release of sensitive personal information from postmortem examinations; and
+2 WHEREAS, There is uncertainty concerning the definition of an autopsy report and
+3 the determination of which Office of the Chief Medical Examiner records should be
+4 accessible by the public; and
+5 WHEREAS, It is unclear whether records stored in the Chief Medical Examiner
+6 electronic database qualify as public records subject to the Maryland Public Information
+7 Act; now, therefore,
+8 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+9 That the Laws of Maryland read as follows:
+10 Article – General Provisions
+11 4–329.
+12 (A) IN THIS SECTION, “FINAL AUTOPSY DIAGNOSIS” MEANS THE
+13 INTERPRETATIONS AND CONCLUSIONS OF A MEDICAL EXAMINER OR FORENSIC
+14 PATHOLOGIST THAT ARE PART OF AN AUTOPSY REPORT.
+15 [(a)] (B) Except for subsection [(b)(3)] (C)(3) of this section, this section does not
+16 apply to:
+17 (1) a nursing home as defined in § 19–1401 of the Health – General Article;
+18 or
+19 (2) an assisted living program as defined in § 19–1801 of the Health –
+20 General Article.
+21 [(b)] (C) Subject to subsection [(c)] (D) of this section, a custodian shall deny
+22 inspection of the part of a public record that contains:
+23 (1) medical or psychological information about an individual, other than
+24 [an autopsy report of a medical examiner] A FINAL AUTOPSY DIAGNOSIS;
+25 (2) personal information about an individual with, or perceived to have, a
+26 disability as defined in § 20–701 of the State Government Article; or
+27 (3) any report on human immunodeficiency virus or acquired
+28 immunodeficiency syndrome submitted in accordance with Title 18 of the Health – General
+29 Article.
+30 [(c)] (D) A custodian shall allow the person in interest to inspect the public
+31 record to the extent allowed under § 4–304(a) of the Health – General Article.
+SENATE BILL 115 3
+1 Article – Health – General
+2 5–301.
+3 (a) In this subtitle the following words have the meanings indicated.
+4 (B) “AUTOPSY REPORT” MEANS A DOCUMENT DETAILING THE MEDICAL
+5 FINDINGS, INTERPRETATIONS, AND CONCLUSIONS OF A POSTMORTEM
+6 EXAMINATION PERFORMED BY A MEDICAL EXAMINER OR FORENSIC PATHOLOGIST.
+7 [(b)] (C) “Committee” means the Postmortem Examiners Advisory Committee.
+8 (D) “FINAL AUTOPSY DIAGNOSIS” MEANS THE INTERPRETATIONS AND
+9 CONCLUSIONS OF A MEDICAL EXAMINER OR FORENSIC PATHOLOGIST THAT ARE
+10 PART OF AN AUTOPSY REPORT.
+11 [(c)] (E) “Medical examiner’s case” means a death that a medical examiner is
+12 required by law to investigate.
+13 [(d)] (F) “Office” means the Office of the Chief Medical Examiner.
+14 5–310.
+15 (a) (1) The Office of the Chief Medical Examiner shall keep complete records
+16 on each medical examiner’s case.
+17 (2) The records shall be indexed properly and include:
+18 (i) The name, if known, of the deceased;
+19 (ii) The place where the body was found;
+20 (iii) The date, cause, and manner of death; and
+21 (iv) All other available information about the death.
+22 (3) (I) THE OFFICE OF THE CHIEF MEDICAL EXAMINER SHALL
+23 MAINTAIN A CHIEF MEDICAL EXAMINER INVESTIGATIVE DATABASE THAT INCLUDES
+24 RECORDS ON EACH MEDICAL EXAMINER’S OR FORENSIC PATHOLOGIST’S CASE.
+25 (II) EXCEPT FOR A FINAL AUTOPSY DIAGNOSIS, ELECTRONIC
+26 DATA OR A RECORD STORED IN THE CHIEF MEDICAL EXAMINER INVESTIGATIVE
+27 DATABASE, OR A COMPARABLE DATABASE MANAGED BY THE OFFICE FOR USE IN ANY
+28 MEDICAL EXAMINER’S CASE, IS NOT CONSIDERED A PUBLIC RECORD AND SHALL BE
+29 EXEMPT FROM INSPECTION UNDER THE MARYLAND PUBLIC INFORMATION ACT.
+4 SENATE BILL 115
+1 (b) The original report of the medical examiner who investigates a medical
+2 examiner’s case and the findings and conclusions of any autopsy shall be attached to the
+3 record of the medical examiner’s case.
+4 (c) The Chief Medical Examiner or, if the Chief Medical Examiner is absent or
+5 cannot act, the Deputy Chief Medical Examiner or an assistant medical examiner, and each
+6 deputy medical examiner promptly shall deliver to the State’s Attorney for the county
+7 where the body was found a copy of each record that relates to a death for which the medical
+8 examiner considers further investigation advisable. A State’s Attorney may obtain from the
+9 office of a medical examiner a copy of any record or other information that the State’s
+10 Attorney considers necessary.
+11 (d) (1) In this subsection, “record”:
+12 (i) Means the result of an external examination of or an autopsy on
+13 a body; and
+14 (ii) Does not include a statement of a witness or other individual.
+15 (2) A record of the Office of the Chief Medical Examiner or any deputy
+16 medical examiner, if made by the medical examiner or by anyone under the medical
+17 examiner’s direct supervision or control, or a certified transcript of that record, is competent
+18 evidence in any court in this State of the matters and facts contained in it.
+19 (e) (1) The Office of the Chief Medical Examiner shall charge a reasonable fee
+20 for reports as specified in a schedule of fees defined in the regulations of the Office of the
+21 Chief Medical Examiner.
+22 (2) A deputy medical examiner may keep any fee collected by the deputy
+23 medical examiner.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025.
+[DELETED: :CA      5 ( C A O M F w M a M M B  A  S  A  ( B  A  S  A  ( P  W m c  W p]
+[DELETED:  S  r  W t d o w O o t C M E r s b a  W t M e A  S T A 4 ) I,“N T SN F A DS M T A C O A M E O F  () E () ]()[]()B  a   ( a o   ( a a l p a d i § 1 o t H – G  () S () ]()[](C  i   ( m ar ;   ( p d   ( a r o h i v o a i A  () A c s a t p i i t i t p]( r]
+[DELETED: S 3 A 5  ( I ) “AU RT M A D D T MS IS A C O A P  () “]( ) “FI A DS M T I A O A M E O F P T AT  () “]( r  () “]( 5  ( ( T o   ( T    ( T    ( T    ( T    ( A   () TOCMH F O T H E X S H E XMRSTS’.  () EIX F A F A DS E H E XME  FRSE  A U N CTPIA.]
+[DELETED:  S   ( T o r o t m e w i a m e r  ( T c d m e p s d t t S A f t c w e o A  ( ( I    ( M a    ( D   ( A m e i m b t m e o b a u t m e e  ( ( T f C   ( A m  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 115
+J1, P1 5lr0259
+(PRE–FILED) CF HB 290
+By: Chair, Finance Committee (By Request – Departmental – Health)
+Requested: October 9, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Office of the Chief Medical Examiner – Disclosure of Autopsy Information and
+3 Maintenance of Investigative Database
+4 FOR the purpose of altering the autopsy information in a public record with respect to
+5 which a custodian is required to deny inspection; requiring the Office of the Chief
+6 Medical Examiner to maintain an investigative database; providing that certain data
+7 and records maintained in the database are not public records and not subject to the
+8 Maryland Public Information Act; and generally relating to the Office of the Chief
+9 Medical Examiner.
+10 BY repealing and reenacting, with amendments,
+11 Article – General Provisions
+12 Section 4–329
+13 Annotated Code of Maryland
+14 (2019 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Health – General
+17 Section 5–301 and 5–310
+18 Annotated Code of Maryland
+19 (2023 Replacement Volume and 2024 Supplement)
+20 Preamble
+21 WHEREAS, The safeguarding of personal information pertaining to decedents is a
+22 matter of pressing concern, as these details are presently susceptible to exposure under the
+23 current parameters of the Maryland Public Information Act; and
+24 WHEREAS, The Office of the Chief Medical Examiner’s duty to protect sensitive
+25 personal information highlighted an essential requirement to curb the undue and extensive
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0115*
+
+2 SENATE BILL 115
+1 release of sensitive personal information from postmortem examinations; and
+2 WHEREAS, There is uncertainty concerning the definition of an autopsy report and
+3 the determination of which Office of the Chief Medical Examiner records should be
+4 accessible by the public; and
+5 WHEREAS, It is unclear whether records stored in the Chief Medical Examiner
+6 electronic database qualify as public records subject to the Maryland Public Information
+7 Act; now, therefore,
+8 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+9 That the Laws of Maryland read as follows:
+10 Article – General Provisions
+11 4–329.
+12 (A) IN THIS SECTION, “FINAL AUTOPSY DIAGNOSIS” MEANS THE
+13 INTERPRETATIONS AND CONCLUSIONS OF A MEDICAL EXAMINER OR FORENSIC
+14 PATHOLOGIST THAT ARE PART OF AN AUTOPSY REPORT.
+15 [(a)] (B) Except for subsection [(b)(3)] (C)(3) of this section, this section does not
+16 apply to:
+17 (1) a nursing home as defined in § 19–1401 of the Health – General Article;
+18 or
+19 (2) an assisted living program as defined in § 19–1801 of the Health –
+20 General Article.
+21 [(b)] (C) Subject to subsection [(c)] (D) of this section, a custodian shall deny
+22 inspection of the part of a public record that contains:
+23 (1) medical or psychological information about an individual, other than
+24 [an autopsy report of a medical examiner] A FINAL AUTOPSY DIAGNOSIS;
+25 (2) personal information about an individual with, or perceived to have, a
+26 disability as defined in § 20–701 of the State Government Article; or
+27 (3) any report on human immunodeficiency virus or acquired
+28 immunodeficiency syndrome submitted in accordance with Title 18 of the Health – General
+29 Article.
+30 [(c)] (D) A custodian shall allow the person in interest to inspect the public
+31 record to the extent allowed under § 4–304(a) of the Health – General Article.
+
+SENATE BILL 115 3
+1 Article – Health – General
+2 5–301.
+3 (a) In this subtitle the following words have the meanings indicated.
+4 (B) “AUTOPSY REPORT” MEANS A DOCUMENT DETAILING THE MEDICAL
+5 FINDINGS, INTERPRETATIONS, AND CONCLUSIONS OF A POSTMORTEM
+6 EXAMINATION PERFORMED BY A MEDICAL EXAMINER OR FORENSIC PATHOLOGIST.
+7 [(b)] (C) “Committee” means the Postmortem Examiners Advisory Committee.
+8 (D) “FINAL AUTOPSY DIAGNOSIS” MEANS THE INTERPRETATIONS AND
+9 CONCLUSIONS OF A MEDICAL EXAMINER OR FORENSIC PATHOLOGIST THAT ARE
+10 PART OF AN AUTOPSY REPORT.
+11 [(c)] (E) “Medical examiner’s case” means a death that a medical examiner is
+12 required by law to investigate.
+13 [(d)] (F) “Office” means the Office of the Chief Medical Examiner.
+14 5–310.
+15 (a) (1) The Office of the Chief Medical Examiner shall keep complete records
+16 on each medical examiner’s case.
+17 (2) The records shall be indexed properly and include:
+18 (i) The name, if known, of the deceased;
+19 (ii) The place where the body was found;
+20 (iii) The date, cause, and manner of death; and
+21 (iv) All other available information about the death.
+22 (3) (I) THE OFFICE OF THE CHIEF MEDICAL EXAMINER SHALL
+23 MAINTAIN A CHIEF MEDICAL EXAMINER INVESTIGATIVE DATABASE THAT INCLUDES
+24 RECORDS ON EACH MEDICAL EXAMINER’S OR FORENSIC PATHOLOGIST’S CASE.
+25 (II) EXCEPT FOR A FINAL AUTOPSY DIAGNOSIS, ELECTRONIC
+26 DATA OR A RECORD STORED IN THE CHIEF MEDICAL EXAMINER INVESTIGATIVE
+27 DATABASE, OR A COMPARABLE DATABASE MANAGED BY THE OFFICE FOR USE IN ANY
+28 MEDICAL EXAMINER’S CASE, IS NOT CONSIDERED A PUBLIC RECORD AND SHALL BE
+29 EXEMPT FROM INSPECTION UNDER THE MARYLAND PUBLIC INFORMATION ACT.
+
+4 SENATE BILL 115
+1 (b) The original report of the medical examiner who investigates a medical
+2 examiner’s case and the findings and conclusions of any autopsy shall be attached to the
+3 record of the medical examiner’s case.
+4 (c) The Chief Medical Examiner or, if the Chief Medical Examiner is absent or
+5 cannot act, the Deputy Chief Medical Examiner or an assistant medical examiner, and each
+6 deputy medical examiner promptly shall deliver to the State’s Attorney for the county
+7 where the body was found a copy of each record that relates to a death for which the medical
+8 examiner considers further investigation advisable. A State’s Attorney may obtain from the
+9 office of a medical examiner a copy of any record or other information that the State’s
+10 Attorney considers necessary.
+11 (d) (1) In this subsection, “record”:
+12 (i) Means the result of an external examination of or an autopsy on
+13 a body; and
+14 (ii) Does not include a statement of a witness or other individual.
+15 (2) A record of the Office of the Chief Medical Examiner or any deputy
+16 medical examiner, if made by the medical examiner or by anyone under the medical
+17 examiner’s direct supervision or control, or a certified transcript of that record, is competent
+18 evidence in any court in this State of the matters and facts contained in it.
+19 (e) (1) The Office of the Chief Medical Examiner shall charge a reasonable fee
+20 for reports as specified in a schedule of fees defined in the regulations of the Office of the
+21 Chief Medical Examiner.
+22 (2) A deputy medical examiner may keep any fee collected by the deputy
+23 medical examiner.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025.
+
+[DELETED: :CA      5 ( C A O M F w M a M M B  A  S  A  ( B  A  S  A  ( P  W m c  W p]
+[DELETED:  S  r  W t d o w O o t C M E r s b a  W t M e A  S T A 4 ) I,“N T SN F A DS M T A C O A M E O F  () E () ]()[]()B  a   ( a o   ( a a l p a d i § 1 o t H – G  () S () ]()[](C  i   ( m ar ;   ( p d   ( a r o h i v o a i A  () A c s a t p i i t i t p]( r]
+[DELETED: S 3 A 5  ( I ) “AU RT M A D D T MS IS A C O A P  () “]( ) “FI A DS M T I A O A M E O F P T AT  () “]( r  () “]( 5  ( ( T o   ( T    ( T    ( T    ( T    ( A   () TOCMH F O T H E X S H E XMRSTS’.  () EIX F A F A DS E H E XME  FRSE  A U N CTPIA.]
+[DELETED:  S   ( T o r o t m e w i a m e r  ( T c d m e p s d t t S A f t c w e o A  ( ( I    ( M a    ( D   ( A m e i m b t m e o b a u t m e e  ( ( T f C   ( A m  S A B I F E T t A s t e O]

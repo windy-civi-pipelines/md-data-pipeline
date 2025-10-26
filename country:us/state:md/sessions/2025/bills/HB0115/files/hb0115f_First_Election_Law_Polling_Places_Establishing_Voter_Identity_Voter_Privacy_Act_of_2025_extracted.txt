@@ -1,0 +1,136 @@
+Title: HOUSE BILL 115
+Official Title: HOUSE BILL 115
+Number of Sections: 1
+Source: versions - First - Election Law - Polling Places - Establishing Voter Identity (Voter Privacy Act of 2025)
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+G1 5lr1508
+HB 142/24 – W&M (PRE–FILED)
+By: Delegate R. Long
+Requested: October 30, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Election Law – Polling Places – Establishing Voter Identity
+3 (Voter Privacy Act of 2025)
+4 FOR the purpose of authorizing a voter to establish the voter’s identity at the request of an
+5 election judge at a polling place by presenting certain proof of identity; and generally
+6 relating to establishing a voter’s identity at a polling place.
+7 BY repealing and reenacting, with amendments,
+8 Article – Election Law
+9 Section 10–310(a)
+10 Annotated Code of Maryland
+11 (2022 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Election Law
+15 10–310.
+16 (a) For each individual who seeks to vote, an election judge, in accordance with
+17 instructions provided by the local board, shall:
+18 (1) locate the individual’s name in the election register and locate the
+19 preprinted voting authority card and then authorize the individual to vote a regular ballot;
+20 (2) (i) if the individual’s name is not found on the election register,
+21 search the inactive list and if the name is found, authorize the individual to vote a regular
+22 ballot; or
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0115*
+2 HOUSE BILL 115
+1 (ii) if the individual’s name is not on the inactive list, refer the
+2 individual for provisional ballot voting under § 9–404 of this article;
+3 (3) establish the identity of the voter by requesting the voter to:
+4 (I) state the month and day of the voter’s birth and comparing the
+5 response to the information listed in the election register; OR
+6 (II) PRESENT ANY OF THE FOLLOWING FORMS OF
+7 IDENTIFICATION:
+8 1. THE VOTER’S VOTER REGISTRATION CARD;
+9 2. THE VOTER’S VALID MARYLAND DRIVER’S LICENSE;
+10 OR
+11 3. ANY IDENTIFICATION CARD THAT CONTAINS A
+12 PHOTOGRAPH OF THE VOTER AND IS ISSUED TO THE VOTER BY A POLITICAL
+13 SUBDIVISION OF THE STATE, THE STATE, THE FEDERAL GOVERNMENT, OR ANY UNIT
+14 OF A POLITICAL SUBDIVISION OF THE STATE, THE STATE, OR THE FEDERAL
+15 GOVERNMENT;
+16 (4) (i) except if a voter’s personal information has been deemed
+17 confidential by the local board, verify the address of the voter’s residence; or
+18 (ii) conduct an alternative verification as established by the State
+19 Board, if the voter’s personal information has been deemed confidential by the local board;
+20 (5) if any changes to the voting authority card are indicated by a voter,
+21 make the appropriate changes in information on the card or other appropriate form; and
+22 (6) have the voter sign the voting authority card and either issue the voter
+23 a ballot or send the voter to a machine to vote.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025.
+[DELETED: :CA      5 (   A E ( F e r B  A S  A  (  S T A 1  ( F i   ( l t i n i t e r a l t p   ( ( i t i n i n f o t e r s b]
+[DELETED:  H     ( i t i n i n o t i l r t i   ( e  () s r  ()IP A O T F F O   1 ’;RS   2 ’M’ VRS V A DRSE   3 I C T C A O T V A I I T T V B A P TE  TE T ,S, A P S O T TE T TE O T F,S   ( ( e i a v p i h b d c    ( c B   ( i m   ( h a  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 115
+G1 5lr1508
+HB 142/24 – W&M (PRE–FILED)
+By: Delegate R. Long
+Requested: October 30, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Election Law – Polling Places – Establishing Voter Identity
+3 (Voter Privacy Act of 2025)
+4 FOR the purpose of authorizing a voter to establish the voter’s identity at the request of an
+5 election judge at a polling place by presenting certain proof of identity; and generally
+6 relating to establishing a voter’s identity at a polling place.
+7 BY repealing and reenacting, with amendments,
+8 Article – Election Law
+9 Section 10–310(a)
+10 Annotated Code of Maryland
+11 (2022 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Election Law
+15 10–310.
+16 (a) For each individual who seeks to vote, an election judge, in accordance with
+17 instructions provided by the local board, shall:
+18 (1) locate the individual’s name in the election register and locate the
+19 preprinted voting authority card and then authorize the individual to vote a regular ballot;
+20 (2) (i) if the individual’s name is not found on the election register,
+21 search the inactive list and if the name is found, authorize the individual to vote a regular
+22 ballot; or
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0115*
+
+2 HOUSE BILL 115
+1 (ii) if the individual’s name is not on the inactive list, refer the
+2 individual for provisional ballot voting under § 9–404 of this article;
+3 (3) establish the identity of the voter by requesting the voter to:
+4 (I) state the month and day of the voter’s birth and comparing the
+5 response to the information listed in the election register; OR
+6 (II) PRESENT ANY OF THE FOLLOWING FORMS OF
+7 IDENTIFICATION:
+8 1. THE VOTER’S VOTER REGISTRATION CARD;
+9 2. THE VOTER’S VALID MARYLAND DRIVER’S LICENSE;
+10 OR
+11 3. ANY IDENTIFICATION CARD THAT CONTAINS A
+12 PHOTOGRAPH OF THE VOTER AND IS ISSUED TO THE VOTER BY A POLITICAL
+13 SUBDIVISION OF THE STATE, THE STATE, THE FEDERAL GOVERNMENT, OR ANY UNIT
+14 OF A POLITICAL SUBDIVISION OF THE STATE, THE STATE, OR THE FEDERAL
+15 GOVERNMENT;
+16 (4) (i) except if a voter’s personal information has been deemed
+17 confidential by the local board, verify the address of the voter’s residence; or
+18 (ii) conduct an alternative verification as established by the State
+19 Board, if the voter’s personal information has been deemed confidential by the local board;
+20 (5) if any changes to the voting authority card are indicated by a voter,
+21 make the appropriate changes in information on the card or other appropriate form; and
+22 (6) have the voter sign the voting authority card and either issue the voter
+23 a ballot or send the voter to a machine to vote.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025.
+
+[DELETED: :CA      5 (   A E ( F e r B  A S  A  (  S T A 1  ( F i   ( l t i n i t e r a l t p   ( ( i t i n i n f o t e r s b]
+[DELETED:  H     ( i t i n i n o t i l r t i   ( e  () s r  ()IP A O T F F O   1 ’;RS   2 ’M’ VRS V A DRSE   3 I C T C A O T V A I I T T V B A P TE  TE T ,S, A P S O T TE T TE O T F,S   ( ( e i a v p i h b d c    ( c B   ( i m   ( h a  S A B I F E T t A s t e O]

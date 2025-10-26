@@ -1,0 +1,534 @@
+Title: HOUSE BILL 81
+Official Title: HOUSE BILL 81
+Number of Sections: 1
+Source: versions - First - Real Property - Condemnation - Compensation for Farm and Agricultural Property (Protect Maryland Farm Lands Act)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+N1, M4, C5 5lr0676
+(PRE–FILED) CF 5lr1404
+By: Delegates Mangione, Arentz, Chisholm, Grammer, Guyton, Hartman, R. Long,
+Miller, T. Morgan, Nawrocki, Rose, Schmidt, Szeliga, and Tomlinson
+Requested: August 13, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Real Property – Condemnation – Compensation for Farm and Agricultural
+3 Property
+4 (Protect Maryland Farm Lands Act)
+5 FOR the purpose of requiring the fair market value of certain agricultural property taken
+6 in a condemnation proceeding to be valued at a certain percentage of the highest
+7 appraisal value of the property; providing for the retroactive application of this Act;
+8 and generally relating to the fair market value of agricultural property in
+9 condemnation proceedings.
+10 BY repealing and reenacting, with amendments,
+11 Article – Real Property
+12 Section 12–105
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – Tax – Property
+17 Section 8–209
+18 Annotated Code of Maryland
+19 (2019 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Real Property
+23 12–105.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0081*
+2 HOUSE BILL 81
+1 (a) In this section, the phrase “the effective date of legislative authority for the
+2 acquisition of the property” means, with respect to a condemnor vested with continuing
+3 power of condemnation, the date of specific administrative determination to acquire the
+4 property.
+5 (b) (1) (I) [The] SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION,
+6 THE fair market value of property in a condemnation proceeding is the price as of the
+7 valuation date for the highest and best use of the property which a vendor, willing but not
+8 obligated to sell, would accept for the property, and which a purchaser, willing but not
+9 obligated to buy, would pay, excluding any increment in value proximately caused by the
+10 public project for which the property condemned is needed. [In addition, fair]
+11 (II) FAIR market value includes any amount by which the price
+12 reflects a diminution in value occurring between the effective date of legislative authority
+13 for the acquisition of the property and the date of actual taking if the trier of facts finds
+14 that the diminution in value was proximately caused by the public project for which the
+15 property condemned is needed, or by announcements or acts of the plaintiff or its officials
+16 concerning the public project, and was beyond the reasonable control of the property owner.
+17 (2) (I) THIS PARAGRAPH APPLIES ONLY TO PROPERTY THAT IS
+18 ACTIVELY USED FOR FARM OR AGRICULTURAL PURPOSES AS DETERMINED BY THE
+19 STATE DEPARTMENT OF ASSESSMENTS AND TAXATION UNDER § 8–209 OF THE
+20 TAX – PROPERTY ARTICLE, INCLUDING PROPERTY ACQUIRED BY CONDEMNATION
+21 FOR THE CONSTRUCTION OR MAINTENANCE OF A TRANSMISSION LINE UNDER §§
+22 7–207 AND 7–208 OF THE PUBLIC UTILITIES ARTICLE.
+23 (II) THE FAIR MARKET VALUE OF PROPERTY ACTIVELY USED
+24 FOR FARM OR AGRICULTURAL PURPOSES IN A CONDEMNATION PROCEEDING SHALL
+25 BE 350% OF THE HIGHEST APPRAISAL VALUE OF THE PROPERTY.
+26 (c) The defendant property owner may elect to present as evidence in a
+27 condemnation proceeding, the assessed value of the property, as determined by the
+28 Department of Assessments and Taxation, if the assessed value is greater than the
+29 appraised value placed on the property by the condemning authority.
+30 (d) (1) [If] EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+31 SUBSECTION, IF property is ever acquired by the exercise of the power of eminent domain,
+32 the fair market value of the property is not affected by the property having been qualified
+33 for a tax credit under § 9–208 of the Tax – Property Article. [However, if]
+34 (2) IF the grantee of an easement purchased the easement for monetary
+35 consideration other than, or in addition to, the tax credit under § 9–208 of the
+36 Tax – Property Article, then the condemnation award shall be reduced by an amount equal
+37 to the additional consideration.
+HOUSE BILL 81 3
+1 Article – Tax – Property
+2 8–209.
+3 (a) The General Assembly declares that it is in the general public interest of the
+4 State to foster and encourage farming activities to:
+5 (1) maintain a readily available source of food and dairy products close to
+6 the metropolitan areas of the State;
+7 (2) encourage the preservation of open space as an amenity necessary for
+8 human welfare and happiness; and
+9 (3) prevent the forced conversion of open space land to more intensive uses
+10 because of the economic pressures caused by the assessment of the land at rates or levels
+11 incompatible with its practical use for farming.
+12 (b) It is the intention of the General Assembly that the assessment of farmland:
+13 (1) be maintained at levels compatible with the continued use of the land
+14 for farming; and
+15 (2) not be affected adversely by neighboring land uses of a more intensive
+16 nature.
+17 (c) Land that is actively used for farm or agricultural use shall be valued on the
+18 basis of that use and may not be valued as if subdivided.
+19 (d) Land that is valued under subsection (c) of this section shall be assessed on
+20 the basis of its use value.
+21 (e) (1) (i) In this subsection the following words have the meanings
+22 indicated.
+23 (ii) “Agrivoltaics” has the meaning stated in § 7–237 of this article.
+24 (iii) “Community solar energy generating system” has the meaning
+25 stated in § 7–306.2 of the Public Utilities Article.
+26 (2) Except as provided in paragraph (4) of this subsection, the Department
+27 shall establish in regulations criteria to determine if land that appears to be actively used
+28 for farm or agricultural purposes:
+29 (i) is actually used for farm or agricultural purposes; and
+30 (ii) qualifies for assessment under this section.
+4 HOUSE BILL 81
+1 (3) The criteria shall include:
+2 (i) the zoning of the land;
+3 (ii) the present and past use of the land including land under the Soil
+4 Bank Program of the United States;
+5 (iii) the productivity of the land, including timberlands and
+6 reforested lands; and
+7 (iv) the gross income that is derived from the agricultural activity.
+8 (4) (i) This paragraph applies through the life cycle of a community
+9 solar energy generating system that:
+10 1. is placed in service after June 30, 2022; and
+11 2. has been approved on or before December 31, 2025, as a
+12 community solar energy generating system by the Public Service Commission under §
+13 7–306.2 of the Public Utilities Article.
+14 (ii) The Department shall assess and qualify land that is used by a
+15 community solar energy generating system for agrivoltaics as land that is actively used for
+16 farm or agricultural purposes.
+17 (f) In administering this section, periodically, the Director shall consult with:
+18 (1) the Secretary of Agriculture;
+19 (2) officials of the State who are knowledgeable in agriculture;
+20 (3) representatives of the agricultural community;
+21 (4) officials of counties and municipal corporations; and
+22 (5) other persons as determined by the Director.
+23 (g) (1) In this subsection the following words have the meanings indicated:
+24 (i) “actively used” means land that is actually and primarily used
+25 for a continuing farm or agricultural use;
+26 (ii) “agricultural land unit” means the combination of not more than
+27 3 parcels of land when the parcels are:
+28 1. located in the same county; and
+HOUSE BILL 81 5
+1 2. under the same ownership;
+2 (iii) “average gross income” means the average of the 2 highest years
+3 of gross income during a 3–year period;
+4 (iv) “family farm unit” means not more than 1 parcel of land of less
+5 than 20 acres for each immediate family member for land that is:
+6 1. contiguous to land receiving the farm or agricultural use
+7 assessment; and
+8 2. owned by a member or members of the immediate family
+9 of the owner of the farm or agricultural use land; and
+10 (v) “gross income” means the actual income that is received in a
+11 calendar year that results directly from the farm or agricultural use of the land.
+12 (2) In determining if a parcel of land of less than 20 acres, or not zoned for
+13 agricultural use, is actively used, the Department may require the owner of the land to
+14 affirm, under oath, on a standard form provided by the Department that the farm or
+15 agricultural use of the land results in an average gross income of at least $2,500 from the
+16 parcel or the agricultural land unit.
+17 (3) The Department may require an owner who submits an affirmation
+18 under paragraph (2) of this subsection to verify the gross income from the land by providing:
+19 (i) copies of sales receipts or invoices;
+20 (ii) lease agreements; or
+21 (iii) other documents required by the Department.
+22 (4) An affirmation under paragraph (2) of this subsection shall be filed
+23 before July 1 of the taxable year.
+24 (5) If land that appears to be actively used does not yield an average gross
+25 income of $2,500, the Director shall waive the gross income requirement on finding that:
+26 (i) the land is leased and the nature of the farm or agricultural use
+27 of the land when related to the amount of the land in farm or agricultural use reasonably
+28 would be expected to yield an average gross income of at least $2,500;
+29 (ii) the nature of the farm or agricultural use of the land and the
+30 amount of the land in farm or agricultural use reasonably would be expected to yield an
+31 average gross income of at least $2,500 from the agricultural products, if sold, that are
+32 derived from the use of the land;
+6 HOUSE BILL 81
+1 (iii) a drought or other natural cause has adversely affected the
+2 income–producing capability of the land during a 3–year period; or
+3 (iv) for a newly established farm or agricultural use, the nature of
+4 the use and the amount of the land in farm or agricultural use reasonably would be expected
+5 to yield an average gross income of at least $2,500 if the use had existed for a 3–year period.
+6 (6) The Director may grant only the following additional waivers:
+7 (i) under paragraph (5)(iii) of this subsection, for 1 additional
+8 consecutive 3–year period; and
+9 (ii) under paragraph (5)(iv) of this subsection, for 1 additional
+10 consecutive 3–year period.
+11 (7) The gross income requirement of paragraph (2) of this subsection does
+12 not apply if the land is actively used as a family farm unit.
+13 (8) For purposes of qualifying for the agricultural use assessment under
+14 this section, the following real property is deemed to be a single contiguous parcel:
+15 (i) parcels that are created or separated by roads, easements, or
+16 other rights–of–way; and
+17 (ii) land relating to a right–of–way that reverts back to its owner’s
+18 use for purposes of farming.
+19 (h) (1) Subject to paragraph (2) of this subsection, the following land does not
+20 qualify to be assessed under this section:
+21 (i) land rezoned to a more intensive use than the use that
+22 immediately preceded the rezoning, if a person with an ownership interest in the land has
+23 applied for or requested the rezoning;
+24 (ii) land used as a homesite, which means the area of land that is
+25 reasonably related to a dwelling;
+26 (iii) parcels of land of less than 3 acres that are under the same
+27 ownership excluding the homesite unless:
+28 1. the land is owned by an owner of adjoining land that is
+29 receiving the farm or agricultural use assessment and is actively used;
+30 2. the owner receives at least 51% of the owner’s gross
+31 income from the active use; or
+32 3. the parcels are part of a family farm unit;
+HOUSE BILL 81 7
+1 (iv) if part of a subdivision plat, parcels of land of less than 10 acres
+2 that are owned by an owner of 5 other parcels of land of less than 10 acres each that are
+3 located in the same county and that are receiving the farm or agricultural use assessment;
+4 (v) parcels of woodland of less than 5 acres excluding the homesite;
+5 or
+6 (vi) land that fails to meet the gross income requirement of
+7 subsection (g) of this section.
+8 (2) No more than 2 parcels of less than 3 acres under the same ownership
+9 may qualify for the agricultural use assessment.
+10 (i) (1) (i) In this subsection the following words have the meanings
+11 indicated.
+12 (ii) “Surviving spouse” means the surviving spouse of the property
+13 owner who applied for the waiver under this subsection if the surviving spouse has not
+14 remarried and had a legal interest in the property at the time of the application for the
+15 waiver.
+16 (iii) “3–year cycle” has the meaning stated in § 8–103 of this title.
+17 (2) The Director may grant a waiver from the requirements of subsection
+18 (e) or (g) of this section if:
+19 (i) the property owner is at least 70 years of age;
+20 (ii) the property owner applies to the Department for a waiver of the
+21 requirements of either subsection (e) or (g) of this section;
+22 (iii) the land has not changed ownership during the two previous
+23 3–year cycles; and
+24 (iv) the land has been assessed for at least the two previous 3–year
+25 cycles on the basis of farm or agricultural use under the law or regulations of the
+26 Department that were in effect as of the date of the application.
+27 (3) The Director may grant a waiver from the requirements of subsection
+28 (e) or (g) of this section if:
+29 (i) the property owner becomes disabled and is unable to continue
+30 the farm or agricultural use of the land;
+31 (ii) the property owner applies to the Department for a waiver of the
+32 requirements of either subsection (e) or (g) of this section;
+8 HOUSE BILL 81
+1 (iii) the property owner engaged in farm or agricultural use activities
+2 on the land prior to the disability; and
+3 (iv) the land has been assessed for at least the two previous 3–year
+4 cycles on the basis of farm or agricultural use under the law or regulations of the
+5 Department that were in effect as of the date of the application.
+6 (4) Any waiver granted under this subsection shall be in effect until:
+7 (i) the transfer of the property; or
+8 (ii) the later of the death of the property owner who received the
+9 waiver or the death of the surviving spouse.
+10 (5) The Department may adopt regulations to carry out the provisions of
+11 this subsection.
+12 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+13 apply retroactively and shall be applied to and interpreted to affect any condemnation
+14 proceeding initiated on or after January 1, 2024.
+15 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+16 October 1, 2025.
+[DELETED: :CA      5 ( C A R P ( F i a a g r t t f m v o a p i c B  A S  A  ( B  A S  A  (  S T A 1]
+[DELETED:  H   ( I a p p  ( T () []S() U  ON   v o o p Ir     m v i a a b w t p) IA r f t p c   () H P A O T P T IDAT§89 E O S A A U   O T–PA  R RE  §778PUA.   U T R  () IH F M V O P A U  %.  ( T d p o m e t p a e i a c p t a v o t p a d b t D o A a T i t a v i g t t a  ( I []E(X A P I P  O TN    t f H] (    c o t o i a t t t c u § 9 o t T t]
+[DELETED: H 3 A 8  ( T S   ( m t   ( e h   ( p b i  ( I   ( b f   ( n n  ( L b  ( L t  ( ( ( I t s t f w h t m i    ( “    ( “ s   ( E s f    ( i    ( q]
+[DELETED:  H    ( T    ( t    ( t B    ( t p o t l i t a r    ( t   ( ( T p a t t l c o a c s     1 i     2 h c s e g s b t P S C u § 7    ( T c f  ( I   ( t   ( o   ( r   ( o   ( o  ( ( I    ( “ f    ( “ 3     1 l]
+[DELETED: H 5     2 u    ( “ o    ( “ t     1 c a     2 o o    ( “ i m t a i t i r i a c   ( I a a u o o a s f p b t D t t f o a p   ( T u    ( c    ( l    ( o   ( A a u p ( o t s s b f b   ( I i    ( t o w    ( t a a d]
+[DELETED:  H     ( a d o o n c h a a t i    ( f t t   ( T    ( u p ( o t s f 1 a c    ( u p ( o t s f 1 a c   ( T n   ( F t    ( p t a c o s b r e o o    ( l u  ( ( S q    ( l r t a m i u t t u t i a    ( l r    ( p o l o l t 3 a t a u t s o     1 t r     2 t o r a l 5 o t o g i     3 t]
+[DELETED: H 7    ( i t l    ( p o    ( l t f t m t g i r o s   ( N m  ( ( ( I t s t f w h t m i    ( “ o r w    ( “   ( T (    ( t    ( t r    ( t l h n c o d t t p 3    ( t c o t b o f o a u u t l o r o t D   ( T (    ( t t    ( t r]
+[DELETED:  H     ( t o    ( t c o t b o f o a u u t l o r o t D   ( A    ( t    ( t w   ( T t  S a a a p  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 81
+N1, M4, C5 5lr0676
+(PRE–FILED) CF 5lr1404
+By: Delegates Mangione, Arentz, Chisholm, Grammer, Guyton, Hartman, R. Long,
+Miller, T. Morgan, Nawrocki, Rose, Schmidt, Szeliga, and Tomlinson
+Requested: August 13, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Real Property – Condemnation – Compensation for Farm and Agricultural
+3 Property
+4 (Protect Maryland Farm Lands Act)
+5 FOR the purpose of requiring the fair market value of certain agricultural property taken
+6 in a condemnation proceeding to be valued at a certain percentage of the highest
+7 appraisal value of the property; providing for the retroactive application of this Act;
+8 and generally relating to the fair market value of agricultural property in
+9 condemnation proceedings.
+10 BY repealing and reenacting, with amendments,
+11 Article – Real Property
+12 Section 12–105
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – Tax – Property
+17 Section 8–209
+18 Annotated Code of Maryland
+19 (2019 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Real Property
+23 12–105.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0081*
+
+2 HOUSE BILL 81
+1 (a) In this section, the phrase “the effective date of legislative authority for the
+2 acquisition of the property” means, with respect to a condemnor vested with continuing
+3 power of condemnation, the date of specific administrative determination to acquire the
+4 property.
+5 (b) (1) (I) [The] SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION,
+6 THE fair market value of property in a condemnation proceeding is the price as of the
+7 valuation date for the highest and best use of the property which a vendor, willing but not
+8 obligated to sell, would accept for the property, and which a purchaser, willing but not
+9 obligated to buy, would pay, excluding any increment in value proximately caused by the
+10 public project for which the property condemned is needed. [In addition, fair]
+11 (II) FAIR market value includes any amount by which the price
+12 reflects a diminution in value occurring between the effective date of legislative authority
+13 for the acquisition of the property and the date of actual taking if the trier of facts finds
+14 that the diminution in value was proximately caused by the public project for which the
+15 property condemned is needed, or by announcements or acts of the plaintiff or its officials
+16 concerning the public project, and was beyond the reasonable control of the property owner.
+17 (2) (I) THIS PARAGRAPH APPLIES ONLY TO PROPERTY THAT IS
+18 ACTIVELY USED FOR FARM OR AGRICULTURAL PURPOSES AS DETERMINED BY THE
+19 STATE DEPARTMENT OF ASSESSMENTS AND TAXATION UNDER § 8–209 OF THE
+20 TAX – PROPERTY ARTICLE, INCLUDING PROPERTY ACQUIRED BY CONDEMNATION
+21 FOR THE CONSTRUCTION OR MAINTENANCE OF A TRANSMISSION LINE UNDER §§
+22 7–207 AND 7–208 OF THE PUBLIC UTILITIES ARTICLE.
+23 (II) THE FAIR MARKET VALUE OF PROPERTY ACTIVELY USED
+24 FOR FARM OR AGRICULTURAL PURPOSES IN A CONDEMNATION PROCEEDING SHALL
+25 BE 350% OF THE HIGHEST APPRAISAL VALUE OF THE PROPERTY.
+26 (c) The defendant property owner may elect to present as evidence in a
+27 condemnation proceeding, the assessed value of the property, as determined by the
+28 Department of Assessments and Taxation, if the assessed value is greater than the
+29 appraised value placed on the property by the condemning authority.
+30 (d) (1) [If] EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+31 SUBSECTION, IF property is ever acquired by the exercise of the power of eminent domain,
+32 the fair market value of the property is not affected by the property having been qualified
+33 for a tax credit under § 9–208 of the Tax – Property Article. [However, if]
+34 (2) IF the grantee of an easement purchased the easement for monetary
+35 consideration other than, or in addition to, the tax credit under § 9–208 of the
+36 Tax – Property Article, then the condemnation award shall be reduced by an amount equal
+37 to the additional consideration.
+
+HOUSE BILL 81 3
+1 Article – Tax – Property
+2 8–209.
+3 (a) The General Assembly declares that it is in the general public interest of the
+4 State to foster and encourage farming activities to:
+5 (1) maintain a readily available source of food and dairy products close to
+6 the metropolitan areas of the State;
+7 (2) encourage the preservation of open space as an amenity necessary for
+8 human welfare and happiness; and
+9 (3) prevent the forced conversion of open space land to more intensive uses
+10 because of the economic pressures caused by the assessment of the land at rates or levels
+11 incompatible with its practical use for farming.
+12 (b) It is the intention of the General Assembly that the assessment of farmland:
+13 (1) be maintained at levels compatible with the continued use of the land
+14 for farming; and
+15 (2) not be affected adversely by neighboring land uses of a more intensive
+16 nature.
+17 (c) Land that is actively used for farm or agricultural use shall be valued on the
+18 basis of that use and may not be valued as if subdivided.
+19 (d) Land that is valued under subsection (c) of this section shall be assessed on
+20 the basis of its use value.
+21 (e) (1) (i) In this subsection the following words have the meanings
+22 indicated.
+23 (ii) “Agrivoltaics” has the meaning stated in § 7–237 of this article.
+24 (iii) “Community solar energy generating system” has the meaning
+25 stated in § 7–306.2 of the Public Utilities Article.
+26 (2) Except as provided in paragraph (4) of this subsection, the Department
+27 shall establish in regulations criteria to determine if land that appears to be actively used
+28 for farm or agricultural purposes:
+29 (i) is actually used for farm or agricultural purposes; and
+30 (ii) qualifies for assessment under this section.
+
+4 HOUSE BILL 81
+1 (3) The criteria shall include:
+2 (i) the zoning of the land;
+3 (ii) the present and past use of the land including land under the Soil
+4 Bank Program of the United States;
+5 (iii) the productivity of the land, including timberlands and
+6 reforested lands; and
+7 (iv) the gross income that is derived from the agricultural activity.
+8 (4) (i) This paragraph applies through the life cycle of a community
+9 solar energy generating system that:
+10 1. is placed in service after June 30, 2022; and
+11 2. has been approved on or before December 31, 2025, as a
+12 community solar energy generating system by the Public Service Commission under §
+13 7–306.2 of the Public Utilities Article.
+14 (ii) The Department shall assess and qualify land that is used by a
+15 community solar energy generating system for agrivoltaics as land that is actively used for
+16 farm or agricultural purposes.
+17 (f) In administering this section, periodically, the Director shall consult with:
+18 (1) the Secretary of Agriculture;
+19 (2) officials of the State who are knowledgeable in agriculture;
+20 (3) representatives of the agricultural community;
+21 (4) officials of counties and municipal corporations; and
+22 (5) other persons as determined by the Director.
+23 (g) (1) In this subsection the following words have the meanings indicated:
+24 (i) “actively used” means land that is actually and primarily used
+25 for a continuing farm or agricultural use;
+26 (ii) “agricultural land unit” means the combination of not more than
+27 3 parcels of land when the parcels are:
+28 1. located in the same county; and
+
+HOUSE BILL 81 5
+1 2. under the same ownership;
+2 (iii) “average gross income” means the average of the 2 highest years
+3 of gross income during a 3–year period;
+4 (iv) “family farm unit” means not more than 1 parcel of land of less
+5 than 20 acres for each immediate family member for land that is:
+6 1. contiguous to land receiving the farm or agricultural use
+7 assessment; and
+8 2. owned by a member or members of the immediate family
+9 of the owner of the farm or agricultural use land; and
+10 (v) “gross income” means the actual income that is received in a
+11 calendar year that results directly from the farm or agricultural use of the land.
+12 (2) In determining if a parcel of land of less than 20 acres, or not zoned for
+13 agricultural use, is actively used, the Department may require the owner of the land to
+14 affirm, under oath, on a standard form provided by the Department that the farm or
+15 agricultural use of the land results in an average gross income of at least $2,500 from the
+16 parcel or the agricultural land unit.
+17 (3) The Department may require an owner who submits an affirmation
+18 under paragraph (2) of this subsection to verify the gross income from the land by providing:
+19 (i) copies of sales receipts or invoices;
+20 (ii) lease agreements; or
+21 (iii) other documents required by the Department.
+22 (4) An affirmation under paragraph (2) of this subsection shall be filed
+23 before July 1 of the taxable year.
+24 (5) If land that appears to be actively used does not yield an average gross
+25 income of $2,500, the Director shall waive the gross income requirement on finding that:
+26 (i) the land is leased and the nature of the farm or agricultural use
+27 of the land when related to the amount of the land in farm or agricultural use reasonably
+28 would be expected to yield an average gross income of at least $2,500;
+29 (ii) the nature of the farm or agricultural use of the land and the
+30 amount of the land in farm or agricultural use reasonably would be expected to yield an
+31 average gross income of at least $2,500 from the agricultural products, if sold, that are
+32 derived from the use of the land;
+
+6 HOUSE BILL 81
+1 (iii) a drought or other natural cause has adversely affected the
+2 income–producing capability of the land during a 3–year period; or
+3 (iv) for a newly established farm or agricultural use, the nature of
+4 the use and the amount of the land in farm or agricultural use reasonably would be expected
+5 to yield an average gross income of at least $2,500 if the use had existed for a 3–year period.
+6 (6) The Director may grant only the following additional waivers:
+7 (i) under paragraph (5)(iii) of this subsection, for 1 additional
+8 consecutive 3–year period; and
+9 (ii) under paragraph (5)(iv) of this subsection, for 1 additional
+10 consecutive 3–year period.
+11 (7) The gross income requirement of paragraph (2) of this subsection does
+12 not apply if the land is actively used as a family farm unit.
+13 (8) For purposes of qualifying for the agricultural use assessment under
+14 this section, the following real property is deemed to be a single contiguous parcel:
+15 (i) parcels that are created or separated by roads, easements, or
+16 other rights–of–way; and
+17 (ii) land relating to a right–of–way that reverts back to its owner’s
+18 use for purposes of farming.
+19 (h) (1) Subject to paragraph (2) of this subsection, the following land does not
+20 qualify to be assessed under this section:
+21 (i) land rezoned to a more intensive use than the use that
+22 immediately preceded the rezoning, if a person with an ownership interest in the land has
+23 applied for or requested the rezoning;
+24 (ii) land used as a homesite, which means the area of land that is
+25 reasonably related to a dwelling;
+26 (iii) parcels of land of less than 3 acres that are under the same
+27 ownership excluding the homesite unless:
+28 1. the land is owned by an owner of adjoining land that is
+29 receiving the farm or agricultural use assessment and is actively used;
+30 2. the owner receives at least 51% of the owner’s gross
+31 income from the active use; or
+32 3. the parcels are part of a family farm unit;
+
+HOUSE BILL 81 7
+1 (iv) if part of a subdivision plat, parcels of land of less than 10 acres
+2 that are owned by an owner of 5 other parcels of land of less than 10 acres each that are
+3 located in the same county and that are receiving the farm or agricultural use assessment;
+4 (v) parcels of woodland of less than 5 acres excluding the homesite;
+5 or
+6 (vi) land that fails to meet the gross income requirement of
+7 subsection (g) of this section.
+8 (2) No more than 2 parcels of less than 3 acres under the same ownership
+9 may qualify for the agricultural use assessment.
+10 (i) (1) (i) In this subsection the following words have the meanings
+11 indicated.
+12 (ii) “Surviving spouse” means the surviving spouse of the property
+13 owner who applied for the waiver under this subsection if the surviving spouse has not
+14 remarried and had a legal interest in the property at the time of the application for the
+15 waiver.
+16 (iii) “3–year cycle” has the meaning stated in § 8–103 of this title.
+17 (2) The Director may grant a waiver from the requirements of subsection
+18 (e) or (g) of this section if:
+19 (i) the property owner is at least 70 years of age;
+20 (ii) the property owner applies to the Department for a waiver of the
+21 requirements of either subsection (e) or (g) of this section;
+22 (iii) the land has not changed ownership during the two previous
+23 3–year cycles; and
+24 (iv) the land has been assessed for at least the two previous 3–year
+25 cycles on the basis of farm or agricultural use under the law or regulations of the
+26 Department that were in effect as of the date of the application.
+27 (3) The Director may grant a waiver from the requirements of subsection
+28 (e) or (g) of this section if:
+29 (i) the property owner becomes disabled and is unable to continue
+30 the farm or agricultural use of the land;
+31 (ii) the property owner applies to the Department for a waiver of the
+32 requirements of either subsection (e) or (g) of this section;
+
+8 HOUSE BILL 81
+1 (iii) the property owner engaged in farm or agricultural use activities
+2 on the land prior to the disability; and
+3 (iv) the land has been assessed for at least the two previous 3–year
+4 cycles on the basis of farm or agricultural use under the law or regulations of the
+5 Department that were in effect as of the date of the application.
+6 (4) Any waiver granted under this subsection shall be in effect until:
+7 (i) the transfer of the property; or
+8 (ii) the later of the death of the property owner who received the
+9 waiver or the death of the surviving spouse.
+10 (5) The Department may adopt regulations to carry out the provisions of
+11 this subsection.
+12 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+13 apply retroactively and shall be applied to and interpreted to affect any condemnation
+14 proceeding initiated on or after January 1, 2024.
+15 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+16 October 1, 2025.
+
+[DELETED: :CA      5 ( C A R P ( F i a a g r t t f m v o a p i c B  A S  A  ( B  A S  A  (  S T A 1]
+[DELETED:  H   ( I a p p  ( T () []S() U  ON   v o o p Ir     m v i a a b w t p) IA r f t p c   () H P A O T P T IDAT§89 E O S A A U   O T–PA  R RE  §778PUA.   U T R  () IH F M V O P A U  %.  ( T d p o m e t p a e i a c p t a v o t p a d b t D o A a T i t a v i g t t a  ( I []E(X A P I P  O TN    t f H] (    c o t o i a t t t c u § 9 o t T t]
+[DELETED: H 3 A 8  ( T S   ( m t   ( e h   ( p b i  ( I   ( b f   ( n n  ( L b  ( L t  ( ( ( I t s t f w h t m i    ( “    ( “ s   ( E s f    ( i    ( q]
+[DELETED:  H    ( T    ( t    ( t B    ( t p o t l i t a r    ( t   ( ( T p a t t l c o a c s     1 i     2 h c s e g s b t P S C u § 7    ( T c f  ( I   ( t   ( o   ( r   ( o   ( o  ( ( I    ( “ f    ( “ 3     1 l]
+[DELETED: H 5     2 u    ( “ o    ( “ t     1 c a     2 o o    ( “ i m t a i t i r i a c   ( I a a u o o a s f p b t D t t f o a p   ( T u    ( c    ( l    ( o   ( A a u p ( o t s s b f b   ( I i    ( t o w    ( t a a d]
+[DELETED:  H     ( a d o o n c h a a t i    ( f t t   ( T    ( u p ( o t s f 1 a c    ( u p ( o t s f 1 a c   ( T n   ( F t    ( p t a c o s b r e o o    ( l u  ( ( S q    ( l r t a m i u t t u t i a    ( l r    ( p o l o l t 3 a t a u t s o     1 t r     2 t o r a l 5 o t o g i     3 t]
+[DELETED: H 7    ( i t l    ( p o    ( l t f t m t g i r o s   ( N m  ( ( ( I t s t f w h t m i    ( “ o r w    ( “   ( T (    ( t    ( t r    ( t l h n c o d t t p 3    ( t c o t b o f o a u u t l o r o t D   ( T (    ( t t    ( t r]
+[DELETED:  H     ( t o    ( t c o t b o f o a u u t l o r o t D   ( A    ( t    ( t w   ( T t  S a a a p  S A B I F E T t A s t e O]

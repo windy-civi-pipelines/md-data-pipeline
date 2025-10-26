@@ -1,0 +1,400 @@
+Title: HOUSE BILL 769
+Official Title: HOUSE BILL 769
+Number of Sections: 1
+Source: versions - First - Real Property – Residential Foreclosures – Materially Delinquent Mortgages
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+N1 5lr1126
+CF 5lr2796
+By: Delegates D. Jones, Allen, Bagnall, Bartlett, Boafo, Holmes, J. Lewis, Pruski,
+Roberson, Schmidt, and Simmons
+Introduced and read first time: January 29, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Real Property – Residential Foreclosures – Materially Delinquent Mortgages
+3 FOR the purpose of altering certain requirements for an order to docket or a complaint to
+4 foreclose a mortgage or deed of trust on residential property; requiring a secured
+5 party to provide certain loan–related correspondence in order to enforce a materially
+6 delinquent mortgage, subject to certain exceptions; permitting a mortgagor to raise
+7 a defense of laches in an action to enforce a materially delinquent mortgage; and
+8 generally relating to materially delinquent mortgages and foreclosures on
+9 residential property.
+10 BY repealing and reenacting, without amendments,
+11 Article – Real Property
+12 Section 7–105.1(a)(1), (8), and (12) and (b)
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Real Property
+17 Section 7–105.1(e)(1)
+18 Annotated Code of Maryland
+19 (2023 Replacement Volume and 2024 Supplement)
+20 BY adding to
+21 Article – Real Property
+22 Section 7–105.19
+23 Annotated Code of Maryland
+24 (2023 Replacement Volume and 2024 Supplement)
+25 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+26 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0769*
+2 HOUSE BILL 769
+1 Article – Real Property
+2 7–105.1.
+3 (a) (1) In this section the following words have the meanings indicated.
+4 (8) “Owner–occupied residential property” means residential property in
+5 which at least one unit is occupied by an individual who:
+6 (i) Has an ownership interest in the property; and
+7 (ii) Uses the property as the individual’s primary residence.
+8 (12) “Residential property” means real property improved by four or fewer
+9 single family dwelling units that are designed principally and are intended for human
+10 habitation.
+11 (b) (1) Except as provided in paragraph (2) of this subsection, an action to
+12 foreclose a mortgage or deed of trust on residential property may not be filed until the later
+13 of:
+14 (i) 90 days after a default in a condition on which the mortgage or
+15 deed of trust provides that a sale may be made; or
+16 (ii) 45 days after the notice of intent to foreclose required under
+17 subsection (c) of this section is sent.
+18 (2) (i) The secured party may petition the circuit court for leave to
+19 immediately commence an action to foreclose the mortgage or deed of trust if:
+20 1. The loan secured by the mortgage or deed of trust was
+21 obtained by fraud or deception;
+22 2. No payments have ever been made on the loan secured by
+23 the mortgage or deed of trust;
+24 3. The property subject to the mortgage or deed of trust has
+25 been destroyed;
+26 4. The default occurred after the stay has been lifted in a
+27 bankruptcy proceeding; or
+28 5. The property subject to the mortgage or deed of trust is
+29 property that is vacant and abandoned as provided under § 7–105.18 of this subtitle.
+30 (ii) The court may rule on the petition with or without a hearing.
+HOUSE BILL 769 3
+1 (iii) If the petition is granted:
+2 1. The action may be filed at any time after a default in a
+3 condition on which the mortgage or deed of trust provides that a sale may be made; and
+4 2. The secured party need not send the written notice of
+5 intent to foreclose required under subsection (c) of this section.
+6 (e) An order to docket or a complaint to foreclose a mortgage or deed of trust on
+7 residential property shall:
+8 (1) Include:
+9 (i) If applicable, the license number of:
+10 1. The mortgage originator; and
+11 2. The mortgage lender; and
+12 (ii) An affidavit stating:
+13 1. The date on which the default occurred and the nature of
+14 the default; [and]
+15 2. A. WHETHER THE DEBT INSTRUMENT
+16 CONSTITUTES A MATERIALLY DELINQUENT MORTGAGE WITHIN THE MEANING OF §
+17 7–105.19 OF THIS SUBTITLE; AND
+18 B. IF THE DEBT INSTRUMENT IS A MATERIALLY
+19 DELINQUENT MORTGAGE WITHIN THE MEANING OF § 7–105.19 OF THIS SUBTITLE,
+20 THAT THE SECURED PARTY HAS SATISFIED ANY REQUIREMENTS FOR INSTITUTING
+21 FORECLOSURE UNDER THAT SECTION; AND
+22 [2.] 3. If applicable, that:
+23 A. A notice of intent to foreclose was sent to the mortgagor or
+24 grantor in accordance with subsection (c) of this section and the date on which the notice
+25 was sent; and
+26 B. At the time the notice of intent to foreclose was sent, the
+27 contents of the notice of intent to foreclose were accurate; and
+28 7–105.19.
+4 HOUSE BILL 769
+1 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (2) “BILLING CYCLE” MEANS:
+4 (I) IF A MORTGAGE REQUIRES PERIODIC PAYMENTS AT
+5 INTERVALS OF 3 MONTHS OR LESS, THE INTERVAL BETWEEN THE DAYS OR DATES OF
+6 REGULAR PERIODIC PAYMENTS REQUIRED BY THE TERMS OF THE MORTGAGE; OR
+7 (II) IF THE MORTGAGE TERMS DO NOT REQUIRE PERIODIC
+8 PAYMENTS OR REQUIRE PERIODIC PAYMENTS ON INTERVALS GREATER THAN 3
+9 MONTHS, EVERY 3 MONTHS.
+10 (3) “LOAN–RELATED CORRESPONDENCE” MEANS WRITTEN
+11 COMMUNICATION FROM A SECURED PARTY TO A MORTGAGOR THAT:
+12 (I) IF THE SECURED PARTY IS REQUIRED TO PROVIDE
+13 PERIODIC STATEMENTS UNDER 12 C.F.R. § 1026.41, COMPLIES WITH THE
+14 REQUIREMENTS OF THAT PROVISION; OR
+15 (II) IF THE SECURED PARTY IS NOT REQUIRED TO PROVIDE
+16 PERIODIC STATEMENTS UNDER 12 C.F.R. § 1026.41, CONTAINS THE FOLLOWING:
+17 1. THE NAME AND CONTACT INFORMATION OF THE
+18 SECURED PARTY;
+19 2. THE CURRENT AMOUNT OF THE OUTSTANDING
+20 PRINCIPAL BALANCE;
+21 3. THE CURRENT INTEREST RATE IN EFFECT;
+22 4. THE AMOUNT CURRENTLY DUE DISAGGREGATED BY
+23 PRINCIPAL, INTEREST, CHARGES, AND FEES; AND
+24 5. THE LENGTH OF ANY PAYMENT DELINQUENCY,
+25 INCLUDING THE DATE OF LAST PAYMENT.
+26 (4) “MATERIALLY DELINQUENT MORTGAGE” MEANS A MORTGAGE ON
+27 WHICH NO PAYMENTS HAVE BEEN MADE BY A PARTY, OTHER THAN THE SECURED
+28 PARTY, IN THE PRECEDING 5 YEARS, EXCLUDING ANY PERIOD OF TIME IN WHICH A
+29 SECURED PARTY COULD NOT INSTITUTE A FORECLOSURE PROCEEDING DUE TO AN
+30 EXECUTIVE ORDER OR OTHER SIMILAR OFFICIAL ACTION RESTRICTING
+31 FORECLOSURE ACTIONS.
+HOUSE BILL 769 5
+1 (5) “MORTGAGE” MEANS ANY MORTGAGE OR DEED OF TRUST
+2 ENCUMBERING OWNER–OCCUPIED RESIDENTIAL PROPERTY.
+3 (6) “MORTGAGOR” MEANS ANY PARTY SIGNING A MORTGAGE AS A
+4 MORTGAGOR OR A DEED OF TRUST AS A GRANTOR.
+5 (7) “OWNER–OCCUPIED RESIDENTIAL PROPERTY” HAS THE MEANING
+6 STATED IN § 7–105.1 OF THIS SUBTITLE.
+7 (8) “RESIDENTIAL PROPERTY” HAS THE MEANING STATED IN §
+8 7–105.1 OF THIS SUBTITLE.
+9 (9) “SECURED PARTY” MEANS AN OWNER, A SERVICER, OR ANY
+10 OTHER PERSON ENTITLED TO ENFORCE A MORTGAGE OR A DEED OF TRUST.
+11 (B) (1) THIS SUBSECTION MAY NOT BE INTERPRETED TO:
+12 (I) PROHIBIT THE FILING OF A PETITION UNDER §
+13 7–105.1(B)(2) OF THIS SUBTITLE; OR
+14 (II) PRECLUDE THE COURT FROM GRANTING A PETITION WITH
+15 RESPECT TO A MATERIALLY DELINQUENT MORTGAGE UNDER § 7–105.1(B)(2) OF
+16 THIS SUBTITLE.
+17 (2) UNLESS PROHIBITED BY LAW, REGULATION, OR EXECUTIVE
+18 ORDER, A SECURED PARTY SHALL SEND LOAN–RELATED CORRESPONDENCE TO THE
+19 MORTGAGOR OF A MATERIALLY DELINQUENT MORTGAGE IN EACH BILLING CYCLE.
+20 (3) PRIOR TO OCTOBER 1, 2027, A SECURED PARTY MAY ENFORCE A
+21 MATERIALLY DELINQUENT MORTGAGE THROUGH COMMENCEMENT OF A
+22 FORECLOSURE OR JUDICIAL SALE ONLY IF:
+23 (I) AT LEAST ONE PIECE OF LOAN–RELATED
+24 CORRESPONDENCE WAS SENT TO THE MORTGAGOR DURING EACH BILLING CYCLE
+25 FOR THE IMMEDIATELY PRECEDING 24 MONTHS, EXCLUDING ANY PERIOD DURING
+26 WHICH THE SECURED PARTY WAS PROHIBITED BY LAW, REGULATION, OR
+27 EXECUTIVE ORDER FROM SENDING LOAN–RELATED CORRESPONDENCE TO THE
+28 MORTGAGOR; OR
+29 (II) ON A FORM PROVIDED BY THE COMMISSIONER OF
+30 FINANCIAL REGULATION, THE SECURED PARTY SERVES NOTICE ON THE
+31 MORTGAGOR OF THE MATERIALLY DELINQUENT MORTGAGE AT LEAST 90 DAYS
+32 PRIOR TO COMMENCEMENT.
+6 HOUSE BILL 769
+1 (4) ON OR AFTER OCTOBER 1, 2027, A SECURED PARTY MAY ENFORCE
+2 A MATERIALLY DELINQUENT MORTGAGE THROUGH A FORECLOSURE OR JUDICIAL
+3 SALE ONLY IF THE SECURED PARTY HAS MET THE REQUIREMENTS OF PARAGRAPH
+4 (2) OF THIS SUBSECTION FOR THE IMMEDIATELY PRECEDING 24 CONSECUTIVE
+5 MONTHS.
+6 (5) THE COMMISSIONER OF FINANCIAL REGULATION MAY DEVELOP
+7 THE FORM REQUIRED UNDER PARAGRAPH (3)(II) OF THIS SUBSECTION BY
+8 REGULATION.
+9 (C) (1) IN AN ACTION TO FORECLOSE OR OTHERWISE ENFORCE A
+10 MATERIALLY DELINQUENT MORTGAGE, A MORTGAGOR MAY RAISE A DEFENSE OF
+11 LACHES.
+12 (2) A COURT CONSIDERING A DEFENSE OF LACHES IN AN ACTION TO
+13 FORECLOSE OR OTHERWISE ENFORCE A MATERIALLY DELINQUENT MORTGAGE
+14 MAY:
+15 (I) ATTRIBUTE ANY DELAY IN THE ENFORCEMENT OF THE
+16 MORTGAGE TO THE SECURED PARTY EVEN IF THE SECURED PARTY DID NOT HOLD
+17 AN INTEREST IN THE MORTGAGE AT ALL TIMES DURING THE DELAY IN
+18 ENFORCEMENT; AND
+19 (II) ORDER ANY RELIEF THE COURT CONSIDERS TO BE
+20 APPROPRIATE.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 January 1, 2026.
+[DELETED: :CA      5   C A R F f p d a g r t m d m a f o r B  A  S  A  ( B  A  S  A  ( B  A  S  A  (  S T]
+[DELETED:  H  A 7  ( ( I   ( “ w    ( H    ( U  ()“ s h  ( ( E a p i p ( o s t f o    ( 90d d    ( 4 d a ten o i t f r u s   ( ( T s p m p t c c f l t i     1 T l s b m o d o t w o     2 N t     3 T b     4 T b     5 T p    ( T]
+[DELETED: H 3    ( I     1 T c     2 T s p n n s t w n o i  ( A r   ( I    ( I     1 T     2 T    ( A     1 T t a]     A  T D I 9;E       T D I I A M   E79N     []3  2.I     A A g w     B A c]
+[DELETED:  H () ( N ( “B”:E   () F A M R P P A  S E   () IF T M T D N R P O R P P O I G T S   3. ( “L–NR CE M W  () F T S P I R T P S U     C W T2C.§1N   () IF T S P I N R T P     2C.§1,:   1  N A C I O T      C A O T O     T;     L T S S ,,;     T L O A P DY ( “ME Y Y   S 5 O O O S O A R]
+[DELETED: H 5 ( “ME M A M O D O TRO. ( “MR M A P S A M A A ( “O–ROY    71. ( “R”§ PY H T M S I 1. ( “S”, PY M A OR A SR O A() ( T:H  () P§R T F O A P U ()); E   () IR M D M U  B O7() ( U, P B LW RN O ER NR ( PO1,2 C    D M T C O A  () AT L O P O LNR  S 4 T S P W P B LW RN O O F S LNR C T TR   () OIN A F P B T O OR EN T S P S N O T O T M D M A L  D]
+[DELETED:  H  ( OO1,2 C   )2O T S F T I P  C ( TCF O I E F R U P II O T S B(() ( N A A T F O O E AE  (  O O E A M D M  () T A D I T E O T I I T M A A T D T D IT   () IR A R T C C T B S A B I F E T t A s t e J]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 769
+N1 5lr1126
+CF 5lr2796
+By: Delegates D. Jones, Allen, Bagnall, Bartlett, Boafo, Holmes, J. Lewis, Pruski,
+Roberson, Schmidt, and Simmons
+Introduced and read first time: January 29, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Real Property – Residential Foreclosures – Materially Delinquent Mortgages
+3 FOR the purpose of altering certain requirements for an order to docket or a complaint to
+4 foreclose a mortgage or deed of trust on residential property; requiring a secured
+5 party to provide certain loan–related correspondence in order to enforce a materially
+6 delinquent mortgage, subject to certain exceptions; permitting a mortgagor to raise
+7 a defense of laches in an action to enforce a materially delinquent mortgage; and
+8 generally relating to materially delinquent mortgages and foreclosures on
+9 residential property.
+10 BY repealing and reenacting, without amendments,
+11 Article – Real Property
+12 Section 7–105.1(a)(1), (8), and (12) and (b)
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Real Property
+17 Section 7–105.1(e)(1)
+18 Annotated Code of Maryland
+19 (2023 Replacement Volume and 2024 Supplement)
+20 BY adding to
+21 Article – Real Property
+22 Section 7–105.19
+23 Annotated Code of Maryland
+24 (2023 Replacement Volume and 2024 Supplement)
+25 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+26 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0769*
+
+2 HOUSE BILL 769
+1 Article – Real Property
+2 7–105.1.
+3 (a) (1) In this section the following words have the meanings indicated.
+4 (8) “Owner–occupied residential property” means residential property in
+5 which at least one unit is occupied by an individual who:
+6 (i) Has an ownership interest in the property; and
+7 (ii) Uses the property as the individual’s primary residence.
+8 (12) “Residential property” means real property improved by four or fewer
+9 single family dwelling units that are designed principally and are intended for human
+10 habitation.
+11 (b) (1) Except as provided in paragraph (2) of this subsection, an action to
+12 foreclose a mortgage or deed of trust on residential property may not be filed until the later
+13 of:
+14 (i) 90 days after a default in a condition on which the mortgage or
+15 deed of trust provides that a sale may be made; or
+16 (ii) 45 days after the notice of intent to foreclose required under
+17 subsection (c) of this section is sent.
+18 (2) (i) The secured party may petition the circuit court for leave to
+19 immediately commence an action to foreclose the mortgage or deed of trust if:
+20 1. The loan secured by the mortgage or deed of trust was
+21 obtained by fraud or deception;
+22 2. No payments have ever been made on the loan secured by
+23 the mortgage or deed of trust;
+24 3. The property subject to the mortgage or deed of trust has
+25 been destroyed;
+26 4. The default occurred after the stay has been lifted in a
+27 bankruptcy proceeding; or
+28 5. The property subject to the mortgage or deed of trust is
+29 property that is vacant and abandoned as provided under § 7–105.18 of this subtitle.
+30 (ii) The court may rule on the petition with or without a hearing.
+
+HOUSE BILL 769 3
+1 (iii) If the petition is granted:
+2 1. The action may be filed at any time after a default in a
+3 condition on which the mortgage or deed of trust provides that a sale may be made; and
+4 2. The secured party need not send the written notice of
+5 intent to foreclose required under subsection (c) of this section.
+6 (e) An order to docket or a complaint to foreclose a mortgage or deed of trust on
+7 residential property shall:
+8 (1) Include:
+9 (i) If applicable, the license number of:
+10 1. The mortgage originator; and
+11 2. The mortgage lender; and
+12 (ii) An affidavit stating:
+13 1. The date on which the default occurred and the nature of
+14 the default; [and]
+15 2. A. WHETHER THE DEBT INSTRUMENT
+16 CONSTITUTES A MATERIALLY DELINQUENT MORTGAGE WITHIN THE MEANING OF §
+17 7–105.19 OF THIS SUBTITLE; AND
+18 B. IF THE DEBT INSTRUMENT IS A MATERIALLY
+19 DELINQUENT MORTGAGE WITHIN THE MEANING OF § 7–105.19 OF THIS SUBTITLE,
+20 THAT THE SECURED PARTY HAS SATISFIED ANY REQUIREMENTS FOR INSTITUTING
+21 FORECLOSURE UNDER THAT SECTION; AND
+22 [2.] 3. If applicable, that:
+23 A. A notice of intent to foreclose was sent to the mortgagor or
+24 grantor in accordance with subsection (c) of this section and the date on which the notice
+25 was sent; and
+26 B. At the time the notice of intent to foreclose was sent, the
+27 contents of the notice of intent to foreclose were accurate; and
+28 7–105.19.
+
+4 HOUSE BILL 769
+1 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (2) “BILLING CYCLE” MEANS:
+4 (I) IF A MORTGAGE REQUIRES PERIODIC PAYMENTS AT
+5 INTERVALS OF 3 MONTHS OR LESS, THE INTERVAL BETWEEN THE DAYS OR DATES OF
+6 REGULAR PERIODIC PAYMENTS REQUIRED BY THE TERMS OF THE MORTGAGE; OR
+7 (II) IF THE MORTGAGE TERMS DO NOT REQUIRE PERIODIC
+8 PAYMENTS OR REQUIRE PERIODIC PAYMENTS ON INTERVALS GREATER THAN 3
+9 MONTHS, EVERY 3 MONTHS.
+10 (3) “LOAN–RELATED CORRESPONDENCE” MEANS WRITTEN
+11 COMMUNICATION FROM A SECURED PARTY TO A MORTGAGOR THAT:
+12 (I) IF THE SECURED PARTY IS REQUIRED TO PROVIDE
+13 PERIODIC STATEMENTS UNDER 12 C.F.R. § 1026.41, COMPLIES WITH THE
+14 REQUIREMENTS OF THAT PROVISION; OR
+15 (II) IF THE SECURED PARTY IS NOT REQUIRED TO PROVIDE
+16 PERIODIC STATEMENTS UNDER 12 C.F.R. § 1026.41, CONTAINS THE FOLLOWING:
+17 1. THE NAME AND CONTACT INFORMATION OF THE
+18 SECURED PARTY;
+19 2. THE CURRENT AMOUNT OF THE OUTSTANDING
+20 PRINCIPAL BALANCE;
+21 3. THE CURRENT INTEREST RATE IN EFFECT;
+22 4. THE AMOUNT CURRENTLY DUE DISAGGREGATED BY
+23 PRINCIPAL, INTEREST, CHARGES, AND FEES; AND
+24 5. THE LENGTH OF ANY PAYMENT DELINQUENCY,
+25 INCLUDING THE DATE OF LAST PAYMENT.
+26 (4) “MATERIALLY DELINQUENT MORTGAGE” MEANS A MORTGAGE ON
+27 WHICH NO PAYMENTS HAVE BEEN MADE BY A PARTY, OTHER THAN THE SECURED
+28 PARTY, IN THE PRECEDING 5 YEARS, EXCLUDING ANY PERIOD OF TIME IN WHICH A
+29 SECURED PARTY COULD NOT INSTITUTE A FORECLOSURE PROCEEDING DUE TO AN
+30 EXECUTIVE ORDER OR OTHER SIMILAR OFFICIAL ACTION RESTRICTING
+31 FORECLOSURE ACTIONS.
+
+HOUSE BILL 769 5
+1 (5) “MORTGAGE” MEANS ANY MORTGAGE OR DEED OF TRUST
+2 ENCUMBERING OWNER–OCCUPIED RESIDENTIAL PROPERTY.
+3 (6) “MORTGAGOR” MEANS ANY PARTY SIGNING A MORTGAGE AS A
+4 MORTGAGOR OR A DEED OF TRUST AS A GRANTOR.
+5 (7) “OWNER–OCCUPIED RESIDENTIAL PROPERTY” HAS THE MEANING
+6 STATED IN § 7–105.1 OF THIS SUBTITLE.
+7 (8) “RESIDENTIAL PROPERTY” HAS THE MEANING STATED IN §
+8 7–105.1 OF THIS SUBTITLE.
+9 (9) “SECURED PARTY” MEANS AN OWNER, A SERVICER, OR ANY
+10 OTHER PERSON ENTITLED TO ENFORCE A MORTGAGE OR A DEED OF TRUST.
+11 (B) (1) THIS SUBSECTION MAY NOT BE INTERPRETED TO:
+12 (I) PROHIBIT THE FILING OF A PETITION UNDER §
+13 7–105.1(B)(2) OF THIS SUBTITLE; OR
+14 (II) PRECLUDE THE COURT FROM GRANTING A PETITION WITH
+15 RESPECT TO A MATERIALLY DELINQUENT MORTGAGE UNDER § 7–105.1(B)(2) OF
+16 THIS SUBTITLE.
+17 (2) UNLESS PROHIBITED BY LAW, REGULATION, OR EXECUTIVE
+18 ORDER, A SECURED PARTY SHALL SEND LOAN–RELATED CORRESPONDENCE TO THE
+19 MORTGAGOR OF A MATERIALLY DELINQUENT MORTGAGE IN EACH BILLING CYCLE.
+20 (3) PRIOR TO OCTOBER 1, 2027, A SECURED PARTY MAY ENFORCE A
+21 MATERIALLY DELINQUENT MORTGAGE THROUGH COMMENCEMENT OF A
+22 FORECLOSURE OR JUDICIAL SALE ONLY IF:
+23 (I) AT LEAST ONE PIECE OF LOAN–RELATED
+24 CORRESPONDENCE WAS SENT TO THE MORTGAGOR DURING EACH BILLING CYCLE
+25 FOR THE IMMEDIATELY PRECEDING 24 MONTHS, EXCLUDING ANY PERIOD DURING
+26 WHICH THE SECURED PARTY WAS PROHIBITED BY LAW, REGULATION, OR
+27 EXECUTIVE ORDER FROM SENDING LOAN–RELATED CORRESPONDENCE TO THE
+28 MORTGAGOR; OR
+29 (II) ON A FORM PROVIDED BY THE COMMISSIONER OF
+30 FINANCIAL REGULATION, THE SECURED PARTY SERVES NOTICE ON THE
+31 MORTGAGOR OF THE MATERIALLY DELINQUENT MORTGAGE AT LEAST 90 DAYS
+32 PRIOR TO COMMENCEMENT.
+
+6 HOUSE BILL 769
+1 (4) ON OR AFTER OCTOBER 1, 2027, A SECURED PARTY MAY ENFORCE
+2 A MATERIALLY DELINQUENT MORTGAGE THROUGH A FORECLOSURE OR JUDICIAL
+3 SALE ONLY IF THE SECURED PARTY HAS MET THE REQUIREMENTS OF PARAGRAPH
+4 (2) OF THIS SUBSECTION FOR THE IMMEDIATELY PRECEDING 24 CONSECUTIVE
+5 MONTHS.
+6 (5) THE COMMISSIONER OF FINANCIAL REGULATION MAY DEVELOP
+7 THE FORM REQUIRED UNDER PARAGRAPH (3)(II) OF THIS SUBSECTION BY
+8 REGULATION.
+9 (C) (1) IN AN ACTION TO FORECLOSE OR OTHERWISE ENFORCE A
+10 MATERIALLY DELINQUENT MORTGAGE, A MORTGAGOR MAY RAISE A DEFENSE OF
+11 LACHES.
+12 (2) A COURT CONSIDERING A DEFENSE OF LACHES IN AN ACTION TO
+13 FORECLOSE OR OTHERWISE ENFORCE A MATERIALLY DELINQUENT MORTGAGE
+14 MAY:
+15 (I) ATTRIBUTE ANY DELAY IN THE ENFORCEMENT OF THE
+16 MORTGAGE TO THE SECURED PARTY EVEN IF THE SECURED PARTY DID NOT HOLD
+17 AN INTEREST IN THE MORTGAGE AT ALL TIMES DURING THE DELAY IN
+18 ENFORCEMENT; AND
+19 (II) ORDER ANY RELIEF THE COURT CONSIDERS TO BE
+20 APPROPRIATE.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 January 1, 2026.
+
+[DELETED: :CA      5   C A R F f p d a g r t m d m a f o r B  A  S  A  ( B  A  S  A  ( B  A  S  A  (  S T]
+[DELETED:  H  A 7  ( ( I   ( “ w    ( H    ( U  ()“ s h  ( ( E a p i p ( o s t f o    ( 90d d    ( 4 d a ten o i t f r u s   ( ( T s p m p t c c f l t i     1 T l s b m o d o t w o     2 N t     3 T b     4 T b     5 T p    ( T]
+[DELETED: H 3    ( I     1 T c     2 T s p n n s t w n o i  ( A r   ( I    ( I     1 T     2 T    ( A     1 T t a]     A  T D I 9;E       T D I I A M   E79N     []3  2.I     A A g w     B A c]
+[DELETED:  H () ( N ( “B”:E   () F A M R P P A  S E   () IF T M T D N R P O R P P O I G T S   3. ( “L–NR CE M W  () F T S P I R T P S U     C W T2C.§1N   () IF T S P I N R T P     2C.§1,:   1  N A C I O T      C A O T O     T;     L T S S ,,;     T L O A P DY ( “ME Y Y   S 5 O O O S O A R]
+[DELETED: H 5 ( “ME M A M O D O TRO. ( “MR M A P S A M A A ( “O–ROY    71. ( “R”§ PY H T M S I 1. ( “S”, PY M A OR A SR O A() ( T:H  () P§R T F O A P U ()); E   () IR M D M U  B O7() ( U, P B LW RN O ER NR ( PO1,2 C    D M T C O A  () AT L O P O LNR  S 4 T S P W P B LW RN O O F S LNR C T TR   () OIN A F P B T O OR EN T S P S N O T O T M D M A L  D]
+[DELETED:  H  ( OO1,2 C   )2O T S F T I P  C ( TCF O I E F R U P II O T S B(() ( N A A T F O O E AE  (  O O E A M D M  () T A D I T E O T I I T M A A T D T D IT   () IR A R T C C T B S A B I F E T t A s t e J]

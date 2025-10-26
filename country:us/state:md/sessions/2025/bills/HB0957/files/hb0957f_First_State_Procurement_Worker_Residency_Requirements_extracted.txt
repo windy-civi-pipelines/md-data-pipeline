@@ -1,0 +1,496 @@
+Title: HOUSE BILL 957
+Official Title: HOUSE BILL 957
+Number of Sections: 1
+Source: versions - First - State Procurement - Worker Residency Requirements
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+P2 5lr2141
+By: Delegate Wilson
+Introduced and read first time: January 31, 2025
+Assigned to: Health and Government Operations and Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 State Procurement – Worker Residency Requirements
+3 FOR the purpose of requiring certain contractors to ensure that a certain percentage of
+4 workers on certain projects are State residents and a certain percentage of work
+5 hours on the projects are performed by State residents; requiring the Department of
+6 Labor to enforce certain worker residency requirements; providing that a person may
+7 be debarred from entering into a contract with the State for a certain period of time
+8 under certain circumstances; and generally relating to State procurement and
+9 worker residency requirements.
+10 BY repealing and reenacting, with amendments,
+11 Article – State Finance and Procurement
+12 Section 16–203 and 17–602
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – State Finance and Procurement
+17 Section 17–6B–01 through 17–6B–05 to be under the new subtitle “Subtitle 6B.
+18 Worker Residency Requirements”
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – State Finance and Procurement
+24 16–203.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0957*
+2 HOUSE BILL 957
+1 (a) A person may be debarred from entering into a contract with the State if the
+2 person, an officer, partner, controlling stockholder or principal of that person, or any other
+3 person substantially involved in that person’s contracting activities has:
+4 (1) been convicted under the laws of the State, another state or the United
+5 States of:
+6 (i) a criminal offense incident to obtaining, attempting to obtain, or
+7 performing a public or private contract, except as provided in § 16–202 of this subtitle; or
+8 (ii) fraud, embezzlement, theft, forgery, falsification or destruction
+9 of records, or receiving stolen property;
+10 (2) been convicted of a criminal violation of an antitrust statute of the
+11 State, another state, or the United States;
+12 (3) been convicted of a violation of the Racketeer Influenced and Corrupt
+13 Organization Act, or the Mail Fraud Act, for acts in connection with the submission of bids
+14 or proposals for a public or private contract;
+15 (4) been convicted of a violation of § 14–308 of this article;
+16 (5) been convicted of conspiracy to commit any act or omission that would
+17 constitute grounds for conviction under any of the laws or statutes described in items (1),
+18 (2), (3), or (4) of this subsection;
+19 (6) been convicted of a violation of § 7201, § 7203, § 7205, § 7206, or § 7207
+20 of the Internal Revenue Code;
+21 (7) been convicted of a violation of 18 U.S.C. § 286, § 287, or § 371;
+22 (8) been convicted of a violation of Title 13, Subtitle 7 or Subtitle 10 of the
+23 Tax – General Article;
+24 (9) been found to have willfully or knowingly violated Title 17, Subtitle 2
+25 or Title 18 of this article if:
+26 (i) 1. the finding was made by a court; and
+27 2. the decision of the court became final; or
+28 (ii) 1. the finding was made in a contested case under the
+29 Administrative Procedure Act; and
+30 2. the finding was not overturned on judicial review;
+HOUSE BILL 957 3
+1 (10) been found to have willfully or knowingly violated Title 3, Subtitle 3,
+2 Subtitle 4, or Subtitle 5 or Title 5 of the Labor and Employment Article if:
+3 (i) 1. the finding was made by a court; and
+4 2. the decision of the court became final; or
+5 (ii) 1. the finding was made in a contested case under the
+6 Administrative Procedure Act; and
+7 2. the finding was not overturned on judicial review;
+8 (11) been found civilly liable under an antitrust statute of the State, another
+9 state, or the United States for acts or omissions in connection with the submission of bids
+10 or proposals for a public or private contract;
+11 (12) been found to have willfully or knowingly violated Title 20, Subtitle 6
+12 of the State Government Article if:
+13 (i) 1. the finding was made by a court; and
+14 2. the decision of the court became final; or
+15 (ii) 1. the finding was made in a contested case under the
+16 Administrative Procedure Act; and
+17 2. the finding was not overturned on judicial review; or
+18 (13) been found in a final adjudicated decision to have violated the
+19 Commercial Nondiscrimination Policy under Title 19 of this article with regard to a public
+20 or private contract.
+21 (b) A person may be debarred from entering into a contract with the State if,
+22 during the course of an official investigation or other proceedings, the person, an officer,
+23 partner, controlling stockholder or principal of that person, or any other person
+24 substantially involved in that person’s contracting activities has admitted, in writing or
+25 under oath, an act or omission that constitutes grounds for conviction or liability under any
+26 law or statute described in subsection (a) of this section.
+27 (c) A person may be debarred from entering into a contract with the State if the
+28 person, an officer, partner, controlling stockholder or principal of that person, or any other
+29 person substantially involved in that person’s contracting activities has been debarred from
+30 federal contracts under:
+31 (1) the Federal Acquisition Regulations, as provided in 48 C.F.R. Chapter
+32 1; or
+4 HOUSE BILL 957
+1 (2) federal Executive Order 11246, as amended due to discriminatory
+2 hiring practices in the State.
+3 (d) A person may be debarred from entering into a contract with the State:
+4 (1) if the Board finds that the person was established or operates in a
+5 manner designed to evade the application of this title or to defeat the purpose of this title;
+6 (2) if the person is a successor, assignee, subsidiary, or affiliate of a person
+7 who is debarred or suspended;
+8 (3) except as provided under item (4) of this subsection, for one of the
+9 following violations of a contract provision if the Board believes it to be serious enough to
+10 justify debarment:
+11 (i) the deliberate failure, without good cause, to perform in
+12 accordance with the specifications, or within the time limit, provided in a contract; or
+13 (ii) within the preceding 5 years, the failure to perform or
+14 unsatisfactory performance in accordance with the terms of one or more contracts, unless
+15 the failure to perform or unsatisfactory performance was caused by acts beyond the control
+16 of the person;
+17 (4) for a period not exceeding 3 years if the person persistently fails to meet
+18 contract goals in the absence of mitigating factors under the criteria established under §
+19 14–305(c)(2) of this article;
+20 (5) FOR A PERIOD NOT EXCEEDING 5 YEARS IF THE PERSON IS FOUND
+21 TO HAVE VIOLATED THE REQUIREMENTS OF TITLE 17, SUBTITLE 6B OF THIS
+22 ARTICLE TWICE IN A 10–YEAR PERIOD;
+23 [(5)] (6) if the person is a competing contractor, or any officer, employee,
+24 representative, agent, or consultant of any competing contractor who violates § 13–211 of
+25 this article; or
+26 [(6)] (7) for any other cause that the Board determines to be so serious as
+27 to affect the integrity of the procurement process.
+28 17–602.
+29 (a) There is a State Apprenticeship Training Fund in the Department.
+30 (b) The Fund consists of:
+31 (1) payments made by contractors or subcontractors in accordance with
+32 this subtitle and Subtitle 6A of this title; and
+HOUSE BILL 957 5
+1 (2) penalties collected as a result of violations of this subtitle and [Subtitle]
+2 SUBTITLES 6A AND 6B of this title.
+3 (c) The Fund is a special, nonlapsing fund that is not subject to § 7–302 of this
+4 article.
+5 (d) The State Treasurer shall hold the Fund separately, and the Comptroller shall
+6 account for the Fund.
+7 (e) The Secretary shall use money in the Fund to:
+8 (1) promote preapprenticeship programs and other workforce development
+9 programs in the State’s public secondary schools and community colleges that assist
+10 students in preparing for and entering apprenticeship training programs; and
+11 (2) pay any costs associated with carrying out the provisions of this subtitle
+12 and [Subtitle] SUBTITLES 6A AND 6B of this title.
+13 SUBTITLE 6B. WORKER RESIDENCY REQUIREMENTS.
+14 17–6B–01.
+15 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+16 INDICATED.
+17 (B) “APPRENTICEABLE HOUR” MEANS 25% OF THE TOTAL OF JOURNEY
+18 HOURS PLUS APPRENTICESHIP HOURS.
+19 (C) “APPRENTICESHIP HOUR” MEANS 1 HOUR OF TIME SPENT IN AN
+20 APPRENTICESHIP PROGRAM AND MAY INCLUDE OBSERVATION, PERFORMING WORK,
+21 OR WORK–RELATED DISCUSSION.
+22 (D) “COVERED LARGE PROJECT” MEANS A STATE–FUNDED PROJECT THAT
+23 IS VALUED AT $5,000,000 OR MORE.
+24 (E) “COVERED SMALL PROJECT” MEANS A STATE–FUNDED PROJECT THAT
+25 IS VALUED AT EQUAL TO OR GREATER THAN $300,000 BUT LESS THAN $5,000,000.
+26 (F) “DEPARTMENT” MEANS THE MARYLAND DEPARTMENT OF LABOR.
+27 (G) “NEW APPRENTICE” MEANS AN APPRENTICE:
+28 (1) EMPLOYED TO LEARN A SKILLED TRADE THROUGH A REGISTERED
+29 APPRENTICESHIP PROGRAM;
+6 HOUSE BILL 957
+1 (2) WHOSE START DATE OF EMPLOYMENT WITH A COMPANY IS AFTER
+2 THE DATE ON WHICH THE STATE CONTRACT IS AWARDED BUT BEFORE OR DURING
+3 THE PERFORMANCE OF THE STATE CONTRACT; AND
+4 (3) WHO IS EITHER NEW TO THE COMPANY OR HAS BEEN SEPARATED
+5 FROM THE COMPANY FOR AT LEAST 60 DAYS PRIOR TO THE DATE OF HIRE.
+6 (H) “NEW EMPLOYEE” MEANS AN INDIVIDUAL:
+7 (1) WHOSE START DATE OF EMPLOYMENT WITH A COMPANY IS AFTER
+8 THE DATE ON WHICH THE STATE CONTRACT IS AWARDED BUT BEFORE OR DURING
+9 THE PERFORMANCE OF THE STATE CONTRACT; AND
+10 (2) WHO IS EITHER NEW TO THE COMPANY OR WHO HAS BEEN
+11 SEPARATED FROM THE COMPANY FOR AT LEAST 60 DAYS PRIOR TO THE DATE OF
+12 HIRE.
+13 (I) “SECRETARY” MEANS THE SECRETARY OF LABOR.
+14 17–6B–02.
+15 THIS SUBTITLE APPLIES ONLY TO CONTRACTORS AWARDED STATE
+16 CONTRACTS WITH A TOTAL VALUE EQUAL TO OR GREATER THAN $500,000 WITHIN
+17 THE IMMEDIATELY PRECEDING 12–MONTH PERIOD.
+18 17–6B–03.
+19 (A) A CONTRACTOR THAT IS AWARDED A PROCUREMENT CONTRACT FOR A
+20 COVERED SMALL PROJECT SHALL ENSURE THAT, FOR THE APPLICABLE PROJECT:
+21 (1) AT LEAST 51% OF THE TOTAL NUMBER OF NEW EMPLOYEES AND
+22 NEW APPRENTICES ARE STATE RESIDENTS; AND
+23 (2) AT LEAST 35% OF APPRENTICESHIP HOURS ARE PERFORMED BY
+24 STATE RESIDENTS.
+25 (B) A CONTRACTOR THAT IS AWARDED A PROCUREMENT CONTRACT FOR A
+26 COVERED LARGE PROJECT SHALL ENSURE THAT, FOR THE APPLICABLE PROJECT:
+27 (1) AT LEAST 20% OF JOURNEY WORKER HOURS ARE PERFORMED BY
+28 STATE RESIDENTS;
+HOUSE BILL 957 7
+1 (2) AT LEAST 51% OF SKILLED WORKER HOURS ARE PERFORMED BY
+2 STATE RESIDENTS;
+3 (3) AT LEAST 70% OF COMMON LABOR WORKER HOURS ARE
+4 PERFORMED BY STATE RESIDENTS;
+5 (4) AT LEAST 60% OF APPRENTICESHIP HOURS ARE PERFORMED BY
+6 STATE RESIDENTS; AND
+7 (5) AT LEAST 35% OF ALL APPRENTICEABLE HOURS ARE PERFORMED
+8 BY STATE RESIDENTS.
+9 (C) AS A CONDITION OF RECEIVING THE CONTRACT, A CONTRACTOR
+10 SUBJECT TO THIS SUBTITLE SHALL PROVIDE TO THE UNIT AND THE DEPARTMENT A
+11 STATEMENT ATTESTING THAT THE CONTRACTOR SHALL MEET THE REQUIREMENTS
+12 OF THIS SECTION FOR THE APPLICABLE PROJECT.
+13 17–6B–04.
+14 (A) THE SECRETARY MAY ADOPT REGULATIONS AUTHORIZING A
+15 CONTRACTOR TO ELECT TO MAKE A CONTRIBUTION TO A REGISTERED
+16 APPRENTICESHIP PROGRAM AS AN ALTERNATIVE TO FULFILLING THE
+17 REQUIREMENTS OF § 17–6B–03 OF THIS SUBTITLE.
+18 (B) THE DEPARTMENT IS RESPONSIBLE FOR ENFORCING THE
+19 REQUIREMENTS OF THIS SUBTITLE.
+20 (C) WHEN DETERMINING COMPLIANCE WITH THIS SUBTITLE, APPLICABLE
+21 PERCENTAGES ESTABLISHED UNDER § 17–6B–03 OF THIS SUBTITLE SHALL BE
+22 CALCULATED BY ROUNDING TO THE NEAREST WHOLE NUMBER.
+23 17–6B–05.
+24 (A) A CONTRACTOR THAT FAILS TO MEET THE REQUIREMENTS OF THIS
+25 SUBTITLE SHALL BE LIABLE FOR AN AMOUNT EQUAL TO 0.125% OF THE TOTAL
+26 DIRECT AND INDIRECT LABOR COSTS OF THE CONTRACT FOR EACH PERCENTAGE
+27 POINT BY WHICH THE CONTRACTOR FAILS TO MEET THE APPLICABLE
+28 REQUIREMENT.
+29 (B) PAYMENTS COLLECTED UNDER THIS SECTION SHALL BE PAID TO:
+30 (1) THE STATE APPRENTICESHIP TRAINING FUND ESTABLISHED
+31 UNDER § 17–602 OF THIS TITLE; OR
+8 HOUSE BILL 957
+1 (2) A REGISTERED APPRENTICESHIP PROGRAM OR AN
+2 ORGANIZATION THAT HAS REGISTERED APPRENTICESHIP PROGRAMS FOR THE
+3 PURPOSE OF SUPPORTING THESE PROGRAMS.
+4 (C) THE SECRETARY SHALL ADOPT REGULATIONS TO ESTABLISH
+5 ADMINISTRATIVE PROCEDURES FOR THE COLLECTION AND DISTRIBUTION OF
+6 PAYMENTS UNDER THIS SECTION.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+8 October 1, 2025.
+[DELETED: :CA      5     A S F w h L b u c c a g r t S p a w B  A S  A  ( B  A S 1 t 1 t b u t n s “ 6 W  A  (  S T A 1]
+[DELETED:  H   ( A p p   ( b S    ( a p    ( f o   ( b c o a c v o a a s o t S   ( b O o   ( b   ( b c (   ( b o   ( b   ( b T   ( b o    ( 1 t     2 t    ( 1 t f w m i a c c u t A     2 t]
+[DELETED: H 3   ( b S    ( 1 t     2 t    ( 1 t f w m i a c c u t A     2 t   ( b s o   ( b o    ( 1 t     2 t    ( 1 t f w m i a c c u t A     2 t   ( b f i a f a d t h v t C o  ( A d p c s o p o t p o a o p s u l  ( A p p f   ( t 1]
+[DELETED:  H    ( f E O 1 a a d t d h  ( A   ( i t B f t t p w e o o i a m   ( i w   ( e a p u i ( o t s f o o t f j    ( t d f w g c t p i a    ( w t p 5 y t f t p o u t o   ( f c 1      H V T R O I  U  O T1,S6 Y–;   () i]( r t   () f]( t 1  ( T  ( T   ( p t]
+[DELETED: H 5   ( p S6SA    o  ( T a  ( T a  ( T   ( p p i t S p s s a c c t a s   ( p a Se  o]S6USA 6.WRR.  O E E() N T S T F W H T M() “A”2P HR M  O T T O JS() “A”P HR M  H O T S I AN KKRN.() “C”SOT  TEF  E0.() “C”SOT  TEF   0$.() “D”MDL.ET  A E AR() “N”:EE  (M]
+[DELETED:  H  ( T TT ; (  0.() “N”:EE  ( T TT ; ( I E N T T C O W H B  () “S”SL.EY  E ART S A O T C A T   M–.()  T T: ( 5   TS ; ( 3  .S()  T T: ( 2  ;S]
+[DELETED: H 7 ( 5  ;S ( 7 L  O C L W H A TS; ( 6  ;S  ( 3   TS.() AS A C O R T CT A C E() TH E M A R A A T E T M A C T A R P A A A T F T   E13.() TH E I R F E TE() WHE  E U   O T S S B1.()  C T F T M T R O T S B L F A A E T  O T T B W T C F T M T A() P:A ( SAT T P R U E   E 12;]
+[DELETED:  H  ( R A P O A T H R A P F T() TH E S A R T E P F T C A D O   S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 957
+P2 5lr2141
+By: Delegate Wilson
+Introduced and read first time: January 31, 2025
+Assigned to: Health and Government Operations and Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 State Procurement – Worker Residency Requirements
+3 FOR the purpose of requiring certain contractors to ensure that a certain percentage of
+4 workers on certain projects are State residents and a certain percentage of work
+5 hours on the projects are performed by State residents; requiring the Department of
+6 Labor to enforce certain worker residency requirements; providing that a person may
+7 be debarred from entering into a contract with the State for a certain period of time
+8 under certain circumstances; and generally relating to State procurement and
+9 worker residency requirements.
+10 BY repealing and reenacting, with amendments,
+11 Article – State Finance and Procurement
+12 Section 16–203 and 17–602
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – State Finance and Procurement
+17 Section 17–6B–01 through 17–6B–05 to be under the new subtitle “Subtitle 6B.
+18 Worker Residency Requirements”
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – State Finance and Procurement
+24 16–203.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0957*
+
+2 HOUSE BILL 957
+1 (a) A person may be debarred from entering into a contract with the State if the
+2 person, an officer, partner, controlling stockholder or principal of that person, or any other
+3 person substantially involved in that person’s contracting activities has:
+4 (1) been convicted under the laws of the State, another state or the United
+5 States of:
+6 (i) a criminal offense incident to obtaining, attempting to obtain, or
+7 performing a public or private contract, except as provided in § 16–202 of this subtitle; or
+8 (ii) fraud, embezzlement, theft, forgery, falsification or destruction
+9 of records, or receiving stolen property;
+10 (2) been convicted of a criminal violation of an antitrust statute of the
+11 State, another state, or the United States;
+12 (3) been convicted of a violation of the Racketeer Influenced and Corrupt
+13 Organization Act, or the Mail Fraud Act, for acts in connection with the submission of bids
+14 or proposals for a public or private contract;
+15 (4) been convicted of a violation of § 14–308 of this article;
+16 (5) been convicted of conspiracy to commit any act or omission that would
+17 constitute grounds for conviction under any of the laws or statutes described in items (1),
+18 (2), (3), or (4) of this subsection;
+19 (6) been convicted of a violation of § 7201, § 7203, § 7205, § 7206, or § 7207
+20 of the Internal Revenue Code;
+21 (7) been convicted of a violation of 18 U.S.C. § 286, § 287, or § 371;
+22 (8) been convicted of a violation of Title 13, Subtitle 7 or Subtitle 10 of the
+23 Tax – General Article;
+24 (9) been found to have willfully or knowingly violated Title 17, Subtitle 2
+25 or Title 18 of this article if:
+26 (i) 1. the finding was made by a court; and
+27 2. the decision of the court became final; or
+28 (ii) 1. the finding was made in a contested case under the
+29 Administrative Procedure Act; and
+30 2. the finding was not overturned on judicial review;
+
+HOUSE BILL 957 3
+1 (10) been found to have willfully or knowingly violated Title 3, Subtitle 3,
+2 Subtitle 4, or Subtitle 5 or Title 5 of the Labor and Employment Article if:
+3 (i) 1. the finding was made by a court; and
+4 2. the decision of the court became final; or
+5 (ii) 1. the finding was made in a contested case under the
+6 Administrative Procedure Act; and
+7 2. the finding was not overturned on judicial review;
+8 (11) been found civilly liable under an antitrust statute of the State, another
+9 state, or the United States for acts or omissions in connection with the submission of bids
+10 or proposals for a public or private contract;
+11 (12) been found to have willfully or knowingly violated Title 20, Subtitle 6
+12 of the State Government Article if:
+13 (i) 1. the finding was made by a court; and
+14 2. the decision of the court became final; or
+15 (ii) 1. the finding was made in a contested case under the
+16 Administrative Procedure Act; and
+17 2. the finding was not overturned on judicial review; or
+18 (13) been found in a final adjudicated decision to have violated the
+19 Commercial Nondiscrimination Policy under Title 19 of this article with regard to a public
+20 or private contract.
+21 (b) A person may be debarred from entering into a contract with the State if,
+22 during the course of an official investigation or other proceedings, the person, an officer,
+23 partner, controlling stockholder or principal of that person, or any other person
+24 substantially involved in that person’s contracting activities has admitted, in writing or
+25 under oath, an act or omission that constitutes grounds for conviction or liability under any
+26 law or statute described in subsection (a) of this section.
+27 (c) A person may be debarred from entering into a contract with the State if the
+28 person, an officer, partner, controlling stockholder or principal of that person, or any other
+29 person substantially involved in that person’s contracting activities has been debarred from
+30 federal contracts under:
+31 (1) the Federal Acquisition Regulations, as provided in 48 C.F.R. Chapter
+32 1; or
+
+4 HOUSE BILL 957
+1 (2) federal Executive Order 11246, as amended due to discriminatory
+2 hiring practices in the State.
+3 (d) A person may be debarred from entering into a contract with the State:
+4 (1) if the Board finds that the person was established or operates in a
+5 manner designed to evade the application of this title or to defeat the purpose of this title;
+6 (2) if the person is a successor, assignee, subsidiary, or affiliate of a person
+7 who is debarred or suspended;
+8 (3) except as provided under item (4) of this subsection, for one of the
+9 following violations of a contract provision if the Board believes it to be serious enough to
+10 justify debarment:
+11 (i) the deliberate failure, without good cause, to perform in
+12 accordance with the specifications, or within the time limit, provided in a contract; or
+13 (ii) within the preceding 5 years, the failure to perform or
+14 unsatisfactory performance in accordance with the terms of one or more contracts, unless
+15 the failure to perform or unsatisfactory performance was caused by acts beyond the control
+16 of the person;
+17 (4) for a period not exceeding 3 years if the person persistently fails to meet
+18 contract goals in the absence of mitigating factors under the criteria established under §
+19 14–305(c)(2) of this article;
+20 (5) FOR A PERIOD NOT EXCEEDING 5 YEARS IF THE PERSON IS FOUND
+21 TO HAVE VIOLATED THE REQUIREMENTS OF TITLE 17, SUBTITLE 6B OF THIS
+22 ARTICLE TWICE IN A 10–YEAR PERIOD;
+23 [(5)] (6) if the person is a competing contractor, or any officer, employee,
+24 representative, agent, or consultant of any competing contractor who violates § 13–211 of
+25 this article; or
+26 [(6)] (7) for any other cause that the Board determines to be so serious as
+27 to affect the integrity of the procurement process.
+28 17–602.
+29 (a) There is a State Apprenticeship Training Fund in the Department.
+30 (b) The Fund consists of:
+31 (1) payments made by contractors or subcontractors in accordance with
+32 this subtitle and Subtitle 6A of this title; and
+
+HOUSE BILL 957 5
+1 (2) penalties collected as a result of violations of this subtitle and [Subtitle]
+2 SUBTITLES 6A AND 6B of this title.
+3 (c) The Fund is a special, nonlapsing fund that is not subject to § 7–302 of this
+4 article.
+5 (d) The State Treasurer shall hold the Fund separately, and the Comptroller shall
+6 account for the Fund.
+7 (e) The Secretary shall use money in the Fund to:
+8 (1) promote preapprenticeship programs and other workforce development
+9 programs in the State’s public secondary schools and community colleges that assist
+10 students in preparing for and entering apprenticeship training programs; and
+11 (2) pay any costs associated with carrying out the provisions of this subtitle
+12 and [Subtitle] SUBTITLES 6A AND 6B of this title.
+13 SUBTITLE 6B. WORKER RESIDENCY REQUIREMENTS.
+14 17–6B–01.
+15 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+16 INDICATED.
+17 (B) “APPRENTICEABLE HOUR” MEANS 25% OF THE TOTAL OF JOURNEY
+18 HOURS PLUS APPRENTICESHIP HOURS.
+19 (C) “APPRENTICESHIP HOUR” MEANS 1 HOUR OF TIME SPENT IN AN
+20 APPRENTICESHIP PROGRAM AND MAY INCLUDE OBSERVATION, PERFORMING WORK,
+21 OR WORK–RELATED DISCUSSION.
+22 (D) “COVERED LARGE PROJECT” MEANS A STATE–FUNDED PROJECT THAT
+23 IS VALUED AT $5,000,000 OR MORE.
+24 (E) “COVERED SMALL PROJECT” MEANS A STATE–FUNDED PROJECT THAT
+25 IS VALUED AT EQUAL TO OR GREATER THAN $300,000 BUT LESS THAN $5,000,000.
+26 (F) “DEPARTMENT” MEANS THE MARYLAND DEPARTMENT OF LABOR.
+27 (G) “NEW APPRENTICE” MEANS AN APPRENTICE:
+28 (1) EMPLOYED TO LEARN A SKILLED TRADE THROUGH A REGISTERED
+29 APPRENTICESHIP PROGRAM;
+
+6 HOUSE BILL 957
+1 (2) WHOSE START DATE OF EMPLOYMENT WITH A COMPANY IS AFTER
+2 THE DATE ON WHICH THE STATE CONTRACT IS AWARDED BUT BEFORE OR DURING
+3 THE PERFORMANCE OF THE STATE CONTRACT; AND
+4 (3) WHO IS EITHER NEW TO THE COMPANY OR HAS BEEN SEPARATED
+5 FROM THE COMPANY FOR AT LEAST 60 DAYS PRIOR TO THE DATE OF HIRE.
+6 (H) “NEW EMPLOYEE” MEANS AN INDIVIDUAL:
+7 (1) WHOSE START DATE OF EMPLOYMENT WITH A COMPANY IS AFTER
+8 THE DATE ON WHICH THE STATE CONTRACT IS AWARDED BUT BEFORE OR DURING
+9 THE PERFORMANCE OF THE STATE CONTRACT; AND
+10 (2) WHO IS EITHER NEW TO THE COMPANY OR WHO HAS BEEN
+11 SEPARATED FROM THE COMPANY FOR AT LEAST 60 DAYS PRIOR TO THE DATE OF
+12 HIRE.
+13 (I) “SECRETARY” MEANS THE SECRETARY OF LABOR.
+14 17–6B–02.
+15 THIS SUBTITLE APPLIES ONLY TO CONTRACTORS AWARDED STATE
+16 CONTRACTS WITH A TOTAL VALUE EQUAL TO OR GREATER THAN $500,000 WITHIN
+17 THE IMMEDIATELY PRECEDING 12–MONTH PERIOD.
+18 17–6B–03.
+19 (A) A CONTRACTOR THAT IS AWARDED A PROCUREMENT CONTRACT FOR A
+20 COVERED SMALL PROJECT SHALL ENSURE THAT, FOR THE APPLICABLE PROJECT:
+21 (1) AT LEAST 51% OF THE TOTAL NUMBER OF NEW EMPLOYEES AND
+22 NEW APPRENTICES ARE STATE RESIDENTS; AND
+23 (2) AT LEAST 35% OF APPRENTICESHIP HOURS ARE PERFORMED BY
+24 STATE RESIDENTS.
+25 (B) A CONTRACTOR THAT IS AWARDED A PROCUREMENT CONTRACT FOR A
+26 COVERED LARGE PROJECT SHALL ENSURE THAT, FOR THE APPLICABLE PROJECT:
+27 (1) AT LEAST 20% OF JOURNEY WORKER HOURS ARE PERFORMED BY
+28 STATE RESIDENTS;
+
+HOUSE BILL 957 7
+1 (2) AT LEAST 51% OF SKILLED WORKER HOURS ARE PERFORMED BY
+2 STATE RESIDENTS;
+3 (3) AT LEAST 70% OF COMMON LABOR WORKER HOURS ARE
+4 PERFORMED BY STATE RESIDENTS;
+5 (4) AT LEAST 60% OF APPRENTICESHIP HOURS ARE PERFORMED BY
+6 STATE RESIDENTS; AND
+7 (5) AT LEAST 35% OF ALL APPRENTICEABLE HOURS ARE PERFORMED
+8 BY STATE RESIDENTS.
+9 (C) AS A CONDITION OF RECEIVING THE CONTRACT, A CONTRACTOR
+10 SUBJECT TO THIS SUBTITLE SHALL PROVIDE TO THE UNIT AND THE DEPARTMENT A
+11 STATEMENT ATTESTING THAT THE CONTRACTOR SHALL MEET THE REQUIREMENTS
+12 OF THIS SECTION FOR THE APPLICABLE PROJECT.
+13 17–6B–04.
+14 (A) THE SECRETARY MAY ADOPT REGULATIONS AUTHORIZING A
+15 CONTRACTOR TO ELECT TO MAKE A CONTRIBUTION TO A REGISTERED
+16 APPRENTICESHIP PROGRAM AS AN ALTERNATIVE TO FULFILLING THE
+17 REQUIREMENTS OF § 17–6B–03 OF THIS SUBTITLE.
+18 (B) THE DEPARTMENT IS RESPONSIBLE FOR ENFORCING THE
+19 REQUIREMENTS OF THIS SUBTITLE.
+20 (C) WHEN DETERMINING COMPLIANCE WITH THIS SUBTITLE, APPLICABLE
+21 PERCENTAGES ESTABLISHED UNDER § 17–6B–03 OF THIS SUBTITLE SHALL BE
+22 CALCULATED BY ROUNDING TO THE NEAREST WHOLE NUMBER.
+23 17–6B–05.
+24 (A) A CONTRACTOR THAT FAILS TO MEET THE REQUIREMENTS OF THIS
+25 SUBTITLE SHALL BE LIABLE FOR AN AMOUNT EQUAL TO 0.125% OF THE TOTAL
+26 DIRECT AND INDIRECT LABOR COSTS OF THE CONTRACT FOR EACH PERCENTAGE
+27 POINT BY WHICH THE CONTRACTOR FAILS TO MEET THE APPLICABLE
+28 REQUIREMENT.
+29 (B) PAYMENTS COLLECTED UNDER THIS SECTION SHALL BE PAID TO:
+30 (1) THE STATE APPRENTICESHIP TRAINING FUND ESTABLISHED
+31 UNDER § 17–602 OF THIS TITLE; OR
+
+8 HOUSE BILL 957
+1 (2) A REGISTERED APPRENTICESHIP PROGRAM OR AN
+2 ORGANIZATION THAT HAS REGISTERED APPRENTICESHIP PROGRAMS FOR THE
+3 PURPOSE OF SUPPORTING THESE PROGRAMS.
+4 (C) THE SECRETARY SHALL ADOPT REGULATIONS TO ESTABLISH
+5 ADMINISTRATIVE PROCEDURES FOR THE COLLECTION AND DISTRIBUTION OF
+6 PAYMENTS UNDER THIS SECTION.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+8 October 1, 2025.
+
+[DELETED: :CA      5     A S F w h L b u c c a g r t S p a w B  A S  A  ( B  A S 1 t 1 t b u t n s “ 6 W  A  (  S T A 1]
+[DELETED:  H   ( A p p   ( b S    ( a p    ( f o   ( b c o a c v o a a s o t S   ( b O o   ( b   ( b c (   ( b o   ( b   ( b T   ( b o    ( 1 t     2 t    ( 1 t f w m i a c c u t A     2 t]
+[DELETED: H 3   ( b S    ( 1 t     2 t    ( 1 t f w m i a c c u t A     2 t   ( b s o   ( b o    ( 1 t     2 t    ( 1 t f w m i a c c u t A     2 t   ( b f i a f a d t h v t C o  ( A d p c s o p o t p o a o p s u l  ( A p p f   ( t 1]
+[DELETED:  H    ( f E O 1 a a d t d h  ( A   ( i t B f t t p w e o o i a m   ( i w   ( e a p u i ( o t s f o o t f j    ( t d f w g c t p i a    ( w t p 5 y t f t p o u t o   ( f c 1      H V T R O I  U  O T1,S6 Y–;   () i]( r t   () f]( t 1  ( T  ( T   ( p t]
+[DELETED: H 5   ( p S6SA    o  ( T a  ( T a  ( T   ( p p i t S p s s a c c t a s   ( p a Se  o]S6USA 6.WRR.  O E E() N T S T F W H T M() “A”2P HR M  O T T O JS() “A”P HR M  H O T S I AN KKRN.() “C”SOT  TEF  E0.() “C”SOT  TEF   0$.() “D”MDL.ET  A E AR() “N”:EE  (M]
+[DELETED:  H  ( T TT ; (  0.() “N”:EE  ( T TT ; ( I E N T T C O W H B  () “S”SL.EY  E ART S A O T C A T   M–.()  T T: ( 5   TS ; ( 3  .S()  T T: ( 2  ;S]
+[DELETED: H 7 ( 5  ;S ( 7 L  O C L W H A TS; ( 6  ;S  ( 3   TS.() AS A C O R T CT A C E() TH E M A R A A T E T M A C T A R P A A A T F T   E13.() TH E I R F E TE() WHE  E U   O T S S B1.()  C T F T M T R O T S B L F A A E T  O T T B W T C F T M T A() P:A ( SAT T P R U E   E 12;]
+[DELETED:  H  ( R A P O A T H R A P F T() TH E S A R T E P F T C A D O   S A B I F E T t A s t e O]

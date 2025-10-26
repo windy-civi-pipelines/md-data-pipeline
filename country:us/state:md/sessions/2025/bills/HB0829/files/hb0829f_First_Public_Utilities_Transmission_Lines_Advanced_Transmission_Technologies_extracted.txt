@@ -1,0 +1,615 @@
+Title: HOUSE BILL 829
+Official Title: HOUSE BILL 829
+Number of Sections: 1
+Source: versions - First - Public Utilities - Transmission Lines - Advanced Transmission Technologies
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+C5 5lr1782
+By: Delegate Charkoudian
+Introduced and read first time: January 29, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Utilities – Transmission Lines – Advanced Transmission Technologies
+3 FOR the purpose of altering the definition of “qualified generator lead line” for purposes of
+4 provisions of law regarding certificates of public convenience and necessity; requiring
+5 an applicant for a certificate of public convenience and necessity for the construction
+6 of an overhead transmission line to include certain analyses; requiring the Public
+7 Service Commission to consider certain alternatives before taking final action on an
+8 application for a certificate of public convenience and necessity for the construction
+9 of an overhead transmission line; requiring each owner or operator of an overhead
+10 transmission line to submit certain reports to the Commission; and generally
+11 relating to overhead transmission lines and advanced transmission technologies.
+12 BY repealing and reenacting, with amendments,
+13 Article – Public Utilities
+14 Section 7–207(a), (b), and (f)
+15 Annotated Code of Maryland
+16 (2020 Replacement Volume and 2024 Supplement)
+17 BY adding to
+18 Article – Public Utilities
+19 Section 7–207.4
+20 Annotated Code of Maryland
+21 (2020 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Public Utilities
+25 7–207.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0829*
+2 HOUSE BILL 829
+1 (a) (1) In this section the following words have the meanings indicated.
+2 (2) (I) “ADVANCED TRANSMISSION TECHNOLOGIES” MEANS
+3 INFRASTRUCTURE, HARDWARE, OR SOFTWARE THAT INCREASES THE CAPACITY,
+4 EFFICIENCY, RELIABILITY, OR RESILIENCE OF A NEW OR EXISTING TRANSMISSION
+5 LINE.
+6 (II) “ADVANCED TRANSMISSION TECHNOLOGIES” INCLUDES:
+7 1. GRID–ENHANCING TECHNOLOGIES;
+8 2. HIGH–PERFORMANCE CONDUCTORS; AND
+9 3. STORAGE USED AS TRANSMISSION.
+10 (3) “Brownfields site” means:
+11 (i) a former industrial or commercial site identified by federal or
+12 State laws or regulation as contaminated or polluted;
+13 (ii) a closed landfill regulated by the Department of the
+14 Environment; or
+15 (iii) mined land.
+16 [(3)] (4) (i) “Construction” means:
+17 1. any physical change at a site, including fabrication,
+18 erection, installation, or demolition; or
+19 2. the entry into a binding agreement or contractual
+20 obligation to purchase equipment exclusively for use in construction in the State or to
+21 undertake a program of actual construction in the State which cannot be canceled or
+22 modified without substantial loss to the owner or operator of the proposed generating
+23 station.
+24 (ii) “Construction” does not include a change that is needed for the
+25 temporary use of a site or route for nonutility purposes or for use in securing geological
+26 data, including any boring that is necessary to ascertain foundation conditions.
+27 [(4)] (5) “Generating station” does not include:
+28 (i) a generating unit or facility that:
+29 1. is used for the production of electricity;
+HOUSE BILL 829 3
+1 2. has the capacity to produce not more than 2 megawatts of
+2 alternating current; and
+3 3. is installed with equipment that prevents the flow of
+4 electricity to the electric grid during time periods when the electric grid is out of service;
+5 (ii) a combination of two or more generating units or facilities that:
+6 1. are used for the production of electricity from a solar
+7 photovoltaic system or an eligible customer–generator that is subject to the provisions of §
+8 7–306 of this title;
+9 2. are located on the same property or adjacent properties;
+10 3. have the capacity to produce, when calculated
+11 cumulatively for all generating units or facilities on the property or adjacent property, more
+12 than 2 megawatts but not more than 14 megawatts of alternating current; and
+13 4. for each individual generating unit or facility:
+14 A. has the capacity to produce not more than 2 megawatts of
+15 alternating current;
+16 B. is separately metered by the electric company; and
+17 C. does not export electricity for sale on the wholesale market
+18 under an agreement with PJM Interconnection, LLC;
+19 (iii) a generating unit or facility that:
+20 1. is used for the production of electricity for the purpose of:
+21 A. onsite emergency backup at a facility when service from
+22 the electric company is interrupted due to electric distribution or transmission system
+23 failure or when there is equipment failure at a site where critical infrastructure is located;
+24 and
+25 B. test and maintenance operations necessary to ensure
+26 functionality of the generating unit or facility in the event of a service interruption from
+27 the electric company due to electric distribution or transmission system failure or when
+28 there is equipment failure at a site where critical infrastructure is located;
+29 2. is installed with equipment that prevents the flow of
+30 electricity to the electric grid;
+31 3. is subject to a permit to construct issued by the
+32 Department of the Environment; and
+4 HOUSE BILL 829
+1 4. is installed at a facility that is part of critical
+2 infrastructure if the facility complies with all applicable regulations regarding noise level
+3 and testing hours; or
+4 (iv) a combination of two or more generating units or facilities that
+5 satisfy item (iii) of this paragraph.
+6 [(5)] (6) (i) “Mined land” means the surface or subsurface of an area
+7 in which surface mining operations will be, are being, or have been conducted.
+8 (ii) “Mined land” includes:
+9 1. private ways and roads used for mining appurtenant to
+10 any surface mining area;
+11 2. land excavations;
+12 3. workings; and
+13 4. overburden.
+14 [(6)] (7) “Qualified generator lead line” means an overhead transmission
+15 line [that is] designed to carry, OR AN ADVANCED TRANSMISSION TECHNOLOGY THAT
+16 SUPPORTS THE CARRYING OF, a voltage in excess of 69,000 volts and would allow an
+17 out–of–state Tier 1 or Tier 2 renewable source to interconnect with a portion of the electric
+18 system in Maryland that is owned by an electric company.
+19 (b) (1) (i) Unless a certificate of public convenience and necessity for the
+20 construction is first obtained from the Commission, a person may not begin construction in
+21 the State of:
+22 1. a generating station; or
+23 2. a qualified generator lead line.
+24 (ii) If a person obtains Commission approval for construction under
+25 § 7–207.1 of this subtitle, the Commission shall exempt a person from the requirement to
+26 obtain a certificate of public convenience and necessity under this section.
+27 (iii) Notwithstanding subparagraph (i) of this paragraph, a person
+28 may not apply to obtain a certificate of public convenience and necessity for construction of
+29 a qualified generator lead line unless:
+30 1. at least 90 days before the filing of an application for a
+31 certificate of public convenience and necessity, the person had in good faith offered the
+32 electric company that owns that portion of the electric grid in Maryland to which the
+HOUSE BILL 829 5
+1 qualified generator lead line would interconnect a full and fair opportunity for the electric
+2 company to construct the qualified generator lead line; and
+3 2. at any time at least 10 days before the filing of an
+4 application for a certificate of public convenience and necessity, the electric company:
+5 A. did not accept from the person a proposal or a negotiated
+6 version of the proposal under which the electric company would construct the qualified
+7 generator lead line; or
+8 B. stated in writing that the electric company did not intend
+9 to construct the qualified generator lead line.
+10 (2) Unless a certificate of public convenience and necessity for the
+11 construction is first obtained from the Commission, and the Commission has found that the
+12 capacity is necessary to ensure a sufficient supply of electricity to customers in the State, a
+13 person may not exercise a right of condemnation in connection with the construction of a
+14 generating station.
+15 (3) (i) Except as provided in paragraph (4) of this subsection, unless a
+16 certificate of public convenience and necessity for the construction is first obtained from the
+17 Commission, a person may not begin construction of an overhead transmission line that is
+18 designed to carry a voltage in excess of 69,000 volts or exercise a right of condemnation
+19 with the construction.
+20 (ii) For construction related to an existing overhead transmission
+21 line, the Commission may waive the requirement in subparagraph (i) of this paragraph for
+22 good cause.
+23 (iii) Notwithstanding subparagraph (i) of this paragraph and subject
+24 to subparagraph [(iv)] (V) of this paragraph, the Commission may issue a certificate of
+25 public convenience and necessity for the construction of an overhead transmission line only
+26 if the applicant for the certificate of public convenience and necessity:
+27 1. is an electric company; or
+28 2. is or, on the start of commercial operation of the overhead
+29 transmission line, will be subject to regulation as a public utility by an officer or an agency
+30 of the United States.
+31 (iv) AN APPLICANT FOR A CERTIFICATE OF PUBLIC
+32 CONVENIENCE AND NECESSITY FOR THE CONSTRUCTION OF AN OVERHEAD
+33 TRANSMISSION LINE SHALL INCLUDE IN ITS APPLICATION:
+34 1. AN ANALYSIS OF ALTERNATIVES TO THE PROPOSED
+35 TRANSMISSION LINE, INCLUDING:
+6 HOUSE BILL 829
+1 A. THE USE OF ADVANCED TRANSMISSION
+2 TECHNOLOGIES;
+3 B. ALTERNATIVE ROUTINGS;
+4 C. TECHNOLOGIES OR MODIFICATIONS TO ONE OR MORE
+5 ELECTRIC DISTRIBUTION SYSTEMS IN THE STATE THAT COULD AVOID THE NEED
+6 FOR THE TRANSMISSION LINE;
+7 D. THE COSTS TO RATEPAYERS;
+8 E. RESOURCE ADEQUACY;
+9 F. ENERGY EFFICIENCY AND DEMAND RESPONSE;
+10 G. THE IMPACT OF THE PROJECT ON THE ENVIRONMENT;
+11 H. A REVIEW OF AN INTEGRATED ELECTRIC
+12 TRANSMISSION–DISTRIBUTION SYSTEM TO ADDRESS THE NEED FOR THE
+13 TRANSMISSION LINE; AND
+14 I. ANY OTHER INFORMATION THE COMMISSION
+15 CONSIDERS APPROPRIATE;
+16 2. AN ANALYSIS OF THE TRANSMISSION LINE ROUTE
+17 SELECTION, INCLUDING;
+18 A. RISKS ASSOCIATED WITH THE COST ESTIMATES;
+19 B. COST CONTAINMENT EFFORTS;
+20 C. CONSTRUCTION SCHEDULE;
+21 D. ACQUISITION OF LAND AND RIGHTS–OF–WAY;
+22 E. OUTAGE COORDINATION; AND
+23 F. THE APPLICANT’S EXPERIENCE WORKING WITH
+24 COMMUNITIES AND STAKEHOLDERS ON ROUTE CONSIDERATION; AND
+HOUSE BILL 829 7
+1 3. AN ANALYSIS OF THE USE OF ADVANCED
+2 TRANSMISSION TECHNOLOGIES AND WHETHER THE USE WILL DELAY OR AVOID
+3 FUTURE TRANSMISSION OR GENERATION UPGRADES.
+4 (V) The Commission may not issue a certificate of public convenience
+5 and necessity for the construction of an overhead transmission line in the electric
+6 distribution service territory of an electric company to an applicant other than an electric
+7 company if:
+8 1. the overhead transmission line is to be located solely
+9 within the electric distribution service territory of that electric company; and
+10 2. the cost of the overhead transmission line is to be paid
+11 solely by that electric company and its ratepayers.
+12 [(v)] (VI) 1. This subparagraph applies to the construction of an
+13 overhead transmission line for which a certificate of public convenience and necessity is
+14 required under this section.
+15 2. On issuance of a certificate of public convenience and
+16 necessity for the construction of an overhead transmission line, a person may acquire by
+17 condemnation, in accordance with Title 12 of the Real Property Article, any property or
+18 right necessary for the construction or maintenance of the transmission line.
+19 (4) (i) Except as provided in subparagraph (ii) of this paragraph, for
+20 construction related to an existing overhead transmission line designed to carry a voltage
+21 in excess of 69,000 volts, the Commission shall waive the requirement to obtain a certificate
+22 of public convenience and necessity if the Commission finds that the construction does not:
+23 1. require the person to obtain new real property or
+24 additional rights–of–way through eminent domain; or
+25 2. require larger or higher structures to accommodate:
+26 A. increased voltage; or
+27 B. larger conductors.
+28 (ii) 1. For construction related to an existing overhead
+29 transmission line, including repairs, that is necessary to avoid an imminent safety hazard
+30 or reliability risk, a person may undertake the necessary construction.
+31 2. Within 30 days after construction is completed under
+32 subsubparagraph 1 of this subparagraph, a person shall file a report with the Commission
+33 describing the work that was completed.
+8 HOUSE BILL 829
+1 (f) For the construction of an overhead transmission line, in addition to the
+2 considerations listed in subsection (e) of this section, the Commission shall:
+3 (1) take final action on an application for a certificate of public convenience
+4 and necessity only after due consideration of:
+5 (i) the need to meet existing and future demand for electric service;
+6 [and]
+7 (II) ANY ALTERNATIVES CONSIDERED BY PJM
+8 INTERCONNECTION, LLC;
+9 (III) THE ANALYSIS OF ALTERNATIVES CONDUCTED BY THE
+10 APPLICANT UNDER SUBSECTION (B)(3)(IV) OF THIS SECTION;
+11 (IV) ANY ALTERNATIVES SUBMITTED BY OTHER PARTIES TO THE
+12 TRANSMISSION PROCEEDINGS; AND
+13 [(ii)] (V) for construction related to a new overhead transmission
+14 line, the alternative routes that the applicant considered, including the estimated capital
+15 and operating costs of each alternative route and a statement of the reason why the
+16 alternative route was rejected;
+17 (2) require as an ongoing condition of the certificate of public convenience
+18 and necessity that an applicant comply with:
+19 (i) all relevant agreements with PJM Interconnection, L.L.C., or its
+20 successors, related to the ongoing operation and maintenance of the overhead transmission
+21 line; and
+22 (ii) all obligations imposed by the North America Electric Reliability
+23 Council and the Federal Energy Regulatory Commission related to the ongoing operation
+24 and maintenance of the overhead transmission line; and
+25 (3) require the applicant to identify whether the overhead transmission
+26 line is proposed to be constructed on:
+27 (i) an existing brownfields site;
+28 (ii) property that is subject to an existing easement; or
+29 (iii) a site where a tower structure or components of a tower structure
+30 used to support an overhead transmission line exist.
+31 7–207.4.
+HOUSE BILL 829 9
+1 (A) IN THIS SECTION, “ADVANCED TRANSMISSION TECHNOLOGIES” HAS
+2 THE MEANING STATED IN § 7–207 OF THIS SUBTITLE.
+3 (B) ON OR BEFORE DECEMBER 1, 2025, AND EVERY 2 YEARS THEREAFTER,
+4 EACH OWNER OR OPERATOR OF AN OVERHEAD TRANSMISSION LINE SHALL SUBMIT
+5 TO THE COMMISSION A REPORT THAT:
+6 (1) IDENTIFIES AREAS OF TRANSMISSION CONGESTION FOR THE
+7 IMMEDIATELY PRECEDING 3 YEARS AND ANY REASONABLY FORESEEABLE
+8 TRANSMISSION CONGESTION ISSUES FOR THE 5 YEARS IMMEDIATELY FOLLOWING
+9 THE DATE OF THE REPORT;
+10 (2) IDENTIFIES THE PROJECTED OR ACTUAL COST TO RATEPAYERS AS
+11 A RESULT OF PAST AND PROJECTED FUTURE TRANSMISSION CONGESTION;
+12 (3) IDENTIFIES THE FEASIBILITY AND COST OF USING ALTERNATIVE
+13 MEANS OF ADDRESSING TRANSMISSION CONGESTION, INCLUDING THE USE OF
+14 ADVANCED TRANSMISSION TECHNOLOGIES;
+15 (4) IDENTIFIES THE ECONOMIC, ENVIRONMENTAL, AND SOCIAL
+16 ISSUES POSED BY THE USE OF EACH ALTERNATIVE MEANS IDENTIFIED UNDER ITEM
+17 (3) OF THIS SUBSECTION; AND
+18 (5) IF FEASIBLE, PROPOSES AN ADVANCED TRANSMISSION
+19 TECHNOLOGY IMPLEMENTATION PLAN TO ADDRESS AREAS OF TRANSMISSION
+20 CONGESTION IDENTIFIED UNDER ITEM (1) OF THIS SUBSECTION.
+21 (C) AN OWNER OR OPERATOR OF AN OVERHEAD TRANSMISSION LINE MAY
+22 USE ANY AVAILABLE DATA FROM PJM INTERCONNECTION, LLC, OR OTHER
+23 SOURCES IN COMPLETING THE REPORT REQUIRED UNDER THIS SECTION.
+24 (D) IF THE COMMISSION AUTHORIZES THE USE OF ADVANCED
+25 TRANSMISSION TECHNOLOGIES AS A RESULT OF INFORMATION RECEIVED IN A
+26 REPORT UNDER THIS SECTION, THE COMMISSION MAY AUTHORIZE REASONABLE
+27 COST RECOVERY FOR THE USE OF ADVANCED TRANSMISSION TECHNOLOGIES
+28 UNDER THIS SECTION.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+30 October 1, 2025.
+[DELETED: :CA      5     A P F p a o S a o t l t s c r t t C a g r B  A S  A  ( B  A S  A  (  S T A 7]
+[DELETED:  H   ( ( I   () “AD T TS ME HE O S T I T CY,Y Y   () “A”:IDS    1 –;DE   2 –;HPS    3 . ( “    ( a S    ( a c l r b t D o t E    ( m   () ( “](     1 a p c a a s i f e     2 t e i a b a o c o t p e e f u c i t S o t u a p o a c i t S w c b c o m w s l t t o o o o t p g s    ( “ t d   () “](    ( a     1 i]
+[DELETED: H 3     2 h a     3 i i w e t p t f o e    ( a     1 a u f t p o e f a s p 7     2 a     3 h t c t p w c c t     4 f     A h a     B i     C d u    ( a     1 i     A o t e c i i d t e d o t s f a     B t a m o n t e f t t     2 i i w e t p t f o e     3 i s t a p t c i b t D]
+[DELETED:  H      4 i i a a f t i p o c i a    ( a s   () ( “]( i    ( “     1 p a     2 l     3 w     4 o   () “]( l tsd]    o s  ( ( ( U c t     1 a     2 a    ( I § o    ( N m a     1 a c e c t o t p o t e g i M t w t]
+[DELETED: H 5 q c     2 a a t a l 1 d b t f o a a     A d v g     B s t   ( U a c o p c a n f t c c p g   ( ( E c C d w    ( F c r t a e o t l g    ( N t () ]( p i     1 i     2 i t o    ( A F A C O P A N F T C O A O   1 PE :]
+[DELETED:  H    A U O A T   B ;S   C T   D ;   E ;   F ;   G ;   H R O A I END S T A T N F TE    I  O I T O   2 A O T T L RN ;   A ;   B ;   C ;   D ––;SOFW   E ;N    F  ATS E W WN ]
+[DELETED: H 7   3 A O T U O A T A W T U W D O A  (  T a n f t c o a o t l i t e d c     1 t o t l i t b l s w     2 t s    () 1 T](V o r     2 O i o a c o p c a n c r   ( ( E c i o     1 r t p t o n r p o a     2 r     A i     B l    ( 1 F c r t a e o t o     2 W 3 d a c i c u s d]
+[DELETED:  H   ( F t c o a o t l i a t t c   ( t a    ( t] a  () PIA A C B ,LN  ()IT A O A C B T BIV )()    ()VAS     () f]( l a o c o e a r a a s o t r w t a   ( r a    ( a s l    ( a C a   ( r l    ( a    ( p    ( a u]
+[DELETED: H 9() I,“N T SN A T TS H   77.() OD1,2,2N E     R O: ( A O T C F T P  Y A A R F   ( ( O A T CN I T U OS ( , T EC EL A S);N  (  FE P A A T I P T A A O T  ).() N A A D F  NN  O OMI,L() IF T O A T U O A T A A R O I R I A U T SN T O M A R R F T U O A T T  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 829
+C5 5lr1782
+By: Delegate Charkoudian
+Introduced and read first time: January 29, 2025
+Assigned to: Economic Matters
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Utilities – Transmission Lines – Advanced Transmission Technologies
+3 FOR the purpose of altering the definition of “qualified generator lead line” for purposes of
+4 provisions of law regarding certificates of public convenience and necessity; requiring
+5 an applicant for a certificate of public convenience and necessity for the construction
+6 of an overhead transmission line to include certain analyses; requiring the Public
+7 Service Commission to consider certain alternatives before taking final action on an
+8 application for a certificate of public convenience and necessity for the construction
+9 of an overhead transmission line; requiring each owner or operator of an overhead
+10 transmission line to submit certain reports to the Commission; and generally
+11 relating to overhead transmission lines and advanced transmission technologies.
+12 BY repealing and reenacting, with amendments,
+13 Article – Public Utilities
+14 Section 7–207(a), (b), and (f)
+15 Annotated Code of Maryland
+16 (2020 Replacement Volume and 2024 Supplement)
+17 BY adding to
+18 Article – Public Utilities
+19 Section 7–207.4
+20 Annotated Code of Maryland
+21 (2020 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Public Utilities
+25 7–207.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0829*
+
+2 HOUSE BILL 829
+1 (a) (1) In this section the following words have the meanings indicated.
+2 (2) (I) “ADVANCED TRANSMISSION TECHNOLOGIES” MEANS
+3 INFRASTRUCTURE, HARDWARE, OR SOFTWARE THAT INCREASES THE CAPACITY,
+4 EFFICIENCY, RELIABILITY, OR RESILIENCE OF A NEW OR EXISTING TRANSMISSION
+5 LINE.
+6 (II) “ADVANCED TRANSMISSION TECHNOLOGIES” INCLUDES:
+7 1. GRID–ENHANCING TECHNOLOGIES;
+8 2. HIGH–PERFORMANCE CONDUCTORS; AND
+9 3. STORAGE USED AS TRANSMISSION.
+10 (3) “Brownfields site” means:
+11 (i) a former industrial or commercial site identified by federal or
+12 State laws or regulation as contaminated or polluted;
+13 (ii) a closed landfill regulated by the Department of the
+14 Environment; or
+15 (iii) mined land.
+16 [(3)] (4) (i) “Construction” means:
+17 1. any physical change at a site, including fabrication,
+18 erection, installation, or demolition; or
+19 2. the entry into a binding agreement or contractual
+20 obligation to purchase equipment exclusively for use in construction in the State or to
+21 undertake a program of actual construction in the State which cannot be canceled or
+22 modified without substantial loss to the owner or operator of the proposed generating
+23 station.
+24 (ii) “Construction” does not include a change that is needed for the
+25 temporary use of a site or route for nonutility purposes or for use in securing geological
+26 data, including any boring that is necessary to ascertain foundation conditions.
+27 [(4)] (5) “Generating station” does not include:
+28 (i) a generating unit or facility that:
+29 1. is used for the production of electricity;
+
+HOUSE BILL 829 3
+1 2. has the capacity to produce not more than 2 megawatts of
+2 alternating current; and
+3 3. is installed with equipment that prevents the flow of
+4 electricity to the electric grid during time periods when the electric grid is out of service;
+5 (ii) a combination of two or more generating units or facilities that:
+6 1. are used for the production of electricity from a solar
+7 photovoltaic system or an eligible customer–generator that is subject to the provisions of §
+8 7–306 of this title;
+9 2. are located on the same property or adjacent properties;
+10 3. have the capacity to produce, when calculated
+11 cumulatively for all generating units or facilities on the property or adjacent property, more
+12 than 2 megawatts but not more than 14 megawatts of alternating current; and
+13 4. for each individual generating unit or facility:
+14 A. has the capacity to produce not more than 2 megawatts of
+15 alternating current;
+16 B. is separately metered by the electric company; and
+17 C. does not export electricity for sale on the wholesale market
+18 under an agreement with PJM Interconnection, LLC;
+19 (iii) a generating unit or facility that:
+20 1. is used for the production of electricity for the purpose of:
+21 A. onsite emergency backup at a facility when service from
+22 the electric company is interrupted due to electric distribution or transmission system
+23 failure or when there is equipment failure at a site where critical infrastructure is located;
+24 and
+25 B. test and maintenance operations necessary to ensure
+26 functionality of the generating unit or facility in the event of a service interruption from
+27 the electric company due to electric distribution or transmission system failure or when
+28 there is equipment failure at a site where critical infrastructure is located;
+29 2. is installed with equipment that prevents the flow of
+30 electricity to the electric grid;
+31 3. is subject to a permit to construct issued by the
+32 Department of the Environment; and
+
+4 HOUSE BILL 829
+1 4. is installed at a facility that is part of critical
+2 infrastructure if the facility complies with all applicable regulations regarding noise level
+3 and testing hours; or
+4 (iv) a combination of two or more generating units or facilities that
+5 satisfy item (iii) of this paragraph.
+6 [(5)] (6) (i) “Mined land” means the surface or subsurface of an area
+7 in which surface mining operations will be, are being, or have been conducted.
+8 (ii) “Mined land” includes:
+9 1. private ways and roads used for mining appurtenant to
+10 any surface mining area;
+11 2. land excavations;
+12 3. workings; and
+13 4. overburden.
+14 [(6)] (7) “Qualified generator lead line” means an overhead transmission
+15 line [that is] designed to carry, OR AN ADVANCED TRANSMISSION TECHNOLOGY THAT
+16 SUPPORTS THE CARRYING OF, a voltage in excess of 69,000 volts and would allow an
+17 out–of–state Tier 1 or Tier 2 renewable source to interconnect with a portion of the electric
+18 system in Maryland that is owned by an electric company.
+19 (b) (1) (i) Unless a certificate of public convenience and necessity for the
+20 construction is first obtained from the Commission, a person may not begin construction in
+21 the State of:
+22 1. a generating station; or
+23 2. a qualified generator lead line.
+24 (ii) If a person obtains Commission approval for construction under
+25 § 7–207.1 of this subtitle, the Commission shall exempt a person from the requirement to
+26 obtain a certificate of public convenience and necessity under this section.
+27 (iii) Notwithstanding subparagraph (i) of this paragraph, a person
+28 may not apply to obtain a certificate of public convenience and necessity for construction of
+29 a qualified generator lead line unless:
+30 1. at least 90 days before the filing of an application for a
+31 certificate of public convenience and necessity, the person had in good faith offered the
+32 electric company that owns that portion of the electric grid in Maryland to which the
+
+HOUSE BILL 829 5
+1 qualified generator lead line would interconnect a full and fair opportunity for the electric
+2 company to construct the qualified generator lead line; and
+3 2. at any time at least 10 days before the filing of an
+4 application for a certificate of public convenience and necessity, the electric company:
+5 A. did not accept from the person a proposal or a negotiated
+6 version of the proposal under which the electric company would construct the qualified
+7 generator lead line; or
+8 B. stated in writing that the electric company did not intend
+9 to construct the qualified generator lead line.
+10 (2) Unless a certificate of public convenience and necessity for the
+11 construction is first obtained from the Commission, and the Commission has found that the
+12 capacity is necessary to ensure a sufficient supply of electricity to customers in the State, a
+13 person may not exercise a right of condemnation in connection with the construction of a
+14 generating station.
+15 (3) (i) Except as provided in paragraph (4) of this subsection, unless a
+16 certificate of public convenience and necessity for the construction is first obtained from the
+17 Commission, a person may not begin construction of an overhead transmission line that is
+18 designed to carry a voltage in excess of 69,000 volts or exercise a right of condemnation
+19 with the construction.
+20 (ii) For construction related to an existing overhead transmission
+21 line, the Commission may waive the requirement in subparagraph (i) of this paragraph for
+22 good cause.
+23 (iii) Notwithstanding subparagraph (i) of this paragraph and subject
+24 to subparagraph [(iv)] (V) of this paragraph, the Commission may issue a certificate of
+25 public convenience and necessity for the construction of an overhead transmission line only
+26 if the applicant for the certificate of public convenience and necessity:
+27 1. is an electric company; or
+28 2. is or, on the start of commercial operation of the overhead
+29 transmission line, will be subject to regulation as a public utility by an officer or an agency
+30 of the United States.
+31 (iv) AN APPLICANT FOR A CERTIFICATE OF PUBLIC
+32 CONVENIENCE AND NECESSITY FOR THE CONSTRUCTION OF AN OVERHEAD
+33 TRANSMISSION LINE SHALL INCLUDE IN ITS APPLICATION:
+34 1. AN ANALYSIS OF ALTERNATIVES TO THE PROPOSED
+35 TRANSMISSION LINE, INCLUDING:
+
+6 HOUSE BILL 829
+1 A. THE USE OF ADVANCED TRANSMISSION
+2 TECHNOLOGIES;
+3 B. ALTERNATIVE ROUTINGS;
+4 C. TECHNOLOGIES OR MODIFICATIONS TO ONE OR MORE
+5 ELECTRIC DISTRIBUTION SYSTEMS IN THE STATE THAT COULD AVOID THE NEED
+6 FOR THE TRANSMISSION LINE;
+7 D. THE COSTS TO RATEPAYERS;
+8 E. RESOURCE ADEQUACY;
+9 F. ENERGY EFFICIENCY AND DEMAND RESPONSE;
+10 G. THE IMPACT OF THE PROJECT ON THE ENVIRONMENT;
+11 H. A REVIEW OF AN INTEGRATED ELECTRIC
+12 TRANSMISSION–DISTRIBUTION SYSTEM TO ADDRESS THE NEED FOR THE
+13 TRANSMISSION LINE; AND
+14 I. ANY OTHER INFORMATION THE COMMISSION
+15 CONSIDERS APPROPRIATE;
+16 2. AN ANALYSIS OF THE TRANSMISSION LINE ROUTE
+17 SELECTION, INCLUDING;
+18 A. RISKS ASSOCIATED WITH THE COST ESTIMATES;
+19 B. COST CONTAINMENT EFFORTS;
+20 C. CONSTRUCTION SCHEDULE;
+21 D. ACQUISITION OF LAND AND RIGHTS–OF–WAY;
+22 E. OUTAGE COORDINATION; AND
+23 F. THE APPLICANT’S EXPERIENCE WORKING WITH
+24 COMMUNITIES AND STAKEHOLDERS ON ROUTE CONSIDERATION; AND
+
+HOUSE BILL 829 7
+1 3. AN ANALYSIS OF THE USE OF ADVANCED
+2 TRANSMISSION TECHNOLOGIES AND WHETHER THE USE WILL DELAY OR AVOID
+3 FUTURE TRANSMISSION OR GENERATION UPGRADES.
+4 (V) The Commission may not issue a certificate of public convenience
+5 and necessity for the construction of an overhead transmission line in the electric
+6 distribution service territory of an electric company to an applicant other than an electric
+7 company if:
+8 1. the overhead transmission line is to be located solely
+9 within the electric distribution service territory of that electric company; and
+10 2. the cost of the overhead transmission line is to be paid
+11 solely by that electric company and its ratepayers.
+12 [(v)] (VI) 1. This subparagraph applies to the construction of an
+13 overhead transmission line for which a certificate of public convenience and necessity is
+14 required under this section.
+15 2. On issuance of a certificate of public convenience and
+16 necessity for the construction of an overhead transmission line, a person may acquire by
+17 condemnation, in accordance with Title 12 of the Real Property Article, any property or
+18 right necessary for the construction or maintenance of the transmission line.
+19 (4) (i) Except as provided in subparagraph (ii) of this paragraph, for
+20 construction related to an existing overhead transmission line designed to carry a voltage
+21 in excess of 69,000 volts, the Commission shall waive the requirement to obtain a certificate
+22 of public convenience and necessity if the Commission finds that the construction does not:
+23 1. require the person to obtain new real property or
+24 additional rights–of–way through eminent domain; or
+25 2. require larger or higher structures to accommodate:
+26 A. increased voltage; or
+27 B. larger conductors.
+28 (ii) 1. For construction related to an existing overhead
+29 transmission line, including repairs, that is necessary to avoid an imminent safety hazard
+30 or reliability risk, a person may undertake the necessary construction.
+31 2. Within 30 days after construction is completed under
+32 subsubparagraph 1 of this subparagraph, a person shall file a report with the Commission
+33 describing the work that was completed.
+
+8 HOUSE BILL 829
+1 (f) For the construction of an overhead transmission line, in addition to the
+2 considerations listed in subsection (e) of this section, the Commission shall:
+3 (1) take final action on an application for a certificate of public convenience
+4 and necessity only after due consideration of:
+5 (i) the need to meet existing and future demand for electric service;
+6 [and]
+7 (II) ANY ALTERNATIVES CONSIDERED BY PJM
+8 INTERCONNECTION, LLC;
+9 (III) THE ANALYSIS OF ALTERNATIVES CONDUCTED BY THE
+10 APPLICANT UNDER SUBSECTION (B)(3)(IV) OF THIS SECTION;
+11 (IV) ANY ALTERNATIVES SUBMITTED BY OTHER PARTIES TO THE
+12 TRANSMISSION PROCEEDINGS; AND
+13 [(ii)] (V) for construction related to a new overhead transmission
+14 line, the alternative routes that the applicant considered, including the estimated capital
+15 and operating costs of each alternative route and a statement of the reason why the
+16 alternative route was rejected;
+17 (2) require as an ongoing condition of the certificate of public convenience
+18 and necessity that an applicant comply with:
+19 (i) all relevant agreements with PJM Interconnection, L.L.C., or its
+20 successors, related to the ongoing operation and maintenance of the overhead transmission
+21 line; and
+22 (ii) all obligations imposed by the North America Electric Reliability
+23 Council and the Federal Energy Regulatory Commission related to the ongoing operation
+24 and maintenance of the overhead transmission line; and
+25 (3) require the applicant to identify whether the overhead transmission
+26 line is proposed to be constructed on:
+27 (i) an existing brownfields site;
+28 (ii) property that is subject to an existing easement; or
+29 (iii) a site where a tower structure or components of a tower structure
+30 used to support an overhead transmission line exist.
+31 7–207.4.
+
+HOUSE BILL 829 9
+1 (A) IN THIS SECTION, “ADVANCED TRANSMISSION TECHNOLOGIES” HAS
+2 THE MEANING STATED IN § 7–207 OF THIS SUBTITLE.
+3 (B) ON OR BEFORE DECEMBER 1, 2025, AND EVERY 2 YEARS THEREAFTER,
+4 EACH OWNER OR OPERATOR OF AN OVERHEAD TRANSMISSION LINE SHALL SUBMIT
+5 TO THE COMMISSION A REPORT THAT:
+6 (1) IDENTIFIES AREAS OF TRANSMISSION CONGESTION FOR THE
+7 IMMEDIATELY PRECEDING 3 YEARS AND ANY REASONABLY FORESEEABLE
+8 TRANSMISSION CONGESTION ISSUES FOR THE 5 YEARS IMMEDIATELY FOLLOWING
+9 THE DATE OF THE REPORT;
+10 (2) IDENTIFIES THE PROJECTED OR ACTUAL COST TO RATEPAYERS AS
+11 A RESULT OF PAST AND PROJECTED FUTURE TRANSMISSION CONGESTION;
+12 (3) IDENTIFIES THE FEASIBILITY AND COST OF USING ALTERNATIVE
+13 MEANS OF ADDRESSING TRANSMISSION CONGESTION, INCLUDING THE USE OF
+14 ADVANCED TRANSMISSION TECHNOLOGIES;
+15 (4) IDENTIFIES THE ECONOMIC, ENVIRONMENTAL, AND SOCIAL
+16 ISSUES POSED BY THE USE OF EACH ALTERNATIVE MEANS IDENTIFIED UNDER ITEM
+17 (3) OF THIS SUBSECTION; AND
+18 (5) IF FEASIBLE, PROPOSES AN ADVANCED TRANSMISSION
+19 TECHNOLOGY IMPLEMENTATION PLAN TO ADDRESS AREAS OF TRANSMISSION
+20 CONGESTION IDENTIFIED UNDER ITEM (1) OF THIS SUBSECTION.
+21 (C) AN OWNER OR OPERATOR OF AN OVERHEAD TRANSMISSION LINE MAY
+22 USE ANY AVAILABLE DATA FROM PJM INTERCONNECTION, LLC, OR OTHER
+23 SOURCES IN COMPLETING THE REPORT REQUIRED UNDER THIS SECTION.
+24 (D) IF THE COMMISSION AUTHORIZES THE USE OF ADVANCED
+25 TRANSMISSION TECHNOLOGIES AS A RESULT OF INFORMATION RECEIVED IN A
+26 REPORT UNDER THIS SECTION, THE COMMISSION MAY AUTHORIZE REASONABLE
+27 COST RECOVERY FOR THE USE OF ADVANCED TRANSMISSION TECHNOLOGIES
+28 UNDER THIS SECTION.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+30 October 1, 2025.
+
+[DELETED: :CA      5     A P F p a o S a o t l t s c r t t C a g r B  A S  A  ( B  A S  A  (  S T A 7]
+[DELETED:  H   ( ( I   () “AD T TS ME HE O S T I T CY,Y Y   () “A”:IDS    1 –;DE   2 –;HPS    3 . ( “    ( a S    ( a c l r b t D o t E    ( m   () ( “](     1 a p c a a s i f e     2 t e i a b a o c o t p e e f u c i t S o t u a p o a c i t S w c b c o m w s l t t o o o o t p g s    ( “ t d   () “](    ( a     1 i]
+[DELETED: H 3     2 h a     3 i i w e t p t f o e    ( a     1 a u f t p o e f a s p 7     2 a     3 h t c t p w c c t     4 f     A h a     B i     C d u    ( a     1 i     A o t e c i i d t e d o t s f a     B t a m o n t e f t t     2 i i w e t p t f o e     3 i s t a p t c i b t D]
+[DELETED:  H      4 i i a a f t i p o c i a    ( a s   () ( “]( i    ( “     1 p a     2 l     3 w     4 o   () “]( l tsd]    o s  ( ( ( U c t     1 a     2 a    ( I § o    ( N m a     1 a c e c t o t p o t e g i M t w t]
+[DELETED: H 5 q c     2 a a t a l 1 d b t f o a a     A d v g     B s t   ( U a c o p c a n f t c c p g   ( ( E c C d w    ( F c r t a e o t l g    ( N t () ]( p i     1 i     2 i t o    ( A F A C O P A N F T C O A O   1 PE :]
+[DELETED:  H    A U O A T   B ;S   C T   D ;   E ;   F ;   G ;   H R O A I END S T A T N F TE    I  O I T O   2 A O T T L RN ;   A ;   B ;   C ;   D ––;SOFW   E ;N    F  ATS E W WN ]
+[DELETED: H 7   3 A O T U O A T A W T U W D O A  (  T a n f t c o a o t l i t e d c     1 t o t l i t b l s w     2 t s    () 1 T](V o r     2 O i o a c o p c a n c r   ( ( E c i o     1 r t p t o n r p o a     2 r     A i     B l    ( 1 F c r t a e o t o     2 W 3 d a c i c u s d]
+[DELETED:  H   ( F t c o a o t l i a t t c   ( t a    ( t] a  () PIA A C B ,LN  ()IT A O A C B T BIV )()    ()VAS     () f]( l a o c o e a r a a s o t r w t a   ( r a    ( a s l    ( a C a   ( r l    ( a    ( p    ( a u]
+[DELETED: H 9() I,“N T SN A T TS H   77.() OD1,2,2N E     R O: ( A O T C F T P  Y A A R F   ( ( O A T CN I T U OS ( , T EC EL A S);N  (  FE P A A T I P T A A O T  ).() N A A D F  NN  O OMI,L() IF T O A T U O A T A A R O I R I A U T SN T O M A R R F T U O A T T  S A B I F E T t A s t e O]

@@ -1,0 +1,290 @@
+Title: Hate Crimes and Hate Bias - Definitions of Sexual Orientation and
+Official Title: Hate Crimes and Hate Bias - Definitions of Sexual Orientation and
+Number of Sections: 1
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Session
+HB1452
+Hate Bias Incident
+Bill Summary
+This bill (1) alters the definition of “sexual orientation” applicable to the protected classes under
+specified hate crime statutes and (2) alters hate crimes-related reporting requirements for the
+Department of State Police (DSP).
+Racial Equity Impact Statement
+State law requires DSP to report annually on hate bias incidents in Maryland. The bill’s provisions
+would expand reporting of hate crimes and noncriminal hate bias incidents in the State. The
+additional data reporting will provide a clearer picture of hate bias in the State to the benefit of law
+enforcement, policymakers, and individuals affected by hate crime or hate bias incidents.
+Analysis
+The bill alters the definition of “sexual orientation” as defined in Title 10, Subtitle 3 of the Criminal
+Law Article. Currently, “sexual orientation” means the identification of an individual as to male
+or female homosexuality, heterosexuality, or bisexuality. As proposed by the bill, “sexual
+orientation” is defined to mean an individual’s identity, or other’s perception of an individual’s
+identity, in relation to the gender or genders to which the individual is sexually or emotionally
+attracted. “Sexual orientation” does not mean gender identity.
+The bill defines a hate bias incident as an act of hostility or aggression that (1) is directed at an
+individual or a group, private property, or public property; (2) is motivated, in whole or
+HB 1452/ Page 1
+substantially in part, by another individual’s or g roup’s actual or perceived protected class status,
+as specified; and (3) does not constitute a crime under State or federal law.
+The bill specifically includes the following acts as hate bias incidents: (1) slurs, name-calling, and
+insults; (2) the display of material with offensive language, symbols, or threats targeting a
+protected class on private property; (3) the posting of material with offensive language, symbols,
+or threats targeting a protected class that does not result in property damage; (4) electronic and
+online distribution of material with offensive language, symbols, or threats targeting a protected
+class; and (5) distribution of materials with messages using offensive language, symbols, or threats
+targeting a protected class in a public place.
+Under existing law, the hate crime statute identifies members of a protected class and prohibits
+specified actions by a person if motivated in whole or in substantial part by another person’s or
+group’s race, color, religious beliefs, sexual orientation, sex, gender identity, disability, national
+origin, or homelessness.
+Hate Crime and Hate Bias Incident Reporting
+Title 2, Subtitle 3 of the Public Safety Article requires the collection of data on hate crimes as well
+as noncriminal hate bias incidents, so both criminal conduct and noncriminal incidents of hate bias
+are combined in the report. According to DSP, crime-based data in the report pertains to hate
+bias-related crimes, which are recorded as hate or bias incidents but, more specifically, involve
+offenses that can result in arrests. Hate crime definitions often encompass not only violence against
+individuals or groups, but also crimes against property, such as arson or vandalism, particularly
+those directed against community centers or houses of worship.
+Commission on Hate Crime Response and Prevention
+Chapter 773 of 2023 established the Commission on Hate Crime Response and Prevention to
+develop strategies to prevent and respond to hate crime activity and evaluate State laws and
+policies relating to hate crimes. The commission must report to the State Department of Education
+on policy recommendations to address hate crimes that occur in schools and to the General
+Assembly on legislative recommendations to address hate crimes in the State. The bill’s provisions
+are adapted from the commission’s recommendations in its 2024 annual report to address and more
+clearly define a hate bias incident and to incorporate the present-day understanding of how
+diversely people experience sexual orientation beyond the three identities described in the existing
+statute.
+Hate Bias Incidents in Maryland
+In Maryland, there were a total of 951 hate bias incidents reported by law enforcement during
+2023; of those, 270 reports were verified. It should be noted that some incidents are not clearly
+identified as hate bias, but investigative efforts may reveal an incident is hate bias motivated.
+Depending on the outcome of this follow-up investigation, hate bias incidents are classified as
+verified, inconclusive, or unfounded. Exhibit 1 shows the breakdown of reported incidents by bias
+motivation category. Of these reported incidents, race/ethnicity/ancestry (R/E/A) is the largest
+category, accounting for 52.6% of reported incidents. Specifically, anti-Black and anti-Jewish
+motivated incidents accounted for just over 64% of all incidents. Religion-based hate bias
+HB 1452/ Page 2
+motivations increased from 20.7% in 2022 to 31. 5% in 2023. Vandalism and verbal intimidations
+were the largest categories of crime or incidents underlying individual reports.
+Exhibit 1
+Verified Hate Bias Incident Motivations
+2023
+60%
+53%
+50%
+40%
+31%
+30%
+20%
+13%
+10%
+1% 1%
+0%
+R/E/A Religion Sexual Orientation Disability Gender Identity
+R/E/A: race/ethnicity/ancestry
+Note: Includes both criminal and noncriminal incidents.
+Source: Department of State Police; Department of Legislative Services
+Conclusion
+Hate bias incident prevention and response has significant equity implications. There is not
+sufficient data to analyze the exact nature of the bill’s impacts, but it is probable that the expanded
+definitions and reporting of the hate bias incidents under the bill will assist stakeholders and
+members of the public in ascertaining a more complete picture of how certain groups/identities are
+affected by hate bias in Maryland.
+Information Sources: Department of State Police; Commission on Hate Crime Response and
+Prevention; Department of Legislative Services
+Analysis by: Rafael Regales
+Published: 03/31/2025
+HB 1452/ Page 3
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 1452/ Page 4
+[DELETED:  h c s a ( a h c r r f t e r o c a n h b i i t T f h h o b A p b t b “ o a g p p o p p ( i m i w o]
+[DELETED:  ( t d o m w o l s o t t a s t p a r t h c a a e S l a p r t a h c t o i s a t t G d a h b i a t i t p u o h i a f j o 6 o a i R h b]
+[DELETED:  b i p a r h s e i T i n u  ARnSnDyG]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]
+
+
+================================================================================
+
+Raw Text:
+2025 Session
+HB1452
+Hate Crimes and Hate Bias - Definitions of Sexual Orientation and
+Hate Bias Incident
+Bill Summary
+This bill (1) alters the definition of “sexual orientation” applicable to the protected classes under
+specified hate crime statutes and (2) alters hate crimes-related reporting requirements for the
+Department of State Police (DSP).
+Racial Equity Impact Statement
+State law requires DSP to report annually on hate bias incidents in Maryland. The bill’s provisions
+would expand reporting of hate crimes and noncriminal hate bias incidents in the State. The
+additional data reporting will provide a clearer picture of hate bias in the State to the benefit of law
+enforcement, policymakers, and individuals affected by hate crime or hate bias incidents.
+Analysis
+The bill alters the definition of “sexual orientation” as defined in Title 10, Subtitle 3 of the Criminal
+Law Article. Currently, “sexual orientation” means the identification of an individual as to male
+or female homosexuality, heterosexuality, or bisexuality. As proposed by the bill, “sexual
+orientation” is defined to mean an individual’s identity, or other’s perception of an individual’s
+identity, in relation to the gender or genders to which the individual is sexually or emotionally
+attracted. “Sexual orientation” does not mean gender identity.
+The bill defines a hate bias incident as an act of hostility or aggression that (1) is directed at an
+individual or a group, private property, or public property; (2) is motivated, in whole or
+HB 1452/ Page 1
+
+substantially in part, by another individual’s or g roup’s actual or perceived protected class status,
+as specified; and (3) does not constitute a crime under State or federal law.
+The bill specifically includes the following acts as hate bias incidents: (1) slurs, name-calling, and
+insults; (2) the display of material with offensive language, symbols, or threats targeting a
+protected class on private property; (3) the posting of material with offensive language, symbols,
+or threats targeting a protected class that does not result in property damage; (4) electronic and
+online distribution of material with offensive language, symbols, or threats targeting a protected
+class; and (5) distribution of materials with messages using offensive language, symbols, or threats
+targeting a protected class in a public place.
+Under existing law, the hate crime statute identifies members of a protected class and prohibits
+specified actions by a person if motivated in whole or in substantial part by another person’s or
+group’s race, color, religious beliefs, sexual orientation, sex, gender identity, disability, national
+origin, or homelessness.
+Hate Crime and Hate Bias Incident Reporting
+Title 2, Subtitle 3 of the Public Safety Article requires the collection of data on hate crimes as well
+as noncriminal hate bias incidents, so both criminal conduct and noncriminal incidents of hate bias
+are combined in the report. According to DSP, crime-based data in the report pertains to hate
+bias-related crimes, which are recorded as hate or bias incidents but, more specifically, involve
+offenses that can result in arrests. Hate crime definitions often encompass not only violence against
+individuals or groups, but also crimes against property, such as arson or vandalism, particularly
+those directed against community centers or houses of worship.
+Commission on Hate Crime Response and Prevention
+Chapter 773 of 2023 established the Commission on Hate Crime Response and Prevention to
+develop strategies to prevent and respond to hate crime activity and evaluate State laws and
+policies relating to hate crimes. The commission must report to the State Department of Education
+on policy recommendations to address hate crimes that occur in schools and to the General
+Assembly on legislative recommendations to address hate crimes in the State. The bill’s provisions
+are adapted from the commission’s recommendations in its 2024 annual report to address and more
+clearly define a hate bias incident and to incorporate the present-day understanding of how
+diversely people experience sexual orientation beyond the three identities described in the existing
+statute.
+Hate Bias Incidents in Maryland
+In Maryland, there were a total of 951 hate bias incidents reported by law enforcement during
+2023; of those, 270 reports were verified. It should be noted that some incidents are not clearly
+identified as hate bias, but investigative efforts may reveal an incident is hate bias motivated.
+Depending on the outcome of this follow-up investigation, hate bias incidents are classified as
+verified, inconclusive, or unfounded. Exhibit 1 shows the breakdown of reported incidents by bias
+motivation category. Of these reported incidents, race/ethnicity/ancestry (R/E/A) is the largest
+category, accounting for 52.6% of reported incidents. Specifically, anti-Black and anti-Jewish
+motivated incidents accounted for just over 64% of all incidents. Religion-based hate bias
+HB 1452/ Page 2
+
+motivations increased from 20.7% in 2022 to 31. 5% in 2023. Vandalism and verbal intimidations
+were the largest categories of crime or incidents underlying individual reports.
+Exhibit 1
+Verified Hate Bias Incident Motivations
+2023
+60%
+53%
+50%
+40%
+31%
+30%
+20%
+13%
+10%
+1% 1%
+0%
+R/E/A Religion Sexual Orientation Disability Gender Identity
+R/E/A: race/ethnicity/ancestry
+Note: Includes both criminal and noncriminal incidents.
+Source: Department of State Police; Department of Legislative Services
+Conclusion
+Hate bias incident prevention and response has significant equity implications. There is not
+sufficient data to analyze the exact nature of the bill’s impacts, but it is probable that the expanded
+definitions and reporting of the hate bias incidents under the bill will assist stakeholders and
+members of the public in ascertaining a more complete picture of how certain groups/identities are
+affected by hate bias in Maryland.
+Information Sources: Department of State Police; Commission on Hate Crime Response and
+Prevention; Department of Legislative Services
+Analysis by: Rafael Regales
+Published: 03/31/2025
+HB 1452/ Page 3
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 1452/ Page 4
+
+[DELETED:  h c s a ( a h c r r f t e r o c a n h b i i t T f h h o b A p b t b “ o a g p p o p p ( i m i w o]
+[DELETED:  ( t d o m w o l s o t t a s t p a r t h c a a e S l a p r t a h c t o i s a t t G d a h b i a t i t p u o h i a f j o 6 o a i R h b]
+[DELETED:  b i p a r h s e i T i n u  ARnSnDyG]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]

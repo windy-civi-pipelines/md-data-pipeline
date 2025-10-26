@@ -1,0 +1,400 @@
+Title: SENATE BILL 998
+Official Title: SENATE BILL 998
+Number of Sections: 1
+Source: versions - First - Natural Gas - Strategic Infrastructure Development and Enhancement (Ratepayer Protection Act)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+C8, K3 5lr3524
+SB 548/24 – EEE CF HB 419
+By: Senators M. Washington, Attar, Brooks, Sydnor, and Hettleman
+Introduced and read first time: February 1, 2025
+Assigned to: Rules
+A BILL ENTITLED
+1 AN ACT concerning
+2 Natural Gas – Strategic Infrastructure Development and Enhancement
+3 (Ratepayer Protection Act)
+4 FOR the purpose of altering the required contents of a certain plan that a gas company may
+5 file with the Public Service Commission for proposed eligible infrastructure
+6 replacement projects to include certain descriptions, demonstrations, analyses, and
+7 notifications; altering the required findings of the Commission in considering
+8 whether to approve a certain infrastructure replacement plan; and generally relating
+9 to natural gas and infrastructure management.
+10 BY repealing and reenacting, with amendments,
+11 Article – Public Utilities
+12 Section 4–210
+13 Annotated Code of Maryland
+14 (2020 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Public Utilities
+18 4–210.
+19 (a) (1) In this section the following words have the meanings indicated.
+20 (2) “Customer” means a retail natural gas customer.
+21 (3) “Eligible infrastructure replacement” means a replacement or an
+22 improvement in an existing infrastructure of a gas company that:
+23 (i) is made on or after June 1, 2013;
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0998*
+2 SENATE BILL 998
+1 (ii) is designed to improve public safety or infrastructure reliability;
+2 (iii) does not increase the revenue of a gas company by connecting an
+3 improvement directly to new customers;
+4 (iv) reduces or has the potential to reduce greenhouse gas emissions
+5 through a reduction in natural gas system leaks; and
+6 (v) is not included in the current rate base of the gas company as
+7 determined in the gas company’s most recent base rate proceeding.
+8 (4) “NATURAL GAS” MEANS METHANE GAS PRODUCED FROM A
+9 GEOLOGICAL FORMATION BENEATH THE SURFACE OF THE EARTH.
+10 (5) “NATURAL GAS ALTERNATIVE” MEANS A FUEL THAT CAN BE
+11 BURNED IN TANDEM WITH OR IN PLACE OF NATURAL GAS, INCLUDING BIOMETHANE,
+12 RECOVERED METHANE, SYNTHETIC METHANE, AND HYDROGEN.
+13 [(4)] (6) “Plan” means a plan that a gas company files under subsection
+14 (d) of this section.
+15 [(5)] (7) “Project” means an eligible infrastructure replacement project
+16 proposed by a gas company in a plan filed under this section.
+17 (b) It is the intent of the General Assembly that the purpose of this section is to
+18 [accelerate] PROMOTE gas infrastructure improvements in the State, WHEN NECESSARY
+19 AND APPROPRIATE TO ENSURE THE SAFETY OF THE GAS SYSTEM AND TO PROVIDE
+20 CONSISTENCY WITH STATE CLIMATE POLICY, by establishing a mechanism for gas
+21 companies to promptly recover reasonable and prudent costs of investments in eligible
+22 infrastructure replacement projects separate from base rate proceedings.
+23 (c) This section does not apply to a gas cooperative.
+24 (d) (1) A gas company may file with the Commission:
+25 (i) a plan to invest in eligible infrastructure replacement projects;
+26 and
+27 (ii) in accordance with paragraph (4) of this subsection, a
+28 cost–recovery schedule associated with the plan that includes a fixed annual surcharge on
+29 customer bills to recover reasonable and prudent costs of proposed eligible infrastructure
+30 replacement projects.
+31 (2) A plan under this subsection shall include:
+SENATE BILL 998 3
+1 (i) A DESCRIPTION OF EACH ELIGIBLE PROJECT, INCLUDING
+2 THE PROJECT’S EXPECTED USEFUL LIFE;
+3 (II) a time line for the completion of each eligible project;
+4 [(ii)] (III) the estimated cost of each project;
+5 [(iii)] (IV) a description of customer benefits under the plan;
+6 (V) A DEMONSTRATION THAT THE GAS COMPANY HAS SELECTED
+7 AND GIVEN PRIORITY TO PROJECTS BASED ON RISK TO THE PUBLIC AND
+8 COST–EFFECTIVENESS;
+9 (VI) AN ANALYSIS THAT COMPARES THE COSTS OF PROPOSED
+10 REPLACEMENT PROJECTS WITH ALTERNATIVES TO REPLACEMENT, INCLUDING:
+11 1. LEAK DETECTION AND REPAIR; AND
+12 2. THE TARGETED RETIREMENT OR ABANDONMENT OF
+13 PORTIONS OF THE GAS SYSTEM IN CONJUNCTION WITH ELECTRIFICATION;
+14 (VII) A PLAN FOR NOTIFYING CUSTOMERS AFFECTED BY
+15 PROPOSED PROJECTS AT LEAST 2 YEARS IN ADVANCE OF CONSTRUCTION TO ALLOW
+16 CUSTOMERS THE OPPORTUNITY TO ELECTRIFY; and
+17 [(iv)] (VIII) any other information the Commission considers
+18 necessary to evaluate the plan.
+19 (3) (i) When calculating the estimated cost of a project under paragraph
+20 (2) of this subsection, a gas company shall include:
+21 1. the pretax rate of return on the gas company’s investment
+22 in the project;
+23 2. depreciation associated with the project, based on new
+24 assets less retired plant; and
+25 3. property taxes associated with the project, based on new
+26 assets less retired plant.
+27 (ii) The estimated project costs described in subparagraph (i) of this
+28 paragraph are collectible at the same time the eligible infrastructure replacement is made.
+29 (iii) The pretax rate of return under subparagraph (i)1 of this
+30 paragraph shall:
+4 SENATE BILL 998
+1 1. be calculated using the gas company’s capital structure
+2 and weighted average cost of capital as the Commission approved in the gas company’s
+3 most recent base rate proceeding; and
+4 2. include an adjustment for bad debt expenses as the
+5 Commission approved in the gas company’s most recent base rate proceeding.
+6 (4) For a plan filed under this section:
+7 (i) the cost–recovery schedule shall include a fixed annual
+8 surcharge that:
+9 1. may not exceed $2 each month on each residential
+10 customer account; and
+11 2. for each nonresidential customer account, may not be less
+12 than the fixed annual surcharge applicable to a residential customer account, but shall be
+13 capped under item (ii) of this paragraph; and
+14 (ii) to create a surcharge cap for all customer classes, costs shall be
+15 allocated to nonresidential and residential customers consistent with the proportions of
+16 total distribution revenues that those classes bear in accordance with the most recent base
+17 rate proceeding for the gas company.
+18 (5) In a base rate proceeding after approval of a plan, the Commission
+19 shall, in establishing a gas company’s revenue requirements, take into account any benefits
+20 the gas company realized as a result of a surcharge approved under the plan.
+21 (6) Any adjustment for return on equity based on an approved plan only
+22 shall be considered and determined in a subsequently filed base rate case.
+23 (e) (1) Within 180 days after a gas company files a plan, the Commission:
+24 (i) may hold a public hearing on the plan; and
+25 (ii) shall take a final action to approve or deny the plan.
+26 (2) Within 150 days after a gas company files an amendment to an
+27 approved plan, the Commission shall take final action to approve or deny the amendment.
+28 (3) The Commission may approve a plan if it finds that the investments
+29 and estimated costs of eligible infrastructure replacement projects are:
+30 (i) reasonable and prudent; [and]
+31 (ii) designed to improve public safety or infrastructure reliability
+SENATE BILL 998 5
+1 over the short term and long term;
+2 (III) REQUIRED TO IMPROVE THE SAFETY OF THE GAS SYSTEM
+3 AFTER CONSIDERATION OF ALTERNATIVES TO REPLACEMENT;
+4 (IV) CONSISTENT WITH THE NEED TO REDUCE THE USE OF
+5 NATURAL GAS IN LIGHT OF STATE CLIMATE POLICY; AND
+6 (V) CONSISTENT WITH THE PROJECTED AVAILABILITY AND
+7 COST–EFFECTIVENESS OF NATURAL GAS ALTERNATIVES.
+8 (4) (i) The Commission shall approve the cost–recovery schedule
+9 associated with the plan at the same time that it approves the plan.
+10 (ii) Costs recovered under the schedule approved in subparagraph (i)
+11 of this paragraph may relate only to the projects within the plan approved by the
+12 Commission.
+13 (5) The Commission may not consider a revenue requirement or
+14 rate–making issue that is not related to the plan when reviewing a plan for approval or
+15 denial unless the plan is filed in conjunction with a base rate case.
+16 (f) (1) Subject to paragraph (2) of this subsection, if the Commission does not
+17 take final action on a plan within the time period required under subsection (e) of this
+18 section, the gas company may implement the plan.
+19 (2) If a gas company implements a plan that the Commission has not
+20 approved, the gas company shall refund to customers any amount of the surcharge that the
+21 Commission later determines is not reasonable or prudent, including interest.
+22 (g) (1) (i) A surcharge under this section shall be in effect for 5 years from
+23 the date of initial implementation of an approved plan.
+24 (ii) 1. Before the end of the 5–year period, the gas company shall
+25 file a base rate case application.
+26 2. In a base rate proceeding filed under subsubparagraph 1
+27 of this subparagraph, if a plan approved by the Commission remains in effect:
+28 A. eligible infrastructure project costs included in base rates
+29 in accordance with a final Commission order on the base rate case shall be removed from a
+30 surcharge; and
+31 B. the surcharge mechanism shall continue for eligible future
+32 infrastructure project costs that are not included in the base rate case.
+6 SENATE BILL 998
+1 (2) (i) If the actual cost of a plan is less than the amount collected under
+2 a surcharge, the gas company shall refund to customers the difference on customer bills,
+3 including interest.
+4 (ii) If the actual cost of a plan is more than the amount collected
+5 under the surcharge and the Commission determines that the higher costs were reasonably
+6 and prudently incurred, the Commission shall authorize the gas company to increase the
+7 surcharge to recover the difference, subject to the rate limit under subsection (d)(4) of this
+8 section.
+9 (h) Each year a gas company shall file with the Commission a reconciliation to
+10 adjust the amount of a surcharge to account for any difference between the actual cost of a
+11 plan and the actual amount recovered under the surcharge.
+12 (i) If, after approving a surcharge in a plan, the Commission establishes new base
+13 rates for the gas company that include costs on which the surcharge is based, the gas
+14 company shall file a revised rate schedule with the Commission that subtracts those costs
+15 from the surcharge.
+16 (j) (1) The Commission may review a previously approved plan.
+17 (2) If the Commission determines that an investment of a project or cost of
+18 a project no longer meets the requirements of subsection (e)(3) of this section, the
+19 Commission may:
+20 (i) reduce future base rates or surcharges; or
+21 (ii) alter or rescind approval of that part of the plan.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+23 October 1, 2025.
+[DELETED: :CA      5   C A N ( F f w t P S C f p e i r n a t r f o t C i c w t B  A  S  A  (  S T A 4  ( ( I   ( “   ( “ i r m a r o a i    ( i]
+[DELETED:  S     ( i    ( d i    ( r t    ( i d ( “N GS M M G P F A ( “N G AE M A F T C BS EE E ,. [] ()“ ( []  ()P m a e i r p p  ( I]  , aegEW W T C PY b e a m f g c t p r r a p c o i e i  ( T  ( ( A    ( a a    ( i a w p ( o t s a c c r   ( A]
+[DELETED: S 3    ( DT TS;  () a  []() ()t  []()   ()a  ()A G P T P B O R T T P ATE;  ()IA A T C T C O PT :   1 ;R    2  ()IA P F N C A B  Y a  []() ()a o i t C c n   ( ( W (     1 t i     2 d a w t p b o n a     3 p a    ( T p    ( T p r o r u s ( o t p]
+[DELETED:  S      1 b c u t g c c s a m     2 i a a f b d e a t C   ( F    ( t c s s i a f a s     1 m n e $ e m o e r c     2 f t c    ( t a t r   ( I a b r p a a o a p t C s t   ( A s  ( ( W    ( m    ( s   ( W 1 d a a g c f a a t a a   ( T a    ( r;a[]  ( d t i p s o i r]
+[DELETED: S 5 om  ()IR  ()VC W T N T R T U O TY ;  () C W T P A ATE  ( ( T C s a t c s a    ( C o t p m r o t t p w t p a b t C   ( T C m n c a r r o r d  ( ( S t s   ( I a g c i a p t t C h n a C  ( ( ( A t    ( 1 B f     2 I o     A e i s     B t i]
+[DELETED:  S    ( ( I a i    ( I u a s s  ( E a p  ( I r c f  ( ( T   ( I a p n l m t r o s ( o t s t C    ( r    ( a  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 998
+C8, K3 5lr3524
+SB 548/24 – EEE CF HB 419
+By: Senators M. Washington, Attar, Brooks, Sydnor, and Hettleman
+Introduced and read first time: February 1, 2025
+Assigned to: Rules
+A BILL ENTITLED
+1 AN ACT concerning
+2 Natural Gas – Strategic Infrastructure Development and Enhancement
+3 (Ratepayer Protection Act)
+4 FOR the purpose of altering the required contents of a certain plan that a gas company may
+5 file with the Public Service Commission for proposed eligible infrastructure
+6 replacement projects to include certain descriptions, demonstrations, analyses, and
+7 notifications; altering the required findings of the Commission in considering
+8 whether to approve a certain infrastructure replacement plan; and generally relating
+9 to natural gas and infrastructure management.
+10 BY repealing and reenacting, with amendments,
+11 Article – Public Utilities
+12 Section 4–210
+13 Annotated Code of Maryland
+14 (2020 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Public Utilities
+18 4–210.
+19 (a) (1) In this section the following words have the meanings indicated.
+20 (2) “Customer” means a retail natural gas customer.
+21 (3) “Eligible infrastructure replacement” means a replacement or an
+22 improvement in an existing infrastructure of a gas company that:
+23 (i) is made on or after June 1, 2013;
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0998*
+
+2 SENATE BILL 998
+1 (ii) is designed to improve public safety or infrastructure reliability;
+2 (iii) does not increase the revenue of a gas company by connecting an
+3 improvement directly to new customers;
+4 (iv) reduces or has the potential to reduce greenhouse gas emissions
+5 through a reduction in natural gas system leaks; and
+6 (v) is not included in the current rate base of the gas company as
+7 determined in the gas company’s most recent base rate proceeding.
+8 (4) “NATURAL GAS” MEANS METHANE GAS PRODUCED FROM A
+9 GEOLOGICAL FORMATION BENEATH THE SURFACE OF THE EARTH.
+10 (5) “NATURAL GAS ALTERNATIVE” MEANS A FUEL THAT CAN BE
+11 BURNED IN TANDEM WITH OR IN PLACE OF NATURAL GAS, INCLUDING BIOMETHANE,
+12 RECOVERED METHANE, SYNTHETIC METHANE, AND HYDROGEN.
+13 [(4)] (6) “Plan” means a plan that a gas company files under subsection
+14 (d) of this section.
+15 [(5)] (7) “Project” means an eligible infrastructure replacement project
+16 proposed by a gas company in a plan filed under this section.
+17 (b) It is the intent of the General Assembly that the purpose of this section is to
+18 [accelerate] PROMOTE gas infrastructure improvements in the State, WHEN NECESSARY
+19 AND APPROPRIATE TO ENSURE THE SAFETY OF THE GAS SYSTEM AND TO PROVIDE
+20 CONSISTENCY WITH STATE CLIMATE POLICY, by establishing a mechanism for gas
+21 companies to promptly recover reasonable and prudent costs of investments in eligible
+22 infrastructure replacement projects separate from base rate proceedings.
+23 (c) This section does not apply to a gas cooperative.
+24 (d) (1) A gas company may file with the Commission:
+25 (i) a plan to invest in eligible infrastructure replacement projects;
+26 and
+27 (ii) in accordance with paragraph (4) of this subsection, a
+28 cost–recovery schedule associated with the plan that includes a fixed annual surcharge on
+29 customer bills to recover reasonable and prudent costs of proposed eligible infrastructure
+30 replacement projects.
+31 (2) A plan under this subsection shall include:
+
+SENATE BILL 998 3
+1 (i) A DESCRIPTION OF EACH ELIGIBLE PROJECT, INCLUDING
+2 THE PROJECT’S EXPECTED USEFUL LIFE;
+3 (II) a time line for the completion of each eligible project;
+4 [(ii)] (III) the estimated cost of each project;
+5 [(iii)] (IV) a description of customer benefits under the plan;
+6 (V) A DEMONSTRATION THAT THE GAS COMPANY HAS SELECTED
+7 AND GIVEN PRIORITY TO PROJECTS BASED ON RISK TO THE PUBLIC AND
+8 COST–EFFECTIVENESS;
+9 (VI) AN ANALYSIS THAT COMPARES THE COSTS OF PROPOSED
+10 REPLACEMENT PROJECTS WITH ALTERNATIVES TO REPLACEMENT, INCLUDING:
+11 1. LEAK DETECTION AND REPAIR; AND
+12 2. THE TARGETED RETIREMENT OR ABANDONMENT OF
+13 PORTIONS OF THE GAS SYSTEM IN CONJUNCTION WITH ELECTRIFICATION;
+14 (VII) A PLAN FOR NOTIFYING CUSTOMERS AFFECTED BY
+15 PROPOSED PROJECTS AT LEAST 2 YEARS IN ADVANCE OF CONSTRUCTION TO ALLOW
+16 CUSTOMERS THE OPPORTUNITY TO ELECTRIFY; and
+17 [(iv)] (VIII) any other information the Commission considers
+18 necessary to evaluate the plan.
+19 (3) (i) When calculating the estimated cost of a project under paragraph
+20 (2) of this subsection, a gas company shall include:
+21 1. the pretax rate of return on the gas company’s investment
+22 in the project;
+23 2. depreciation associated with the project, based on new
+24 assets less retired plant; and
+25 3. property taxes associated with the project, based on new
+26 assets less retired plant.
+27 (ii) The estimated project costs described in subparagraph (i) of this
+28 paragraph are collectible at the same time the eligible infrastructure replacement is made.
+29 (iii) The pretax rate of return under subparagraph (i)1 of this
+30 paragraph shall:
+
+4 SENATE BILL 998
+1 1. be calculated using the gas company’s capital structure
+2 and weighted average cost of capital as the Commission approved in the gas company’s
+3 most recent base rate proceeding; and
+4 2. include an adjustment for bad debt expenses as the
+5 Commission approved in the gas company’s most recent base rate proceeding.
+6 (4) For a plan filed under this section:
+7 (i) the cost–recovery schedule shall include a fixed annual
+8 surcharge that:
+9 1. may not exceed $2 each month on each residential
+10 customer account; and
+11 2. for each nonresidential customer account, may not be less
+12 than the fixed annual surcharge applicable to a residential customer account, but shall be
+13 capped under item (ii) of this paragraph; and
+14 (ii) to create a surcharge cap for all customer classes, costs shall be
+15 allocated to nonresidential and residential customers consistent with the proportions of
+16 total distribution revenues that those classes bear in accordance with the most recent base
+17 rate proceeding for the gas company.
+18 (5) In a base rate proceeding after approval of a plan, the Commission
+19 shall, in establishing a gas company’s revenue requirements, take into account any benefits
+20 the gas company realized as a result of a surcharge approved under the plan.
+21 (6) Any adjustment for return on equity based on an approved plan only
+22 shall be considered and determined in a subsequently filed base rate case.
+23 (e) (1) Within 180 days after a gas company files a plan, the Commission:
+24 (i) may hold a public hearing on the plan; and
+25 (ii) shall take a final action to approve or deny the plan.
+26 (2) Within 150 days after a gas company files an amendment to an
+27 approved plan, the Commission shall take final action to approve or deny the amendment.
+28 (3) The Commission may approve a plan if it finds that the investments
+29 and estimated costs of eligible infrastructure replacement projects are:
+30 (i) reasonable and prudent; [and]
+31 (ii) designed to improve public safety or infrastructure reliability
+
+SENATE BILL 998 5
+1 over the short term and long term;
+2 (III) REQUIRED TO IMPROVE THE SAFETY OF THE GAS SYSTEM
+3 AFTER CONSIDERATION OF ALTERNATIVES TO REPLACEMENT;
+4 (IV) CONSISTENT WITH THE NEED TO REDUCE THE USE OF
+5 NATURAL GAS IN LIGHT OF STATE CLIMATE POLICY; AND
+6 (V) CONSISTENT WITH THE PROJECTED AVAILABILITY AND
+7 COST–EFFECTIVENESS OF NATURAL GAS ALTERNATIVES.
+8 (4) (i) The Commission shall approve the cost–recovery schedule
+9 associated with the plan at the same time that it approves the plan.
+10 (ii) Costs recovered under the schedule approved in subparagraph (i)
+11 of this paragraph may relate only to the projects within the plan approved by the
+12 Commission.
+13 (5) The Commission may not consider a revenue requirement or
+14 rate–making issue that is not related to the plan when reviewing a plan for approval or
+15 denial unless the plan is filed in conjunction with a base rate case.
+16 (f) (1) Subject to paragraph (2) of this subsection, if the Commission does not
+17 take final action on a plan within the time period required under subsection (e) of this
+18 section, the gas company may implement the plan.
+19 (2) If a gas company implements a plan that the Commission has not
+20 approved, the gas company shall refund to customers any amount of the surcharge that the
+21 Commission later determines is not reasonable or prudent, including interest.
+22 (g) (1) (i) A surcharge under this section shall be in effect for 5 years from
+23 the date of initial implementation of an approved plan.
+24 (ii) 1. Before the end of the 5–year period, the gas company shall
+25 file a base rate case application.
+26 2. In a base rate proceeding filed under subsubparagraph 1
+27 of this subparagraph, if a plan approved by the Commission remains in effect:
+28 A. eligible infrastructure project costs included in base rates
+29 in accordance with a final Commission order on the base rate case shall be removed from a
+30 surcharge; and
+31 B. the surcharge mechanism shall continue for eligible future
+32 infrastructure project costs that are not included in the base rate case.
+
+6 SENATE BILL 998
+1 (2) (i) If the actual cost of a plan is less than the amount collected under
+2 a surcharge, the gas company shall refund to customers the difference on customer bills,
+3 including interest.
+4 (ii) If the actual cost of a plan is more than the amount collected
+5 under the surcharge and the Commission determines that the higher costs were reasonably
+6 and prudently incurred, the Commission shall authorize the gas company to increase the
+7 surcharge to recover the difference, subject to the rate limit under subsection (d)(4) of this
+8 section.
+9 (h) Each year a gas company shall file with the Commission a reconciliation to
+10 adjust the amount of a surcharge to account for any difference between the actual cost of a
+11 plan and the actual amount recovered under the surcharge.
+12 (i) If, after approving a surcharge in a plan, the Commission establishes new base
+13 rates for the gas company that include costs on which the surcharge is based, the gas
+14 company shall file a revised rate schedule with the Commission that subtracts those costs
+15 from the surcharge.
+16 (j) (1) The Commission may review a previously approved plan.
+17 (2) If the Commission determines that an investment of a project or cost of
+18 a project no longer meets the requirements of subsection (e)(3) of this section, the
+19 Commission may:
+20 (i) reduce future base rates or surcharges; or
+21 (ii) alter or rescind approval of that part of the plan.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+23 October 1, 2025.
+
+[DELETED: :CA      5   C A N ( F f w t P S C f p e i r n a t r f o t C i c w t B  A  S  A  (  S T A 4  ( ( I   ( “   ( “ i r m a r o a i    ( i]
+[DELETED:  S     ( i    ( d i    ( r t    ( i d ( “N GS M M G P F A ( “N G AE M A F T C BS EE E ,. [] ()“ ( []  ()P m a e i r p p  ( I]  , aegEW W T C PY b e a m f g c t p r r a p c o i e i  ( T  ( ( A    ( a a    ( i a w p ( o t s a c c r   ( A]
+[DELETED: S 3    ( DT TS;  () a  []() ()t  []()   ()a  ()A G P T P B O R T T P ATE;  ()IA A T C T C O PT :   1 ;R    2  ()IA P F N C A B  Y a  []() ()a o i t C c n   ( ( W (     1 t i     2 d a w t p b o n a     3 p a    ( T p    ( T p r o r u s ( o t p]
+[DELETED:  S      1 b c u t g c c s a m     2 i a a f b d e a t C   ( F    ( t c s s i a f a s     1 m n e $ e m o e r c     2 f t c    ( t a t r   ( I a b r p a a o a p t C s t   ( A s  ( ( W    ( m    ( s   ( W 1 d a a g c f a a t a a   ( T a    ( r;a[]  ( d t i p s o i r]
+[DELETED: S 5 om  ()IR  ()VC W T N T R T U O TY ;  () C W T P A ATE  ( ( T C s a t c s a    ( C o t p m r o t t p w t p a b t C   ( T C m n c a r r o r d  ( ( S t s   ( I a g c i a p t t C h n a C  ( ( ( A t    ( 1 B f     2 I o     A e i s     B t i]
+[DELETED:  S    ( ( I a i    ( I u a s s  ( E a p  ( I r c f  ( ( T   ( I a p n l m t r o s ( o t s t C    ( r    ( a  S A B I F E T t A s t e O]

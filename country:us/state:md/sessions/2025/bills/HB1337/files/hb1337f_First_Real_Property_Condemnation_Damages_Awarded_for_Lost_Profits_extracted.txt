@@ -1,0 +1,171 @@
+Title: HOUSE BILL 1337
+Official Title: HOUSE BILL 1337
+Number of Sections: 1
+Source: versions - First - Real Property - Condemnation - Damages Awarded for Lost Profits
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+N1 5lr2371
+By: Delegates Mangione, Beauchamp, Bouchat, Buckel, Grammer, R. Long,
+McComas, Miller, M. Morgan, T. Morgan, Nawrocki, Otto, Pippy, Reilly,
+Rose, Szeliga, and Tomlinson
+Introduced and read first time: February 7, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Real Property – Condemnation – Damages Awarded for Lost Profits
+3 FOR the purpose of providing that the owner of a business or farm operation conducted on
+4 certain property that is taken is entitled to damages for the loss of profits under
+5 certain circumstances; and generally relating to damages for property taken by
+6 eminent domain.
+7 BY repealing and reenacting, without amendments,
+8 Article – Real Property
+9 Section 12–104(a) and 12–201(a), (c), and (g)
+10 Annotated Code of Maryland
+11 (2023 Replacement Volume and 2024 Supplement)
+12 BY adding to
+13 Article – Real Property
+14 Section 12–104(h)
+15 Annotated Code of Maryland
+16 (2023 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Real Property
+20 12–104.
+21 (a) The damages to be awarded for the taking of land is its fair market value.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1337*
+2 HOUSE BILL 1337
+1 (H) (1) (I) IN THIS SUBSECTION THE FOLLOWING WORDS HAVE THE
+2 MEANINGS INDICATED.
+3 (II) “BUSINESS” HAS THE MEANING STATED IN § 12–201 OF THIS
+4 TITLE.
+5 (III) “FARM OPERATION” HAS THE MEANING STATED IN § 12–201
+6 OF THIS TITLE.
+7 (2) IN ADDITION TO ANY OTHER DAMAGES ALLOWED UNDER THIS
+8 SECTION, THE OWNER OF A BUSINESS OR FARM OPERATION CONDUCTED ON THE
+9 PROPERTY TAKEN IS ENTITLED TO COMPENSATION FOR LOSS OF PROFIT IF THE
+10 OWNER PROVES:
+11 (I) THE AMOUNT OF THE PROFIT LOSS; AND
+12 (II) THAT THE LOSS OF PROFIT:
+13 1. IS DIRECTLY AND PROXIMATELY CAUSED BY THE
+14 TAKING OR DAMAGING OF THE PROPERTY;
+15 2. CANNOT REASONABLY BE PREVENTED BY
+16 RELOCATION OF THE BUSINESS OR FARM OPERATION OR BY TAKING STEPS AND
+17 ADOPTING PROCEDURES THAT A REASONABLY PRUDENT PERSON WOULD TAKE AND
+18 ADOPT IN PRESERVING ANY LOST PROFIT;
+19 3. WILL NOT BE INCLUDED IN RELOCATION PAYMENTS
+20 UNDER SUBTITLE 2 OF THIS TITLE; AND
+21 4. WILL NOT BE DUPLICATED IN THE COMPENSATION
+22 AWARDED TO THE OWNER.
+23 (3) DAMAGES AWARDED UNDER THIS SUBSECTION SHALL BE
+24 DETERMINED IN ACCORDANCE WITH GENERALLY ACCEPTED ACCOUNTING
+25 PRINCIPLES APPLIED ON A CONSISTENT BASIS.
+26 12–201.
+27 (a) In this subtitle the following words have the meanings indicated unless
+28 otherwise apparent from context.
+29 (c) “Business” means any lawful activity, except a farm operation, conducted
+30 primarily:
+HOUSE BILL 1337 3
+1 (1) For the purchase, sale, lease, and rental of personal property and of real
+2 property, and for the manufacture, processing, or marketing of products, commodities, or
+3 any other personal property;
+4 (2) For the sale of services to the public; or
+5 (3) By a nonprofit organization.
+6 (g) “Farm operation” means any activity conducted solely or primarily for the
+7 production of one or more agricultural products or commodities, including timber for sale
+8 or home use, and customarily producing these products or commodities in sufficient
+9 quantity to be capable of contributing materially to the operator’s support.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 October 1, 2025.
+[DELETED: :CA      5     D M B B B G R M M T N O P R A R F c c c a g r t d f p t b e B  A S  A  ( B  A S  A  (  S T A 1  ( T]
+[DELETED:  H  ) ( () IN T S T F W H T  () “B”§1IUS      () “F”§1IAN    (  A T A O D A U TN  I C  () T;HS   () T:IH   1  D A P C B T   2  R B P B O B O O O S A   3  U  E 2;   4  N B D I T C (  A U T S S B I A W G A A 1  ( I t s t f w h t m i u o  ( “ m a l a e a f o c p]
+[DELETED: H 3   ( F p a   ( F   ( B  ( “ p o h u a c p t p o c i s q  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1337
+N1 5lr2371
+By: Delegates Mangione, Beauchamp, Bouchat, Buckel, Grammer, R. Long,
+McComas, Miller, M. Morgan, T. Morgan, Nawrocki, Otto, Pippy, Reilly,
+Rose, Szeliga, and Tomlinson
+Introduced and read first time: February 7, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Real Property – Condemnation – Damages Awarded for Lost Profits
+3 FOR the purpose of providing that the owner of a business or farm operation conducted on
+4 certain property that is taken is entitled to damages for the loss of profits under
+5 certain circumstances; and generally relating to damages for property taken by
+6 eminent domain.
+7 BY repealing and reenacting, without amendments,
+8 Article – Real Property
+9 Section 12–104(a) and 12–201(a), (c), and (g)
+10 Annotated Code of Maryland
+11 (2023 Replacement Volume and 2024 Supplement)
+12 BY adding to
+13 Article – Real Property
+14 Section 12–104(h)
+15 Annotated Code of Maryland
+16 (2023 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Real Property
+20 12–104.
+21 (a) The damages to be awarded for the taking of land is its fair market value.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1337*
+
+2 HOUSE BILL 1337
+1 (H) (1) (I) IN THIS SUBSECTION THE FOLLOWING WORDS HAVE THE
+2 MEANINGS INDICATED.
+3 (II) “BUSINESS” HAS THE MEANING STATED IN § 12–201 OF THIS
+4 TITLE.
+5 (III) “FARM OPERATION” HAS THE MEANING STATED IN § 12–201
+6 OF THIS TITLE.
+7 (2) IN ADDITION TO ANY OTHER DAMAGES ALLOWED UNDER THIS
+8 SECTION, THE OWNER OF A BUSINESS OR FARM OPERATION CONDUCTED ON THE
+9 PROPERTY TAKEN IS ENTITLED TO COMPENSATION FOR LOSS OF PROFIT IF THE
+10 OWNER PROVES:
+11 (I) THE AMOUNT OF THE PROFIT LOSS; AND
+12 (II) THAT THE LOSS OF PROFIT:
+13 1. IS DIRECTLY AND PROXIMATELY CAUSED BY THE
+14 TAKING OR DAMAGING OF THE PROPERTY;
+15 2. CANNOT REASONABLY BE PREVENTED BY
+16 RELOCATION OF THE BUSINESS OR FARM OPERATION OR BY TAKING STEPS AND
+17 ADOPTING PROCEDURES THAT A REASONABLY PRUDENT PERSON WOULD TAKE AND
+18 ADOPT IN PRESERVING ANY LOST PROFIT;
+19 3. WILL NOT BE INCLUDED IN RELOCATION PAYMENTS
+20 UNDER SUBTITLE 2 OF THIS TITLE; AND
+21 4. WILL NOT BE DUPLICATED IN THE COMPENSATION
+22 AWARDED TO THE OWNER.
+23 (3) DAMAGES AWARDED UNDER THIS SUBSECTION SHALL BE
+24 DETERMINED IN ACCORDANCE WITH GENERALLY ACCEPTED ACCOUNTING
+25 PRINCIPLES APPLIED ON A CONSISTENT BASIS.
+26 12–201.
+27 (a) In this subtitle the following words have the meanings indicated unless
+28 otherwise apparent from context.
+29 (c) “Business” means any lawful activity, except a farm operation, conducted
+30 primarily:
+
+HOUSE BILL 1337 3
+1 (1) For the purchase, sale, lease, and rental of personal property and of real
+2 property, and for the manufacture, processing, or marketing of products, commodities, or
+3 any other personal property;
+4 (2) For the sale of services to the public; or
+5 (3) By a nonprofit organization.
+6 (g) “Farm operation” means any activity conducted solely or primarily for the
+7 production of one or more agricultural products or commodities, including timber for sale
+8 or home use, and customarily producing these products or commodities in sufficient
+9 quantity to be capable of contributing materially to the operator’s support.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 October 1, 2025.
+
+[DELETED: :CA      5     D M B B B G R M M T N O P R A R F c c c a g r t d f p t b e B  A S  A  ( B  A S  A  (  S T A 1  ( T]
+[DELETED:  H  ) ( () IN T S T F W H T  () “B”§1IUS      () “F”§1IAN    (  A T A O D A U TN  I C  () T;HS   () T:IH   1  D A P C B T   2  R B P B O B O O O S A   3  U  E 2;   4  N B D I T C (  A U T S S B I A W G A A 1  ( I t s t f w h t m i u o  ( “ m a l a e a f o c p]
+[DELETED: H 3   ( F p a   ( F   ( B  ( “ p o h u a c p t p o c i s q  S A B I F E T t A s t e O]

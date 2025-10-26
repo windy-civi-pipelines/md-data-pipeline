@@ -1,0 +1,522 @@
+Title: SENATE BILL 535
+Official Title: SENATE BILL 535
+Number of Sections: 1
+Source: versions - First - Research Facilities and Testing Facilities That Use Animals - Licensing and Regulations
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+M4 5lr1394
+SB 761/24 – EEE
+By: Senator Kramer
+Introduced and read first time: January 23, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 Research Facilities and Testing Facilities That Use Animals – Licensing and
+3 Regulations
+4 FOR the purpose of requiring each research facility and testing facility in the State that
+5 uses animals in research, education, or testing to be licensed by the Department of
+6 Agriculture; applying certain provisions of law regarding the adoption of dogs and
+7 cats used for scientific research purposes to testing facilities; establishing a State
+8 Inspector of Animal Welfare in the Department to inspect research facilities and
+9 testing facilities; requiring a research facility and a testing facility to notify the State
+10 Inspector of certain violations; requiring a school or an institution of higher
+11 education that uses animals for certain purposes to submit a report on the results of
+12 certain inspections to the General Assembly on or before a certain date each year;
+13 establishing the Animals in Research Fund as a special, nonlapsing fund; requiring
+14 interest earnings of the Fund to be credited to the Fund; and generally relating to
+15 research facilities and testing facilities that use animals in research, education, or
+16 testing.
+17 BY adding to
+18 Article – Agriculture
+19 Section 15–101, 15–102, and 15–104 through 15–108
+20 Annotated Code of Maryland
+21 (2016 Replacement Volume and 2024 Supplement)
+22 BY repealing and reenacting, with amendments,
+23 Article – Agriculture
+24 Section 15–101 to be under the amended title “Title 15. Research Facilities and
+25 Testing Facilities That Use Animals”
+26 Annotated Code of Maryland
+27 (2016 Replacement Volume and 2024 Supplement)
+28 BY repealing and reenacting, without amendments,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0535*
+2 SENATE BILL 535
+1 Article – State Finance and Procurement
+2 Section 6–226(a)(2)(i)
+3 Annotated Code of Maryland
+4 (2021 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, with amendments,
+6 Article – State Finance and Procurement
+7 Section 6–226(a)(2)(ii)204. and 205.
+8 Annotated Code of Maryland
+9 (2021 Replacement Volume and 2024 Supplement)
+10 BY adding to
+11 Article – State Finance and Procurement
+12 Section 6–226(a)(2)(ii)206.
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Agriculture
+18 Title 15. Research Facilities [that] AND TESTING FACILITIES THAT Use [Dogs or Cats]
+19 ANIMALS.
+20 15–101.
+21 (A) IN THIS TITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+22 INDICATED.
+23 (B) (1) “RESEARCH FACILITY” MEANS ANY FACILITY IN THE STATE THAT
+24 USES LIVE ANIMALS FOR RESEARCH, EDUCATION, OR EXPERIMENTATION.
+25 (2) “RESEARCH FACILITY” DOES NOT INCLUDE:
+26 (I) A PARTNERSHIP, A CORPORATION, AN ASSOCIATION, AN
+27 INSTITUTION, AN ORGANIZATION, OR ANY OTHER ENTITY IN THE STATE THAT
+28 PROVIDES ONLY BENEFICIAL SERVICES TO AN ANIMAL, SUCH AS SPAYING AND
+29 NEUTERING; OR
+30 (II) A SCHOOL OR AN INSTITUTION OF HIGHER EDUCATION.
+31 (C) “STATE INSPECTOR” MEANS THE STATE INSPECTOR OF ANIMAL
+32 WELFARE ESTABLISHED UNDER § 15–104 OF THIS TITLE.
+SENATE BILL 535 3
+1 (D) (1) “TESTING FACILITY” MEANS A PUBLIC OR PRIVATE
+2 PARTNERSHIP, CORPORATION, ASSOCIATION, ORGANIZATION, OR OTHER ENTITY IN
+3 THE STATE THAT USES ANIMALS FOR THE TESTING OF:
+4 (I) CHEMICAL SUBSTANCES;
+5 (II) INGREDIENTS;
+6 (III) DRUGS;
+7 (IV) VACCINES;
+8 (V) PRODUCTS; OR
+9 (VI) PRODUCT FORMULATIONS.
+10 (2) “TESTING FACILITY” INCLUDES A PARTNERSHIP, A
+11 CORPORATION, AN ASSOCIATION, AN ORGANIZATION, OR ANY OTHER ENTITY IN THE
+12 STATE THAT IS OWNED, LEASED, OR OPERATED BY A PUBLIC OR PRIVATE ENTITY.
+13 (3) “TESTING FACILITY” DOES NOT INCLUDE:
+14 (I) A PARTNERSHIP, A CORPORATION, AN ASSOCIATION, AN
+15 INSTITUTION, AN ORGANIZATION, OR ANY OTHER ENTITY IN THE STATE THAT
+16 PROVIDES ONLY BENEFICIAL SERVICES TO AN ANIMAL, SUCH AS SPAYING AND
+17 NEUTERING; OR
+18 (II) A SCHOOL OR AN INSTITUTION OF HIGHER EDUCATION.
+19 15–102.
+20 (A) EACH RESEARCH FACILITY AND TESTING FACILITY MUST BE LICENSED
+21 BY THE DEPARTMENT TO USE ANIMALS IN RESEARCH, EDUCATION, OR TESTING.
+22 (B) THE DEPARTMENT SHALL ISSUE A LICENSE TO A RESEARCH FACILITY
+23 OR TESTING FACILITY THAT:
+24 (1) PASSES AN INSPECTION CONDUCTED BY THE STATE INSPECTOR
+25 UNDER § 15–104 OF THIS TITLE; AND
+26 (2) AGREES TO COMPLY WITH THE INSPECTION AND REPORTING
+27 REQUIREMENTS OF THIS TITLE.
+4 SENATE BILL 535
+1 (C) THE DEPARTMENT SHALL CHARGE A LICENSING FEE TO:
+2 (1) A RESEARCH FACILITY OR TESTING FACILITY THAT USES ANIMALS
+3 NOT COVERED UNDER THE FEDERAL ANIMAL WELFARE ACT; AND
+4 (2) COVER THE COSTS OF IMPLEMENTING THIS TITLE.
+5 [15–101.] 15–103.
+6 (a) (1) In this section the following words have the meanings indicated.
+7 (2) “Animal rescue organization” includes:
+8 (i) A nonprofit organization incorporated for the purpose of rescuing
+9 animals in need and finding permanent adoptive homes for the animals; and
+10 (ii) A government–operated animal control unit that provides
+11 animals for adoption.
+12 (3) [“Research facility” includes:
+13 (i) A higher education research facility;
+14 (ii) A scientific research facility;
+15 (iii) A medical research facility; and
+16 (iv) A product testing facility.
+17 (4)] “Scientific research purposes” includes:
+18 (i) Investigation;
+19 (ii) Experimentation;
+20 (iii) Instruction; and
+21 (iv) Testing.
+22 (b) This section applies to a dog or cat that, in the determination of an attending
+23 veterinarian, is suitable for adoption.
+24 (c) A research facility OR TESTING FACILITY located in the State in which dogs
+25 or cats are used for scientific research purposes shall take reasonable steps to provide for
+26 the adoption of a dog or cat that, in the determination of the research facility OR TESTING
+27 FACILITY, is no longer needed for scientific research purposes by:
+SENATE BILL 535 5
+1 (1) Establishing a private placement process to provide for the adoption of
+2 a dog or cat;
+3 (2) Establishing a list of animal rescue organizations that are approved by
+4 the research facility OR TESTING FACILITY and are willing to take a dog or cat from the
+5 research facility OR TESTING FACILITY; and
+6 (3) Offering the dog or cat to the animal rescue organizations identified in
+7 the list established under item (2) of this subsection if the research facility OR TESTING
+8 FACILITY is unable to place the dog or cat through its private placement process.
+9 (d) A research facility OR TESTING FACILITY may enter into a collaborative
+10 agreement with an animal rescue organization for the purpose of carrying out the
+11 provisions of this section.
+12 15–104.
+13 (A) THERE IS A STATE INSPECTOR OF ANIMAL WELFARE IN THE
+14 DEPARTMENT.
+15 (B) (1) THE STATE INSPECTOR SHALL:
+16 (I) INSPECT EACH RESEARCH FACILITY AND TESTING FACILITY
+17 APPLYING FOR A LICENSE UNDER THIS TITLE;
+18 (II) INSPECT AT LEAST ONCE EVERY YEAR EACH RESEARCH
+19 FACILITY AND TESTING FACILITY THAT:
+20 1. HAS AN ACTIVE LICENSE ISSUED UNDER THIS TITLE;
+21 BUT
+22 2. IS NOT REGISTERED BY THE U.S. DEPARTMENT OF
+23 AGRICULTURE UNDER THE FEDERAL ANIMAL WELFARE ACT; AND
+24 (III) INSPECT AT LEAST ONCE EVERY OTHER YEAR EACH
+25 RESEARCH FACILITY AND TESTING FACILITY:
+26 1. FOR WHICH A LICENSE HAS BEEN ISSUED UNDER THIS
+27 TITLE; AND
+28 2. REGISTERED BY THE U.S. DEPARTMENT OF
+29 AGRICULTURE UNDER THE FEDERAL ANIMAL WELFARE ACT.
+6 SENATE BILL 535
+1 (2) THE DEPARTMENT MAY ENTER INTO AN AGREEMENT WITH AN
+2 ANIMAL WELFARE ORGANIZATION, A LOCAL ANIMAL CONTROL AGENCY, OR
+3 ANOTHER SIMILAR ENTITY TO CONDUCT THE INSPECTIONS REQUIRED UNDER THIS
+4 SUBSECTION.
+5 (C) (1) A RESEARCH FACILITY OR TESTING FACILITY SHALL NOTIFY THE
+6 STATE INSPECTOR WITHIN 30 DAYS AFTER RECEIPT OF ANY VIOLATION
+7 NOTIFICATION THE RESEARCH FACILITY OR TESTING FACILITY RECEIVES FOR A
+8 VIOLATION OF THE FEDERAL ANIMAL WELFARE ACT OR THE REGULATIONS
+9 ADOPTED UNDER THE ACT.
+10 (2) THE STATE INSPECTOR SHALL INSPECT A RESEARCH FACILITY
+11 OR TESTING FACILITY WITHIN 30 DAYS AFTER RECEIVING NOTIFICATION FROM THE
+12 RESEARCH FACILITY OR TESTING FACILITY THAT IT IS IN VIOLATION OF THE
+13 FEDERAL ANIMAL WELFARE ACT OR THE REGULATIONS ADOPTED UNDER THE ACT.
+14 15–105.
+15 (A) ON OR BEFORE DECEMBER 31 EACH YEAR, A SCHOOL OR AN
+16 INSTITUTION OF HIGHER EDUCATION THAT USES ANIMALS FOR THE SAME PURPOSE
+17 AS A RESEARCH FACILITY OR TESTING FACILITY SHALL REPORT TO THE GENERAL
+18 ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE,
+19 ON THE RESULTS OF ANY INSPECTION OF THE SCHOOL OR THE INSTITUTION OF
+20 HIGHER EDUCATION PERFORMED BY THE AGENCY THAT REGULATES THE USE OF
+21 ANIMALS BY THE SCHOOL OR THE INSTITUTION OF HIGHER EDUCATION.
+22 (B) THE REPORT REQUIRED UNDER SUBSECTION (A) OF THIS SECTION
+23 SHALL INCLUDE ANY VIOLATIONS FOUND DURING AN INSPECTION.
+24 15–106.
+25 (A) IN THIS SECTION, “FUND” MEANS THE ANIMALS IN RESEARCH FUND.
+26 (B) THERE IS AN ANIMALS IN RESEARCH FUND.
+27 (C) THE PURPOSE OF THE FUND IS TO COVER THE COSTS ASSOCIATED WITH
+28 THE STATUTORY AND REGULATORY DUTIES OF THE STATE INSPECTOR.
+29 (D) THE DEPARTMENT SHALL ADMINISTER THE FUND.
+30 (E) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+31 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+SENATE BILL 535 7
+1 (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY,
+2 AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+3 (F) THE FUND CONSISTS OF:
+4 (1) LICENSING FEES CHARGED BY THE DEPARTMENT UNDER §
+5 15–102 OF THIS TITLE;
+6 (2) PENALTIES COLLECTED UNDER § 15–107 OF THIS TITLE;
+7 (3) MONEY APPROPRIATED IN THE STATE BUDGET TO THE FUND;
+8 (4) INTEREST EARNINGS; AND
+9 (5) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED FOR
+10 THE BENEFIT OF THE FUND.
+11 (G) THE FUND MAY BE USED ONLY TO COVER THE COSTS ASSOCIATED WITH
+12 THE STATUTORY AND REGULATORY DUTIES OF THE STATE INSPECTOR.
+13 (H) (1) THE STATE TREASURER SHALL INVEST THE MONEY OF THE FUND
+14 IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+15 (2) ANY INTEREST EARNINGS OF THE FUND SHALL BE CREDITED TO
+16 THE FUND.
+17 (I) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN ACCORDANCE
+18 WITH THE STATE BUDGET.
+19 (J) MONEY EXPENDED FROM THE FUND FOR THE COSTS ASSOCIATED WITH
+20 THE STATUTORY AND REGULATORY DUTIES OF THE STATE INSPECTOR IS
+21 SUPPLEMENTAL TO AND IS NOT INTENDED TO TAKE THE PLACE OF FUNDING THAT
+22 OTHERWISE WOULD BE APPROPRIATED FOR THESE COSTS.
+23 15–107.
+24 A RESEARCH FACILITY OR TESTING FACILITY THAT VIOLATES THIS TITLE IS
+25 SUBJECT TO:
+26 (1) FOR A FIRST OFFENSE, A FINE NOT EXCEEDING $1,000; AND
+27 (2) FOR A SECOND OR SUBSEQUENT OFFENSE, A FINE NOT
+28 EXCEEDING $5,000.
+8 SENATE BILL 535
+1 15–108.
+2 THE DEPARTMENT SHALL ADOPT REGULATIONS TO:
+3 (1) CARRY OUT THIS TITLE; AND
+4 (2) ENSURE THE HUMANE TREATMENT AND CARE OF DOGS AND CATS
+5 THAT ARE USED FOR RESEARCH, EDUCATION, OR TESTING CONSISTENT WITH THE
+6 FEDERAL ANIMAL WELFARE ACT AND CORRESPONDING REGULATIONS.
+7 Article – State Finance and Procurement
+8 6–226.
+9 (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024
+10 through 2028.
+11 2. Notwithstanding any other provision of law, and unless
+12 inconsistent with a federal law, grant agreement, or other federal requirement or with the
+13 terms of a gift or settlement agreement, net interest on all State money allocated by the
+14 State Treasurer under this section to special funds or accounts, and otherwise entitled to
+15 receive interest earnings, as accounted for by the Comptroller, shall accrue to the General
+16 Fund of the State.
+17 (ii) The provisions of subparagraph (i) of this paragraph do not apply
+18 to the following funds:
+19 204. the Victims of Domestic Violence Program Grant Fund;
+20 [and]
+21 205. the Proposed Programs Collaborative Grant Fund; AND
+22 206. THE ANIMALS IN RESEARCH FUND.
+23 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+24 October 1, 2025.
+[DELETED: :CA      5     A R R F u A c I t I o c v r a s o a i o h e c e i r t B  A S  A  ( B  A S 1 t b u t a t “ 1 R F a T  A  ( B]
+[DELETED:  S   A S  A  ( B  A S  A  ( B  A S  A  (  S T A T tt U D]TFT[ E A H  .() N T T T F W H T M() ( “R”EY  TH N ,. ( “R”:Y   () A,, PP A CN A AN AN A ON O A O E I T T T, O B S T A AL S A S AG   () A.I () “SI”SIT NR M T T N O N§14.   ]
+[DELETED: S 3() ( “TE FY M A P O PP N N N ,, T:  () C;H  () I;IN  () D;IR  () V;VA  () P;RS   () P.IR ( “T” FY I A PP AN N N ,,,.D D  ( “T”:Y   () A,, PP A CN A AN AN A ON O A O E I T T T, O B S T A AL S A S AG   () A.I () A EH N ,,.() TH E ( PS T N   E 14; (  T C W T I A R]
+[DELETED:  S () TD:H E (  N E CT WA; ( C.]1 1.  ( ( I   ( “    ( A a    ( A g a c u t p a   ( “    ( A    ( A    ( A    ( A   () “    ( I    ( E    ( I    ( T  ( T v  ( A   o tY ,i]
+[DELETED: S 5   ( E a   ( E t   ry;   ( O t    ( A r f  m e i a c T F a w a a r o f t p o c o t p() TSIAH I A T N O N E I T.() ( TSI:H T N  () N  () IN A L O E Y E R   1 HE   2 IU. N B T  E OAWA; N E CT   () IN A L O E O Y E   1 E    2 RU. B T  E OAWA. N E C]
+[DELETED:  S  ( T E M E I A A W A W ON A L A C AY O() (  I3 N W  D A R O A V T R F O T F R F A O T F N E C O T RW C. ( TS T N R   F O T F T I I I V O T N E C CWAA.() OD31N O B E  E YR A S O A E,§27SGAY     T O RE T R O I S O I O() T(H R R U S A O T S ) I,“F”ARF.NN UD  N E U() TARF.H N E U() TH U T NI.() TDF.H E U() ( TFH U I A SL N F T I N    T I R R72SFPA.]
+[DELETED: S 7 ( TSTF T R T UY O UF.() TF:H U ( LD§ F C B T E U 2; ( P§17;    ( MSF; T U ( I;S  (  A U.() TH U T NI.() ( TSTH T R U T. ( A U U.() EX U T.() MO U S A R D O T T N I ( F,$;E    ( F A S O S OE A F N]
+[DELETED:  S TD: E ( C;E  ( H N  N E CWA. A 6  ( ( ( 1 T s d n a i f y 2 t     2 N i t S r F    ( T t     2 t] a     2 t   2 AR N E U .  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 535
+M4 5lr1394
+SB 761/24 – EEE
+By: Senator Kramer
+Introduced and read first time: January 23, 2025
+Assigned to: Education, Energy, and the Environment
+A BILL ENTITLED
+1 AN ACT concerning
+2 Research Facilities and Testing Facilities That Use Animals – Licensing and
+3 Regulations
+4 FOR the purpose of requiring each research facility and testing facility in the State that
+5 uses animals in research, education, or testing to be licensed by the Department of
+6 Agriculture; applying certain provisions of law regarding the adoption of dogs and
+7 cats used for scientific research purposes to testing facilities; establishing a State
+8 Inspector of Animal Welfare in the Department to inspect research facilities and
+9 testing facilities; requiring a research facility and a testing facility to notify the State
+10 Inspector of certain violations; requiring a school or an institution of higher
+11 education that uses animals for certain purposes to submit a report on the results of
+12 certain inspections to the General Assembly on or before a certain date each year;
+13 establishing the Animals in Research Fund as a special, nonlapsing fund; requiring
+14 interest earnings of the Fund to be credited to the Fund; and generally relating to
+15 research facilities and testing facilities that use animals in research, education, or
+16 testing.
+17 BY adding to
+18 Article – Agriculture
+19 Section 15–101, 15–102, and 15–104 through 15–108
+20 Annotated Code of Maryland
+21 (2016 Replacement Volume and 2024 Supplement)
+22 BY repealing and reenacting, with amendments,
+23 Article – Agriculture
+24 Section 15–101 to be under the amended title “Title 15. Research Facilities and
+25 Testing Facilities That Use Animals”
+26 Annotated Code of Maryland
+27 (2016 Replacement Volume and 2024 Supplement)
+28 BY repealing and reenacting, without amendments,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0535*
+
+2 SENATE BILL 535
+1 Article – State Finance and Procurement
+2 Section 6–226(a)(2)(i)
+3 Annotated Code of Maryland
+4 (2021 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, with amendments,
+6 Article – State Finance and Procurement
+7 Section 6–226(a)(2)(ii)204. and 205.
+8 Annotated Code of Maryland
+9 (2021 Replacement Volume and 2024 Supplement)
+10 BY adding to
+11 Article – State Finance and Procurement
+12 Section 6–226(a)(2)(ii)206.
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Agriculture
+18 Title 15. Research Facilities [that] AND TESTING FACILITIES THAT Use [Dogs or Cats]
+19 ANIMALS.
+20 15–101.
+21 (A) IN THIS TITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+22 INDICATED.
+23 (B) (1) “RESEARCH FACILITY” MEANS ANY FACILITY IN THE STATE THAT
+24 USES LIVE ANIMALS FOR RESEARCH, EDUCATION, OR EXPERIMENTATION.
+25 (2) “RESEARCH FACILITY” DOES NOT INCLUDE:
+26 (I) A PARTNERSHIP, A CORPORATION, AN ASSOCIATION, AN
+27 INSTITUTION, AN ORGANIZATION, OR ANY OTHER ENTITY IN THE STATE THAT
+28 PROVIDES ONLY BENEFICIAL SERVICES TO AN ANIMAL, SUCH AS SPAYING AND
+29 NEUTERING; OR
+30 (II) A SCHOOL OR AN INSTITUTION OF HIGHER EDUCATION.
+31 (C) “STATE INSPECTOR” MEANS THE STATE INSPECTOR OF ANIMAL
+32 WELFARE ESTABLISHED UNDER § 15–104 OF THIS TITLE.
+
+SENATE BILL 535 3
+1 (D) (1) “TESTING FACILITY” MEANS A PUBLIC OR PRIVATE
+2 PARTNERSHIP, CORPORATION, ASSOCIATION, ORGANIZATION, OR OTHER ENTITY IN
+3 THE STATE THAT USES ANIMALS FOR THE TESTING OF:
+4 (I) CHEMICAL SUBSTANCES;
+5 (II) INGREDIENTS;
+6 (III) DRUGS;
+7 (IV) VACCINES;
+8 (V) PRODUCTS; OR
+9 (VI) PRODUCT FORMULATIONS.
+10 (2) “TESTING FACILITY” INCLUDES A PARTNERSHIP, A
+11 CORPORATION, AN ASSOCIATION, AN ORGANIZATION, OR ANY OTHER ENTITY IN THE
+12 STATE THAT IS OWNED, LEASED, OR OPERATED BY A PUBLIC OR PRIVATE ENTITY.
+13 (3) “TESTING FACILITY” DOES NOT INCLUDE:
+14 (I) A PARTNERSHIP, A CORPORATION, AN ASSOCIATION, AN
+15 INSTITUTION, AN ORGANIZATION, OR ANY OTHER ENTITY IN THE STATE THAT
+16 PROVIDES ONLY BENEFICIAL SERVICES TO AN ANIMAL, SUCH AS SPAYING AND
+17 NEUTERING; OR
+18 (II) A SCHOOL OR AN INSTITUTION OF HIGHER EDUCATION.
+19 15–102.
+20 (A) EACH RESEARCH FACILITY AND TESTING FACILITY MUST BE LICENSED
+21 BY THE DEPARTMENT TO USE ANIMALS IN RESEARCH, EDUCATION, OR TESTING.
+22 (B) THE DEPARTMENT SHALL ISSUE A LICENSE TO A RESEARCH FACILITY
+23 OR TESTING FACILITY THAT:
+24 (1) PASSES AN INSPECTION CONDUCTED BY THE STATE INSPECTOR
+25 UNDER § 15–104 OF THIS TITLE; AND
+26 (2) AGREES TO COMPLY WITH THE INSPECTION AND REPORTING
+27 REQUIREMENTS OF THIS TITLE.
+
+4 SENATE BILL 535
+1 (C) THE DEPARTMENT SHALL CHARGE A LICENSING FEE TO:
+2 (1) A RESEARCH FACILITY OR TESTING FACILITY THAT USES ANIMALS
+3 NOT COVERED UNDER THE FEDERAL ANIMAL WELFARE ACT; AND
+4 (2) COVER THE COSTS OF IMPLEMENTING THIS TITLE.
+5 [15–101.] 15–103.
+6 (a) (1) In this section the following words have the meanings indicated.
+7 (2) “Animal rescue organization” includes:
+8 (i) A nonprofit organization incorporated for the purpose of rescuing
+9 animals in need and finding permanent adoptive homes for the animals; and
+10 (ii) A government–operated animal control unit that provides
+11 animals for adoption.
+12 (3) [“Research facility” includes:
+13 (i) A higher education research facility;
+14 (ii) A scientific research facility;
+15 (iii) A medical research facility; and
+16 (iv) A product testing facility.
+17 (4)] “Scientific research purposes” includes:
+18 (i) Investigation;
+19 (ii) Experimentation;
+20 (iii) Instruction; and
+21 (iv) Testing.
+22 (b) This section applies to a dog or cat that, in the determination of an attending
+23 veterinarian, is suitable for adoption.
+24 (c) A research facility OR TESTING FACILITY located in the State in which dogs
+25 or cats are used for scientific research purposes shall take reasonable steps to provide for
+26 the adoption of a dog or cat that, in the determination of the research facility OR TESTING
+27 FACILITY, is no longer needed for scientific research purposes by:
+
+SENATE BILL 535 5
+1 (1) Establishing a private placement process to provide for the adoption of
+2 a dog or cat;
+3 (2) Establishing a list of animal rescue organizations that are approved by
+4 the research facility OR TESTING FACILITY and are willing to take a dog or cat from the
+5 research facility OR TESTING FACILITY; and
+6 (3) Offering the dog or cat to the animal rescue organizations identified in
+7 the list established under item (2) of this subsection if the research facility OR TESTING
+8 FACILITY is unable to place the dog or cat through its private placement process.
+9 (d) A research facility OR TESTING FACILITY may enter into a collaborative
+10 agreement with an animal rescue organization for the purpose of carrying out the
+11 provisions of this section.
+12 15–104.
+13 (A) THERE IS A STATE INSPECTOR OF ANIMAL WELFARE IN THE
+14 DEPARTMENT.
+15 (B) (1) THE STATE INSPECTOR SHALL:
+16 (I) INSPECT EACH RESEARCH FACILITY AND TESTING FACILITY
+17 APPLYING FOR A LICENSE UNDER THIS TITLE;
+18 (II) INSPECT AT LEAST ONCE EVERY YEAR EACH RESEARCH
+19 FACILITY AND TESTING FACILITY THAT:
+20 1. HAS AN ACTIVE LICENSE ISSUED UNDER THIS TITLE;
+21 BUT
+22 2. IS NOT REGISTERED BY THE U.S. DEPARTMENT OF
+23 AGRICULTURE UNDER THE FEDERAL ANIMAL WELFARE ACT; AND
+24 (III) INSPECT AT LEAST ONCE EVERY OTHER YEAR EACH
+25 RESEARCH FACILITY AND TESTING FACILITY:
+26 1. FOR WHICH A LICENSE HAS BEEN ISSUED UNDER THIS
+27 TITLE; AND
+28 2. REGISTERED BY THE U.S. DEPARTMENT OF
+29 AGRICULTURE UNDER THE FEDERAL ANIMAL WELFARE ACT.
+
+6 SENATE BILL 535
+1 (2) THE DEPARTMENT MAY ENTER INTO AN AGREEMENT WITH AN
+2 ANIMAL WELFARE ORGANIZATION, A LOCAL ANIMAL CONTROL AGENCY, OR
+3 ANOTHER SIMILAR ENTITY TO CONDUCT THE INSPECTIONS REQUIRED UNDER THIS
+4 SUBSECTION.
+5 (C) (1) A RESEARCH FACILITY OR TESTING FACILITY SHALL NOTIFY THE
+6 STATE INSPECTOR WITHIN 30 DAYS AFTER RECEIPT OF ANY VIOLATION
+7 NOTIFICATION THE RESEARCH FACILITY OR TESTING FACILITY RECEIVES FOR A
+8 VIOLATION OF THE FEDERAL ANIMAL WELFARE ACT OR THE REGULATIONS
+9 ADOPTED UNDER THE ACT.
+10 (2) THE STATE INSPECTOR SHALL INSPECT A RESEARCH FACILITY
+11 OR TESTING FACILITY WITHIN 30 DAYS AFTER RECEIVING NOTIFICATION FROM THE
+12 RESEARCH FACILITY OR TESTING FACILITY THAT IT IS IN VIOLATION OF THE
+13 FEDERAL ANIMAL WELFARE ACT OR THE REGULATIONS ADOPTED UNDER THE ACT.
+14 15–105.
+15 (A) ON OR BEFORE DECEMBER 31 EACH YEAR, A SCHOOL OR AN
+16 INSTITUTION OF HIGHER EDUCATION THAT USES ANIMALS FOR THE SAME PURPOSE
+17 AS A RESEARCH FACILITY OR TESTING FACILITY SHALL REPORT TO THE GENERAL
+18 ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE,
+19 ON THE RESULTS OF ANY INSPECTION OF THE SCHOOL OR THE INSTITUTION OF
+20 HIGHER EDUCATION PERFORMED BY THE AGENCY THAT REGULATES THE USE OF
+21 ANIMALS BY THE SCHOOL OR THE INSTITUTION OF HIGHER EDUCATION.
+22 (B) THE REPORT REQUIRED UNDER SUBSECTION (A) OF THIS SECTION
+23 SHALL INCLUDE ANY VIOLATIONS FOUND DURING AN INSPECTION.
+24 15–106.
+25 (A) IN THIS SECTION, “FUND” MEANS THE ANIMALS IN RESEARCH FUND.
+26 (B) THERE IS AN ANIMALS IN RESEARCH FUND.
+27 (C) THE PURPOSE OF THE FUND IS TO COVER THE COSTS ASSOCIATED WITH
+28 THE STATUTORY AND REGULATORY DUTIES OF THE STATE INSPECTOR.
+29 (D) THE DEPARTMENT SHALL ADMINISTER THE FUND.
+30 (E) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+31 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+
+SENATE BILL 535 7
+1 (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY,
+2 AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+3 (F) THE FUND CONSISTS OF:
+4 (1) LICENSING FEES CHARGED BY THE DEPARTMENT UNDER §
+5 15–102 OF THIS TITLE;
+6 (2) PENALTIES COLLECTED UNDER § 15–107 OF THIS TITLE;
+7 (3) MONEY APPROPRIATED IN THE STATE BUDGET TO THE FUND;
+8 (4) INTEREST EARNINGS; AND
+9 (5) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED FOR
+10 THE BENEFIT OF THE FUND.
+11 (G) THE FUND MAY BE USED ONLY TO COVER THE COSTS ASSOCIATED WITH
+12 THE STATUTORY AND REGULATORY DUTIES OF THE STATE INSPECTOR.
+13 (H) (1) THE STATE TREASURER SHALL INVEST THE MONEY OF THE FUND
+14 IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+15 (2) ANY INTEREST EARNINGS OF THE FUND SHALL BE CREDITED TO
+16 THE FUND.
+17 (I) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN ACCORDANCE
+18 WITH THE STATE BUDGET.
+19 (J) MONEY EXPENDED FROM THE FUND FOR THE COSTS ASSOCIATED WITH
+20 THE STATUTORY AND REGULATORY DUTIES OF THE STATE INSPECTOR IS
+21 SUPPLEMENTAL TO AND IS NOT INTENDED TO TAKE THE PLACE OF FUNDING THAT
+22 OTHERWISE WOULD BE APPROPRIATED FOR THESE COSTS.
+23 15–107.
+24 A RESEARCH FACILITY OR TESTING FACILITY THAT VIOLATES THIS TITLE IS
+25 SUBJECT TO:
+26 (1) FOR A FIRST OFFENSE, A FINE NOT EXCEEDING $1,000; AND
+27 (2) FOR A SECOND OR SUBSEQUENT OFFENSE, A FINE NOT
+28 EXCEEDING $5,000.
+
+8 SENATE BILL 535
+1 15–108.
+2 THE DEPARTMENT SHALL ADOPT REGULATIONS TO:
+3 (1) CARRY OUT THIS TITLE; AND
+4 (2) ENSURE THE HUMANE TREATMENT AND CARE OF DOGS AND CATS
+5 THAT ARE USED FOR RESEARCH, EDUCATION, OR TESTING CONSISTENT WITH THE
+6 FEDERAL ANIMAL WELFARE ACT AND CORRESPONDING REGULATIONS.
+7 Article – State Finance and Procurement
+8 6–226.
+9 (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024
+10 through 2028.
+11 2. Notwithstanding any other provision of law, and unless
+12 inconsistent with a federal law, grant agreement, or other federal requirement or with the
+13 terms of a gift or settlement agreement, net interest on all State money allocated by the
+14 State Treasurer under this section to special funds or accounts, and otherwise entitled to
+15 receive interest earnings, as accounted for by the Comptroller, shall accrue to the General
+16 Fund of the State.
+17 (ii) The provisions of subparagraph (i) of this paragraph do not apply
+18 to the following funds:
+19 204. the Victims of Domestic Violence Program Grant Fund;
+20 [and]
+21 205. the Proposed Programs Collaborative Grant Fund; AND
+22 206. THE ANIMALS IN RESEARCH FUND.
+23 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+24 October 1, 2025.
+
+[DELETED: :CA      5     A R R F u A c I t I o c v r a s o a i o h e c e i r t B  A S  A  ( B  A S 1 t b u t a t “ 1 R F a T  A  ( B]
+[DELETED:  S   A S  A  ( B  A S  A  ( B  A S  A  (  S T A T tt U D]TFT[ E A H  .() N T T T F W H T M() ( “R”EY  TH N ,. ( “R”:Y   () A,, PP A CN A AN AN A ON O A O E I T T T, O B S T A AL S A S AG   () A.I () “SI”SIT NR M T T N O N§14.   ]
+[DELETED: S 3() ( “TE FY M A P O PP N N N ,, T:  () C;H  () I;IN  () D;IR  () V;VA  () P;RS   () P.IR ( “T” FY I A PP AN N N ,,,.D D  ( “T”:Y   () A,, PP A CN A AN AN A ON O A O E I T T T, O B S T A AL S A S AG   () A.I () A EH N ,,.() TH E ( PS T N   E 14; (  T C W T I A R]
+[DELETED:  S () TD:H E (  N E CT WA; ( C.]1 1.  ( ( I   ( “    ( A a    ( A g a c u t p a   ( “    ( A    ( A    ( A    ( A   () “    ( I    ( E    ( I    ( T  ( T v  ( A   o tY ,i]
+[DELETED: S 5   ( E a   ( E t   ry;   ( O t    ( A r f  m e i a c T F a w a a r o f t p o c o t p() TSIAH I A T N O N E I T.() ( TSI:H T N  () N  () IN A L O E Y E R   1 HE   2 IU. N B T  E OAWA; N E CT   () IN A L O E O Y E   1 E    2 RU. B T  E OAWA. N E C]
+[DELETED:  S  ( T E M E I A A W A W ON A L A C AY O() (  I3 N W  D A R O A V T R F O T F R F A O T F N E C O T RW C. ( TS T N R   F O T F T I I I V O T N E C CWAA.() OD31N O B E  E YR A S O A E,§27SGAY     T O RE T R O I S O I O() T(H R R U S A O T S ) I,“F”ARF.NN UD  N E U() TARF.H N E U() TH U T NI.() TDF.H E U() ( TFH U I A SL N F T I N    T I R R72SFPA.]
+[DELETED: S 7 ( TSTF T R T UY O UF.() TF:H U ( LD§ F C B T E U 2; ( P§17;    ( MSF; T U ( I;S  (  A U.() TH U T NI.() ( TSTH T R U T. ( A U U.() EX U T.() MO U S A R D O T T N I ( F,$;E    ( F A S O S OE A F N]
+[DELETED:  S TD: E ( C;E  ( H N  N E CWA. A 6  ( ( ( 1 T s d n a i f y 2 t     2 N i t S r F    ( T t     2 t] a     2 t   2 AR N E U .  S A B I F E T t A s t e O]

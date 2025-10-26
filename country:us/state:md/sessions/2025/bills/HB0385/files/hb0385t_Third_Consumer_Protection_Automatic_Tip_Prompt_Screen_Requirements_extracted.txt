@@ -1,0 +1,215 @@
+Title: HOUSE BILL 385
+Official Title: HOUSE BILL 385
+Number of Sections: 1
+Source: versions - Third - Consumer Protection - Automatic Tip Prompt Screen - Requirements
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+I3 5lr1812
+HB 419/24 – ECM
+By: Delegates Lehman, Acevero, Allen, Bagnall, Foley, Guyton, Harris, Ivey,
+D. Jones, Kaufman, R. Lewis, J. Long, Pena–Melnyk, Phillips, Pruski,
+Schmidt, Stewart, Taveras, Taylor, Williams, Woods, Wu, and Ziegler
+Introduced and read first time: January 16, 2025
+Assigned to: Economic Matters
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 20, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Consumer Protection – Automatic Tip Prompt Screen – Requirements
+3 FOR the purpose of requiring certain businesses that use a point–of–sale system that
+4 automatically prompts a customer to leave a tip to disclose to whom the tip will be
+5 allocated that the tip is for employees and display a tip amount that is set at zero by
+6 default; or a “no–tip” option, subject to certain conditions; requiring the Maryland
+7 Department of Labor and the Division of Consumer Protection in the Office of the
+8 Attorney General to make certain information available on the agencies’ public
+9 websites; establishing that a violation of this Act is an unfair, abusive, or deceptive
+10 trade practice; and generally relating to automatic tip prompt screen requirements.
+11 BY repealing and reenacting, with amendments,
+12 Article – Commercial Law
+13 Section 13–301(14)(xliv)
+14 Annotated Code of Maryland
+15 (2013 Replacement Volume and 2024 Supplement)
+16 (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the
+17 General Assembly of 2024)
+18 BY repealing and reenacting, without amendments,
+19 Article – Commercial Law
+20 Section 13–301(14)(xlv)
+21 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0385*
+2 HOUSE BILL 385
+1 (2013 Replacement Volume and 2024 Supplement)
+2 (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the
+3 General Assembly of 2024)
+4 BY adding to
+5 Article – Commercial Law
+6 Section 13–301(14)(xlvi) and 14–1328
+7 Annotated Code of Maryland
+8 (2013 Replacement Volume and 2024 Supplement)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
+11 Article – Commercial Law
+12 13–301.
+13 Unfair, abusive, or deceptive trade practices include any:
+14 (14) Violation of a provision of:
+15 (xliv) Title 14, Subtitle 49 of this article; [or]
+16 (xlv) Section 12–6C–09.1 of the Health Occupations Article; or
+17 (XLVI) SECTION 14–1328 OF THIS ARTICLE; OR
+18 14–1328.
+19 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+20 INDICATED.
+21 (2) “POINT–OF–SALE SYSTEM” MEANS A DIGITAL DEVICE USED TO
+22 PROCESS ELECTRONIC TRANSACTIONS FOR THE PURCHASE OF GOODS OR SERVICES.
+23 (3) “TIP” MEANS AN ADDITIONAL PAYMENT VOLUNTARILY MADE BY A
+24 CUSTOMER IN RECOGNITION OF SERVICE PROVIDED TO THE CUSTOMER.
+25 (B) BEGINNING JANUARY JULY 1, 2026, EACH BUSINESS THAT USES A
+26 POINT–OF–SALE SYSTEM THAT DURING A TRANSACTION AUTOMATICALLY DISPLAYS
+27 A SCREEN PROMPTING THE CUSTOMER TO SELECT AN AMOUNT FOR A TIP SHALL
+28 CONSPICUOUSLY DISPLAY ON THE SAME SCREEN:
+29 (1) INFORMATION DISCLOSING TO WHOM THE TIP WILL BE
+30 ALLOCATED ON THE SAME SCREEN OR ON A PREVIOUS SCREEN, A NOTICE
+31 DISCLOSING THAT THE TIP IS FOR EMPLOYEES; AND
+HOUSE BILL 385 3
+1 (2) A ON THE SAME SCREEN, A TIP AMOUNT SET AT ZERO BY DEFAULT
+2 OR A “NO–TIP” OPTION.
+3 (C) A DISCLOSURE UNDER SUBSECTION (B) OF THIS SECTION IS SUBJECT TO
+4 THE RECORD–KEEPING REQUIREMENTS UNDER § 3–424 OF THE LABOR AND
+5 EMPLOYMENT ARTICLE.
+6 (D) THE DIVISION OF CONSUMER PROTECTION SHALL ADOPT
+7 REGULATIONS NECESSARY TO ADMINISTER AND ENFORCE THIS SECTION THIS
+8 SECTION DOES NOT APPLY TO PAYMENT TRANSACTIONS:
+9 (1) FOR GOODS OR SERVICES PROVIDED TO CUSTOMERS SEATED AT
+10 A TABLE OR BAR; OR
+11 (2) MADE BY A CUSTOMER FOR GOODS OR SERVICES:
+12 (I) THROUGH A CUSTOMER’S MOBILE DEVICE; OR
+13 (II) ONLINE.
+14 (E) THE MARYLAND DEPARTMENT OF LABOR AND THE DIVISION OF
+15 CONSUMER PROTECTION IN THE OFFICE OF THE ATTORNEY GENERAL SHALL MAKE
+16 INFORMATION ABOUT THE REQUIREMENTS OF THIS SECTION AVAILABLE ON THE
+17 AGENCIES’ PUBLIC WEBSITES.
+18 (E) (F) A VIOLATION OF THIS SECTION IS:
+19 (1) AN UNFAIR, ABUSIVE, OR DECEPTIVE TRADE PRACTICE WITHIN
+20 THE MEANING OF TITLE 13 OF THIS ARTICLE; AND
+21 (2) SUBJECT TO THE ENFORCEMENT AND PENALTY PROVISIONS
+22 CONTAINED IN TITLE 13 OF THIS ARTICLE, EXCEPT §§ 13–408 AND 13–411 OF THIS
+23 ARTICLE.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025.
+[DELETED: :CA      5     D L A A B F G H I K R J P P P A C F t p o r c b t u a p s t a a d D A G t m c i a o t a p w t B  A S  A  (  (  G B  A S  A]
+[DELETED:  H   (  (  G B  A  S  A  (  S T A 1  U   ( V    ( T or    ( S   ) S18;IE  E  ) ( N   “P––TOFS SM M A D D U T   “TP   ) BJJ1,2,E A UY  E B T U ATOFS     ) D T W T T W B N T S S O O A P SN A NS   ]
+[DELETED: H 3    )AONN AT NOTP –”  ) A(  B  RDK R U   O T A A§34A. R  ) TDCH I O O R S A N T A A E T S H    )R      )M     )T’HRSE      )OIN()TMDLH A E O A A T I O POA R F T ES       )()AF    )A,R E  I  E 13    ) T T E A P P I  EE     13§§181 ,    S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 385
+I3 5lr1812
+HB 419/24 – ECM
+By: Delegates Lehman, Acevero, Allen, Bagnall, Foley, Guyton, Harris, Ivey,
+D. Jones, Kaufman, R. Lewis, J. Long, Pena–Melnyk, Phillips, Pruski,
+Schmidt, Stewart, Taveras, Taylor, Williams, Woods, Wu, and Ziegler
+Introduced and read first time: January 16, 2025
+Assigned to: Economic Matters
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 20, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Consumer Protection – Automatic Tip Prompt Screen – Requirements
+3 FOR the purpose of requiring certain businesses that use a point–of–sale system that
+4 automatically prompts a customer to leave a tip to disclose to whom the tip will be
+5 allocated that the tip is for employees and display a tip amount that is set at zero by
+6 default; or a “no–tip” option, subject to certain conditions; requiring the Maryland
+7 Department of Labor and the Division of Consumer Protection in the Office of the
+8 Attorney General to make certain information available on the agencies’ public
+9 websites; establishing that a violation of this Act is an unfair, abusive, or deceptive
+10 trade practice; and generally relating to automatic tip prompt screen requirements.
+11 BY repealing and reenacting, with amendments,
+12 Article – Commercial Law
+13 Section 13–301(14)(xliv)
+14 Annotated Code of Maryland
+15 (2013 Replacement Volume and 2024 Supplement)
+16 (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the
+17 General Assembly of 2024)
+18 BY repealing and reenacting, without amendments,
+19 Article – Commercial Law
+20 Section 13–301(14)(xlv)
+21 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0385*
+
+2 HOUSE BILL 385
+1 (2013 Replacement Volume and 2024 Supplement)
+2 (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the
+3 General Assembly of 2024)
+4 BY adding to
+5 Article – Commercial Law
+6 Section 13–301(14)(xlvi) and 14–1328
+7 Annotated Code of Maryland
+8 (2013 Replacement Volume and 2024 Supplement)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
+11 Article – Commercial Law
+12 13–301.
+13 Unfair, abusive, or deceptive trade practices include any:
+14 (14) Violation of a provision of:
+15 (xliv) Title 14, Subtitle 49 of this article; [or]
+16 (xlv) Section 12–6C–09.1 of the Health Occupations Article; or
+17 (XLVI) SECTION 14–1328 OF THIS ARTICLE; OR
+18 14–1328.
+19 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+20 INDICATED.
+21 (2) “POINT–OF–SALE SYSTEM” MEANS A DIGITAL DEVICE USED TO
+22 PROCESS ELECTRONIC TRANSACTIONS FOR THE PURCHASE OF GOODS OR SERVICES.
+23 (3) “TIP” MEANS AN ADDITIONAL PAYMENT VOLUNTARILY MADE BY A
+24 CUSTOMER IN RECOGNITION OF SERVICE PROVIDED TO THE CUSTOMER.
+25 (B) BEGINNING JANUARY JULY 1, 2026, EACH BUSINESS THAT USES A
+26 POINT–OF–SALE SYSTEM THAT DURING A TRANSACTION AUTOMATICALLY DISPLAYS
+27 A SCREEN PROMPTING THE CUSTOMER TO SELECT AN AMOUNT FOR A TIP SHALL
+28 CONSPICUOUSLY DISPLAY ON THE SAME SCREEN:
+29 (1) INFORMATION DISCLOSING TO WHOM THE TIP WILL BE
+30 ALLOCATED ON THE SAME SCREEN OR ON A PREVIOUS SCREEN, A NOTICE
+31 DISCLOSING THAT THE TIP IS FOR EMPLOYEES; AND
+
+HOUSE BILL 385 3
+1 (2) A ON THE SAME SCREEN, A TIP AMOUNT SET AT ZERO BY DEFAULT
+2 OR A “NO–TIP” OPTION.
+3 (C) A DISCLOSURE UNDER SUBSECTION (B) OF THIS SECTION IS SUBJECT TO
+4 THE RECORD–KEEPING REQUIREMENTS UNDER § 3–424 OF THE LABOR AND
+5 EMPLOYMENT ARTICLE.
+6 (D) THE DIVISION OF CONSUMER PROTECTION SHALL ADOPT
+7 REGULATIONS NECESSARY TO ADMINISTER AND ENFORCE THIS SECTION THIS
+8 SECTION DOES NOT APPLY TO PAYMENT TRANSACTIONS:
+9 (1) FOR GOODS OR SERVICES PROVIDED TO CUSTOMERS SEATED AT
+10 A TABLE OR BAR; OR
+11 (2) MADE BY A CUSTOMER FOR GOODS OR SERVICES:
+12 (I) THROUGH A CUSTOMER’S MOBILE DEVICE; OR
+13 (II) ONLINE.
+14 (E) THE MARYLAND DEPARTMENT OF LABOR AND THE DIVISION OF
+15 CONSUMER PROTECTION IN THE OFFICE OF THE ATTORNEY GENERAL SHALL MAKE
+16 INFORMATION ABOUT THE REQUIREMENTS OF THIS SECTION AVAILABLE ON THE
+17 AGENCIES’ PUBLIC WEBSITES.
+18 (E) (F) A VIOLATION OF THIS SECTION IS:
+19 (1) AN UNFAIR, ABUSIVE, OR DECEPTIVE TRADE PRACTICE WITHIN
+20 THE MEANING OF TITLE 13 OF THIS ARTICLE; AND
+21 (2) SUBJECT TO THE ENFORCEMENT AND PENALTY PROVISIONS
+22 CONTAINED IN TITLE 13 OF THIS ARTICLE, EXCEPT §§ 13–408 AND 13–411 OF THIS
+23 ARTICLE.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025.
+
+[DELETED: :CA      5     D L A A B F G H I K R J P P P A C F t p o r c b t u a p s t a a d D A G t m c i a o t a p w t B  A S  A  (  (  G B  A S  A]
+[DELETED:  H   (  (  G B  A  S  A  (  S T A 1  U   ( V    ( T or    ( S   ) S18;IE  E  ) ( N   “P––TOFS SM M A D D U T   “TP   ) BJJ1,2,E A UY  E B T U ATOFS     ) D T W T T W B N T S S O O A P SN A NS   ]
+[DELETED: H 3    )AONN AT NOTP –”  ) A(  B  RDK R U   O T A A§34A. R  ) TDCH I O O R S A N T A A E T S H    )R      )M     )T’HRSE      )OIN()TMDLH A E O A A T I O POA R F T ES       )()AF    )A,R E  I  E 13    ) T T E A P P I  EE     13§§181 ,    S A B I F E T t A s t e O]

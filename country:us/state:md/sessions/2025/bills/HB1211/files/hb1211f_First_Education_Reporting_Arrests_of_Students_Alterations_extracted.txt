@@ -1,0 +1,420 @@
+Title: HOUSE BILL 1211
+Official Title: HOUSE BILL 1211
+Number of Sections: 1
+Source: versions - First - Education - Reporting Arrests of Students - Alterations
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+F1, E4 5lr1515
+HB 18/24 – JUD
+By: Delegates R. Long, Buckel, Mangione, McComas, Miller, M. Morgan,
+T. Morgan, Pippy, Reilly, and Tomlinson
+Introduced and read first time: February 6, 2025
+Assigned to: Ways and Means and Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Education – Reporting Arrests of Students – Alterations
+3 FOR the purpose of requiring a law enforcement agency making an arrest of a student for
+4 a reportable offense or an offense related to the student’s membership in a criminal
+5 organization to report the arrest to the Maryland Center for School Safety, the
+6 Juvenile Services Education Program, the State Board of Education, and the State’s
+7 Attorney; requiring the State’s Attorney to notify the Maryland Center for School
+8 Safety, the Juvenile Services Education Program, and the State Board of the
+9 disposition of the offense; authorizing the Maryland Center for School Safety, the
+10 Juvenile Services Education Program, and the State Board to transmit certain
+11 information regarding the arrest to a certain county superintendent of schools or a
+12 certain nonpublic school in a certain manner under certain circumstances; requiring
+13 a county superintendent to provide a certain notice to the Maryland Center for
+14 School Safety, the Juvenile Services Education Program, and the State Board under
+15 certain circumstances; and generally relating to reporting arrests of students
+16 attending public and nonpublic schools in the State.
+17 BY repealing and reenacting, with amendments,
+18 Article – Education
+19 Section 7–303
+20 Annotated Code of Maryland
+21 (2022 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Education
+25 7–303.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1211*
+2 HOUSE BILL 1211
+1 (a) (1) In this section the following words have the meanings indicated.
+2 (2) “Criminal organization” has the meaning stated in § 9–801 of the
+3 Criminal Law Article.
+4 (3) “Law enforcement agency” means the law enforcement agencies listed
+5 in § 3–101(e) of the Public Safety Article.
+6 (4) “Local school system” means the schools and school programs under the
+7 supervision of the local superintendent.
+8 (5) “Local superintendent” means:
+9 (i) The county superintendent, for the county in which a student is
+10 enrolled, or a designee of the superintendent, who is an administrator; or
+11 (ii) The superintendent of schools for the:
+12 1. Archdiocese of Baltimore;
+13 2. Archdiocese of Washington; and
+14 3. Catholic Diocese of Wilmington.
+15 (6) “Reportable offense” means an offense that:
+16 (i) Occurred off school premises;
+17 (ii) Did not occur at an event sponsored by the school; and
+18 (iii) Involved any of the following:
+19 1. A crime of violence, as defined in § 14–101 of the Criminal
+20 Law Article;
+21 2. Any of the offenses enumerated in § 3–8A–03(e)(4) of the
+22 Courts Article;
+23 3. A violation of § 4–101, § 4–102, § 4–203, or § 4–204 of the
+24 Criminal Law Article;
+25 4. A violation of § 5–602, § 5–603, § 5–604, § 5–605, § 5–606,
+26 § 5–607, § 5–608, § 5–608.1, § 5–609, § 5–612, § 5–613, § 5–614, § 5–617, § 5–618, § 5–627,
+27 or § 5–628 of the Criminal Law Article;
+28 5. A violation of § 4–503, § 9–504, or § 9–505 of the Criminal
+29 Law Article;
+HOUSE BILL 1211 3
+1 6. A violation of § 6–102, § 6–103, § 6–104, or § 6–105 of the
+2 Criminal Law Article;
+3 7. A violation of § 9–802 or § 9–803 of the Criminal Law
+4 Article;
+5 8. A violation of § 3–203 of the Criminal Law Article;
+6 9. A violation of § 6–301 of the Criminal Law Article;
+7 10. A violation of § 9–302, § 9–303, or § 9–305 of the Criminal
+8 Law Article;
+9 11. A violation of § 7–105 of the Criminal Law Article;
+10 12. A violation of § 6–202 of the Criminal Law Article; or
+11 13. A violation of § 10–606 of the Criminal Law Article.
+12 (7) “School principal” means the principal of the public or nonpublic school
+13 in which a student is enrolled, or a designee of the principal, who is an administrator.
+14 (8) (i) “School security officer” includes a school principal, another
+15 school administrator, a law enforcement officer, or other individual employed by a local
+16 school system or a local government who is designated by the county superintendent or a
+17 school principal to help maintain the security and safety of a school.
+18 (ii) “School security officer” does not include a teacher.
+19 (9) “Student” means an individual enrolled in a public school system or
+20 nonpublic school in the State who is 5 years of age or older and under 22 years of age.
+21 (b) If a student is arrested for a reportable offense or an offense that is related to
+22 the student’s membership in a criminal organization, the law enforcement agency making
+23 the arrest[:
+24 (1) Shall] SHALL notify the following [individuals] PERSONS of the arrest
+25 and the charges within 24 hours of the arrest or as soon as practicable:
+26 [(i)] (1) The local superintendent;
+27 [(ii)] (2) The school principal; [and]
+28 [(iii)] (3) For a school that has a school security officer, the school
+29 security officer; [and]
+4 HOUSE BILL 1211
+1 (4) THE MARYLAND CENTER FOR SCHOOL SAFETY;
+2 (5) THE JUVENILE SERVICES EDUCATION PROGRAM;
+3 (6) THE STATE BOARD; AND
+4 [(2)] (7) [May notify the] THE State’s Attorney [of the arrest and
+5 charges].
+6 (c) The State’s Attorney shall promptly notify [either] the local superintendent
+7 [or], the school principal, THE MARYLAND CENTER FOR SCHOOL SAFETY, THE
+8 JUVENILE SERVICES EDUCATION PROGRAM, AND THE STATE BOARD of the
+9 disposition of the reportable offense required to be reported under subsection (b) of this
+10 section.
+11 (d) Except by order of a juvenile court or other court upon good cause shown, the
+12 information obtained by [an individual] A PERSON pursuant to subsections (b) and (c) of
+13 this section:
+14 (1) Is confidential and may not be redisclosed by subpoena or otherwise
+15 except as provided pursuant to subsections (e) [and], (f), AND (G) of this section; and
+16 (2) May not be made part of the student’s permanent educational record.
+17 (e) (1) Notwithstanding the provisions of subsection (d) of this section, nothing
+18 shall prohibit a local superintendent [or], A school principal, THE MARYLAND CENTER
+19 FOR SCHOOL SAFETY, THE JUVENILE SERVICES EDUCATION PROGRAM, OR THE
+20 STATE BOARD from transmitting the information obtained pursuant to subsections (b)
+21 and (c) of this section as a confidential file to the local superintendent of another public
+22 school system in the State or another nonpublic school in the State in which the student
+23 has enrolled or been transferred in order to carry out the purposes of this section if the
+24 disposition of the reportable offense was a conviction or an adjudication of delinquency or
+25 the criminal charge or delinquency petition is still pending.
+26 (2) A local superintendent or school principal who transmits information
+27 about a student under this subsection shall include in the transmittal information
+28 regarding any educational programming and related services provided to the student.
+29 (F) NOTWITHSTANDING THE PROVISIONS OF SUBSECTION (D) OF THIS
+30 SECTION, A LOCAL SUPERINTENDENT SHALL NOTIFY THE MARYLAND CENTER FOR
+31 SCHOOL SAFETY, THE JUVENILE SERVICES EDUCATION PROGRAM, AND THE STATE
+32 BOARD WHEN A STUDENT WHOSE INFORMATION HAS BEEN OBTAINED UNDER
+33 SUBSECTION (B) OF THIS SECTION NO LONGER RESIDES WITHIN THE JURISDICTION
+34 OF THE COUNTY BOARD.
+HOUSE BILL 1211 5
+1 [(f)] (G) The State Board shall adopt regulations to ensure that information
+2 obtained by a local superintendent, a school principal, [or] a school security officer, THE
+3 MARYLAND CENTER FOR SCHOOL SAFETY, THE JUVENILE SERVICES EDUCATION
+4 PROGRAM, OR THE STATE BOARD under subsections (b), (c), [and] (e), AND (F) of this
+5 section is:
+6 (1) Used to provide appropriate educational programming and related
+7 services to the student and to maintain a safe and secure school environment for students
+8 and school personnel;
+9 (2) Transmitted only to school personnel of the school in which the student
+10 is enrolled, THE MARYLAND CENTER FOR SCHOOL SAFETY, THE JUVENILE
+11 SERVICES EDUCATION PROGRAM, OR THE STATE BOARD as necessary to carry out the
+12 purposes set forth in item (1) of this subsection; and
+13 (3) Destroyed when the student graduates or otherwise permanently
+14 leaves school or turns 22 years old, whichever occurs first.
+15 [(g)] (H) (1) Except as otherwise provided in paragraph (2) of this subsection,
+16 the local superintendent and the school principal shall consider prohibiting a student who
+17 is arrested for a reportable offense involving rape or a sexual offense from attending the
+18 same school or riding on the same school bus as the alleged victim of the reportable offense
+19 if such action is necessary or appropriate to protect the physical or psychological well–being
+20 of the alleged victim.
+21 (2) If a student is arrested for a reportable offense involving rape or a
+22 sexual offense and is convicted of or adjudicated delinquent for the rape or sexual offense,
+23 the student may not attend the same school or ride on the same school bus as the victim.
+24 [(h)] (I) Nothing in this section is intended to limit the manner in which a local
+25 school obtains information or uses information obtained by any lawful means other than
+26 that set forth in subsections (b), (c), [and] (e), AND (F) of this section.
+27 [(i)] (J) Each public school that enrolls students in grades six through twelve in
+28 the State shall designate at least one school security officer.
+29 [(j)] (K) (1) On or before December 30 each year, the Department, in
+30 accordance with State and federal privacy laws, shall submit to the Governor and, in
+31 accordance with § 2–1257 of the State Government Article, the General Assembly a report
+32 that includes the following information about each reportable offense for which a local
+33 school received information under subsection (b) of this section in the preceding school year:
+34 (i) The nature of the reportable offense;
+35 (ii) Verification that the offense occurred off school premises;
+6 HOUSE BILL 1211
+1 (iii) Action taken by the local school and county board after being
+2 notified of the reportable offense;
+3 (iv) The race, ethnicity, gender, and disability status of the student
+4 arrested for the reportable offense;
+5 (v) The grade of the student arrested for the reportable offense;
+6 (vi) The regular school program of the student arrested for the
+7 reportable offense;
+8 (vii) Whether the student’s regular school program was altered as a
+9 result of the reportable offense;
+10 (viii) If the student was removed from the student’s regular school
+11 program as a result of the reportable offense:
+12 1. The amount of time during which the student was
+13 removed; and
+14 2. The student’s placement and educational programming
+15 during the period of removal; and
+16 (ix) If removed from the student’s regular school program, the
+17 student’s academic performance during the time period the student was removed, including
+18 attendance, grades, and standardized test scores, and any additional disciplinary actions.
+19 (2) Each county board and public school shall provide the Department with
+20 any information necessary to issue its report in accordance with this section.
+21 [(k)] (L) If a student is removed or excluded from the student’s regular school
+22 program for a reportable offense, the principal or county superintendent shall invite the
+23 student’s attorney, if the student has an attorney, to participate in the conference between
+24 the student or the student’s parent or guardian and the principal or county superintendent,
+25 and the manifestation determination review, if applicable.
+26 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+27 1, 2025.
+[DELETED: :CA      5     D R B M M M M A E F a o t r t a t t M C f S S t J A S t J S E P a t S B o t d J S E P a t S B t t c i c a c s t p a c n t t M C f S c c a g r t r a o s a B  A S  A  (  S T A 7]
+[DELETED:  H   ( ( I   ( “ o h t m s i § 9 o t C   ( “ i   ( “ s   ( “    ( T e    ( T     1 A     2 A     3 C   ( “    ( O    ( D    ( I     1 A L     2 A C     3 A C     4 A § o     5 A L]
+[DELETED: H 3     6 A C     7 A v o § 9 o § 9 o t C L A     8 A     9 A     1 A L     1 A     1 A     1 A   ( “ i   ( ( “ s o i a s p a s s s    ( “   ( “ n  ( I t tt:   ( Sl  is [L  a    () T](    () T a]()[]    ()F]( s a]]
+[DELETED:  H  ( TMCSS; A E C A ( TJSEP; U E D RM ( TSB; T OD    () M n te S A o t a a]()[]T H cs.  ( T er ],,MCSS or t s pT A E F C AY TSEP,S E D RM A T T O  o t d s  ( E i al  t   ( I e)ad )   ],,(   ( M  ( ( N s or  ],,M  A E C AY  U E D RM S,JSEP O   a s h d t   ( A a a s u t s s i i t t i r  )N(O T P O S D O TN  A EMS,JSEP, AY  U E D RM  T W A S W I H B O U B D ]
+[DELETED: H 5  () T S B s a r t e t i]( o or ]CSS,JS E C AY  U E D,SB[],(M  T OD     ad )  s   ( U t p a e p a r s a   ( T i edMCSS, A E F C AY T UEP,S D RM  T O a p   ( D w t s g o o p l  () ( E]( t i s i o   ( I a s i a f a r o i r o a s t  () N]( s t ad )o],( F  () E]( t  () ( O o b D 3 e y t D i]( a w S a f p l s s t t G a i a t s    ( T    ( V]
+[DELETED:  H     ( A n    ( T a    ( T    ( T r s p o t s a f t r    ( W r    ( I t s w r f t s r s p     1 T a o t d w t s w r     2 T s p a e p d    ( I r f t s r s p t s a   ( E a  () I]( p s t a  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1211
+F1, E4 5lr1515
+HB 18/24 – JUD
+By: Delegates R. Long, Buckel, Mangione, McComas, Miller, M. Morgan,
+T. Morgan, Pippy, Reilly, and Tomlinson
+Introduced and read first time: February 6, 2025
+Assigned to: Ways and Means and Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Education – Reporting Arrests of Students – Alterations
+3 FOR the purpose of requiring a law enforcement agency making an arrest of a student for
+4 a reportable offense or an offense related to the student’s membership in a criminal
+5 organization to report the arrest to the Maryland Center for School Safety, the
+6 Juvenile Services Education Program, the State Board of Education, and the State’s
+7 Attorney; requiring the State’s Attorney to notify the Maryland Center for School
+8 Safety, the Juvenile Services Education Program, and the State Board of the
+9 disposition of the offense; authorizing the Maryland Center for School Safety, the
+10 Juvenile Services Education Program, and the State Board to transmit certain
+11 information regarding the arrest to a certain county superintendent of schools or a
+12 certain nonpublic school in a certain manner under certain circumstances; requiring
+13 a county superintendent to provide a certain notice to the Maryland Center for
+14 School Safety, the Juvenile Services Education Program, and the State Board under
+15 certain circumstances; and generally relating to reporting arrests of students
+16 attending public and nonpublic schools in the State.
+17 BY repealing and reenacting, with amendments,
+18 Article – Education
+19 Section 7–303
+20 Annotated Code of Maryland
+21 (2022 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Education
+25 7–303.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1211*
+
+2 HOUSE BILL 1211
+1 (a) (1) In this section the following words have the meanings indicated.
+2 (2) “Criminal organization” has the meaning stated in § 9–801 of the
+3 Criminal Law Article.
+4 (3) “Law enforcement agency” means the law enforcement agencies listed
+5 in § 3–101(e) of the Public Safety Article.
+6 (4) “Local school system” means the schools and school programs under the
+7 supervision of the local superintendent.
+8 (5) “Local superintendent” means:
+9 (i) The county superintendent, for the county in which a student is
+10 enrolled, or a designee of the superintendent, who is an administrator; or
+11 (ii) The superintendent of schools for the:
+12 1. Archdiocese of Baltimore;
+13 2. Archdiocese of Washington; and
+14 3. Catholic Diocese of Wilmington.
+15 (6) “Reportable offense” means an offense that:
+16 (i) Occurred off school premises;
+17 (ii) Did not occur at an event sponsored by the school; and
+18 (iii) Involved any of the following:
+19 1. A crime of violence, as defined in § 14–101 of the Criminal
+20 Law Article;
+21 2. Any of the offenses enumerated in § 3–8A–03(e)(4) of the
+22 Courts Article;
+23 3. A violation of § 4–101, § 4–102, § 4–203, or § 4–204 of the
+24 Criminal Law Article;
+25 4. A violation of § 5–602, § 5–603, § 5–604, § 5–605, § 5–606,
+26 § 5–607, § 5–608, § 5–608.1, § 5–609, § 5–612, § 5–613, § 5–614, § 5–617, § 5–618, § 5–627,
+27 or § 5–628 of the Criminal Law Article;
+28 5. A violation of § 4–503, § 9–504, or § 9–505 of the Criminal
+29 Law Article;
+
+HOUSE BILL 1211 3
+1 6. A violation of § 6–102, § 6–103, § 6–104, or § 6–105 of the
+2 Criminal Law Article;
+3 7. A violation of § 9–802 or § 9–803 of the Criminal Law
+4 Article;
+5 8. A violation of § 3–203 of the Criminal Law Article;
+6 9. A violation of § 6–301 of the Criminal Law Article;
+7 10. A violation of § 9–302, § 9–303, or § 9–305 of the Criminal
+8 Law Article;
+9 11. A violation of § 7–105 of the Criminal Law Article;
+10 12. A violation of § 6–202 of the Criminal Law Article; or
+11 13. A violation of § 10–606 of the Criminal Law Article.
+12 (7) “School principal” means the principal of the public or nonpublic school
+13 in which a student is enrolled, or a designee of the principal, who is an administrator.
+14 (8) (i) “School security officer” includes a school principal, another
+15 school administrator, a law enforcement officer, or other individual employed by a local
+16 school system or a local government who is designated by the county superintendent or a
+17 school principal to help maintain the security and safety of a school.
+18 (ii) “School security officer” does not include a teacher.
+19 (9) “Student” means an individual enrolled in a public school system or
+20 nonpublic school in the State who is 5 years of age or older and under 22 years of age.
+21 (b) If a student is arrested for a reportable offense or an offense that is related to
+22 the student’s membership in a criminal organization, the law enforcement agency making
+23 the arrest[:
+24 (1) Shall] SHALL notify the following [individuals] PERSONS of the arrest
+25 and the charges within 24 hours of the arrest or as soon as practicable:
+26 [(i)] (1) The local superintendent;
+27 [(ii)] (2) The school principal; [and]
+28 [(iii)] (3) For a school that has a school security officer, the school
+29 security officer; [and]
+
+4 HOUSE BILL 1211
+1 (4) THE MARYLAND CENTER FOR SCHOOL SAFETY;
+2 (5) THE JUVENILE SERVICES EDUCATION PROGRAM;
+3 (6) THE STATE BOARD; AND
+4 [(2)] (7) [May notify the] THE State’s Attorney [of the arrest and
+5 charges].
+6 (c) The State’s Attorney shall promptly notify [either] the local superintendent
+7 [or], the school principal, THE MARYLAND CENTER FOR SCHOOL SAFETY, THE
+8 JUVENILE SERVICES EDUCATION PROGRAM, AND THE STATE BOARD of the
+9 disposition of the reportable offense required to be reported under subsection (b) of this
+10 section.
+11 (d) Except by order of a juvenile court or other court upon good cause shown, the
+12 information obtained by [an individual] A PERSON pursuant to subsections (b) and (c) of
+13 this section:
+14 (1) Is confidential and may not be redisclosed by subpoena or otherwise
+15 except as provided pursuant to subsections (e) [and], (f), AND (G) of this section; and
+16 (2) May not be made part of the student’s permanent educational record.
+17 (e) (1) Notwithstanding the provisions of subsection (d) of this section, nothing
+18 shall prohibit a local superintendent [or], A school principal, THE MARYLAND CENTER
+19 FOR SCHOOL SAFETY, THE JUVENILE SERVICES EDUCATION PROGRAM, OR THE
+20 STATE BOARD from transmitting the information obtained pursuant to subsections (b)
+21 and (c) of this section as a confidential file to the local superintendent of another public
+22 school system in the State or another nonpublic school in the State in which the student
+23 has enrolled or been transferred in order to carry out the purposes of this section if the
+24 disposition of the reportable offense was a conviction or an adjudication of delinquency or
+25 the criminal charge or delinquency petition is still pending.
+26 (2) A local superintendent or school principal who transmits information
+27 about a student under this subsection shall include in the transmittal information
+28 regarding any educational programming and related services provided to the student.
+29 (F) NOTWITHSTANDING THE PROVISIONS OF SUBSECTION (D) OF THIS
+30 SECTION, A LOCAL SUPERINTENDENT SHALL NOTIFY THE MARYLAND CENTER FOR
+31 SCHOOL SAFETY, THE JUVENILE SERVICES EDUCATION PROGRAM, AND THE STATE
+32 BOARD WHEN A STUDENT WHOSE INFORMATION HAS BEEN OBTAINED UNDER
+33 SUBSECTION (B) OF THIS SECTION NO LONGER RESIDES WITHIN THE JURISDICTION
+34 OF THE COUNTY BOARD.
+
+HOUSE BILL 1211 5
+1 [(f)] (G) The State Board shall adopt regulations to ensure that information
+2 obtained by a local superintendent, a school principal, [or] a school security officer, THE
+3 MARYLAND CENTER FOR SCHOOL SAFETY, THE JUVENILE SERVICES EDUCATION
+4 PROGRAM, OR THE STATE BOARD under subsections (b), (c), [and] (e), AND (F) of this
+5 section is:
+6 (1) Used to provide appropriate educational programming and related
+7 services to the student and to maintain a safe and secure school environment for students
+8 and school personnel;
+9 (2) Transmitted only to school personnel of the school in which the student
+10 is enrolled, THE MARYLAND CENTER FOR SCHOOL SAFETY, THE JUVENILE
+11 SERVICES EDUCATION PROGRAM, OR THE STATE BOARD as necessary to carry out the
+12 purposes set forth in item (1) of this subsection; and
+13 (3) Destroyed when the student graduates or otherwise permanently
+14 leaves school or turns 22 years old, whichever occurs first.
+15 [(g)] (H) (1) Except as otherwise provided in paragraph (2) of this subsection,
+16 the local superintendent and the school principal shall consider prohibiting a student who
+17 is arrested for a reportable offense involving rape or a sexual offense from attending the
+18 same school or riding on the same school bus as the alleged victim of the reportable offense
+19 if such action is necessary or appropriate to protect the physical or psychological well–being
+20 of the alleged victim.
+21 (2) If a student is arrested for a reportable offense involving rape or a
+22 sexual offense and is convicted of or adjudicated delinquent for the rape or sexual offense,
+23 the student may not attend the same school or ride on the same school bus as the victim.
+24 [(h)] (I) Nothing in this section is intended to limit the manner in which a local
+25 school obtains information or uses information obtained by any lawful means other than
+26 that set forth in subsections (b), (c), [and] (e), AND (F) of this section.
+27 [(i)] (J) Each public school that enrolls students in grades six through twelve in
+28 the State shall designate at least one school security officer.
+29 [(j)] (K) (1) On or before December 30 each year, the Department, in
+30 accordance with State and federal privacy laws, shall submit to the Governor and, in
+31 accordance with § 2–1257 of the State Government Article, the General Assembly a report
+32 that includes the following information about each reportable offense for which a local
+33 school received information under subsection (b) of this section in the preceding school year:
+34 (i) The nature of the reportable offense;
+35 (ii) Verification that the offense occurred off school premises;
+
+6 HOUSE BILL 1211
+1 (iii) Action taken by the local school and county board after being
+2 notified of the reportable offense;
+3 (iv) The race, ethnicity, gender, and disability status of the student
+4 arrested for the reportable offense;
+5 (v) The grade of the student arrested for the reportable offense;
+6 (vi) The regular school program of the student arrested for the
+7 reportable offense;
+8 (vii) Whether the student’s regular school program was altered as a
+9 result of the reportable offense;
+10 (viii) If the student was removed from the student’s regular school
+11 program as a result of the reportable offense:
+12 1. The amount of time during which the student was
+13 removed; and
+14 2. The student’s placement and educational programming
+15 during the period of removal; and
+16 (ix) If removed from the student’s regular school program, the
+17 student’s academic performance during the time period the student was removed, including
+18 attendance, grades, and standardized test scores, and any additional disciplinary actions.
+19 (2) Each county board and public school shall provide the Department with
+20 any information necessary to issue its report in accordance with this section.
+21 [(k)] (L) If a student is removed or excluded from the student’s regular school
+22 program for a reportable offense, the principal or county superintendent shall invite the
+23 student’s attorney, if the student has an attorney, to participate in the conference between
+24 the student or the student’s parent or guardian and the principal or county superintendent,
+25 and the manifestation determination review, if applicable.
+26 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+27 1, 2025.
+
+[DELETED: :CA      5     D R B M M M M A E F a o t r t a t t M C f S S t J A S t J S E P a t S B o t d J S E P a t S B t t c i c a c s t p a c n t t M C f S c c a g r t r a o s a B  A S  A  (  S T A 7]
+[DELETED:  H   ( ( I   ( “ o h t m s i § 9 o t C   ( “ i   ( “ s   ( “    ( T e    ( T     1 A     2 A     3 C   ( “    ( O    ( D    ( I     1 A L     2 A C     3 A C     4 A § o     5 A L]
+[DELETED: H 3     6 A C     7 A v o § 9 o § 9 o t C L A     8 A     9 A     1 A L     1 A     1 A     1 A   ( “ i   ( ( “ s o i a s p a s s s    ( “   ( “ n  ( I t tt:   ( Sl  is [L  a    () T](    () T a]()[]    ()F]( s a]]
+[DELETED:  H  ( TMCSS; A E C A ( TJSEP; U E D RM ( TSB; T OD    () M n te S A o t a a]()[]T H cs.  ( T er ],,MCSS or t s pT A E F C AY TSEP,S E D RM A T T O  o t d s  ( E i al  t   ( I e)ad )   ],,(   ( M  ( ( N s or  ],,M  A E C AY  U E D RM S,JSEP O   a s h d t   ( A a a s u t s s i i t t i r  )N(O T P O S D O TN  A EMS,JSEP, AY  U E D RM  T W A S W I H B O U B D ]
+[DELETED: H 5  () T S B s a r t e t i]( o or ]CSS,JS E C AY  U E D,SB[],(M  T OD     ad )  s   ( U t p a e p a r s a   ( T i edMCSS, A E F C AY T UEP,S D RM  T O a p   ( D w t s g o o p l  () ( E]( t i s i o   ( I a s i a f a r o i r o a s t  () N]( s t ad )o],( F  () E]( t  () ( O o b D 3 e y t D i]( a w S a f p l s s t t G a i a t s    ( T    ( V]
+[DELETED:  H     ( A n    ( T a    ( T    ( T r s p o t s a f t r    ( W r    ( I t s w r f t s r s p     1 T a o t d w t s w r     2 T s p a e p d    ( I r f t s r s p t s a   ( E a  () I]( p s t a  S 1]

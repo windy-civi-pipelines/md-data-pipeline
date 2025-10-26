@@ -1,0 +1,165 @@
+Title: SENATE BILL 80
+Official Title: SENATE BILL 80
+Number of Sections: 1
+Source: versions - First - Criminal Law - Animal Abuse or Neglect - Penalties
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+E1 5lr1397
+SB 872/24 – JPR (PRE–FILED)
+By: Senator Kramer
+Requested: October 25, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Law – Animal Abuse or Neglect – Penalties
+3 FOR the purpose of establishing increased penalties for the abuse or neglect of an animal
+4 if the abuse or neglect results in the death or euthanasia of the animal; authorizing
+5 the court, as a condition of sentencing a certain defendant, to prohibit the defendant
+6 from owning, possessing, or residing with an animal for a certain period of time; and
+7 generally relating to animal abuse and neglect.
+8 BY repealing and reenacting, with amendments,
+9 Article – Criminal Law
+10 Section 10–604
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Criminal Law
+16 10–604.
+17 (a) A person may not:
+18 (1) overdrive or overload an animal;
+19 (2) deprive an animal of necessary sustenance;
+20 (3) inflict unnecessary suffering or pain on an animal;
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0080*
+2 SENATE BILL 80
+1 (4) cause, procure, or authorize an act prohibited under item (1), (2), or (3)
+2 of this subsection; or
+3 (5) if the person has charge or custody of an animal, as owner or otherwise,
+4 unnecessarily fail to provide the animal with:
+5 (i) nutritious food in sufficient quantity;
+6 (ii) necessary veterinary care;
+7 (iii) proper drink;
+8 (iv) proper air;
+9 (v) proper space;
+10 (vi) proper shelter; or
+11 (vii) proper protection from the weather.
+12 (b) (1) A person who violates this section is guilty of a misdemeanor and on
+13 conviction is subject to:
+14 (I) FOR A VIOLATION THAT DOES NOT RESULT IN THE DEATH OF
+15 AN ANIMAL OR THE NEED TO EUTHANIZE THE ANIMAL, imprisonment not exceeding 90
+16 days or a fine not exceeding $1,000 or both; OR
+17 (II) FOR A VIOLATION OF THIS SECTION THAT RESULTS IN THE
+18 DEATH OF AN ANIMAL OR THE NEED TO EUTHANIZE THE ANIMAL BASED ON THE
+19 RECOMMENDATION OF A LICENSED VETERINARIAN, IMPRISONMENT NOT
+20 EXCEEDING 3 YEARS OR A FINE NOT EXCEEDING $5,000 OR BOTH, IF THE DECISION
+21 TO EUTHANIZE THE ANIMAL IS VALIDATED, BEFORE OR AFTER THE EUTHANASIA OF
+22 THE ANIMAL BY:
+23 1. A SECOND LICENSED VETERINARIAN; OR
+24 2. IF THE ANIMAL IS A LIVESTOCK OR AGRICULTURAL
+25 ANIMAL, THE STATE VETERINARIAN.
+26 (2) As a condition of sentencing OF A DEFENDANT CONVICTED OF
+27 VIOLATING THIS SECTION, the court may:
+28 (I) order [a] THE defendant [convicted of violating this section] to:
+29 [(i)] 1. participate in and pay for psychological counseling; and
+SENATE BILL 80 3
+1 [(ii)] 2. pay, in addition to any other fines and costs, all reasonable
+2 costs incurred in removing, housing, treating, or euthanizing an animal confiscated from
+3 the defendant; AND
+4 (II) PROHIBIT THE DEFENDANT FROM OWNING, POSSESSING, OR
+5 RESIDING WITH AN ANIMAL FOR A PERIOD OF TIME DETERMINED BY THE COURT.
+6 (3) As a condition of probation, the court may prohibit a defendant from
+7 owning, possessing, or residing with an animal FOR A PERIOD OF TIME DETERMINED BY
+8 THE COURT.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2025.
+[DELETED: :CA      5 (   A C F i t f g B  A S  A  (  S T A 1  ( A   ( o   ( d   ( i]
+[DELETED:  S    ( c o   ( i u    ( n    ( n    ( p    ( p    ( p    ( p    ( p  ( ( A c  ()F   d  ()IF O A L VN I N    H $0D    1 ;N    2 A I L OL  T ES .   ( A a c o sO A D C O ,  () [][  o a  cn     ()p] 1 ]
+[DELETED: S 3    () p] 2 c t  () ,IPG G  .   ( A o .  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 80
+E1 5lr1397
+SB 872/24 – JPR (PRE–FILED)
+By: Senator Kramer
+Requested: October 25, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Law – Animal Abuse or Neglect – Penalties
+3 FOR the purpose of establishing increased penalties for the abuse or neglect of an animal
+4 if the abuse or neglect results in the death or euthanasia of the animal; authorizing
+5 the court, as a condition of sentencing a certain defendant, to prohibit the defendant
+6 from owning, possessing, or residing with an animal for a certain period of time; and
+7 generally relating to animal abuse and neglect.
+8 BY repealing and reenacting, with amendments,
+9 Article – Criminal Law
+10 Section 10–604
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Criminal Law
+16 10–604.
+17 (a) A person may not:
+18 (1) overdrive or overload an animal;
+19 (2) deprive an animal of necessary sustenance;
+20 (3) inflict unnecessary suffering or pain on an animal;
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0080*
+
+2 SENATE BILL 80
+1 (4) cause, procure, or authorize an act prohibited under item (1), (2), or (3)
+2 of this subsection; or
+3 (5) if the person has charge or custody of an animal, as owner or otherwise,
+4 unnecessarily fail to provide the animal with:
+5 (i) nutritious food in sufficient quantity;
+6 (ii) necessary veterinary care;
+7 (iii) proper drink;
+8 (iv) proper air;
+9 (v) proper space;
+10 (vi) proper shelter; or
+11 (vii) proper protection from the weather.
+12 (b) (1) A person who violates this section is guilty of a misdemeanor and on
+13 conviction is subject to:
+14 (I) FOR A VIOLATION THAT DOES NOT RESULT IN THE DEATH OF
+15 AN ANIMAL OR THE NEED TO EUTHANIZE THE ANIMAL, imprisonment not exceeding 90
+16 days or a fine not exceeding $1,000 or both; OR
+17 (II) FOR A VIOLATION OF THIS SECTION THAT RESULTS IN THE
+18 DEATH OF AN ANIMAL OR THE NEED TO EUTHANIZE THE ANIMAL BASED ON THE
+19 RECOMMENDATION OF A LICENSED VETERINARIAN, IMPRISONMENT NOT
+20 EXCEEDING 3 YEARS OR A FINE NOT EXCEEDING $5,000 OR BOTH, IF THE DECISION
+21 TO EUTHANIZE THE ANIMAL IS VALIDATED, BEFORE OR AFTER THE EUTHANASIA OF
+22 THE ANIMAL BY:
+23 1. A SECOND LICENSED VETERINARIAN; OR
+24 2. IF THE ANIMAL IS A LIVESTOCK OR AGRICULTURAL
+25 ANIMAL, THE STATE VETERINARIAN.
+26 (2) As a condition of sentencing OF A DEFENDANT CONVICTED OF
+27 VIOLATING THIS SECTION, the court may:
+28 (I) order [a] THE defendant [convicted of violating this section] to:
+29 [(i)] 1. participate in and pay for psychological counseling; and
+
+SENATE BILL 80 3
+1 [(ii)] 2. pay, in addition to any other fines and costs, all reasonable
+2 costs incurred in removing, housing, treating, or euthanizing an animal confiscated from
+3 the defendant; AND
+4 (II) PROHIBIT THE DEFENDANT FROM OWNING, POSSESSING, OR
+5 RESIDING WITH AN ANIMAL FOR A PERIOD OF TIME DETERMINED BY THE COURT.
+6 (3) As a condition of probation, the court may prohibit a defendant from
+7 owning, possessing, or residing with an animal FOR A PERIOD OF TIME DETERMINED BY
+8 THE COURT.
+9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+10 October 1, 2025.
+
+[DELETED: :CA      5 (   A C F i t f g B  A S  A  (  S T A 1  ( A   ( o   ( d   ( i]
+[DELETED:  S    ( c o   ( i u    ( n    ( n    ( p    ( p    ( p    ( p    ( p  ( ( A c  ()F   d  ()IF O A L VN I N    H $0D    1 ;N    2 A I L OL  T ES .   ( A a c o sO A D C O ,  () [][  o a  cn     ()p] 1 ]
+[DELETED: S 3    () p] 2 c t  () ,IPG G  .   ( A o .  S A B I F E T t A s t e O]

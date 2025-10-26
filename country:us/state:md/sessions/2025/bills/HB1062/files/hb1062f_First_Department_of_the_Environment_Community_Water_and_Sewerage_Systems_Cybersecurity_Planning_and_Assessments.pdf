@@ -1,0 +1,350 @@
+HOUSE BILL 1062
+M3, S2 5lr3261
+CF SB 871
+By: Delegate Harrison
+Introduced and read first time: February 5, 2025
+Assigned to: Environment and Transportation and Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Department of the Environment – Community Water and Sewerage Systems –
+3 Cybersecurity Planning and Assessments
+4 FOR the purpose of requiring the Department of the Environment to coordinate, in
+5 coordination with the Department of Information Technology and the Maryland
+6 Department of Emergency Management, cybersecurity efforts within community
+7 water systems and community sewerage systems; establishing the responsibilities of
+8 the Department of the Environment, the Department of Information Technology,
+9 and the Maryland Department of Emergency Management with respect to
+10 regulating, assessing, and promoting cybersecurity efforts within the water and
+11 wastewater sector; requiring certain community water system and community
+12 sewerage system providers in the State to take certain cybersecurity measures and
+13 report certain cybersecurity incidents; prohibiting the inspection of public records
+14 related to the security of critical infrastructure; and generally relating to
+15 cybersecurity planning and assessments for community water systems and
+16 community sewerage systems.
+17 BY adding to
+18 Article – Environment
+19 Section 9–2701 through 9–2707 to be under the new subtitle “Subtitle 27.
+20 Community Water and Sewerage System Cybersecurity”
+21 Annotated Code of Maryland
+22 (2014 Replacement Volume and 2024 Supplement)
+23 BY repealing and reenacting, with amendments,
+24 Article – General Provisions
+25 Section 4–338
+26 Annotated Code of Maryland
+27 (2019 Replacement Volume and 2024 Supplement)
+28 BY repealing and reenacting, with amendments,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1062*
+
+2 HOUSE BILL 1062
+1 Article – Public Safety
+2 Section 14–104.1
+3 Annotated Code of Maryland
+4 (2022 Replacement Volume and 2024 Supplement)
+5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+6 That the Laws of Maryland read as follows:
+7 Article – Environment
+8 SUBTITLE 27. COMMUNITY WATER AND SEWERAGE SYSTEM CYBERSECURITY.
+9 9–2701.
+10 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+11 INDICATED.
+12 (B) “COMMUNITY SEWERAGE SYSTEM” HAS THE MEANING STATED IN §
+13 9–501 OF THIS TITLE.
+14 (C) “COMMUNITY WATER SYSTEM” HAS THE MEANING STATED IN § 9–401 OF
+15 THIS TITLE.
+16 (D) “CYBERSECURITY” MEANS PROCESSES OR CAPABILITIES WHEREIN
+17 SYSTEMS, COMMUNICATIONS, AND INFORMATION ARE PROTECTED AND DEFENDED
+18 AGAINST DAMAGE, UNAUTHORIZED USE OR MODIFICATION, AND EXPLOITATION.
+19 (E) (1) “OPERATIONAL TECHNOLOGY” MEANS PROGRAMMABLE SYSTEMS
+20 OR DEVICES THAT INTERACT WITH THE PHYSICAL ENVIRONMENT BY DETECTING OR
+21 CAUSING A DIRECT CHANGE THROUGH THE MONITORING OR CONTROL OF DEVICES,
+22 PROCESSES, AND EVENTS.
+23 (2) “OPERATIONAL TECHNOLOGY” INCLUDES:
+24 (I) INDUSTRIAL CONTROL SYSTEMS;
+25 (II) BUILDING MANAGEMENT SYSTEMS;
+26 (III) FIRE CONTROL SYSTEMS; AND
+27 (IV) PHYSICAL ACCESS CONTROL MECHANISMS.
+28 (F) “WATER AND WASTEWATER SECTOR” MEANS ALL PROVIDERS,
+29 INCLUDING PRIVATE AND PUBLIC, OF WATER SUPPLY OR SEWERAGE SERVICES.
+
+HOUSE BILL 1062 3
+1 (G) “ZERO–TRUST” MEANS A CYBERSECURITY APPROACH:
+2 (1) FOCUSED ON CYBERSECURITY RESOURCE PROTECTION; AND
+3 (2) BASED ON THE PREMISE THAT TRUST IS NEVER GRANTED
+4 IMPLICITLY BUT MUST BE CONTINUALLY EVALUATED.
+5 9–2702.
+6 THE DEPARTMENT SHALL:
+7 (1) IN COORDINATION WITH THE DEPARTMENT OF INFORMATION
+8 TECHNOLOGY AND THE MARYLAND DEPARTMENT OF EMERGENCY MANAGEMENT,
+9 COORDINATE CYBERSECURITY EFFORTS WITHIN COMMUNITY WATER SYSTEMS AND
+10 COMMUNITY SEWERAGE SYSTEMS;
+11 (2) INCLUDE CYBERSECURITY AWARENESS COMPONENTS FOR ALL
+12 NEW AND RENEWING OPERATOR AND SUPERINTENDENT CERTIFICATIONS UNDER
+13 TITLE 12 OF THIS ARTICLE; AND
+14 (3) IN CONSULTATION WITH THE DEPARTMENT OF INFORMATION
+15 TECHNOLOGY:
+16 (I) UPDATE REGULATIONS GOVERNING COMMUNITY WATER
+17 SYSTEMS AND COMMUNITY SEWERAGE SYSTEMS TO:
+18 1. INCLUDE COMPREHENSIVE SECTIONS REGARDING
+19 CYBERSECURITY STANDARDS FOR WATER AND WASTEWATER TREATMENT
+20 FACILITIES; AND
+21 2. REQUIRE COMMUNITY WATER SYSTEM AND
+22 COMMUNITY SEWERAGE SYSTEM PROVIDERS TO REPORT CYBER INCIDENTS
+23 CONSISTENT WITH DEPARTMENT OF INFORMATION TECHNOLOGY GUIDANCE TO
+24 UTILITIES REGARDING CYBER INCIDENTS;
+25 (II) PROMULGATE MINIMUM CYBERSECURITY STANDARDS FOR
+26 ESTABLISHED COMMUNITY WATER SYSTEMS AND COMMUNITY SEWERAGE SYSTEMS
+27 THAT MEET OR EXCEED THE FEDERAL CYBERSECURITY AND INFRASTRUCTURE
+28 SECURITY AGENCY’S CROSS–SECTOR CYBERSECURITY PERFORMANCE GOALS;
+29 (III) REQUIRE COMMUNITY WATER SYSTEMS AND COMMUNITY
+30 SEWERAGE SYSTEMS TO PLAN FOR DISRUPTIONS OF SERVICE DUE TO CYBER
+
+4 HOUSE BILL 1062
+1 INCIDENTS, INCLUDING RANSOMWARE ATTACKS AND OTHER EVENTS RESULTING IN
+2 ROOT–LEVEL COMPROMISE;
+3 (IV) ESTABLISH A LIST OF APPROVED CYBERSECURITY
+4 TRAINING PROGRAMS FOR STAFF RESPONSIBLE FOR MAINTAINING OR OPERATING
+5 WATER AND WASTEWATER FACILITIES; AND
+6 (V) IMPLEMENT MEASURES TO PROTECT THE ACTIVE
+7 CERTIFIED OPERATORS LIST MAINTAINED ON THE DEPARTMENT’S WEBSITE WHILE
+8 ENSURING LEGITIMATE ACCESS FOR NECESSARY PURPOSES.
+9 9–2703.
+10 THE DEPARTMENT OF INFORMATION TECHNOLOGY SHALL:
+11 (1) EMPLOY A PERSON TRAINED IN THE CYBERSECURITY OF
+12 OPERATIONAL TECHNOLOGY TO WORK WITH THE STATE CHIEF INFORMATION
+13 SECURITY OFFICER AND THE CYBER PREPAREDNESS UNIT IN THE MARYLAND
+14 DEPARTMENT OF EMERGENCY MANAGEMENT TO SUPPORT EFFORTS RELATED TO
+15 OPERATIONAL TECHNOLOGY IN CRITICAL INFRASTRUCTURE;
+16 (2) ALLOW ALL MEMBERS OF THE WATER AND WASTEWATER SECTOR
+17 IN THE STATE TO JOIN THE MARYLAND INFORMATION SHARING AND ANALYSIS
+18 CENTER TO FURTHER STRENGTHEN CYBERSECURITY EFFORTS AND INFORMATION
+19 SHARING WITHIN THE SECTOR;
+20 (3) IN CONSULTATION WITH THE DEPARTMENT, DEVELOP AND
+21 PROMOTE A GUIDANCE DOCUMENT THAT:
+22 (I) PROVIDES STANDARDS THAT MEET OR EXCEED THE
+23 FEDERAL CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY’S
+24 CROSS–SECTOR CYBERSECURITY PERFORMANCE GOALS; AND
+25 (II) OUTLINES THE BEST PRACTICES BEYOND MINIMUM
+26 STANDARDS THAT CAN SERVE AS A POINT OF REFERENCE FOR ENHANCING THE
+27 CYBERSECURITY POSTURE OF COMMUNITY WATER SYSTEM AND COMMUNITY
+28 SEWERAGE SYSTEM PROVIDERS; AND
+29 (4) PROVIDE RESOURCES FOR CYBERSECURITY SPRINT TARGETING
+30 OF COMMUNITY WATER SYSTEM AND COMMUNITY SEWERAGE SYSTEM PROVIDERS
+31 TO IDENTIFY WEAKNESSES AND ASSIST WITH SECURITY IMPROVEMENTS.
+32 9–2704.
+
+HOUSE BILL 1062 5
+1 ALL COMMUNITY WATER SYSTEM AND COMMUNITY SEWERAGE SYSTEM
+2 PROVIDERS IN THE STATE SHALL:
+3 (1) APPOINT A PRIMARY POINT OF CONTACT FOR CYBERSECURITY TO
+4 INTERACT WITH THE MARYLAND DEPARTMENT OF EMERGENCY MANAGEMENT AND
+5 THE DEPARTMENT OF INFORMATION TECHNOLOGY REGARDING
+6 CYBERSECURITY–RELATED MATTERS; AND
+7 (2) ATTEND ANNUAL TRAININGS TO IMPROVE CYBERSECURITY
+8 AWARENESS.
+9 9–2705.
+10 (A) THIS SECTION APPLIES TO A COMMUNITY WATER SYSTEM OR
+11 COMMUNITY SEWERAGE SYSTEM IN THE STATE THAT:
+12 (1) SERVES OVER 3,300 CUSTOMERS; OR
+13 (2) UTILIZES INFORMATION TECHNOLOGY AND OPERATIONAL
+14 TECHNOLOGY AS PART OF ITS OPERATIONS.
+15 (B) EACH COMMUNITY WATER SYSTEM AND COMMUNITY SEWERAGE
+16 SYSTEM PROVIDER SHALL:
+17 (1) ADOPT AND IMPLEMENT CYBERSECURITY STANDARDS THAT ARE
+18 EQUAL TO OR EXCEED THE STANDARDS ADOPTED BY THE DEPARTMENT UNDER §
+19 9–2702(3)(II) OF THIS SUBTITLE;
+20 (2) ADOPT A ZERO–TRUST CYBERSECURITY APPROACH, SIMILAR TO
+21 THE FEDERAL CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY’S
+22 ZERO–TRUST MATURITY MODEL, FOR ON–PREMISES SERVICES AND CLOUD–BASED
+23 SERVICES; AND
+24 (3) ON OR BEFORE JULY 1, 2026, AND EACH JULY 1 THEREAFTER,
+25 ENGAGE WITH A THIRD PARTY TO CONDUCT AN ASSESSMENT OF THE OPERATIONAL
+26 TECHNOLOGY AND INFORMATION TECHNOLOGY DEVICES OF THE COMMUNITY
+27 WATER SYSTEM OR COMMUNITY SEWERAGE SYSTEM, BASED ON THE MINIMUM
+28 CYBERSECURITY STANDARDS ESTABLISHED UNDER § 9–2702(3)(II) OF THIS
+29 SUBTITLE.
+30 9–2706.
+
+6 HOUSE BILL 1062
+1 (A) ON OR BEFORE OCTOBER 1, 2026, AND EVERY 2 YEARS THEREAFTER,
+2 THE OFFICE OF SECURITY MANAGEMENT IN THE DEPARTMENT OF INFORMATION
+3 TECHNOLOGY SHALL:
+4 (1) COLLECT CERTIFICATIONS OF EACH COMMUNITY WATER SYSTEM
+5 AND COMMUNITY SEWERAGE SYSTEM PROVIDER’S COMPLIANCE WITH STANDARDS
+6 USED IN THE ASSESSMENTS CONDUCTED UNDER § 9–2705(B)(4) OF THIS SUBTITLE
+7 FOR CYBERSECURITY–RELATED POLICIES AND PROCEDURES; AND
+8 (2) SUBMIT A REPORT TO THE STATE CHIEF INFORMATION
+9 SECURITY OFFICER, OR THE OFFICER’S DESIGNEE.
+10 (B) THE REPORT REQUIRED UNDER SUBSECTION (A)(2) OF THIS SECTION
+11 SHALL INCLUDE:
+12 (1) A GENERAL OVERVIEW OF CYBERSECURITY TECHNOLOGY AND
+13 POLICIES USED BY COMMUNITY WATER SYSTEMS AND COMMUNITY SEWERAGE
+14 SYSTEMS IN THE STATE, GROUPED BY NUMBER OF CUSTOMERS SERVED; AND
+15 (2) GENERAL RECOMMENDATIONS FOR IMPROVING CYBERSECURITY
+16 TECHNOLOGY AND POLICIES USED BY COMMUNITY WATER SYSTEMS AND
+17 COMMUNITY SEWERAGE SYSTEMS IN THE STATE, GROUPED BY NUMBER OF
+18 CUSTOMERS SERVED.
+19 9–2707.
+20 (A) EACH COMMUNITY WATER SYSTEM AND COMMUNITY SEWERAGE
+21 SYSTEM SHALL REPORT, IN ACCORDANCE WITH THE PROCESS ESTABLISHED UNDER
+22 SUBSECTION (B) OF THIS SECTION, A CYBERSECURITY INCIDENT, INCLUDING AN
+23 ATTACK ON AN INFORMATION TECHNOLOGY SYSTEM BEING USED BY THE
+24 COMMUNITY WATER SYSTEM OR COMMUNITY SEWERAGE SYSTEM PROVIDER, TO THE
+25 STATE SECURITY OPERATIONS CENTER IN THE DEPARTMENT OF INFORMATION
+26 TECHNOLOGY.
+27 (B) (1) THE STATE CHIEF INFORMATION SECURITY OFFICER, IN
+28 CONSULTATION WITH THE DEPARTMENT, SHALL ESTABLISH A PROCESS FOR
+29 COMMUNITY WATER SYSTEM PROVIDERS, COMMUNITY SEWERAGE SYSTEM
+30 PROVIDERS, AND OTHER MEMBERS OF THE WATER AND WASTEWATER SECTOR TO
+31 REPORT CYBERSECURITY INCIDENTS.
+32 (2) THE REPORTING PROCESS SHALL SPECIFY:
+
+HOUSE BILL 1062 7
+1 (I) THE CIRCUMSTANCES UNDER WHICH AN INCIDENT MUST BE
+2 REPORTED;
+3 (II) THE MANNER IN WHICH AN ENTITY MUST REPORT AN
+4 INCIDENT; AND
+5 (III) THE TIME PERIOD WITHIN WHICH AN ENTITY MUST REPORT
+6 AN INCIDENT.
+7 (C) THE STATE SECURITY OPERATIONS CENTER SHALL IMMEDIATELY
+8 NOTIFY THE APPROPRIATE STATE AND LOCAL GOVERNMENT AGENCIES OF A
+9 CYBERSECURITY INCIDENT REPORTED UNDER THIS SECTION.
+10 (D) (1) ON OR BEFORE JANUARY 1, 2027, AND EACH YEAR THEREAFTER,
+11 THE OFFICE OF SECURITY MANAGEMENT IN THE DEPARTMENT OF INFORMATION
+12 TECHNOLOGY SHALL PUBLISH A REPORT THAT DESCRIBES THE NUMBER AND TYPE
+13 OF INCIDENTS REPORTED BY COMMUNITY WATER SYSTEMS AND COMMUNITY
+14 SEWERAGE SYSTEMS IN THE PRECEDING CALENDAR YEAR.
+15 (2) THE REPORT REQUIRED UNDER THIS SUBSECTION MAY NOT
+16 IDENTIFY THE IMPACTED COMMUNITY WATER SYSTEMS OR COMMUNITY SEWERAGE
+17 SYSTEMS.
+18 Article – General Provisions
+19 4–338.
+20 (A) IN THIS SECTION, “CRITICAL INFRASTRUCTURE” HAS THE MEANING
+21 STATED IN § 1–101 OF THE PUBLIC UTILITIES ARTICLE.
+22 (B) A custodian shall deny inspection of the part of a public record that contains
+23 information about the security of an information system OR CRITICAL
+24 INFRASTRUCTURE.
+25 Article – Public Safety
+26 14–104.1.
+27 (a) (1) In this section the following words have the meanings indicated.
+28 (2) “COMMUNITY SEWERAGE SYSTEM” HAS THE MEANING STATED IN
+29 § 9–501 OF THE ENVIRONMENT ARTICLE.
+
+8 HOUSE BILL 1062
+1 (3) “COMMUNITY WATER SYSTEM” HAS THE MEANING STATED IN §
+2 9–401 OF THE ENVIRONMENT ARTICLE.
+3 (4) “CRISIS AND EMERGENCY RISK COMMUNICATION PLAN” MEANS A
+4 PLAN FOR COMMUNICATING DURING AN EMERGENCY.
+5 [(2)] (5) “Local government” includes local school systems, local school
+6 boards, and local health departments.
+7 [(3)] (6) “Unit” means the Cyber Preparedness Unit.
+8 (b) (1) There is a Cyber Preparedness Unit in the Department.
+9 (2) In coordination with the State Chief Information Security Officer, the
+10 Unit shall:
+11 (i) support local governments in developing a vulnerability
+12 assessment and cyber assessment, including providing local governments with the
+13 resources and information on best practices to complete the assessments;
+14 (ii) develop and regularly update an online database of cybersecurity
+15 training resources for local government personnel, including technical training resources,
+16 cybersecurity continuity of operations templates, consequence management plans, and
+17 trainings on malware and ransomware detection;
+18 (iii) assist local governments in[:
+19 1.] the development of cybersecurity preparedness and
+20 response plans[;], INCLUDING:
+21 [2.] 1. implementing best practices and guidance
+22 developed by the State Chief Information Security Officer; [and]
+23 [3.] 2. identifying and acquiring resources to complete
+24 appropriate cybersecurity vulnerability assessments; AND
+25 3. PLANNING FOR INCIDENTS AGAINST WATER AND
+26 WASTEWATER FACILITIES, INCLUDING ENSURING THAT THERE ARE PLANS FOR
+27 ALTERNATIVE WATER SUPPLIES AND MUTUAL AID AGREEMENTS SHOULD WATER
+28 SERVICES BECOME UNAVAILABLE;
+29 (iv) connect local governments to appropriate resources for any other
+30 purpose related to cybersecurity preparedness and response;
+
+HOUSE BILL 1062 9
+1 (v) as necessary and in coordination with the National Guard, local
+2 emergency managers, and other State and local entities, conduct regional cybersecurity
+3 preparedness exercises; [and]
+4 (vi) establish regional assistance groups to deliver and coordinate
+5 support services to local governments, agencies, or regions;
+6 (VII) ANNUALLY HOST AT LEAST ONE TABLETOP EXERCISE,
+7 TAILORED TO THE STATE’S WATER AND WASTEWATER SECTOR, TO CONTINUE
+8 REFINING STATE AND LOCAL GOVERNMENT RESPONSES TO CYBER INCIDENTS; AND
+9 (VIII) DEVELOP A CRISIS AND EMERGENCY RISK COMMUNICATION
+10 PLAN FOR COMMUNITY WATER SYSTEMS AND COMMUNITY SEWERAGE SYSTEMS IN
+11 THE STATE.
+12 (3) The Unit shall support the Office of Security Management in the
+13 Department of Information Technology during emergency response efforts.
+14 (c) (1) Each local government shall report a cybersecurity incident, including
+15 an attack on a State system being used by the local government, to the appropriate local
+16 emergency manager and the State Security Operations Center in the Department of
+17 Information Technology and to the Maryland Joint Operations Center in the Department
+18 in accordance with paragraph (2) of this subsection.
+19 (2) For the reporting of cybersecurity incidents under paragraph (1) of this
+20 subsection, the State Chief Information Security Officer shall determine:
+21 (i) the criteria for determining when an incident must be reported;
+22 (ii) the manner in which to report; and
+23 (iii) the time period within which a report must be made.
+24 (3) The State Security Operations Center shall immediately notify
+25 appropriate agencies of a cybersecurity incident reported under this subsection through the
+26 State Security Operations Center.
+27 (d) (1) Five Position Identification Numbers (PINs) shall be created for the
+28 purpose of hiring staff to conduct the duties of the Maryland Department of Emergency
+29 Management Cybersecurity Preparedness Unit.
+30 (2) For fiscal year 2024 and each fiscal year thereafter, the Governor shall
+31 include in the annual budget bill an appropriation of at least:
+32 (i) $220,335 for 3 PINs for Administrator III positions; and
+
+10 HOUSE BILL 1062
+1 (ii) $137,643 for 2 PINs for Administrator II positions.
+2 (E) THE DEPARTMENT SHALL:
+3 (1) INCLUDE CYBERSECURITY ATTACK INFORMATION ON THE
+4 DEPARTMENT’S “KNOW THE THREATS” WEBSITE; AND
+5 (2) CONSIDER USING MD READY AS AN ALERT SYSTEM IF
+6 NECESSARY.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That:
+8 (a) It is the intent of the General Assembly that the Department of the
+9 Environment, in consultation with the Department of Information Technology, conduct a
+10 comprehensive education campaign targeted at leaders within the water and wastewater
+11 sector, emphasizing the economic value of cybersecurity prevention over remediation.
+12 (b) The education campaign under subsection (a) of this section shall include
+13 mention of the following information and materials:
+14 (1) the U.S. Environmental Protection Agency’s Incident Action Checklist
+15 – Cybersecurity for all water and wastewater systems in the State;
+16 (2) the National Institute of Standards and Technology’s:
+17 (i) Cybersecurity Framework 2.0;
+18 (ii) Special Publication 800–82r3; and
+19 (iii) security recommendations;
+20 (3) reference models appropriate to the State’s water and wastewater
+21 sector’s operational technology networks to guide security improvements;
+22 (4) best practices, including network segmentation;
+23 (5) the federal Cybersecurity and Infrastructure Security Agency’s “Top
+24 Cyber Actions for Securing Water Systems” fact sheet;
+25 (6) the U.S. Department of Energy’s Supply Chain Cybersecurity
+26 Principles;
+27 (7) information on third–party risks to water and wastewater facilities and
+28 networks; and
+
+HOUSE BILL 1062 11
+1 (8) free resources available from federal agencies, including the
+2 Cybersecurity and Infrastructure Security Agency’s:
+3 (i) Cross–Sector Cybersecurity Goals; and
+4 (ii) Cybersecurity Evaluation Tool.
+5 (c) On or before July 1, 2026, the Department of the Environment shall report to
+6 the General Assembly, in accordance with § 2–1257 of the State Government Article, on its
+7 efforts under subsection (a) of this section.
+8 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 October 1, 2025.
+
+[DELETED: :CA      5   C A D C F t p o r t D o t E t c i c w t D o I T a t M D o E M c e w c w t a t M D o E M w r t r a a p c e w t w a w s r c c w s a c s r r t t s o c i a g r t c p a a f c w s a c B  A S 9 t 9 t b u t n s “ 2 C  A  ( B  A S  A  ( B]
+[DELETED:  H   A S  A  (  S T A2.CWSSC.  O A E Y Y() N T S T F W H T M() “C”§O S SM H T M S I 1.() “C”§9OM    () “CYY M P O C WS S E N ,.() ( “OPY SS . ( “O”:Y   () I;N  () B;IU  () F;IIS   () P.VH() “W”A A W SR M A PSC .]
+[DELETED: H 3() “Z–”:EOTT  ( F;N  (  O T P T T I N GTD: E ( ID C W T E O NMDEM A E M AT (  C A C F A12;  E  ( ID C W T E O N:  () P R G C WO   1  C S R S F W A W TS    2  C W S A S S P T R C I W E O N E G TI  () IR M O E T F Y A NA’–; GYSSS  () IE C W S A C S T P F D O S D T C]
+[DELETED:  H S TLE;  () VS A L O A CS   () M M T P T A ETSTDIT: E N E (  A P T I T C O T T W W T T H NCOCPU F A T Y R N I T AE M A (  T T T J T A N H A NMIS ( ID C W T ET D AT  () R S T M O E T Y A N E GYSISA’SSS ;  () IU T B P B M T C S A A P O R F E T P O C W S A CS  ( ]
+[DELETED: H 5 C W S A C S S T: (  A E M ADE E O N E RITYRS ; (  A T T I C() H S A T A C W S O T: ( S30;  S  (  I T A OS() A C W S A C S (  E §();I  ( A–OTH  F Y A N E GYSISA’OTL NPDB,–S  ( OJ1,2,J1 U    U  R A I T D O T C S O C S SM B O T M S E U  II O T9(]
+[DELETED:  H () OO1,2,2N C     R F E A E NSMD: ( RS  B 9()YRS ; ( SSC A R T T T H NO,O’. FR  FRS() T()H A  ( G O O C T A U B C W S A C S TE D ,; (  A P U B C W S A S S I T TE G B N O() A C W S A C ST  B O T SN A C IT I A), O A I T S B U B TR SOCD E P E E N.() ( TSCISOH T H N E FR I W T ET S E A P F W S PS C S SS S ( T:]
+[DELETED: H 7  () H  () IH M I W A E M R AT   () IH() TSSOH T E P E S I T A T A L G A O AN() ( OJ1,2,N A   R F E A E NSMD I R B C W S A C (  R R U T S M N A 4 ) I,“N T SN C IE H T M    U T R11PUA.  A) i a t s o a i sO C . A 1  ( ( I ( “CM 91EA.  N RE]
+[DELETED:  H  ( “C”§M H M 1EA. N R ( “CN  []( ()“ g i l s s l s b   () “](  ( ( T   ( I U    ( s l g i d a v a a c a i p l g w t r    ( d t c c o o t c m p a t    ( an:     1. t d o c p a rs],:     2.  i b p a g]1 d a]     3.  i a a r t c]2 a   3 F I A W A FS I E T T A P F W A A A S W    ( c p]
+[DELETED: H 9    ( a e p a]    ( e r a g t d a c s  () IA H A L O T EE T T TES W A W SR T C’ TS ;  ()ID T .   ( T U s s t O o S M i t D  ( ( E a e m a t S S O C i t D o I i   ( F s    ( t    ( t    ( t   ( T S S O C s i n a S  ( ( F p M   ( F i    ( $]
+[DELETED:  H     ( $ ) TD:H E ( C A I O T’“KT”;TS N HS E  ( MD U  E A A A S I  S  ( I i t i o t G A t t D o t E c s  ( T e c u s ( o t s s i m   ( t –   ( t    ( C    ( S    ( s   ( r m a t t S w a w s   ( b   ( t f C a S A “ C   ( t U D o E S C C P   ( i n]
+[DELETED: H 1   ( f r a f f a i t C    ( C    ( C  ( O t e  S A B I F E T t A s t e O]
