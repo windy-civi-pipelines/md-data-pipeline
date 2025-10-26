@@ -1,0 +1,191 @@
+Title: HOUSE BILL 590
+Official Title: HOUSE BILL 590
+Number of Sections: 1
+Source: versions - First - Income Tax - Subtraction Modification - Public Safety Employee Retirement Income
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Q3 5lr1436
+CF 5lr1437
+By: Delegates Vogel and Griffith
+Introduced and read first time: January 23, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Income Tax – Subtraction Modification – Public Safety Employee Retirement
+3 Income
+4 FOR the purpose of altering a certain subtraction modification under the Maryland income
+5 tax for retirement income attributable to an individual’s employment as a public
+6 safety employee to include certain retirement income attributable to an individual’s
+7 employment as a 9–1–1 specialist; and generally relating to a subtraction
+8 modification under the Maryland income tax for the retirement income of public
+9 safety employees.
+10 BY repealing and reenacting, without amendments,
+11 Article – Tax – General
+12 Section 10–207(a)
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Tax – General
+17 Section 10–207(mm)
+18 Annotated Code of Maryland
+19 (2022 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, without amendments,
+21 Article – Tax – Property
+22 Section 9–262(a)(1) and (3)
+23 Annotated Code of Maryland
+24 (2019 Replacement Volume and 2024 Supplement)
+25 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+26 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0590*
+2 HOUSE BILL 590
+1 Article – Tax – General
+2 10–207.
+3 (a) To the extent included in federal adjusted gross income, the amounts under
+4 this section are subtracted from the federal adjusted gross income of a resident to determine
+5 Maryland adjusted gross income.
+6 (mm) (1) (i) In this subsection the following words have the meanings
+7 indicated.
+8 (ii) “Correctional officer” means an individual who:
+9 1. was employed in:
+10 A. a State correctional facility, as defined in § 1–101 of the
+11 Correctional Services Article;
+12 B. a local correctional facility, as defined in § 1–101 of the
+13 Correctional Services Article;
+14 C. a juvenile facility included in § 9–226 of the Human
+15 Services Article; or
+16 D. a facility of the United States that is equivalent to a State
+17 or local correctional facility or a juvenile facility included in § 9–226 of the Human Services
+18 Article; and
+19 2. is eligible to receive retirement income attributable to the
+20 individual’s employment under item 1 of this subparagraph.
+21 (iii) “Emergency services personnel” means emergency medical
+22 technicians [or], paramedics, OR 9–1–1 SPECIALISTS.
+23 (iv) “Employee retirement system” has the meaning stated under §
+24 10–209(a) of this subtitle.
+25 (V) “9–1–1 SPECIALIST” HAS THE MEANING STATED IN §
+26 9–262(A) OF THE TAX – PROPERTY ARTICLE.
+27 [(v)] (VI) “Public safety employee” means an individual who is a
+28 retired correctional officer, law enforcement officer, or fire, rescue, or emergency services
+29 personnel of the United States, the State, or a political subdivision of the State.
+30 (2) The subtraction under subsection (a) of this section includes the first
+31 $15,000 of income from an employee retirement system that is attributable to service as a
+HOUSE BILL 590 3
+1 public safety employee, if the income is received by an individual who is at least 55 years
+2 old on the last day of the taxable year.
+3 Article – Tax – Property
+4 9–262.
+5 (a) (1) In this section the following words have the meanings indicated.
+6 (3) “9–1–1 specialist” means an employee of a county public safety
+7 answering point, or an employee working in a county safety answering point, whose duties
+8 and responsibilities include:
+9 (i) receiving and processing 9–1–1 requests for emergency
+10 assistance;
+11 (ii) other support functions directly related to 9–1–1 requests for
+12 emergency assistance; or
+13 (iii) dispatching law enforcement officers, fire rescue services,
+14 emergency medical services, and other public safety services to the scene of an emergency.
+15 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+16 1, 2025, and shall be applicable to all taxable years beginning after December 31, 2024.
+[DELETED: :CA      5   C A I I F t s e a a 9 s a g r t a s m s B  A S  A  ( B  A S  A  ( B  A S  A  (  S T]
+[DELETED:  H  A 1  ( T t M  ( ( ( I t s t f w h t m i    ( “     1 w     A a C     B a C     C a j f i i § 9 o t H S     D a o A     2 i i    ( “ s p m e m t or s.],,9      ( “ 1   ) “1”§ ST H T M S I ()T–PA  A  R R      ()“ s e m a i w i a]()V r p   ( T $]
+[DELETED: H 3 p o A 9  ( ( I   ( “ s m a e o a c p s a a    ( r a p 9 r f e a    ( o s f d r t 9 r f e    ( d l e o f r s e  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 590
+Q3 5lr1436
+CF 5lr1437
+By: Delegates Vogel and Griffith
+Introduced and read first time: January 23, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Income Tax – Subtraction Modification – Public Safety Employee Retirement
+3 Income
+4 FOR the purpose of altering a certain subtraction modification under the Maryland income
+5 tax for retirement income attributable to an individual’s employment as a public
+6 safety employee to include certain retirement income attributable to an individual’s
+7 employment as a 9–1–1 specialist; and generally relating to a subtraction
+8 modification under the Maryland income tax for the retirement income of public
+9 safety employees.
+10 BY repealing and reenacting, without amendments,
+11 Article – Tax – General
+12 Section 10–207(a)
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Tax – General
+17 Section 10–207(mm)
+18 Annotated Code of Maryland
+19 (2022 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, without amendments,
+21 Article – Tax – Property
+22 Section 9–262(a)(1) and (3)
+23 Annotated Code of Maryland
+24 (2019 Replacement Volume and 2024 Supplement)
+25 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+26 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0590*
+
+2 HOUSE BILL 590
+1 Article – Tax – General
+2 10–207.
+3 (a) To the extent included in federal adjusted gross income, the amounts under
+4 this section are subtracted from the federal adjusted gross income of a resident to determine
+5 Maryland adjusted gross income.
+6 (mm) (1) (i) In this subsection the following words have the meanings
+7 indicated.
+8 (ii) “Correctional officer” means an individual who:
+9 1. was employed in:
+10 A. a State correctional facility, as defined in § 1–101 of the
+11 Correctional Services Article;
+12 B. a local correctional facility, as defined in § 1–101 of the
+13 Correctional Services Article;
+14 C. a juvenile facility included in § 9–226 of the Human
+15 Services Article; or
+16 D. a facility of the United States that is equivalent to a State
+17 or local correctional facility or a juvenile facility included in § 9–226 of the Human Services
+18 Article; and
+19 2. is eligible to receive retirement income attributable to the
+20 individual’s employment under item 1 of this subparagraph.
+21 (iii) “Emergency services personnel” means emergency medical
+22 technicians [or], paramedics, OR 9–1–1 SPECIALISTS.
+23 (iv) “Employee retirement system” has the meaning stated under §
+24 10–209(a) of this subtitle.
+25 (V) “9–1–1 SPECIALIST” HAS THE MEANING STATED IN §
+26 9–262(A) OF THE TAX – PROPERTY ARTICLE.
+27 [(v)] (VI) “Public safety employee” means an individual who is a
+28 retired correctional officer, law enforcement officer, or fire, rescue, or emergency services
+29 personnel of the United States, the State, or a political subdivision of the State.
+30 (2) The subtraction under subsection (a) of this section includes the first
+31 $15,000 of income from an employee retirement system that is attributable to service as a
+
+HOUSE BILL 590 3
+1 public safety employee, if the income is received by an individual who is at least 55 years
+2 old on the last day of the taxable year.
+3 Article – Tax – Property
+4 9–262.
+5 (a) (1) In this section the following words have the meanings indicated.
+6 (3) “9–1–1 specialist” means an employee of a county public safety
+7 answering point, or an employee working in a county safety answering point, whose duties
+8 and responsibilities include:
+9 (i) receiving and processing 9–1–1 requests for emergency
+10 assistance;
+11 (ii) other support functions directly related to 9–1–1 requests for
+12 emergency assistance; or
+13 (iii) dispatching law enforcement officers, fire rescue services,
+14 emergency medical services, and other public safety services to the scene of an emergency.
+15 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+16 1, 2025, and shall be applicable to all taxable years beginning after December 31, 2024.
+
+[DELETED: :CA      5   C A I I F t s e a a 9 s a g r t a s m s B  A S  A  ( B  A S  A  ( B  A S  A  (  S T]
+[DELETED:  H  A 1  ( T t M  ( ( ( I t s t f w h t m i    ( “     1 w     A a C     B a C     C a j f i i § 9 o t H S     D a o A     2 i i    ( “ s p m e m t or s.],,9      ( “ 1   ) “1”§ ST H T M S I ()T–PA  A  R R      ()“ s e m a i w i a]()V r p   ( T $]
+[DELETED: H 3 p o A 9  ( ( I   ( “ s m a e o a c p s a a    ( r a p 9 r f e a    ( o s f d r t 9 r f e    ( d l e o f r s e  S 1]

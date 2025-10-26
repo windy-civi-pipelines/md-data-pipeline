@@ -1,0 +1,398 @@
+Title: SENATE BILL 369
+Official Title: SENATE BILL 369
+Number of Sections: 1
+Source: versions - Third - Public Libraries - Automated External Defibrillator Program (Raymono A. Russell Act)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+J1 5lr2590
+CF HB 593
+By: Senator Watson Senators Watson, Attar, Augustine, Brooks, Carozza,
+Feldman, Hester, Kagan, Simonaire, and M. Washington
+Introduced and read first time: January 17, 2025
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 25, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Public Libraries – Automated External Defibrillator Program
+3 (Raymono A. Russell Act)
+4 FOR the purpose of requiring operators of certain libraries, beginning on a certain date, to
+5 place an automated external defibrillator in a certain area, maintain the
+6 functionality of the automated external defibrillator, and ensure a trained individual
+7 is present under certain circumstances; granting certain immunities to libraries and
+8 individuals for certain acts or omissions under certain circumstances; altering the
+9 definition of “facility” for the purpose of excluding certain libraries from the Public
+10 Access Automated External Defibrillator Program; requiring the Maryland
+11 Department of Health and the Maryland Institute for Emergency Medical Services
+12 Systems jointly to adopt certain regulations; and generally relating to an automated
+13 external defibrillator program for libraries.
+14 BY repealing and reenacting, with without amendments,
+15 Article – Education
+16 Section 13–517(a) 13–517(a)(1) and (2)
+17 Annotated Code of Maryland
+18 (2022 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Education
+21 Section 23–102.2
+22 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0369*
+2 SENATE BILL 369
+1 (2022 Replacement Volume and 2024 Supplement)
+2 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+3 That the Laws of Maryland read as follows:
+4 Article – Education
+5 13–517.
+6 (a) (1) In this section the following words have the meanings indicated.
+7 (2) “Automated external defibrillator (AED)” means a medical heart
+8 monitor and defibrillator device that:
+9 (i) Is cleared for market by the federal Food and Drug
+10 Administration;
+11 (ii) Recognizes the presence or absence of ventricular fibrillation or
+12 rapid ventricular tachycardia;
+13 (iii) Determines, without intervention by an operator, whether
+14 defibrillation should be performed;
+15 (iv) On determining that defibrillation should be performed,
+16 automatically charges; and
+17 (v) 1. Requires operator intervention to deliver the electrical
+18 impulse; or
+19 2. Automatically continues with delivery of electrical
+20 impulse.
+21 (3) “Certificate” means a certificate issued by the EMS Board to a
+22 registered facility.
+23 (4) (i) “Facility” means an agency, an association, a corporation, a firm,
+24 a partnership, or any other entity.
+25 (ii) “Facility” does not include [a]:
+26 1. A grocery store or restaurant that is subject to §
+27 21–330.3 of the Health – General Article; OR
+28 2. A LIBRARY THAT IS SUBJECT TO § 23–102.2 OF THIS
+29 ARTICLE.
+SENATE BILL 369 3
+1 (5) “Jurisdictional emergency medical services operational program”
+2 means the institution, agency, corporation, or other entity that has been approved by the
+3 EMS Board to provide oversight of emergency medical services for each of the local
+4 government and State and federal emergency medical services programs.
+5 (6) “Program” means the Public Access Automated External Defibrillator
+6 Program.
+7 (7) “Regional administrator” means the individual employed by the
+8 Institute as regional administrator in each EMS region.
+9 (8) “Regional council” means an EMS advisory body as created by the Code
+10 of Maryland Regulations 30.05.
+11 (9) “Regional council AED committee” means a committee appointed by the
+12 regional council consisting of:
+13 (i) The regional medical director;
+14 (ii) The regional administrator; and
+15 (iii) Three or more individuals with knowledge of and expertise in
+16 AEDs.
+17 (10) “Registered facility” means an organization, a business association, an
+18 agency, or any other entity that meets the requirements of the EMS Board for registering
+19 with the Program.
+20 23–102.2.
+21 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+22 INDICATED.
+23 (2) “AUTOMATED EXTERNAL DEFIBRILLATOR (AED)” MEANS A HAS
+24 THE MEANING STATED IN § 13–517 OF THIS ARTICLE. MEDICAL HEART MONITOR AND
+25 DEFIBRILLATOR DEVICE THAT:
+26 (I) IS CLEARED FOR MARKET BY THE FEDERAL FOOD AND
+27 DRUG ADMINISTRATION;
+28 (II) RECOGNIZES THE PRESENCE OR ABSENCE OF
+29 VENTRICULAR FIBRILLATION OR RAPID VENTRICULAR TACHYCARDIA;
+30 (III) DETERMINES, WITHOUT INTERVENTION BY AN OPERATOR,
+31 WHETHER DEFIBRILLATION SHOULD BE PERFORMED;
+4 SENATE BILL 369
+1 (IV) ON DETERMINING THAT DEFIBRILLATION SHOULD BE
+2 PERFORMED, AUTOMATICALLY CHARGES; AND
+3 (V) 1. REQUIRES OPERATOR INTERVENTION TO DELIVER
+4 THE ELECTRICAL IMPULSE; OR
+5 2. AUTOMATICALLY CONTINUES WITH DELIVERY OF THE
+6 ELECTRICAL IMPULSE.
+7 (3) (I) “LIBRARY” INCLUDES:
+8 1. THE STATE LIBRARY RESOURCE CENTER;
+9 2. A REGIONAL RESOURCE CENTER;
+10 3. A CORRECTIONAL FACILITY LIBRARY;
+11 4. 3. A COUNTY LIBRARY SYSTEM AND THE ENOCH PRATT
+12 FREE LIBRARY IN BALTIMORE;
+13 5. 4. THE MARYLAND STATE LIBRARY FOR THE BLIND
+14 AND PRINT DISABLED;
+15 6. 5. THE MARYLAND DEAF CULTURE DIGITAL LIBRARY;
+16 AND
+17 7. 6. A METROPOLITAN COOPERATIVE SERVICE PROGRAM.
+18 (II) “LIBRARY” DOES NOT INCLUDE A SCHOOL LIBRARY MEDIA
+19 PROGRAM ESTABLISHED BY A LOCAL SCHOOL SYSTEM.
+20 (B) BEGINNING JANUARY 1, 2026, EACH OPERATOR OF A LIBRARY SHALL:
+21 (1) PLACE AN AUTOMATED EXTERNAL DEFIBRILLATOR IN A
+22 PROMINENT AREA, ACCESSIBLE TO EMPLOYEES AND LIBRARY USERS;
+23 (2) COMPLY WITH § 13–517 OF THIS ARTICLE; AND
+24 (2) (3) MAINTAIN THE FUNCTIONALITY OF THE AUTOMATED
+25 EXTERNAL DEFIBRILLATOR; AND
+26 (3) ENSURE THAT AN INDIVIDUAL TRAINED IN THE OPERATION OF
+27 THE AUTOMATED EXTERNAL DEFIBRILLATOR IS PRESENT AT ANY TIME DURING
+28 WHICH THE LIBRARY IS OPEN TO USE.
+SENATE BILL 369 5
+1 (C) IN ADDITION TO ANY OTHER IMMUNITIES AVAILABLE UNDER
+2 STATUTORY OR COMMON LAW:
+3 (1) A LIBRARY IS NOT CIVILLY LIABLE FOR ANY ACT OR OMISSION IN
+4 THE PROVISION OF AUTOMATED EXTERNAL DEFIBRILLATION IF THE LIBRARY HAS
+5 SATISFIED THE REQUIREMENTS UNDER THIS SECTION;
+6 (2) AN INDIVIDUAL IS NOT CIVILLY LIABLE FOR ANY ACT OR
+7 OMISSION IF:
+8 (I) THE INDIVIDUAL IS ACTING IN GOOD FAITH WHILE
+9 RENDERING AUTOMATED EXTERNAL DEFIBRILLATION TO ANOTHER INDIVIDUAL
+10 WHO IS THE VICTIM OR IS REASONABLY BELIEVED BY THE INDIVIDUAL TO BE A
+11 VICTIM OF A SUDDEN CARDIAC ARREST;
+12 (II) THE ASSISTANCE OR AID IS PROVIDED IN A REASONABLY
+13 PRUDENT MANNER; AND
+14 (III) THE AUTOMATED EXTERNAL DEFIBRILLATION IS PROVIDED
+15 WITHOUT FEE OR OTHER COMPENSATION; AND
+16 (3) A LIBRARY OR INDIVIDUAL IS NOT CIVILLY LIABLE FOR FAILING
+17 TO RENDER AUTOMATED EXTERNAL DEFIBRILLATION TO AN INDIVIDUAL WHO IS A
+18 VICTIM OR IS REASONABLY BELIEVED TO BE A VICTIM OF A SUDDEN CARDIAC
+19 ARREST.
+20 (D) THE MARYLAND DEPARTMENT OF HEALTH AND THE MARYLAND
+21 INSTITUTE FOR EMERGENCY MEDICAL SERVICES SYSTEMS JOINTLY SHALL ADOPT
+22 REGULATIONS THAT:
+23 (1) ESTABLISH GUIDELINES FOR PERIODIC INSPECTIONS AND
+24 ANNUAL MAINTENANCE OF THE AUTOMATED EXTERNAL DEFIBRILLATORS;
+25 (2) ASSIST THE OPERATOR OF A LIBRARY IN CARRYING OUT THE
+26 PROVISIONS OF THIS SECTION; AND
+27 (3) REQUIRE EACH LIBRARY SUBJECT TO THIS SECTION TO REGISTER
+28 WITH THE MARYLAND INSTITUTE FOR EMERGENCY MEDICAL SERVICES SYSTEMS
+29 IN ORDER TO:
+30 (I) MAKE ITS LOCATION PUBLICLY AVAILABLE TO EMERGENCY
+31 DISPATCHERS; AND
+6 SENATE BILL 369
+1 (II) RECEIVE MAINTENANCE AND RECALL NOTICES FROM THE
+2 MARYLAND INSTITUTE FOR EMERGENCY MEDICAL SERVICES SYSTEMS.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
+4 2026, the Maryland Institute for Emergency Medical Services Systems shall report to the
+5 Senate Committee on Education, Energy, and the Environment and the House Economic
+6 Matters Committee, in accordance with § 2–1257 of the State Government Article, on:
+7 (1) the libraries that registered automated external defibrillators in
+8 accordance with regulations adopted under § 23–102.2 of the Education Article, as enacted
+9 by Section 1 of this Act; and
+10 (2) the number of adverse cardiac events that required the use of an
+11 automated external defibrillator experienced in the libraries that registered the automated
+12 external defibrillators.
+13 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+14 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5   C S W S W A A B C A P ( F p a a e d i a c a m t f i i d A A E D P r t M D S e B  A  S  A  ( B  A  S  A]
+[DELETED:  S   (  S T A 1  ( ( I   ( “ e d ( m a m h m    ( I c f m b t f F a D A    ( R r    ( D w i b a o w d    ( O d t d s b p a    ( 1 R o i t d t e i     2 A c w d o e i   ( “ m a c i b t E B t a r   ( ( “ a    ( “ a]       g s o r t i s t §. 2e      A§2    .]
+[DELETED: S 3   ( “ e m s o p m E B t p o o e m s f e o t l g   ( “ P   ( “ a m t i e b t I   ( “ o   ( “ r    ( T    ( T    ( T A   ( “ a w ) ( N    “A(  AH   EM17      ) IS C F M B T F O AA D     ) IE T P O A O     ) D,IES  ]
+[DELETED:  S     ) VN D T D S BD S      ) 1 E O I T DE            () “L”:IY      TSLRC; T I E E     A;      A     .3.AE  N RLB I A      .4.TMSLH A T I F T L R ID      .5.TMDCDLH A E U I IY       .6.A    ) “LIIY  ) BJ1,2,:E A       A A E D I AA ; ()C§17      E    )()A T F O T AR       O A E D I P A A T D  ]
+[DELETED: S 5 ) N A T A O I A U       I I N C L F A A O   ) H I I A I G F W A E D T A I I T V O I R B B T I T B A   ) IH O I RR    ) IHN     O I R B T B A V O A S C  ) TMDHH A E O E A T AEMS M E E Y       G F P I A      T O O A L I C O TN       A N M E E YIEMS      ) AS  ]
+[DELETED:  S     ) IEIEMSS N M E E Y   S 2 S M   ( t l t r a e d i a b   ( t n o a c e t r t u o a a e  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 369
+J1 5lr2590
+CF HB 593
+By: Senator Watson Senators Watson, Attar, Augustine, Brooks, Carozza,
+Feldman, Hester, Kagan, Simonaire, and M. Washington
+Introduced and read first time: January 17, 2025
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 25, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Public Libraries – Automated External Defibrillator Program
+3 (Raymono A. Russell Act)
+4 FOR the purpose of requiring operators of certain libraries, beginning on a certain date, to
+5 place an automated external defibrillator in a certain area, maintain the
+6 functionality of the automated external defibrillator, and ensure a trained individual
+7 is present under certain circumstances; granting certain immunities to libraries and
+8 individuals for certain acts or omissions under certain circumstances; altering the
+9 definition of “facility” for the purpose of excluding certain libraries from the Public
+10 Access Automated External Defibrillator Program; requiring the Maryland
+11 Department of Health and the Maryland Institute for Emergency Medical Services
+12 Systems jointly to adopt certain regulations; and generally relating to an automated
+13 external defibrillator program for libraries.
+14 BY repealing and reenacting, with without amendments,
+15 Article – Education
+16 Section 13–517(a) 13–517(a)(1) and (2)
+17 Annotated Code of Maryland
+18 (2022 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Education
+21 Section 23–102.2
+22 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0369*
+
+2 SENATE BILL 369
+1 (2022 Replacement Volume and 2024 Supplement)
+2 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+3 That the Laws of Maryland read as follows:
+4 Article – Education
+5 13–517.
+6 (a) (1) In this section the following words have the meanings indicated.
+7 (2) “Automated external defibrillator (AED)” means a medical heart
+8 monitor and defibrillator device that:
+9 (i) Is cleared for market by the federal Food and Drug
+10 Administration;
+11 (ii) Recognizes the presence or absence of ventricular fibrillation or
+12 rapid ventricular tachycardia;
+13 (iii) Determines, without intervention by an operator, whether
+14 defibrillation should be performed;
+15 (iv) On determining that defibrillation should be performed,
+16 automatically charges; and
+17 (v) 1. Requires operator intervention to deliver the electrical
+18 impulse; or
+19 2. Automatically continues with delivery of electrical
+20 impulse.
+21 (3) “Certificate” means a certificate issued by the EMS Board to a
+22 registered facility.
+23 (4) (i) “Facility” means an agency, an association, a corporation, a firm,
+24 a partnership, or any other entity.
+25 (ii) “Facility” does not include [a]:
+26 1. A grocery store or restaurant that is subject to §
+27 21–330.3 of the Health – General Article; OR
+28 2. A LIBRARY THAT IS SUBJECT TO § 23–102.2 OF THIS
+29 ARTICLE.
+
+SENATE BILL 369 3
+1 (5) “Jurisdictional emergency medical services operational program”
+2 means the institution, agency, corporation, or other entity that has been approved by the
+3 EMS Board to provide oversight of emergency medical services for each of the local
+4 government and State and federal emergency medical services programs.
+5 (6) “Program” means the Public Access Automated External Defibrillator
+6 Program.
+7 (7) “Regional administrator” means the individual employed by the
+8 Institute as regional administrator in each EMS region.
+9 (8) “Regional council” means an EMS advisory body as created by the Code
+10 of Maryland Regulations 30.05.
+11 (9) “Regional council AED committee” means a committee appointed by the
+12 regional council consisting of:
+13 (i) The regional medical director;
+14 (ii) The regional administrator; and
+15 (iii) Three or more individuals with knowledge of and expertise in
+16 AEDs.
+17 (10) “Registered facility” means an organization, a business association, an
+18 agency, or any other entity that meets the requirements of the EMS Board for registering
+19 with the Program.
+20 23–102.2.
+21 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+22 INDICATED.
+23 (2) “AUTOMATED EXTERNAL DEFIBRILLATOR (AED)” MEANS A HAS
+24 THE MEANING STATED IN § 13–517 OF THIS ARTICLE. MEDICAL HEART MONITOR AND
+25 DEFIBRILLATOR DEVICE THAT:
+26 (I) IS CLEARED FOR MARKET BY THE FEDERAL FOOD AND
+27 DRUG ADMINISTRATION;
+28 (II) RECOGNIZES THE PRESENCE OR ABSENCE OF
+29 VENTRICULAR FIBRILLATION OR RAPID VENTRICULAR TACHYCARDIA;
+30 (III) DETERMINES, WITHOUT INTERVENTION BY AN OPERATOR,
+31 WHETHER DEFIBRILLATION SHOULD BE PERFORMED;
+
+4 SENATE BILL 369
+1 (IV) ON DETERMINING THAT DEFIBRILLATION SHOULD BE
+2 PERFORMED, AUTOMATICALLY CHARGES; AND
+3 (V) 1. REQUIRES OPERATOR INTERVENTION TO DELIVER
+4 THE ELECTRICAL IMPULSE; OR
+5 2. AUTOMATICALLY CONTINUES WITH DELIVERY OF THE
+6 ELECTRICAL IMPULSE.
+7 (3) (I) “LIBRARY” INCLUDES:
+8 1. THE STATE LIBRARY RESOURCE CENTER;
+9 2. A REGIONAL RESOURCE CENTER;
+10 3. A CORRECTIONAL FACILITY LIBRARY;
+11 4. 3. A COUNTY LIBRARY SYSTEM AND THE ENOCH PRATT
+12 FREE LIBRARY IN BALTIMORE;
+13 5. 4. THE MARYLAND STATE LIBRARY FOR THE BLIND
+14 AND PRINT DISABLED;
+15 6. 5. THE MARYLAND DEAF CULTURE DIGITAL LIBRARY;
+16 AND
+17 7. 6. A METROPOLITAN COOPERATIVE SERVICE PROGRAM.
+18 (II) “LIBRARY” DOES NOT INCLUDE A SCHOOL LIBRARY MEDIA
+19 PROGRAM ESTABLISHED BY A LOCAL SCHOOL SYSTEM.
+20 (B) BEGINNING JANUARY 1, 2026, EACH OPERATOR OF A LIBRARY SHALL:
+21 (1) PLACE AN AUTOMATED EXTERNAL DEFIBRILLATOR IN A
+22 PROMINENT AREA, ACCESSIBLE TO EMPLOYEES AND LIBRARY USERS;
+23 (2) COMPLY WITH § 13–517 OF THIS ARTICLE; AND
+24 (2) (3) MAINTAIN THE FUNCTIONALITY OF THE AUTOMATED
+25 EXTERNAL DEFIBRILLATOR; AND
+26 (3) ENSURE THAT AN INDIVIDUAL TRAINED IN THE OPERATION OF
+27 THE AUTOMATED EXTERNAL DEFIBRILLATOR IS PRESENT AT ANY TIME DURING
+28 WHICH THE LIBRARY IS OPEN TO USE.
+
+SENATE BILL 369 5
+1 (C) IN ADDITION TO ANY OTHER IMMUNITIES AVAILABLE UNDER
+2 STATUTORY OR COMMON LAW:
+3 (1) A LIBRARY IS NOT CIVILLY LIABLE FOR ANY ACT OR OMISSION IN
+4 THE PROVISION OF AUTOMATED EXTERNAL DEFIBRILLATION IF THE LIBRARY HAS
+5 SATISFIED THE REQUIREMENTS UNDER THIS SECTION;
+6 (2) AN INDIVIDUAL IS NOT CIVILLY LIABLE FOR ANY ACT OR
+7 OMISSION IF:
+8 (I) THE INDIVIDUAL IS ACTING IN GOOD FAITH WHILE
+9 RENDERING AUTOMATED EXTERNAL DEFIBRILLATION TO ANOTHER INDIVIDUAL
+10 WHO IS THE VICTIM OR IS REASONABLY BELIEVED BY THE INDIVIDUAL TO BE A
+11 VICTIM OF A SUDDEN CARDIAC ARREST;
+12 (II) THE ASSISTANCE OR AID IS PROVIDED IN A REASONABLY
+13 PRUDENT MANNER; AND
+14 (III) THE AUTOMATED EXTERNAL DEFIBRILLATION IS PROVIDED
+15 WITHOUT FEE OR OTHER COMPENSATION; AND
+16 (3) A LIBRARY OR INDIVIDUAL IS NOT CIVILLY LIABLE FOR FAILING
+17 TO RENDER AUTOMATED EXTERNAL DEFIBRILLATION TO AN INDIVIDUAL WHO IS A
+18 VICTIM OR IS REASONABLY BELIEVED TO BE A VICTIM OF A SUDDEN CARDIAC
+19 ARREST.
+20 (D) THE MARYLAND DEPARTMENT OF HEALTH AND THE MARYLAND
+21 INSTITUTE FOR EMERGENCY MEDICAL SERVICES SYSTEMS JOINTLY SHALL ADOPT
+22 REGULATIONS THAT:
+23 (1) ESTABLISH GUIDELINES FOR PERIODIC INSPECTIONS AND
+24 ANNUAL MAINTENANCE OF THE AUTOMATED EXTERNAL DEFIBRILLATORS;
+25 (2) ASSIST THE OPERATOR OF A LIBRARY IN CARRYING OUT THE
+26 PROVISIONS OF THIS SECTION; AND
+27 (3) REQUIRE EACH LIBRARY SUBJECT TO THIS SECTION TO REGISTER
+28 WITH THE MARYLAND INSTITUTE FOR EMERGENCY MEDICAL SERVICES SYSTEMS
+29 IN ORDER TO:
+30 (I) MAKE ITS LOCATION PUBLICLY AVAILABLE TO EMERGENCY
+31 DISPATCHERS; AND
+
+6 SENATE BILL 369
+1 (II) RECEIVE MAINTENANCE AND RECALL NOTICES FROM THE
+2 MARYLAND INSTITUTE FOR EMERGENCY MEDICAL SERVICES SYSTEMS.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
+4 2026, the Maryland Institute for Emergency Medical Services Systems shall report to the
+5 Senate Committee on Education, Energy, and the Environment and the House Economic
+6 Matters Committee, in accordance with § 2–1257 of the State Government Article, on:
+7 (1) the libraries that registered automated external defibrillators in
+8 accordance with regulations adopted under § 23–102.2 of the Education Article, as enacted
+9 by Section 1 of this Act; and
+10 (2) the number of adverse cardiac events that required the use of an
+11 automated external defibrillator experienced in the libraries that registered the automated
+12 external defibrillators.
+13 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+14 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5   C S W S W A A B C A P ( F p a a e d i a c a m t f i i d A A E D P r t M D S e B  A  S  A  ( B  A  S  A]
+[DELETED:  S   (  S T A 1  ( ( I   ( “ e d ( m a m h m    ( I c f m b t f F a D A    ( R r    ( D w i b a o w d    ( O d t d s b p a    ( 1 R o i t d t e i     2 A c w d o e i   ( “ m a c i b t E B t a r   ( ( “ a    ( “ a]       g s o r t i s t §. 2e      A§2    .]
+[DELETED: S 3   ( “ e m s o p m E B t p o o e m s f e o t l g   ( “ P   ( “ a m t i e b t I   ( “ o   ( “ r    ( T    ( T    ( T A   ( “ a w ) ( N    “A(  AH   EM17      ) IS C F M B T F O AA D     ) IE T P O A O     ) D,IES  ]
+[DELETED:  S     ) VN D T D S BD S      ) 1 E O I T DE            () “L”:IY      TSLRC; T I E E     A;      A     .3.AE  N RLB I A      .4.TMSLH A T I F T L R ID      .5.TMDCDLH A E U I IY       .6.A    ) “LIIY  ) BJ1,2,:E A       A A E D I AA ; ()C§17      E    )()A T F O T AR       O A E D I P A A T D  ]
+[DELETED: S 5 ) N A T A O I A U       I I N C L F A A O   ) H I I A I G F W A E D T A I I T V O I R B B T I T B A   ) IH O I RR    ) IHN     O I R B T B A V O A S C  ) TMDHH A E O E A T AEMS M E E Y       G F P I A      T O O A L I C O TN       A N M E E YIEMS      ) AS  ]
+[DELETED:  S     ) IEIEMSS N M E E Y   S 2 S M   ( t l t r a e d i a b   ( t n o a c e t r t u o a a e  S A B I F E T t A s t e O          G               ]

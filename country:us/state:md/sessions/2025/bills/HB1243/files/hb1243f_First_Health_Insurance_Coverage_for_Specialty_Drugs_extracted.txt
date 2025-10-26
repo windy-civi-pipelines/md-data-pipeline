@@ -1,0 +1,303 @@
+Title: HOUSE BILL 1243
+Official Title: HOUSE BILL 1243
+Number of Sections: 1
+Source: versions - First - Health Insurance - Coverage for Specialty Drugs
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+J5 5lr2645
+CF SB 975
+By: Delegate S. Johnson
+Introduced and read first time: February 7, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Health Insurance – Coverage for Specialty Drugs
+3 FOR the purpose of prohibiting certain insurers, nonprofit health service plans, and health
+4 maintenance organizations from excluding coverage for certain specialty drugs that
+5 are administered or dispensed by a provider that meets certain criteria; requiring
+6 the reimbursement rate for certain specialty drugs to meet certain criteria; and
+7 generally relating to health insurance coverage for specialty drugs.
+8 BY repealing and reenacting, without amendments,
+9 Article – Insurance
+10 Section 15–847(a)(1) and (5)
+11 Annotated Code of Maryland
+12 (2017 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – Insurance
+15 Section 15–847(d), 15–1611.1, and 15–1612
+16 Annotated Code of Maryland
+17 (2017 Replacement Volume and 2024 Supplement)
+18 BY adding to
+19 Article – Insurance
+20 Section 15–847.2
+21 Annotated Code of Maryland
+22 (2017 Replacement Volume and 2024 Supplement)
+23 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+24 That the Laws of Maryland read as follows:
+25 Article – Insurance
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1243*
+2 HOUSE BILL 1243
+1 15–847.
+2 (a) (1) In this section the following words have the meanings indicated.
+3 (5) (i) “Specialty drug” means a prescription drug that:
+4 1. is prescribed for an individual with a complex or chronic
+5 medical condition or a rare medical condition;
+6 2. costs $600 or more for up to a 30–day supply;
+7 3. is not typically stocked at retail pharmacies; and
+8 4. A. requires a difficult or unusual process of delivery to
+9 the patient in the preparation, handling, storage, inventory, or distribution of the drug; or
+10 B. requires enhanced patient education, management, or
+11 support, beyond those required for traditional dispensing, before or after administration of
+12 the drug.
+13 (ii) “Specialty drug” does not include a prescription drug prescribed
+14 to treat diabetes, HIV, or AIDS.
+15 (d) Subject to § 15–805 of this subtitle [and], notwithstanding § 15–806 of this
+16 subtitle, [nothing in] AND EXCEPT AS PROVIDED IN § 15–847.2 OF THIS SUBTITLE, this
+17 article or regulations adopted under this article [precludes] DO NOT PRECLUDE an entity
+18 subject to this section from requiring a covered specialty drug to be obtained through:
+19 (1) a designated pharmacy or other source authorized under the Health
+20 Occupations Article to dispense or administer prescription drugs; or
+21 (2) a pharmacy participating in the entity’s provider network, if the entity
+22 determines that the pharmacy:
+23 (i) meets the entity’s performance standards; and
+24 (ii) accepts the entity’s network reimbursement rates.
+25 15–847.2.
+26 (A) IN THIS SECTION, “SPECIALTY DRUG” HAS THE MEANING STATED IN §
+27 15–847 OF THIS SUBTITLE.
+28 (B) (1) THIS SECTION APPLIES TO:
+HOUSE BILL 1243 3
+1 (I) INSURERS AND NONPROFIT HEALTH SERVICE PLANS THAT
+2 PROVIDE COVERAGE FOR PRESCRIPTION DRUGS UNDER INDIVIDUAL, GROUP, OR
+3 BLANKET HEALTH INSURANCE POLICIES OR CONTRACTS THAT ARE ISSUED OR
+4 DELIVERED IN THE STATE; AND
+5 (II) HEALTH MAINTENANCE ORGANIZATIONS THAT PROVIDE
+6 COVERAGE FOR PRESCRIPTION DRUGS UNDER INDIVIDUAL OR GROUP CONTRACTS
+7 THAT ARE ISSUED OR DELIVERED IN THE STATE.
+8 (2) AN INSURER, A NONPROFIT HEALTH SERVICE PLAN, OR A HEALTH
+9 MAINTENANCE ORGANIZATION THAT PROVIDES COVERAGE FOR PRESCRIPTION
+10 DRUGS THROUGH A PHARMACY BENEFITS MANAGER IS SUBJECT TO THE
+11 REQUIREMENTS OF THIS SECTION.
+12 (C) AN ENTITY SUBJECT TO THIS SECTION MAY NOT EXCLUDE COVERAGE
+13 FOR A COVERED SPECIALTY DRUG ADMINISTERED OR DISPENSED BY A PROVIDER
+14 UNDER § 12–102 OF THE HEALTH OCCUPATIONS ARTICLE IF THE ENTITY
+15 DETERMINES THAT:
+16 (1) THE PROVIDER THAT ADMINISTERS OR DISPENSES THE COVERED
+17 SPECIALTY DRUG:
+18 (I) IS AN IN–NETWORK PROVIDER OF COVERED MEDICAL
+19 ONCOLOGY SERVICES; AND
+20 (II) COMPLIES WITH STATE REGULATIONS FOR THE
+21 ADMINISTERING AND DISPENSING OF SPECIALTY DRUGS; AND
+22 (2) THE COVERED SPECIALTY DRUG IS:
+23 (I) INFUSED, AUTO–INJECTED, OR AN ORAL TARGETED
+24 IMMUNE MODULATOR; OR
+25 (II) AN ORAL MEDICATION THAT:
+26 1. REQUIRES COMPLEX DOSING BASED ON CLINICAL
+27 PRESENTATION; OR
+28 2. IS USED CONCOMITANTLY WITH OTHER INFUSION OR
+29 RADIATION THERAPIES.
+30 (D) THE REIMBURSEMENT RATE FOR SPECIALTY DRUGS COVERED UNDER
+31 THIS SECTION SHALL BE:
+4 HOUSE BILL 1243
+1 (1) AGREED TO BY THE COVERED, IN–NETWORK PROVIDER AND THE
+2 ENTITY SUBJECT TO THIS SECTION; AND
+3 (2) BILLED AT A NONHOSPITAL LEVEL OF CARE OR PLACE OF
+4 SERVICE.
+5 (E) THIS SECTION DOES NOT PROHIBIT AN ENTITY SUBJECT TO THIS
+6 SECTION FROM REFUSING TO AUTHORIZE OR APPROVE OR FROM DENYING
+7 COVERAGE FOR A COVERED SPECIALTY DRUG ADMINISTERED OR DISPENSED BY A
+8 PROVIDER IF ADMINISTERING OR DISPENSING THE DRUG FAILS TO SATISFY
+9 MEDICAL NECESSITY CRITERIA.
+10 15–1611.1.
+11 (a) This section applies only to a pharmacy benefits manager that provides
+12 pharmacy benefits management services on behalf of a carrier.
+13 (b) Except as provided in subsection (c) of this section, a pharmacy benefits
+14 manager may not require that a beneficiary use a specific pharmacy or entity to fill a
+15 prescription if:
+16 (1) the pharmacy benefits manager or a corporate affiliate of the pharmacy
+17 benefits manager has an ownership interest in the pharmacy or entity; or
+18 (2) the pharmacy or entity has an ownership interest in the pharmacy
+19 benefits manager or a corporate affiliate of the pharmacy benefits manager.
+20 (c) [A] EXCEPT AS PROVIDED IN § 15–847.2 OF THIS TITLE, A pharmacy
+21 benefits manager may require a beneficiary to use a specific pharmacy or entity for a
+22 specialty drug as defined in § 15–847 of this title.
+23 15–1612.
+24 (a) This section applies only to a pharmacy benefits manager that provides
+25 pharmacy benefits management services on behalf of a carrier.
+26 (b) This section does not apply to reimbursement:
+27 (1) EXCEPT AS PROVIDED IN § 15–847.2 OF THIS TITLE, for specialty
+28 drugs;
+29 (2) for mail order drugs; or
+30 (3) to a chain pharmacy with more than 15 stores or a pharmacist who is
+31 an employee of the chain pharmacy.
+HOUSE BILL 1243 5
+1 (c) A pharmacy benefits manager may not reimburse a pharmacy or pharmacist
+2 for a pharmaceutical product or pharmacist service in an amount less than the amount that
+3 the pharmacy benefits manager reimburses itself or an affiliate for providing the same
+4 product or service.
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all
+6 policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or
+7 after January 1, 2026.
+8 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 January 1, 2026.
+[DELETED: :CA      5   C A H F m a t r r f c s d t m c c a g B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  H  1  ( ( I   ( ( “     1 i m     2 c     3 i     4 A r t     B r e p e m o s t    ( “ t  ( S5o ad ] s nn ]§12    a ps  s   ( a O   ( a d    ( m    ( a() I,“”NN SG  7.() ( T:H]
+[DELETED: H 3  ()IL P  H I P O C T A I O TE ;  ()IH M O T P T. ( A,R N  O T P C F P T A P B M I S T T() N   O T E C R I T E12HO (  () I A INN P O C MS   () IC W T R F TS  ( :  () ,–ID AOID O A O TR   () :IA   1 C D B O CN    2() H]
+[DELETED:  H  ( ,D NNN  ( A A N L O C O P O() H S D N P A E S T T F R T A O A O F D I A O D T D F T S 1  ( T s a o t a p b m t p p  ( E a p i s ( o t s a p b m p   ( t b   ( t p o e h a o i i t p b  ( A p]E§12X A P I   O T TE  b m m r a b t u a s p o e f a s 1  ( T s a o t a p b m t p p  ( T   ( f   E12 d   ( f   ( t a]
+[DELETED: H 5  ( A f t p  S p a  S A B I F E T t A s t e J]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1243
+J5 5lr2645
+CF SB 975
+By: Delegate S. Johnson
+Introduced and read first time: February 7, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Health Insurance – Coverage for Specialty Drugs
+3 FOR the purpose of prohibiting certain insurers, nonprofit health service plans, and health
+4 maintenance organizations from excluding coverage for certain specialty drugs that
+5 are administered or dispensed by a provider that meets certain criteria; requiring
+6 the reimbursement rate for certain specialty drugs to meet certain criteria; and
+7 generally relating to health insurance coverage for specialty drugs.
+8 BY repealing and reenacting, without amendments,
+9 Article – Insurance
+10 Section 15–847(a)(1) and (5)
+11 Annotated Code of Maryland
+12 (2017 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – Insurance
+15 Section 15–847(d), 15–1611.1, and 15–1612
+16 Annotated Code of Maryland
+17 (2017 Replacement Volume and 2024 Supplement)
+18 BY adding to
+19 Article – Insurance
+20 Section 15–847.2
+21 Annotated Code of Maryland
+22 (2017 Replacement Volume and 2024 Supplement)
+23 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+24 That the Laws of Maryland read as follows:
+25 Article – Insurance
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1243*
+
+2 HOUSE BILL 1243
+1 15–847.
+2 (a) (1) In this section the following words have the meanings indicated.
+3 (5) (i) “Specialty drug” means a prescription drug that:
+4 1. is prescribed for an individual with a complex or chronic
+5 medical condition or a rare medical condition;
+6 2. costs $600 or more for up to a 30–day supply;
+7 3. is not typically stocked at retail pharmacies; and
+8 4. A. requires a difficult or unusual process of delivery to
+9 the patient in the preparation, handling, storage, inventory, or distribution of the drug; or
+10 B. requires enhanced patient education, management, or
+11 support, beyond those required for traditional dispensing, before or after administration of
+12 the drug.
+13 (ii) “Specialty drug” does not include a prescription drug prescribed
+14 to treat diabetes, HIV, or AIDS.
+15 (d) Subject to § 15–805 of this subtitle [and], notwithstanding § 15–806 of this
+16 subtitle, [nothing in] AND EXCEPT AS PROVIDED IN § 15–847.2 OF THIS SUBTITLE, this
+17 article or regulations adopted under this article [precludes] DO NOT PRECLUDE an entity
+18 subject to this section from requiring a covered specialty drug to be obtained through:
+19 (1) a designated pharmacy or other source authorized under the Health
+20 Occupations Article to dispense or administer prescription drugs; or
+21 (2) a pharmacy participating in the entity’s provider network, if the entity
+22 determines that the pharmacy:
+23 (i) meets the entity’s performance standards; and
+24 (ii) accepts the entity’s network reimbursement rates.
+25 15–847.2.
+26 (A) IN THIS SECTION, “SPECIALTY DRUG” HAS THE MEANING STATED IN §
+27 15–847 OF THIS SUBTITLE.
+28 (B) (1) THIS SECTION APPLIES TO:
+
+HOUSE BILL 1243 3
+1 (I) INSURERS AND NONPROFIT HEALTH SERVICE PLANS THAT
+2 PROVIDE COVERAGE FOR PRESCRIPTION DRUGS UNDER INDIVIDUAL, GROUP, OR
+3 BLANKET HEALTH INSURANCE POLICIES OR CONTRACTS THAT ARE ISSUED OR
+4 DELIVERED IN THE STATE; AND
+5 (II) HEALTH MAINTENANCE ORGANIZATIONS THAT PROVIDE
+6 COVERAGE FOR PRESCRIPTION DRUGS UNDER INDIVIDUAL OR GROUP CONTRACTS
+7 THAT ARE ISSUED OR DELIVERED IN THE STATE.
+8 (2) AN INSURER, A NONPROFIT HEALTH SERVICE PLAN, OR A HEALTH
+9 MAINTENANCE ORGANIZATION THAT PROVIDES COVERAGE FOR PRESCRIPTION
+10 DRUGS THROUGH A PHARMACY BENEFITS MANAGER IS SUBJECT TO THE
+11 REQUIREMENTS OF THIS SECTION.
+12 (C) AN ENTITY SUBJECT TO THIS SECTION MAY NOT EXCLUDE COVERAGE
+13 FOR A COVERED SPECIALTY DRUG ADMINISTERED OR DISPENSED BY A PROVIDER
+14 UNDER § 12–102 OF THE HEALTH OCCUPATIONS ARTICLE IF THE ENTITY
+15 DETERMINES THAT:
+16 (1) THE PROVIDER THAT ADMINISTERS OR DISPENSES THE COVERED
+17 SPECIALTY DRUG:
+18 (I) IS AN IN–NETWORK PROVIDER OF COVERED MEDICAL
+19 ONCOLOGY SERVICES; AND
+20 (II) COMPLIES WITH STATE REGULATIONS FOR THE
+21 ADMINISTERING AND DISPENSING OF SPECIALTY DRUGS; AND
+22 (2) THE COVERED SPECIALTY DRUG IS:
+23 (I) INFUSED, AUTO–INJECTED, OR AN ORAL TARGETED
+24 IMMUNE MODULATOR; OR
+25 (II) AN ORAL MEDICATION THAT:
+26 1. REQUIRES COMPLEX DOSING BASED ON CLINICAL
+27 PRESENTATION; OR
+28 2. IS USED CONCOMITANTLY WITH OTHER INFUSION OR
+29 RADIATION THERAPIES.
+30 (D) THE REIMBURSEMENT RATE FOR SPECIALTY DRUGS COVERED UNDER
+31 THIS SECTION SHALL BE:
+
+4 HOUSE BILL 1243
+1 (1) AGREED TO BY THE COVERED, IN–NETWORK PROVIDER AND THE
+2 ENTITY SUBJECT TO THIS SECTION; AND
+3 (2) BILLED AT A NONHOSPITAL LEVEL OF CARE OR PLACE OF
+4 SERVICE.
+5 (E) THIS SECTION DOES NOT PROHIBIT AN ENTITY SUBJECT TO THIS
+6 SECTION FROM REFUSING TO AUTHORIZE OR APPROVE OR FROM DENYING
+7 COVERAGE FOR A COVERED SPECIALTY DRUG ADMINISTERED OR DISPENSED BY A
+8 PROVIDER IF ADMINISTERING OR DISPENSING THE DRUG FAILS TO SATISFY
+9 MEDICAL NECESSITY CRITERIA.
+10 15–1611.1.
+11 (a) This section applies only to a pharmacy benefits manager that provides
+12 pharmacy benefits management services on behalf of a carrier.
+13 (b) Except as provided in subsection (c) of this section, a pharmacy benefits
+14 manager may not require that a beneficiary use a specific pharmacy or entity to fill a
+15 prescription if:
+16 (1) the pharmacy benefits manager or a corporate affiliate of the pharmacy
+17 benefits manager has an ownership interest in the pharmacy or entity; or
+18 (2) the pharmacy or entity has an ownership interest in the pharmacy
+19 benefits manager or a corporate affiliate of the pharmacy benefits manager.
+20 (c) [A] EXCEPT AS PROVIDED IN § 15–847.2 OF THIS TITLE, A pharmacy
+21 benefits manager may require a beneficiary to use a specific pharmacy or entity for a
+22 specialty drug as defined in § 15–847 of this title.
+23 15–1612.
+24 (a) This section applies only to a pharmacy benefits manager that provides
+25 pharmacy benefits management services on behalf of a carrier.
+26 (b) This section does not apply to reimbursement:
+27 (1) EXCEPT AS PROVIDED IN § 15–847.2 OF THIS TITLE, for specialty
+28 drugs;
+29 (2) for mail order drugs; or
+30 (3) to a chain pharmacy with more than 15 stores or a pharmacist who is
+31 an employee of the chain pharmacy.
+
+HOUSE BILL 1243 5
+1 (c) A pharmacy benefits manager may not reimburse a pharmacy or pharmacist
+2 for a pharmaceutical product or pharmacist service in an amount less than the amount that
+3 the pharmacy benefits manager reimburses itself or an affiliate for providing the same
+4 product or service.
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all
+6 policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or
+7 after January 1, 2026.
+8 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 January 1, 2026.
+
+[DELETED: :CA      5   C A H F m a t r r f c s d t m c c a g B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  H  1  ( ( I   ( ( “     1 i m     2 c     3 i     4 A r t     B r e p e m o s t    ( “ t  ( S5o ad ] s nn ]§12    a ps  s   ( a O   ( a d    ( m    ( a() I,“”NN SG  7.() ( T:H]
+[DELETED: H 3  ()IL P  H I P O C T A I O TE ;  ()IH M O T P T. ( A,R N  O T P C F P T A P B M I S T T() N   O T E C R I T E12HO (  () I A INN P O C MS   () IC W T R F TS  ( :  () ,–ID AOID O A O TR   () :IA   1 C D B O CN    2() H]
+[DELETED:  H  ( ,D NNN  ( A A N L O C O P O() H S D N P A E S T T F R T A O A O F D I A O D T D F T S 1  ( T s a o t a p b m t p p  ( E a p i s ( o t s a p b m p   ( t b   ( t p o e h a o i i t p b  ( A p]E§12X A P I   O T TE  b m m r a b t u a s p o e f a s 1  ( T s a o t a p b m t p p  ( T   ( f   E12 d   ( f   ( t a]
+[DELETED: H 5  ( A f t p  S p a  S A B I F E T t A s t e J]

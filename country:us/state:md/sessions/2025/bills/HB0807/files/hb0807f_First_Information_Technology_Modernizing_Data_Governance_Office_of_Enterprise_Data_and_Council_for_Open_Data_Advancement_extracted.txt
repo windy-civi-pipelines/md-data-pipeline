@@ -1,0 +1,711 @@
+Title: HOUSE BILL 807
+Official Title: HOUSE BILL 807
+Number of Sections: 1
+Source: versions - First - Information Technology - Modernizing Data Governance - Office of Enterprise Data and Council for Open Data Advancement
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+S1 5lr0191
+CF 5lr0192
+By: Chair, Health and Government Operations Committee (By Request –
+Departmental – Information Technology)
+Introduced and read first time: January 29, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Information Technology – Modernizing Data Governance – Office of Enterprise
+3 Data and Council for Open Data Advancement
+4 FOR the purpose of establishing the position and responsibilities of the State Chief Data
+5 Officer; establishing the Office of Enterprise Data in the Department of Information
+6 Technology and the responsibilities of the Office; requiring each unit of State
+7 government to appoint an Agency Data Officer; renaming the Council on Open Data
+8 to be the Council for Open Data Advancement; altering the membership, member
+9 terms, and responsibilities of the Council; and generally relating to ensuring the
+10 efficient, secure, and ethical use of data in support of State goals and initiatives.
+11 BY adding to
+12 Article – State Finance and Procurement
+13 Section 3.5–319
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – State Government
+18 Section 10–1501, 10–1503, and 10–1504
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – State Finance and Procurement
+24 3.5–319.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0807*
+2 HOUSE BILL 807
+1 (A) IN THIS SECTION, “OFFICE” MEANS THE OFFICE OF ENTERPRISE DATA.
+2 (B) (1) THERE IS A STATE CHIEF DATA OFFICER IN THE DEPARTMENT.
+3 (2) THE STATE CHIEF DATA OFFICER SHALL BE APPOINTED BY THE
+4 GOVERNOR AND SUPERVISED BY THE SECRETARY.
+5 (3) THE RESPONSIBILITIES OF THE STATE CHIEF DATA OFFICER
+6 INCLUDE:
+7 (I) DIRECTING, COORDINATING, AND IMPLEMENTING THE
+8 STATEWIDE DATA STRATEGY AND POLICIES FOR UNITS OF STATE GOVERNMENT TO
+9 ENSURE RESPONSIBLE GOVERNANCE AND MANAGEMENT OF STATE DATA AND TO
+10 PROMOTE STANDARDIZATION, COLLABORATION, AND ESTABLISHMENT OF
+11 EFFICIENT DATA PRACTICES;
+12 (II) PROVIDING ADVICE, RECOMMENDATIONS, AND
+13 CONSULTATIONS TO THE GOVERNOR AND ANY UNIT OF STATE GOVERNMENT
+14 CONCERNING DATA POLICIES, PROCEDURES, AND STANDARDS;
+15 (III) OVERSEEING THE USE, MANAGEMENT, AND SHARING OF
+16 STATE DATA BY UNITS OF STATE GOVERNMENT TO ENSURE COMPLIANCE WITH ALL
+17 REQUIREMENTS, PROHIBITIONS, AND RESTRICTIONS ON DISCLOSURE OR RELEASE
+18 OF THE DATA APPLICABLE TO THE UNIT SHARING IT;
+19 (IV) COMPILING AN AUTHORITATIVE INVENTORY OF DATA
+20 COLLECTED, CREATED, OR MAINTAINED BY UNITS OF STATE GOVERNMENT AS
+21 REQUIRED BY § 3.5–318 OF THIS SUBTITLE;
+22 (V) EXCEPT AS OTHERWISE PROVIDED IN LAW, DESIGNATING
+23 AND FACILITATING ACCESS TO AUTHORITATIVE DATA SOURCES; AND
+24 (VI) OVERSEEING THE DATA LITERACY OF STATE EMPLOYEES
+25 TO ENSURE STATE DATA ARE RESPONSIBLY UNDERSTOOD, ANALYZED, AND
+26 COMMUNICATED.
+27 (C) (1) THERE IS AN OFFICE OF ENTERPRISE DATA IN THE
+28 DEPARTMENT.
+29 (2) THE HEAD OF THE OFFICE IS THE STATE CHIEF DATA OFFICER.
+HOUSE BILL 807 3
+1 (3) THE OFFICE SHALL ESTABLISH A STATEWIDE DATA GOVERNANCE
+2 PROGRAM TO:
+3 (I) ESTABLISH A STATEWIDE FRAMEWORK BY WHICH THE
+4 MANAGEMENT, USE, AND SHARING OF DATA WITHIN AND BETWEEN UNITS OF STATE
+5 GOVERNMENT IS GOVERNED;
+6 (II) ESTABLISH STANDARDS BY WHICH DATA ARE MANAGED IN
+7 COMPLIANCE WITH DEFINED POLICIES;
+8 (III) DEVELOP GUIDANCE ON THE EFFECTIVE USE,
+9 MANAGEMENT, AND SHARING OF DATA WITHIN AND BETWEEN UNITS OF STATE
+10 GOVERNMENT AND WITH THIRD PARTIES;
+11 (IV) PROVIDE SERVICES AND ADVISE UNITS OF STATE
+12 GOVERNMENT ON HOW TO MATURE THEIR DATA PROGRAMS; AND
+13 (V) ENSURE UNITS OF STATE GOVERNMENT ARE LEVERAGING
+14 STATE DATA AS A STRATEGIC ASSET.
+15 (4) THE OFFICE SHALL ESTABLISH A DATA SHARING PROGRAM TO:
+16 (I) ESTABLISH A STATEWIDE FRAMEWORK THAT PROMOTES
+17 DATA SHARING AND IMPROVES ACCESS TO STATE DATA;
+18 (II) ESTABLISH STANDARDS BY WHICH DATA ARE SHARED IN
+19 COMPLIANCE WITH EXISTING LAWS AND DEFINED POLICIES;
+20 (III) DEVELOP PROCESSES FOR UNITS OF STATE GOVERNMENT
+21 TO ACHIEVE AND MAINTAIN DATA READINESS FOR ARTIFICIAL INTELLIGENCE;
+22 (IV) ADMINISTER A SECURE, MULTISTAKEHOLDER DATA
+23 EXCHANGE AND ANALYTICS PLATFORM APPLYING COMMON RULES FOR DATA
+24 SECURITY, PRIVACY, AND CONFIDENTIALITY; AND
+25 (V) PROVIDE SERVICES AND ADVISE UNITS OF STATE
+26 GOVERNMENT ON HOW TO MAXIMIZE THE VALUE OF DATA THROUGH COLLECTIVE
+27 INVESTMENT AND EFFECTIVE INTEROPERABILITY OF DATA SOURCES.
+28 (5) THE OFFICE SHALL ESTABLISH A DATA LITERACY PROGRAM TO:
+4 HOUSE BILL 807
+1 (I) ESTABLISH A STATEWIDE FRAMEWORK TO FOSTER A
+2 CULTURE OF ANALYTICAL THINKING AND EVIDENCE–BASED DECISION MAKING
+3 WITHIN UNITS OF STATE GOVERNMENT;
+4 (II) ADMINISTER A SECURE, MULTISTAKEHOLDER DATA
+5 ACADEMY PLATFORM WITH CURATED CONTENT;
+6 (III) DEVELOP GUIDANCE ON THE EFFECTIVE UNDERSTANDING,
+7 ANALYSIS, PRIVACY SAFEGUARDING, AND PROTECTION OF STATE DATA FOR ALL
+8 APPROPRIATE EMPLOYEES OF UNITS OF STATE GOVERNMENT;
+9 (IV) MANAGE DATA TRAINING FOR ALL APPROPRIATE
+10 EMPLOYEES OF UNITS OF STATE GOVERNMENT; AND
+11 (V) ESTABLISH A LIST OF DEFINED DATA TERMS AND CREATE A
+12 UNIFIED DATA LANGUAGE IN THE STATE.
+13 (D) THE DEPARTMENT SHALL PROVIDE THE OFFICE WITH SUFFICIENT
+14 STAFF TO PERFORM THE FUNCTIONS REQUIRED UNDER THIS SECTION.
+15 (E) (1) EACH UNIT OF STATE GOVERNMENT SHALL APPOINT AN AGENCY
+16 DATA OFFICER WHO SHALL REPORT DIRECTLY TO THE UNIT HEAD OR AN
+17 APPROPRIATE SENIOR OFFICIAL WITHIN THE UNIT OF STATE GOVERNMENT.
+18 (2) EACH AGENCY DATA OFFICER SHALL BE RESPONSIBLE FOR:
+19 (I) COLLABORATING WITH THE STATE CHIEF DATA OFFICER
+20 TO ENSURE THAT DATA INITIATIVES ARE CONSISTENT WITH THE STATEWIDE DATA
+21 STRATEGY;
+22 (II) DEVELOPING AND IMPLEMENTING DATA GOVERNANCE
+23 POLICIES AND PROCEDURES, INCLUDING THOSE PERTAINING TO DATA PRIVACY,
+24 WITHIN THE AGENCY DATA OFFICER’S UNIT OF STATE GOVERNMENT THAT ENSURE
+25 COMPLIANCE WITH THE POLICIES ESTABLISHED BY THE STATE CHIEF DATA
+26 OFFICER AND WITH LAWS, REGULATIONS, AND POLICIES;
+27 (III) OVERSEEING DATA QUALITY INITIATIVES AND ENSURING
+28 DATA ACCURACY, RELIABILITY, ACCESSIBILITY, AND RETENTION OF STATE DATA
+29 THAT ARE CONSISTENT WITH STANDARDS AND GUIDANCE ESTABLISHED BY THE
+30 OFFICE AND IN COMPLIANCE WITH LAWS, REGULATIONS, AND POLICIES;
+31 (IV) FACILITATING DATA SHARING WITHIN AND BETWEEN UNITS
+32 OF STATE GOVERNMENT AND WITH EXTERNAL PARTNERS THAT IS CONSISTENT
+HOUSE BILL 807 5
+1 WITH STANDARDS AND GUIDANCE ESTABLISHED BY THE OFFICE AND IN
+2 COMPLIANCE WITH EXISTING LAWS, REGULATIONS, AND POLICIES;
+3 (V) ASSISTING WITH FACILITATING PARTICIPATION OF STATE
+4 EMPLOYEES IN DATA TRAINING PROVIDED BY THE OFFICE;
+5 (VI) ADOPTING A PRIVACY GOVERNANCE AND RISK
+6 MANAGEMENT PROGRAM AND IMPLEMENTATION OF REASONABLE PRIVACY
+7 PROCEDURES AND PRACTICES, CONSISTENT WITH EXISTING LAWS, REGULATIONS,
+8 AND POLICIES, AND BEST PRACTICES ESTABLISHED BY THE OFFICE, TO ENSURE
+9 THAT CONFIDENTIALITY, INTEGRITY, AND AVAILABILITY OF ALL PERSONALLY
+10 IDENTIFIABLE INFORMATION ARE MAINTAINED;
+11 (VII) REDUCING THE AMOUNT OF PERSONALLY IDENTIFIABLE
+12 INFORMATION COLLECTED AND RETAINED TO ONLY THAT NECESSARY FOR THE
+13 PROPER PERFORMANCE OF THE AUTHORIZED FUNCTIONS OF THE UNIT OF STATE
+14 GOVERNMENT;
+15 (VIII) REPORTING TO THE OFFICE AT INTERVALS ESTABLISHED
+16 BY THE STATE CHIEF DATA OFFICER ON DATA–RELATED ACTIVITIES, INCLUDING
+17 COMPLIANCE WITH STATEWIDE DATA STRATEGY AND POLICIES, USING
+18 QUANTIFIABLE METRICS; AND
+19 (IX) MAKING AVAILABLE TO THE STATE CHIEF DATA OFFICER
+20 ANY DATA OR METADATA REQUESTED.
+21 Article – State Government
+22 10–1501.
+23 (a) In this subtitle the following words have the meanings indicated.
+24 (b) “Council” means the Council [on] FOR Open Data ADVANCEMENT.
+25 (c) [(1)] “Data” means [final versions of] statistical or factual information that:
+26 [(i)] (1) [are] IS in alphanumeric or geospatial form reflected in a
+27 list, table, graph, chart, map, or other nonnarrative format that can be digitally transmitted
+28 or processed;
+29 [(ii)] (2) [are] IS regularly created or maintained by or on behalf of
+30 a governmental entity; and
+6 HOUSE BILL 807
+1 [(iii)] (3) [record] RECORDS a measurement, transaction, or
+2 determination or [provide] PROVIDES information on government services, initiatives, and
+3 resources related to the mission of the covered governmental entity.
+4 [(2) “Data” does not include draft versions of statistical or factual
+5 information that are used for internal analysis by a governmental entity.]
+6 (d) “Data portal” means a website where governmental entities can post data sets
+7 and other data [as identified by the Council].
+8 (e) “Data set” means a named collection of related records maintained on a
+9 storage device, with the collection containing data organized or formatted in a specific or
+10 prescribed way.
+11 (f) “Governmental entity” means a State or local entity.
+12 (g) (1) “Local entity” means a county, municipal corporation, bicounty or
+13 multicounty agency, public authority, special taxing district, or other political subdivision
+14 or unit of a political subdivision of this State.
+15 (2) “Local entity” includes boards of education and library boards that
+16 receive funding from the State.
+17 (h) “Mapping and geographic information systems portal” means a website that
+18 provides:
+19 (1) data regarding services provided by and policy initiatives of
+20 governmental entities; and
+21 (2) other data provided in geospatial form [as identified by the Council].
+22 (i) (1) “Open data” means data that, consistent with any applicable laws,
+23 rules, regulations, ordinances, resolutions, policies, or other restrictions including
+24 requirements or rights associated with the data, a State entity:
+25 (i) has collected; and
+26 (ii) is permitted, required, or able to make available to the public.
+27 (2) “Open data” includes contractual or other legal orders, restrictions, or
+28 requirements.
+29 (3) “Open data” does not include data that if made public would:
+30 (i) violate another law or regulation that prohibits the data from
+31 being made public;
+HOUSE BILL 807 7
+1 (ii) endanger the public health, safety, or welfare;
+2 (iii) hinder the operation of government, including criminal and civil
+3 investigations;
+4 (iv) impose an undue financial, operational, or administrative
+5 burden on a State entity; or
+6 (v) disclose proprietary or confidential information.
+7 (j) “Open data portal” means a mapping and geographic information systems
+8 portal or data portal.
+9 (k) “State entity” means a department, a board, a commission, an agency, or a
+10 subunit in the Executive Branch of State government.
+11 10–1503.
+12 (a) There is a Council [on] FOR Open Data ADVANCEMENT.
+13 (b) The Council consists of the following [37] 11 members:
+14 [(1) the Secretary of Agriculture;
+15 (2) the Secretary of the Environment;
+16 (3) the Secretary of Natural Resources;
+17 (4) the Secretary of Planning;
+18 (5) the Secretary of Transportation;
+19 (6) the Secretary of Housing and Community Development;
+20 (7) the Secretary of Commerce;
+21 (8) the Secretary of General Services;
+22 (9) the State Superintendent of Schools;
+23 (10) the Secretary of Health;
+24 (11) the Secretary of Information Technology;
+25 (12) the Secretary of Public Safety and Correctional Services;
+8 HOUSE BILL 807
+1 (13) the Secretary of State Police;
+2 (14) the Director of Assessments and Taxation;
+3 (15) the Secretary of Budget and Management;
+4 (16) the Adjutant General of the Military Department;
+5 (17) the Secretary of Emergency Management;
+6 (18) the Secretary of Labor;
+7 (19) the Secretary of Human Services;
+8 (20) the Director of the Governor’s Office of Performance Improvement;
+9 (21) the Governor’s Homeland Security Advisor;
+10 (22) the Executive Director of the Governor’s Office of Crime Prevention and
+11 Policy;
+12 (23) the Executive Director of the Maryland Institute for Emergency
+13 Medical Services Systems;
+14 (24) the Executive Director of the Department of Legislative Services;
+15 (25) the State Archivist;]
+16 [(26)] (1) one member of the Senate of Maryland, appointed by the
+17 President of the Senate;
+18 [(27)] (2) one member of the House of Delegates of Maryland, appointed by
+19 the Speaker of the House;
+20 (3) THE STATE CHIEF DATA OFFICER;
+21 [(28)] (4) [five] THREE elected officials or employees from local entities
+22 who have knowledge of and interest in open data, appointed by the Governor in accordance
+23 with subsections (d) and (e) of this section; and
+24 [(29)] (5) five members from the private, private utility, academic, or
+25 nonprofit sectors who have knowledge of and interest in open data, appointed by the
+26 Governor in accordance with subsection (e) of this section.
+27 (c) If a member of the Council [listed in subsection (b)(1) through (24) of this
+28 section] is unable to attend a meeting of the Council, the member may:
+HOUSE BILL 807 9
+1 (1) IF THE MEMBER IS LISTED IN SUBSECTION (B)(1) OR (2) OF THIS
+2 SECTION, DESIGNATE A STAFF MEMBER WHO REPORTS DIRECTLY TO THE MEMBER
+3 TO ATTEND THE MEETING; OR
+4 (2) IF THE MEMBER IS LISTED IN SUBSECTION (B)(3) OR (4) OF THIS
+5 SECTION, designate [the Chief Information Officer or] another senior management staff
+6 member of the agency or organization to attend the meeting.
+7 (d) Of the [five] THREE elected officials or employees from local entities
+8 appointed by the Governor under subsection [(b)(28)] (B)(4) of this section, one shall
+9 represent each of the following groups of counties:
+10 (1) Allegany County, CARROLL COUNTY, Frederick County, Garrett
+11 County, and Washington County;
+12 (2) [Caroline County, Cecil County, Dorchester County, Kent County,
+13 Queen Anne’s County, Somerset County, Talbot County, Wicomico County, and Worcester
+14 County;
+15 (3)] Anne Arundel County, BALTIMORE CITY, BALTIMORE COUNTY,
+16 Calvert County, Charles County, [and] HOWARD COUNTY, MONTGOMERY COUNTY,
+17 PRINCE GEORGE’S COUNTY, AND St. Mary’s [County;
+18 (4) Montgomery County and Prince George’s] County; and
+19 [(5)] (3) [Baltimore City, Baltimore County, Carroll County,] CAROLINE
+20 COUNTY, CECIL COUNTY, DORCHESTER COUNTY, Harford County, KENT COUNTY,
+21 QUEEN ANNE’S COUNTY, SOMERSET COUNTY, TALBOT COUNTY, WICOMICO
+22 COUNTY, and [Howard] WORCESTER County.
+23 (e) (1) This subsection applies to members of the Council appointed under
+24 subsection [(b)(28)] (B)(4) and [(29)] (5) of this section.
+25 (2) The term of a member is 4 years[, except that five members may serve
+26 an initial 3–year term as required by the terms provided for staggered members of the
+27 Council on July 1, 2014].
+28 (3) At the end of a term, a member continues to serve until a successor is
+29 appointed and qualifies.
+30 (4) A member who is appointed after a term has begun serves only for the
+31 rest of the term and until a successor is appointed and qualifies.
+32 (5) A member may not serve more than two consecutive terms.
+10 HOUSE BILL 807
+1 (6) The Governor may remove a member for neglect of duty, incompetence,
+2 or misconduct.
+3 (f) A member of the Council may not receive compensation but is entitled to
+4 reimbursement for expenses under the Standard State Travel Regulations as provided in
+5 the State budget.
+6 (g) [(1)] The [Secretary of Information Technology] STATE CHIEF DATA
+7 OFFICER is the Chair of the Council.
+8 [(2) The Director of the Governor’s Office of Performance Improvement is
+9 the Vice Chair of the Council.]
+10 (h) The staffing responsibilities of the Council shall be shared by the Department
+11 of Information Technology[, the Governor’s Office of Performance Improvement,] and any
+12 [other] staff designated by the Governor.
+13 (i) The Council may establish workgroups as necessary to complete the duties of
+14 the Council.
+15 (j) The Council shall meet at least twice each year.
+16 10–1504.
+17 (a) The Council shall promote the policy established under § 10–1502 of this
+18 subtitle by:
+19 (1) providing guidance and policy recommendations and when appropriate
+20 recommend legislation and regulations for:
+21 (i) procedures, standards, and other deliverables for open data,
+22 including for open data portals;
+23 (ii) promotion, advertising, and marketing of open data; and
+24 (iii) best practices for sharing open data while taking into account
+25 privacy and security concerns;
+26 (2) [coordinating the appropriate staff at each State entity for the
+27 development, maintenance, and use of open data and open data portals] ADVISING ON
+28 DATA INITIATIVES AND PRIORITIES;
+29 (3) (i) [identifying the collective cost of operating and investing in open
+30 data and funding mechanisms to support open data] IDENTIFYING AND EXPLORING THE
+31 MEANS BY WHICH PARTNERSHIPS MAY BE DEVELOPED AND STRENGTHENED TO
+HOUSE BILL 807 11
+1 CONNECT MARYLAND DATA WITH COMMUNITIES AND SOCIAL SERVICE
+2 ORGANIZATIONS; and
+3 (ii) advising the Governor and General Assembly on budget matters
+4 related to open data;
+5 (4) inviting and encouraging local entities and the legislative and judicial
+6 branches to:
+7 (i) use open data portals established by State entities;
+8 (ii) create their own open data portals; and
+9 (iii) adopt policies consistent with the policy established under §
+10 10–1502 of this subtitle;
+11 (5) establishing a plan for providing all open data to the public at no cost;
+12 (6) advocating for sound records management and data preservation
+13 practices; and
+14 (7) making recommendations to ensure that the purchase of new data
+15 processing devices, systems, and software by the State includes a review of compliance with
+16 the open data policy established under § 10–1502 of this subtitle and interoperability with
+17 current technology used by the State.
+18 (b) On or before January 10 of each year, the Council shall report to the Governor
+19 and the General Assembly, in accordance with § 2–1257 of this article, on the activities of
+20 the Council for the previous year and any recommendations for legislation.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+22 1, 2025.
+[DELETED: :CA      5   C C H a G O C ( R – A I D F O T a t r o t O r e u o S g t t e B  A S  A  ( B  A  S  A  (  S T A]
+[DELETED:  H () I,“O”OED.NN FE  F N A() ( TSCDOD.H T H A F E ( TSCD T H A FS. E ( TSCD R O T T H A F  () ,DG CG A I T T T SN CN A E O  () ,IP AE RS A T T O A A U O T GS S ,;  () ,IO T UE MT A S O TS S   ()VC A A I O DD CD O M B U O T G A,   38;  () E A O P I LW DS   () IO T D L O T E E T D A R UD AD A,() ( TOEH I A F O N A I T. ( TOSCDO. F T H A F]
+[DELETED: H 3 ( T F  ()E A S F B W TT E  T,D  ()IES  () ID G O T E UET A S O D W A B U O T  () VP S A A U O TS   () E T. ( TO: FO  ()E A S F T P TA;  ()IE S B W D A S I  () ID TE  () VA A SE M D A A P A C R F DY Y Y ,;  () P S A A U O T ( TO: FO]
+[DELETED:  H   ()E A S F T F A O A T A EEB D M T;  () IA A SE M DT  () IDGS PG A T D F, T;  ()VM D T F A A TT ;  ()E TE.() TDH E S P T F W S() ( ESA T G F W S R D T T U H O A T. ( EADO: G A FR  () SCDC T H A F  ()ID A I D G A PS I T P T D PY G A FRS TDO’ W T P E B T T H AC,,;S S   ()IO D Q I A EY Y Y  T,, A C W S A G E B T,,;S S   ()VF T G A W E P T I C]
+[DELETED: H 5 S A G E B T F A IS S ,;  () A T F;  ()IA A P G A R P A I O R PS S S,S A E FE TO CY IY A A O A P  ()IR T A O P I C A R T O T N F T T  () IR F T H A FARS CDO– W S D S A PS US   () SCDXM T H A FD  A 1  ( I  ( “ on  .]RD  ( () “ ff ][    () ae ]()[  l o    () ae ]()[  a]
+[DELETED:  H     () rd a m t o]()[ R d pe  r  ( “ d n i d v o s o f i.  ( “ a al.  ( “ s m a n c o r r m o a s p  ( “  ( ( “ e m a c m c b o m o   ( “ e i b o e a l b t r  ( “ p   ( d r s p b a p i o g   ( o al.  ( ( “ d m d t c w a a l r r o r p o o r i r    ( h    ( i   ( “ r   ( “    ( v b]
+[DELETED: H 7    ( e    ( h i    ( i a u f o o a b    ( d  ( “ d p a m a g i s p  ( “ s 1  ( T on  .]RD  ( T 37 ]1   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t]
+[DELETED:  H    ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t P   ( t E D o t M I f E M   ( t   ( t   ()o m o t S o M a b t]( P   ()o]( t   SCDO; T H A FR   ()fe ]( [  w w   () f m f t p p u a o]( n s w h k o a i i o d a b t G  ( I l sni:]
+[DELETED: H 9 ( ())( B   N G  ( ())( B   [   tr  m  ( O t fe e o o e f l eT a b t G u s () o t s o s]() r   ( A C F C GC OY C   ( C C C C D C K C Q C   () A A CBC,BC IY A OY C C C C ad]HC,MCO OY O OG’C,[ EES OY  S C   ( Ms    () B,]()[]A,CC,DC,KCY E OY O OY E OY HA’C,SC,TC, NES OY O OY A OY I,[]Y O a Hd C  ( ( T s a t m o t C a u s ()  () ]())[](B   ( Ts, a C4.   ( A a   ( A r   ( A]
+[DELETED:  H    ( T o  ( A m o t C m n r c b i e t r t  ( () T S o I T][]SCT H A     ( T t.  ( T oy,,  or   ( T t  ( T 1  ( T C s p t p e u § 1 o t s   ( p r    ( p s a o d f o d i    ( p    ( b p   ( c t a s a e S e f t d ;   ( ( i d B W P M B D A S T]
+[DELETED: H 1 A D W C A S S ;    ( a r   ( i b    ( u    ( c    ( a p c w t p e u § 1   ( e   ( a f s r m a d p p   ( m r t e t t p o n d p t c  ( O a t  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 807
+S1 5lr0191
+CF 5lr0192
+By: Chair, Health and Government Operations Committee (By Request –
+Departmental – Information Technology)
+Introduced and read first time: January 29, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Information Technology – Modernizing Data Governance – Office of Enterprise
+3 Data and Council for Open Data Advancement
+4 FOR the purpose of establishing the position and responsibilities of the State Chief Data
+5 Officer; establishing the Office of Enterprise Data in the Department of Information
+6 Technology and the responsibilities of the Office; requiring each unit of State
+7 government to appoint an Agency Data Officer; renaming the Council on Open Data
+8 to be the Council for Open Data Advancement; altering the membership, member
+9 terms, and responsibilities of the Council; and generally relating to ensuring the
+10 efficient, secure, and ethical use of data in support of State goals and initiatives.
+11 BY adding to
+12 Article – State Finance and Procurement
+13 Section 3.5–319
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – State Government
+18 Section 10–1501, 10–1503, and 10–1504
+19 Annotated Code of Maryland
+20 (2021 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – State Finance and Procurement
+24 3.5–319.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0807*
+
+2 HOUSE BILL 807
+1 (A) IN THIS SECTION, “OFFICE” MEANS THE OFFICE OF ENTERPRISE DATA.
+2 (B) (1) THERE IS A STATE CHIEF DATA OFFICER IN THE DEPARTMENT.
+3 (2) THE STATE CHIEF DATA OFFICER SHALL BE APPOINTED BY THE
+4 GOVERNOR AND SUPERVISED BY THE SECRETARY.
+5 (3) THE RESPONSIBILITIES OF THE STATE CHIEF DATA OFFICER
+6 INCLUDE:
+7 (I) DIRECTING, COORDINATING, AND IMPLEMENTING THE
+8 STATEWIDE DATA STRATEGY AND POLICIES FOR UNITS OF STATE GOVERNMENT TO
+9 ENSURE RESPONSIBLE GOVERNANCE AND MANAGEMENT OF STATE DATA AND TO
+10 PROMOTE STANDARDIZATION, COLLABORATION, AND ESTABLISHMENT OF
+11 EFFICIENT DATA PRACTICES;
+12 (II) PROVIDING ADVICE, RECOMMENDATIONS, AND
+13 CONSULTATIONS TO THE GOVERNOR AND ANY UNIT OF STATE GOVERNMENT
+14 CONCERNING DATA POLICIES, PROCEDURES, AND STANDARDS;
+15 (III) OVERSEEING THE USE, MANAGEMENT, AND SHARING OF
+16 STATE DATA BY UNITS OF STATE GOVERNMENT TO ENSURE COMPLIANCE WITH ALL
+17 REQUIREMENTS, PROHIBITIONS, AND RESTRICTIONS ON DISCLOSURE OR RELEASE
+18 OF THE DATA APPLICABLE TO THE UNIT SHARING IT;
+19 (IV) COMPILING AN AUTHORITATIVE INVENTORY OF DATA
+20 COLLECTED, CREATED, OR MAINTAINED BY UNITS OF STATE GOVERNMENT AS
+21 REQUIRED BY § 3.5–318 OF THIS SUBTITLE;
+22 (V) EXCEPT AS OTHERWISE PROVIDED IN LAW, DESIGNATING
+23 AND FACILITATING ACCESS TO AUTHORITATIVE DATA SOURCES; AND
+24 (VI) OVERSEEING THE DATA LITERACY OF STATE EMPLOYEES
+25 TO ENSURE STATE DATA ARE RESPONSIBLY UNDERSTOOD, ANALYZED, AND
+26 COMMUNICATED.
+27 (C) (1) THERE IS AN OFFICE OF ENTERPRISE DATA IN THE
+28 DEPARTMENT.
+29 (2) THE HEAD OF THE OFFICE IS THE STATE CHIEF DATA OFFICER.
+
+HOUSE BILL 807 3
+1 (3) THE OFFICE SHALL ESTABLISH A STATEWIDE DATA GOVERNANCE
+2 PROGRAM TO:
+3 (I) ESTABLISH A STATEWIDE FRAMEWORK BY WHICH THE
+4 MANAGEMENT, USE, AND SHARING OF DATA WITHIN AND BETWEEN UNITS OF STATE
+5 GOVERNMENT IS GOVERNED;
+6 (II) ESTABLISH STANDARDS BY WHICH DATA ARE MANAGED IN
+7 COMPLIANCE WITH DEFINED POLICIES;
+8 (III) DEVELOP GUIDANCE ON THE EFFECTIVE USE,
+9 MANAGEMENT, AND SHARING OF DATA WITHIN AND BETWEEN UNITS OF STATE
+10 GOVERNMENT AND WITH THIRD PARTIES;
+11 (IV) PROVIDE SERVICES AND ADVISE UNITS OF STATE
+12 GOVERNMENT ON HOW TO MATURE THEIR DATA PROGRAMS; AND
+13 (V) ENSURE UNITS OF STATE GOVERNMENT ARE LEVERAGING
+14 STATE DATA AS A STRATEGIC ASSET.
+15 (4) THE OFFICE SHALL ESTABLISH A DATA SHARING PROGRAM TO:
+16 (I) ESTABLISH A STATEWIDE FRAMEWORK THAT PROMOTES
+17 DATA SHARING AND IMPROVES ACCESS TO STATE DATA;
+18 (II) ESTABLISH STANDARDS BY WHICH DATA ARE SHARED IN
+19 COMPLIANCE WITH EXISTING LAWS AND DEFINED POLICIES;
+20 (III) DEVELOP PROCESSES FOR UNITS OF STATE GOVERNMENT
+21 TO ACHIEVE AND MAINTAIN DATA READINESS FOR ARTIFICIAL INTELLIGENCE;
+22 (IV) ADMINISTER A SECURE, MULTISTAKEHOLDER DATA
+23 EXCHANGE AND ANALYTICS PLATFORM APPLYING COMMON RULES FOR DATA
+24 SECURITY, PRIVACY, AND CONFIDENTIALITY; AND
+25 (V) PROVIDE SERVICES AND ADVISE UNITS OF STATE
+26 GOVERNMENT ON HOW TO MAXIMIZE THE VALUE OF DATA THROUGH COLLECTIVE
+27 INVESTMENT AND EFFECTIVE INTEROPERABILITY OF DATA SOURCES.
+28 (5) THE OFFICE SHALL ESTABLISH A DATA LITERACY PROGRAM TO:
+
+4 HOUSE BILL 807
+1 (I) ESTABLISH A STATEWIDE FRAMEWORK TO FOSTER A
+2 CULTURE OF ANALYTICAL THINKING AND EVIDENCE–BASED DECISION MAKING
+3 WITHIN UNITS OF STATE GOVERNMENT;
+4 (II) ADMINISTER A SECURE, MULTISTAKEHOLDER DATA
+5 ACADEMY PLATFORM WITH CURATED CONTENT;
+6 (III) DEVELOP GUIDANCE ON THE EFFECTIVE UNDERSTANDING,
+7 ANALYSIS, PRIVACY SAFEGUARDING, AND PROTECTION OF STATE DATA FOR ALL
+8 APPROPRIATE EMPLOYEES OF UNITS OF STATE GOVERNMENT;
+9 (IV) MANAGE DATA TRAINING FOR ALL APPROPRIATE
+10 EMPLOYEES OF UNITS OF STATE GOVERNMENT; AND
+11 (V) ESTABLISH A LIST OF DEFINED DATA TERMS AND CREATE A
+12 UNIFIED DATA LANGUAGE IN THE STATE.
+13 (D) THE DEPARTMENT SHALL PROVIDE THE OFFICE WITH SUFFICIENT
+14 STAFF TO PERFORM THE FUNCTIONS REQUIRED UNDER THIS SECTION.
+15 (E) (1) EACH UNIT OF STATE GOVERNMENT SHALL APPOINT AN AGENCY
+16 DATA OFFICER WHO SHALL REPORT DIRECTLY TO THE UNIT HEAD OR AN
+17 APPROPRIATE SENIOR OFFICIAL WITHIN THE UNIT OF STATE GOVERNMENT.
+18 (2) EACH AGENCY DATA OFFICER SHALL BE RESPONSIBLE FOR:
+19 (I) COLLABORATING WITH THE STATE CHIEF DATA OFFICER
+20 TO ENSURE THAT DATA INITIATIVES ARE CONSISTENT WITH THE STATEWIDE DATA
+21 STRATEGY;
+22 (II) DEVELOPING AND IMPLEMENTING DATA GOVERNANCE
+23 POLICIES AND PROCEDURES, INCLUDING THOSE PERTAINING TO DATA PRIVACY,
+24 WITHIN THE AGENCY DATA OFFICER’S UNIT OF STATE GOVERNMENT THAT ENSURE
+25 COMPLIANCE WITH THE POLICIES ESTABLISHED BY THE STATE CHIEF DATA
+26 OFFICER AND WITH LAWS, REGULATIONS, AND POLICIES;
+27 (III) OVERSEEING DATA QUALITY INITIATIVES AND ENSURING
+28 DATA ACCURACY, RELIABILITY, ACCESSIBILITY, AND RETENTION OF STATE DATA
+29 THAT ARE CONSISTENT WITH STANDARDS AND GUIDANCE ESTABLISHED BY THE
+30 OFFICE AND IN COMPLIANCE WITH LAWS, REGULATIONS, AND POLICIES;
+31 (IV) FACILITATING DATA SHARING WITHIN AND BETWEEN UNITS
+32 OF STATE GOVERNMENT AND WITH EXTERNAL PARTNERS THAT IS CONSISTENT
+
+HOUSE BILL 807 5
+1 WITH STANDARDS AND GUIDANCE ESTABLISHED BY THE OFFICE AND IN
+2 COMPLIANCE WITH EXISTING LAWS, REGULATIONS, AND POLICIES;
+3 (V) ASSISTING WITH FACILITATING PARTICIPATION OF STATE
+4 EMPLOYEES IN DATA TRAINING PROVIDED BY THE OFFICE;
+5 (VI) ADOPTING A PRIVACY GOVERNANCE AND RISK
+6 MANAGEMENT PROGRAM AND IMPLEMENTATION OF REASONABLE PRIVACY
+7 PROCEDURES AND PRACTICES, CONSISTENT WITH EXISTING LAWS, REGULATIONS,
+8 AND POLICIES, AND BEST PRACTICES ESTABLISHED BY THE OFFICE, TO ENSURE
+9 THAT CONFIDENTIALITY, INTEGRITY, AND AVAILABILITY OF ALL PERSONALLY
+10 IDENTIFIABLE INFORMATION ARE MAINTAINED;
+11 (VII) REDUCING THE AMOUNT OF PERSONALLY IDENTIFIABLE
+12 INFORMATION COLLECTED AND RETAINED TO ONLY THAT NECESSARY FOR THE
+13 PROPER PERFORMANCE OF THE AUTHORIZED FUNCTIONS OF THE UNIT OF STATE
+14 GOVERNMENT;
+15 (VIII) REPORTING TO THE OFFICE AT INTERVALS ESTABLISHED
+16 BY THE STATE CHIEF DATA OFFICER ON DATA–RELATED ACTIVITIES, INCLUDING
+17 COMPLIANCE WITH STATEWIDE DATA STRATEGY AND POLICIES, USING
+18 QUANTIFIABLE METRICS; AND
+19 (IX) MAKING AVAILABLE TO THE STATE CHIEF DATA OFFICER
+20 ANY DATA OR METADATA REQUESTED.
+21 Article – State Government
+22 10–1501.
+23 (a) In this subtitle the following words have the meanings indicated.
+24 (b) “Council” means the Council [on] FOR Open Data ADVANCEMENT.
+25 (c) [(1)] “Data” means [final versions of] statistical or factual information that:
+26 [(i)] (1) [are] IS in alphanumeric or geospatial form reflected in a
+27 list, table, graph, chart, map, or other nonnarrative format that can be digitally transmitted
+28 or processed;
+29 [(ii)] (2) [are] IS regularly created or maintained by or on behalf of
+30 a governmental entity; and
+
+6 HOUSE BILL 807
+1 [(iii)] (3) [record] RECORDS a measurement, transaction, or
+2 determination or [provide] PROVIDES information on government services, initiatives, and
+3 resources related to the mission of the covered governmental entity.
+4 [(2) “Data” does not include draft versions of statistical or factual
+5 information that are used for internal analysis by a governmental entity.]
+6 (d) “Data portal” means a website where governmental entities can post data sets
+7 and other data [as identified by the Council].
+8 (e) “Data set” means a named collection of related records maintained on a
+9 storage device, with the collection containing data organized or formatted in a specific or
+10 prescribed way.
+11 (f) “Governmental entity” means a State or local entity.
+12 (g) (1) “Local entity” means a county, municipal corporation, bicounty or
+13 multicounty agency, public authority, special taxing district, or other political subdivision
+14 or unit of a political subdivision of this State.
+15 (2) “Local entity” includes boards of education and library boards that
+16 receive funding from the State.
+17 (h) “Mapping and geographic information systems portal” means a website that
+18 provides:
+19 (1) data regarding services provided by and policy initiatives of
+20 governmental entities; and
+21 (2) other data provided in geospatial form [as identified by the Council].
+22 (i) (1) “Open data” means data that, consistent with any applicable laws,
+23 rules, regulations, ordinances, resolutions, policies, or other restrictions including
+24 requirements or rights associated with the data, a State entity:
+25 (i) has collected; and
+26 (ii) is permitted, required, or able to make available to the public.
+27 (2) “Open data” includes contractual or other legal orders, restrictions, or
+28 requirements.
+29 (3) “Open data” does not include data that if made public would:
+30 (i) violate another law or regulation that prohibits the data from
+31 being made public;
+
+HOUSE BILL 807 7
+1 (ii) endanger the public health, safety, or welfare;
+2 (iii) hinder the operation of government, including criminal and civil
+3 investigations;
+4 (iv) impose an undue financial, operational, or administrative
+5 burden on a State entity; or
+6 (v) disclose proprietary or confidential information.
+7 (j) “Open data portal” means a mapping and geographic information systems
+8 portal or data portal.
+9 (k) “State entity” means a department, a board, a commission, an agency, or a
+10 subunit in the Executive Branch of State government.
+11 10–1503.
+12 (a) There is a Council [on] FOR Open Data ADVANCEMENT.
+13 (b) The Council consists of the following [37] 11 members:
+14 [(1) the Secretary of Agriculture;
+15 (2) the Secretary of the Environment;
+16 (3) the Secretary of Natural Resources;
+17 (4) the Secretary of Planning;
+18 (5) the Secretary of Transportation;
+19 (6) the Secretary of Housing and Community Development;
+20 (7) the Secretary of Commerce;
+21 (8) the Secretary of General Services;
+22 (9) the State Superintendent of Schools;
+23 (10) the Secretary of Health;
+24 (11) the Secretary of Information Technology;
+25 (12) the Secretary of Public Safety and Correctional Services;
+
+8 HOUSE BILL 807
+1 (13) the Secretary of State Police;
+2 (14) the Director of Assessments and Taxation;
+3 (15) the Secretary of Budget and Management;
+4 (16) the Adjutant General of the Military Department;
+5 (17) the Secretary of Emergency Management;
+6 (18) the Secretary of Labor;
+7 (19) the Secretary of Human Services;
+8 (20) the Director of the Governor’s Office of Performance Improvement;
+9 (21) the Governor’s Homeland Security Advisor;
+10 (22) the Executive Director of the Governor’s Office of Crime Prevention and
+11 Policy;
+12 (23) the Executive Director of the Maryland Institute for Emergency
+13 Medical Services Systems;
+14 (24) the Executive Director of the Department of Legislative Services;
+15 (25) the State Archivist;]
+16 [(26)] (1) one member of the Senate of Maryland, appointed by the
+17 President of the Senate;
+18 [(27)] (2) one member of the House of Delegates of Maryland, appointed by
+19 the Speaker of the House;
+20 (3) THE STATE CHIEF DATA OFFICER;
+21 [(28)] (4) [five] THREE elected officials or employees from local entities
+22 who have knowledge of and interest in open data, appointed by the Governor in accordance
+23 with subsections (d) and (e) of this section; and
+24 [(29)] (5) five members from the private, private utility, academic, or
+25 nonprofit sectors who have knowledge of and interest in open data, appointed by the
+26 Governor in accordance with subsection (e) of this section.
+27 (c) If a member of the Council [listed in subsection (b)(1) through (24) of this
+28 section] is unable to attend a meeting of the Council, the member may:
+
+HOUSE BILL 807 9
+1 (1) IF THE MEMBER IS LISTED IN SUBSECTION (B)(1) OR (2) OF THIS
+2 SECTION, DESIGNATE A STAFF MEMBER WHO REPORTS DIRECTLY TO THE MEMBER
+3 TO ATTEND THE MEETING; OR
+4 (2) IF THE MEMBER IS LISTED IN SUBSECTION (B)(3) OR (4) OF THIS
+5 SECTION, designate [the Chief Information Officer or] another senior management staff
+6 member of the agency or organization to attend the meeting.
+7 (d) Of the [five] THREE elected officials or employees from local entities
+8 appointed by the Governor under subsection [(b)(28)] (B)(4) of this section, one shall
+9 represent each of the following groups of counties:
+10 (1) Allegany County, CARROLL COUNTY, Frederick County, Garrett
+11 County, and Washington County;
+12 (2) [Caroline County, Cecil County, Dorchester County, Kent County,
+13 Queen Anne’s County, Somerset County, Talbot County, Wicomico County, and Worcester
+14 County;
+15 (3)] Anne Arundel County, BALTIMORE CITY, BALTIMORE COUNTY,
+16 Calvert County, Charles County, [and] HOWARD COUNTY, MONTGOMERY COUNTY,
+17 PRINCE GEORGE’S COUNTY, AND St. Mary’s [County;
+18 (4) Montgomery County and Prince George’s] County; and
+19 [(5)] (3) [Baltimore City, Baltimore County, Carroll County,] CAROLINE
+20 COUNTY, CECIL COUNTY, DORCHESTER COUNTY, Harford County, KENT COUNTY,
+21 QUEEN ANNE’S COUNTY, SOMERSET COUNTY, TALBOT COUNTY, WICOMICO
+22 COUNTY, and [Howard] WORCESTER County.
+23 (e) (1) This subsection applies to members of the Council appointed under
+24 subsection [(b)(28)] (B)(4) and [(29)] (5) of this section.
+25 (2) The term of a member is 4 years[, except that five members may serve
+26 an initial 3–year term as required by the terms provided for staggered members of the
+27 Council on July 1, 2014].
+28 (3) At the end of a term, a member continues to serve until a successor is
+29 appointed and qualifies.
+30 (4) A member who is appointed after a term has begun serves only for the
+31 rest of the term and until a successor is appointed and qualifies.
+32 (5) A member may not serve more than two consecutive terms.
+
+10 HOUSE BILL 807
+1 (6) The Governor may remove a member for neglect of duty, incompetence,
+2 or misconduct.
+3 (f) A member of the Council may not receive compensation but is entitled to
+4 reimbursement for expenses under the Standard State Travel Regulations as provided in
+5 the State budget.
+6 (g) [(1)] The [Secretary of Information Technology] STATE CHIEF DATA
+7 OFFICER is the Chair of the Council.
+8 [(2) The Director of the Governor’s Office of Performance Improvement is
+9 the Vice Chair of the Council.]
+10 (h) The staffing responsibilities of the Council shall be shared by the Department
+11 of Information Technology[, the Governor’s Office of Performance Improvement,] and any
+12 [other] staff designated by the Governor.
+13 (i) The Council may establish workgroups as necessary to complete the duties of
+14 the Council.
+15 (j) The Council shall meet at least twice each year.
+16 10–1504.
+17 (a) The Council shall promote the policy established under § 10–1502 of this
+18 subtitle by:
+19 (1) providing guidance and policy recommendations and when appropriate
+20 recommend legislation and regulations for:
+21 (i) procedures, standards, and other deliverables for open data,
+22 including for open data portals;
+23 (ii) promotion, advertising, and marketing of open data; and
+24 (iii) best practices for sharing open data while taking into account
+25 privacy and security concerns;
+26 (2) [coordinating the appropriate staff at each State entity for the
+27 development, maintenance, and use of open data and open data portals] ADVISING ON
+28 DATA INITIATIVES AND PRIORITIES;
+29 (3) (i) [identifying the collective cost of operating and investing in open
+30 data and funding mechanisms to support open data] IDENTIFYING AND EXPLORING THE
+31 MEANS BY WHICH PARTNERSHIPS MAY BE DEVELOPED AND STRENGTHENED TO
+
+HOUSE BILL 807 11
+1 CONNECT MARYLAND DATA WITH COMMUNITIES AND SOCIAL SERVICE
+2 ORGANIZATIONS; and
+3 (ii) advising the Governor and General Assembly on budget matters
+4 related to open data;
+5 (4) inviting and encouraging local entities and the legislative and judicial
+6 branches to:
+7 (i) use open data portals established by State entities;
+8 (ii) create their own open data portals; and
+9 (iii) adopt policies consistent with the policy established under §
+10 10–1502 of this subtitle;
+11 (5) establishing a plan for providing all open data to the public at no cost;
+12 (6) advocating for sound records management and data preservation
+13 practices; and
+14 (7) making recommendations to ensure that the purchase of new data
+15 processing devices, systems, and software by the State includes a review of compliance with
+16 the open data policy established under § 10–1502 of this subtitle and interoperability with
+17 current technology used by the State.
+18 (b) On or before January 10 of each year, the Council shall report to the Governor
+19 and the General Assembly, in accordance with § 2–1257 of this article, on the activities of
+20 the Council for the previous year and any recommendations for legislation.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+22 1, 2025.
+
+[DELETED: :CA      5   C C H a G O C ( R – A I D F O T a t r o t O r e u o S g t t e B  A S  A  ( B  A  S  A  (  S T A]
+[DELETED:  H () I,“O”OED.NN FE  F N A() ( TSCDOD.H T H A F E ( TSCD T H A FS. E ( TSCD R O T T H A F  () ,DG CG A I T T T SN CN A E O  () ,IP AE RS A T T O A A U O T GS S ,;  () ,IO T UE MT A S O TS S   ()VC A A I O DD CD O M B U O T G A,   38;  () E A O P I LW DS   () IO T D L O T E E T D A R UD AD A,() ( TOEH I A F O N A I T. ( TOSCDO. F T H A F]
+[DELETED: H 3 ( T F  ()E A S F B W TT E  T,D  ()IES  () ID G O T E UET A S O D W A B U O T  () VP S A A U O TS   () E T. ( TO: FO  ()E A S F T P TA;  ()IE S B W D A S I  () ID TE  () VA A SE M D A A P A C R F DY Y Y ,;  () P S A A U O T ( TO: FO]
+[DELETED:  H   ()E A S F T F A O A T A EEB D M T;  () IA A SE M DT  () IDGS PG A T D F, T;  ()VM D T F A A TT ;  ()E TE.() TDH E S P T F W S() ( ESA T G F W S R D T T U H O A T. ( EADO: G A FR  () SCDC T H A F  ()ID A I D G A PS I T P T D PY G A FRS TDO’ W T P E B T T H AC,,;S S   ()IO D Q I A EY Y Y  T,, A C W S A G E B T,,;S S   ()VF T G A W E P T I C]
+[DELETED: H 5 S A G E B T F A IS S ,;  () A T F;  ()IA A P G A R P A I O R PS S S,S A E FE TO CY IY A A O A P  ()IR T A O P I C A R T O T N F T T  () IR F T H A FARS CDO– W S D S A PS US   () SCDXM T H A FD  A 1  ( I  ( “ on  .]RD  ( () “ ff ][    () ae ]()[  l o    () ae ]()[  a]
+[DELETED:  H     () rd a m t o]()[ R d pe  r  ( “ d n i d v o s o f i.  ( “ a al.  ( “ s m a n c o r r m o a s p  ( “  ( ( “ e m a c m c b o m o   ( “ e i b o e a l b t r  ( “ p   ( d r s p b a p i o g   ( o al.  ( ( “ d m d t c w a a l r r o r p o o r i r    ( h    ( i   ( “ r   ( “    ( v b]
+[DELETED: H 7    ( e    ( h i    ( i a u f o o a b    ( d  ( “ d p a m a g i s p  ( “ s 1  ( T on  .]RD  ( T 37 ]1   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t]
+[DELETED:  H    ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t   ( t P   ( t E D o t M I f E M   ( t   ( t   ()o m o t S o M a b t]( P   ()o]( t   SCDO; T H A FR   ()fe ]( [  w w   () f m f t p p u a o]( n s w h k o a i i o d a b t G  ( I l sni:]
+[DELETED: H 9 ( ())( B   N G  ( ())( B   [   tr  m  ( O t fe e o o e f l eT a b t G u s () o t s o s]() r   ( A C F C GC OY C   ( C C C C D C K C Q C   () A A CBC,BC IY A OY C C C C ad]HC,MCO OY O OG’C,[ EES OY  S C   ( Ms    () B,]()[]A,CC,DC,KCY E OY O OY E OY HA’C,SC,TC, NES OY O OY A OY I,[]Y O a Hd C  ( ( T s a t m o t C a u s ()  () ]())[](B   ( Ts, a C4.   ( A a   ( A r   ( A]
+[DELETED:  H    ( T o  ( A m o t C m n r c b i e t r t  ( () T S o I T][]SCT H A     ( T t.  ( T oy,,  or   ( T t  ( T 1  ( T C s p t p e u § 1 o t s   ( p r    ( p s a o d f o d i    ( p    ( b p   ( c t a s a e S e f t d ;   ( ( i d B W P M B D A S T]
+[DELETED: H 1 A D W C A S S ;    ( a r   ( i b    ( u    ( c    ( a p c w t p e u § 1   ( e   ( a f s r m a d p p   ( m r t e t t p o n d p t c  ( O a t  S 1]

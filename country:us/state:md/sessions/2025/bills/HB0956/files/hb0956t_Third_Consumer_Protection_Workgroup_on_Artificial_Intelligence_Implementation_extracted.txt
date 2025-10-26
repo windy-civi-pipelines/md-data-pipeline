@@ -1,0 +1,201 @@
+Title: HOUSE BILL 956
+Official Title: HOUSE BILL 956
+Number of Sections: 1
+Source: versions - Third - Consumer Protection - Workgroup on Artificial Intelligence Implementation
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+S1, K3, I3 5lr1914
+By: Delegate Wilson
+Introduced and read first time: January 31, 2025
+Assigned to: Economic Matters
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 27, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Consumer Protection – Workgroup on Artificial Intelligence Implementation
+3 FOR the purpose of establishing the Workgroup on Artificial Intelligence Implementation;
+4 requiring the Workgroup to monitor and make recommendations regarding certain
+5 issues related to artificial intelligence and consumer protection; and generally
+6 relating to the Workgroup on Artificial Intelligence Implementation.
+7 BY adding to
+8 Article – State Finance and Procurement
+9 Section 3.5–807
+10 Annotated Code of Maryland
+11 (2021 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – State Finance and Procurement
+15 3.5–807.
+16 (A) THERE IS A WORKGROUP ON ARTIFICIAL INTELLIGENCE
+17 IMPLEMENTATION.
+18 (B) THE WORKGROUP CONSISTS OF THE FOLLOWING MEMBERS:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0956*
+2 HOUSE BILL 956
+1 (1) TWO MEMBERS OF THE SENATE OF MARYLAND, APPOINTED BY
+2 THE PRESIDENT OF THE SENATE;
+3 (2) TWO MEMBERS OF THE HOUSE OF DELEGATES, APPOINTED BY
+4 THE SPEAKER OF THE HOUSE;
+5 (3) THE ATTORNEY GENERAL, OR THE ATTORNEY GENERAL’S
+6 DESIGNEE;
+7 (4) THE CHIEF EXECUTIVE OFFICER OF THE MARYLAND
+8 TECHNOLOGY DEVELOPMENT CORPORATION, OR THE CHIEF EXECUTIVE
+9 OFFICER’S DESIGNEE; AND
+10 (5) THE FOLLOWING MEMBERS, APPOINTED BY THE GOVERNOR:
+11 (I) FOUR REPRESENTATIVES FROM THE MARYLAND
+12 TECHNOLOGY COUNCIL;
+13 (II) THREE REPRESENTATIVES FROM THE E–COMMERCE
+14 INDUSTRY;
+15 (III) THREE REPRESENTATIVES FROM THE BIOTECHNOLOGY
+16 INDUSTRY;
+17 (IV) THREE REPRESENTATIVES FROM THE REAL ESTATE
+18 COMMUNITY;
+19 (V) THREE REPRESENTATIVES FROM THE HEALTH CARE
+20 SECTOR; AND
+21 (VI) THREE REPRESENTATIVES FROM THE EDUCATION SECTOR.
+22 (C) THE PRESIDENT OF THE SENATE AND THE SPEAKER OF THE HOUSE
+23 JOINTLY SHALL DESIGNATE THE CHAIR OF THE WORKGROUP.
+24 (D) THE DEPARTMENT SHALL PROVIDE STAFF FOR THE WORKGROUP.
+25 (E) A MEMBER OF THE WORKGROUP:
+26 (1) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE
+27 WORKGROUP; BUT
+HOUSE BILL 956 3
+1 (2) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES UNDER THE
+2 STANDARD STATE TRAVEL REGULATIONS, AS PROVIDED IN THE STATE BUDGET.
+3 (F) THE WORKGROUP SHALL MONITOR ISSUES AND MAKE
+4 RECOMMENDATIONS RELATED TO ARTIFICIAL INTELLIGENCE INCLUDING:
+5 (1) THE REGULATION OF ARTIFICIAL INTELLIGENCE USED IN
+6 DECISIONS THAT SIGNIFICANTLY IMPACT THE LIVELIHOOD AND LIFE
+7 OPPORTUNITIES OF INDIVIDUALS IN THE STATE;
+8 (2) DEPLOYER AND DEVELOPER OBLIGATIONS RELATED TO LABOR
+9 AND EMPLOYMENT AND PROTECTION OF INDIVIDUAL PRIVACY RIGHTS;
+10 (3) PROTECTION OF CONSUMER RIGHTS;
+11 (4) CURRENT PRIVATE SECTOR USE OF ARTIFICIAL INTELLIGENCE;
+12 (5) GENERAL ARTIFICIAL INTELLIGENCE DISCLOSURES FOR ALL
+13 CONSUMERS; AND
+14 (6) ENFORCEMENT AUTHORITY FOR THE OFFICE OF THE ATTORNEY
+15 GENERAL’S OFFICE OF CONSUMER PROTECTION.
+16 (G) ON OR BEFORE JULY 1, 2026, AND EACH YEAR THEREAFTER, THE
+17 WORKGROUP SHALL REPORT ITS FINDINGS AND RECOMMENDATIONS, IN
+18 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, TO THE
+19 SENATE FINANCE COMMITTEE AND THE HOUSE ECONOMIC MATTERS COMMITTEE.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+21 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5     A C F r i r t a i a c p a g r B  A S  A  (  S T A.() TWAH I A O O R N.() TW:H O]
+[DELETED:  H  ( SM E AD  R ES; ( HD M O O O ES A P OH; ( AG,AG T EL O T T ELSE ( CEO H X F O T ADC,C E ON O T H X’;RSE  ( ,G:S  O  () F R F T AC; OL  () IT R F T ECY  ()IT R F T BY  ()VT R F T R EY  ()T R F T H CR   () .ITR () TPSSH R E P O O.() TDW.H E O() AW:  O ( N R C A A M O T;P ]
+[DELETED: H 3 ( E T R F E U TSTR,S. T R ES  T() TH O S M I A MG ( R O A I U I T S I T L A L T; ( A D O R T LS ( ; ( ;E ( A I D F AS  ( O F T’OCP.LS F O R() OJ1,2,N O B U   A E Y TR T S R I F A RS I W   O T T O RE T T27SGAFCHEMC I O O C A O   S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 956
+S1, K3, I3 5lr1914
+By: Delegate Wilson
+Introduced and read first time: January 31, 2025
+Assigned to: Economic Matters
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 27, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Consumer Protection – Workgroup on Artificial Intelligence Implementation
+3 FOR the purpose of establishing the Workgroup on Artificial Intelligence Implementation;
+4 requiring the Workgroup to monitor and make recommendations regarding certain
+5 issues related to artificial intelligence and consumer protection; and generally
+6 relating to the Workgroup on Artificial Intelligence Implementation.
+7 BY adding to
+8 Article – State Finance and Procurement
+9 Section 3.5–807
+10 Annotated Code of Maryland
+11 (2021 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – State Finance and Procurement
+15 3.5–807.
+16 (A) THERE IS A WORKGROUP ON ARTIFICIAL INTELLIGENCE
+17 IMPLEMENTATION.
+18 (B) THE WORKGROUP CONSISTS OF THE FOLLOWING MEMBERS:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0956*
+
+2 HOUSE BILL 956
+1 (1) TWO MEMBERS OF THE SENATE OF MARYLAND, APPOINTED BY
+2 THE PRESIDENT OF THE SENATE;
+3 (2) TWO MEMBERS OF THE HOUSE OF DELEGATES, APPOINTED BY
+4 THE SPEAKER OF THE HOUSE;
+5 (3) THE ATTORNEY GENERAL, OR THE ATTORNEY GENERAL’S
+6 DESIGNEE;
+7 (4) THE CHIEF EXECUTIVE OFFICER OF THE MARYLAND
+8 TECHNOLOGY DEVELOPMENT CORPORATION, OR THE CHIEF EXECUTIVE
+9 OFFICER’S DESIGNEE; AND
+10 (5) THE FOLLOWING MEMBERS, APPOINTED BY THE GOVERNOR:
+11 (I) FOUR REPRESENTATIVES FROM THE MARYLAND
+12 TECHNOLOGY COUNCIL;
+13 (II) THREE REPRESENTATIVES FROM THE E–COMMERCE
+14 INDUSTRY;
+15 (III) THREE REPRESENTATIVES FROM THE BIOTECHNOLOGY
+16 INDUSTRY;
+17 (IV) THREE REPRESENTATIVES FROM THE REAL ESTATE
+18 COMMUNITY;
+19 (V) THREE REPRESENTATIVES FROM THE HEALTH CARE
+20 SECTOR; AND
+21 (VI) THREE REPRESENTATIVES FROM THE EDUCATION SECTOR.
+22 (C) THE PRESIDENT OF THE SENATE AND THE SPEAKER OF THE HOUSE
+23 JOINTLY SHALL DESIGNATE THE CHAIR OF THE WORKGROUP.
+24 (D) THE DEPARTMENT SHALL PROVIDE STAFF FOR THE WORKGROUP.
+25 (E) A MEMBER OF THE WORKGROUP:
+26 (1) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE
+27 WORKGROUP; BUT
+
+HOUSE BILL 956 3
+1 (2) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES UNDER THE
+2 STANDARD STATE TRAVEL REGULATIONS, AS PROVIDED IN THE STATE BUDGET.
+3 (F) THE WORKGROUP SHALL MONITOR ISSUES AND MAKE
+4 RECOMMENDATIONS RELATED TO ARTIFICIAL INTELLIGENCE INCLUDING:
+5 (1) THE REGULATION OF ARTIFICIAL INTELLIGENCE USED IN
+6 DECISIONS THAT SIGNIFICANTLY IMPACT THE LIVELIHOOD AND LIFE
+7 OPPORTUNITIES OF INDIVIDUALS IN THE STATE;
+8 (2) DEPLOYER AND DEVELOPER OBLIGATIONS RELATED TO LABOR
+9 AND EMPLOYMENT AND PROTECTION OF INDIVIDUAL PRIVACY RIGHTS;
+10 (3) PROTECTION OF CONSUMER RIGHTS;
+11 (4) CURRENT PRIVATE SECTOR USE OF ARTIFICIAL INTELLIGENCE;
+12 (5) GENERAL ARTIFICIAL INTELLIGENCE DISCLOSURES FOR ALL
+13 CONSUMERS; AND
+14 (6) ENFORCEMENT AUTHORITY FOR THE OFFICE OF THE ATTORNEY
+15 GENERAL’S OFFICE OF CONSUMER PROTECTION.
+16 (G) ON OR BEFORE JULY 1, 2026, AND EACH YEAR THEREAFTER, THE
+17 WORKGROUP SHALL REPORT ITS FINDINGS AND RECOMMENDATIONS, IN
+18 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, TO THE
+19 SENATE FINANCE COMMITTEE AND THE HOUSE ECONOMIC MATTERS COMMITTEE.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+21 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5     A C F r i r t a i a c p a g r B  A S  A  (  S T A.() TWAH I A O O R N.() TW:H O]
+[DELETED:  H  ( SM E AD  R ES; ( HD M O O O ES A P OH; ( AG,AG T EL O T T ELSE ( CEO H X F O T ADC,C E ON O T H X’;RSE  ( ,G:S  O  () F R F T AC; OL  () IT R F T ECY  ()IT R F T BY  ()VT R F T R EY  ()T R F T H CR   () .ITR () TPSSH R E P O O.() TDW.H E O() AW:  O ( N R C A A M O T;P ]
+[DELETED: H 3 ( E T R F E U TSTR,S. T R ES  T() TH O S M I A MG ( R O A I U I T S I T L A L T; ( A D O R T LS ( ; ( ;E ( A I D F AS  ( O F T’OCP.LS F O R() OJ1,2,N O B U   A E Y TR T S R I F A RS I W   O T T O RE T T27SGAFCHEMC I O O C A O   S 1          G               ]

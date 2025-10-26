@@ -1,0 +1,193 @@
+Title: HOUSE BILL 130
+Official Title: HOUSE BILL 130
+Number of Sections: 1
+Source: versions - Third - Intercepted Communications - Statute of Limitations and Penalty
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+E2 5lr1159
+HB 274/24 – JUD (PRE–FILED) CF SB 38
+By: Delegate Simpson Delegates Simpson, Grammer, and Conaway
+Requested: October 9, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judiciary
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 6, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Intercepted Communications – Statute of Limitations and Penalty
+3 FOR the purpose of altering the statute of limitations applicable to a certain offense
+4 relating to the prohibition against intercepting and disclosing any wire, oral, or
+5 electronic communications and reclassifying, as a misdemeanor instead of a felony,
+6 a certain the offense relating to the prohibition against intercepting and disclosing
+7 any wire, oral, or electronic communications as a misdemeanor instead of a felony;
+8 and generally relating to intercepted communications.
+9 BY repealing and reenacting, without amendments,
+10 Article – Courts and Judicial Proceedings
+11 Section 5–106(a) and (b) and 10–402(a)
+12 Annotated Code of Maryland
+13 (2020 Replacement Volume and 2024 Supplement)
+14 BY adding to
+15 Article – Courts and Judicial Proceedings
+16 Section 5–106(jj)
+17 Annotated Code of Maryland
+18 (2020 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Courts and Judicial Proceedings
+21 Section 10–402(b)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0130*
+2 HOUSE BILL 130
+1 Annotated Code of Maryland
+2 (2020 Replacement Volume and 2024 Supplement)
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – Courts and Judicial Proceedings
+6 5–106.
+7 (a) Except as provided by this section, § 1–303 of the Environment Article, and §
+8 8–1815 of the Natural Resources Article, a prosecution for a misdemeanor shall be
+9 instituted within 1 year after the offense was committed.
+10 (b) Notwithstanding § 9–103(a)(3) of the Correctional Services Article or any
+11 other provision of the Code, if a statute provides that a misdemeanor is punishable by
+12 imprisonment in the penitentiary or that a person is subject to this subsection:
+13 (1) The State may institute a prosecution for the misdemeanor at any time;
+14 and
+15 (2) For purposes of the Maryland Constitution, the person:
+16 (i) Shall be deemed to have committed a misdemeanor whose
+17 punishment is confinement in the penitentiary; and
+18 (ii) May reserve a point or question for in banc review as provided
+19 under Article IV, § 22 of the Maryland Constitution.
+20 (JJ) A CRIMINAL PROSECUTION UNDER § 10–402(A) OF THIS ARTICLE SHALL
+21 BE INSTITUTED WITHIN 5 YEARS AFTER THE OFFENSE WAS COMMITTED.
+22 10–402.
+23 (a) Except as otherwise specifically provided in this subtitle it is unlawful for any
+24 person to:
+25 (1) Willfully intercept, endeavor to intercept, or procure any other person
+26 to intercept or endeavor to intercept, any wire, oral, or electronic communication;
+27 (2) Willfully disclose, or endeavor to disclose, to any other person the
+28 contents of any wire, oral, or electronic communication, knowing or having reason to know
+29 that the information was obtained through the interception of a wire, oral, or electronic
+30 communication in violation of this subtitle; or
+31 (3) Willfully use, or endeavor to use, the contents of any wire, oral, or
+32 electronic communication, knowing or having reason to know that the information was
+HOUSE BILL 130 3
+1 obtained through the interception of a wire, oral, or electronic communication in violation
+2 of this subtitle.
+3 (b) Any person who violates subsection (a) of this section is guilty of a [felony]
+4 MISDEMEANOR and is subject to imprisonment for not more than 5 years or a fine of not
+5 more than $10,000, or both.
+6 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5 ( C A I F t p o a t s o l a t a c o r t t p a i a d a w o o e a a a B  A S  A  ( B  A  S  A  ( B  A S]
+[DELETED:  H   A  (  S T A 5  ( E 8 o t N R A a p f a m s b i  ( N § 9 o t C S A o a o i   ( T a   ( F    ( S b d t h c a m w p    ( M u  )A§1(J   A      1  ( E p   ( W t   ( W d o e t d t a o p t c t c   ( W u o e t u t c o a w o o e]
+[DELETED: H 3 o o  ( A f   m  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 130
+E2 5lr1159
+HB 274/24 – JUD (PRE–FILED) CF SB 38
+By: Delegate Simpson Delegates Simpson, Grammer, and Conaway
+Requested: October 9, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judiciary
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 6, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Intercepted Communications – Statute of Limitations and Penalty
+3 FOR the purpose of altering the statute of limitations applicable to a certain offense
+4 relating to the prohibition against intercepting and disclosing any wire, oral, or
+5 electronic communications and reclassifying, as a misdemeanor instead of a felony,
+6 a certain the offense relating to the prohibition against intercepting and disclosing
+7 any wire, oral, or electronic communications as a misdemeanor instead of a felony;
+8 and generally relating to intercepted communications.
+9 BY repealing and reenacting, without amendments,
+10 Article – Courts and Judicial Proceedings
+11 Section 5–106(a) and (b) and 10–402(a)
+12 Annotated Code of Maryland
+13 (2020 Replacement Volume and 2024 Supplement)
+14 BY adding to
+15 Article – Courts and Judicial Proceedings
+16 Section 5–106(jj)
+17 Annotated Code of Maryland
+18 (2020 Replacement Volume and 2024 Supplement)
+19 BY repealing and reenacting, with amendments,
+20 Article – Courts and Judicial Proceedings
+21 Section 10–402(b)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0130*
+
+2 HOUSE BILL 130
+1 Annotated Code of Maryland
+2 (2020 Replacement Volume and 2024 Supplement)
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – Courts and Judicial Proceedings
+6 5–106.
+7 (a) Except as provided by this section, § 1–303 of the Environment Article, and §
+8 8–1815 of the Natural Resources Article, a prosecution for a misdemeanor shall be
+9 instituted within 1 year after the offense was committed.
+10 (b) Notwithstanding § 9–103(a)(3) of the Correctional Services Article or any
+11 other provision of the Code, if a statute provides that a misdemeanor is punishable by
+12 imprisonment in the penitentiary or that a person is subject to this subsection:
+13 (1) The State may institute a prosecution for the misdemeanor at any time;
+14 and
+15 (2) For purposes of the Maryland Constitution, the person:
+16 (i) Shall be deemed to have committed a misdemeanor whose
+17 punishment is confinement in the penitentiary; and
+18 (ii) May reserve a point or question for in banc review as provided
+19 under Article IV, § 22 of the Maryland Constitution.
+20 (JJ) A CRIMINAL PROSECUTION UNDER § 10–402(A) OF THIS ARTICLE SHALL
+21 BE INSTITUTED WITHIN 5 YEARS AFTER THE OFFENSE WAS COMMITTED.
+22 10–402.
+23 (a) Except as otherwise specifically provided in this subtitle it is unlawful for any
+24 person to:
+25 (1) Willfully intercept, endeavor to intercept, or procure any other person
+26 to intercept or endeavor to intercept, any wire, oral, or electronic communication;
+27 (2) Willfully disclose, or endeavor to disclose, to any other person the
+28 contents of any wire, oral, or electronic communication, knowing or having reason to know
+29 that the information was obtained through the interception of a wire, oral, or electronic
+30 communication in violation of this subtitle; or
+31 (3) Willfully use, or endeavor to use, the contents of any wire, oral, or
+32 electronic communication, knowing or having reason to know that the information was
+
+HOUSE BILL 130 3
+1 obtained through the interception of a wire, oral, or electronic communication in violation
+2 of this subtitle.
+3 (b) Any person who violates subsection (a) of this section is guilty of a [felony]
+4 MISDEMEANOR and is subject to imprisonment for not more than 5 years or a fine of not
+5 more than $10,000, or both.
+6 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5 ( C A I F t p o a t s o l a t a c o r t t p a i a d a w o o e a a a B  A S  A  ( B  A  S  A  ( B  A S]
+[DELETED:  H   A  (  S T A 5  ( E 8 o t N R A a p f a m s b i  ( N § 9 o t C S A o a o i   ( T a   ( F    ( S b d t h c a m w p    ( M u  )A§1(J   A      1  ( E p   ( W t   ( W d o e t d t a o p t c t c   ( W u o e t u t c o a w o o e]
+[DELETED: H 3 o o  ( A f   m  S A B I F E T t A s t e O          G               ]

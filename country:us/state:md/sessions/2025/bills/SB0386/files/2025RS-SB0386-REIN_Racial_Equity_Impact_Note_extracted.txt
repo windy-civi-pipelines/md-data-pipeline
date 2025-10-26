@@ -1,0 +1,353 @@
+Title: Primary and Secondary Education - Definition and Notification of
+Official Title: Primary and Secondary Education - Definition and Notification of
+Number of Sections: 13
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 Session
+SB0386
+Reportable Offense - Alterations
+Bill Summary
+This bill expands the definition of “reportable offense” to include an offense that occurs on the
+premises of a public school or at an event sponsored by a public school. It also requires the
+Department of Juvenile Services (DJS) to promptly notify the local superintendent and the school
+principal of a decision made during an inquiry by an intake officer into the jurisdiction of a circuit
+court acting as the juvenile court, in specified circumstances.
+Racial Equity Impact Statement
+It is unclear whether the bill’s expanded definition of reportable offenses that includes on-campus
+and off-campus school sponsored events will materially affect the number of arrests reported to
+school officials since school officials are likely involved in the initiation of arrests that occur on
+school grounds or at school sponsored events. Due to reforms enacted in 2022, school officials
+must follow existing disciplinary rules for both on-campus and off-campus arrests, thus any
+increase in reporting of these offenses is unlikely to result in disproportionate disciplinary actions.
+The bill’s requirement for DJS to report on the dispositions of reportable offense arrests that result
+in no action or that are adjusted informally could positively impact affected students that have been
+removed from in-person learning or otherwise disciplined by ensuring their prompt return to
+regular school programming.
+Analysis
+The bill would require law enforcement to report arrests of students for specified reportable
+offenses regardless of where they occurred and require DJS to promptly notify the local
+SB 386/ Page 1
+superintendent and school principal of any juve nile intake decision that results in an informal
+adjustment or no formal complaint for a reportable offense.
+Under existing law, a reportable offense is an offense that (1) occurred off school premises; (2) did
+not occur at an event sponsored by the school; and (3) includes a crime of violence, as specified in
+current law, and numerous other specified weapons, drug, assault, and theft related offenses. When
+a student is arrested for a reportable offense or an offense related to the student’s membership in a
+criminal organization, the law enforcement agency making the arrest must notify (1) the local
+superintendent; (2) the school principal; and (3) if appropriate, the school security officer. The law
+enforcement agency may also notify the State’s Attorney.
+In 2022, the General Assembly expressed concern about the purported misuse or overuse of school
+removals for students arrested for a reportable offense. Chapter 742 of 2022 clarifies that a
+“reportable offense” as it relates to students in public or nonpublic schools is an offense that
+occurred off school premises and did not occur at an event sponsored by the school. The Act also
+requires that students accused of reportable offenses be disciplined according to existing State
+regulations and provides for additional due process accommodations by allowing a student accused
+of a reportable offense to have an attorney attend the conference between the student or parent and
+principal or county superintendent.
+Juvenile Intake Process
+The intake process for juveniles accused of any criminal offense requires a determination as to
+whether the juvenile court has jurisdiction and whether judicial action is in the best interest of the
+public and/or the child. DJS intake officers are authorized to (1) disapprove a complaint as legally
+insufficient; (2) resolve the matter at intake with or without services; (3) propose an informal
+adjustment period (also called pre-court supervision); or (4) authorize the filing of a petition by
+the State’s Attorney’s Office. While DJS can informally handle all complaints, violent felonies
+and handgun violations must be reviewed by the State’s Attorney and approved for informal
+adjustment/pre-court supervision. Informal adjustments serve to divert youth from formal juvenile
+court processing.
+The Maryland State Department of Education (MSDE) reported 986 reportable offense incidents
+during the 2022-2023 school year. Of these incidents, 65% involved Black students, 18% were
+white, 9% were Hispanic, and 6% involved students of two or more races. Asian, American Indian
+or Alaskan Natives, and Native Hawaiian/Pacific Islanders account for less than 2% of the total.
+Exhibit 1 shows the racial and ethnic breakdowns for reportable offenses compared to each
+group’s share of the State’s public school population during the same time period.
+SB 386/ Page 2
+Exhibit 1
+Reportable Offenses and Public School Enrollment
+by Race and Ethnicity
+2022-2023 School Year
+
+Section 2:
+65.2%
+
+Section 3:
+32.9% 32.7%
+
+Section 4:
+22.0%
+
+Section 5:
+18.1%
+
+Section 6:
+9.1%
+
+Section 7:
+5.2% 6.3%
+White Black Hispanic Two or More Races
+Public School Enrollment Reportable Offenses
+Source: Maryland Department of Education
+MSDE also tracks arrests that occurred as a result of a referral of a student by school personnel to
+law enforcement or to DJS for a disciplinary offense that occurred on school grounds or during
+off-campus activities, including transportation to and from school. Exhibit 2 shows the racial and
+ethnic breakdown of on-campus school arrests during the 2022-2023 school year compared to
+enrollment data. Offense categories include sex offenses, weapons violations, threats, serious
+bodily injury, fighting, and alcohol and drug violations. The data shows 57% of arrestees were
+Black students, 25% were white, 9% were Hispanic, and 8% were students of two or more races.
+Asian, American Indian or Alaskan Natives, and Native Hawaiian/Pacific Islanders account for
+less than 2% of the total.
+SB 386/ Page 3
+Exhibit 2
+School Arrests and Public School Enrollment
+by Race and Ethnicity
+2022-2023 School Year
+
+Section 8:
+56.6%
+
+Section 9:
+32.9% 32.7%
+
+Section 10:
+24.6%
+
+Section 11:
+22.0%
+
+Section 12:
+9.3% 8.1%
+
+Section 13:
+5.2%
+White Black Hispanic Two or More Races
+Public School Enrollment 2022-2023 Arrests
+Conclusion
+Data from MSDE confirms significant disparities among racial groups arrested for reportable
+offenses as defined under existing law. It is unclear whether the bill’s expansion of the definition
+of reportable offenses would result in any increased disciplinary actions for affected students
+because schools must follow the same disciplinary procedures as it does with other students –
+something that may not have been the case before 2022. It is also unclear whether the expanded
+definition would capture formerly unreported arrests that school officials are unaware of under the
+existing process for reporting and handling arrests of students both on and off campus. The bill’s
+notification requirement for DJS to notify school officials of certain post-arrest outcomes for
+reportable offense arrests would benefit the affected students by allowing a faster return to regular
+school programming in those cases where an arrested student is not referred to formal proceedings.
+Black students, in particular, may be impacted to the greatest extent as they make up a substantially
+large portion of reportable offense arrests as well as arrests on campus. The specific impacts,
+however, cannot be determined without more longitudinal data on arrest outcomes.
+Information Sources: Department of Juvenile Services; State Department of Education;
+Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+P ublished: 02/07/2025
+SB 386/ Page 4
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+SB 386/ Page 5
+[DELETED:  f e d r f b o a o a t a f i l o o d b e t p r b w r l e t r a o s f s r r o w t o a r D t p n t l]
+[DELETED:  f s a f a r o C 7 o 2 c t a t m a a f 1 s t r a e b f r o c t e]
+[DELETED:  d O c i s o w v t seBkHcTtR]
+[DELETED:  g p S  D o J S S D o E eBkHcTt2]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]
+
+
+================================================================================
+
+Raw Text:
+2025 Session
+SB0386
+Primary and Secondary Education - Definition and Notification of
+Reportable Offense - Alterations
+Bill Summary
+This bill expands the definition of “reportable offense” to include an offense that occurs on the
+premises of a public school or at an event sponsored by a public school. It also requires the
+Department of Juvenile Services (DJS) to promptly notify the local superintendent and the school
+principal of a decision made during an inquiry by an intake officer into the jurisdiction of a circuit
+court acting as the juvenile court, in specified circumstances.
+Racial Equity Impact Statement
+It is unclear whether the bill’s expanded definition of reportable offenses that includes on-campus
+and off-campus school sponsored events will materially affect the number of arrests reported to
+school officials since school officials are likely involved in the initiation of arrests that occur on
+school grounds or at school sponsored events. Due to reforms enacted in 2022, school officials
+must follow existing disciplinary rules for both on-campus and off-campus arrests, thus any
+increase in reporting of these offenses is unlikely to result in disproportionate disciplinary actions.
+The bill’s requirement for DJS to report on the dispositions of reportable offense arrests that result
+in no action or that are adjusted informally could positively impact affected students that have been
+removed from in-person learning or otherwise disciplined by ensuring their prompt return to
+regular school programming.
+Analysis
+The bill would require law enforcement to report arrests of students for specified reportable
+offenses regardless of where they occurred and require DJS to promptly notify the local
+SB 386/ Page 1
+
+superintendent and school principal of any juve nile intake decision that results in an informal
+adjustment or no formal complaint for a reportable offense.
+Under existing law, a reportable offense is an offense that (1) occurred off school premises; (2) did
+not occur at an event sponsored by the school; and (3) includes a crime of violence, as specified in
+current law, and numerous other specified weapons, drug, assault, and theft related offenses. When
+a student is arrested for a reportable offense or an offense related to the student’s membership in a
+criminal organization, the law enforcement agency making the arrest must notify (1) the local
+superintendent; (2) the school principal; and (3) if appropriate, the school security officer. The law
+enforcement agency may also notify the State’s Attorney.
+In 2022, the General Assembly expressed concern about the purported misuse or overuse of school
+removals for students arrested for a reportable offense. Chapter 742 of 2022 clarifies that a
+“reportable offense” as it relates to students in public or nonpublic schools is an offense that
+occurred off school premises and did not occur at an event sponsored by the school. The Act also
+requires that students accused of reportable offenses be disciplined according to existing State
+regulations and provides for additional due process accommodations by allowing a student accused
+of a reportable offense to have an attorney attend the conference between the student or parent and
+principal or county superintendent.
+Juvenile Intake Process
+The intake process for juveniles accused of any criminal offense requires a determination as to
+whether the juvenile court has jurisdiction and whether judicial action is in the best interest of the
+public and/or the child. DJS intake officers are authorized to (1) disapprove a complaint as legally
+insufficient; (2) resolve the matter at intake with or without services; (3) propose an informal
+adjustment period (also called pre-court supervision); or (4) authorize the filing of a petition by
+the State’s Attorney’s Office. While DJS can informally handle all complaints, violent felonies
+and handgun violations must be reviewed by the State’s Attorney and approved for informal
+adjustment/pre-court supervision. Informal adjustments serve to divert youth from formal juvenile
+court processing.
+The Maryland State Department of Education (MSDE) reported 986 reportable offense incidents
+during the 2022-2023 school year. Of these incidents, 65% involved Black students, 18% were
+white, 9% were Hispanic, and 6% involved students of two or more races. Asian, American Indian
+or Alaskan Natives, and Native Hawaiian/Pacific Islanders account for less than 2% of the total.
+Exhibit 1 shows the racial and ethnic breakdowns for reportable offenses compared to each
+group’s share of the State’s public school population during the same time period.
+SB 386/ Page 2
+
+Exhibit 1
+Reportable Offenses and Public School Enrollment
+by Race and Ethnicity
+2022-2023 School Year
+65.2%
+32.9% 32.7%
+22.0%
+18.1%
+9.1%
+5.2% 6.3%
+White Black Hispanic Two or More Races
+Public School Enrollment Reportable Offenses
+Source: Maryland Department of Education
+MSDE also tracks arrests that occurred as a result of a referral of a student by school personnel to
+law enforcement or to DJS for a disciplinary offense that occurred on school grounds or during
+off-campus activities, including transportation to and from school. Exhibit 2 shows the racial and
+ethnic breakdown of on-campus school arrests during the 2022-2023 school year compared to
+enrollment data. Offense categories include sex offenses, weapons violations, threats, serious
+bodily injury, fighting, and alcohol and drug violations. The data shows 57% of arrestees were
+Black students, 25% were white, 9% were Hispanic, and 8% were students of two or more races.
+Asian, American Indian or Alaskan Natives, and Native Hawaiian/Pacific Islanders account for
+less than 2% of the total.
+SB 386/ Page 3
+
+Exhibit 2
+School Arrests and Public School Enrollment
+by Race and Ethnicity
+2022-2023 School Year
+56.6%
+32.9% 32.7%
+24.6%
+22.0%
+9.3% 8.1%
+5.2%
+White Black Hispanic Two or More Races
+Public School Enrollment 2022-2023 Arrests
+Conclusion
+Data from MSDE confirms significant disparities among racial groups arrested for reportable
+offenses as defined under existing law. It is unclear whether the bill’s expansion of the definition
+of reportable offenses would result in any increased disciplinary actions for affected students
+because schools must follow the same disciplinary procedures as it does with other students –
+something that may not have been the case before 2022. It is also unclear whether the expanded
+definition would capture formerly unreported arrests that school officials are unaware of under the
+existing process for reporting and handling arrests of students both on and off campus. The bill’s
+notification requirement for DJS to notify school officials of certain post-arrest outcomes for
+reportable offense arrests would benefit the affected students by allowing a faster return to regular
+school programming in those cases where an arrested student is not referred to formal proceedings.
+Black students, in particular, may be impacted to the greatest extent as they make up a substantially
+large portion of reportable offense arrests as well as arrests on campus. The specific impacts,
+however, cannot be determined without more longitudinal data on arrest outcomes.
+Information Sources: Department of Juvenile Services; State Department of Education;
+Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+P ublished: 02/07/2025
+SB 386/ Page 4
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+SB 386/ Page 5
+
+[DELETED:  f e d r f b o a o a t a f i l o o d b e t p r b w r l e t r a o s f s r r o w t o a r D t p n t l]
+[DELETED:  f s a f a r o C 7 o 2 c t a t m a a f 1 s t r a e b f r o c t e]
+[DELETED:  d O c i s o w v t seBkHcTtR]
+[DELETED:  g p S  D o J S S D o E eBkHcTt2]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]

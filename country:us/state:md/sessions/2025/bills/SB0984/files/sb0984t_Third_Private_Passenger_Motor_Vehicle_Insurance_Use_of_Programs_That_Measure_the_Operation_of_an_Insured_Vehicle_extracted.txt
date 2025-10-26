@@ -1,0 +1,345 @@
+Title: SENATE BILL 984
+Official Title: SENATE BILL 984
+Number of Sections: 1
+Source: versions - Third - Private Passenger Motor Vehicle Insurance - Use of Programs That Measure the Operation of an Insured Vehicle
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+C4 5lr2907
+By: Senator A. Washington
+Introduced and read first time: January 28, 2025
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 28, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Private Passenger Motor Vehicle Insurance – Use of Telematics Systems
+3 Programs That Measure the Operation of an Insured Vehicle
+4 FOR the purpose of requiring an insurer that issues, sells, or delivers private passenger
+5 motor vehicle insurance policies in the State to disclose the use of certain telematics
+6 systems a program that measures the operation of an insured vehicle and to
+7 establish an appeals a process by which a policyholder may challenge correct or
+8 appeal data the policyholder believes to be erroneous; requiring the Maryland
+9 Insurance Administration to adopt regulations limiting the types and amounts of
+10 data that may be collected through telematic systems a program that measures the
+11 operation of an insured vehicle for use by a private passenger motor vehicle insurer;
+12 prohibiting an insurer that issues, sells, or delivers private passenger motor vehicle
+13 insurance policies in the State from using data obtained collected through telematics
+14 systems a program that measures the operation of an insured vehicle to establish
+15 certain premiums or to take certain actions with respect to a policy; prohibiting
+16 insurers with respect to certain private passenger motor vehicle insurance policies
+17 from initiating a premium increase in increments of less than a certain number of
+18 months from the date the policy goes into effect; and generally relating to private
+19 motor vehicle insurance and the use of telematics programs that measure the
+20 operation of an insured vehicle.
+21 BY repealing and reenacting, without amendments,
+22 Article – Insurance
+23 Section 12–106(b)
+24 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0984*
+2 SENATE BILL 984
+1 (2017 Replacement Volume and 2024 Supplement)
+2 BY adding to
+3 Article – Insurance
+4 Section 12–307 and 19–521 and 27–908
+5 Annotated Code of Maryland
+6 (2017 Replacement Volume and 2024 Supplement)
+7 BY repealing and reenacting, with amendments,
+8 Article – Insurance
+9 Section 27–501(t)
+10 Annotated Code of Maryland
+11 (2017 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Insurance
+15 12–106.
+16 (b) This section applies only to a binder or policy, other than a renewal policy, of
+17 personal insurance, commercial property insurance, and commercial liability insurance.
+18 12–307.
+19 EXCEPT AS PROVIDED IN § 12–106 OF THIS TITLE, WITH RESPECT TO PRIVATE
+20 PASSENGER MOTOR VEHICLE INSURANCE POLICIES THAT MEASURE THE
+21 OPERATION OF AN INSURED VEHICLE, AN INSURER MAY NOT INITIATE A PREMIUM
+22 INCREASE IN INCREMENTS OF LESS THAN 6 MONTHS FROM THE DATE THE POLICY
+23 GOES INTO EFFECT.
+24 19–521.
+25 (A) IN THIS SECTION, “TELEMATICS” MEANS A METHOD OF COLLECTING
+26 DATA RELATED TO ANY OF THE FOLLOWING DATA POINTS REGARDING A VEHICLE OR
+27 DRIVER USING RECORDING SENSORS OR A TELECOMMUNICATIONS DEVICE FOR
+28 TRANSMITTAL OF THE DATA, AND A SECURED SERVER TO STORE THE DATA:
+29 (1) VEHICLE SPEED, LOCATION, MILEAGE, AND OPERATING HOURS;
+30 (2) DRIVER ACCELERATION, BRAKING, AND CORNERING HABITS;
+31 (3) ENGINE DIAGNOSTICS; AND
+SENATE BILL 984 3
+1 (4) ANY OTHER DATA POINT RELATED TO THE USE AND OPERATION
+2 OF THE INSURED VEHICLE THAT HAS BEEN FILED WITH AND APPROVED BY THE
+3 COMMISSIONER.
+4 (B) (A) (1) AN INSURER THAT ISSUES, SELLS, OR DELIVERS PRIVATE
+5 PASSENGER MOTOR VEHICLE INSURANCE POLICIES IN THE STATE SHALL DISCLOSE
+6 TO THE INSURED APPLICANT AT THE TIME OF APPLICATION OR THE POLICYHOLDER
+7 AT THE TIME OF RENEWAL ANY USE OF TELEMATICS TO OBTAIN DATA OF THE
+8 INSURED’S DRIVING HABITS OR A PROGRAM THAT MEASURES THE OPERATION OF AN
+9 INSURED VEHICLE.
+10 (2) THE DISCLOSURE REQUIRED UNDER PARAGRAPH (1) OF THIS
+11 SUBSECTION SHALL BE PROVIDED IN THE MANNER SPECIFIED BY THE
+12 ADMINISTRATION.
+13 (B) AN INSURER THAT IMPLEMENTS THE USE OF A PROGRAM THAT
+14 MEASURES THE OPERATION OF AN INSURED VEHICLE SHALL ESTABLISH A PROCESS
+15 BY WHICH THE POLICYHOLDER MAY CORRECT OR APPEAL DATA COLLECTED
+16 THROUGH THE PROGRAM THAT THE POLICYHOLDER BELIEVES IS ERRONEOUS.
+17 (C) THE ADMINISTRATION SHALL ADOPT REGULATIONS TO LIMIT THE
+18 TYPES AND AMOUNT OF DATA THAT MAY BE COLLECTED BY TELEMATICS SYSTEMS A
+19 PROGRAM THAT MEASURES THE OPERATION OF AN INSURED VEHICLE FOR USE BY
+20 AN INSURER THAT ISSUES, SELLS, OR DELIVERS PRIVATE PASSENGER MOTOR
+21 VEHICLE INSURANCE POLICIES IN THE STATE.
+22 (D) THE ADMINISTRATION MAY REQUIRE AN INSURER THAT USES A
+23 TELEMATICS SYSTEM PROGRAM THAT MEASURES THE OPERATION OF AN INSURED
+24 VEHICLE TO PERIODICALLY ESTABLISH AND IMPLEMENT A GOVERNANCE PLAN
+25 THAT INCLUDES:
+26 (1) AUDIT THE TELEMATICS SYSTEM TO ENSURE THAT IT COLLECTS,
+27 PROCESSES, AND CALCULATES THE IMPACT OF DATA ON INSURER–WIDE PREMIUM
+28 RATES IN A MANNER THAT IS ACTUARIALLY SOUND AND FREE OF UNFAIR BIAS
+29 MONITORING THE PROGRAM TO ENSURE THAT IT DOES NOT COLLECT OR PROCESS
+30 DATA IN A MANNER THAT IS UNFAIRLY DISCRIMINATORY, IMPACTS PREMIUM RATES
+31 IN A MANNER THAT LACKS ACTUARIAL JUSTIFICATION, OR OTHERWISE VIOLATES
+32 THIS ARTICLE;
+33 (2) CORRECTING OR MITIGATING A FINDING THAT THE PROGRAM
+34 COLLECTS OR PROCESSES DATA IN A MANNER THAT IS UNFAIRLY DISCRIMINATORY,
+35 IMPACTS PREMIUM RATES IN A MANNER THAT LACKS ACTUARIAL JUSTIFICATION,
+36 OR OTHERWISE VIOLATES THIS ARTICLE; AND
+4 SENATE BILL 984
+1 (2) (3) SUBMIT A REPORT PERIODICALLY REPORTING TO THE
+2 ADMINISTRATION SUMMARIZING ON:
+3 (I) THE SCOPE, METHODOLOGIES, AND FINDINGS OF THE
+4 AUDIT PROGRAM MONITORING IN ACCORDANCE WITH THE GOVERNANCE PLAN; AND
+5 (II) ANY CORRECTIVE ACTION OR MITIGATION MEASURE TAKEN
+6 IN ACCORDANCE WITH THE GOVERNANCE PLAN.
+7 27–501.
+8 (t) With respect to private passenger motor vehicle insurance, an insurer may
+9 not:
+10 (1) require an applicant or a policyholder to participate in a program that
+11 measures the operation of an insured vehicle as a condition for underwriting a private
+12 passenger motor vehicle insurance risk [unless the insurer:
+13 (1) only offers private passenger motor vehicle insurance products that
+14 require insureds to participate in a program that measures the operation of an insured
+15 vehicle;
+16 (2) discloses the information in item (1) of this subsection to:
+17 (i) the applicant at the time of application; and
+18 (ii) the policyholder at the time of renewal; and
+19 (3) includes the information in item (1) of this subsection in any advertising
+20 materials for the insurance products offered by the insurer]; OR
+21 (2) USE DATA COLLECTED THROUGH A PROGRAM THAT MEASURES
+22 THE OPERATION OF AN INSURED VEHICLE TO CANCEL, REFUSE TO RENEW, OR
+23 REFUSE TO UNDERWRITE A PRIVATE PASSENGER AUTOMOBILE INSURANCE POLICY
+24 RISK.
+25 27–908.
+26 (A) IN THIS SECTION, “TELEMATICS” HAS THE MEANING STATED IN § 19–521
+27 OF THIS ARTICLE.
+28 (B) AN INSURER THAT ISSUES, SELLS, OR DELIVERS PRIVATE PASSENGER
+29 MOTOR VEHICLE INSURANCE POLICIES IN THE STATE MAY NOT USE DATA OBTAINED
+30 THROUGH TELEMATICS FROM A SPECIFIC VEHICLE, WHOLLY OR PARTLY:
+SENATE BILL 984 5
+1 (1) FOR ESTABLISHING AN INSURANCE PREMIUM FOR THE POLICY
+2 THAT INSURES THAT VEHICLE; OR
+3 (2) TO CANCEL, REFUSE TO RENEW, OR REFUSE TO UNDERWRITE A
+4 PRIVATE PASSENGER AUTOMOBILE INSURANCE POLICY.
+5 (C) AN INSURER THAT IMPLEMENTS THE USE OF A TELEMATICS SYSTEM
+6 SHALL ESTABLISH A PROCESS BY WHICH THE POLICYHOLDER MAY CORRECT OR
+7 APPEAL TELEMATICS DATA THAT THE POLICYHOLDER BELIEVES IS ERRONEOUS.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Insurance
+9 Administration shall adopt the regulations required under § 19–521(c) of the Insurance
+10 Article, as enacted by Section 1 of this Act, on or before December 31, 2025 July 1, 2026.
+11 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+12 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5     A P P F m s a p t m t o o a i v a t e a a p b w a p m c c o a d t p b t b e r t M I d o p i s c p o t t c w r t a p i f m m v i a t u o t p t m t o B  A  S  A]
+[DELETED:  S   ( B  A S  A  ( B  A  S  A  (  S T A 1  ( T p  §16   E  M V I P T M TE      ) I,“N T SN TS M A M O C  U R S O A T D F A      ,,,D N E S    ,,N G S    S ]
+[DELETED: S 3    T I V T H B W A B     )()()A, ANS S  T T T O RLA U O T T O D O T DSGH DV   ()T(  D R U P  O T S B P I T M S B T   )N I T I T U O A P T W T P M C O A D C  ) TH D S A R T L TSA EF  I T IS SS O D P PRM  T  ) TH D M R A I T U AET P E A I A G P      S RW  I A M T I A S A F O U BY N      O M A F T T PYNE  ]
+[DELETED:  S     )(S A R P RGT T     ),T SE MS A F O TN      IA  2  ( W nt    r m pku   ( o o p p m v i p t r v   ( d    ( t    ( t   ( i mr    D C T A P T M O O A I V T CL R T RW O .   ) I,“”§1NN TS     ) A,NS S  T E  ]
+[DELETED: S 5    E A I P F T PE      ,L W    ) N I U O A T E A P B W T P M C O    S 2 A B I F E T t M I A A  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 984
+C4 5lr2907
+By: Senator A. Washington
+Introduced and read first time: January 28, 2025
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 28, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Private Passenger Motor Vehicle Insurance – Use of Telematics Systems
+3 Programs That Measure the Operation of an Insured Vehicle
+4 FOR the purpose of requiring an insurer that issues, sells, or delivers private passenger
+5 motor vehicle insurance policies in the State to disclose the use of certain telematics
+6 systems a program that measures the operation of an insured vehicle and to
+7 establish an appeals a process by which a policyholder may challenge correct or
+8 appeal data the policyholder believes to be erroneous; requiring the Maryland
+9 Insurance Administration to adopt regulations limiting the types and amounts of
+10 data that may be collected through telematic systems a program that measures the
+11 operation of an insured vehicle for use by a private passenger motor vehicle insurer;
+12 prohibiting an insurer that issues, sells, or delivers private passenger motor vehicle
+13 insurance policies in the State from using data obtained collected through telematics
+14 systems a program that measures the operation of an insured vehicle to establish
+15 certain premiums or to take certain actions with respect to a policy; prohibiting
+16 insurers with respect to certain private passenger motor vehicle insurance policies
+17 from initiating a premium increase in increments of less than a certain number of
+18 months from the date the policy goes into effect; and generally relating to private
+19 motor vehicle insurance and the use of telematics programs that measure the
+20 operation of an insured vehicle.
+21 BY repealing and reenacting, without amendments,
+22 Article – Insurance
+23 Section 12–106(b)
+24 Annotated Code of Maryland
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0984*
+
+2 SENATE BILL 984
+1 (2017 Replacement Volume and 2024 Supplement)
+2 BY adding to
+3 Article – Insurance
+4 Section 12–307 and 19–521 and 27–908
+5 Annotated Code of Maryland
+6 (2017 Replacement Volume and 2024 Supplement)
+7 BY repealing and reenacting, with amendments,
+8 Article – Insurance
+9 Section 27–501(t)
+10 Annotated Code of Maryland
+11 (2017 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Insurance
+15 12–106.
+16 (b) This section applies only to a binder or policy, other than a renewal policy, of
+17 personal insurance, commercial property insurance, and commercial liability insurance.
+18 12–307.
+19 EXCEPT AS PROVIDED IN § 12–106 OF THIS TITLE, WITH RESPECT TO PRIVATE
+20 PASSENGER MOTOR VEHICLE INSURANCE POLICIES THAT MEASURE THE
+21 OPERATION OF AN INSURED VEHICLE, AN INSURER MAY NOT INITIATE A PREMIUM
+22 INCREASE IN INCREMENTS OF LESS THAN 6 MONTHS FROM THE DATE THE POLICY
+23 GOES INTO EFFECT.
+24 19–521.
+25 (A) IN THIS SECTION, “TELEMATICS” MEANS A METHOD OF COLLECTING
+26 DATA RELATED TO ANY OF THE FOLLOWING DATA POINTS REGARDING A VEHICLE OR
+27 DRIVER USING RECORDING SENSORS OR A TELECOMMUNICATIONS DEVICE FOR
+28 TRANSMITTAL OF THE DATA, AND A SECURED SERVER TO STORE THE DATA:
+29 (1) VEHICLE SPEED, LOCATION, MILEAGE, AND OPERATING HOURS;
+30 (2) DRIVER ACCELERATION, BRAKING, AND CORNERING HABITS;
+31 (3) ENGINE DIAGNOSTICS; AND
+
+SENATE BILL 984 3
+1 (4) ANY OTHER DATA POINT RELATED TO THE USE AND OPERATION
+2 OF THE INSURED VEHICLE THAT HAS BEEN FILED WITH AND APPROVED BY THE
+3 COMMISSIONER.
+4 (B) (A) (1) AN INSURER THAT ISSUES, SELLS, OR DELIVERS PRIVATE
+5 PASSENGER MOTOR VEHICLE INSURANCE POLICIES IN THE STATE SHALL DISCLOSE
+6 TO THE INSURED APPLICANT AT THE TIME OF APPLICATION OR THE POLICYHOLDER
+7 AT THE TIME OF RENEWAL ANY USE OF TELEMATICS TO OBTAIN DATA OF THE
+8 INSURED’S DRIVING HABITS OR A PROGRAM THAT MEASURES THE OPERATION OF AN
+9 INSURED VEHICLE.
+10 (2) THE DISCLOSURE REQUIRED UNDER PARAGRAPH (1) OF THIS
+11 SUBSECTION SHALL BE PROVIDED IN THE MANNER SPECIFIED BY THE
+12 ADMINISTRATION.
+13 (B) AN INSURER THAT IMPLEMENTS THE USE OF A PROGRAM THAT
+14 MEASURES THE OPERATION OF AN INSURED VEHICLE SHALL ESTABLISH A PROCESS
+15 BY WHICH THE POLICYHOLDER MAY CORRECT OR APPEAL DATA COLLECTED
+16 THROUGH THE PROGRAM THAT THE POLICYHOLDER BELIEVES IS ERRONEOUS.
+17 (C) THE ADMINISTRATION SHALL ADOPT REGULATIONS TO LIMIT THE
+18 TYPES AND AMOUNT OF DATA THAT MAY BE COLLECTED BY TELEMATICS SYSTEMS A
+19 PROGRAM THAT MEASURES THE OPERATION OF AN INSURED VEHICLE FOR USE BY
+20 AN INSURER THAT ISSUES, SELLS, OR DELIVERS PRIVATE PASSENGER MOTOR
+21 VEHICLE INSURANCE POLICIES IN THE STATE.
+22 (D) THE ADMINISTRATION MAY REQUIRE AN INSURER THAT USES A
+23 TELEMATICS SYSTEM PROGRAM THAT MEASURES THE OPERATION OF AN INSURED
+24 VEHICLE TO PERIODICALLY ESTABLISH AND IMPLEMENT A GOVERNANCE PLAN
+25 THAT INCLUDES:
+26 (1) AUDIT THE TELEMATICS SYSTEM TO ENSURE THAT IT COLLECTS,
+27 PROCESSES, AND CALCULATES THE IMPACT OF DATA ON INSURER–WIDE PREMIUM
+28 RATES IN A MANNER THAT IS ACTUARIALLY SOUND AND FREE OF UNFAIR BIAS
+29 MONITORING THE PROGRAM TO ENSURE THAT IT DOES NOT COLLECT OR PROCESS
+30 DATA IN A MANNER THAT IS UNFAIRLY DISCRIMINATORY, IMPACTS PREMIUM RATES
+31 IN A MANNER THAT LACKS ACTUARIAL JUSTIFICATION, OR OTHERWISE VIOLATES
+32 THIS ARTICLE;
+33 (2) CORRECTING OR MITIGATING A FINDING THAT THE PROGRAM
+34 COLLECTS OR PROCESSES DATA IN A MANNER THAT IS UNFAIRLY DISCRIMINATORY,
+35 IMPACTS PREMIUM RATES IN A MANNER THAT LACKS ACTUARIAL JUSTIFICATION,
+36 OR OTHERWISE VIOLATES THIS ARTICLE; AND
+
+4 SENATE BILL 984
+1 (2) (3) SUBMIT A REPORT PERIODICALLY REPORTING TO THE
+2 ADMINISTRATION SUMMARIZING ON:
+3 (I) THE SCOPE, METHODOLOGIES, AND FINDINGS OF THE
+4 AUDIT PROGRAM MONITORING IN ACCORDANCE WITH THE GOVERNANCE PLAN; AND
+5 (II) ANY CORRECTIVE ACTION OR MITIGATION MEASURE TAKEN
+6 IN ACCORDANCE WITH THE GOVERNANCE PLAN.
+7 27–501.
+8 (t) With respect to private passenger motor vehicle insurance, an insurer may
+9 not:
+10 (1) require an applicant or a policyholder to participate in a program that
+11 measures the operation of an insured vehicle as a condition for underwriting a private
+12 passenger motor vehicle insurance risk [unless the insurer:
+13 (1) only offers private passenger motor vehicle insurance products that
+14 require insureds to participate in a program that measures the operation of an insured
+15 vehicle;
+16 (2) discloses the information in item (1) of this subsection to:
+17 (i) the applicant at the time of application; and
+18 (ii) the policyholder at the time of renewal; and
+19 (3) includes the information in item (1) of this subsection in any advertising
+20 materials for the insurance products offered by the insurer]; OR
+21 (2) USE DATA COLLECTED THROUGH A PROGRAM THAT MEASURES
+22 THE OPERATION OF AN INSURED VEHICLE TO CANCEL, REFUSE TO RENEW, OR
+23 REFUSE TO UNDERWRITE A PRIVATE PASSENGER AUTOMOBILE INSURANCE POLICY
+24 RISK.
+25 27–908.
+26 (A) IN THIS SECTION, “TELEMATICS” HAS THE MEANING STATED IN § 19–521
+27 OF THIS ARTICLE.
+28 (B) AN INSURER THAT ISSUES, SELLS, OR DELIVERS PRIVATE PASSENGER
+29 MOTOR VEHICLE INSURANCE POLICIES IN THE STATE MAY NOT USE DATA OBTAINED
+30 THROUGH TELEMATICS FROM A SPECIFIC VEHICLE, WHOLLY OR PARTLY:
+
+SENATE BILL 984 5
+1 (1) FOR ESTABLISHING AN INSURANCE PREMIUM FOR THE POLICY
+2 THAT INSURES THAT VEHICLE; OR
+3 (2) TO CANCEL, REFUSE TO RENEW, OR REFUSE TO UNDERWRITE A
+4 PRIVATE PASSENGER AUTOMOBILE INSURANCE POLICY.
+5 (C) AN INSURER THAT IMPLEMENTS THE USE OF A TELEMATICS SYSTEM
+6 SHALL ESTABLISH A PROCESS BY WHICH THE POLICYHOLDER MAY CORRECT OR
+7 APPEAL TELEMATICS DATA THAT THE POLICYHOLDER BELIEVES IS ERRONEOUS.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Insurance
+9 Administration shall adopt the regulations required under § 19–521(c) of the Insurance
+10 Article, as enacted by Section 1 of this Act, on or before December 31, 2025 July 1, 2026.
+11 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+12 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5     A P P F m s a p t m t o o a i v a t e a a p b w a p m c c o a d t p b t b e r t M I d o p i s c p o t t c w r t a p i f m m v i a t u o t p t m t o B  A  S  A]
+[DELETED:  S   ( B  A S  A  ( B  A  S  A  (  S T A 1  ( T p  §16   E  M V I P T M TE      ) I,“N T SN TS M A M O C  U R S O A T D F A      ,,,D N E S    ,,N G S    S ]
+[DELETED: S 3    T I V T H B W A B     )()()A, ANS S  T T T O RLA U O T T O D O T DSGH DV   ()T(  D R U P  O T S B P I T M S B T   )N I T I T U O A P T W T P M C O A D C  ) TH D S A R T L TSA EF  I T IS SS O D P PRM  T  ) TH D M R A I T U AET P E A I A G P      S RW  I A M T I A S A F O U BY N      O M A F T T PYNE  ]
+[DELETED:  S     )(S A R P RGT T     ),T SE MS A F O TN      IA  2  ( W nt    r m pku   ( o o p p m v i p t r v   ( d    ( t    ( t   ( i mr    D C T A P T M O O A I V T CL R T RW O .   ) I,“”§1NN TS     ) A,NS S  T E  ]
+[DELETED: S 5    E A I P F T PE      ,L W    ) N I U O A T E A P B W T P M C O    S 2 A B I F E T t M I A A  S A B I F E T t A s t e O          G               ]

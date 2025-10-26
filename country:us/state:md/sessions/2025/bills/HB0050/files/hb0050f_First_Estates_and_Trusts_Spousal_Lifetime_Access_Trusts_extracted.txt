@@ -1,0 +1,163 @@
+Title: HOUSE BILL 50
+Official Title: HOUSE BILL 50
+Number of Sections: 1
+Source: versions - First - Estates and Trusts - Spousal Lifetime Access Trusts
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+N2 5lr1549
+(PRE–FILED) CF SB 12
+By: Delegate Cardin
+Requested: October 31, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Estates and Trusts – Spousal Lifetime Access Trusts
+3 FOR the purpose of adding to the conditions under which an individual who creates a trust
+4 may not be considered the settlor of the trust with regard to the individual’s interest
+5 in the trust; providing that a creditor of an individual may not attach, exercise, reach,
+6 or otherwise compel distribution of certain trust assets in certain circumstances; and
+7 generally relating to spousal lifetime access trusts.
+8 BY repealing and reenacting, with amendments,
+9 Article – Estates and Trusts
+10 Section 14.5–1003
+11 Annotated Code of Maryland
+12 (2022 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Estates and Trusts
+16 14.5–1003.
+17 (A) IN THIS SECTION, “SPOUSE” MEANS THE INDIVIDUAL TO WHOM AN
+18 INDIVIDUAL WHO CREATED A TRUST WAS MARRIED AT THE TIME THE TRUST WAS
+19 CREATED.
+20 [(a)] (B) An individual who creates a trust may not be considered the settlor of
+21 that trust with regard to the individual’s interest in the trust if:
+22 (1) That interest is the authority of the trustee under the trust instrument
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0050*
+2 HOUSE BILL 50
+1 or any other provision of law to pay or reimburse the individual for any tax on trust income
+2 or trust principal that is payable by the individual under the law imposing that tax; [or]
+3 (2) All of the following apply:
+4 (i) The individual creates or has created the trust for the benefit of
+5 the individual’s spouse;
+6 (ii) The trust is treated as qualified terminable interest property
+7 under § 2523(f) of the Internal Revenue Code of 1986; and
+8 (iii) The individual’s interest in the trust income, trust principal, or
+9 both follows the termination of the spouse’s prior interest in the trust; OR
+10 (3) ALL OF THE FOLLOWING APPLY:
+11 (I) THE INDIVIDUAL CREATES OR HAS CREATED THE TRUST:
+12 1. FOR THE BENEFIT OF THE INDIVIDUAL’S SPOUSE
+13 DURING THE LIFETIME OF THE SPOUSE; OR
+14 2. FOR THE BENEFIT OF THE INDIVIDUAL’S SPOUSE AND
+15 ANY OTHER BENEFICIARY DURING THE LIFETIME OF THE SPOUSE;
+16 (II) THE TRUST DOES NOT MEET THE REQUIREMENTS OF ITEM
+17 (2) OF THIS SUBSECTION;
+18 (III) THE TRUST IS IRREVOCABLE; AND
+19 (IV) AFTER THE DEATH OF THE INDIVIDUAL’S SPOUSE, THE
+20 INDIVIDUAL IS A BENEFICIARY OF THE TRUST THROUGH THE EXERCISE OF A POWER
+21 OF APPOINTMENT BY THE INDIVIDUAL’S SPOUSE OR BY ANOTHER INDIVIDUAL WHO
+22 DID NOT CREATE THE TRUST.
+23 [(b)] (C) A creditor of an individual described in subsection [(a)] (B) of this
+24 section may not attach, exercise, reach, or otherwise compel distribution of:
+25 (1) Any principal or income of the trust;
+26 (2) Any principal or income of any other trust to the extent that the
+27 property held in the other trust is attributable to a trust described in subsection [(a)(2)]
+28 (B)(2) OR (3) of this section;
+29 (3) The individual’s interest in the trust; or
+HOUSE BILL 50 3
+1 (4) The individual’s interest in any other trust to the extent that the
+2 property held in the other trust is attributable to a trust described in subsection [(a)(2)]
+3 (B)(2) OR (3) of this section.
+4 [(c)] (D) This section may not be construed to affect any State law with respect
+5 to a fraudulent transfer by an individual to a trustee.
+6 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2025.
+[DELETED: :CA      5 ( C A E F m i o g B  A S  A  (  S T A 1 ) I,“N T SN SE M T I T W A   () A]( t   ( T]
+[DELETED:  H  o o o]   ( A    ( T t    ( T t i t a q t i p u    ( T b ( A:  () T:H   1 F T B O T ILS SE    2 FLS  () IH);  () T;IHE   () A’VF T D O T ILS SE TLS .  () A c o a i d i s () o t]()[](C  s   ( A   ( A p o i o a o t t t e t t p ())(      ( T]
+[DELETED: H 3   ( T i i i a o t t t e t t p ())(     () T]( t  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 50
+N2 5lr1549
+(PRE–FILED) CF SB 12
+By: Delegate Cardin
+Requested: October 31, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Estates and Trusts – Spousal Lifetime Access Trusts
+3 FOR the purpose of adding to the conditions under which an individual who creates a trust
+4 may not be considered the settlor of the trust with regard to the individual’s interest
+5 in the trust; providing that a creditor of an individual may not attach, exercise, reach,
+6 or otherwise compel distribution of certain trust assets in certain circumstances; and
+7 generally relating to spousal lifetime access trusts.
+8 BY repealing and reenacting, with amendments,
+9 Article – Estates and Trusts
+10 Section 14.5–1003
+11 Annotated Code of Maryland
+12 (2022 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Estates and Trusts
+16 14.5–1003.
+17 (A) IN THIS SECTION, “SPOUSE” MEANS THE INDIVIDUAL TO WHOM AN
+18 INDIVIDUAL WHO CREATED A TRUST WAS MARRIED AT THE TIME THE TRUST WAS
+19 CREATED.
+20 [(a)] (B) An individual who creates a trust may not be considered the settlor of
+21 that trust with regard to the individual’s interest in the trust if:
+22 (1) That interest is the authority of the trustee under the trust instrument
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0050*
+
+2 HOUSE BILL 50
+1 or any other provision of law to pay or reimburse the individual for any tax on trust income
+2 or trust principal that is payable by the individual under the law imposing that tax; [or]
+3 (2) All of the following apply:
+4 (i) The individual creates or has created the trust for the benefit of
+5 the individual’s spouse;
+6 (ii) The trust is treated as qualified terminable interest property
+7 under § 2523(f) of the Internal Revenue Code of 1986; and
+8 (iii) The individual’s interest in the trust income, trust principal, or
+9 both follows the termination of the spouse’s prior interest in the trust; OR
+10 (3) ALL OF THE FOLLOWING APPLY:
+11 (I) THE INDIVIDUAL CREATES OR HAS CREATED THE TRUST:
+12 1. FOR THE BENEFIT OF THE INDIVIDUAL’S SPOUSE
+13 DURING THE LIFETIME OF THE SPOUSE; OR
+14 2. FOR THE BENEFIT OF THE INDIVIDUAL’S SPOUSE AND
+15 ANY OTHER BENEFICIARY DURING THE LIFETIME OF THE SPOUSE;
+16 (II) THE TRUST DOES NOT MEET THE REQUIREMENTS OF ITEM
+17 (2) OF THIS SUBSECTION;
+18 (III) THE TRUST IS IRREVOCABLE; AND
+19 (IV) AFTER THE DEATH OF THE INDIVIDUAL’S SPOUSE, THE
+20 INDIVIDUAL IS A BENEFICIARY OF THE TRUST THROUGH THE EXERCISE OF A POWER
+21 OF APPOINTMENT BY THE INDIVIDUAL’S SPOUSE OR BY ANOTHER INDIVIDUAL WHO
+22 DID NOT CREATE THE TRUST.
+23 [(b)] (C) A creditor of an individual described in subsection [(a)] (B) of this
+24 section may not attach, exercise, reach, or otherwise compel distribution of:
+25 (1) Any principal or income of the trust;
+26 (2) Any principal or income of any other trust to the extent that the
+27 property held in the other trust is attributable to a trust described in subsection [(a)(2)]
+28 (B)(2) OR (3) of this section;
+29 (3) The individual’s interest in the trust; or
+
+HOUSE BILL 50 3
+1 (4) The individual’s interest in any other trust to the extent that the
+2 property held in the other trust is attributable to a trust described in subsection [(a)(2)]
+3 (B)(2) OR (3) of this section.
+4 [(c)] (D) This section may not be construed to affect any State law with respect
+5 to a fraudulent transfer by an individual to a trustee.
+6 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2025.
+
+[DELETED: :CA      5 ( C A E F m i o g B  A S  A  (  S T A 1 ) I,“N T SN SE M T I T W A   () A]( t   ( T]
+[DELETED:  H  o o o]   ( A    ( T t    ( T t i t a q t i p u    ( T b ( A:  () T:H   1 F T B O T ILS SE    2 FLS  () IH);  () T;IHE   () A’VF T D O T ILS SE TLS .  () A c o a i d i s () o t]()[](C  s   ( A   ( A p o i o a o t t t e t t p ())(      ( T]
+[DELETED: H 3   ( T i i i a o t t t e t t p ())(     () T]( t  S A B I F E T t A s t e O]

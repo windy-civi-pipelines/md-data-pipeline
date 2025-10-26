@@ -1,0 +1,173 @@
+Title: HOUSE BILL 974
+Official Title: HOUSE BILL 974
+Number of Sections: 1
+Source: versions - First - Health Insurance - Preventive Services - Enforcement Authority
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+J5 5lr2569
+CF 5lr3551
+By: Delegates Shetty, Bagnall, Cullison, D. Jones, Kaufman, Pena–Melnyk, and
+Solomon
+Introduced and read first time: January 31, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Health Insurance – Preventive Services – Enforcement Authority
+3 FOR the purpose of requiring the Maryland Insurance Commissioner to enforce certain
+4 provisions of law related to preventive services consistent with federal rules and
+5 guidance in effect on a certain date; and generally relating to health insurance
+6 preventive services.
+7 BY repealing and reenacting, with amendments,
+8 Article – Insurance
+9 Section 15–1A–10
+10 Annotated Code of Maryland
+11 (2017 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Insurance
+15 15–1A–10.
+16 (a) [Except] SUBJECT TO SUBSECTION (D) OF THIS SECTION AND EXCEPT as
+17 provided in subsections (b) and (c) of this section, a carrier shall provide coverage for and
+18 may not impose any cost–sharing requirements, including copayments, coinsurance, or
+19 deductibles for:
+20 (1) evidence–based items or services that have in effect a rating of A or B
+21 in the [current] MOST RECENT recommendations of the United States Preventive Services
+22 Task Force with respect to the individual involved;
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0974*
+2 HOUSE BILL 974
+1 (2) immunizations for routine use in children, adolescents, and adults that
+2 have in effect a recommendation from the Advisory Committee on Immunization Practices
+3 of the Centers for Disease Control and Prevention with respect to the individual involved,
+4 if the recommendation:
+5 (i) has been adopted by the Director of the Centers for Disease
+6 Control and Prevention; and
+7 (ii) is listed on the Immunization Schedules of the Centers for
+8 Disease Control and Prevention for routine use;
+9 (3) with respect to infants, children, and adolescents, evidence–informed
+10 preventive care and screenings provided for in comprehensive guidelines supported by the
+11 Health Resources and Services Administration; and
+12 (4) with respect to women:
+13 (i) to the extent not provided in item (ii) of this item, preventive care
+14 and screenings as provided for in comprehensive guidelines supported by the Health
+15 Resources and Services Administration for purposes of § 2713(a)(4) of the federal Public
+16 Health Service Act; and
+17 (ii) subject to § 15–826(c) of this title, contraceptive coverage as
+18 provided for in comprehensive guidelines supported by the Health Resources and Services
+19 Administration for purposes of § 2713(a)(4) of the federal Public Health Service Act.
+20 (b) To the extent that cost–sharing is otherwise allowed under federal or State
+21 law, a health benefit plan that uses a network of providers may impose cost–sharing
+22 requirements on the coverage described in subsection (a) of this section for items or services
+23 delivered by an out–of–network provider.
+24 (c) This section may not be construed to prohibit a carrier from providing
+25 coverage for services in addition to those recommended by the United States Preventive
+26 Services Task Force or to deny coverage for services that are not recommended by the Task
+27 Force.
+28 (D) (1) THE COMMISSIONER SHALL ENFORCE THIS SECTION CONSISTENT
+29 WITH FEDERAL RULES AND GUIDANCE IN EFFECT ON DECEMBER 31, 2024.
+30 (2) THE COMMISSIONER MAY ADOPT REGULATIONS:
+31 (I) NECESSARY TO CARRY OUT THIS SECTION, CONSISTENT
+32 WITH FEDERAL STATUTES, RULES, AND GUIDANCE IN EFFECT ON DECEMBER 31,
+33 2024; AND
+HOUSE BILL 974 3
+1 (II) RELATED TO ANY FUTURE PREVENTIVE SERVICES
+2 RECOMMENDATIONS AND GUIDELINES ISSUED AFTER DECEMBER 31, 2024, BY THE
+3 UNITED STATES PREVENTIVE SERVICES TASK FORCE, THE ADVISORY COMMITTEE
+4 ON IMMUNIZATION PRACTICES OF THE CENTERS FOR DISEASE CONTROL AND
+5 PREVENTION, OR THE HEALTH RESOURCES AND SERVICES ADMINISTRATION, OR
+6 RELATED FEDERAL RULES OR GUIDANCE.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+8 1, 2025.
+[DELETED: :CA      5   C D A H F p g i e o a c d a g r t h i p B  A S  A  (  S T A 1  ( Et ]S(U D  p m n i a c r i c c o d   ( e i ct  T]
+[DELETED:  H    ( i h o i    ( h b a b t D o t C f D C    ( i l o t I S o t C f D   ( w p H   ( w    ( t a s a p f i c g s b t H R H    ( s t § 1 o t t c c a p A  ( T l a h b p t u a n o p m i c r d  ( T s m n b c t p a c f p c S F() ( TH O E 3,2 ( TC: OS  () N T C O T SN CS S  E ,D3;]
+[DELETED: H 3  ()IR T A F P S E   3,2SPSTF,A T R E A OE  D O M R O T E F I O APCD,HRSAN  E E E DN   S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 974
+J5 5lr2569
+CF 5lr3551
+By: Delegates Shetty, Bagnall, Cullison, D. Jones, Kaufman, Pena–Melnyk, and
+Solomon
+Introduced and read first time: January 31, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Health Insurance – Preventive Services – Enforcement Authority
+3 FOR the purpose of requiring the Maryland Insurance Commissioner to enforce certain
+4 provisions of law related to preventive services consistent with federal rules and
+5 guidance in effect on a certain date; and generally relating to health insurance
+6 preventive services.
+7 BY repealing and reenacting, with amendments,
+8 Article – Insurance
+9 Section 15–1A–10
+10 Annotated Code of Maryland
+11 (2017 Replacement Volume and 2024 Supplement)
+12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+13 That the Laws of Maryland read as follows:
+14 Article – Insurance
+15 15–1A–10.
+16 (a) [Except] SUBJECT TO SUBSECTION (D) OF THIS SECTION AND EXCEPT as
+17 provided in subsections (b) and (c) of this section, a carrier shall provide coverage for and
+18 may not impose any cost–sharing requirements, including copayments, coinsurance, or
+19 deductibles for:
+20 (1) evidence–based items or services that have in effect a rating of A or B
+21 in the [current] MOST RECENT recommendations of the United States Preventive Services
+22 Task Force with respect to the individual involved;
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0974*
+
+2 HOUSE BILL 974
+1 (2) immunizations for routine use in children, adolescents, and adults that
+2 have in effect a recommendation from the Advisory Committee on Immunization Practices
+3 of the Centers for Disease Control and Prevention with respect to the individual involved,
+4 if the recommendation:
+5 (i) has been adopted by the Director of the Centers for Disease
+6 Control and Prevention; and
+7 (ii) is listed on the Immunization Schedules of the Centers for
+8 Disease Control and Prevention for routine use;
+9 (3) with respect to infants, children, and adolescents, evidence–informed
+10 preventive care and screenings provided for in comprehensive guidelines supported by the
+11 Health Resources and Services Administration; and
+12 (4) with respect to women:
+13 (i) to the extent not provided in item (ii) of this item, preventive care
+14 and screenings as provided for in comprehensive guidelines supported by the Health
+15 Resources and Services Administration for purposes of § 2713(a)(4) of the federal Public
+16 Health Service Act; and
+17 (ii) subject to § 15–826(c) of this title, contraceptive coverage as
+18 provided for in comprehensive guidelines supported by the Health Resources and Services
+19 Administration for purposes of § 2713(a)(4) of the federal Public Health Service Act.
+20 (b) To the extent that cost–sharing is otherwise allowed under federal or State
+21 law, a health benefit plan that uses a network of providers may impose cost–sharing
+22 requirements on the coverage described in subsection (a) of this section for items or services
+23 delivered by an out–of–network provider.
+24 (c) This section may not be construed to prohibit a carrier from providing
+25 coverage for services in addition to those recommended by the United States Preventive
+26 Services Task Force or to deny coverage for services that are not recommended by the Task
+27 Force.
+28 (D) (1) THE COMMISSIONER SHALL ENFORCE THIS SECTION CONSISTENT
+29 WITH FEDERAL RULES AND GUIDANCE IN EFFECT ON DECEMBER 31, 2024.
+30 (2) THE COMMISSIONER MAY ADOPT REGULATIONS:
+31 (I) NECESSARY TO CARRY OUT THIS SECTION, CONSISTENT
+32 WITH FEDERAL STATUTES, RULES, AND GUIDANCE IN EFFECT ON DECEMBER 31,
+33 2024; AND
+
+HOUSE BILL 974 3
+1 (II) RELATED TO ANY FUTURE PREVENTIVE SERVICES
+2 RECOMMENDATIONS AND GUIDELINES ISSUED AFTER DECEMBER 31, 2024, BY THE
+3 UNITED STATES PREVENTIVE SERVICES TASK FORCE, THE ADVISORY COMMITTEE
+4 ON IMMUNIZATION PRACTICES OF THE CENTERS FOR DISEASE CONTROL AND
+5 PREVENTION, OR THE HEALTH RESOURCES AND SERVICES ADMINISTRATION, OR
+6 RELATED FEDERAL RULES OR GUIDANCE.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+8 1, 2025.
+
+[DELETED: :CA      5   C D A H F p g i e o a c d a g r t h i p B  A S  A  (  S T A 1  ( Et ]S(U D  p m n i a c r i c c o d   ( e i ct  T]
+[DELETED:  H    ( i h o i    ( h b a b t D o t C f D C    ( i l o t I S o t C f D   ( w p H   ( w    ( t a s a p f i c g s b t H R H    ( s t § 1 o t t c c a p A  ( T l a h b p t u a n o p m i c r d  ( T s m n b c t p a c f p c S F() ( TH O E 3,2 ( TC: OS  () N T C O T SN CS S  E ,D3;]
+[DELETED: H 3  ()IR T A F P S E   3,2SPSTF,A T R E A OE  D O M R O T E F I O APCD,HRSAN  E E E DN   S 1]

@@ -1,0 +1,436 @@
+Title: SENATE BILL 474
+Official Title: SENATE BILL 474
+Number of Sections: 1
+Source: versions - Third - Health Insurance - Adverse Decisions - Notices, Reporting, and Examinations
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+J5 5lr3154
+CF HB 848
+By: Senator Beidle
+Introduced and read first time: January 22, 2025
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 16, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Health Insurance – Adverse Decisions – Reporting Notices, Reporting, and
+3 Examinations
+4 FOR the purpose of requiring that certain adverse decision and grievance decision notices
+5 include certain information in a certain manner; requiring certain carriers to provide
+6 certain information to the Maryland Insurance Commissioner on adverse decisions
+7 on types of services that have grown by more than certain percentages over certain
+8 periods of time; authorizing the Commissioner to use certain adverse decision
+9 information as the basis of a certain examination; and generally relating to health
+10 insurance and adverse decisions.
+11 BY repealing and reenacting, without amendments,
+12 Article – Insurance
+13 Section 15–10A–02(a)
+14 Annotated Code of Maryland
+15 (2017 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Insurance
+18 Section 15–10A–02(f) and (i) and 15–10A–06
+19 Annotated Code of Maryland
+20 (2017 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0474*
+2 SENATE BILL 474
+1 Article – Insurance
+2 15–10A–02.
+3 (a) Each carrier shall establish an internal grievance process for its members.
+4 (f) (1) For nonemergency cases, when a carrier renders an adverse decision,
+5 the carrier shall:
+6 (i) inform the member, the member’s representative, or the health
+7 care provider acting on behalf of the member of the adverse decision:
+8 1. orally by telephone; or
+9 2. with the affirmative consent of the member, the member’s
+10 representative, or the health care provider acting on behalf of the member, by text,
+11 facsimile, e–mail, an online portal, or other expedited means; and
+12 (ii) send, within 5 working days after the adverse decision has been
+13 made, a written notice to the member, the member’s representative, and a health care
+14 provider acting on behalf of the member that:
+15 1. states in detail in clear, understandable language the
+16 specific factual bases for the carrier’s decision and the reasoning used to determine that the
+17 health care service is not medically necessary and did not meet the carrier’s criteria and
+18 standards used in conducting the utilization review;
+19 2. provides the specific reference, language, or requirements
+20 from the criteria and standards, including any interpretive guidelines, on which the
+21 decision was based, and may not solely use:
+22 A. generalized terms such as “experimental procedure not
+23 covered”, “cosmetic procedure not covered”, “service included under another procedure”, or
+24 “not medically necessary”; or
+25 B. language directing the member to review the additional
+26 coverage criteria in the member’s policy or plan documents;
+27 3. [states the name,] INCLUDES A UNIQUE IDENTIFIER
+28 FOR AND THE business address[,] and business telephone number of:
+29 A. if the carrier is a health maintenance organization, the
+30 medical director or associate medical director, as appropriate, who made the decision; or
+31 B. if the carrier is not a health maintenance organization, the
+32 designated employee or representative of the carrier who has responsibility for the carrier’s
+SENATE BILL 474 3
+1 internal grievance process and the physician who is required to make all adverse decisions
+2 as required in § 15–10B–07(a) of this title;
+3 4. gives written details of the carrier’s internal grievance
+4 process and procedures under this subtitle; and
+5 5. includes the following information:
+6 A. that the member, the member’s representative, or a health
+7 care provider on behalf of the member has a right to file a complaint with the Commissioner
+8 within 4 months after receipt of a carrier’s grievance decision;
+9 B. that a complaint may be filed without first filing a
+10 grievance if the member, the member’s representative, or a health care provider filing a
+11 grievance on behalf of the member can demonstrate a compelling reason to do so as
+12 determined by the Commissioner;
+13 C. the Commissioner’s address, telephone number, and
+14 facsimile number;
+15 D. a statement that the Health Advocacy Unit is available to
+16 assist the member or the member’s representative in both mediating and filing a grievance
+17 under the carrier’s internal grievance process; and
+18 E. the address, telephone number, facsimile number, and
+19 electronic mail address of the Health Advocacy Unit.
+20 (2) The business telephone number included in the notice as required
+21 under paragraph (1)(ii)3 of this subsection must be a dedicated number for adverse
+22 decisions and may not be the general customer call number for the carrier.
+23 (i) (1) For nonemergency cases, when a carrier renders a grievance decision,
+24 the carrier shall:
+25 (i) document the grievance decision in writing after the carrier has
+26 provided oral communication of the decision to the member, the member’s representative,
+27 or the health care provider acting on behalf of the member; and
+28 (ii) send, within 5 working days after the grievance decision has been
+29 made, a written notice to the member, the member’s representative, and a health care
+30 provider acting on behalf of the member that:
+31 1. states in detail in clear, understandable language the
+32 specific factual bases for the carrier’s decision and the reasoning used to determine that the
+33 health care service is not medically necessary and did not meet the carrier’s criteria and
+34 standards used in conducting utilization review;
+4 SENATE BILL 474
+1 2. provides the specific reference, language, or requirements
+2 from the criteria and standards, including any interpretive guidelines used by the carrier,
+3 on which the grievance decision was based;
+4 3. [states the name,] INCLUDES A UNIQUE IDENTIFIER
+5 FOR AND THE business address[,] and business telephone number of:
+6 A. if the carrier is a health maintenance organization, the
+7 medical director or associate medical director, as appropriate, who made the grievance
+8 decision; or
+9 B. if the carrier is not a health maintenance organization, the
+10 designated employee or representative of the carrier who has responsibility for the carrier’s
+11 internal grievance process and the designated employee or representative’s title and
+12 clinical specialty; and
+13 4. includes the following information:
+14 A. that the member or the member’s representative has a
+15 right to file a complaint with the Commissioner within 4 months after receipt of a carrier’s
+16 grievance decision;
+17 B. the Commissioner’s address, telephone number, and
+18 facsimile number;
+19 C. a statement that the Health Advocacy Unit is available to
+20 assist the member or the member’s representative in filing a complaint with the
+21 Commissioner; and
+22 D. the address, telephone number, facsimile number, and
+23 electronic mail address of the Health Advocacy Unit.
+24 (2) The business telephone number included in the notice as required
+25 under paragraph (1)(ii)3 of this subsection must be a dedicated number for grievance
+26 decisions and may not be the general customer call number for the carrier.
+27 (3) To satisfy the requirements of this subsection, a carrier may not use
+28 solely in the written notice sent under paragraph (1) of this subsection:
+29 (i) generalized terms such as “experimental procedure not covered”,
+30 “cosmetic procedure not covered”, “service included under another procedure”, or “not
+31 medically necessary”; or
+32 (ii) language directing the member to review the additional coverage
+33 criteria in the member’s policy or plan documents.
+34 15–10A–06.
+SENATE BILL 474 5
+1 (a) (1) On a quarterly basis, each carrier shall submit to the Commissioner, on
+2 the form the Commissioner requires, a report that describes:
+3 [(1)] (I) the number of members entitled to health care benefits under a
+4 policy, plan, or certificate issued or delivered in the State by the carrier;
+5 [(2)] (II) the number of clean claims for reimbursement processed by the
+6 carrier;
+7 [(3)] (III) the activities of the carrier under this subtitle, including:
+8 [(i)] 1. the outcome of each grievance filed with the carrier;
+9 [(ii)] 2. the number and outcomes of cases that were considered
+10 emergency cases under § 15–10A–02(b)(2)(i) of this subtitle;
+11 [(iii)] 3. the time within which the carrier made a grievance
+12 decision on each emergency case;
+13 [(iv)] 4. the time within which the carrier made a grievance
+14 decision on all other cases that were not considered emergency cases;
+15 [(v)] 5. the number of grievances filed with the carrier that
+16 resulted from an adverse decision involving length of stay for inpatient hospitalization as
+17 related to the medical procedure involved;
+18 [(vi)] 6. the number of adverse decisions issued by the carrier
+19 under § 15–10A–02(f) of this subtitle, whether the adverse decision involved a prior
+20 authorization or step therapy protocol, and the type of service at issue in the adverse
+21 decisions;
+22 [(vii)] 7. the number of adverse decisions overturned after a
+23 reconsideration request under § 15–10B–06 of this title; and
+24 [(viii)] 8. the number of requests made and granted under §
+25 15–831(c)(1) and (2) of this title; and
+26 [(4)] (IV) the number and outcome of all other cases that are not subject to
+27 activities of the carrier under this subtitle that resulted from an adverse decision involving
+28 the length of stay for inpatient hospitalization as related to the medical procedure involved.
+29 (2) IF THE NUMBER OF ADVERSE DECISIONS ISSUED BY A CARRIER
+30 FOR A TYPE OF SERVICE HAS GROWN BY MORE THAN 10% IN THE IMMEDIATELY
+31 PRECEDING CALENDAR YEAR OR 25% IN THE IMMEDIATELY PRECEDING 3
+6 SENATE BILL 474
+1 CALENDAR YEARS, THE CARRIER SHALL SUBMIT IN THE REPORT REQUIRED UNDER
+2 PARAGRAPH (1) OF THIS SUBSECTION:
+3 (I) A DESCRIPTION OF ANY CHANGES IN MEDICAL
+4 MANAGEMENT CONTRIBUTING TO THE RISE IN ADVERSE DECISIONS FOR THE TYPE
+5 OF SERVICE; AND
+6 (II) ANY OTHER KNOWN REASONS FOR THE INCREASE; AND
+7 (III) A DESCRIPTION OF THE CARRIER’S EFFORTS AND ACTIONS
+8 TAKEN TO DETERMINE THE REASON FOR THE INCREASE.
+9 (b) The Commissioner shall:
+10 (1) compile an annual summary report based on the information provided:
+11 (i) under subsection (a) of this section; and
+12 (ii) by the Secretary under § 19–705.2(e) of the Health – General
+13 Article;
+14 (2) report any violations or actions taken under § 15–10B–11 of this title;
+15 and
+16 (3) provide copies of the summary report to the Governor and, subject to §
+17 2–1257 of the State Government Article, to the General Assembly.
+18 (C) THE COMMISSIONER MAY USE INFORMATION PROVIDED UNDER
+19 SUBSECTION (A) OF THIS SECTION AS THE BASIS FOR AN EXAMINATION UNDER
+20 TITLE 2, SUBTITLE 2 OF THIS ARTICLE.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5   C A H E F i c o p o t a t C t u c a d i i B  A  S  A  ( B  A S  A  (  S T]
+[DELETED:  S  A 1  ( E  ( ( F t    ( i c     1 o     2 w r o t h c p a o b o t m b t f    ( s m p     1 s i d i c u l t s h s     2 p f t c a s i a i g o w t d     A g t s a “ p n c “     B l c     3 s t nI A U I  s,      A i m     B i d]
+[DELETED: S 3 i a     4 g w d o t c i g p     5 i     A t c w     B t a c m b f w f f a g g o b o t m c d a c r t d s a d     C t C a t n a f     D a a u     E t a t n f n a e   ( T b t n i i t n a r u p ( o t s m b a d n f a d  ( ( F t    ( d p o    ( s m p     1 s i d i c u l t s h s]
+[DELETED:  S      2 p f o     3 s t nI A U I  s,      A i o m d     B i d i g p a t d e o r t a c     4 i     A t t m o t m r h a r g     B t C a t n a f     C a a t m o t m r i f a c w t C     D t a t n f n a e   ( T b t n i i t n a r u p ( o t s m b a d n f g d   ( T s    ( g “ p n c “ i u a p o “ m    ( l c 1]
+[DELETED: S 5  (  O t   () t] ( p   () t] ( c   () t] (    () t] 1    () t] 2 e    () t t w w t c m a g] 3 d    () t t w w t c m a g] 4 d    () t n o g f w t c t] 5 r r    () t n o a d i b t c] 6 u § 1 o t s w t a d i a p a o s t p a t t o s a i i t a d    () t n o a d o a a] r    () t] 8 1   () t] ( a t      C Y O  I T I P %]
+[DELETED:  S S   N):   )A D O A C I ME    ) ;IAE     )IARSE   ( T   ( c    ( u    ( b A   ( r a   ( p 2 ) TH O M U I P U A O T S A T B F A E U2,S2.  U  E  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 474
+J5 5lr3154
+CF HB 848
+By: Senator Beidle
+Introduced and read first time: January 22, 2025
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 16, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Health Insurance – Adverse Decisions – Reporting Notices, Reporting, and
+3 Examinations
+4 FOR the purpose of requiring that certain adverse decision and grievance decision notices
+5 include certain information in a certain manner; requiring certain carriers to provide
+6 certain information to the Maryland Insurance Commissioner on adverse decisions
+7 on types of services that have grown by more than certain percentages over certain
+8 periods of time; authorizing the Commissioner to use certain adverse decision
+9 information as the basis of a certain examination; and generally relating to health
+10 insurance and adverse decisions.
+11 BY repealing and reenacting, without amendments,
+12 Article – Insurance
+13 Section 15–10A–02(a)
+14 Annotated Code of Maryland
+15 (2017 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Insurance
+18 Section 15–10A–02(f) and (i) and 15–10A–06
+19 Annotated Code of Maryland
+20 (2017 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0474*
+
+2 SENATE BILL 474
+1 Article – Insurance
+2 15–10A–02.
+3 (a) Each carrier shall establish an internal grievance process for its members.
+4 (f) (1) For nonemergency cases, when a carrier renders an adverse decision,
+5 the carrier shall:
+6 (i) inform the member, the member’s representative, or the health
+7 care provider acting on behalf of the member of the adverse decision:
+8 1. orally by telephone; or
+9 2. with the affirmative consent of the member, the member’s
+10 representative, or the health care provider acting on behalf of the member, by text,
+11 facsimile, e–mail, an online portal, or other expedited means; and
+12 (ii) send, within 5 working days after the adverse decision has been
+13 made, a written notice to the member, the member’s representative, and a health care
+14 provider acting on behalf of the member that:
+15 1. states in detail in clear, understandable language the
+16 specific factual bases for the carrier’s decision and the reasoning used to determine that the
+17 health care service is not medically necessary and did not meet the carrier’s criteria and
+18 standards used in conducting the utilization review;
+19 2. provides the specific reference, language, or requirements
+20 from the criteria and standards, including any interpretive guidelines, on which the
+21 decision was based, and may not solely use:
+22 A. generalized terms such as “experimental procedure not
+23 covered”, “cosmetic procedure not covered”, “service included under another procedure”, or
+24 “not medically necessary”; or
+25 B. language directing the member to review the additional
+26 coverage criteria in the member’s policy or plan documents;
+27 3. [states the name,] INCLUDES A UNIQUE IDENTIFIER
+28 FOR AND THE business address[,] and business telephone number of:
+29 A. if the carrier is a health maintenance organization, the
+30 medical director or associate medical director, as appropriate, who made the decision; or
+31 B. if the carrier is not a health maintenance organization, the
+32 designated employee or representative of the carrier who has responsibility for the carrier’s
+
+SENATE BILL 474 3
+1 internal grievance process and the physician who is required to make all adverse decisions
+2 as required in § 15–10B–07(a) of this title;
+3 4. gives written details of the carrier’s internal grievance
+4 process and procedures under this subtitle; and
+5 5. includes the following information:
+6 A. that the member, the member’s representative, or a health
+7 care provider on behalf of the member has a right to file a complaint with the Commissioner
+8 within 4 months after receipt of a carrier’s grievance decision;
+9 B. that a complaint may be filed without first filing a
+10 grievance if the member, the member’s representative, or a health care provider filing a
+11 grievance on behalf of the member can demonstrate a compelling reason to do so as
+12 determined by the Commissioner;
+13 C. the Commissioner’s address, telephone number, and
+14 facsimile number;
+15 D. a statement that the Health Advocacy Unit is available to
+16 assist the member or the member’s representative in both mediating and filing a grievance
+17 under the carrier’s internal grievance process; and
+18 E. the address, telephone number, facsimile number, and
+19 electronic mail address of the Health Advocacy Unit.
+20 (2) The business telephone number included in the notice as required
+21 under paragraph (1)(ii)3 of this subsection must be a dedicated number for adverse
+22 decisions and may not be the general customer call number for the carrier.
+23 (i) (1) For nonemergency cases, when a carrier renders a grievance decision,
+24 the carrier shall:
+25 (i) document the grievance decision in writing after the carrier has
+26 provided oral communication of the decision to the member, the member’s representative,
+27 or the health care provider acting on behalf of the member; and
+28 (ii) send, within 5 working days after the grievance decision has been
+29 made, a written notice to the member, the member’s representative, and a health care
+30 provider acting on behalf of the member that:
+31 1. states in detail in clear, understandable language the
+32 specific factual bases for the carrier’s decision and the reasoning used to determine that the
+33 health care service is not medically necessary and did not meet the carrier’s criteria and
+34 standards used in conducting utilization review;
+
+4 SENATE BILL 474
+1 2. provides the specific reference, language, or requirements
+2 from the criteria and standards, including any interpretive guidelines used by the carrier,
+3 on which the grievance decision was based;
+4 3. [states the name,] INCLUDES A UNIQUE IDENTIFIER
+5 FOR AND THE business address[,] and business telephone number of:
+6 A. if the carrier is a health maintenance organization, the
+7 medical director or associate medical director, as appropriate, who made the grievance
+8 decision; or
+9 B. if the carrier is not a health maintenance organization, the
+10 designated employee or representative of the carrier who has responsibility for the carrier’s
+11 internal grievance process and the designated employee or representative’s title and
+12 clinical specialty; and
+13 4. includes the following information:
+14 A. that the member or the member’s representative has a
+15 right to file a complaint with the Commissioner within 4 months after receipt of a carrier’s
+16 grievance decision;
+17 B. the Commissioner’s address, telephone number, and
+18 facsimile number;
+19 C. a statement that the Health Advocacy Unit is available to
+20 assist the member or the member’s representative in filing a complaint with the
+21 Commissioner; and
+22 D. the address, telephone number, facsimile number, and
+23 electronic mail address of the Health Advocacy Unit.
+24 (2) The business telephone number included in the notice as required
+25 under paragraph (1)(ii)3 of this subsection must be a dedicated number for grievance
+26 decisions and may not be the general customer call number for the carrier.
+27 (3) To satisfy the requirements of this subsection, a carrier may not use
+28 solely in the written notice sent under paragraph (1) of this subsection:
+29 (i) generalized terms such as “experimental procedure not covered”,
+30 “cosmetic procedure not covered”, “service included under another procedure”, or “not
+31 medically necessary”; or
+32 (ii) language directing the member to review the additional coverage
+33 criteria in the member’s policy or plan documents.
+34 15–10A–06.
+
+SENATE BILL 474 5
+1 (a) (1) On a quarterly basis, each carrier shall submit to the Commissioner, on
+2 the form the Commissioner requires, a report that describes:
+3 [(1)] (I) the number of members entitled to health care benefits under a
+4 policy, plan, or certificate issued or delivered in the State by the carrier;
+5 [(2)] (II) the number of clean claims for reimbursement processed by the
+6 carrier;
+7 [(3)] (III) the activities of the carrier under this subtitle, including:
+8 [(i)] 1. the outcome of each grievance filed with the carrier;
+9 [(ii)] 2. the number and outcomes of cases that were considered
+10 emergency cases under § 15–10A–02(b)(2)(i) of this subtitle;
+11 [(iii)] 3. the time within which the carrier made a grievance
+12 decision on each emergency case;
+13 [(iv)] 4. the time within which the carrier made a grievance
+14 decision on all other cases that were not considered emergency cases;
+15 [(v)] 5. the number of grievances filed with the carrier that
+16 resulted from an adverse decision involving length of stay for inpatient hospitalization as
+17 related to the medical procedure involved;
+18 [(vi)] 6. the number of adverse decisions issued by the carrier
+19 under § 15–10A–02(f) of this subtitle, whether the adverse decision involved a prior
+20 authorization or step therapy protocol, and the type of service at issue in the adverse
+21 decisions;
+22 [(vii)] 7. the number of adverse decisions overturned after a
+23 reconsideration request under § 15–10B–06 of this title; and
+24 [(viii)] 8. the number of requests made and granted under §
+25 15–831(c)(1) and (2) of this title; and
+26 [(4)] (IV) the number and outcome of all other cases that are not subject to
+27 activities of the carrier under this subtitle that resulted from an adverse decision involving
+28 the length of stay for inpatient hospitalization as related to the medical procedure involved.
+29 (2) IF THE NUMBER OF ADVERSE DECISIONS ISSUED BY A CARRIER
+30 FOR A TYPE OF SERVICE HAS GROWN BY MORE THAN 10% IN THE IMMEDIATELY
+31 PRECEDING CALENDAR YEAR OR 25% IN THE IMMEDIATELY PRECEDING 3
+
+6 SENATE BILL 474
+1 CALENDAR YEARS, THE CARRIER SHALL SUBMIT IN THE REPORT REQUIRED UNDER
+2 PARAGRAPH (1) OF THIS SUBSECTION:
+3 (I) A DESCRIPTION OF ANY CHANGES IN MEDICAL
+4 MANAGEMENT CONTRIBUTING TO THE RISE IN ADVERSE DECISIONS FOR THE TYPE
+5 OF SERVICE; AND
+6 (II) ANY OTHER KNOWN REASONS FOR THE INCREASE; AND
+7 (III) A DESCRIPTION OF THE CARRIER’S EFFORTS AND ACTIONS
+8 TAKEN TO DETERMINE THE REASON FOR THE INCREASE.
+9 (b) The Commissioner shall:
+10 (1) compile an annual summary report based on the information provided:
+11 (i) under subsection (a) of this section; and
+12 (ii) by the Secretary under § 19–705.2(e) of the Health – General
+13 Article;
+14 (2) report any violations or actions taken under § 15–10B–11 of this title;
+15 and
+16 (3) provide copies of the summary report to the Governor and, subject to §
+17 2–1257 of the State Government Article, to the General Assembly.
+18 (C) THE COMMISSIONER MAY USE INFORMATION PROVIDED UNDER
+19 SUBSECTION (A) OF THIS SECTION AS THE BASIS FOR AN EXAMINATION UNDER
+20 TITLE 2, SUBTITLE 2 OF THIS ARTICLE.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5   C A H E F i c o p o t a t C t u c a d i i B  A  S  A  ( B  A S  A  (  S T]
+[DELETED:  S  A 1  ( E  ( ( F t    ( i c     1 o     2 w r o t h c p a o b o t m b t f    ( s m p     1 s i d i c u l t s h s     2 p f t c a s i a i g o w t d     A g t s a “ p n c “     B l c     3 s t nI A U I  s,      A i m     B i d]
+[DELETED: S 3 i a     4 g w d o t c i g p     5 i     A t c w     B t a c m b f w f f a g g o b o t m c d a c r t d s a d     C t C a t n a f     D a a u     E t a t n f n a e   ( T b t n i i t n a r u p ( o t s m b a d n f a d  ( ( F t    ( d p o    ( s m p     1 s i d i c u l t s h s]
+[DELETED:  S      2 p f o     3 s t nI A U I  s,      A i o m d     B i d i g p a t d e o r t a c     4 i     A t t m o t m r h a r g     B t C a t n a f     C a a t m o t m r i f a c w t C     D t a t n f n a e   ( T b t n i i t n a r u p ( o t s m b a d n f g d   ( T s    ( g “ p n c “ i u a p o “ m    ( l c 1]
+[DELETED: S 5  (  O t   () t] ( p   () t] ( c   () t] (    () t] 1    () t] 2 e    () t t w w t c m a g] 3 d    () t t w w t c m a g] 4 d    () t n o g f w t c t] 5 r r    () t n o a d i b t c] 6 u § 1 o t s w t a d i a p a o s t p a t t o s a i i t a d    () t n o a d o a a] r    () t] 8 1   () t] ( a t      C Y O  I T I P %]
+[DELETED:  S S   N):   )A D O A C I ME    ) ;IAE     )IARSE   ( T   ( c    ( u    ( b A   ( r a   ( p 2 ) TH O M U I P U A O T S A T B F A E U2,S2.  U  E  S A B I F E T t A s t e O          G               ]

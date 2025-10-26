@@ -1,0 +1,108 @@
+Title: HOUSE BILL 1349
+Official Title: HOUSE BILL 1349
+Number of Sections: 1
+Source: versions - First - Criminal Law - Unmanned Aircraft Systems - Trespass and Surveillance
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+E1 5lr3409
+By: Delegates Tomlinson, Rose, Bouchat, Ciliberti, J. Long, Mangione, Miller,
+Pippy, and Stonko
+Introduced and read first time: February 7, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Law – Unmanned Aircraft Systems – Trespass and Surveillance
+3 FOR the purpose of prohibiting a person from using an unmanned aircraft system to enter
+4 another person’s property under certain circumstances; and generally relating to
+5 unmanned aircraft systems and trespass and surveillance.
+6 BY adding to
+7 Article – Criminal Law
+8 Section 3–908
+9 Annotated Code of Maryland
+10 (2021 Replacement Volume and 2024 Supplement)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+13 Article – Criminal Law
+14 3–908.
+15 (A) IN THIS SECTION, “UNMANNED AIRCRAFT SYSTEM” HAS THE MEANING
+16 STATED IN § 14–301 OF THE ECONOMIC DEVELOPMENT ARTICLE.
+17 (B) THIS SECTION DOES NOT APPLY TO A PERSON WHO:
+18 (1) HAS CONSENT TO ENTER PROPERTY BY A PERSON WITH LEGAL
+19 AUTHORITY TO GIVE THE CONSENT OR BY A PERSON WHO IS LAWFULLY PRESENT ON
+20 THE PROPERTY; OR
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1349*
+2 HOUSE BILL 1349
+1 (2) IS AUTHORIZED BY FEDERAL LAW OR REGULATION TO OPERATE
+2 AN UNMANNED AIRCRAFT SYSTEM AND IS OPERATING THE UNMANNED AIRCRAFT
+3 SYSTEM IN A MANNER CONSISTENT WITH THE LAW OR REGULATION.
+4 (C) A PERSON MAY NOT KNOWINGLY AND INTENTIONALLY CAUSE AN
+5 UNMANNED AIRCRAFT SYSTEM TO ENTER THE PROPERTY OF ANOTHER PERSON AND
+6 COME WITHIN 50 FEET OF A DWELLING WITH THE INTENT TO:
+7 (1) COERCE, INTIMIDATE, OR HARASS ANOTHER PERSON; OR
+8 (2) OBTAIN VIDEOGRAPHIC OR PHOTOGRAPHIC IMAGES OF THE
+9 PROPERTY, THE PROPERTY OWNER, A RESIDENT, OR A GUEST.
+10 (D) A PERSON WHO VIOLATES THIS SECTION IS GUILTY OF A MISDEMEANOR
+11 AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT EXCEEDING 1 YEAR OR A
+12 FINE NOT EXCEEDING $5,000 OR BOTH.
+13 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+14 October 1, 2025.
+[DELETED: :CA      5     D T R B C J M M A C F a u u B  A S  A  (  S T A() I,“NN UM     C E R11EDA.() T:H ( P WY ]
+[DELETED:  H  ( ()  P M N K A I C A  0: ( ,,;E E N  ( V O P I O TY R T ,,.()      0.  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1349
+E1 5lr3409
+By: Delegates Tomlinson, Rose, Bouchat, Ciliberti, J. Long, Mangione, Miller,
+Pippy, and Stonko
+Introduced and read first time: February 7, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Law – Unmanned Aircraft Systems – Trespass and Surveillance
+3 FOR the purpose of prohibiting a person from using an unmanned aircraft system to enter
+4 another person’s property under certain circumstances; and generally relating to
+5 unmanned aircraft systems and trespass and surveillance.
+6 BY adding to
+7 Article – Criminal Law
+8 Section 3–908
+9 Annotated Code of Maryland
+10 (2021 Replacement Volume and 2024 Supplement)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+13 Article – Criminal Law
+14 3–908.
+15 (A) IN THIS SECTION, “UNMANNED AIRCRAFT SYSTEM” HAS THE MEANING
+16 STATED IN § 14–301 OF THE ECONOMIC DEVELOPMENT ARTICLE.
+17 (B) THIS SECTION DOES NOT APPLY TO A PERSON WHO:
+18 (1) HAS CONSENT TO ENTER PROPERTY BY A PERSON WITH LEGAL
+19 AUTHORITY TO GIVE THE CONSENT OR BY A PERSON WHO IS LAWFULLY PRESENT ON
+20 THE PROPERTY; OR
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1349*
+
+2 HOUSE BILL 1349
+1 (2) IS AUTHORIZED BY FEDERAL LAW OR REGULATION TO OPERATE
+2 AN UNMANNED AIRCRAFT SYSTEM AND IS OPERATING THE UNMANNED AIRCRAFT
+3 SYSTEM IN A MANNER CONSISTENT WITH THE LAW OR REGULATION.
+4 (C) A PERSON MAY NOT KNOWINGLY AND INTENTIONALLY CAUSE AN
+5 UNMANNED AIRCRAFT SYSTEM TO ENTER THE PROPERTY OF ANOTHER PERSON AND
+6 COME WITHIN 50 FEET OF A DWELLING WITH THE INTENT TO:
+7 (1) COERCE, INTIMIDATE, OR HARASS ANOTHER PERSON; OR
+8 (2) OBTAIN VIDEOGRAPHIC OR PHOTOGRAPHIC IMAGES OF THE
+9 PROPERTY, THE PROPERTY OWNER, A RESIDENT, OR A GUEST.
+10 (D) A PERSON WHO VIOLATES THIS SECTION IS GUILTY OF A MISDEMEANOR
+11 AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT EXCEEDING 1 YEAR OR A
+12 FINE NOT EXCEEDING $5,000 OR BOTH.
+13 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+14 October 1, 2025.
+
+[DELETED: :CA      5     D T R B C J M M A C F a u u B  A S  A  (  S T A() I,“NN UM     C E R11EDA.() T:H ( P WY ]
+[DELETED:  H  ( ()  P M N K A I C A  0: ( ,,;E E N  ( V O P I O TY R T ,,.()      0.  S A B I F E T t A s t e O]

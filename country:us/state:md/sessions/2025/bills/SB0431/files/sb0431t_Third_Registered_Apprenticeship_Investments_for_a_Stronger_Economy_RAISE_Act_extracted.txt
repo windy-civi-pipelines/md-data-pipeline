@@ -1,0 +1,954 @@
+Title: SENATE BILL 431
+Official Title: SENATE BILL 431
+Number of Sections: 1
+Source: versions - Third - Registered Apprenticeship Investments for a Stronger Economy (RAISE) Act
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+K3 5lr0367
+CF HB 501
+By: The President (By Request – Administration) and Senators Augustine, Brooks,
+Carozza, Charles, Gile, Henson, Hettleman, James, King, M. Washington,
+and West
+Introduced and read first time: January 20, 2025
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 25, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Registered Apprenticeship Investments for a Stronger Economy (RAISE) Act
+3 FOR the purpose of authorizing the State Board of Plumbing to waive the license
+4 examination requirement for a journey plumber license; authorizing the Secretary
+5 of Labor to waive the examination for certain licenses; altering the duties of the
+6 Maryland Apprenticeship and Training Council; repealing the Youth Apprenticeship
+7 Advisory Committee; establishing the Maryland Office of Registered Apprenticeship
+8 Development within the Maryland Apprenticeship and Training Program;
+9 establishing the Registered Apprenticeship Qualified Intermediary Program within
+10 the Maryland Apprenticeship and Training Program; establishing the Maryland
+11 Apprenticeship Incentive Pay Per Apprentice Program within the Maryland
+12 Department of Labor; establishing the Maryland Apprenticeship Incentive Pay Per
+13 Apprentice Program Fund as a special, nonlapsing fund; requiring that the interest
+14 earnings of the Fund remain in the Fund; establishing the Registered
+15 Apprenticeship Development Advisory Board in the Department; applying certain
+16 provisions of this Act retroactively; and generally relating to registered
+17 apprenticeships.
+18 BY adding to
+19 Article – Business Occupations and Professions
+20 Section 12–305.3
+21 Annotated Code of Maryland
+22 (2018 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0431*
+2 SENATE BILL 431
+1 BY adding to
+2 Article – Business Regulation
+3 Section 2–104.1
+4 Annotated Code of Maryland
+5 (2024 Replacement Volume)
+6 BY repealing and reenacting, with amendments,
+7 Article – Labor and Employment
+8 Section 11–405(a) and (d)
+9 Annotated Code of Maryland
+10 (2016 Replacement Volume and 2024 Supplement)
+11 BY repealing
+12 Article – Labor and Employment
+13 Section 11–409
+14 Annotated Code of Maryland
+15 (2016 Replacement Volume and 2024 Supplement)
+16 BY adding to
+17 Article – Labor and Employment
+18 Section 11–409, 11–410, 11–411, and 11–607
+19 Annotated Code of Maryland
+20 (2016 Replacement Volume and 2024 Supplement)
+21 BY repealing and reenacting, without amendments,
+22 Article – State Finance and Procurement
+23 Section 6–226(a)(2)(i)
+24 Annotated Code of Maryland
+25 (2021 Replacement Volume and 2024 Supplement)
+26 BY repealing and reenacting, with amendments,
+27 Article – State Finance and Procurement
+28 Section 6–226(a)(2)(ii)204. and 205.
+29 Annotated Code of Maryland
+30 (2021 Replacement Volume and 2024 Supplement)
+31 BY adding to
+32 Article – State Finance and Procurement
+33 Section 6–226(a)(2)(ii)206.
+34 Annotated Code of Maryland
+35 (2021 Replacement Volume and 2024 Supplement)
+36 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+37 That the Laws of Maryland read as follows:
+38 Article – Business Occupations and Professions
+SENATE BILL 431 3
+1 12–305.3.
+2 THE BOARD SHALL WAIVE THE EXAMINATION REQUIREMENTS FOR A
+3 JOURNEY PLUMBER LICENSE FOR AN INDIVIDUAL WHO:
+4 (1) HAS SUCCESSFULLY COMPLETED A PLUMBING APPRENTICESHIP
+5 PROGRAM APPROVED BY THE DIVISION OF WORKFORCE DEVELOPMENT AND
+6 ADULT LEARNING; AND
+7 (2) PAYS THE APPROPRIATE FEE REQUIRED UNDER § 12–306 OF THIS
+8 SUBTITLE.
+9 Article – Business Regulation
+10 2–104.1.
+11 (A) IN THIS SECTION, “LICENSE” MEANS A LICENSE, CERTIFICATE,
+12 REGISTRATION, PERMIT, OR OTHER CREDENTIAL THAT IS ISSUED BY A UNIT OF THE
+13 DIVISION OF OCCUPATIONAL AND PROFESSIONAL LICENSING IN THE
+14 DEPARTMENT.
+15 (B) UNLESS REQUIRED BY FEDERAL LAW, THE SECRETARY MAY WAIVE THE
+16 EXAMINATION REQUIREMENT FOR A LICENSE FOR AN INDIVIDUAL WHO
+17 SUCCESSFULLY COMPLETES A REGISTERED APPRENTICESHIP PROGRAM APPROVED
+18 BY THE DIVISION OF WORKFORCE DEVELOPMENT AND ADULT LEARNING IF THE
+19 MARYLAND APPRENTICESHIP AND TRAINING COUNCIL HAS FOUND THAT THE
+20 APPROVED REGISTERED APPRENTICESHIP PROGRAM MEETS INDUSTRY STANDARDS
+21 AND LICENSURE REQUIREMENTS.
+22 (C) THIS SECTION MAY NOT BE CONSTRUED TO ELIMINATE EDUCATION OR
+23 EXPERIENCE REQUIREMENTS ESTABLISHED UNDER STATE LAW FOR LICENSURE.
+24 Article – Labor and Employment
+25 11–405.
+26 (a) The [duties of the] Council shall [be to]:
+27 (1) advise the Division of Workforce Development and Adult Learning on
+28 the apprenticeability of occupations in the State of Maryland;
+29 (2) encourage the establishment of local apprenticeship committees where
+30 the committees are needed;
+4 SENATE BILL 431
+1 (3) make recommendations regarding the formulation and adoption of
+2 standards of apprenticeship which safeguard the welfare of apprentices, being guided, but
+3 not controlled, by the standards of apprenticeship recommended by the federal committee
+4 on apprenticeship;
+5 (4) REQUIRE A MINIMUM RATIO OF ONE JOURNEYWORKER
+6 REGULARLY EMPLOYED TO ONE APPRENTICE, CONSISTENT WITH PROPER
+7 SUPERVISION, TRAINING, AND CONTINUITY OF EMPLOYMENT AND APPLICABLE
+8 PROVISIONS IN COLLECTIVE BARGAINING AGREEMENTS;
+9 (5) AUTHORIZE AT THE TIME OF OR SUBSEQUENT TO REGISTRATION,
+10 RECOMMEND A DEVIATION FROM THE MINIMUM RATIO REQUIREMENT FOR ALL
+11 OCCUPATIONS THAT ARE DEFINED BY THE SECRETARY AS NONHAZARDOUS TO
+12 WORKERS AND MEMBERS OF THE PUBLIC;
+13 (6) CONSIDER FORMAL WRITTEN DEVIATION REQUESTS FROM ALL
+14 OTHER OCCUPATIONS;
+15 [(4)] (7) make recommendations regarding the formulation of policies for
+16 the overall apprenticeship program;
+17 [(5)] (8) make recommendations regarding the registration of standards
+18 of apprenticeship of the groups or employers that elect to conform with the provisions of
+19 this subtitle;
+20 [(6)] (9) make recommendations regarding the registration of
+21 apprenticeship agreements which conform to the standards of apprenticeship adopted by
+22 the Division of Workforce Development and Adult Learning;
+23 [(7)] (10) recommend the issuance of certificates of completion of
+24 apprenticeship to apprentices who are registered with the Division of Workforce
+25 Development and Adult Learning when the Division determines that such apprentices have
+26 completed successfully their apprenticeship;
+27 [(8)] (11) seek all information pertaining to apprenticeship training in the
+28 State;
+29 [(9)] (12) prescribe its rules of procedure and duties of the Chairman,
+30 Director, and Secretary subject to the provisions of this law; and
+31 [(10)] (13) perform other advisory functions as the Governor or the
+32 Secretary may direct or as may come within the scope of the Council.
+33 (d) (1) On or before [June 30 of] DECEMBER 31 each year, the Division of
+34 Workforce Development and Adult Learning shall report to the General Assembly, in
+SENATE BILL 431 5
+1 accordance with § 2–1257 of the State Government Article, the following information for
+2 the immediately preceding calendar year 5 CALENDAR YEARS:
+3 (i) the completion and enrollment rates of each apprenticeship
+4 program registered in the State; [and]
+5 (ii) the age, race, sex or gender identity, county of residence, and
+6 program enrollment of each individual enrolled in a registered apprenticeship program;
+7 (III) THE NUMBER OF:
+8 1. QUALIFIED INTERMEDIARIES REGISTERED IN THE
+9 REGISTERED APPRENTICESHIP QUALIFIED INTERMEDIARY PROGRAM;
+10 2. APPROVED GRANTS AND PROCUREMENTS USED BY
+11 THE SECRETARY UNDER § 11–410(C)(3) OF THIS SUBTITLE; AND
+12 3. NEWLY REGISTERED APPRENTICES AND NEWLY
+13 REGISTERED APPRENTICESHIP PROGRAMS RESULTING FROM THE REGISTERED
+14 APPRENTICESHIP QUALIFIED INTERMEDIARY PROGRAM; AND
+15 (IV) THE NUMBER AND VALUE OF THE INCENTIVES AWARDED
+16 UNDER THE MARYLAND APPRENTICESHIP INCENTIVE PAY PER APPRENTICE
+17 PROGRAM;
+18 (V) WORKER OUTCOMES FOR EACH REGISTERED
+19 APPRENTICESHIP PROGRAM, INCLUDING:
+20 1. JOB PLACEMENT;
+21 2. POST–APPRENTICESHIP WAGE RATES; AND
+22 3. RETENTION AND ADVANCEMENT DATA; AND
+23 (VI) ANY CORRECTIVE ACTION, INCLUDING REQUIRING
+24 REIMBURSEMENT OF INCENTIVES, FOR FAILURE TO MEET THE REQUIREMENTS OF
+25 THE MARYLAND PAY PER APPRENTICE PROGRAM ESTABLISHED UNDER § 11–607
+26 OF THIS TITLE.
+27 (2) The Division of Workforce Development and Adult Learning shall[:
+28 (i) sort the information required under paragraph (1) of this
+29 subsection by apprenticeship program; and
+6 SENATE BILL 431
+1 (ii)] publish the report required under paragraph (1) of this
+2 subsection on the Division of Workforce Development and Adult Learning’s Web site.
+3 [11–409.
+4 (a) In this section, “Committee” means the Youth Apprenticeship Advisory
+5 Committee.
+6 (b) There is a Youth Apprenticeship Advisory Committee in the Division of
+7 Workforce Development and Adult Learning.
+8 (c) The Committee consists of the following members:
+9 (1) the Secretary, or the Secretary’s designee;
+10 (2) the State Superintendent of Schools, or the State Superintendent’s
+11 designee;
+12 (3) the Secretary of Commerce, or the Secretary’s designee;
+13 (4) the Secretary of Juvenile Services, or the Secretary’s designee;
+14 (5) the Assistant Secretary of the Division of Workforce Development and
+15 Adult Learning, or the Assistant Secretary’s designee; and
+16 (6) the following members, appointed by the Governor:
+17 (i) two representatives of the Council;
+18 (ii) one representative of an employee organization;
+19 (iii) one employer whose business has a nonjoint apprenticeship
+20 program;
+21 (iv) one representative from a community college;
+22 (v) one individual who holds a doctoral degree and specializes in
+23 labor economics with expertise in national and international apprenticeship systems;
+24 (vi) one representative of a nonprofit organization who is involved
+25 with employee training and workforce development;
+26 (vii) one representative of the Maryland Chamber of Commerce; and
+27 (viii) two representatives from regional business councils that serve
+28 different regions of the State.
+SENATE BILL 431 7
+1 (d) The Committee shall:
+2 (1) evaluate the effectiveness of existing high school youth apprenticeship
+3 programs in the State, other states, and other countries based on a systematic review of
+4 relevant data;
+5 (2) review and identify:
+6 (i) ways to implement high school youth apprenticeship programs
+7 in the State; and
+8 (ii) means through which employers and organizations can obtain
+9 grants, tax credits, and other subsidies to support establishment and operation of high
+10 school youth apprenticeship programs; and
+11 (3) set targets for the number of apprenticeship opportunities for youth
+12 that the State should reach over the next 3 years.
+13 (e) On or before December 1 of each year, the Committee shall submit a
+14 report, in accordance with § 2–1257 of the State Government Article, to the General
+15 Assembly regarding any recommended legislation to promote high school youth
+16 apprenticeship programs in the State.]
+17 11–409.
+18 (A) IN THIS SECTION, “OFFICE” MEANS THE MARYLAND OFFICE OF
+19 REGISTERED APPRENTICESHIP DEVELOPMENT.
+20 (B) THERE IS A MARYLAND OFFICE OF REGISTERED APPRENTICESHIP
+21 DEVELOPMENT WITHIN THE MARYLAND APPRENTICESHIP AND TRAINING
+22 PROGRAM OF THE DIVISION OF WORKFORCE DEVELOPMENT AND ADULT
+23 LEARNING.
+24 (C) THE PURPOSE OF THE OFFICE IS TO MARKET AND ADVANCE THE
+25 REGISTERED APPRENTICESHIP SYSTEM THROUGHOUT THE STATE SCALE
+26 REGISTERED APPRENTICESHIPS ACROSS INDUSTRIES AND OCCUPATIONS TO MEET
+27 THE NEEDS OF THE STATE’S ECONOMY.
+28 (D) THE GOVERNOR SHALL INCLUDE IN THE ANNUAL BUDGET BILL AN
+29 APPROPRIATION TO THE MARYLAND APPRENTICESHIP AND TRAINING PROGRAM
+30 TO COVER ADMINISTRATIVE COSTS FOR THE OFFICE.
+31 11–410.
+8 SENATE BILL 431
+1 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (2) “DIRECTOR” MEANS THE DIRECTOR OF THE MARYLAND
+4 APPRENTICESHIP AND TRAINING PROGRAM.
+5 (3) “PROGRAM” MEANS THE REGISTERED APPRENTICESHIP
+6 QUALIFIED INTERMEDIARY PROGRAM.
+7 (4) “QUALIFIED INTERMEDIARY” MEANS AN ENTITY THAT
+8 DEMONSTRATES EXPERTISE IN:
+9 (I) CONNECTING SPONSORS, EMPLOYERS, OR POTENTIAL
+10 APPRENTICESHIP PROGRAM PARTICIPANTS WITH REGISTERED APPRENTICESHIP
+11 PROGRAMS;
+12 (II) CONVENING STAKEHOLDERS TO DEVELOP REGISTERED
+13 APPRENTICESHIP PROGRAMS; OR
+14 (III) OTHER KEY FUNCTIONS AS DETERMINED APPROPRIATE BY
+15 THE DEPARTMENT TO SUCCESSFULLY BUILD AND SCALE REGISTERED
+16 APPRENTICESHIP PROGRAMS THAT ACHIEVE DESIRED WORKFORCE OUTCOMES.
+17 (B) THERE IS A REGISTERED APPRENTICESHIP QUALIFIED INTERMEDIARY
+18 PROGRAM WITHIN THE MARYLAND APPRENTICESHIP AND TRAINING PROGRAM OF
+19 THE DIVISION OF WORKFORCE DEVELOPMENT AND ADULT LEARNING.
+20 (C) (1) THE PROGRAM SHALL:
+21 (I) REPORT TO THE DIRECTOR;
+22 (II) INCREASE AWARENESS OF REGISTERED APPRENTICESHIP
+23 PROGRAMS THROUGH INDUSTRY OUTREACH;
+24 (III) CONNECT EMPLOYERS AND LABOR ORGANIZATIONS WITH
+25 WORKFORCE AND EDUCATION PARTNERS; AND
+26 (IV) PROVIDE TECHNICAL ASSISTANCE TO LAUNCH AND EXPAND
+27 REGISTERED APPRENTICESHIP PROGRAMS WITH A FOCUS ON NONTRADITIONAL
+28 SECTORS; AND
+29 (V) INCLUDE A PROCESS FOR MONITORING AND EVALUATING
+30 THE PROGRAM.
+SENATE BILL 431 9
+1 (2) THE DIRECTOR SHALL, IN COLLABORATION CONSULTATION WITH
+2 THE SECRETARY, THE GOVERNOR’S WORKFORCE DEVELOPMENT BOARD, THE
+3 REGISTERED APPRENTICESHIP DEVELOPMENT ADVISORY BOARD, AND THE
+4 DEPARTMENT OF COMMERCE, DEVELOP THE PROGRAM.
+5 (3) THE SECRETARY MAY USE GRANTS OR PROCUREMENT, AMONG
+6 OTHER STRATEGIES, TO ADVANCE AND ACCOMPLISH THE GOALS OF THE PROGRAM.
+7 11–411.
+8 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+9 INDICATED.
+10 (2) “BOARD” MEANS THE REGISTERED APPRENTICESHIP
+11 DEVELOPMENT ADVISORY BOARD.
+12 (3) “OFFICE” MEANS THE OFFICE OF REGISTERED APPRENTICESHIP
+13 DEVELOPMENT ESTABLISHED UNDER § 11–409 OF THIS SUBTITLE.
+14 (B) (1) THERE IS A REGISTERED APPRENTICESHIP DEVELOPMENT
+15 ADVISORY BOARD IN THE DEPARTMENT.
+16 (2) THE PURPOSE OF THE BOARD IS TO ADVISE THE OFFICE ON THE
+17 STRATEGY TO ACHIEVE ITS MISSION OF EXPANDING REGISTERED APPRENTICESHIP
+18 OPPORTUNITIES IN THE STATE.
+19 (C) THE BOARD SHALL CONSIST OF:
+20 (1) ONE MEMBER OF THE SENATE OF MARYLAND, APPOINTED BY THE
+21 PRESIDENT OF THE SENATE;
+22 (2) ONE MEMBER OF THE HOUSE OF DELEGATES, APPOINTED BY THE
+23 SPEAKER OF THE HOUSE;
+24 (3) TWO MEMBERS DESIGNATED BY THE PRESIDENT OF THE
+25 MARYLAND STATE AND DC AFL–CIO;
+26 (4) TWO MEMBERS REPRESENTING EMPLOYERS ENGAGED IN
+27 REGISTERED APPRENTICESHIPS, APPOINTED BY THE GOVERNOR; AND
+28 (5) ONE MEMBER TO SERVE AS CHAIR OF THE BOARD, APPOINTED BY
+29 THE GOVERNOR.
+30 (D) A MEMBER OF THE BOARD:
+10 SENATE BILL 431
+1 (1) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE BOARD;
+2 BUT
+3 (2) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES UNDER THE
+4 STANDARD STATE TRAVEL REGULATIONS, AS PROVIDED IN THE STATE BUDGET.
+5 (E) (1) THE TERM OF A MEMBER IS 4 YEARS.
+6 (2) THE TERMS OF MEMBERS ARE STAGGERED AS REQUIRED BY THE
+7 TERMS PROVIDED FOR MEMBERS OF THE BOARD ON OCTOBER 1, 2025.
+8 (3) A VACANCY SHALL BE FILLED FOR AN UNEXPIRED TERM IN THE
+9 SAME MANNER AS THE ORIGINAL APPOINTMENT.
+10 (4) AT THE END OF THE TERM, A MEMBER CONTINUES TO SERVE
+11 UNTIL A SUCCESSOR IS APPOINTED AND QUALIFIES.
+12 (5) A MEMBER WHO IS APPOINTED AFTER A TERM HAS BEGUN SERVES
+13 ONLY FOR THE REST OF THE TERM AND UNTIL A SUCCESSOR IS APPOINTED AND
+14 QUALIFIES.
+15 (F) THE BOARD SHALL:
+16 (1) CONSULT WITH THE OFFICE REGULARLY ABOUT DEVELOPING
+17 STRATEGY AND REVIEWING OUTCOMES FOR APPRENTICESHIPS;
+18 (2) PROVIDE ADVICE ON PROGRAMS OPERATED BY THE OFFICE; AND
+19 (3) ON OR BEFORE DECEMBER 1 EACH YEAR, BEGINNING IN 2025,
+20 EVALUATE THE OFFICE AND REPORT THE RESULTS OF THE EVALUATION TO THE
+21 GENERAL ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+22 ARTICLE.
+23 11–607.
+24 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+25 INDICATED.
+26 (2) “EMPLOYER” MEANS AN INDIVIDUAL OR ORGANIZATION LOCATED
+27 OR OPERATING IN THE STATE THAT EMPLOYS A REGISTERED APPRENTICE.
+28 (3) “FUND” MEANS THE MARYLAND APPRENTICESHIP INCENTIVE
+29 PAY PER APPRENTICE PROGRAM FUND.
+SENATE BILL 431 11
+1 (4) “PROGRAM” MEANS THE MARYLAND APPRENTICESHIP
+2 INCENTIVE PAY PER APPRENTICE PROGRAM.
+3 (5) “REGISTERED APPRENTICE” MEANS AN EMPLOYEE WHO
+4 PARTICIPATES IN A REGISTERED APPRENTICESHIP PROGRAM.
+5 (6) “REGISTERED APPRENTICESHIP” MEANS AN APPRENTICESHIP
+6 PROGRAM THAT IS REGISTERED WITH, AND APPROVED BY, THE DIVISION OF
+7 WORKFORCE DEVELOPMENT AND ADULT LEARNING.
+8 (7) “SPONSOR” MEANS AN INDIVIDUAL, ASSOCIATION, COMMITTEE,
+9 ORGANIZATION, INTERMEDIARY, OR EMPLOYER IN WHOSE NAME OR TITLE THE
+10 REGISTERED APPRENTICESHIP PROGRAM IS OR IS TO BE REGISTERED.
+11 (B) THERE IS A MARYLAND APPRENTICESHIP INCENTIVE PAY PER
+12 APPRENTICE PROGRAM IN THE DEPARTMENT.
+13 (C) THE PURPOSES OF THE PROGRAM ARE TO:
+14 (1) DEVELOP A WELL–TRAINED, PRODUCTIVE WORKFORCE THAT
+15 MEETS THE NEEDS OF THE STATE’S ECONOMY; AND
+16 (2) HELP EMPLOYERS AND SPONSORS OFFSET COSTS, INCLUDING
+17 RECRUITMENT, EDUCATION, TRAINING, AND ACCOMMODATIONS FOR DISABILITIES
+18 OR MATERIALS, ASSOCIATED WITH HIRING NEWLY REGISTERED APPRENTICES.
+19 (D) THE DEPARTMENT SHALL ADMINISTER THE PROGRAM AND ESTABLISH:
+20 (1) REQUIREMENTS FOR INCENTIVE APPLICATIONS;
+21 (2) A PROCESS FOR REVIEWING INCENTIVE APPLICATIONS AND
+22 AWARDING INCENTIVES TO ELIGIBLE EMPLOYERS OR SPONSORS;
+23 (3) THE MAXIMUM AWARD ELIGIBILITY PER NEWLY REGISTERED
+24 APPRENTICE SUBJECT TO FUND AVAILABILITY;
+25 (4) THE MAXIMUM AMOUNT OF INCENTIVES THAT AN ELIGIBLE
+26 EMPLOYER OR SPONSOR MAY RECEIVE EACH YEAR; AND
+27 (5) A PROCESS FOR MONITORING AND EVALUATING OUTCOMES,
+28 ASSESSING COMPLIANCE, AND TAKING CORRECTIVE ACTION, INCLUDING
+29 REQUIRING REIMBURSEMENT OF INCENTIVES, SHOULD AN EMPLOYER OR SPONSOR
+30 FAIL TO MEET THE REQUIREMENTS OF THE PROGRAM.
+12 SENATE BILL 431
+1 (E) (1) THERE IS A MARYLAND APPRENTICESHIP INCENTIVE PAY PER
+2 APPRENTICE PROGRAM FUND.
+3 (2) THE PURPOSE OF THE FUND IS TO PROVIDE INCENTIVES UNDER
+4 THE PROGRAM.
+5 (3) THE SECRETARY SHALL ADMINISTER THE FUND.
+6 (4) (I) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+7 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+8 (II) THE STATE TREASURER SHALL HOLD THE FUND
+9 SEPARATELY, AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+10 (5) THE FUND CONSISTS OF:
+11 (I) MONEY APPROPRIATED TO THE FUND UNDER PARAGRAPH
+12 (9) OF THIS SUBSECTION;
+13 (II) MONEY COLLECTED DUE TO NONCOMPLIANCE WITH
+14 PROGRAM REQUIREMENTS;
+15 (III) INTEREST EARNINGS OF THE FUND; AND
+16 (IV) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED
+17 FOR THE BENEFIT OF THE FUND.
+18 (6) THE FUND MAY BE USED ONLY FOR PROVIDING INCENTIVES
+19 UNDER THE PROGRAM AND ADMINISTRATIVE EXPENSES RELATED TO THE
+20 PROGRAM.
+21 (7) (I) THE STATE TREASURER SHALL INVEST THE MONEY OF THE
+22 FUND IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+23 (II) ANY INTEREST EARNINGS OF THE FUND SHALL BE
+24 CREDITED TO THE FUND.
+25 (8) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN
+26 ACCORDANCE WITH THE STATE BUDGET.
+27 (9) FOR EACH OF FISCAL YEARS 2027 THROUGH 2030, THE
+28 GOVERNOR SHALL MAY INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION
+29 OF AT LEAST $5,000,000 FOR THE FUND.
+SENATE BILL 431 13
+1 (F) (1) SUBJECT TO THIS SUBSECTION, AN EMPLOYER OR A SPONSOR
+2 MAY APPLY FOR AND BE AWARDED AN INCENTIVE UNDER THE PROGRAM.
+3 (2) AN EMPLOYER OR A SPONSOR MAY APPLY FOR ONLY ONE GRANT
+4 FOR A NEWLY REGISTERED APPRENTICE WHO:
+5 (I) HAS BEEN EMPLOYED FOR AT LEAST 7 MONTHS; AND
+6 (II) IS WITHIN THE INITIAL YEAR OF EMPLOYMENT WITH THE
+7 APPLICANT.
+8 (3) AN EMPLOYER OR A SPONSOR MAY BE AWARDED ONLY ONE GRANT
+9 PER EACH NEWLY REGISTERED APPRENTICE PER YEAR.
+10 (4) AN EMPLOYER OR SPONSOR AWARDED A GRANT UNDER THE
+11 PROGRAM SHALL ATTEST TO ITS INTENT TO RETAIN THE APPRENTICE AFTER
+12 COMPLETION OF THE REGISTERED APPRENTICESHIP AND ITS DEVELOPMENT OF A
+13 PLAN TO ACHIEVE THE RETENTION OF THE APPRENTICE AN APPRENTICE THROUGH
+14 THE DURATION OF THE FULL APPRENTICESHIP AND AFTER COMPLETION OF THE
+15 APPRENTICESHIP, UNLESS AN APPRENTICE LEAVES ON THE APPRENTICE’S OWN
+16 ACCORD OR HAS BEEN DISMISSED FOR CAUSE.
+17 (5) IF AN INCENTIVE IS AWARDED TO AN EMPLOYER OR A SPONSOR
+18 ON BEHALF OF A NEWLY REGISTERED APPRENTICE, ANOTHER EMPLOYER OR
+19 SPONSOR MAY NOT APPLY FOR AN INCENTIVE UNDER THE PROGRAM FOR THE SAME
+20 NEWLY REGISTERED APPRENTICE.
+21 (G) THE DEPARTMENT MAY ADOPT REGULATIONS TO CARRY OUT THIS
+22 SECTION.
+23 Article – State Finance and Procurement
+24 6–226.
+25 (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024
+26 through 2028.
+27 2. Notwithstanding any other provision of law, and unless
+28 inconsistent with a federal law, grant agreement, or other federal requirement or with the
+29 terms of a gift or settlement agreement, net interest on all State money allocated by the
+30 State Treasurer under this section to special funds or accounts, and otherwise entitled to
+31 receive interest earnings, as accounted for by the Comptroller, shall accrue to the General
+32 Fund of the State.
+14 SENATE BILL 431
+1 (ii) The provisions of subparagraph (i) of this paragraph do not apply
+2 to the following funds:
+3 204. the Victims of Domestic Violence Program Grant Fund;
+4 [and]
+5 205. the Proposed Programs Collaborative Grant Fund; AND
+6 206. THE MARYLAND APPRENTICESHIP INCENTIVE PAY
+7 PER APPRENTICE PROGRAM FUND.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That § 11–405 of the Labor and
+9 Employment Article, as enacted by Section 1 of this Act, shall be construed to apply
+10 retroactively and shall be applied to and interpreted to affect only registered apprenticeship
+11 programs initially approved by the Maryland Apprenticeship and Training Council
+12 Maryland Department of Labor on or after January 1, 2023.
+13 SECTION 3. AND BE IT FURTHER ENACTED, That the terms of the initial
+14 members of the Registered Apprenticeship Development Advisory Board shall expire as
+15 follows:
+16 (1) two members neither of whom is the chair on September 30, 2027;
+17 (2) the chair on September 30, 2028; and
+18 (3) two members neither of whom is the chair on September 30, 2029.
+19 SECTION 3. 4. AND BE IT FURTHER ENACTED, That this Act shall take effect
+20 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5   C C H H J K M A R F t p o a t S B o P t w t l e o M A D w t M A a T P e t M A a T P e t M A I P P A P w t M D A e o t F r i t F e t R A p o t A r a g r t r a B  A  S  A  (]
+[DELETED:  S  B  A S  A  ( B  A  S  A  ( B  A  S  A  ( B  A  S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED: S 3    O S W T E R F      A B T I O O E AW L EG      )§1     A   ) I,“”,N T SN LE M A LE CN T  OP O C A R I I T    ) U,NW  E R F A L F A I W   I O E D EWDA AT P A R O H F T T     ) H T  A 1  ( T de  bo:][   ( a t   ( e t]
+[DELETED:  S    ( m r r t f a a o s n o    A M R O O J E T O AE C W P N TG A C O E A A    N A D F T M R R F A T A D B T E A N TC    F W D R F A   () m]( t   () m]( o t   () m r r t r o]( a t   () r t i o c o c o]( a t a w a r w t D o W D c   () s]( S   () p i r o p a d o t C]( D   () p o a f a t G o t]( S  ( ( O Jf ]D3E W D a A L s r t t G A i]
+[DELETED: S 5 a t :    ( t c a e r o e a p ad    ( t pm   ) :IT     I R I TAQIP; P U N R     G A P U B E  C E §1());     R A A N A P R F T EQIP U N RM     )VT N A V O T I A T A P N A E PAIPP      W O F E RM        .      .–TAS       .A     )IA C AN I RS  A A E P R  PPAP§1 .   ( Tl:    ( s t i r u p ( o t s]
+[DELETED:  S     () p t r r u p ( o t s 1  ( I t s “ m t Y A A C  ( T i a Y A A C i t D o W  ( T   ( t   ( t S S o S o t S S d   ( t   ( t   ( t A   ( t    ( t    ( o    ( o e w b h a n a p    ( o    ( o i w h a d d a s i l    ( o w    ( o    ( t d]
+[DELETED: S 7  ( T   ( e p r   ( r    ( w i    ( m g s   ( s t   ( O r i a w § 2 o t S G A t t G A r a r l t p h s y a.  )I,“O”MN T SN FE M T A F OAD P E  ) TMORH I A A F O E PMA W T A P A RDWD O T I O O E A D.  ) TH P O T F I T M A A T A S T T T S TESY’  ) TH O S I I T A B B A A P R RAT F..]
+[DELETED:  S  ) ( N   “D”DR M T I O T ATP. R RM   “P”RM M T E PIP. N RM   “Q IY M A E T   ) ,C SS ES O P P P W R A    )IC S T D RS    )IO E T S B A S RS ) TRAQH E P U NMAT A P R R  I O E D EWDAL  ) ( TP:H R   ) D;R IR   )II A O R A   )IC E A L O WS     )VP A P W A F O NS     I A P RM ]
+[DELETED: S 9   TD IL  EY T ORS O E OD T,G’WDBADAB P E D OD A TC,P OE  R    TS E M U G O PT AS  RP.    )()N    )“B”RD M T E PAB D O    )“O”ORE  F E P§19       )()TRAH I A E P EBD O E    )TB O F TE    )TBH O   )SM E AD S E    )HD O ES H O    ) M D B T R O TSDCA T      M R E E IS  OR G    )B OD  O    )AB  O]
+[DELETED:  S    )B OD     E T R F E U TSTR,S T R ES  T     )()T4H     ) O C O1,2    )    )A T E O T TM A M C T S    )    )TBH O   ) W T F R A D     )O FE    )D1,2 O B E  ER B I  FA,§27S SY     T O   ) ( N   “ER  T.    “F”MAD M T A P NPAPF E PER U  ]
+[DELETED: S 1    “P”MM M T A PPPAP A E PERM     “R AE M A E W   “R AP M A A T I R WH A A BY T I O,DAL. E D E   “S”,,R L N EN IYO E I W N O T T   ) TMAIPH I A A P N A EPDER E   ) TP:H R   – A WLTD P W T TESY ’;    E A S O CS IT N G ,S . ) TDP:H E R   ;   P F R I A AS   M A E P N R   M A O I T A ER     P F M A E OS CE A T C AN IS  R.]
+[DELETED:  S  ) ( TMAIPH A P N A EPFER U     T U RM.   TSF. E UD   () TFH UL     T I R R72SFPA.   ) TSTIH T R S H T UY  O UCF.   TF: U   ) M U);N   )IM C D T N W;S   ) F; II UDA   )VA U.   T U M B U O F P I T R A A E R T T.   () TSH T RS. T   ) AIN I E O T U S B U.   E F T U M B M O I T.   F272 E O F Y  T  TYI FA   U  0F]
+[DELETED: S 1 ) ( SU T T SN A E O A S R.      ) 7;H  S    )II   R    E O S A A G U T S A T I I T R T A A  P U A A L O T AES O     B O A N R AE A E O RE ) TH E M A R T C O T A 6  ( ( ( 1 T s d n a i f y 2 t     2 N i t S r F]
+[DELETED:  S     ( T t     2 t ad     2 td      MAI A P NEAAP PER U  .  S E A a e b S 1 o t A s b c t a r p i a b t M A a T C M  S 3 A B I F E T t t o t i m f   ( t   ( t   ( t  S O          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 431
+K3 5lr0367
+CF HB 501
+By: The President (By Request – Administration) and Senators Augustine, Brooks,
+Carozza, Charles, Gile, Henson, Hettleman, James, King, M. Washington,
+and West
+Introduced and read first time: January 20, 2025
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 25, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Registered Apprenticeship Investments for a Stronger Economy (RAISE) Act
+3 FOR the purpose of authorizing the State Board of Plumbing to waive the license
+4 examination requirement for a journey plumber license; authorizing the Secretary
+5 of Labor to waive the examination for certain licenses; altering the duties of the
+6 Maryland Apprenticeship and Training Council; repealing the Youth Apprenticeship
+7 Advisory Committee; establishing the Maryland Office of Registered Apprenticeship
+8 Development within the Maryland Apprenticeship and Training Program;
+9 establishing the Registered Apprenticeship Qualified Intermediary Program within
+10 the Maryland Apprenticeship and Training Program; establishing the Maryland
+11 Apprenticeship Incentive Pay Per Apprentice Program within the Maryland
+12 Department of Labor; establishing the Maryland Apprenticeship Incentive Pay Per
+13 Apprentice Program Fund as a special, nonlapsing fund; requiring that the interest
+14 earnings of the Fund remain in the Fund; establishing the Registered
+15 Apprenticeship Development Advisory Board in the Department; applying certain
+16 provisions of this Act retroactively; and generally relating to registered
+17 apprenticeships.
+18 BY adding to
+19 Article – Business Occupations and Professions
+20 Section 12–305.3
+21 Annotated Code of Maryland
+22 (2018 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0431*
+
+2 SENATE BILL 431
+1 BY adding to
+2 Article – Business Regulation
+3 Section 2–104.1
+4 Annotated Code of Maryland
+5 (2024 Replacement Volume)
+6 BY repealing and reenacting, with amendments,
+7 Article – Labor and Employment
+8 Section 11–405(a) and (d)
+9 Annotated Code of Maryland
+10 (2016 Replacement Volume and 2024 Supplement)
+11 BY repealing
+12 Article – Labor and Employment
+13 Section 11–409
+14 Annotated Code of Maryland
+15 (2016 Replacement Volume and 2024 Supplement)
+16 BY adding to
+17 Article – Labor and Employment
+18 Section 11–409, 11–410, 11–411, and 11–607
+19 Annotated Code of Maryland
+20 (2016 Replacement Volume and 2024 Supplement)
+21 BY repealing and reenacting, without amendments,
+22 Article – State Finance and Procurement
+23 Section 6–226(a)(2)(i)
+24 Annotated Code of Maryland
+25 (2021 Replacement Volume and 2024 Supplement)
+26 BY repealing and reenacting, with amendments,
+27 Article – State Finance and Procurement
+28 Section 6–226(a)(2)(ii)204. and 205.
+29 Annotated Code of Maryland
+30 (2021 Replacement Volume and 2024 Supplement)
+31 BY adding to
+32 Article – State Finance and Procurement
+33 Section 6–226(a)(2)(ii)206.
+34 Annotated Code of Maryland
+35 (2021 Replacement Volume and 2024 Supplement)
+36 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+37 That the Laws of Maryland read as follows:
+38 Article – Business Occupations and Professions
+
+SENATE BILL 431 3
+1 12–305.3.
+2 THE BOARD SHALL WAIVE THE EXAMINATION REQUIREMENTS FOR A
+3 JOURNEY PLUMBER LICENSE FOR AN INDIVIDUAL WHO:
+4 (1) HAS SUCCESSFULLY COMPLETED A PLUMBING APPRENTICESHIP
+5 PROGRAM APPROVED BY THE DIVISION OF WORKFORCE DEVELOPMENT AND
+6 ADULT LEARNING; AND
+7 (2) PAYS THE APPROPRIATE FEE REQUIRED UNDER § 12–306 OF THIS
+8 SUBTITLE.
+9 Article – Business Regulation
+10 2–104.1.
+11 (A) IN THIS SECTION, “LICENSE” MEANS A LICENSE, CERTIFICATE,
+12 REGISTRATION, PERMIT, OR OTHER CREDENTIAL THAT IS ISSUED BY A UNIT OF THE
+13 DIVISION OF OCCUPATIONAL AND PROFESSIONAL LICENSING IN THE
+14 DEPARTMENT.
+15 (B) UNLESS REQUIRED BY FEDERAL LAW, THE SECRETARY MAY WAIVE THE
+16 EXAMINATION REQUIREMENT FOR A LICENSE FOR AN INDIVIDUAL WHO
+17 SUCCESSFULLY COMPLETES A REGISTERED APPRENTICESHIP PROGRAM APPROVED
+18 BY THE DIVISION OF WORKFORCE DEVELOPMENT AND ADULT LEARNING IF THE
+19 MARYLAND APPRENTICESHIP AND TRAINING COUNCIL HAS FOUND THAT THE
+20 APPROVED REGISTERED APPRENTICESHIP PROGRAM MEETS INDUSTRY STANDARDS
+21 AND LICENSURE REQUIREMENTS.
+22 (C) THIS SECTION MAY NOT BE CONSTRUED TO ELIMINATE EDUCATION OR
+23 EXPERIENCE REQUIREMENTS ESTABLISHED UNDER STATE LAW FOR LICENSURE.
+24 Article – Labor and Employment
+25 11–405.
+26 (a) The [duties of the] Council shall [be to]:
+27 (1) advise the Division of Workforce Development and Adult Learning on
+28 the apprenticeability of occupations in the State of Maryland;
+29 (2) encourage the establishment of local apprenticeship committees where
+30 the committees are needed;
+
+4 SENATE BILL 431
+1 (3) make recommendations regarding the formulation and adoption of
+2 standards of apprenticeship which safeguard the welfare of apprentices, being guided, but
+3 not controlled, by the standards of apprenticeship recommended by the federal committee
+4 on apprenticeship;
+5 (4) REQUIRE A MINIMUM RATIO OF ONE JOURNEYWORKER
+6 REGULARLY EMPLOYED TO ONE APPRENTICE, CONSISTENT WITH PROPER
+7 SUPERVISION, TRAINING, AND CONTINUITY OF EMPLOYMENT AND APPLICABLE
+8 PROVISIONS IN COLLECTIVE BARGAINING AGREEMENTS;
+9 (5) AUTHORIZE AT THE TIME OF OR SUBSEQUENT TO REGISTRATION,
+10 RECOMMEND A DEVIATION FROM THE MINIMUM RATIO REQUIREMENT FOR ALL
+11 OCCUPATIONS THAT ARE DEFINED BY THE SECRETARY AS NONHAZARDOUS TO
+12 WORKERS AND MEMBERS OF THE PUBLIC;
+13 (6) CONSIDER FORMAL WRITTEN DEVIATION REQUESTS FROM ALL
+14 OTHER OCCUPATIONS;
+15 [(4)] (7) make recommendations regarding the formulation of policies for
+16 the overall apprenticeship program;
+17 [(5)] (8) make recommendations regarding the registration of standards
+18 of apprenticeship of the groups or employers that elect to conform with the provisions of
+19 this subtitle;
+20 [(6)] (9) make recommendations regarding the registration of
+21 apprenticeship agreements which conform to the standards of apprenticeship adopted by
+22 the Division of Workforce Development and Adult Learning;
+23 [(7)] (10) recommend the issuance of certificates of completion of
+24 apprenticeship to apprentices who are registered with the Division of Workforce
+25 Development and Adult Learning when the Division determines that such apprentices have
+26 completed successfully their apprenticeship;
+27 [(8)] (11) seek all information pertaining to apprenticeship training in the
+28 State;
+29 [(9)] (12) prescribe its rules of procedure and duties of the Chairman,
+30 Director, and Secretary subject to the provisions of this law; and
+31 [(10)] (13) perform other advisory functions as the Governor or the
+32 Secretary may direct or as may come within the scope of the Council.
+33 (d) (1) On or before [June 30 of] DECEMBER 31 each year, the Division of
+34 Workforce Development and Adult Learning shall report to the General Assembly, in
+
+SENATE BILL 431 5
+1 accordance with § 2–1257 of the State Government Article, the following information for
+2 the immediately preceding calendar year 5 CALENDAR YEARS:
+3 (i) the completion and enrollment rates of each apprenticeship
+4 program registered in the State; [and]
+5 (ii) the age, race, sex or gender identity, county of residence, and
+6 program enrollment of each individual enrolled in a registered apprenticeship program;
+7 (III) THE NUMBER OF:
+8 1. QUALIFIED INTERMEDIARIES REGISTERED IN THE
+9 REGISTERED APPRENTICESHIP QUALIFIED INTERMEDIARY PROGRAM;
+10 2. APPROVED GRANTS AND PROCUREMENTS USED BY
+11 THE SECRETARY UNDER § 11–410(C)(3) OF THIS SUBTITLE; AND
+12 3. NEWLY REGISTERED APPRENTICES AND NEWLY
+13 REGISTERED APPRENTICESHIP PROGRAMS RESULTING FROM THE REGISTERED
+14 APPRENTICESHIP QUALIFIED INTERMEDIARY PROGRAM; AND
+15 (IV) THE NUMBER AND VALUE OF THE INCENTIVES AWARDED
+16 UNDER THE MARYLAND APPRENTICESHIP INCENTIVE PAY PER APPRENTICE
+17 PROGRAM;
+18 (V) WORKER OUTCOMES FOR EACH REGISTERED
+19 APPRENTICESHIP PROGRAM, INCLUDING:
+20 1. JOB PLACEMENT;
+21 2. POST–APPRENTICESHIP WAGE RATES; AND
+22 3. RETENTION AND ADVANCEMENT DATA; AND
+23 (VI) ANY CORRECTIVE ACTION, INCLUDING REQUIRING
+24 REIMBURSEMENT OF INCENTIVES, FOR FAILURE TO MEET THE REQUIREMENTS OF
+25 THE MARYLAND PAY PER APPRENTICE PROGRAM ESTABLISHED UNDER § 11–607
+26 OF THIS TITLE.
+27 (2) The Division of Workforce Development and Adult Learning shall[:
+28 (i) sort the information required under paragraph (1) of this
+29 subsection by apprenticeship program; and
+
+6 SENATE BILL 431
+1 (ii)] publish the report required under paragraph (1) of this
+2 subsection on the Division of Workforce Development and Adult Learning’s Web site.
+3 [11–409.
+4 (a) In this section, “Committee” means the Youth Apprenticeship Advisory
+5 Committee.
+6 (b) There is a Youth Apprenticeship Advisory Committee in the Division of
+7 Workforce Development and Adult Learning.
+8 (c) The Committee consists of the following members:
+9 (1) the Secretary, or the Secretary’s designee;
+10 (2) the State Superintendent of Schools, or the State Superintendent’s
+11 designee;
+12 (3) the Secretary of Commerce, or the Secretary’s designee;
+13 (4) the Secretary of Juvenile Services, or the Secretary’s designee;
+14 (5) the Assistant Secretary of the Division of Workforce Development and
+15 Adult Learning, or the Assistant Secretary’s designee; and
+16 (6) the following members, appointed by the Governor:
+17 (i) two representatives of the Council;
+18 (ii) one representative of an employee organization;
+19 (iii) one employer whose business has a nonjoint apprenticeship
+20 program;
+21 (iv) one representative from a community college;
+22 (v) one individual who holds a doctoral degree and specializes in
+23 labor economics with expertise in national and international apprenticeship systems;
+24 (vi) one representative of a nonprofit organization who is involved
+25 with employee training and workforce development;
+26 (vii) one representative of the Maryland Chamber of Commerce; and
+27 (viii) two representatives from regional business councils that serve
+28 different regions of the State.
+
+SENATE BILL 431 7
+1 (d) The Committee shall:
+2 (1) evaluate the effectiveness of existing high school youth apprenticeship
+3 programs in the State, other states, and other countries based on a systematic review of
+4 relevant data;
+5 (2) review and identify:
+6 (i) ways to implement high school youth apprenticeship programs
+7 in the State; and
+8 (ii) means through which employers and organizations can obtain
+9 grants, tax credits, and other subsidies to support establishment and operation of high
+10 school youth apprenticeship programs; and
+11 (3) set targets for the number of apprenticeship opportunities for youth
+12 that the State should reach over the next 3 years.
+13 (e) On or before December 1 of each year, the Committee shall submit a
+14 report, in accordance with § 2–1257 of the State Government Article, to the General
+15 Assembly regarding any recommended legislation to promote high school youth
+16 apprenticeship programs in the State.]
+17 11–409.
+18 (A) IN THIS SECTION, “OFFICE” MEANS THE MARYLAND OFFICE OF
+19 REGISTERED APPRENTICESHIP DEVELOPMENT.
+20 (B) THERE IS A MARYLAND OFFICE OF REGISTERED APPRENTICESHIP
+21 DEVELOPMENT WITHIN THE MARYLAND APPRENTICESHIP AND TRAINING
+22 PROGRAM OF THE DIVISION OF WORKFORCE DEVELOPMENT AND ADULT
+23 LEARNING.
+24 (C) THE PURPOSE OF THE OFFICE IS TO MARKET AND ADVANCE THE
+25 REGISTERED APPRENTICESHIP SYSTEM THROUGHOUT THE STATE SCALE
+26 REGISTERED APPRENTICESHIPS ACROSS INDUSTRIES AND OCCUPATIONS TO MEET
+27 THE NEEDS OF THE STATE’S ECONOMY.
+28 (D) THE GOVERNOR SHALL INCLUDE IN THE ANNUAL BUDGET BILL AN
+29 APPROPRIATION TO THE MARYLAND APPRENTICESHIP AND TRAINING PROGRAM
+30 TO COVER ADMINISTRATIVE COSTS FOR THE OFFICE.
+31 11–410.
+
+8 SENATE BILL 431
+1 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (2) “DIRECTOR” MEANS THE DIRECTOR OF THE MARYLAND
+4 APPRENTICESHIP AND TRAINING PROGRAM.
+5 (3) “PROGRAM” MEANS THE REGISTERED APPRENTICESHIP
+6 QUALIFIED INTERMEDIARY PROGRAM.
+7 (4) “QUALIFIED INTERMEDIARY” MEANS AN ENTITY THAT
+8 DEMONSTRATES EXPERTISE IN:
+9 (I) CONNECTING SPONSORS, EMPLOYERS, OR POTENTIAL
+10 APPRENTICESHIP PROGRAM PARTICIPANTS WITH REGISTERED APPRENTICESHIP
+11 PROGRAMS;
+12 (II) CONVENING STAKEHOLDERS TO DEVELOP REGISTERED
+13 APPRENTICESHIP PROGRAMS; OR
+14 (III) OTHER KEY FUNCTIONS AS DETERMINED APPROPRIATE BY
+15 THE DEPARTMENT TO SUCCESSFULLY BUILD AND SCALE REGISTERED
+16 APPRENTICESHIP PROGRAMS THAT ACHIEVE DESIRED WORKFORCE OUTCOMES.
+17 (B) THERE IS A REGISTERED APPRENTICESHIP QUALIFIED INTERMEDIARY
+18 PROGRAM WITHIN THE MARYLAND APPRENTICESHIP AND TRAINING PROGRAM OF
+19 THE DIVISION OF WORKFORCE DEVELOPMENT AND ADULT LEARNING.
+20 (C) (1) THE PROGRAM SHALL:
+21 (I) REPORT TO THE DIRECTOR;
+22 (II) INCREASE AWARENESS OF REGISTERED APPRENTICESHIP
+23 PROGRAMS THROUGH INDUSTRY OUTREACH;
+24 (III) CONNECT EMPLOYERS AND LABOR ORGANIZATIONS WITH
+25 WORKFORCE AND EDUCATION PARTNERS; AND
+26 (IV) PROVIDE TECHNICAL ASSISTANCE TO LAUNCH AND EXPAND
+27 REGISTERED APPRENTICESHIP PROGRAMS WITH A FOCUS ON NONTRADITIONAL
+28 SECTORS; AND
+29 (V) INCLUDE A PROCESS FOR MONITORING AND EVALUATING
+30 THE PROGRAM.
+
+SENATE BILL 431 9
+1 (2) THE DIRECTOR SHALL, IN COLLABORATION CONSULTATION WITH
+2 THE SECRETARY, THE GOVERNOR’S WORKFORCE DEVELOPMENT BOARD, THE
+3 REGISTERED APPRENTICESHIP DEVELOPMENT ADVISORY BOARD, AND THE
+4 DEPARTMENT OF COMMERCE, DEVELOP THE PROGRAM.
+5 (3) THE SECRETARY MAY USE GRANTS OR PROCUREMENT, AMONG
+6 OTHER STRATEGIES, TO ADVANCE AND ACCOMPLISH THE GOALS OF THE PROGRAM.
+7 11–411.
+8 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+9 INDICATED.
+10 (2) “BOARD” MEANS THE REGISTERED APPRENTICESHIP
+11 DEVELOPMENT ADVISORY BOARD.
+12 (3) “OFFICE” MEANS THE OFFICE OF REGISTERED APPRENTICESHIP
+13 DEVELOPMENT ESTABLISHED UNDER § 11–409 OF THIS SUBTITLE.
+14 (B) (1) THERE IS A REGISTERED APPRENTICESHIP DEVELOPMENT
+15 ADVISORY BOARD IN THE DEPARTMENT.
+16 (2) THE PURPOSE OF THE BOARD IS TO ADVISE THE OFFICE ON THE
+17 STRATEGY TO ACHIEVE ITS MISSION OF EXPANDING REGISTERED APPRENTICESHIP
+18 OPPORTUNITIES IN THE STATE.
+19 (C) THE BOARD SHALL CONSIST OF:
+20 (1) ONE MEMBER OF THE SENATE OF MARYLAND, APPOINTED BY THE
+21 PRESIDENT OF THE SENATE;
+22 (2) ONE MEMBER OF THE HOUSE OF DELEGATES, APPOINTED BY THE
+23 SPEAKER OF THE HOUSE;
+24 (3) TWO MEMBERS DESIGNATED BY THE PRESIDENT OF THE
+25 MARYLAND STATE AND DC AFL–CIO;
+26 (4) TWO MEMBERS REPRESENTING EMPLOYERS ENGAGED IN
+27 REGISTERED APPRENTICESHIPS, APPOINTED BY THE GOVERNOR; AND
+28 (5) ONE MEMBER TO SERVE AS CHAIR OF THE BOARD, APPOINTED BY
+29 THE GOVERNOR.
+30 (D) A MEMBER OF THE BOARD:
+
+10 SENATE BILL 431
+1 (1) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE BOARD;
+2 BUT
+3 (2) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES UNDER THE
+4 STANDARD STATE TRAVEL REGULATIONS, AS PROVIDED IN THE STATE BUDGET.
+5 (E) (1) THE TERM OF A MEMBER IS 4 YEARS.
+6 (2) THE TERMS OF MEMBERS ARE STAGGERED AS REQUIRED BY THE
+7 TERMS PROVIDED FOR MEMBERS OF THE BOARD ON OCTOBER 1, 2025.
+8 (3) A VACANCY SHALL BE FILLED FOR AN UNEXPIRED TERM IN THE
+9 SAME MANNER AS THE ORIGINAL APPOINTMENT.
+10 (4) AT THE END OF THE TERM, A MEMBER CONTINUES TO SERVE
+11 UNTIL A SUCCESSOR IS APPOINTED AND QUALIFIES.
+12 (5) A MEMBER WHO IS APPOINTED AFTER A TERM HAS BEGUN SERVES
+13 ONLY FOR THE REST OF THE TERM AND UNTIL A SUCCESSOR IS APPOINTED AND
+14 QUALIFIES.
+15 (F) THE BOARD SHALL:
+16 (1) CONSULT WITH THE OFFICE REGULARLY ABOUT DEVELOPING
+17 STRATEGY AND REVIEWING OUTCOMES FOR APPRENTICESHIPS;
+18 (2) PROVIDE ADVICE ON PROGRAMS OPERATED BY THE OFFICE; AND
+19 (3) ON OR BEFORE DECEMBER 1 EACH YEAR, BEGINNING IN 2025,
+20 EVALUATE THE OFFICE AND REPORT THE RESULTS OF THE EVALUATION TO THE
+21 GENERAL ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+22 ARTICLE.
+23 11–607.
+24 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+25 INDICATED.
+26 (2) “EMPLOYER” MEANS AN INDIVIDUAL OR ORGANIZATION LOCATED
+27 OR OPERATING IN THE STATE THAT EMPLOYS A REGISTERED APPRENTICE.
+28 (3) “FUND” MEANS THE MARYLAND APPRENTICESHIP INCENTIVE
+29 PAY PER APPRENTICE PROGRAM FUND.
+
+SENATE BILL 431 11
+1 (4) “PROGRAM” MEANS THE MARYLAND APPRENTICESHIP
+2 INCENTIVE PAY PER APPRENTICE PROGRAM.
+3 (5) “REGISTERED APPRENTICE” MEANS AN EMPLOYEE WHO
+4 PARTICIPATES IN A REGISTERED APPRENTICESHIP PROGRAM.
+5 (6) “REGISTERED APPRENTICESHIP” MEANS AN APPRENTICESHIP
+6 PROGRAM THAT IS REGISTERED WITH, AND APPROVED BY, THE DIVISION OF
+7 WORKFORCE DEVELOPMENT AND ADULT LEARNING.
+8 (7) “SPONSOR” MEANS AN INDIVIDUAL, ASSOCIATION, COMMITTEE,
+9 ORGANIZATION, INTERMEDIARY, OR EMPLOYER IN WHOSE NAME OR TITLE THE
+10 REGISTERED APPRENTICESHIP PROGRAM IS OR IS TO BE REGISTERED.
+11 (B) THERE IS A MARYLAND APPRENTICESHIP INCENTIVE PAY PER
+12 APPRENTICE PROGRAM IN THE DEPARTMENT.
+13 (C) THE PURPOSES OF THE PROGRAM ARE TO:
+14 (1) DEVELOP A WELL–TRAINED, PRODUCTIVE WORKFORCE THAT
+15 MEETS THE NEEDS OF THE STATE’S ECONOMY; AND
+16 (2) HELP EMPLOYERS AND SPONSORS OFFSET COSTS, INCLUDING
+17 RECRUITMENT, EDUCATION, TRAINING, AND ACCOMMODATIONS FOR DISABILITIES
+18 OR MATERIALS, ASSOCIATED WITH HIRING NEWLY REGISTERED APPRENTICES.
+19 (D) THE DEPARTMENT SHALL ADMINISTER THE PROGRAM AND ESTABLISH:
+20 (1) REQUIREMENTS FOR INCENTIVE APPLICATIONS;
+21 (2) A PROCESS FOR REVIEWING INCENTIVE APPLICATIONS AND
+22 AWARDING INCENTIVES TO ELIGIBLE EMPLOYERS OR SPONSORS;
+23 (3) THE MAXIMUM AWARD ELIGIBILITY PER NEWLY REGISTERED
+24 APPRENTICE SUBJECT TO FUND AVAILABILITY;
+25 (4) THE MAXIMUM AMOUNT OF INCENTIVES THAT AN ELIGIBLE
+26 EMPLOYER OR SPONSOR MAY RECEIVE EACH YEAR; AND
+27 (5) A PROCESS FOR MONITORING AND EVALUATING OUTCOMES,
+28 ASSESSING COMPLIANCE, AND TAKING CORRECTIVE ACTION, INCLUDING
+29 REQUIRING REIMBURSEMENT OF INCENTIVES, SHOULD AN EMPLOYER OR SPONSOR
+30 FAIL TO MEET THE REQUIREMENTS OF THE PROGRAM.
+
+12 SENATE BILL 431
+1 (E) (1) THERE IS A MARYLAND APPRENTICESHIP INCENTIVE PAY PER
+2 APPRENTICE PROGRAM FUND.
+3 (2) THE PURPOSE OF THE FUND IS TO PROVIDE INCENTIVES UNDER
+4 THE PROGRAM.
+5 (3) THE SECRETARY SHALL ADMINISTER THE FUND.
+6 (4) (I) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+7 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+8 (II) THE STATE TREASURER SHALL HOLD THE FUND
+9 SEPARATELY, AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+10 (5) THE FUND CONSISTS OF:
+11 (I) MONEY APPROPRIATED TO THE FUND UNDER PARAGRAPH
+12 (9) OF THIS SUBSECTION;
+13 (II) MONEY COLLECTED DUE TO NONCOMPLIANCE WITH
+14 PROGRAM REQUIREMENTS;
+15 (III) INTEREST EARNINGS OF THE FUND; AND
+16 (IV) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED
+17 FOR THE BENEFIT OF THE FUND.
+18 (6) THE FUND MAY BE USED ONLY FOR PROVIDING INCENTIVES
+19 UNDER THE PROGRAM AND ADMINISTRATIVE EXPENSES RELATED TO THE
+20 PROGRAM.
+21 (7) (I) THE STATE TREASURER SHALL INVEST THE MONEY OF THE
+22 FUND IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+23 (II) ANY INTEREST EARNINGS OF THE FUND SHALL BE
+24 CREDITED TO THE FUND.
+25 (8) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN
+26 ACCORDANCE WITH THE STATE BUDGET.
+27 (9) FOR EACH OF FISCAL YEARS 2027 THROUGH 2030, THE
+28 GOVERNOR SHALL MAY INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION
+29 OF AT LEAST $5,000,000 FOR THE FUND.
+
+SENATE BILL 431 13
+1 (F) (1) SUBJECT TO THIS SUBSECTION, AN EMPLOYER OR A SPONSOR
+2 MAY APPLY FOR AND BE AWARDED AN INCENTIVE UNDER THE PROGRAM.
+3 (2) AN EMPLOYER OR A SPONSOR MAY APPLY FOR ONLY ONE GRANT
+4 FOR A NEWLY REGISTERED APPRENTICE WHO:
+5 (I) HAS BEEN EMPLOYED FOR AT LEAST 7 MONTHS; AND
+6 (II) IS WITHIN THE INITIAL YEAR OF EMPLOYMENT WITH THE
+7 APPLICANT.
+8 (3) AN EMPLOYER OR A SPONSOR MAY BE AWARDED ONLY ONE GRANT
+9 PER EACH NEWLY REGISTERED APPRENTICE PER YEAR.
+10 (4) AN EMPLOYER OR SPONSOR AWARDED A GRANT UNDER THE
+11 PROGRAM SHALL ATTEST TO ITS INTENT TO RETAIN THE APPRENTICE AFTER
+12 COMPLETION OF THE REGISTERED APPRENTICESHIP AND ITS DEVELOPMENT OF A
+13 PLAN TO ACHIEVE THE RETENTION OF THE APPRENTICE AN APPRENTICE THROUGH
+14 THE DURATION OF THE FULL APPRENTICESHIP AND AFTER COMPLETION OF THE
+15 APPRENTICESHIP, UNLESS AN APPRENTICE LEAVES ON THE APPRENTICE’S OWN
+16 ACCORD OR HAS BEEN DISMISSED FOR CAUSE.
+17 (5) IF AN INCENTIVE IS AWARDED TO AN EMPLOYER OR A SPONSOR
+18 ON BEHALF OF A NEWLY REGISTERED APPRENTICE, ANOTHER EMPLOYER OR
+19 SPONSOR MAY NOT APPLY FOR AN INCENTIVE UNDER THE PROGRAM FOR THE SAME
+20 NEWLY REGISTERED APPRENTICE.
+21 (G) THE DEPARTMENT MAY ADOPT REGULATIONS TO CARRY OUT THIS
+22 SECTION.
+23 Article – State Finance and Procurement
+24 6–226.
+25 (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024
+26 through 2028.
+27 2. Notwithstanding any other provision of law, and unless
+28 inconsistent with a federal law, grant agreement, or other federal requirement or with the
+29 terms of a gift or settlement agreement, net interest on all State money allocated by the
+30 State Treasurer under this section to special funds or accounts, and otherwise entitled to
+31 receive interest earnings, as accounted for by the Comptroller, shall accrue to the General
+32 Fund of the State.
+
+14 SENATE BILL 431
+1 (ii) The provisions of subparagraph (i) of this paragraph do not apply
+2 to the following funds:
+3 204. the Victims of Domestic Violence Program Grant Fund;
+4 [and]
+5 205. the Proposed Programs Collaborative Grant Fund; AND
+6 206. THE MARYLAND APPRENTICESHIP INCENTIVE PAY
+7 PER APPRENTICE PROGRAM FUND.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That § 11–405 of the Labor and
+9 Employment Article, as enacted by Section 1 of this Act, shall be construed to apply
+10 retroactively and shall be applied to and interpreted to affect only registered apprenticeship
+11 programs initially approved by the Maryland Apprenticeship and Training Council
+12 Maryland Department of Labor on or after January 1, 2023.
+13 SECTION 3. AND BE IT FURTHER ENACTED, That the terms of the initial
+14 members of the Registered Apprenticeship Development Advisory Board shall expire as
+15 follows:
+16 (1) two members neither of whom is the chair on September 30, 2027;
+17 (2) the chair on September 30, 2028; and
+18 (3) two members neither of whom is the chair on September 30, 2029.
+19 SECTION 3. 4. AND BE IT FURTHER ENACTED, That this Act shall take effect
+20 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5   C C H H J K M A R F t p o a t S B o P t w t l e o M A D w t M A a T P e t M A a T P e t M A I P P A P w t M D A e o t F r i t F e t R A p o t A r a g r t r a B  A  S  A  (]
+[DELETED:  S  B  A S  A  ( B  A  S  A  ( B  A  S  A  ( B  A  S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED: S 3    O S W T E R F      A B T I O O E AW L EG      )§1     A   ) I,“”,N T SN LE M A LE CN T  OP O C A R I I T    ) U,NW  E R F A L F A I W   I O E D EWDA AT P A R O H F T T     ) H T  A 1  ( T de  bo:][   ( a t   ( e t]
+[DELETED:  S    ( m r r t f a a o s n o    A M R O O J E T O AE C W P N TG A C O E A A    N A D F T M R R F A T A D B T E A N TC    F W D R F A   () m]( t   () m]( o t   () m r r t r o]( a t   () r t i o c o c o]( a t a w a r w t D o W D c   () s]( S   () p i r o p a d o t C]( D   () p o a f a t G o t]( S  ( ( O Jf ]D3E W D a A L s r t t G A i]
+[DELETED: S 5 a t :    ( t c a e r o e a p ad    ( t pm   ) :IT     I R I TAQIP; P U N R     G A P U B E  C E §1());     R A A N A P R F T EQIP U N RM     )VT N A V O T I A T A P N A E PAIPP      W O F E RM        .      .–TAS       .A     )IA C AN I RS  A A E P R  PPAP§1 .   ( Tl:    ( s t i r u p ( o t s]
+[DELETED:  S     () p t r r u p ( o t s 1  ( I t s “ m t Y A A C  ( T i a Y A A C i t D o W  ( T   ( t   ( t S S o S o t S S d   ( t   ( t   ( t A   ( t    ( t    ( o    ( o e w b h a n a p    ( o    ( o i w h a d d a s i l    ( o w    ( o    ( t d]
+[DELETED: S 7  ( T   ( e p r   ( r    ( w i    ( m g s   ( s t   ( O r i a w § 2 o t S G A t t G A r a r l t p h s y a.  )I,“O”MN T SN FE M T A F OAD P E  ) TMORH I A A F O E PMA W T A P A RDWD O T I O O E A D.  ) TH P O T F I T M A A T A S T T T S TESY’  ) TH O S I I T A B B A A P R RAT F..]
+[DELETED:  S  ) ( N   “D”DR M T I O T ATP. R RM   “P”RM M T E PIP. N RM   “Q IY M A E T   ) ,C SS ES O P P P W R A    )IC S T D RS    )IO E T S B A S RS ) TRAQH E P U NMAT A P R R  I O E D EWDAL  ) ( TP:H R   ) D;R IR   )II A O R A   )IC E A L O WS     )VP A P W A F O NS     I A P RM ]
+[DELETED: S 9   TD IL  EY T ORS O E OD T,G’WDBADAB P E D OD A TC,P OE  R    TS E M U G O PT AS  RP.    )()N    )“B”RD M T E PAB D O    )“O”ORE  F E P§19       )()TRAH I A E P EBD O E    )TB O F TE    )TBH O   )SM E AD S E    )HD O ES H O    ) M D B T R O TSDCA T      M R E E IS  OR G    )B OD  O    )AB  O]
+[DELETED:  S    )B OD     E T R F E U TSTR,S T R ES  T     )()T4H     ) O C O1,2    )    )A T E O T TM A M C T S    )    )TBH O   ) W T F R A D     )O FE    )D1,2 O B E  ER B I  FA,§27S SY     T O   ) ( N   “ER  T.    “F”MAD M T A P NPAPF E PER U  ]
+[DELETED: S 1    “P”MM M T A PPPAP A E PERM     “R AE M A E W   “R AP M A A T I R WH A A BY T I O,DAL. E D E   “S”,,R L N EN IYO E I W N O T T   ) TMAIPH I A A P N A EPDER E   ) TP:H R   – A WLTD P W T TESY ’;    E A S O CS IT N G ,S . ) TDP:H E R   ;   P F R I A AS   M A E P N R   M A O I T A ER     P F M A E OS CE A T C AN IS  R.]
+[DELETED:  S  ) ( TMAIPH A P N A EPFER U     T U RM.   TSF. E UD   () TFH UL     T I R R72SFPA.   ) TSTIH T R S H T UY  O UCF.   TF: U   ) M U);N   )IM C D T N W;S   ) F; II UDA   )VA U.   T U M B U O F P I T R A A E R T T.   () TSH T RS. T   ) AIN I E O T U S B U.   E F T U M B M O I T.   F272 E O F Y  T  TYI FA   U  0F]
+[DELETED: S 1 ) ( SU T T SN A E O A S R.      ) 7;H  S    )II   R    E O S A A G U T S A T I I T R T A A  P U A A L O T AES O     B O A N R AE A E O RE ) TH E M A R T C O T A 6  ( ( ( 1 T s d n a i f y 2 t     2 N i t S r F]
+[DELETED:  S     ( T t     2 t ad     2 td      MAI A P NEAAP PER U  .  S E A a e b S 1 o t A s b c t a r p i a b t M A a T C M  S 3 A B I F E T t t o t i m f   ( t   ( t   ( t  S O          G               ]

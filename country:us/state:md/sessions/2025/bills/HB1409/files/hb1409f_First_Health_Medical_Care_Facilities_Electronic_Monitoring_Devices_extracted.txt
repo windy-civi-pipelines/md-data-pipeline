@@ -1,0 +1,402 @@
+Title: HOUSE BILL 1409
+Official Title: HOUSE BILL 1409
+Number of Sections: 1
+Source: versions - First - Health - Medical Care Facilities - Electronic Monitoring Devices
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+J3, E4 5lr2448
+By: Delegates Woorman and McComas
+Introduced and read first time: February 7, 2025
+Assigned to: Health and Government Operations and Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Health – Medical Care Facilities – Electronic Monitoring Devices
+3 FOR the purpose of providing for an exception to the prohibition against willfully
+4 intercepting wire or electronic communication for a resident in a medical care facility
+5 under certain circumstances; requiring a medical care facility to allow electronic
+6 monitoring of a resident under certain circumstances; providing for the admissibility
+7 of a recording made through electronic monitoring in a civil or criminal court of the
+8 State; and generally relating to electronic monitoring devices in medical care
+9 facilities.
+10 BY repealing and reenacting, with amendments,
+11 Article – Courts and Judicial Proceedings
+12 Section 10–402(a)
+13 Annotated Code of Maryland
+14 (2020 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Courts and Judicial Proceedings
+17 Section 10–402(c)(12)
+18 Annotated Code of Maryland
+19 (2020 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – Health – General
+22 Section 19–343
+23 Annotated Code of Maryland
+24 (2023 Replacement Volume and 2024 Supplement)
+25 BY adding to
+26 Article – Health – General
+27 Section 19–343.1
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1409*
+2 HOUSE BILL 1409
+1 Annotated Code of Maryland
+2 (2023 Replacement Volume and 2024 Supplement)
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – Courts and Judicial Proceedings
+6 10–402.
+7 (a) Except as otherwise specifically provided in this subtitle, it is unlawful for any
+8 person to:
+9 (1) Willfully intercept, endeavor to intercept, or procure any other person
+10 to intercept or endeavor to intercept, any wire, oral, or electronic communication;
+11 (2) Willfully disclose, or endeavor to disclose, to any other person the
+12 contents of any wire, oral, or electronic communication, knowing or having reason to know
+13 that the information was obtained through the interception of a wire, oral, or electronic
+14 communication in violation of this subtitle; or
+15 (3) Willfully use, or endeavor to use, the contents of any wire, oral, or
+16 electronic communication, knowing or having reason to know that the information was
+17 obtained through the interception of a wire, oral, or electronic communication in violation
+18 of this subtitle.
+19 (c) (12) (I) IN THIS PARAGRAPH, “MEDICAL CARE FACILITY” MEANS:
+20 1. A FACILITY AS DEFINED IN § 19–343 OF THE
+21 HEALTH – GENERAL ARTICLE; OR
+22 2. AN ALZHEIMER’S SPECIAL CARE UNIT OR PROGRAM
+23 AS DEFINED IN § 20–109 OF THE HEALTH – GENERAL ARTICLE.
+24 (II) IT IS LAWFUL UNDER THIS SUBTITLE FOR A PERSON TO
+25 INTERCEPT A WIRE, ORAL, OR ELECTRONIC COMMUNICATION IN A MEDICAL CARE
+26 FACILITY IF THE PERSON:
+27 1. IS A RESIDENT OF THE MEDICAL CARE FACILITY OR
+28 THE LEGAL REPRESENTATIVE OF A RESIDENT;
+29 2. CONDUCTS THE ELECTRONIC MONITORING ONLY IN
+30 THE RESIDENT’S ROOM IN THE MEDICAL CARE FACILITY;
+HOUSE BILL 1409 3
+1 3. RECEIVED PERMISSION FROM ALL ROOMMATES OF
+2 THE RESIDENT, IF APPLICABLE; AND
+3 4. POSTS A NOTICE ON THE DOOR OF THE RESIDENT’S
+4 ROOM STATING THAT THE ROOM IS BEING MONITORED BY AN ELECTRONIC
+5 MONITORING DEVICE.
+6 Article – Health – General
+7 19–343.
+8 (a) In this section and §§ 19–344, 19–345, 19–345.1, 19–345.2, and 19–345.3 of
+9 this subtitle, “facility” means a related institution that, under the rules and regulations of
+10 the Department, is a comprehensive care facility or an extended care facility.
+11 (b) (1) The General Assembly intends to promote the interests and well–being
+12 of each resident of a facility.
+13 (2) It is the policy of this State that, in addition to any other rights, each
+14 resident of a facility has the following basic rights:
+15 (i) The right to be treated with consideration, respect, and full
+16 recognition of human dignity and individuality;
+17 (ii) The right to receive treatment, care, and services that are
+18 adequate, appropriate, and in compliance with relevant State and federal laws, rules, and
+19 regulations;
+20 (iii) The right to privacy;
+21 (iv) The right to be free from mental and physical abuse;
+22 (v) The right to notice, procedural fairness, and humane treatment
+23 when being transferred or discharged from a facility;
+24 (vi) The right to participate in decision making regarding transitions
+25 in care, including a transfer or discharge from a facility;
+26 (vii) The right to expect and receive appropriate assessment,
+27 management, and treatment of pain as an integral component of the patient’s care;
+28 (viii) The right to be free from physical and chemical restraints, except
+29 for restraints that a physician authorizes for a clearly indicated medical need;
+30 (ix) The right to receive respect and privacy in a medical care
+31 program; and
+4 HOUSE BILL 1409
+1 (x) The right to manage personal financial affairs.
+2 (c) Each facility shall:
+3 (1) Post, conspicuously in a public place, the policy set forth in subsection
+4 (b) of this section and the provisions in §§ 19–344(b) through (m), 19–345, and 19–346(i)(2)
+5 of this subtitle;
+6 (2) Give a copy of the policy and those provisions:
+7 (i) On admission, to the resident;
+8 (ii) To the guardian, next of kin, or sponsoring agency of the resident;
+9 and
+10 (iii) To a representative payee of the resident;
+11 (3) Keep a receipt for the copy that is signed by the person who received
+12 the copy; [and]
+13 (4) Provide appropriate staff training to carry out the policy and those
+14 provisions; AND
+15 (5) ENSURE THAT A NOTICE OF THE PRESENCE OF AN ELECTRONIC
+16 MONITORING DEVICE IS POSTED IN ACCORDANCE WITH § 10–402(C)(12) OF THE
+17 COURTS ARTICLE.
+18 19–343.1.
+19 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+20 INDICATED.
+21 (2) (I) “ELECTRONIC MONITORING DEVICE” MEANS:
+22 1. A VIDEO SURVEILLANCE CAMERA; OR
+23 2. A MICROPHONE OR OTHER DEVICE THAT CAPTURES
+24 AUDIO.
+25 (II) “ELECTRONIC MONITORING DEVICE” DOES NOT INCLUDE:
+26 1. A DEVICE THAT IS SPECIFICALLY INTENDED TO
+27 CAPTURE WIRE, ELECTRONIC, OR ORAL COMMUNICATION WITHOUT NOTICE TO OR
+28 THE CONSENT OF A PARTY TO THE COMMUNICATIONS; OR
+HOUSE BILL 1409 5
+1 2. A DEVICE THAT IS CONNECTED TO THE INTERNET OR
+2 THAT IS DESIGNED TO TRANSMIT DATA VIA AN ELECTRONIC COMMUNICATION.
+3 (3) “LEGAL REPRESENTATIVE” MEANS AN INDIVIDUAL WHO IS
+4 LEGALLY AUTHORIZED TO MAKE HEALTH CARE DECISIONS ON BEHALF OF ANOTHER
+5 INDIVIDUAL.
+6 (4) “MEDICAL CARE FACILITY” MEANS:
+7 (I) A FACILITY AS DEFINED IN § 19–343 OF THIS ARTICLE; OR
+8 (II) AN ALZHEIMER’S SPECIAL CARE UNIT OR PROGRAM AS
+9 DEFINED IN § 20–109 OF THIS ARTICLE.
+10 (B) (1) A MEDICAL CARE FACILITY SHALL ALLOW A RESIDENT OR THE
+11 LEGAL REPRESENTATIVE OF A RESIDENT TO MONITOR THE RESIDENT THROUGH
+12 THE USE OF AN ELECTRONIC MONITORING DEVICE.
+13 (2) A MEDICAL CARE FACILITY SHALL REQUIRE A RESIDENT OR THE
+14 LEGAL REPRESENTATIVE OF A RESIDENT WHO ENGAGES IN ELECTRONIC
+15 MONITORING TO POST A NOTICE ON THE DOOR OF THE RESIDENT’S ROOM THAT
+16 STATES THAT THE ROOM IS BEING MONITORED BY AN ELECTRONIC MONITORING
+17 DEVICE.
+18 (3) BEFORE ALLOWING A RESIDENT OR A LEGAL REPRESENTATIVE
+19 OF A RESIDENT TO BEGIN ELECTRONIC MONITORING, A MEDICAL CARE FACILITY
+20 SHALL REQUIRE THE RESIDENT OR THE LEGAL REPRESENTATIVE OF THE RESIDENT
+21 WHO WISHES TO ENGAGE IN ELECTRONIC MONITORING TO OBTAIN THE WRITTEN
+22 CONSENT FROM ALL OTHER RESIDENTS WHO SHARE THE ROOM OR THE LEGAL
+23 REPRESENTATIVE OF THE OTHER RESIDENTS.
+24 (4) ELECTRONIC MONITORING CONDUCTED UNDER THIS SECTION
+25 SHALL:
+26 (I) BE NONCOMPULSORY AND AT THE ELECTION OF THE
+27 RESIDENT OR LEGAL REPRESENTATIVE OF THE RESIDENT;
+28 (II) BE FUNDED BY THE RESIDENT OR LEGAL REPRESENTATIVE
+29 OF THE RESIDENT; AND
+30 (III) PROTECT THE PRIVACY RIGHTS OF OTHER RESIDENTS AND
+31 VISITORS TO THE MEDICAL CARE FACILITY TO THE EXTENT REASONABLY POSSIBLE.
+6 HOUSE BILL 1409
+1 (5) A MEDICAL CARE FACILITY MAY NOT REFUSE TO ADMIT AN
+2 INDIVIDUAL TO RESIDENCY IN THE MEDICAL CARE FACILITY OR REMOVE A
+3 RESIDENT FROM THE MEDICAL CARE FACILITY BECAUSE OF A REQUEST FOR
+4 ELECTRONIC MONITORING.
+5 (6) A MEDICAL CARE FACILITY SHALL MAKE REASONABLE PHYSICAL
+6 ACCOMMODATION FOR ELECTRONIC MONITORING, BY PROVIDING:
+7 (I) A REASONABLY SECURE PLACE TO MOUNT AN ELECTRONIC
+8 MONITORING DEVICE; AND
+9 (II) ACCESS TO A POWER SOURCE FOR AN ELECTRONIC
+10 MONITORING DEVICE.
+11 (7) A MEDICAL CARE FACILITY SHALL INFORM A RESIDENT OR THE
+12 LEGAL REPRESENTATIVE OF THE RESIDENT OF THE RESIDENT’S RIGHT TO ENGAGE
+13 IN ELECTRONIC MONITORING.
+14 (8) A MEDICAL CARE FACILITY MAY REQUEST A RESIDENT OR THE
+15 LEGAL REPRESENTATIVE OF A RESIDENT TO CONDUCT ELECTRONIC MONITORING
+16 WITHIN PLAIN VIEW.
+17 (C) AN ADMINISTRATOR OF THE MEDICAL CARE FACILITY MAY REQUIRE
+18 THAT A RESIDENT OR THE LEGAL REPRESENTATIVE OF A RESIDENT WHO WISHES TO
+19 INSTALL AN ELECTRONIC MONITORING DEVICE MAKE THE REQUEST IN WRITING.
+20 (D) SUBJECT TO THE MARYLAND RULES OF EVIDENCE, A RECORDING
+21 CREATED THROUGH THE USE OF ELECTRONIC MONITORING ENGAGED IN UNDER
+22 THIS SECTION SHALL BE ADMISSIBLE IN EITHER A CIVIL OR CRIMINAL ACTION
+23 BROUGHT IN A MARYLAND COURT.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025.
+[DELETED: :CA      5     A H F t p o p f a e t t p a w i u r m m o S a g r t e m d i m c f B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S]
+[DELETED:  H   A  (  S T A 1  ( Ee  p   ( W t   ( W d o e t d t a o p t c t c   ( W u o e t u t c o a w o o e o o  ( () I,“”:NH MY    1 A§13F A D I   O T–GA;  E RE    2 AA LRS    E  E R29H–GA   () IT I L U T S F A P TE L    1    2 TSY;]
+[DELETED: H 3   3  P F A R OT E ;   4 PTS S T T R I B M B A E A 1  ( I t t  ( ( T o   ( I r    ( T r t b t w c r a f r    ( T r t r t c a s t a a r    ( T    ( T    ( T w    ( T i    ( T r t e a r a a m    ( T f    ( T r t r r a p i a m c p]
+[DELETED:  H     ( T  ( E   ( P ( o   ( G    ( O    ( T a    ( T   ( K t a]   ( P a s t t c o t p a t p (  D I P I A W  C O T1() R .() ( N ( () “E”:LE    1 A;A    2   () “E”:ILE    1 D T I S I TE C S ]
+[DELETED: H 5   2 A N ( “L RE M A I W I ( “M”:Y   () A§13;    E   () AAIN LRS S C U O P A   29.() (  M C F S A A R O T O A R M T R T (  R O A R W E I E A N O D O RTS T ( G  F A O R W S T R O T L (  M C U T S  () E N A A T E O T  () IET   () IR]
+[DELETED:  H  ( M C F M N R T A A T R I T M C F O R A F T M C F B O A R F ( G :  ()  E   () IC T A P S F A E ( TS ( M M() N A O T M C F M R() SMREU T T A U O VE A R U O E S S B A I E A C O C A A.  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1409
+J3, E4 5lr2448
+By: Delegates Woorman and McComas
+Introduced and read first time: February 7, 2025
+Assigned to: Health and Government Operations and Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Health – Medical Care Facilities – Electronic Monitoring Devices
+3 FOR the purpose of providing for an exception to the prohibition against willfully
+4 intercepting wire or electronic communication for a resident in a medical care facility
+5 under certain circumstances; requiring a medical care facility to allow electronic
+6 monitoring of a resident under certain circumstances; providing for the admissibility
+7 of a recording made through electronic monitoring in a civil or criminal court of the
+8 State; and generally relating to electronic monitoring devices in medical care
+9 facilities.
+10 BY repealing and reenacting, with amendments,
+11 Article – Courts and Judicial Proceedings
+12 Section 10–402(a)
+13 Annotated Code of Maryland
+14 (2020 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Courts and Judicial Proceedings
+17 Section 10–402(c)(12)
+18 Annotated Code of Maryland
+19 (2020 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – Health – General
+22 Section 19–343
+23 Annotated Code of Maryland
+24 (2023 Replacement Volume and 2024 Supplement)
+25 BY adding to
+26 Article – Health – General
+27 Section 19–343.1
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1409*
+
+2 HOUSE BILL 1409
+1 Annotated Code of Maryland
+2 (2023 Replacement Volume and 2024 Supplement)
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – Courts and Judicial Proceedings
+6 10–402.
+7 (a) Except as otherwise specifically provided in this subtitle, it is unlawful for any
+8 person to:
+9 (1) Willfully intercept, endeavor to intercept, or procure any other person
+10 to intercept or endeavor to intercept, any wire, oral, or electronic communication;
+11 (2) Willfully disclose, or endeavor to disclose, to any other person the
+12 contents of any wire, oral, or electronic communication, knowing or having reason to know
+13 that the information was obtained through the interception of a wire, oral, or electronic
+14 communication in violation of this subtitle; or
+15 (3) Willfully use, or endeavor to use, the contents of any wire, oral, or
+16 electronic communication, knowing or having reason to know that the information was
+17 obtained through the interception of a wire, oral, or electronic communication in violation
+18 of this subtitle.
+19 (c) (12) (I) IN THIS PARAGRAPH, “MEDICAL CARE FACILITY” MEANS:
+20 1. A FACILITY AS DEFINED IN § 19–343 OF THE
+21 HEALTH – GENERAL ARTICLE; OR
+22 2. AN ALZHEIMER’S SPECIAL CARE UNIT OR PROGRAM
+23 AS DEFINED IN § 20–109 OF THE HEALTH – GENERAL ARTICLE.
+24 (II) IT IS LAWFUL UNDER THIS SUBTITLE FOR A PERSON TO
+25 INTERCEPT A WIRE, ORAL, OR ELECTRONIC COMMUNICATION IN A MEDICAL CARE
+26 FACILITY IF THE PERSON:
+27 1. IS A RESIDENT OF THE MEDICAL CARE FACILITY OR
+28 THE LEGAL REPRESENTATIVE OF A RESIDENT;
+29 2. CONDUCTS THE ELECTRONIC MONITORING ONLY IN
+30 THE RESIDENT’S ROOM IN THE MEDICAL CARE FACILITY;
+
+HOUSE BILL 1409 3
+1 3. RECEIVED PERMISSION FROM ALL ROOMMATES OF
+2 THE RESIDENT, IF APPLICABLE; AND
+3 4. POSTS A NOTICE ON THE DOOR OF THE RESIDENT’S
+4 ROOM STATING THAT THE ROOM IS BEING MONITORED BY AN ELECTRONIC
+5 MONITORING DEVICE.
+6 Article – Health – General
+7 19–343.
+8 (a) In this section and §§ 19–344, 19–345, 19–345.1, 19–345.2, and 19–345.3 of
+9 this subtitle, “facility” means a related institution that, under the rules and regulations of
+10 the Department, is a comprehensive care facility or an extended care facility.
+11 (b) (1) The General Assembly intends to promote the interests and well–being
+12 of each resident of a facility.
+13 (2) It is the policy of this State that, in addition to any other rights, each
+14 resident of a facility has the following basic rights:
+15 (i) The right to be treated with consideration, respect, and full
+16 recognition of human dignity and individuality;
+17 (ii) The right to receive treatment, care, and services that are
+18 adequate, appropriate, and in compliance with relevant State and federal laws, rules, and
+19 regulations;
+20 (iii) The right to privacy;
+21 (iv) The right to be free from mental and physical abuse;
+22 (v) The right to notice, procedural fairness, and humane treatment
+23 when being transferred or discharged from a facility;
+24 (vi) The right to participate in decision making regarding transitions
+25 in care, including a transfer or discharge from a facility;
+26 (vii) The right to expect and receive appropriate assessment,
+27 management, and treatment of pain as an integral component of the patient’s care;
+28 (viii) The right to be free from physical and chemical restraints, except
+29 for restraints that a physician authorizes for a clearly indicated medical need;
+30 (ix) The right to receive respect and privacy in a medical care
+31 program; and
+
+4 HOUSE BILL 1409
+1 (x) The right to manage personal financial affairs.
+2 (c) Each facility shall:
+3 (1) Post, conspicuously in a public place, the policy set forth in subsection
+4 (b) of this section and the provisions in §§ 19–344(b) through (m), 19–345, and 19–346(i)(2)
+5 of this subtitle;
+6 (2) Give a copy of the policy and those provisions:
+7 (i) On admission, to the resident;
+8 (ii) To the guardian, next of kin, or sponsoring agency of the resident;
+9 and
+10 (iii) To a representative payee of the resident;
+11 (3) Keep a receipt for the copy that is signed by the person who received
+12 the copy; [and]
+13 (4) Provide appropriate staff training to carry out the policy and those
+14 provisions; AND
+15 (5) ENSURE THAT A NOTICE OF THE PRESENCE OF AN ELECTRONIC
+16 MONITORING DEVICE IS POSTED IN ACCORDANCE WITH § 10–402(C)(12) OF THE
+17 COURTS ARTICLE.
+18 19–343.1.
+19 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+20 INDICATED.
+21 (2) (I) “ELECTRONIC MONITORING DEVICE” MEANS:
+22 1. A VIDEO SURVEILLANCE CAMERA; OR
+23 2. A MICROPHONE OR OTHER DEVICE THAT CAPTURES
+24 AUDIO.
+25 (II) “ELECTRONIC MONITORING DEVICE” DOES NOT INCLUDE:
+26 1. A DEVICE THAT IS SPECIFICALLY INTENDED TO
+27 CAPTURE WIRE, ELECTRONIC, OR ORAL COMMUNICATION WITHOUT NOTICE TO OR
+28 THE CONSENT OF A PARTY TO THE COMMUNICATIONS; OR
+
+HOUSE BILL 1409 5
+1 2. A DEVICE THAT IS CONNECTED TO THE INTERNET OR
+2 THAT IS DESIGNED TO TRANSMIT DATA VIA AN ELECTRONIC COMMUNICATION.
+3 (3) “LEGAL REPRESENTATIVE” MEANS AN INDIVIDUAL WHO IS
+4 LEGALLY AUTHORIZED TO MAKE HEALTH CARE DECISIONS ON BEHALF OF ANOTHER
+5 INDIVIDUAL.
+6 (4) “MEDICAL CARE FACILITY” MEANS:
+7 (I) A FACILITY AS DEFINED IN § 19–343 OF THIS ARTICLE; OR
+8 (II) AN ALZHEIMER’S SPECIAL CARE UNIT OR PROGRAM AS
+9 DEFINED IN § 20–109 OF THIS ARTICLE.
+10 (B) (1) A MEDICAL CARE FACILITY SHALL ALLOW A RESIDENT OR THE
+11 LEGAL REPRESENTATIVE OF A RESIDENT TO MONITOR THE RESIDENT THROUGH
+12 THE USE OF AN ELECTRONIC MONITORING DEVICE.
+13 (2) A MEDICAL CARE FACILITY SHALL REQUIRE A RESIDENT OR THE
+14 LEGAL REPRESENTATIVE OF A RESIDENT WHO ENGAGES IN ELECTRONIC
+15 MONITORING TO POST A NOTICE ON THE DOOR OF THE RESIDENT’S ROOM THAT
+16 STATES THAT THE ROOM IS BEING MONITORED BY AN ELECTRONIC MONITORING
+17 DEVICE.
+18 (3) BEFORE ALLOWING A RESIDENT OR A LEGAL REPRESENTATIVE
+19 OF A RESIDENT TO BEGIN ELECTRONIC MONITORING, A MEDICAL CARE FACILITY
+20 SHALL REQUIRE THE RESIDENT OR THE LEGAL REPRESENTATIVE OF THE RESIDENT
+21 WHO WISHES TO ENGAGE IN ELECTRONIC MONITORING TO OBTAIN THE WRITTEN
+22 CONSENT FROM ALL OTHER RESIDENTS WHO SHARE THE ROOM OR THE LEGAL
+23 REPRESENTATIVE OF THE OTHER RESIDENTS.
+24 (4) ELECTRONIC MONITORING CONDUCTED UNDER THIS SECTION
+25 SHALL:
+26 (I) BE NONCOMPULSORY AND AT THE ELECTION OF THE
+27 RESIDENT OR LEGAL REPRESENTATIVE OF THE RESIDENT;
+28 (II) BE FUNDED BY THE RESIDENT OR LEGAL REPRESENTATIVE
+29 OF THE RESIDENT; AND
+30 (III) PROTECT THE PRIVACY RIGHTS OF OTHER RESIDENTS AND
+31 VISITORS TO THE MEDICAL CARE FACILITY TO THE EXTENT REASONABLY POSSIBLE.
+
+6 HOUSE BILL 1409
+1 (5) A MEDICAL CARE FACILITY MAY NOT REFUSE TO ADMIT AN
+2 INDIVIDUAL TO RESIDENCY IN THE MEDICAL CARE FACILITY OR REMOVE A
+3 RESIDENT FROM THE MEDICAL CARE FACILITY BECAUSE OF A REQUEST FOR
+4 ELECTRONIC MONITORING.
+5 (6) A MEDICAL CARE FACILITY SHALL MAKE REASONABLE PHYSICAL
+6 ACCOMMODATION FOR ELECTRONIC MONITORING, BY PROVIDING:
+7 (I) A REASONABLY SECURE PLACE TO MOUNT AN ELECTRONIC
+8 MONITORING DEVICE; AND
+9 (II) ACCESS TO A POWER SOURCE FOR AN ELECTRONIC
+10 MONITORING DEVICE.
+11 (7) A MEDICAL CARE FACILITY SHALL INFORM A RESIDENT OR THE
+12 LEGAL REPRESENTATIVE OF THE RESIDENT OF THE RESIDENT’S RIGHT TO ENGAGE
+13 IN ELECTRONIC MONITORING.
+14 (8) A MEDICAL CARE FACILITY MAY REQUEST A RESIDENT OR THE
+15 LEGAL REPRESENTATIVE OF A RESIDENT TO CONDUCT ELECTRONIC MONITORING
+16 WITHIN PLAIN VIEW.
+17 (C) AN ADMINISTRATOR OF THE MEDICAL CARE FACILITY MAY REQUIRE
+18 THAT A RESIDENT OR THE LEGAL REPRESENTATIVE OF A RESIDENT WHO WISHES TO
+19 INSTALL AN ELECTRONIC MONITORING DEVICE MAKE THE REQUEST IN WRITING.
+20 (D) SUBJECT TO THE MARYLAND RULES OF EVIDENCE, A RECORDING
+21 CREATED THROUGH THE USE OF ELECTRONIC MONITORING ENGAGED IN UNDER
+22 THIS SECTION SHALL BE ADMISSIBLE IN EITHER A CIVIL OR CRIMINAL ACTION
+23 BROUGHT IN A MARYLAND COURT.
+24 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+25 October 1, 2025.
+
+[DELETED: :CA      5     A H F t p o p f a e t t p a w i u r m m o S a g r t e m d i m c f B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A S]
+[DELETED:  H   A  (  S T A 1  ( Ee  p   ( W t   ( W d o e t d t a o p t c t c   ( W u o e t u t c o a w o o e o o  ( () I,“”:NH MY    1 A§13F A D I   O T–GA;  E RE    2 AA LRS    E  E R29H–GA   () IT I L U T S F A P TE L    1    2 TSY;]
+[DELETED: H 3   3  P F A R OT E ;   4 PTS S T T R I B M B A E A 1  ( I t t  ( ( T o   ( I r    ( T r t b t w c r a f r    ( T r t r t c a s t a a r    ( T    ( T    ( T w    ( T i    ( T r t e a r a a m    ( T f    ( T r t r r a p i a m c p]
+[DELETED:  H     ( T  ( E   ( P ( o   ( G    ( O    ( T a    ( T   ( K t a]   ( P a s t t c o t p a t p (  D I P I A W  C O T1() R .() ( N ( () “E”:LE    1 A;A    2   () “E”:ILE    1 D T I S I TE C S ]
+[DELETED: H 5   2 A N ( “L RE M A I W I ( “M”:Y   () A§13;    E   () AAIN LRS S C U O P A   29.() (  M C F S A A R O T O A R M T R T (  R O A R W E I E A N O D O RTS T ( G  F A O R W S T R O T L (  M C U T S  () E N A A T E O T  () IET   () IR]
+[DELETED:  H  ( M C F M N R T A A T R I T M C F O R A F T M C F B O A R F ( G :  ()  E   () IC T A P S F A E ( TS ( M M() N A O T M C F M R() SMREU T T A U O VE A R U O E S S B A I E A C O C A A.  S A B I F E T t A s t e O]

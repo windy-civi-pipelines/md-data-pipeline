@@ -1,0 +1,331 @@
+Title: Criminal Procedure - Petition to Reduce Sentence (Maryland
+Official Title: Criminal Procedure - Petition to Reduce Sentence (Maryland
+Number of Sections: 3
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 Session
+SB0291
+Second Look Act)
+Bill Summary
+This bill allows an individual to file a petition to reduce a sentence or sentences if the individual
+has served at least 20 years of the term of confinement and at least 3 years have passed since the
+court decided any previous petition filed by the individual under the bill. After consideration of
+specified factors and a hearing, the court may reduce the petitioner’s sentence or sentences if it
+finds that the individual is not a danger to the public and the interests of justice will be better served
+by a reduced sentence or sentences. There is a rebuttable presumption that a petitioner is not a
+danger to the public if the petitioner is at least age 60 and has been confined for 30 years or more.
+The bill establishes additional procedural requirements.
+Racial Equity Impact Statement
+The bill establishes a process to petition a circuit court for a sentence reduction for incarcerated
+individuals serving at least a 20-year term of confinement as well as other incarcerated individuals
+for whom a State’s Attorney has initiated a petition on their behalf. The provisions of the bill
+directly affect a relatively small portion of the incarcerated population (less than 1%) but could
+impact additional individuals that do not meet the eligibility provisions of the bill. Specific impacts
+would depend on the extent to which eligible individuals or State’s Attorneys file petitions under
+the bill. Historical data on sentence reduction activity by the courts and demographic data on those
+eligible based on time served would assist in estimating the bill’s impacts but that data is not
+readily available. However, the State’s disproportionately high incarceration rate for Black
+individuals suggests that the bill could potentially impact these individuals to the greatest extent.
+SB 291/ Page 1
+Analysis
+This bill allows for an incarcerated individual to petition the court for a reduction of their sentence
+or sentences if that individual has served at least 20 years of their term of confinement and at least
+3 years have passed since the court decided any previous petition filed by the individual under the
+bill. There is a three-petition limit per sentence. The bill also allows a State’s Attorney to file a
+motion for the reduction of a sentence on behalf of an incarcerated individual who is ineligible to
+file a petition under the bill.
+The court must hold a hearing on the petition or motion and consider a number of factors when
+determining whether to reduce a sentence. There is a rebuttable presumption that a petitioner is
+not a danger to the public if the petitioner is at least age 60 and has been confined for 30 years or
+more.
+Current law allows a variety of options for a person convicted of a crime to have their sentence
+reviewed but most opportunities, except for instances of an illegal sentence, fraud, mistake, or
+other irregularity, expire after a specified time period has elapsed.
+Chapter 61 of 2021, which is similar to the bill, provides an opportunity for an individual convicted
+as an adult for an offense committed when the individual was a minor to file a motion with the
+court to reduce the duration of the individual’s sentence. Among other provisions, Chapter 61
+authorizes an individual who was convicted as an adult for an offense committed when the
+individual was a minor to file a motion with the court to reduce the duration of the individual’s
+sentence if the individual (1) was sentenced for the offense before October 1, 2021, and (2) has
+been imprisoned for at least 20 years for the offense.
+Nationally, several states have proposed and/or passed so-called “second look” bills or similar
+legislation which have statutorily granted states or district attorneys, or some other named
+representative of the state, the authority to file a motion in the courts to consider post-conviction
+resentencing. The procedural provisions of those statutes are similar to those contained in the bill.
+A State’s Attorney petitioning the court on behalf of a convicted individual may argue that the
+individual has been rehabilitated or that outside factors not present or not considered at the time of
+sentencing merit a reconsideration of the individual’s sentence. Some of those outside factors have
+been detailed by the Office of the Public Defender and the Maryland State Bar Association, which
+include cases (1) where there may have been disproportionate or unequal sentences based on
+external factors unrelated to the case in question, such as the race of the defendant or the victim;
+(2) when an incarcerated person has made significant rehabilitative progress and would no longer
+pose a risk to public safety; or (3) when there have been significant changes in the way specific
+crimes are enforced, as is the case for many drug offenses.
+Impacts of the Bill
+Due to existing racial disparities in the criminal justice system, this bill would offer another avenue
+to address past practices that may have created or perpetuated existing racial disparities. The
+Department of Public Safety and Correctional Services’ Division of Correction reports that out of
+the 17,586 incarcerated individuals in Maryland as of January 1, 2025, Black individuals comprise
+approximately 12,675, or 72%, of that total (see Exhibit 1). This data shows that Black individuals
+SB 291/ Page 2
+are more than twice as likely to be incarcerated i n Maryland compared to their proportion of the
+State’s population (29%) and are more than five times as likely to be incarcerated compared to
+white individuals.
+Exhibit 1
+DOC Incarcerated Population Demographics
+January 2025
+80%
+
+Section 2:
+72.1%
+70%
+60%
+50%
+40%
+30%
+
+Section 3:
+21.7%
+20%
+10% 5.4%
+0%
+1
+Black White Hispanic
+DOC: Division of Correction
+Source: Department of Public Safety and Correctional Services
+The Department of Public Safety and Correctional Services advises that as of January 2025, there
+were 1,738 sentenced individuals who have served 20 or more years of their sentence. Of this
+group, 1,303 are serving life sentences and 331 are serving life sentences without the possibility
+of parole. This number does not include the number of incarcerated individuals that have served
+less than 20 years that may receive sentence reductions based on a State’s Attorney referral.
+Conclusion
+The bill’s provisions will give more convicted individuals access to the possibility of sentence
+reduction by a court. It is unclear to what extent petitions initiated by State’s Attorneys will impact
+SB 291/ Page 3
+that population of convicted individuals that a re not otherwise eligible for a post-conviction
+sentence review. This referral activity could increase the overall number of individuals with
+sentence reductions under the bill. There is no historical data readily available that indicate the
+demographics of those individuals that have received post-conviction sentence reductions under
+existing law. There is also no data available to determine the racial and ethnic makeup of those
+eligible due to time served. This data could give some insight into the magnitude of the impact on
+various racial and ethnic groups if the bill were to be enacted. While the overall extent of the bill’s
+impact will depend on the number of prisoners that successfully have their sentences reduced, it is
+reasonable to expect that the Black inmates would experience the most significant impact given
+their overrepresentation in the State’s incarcerated population.
+Information Sources: American Civil Liberties Union; Office of the Public Defender; Maryland
+State Bar Association; Department of Public Safety and Correctional Services; Department of
+Legislative Services
+Analysis by: Rafael Regales
+Published: 02/12/2025
+SB 291/ Page 4
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+SB 291/ Page 5
+[DELETED:  a H t S d h i r f B]
+[DELETED:  a i w w c a a a f a o c w t w h s g s o d a o s o n]
+[DELETED: kWeH]
+[DELETED:  p o c i t a n o e f a p r T r a c i t o n o i w ]
+[DELETED:  i w t 5 o t S p A t c i g I E a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]
+
+
+================================================================================
+
+Raw Text:
+2025 Session
+SB0291
+Criminal Procedure - Petition to Reduce Sentence (Maryland
+Second Look Act)
+Bill Summary
+This bill allows an individual to file a petition to reduce a sentence or sentences if the individual
+has served at least 20 years of the term of confinement and at least 3 years have passed since the
+court decided any previous petition filed by the individual under the bill. After consideration of
+specified factors and a hearing, the court may reduce the petitioner’s sentence or sentences if it
+finds that the individual is not a danger to the public and the interests of justice will be better served
+by a reduced sentence or sentences. There is a rebuttable presumption that a petitioner is not a
+danger to the public if the petitioner is at least age 60 and has been confined for 30 years or more.
+The bill establishes additional procedural requirements.
+Racial Equity Impact Statement
+The bill establishes a process to petition a circuit court for a sentence reduction for incarcerated
+individuals serving at least a 20-year term of confinement as well as other incarcerated individuals
+for whom a State’s Attorney has initiated a petition on their behalf. The provisions of the bill
+directly affect a relatively small portion of the incarcerated population (less than 1%) but could
+impact additional individuals that do not meet the eligibility provisions of the bill. Specific impacts
+would depend on the extent to which eligible individuals or State’s Attorneys file petitions under
+the bill. Historical data on sentence reduction activity by the courts and demographic data on those
+eligible based on time served would assist in estimating the bill’s impacts but that data is not
+readily available. However, the State’s disproportionately high incarceration rate for Black
+individuals suggests that the bill could potentially impact these individuals to the greatest extent.
+SB 291/ Page 1
+
+Analysis
+This bill allows for an incarcerated individual to petition the court for a reduction of their sentence
+or sentences if that individual has served at least 20 years of their term of confinement and at least
+3 years have passed since the court decided any previous petition filed by the individual under the
+bill. There is a three-petition limit per sentence. The bill also allows a State’s Attorney to file a
+motion for the reduction of a sentence on behalf of an incarcerated individual who is ineligible to
+file a petition under the bill.
+The court must hold a hearing on the petition or motion and consider a number of factors when
+determining whether to reduce a sentence. There is a rebuttable presumption that a petitioner is
+not a danger to the public if the petitioner is at least age 60 and has been confined for 30 years or
+more.
+Current law allows a variety of options for a person convicted of a crime to have their sentence
+reviewed but most opportunities, except for instances of an illegal sentence, fraud, mistake, or
+other irregularity, expire after a specified time period has elapsed.
+Chapter 61 of 2021, which is similar to the bill, provides an opportunity for an individual convicted
+as an adult for an offense committed when the individual was a minor to file a motion with the
+court to reduce the duration of the individual’s sentence. Among other provisions, Chapter 61
+authorizes an individual who was convicted as an adult for an offense committed when the
+individual was a minor to file a motion with the court to reduce the duration of the individual’s
+sentence if the individual (1) was sentenced for the offense before October 1, 2021, and (2) has
+been imprisoned for at least 20 years for the offense.
+Nationally, several states have proposed and/or passed so-called “second look” bills or similar
+legislation which have statutorily granted states or district attorneys, or some other named
+representative of the state, the authority to file a motion in the courts to consider post-conviction
+resentencing. The procedural provisions of those statutes are similar to those contained in the bill.
+A State’s Attorney petitioning the court on behalf of a convicted individual may argue that the
+individual has been rehabilitated or that outside factors not present or not considered at the time of
+sentencing merit a reconsideration of the individual’s sentence. Some of those outside factors have
+been detailed by the Office of the Public Defender and the Maryland State Bar Association, which
+include cases (1) where there may have been disproportionate or unequal sentences based on
+external factors unrelated to the case in question, such as the race of the defendant or the victim;
+(2) when an incarcerated person has made significant rehabilitative progress and would no longer
+pose a risk to public safety; or (3) when there have been significant changes in the way specific
+crimes are enforced, as is the case for many drug offenses.
+Impacts of the Bill
+Due to existing racial disparities in the criminal justice system, this bill would offer another avenue
+to address past practices that may have created or perpetuated existing racial disparities. The
+Department of Public Safety and Correctional Services’ Division of Correction reports that out of
+the 17,586 incarcerated individuals in Maryland as of January 1, 2025, Black individuals comprise
+approximately 12,675, or 72%, of that total (see Exhibit 1). This data shows that Black individuals
+SB 291/ Page 2
+
+are more than twice as likely to be incarcerated i n Maryland compared to their proportion of the
+State’s population (29%) and are more than five times as likely to be incarcerated compared to
+white individuals.
+Exhibit 1
+DOC Incarcerated Population Demographics
+January 2025
+80%
+72.1%
+70%
+60%
+50%
+40%
+30%
+21.7%
+20%
+10% 5.4%
+0%
+1
+Black White Hispanic
+DOC: Division of Correction
+Source: Department of Public Safety and Correctional Services
+The Department of Public Safety and Correctional Services advises that as of January 2025, there
+were 1,738 sentenced individuals who have served 20 or more years of their sentence. Of this
+group, 1,303 are serving life sentences and 331 are serving life sentences without the possibility
+of parole. This number does not include the number of incarcerated individuals that have served
+less than 20 years that may receive sentence reductions based on a State’s Attorney referral.
+Conclusion
+The bill’s provisions will give more convicted individuals access to the possibility of sentence
+reduction by a court. It is unclear to what extent petitions initiated by State’s Attorneys will impact
+SB 291/ Page 3
+
+that population of convicted individuals that a re not otherwise eligible for a post-conviction
+sentence review. This referral activity could increase the overall number of individuals with
+sentence reductions under the bill. There is no historical data readily available that indicate the
+demographics of those individuals that have received post-conviction sentence reductions under
+existing law. There is also no data available to determine the racial and ethnic makeup of those
+eligible due to time served. This data could give some insight into the magnitude of the impact on
+various racial and ethnic groups if the bill were to be enacted. While the overall extent of the bill’s
+impact will depend on the number of prisoners that successfully have their sentences reduced, it is
+reasonable to expect that the Black inmates would experience the most significant impact given
+their overrepresentation in the State’s incarcerated population.
+Information Sources: American Civil Liberties Union; Office of the Public Defender; Maryland
+State Bar Association; Department of Public Safety and Correctional Services; Department of
+Legislative Services
+Analysis by: Rafael Regales
+Published: 02/12/2025
+SB 291/ Page 4
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+SB 291/ Page 5
+
+[DELETED:  a H t S d h i r f B]
+[DELETED:  a i w w c a a a f a o c w t w h s g s o d a o s o n]
+[DELETED: kWeH]
+[DELETED:  p o c i t a n o e f a p r T r a c i t o n o i w ]
+[DELETED:  i w t 5 o t S p A t c i g I E a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]

@@ -1,0 +1,670 @@
+Title: SENATE BILL 696
+Official Title: SENATE BILL 696
+Number of Sections: 1
+Source: versions - Third - Public Health - Pediatric Hospital Overstay Patients and Workgroup on Children in Unlicensed Settings and Pediatric Overstays
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+J1, J3 5lr2222
+CF HB 962
+By: Senator Beidle
+Introduced and read first time: January 26, 2025
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted with floor amendments
+Read second time: March 18, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Public Health – Pediatric Hospital Overstay Patients and Workgroup on
+3 Children in Unlicensed Settings and Pediatric Overstays
+4 FOR the purpose of specifying that the scope of the Maryland Mental Health and Substance
+5 Use Disorder Registry and Referral System includes both private and State inpatient
+6 and outpatient mental health and substance use services; requiring the Maryland
+7 Department of Health, in coordination with and the Department of Human Services,
+8 under certain circumstances, to ensure pediatric hospital overstay patients are
+9 placed in the least restrictive setting when clinically indicated and when possible;
+10 authorizing a hospital to concurrently explore in–State and out–of–state placements
+11 for pediatric hospital overstay patients; establishing the requiring the Maryland
+12 Department of Health and the Department of Human Services to establish a
+13 Pediatric Hospital Overstay Coordinator within the Governor’s Office for Children;
+14 requiring the Maryland Department of Health to conduct a certain study and review
+15 of residential treatment center and respite facility rates; each department;
+16 establishing the Workgroup on Children in Unlicensed Settings and Pediatric
+17 Overstays in the State; and generally relating to pediatric hospital overstay patients
+18 and children in unlicensed settings.
+19 BY repealing and reenacting, with amendments,
+20 Article – Health – General
+21 Section 7.5–802(a) and (d)
+22 Annotated Code of Maryland
+23 (2023 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0696*
+2 SENATE BILL 696
+1 BY adding to
+2 Article – Health – General
+3 Section 19–388 through 19–390 to be under the new part “Part XII. Pediatric
+4 Overstay”
+5 Annotated Code of Maryland
+6 (2023 Replacement Volume and 2024 Supplement)
+7 BY repealing and reenacting, with amendments,
+8 Article – State Government
+9 Section 9–2801
+10 Annotated Code of Maryland
+11 (2021 Replacement Volume and 2024 Supplement)
+12 BY adding to
+13 Article – State Government
+14 Section 9–2806
+15 Annotated Code of Maryland
+16 (2021 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Health – General
+20 7.5–802.
+21 (a) (1) There is a Maryland Mental Health and Substance Use Disorder
+22 Registry and Referral System in the Department.
+23 (2) The purpose of the Registry and Referral System is to provide a
+24 statewide system through which health care providers can identify and access available
+25 PRIVATE AND STATE inpatient and outpatient mental health and substance use services
+26 for patients in a seamless manner.
+27 (3) Subject to the availability of funds, the Department shall develop and
+28 implement the Registry and Referral System, in collaboration with the State–designated
+29 Health Information Exchange.
+30 (4) The Registry and Referral System shall include:
+31 (i) A searchable inventory of any PRIVATE OR STATE provider of
+32 mental health and substance use disorder services, including inpatient, crisis, and
+33 outpatient services;
+34 (ii) The capability to allow a provider of mental health and substance
+35 use disorder services to update registry information including the real–time availability of
+36 services; and
+SENATE BILL 696 3
+1 (iii) An electronic referral system that is available to any health care
+2 provider in the State to facilitate electronic referrals to mental health and substance use
+3 disorder providers.
+4 (d) Each PRIVATE AND STATE hospital shall ensure the availability of staff to
+5 identify appropriate and available services for patients in the hospital who are in need of
+6 mental health or substance use disorder services and to assist the patient in accessing the
+7 services.
+8 19–386. RESERVED.
+9 19–387. RESERVED.
+10 PART XII. PEDIATRIC OVERSTAY.
+11 19–388.
+12 (A) IN THIS PART, “PEDIATRIC HOSPITAL THE FOLLOWING WORDS HAVE
+13 THE MEANINGS INDICATED.
+14 (B) “COORDINATORS” MEANS THE PEDIATRIC OVERSTAY COORDINATOR IN
+15 THE DEPARTMENT AND THE PEDIATRIC OVERSTAY COORDINATOR IN THE
+16 DEPARTMENT OF HUMAN SERVICES.
+17 (C) “PEDIATRIC HOSPITAL OVERSTAY PATIENT” MEANS A PATIENT UNDER
+18 THE AGE OF 22 YEARS WHO REMAINS IN AN INPATIENT UNIT OR EMERGENCY
+19 DEPARTMENT OF A HOSPITAL FOR MORE THAN 24 48 HOURS AFTER BEING
+20 MEDICALLY CLEARED FOR DISCHARGE OR TRANSFER.
+21 19–389.
+22 (A) (1) THE DEPARTMENT, IN COORDINATION WITH THE DEPARTMENT
+23 OF HUMAN SERVICES, EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+24 SUBSECTION, THE DEPARTMENT SHALL ENSURE THAT A PEDIATRIC HOSPITAL
+25 OVERSTAY PATIENT IS TRANSFERRED TO AND TREATED IN THE LEAST RESTRICTIVE
+26 SETTING WHEN CLINICALLY INDICATED AND WHEN POSSIBLE.
+27 (2) THE DEPARTMENT OF HUMAN SERVICES, IN COORDINATION
+28 WITH THE DEPARTMENT, SHALL ENSURE THAT A PEDIATRIC HOSPITAL OVERSTAY
+29 PATIENT WHO IS A CHILD COMMITTED TO THE CARE AND CUSTODY OF THE
+30 DEPARTMENT OF HUMAN SERVICES IS TRANSFERRED TO AND TREATED IN THE
+31 LEAST RESTRICTIVE SETTING WHEN CLINICALLY INDICATED AND WHEN POSSIBLE.
+4 SENATE BILL 696
+1 (B) IF A PEDIATRIC HOSPITAL OVERSTAY PATIENT REMAINS IN THE
+2 HOSPITAL FOR MORE THAN 48 HOURS AND THE REGISTRY ESTABLISHED UNDER §
+3 7.5–802 OF THIS ARTICLE INDICATES THAT AN APPROPRIATE INPATIENT BED IS
+4 AVAILABLE, THE HOSPITAL SHALL SEEK THE TRANSFER TO MAINTAIN THE CLINICAL
+5 STABILITY OF THE PATIENT.
+6 (C) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, TO ENSURE THAT
+7 A PEDIATRIC HOSPITAL OVERSTAY PATIENT IS TREATED IN THE LEAST RESTRICTIVE
+8 SETTING, A HOSPITAL MAY CONCURRENTLY EXPLORE IN–STATE AND
+9 OUT–OF–STATE PLACEMENT OPTIONS.
+10 19–390.
+11 (A) THE DEPARTMENT AND THE DEPARTMENT OF HUMAN SERVICES
+12 SHALL ESTABLISH A PEDIATRIC HOSPITAL OVERSTAY COORDINATOR WITHIN EACH
+13 DEPARTMENT.
+14 (B) THE COORDINATORS SHALL ACT IN THE BEST INTEREST OF A PEDIATRIC
+15 OVERSTAY PATIENT BY COORDINATING BETWEEN HOSPITALS, RELEVANT STATE
+16 AGENCIES AND PROGRAMS, AND PROVIDERS OF MENTAL HEALTH AND SUBSTANCE
+17 USE DISORDER SERVICES.
+18 (C) THE COORDINATORS SHALL:
+19 (1) ADVOCATE ON BEHALF OF PEDIATRIC HOSPITAL OVERSTAY
+20 PATIENTS WHILE MAINTAINING APPROPRIATE PATIENT CONFIDENTIALITY;
+21 (2) REVIEW POLICIES AND PROCEDURES OF RELEVANT STATE
+22 AGENCIES AND MAKE RECOMMENDATIONS FOR NECESSARY CHANGES TO THE
+23 POLICIES AND PROCEDURES TO BETTER SERVE PEDIATRIC HOSPITAL OVERSTAY
+24 PATIENTS;
+25 (3) MAINTAIN DATA ON EACH PEDIATRIC HOSPITAL OVERSTAY
+26 PATIENT, INCLUDING:
+27 (I) PATIENT’S LENGTH OF STAY;
+28 (II) THE RESPONSIBLE STATE AGENCY, IF APPLICABLE;
+29 (III) SERVICES NEEDED;
+30 (IV) PLACEMENT OPTIONS BEING SOUGHT BY THE PATIENT;
+SENATE BILL 696 5
+1 (V) INFORMATION REGARDING PREVIOUS HOSPITAL
+2 ADMISSIONS FOR A BEHAVIORAL HEALTH DIAGNOSIS; AND
+3 (VI) ANY OTHER RELEVANT DATA; AND
+4 (4) REPORT ON THE DATA COLLECTED UNDER THIS SUBSECTION TO
+5 THE SECRETARY AND THE SECRETARY OF HUMAN SERVICES.
+6 (A) (1) FOR FISCAL YEAR 2026, THE GOVERNOR MAY INCLUDE IN THE
+7 ANNUAL BUDGET BILL AN APPROPRIATION SUFFICIENT TO FILL ALL POSITIONS
+8 AUTHORIZED FOR A REGIONAL INSTITUTE FOR CHILDREN AND ADOLESCENTS IN
+9 THE STATE.
+10 (2) FOR FISCAL YEAR 2027 AND EACH FISCAL YEAR THEREAFTER,
+11 THE GOVERNOR SHALL INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION
+12 SUFFICIENT TO FILL ALL POSITIONS AUTHORIZED FOR A REGIONAL INSTITUTE FOR
+13 CHILDREN AND ADOLESCENTS IN THE STATE.
+14 (B) THE GOVERNOR MAY USE FUNDS DESIGNATED FOR THE ADOLESCENT
+15 HOSPITAL OVERSTAY PROGRAM FOR THE PURPOSES IDENTIFIED IN SUBSECTION
+16 (A) OF THIS SECTION.
+17 Article – State Government
+18 9–2801.
+19 (a) In this subtitle the following words have the meanings indicated.
+20 (B) “COORDINATOR” MEANS THE PEDIATRIC HOSPITAL OVERSTAY
+21 COORDINATOR WITHIN THE GOVERNOR’S OFFICE FOR CHILDREN.
+22 [(b)] (C) “Eligible neighborhood” means a neighborhood that includes census
+23 tracts with more than 30% of children living in poverty and is served by, as defined by the
+24 Office, a community school with a concentration of poverty level, as defined in § 5–223 of
+25 the Education Article, of:
+26 (1) in fiscal year 2025 and 2026, at least 80%;
+27 (2) in fiscal year 2027 through fiscal year 2029, at least 75%;
+28 (3) in fiscal year 2030, at least 60%; and
+29 (4) in fiscal year 2031, and each fiscal year thereafter, at least 55%.
+30 [(c)] (D) “Fund” means the ENOUGH Grant Fund.
+6 SENATE BILL 696
+1 [(d)] (E) “Office” means the Governor’s Office for Children.
+2 (F) “PEDIATRIC HOSPITAL OVERSTAY PATIENT” HAS THE MEANING STATED
+3 IN § 19–388 OF THE HEALTH – GENERAL ARTICLE.
+4 [(e)] (G) “Program” means the Engaging Neighborhoods, Organizations, Unions,
+5 Governments, and Households (ENOUGH) Grant Program.
+6 [(f)] (H) “Special Secretary” means the Special Secretary of the Governor’s
+7 Office for Children.
+8 9–2806.
+9 (A) THERE IS A PEDIATRIC HOSPITAL OVERSTAY COORDINATOR WITHIN
+10 THE OFFICE.
+11 (B) THE COORDINATOR SHALL ACT IN THE BEST INTEREST OF A PEDIATRIC
+12 HOSPITAL OVERSTAY PATIENT BY COORDINATING BETWEEN RELEVANT STATE
+13 AGENCIES AND PROGRAMS, INCLUDING PUBLIC BEHAVIORAL HEALTH CARE
+14 COORDINATION PROGRAMS.
+15 (C) (1) ON OR BEFORE JANUARY 1, 2026, THE OFFICE AND THE
+16 COORDINATOR SHALL ENTER INTO A MEMORANDUM OF UNDERSTANDING WITH THE
+17 MARYLAND DEPARTMENT OF HEALTH, THE DEPARTMENT OF HUMAN SERVICES,
+18 AND ANY OTHER RELEVANT STATE AGENCY FOR THE SHARING AND STORAGE OF
+19 INFORMATION AND DATA RELATED TO PEDIATRIC HOSPITAL OVERSTAY PATIENTS
+20 IN THE STATE.
+21 (2) THE MEMORANDUM OF UNDERSTANDING SHALL GOVERN THE
+22 ACCESS, USE, MAINTENANCE, DISCLOSURE, AND REDISCLOSURE OF PROTECTED
+23 HEALTH INFORMATION IN ACCORDANCE WITH FEDERAL AND STATE LAW,
+24 INCLUDING THE FEDERAL HEALTH INSURANCE PORTABILITY AND
+25 ACCOUNTABILITY ACT.
+26 (D) THE COORDINATOR SHALL:
+27 (1) WORK INDEPENDENTLY AND IMPARTIALLY, WHILE MAINTAINING
+28 APPROPRIATE PATIENT CONFIDENTIALITY, TO ADVOCATE ON BEHALF OF
+29 PEDIATRIC HOSPITAL OVERSTAY PATIENTS;
+30 (2) REVIEW POLICIES AND PROCEDURES OF RELEVANT STATE
+31 AGENCIES AND MAKE RECOMMENDATIONS FOR NECESSARY CHANGES TO THE
+SENATE BILL 696 7
+1 POLICIES OR PROCEDURES TO BETTER SERVE PEDIATRIC HOSPITAL OVERSTAY
+2 PATIENTS; AND
+3 (3) MAINTAIN DATA ON EACH PEDIATRIC HOSPITAL OVERSTAY
+4 PATIENT, INCLUDING:
+5 (I) THE PATIENT’S LENGTH OF STAY;
+6 (II) THE RESPONSIBLE STATE AGENCY, IF APPLICABLE;
+7 (III) SERVICES NEEDED;
+8 (IV) PLACEMENT OPTIONS BEING SOUGHT BY THE PATIENT;
+9 (V) INFORMATION REGARDING PREVIOUS HOSPITAL
+10 ADMISSIONS FOR A BEHAVIORAL HEALTH DIAGNOSIS; AND
+11 (VI) ANY OTHER RELEVANT DATA.
+12 (E) ON OR BEFORE OCTOBER 1 EACH YEAR, BEGINNING IN 2026, THE
+13 COORDINATOR SHALL REPORT TO THE GOVERNOR AND, IN ACCORDANCE WITH §
+14 2–1257 OF THIS ARTICLE, THE SENATE FINANCE COMMITTEE AND THE HOUSE
+15 HEALTH AND GOVERNMENT OPERATIONS COMMITTEE ON THE NUMBER OF
+16 PEDIATRIC HOSPITAL OVERSTAY PATIENTS IN THE STATE AND DE–IDENTIFIED
+17 INFORMATION RELATED TO ACTION PLANS IN PLACE TO ACHIEVE APPROPRIATE
+18 PLACEMENT.
+19 SECTION 2. AND BE IT FURTHER ENACTED, That:
+20 (a) The Maryland Department of Health shall:
+21 (1) review the reimbursement rates paid to residential treatment centers
+22 and respite care facilities in the State and determine the reimbursement rate that would
+23 be necessary to cover the cost of care and prevent future bed closures in residential
+24 treatment centers and respite care facilities in the State; and
+25 (2) study the implementation of a prospective payment model for
+26 residential treatment centers and respite care facilities in the State with the goal of
+27 incentivizing the expansion of residential treatment center and respite care facility capacity
+28 in the State.
+29 (b) On or before December 1, 2025, the Department shall report the findings and
+30 recommendations from the review and study conducted under subsection (a) of this section
+31 to the Governor and, in accordance with § 2–1257 of the State Government Article, the
+32 Senate Finance Committee and the House Health and Government Operations Committee.
+8 SENATE BILL 696
+1 SECTION 2. AND BE IT FURTHER ENACTED, That:
+2 (a) (1) In this section, “child in an unlicensed setting” means an individual
+3 under the age of 21 years in an out–of–home placement who is residing in a hotel, an office
+4 building, a shelter, or any other unlicensed setting.
+5 (2) “Child in an unlicensed setting” does not include an individual under
+6 the age of 21 years who is receiving a self–independent living stipend, living with kin
+7 awaiting approval for a placement, or on aftercare with a parent.
+8 (b) (1) There is a Workgroup on Children in Unlicensed Settings and Pediatric
+9 Hospital Overstays in the State.
+10 (2) The Workgroup shall consist of representatives who have experience
+11 and knowledge of working with children with behavioral health challenges, adverse
+12 childhood experiences, and developmental disabilities, including:
+13 (i) the Secretary of Health, or the Secretary’s designee;
+14 (ii) the Secretary of Human Services, or the Secretary’s designee;
+15 (iii) the Secretary of Juvenile Services, or the Secretary’s designee;
+16 (iv) the State Public Defender, or the State Public Defender’s
+17 designee; and
+18 (v) the following members, appointed by the Governor:
+19 1. one representative of the Maryland Association of
+20 Resources for Families and Youth;
+21 2. one representative of Disability Rights Maryland;
+22 3. one representative of the Community Behavioral Health
+23 Association of Maryland;
+24 4. one representative of Maryland Legal Aid;
+25 5. one representative of the Court Appointed Special
+26 Advocates of Maryland;
+27 6. one representative of the National Association of Social
+28 Workers – Maryland who is a hospital–based clinical social worker;
+29 7. one representative of the Maryland Chapter of the
+30 American Academy of Pediatrics;
+SENATE BILL 696 9
+1 8. one representative of the Maryland Hospital Association;
+2 9. one representative of a specialty psychiatric hospital;
+3 10. one representative of a residential treatment provider in
+4 the State; and
+5 11. one representative of a family of a child in foster care, as
+6 defined in § 8–101(h) of the Human Services Article.
+7 (3) The members of the Workgroup shall elect the chair and vice chair of
+8 the Workgroup.
+9 (4) The Workgroup shall meet before August 1, 2025, and at least once
+10 every 30 days thereafter.
+11 (5) The State Council on Child Abuse and Neglect shall provide staff for
+12 the Workgroup.
+13 (6) A member of the Workgroup:
+14 (i) may not receive compensation as a member of the Workgroup;
+15 but
+16 (ii) is entitled to reimbursement for expenses under the Standard
+17 State Travel Regulations, as provided in the State budget.
+18 (c) (1) The Workgroup shall:
+19 (i) complete an assessment of the number, type, and cost of the
+20 additional beds and supportive services needed to place all children in pediatric overstays
+21 and other unlicensed settings in the least restrictive settings;
+22 (ii) develop a comprehensive and sustainable resource development
+23 plan designed to increase the number of licensed settings and end the use of pediatric
+24 overstays and unlicensed settings;
+25 (iii) develop an implementation plan with comprehensive data to
+26 inform the plan; and
+27 (iv) determine the anticipated timeline for when the practice of
+28 placing children in unlicensed settings will cease.
+29 (2) On or before October 1, 2025, the Workgroup shall report its findings
+30 and recommendations to the Governor and, in accordance with § 2–1257 of the State
+31 Government Article, the General Assembly.
+10 SENATE BILL 696
+1 SECTION 3. AND BE IT FURTHER ENACTED, That for fiscal year 2026, the
+2 Governor may include in the annual budget bill an appropriation necessary to staff five
+3 additional beds at the John L. Gildner Regional Institute for Children and Adolescents in
+4 the State.
+5 SECTION 4. AND BE IT FURTHER ENACTED, That Section 2 Sections 1 and 3 of
+6 this Act shall take effect June July 1, 2025.
+7 SECTION 3. 5. AND BE IT FURTHER ENACTED, That, except as provided in
+8 Section 4 of this Act, this Act shall take effect July June 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5   C A P C F U a D u c c t e p h o p a p a f p h o p e t r t M D o H a t D o H S t e a P r o r t c a r f r e d e t W o C i U S a P O a B  A  S  A  (]
+[DELETED:  S  B  A  S 1 t 1 t b u t n p “ X P  O  A  ( B  A S  A  ( B  A S  A  (  S T A 7  ( ( T i a M M H a S U D R   ( T p o t R a R S i t p a s T i f   ( S i H   ( T    ( A p T m h a s u d s i i c a o    ( T u s]
+[DELETED: S 3    ( A p d  ( E h T i m s.R.E.R.EX.PO  E V  ) I,N T PT P H T F W H() “COS  E A T P O C I THS. U E() “PET  A O  Y W R I A I U O E O A H F M T   H A B44. ) ( TD,H ET  E U ES X A P I P  O TS,E(N T E S E T A P H   TDHS E O U ES I C ET  W I A C C T T C A C O TH O U E I T T A T I T ]
+[DELETED:  S () F A P H O P R I T   8O T A I T A A I B IE T  ) NOW G A H M C E INT A–STOFSS–. ) TDDHH E A T E O U E() H P B C B HS R TS () T:H (  O B O P H OY ( R P A P O R T A M R F N C T T A P T B S P H O (  D O E P H OT :  () P’;ATS  () TS,;IH TY   () S;IE  () P;VL]
+[DELETED: S 5  () N R P HS   () A;INA  (  E E U ESHS   ) ( F2,O   O B B A A S T F A P  E N H DIC  TE     F27 F Y  A E F Y T O  E N AS D TE   ) TGH O DO V R )   A 9  ( I  ) “C”PHOR M T E O VG’OC ORS F HN   () “ n m a n t i c]( t O t   ( i   ( i   ( i   ( i  () “](]
+[DELETED:  S   () “](  ) “PET     E  E R18H–GA   () “]( G  () “ S m t S S o t G]( O   ) TPHOH E O V O FE   ) TH O O P B C B R T  A PS I P B H C    ) ( OJ1,2,N O B A   T F A T DH,DHS E EH  E U E  T   T      M O U S G TS UE ME DE A R O P,,  I I A W F A T L  T F E N O AI A C   ) TCH O    Y  P CY T A O B O       P A P O R T A M R F N C T T ]
+[DELETED: S 7 O P T B S P H O S      D O E P H OT      ) ’TTS    ) S,IT TY     ) IS    ) VP    )I R P HS      ) IA  ) OO1,2N O B C  E YR B I  TG,§ OD  7,SFCO T AE T E I O A T O GO A O P O O T N O  H O P I T T A DEI  R T A P I P T A A    S  ( T   ( r a b n t c t c o c a p f b c i r t   ( s t i o a p p m f r t c a r c f i t S w t g o i i  ( O r t S]
+[DELETED:  S   S  ( ( I u b   ( “ t a o 2 y w i r s l s l w a  ( ( T H   ( T a k o w w c w b h c a c    ( t    ( t    ( t    ( t S P D o t S P D d    ( t     1 o r o t M A o R     2 o     3 o A     4 o     5 o r o t C A S A     6 o r o t A o S W     7 o r o t M C o t A]
+[DELETED: S 9     8 o     9 o     1 o t     1 o d   ( T t   ( T e   ( T t   ( A    ( m b    ( i S  ( ( T    ( c a a o t n t a c o t a a    ( d p o    ( d a i p w c d t i    ( d t a t f w t p o p   ( O a r t t G a i a w § 2 o t S G]
+[DELETED:  S   S 3 A B I F E T f f y 2 t G a t  S t  S 3 5 A B I F E T e a p i S          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 696
+J1, J3 5lr2222
+CF HB 962
+By: Senator Beidle
+Introduced and read first time: January 26, 2025
+Assigned to: Finance
+Committee Report: Favorable with amendments
+Senate action: Adopted with floor amendments
+Read second time: March 18, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Public Health – Pediatric Hospital Overstay Patients and Workgroup on
+3 Children in Unlicensed Settings and Pediatric Overstays
+4 FOR the purpose of specifying that the scope of the Maryland Mental Health and Substance
+5 Use Disorder Registry and Referral System includes both private and State inpatient
+6 and outpatient mental health and substance use services; requiring the Maryland
+7 Department of Health, in coordination with and the Department of Human Services,
+8 under certain circumstances, to ensure pediatric hospital overstay patients are
+9 placed in the least restrictive setting when clinically indicated and when possible;
+10 authorizing a hospital to concurrently explore in–State and out–of–state placements
+11 for pediatric hospital overstay patients; establishing the requiring the Maryland
+12 Department of Health and the Department of Human Services to establish a
+13 Pediatric Hospital Overstay Coordinator within the Governor’s Office for Children;
+14 requiring the Maryland Department of Health to conduct a certain study and review
+15 of residential treatment center and respite facility rates; each department;
+16 establishing the Workgroup on Children in Unlicensed Settings and Pediatric
+17 Overstays in the State; and generally relating to pediatric hospital overstay patients
+18 and children in unlicensed settings.
+19 BY repealing and reenacting, with amendments,
+20 Article – Health – General
+21 Section 7.5–802(a) and (d)
+22 Annotated Code of Maryland
+23 (2023 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0696*
+
+2 SENATE BILL 696
+1 BY adding to
+2 Article – Health – General
+3 Section 19–388 through 19–390 to be under the new part “Part XII. Pediatric
+4 Overstay”
+5 Annotated Code of Maryland
+6 (2023 Replacement Volume and 2024 Supplement)
+7 BY repealing and reenacting, with amendments,
+8 Article – State Government
+9 Section 9–2801
+10 Annotated Code of Maryland
+11 (2021 Replacement Volume and 2024 Supplement)
+12 BY adding to
+13 Article – State Government
+14 Section 9–2806
+15 Annotated Code of Maryland
+16 (2021 Replacement Volume and 2024 Supplement)
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+19 Article – Health – General
+20 7.5–802.
+21 (a) (1) There is a Maryland Mental Health and Substance Use Disorder
+22 Registry and Referral System in the Department.
+23 (2) The purpose of the Registry and Referral System is to provide a
+24 statewide system through which health care providers can identify and access available
+25 PRIVATE AND STATE inpatient and outpatient mental health and substance use services
+26 for patients in a seamless manner.
+27 (3) Subject to the availability of funds, the Department shall develop and
+28 implement the Registry and Referral System, in collaboration with the State–designated
+29 Health Information Exchange.
+30 (4) The Registry and Referral System shall include:
+31 (i) A searchable inventory of any PRIVATE OR STATE provider of
+32 mental health and substance use disorder services, including inpatient, crisis, and
+33 outpatient services;
+34 (ii) The capability to allow a provider of mental health and substance
+35 use disorder services to update registry information including the real–time availability of
+36 services; and
+
+SENATE BILL 696 3
+1 (iii) An electronic referral system that is available to any health care
+2 provider in the State to facilitate electronic referrals to mental health and substance use
+3 disorder providers.
+4 (d) Each PRIVATE AND STATE hospital shall ensure the availability of staff to
+5 identify appropriate and available services for patients in the hospital who are in need of
+6 mental health or substance use disorder services and to assist the patient in accessing the
+7 services.
+8 19–386. RESERVED.
+9 19–387. RESERVED.
+10 PART XII. PEDIATRIC OVERSTAY.
+11 19–388.
+12 (A) IN THIS PART, “PEDIATRIC HOSPITAL THE FOLLOWING WORDS HAVE
+13 THE MEANINGS INDICATED.
+14 (B) “COORDINATORS” MEANS THE PEDIATRIC OVERSTAY COORDINATOR IN
+15 THE DEPARTMENT AND THE PEDIATRIC OVERSTAY COORDINATOR IN THE
+16 DEPARTMENT OF HUMAN SERVICES.
+17 (C) “PEDIATRIC HOSPITAL OVERSTAY PATIENT” MEANS A PATIENT UNDER
+18 THE AGE OF 22 YEARS WHO REMAINS IN AN INPATIENT UNIT OR EMERGENCY
+19 DEPARTMENT OF A HOSPITAL FOR MORE THAN 24 48 HOURS AFTER BEING
+20 MEDICALLY CLEARED FOR DISCHARGE OR TRANSFER.
+21 19–389.
+22 (A) (1) THE DEPARTMENT, IN COORDINATION WITH THE DEPARTMENT
+23 OF HUMAN SERVICES, EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+24 SUBSECTION, THE DEPARTMENT SHALL ENSURE THAT A PEDIATRIC HOSPITAL
+25 OVERSTAY PATIENT IS TRANSFERRED TO AND TREATED IN THE LEAST RESTRICTIVE
+26 SETTING WHEN CLINICALLY INDICATED AND WHEN POSSIBLE.
+27 (2) THE DEPARTMENT OF HUMAN SERVICES, IN COORDINATION
+28 WITH THE DEPARTMENT, SHALL ENSURE THAT A PEDIATRIC HOSPITAL OVERSTAY
+29 PATIENT WHO IS A CHILD COMMITTED TO THE CARE AND CUSTODY OF THE
+30 DEPARTMENT OF HUMAN SERVICES IS TRANSFERRED TO AND TREATED IN THE
+31 LEAST RESTRICTIVE SETTING WHEN CLINICALLY INDICATED AND WHEN POSSIBLE.
+
+4 SENATE BILL 696
+1 (B) IF A PEDIATRIC HOSPITAL OVERSTAY PATIENT REMAINS IN THE
+2 HOSPITAL FOR MORE THAN 48 HOURS AND THE REGISTRY ESTABLISHED UNDER §
+3 7.5–802 OF THIS ARTICLE INDICATES THAT AN APPROPRIATE INPATIENT BED IS
+4 AVAILABLE, THE HOSPITAL SHALL SEEK THE TRANSFER TO MAINTAIN THE CLINICAL
+5 STABILITY OF THE PATIENT.
+6 (C) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, TO ENSURE THAT
+7 A PEDIATRIC HOSPITAL OVERSTAY PATIENT IS TREATED IN THE LEAST RESTRICTIVE
+8 SETTING, A HOSPITAL MAY CONCURRENTLY EXPLORE IN–STATE AND
+9 OUT–OF–STATE PLACEMENT OPTIONS.
+10 19–390.
+11 (A) THE DEPARTMENT AND THE DEPARTMENT OF HUMAN SERVICES
+12 SHALL ESTABLISH A PEDIATRIC HOSPITAL OVERSTAY COORDINATOR WITHIN EACH
+13 DEPARTMENT.
+14 (B) THE COORDINATORS SHALL ACT IN THE BEST INTEREST OF A PEDIATRIC
+15 OVERSTAY PATIENT BY COORDINATING BETWEEN HOSPITALS, RELEVANT STATE
+16 AGENCIES AND PROGRAMS, AND PROVIDERS OF MENTAL HEALTH AND SUBSTANCE
+17 USE DISORDER SERVICES.
+18 (C) THE COORDINATORS SHALL:
+19 (1) ADVOCATE ON BEHALF OF PEDIATRIC HOSPITAL OVERSTAY
+20 PATIENTS WHILE MAINTAINING APPROPRIATE PATIENT CONFIDENTIALITY;
+21 (2) REVIEW POLICIES AND PROCEDURES OF RELEVANT STATE
+22 AGENCIES AND MAKE RECOMMENDATIONS FOR NECESSARY CHANGES TO THE
+23 POLICIES AND PROCEDURES TO BETTER SERVE PEDIATRIC HOSPITAL OVERSTAY
+24 PATIENTS;
+25 (3) MAINTAIN DATA ON EACH PEDIATRIC HOSPITAL OVERSTAY
+26 PATIENT, INCLUDING:
+27 (I) PATIENT’S LENGTH OF STAY;
+28 (II) THE RESPONSIBLE STATE AGENCY, IF APPLICABLE;
+29 (III) SERVICES NEEDED;
+30 (IV) PLACEMENT OPTIONS BEING SOUGHT BY THE PATIENT;
+
+SENATE BILL 696 5
+1 (V) INFORMATION REGARDING PREVIOUS HOSPITAL
+2 ADMISSIONS FOR A BEHAVIORAL HEALTH DIAGNOSIS; AND
+3 (VI) ANY OTHER RELEVANT DATA; AND
+4 (4) REPORT ON THE DATA COLLECTED UNDER THIS SUBSECTION TO
+5 THE SECRETARY AND THE SECRETARY OF HUMAN SERVICES.
+6 (A) (1) FOR FISCAL YEAR 2026, THE GOVERNOR MAY INCLUDE IN THE
+7 ANNUAL BUDGET BILL AN APPROPRIATION SUFFICIENT TO FILL ALL POSITIONS
+8 AUTHORIZED FOR A REGIONAL INSTITUTE FOR CHILDREN AND ADOLESCENTS IN
+9 THE STATE.
+10 (2) FOR FISCAL YEAR 2027 AND EACH FISCAL YEAR THEREAFTER,
+11 THE GOVERNOR SHALL INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION
+12 SUFFICIENT TO FILL ALL POSITIONS AUTHORIZED FOR A REGIONAL INSTITUTE FOR
+13 CHILDREN AND ADOLESCENTS IN THE STATE.
+14 (B) THE GOVERNOR MAY USE FUNDS DESIGNATED FOR THE ADOLESCENT
+15 HOSPITAL OVERSTAY PROGRAM FOR THE PURPOSES IDENTIFIED IN SUBSECTION
+16 (A) OF THIS SECTION.
+17 Article – State Government
+18 9–2801.
+19 (a) In this subtitle the following words have the meanings indicated.
+20 (B) “COORDINATOR” MEANS THE PEDIATRIC HOSPITAL OVERSTAY
+21 COORDINATOR WITHIN THE GOVERNOR’S OFFICE FOR CHILDREN.
+22 [(b)] (C) “Eligible neighborhood” means a neighborhood that includes census
+23 tracts with more than 30% of children living in poverty and is served by, as defined by the
+24 Office, a community school with a concentration of poverty level, as defined in § 5–223 of
+25 the Education Article, of:
+26 (1) in fiscal year 2025 and 2026, at least 80%;
+27 (2) in fiscal year 2027 through fiscal year 2029, at least 75%;
+28 (3) in fiscal year 2030, at least 60%; and
+29 (4) in fiscal year 2031, and each fiscal year thereafter, at least 55%.
+30 [(c)] (D) “Fund” means the ENOUGH Grant Fund.
+
+6 SENATE BILL 696
+1 [(d)] (E) “Office” means the Governor’s Office for Children.
+2 (F) “PEDIATRIC HOSPITAL OVERSTAY PATIENT” HAS THE MEANING STATED
+3 IN § 19–388 OF THE HEALTH – GENERAL ARTICLE.
+4 [(e)] (G) “Program” means the Engaging Neighborhoods, Organizations, Unions,
+5 Governments, and Households (ENOUGH) Grant Program.
+6 [(f)] (H) “Special Secretary” means the Special Secretary of the Governor’s
+7 Office for Children.
+8 9–2806.
+9 (A) THERE IS A PEDIATRIC HOSPITAL OVERSTAY COORDINATOR WITHIN
+10 THE OFFICE.
+11 (B) THE COORDINATOR SHALL ACT IN THE BEST INTEREST OF A PEDIATRIC
+12 HOSPITAL OVERSTAY PATIENT BY COORDINATING BETWEEN RELEVANT STATE
+13 AGENCIES AND PROGRAMS, INCLUDING PUBLIC BEHAVIORAL HEALTH CARE
+14 COORDINATION PROGRAMS.
+15 (C) (1) ON OR BEFORE JANUARY 1, 2026, THE OFFICE AND THE
+16 COORDINATOR SHALL ENTER INTO A MEMORANDUM OF UNDERSTANDING WITH THE
+17 MARYLAND DEPARTMENT OF HEALTH, THE DEPARTMENT OF HUMAN SERVICES,
+18 AND ANY OTHER RELEVANT STATE AGENCY FOR THE SHARING AND STORAGE OF
+19 INFORMATION AND DATA RELATED TO PEDIATRIC HOSPITAL OVERSTAY PATIENTS
+20 IN THE STATE.
+21 (2) THE MEMORANDUM OF UNDERSTANDING SHALL GOVERN THE
+22 ACCESS, USE, MAINTENANCE, DISCLOSURE, AND REDISCLOSURE OF PROTECTED
+23 HEALTH INFORMATION IN ACCORDANCE WITH FEDERAL AND STATE LAW,
+24 INCLUDING THE FEDERAL HEALTH INSURANCE PORTABILITY AND
+25 ACCOUNTABILITY ACT.
+26 (D) THE COORDINATOR SHALL:
+27 (1) WORK INDEPENDENTLY AND IMPARTIALLY, WHILE MAINTAINING
+28 APPROPRIATE PATIENT CONFIDENTIALITY, TO ADVOCATE ON BEHALF OF
+29 PEDIATRIC HOSPITAL OVERSTAY PATIENTS;
+30 (2) REVIEW POLICIES AND PROCEDURES OF RELEVANT STATE
+31 AGENCIES AND MAKE RECOMMENDATIONS FOR NECESSARY CHANGES TO THE
+
+SENATE BILL 696 7
+1 POLICIES OR PROCEDURES TO BETTER SERVE PEDIATRIC HOSPITAL OVERSTAY
+2 PATIENTS; AND
+3 (3) MAINTAIN DATA ON EACH PEDIATRIC HOSPITAL OVERSTAY
+4 PATIENT, INCLUDING:
+5 (I) THE PATIENT’S LENGTH OF STAY;
+6 (II) THE RESPONSIBLE STATE AGENCY, IF APPLICABLE;
+7 (III) SERVICES NEEDED;
+8 (IV) PLACEMENT OPTIONS BEING SOUGHT BY THE PATIENT;
+9 (V) INFORMATION REGARDING PREVIOUS HOSPITAL
+10 ADMISSIONS FOR A BEHAVIORAL HEALTH DIAGNOSIS; AND
+11 (VI) ANY OTHER RELEVANT DATA.
+12 (E) ON OR BEFORE OCTOBER 1 EACH YEAR, BEGINNING IN 2026, THE
+13 COORDINATOR SHALL REPORT TO THE GOVERNOR AND, IN ACCORDANCE WITH §
+14 2–1257 OF THIS ARTICLE, THE SENATE FINANCE COMMITTEE AND THE HOUSE
+15 HEALTH AND GOVERNMENT OPERATIONS COMMITTEE ON THE NUMBER OF
+16 PEDIATRIC HOSPITAL OVERSTAY PATIENTS IN THE STATE AND DE–IDENTIFIED
+17 INFORMATION RELATED TO ACTION PLANS IN PLACE TO ACHIEVE APPROPRIATE
+18 PLACEMENT.
+19 SECTION 2. AND BE IT FURTHER ENACTED, That:
+20 (a) The Maryland Department of Health shall:
+21 (1) review the reimbursement rates paid to residential treatment centers
+22 and respite care facilities in the State and determine the reimbursement rate that would
+23 be necessary to cover the cost of care and prevent future bed closures in residential
+24 treatment centers and respite care facilities in the State; and
+25 (2) study the implementation of a prospective payment model for
+26 residential treatment centers and respite care facilities in the State with the goal of
+27 incentivizing the expansion of residential treatment center and respite care facility capacity
+28 in the State.
+29 (b) On or before December 1, 2025, the Department shall report the findings and
+30 recommendations from the review and study conducted under subsection (a) of this section
+31 to the Governor and, in accordance with § 2–1257 of the State Government Article, the
+32 Senate Finance Committee and the House Health and Government Operations Committee.
+
+8 SENATE BILL 696
+1 SECTION 2. AND BE IT FURTHER ENACTED, That:
+2 (a) (1) In this section, “child in an unlicensed setting” means an individual
+3 under the age of 21 years in an out–of–home placement who is residing in a hotel, an office
+4 building, a shelter, or any other unlicensed setting.
+5 (2) “Child in an unlicensed setting” does not include an individual under
+6 the age of 21 years who is receiving a self–independent living stipend, living with kin
+7 awaiting approval for a placement, or on aftercare with a parent.
+8 (b) (1) There is a Workgroup on Children in Unlicensed Settings and Pediatric
+9 Hospital Overstays in the State.
+10 (2) The Workgroup shall consist of representatives who have experience
+11 and knowledge of working with children with behavioral health challenges, adverse
+12 childhood experiences, and developmental disabilities, including:
+13 (i) the Secretary of Health, or the Secretary’s designee;
+14 (ii) the Secretary of Human Services, or the Secretary’s designee;
+15 (iii) the Secretary of Juvenile Services, or the Secretary’s designee;
+16 (iv) the State Public Defender, or the State Public Defender’s
+17 designee; and
+18 (v) the following members, appointed by the Governor:
+19 1. one representative of the Maryland Association of
+20 Resources for Families and Youth;
+21 2. one representative of Disability Rights Maryland;
+22 3. one representative of the Community Behavioral Health
+23 Association of Maryland;
+24 4. one representative of Maryland Legal Aid;
+25 5. one representative of the Court Appointed Special
+26 Advocates of Maryland;
+27 6. one representative of the National Association of Social
+28 Workers – Maryland who is a hospital–based clinical social worker;
+29 7. one representative of the Maryland Chapter of the
+30 American Academy of Pediatrics;
+
+SENATE BILL 696 9
+1 8. one representative of the Maryland Hospital Association;
+2 9. one representative of a specialty psychiatric hospital;
+3 10. one representative of a residential treatment provider in
+4 the State; and
+5 11. one representative of a family of a child in foster care, as
+6 defined in § 8–101(h) of the Human Services Article.
+7 (3) The members of the Workgroup shall elect the chair and vice chair of
+8 the Workgroup.
+9 (4) The Workgroup shall meet before August 1, 2025, and at least once
+10 every 30 days thereafter.
+11 (5) The State Council on Child Abuse and Neglect shall provide staff for
+12 the Workgroup.
+13 (6) A member of the Workgroup:
+14 (i) may not receive compensation as a member of the Workgroup;
+15 but
+16 (ii) is entitled to reimbursement for expenses under the Standard
+17 State Travel Regulations, as provided in the State budget.
+18 (c) (1) The Workgroup shall:
+19 (i) complete an assessment of the number, type, and cost of the
+20 additional beds and supportive services needed to place all children in pediatric overstays
+21 and other unlicensed settings in the least restrictive settings;
+22 (ii) develop a comprehensive and sustainable resource development
+23 plan designed to increase the number of licensed settings and end the use of pediatric
+24 overstays and unlicensed settings;
+25 (iii) develop an implementation plan with comprehensive data to
+26 inform the plan; and
+27 (iv) determine the anticipated timeline for when the practice of
+28 placing children in unlicensed settings will cease.
+29 (2) On or before October 1, 2025, the Workgroup shall report its findings
+30 and recommendations to the Governor and, in accordance with § 2–1257 of the State
+31 Government Article, the General Assembly.
+
+10 SENATE BILL 696
+1 SECTION 3. AND BE IT FURTHER ENACTED, That for fiscal year 2026, the
+2 Governor may include in the annual budget bill an appropriation necessary to staff five
+3 additional beds at the John L. Gildner Regional Institute for Children and Adolescents in
+4 the State.
+5 SECTION 4. AND BE IT FURTHER ENACTED, That Section 2 Sections 1 and 3 of
+6 this Act shall take effect June July 1, 2025.
+7 SECTION 3. 5. AND BE IT FURTHER ENACTED, That, except as provided in
+8 Section 4 of this Act, this Act shall take effect July June 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5   C A P C F U a D u c c t e p h o p a p a f p h o p e t r t M D o H a t D o H S t e a P r o r t c a r f r e d e t W o C i U S a P O a B  A  S  A  (]
+[DELETED:  S  B  A  S 1 t 1 t b u t n p “ X P  O  A  ( B  A S  A  ( B  A S  A  (  S T A 7  ( ( T i a M M H a S U D R   ( T p o t R a R S i t p a s T i f   ( S i H   ( T    ( A p T m h a s u d s i i c a o    ( T u s]
+[DELETED: S 3    ( A p d  ( E h T i m s.R.E.R.EX.PO  E V  ) I,N T PT P H T F W H() “COS  E A T P O C I THS. U E() “PET  A O  Y W R I A I U O E O A H F M T   H A B44. ) ( TD,H ET  E U ES X A P I P  O TS,E(N T E S E T A P H   TDHS E O U ES I C ET  W I A C C T T C A C O TH O U E I T T A T I T ]
+[DELETED:  S () F A P H O P R I T   8O T A I T A A I B IE T  ) NOW G A H M C E INT A–STOFSS–. ) TDDHH E A T E O U E() H P B C B HS R TS () T:H (  O B O P H OY ( R P A P O R T A M R F N C T T A P T B S P H O (  D O E P H OT :  () P’;ATS  () TS,;IH TY   () S;IE  () P;VL]
+[DELETED: S 5  () N R P HS   () A;INA  (  E E U ESHS   ) ( F2,O   O B B A A S T F A P  E N H DIC  TE     F27 F Y  A E F Y T O  E N AS D TE   ) TGH O DO V R )   A 9  ( I  ) “C”PHOR M T E O VG’OC ORS F HN   () “ n m a n t i c]( t O t   ( i   ( i   ( i   ( i  () “](]
+[DELETED:  S   () “](  ) “PET     E  E R18H–GA   () “]( G  () “ S m t S S o t G]( O   ) TPHOH E O V O FE   ) TH O O P B C B R T  A PS I P B H C    ) ( OJ1,2,N O B A   T F A T DH,DHS E EH  E U E  T   T      M O U S G TS UE ME DE A R O P,,  I I A W F A T L  T F E N O AI A C   ) TCH O    Y  P CY T A O B O       P A P O R T A M R F N C T T ]
+[DELETED: S 7 O P T B S P H O S      D O E P H OT      ) ’TTS    ) S,IT TY     ) IS    ) VP    )I R P HS      ) IA  ) OO1,2N O B C  E YR B I  TG,§ OD  7,SFCO T AE T E I O A T O GO A O P O O T N O  H O P I T T A DEI  R T A P I P T A A    S  ( T   ( r a b n t c t c o c a p f b c i r t   ( s t i o a p p m f r t c a r c f i t S w t g o i i  ( O r t S]
+[DELETED:  S   S  ( ( I u b   ( “ t a o 2 y w i r s l s l w a  ( ( T H   ( T a k o w w c w b h c a c    ( t    ( t    ( t    ( t S P D o t S P D d    ( t     1 o r o t M A o R     2 o     3 o A     4 o     5 o r o t C A S A     6 o r o t A o S W     7 o r o t M C o t A]
+[DELETED: S 9     8 o     9 o     1 o t     1 o d   ( T t   ( T e   ( T t   ( A    ( m b    ( i S  ( ( T    ( c a a o t n t a c o t a a    ( d p o    ( d a i p w c d t i    ( d t a t f w t p o p   ( O a r t t G a i a w § 2 o t S G]
+[DELETED:  S   S 3 A B I F E T f f y 2 t G a t  S t  S 3 5 A B I F E T e a p i S          G               ]

@@ -1,0 +1,288 @@
+Title: Occupational Licensing and Certification - Criminal History -
+Official Title: Occupational Licensing and Certification - Criminal History -
+Number of Sections: 1
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Session
+HB0482
+Predetermination Review Process
+Bill Summary
+This bill establishes a predetermination review process under which an individual can request that
+certain State agencies review the individual’s criminal history to determine whether that criminal
+history would disqualify the individual from obtaining an occupational license or certification
+being sought from the agency.
+Racial Equity Impact Statement
+The bill adds provisions to the professional licensure and certification process that would reduce
+impediments for individuals with previous convictions or other contacts with the criminal justice
+system when those individuals apply for occupational licensing and certification. These provisions
+potentially benefit Black applicants who were previously incarcerated to the greatest extent. There
+is no data currently available to estimate the extent of the impacts. The magnitude of the bill’s
+impact on applicants with a criminal history would depend on the level of increased applicant
+activity and implementation by the applicable departments.
+Analysis
+In furtherance of existing State policy to encourage the employment of nonviolent ex-offenders
+and remove barriers to their ability to demonstrate fitness for occupational licenses or
+certifications, the bill establishes a predetermination process for applicants. This process allows
+ex-offenders to request specified agencies to review their criminal record and make a preliminary
+determination as to whether the applicant would be approved or denied a license or certification.
+The agency must advise any applicant that would be denied of any potential ways to remedy the
+HB 482/ Page 1
+reason(s) for disqualification. Any applicant previ ously denied under the predetermination process
+may reapply either one year later or upon completion of any remedial actions recommended by the
+agency. The bill also allows an agency to charge a criminal history review fee of up to $100 but
+includes provisions to waive the fee if the applicant meets specified income requirements. The bill
+also repeals the blanket prohibition on sex offenders from receiving licenses and certification from
+the agencies covered under the bill and removes the Department of Public Safety and Correctional
+Services (DPSCS) from its requirements.
+The bill applies to all units of the Maryland Department of Agriculture; the Maryland Department
+of the Environment; the Maryland Department of Health (MDH); the Department of Human
+Services; and the Maryland Department of Labor (MD Labor). These agencies issue an array of
+occupational and professional licenses across a wide spectrum of industries, from home
+improvement contractors to nurses to well drillers. Under existing law, with the exception of
+individuals previously convicted of crimes of violence or sex offenses for which registration on
+the sex offender registry is required, agencies cannot deny applications for licenses and
+certifications solely on the basis of a prior conviction. An exception to this general rule is if (1)
+the agency determines that there is a direct relationship between the previous conviction and the
+specific license or certification sought or (2) issuance would involve an unreasonable risk to
+property or to the safety of specific individuals or the general public. Despite the aforementioned
+exceptions, ex-offenders who have not reoffended in the previous seven years may not be denied
+an occupational license or certification solely on the basis of a previous conviction.
+Groups Affected by the Bill
+The bill impacts individuals with previous criminal records, including both those who were not
+sentenced to incarceration and those who were previously incarcerated and are in various stages
+of reentry into society. Updated statistics from DPSCS show that in fiscal 2023, 3,355 inmates
+were released from incarceration on parole and 3,276 were released on probation. Another nearly
+24,000 individuals were never incarcerated but instead placed on probation after a conviction and
+sentencing. Black ex-offenders are significantly overrepresented in the post-incarceration
+population, accounting for 59% of the population under supervision by the Division of Parole and
+Probation in fiscal 2023.
+Nature of the Impact
+A significant challenge for individuals post-sentence and post-incarceration is securing
+employment. Previous research has detailed the collateral consequences to having a criminal
+record that often exacerbate the challenges of social reintegration following imprisonment. Even
+individuals convicted of criminal charges that do not face imprisonment may still see significant
+adverse effects as a result of having a criminal record. These adverse effects include reduced access
+to housing, public services, voting, holding public office, employment opportunities, and
+professional licensure. The U.S. Bureau of Labor Statistics reports that roughly 25% of civilian
+workers in 2022 had employment which required professional certification or licensure.
+Accordingly, those denied these licenses and certification due to the disclosure of their criminal
+history may face significant barriers to factors that aid in successful social reentry and deter against
+recidivism. Existing patterns of racial disparity and disproportionality in the State’s inmate
+population indicate the bill may have a positive impact on those who were previously incarcerated.
+HB 482/ Page 2
+In particular, Black individuals would likely b e impacted to the greatest extent given their
+overrepresentation in the State’s incarcerated population.
+Licensing and Certification Data Regarding Individuals with Criminal Records
+Data on the applicant pools for licensing and certification is limited. Chapter 796 of 2018 required
+the departments covered under this bill to report to the Governor and the General Assembly
+information related to the denial of licenses or certificates for the preceding five years based on an
+applicant’s criminal history. While some of the departments covered under Chapter 796 reported
+little to no data, MD Labor and MDH reported that less than 1% of the applicants for various
+licenses were individuals with criminal histories.
+Conclusion
+The bill’s provisions expanding potential eligibility for certain ex-offenders, establishing a
+predetermination of eligibility process, and providing an opportunity for applicants to take
+remedial actions to obtain eligibility will likely increase the number of successful applicants for
+licenses and certifications covered by the bill. Black individuals could likely benefit the most from
+the bill due to their overrepresentation in the ex-offender population. To the extent that these
+individuals successfully apply for occupational licenses and/or certification, the bill would
+increase the likelihood of successful reentry into the general population. There is no way to reliably
+measure the impact of the bill without demographic data for applicants to the agencies covered by
+the bill and prospective data on those individuals who would be newly eligible to apply for
+licensure and certification under the bill.
+Information Sources: Governor’s Office of Crime Prevention and Policy; U.S. Bureau of Labor
+Statistics; Department of Public Safety and Correctional Services; Maryland Department of
+Agriculture; Maryland Department of Labor; Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 02/05/2025
+HB 482/ Page 3
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 482/ Page 4
+[DELETED:  r b t t a t d f f o l o]
+[DELETED:  t E t M D o H ( t D o H a p l a a w s o i f h s o r i r a c d a f l a l o s o ( w i a u r t B e a s o i t p s c f i p a p i s P r h d t c c t h a c h p s v h p o e o a i 2 h e w r p c o l E p o r d a d i t S i]
+[DELETED:  p B i w l b i t t g e g t d c u b r t t G a t G A b p e p e f c e e a o e p a p a o f a t t s a f o l a c t b w b a p d o t i w w b n e t a f D o P S a C S M D o ]
+[DELETED:  i w t 5 o t S p A t c i g I E a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]
+
+
+================================================================================
+
+Raw Text:
+2025 Session
+HB0482
+Occupational Licensing and Certification - Criminal History -
+Predetermination Review Process
+Bill Summary
+This bill establishes a predetermination review process under which an individual can request that
+certain State agencies review the individual’s criminal history to determine whether that criminal
+history would disqualify the individual from obtaining an occupational license or certification
+being sought from the agency.
+Racial Equity Impact Statement
+The bill adds provisions to the professional licensure and certification process that would reduce
+impediments for individuals with previous convictions or other contacts with the criminal justice
+system when those individuals apply for occupational licensing and certification. These provisions
+potentially benefit Black applicants who were previously incarcerated to the greatest extent. There
+is no data currently available to estimate the extent of the impacts. The magnitude of the bill’s
+impact on applicants with a criminal history would depend on the level of increased applicant
+activity and implementation by the applicable departments.
+Analysis
+In furtherance of existing State policy to encourage the employment of nonviolent ex-offenders
+and remove barriers to their ability to demonstrate fitness for occupational licenses or
+certifications, the bill establishes a predetermination process for applicants. This process allows
+ex-offenders to request specified agencies to review their criminal record and make a preliminary
+determination as to whether the applicant would be approved or denied a license or certification.
+The agency must advise any applicant that would be denied of any potential ways to remedy the
+HB 482/ Page 1
+
+reason(s) for disqualification. Any applicant previ ously denied under the predetermination process
+may reapply either one year later or upon completion of any remedial actions recommended by the
+agency. The bill also allows an agency to charge a criminal history review fee of up to $100 but
+includes provisions to waive the fee if the applicant meets specified income requirements. The bill
+also repeals the blanket prohibition on sex offenders from receiving licenses and certification from
+the agencies covered under the bill and removes the Department of Public Safety and Correctional
+Services (DPSCS) from its requirements.
+The bill applies to all units of the Maryland Department of Agriculture; the Maryland Department
+of the Environment; the Maryland Department of Health (MDH); the Department of Human
+Services; and the Maryland Department of Labor (MD Labor). These agencies issue an array of
+occupational and professional licenses across a wide spectrum of industries, from home
+improvement contractors to nurses to well drillers. Under existing law, with the exception of
+individuals previously convicted of crimes of violence or sex offenses for which registration on
+the sex offender registry is required, agencies cannot deny applications for licenses and
+certifications solely on the basis of a prior conviction. An exception to this general rule is if (1)
+the agency determines that there is a direct relationship between the previous conviction and the
+specific license or certification sought or (2) issuance would involve an unreasonable risk to
+property or to the safety of specific individuals or the general public. Despite the aforementioned
+exceptions, ex-offenders who have not reoffended in the previous seven years may not be denied
+an occupational license or certification solely on the basis of a previous conviction.
+Groups Affected by the Bill
+The bill impacts individuals with previous criminal records, including both those who were not
+sentenced to incarceration and those who were previously incarcerated and are in various stages
+of reentry into society. Updated statistics from DPSCS show that in fiscal 2023, 3,355 inmates
+were released from incarceration on parole and 3,276 were released on probation. Another nearly
+24,000 individuals were never incarcerated but instead placed on probation after a conviction and
+sentencing. Black ex-offenders are significantly overrepresented in the post-incarceration
+population, accounting for 59% of the population under supervision by the Division of Parole and
+Probation in fiscal 2023.
+Nature of the Impact
+A significant challenge for individuals post-sentence and post-incarceration is securing
+employment. Previous research has detailed the collateral consequences to having a criminal
+record that often exacerbate the challenges of social reintegration following imprisonment. Even
+individuals convicted of criminal charges that do not face imprisonment may still see significant
+adverse effects as a result of having a criminal record. These adverse effects include reduced access
+to housing, public services, voting, holding public office, employment opportunities, and
+professional licensure. The U.S. Bureau of Labor Statistics reports that roughly 25% of civilian
+workers in 2022 had employment which required professional certification or licensure.
+Accordingly, those denied these licenses and certification due to the disclosure of their criminal
+history may face significant barriers to factors that aid in successful social reentry and deter against
+recidivism. Existing patterns of racial disparity and disproportionality in the State’s inmate
+population indicate the bill may have a positive impact on those who were previously incarcerated.
+HB 482/ Page 2
+
+In particular, Black individuals would likely b e impacted to the greatest extent given their
+overrepresentation in the State’s incarcerated population.
+Licensing and Certification Data Regarding Individuals with Criminal Records
+Data on the applicant pools for licensing and certification is limited. Chapter 796 of 2018 required
+the departments covered under this bill to report to the Governor and the General Assembly
+information related to the denial of licenses or certificates for the preceding five years based on an
+applicant’s criminal history. While some of the departments covered under Chapter 796 reported
+little to no data, MD Labor and MDH reported that less than 1% of the applicants for various
+licenses were individuals with criminal histories.
+Conclusion
+The bill’s provisions expanding potential eligibility for certain ex-offenders, establishing a
+predetermination of eligibility process, and providing an opportunity for applicants to take
+remedial actions to obtain eligibility will likely increase the number of successful applicants for
+licenses and certifications covered by the bill. Black individuals could likely benefit the most from
+the bill due to their overrepresentation in the ex-offender population. To the extent that these
+individuals successfully apply for occupational licenses and/or certification, the bill would
+increase the likelihood of successful reentry into the general population. There is no way to reliably
+measure the impact of the bill without demographic data for applicants to the agencies covered by
+the bill and prospective data on those individuals who would be newly eligible to apply for
+licensure and certification under the bill.
+Information Sources: Governor’s Office of Crime Prevention and Policy; U.S. Bureau of Labor
+Statistics; Department of Public Safety and Correctional Services; Maryland Department of
+Agriculture; Maryland Department of Labor; Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 02/05/2025
+HB 482/ Page 3
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 482/ Page 4
+
+[DELETED:  r b t t a t d f f o l o]
+[DELETED:  t E t M D o H ( t D o H a p l a a w s o i f h s o r i r a c d a f l a l o s o ( w i a u r t B e a s o i t p s c f i p a p i s P r h d t c c t h a c h p s v h p o e o a i 2 h e w r p c o l E p o r d a d i t S i]
+[DELETED:  p B i w l b i t t g e g t d c u b r t t G a t G A b p e p e f c e e a o e p a p a o f a t t s a f o l a c t b w b a p d o t i w w b n e t a f D o P S a C S M D o ]
+[DELETED:  i w t 5 o t S p A t c i g I E a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]

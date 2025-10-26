@@ -1,0 +1,144 @@
+Title: HOUSE BILL 626
+Official Title: HOUSE BILL 626
+Number of Sections: 1
+Source: versions - First - Real Estate Development and Highway Rights-of-Way - Installation of Broadband Micro Conduits and Microducts
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+R2, E4, C9 5lr1139
+By: Delegates Taylor, Boafo, and Phillips
+Introduced and read first time: January 23, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Real Estate Development and Highway Rights–of–Way – Installation of
+3 Broadband Micro Conduits and Microducts
+4 FOR the purpose of requiring the installation of micro conduits in any utility easements
+5 and building power or telecommunication rooms during the new construction or
+6 major improvement of certain commercial and residential premises; requiring that a
+7 buried fiber optic cable installed in a highway right–of–way include conduit
+8 containing at least a certain number of microducts; requiring the Department of
+9 Transportation or a unit of local government to ensure that a broadband service
+10 provider has access to the conduit on a neutral and nondiscriminatory basis;
+11 authorizing the Department and a unit of local government to charge a broadband
+12 service provider a reasonable fee for access to the conduit; and generally relating to
+13 broadband infrastructure.
+14 BY adding to
+15 Article – Public Safety
+16 Section 12–207
+17 Annotated Code of Maryland
+18 (2022 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Transportation
+21 Section 8–654.1
+22 Annotated Code of Maryland
+23 (2020 Replacement Volume and 2024 Supplement)
+24 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+25 That the Laws of Maryland read as follows:
+26 Article – Public Safety
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0626*
+2 HOUSE BILL 626
+1 12–207.
+2 (A) (1) IN THIS SECTION, “MULTIPLE TENANT ENVIRONMENT” MEANS
+3 COMMERCIAL OR RESIDENTIAL PREMISES THAT ARE OCCUPIED BY MULTIPLE
+4 ENTITIES.
+5 (2) “MULTIPLE TENANT ENVIRONMENT” INCLUDES A CENTRALLY
+6 MANAGED RESIDENTIAL REAL ESTATE DEVELOPMENT.
+7 (B) DURING THE NEW CONSTRUCTION OR MAJOR IMPROVEMENT,
+8 INCLUDING ANY IMPROVEMENT OF ELECTRICAL INFRASTRUCTURE, OF A MULTIPLE
+9 TENANT ENVIRONMENT, MICRO CONDUITS SHALL BE INSTALLED IN ANY UTILITY
+10 EASEMENTS AND BUILDING POWER OR TELECOMMUNICATION ROOMS IN ORDER TO
+11 ALLOW MULTIPLE BROADBAND SERVICE PROVIDERS TO PROVIDE BROADBAND
+12 ACCESS TO THE MULTIPLE TENANT ENVIRONMENT.
+13 Article – Transportation
+14 8–654.1.
+15 (A) A BURIED FIBER OPTIC CABLE INSTALLED IN A HIGHWAY
+16 RIGHT–OF–WAY ON OR AFTER OCTOBER 1, 2025, SHALL INCLUDE CONDUIT
+17 CONTAINING AT LEAST SEVEN MICRODUCTS.
+18 (B) THE DEPARTMENT OR A UNIT OF LOCAL GOVERNMENT:
+19 (1) SHALL ENSURE THAT, ON REQUEST OF A BROADBAND SERVICE
+20 PROVIDER, THE BROADBAND SERVICE PROVIDER HAS ACCESS TO THE CONDUIT
+21 REQUIRED TO BE INSTALLED UNDER SUBSECTION (A) OF THIS SECTION ON A
+22 NEUTRAL AND NONDISCRIMINATORY BASIS; AND
+23 (2) MAY CHARGE A BROADBAND SERVICE PROVIDER A REASONABLE
+24 FEE FOR THE USE OF THE CONDUIT REQUIRED TO BE INSTALLED UNDER
+25 SUBSECTION (A) OF THIS SECTION.
+26 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+27 October 1, 2025.
+[DELETED: :CA      5     A R B F a b p o t r d t n c o m b f o c i i a h r i c c T t p h a t t c o a n a n b a s b B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  H () ( I,“N T SN M T ET M O R P T A O B MS ( “M T ET I A CT() DU T N C O M ITE T M C I M B S P T P BT A() A B F O C I I A HTOFW O O A C   S I C–O1,2() TD:H E ( ST O O BR T B S P H A T T C T B I U S A O T S O AS  (  F T U O T C R T B I U A ).  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 626
+R2, E4, C9 5lr1139
+By: Delegates Taylor, Boafo, and Phillips
+Introduced and read first time: January 23, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Real Estate Development and Highway Rights–of–Way – Installation of
+3 Broadband Micro Conduits and Microducts
+4 FOR the purpose of requiring the installation of micro conduits in any utility easements
+5 and building power or telecommunication rooms during the new construction or
+6 major improvement of certain commercial and residential premises; requiring that a
+7 buried fiber optic cable installed in a highway right–of–way include conduit
+8 containing at least a certain number of microducts; requiring the Department of
+9 Transportation or a unit of local government to ensure that a broadband service
+10 provider has access to the conduit on a neutral and nondiscriminatory basis;
+11 authorizing the Department and a unit of local government to charge a broadband
+12 service provider a reasonable fee for access to the conduit; and generally relating to
+13 broadband infrastructure.
+14 BY adding to
+15 Article – Public Safety
+16 Section 12–207
+17 Annotated Code of Maryland
+18 (2022 Replacement Volume and 2024 Supplement)
+19 BY adding to
+20 Article – Transportation
+21 Section 8–654.1
+22 Annotated Code of Maryland
+23 (2020 Replacement Volume and 2024 Supplement)
+24 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+25 That the Laws of Maryland read as follows:
+26 Article – Public Safety
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0626*
+
+2 HOUSE BILL 626
+1 12–207.
+2 (A) (1) IN THIS SECTION, “MULTIPLE TENANT ENVIRONMENT” MEANS
+3 COMMERCIAL OR RESIDENTIAL PREMISES THAT ARE OCCUPIED BY MULTIPLE
+4 ENTITIES.
+5 (2) “MULTIPLE TENANT ENVIRONMENT” INCLUDES A CENTRALLY
+6 MANAGED RESIDENTIAL REAL ESTATE DEVELOPMENT.
+7 (B) DURING THE NEW CONSTRUCTION OR MAJOR IMPROVEMENT,
+8 INCLUDING ANY IMPROVEMENT OF ELECTRICAL INFRASTRUCTURE, OF A MULTIPLE
+9 TENANT ENVIRONMENT, MICRO CONDUITS SHALL BE INSTALLED IN ANY UTILITY
+10 EASEMENTS AND BUILDING POWER OR TELECOMMUNICATION ROOMS IN ORDER TO
+11 ALLOW MULTIPLE BROADBAND SERVICE PROVIDERS TO PROVIDE BROADBAND
+12 ACCESS TO THE MULTIPLE TENANT ENVIRONMENT.
+13 Article – Transportation
+14 8–654.1.
+15 (A) A BURIED FIBER OPTIC CABLE INSTALLED IN A HIGHWAY
+16 RIGHT–OF–WAY ON OR AFTER OCTOBER 1, 2025, SHALL INCLUDE CONDUIT
+17 CONTAINING AT LEAST SEVEN MICRODUCTS.
+18 (B) THE DEPARTMENT OR A UNIT OF LOCAL GOVERNMENT:
+19 (1) SHALL ENSURE THAT, ON REQUEST OF A BROADBAND SERVICE
+20 PROVIDER, THE BROADBAND SERVICE PROVIDER HAS ACCESS TO THE CONDUIT
+21 REQUIRED TO BE INSTALLED UNDER SUBSECTION (A) OF THIS SECTION ON A
+22 NEUTRAL AND NONDISCRIMINATORY BASIS; AND
+23 (2) MAY CHARGE A BROADBAND SERVICE PROVIDER A REASONABLE
+24 FEE FOR THE USE OF THE CONDUIT REQUIRED TO BE INSTALLED UNDER
+25 SUBSECTION (A) OF THIS SECTION.
+26 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+27 October 1, 2025.
+
+[DELETED: :CA      5     A R B F a b p o t r d t n c o m b f o c i i a h r i c c T t p h a t t c o a n a n b a s b B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  H () ( I,“N T SN M T ET M O R P T A O B MS ( “M T ET I A CT() DU T N C O M ITE T M C I M B S P T P BT A() A B F O C I I A HTOFW O O A C   S I C–O1,2() TD:H E ( ST O O BR T B S P H A T T C T B I U S A O T S O AS  (  F T U O T C R T B I U A ).  S A B I F E T t A s t e O]

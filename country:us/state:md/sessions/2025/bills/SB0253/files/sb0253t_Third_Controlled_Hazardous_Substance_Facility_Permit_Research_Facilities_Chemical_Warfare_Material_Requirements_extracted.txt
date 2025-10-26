@@ -1,0 +1,497 @@
+Title: SENATE BILL 253
+Official Title: SENATE BILL 253
+Number of Sections: 1
+Source: versions - Third - Controlled Hazardous Substance Facility Permit - Research Facilities - Chemical Warfare Material Requirements
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+M3 5lr0245
+SB 889/21 – EHE (PRE–FILED) CF HB 62
+By: Chair, Education, Energy, and the Environment Committee (By Request –
+Departmental – Commerce)
+Requested: October 4, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 22, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Controlled Hazardous Substance Facility Permit – Research Facilities –
+3 Chemical Warfare Material Requirements
+4 FOR the purpose of providing that certain provisions of law regarding chemical warfare
+5 material requirements under a controlled hazardous substance facility permit do not
+6 apply to certain research facilities under certain circumstances; establishing
+7 additional requirements applicable to research, development, and demonstration
+8 permits issued for the incineration of chemical warfare materials at a research
+9 facility; and generally relating to controlled hazardous substance facility permits.
+10 BY repealing and reenacting, with amendments,
+11 Article – Environment
+12 Section 7–239.1, 7–239.2, 7–239.3, and 7–239.4
+13 Annotated Code of Maryland
+14 (2013 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Environment
+17 Section 7–239.5
+18 Annotated Code of Maryland
+19 (2013 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0253*
+2 SENATE BILL 253
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Environment
+4 7–239.1.
+5 (a) In §§ 7–239.1 through 7–239.4 7–239.5 of this subtitle the following words
+6 have the meanings indicated.
+7 (b) (1) “Chemical warfare material” means any of the following:
+8 (i) Adamsite (Phenarsazine chloride);
+9 (ii) GA (Ethyl–N, N–dimethyl phosphoramidocyanidate);
+10 (iii) GB (Isopropyl methyl phosphonofluoridate);
+11 (iv) GD (Pinacolyl methylphosphonofluoridate);
+12 (v) H, HD (Bis(2–chloroethyl) sulfide);
+13 (vi) HT (60 percent HD and 40 percent T
+14 (Bis[2(2–chloroethyl– thio)ethyl]ester));
+15 (vii) L (Dichloro(2–chlorovinyl)arsine);
+16 (viii) T (2–2’ Di (3–chloroethylthio)–diethyl ether); or
+17 (ix) VX (O–ethyl–S–(2–diisopropylaminoethyl) methyl
+18 phosphonothiolate).
+19 (2) “Chemical warfare material” includes any substance that has chemical
+20 warfare material as an active or principal ingredient or ingredients, and degradation
+21 products of chemical warfare material.
+22 (c) (1) “Monitoring data” means data from actual stack emissions under all
+23 operating conditions at a controlled hazardous substance facility.
+24 (2) “Monitoring data” does not include trial burn data or data derived from
+25 incineration of agent simulants.
+26 (D) “RESEARCH FACILITY” MEANS A FACILITY DESIGNATED BY THE U.S.
+27 DEPARTMENT OF DEFENSE FOR THE RESEARCH, DEVELOPMENT, AND
+28 DEMONSTRATION OF TECHNOLOGIES RELATED TO CHEMICAL WARFARE
+29 MATERIALS.
+SENATE BILL 253 3
+1 7–239.2.
+2 (a) The State of Maryland finds that the chemical warfare materials specified
+3 under § 7–239.1 of this subtitle were designed for warfare, specifically the destruction of
+4 human beings, and for no legitimate civilian industrial use.
+5 (b) The State recognizes the need to dispose of these chemical warfare materials
+6 as safely as possible, ensuring the health and safety of State residents by the regulation of
+7 their release into the environment.
+8 (c) Since these chemical warfare materials are highly toxic or carcinogenic, in
+9 addition to any other applicable requirements at law, the State shall require [without
+10 exemption or waiver] that an applicant for the treatment by incineration of chemical
+11 warfare materials shall comply with all [the] APPLICABLE requirements of this subtitle
+12 and all APPLICABLE regulations adopted under this subtitle.
+13 (D) NOTHING IN THIS SECTION OR IN §§ 7–239.3 AND 7–239.4 THROUGH
+14 7–239.5 OF THIS SUBTITLE SHALL LIMIT THE AUTHORITY OF THE DEPARTMENT TO
+15 APPLY REGULATIONS ADOPTED UNDER THIS SUBTITLE TO A CHEMICAL WARFARE
+16 MATERIAL THAT IS A CONTROLLED HAZARDOUS SUBSTANCE.
+17 7–239.3.
+18 (A) THIS SECTION DOES NOT APPLY TO THE INCINERATION OF CHEMICAL
+19 WARFARE MATERIALS AT A RESEARCH FACILITY IF THE INCINERATION IS DONE FOR
+20 RESEARCH, DEVELOPMENT, OR DEMONSTRATION PURPOSES.
+21 [(a)] (B) A chemical warfare material that is a solid waste is a controlled
+22 hazardous substance.
+23 [(b)] (C) (1) SUBJECT TO § 7–239.5 OF THIS SUBTITLE, THIS
+24 SUBSECTION DOES NOT APPLY TO THE INCINERATION OF CHEMICAL WARFARE
+25 MATERIALS AT A RESEARCH FACILITY IF THE INCINERATION IS DONE FOR
+26 RESEARCH, DEVELOPMENT, OR DEMONSTRATION PURPOSES.
+27 (2) In addition to any other applicable requirements, the Department may
+28 not issue a permit for the construction, material alteration, or operation of a controlled
+29 hazardous substance facility to be used for the treatment by incineration of a chemical
+30 warfare material unless:
+31 (1) (I) The permit applicant demonstrates to the satisfaction of the
+32 Department prior to issuance of a controlled hazardous substance facility permit:
+33 (i) 1. That the proposed incinerator technology has consistently
+34 met all applicable federal and State performance standards in an operational facility
+4 SENATE BILL 253
+1 comparable to the proposed facility for a period of time and under conditions acceptable to
+2 the Department;
+3 (ii) 2. That emissions and monitoring data from a comparable
+4 facility demonstrate compliance with State toxic air pollutant standards established under
+5 Title 2 of this article;
+6 (iii) 3. That a destruction and removal efficiency of 99.9999
+7 percent is achievable for each chemical warfare material to be incinerated at the facility;
+8 (iv) 4. That the applicant has made adequate provision to
+9 support and fund the development of a plan that demonstrates the capability of removing,
+10 sheltering, and protecting persons from the largest area at risk from a worst–case release,
+11 as defined by the Department;
+12 (v) 5. That an emergency preparedness plan has been developed
+13 with adequate public participation that provides training, coordination, and equipment
+14 necessary for State and local emergency response personnel and community members to
+15 respond to a release of a chemical warfare material from the proposed facility; and
+16 (vi) 6. That the emergency preparedness plan has been
+17 presented at public meetings in each county potentially impacted by a worst–case release;
+18 (2) (II) The Department finds that the applicant has fully evaluated all
+19 reasonable alternative methods for treatment or disposal including transport to a less
+20 populated disposal site in order to create less risk of release or harm to the general public
+21 or the environment; and
+22 (3) (III) The local governing body of each county and municipal
+23 corporation included in the worst–case release has a reasonable opportunity to review and
+24 provide comment on the facility permit application and the emergency preparedness plan
+25 under paragraph (1)(v) of this subsection ITEM (I)5 OF THIS PARAGRAPH.
+26 7–239.4.
+27 (A) THIS SUBJECT TO § 7–239.5 OF THIS SUBTITLE, THIS SECTION DOES NOT
+28 APPLY TO THE INCINERATION OF CHEMICAL WARFARE MATERIALS AT A RESEARCH
+29 FACILITY IF THE INCINERATION IS DONE FOR RESEARCH, DEVELOPMENT, OR
+30 DEMONSTRATION PURPOSES.
+31 [(a)] (B) The Department shall require as conditions of operation of a controlled
+32 hazardous substance facility to be used for the treatment by incineration of a chemical
+33 warfare material that:
+34 (1) Treatment by incineration be monitored on a continuous basis;
+SENATE BILL 253 5
+1 (2) Monitoring data be regularly reviewed by a qualified independent third
+2 party selected by the Department; and
+3 (3) Monitoring data and reviews be reported to the Department in the
+4 manner and frequency determined appropriate by the Department.
+5 [(b)] (C) Any permit issued under this section shall be for a quantity that is
+6 specifically identified and:
+7 (1) May be renewed for good cause as to the length of time for completion
+8 of the incineration authorized under the permit; but
+9 (2) May not be modified as to the amount of controlled hazardous substance
+10 to be destroyed.
+11 [(c)] (D) After destruction of the specific quantity of the controlled hazardous
+12 substance allowed by the terms of the permit issued under this section, the incinerator shall
+13 be disassembled and disposed of in accordance with all applicable federal and State
+14 performance standards and in a time period established by the permit.
+15 [(d)] (E) In addition to the facility permit fee required under § 7–237 of this
+16 subtitle, the applicant shall pay the compensation of an independent third party with whom
+17 the Department may contract for the review of application materials and monitoring data.
+18 7–239.5.
+19 (A) (1) THE DEPARTMENT MAY ISSUE A RESEARCH, DEVELOPMENT, AND
+20 DEMONSTRATION PERMIT FOR THE INCINERATION OF CHEMICAL WARFARE
+21 MATERIALS AT A RESEARCH FACILITY IN ACCORDANCE WITH THIS SECTION.
+22 (2) THE REQUIREMENTS OF THIS SECTION ARE IN ADDITION TO ANY
+23 GENERAL REQUIREMENTS FOR RESEARCH, DEVELOPMENT, AND DEMONSTRATION
+24 PERMITS, INCLUDING GENERAL REQUIREMENTS RELATED TO PUBLIC
+25 PARTICIPATION IN THE PERMITTING PROCESS.
+26 (B) A PERMIT ISSUED UNDER THIS SECTION SHALL:
+27 (1) LIMIT THE DURATION OF THE PERMIT IN ACCORDANCE WITH
+28 DEPARTMENT REGULATIONS;
+29 (2) PROVIDE FOR THE RECEIPT AND TREATMENT BY THE RESEARCH
+30 FACILITY OF ONLY THOSE TYPES AND QUANTITIES OF CHEMICAL WARFARE
+31 MATERIALS THAT THE DEPARTMENT CONSIDERS NECESSARY FOR PURPOSES OF
+32 DETERMINING THE EFFICACY AND PERFORMANCE CAPABILITIES OF THE
+33 INCINERATION TECHNOLOGY OR PROCESS; AND
+6 SENATE BILL 253
+1 (3) SUBJECT TO SUBSECTION (C) OF THIS SECTION, INCLUDE
+2 REQUIREMENTS AS THE DEPARTMENT CONSIDERS NECESSARY TO PROTECT HUMAN
+3 HEALTH AND THE ENVIRONMENT, INCLUDING REQUIREMENTS REGARDING:
+4 (I) MONITORING;
+5 (II) OPERATION;
+6 (III) FINANCIAL RESPONSIBILITY;
+7 (IV) CLOSURE AND REMEDIAL ACTION; AND
+8 (V) ANY OTHER MATTER THAT THE DEPARTMENT CONSIDERS
+9 NECESSARY RELATED TO TESTING AND PROVIDING INFORMATION TO THE
+10 DEPARTMENT WITH RESPECT TO THE OPERATION OF THE RESEARCH FACILITY.
+11 (C) IN DEVELOPING PERMIT REQUIREMENTS UNDER THIS SECTION, THE
+12 DEPARTMENT SHALL:
+13 (1) REQUIRE CONTINUOUS NEAR–REAL TIME AIR EMISSIONS
+14 MONITORING, WITH A LAG TIME OF NOT MORE THAN 10 MINUTES, DURING
+15 INCINERATION; AND
+16 (2) CONSIDER THE NEED FOR SOIL AND WATER POLLUTION
+17 MONITORING.
+18 (D) THE DEPARTMENT MAY ORDER AN IMMEDIATE TERMINATION OF ALL
+19 INCINERATION OPERATIONS AT A RESEARCH FACILITY AT ANY TIME THE
+20 DEPARTMENT DETERMINES THAT TERMINATION IS NECESSARY TO PROTECT
+21 HUMAN HEALTH OR THE ENVIRONMENT.
+22 (E) (1) THE DEPARTMENT SHALL REQUIRE A RESEARCH FACILITY THAT
+23 RECEIVES A PERMIT UNDER THIS SECTION TO:
+24 (I) AT LEAST ONCE EVERY YEAR, REPORT TO THE
+25 DEPARTMENT ON OPERATIONS UNDER THE PERMIT, INCLUDING:
+26 1. THE QUANTITIES AND TYPES OF CHEMICAL WARFARE
+27 MATERIALS INCINERATED DURING THE REPORTING PERIOD;
+28 2. THE RESULTS OF ALL EMISSIONS AND POLLUTION
+29 MONITORING UNDERTAKEN UNDER THE PERMIT; AND
+SENATE BILL 253 7
+1 3. ANY OTHER INFORMATION REQUESTED BY THE
+2 DEPARTMENT; AND
+3 (II) AT LEAST ONCE EVERY 2 YEARS, CONDUCT AND SUBMIT TO
+4 THE DEPARTMENT AN ASSESSMENT OF INCINERATION ACTIVITIES CONDUCTED
+5 UNDER THE PERMIT ON LOCAL ECOSYSTEMS, PUBLIC HEALTH, AND AIR QUALITY.
+6 (2) THE DEPARTMENT:
+7 (I) SHALL REVIEW ALL REPORTS AND ASSESSMENTS
+8 SUBMITTED UNDER THIS SUBSECTION; AND
+9 (II) MAY, ON THE BASIS OF A REPORT OR ASSESSMENT
+10 SUBMITTED UNDER THIS SUBSECTION, MODIFY OR REVOKE A PERMIT ISSUED
+11 UNDER THIS SECTION.
+12 (3) THE DEPARTMENT SHALL:
+13 (I) TO THE EXTENT THAT DOING SO IS CONSISTENT WITH §
+14 4–352 OF THE GENERAL PROVISIONS ARTICLE, MAKE ALL REPORTS AND
+15 ASSESSMENTS REQUIRED UNDER THIS SUBSECTION AVAILABLE ON THE
+16 DEPARTMENT’S WEBSITE; AND
+17 (II) IN ACCORDANCE WITH § 2–1257 OF THE STATE
+18 GOVERNMENT ARTICLE, SUBMIT ALL REPORTS AND ASSESSMENTS REQUIRED
+19 UNDER THIS SUBSECTION TO THE SENATE COMMITTEE ON EDUCATION, ENERGY,
+20 AND THE ENVIRONMENT AND THE HOUSE ENVIRONMENT AND TRANSPORTATION
+21 COMMITTEE.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+23 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA      5 ( C C E E a t E C ( R – A C C F m a t c r f u c c e a r a t r d a d p i f t i o c w m a a r f B  A  S  A  ( B  A  S  A  (]
+[DELETED:  S   S T A 7  ( I   h  ( ( “    ( A    ( G    ( G    ( G    ( H    ( H ( p H a 4 p T (    ( L    ( T    ( V ( m p   ( “ w m a a a o p i o i a d p  ( ( “ o   ( “ i ) “R”UE FY M A F D B T D, O E F T RH DT A O T R T C W]
+[DELETED: S 3 7  ( T u h  ( T a t  ( S a t a o a r a l t S s r w e o wr t a a f t t b i o c w te  a   ) N§§7374O   A  T5  E  7   )H H T ,   () A c w m t i a s w i a c]( h  () ]()()S§75CU T   O T SE T D N A T T I O C W A A R F I T I I D FH T ,     I n h w   (  T p a d t t s o t D    (  T m a a f a S p s i a o f]
+[DELETED:  S  c t    (  T f T    (  T a d a r e o 9 p    (  T t a h m a p t s s a    (  T w n r    (  T t e p p h b p   (  T r a m f t o d i t t a l p o   (  T l g b o e c a m c p u . I ) 7  ) TS§75H U   E SS I T I I D F RH DT O   ()T]() h w   ( T]
+[DELETED: S 5   ( M p   ( M d a r b r t t D i t m  () A]( s   ( M o   ( M t  () A]( s b d a d o i a w a a f a S p  () I]( s t    )()TD,H EH T  P F T I O C W    )H T S I G R R T PS    )A    ) T D O T P I A W    ) O O T T A Q O C W T T E C N F P O T E A P C O TS  ]
+[DELETED:  S    )S() T S C O T SN I ET G      )MOG     )OIP     )FII     )CVLN     )AN E R T T A P I T T   )IN D P R U T SN T    )R C NRR T A EG W A L T O N M T  MS D10N     ) T N F S A W P   )TH E O A A R F A A T T D T T I N T PT    )()TH E     )AT L O E YR R T T,T       .D      . R O A E A PT  ]
+[DELETED: S 7     . O I R B TT      )A2IT  S  E A A O I A CS H Y,     )TD E    )H R A R A AN      )MIAY O T B O A R O A U T SN M O R A P IN     )TD E    )T§O T E T D S I C W 2GPAO T E R RE M A R A R U T S A O T’TSE      )I§27IN A W   O T TA RE S A R A A R E O DN NYCE,E N O N RHE    S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 253
+M3 5lr0245
+SB 889/21 – EHE (PRE–FILED) CF HB 62
+By: Chair, Education, Energy, and the Environment Committee (By Request –
+Departmental – Commerce)
+Requested: October 4, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Education, Energy, and the Environment
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 22, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Controlled Hazardous Substance Facility Permit – Research Facilities –
+3 Chemical Warfare Material Requirements
+4 FOR the purpose of providing that certain provisions of law regarding chemical warfare
+5 material requirements under a controlled hazardous substance facility permit do not
+6 apply to certain research facilities under certain circumstances; establishing
+7 additional requirements applicable to research, development, and demonstration
+8 permits issued for the incineration of chemical warfare materials at a research
+9 facility; and generally relating to controlled hazardous substance facility permits.
+10 BY repealing and reenacting, with amendments,
+11 Article – Environment
+12 Section 7–239.1, 7–239.2, 7–239.3, and 7–239.4
+13 Annotated Code of Maryland
+14 (2013 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Environment
+17 Section 7–239.5
+18 Annotated Code of Maryland
+19 (2013 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0253*
+
+2 SENATE BILL 253
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Environment
+4 7–239.1.
+5 (a) In §§ 7–239.1 through 7–239.4 7–239.5 of this subtitle the following words
+6 have the meanings indicated.
+7 (b) (1) “Chemical warfare material” means any of the following:
+8 (i) Adamsite (Phenarsazine chloride);
+9 (ii) GA (Ethyl–N, N–dimethyl phosphoramidocyanidate);
+10 (iii) GB (Isopropyl methyl phosphonofluoridate);
+11 (iv) GD (Pinacolyl methylphosphonofluoridate);
+12 (v) H, HD (Bis(2–chloroethyl) sulfide);
+13 (vi) HT (60 percent HD and 40 percent T
+14 (Bis[2(2–chloroethyl– thio)ethyl]ester));
+15 (vii) L (Dichloro(2–chlorovinyl)arsine);
+16 (viii) T (2–2’ Di (3–chloroethylthio)–diethyl ether); or
+17 (ix) VX (O–ethyl–S–(2–diisopropylaminoethyl) methyl
+18 phosphonothiolate).
+19 (2) “Chemical warfare material” includes any substance that has chemical
+20 warfare material as an active or principal ingredient or ingredients, and degradation
+21 products of chemical warfare material.
+22 (c) (1) “Monitoring data” means data from actual stack emissions under all
+23 operating conditions at a controlled hazardous substance facility.
+24 (2) “Monitoring data” does not include trial burn data or data derived from
+25 incineration of agent simulants.
+26 (D) “RESEARCH FACILITY” MEANS A FACILITY DESIGNATED BY THE U.S.
+27 DEPARTMENT OF DEFENSE FOR THE RESEARCH, DEVELOPMENT, AND
+28 DEMONSTRATION OF TECHNOLOGIES RELATED TO CHEMICAL WARFARE
+29 MATERIALS.
+
+SENATE BILL 253 3
+1 7–239.2.
+2 (a) The State of Maryland finds that the chemical warfare materials specified
+3 under § 7–239.1 of this subtitle were designed for warfare, specifically the destruction of
+4 human beings, and for no legitimate civilian industrial use.
+5 (b) The State recognizes the need to dispose of these chemical warfare materials
+6 as safely as possible, ensuring the health and safety of State residents by the regulation of
+7 their release into the environment.
+8 (c) Since these chemical warfare materials are highly toxic or carcinogenic, in
+9 addition to any other applicable requirements at law, the State shall require [without
+10 exemption or waiver] that an applicant for the treatment by incineration of chemical
+11 warfare materials shall comply with all [the] APPLICABLE requirements of this subtitle
+12 and all APPLICABLE regulations adopted under this subtitle.
+13 (D) NOTHING IN THIS SECTION OR IN §§ 7–239.3 AND 7–239.4 THROUGH
+14 7–239.5 OF THIS SUBTITLE SHALL LIMIT THE AUTHORITY OF THE DEPARTMENT TO
+15 APPLY REGULATIONS ADOPTED UNDER THIS SUBTITLE TO A CHEMICAL WARFARE
+16 MATERIAL THAT IS A CONTROLLED HAZARDOUS SUBSTANCE.
+17 7–239.3.
+18 (A) THIS SECTION DOES NOT APPLY TO THE INCINERATION OF CHEMICAL
+19 WARFARE MATERIALS AT A RESEARCH FACILITY IF THE INCINERATION IS DONE FOR
+20 RESEARCH, DEVELOPMENT, OR DEMONSTRATION PURPOSES.
+21 [(a)] (B) A chemical warfare material that is a solid waste is a controlled
+22 hazardous substance.
+23 [(b)] (C) (1) SUBJECT TO § 7–239.5 OF THIS SUBTITLE, THIS
+24 SUBSECTION DOES NOT APPLY TO THE INCINERATION OF CHEMICAL WARFARE
+25 MATERIALS AT A RESEARCH FACILITY IF THE INCINERATION IS DONE FOR
+26 RESEARCH, DEVELOPMENT, OR DEMONSTRATION PURPOSES.
+27 (2) In addition to any other applicable requirements, the Department may
+28 not issue a permit for the construction, material alteration, or operation of a controlled
+29 hazardous substance facility to be used for the treatment by incineration of a chemical
+30 warfare material unless:
+31 (1) (I) The permit applicant demonstrates to the satisfaction of the
+32 Department prior to issuance of a controlled hazardous substance facility permit:
+33 (i) 1. That the proposed incinerator technology has consistently
+34 met all applicable federal and State performance standards in an operational facility
+
+4 SENATE BILL 253
+1 comparable to the proposed facility for a period of time and under conditions acceptable to
+2 the Department;
+3 (ii) 2. That emissions and monitoring data from a comparable
+4 facility demonstrate compliance with State toxic air pollutant standards established under
+5 Title 2 of this article;
+6 (iii) 3. That a destruction and removal efficiency of 99.9999
+7 percent is achievable for each chemical warfare material to be incinerated at the facility;
+8 (iv) 4. That the applicant has made adequate provision to
+9 support and fund the development of a plan that demonstrates the capability of removing,
+10 sheltering, and protecting persons from the largest area at risk from a worst–case release,
+11 as defined by the Department;
+12 (v) 5. That an emergency preparedness plan has been developed
+13 with adequate public participation that provides training, coordination, and equipment
+14 necessary for State and local emergency response personnel and community members to
+15 respond to a release of a chemical warfare material from the proposed facility; and
+16 (vi) 6. That the emergency preparedness plan has been
+17 presented at public meetings in each county potentially impacted by a worst–case release;
+18 (2) (II) The Department finds that the applicant has fully evaluated all
+19 reasonable alternative methods for treatment or disposal including transport to a less
+20 populated disposal site in order to create less risk of release or harm to the general public
+21 or the environment; and
+22 (3) (III) The local governing body of each county and municipal
+23 corporation included in the worst–case release has a reasonable opportunity to review and
+24 provide comment on the facility permit application and the emergency preparedness plan
+25 under paragraph (1)(v) of this subsection ITEM (I)5 OF THIS PARAGRAPH.
+26 7–239.4.
+27 (A) THIS SUBJECT TO § 7–239.5 OF THIS SUBTITLE, THIS SECTION DOES NOT
+28 APPLY TO THE INCINERATION OF CHEMICAL WARFARE MATERIALS AT A RESEARCH
+29 FACILITY IF THE INCINERATION IS DONE FOR RESEARCH, DEVELOPMENT, OR
+30 DEMONSTRATION PURPOSES.
+31 [(a)] (B) The Department shall require as conditions of operation of a controlled
+32 hazardous substance facility to be used for the treatment by incineration of a chemical
+33 warfare material that:
+34 (1) Treatment by incineration be monitored on a continuous basis;
+
+SENATE BILL 253 5
+1 (2) Monitoring data be regularly reviewed by a qualified independent third
+2 party selected by the Department; and
+3 (3) Monitoring data and reviews be reported to the Department in the
+4 manner and frequency determined appropriate by the Department.
+5 [(b)] (C) Any permit issued under this section shall be for a quantity that is
+6 specifically identified and:
+7 (1) May be renewed for good cause as to the length of time for completion
+8 of the incineration authorized under the permit; but
+9 (2) May not be modified as to the amount of controlled hazardous substance
+10 to be destroyed.
+11 [(c)] (D) After destruction of the specific quantity of the controlled hazardous
+12 substance allowed by the terms of the permit issued under this section, the incinerator shall
+13 be disassembled and disposed of in accordance with all applicable federal and State
+14 performance standards and in a time period established by the permit.
+15 [(d)] (E) In addition to the facility permit fee required under § 7–237 of this
+16 subtitle, the applicant shall pay the compensation of an independent third party with whom
+17 the Department may contract for the review of application materials and monitoring data.
+18 7–239.5.
+19 (A) (1) THE DEPARTMENT MAY ISSUE A RESEARCH, DEVELOPMENT, AND
+20 DEMONSTRATION PERMIT FOR THE INCINERATION OF CHEMICAL WARFARE
+21 MATERIALS AT A RESEARCH FACILITY IN ACCORDANCE WITH THIS SECTION.
+22 (2) THE REQUIREMENTS OF THIS SECTION ARE IN ADDITION TO ANY
+23 GENERAL REQUIREMENTS FOR RESEARCH, DEVELOPMENT, AND DEMONSTRATION
+24 PERMITS, INCLUDING GENERAL REQUIREMENTS RELATED TO PUBLIC
+25 PARTICIPATION IN THE PERMITTING PROCESS.
+26 (B) A PERMIT ISSUED UNDER THIS SECTION SHALL:
+27 (1) LIMIT THE DURATION OF THE PERMIT IN ACCORDANCE WITH
+28 DEPARTMENT REGULATIONS;
+29 (2) PROVIDE FOR THE RECEIPT AND TREATMENT BY THE RESEARCH
+30 FACILITY OF ONLY THOSE TYPES AND QUANTITIES OF CHEMICAL WARFARE
+31 MATERIALS THAT THE DEPARTMENT CONSIDERS NECESSARY FOR PURPOSES OF
+32 DETERMINING THE EFFICACY AND PERFORMANCE CAPABILITIES OF THE
+33 INCINERATION TECHNOLOGY OR PROCESS; AND
+
+6 SENATE BILL 253
+1 (3) SUBJECT TO SUBSECTION (C) OF THIS SECTION, INCLUDE
+2 REQUIREMENTS AS THE DEPARTMENT CONSIDERS NECESSARY TO PROTECT HUMAN
+3 HEALTH AND THE ENVIRONMENT, INCLUDING REQUIREMENTS REGARDING:
+4 (I) MONITORING;
+5 (II) OPERATION;
+6 (III) FINANCIAL RESPONSIBILITY;
+7 (IV) CLOSURE AND REMEDIAL ACTION; AND
+8 (V) ANY OTHER MATTER THAT THE DEPARTMENT CONSIDERS
+9 NECESSARY RELATED TO TESTING AND PROVIDING INFORMATION TO THE
+10 DEPARTMENT WITH RESPECT TO THE OPERATION OF THE RESEARCH FACILITY.
+11 (C) IN DEVELOPING PERMIT REQUIREMENTS UNDER THIS SECTION, THE
+12 DEPARTMENT SHALL:
+13 (1) REQUIRE CONTINUOUS NEAR–REAL TIME AIR EMISSIONS
+14 MONITORING, WITH A LAG TIME OF NOT MORE THAN 10 MINUTES, DURING
+15 INCINERATION; AND
+16 (2) CONSIDER THE NEED FOR SOIL AND WATER POLLUTION
+17 MONITORING.
+18 (D) THE DEPARTMENT MAY ORDER AN IMMEDIATE TERMINATION OF ALL
+19 INCINERATION OPERATIONS AT A RESEARCH FACILITY AT ANY TIME THE
+20 DEPARTMENT DETERMINES THAT TERMINATION IS NECESSARY TO PROTECT
+21 HUMAN HEALTH OR THE ENVIRONMENT.
+22 (E) (1) THE DEPARTMENT SHALL REQUIRE A RESEARCH FACILITY THAT
+23 RECEIVES A PERMIT UNDER THIS SECTION TO:
+24 (I) AT LEAST ONCE EVERY YEAR, REPORT TO THE
+25 DEPARTMENT ON OPERATIONS UNDER THE PERMIT, INCLUDING:
+26 1. THE QUANTITIES AND TYPES OF CHEMICAL WARFARE
+27 MATERIALS INCINERATED DURING THE REPORTING PERIOD;
+28 2. THE RESULTS OF ALL EMISSIONS AND POLLUTION
+29 MONITORING UNDERTAKEN UNDER THE PERMIT; AND
+
+SENATE BILL 253 7
+1 3. ANY OTHER INFORMATION REQUESTED BY THE
+2 DEPARTMENT; AND
+3 (II) AT LEAST ONCE EVERY 2 YEARS, CONDUCT AND SUBMIT TO
+4 THE DEPARTMENT AN ASSESSMENT OF INCINERATION ACTIVITIES CONDUCTED
+5 UNDER THE PERMIT ON LOCAL ECOSYSTEMS, PUBLIC HEALTH, AND AIR QUALITY.
+6 (2) THE DEPARTMENT:
+7 (I) SHALL REVIEW ALL REPORTS AND ASSESSMENTS
+8 SUBMITTED UNDER THIS SUBSECTION; AND
+9 (II) MAY, ON THE BASIS OF A REPORT OR ASSESSMENT
+10 SUBMITTED UNDER THIS SUBSECTION, MODIFY OR REVOKE A PERMIT ISSUED
+11 UNDER THIS SECTION.
+12 (3) THE DEPARTMENT SHALL:
+13 (I) TO THE EXTENT THAT DOING SO IS CONSISTENT WITH §
+14 4–352 OF THE GENERAL PROVISIONS ARTICLE, MAKE ALL REPORTS AND
+15 ASSESSMENTS REQUIRED UNDER THIS SUBSECTION AVAILABLE ON THE
+16 DEPARTMENT’S WEBSITE; AND
+17 (II) IN ACCORDANCE WITH § 2–1257 OF THE STATE
+18 GOVERNMENT ARTICLE, SUBMIT ALL REPORTS AND ASSESSMENTS REQUIRED
+19 UNDER THIS SUBSECTION TO THE SENATE COMMITTEE ON EDUCATION, ENERGY,
+20 AND THE ENVIRONMENT AND THE HOUSE ENVIRONMENT AND TRANSPORTATION
+21 COMMITTEE.
+22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+23 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA      5 ( C C E E a t E C ( R – A C C F m a t c r f u c c e a r a t r d a d p i f t i o c w m a a r f B  A  S  A  ( B  A  S  A  (]
+[DELETED:  S   S T A 7  ( I   h  ( ( “    ( A    ( G    ( G    ( G    ( H    ( H ( p H a 4 p T (    ( L    ( T    ( V ( m p   ( “ w m a a a o p i o i a d p  ( ( “ o   ( “ i ) “R”UE FY M A F D B T D, O E F T RH DT A O T R T C W]
+[DELETED: S 3 7  ( T u h  ( T a t  ( S a t a o a r a l t S s r w e o wr t a a f t t b i o c w te  a   ) N§§7374O   A  T5  E  7   )H H T ,   () A c w m t i a s w i a c]( h  () ]()()S§75CU T   O T SE T D N A T T I O C W A A R F I T I I D FH T ,     I n h w   (  T p a d t t s o t D    (  T m a a f a S p s i a o f]
+[DELETED:  S  c t    (  T f T    (  T a d a r e o 9 p    (  T t a h m a p t s s a    (  T w n r    (  T t e p p h b p   (  T r a m f t o d i t t a l p o   (  T l g b o e c a m c p u . I ) 7  ) TS§75H U   E SS I T I I D F RH DT O   ()T]() h w   ( T]
+[DELETED: S 5   ( M p   ( M d a r b r t t D i t m  () A]( s   ( M o   ( M t  () A]( s b d a d o i a w a a f a S p  () I]( s t    )()TD,H EH T  P F T I O C W    )H T S I G R R T PS    )A    ) T D O T P I A W    ) O O T T A Q O C W T T E C N F P O T E A P C O TS  ]
+[DELETED:  S    )S() T S C O T SN I ET G      )MOG     )OIP     )FII     )CVLN     )AN E R T T A P I T T   )IN D P R U T SN T    )R C NRR T A EG W A L T O N M T  MS D10N     ) T N F S A W P   )TH E O A A R F A A T T D T T I N T PT    )()TH E     )AT L O E YR R T T,T       .D      . R O A E A PT  ]
+[DELETED: S 7     . O I R B TT      )A2IT  S  E A A O I A CS H Y,     )TD E    )H R A R A AN      )MIAY O T B O A R O A U T SN M O R A P IN     )TD E    )T§O T E T D S I C W 2GPAO T E R RE M A R A R U T S A O T’TSE      )I§27IN A W   O T TA RE S A R A A R E O DN NYCE,E N O N RHE    S 1          G               ]

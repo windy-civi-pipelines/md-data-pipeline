@@ -1,0 +1,146 @@
+Title: SENATE BILL 533
+Official Title: SENATE BILL 533
+Number of Sections: 1
+Source: versions - First - Public Safety - Police Accountability - Time Limit for Filing Administrative Charges
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+E4 5lr2945
+CF HB 238
+By: Senators Folden, Bailey, Salling, and Ready
+Introduced and read first time: January 23, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Safety – Police Accountability – Time Limit for Filing Administrative
+3 Charges
+4 FOR the purpose of altering the deadline for the completion of the process of review by a
+5 certain investigating unit through disposition by an administrative charging
+6 committee under certain circumstances; requiring a law enforcement agency to file
+7 any administrative charges arising out of an investigation of alleged police officer
+8 misconduct that is not required to be reviewed by an administrative charging
+9 committee within a certain period of time; requiring an administrative charging
+10 committee or law enforcement agency to file any administrative charges for alleged
+11 police officer misconduct that reasonably appears to be the subject of a criminal
+12 investigation within a certain period of time; and generally relating to police
+13 accountability.
+14 BY repealing and reenacting, with amendments,
+15 Article – Public Safety
+16 Section 3–113
+17 Annotated Code of Maryland
+18 (2022 Replacement Volume and 2024 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Public Safety
+22 3–113.
+23 (a) The investigating unit of a law enforcement agency shall immediately review
+24 a complaint by a member of the public alleging police officer misconduct.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0533*
+2 SENATE BILL 533
+1 (b) An administrative charging committee shall review and make a determination
+2 or ask for further review within 30 days after completion of the investigating unit’s review.
+3 (c) [The] EXCEPT AS PROVIDED IN SUBSECTION (E) OF THIS SECTION, FOR
+4 AN INCIDENT INVOLVING A MEMBER OF THE PUBLIC AND A POLICE OFFICER, THE
+5 process of review by the investigating unit through disposition by the administrative
+6 charging committee shall be completed within 1 year and 1 day after the [filing of a
+7 complaint by a citizen] DATE THAT THE APPROPRIATE OFFICIAL EMPLOYED BY THE
+8 LAW ENFORCEMENT AGENCY BECAME AWARE OF THE INCIDENT.
+9 (D) EXCEPT AS PROVIDED IN SUBSECTION (E) OF THIS SECTION, A LAW
+10 ENFORCEMENT AGENCY SHALL FILE ANY ADMINISTRATIVE CHARGES ARISING OUT
+11 OF AN INVESTIGATION OF ALLEGED POLICE OFFICER MISCONDUCT THAT IS NOT
+12 REQUIRED TO BE REVIEWED BY AN ADMINISTRATIVE CHARGING COMMITTEE
+13 WITHIN 1 YEAR AND 1 DAY AFTER THE DATE THAT THE APPROPRIATE OFFICIAL
+14 EMPLOYED BY THE LAW ENFORCEMENT AGENCY BECAME AWARE OF THE INCIDENT
+15 THAT LED TO THE INVESTIGATION.
+16 (E) IF ALLEGED POLICE OFFICER MISCONDUCT IS RELATED TO ACTIVITY
+17 THAT REASONABLY APPEARS TO BE THE SUBJECT OF A CRIMINAL INVESTIGATION,
+18 AN ADMINISTRATIVE CHARGING COMMITTEE OR LAW ENFORCEMENT AGENCY
+19 SHALL FILE ANY ADMINISTRATIVE CHARGES WITHIN 1 YEAR AND 1 DAY AFTER THE
+20 DATE OF:
+21 (1) THE INVESTIGATING LAW ENFORCEMENT AGENCY’S
+22 DETERMINATION THAT THE MATTER IS NOT RELATED TO CRIMINAL ACTIVITY;
+23 (2) THE FINAL DISPOSITION OF ALL RELATED CRIMINAL CHARGES;
+24 OR
+25 (3) THE ADMINISTRATIVE CHARGING COMMITTEE’S OR LAW
+26 ENFORCEMENT AGENCY’S RECEIPT OF NOTICE THAT THE APPROPRIATE
+27 PROSECUTORIAL AUTHORITY DECLINED TO FILE CRIMINAL CHARGES.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+29 October 1, 2025.
+[DELETED: :CA      5   C A P C F c i u t d b a a c c a m t i n r t b r b a a c c w a c p o t r a a c c p s i w a c p o t a g r t p a B  A S  A  (  S T A 3  ( T a]
+[DELETED:  S   ( A o  ( Te]E() E N R   p o r b t i u t d b t a c c s b c w 1 y a 1 d a t f o a cn . ) E()X A P I S E O T SN A L I O A P O M I N T B R B A A C C  Y A  DRT D T T A O EO   ) FN A C C O L E A        I L E AYS   S    A C CES O L AYS R O N T T A  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 533
+E4 5lr2945
+CF HB 238
+By: Senators Folden, Bailey, Salling, and Ready
+Introduced and read first time: January 23, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Public Safety – Police Accountability – Time Limit for Filing Administrative
+3 Charges
+4 FOR the purpose of altering the deadline for the completion of the process of review by a
+5 certain investigating unit through disposition by an administrative charging
+6 committee under certain circumstances; requiring a law enforcement agency to file
+7 any administrative charges arising out of an investigation of alleged police officer
+8 misconduct that is not required to be reviewed by an administrative charging
+9 committee within a certain period of time; requiring an administrative charging
+10 committee or law enforcement agency to file any administrative charges for alleged
+11 police officer misconduct that reasonably appears to be the subject of a criminal
+12 investigation within a certain period of time; and generally relating to police
+13 accountability.
+14 BY repealing and reenacting, with amendments,
+15 Article – Public Safety
+16 Section 3–113
+17 Annotated Code of Maryland
+18 (2022 Replacement Volume and 2024 Supplement)
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
+21 Article – Public Safety
+22 3–113.
+23 (a) The investigating unit of a law enforcement agency shall immediately review
+24 a complaint by a member of the public alleging police officer misconduct.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0533*
+
+2 SENATE BILL 533
+1 (b) An administrative charging committee shall review and make a determination
+2 or ask for further review within 30 days after completion of the investigating unit’s review.
+3 (c) [The] EXCEPT AS PROVIDED IN SUBSECTION (E) OF THIS SECTION, FOR
+4 AN INCIDENT INVOLVING A MEMBER OF THE PUBLIC AND A POLICE OFFICER, THE
+5 process of review by the investigating unit through disposition by the administrative
+6 charging committee shall be completed within 1 year and 1 day after the [filing of a
+7 complaint by a citizen] DATE THAT THE APPROPRIATE OFFICIAL EMPLOYED BY THE
+8 LAW ENFORCEMENT AGENCY BECAME AWARE OF THE INCIDENT.
+9 (D) EXCEPT AS PROVIDED IN SUBSECTION (E) OF THIS SECTION, A LAW
+10 ENFORCEMENT AGENCY SHALL FILE ANY ADMINISTRATIVE CHARGES ARISING OUT
+11 OF AN INVESTIGATION OF ALLEGED POLICE OFFICER MISCONDUCT THAT IS NOT
+12 REQUIRED TO BE REVIEWED BY AN ADMINISTRATIVE CHARGING COMMITTEE
+13 WITHIN 1 YEAR AND 1 DAY AFTER THE DATE THAT THE APPROPRIATE OFFICIAL
+14 EMPLOYED BY THE LAW ENFORCEMENT AGENCY BECAME AWARE OF THE INCIDENT
+15 THAT LED TO THE INVESTIGATION.
+16 (E) IF ALLEGED POLICE OFFICER MISCONDUCT IS RELATED TO ACTIVITY
+17 THAT REASONABLY APPEARS TO BE THE SUBJECT OF A CRIMINAL INVESTIGATION,
+18 AN ADMINISTRATIVE CHARGING COMMITTEE OR LAW ENFORCEMENT AGENCY
+19 SHALL FILE ANY ADMINISTRATIVE CHARGES WITHIN 1 YEAR AND 1 DAY AFTER THE
+20 DATE OF:
+21 (1) THE INVESTIGATING LAW ENFORCEMENT AGENCY’S
+22 DETERMINATION THAT THE MATTER IS NOT RELATED TO CRIMINAL ACTIVITY;
+23 (2) THE FINAL DISPOSITION OF ALL RELATED CRIMINAL CHARGES;
+24 OR
+25 (3) THE ADMINISTRATIVE CHARGING COMMITTEE’S OR LAW
+26 ENFORCEMENT AGENCY’S RECEIPT OF NOTICE THAT THE APPROPRIATE
+27 PROSECUTORIAL AUTHORITY DECLINED TO FILE CRIMINAL CHARGES.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+29 October 1, 2025.
+
+[DELETED: :CA      5   C A P C F c i u t d b a a c c a m t i n r t b r b a a c c w a c p o t r a a c c p s i w a c p o t a g r t p a B  A S  A  (  S T A 3  ( T a]
+[DELETED:  S   ( A o  ( Te]E() E N R   p o r b t i u t d b t a c c s b c w 1 y a 1 d a t f o a cn . ) E()X A P I S E O T SN A L I O A P O M I N T B R B A A C C  Y A  DRT D T T A O EO   ) FN A C C O L E A        I L E AYS   S    A C CES O L AYS R O N T T A  S A B I F E T t A s t e O]

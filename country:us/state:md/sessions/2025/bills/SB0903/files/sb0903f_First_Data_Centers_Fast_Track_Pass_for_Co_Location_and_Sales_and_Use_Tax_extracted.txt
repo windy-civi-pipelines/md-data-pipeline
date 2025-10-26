@@ -1,0 +1,792 @@
+Title: SENATE BILL 903
+Official Title: SENATE BILL 903
+Number of Sections: 1
+Source: versions - First - Data Centers - Fast Track Pass for Co-Location and Sales and Use Tax
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+C5, Q4 5lr2284
+By: Senator Hester
+Introduced and read first time: January 28, 2025
+Assigned to: Education, Energy, and the Environment and Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Data Centers – Fast Track Pass for Co–Location and Sales and Use Tax
+3 FOR the purpose of establishing an expedited certificate of public convenience and
+4 necessity review process for certain co–located energy generation projects that have
+5 received a fast track pass; establishing a Data Center Fast Track Advisory
+6 Committee in the Public Service Commission to facilitate the application for and
+7 review and awarding of fast track passes; altering the requirements for qualified
+8 data center personal property to be eligible to be exempt from the sales and use tax;
+9 authorizing the State Department of Assessments and Taxation to limit the sales
+10 and use tax exemption for qualified data center personal property under certain
+11 circumstances; requiring the Maryland Energy Administration to establish certain
+12 guidelines; and generally relating to data centers.
+13 BY adding to
+14 Article – Public Utilities
+15 Section 7–207(b)(1)(iv), 7–207.4, and 7–218
+16 Annotated Code of Maryland
+17 (2020 Replacement Volume and 2024 Supplement)
+18 BY repealing and reenacting, without amendments,
+19 Article – Public Utilities
+20 Section 7–207(c)
+21 Annotated Code of Maryland
+22 (2020 Replacement Volume and 2024 Supplement)
+23 BY repealing and reenacting, with amendments,
+24 Article – Tax – General
+25 Section 11–239
+26 Annotated Code of Maryland
+27 (2022 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0903*
+2 SENATE BILL 903
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Public Utilities
+4 7–207.
+5 (b) (1) (IV) 1. IN THIS SUBPARAGRAPH, “FAST TRACK PROJECT”
+6 HAS THE MEANING STATED IN § 7–207.4 OF THIS SUBTITLE.
+7 2. NOTWITHSTANDING ANY OTHER PROVISION OF THIS
+8 SECTION, A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY FOR THE
+9 CONSTRUCTION OF A FAST TRACK PROJECT SHALL BE ISSUED IN ACCORDANCE WITH
+10 § 7–207.4 OF THIS SUBTITLE.
+11 (c) (1) On receipt of an application for a certificate of public convenience and
+12 necessity under this section, the Commission shall provide notice immediately or require
+13 the applicant to provide notice immediately of the application to:
+14 (i) the Department of Planning;
+15 (ii) the governing body, and if applicable the executive, of each
+16 county or municipal corporation in which any portion of the generating station, overhead
+17 transmission line, or qualified generator lead line is proposed to be constructed;
+18 (iii) the governing body, and if applicable the executive, of each
+19 county or municipal corporation within 1 mile of the proposed location of the generating
+20 station, overhead transmission line, or qualified generator lead line;
+21 (iv) each member of the General Assembly representing any part of
+22 a county in which any portion of the generating station, overhead transmission line, or
+23 qualified generator lead line is proposed to be constructed;
+24 (v) each member of the General Assembly representing any part of
+25 each county within 1 mile of the proposed location of the generating station, overhead
+26 transmission line, or qualified generator lead line;
+27 (vi) for a proposed overhead transmission line, each owner of land
+28 and each owner of adjacent land; and
+29 (vii) all other interested persons.
+30 (2) The Commission, when sending the notice required under paragraph
+31 (1) of this subsection, shall forward a copy of the application to:
+SENATE BILL 903 3
+1 (i) each appropriate State unit and unit of local government for
+2 review, evaluation, and comment regarding the significance of the proposal to State,
+3 area–wide, and local plans or programs; and
+4 (ii) each member of the General Assembly included under paragraph
+5 (1)(iv) and (v) of this subsection who requests a copy of the application.
+6 (3) On receipt of an application for a certificate of public convenience and
+7 necessity under this section, the Commission shall provide notice of the application on the
+8 Commission’s social media platforms and website.
+9 7–207.4.
+10 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+11 INDICATED.
+12 (2) “CONSTRUCTION” HAS THE MEANING STATED IN § 7–207 OF THIS
+13 SUBTITLE.
+14 (3) “DATA CENTER” HAS THE MEANING STATED IN § 11–239 OF THE
+15 TAX – GENERAL ARTICLE.
+16 (4) “FAST TRACK PROJECT” MEANS THE CONSTRUCTION OF A
+17 GENERATING STATION THAT INCLUDES THE CO–LOCATION OF A DATA CENTER THAT
+18 HAS BEEN AWARDED A FAST TRACK PASS IN ACCORDANCE WITH § 7–218 OF THIS
+19 SUBTITLE.
+20 (5) “GENERATING STATION” HAS THE MEANING STATED IN § 7–207 OF
+21 THIS SUBTITLE.
+22 (B) THIS SECTION APPLIES ONLY TO AN APPLICATION FOR A CERTIFICATE
+23 OF PUBLIC CONVENIENCE AND NECESSITY FOR THE CONSTRUCTION OF A FAST
+24 TRACK PROJECT.
+25 (C) UNLESS A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY IS
+26 FIRST OBTAINED FROM THE COMMISSION IN ACCORDANCE WITH THIS SECTION, A
+27 PERSON MAY NOT BEGIN CONSTRUCTION OF A FAST TRACK PROJECT.
+28 (D) WITHIN 90 DAYS AFTER THE SUBMISSION OF AN APPLICATION FOR A
+29 CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY THAT INCLUDES AS PART
+30 OF THE APPLICATION A REQUEST FOR VERIFICATION THAT THE CONSTRUCTION OR
+31 MODIFICATION TO A GENERATING STATION HAS RECEIVED A FAST TRACK PASS IN
+32 ACCORDANCE WITH § 7–218 OF THIS SUBTITLE, THE COMMISSION SHALL:
+4 SENATE BILL 903
+1 (1) VERIFY WHETHER THE GENERATING STATION IS A FAST TRACK
+2 PROJECT; AND
+3 (2) NOTIFY THE APPLICANT AND RELEVANT ENTITIES UNDER §
+4 7–207(C) OF THIS SUBTITLE THAT THE APPLICATION IS SUBJECT TO AN EXPEDITED
+5 REVIEW PROCESS IN ACCORDANCE WITH THIS SECTION.
+6 (E) (1) THE COMMISSION SHALL:
+7 (I) EXPEDITE ALL PROCEEDINGS FOR THE REVIEW AND
+8 APPROVAL OF A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY FOR A FAST
+9 TRACK PROJECT AND PRIORITIZE THESE PROCEEDINGS, IF NECESSARY, OVER
+10 OTHER MATTERS; AND
+11 (II) TAKE FINAL ACTION ON A CERTIFICATE OF PUBLIC
+12 CONVENIENCE AND NECESSITY FOR A FAST TRACK PROJECT NOT LATER THAN 6
+13 MONTHS AFTER THE COMMISSION MAKES THE VERIFICATION UNDER SUBSECTION
+14 (D)(1) OF THIS SECTION.
+15 (2) A STATE AGENCY SHALL SUBMIT ANY RECOMMENDED LICENSING
+16 CONDITIONS OR TESTIMONY REGARDING THE ISSUANCE OF A CERTIFICATE OF
+17 PUBLIC CONVENIENCE AND NECESSITY FOR A FAST TRACK PROJECT NOT LATER
+18 THAN 90 DAYS AFTER THE COMMISSION MAKES THE VERIFICATION UNDER
+19 SUBSECTION (D)(1) OF THIS SECTION.
+20 (F) THE COMMISSION, THE DEPARTMENT OF THE ENVIRONMENT, THE
+21 DEPARTMENT OF NATURAL RESOURCES, AND ANY OTHER IMPACTED STATE
+22 AGENCY SHALL WAIVE OR EXPEDITE ANY REGULATORY REQUIREMENTS OR
+23 DECISIONS TO COMPLY WITH THE TIME FRAMES SET FORTH IN THIS SECTION.
+24 7–218.
+25 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+26 INDICATED.
+27 (2) “COMMITTEE” MEANS THE DATA CENTER FAST TRACK
+28 ADVISORY COMMITTEE.
+29 (3) “CONSTRUCTION” HAS THE MEANING STATED IN § 7–207 OF THIS
+30 SUBTITLE.
+31 (4) “DATA CENTER” HAS THE MEANING STATED IN § 11–239 OF THE
+32 TAX – GENERAL ARTICLE.
+SENATE BILL 903 5
+1 (5) “FAST TRACK PASS” MEANS AN EXPEDITED REVIEW PROCESS FOR
+2 A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY ISSUED IN ACCORDANCE
+3 WITH § 7–207.4 OF THIS SUBTITLE.
+4 (6) “GENERATING STATION” HAS THE MEANING STATED IN § 7–207 OF
+5 THIS SUBTITLE.
+6 (B) THERE IS A DATA CENTER FAST TRACK ADVISORY COMMITTEE IN THE
+7 COMMISSION.
+8 (C) THE COMMITTEE CONSISTS OF:
+9 (1) THE COMPTROLLER, OR THE COMPTROLLER’S DESIGNEE;
+10 (2) THE SECRETARY OF COMMERCE, OR THE SECRETARY’S
+11 DESIGNEE;
+12 (3) THE SECRETARY OF THE ENVIRONMENT, OR THE SECRETARY’S
+13 DESIGNEE;
+14 (4) THE CHAIR OF THE COMMISSION, OR THE CHAIR’S DESIGNEE;
+15 (5) THE DIRECTOR OF THE MARYLAND ENERGY ADMINISTRATION,
+16 OR THE DIRECTOR’S DESIGNEE;
+17 (6) THE SECRETARY OF GENERAL SERVICES, OR THE SECRETARY’S
+18 DESIGNEE; AND
+19 (7) THE SECRETARY OF NATURAL RESOURCES, OR THE
+20 SECRETARY’S DESIGNEE.
+21 (D) THE COMMITTEE SHALL:
+22 (1) IN CONSULTATION WITH THE COMMISSION, ESTABLISH CRITERIA
+23 FOR SELECTING PROJECTS FOR THE CONSTRUCTION OR MODIFICATION OF A
+24 GENERATING STATION THAT INCLUDES THE CO–LOCATION OF A DATA CENTER TO
+25 RECEIVE A FAST TRACK PASS, INCLUDING CRITERIA FOR:
+26 (I) ON–SITE ENERGY GENERATION TECHNOLOGY, INCLUDING
+27 BACKUP ENERGY GENERATION AND ENERGY STORAGE TECHNOLOGY;
+6 SENATE BILL 903
+1 (II) EVALUATING A PROJECT’S POWER USAGE EFFECTIVENESS
+2 SCORE CALCULATED IN ACCORDANCE WITH GUIDELINES ESTABLISHED BY THE
+3 MARYLAND ENERGY ADMINISTRATION UNDER § 11–239 OF THE TAX – GENERAL
+4 ARTICLE;
+5 (III) GREEN BUILDING STANDARDS;
+6 (IV) LAND USE AND POTENTIAL REDEVELOPMENT;
+7 (V) WATER USAGE;
+8 (VI) COMMUNITY IMPACT; AND
+9 (VII) ENVIRONMENTAL JUSTICE CONSIDERATIONS; AND
+10 (2) AWARD A FAST TRACK PASS TO SELECTED PROJECTS THAT MEET
+11 THE CRITERIA ESTABLISHED IN ITEM (1) OF THIS SUBSECTION.
+12 (E) A PROJECT THAT RECEIVES A FAST TRACK PASS UNDER THIS SECTION
+13 SHALL UNDERGO AN EXPEDITED REVIEW PROCESS FOR A CERTIFICATE OF PUBLIC
+14 CONVENIENCE AND NECESSITY IN ACCORDANCE WITH § 7–207.4 OF THIS SUBTITLE.
+15 (F) (1) ON OR BEFORE SEPTEMBER 1, 2025, AND EACH SEPTEMBER 1
+16 THEREAFTER, THE COMMITTEE SHALL ISSUE AN APPLICATION PERIOD FOR
+17 POTENTIAL PROJECTS FOR THE CONSTRUCTION OR MODIFICATION OF A
+18 GENERATING STATION THAT INCLUDES THE CO–LOCATION OF A DATA CENTER TO
+19 APPLY FOR A FAST TRACK PASS UNDER THIS SECTION.
+20 (2) THE APPLICATION PERIOD UNDER PARAGRAPH (1) OF THIS
+21 SUBSECTION SHALL REMAIN OPEN FOR 90 DAYS.
+22 (3) IN EVALUATING APPLICATIONS RECEIVED UNDER PARAGRAPH (1)
+23 OF THIS SUBSECTION, THE COMMISSION:
+24 (I) MAY AWARD NOT MORE THAN THREE FAST TRACK PASSES IN
+25 A YEAR;
+26 (II) SHALL USE THE CRITERIA ESTABLISHED UNDER
+27 SUBSECTION (D)(1) OF THIS SECTION; AND
+28 (III) SHALL AWARD EACH FAST TRACK PASS NOT LATER THAN 30
+29 DAYS AFTER THE CLOSE OF THE APPLICATION PERIOD.
+SENATE BILL 903 7
+1 (4) A PROPOSED PROJECT MAY APPLY FOR NOT MORE THAN ONE
+2 FAST TRACK PASS IN A YEAR.
+3 Article – Tax – General
+4 11–239.
+5 (a) (1) In this section the following words have the meanings indicated.
+6 (2) “Data center” means a building or group of buildings used to house
+7 computer systems, computer storage equipment, and associated infrastructure that
+8 businesses or other organizations use to organize, process, store, and disseminate large
+9 amounts of data.
+10 (3) “Department” means the Department of Commerce.
+11 (4) “Opportunity zone” means an area that has been designated as a
+12 qualified opportunity zone in the State under § 1400Z–1 of the Internal Revenue Code.
+13 (5) (i) “Qualified data center” means a data center located in the State
+14 in which an individual or a corporation, within 3 years after [submitting an application for]
+15 RECEIVING the sales and use tax exemption under this section, has:
+16 1. for a data center located within a Tier I area, invested at
+17 least $2,000,000 in qualified data center personal property and created at least [five]:
+18 A. 35 qualified positions; or
+19 B. 5 QUALIFIED POSITIONS FOR EACH 20,000 SQUARE
+20 FEET OR LESS OF THE DATA CENTER THAT IS NEWLY DEDICATED TO HOUSING
+21 SERVERS; OR
+22 2. for a data center located in any other area of the State,
+23 invested at least $5,000,000 in qualified data center personal property and created at least
+24 [five]:
+25 A. 35 qualified positions; OR
+26 B. 5 QUALIFIED POSITIONS FOR EACH 20,000 SQUARE
+27 FEET OR LESS OF THE DATA CENTER THAT IS NEWLY DEDICATED TO HOUSING
+28 SERVERS.
+29 (ii) “Qualified data center” includes:
+30 1. a data center that is a co–located or hosting data center
+31 where equipment, space, and bandwidth are available to lease to multiple customers; and
+8 SENATE BILL 903
+1 2. an enterprise data center owned and operated by the
+2 company it supports.
+3 (6) (i) “Qualified data center personal property” means personal
+4 property purchased or leased to establish or operate a data center.
+5 (ii) “Qualified data center personal property” includes:
+6 1. computer equipment or enabling software used for the
+7 processing, storage, retrieval, or communication of data, including servers, routers,
+8 connections, and other enabling hardware used in the operation of that equipment;
+9 2. heating, ventilation, and air–conditioning and mechanical
+10 systems, including chillers, cooling towers, air–handling units, pumps, energy storage or
+11 energy efficiency technology, and other capital equipment used in the operation of that
+12 equipment; and
+13 3. equipment necessary for the generation, transformation,
+14 transmission, distribution, or management of electricity, including exterior substations,
+15 generators, transformers, unit substations, uninterruptible power supply systems,
+16 batteries, power distribution units, remote power panels, and any other capital equipment
+17 necessary for these purposes.
+18 (7) (i) “Qualified position” means a position that:
+19 1. is a full–time position of indefinite duration;
+20 2. pays at least 150% of the State minimum wage;
+21 3. is newly created because a data center begins or expands
+22 in a single location in the State; and
+23 4. is filled.
+24 (ii) “Qualified position” does not include a position:
+25 1. created if an employment function is shifted from an
+26 existing data center in the State to another data center of related ownership if the position
+27 is not a net new job in the State;
+28 2. created through a change in ownership of a trade or
+29 business;
+30 3. created through a consolidation, merger, or restructuring
+31 of a business entity if the position is not a net new job in the State;
+SENATE BILL 903 9
+1 4. created if an employment function is contractually shifted
+2 from an existing business entity in the State to another business entity if the position is
+3 not a net new job in the State; or
+4 5. filled for a period of less than 12 months.
+5 (8) “Tier I area” means:
+6 (i) a Tier I county as defined in § 1–101 of the Economic
+7 Development Article; or
+8 (ii) an opportunity zone.
+9 (b) The sales and use tax does not apply to the sale of qualified data center
+10 personal property for use at a qualified data center if the buyer provides the vendor with
+11 evidence of eligibility for the exemption issued by the Comptroller.
+12 (c) (1) To qualify for the sales and use tax exemption under subsection (b) of
+13 this section, an individual or a corporation shall file an application for an exemption
+14 certificate with the Department.
+15 (2) The application must:
+16 (i) demonstrate that the applicant intends to meet the requirements
+17 of a qualified data center; [and]
+18 (II) DEMONSTRATE THAT THE DATA CENTER:
+19 1. HAS A POWER USAGE EFFECTIVENESS SCORE OF NOT
+20 MORE THAN 1.2; OR
+21 2. FOR A DATA CENTER THAT IS CO–LOCATED IN A
+22 BUILDING WITH OTHER COMMERCIAL USES AND TAKES NOT MORE THAN 20% OF THE
+23 SQUARE FOOTAGE OF THE BUILDING, ACHIEVES AN ENERGY EFFICIENCY LEVEL
+24 THAT IS AT LEAST AS EFFICIENT AS THE TOP 15% MOST EFFICIENT SIMILAR
+25 BUILDINGS CONSTRUCTED IN THE PREVIOUS 5 YEARS;
+26 (III) DEMONSTRATE THAT AT LEAST 90% OF THE ELECTRICITY
+27 USED BY THE DATA CENTER IS DERIVED FROM CARBON–FREE RENEWABLE ENERGY
+28 SOURCES:
+29 1. LOCATED IN THE PJM INTERCONNECTION, LLC,
+30 SERVICE TERRITORY; OR
+31 2. THROUGH ON–SITE GENERATION;
+10 SENATE BILL 903
+1 (IV) CERTIFY THAT THE DATA CENTER WILL NOT USE ANY
+2 DIESEL FUEL FOR ON–SITE GENERATION, NOT INCLUDING FOR BACKUP
+3 GENERATION; AND
+4 [(ii)] (V) include any information the Department requires to
+5 evidence the capacity and intention of the applicant to fulfill the commitments set forth in
+6 the applicant’s application.
+7 (3) (I) [If,] SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH,
+8 IF, based on the information and supporting documentation provided in the application,
+9 the Department determines the applicant is eligible for the sales and use tax exemption
+10 under subsection (b) of this section, the Department shall certify the eligibility of the
+11 applicant.
+12 (II) THE DEPARTMENT MAY LIMIT A CERTIFICATION ISSUED
+13 UNDER THIS SECTION BY ALLOWING A QUALIFIED DATA CENTER TO CLAIM A
+14 PARTIAL EXEMPTION UNDER THIS SECTION ONLY UP TO A SPECIFIED DOLLAR
+15 AMOUNT BASED ON THE FOLLOWING ECONOMIC DEVELOPMENT PRIORITIES:
+16 1. A COMPARATIVE ANALYSIS BETWEEN THE STATE AND
+17 OTHER STATES IDENTIFYING THE COST DIFFERENTIAL IN THE COSTS OF THE
+18 PROJECT IN THE STATE COMPARED TO THE PROJECTED COSTS IF THE PROJECT HAD
+19 COMMENCED IN ANOTHER STATE, INCLUDING:
+20 A. ANY IMPACT OF THE OTHER STATE’S INCENTIVE
+21 PROGRAMS, INCLUDING SPECIFIC COSTS FOR LABOR, UTILITIES, TAXES, AND ANY
+22 OTHER RELEVANT COSTS; AND
+23 B. THE COST STRUCTURE OF THE TAXPAYER’S INDUSTRY
+24 IN THE OTHER STATE; AND
+25 2. CERTIFIED DOCUMENTATION FROM THE TAXPAYER
+26 TO DEMONSTRATE THAT THE EXEMPTION ALLOWED UNDER THIS SECTION WAS A
+27 SUBSTANTIAL FACTOR IN THE DECISION TO LOCATE THE PROJECT IN THE STATE,
+28 INCLUDING:
+29 A. WHETHER THE TAXPAYER COULD HAVE REASONABLY
+30 AND EFFICIENTLY LOCATED THE PROJECT OUTSIDE THE STATE;
+31 B. EVIDENCE THAT AT LEAST ONE OTHER STATE WAS
+32 CONSIDERED FOR THE PROJECT;
+SENATE BILL 903 11
+1 C. DOCUMENTATION THAT RECEIPT OF THE EXEMPTION
+2 UNDER THIS SECTION WAS A MAJOR FACTOR IN THE DATA CENTER’S DECISION; AND
+3 D. CERTIFICATION THAT WITHOUT THE EXEMPTION
+4 ALLOWED UNDER THIS SECTION, THE DATA CENTER WAS NOT LIKELY TO COMMENCE
+5 THE PROJECT IN THE STATE.
+6 (4) THE MARYLAND ENERGY ADMINISTRATION SHALL ESTABLISH
+7 GUIDELINES FOR:
+8 (I) CALCULATING A POWER USAGE EFFECTIVENESS SCORE;
+9 AND
+10 (II) DETERMINING SIMILAR BUILDINGS FOR COMPARISON
+11 UNDER PARAGRAPH (2)(II)2 OF THIS SUBSECTION.
+12 (d) (1) Each year, the Department shall provide the Comptroller with a list of
+13 individuals and corporations that the Department determines are eligible for the sales and
+14 use tax exemption under subsection (b) of this section.
+15 (2) Within 30 days after receiving the list described in paragraph (1) of this
+16 subsection, the Comptroller shall issue to each individual and corporation listed a
+17 certificate of eligibility for the sales and use tax exemption under subsection (b) of this
+18 section.
+19 (3) (i) The certificate of eligibility issued under paragraph (2) of this
+20 subsection:
+21 1. must be renewed each year; and
+22 2. except as provided in subparagraph (ii) of this paragraph, may
+23 not be renewed for more than 10 consecutive years.
+24 (ii) If the individual or corporation invests at least $250,000,000 in
+25 qualified data center personal property, the certificate of eligibility may be renewed for up
+26 to 20 consecutive years.
+27 (e) For at least 3 years after the termination of a certificate issued under
+28 subsection (d) of this section, each individual or corporation that receives the certificate
+29 shall:
+30 (1) maintain a record of:
+31 (i) the amount of sales and use tax that was not paid as a result of
+32 the certificate;
+12 SENATE BILL 903
+1 (ii) the number of qualified positions created; and
+2 (iii) the investment in qualified data center personal property; and
+3 (2) allow the Department to inspect the records described in item (1) of this
+4 subsection.
+5 (f) (1) The Department may revoke a certificate of eligibility under subsection
+6 (d) of this section if any representation made in connection with the application for the
+7 certificate is determined by the Department to have been false when made or if the
+8 applicant has failed to fulfill the applicant’s commitments under the application.
+9 (2) The revocation may be in full or in part as the Department may
+10 determine.
+11 (3) The individual or corporation shall have an opportunity to appeal any
+12 revocation to the Department before notification of the Comptroller.
+13 (4) The Comptroller may make an assessment against the individual or
+14 corporation to recapture any amount of sales and use tax that the individual or corporation
+15 has not paid as a result of an exemption under subsection (b) of this section.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+17 1, 2025.
+[DELETED: :CA      5     A D F t p o e a e c o p c a n r a f t p e a D C F T A C r d a a u c g B  A S  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  S   S T A 7  ( () 1 I,“VN T SH F T PT   74.   2 N A C O P C A N F T74.   ( ( O n t    ( t    ( t g b a i a t e o e c t    ( t g b a i a t e o e c s    ( e a q    ( e e t    ( f a    ( a   ( T (]
+[DELETED: S 3    ( e a S u a u o l g f r e a c r t s o t p t S a    ( e (   ( O n C() ( N ( “C”§7N     ( “D”§1R    –GA.  E R ( “F T PT M T C O AOL   7 ( “G”§7N    () H P C A N F T C O A F() N ON () W9I     E  O78,C:]
+[DELETED:  S  ( W T FT  ( § T A A R E U ( () ( TC:H O  ()E A P F T R A P A P T PS I NY OS   ()IT F A O A C O P N  O)).  ( AT O T R T I O A C O C A F N  D A T O M T V U0 D )).() TC,DEH ON T E O T NT TNR, O A ES A A O I T S W O E A R R O() ( N ( “C”DCFE M T A E A RC. O ( “C”§7N     ( “D”§1R    –GA.  E R]
+[DELETED: S 5 ( “FS    74. ( “G”§7N    () TDCFTAH A E A R D O.() TC:H O ( C,C’; OR  ORS ( SC,S E O OE O T EYS ( SE,S E NT  EYS ( CC,C’; H ON  HRS ( DMEA I A N DN IRS’; ( SGS,S E E ES  EYSE  ( TSNR E O A ES O T’.YS() TC:H O ( C ON  S P F T C O M O AOLS :  () –ONS E GY I]
+[DELETED:  S   () IETS C I A W G E B TEA§19T– N D    A  E;E  () ;IG  () ;VL  () ;W  () ;ICT   () ;IES  (  ).()     74.() ( OS1,2,SN B E   A E R T O S I A A P F P F T C O M O AOL ( T( A P U P  O T  0. ( I( N  OC:  ()M  ()IS U T C E U D N ));  () 3IS ]
+[DELETED: S 7 ( P P M A F N M T O A 1  ( ( I   ( “ c m a b o g b u t c s c s e a a i t b a   ( “   ( “ z m a a t h b d a a q   ( ( “ i s       1 f lda f]A 35          52Q P F E  S O L O T D C T I N D T HS      2 f i] f   A.35;      B 52Q P F E  S O L O T D C T I N D T H .    ( “     1 a w]
+[DELETED:  S      2 a e d c o a o b t c   ( ( “ d c p p m p p    ( “     1 c e o e s u f t p s r o c o d i s r c     2 h s e e     3 e t g t u s u p s s b n   ( ( “     1 i     2 p     3 i i     4 i    ( “     1 c i a e f i s f a e i     2 c t a c i o o a t o b     3 c o]
+[DELETED: S 9     4 c f n     5 f   ( “    ( a T I c a d i § 1 o t E D    ( a  ( T s a u t d n a t t s o q d c p e  ( ( T t s a i o a c s f a a f a e c   ( T    ( d o ad   ) :ID   1  ;   2  A D C T I COL I A   F O T BG A A E E L I A L A E A T T  M E S  ;  () 9ID  NF   1 PMI,L I T  NN Y    2 –;NS]
+[DELETED:  S   ()VC T T D C W N U A F F ONS GN N I F BN      () i a i t D r t]( e t   ( I) []S() U II H   t u s ( o t s t D s c t e o t a   ) TIH E M L A C I T S B A A Q D C T C A E U T S O U T A S D   1  T S I T C D I T C O T TE :   A  I O T O SES IS R S S ,,S    B RSE    2 D F T T TE   A T;   B T A L O O S W]
+[DELETED: S 1   CRSN ;   D T W T EN  T.   TME A N D S E  () C A P U E SE  ()ID S B F C II ()2.  ( ( E i u   ( W s t C s i t e i a c l a c s   ( ( T s    1 m    2 e n    ( I q t  ( F a l 3 y a t t o a c i u s s   ( m    ( t t]
+[DELETED:  S     ( t    ( t   ( a s  ( ( T ( c i d b t D t h b f w m o i t a   ( T r m b i f o i p a t D m d   ( T r   ( T c h  S 1]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 903
+C5, Q4 5lr2284
+By: Senator Hester
+Introduced and read first time: January 28, 2025
+Assigned to: Education, Energy, and the Environment and Budget and Taxation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Data Centers – Fast Track Pass for Co–Location and Sales and Use Tax
+3 FOR the purpose of establishing an expedited certificate of public convenience and
+4 necessity review process for certain co–located energy generation projects that have
+5 received a fast track pass; establishing a Data Center Fast Track Advisory
+6 Committee in the Public Service Commission to facilitate the application for and
+7 review and awarding of fast track passes; altering the requirements for qualified
+8 data center personal property to be eligible to be exempt from the sales and use tax;
+9 authorizing the State Department of Assessments and Taxation to limit the sales
+10 and use tax exemption for qualified data center personal property under certain
+11 circumstances; requiring the Maryland Energy Administration to establish certain
+12 guidelines; and generally relating to data centers.
+13 BY adding to
+14 Article – Public Utilities
+15 Section 7–207(b)(1)(iv), 7–207.4, and 7–218
+16 Annotated Code of Maryland
+17 (2020 Replacement Volume and 2024 Supplement)
+18 BY repealing and reenacting, without amendments,
+19 Article – Public Utilities
+20 Section 7–207(c)
+21 Annotated Code of Maryland
+22 (2020 Replacement Volume and 2024 Supplement)
+23 BY repealing and reenacting, with amendments,
+24 Article – Tax – General
+25 Section 11–239
+26 Annotated Code of Maryland
+27 (2022 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0903*
+
+2 SENATE BILL 903
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Public Utilities
+4 7–207.
+5 (b) (1) (IV) 1. IN THIS SUBPARAGRAPH, “FAST TRACK PROJECT”
+6 HAS THE MEANING STATED IN § 7–207.4 OF THIS SUBTITLE.
+7 2. NOTWITHSTANDING ANY OTHER PROVISION OF THIS
+8 SECTION, A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY FOR THE
+9 CONSTRUCTION OF A FAST TRACK PROJECT SHALL BE ISSUED IN ACCORDANCE WITH
+10 § 7–207.4 OF THIS SUBTITLE.
+11 (c) (1) On receipt of an application for a certificate of public convenience and
+12 necessity under this section, the Commission shall provide notice immediately or require
+13 the applicant to provide notice immediately of the application to:
+14 (i) the Department of Planning;
+15 (ii) the governing body, and if applicable the executive, of each
+16 county or municipal corporation in which any portion of the generating station, overhead
+17 transmission line, or qualified generator lead line is proposed to be constructed;
+18 (iii) the governing body, and if applicable the executive, of each
+19 county or municipal corporation within 1 mile of the proposed location of the generating
+20 station, overhead transmission line, or qualified generator lead line;
+21 (iv) each member of the General Assembly representing any part of
+22 a county in which any portion of the generating station, overhead transmission line, or
+23 qualified generator lead line is proposed to be constructed;
+24 (v) each member of the General Assembly representing any part of
+25 each county within 1 mile of the proposed location of the generating station, overhead
+26 transmission line, or qualified generator lead line;
+27 (vi) for a proposed overhead transmission line, each owner of land
+28 and each owner of adjacent land; and
+29 (vii) all other interested persons.
+30 (2) The Commission, when sending the notice required under paragraph
+31 (1) of this subsection, shall forward a copy of the application to:
+
+SENATE BILL 903 3
+1 (i) each appropriate State unit and unit of local government for
+2 review, evaluation, and comment regarding the significance of the proposal to State,
+3 area–wide, and local plans or programs; and
+4 (ii) each member of the General Assembly included under paragraph
+5 (1)(iv) and (v) of this subsection who requests a copy of the application.
+6 (3) On receipt of an application for a certificate of public convenience and
+7 necessity under this section, the Commission shall provide notice of the application on the
+8 Commission’s social media platforms and website.
+9 7–207.4.
+10 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+11 INDICATED.
+12 (2) “CONSTRUCTION” HAS THE MEANING STATED IN § 7–207 OF THIS
+13 SUBTITLE.
+14 (3) “DATA CENTER” HAS THE MEANING STATED IN § 11–239 OF THE
+15 TAX – GENERAL ARTICLE.
+16 (4) “FAST TRACK PROJECT” MEANS THE CONSTRUCTION OF A
+17 GENERATING STATION THAT INCLUDES THE CO–LOCATION OF A DATA CENTER THAT
+18 HAS BEEN AWARDED A FAST TRACK PASS IN ACCORDANCE WITH § 7–218 OF THIS
+19 SUBTITLE.
+20 (5) “GENERATING STATION” HAS THE MEANING STATED IN § 7–207 OF
+21 THIS SUBTITLE.
+22 (B) THIS SECTION APPLIES ONLY TO AN APPLICATION FOR A CERTIFICATE
+23 OF PUBLIC CONVENIENCE AND NECESSITY FOR THE CONSTRUCTION OF A FAST
+24 TRACK PROJECT.
+25 (C) UNLESS A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY IS
+26 FIRST OBTAINED FROM THE COMMISSION IN ACCORDANCE WITH THIS SECTION, A
+27 PERSON MAY NOT BEGIN CONSTRUCTION OF A FAST TRACK PROJECT.
+28 (D) WITHIN 90 DAYS AFTER THE SUBMISSION OF AN APPLICATION FOR A
+29 CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY THAT INCLUDES AS PART
+30 OF THE APPLICATION A REQUEST FOR VERIFICATION THAT THE CONSTRUCTION OR
+31 MODIFICATION TO A GENERATING STATION HAS RECEIVED A FAST TRACK PASS IN
+32 ACCORDANCE WITH § 7–218 OF THIS SUBTITLE, THE COMMISSION SHALL:
+
+4 SENATE BILL 903
+1 (1) VERIFY WHETHER THE GENERATING STATION IS A FAST TRACK
+2 PROJECT; AND
+3 (2) NOTIFY THE APPLICANT AND RELEVANT ENTITIES UNDER §
+4 7–207(C) OF THIS SUBTITLE THAT THE APPLICATION IS SUBJECT TO AN EXPEDITED
+5 REVIEW PROCESS IN ACCORDANCE WITH THIS SECTION.
+6 (E) (1) THE COMMISSION SHALL:
+7 (I) EXPEDITE ALL PROCEEDINGS FOR THE REVIEW AND
+8 APPROVAL OF A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY FOR A FAST
+9 TRACK PROJECT AND PRIORITIZE THESE PROCEEDINGS, IF NECESSARY, OVER
+10 OTHER MATTERS; AND
+11 (II) TAKE FINAL ACTION ON A CERTIFICATE OF PUBLIC
+12 CONVENIENCE AND NECESSITY FOR A FAST TRACK PROJECT NOT LATER THAN 6
+13 MONTHS AFTER THE COMMISSION MAKES THE VERIFICATION UNDER SUBSECTION
+14 (D)(1) OF THIS SECTION.
+15 (2) A STATE AGENCY SHALL SUBMIT ANY RECOMMENDED LICENSING
+16 CONDITIONS OR TESTIMONY REGARDING THE ISSUANCE OF A CERTIFICATE OF
+17 PUBLIC CONVENIENCE AND NECESSITY FOR A FAST TRACK PROJECT NOT LATER
+18 THAN 90 DAYS AFTER THE COMMISSION MAKES THE VERIFICATION UNDER
+19 SUBSECTION (D)(1) OF THIS SECTION.
+20 (F) THE COMMISSION, THE DEPARTMENT OF THE ENVIRONMENT, THE
+21 DEPARTMENT OF NATURAL RESOURCES, AND ANY OTHER IMPACTED STATE
+22 AGENCY SHALL WAIVE OR EXPEDITE ANY REGULATORY REQUIREMENTS OR
+23 DECISIONS TO COMPLY WITH THE TIME FRAMES SET FORTH IN THIS SECTION.
+24 7–218.
+25 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+26 INDICATED.
+27 (2) “COMMITTEE” MEANS THE DATA CENTER FAST TRACK
+28 ADVISORY COMMITTEE.
+29 (3) “CONSTRUCTION” HAS THE MEANING STATED IN § 7–207 OF THIS
+30 SUBTITLE.
+31 (4) “DATA CENTER” HAS THE MEANING STATED IN § 11–239 OF THE
+32 TAX – GENERAL ARTICLE.
+
+SENATE BILL 903 5
+1 (5) “FAST TRACK PASS” MEANS AN EXPEDITED REVIEW PROCESS FOR
+2 A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY ISSUED IN ACCORDANCE
+3 WITH § 7–207.4 OF THIS SUBTITLE.
+4 (6) “GENERATING STATION” HAS THE MEANING STATED IN § 7–207 OF
+5 THIS SUBTITLE.
+6 (B) THERE IS A DATA CENTER FAST TRACK ADVISORY COMMITTEE IN THE
+7 COMMISSION.
+8 (C) THE COMMITTEE CONSISTS OF:
+9 (1) THE COMPTROLLER, OR THE COMPTROLLER’S DESIGNEE;
+10 (2) THE SECRETARY OF COMMERCE, OR THE SECRETARY’S
+11 DESIGNEE;
+12 (3) THE SECRETARY OF THE ENVIRONMENT, OR THE SECRETARY’S
+13 DESIGNEE;
+14 (4) THE CHAIR OF THE COMMISSION, OR THE CHAIR’S DESIGNEE;
+15 (5) THE DIRECTOR OF THE MARYLAND ENERGY ADMINISTRATION,
+16 OR THE DIRECTOR’S DESIGNEE;
+17 (6) THE SECRETARY OF GENERAL SERVICES, OR THE SECRETARY’S
+18 DESIGNEE; AND
+19 (7) THE SECRETARY OF NATURAL RESOURCES, OR THE
+20 SECRETARY’S DESIGNEE.
+21 (D) THE COMMITTEE SHALL:
+22 (1) IN CONSULTATION WITH THE COMMISSION, ESTABLISH CRITERIA
+23 FOR SELECTING PROJECTS FOR THE CONSTRUCTION OR MODIFICATION OF A
+24 GENERATING STATION THAT INCLUDES THE CO–LOCATION OF A DATA CENTER TO
+25 RECEIVE A FAST TRACK PASS, INCLUDING CRITERIA FOR:
+26 (I) ON–SITE ENERGY GENERATION TECHNOLOGY, INCLUDING
+27 BACKUP ENERGY GENERATION AND ENERGY STORAGE TECHNOLOGY;
+
+6 SENATE BILL 903
+1 (II) EVALUATING A PROJECT’S POWER USAGE EFFECTIVENESS
+2 SCORE CALCULATED IN ACCORDANCE WITH GUIDELINES ESTABLISHED BY THE
+3 MARYLAND ENERGY ADMINISTRATION UNDER § 11–239 OF THE TAX – GENERAL
+4 ARTICLE;
+5 (III) GREEN BUILDING STANDARDS;
+6 (IV) LAND USE AND POTENTIAL REDEVELOPMENT;
+7 (V) WATER USAGE;
+8 (VI) COMMUNITY IMPACT; AND
+9 (VII) ENVIRONMENTAL JUSTICE CONSIDERATIONS; AND
+10 (2) AWARD A FAST TRACK PASS TO SELECTED PROJECTS THAT MEET
+11 THE CRITERIA ESTABLISHED IN ITEM (1) OF THIS SUBSECTION.
+12 (E) A PROJECT THAT RECEIVES A FAST TRACK PASS UNDER THIS SECTION
+13 SHALL UNDERGO AN EXPEDITED REVIEW PROCESS FOR A CERTIFICATE OF PUBLIC
+14 CONVENIENCE AND NECESSITY IN ACCORDANCE WITH § 7–207.4 OF THIS SUBTITLE.
+15 (F) (1) ON OR BEFORE SEPTEMBER 1, 2025, AND EACH SEPTEMBER 1
+16 THEREAFTER, THE COMMITTEE SHALL ISSUE AN APPLICATION PERIOD FOR
+17 POTENTIAL PROJECTS FOR THE CONSTRUCTION OR MODIFICATION OF A
+18 GENERATING STATION THAT INCLUDES THE CO–LOCATION OF A DATA CENTER TO
+19 APPLY FOR A FAST TRACK PASS UNDER THIS SECTION.
+20 (2) THE APPLICATION PERIOD UNDER PARAGRAPH (1) OF THIS
+21 SUBSECTION SHALL REMAIN OPEN FOR 90 DAYS.
+22 (3) IN EVALUATING APPLICATIONS RECEIVED UNDER PARAGRAPH (1)
+23 OF THIS SUBSECTION, THE COMMISSION:
+24 (I) MAY AWARD NOT MORE THAN THREE FAST TRACK PASSES IN
+25 A YEAR;
+26 (II) SHALL USE THE CRITERIA ESTABLISHED UNDER
+27 SUBSECTION (D)(1) OF THIS SECTION; AND
+28 (III) SHALL AWARD EACH FAST TRACK PASS NOT LATER THAN 30
+29 DAYS AFTER THE CLOSE OF THE APPLICATION PERIOD.
+
+SENATE BILL 903 7
+1 (4) A PROPOSED PROJECT MAY APPLY FOR NOT MORE THAN ONE
+2 FAST TRACK PASS IN A YEAR.
+3 Article – Tax – General
+4 11–239.
+5 (a) (1) In this section the following words have the meanings indicated.
+6 (2) “Data center” means a building or group of buildings used to house
+7 computer systems, computer storage equipment, and associated infrastructure that
+8 businesses or other organizations use to organize, process, store, and disseminate large
+9 amounts of data.
+10 (3) “Department” means the Department of Commerce.
+11 (4) “Opportunity zone” means an area that has been designated as a
+12 qualified opportunity zone in the State under § 1400Z–1 of the Internal Revenue Code.
+13 (5) (i) “Qualified data center” means a data center located in the State
+14 in which an individual or a corporation, within 3 years after [submitting an application for]
+15 RECEIVING the sales and use tax exemption under this section, has:
+16 1. for a data center located within a Tier I area, invested at
+17 least $2,000,000 in qualified data center personal property and created at least [five]:
+18 A. 35 qualified positions; or
+19 B. 5 QUALIFIED POSITIONS FOR EACH 20,000 SQUARE
+20 FEET OR LESS OF THE DATA CENTER THAT IS NEWLY DEDICATED TO HOUSING
+21 SERVERS; OR
+22 2. for a data center located in any other area of the State,
+23 invested at least $5,000,000 in qualified data center personal property and created at least
+24 [five]:
+25 A. 35 qualified positions; OR
+26 B. 5 QUALIFIED POSITIONS FOR EACH 20,000 SQUARE
+27 FEET OR LESS OF THE DATA CENTER THAT IS NEWLY DEDICATED TO HOUSING
+28 SERVERS.
+29 (ii) “Qualified data center” includes:
+30 1. a data center that is a co–located or hosting data center
+31 where equipment, space, and bandwidth are available to lease to multiple customers; and
+
+8 SENATE BILL 903
+1 2. an enterprise data center owned and operated by the
+2 company it supports.
+3 (6) (i) “Qualified data center personal property” means personal
+4 property purchased or leased to establish or operate a data center.
+5 (ii) “Qualified data center personal property” includes:
+6 1. computer equipment or enabling software used for the
+7 processing, storage, retrieval, or communication of data, including servers, routers,
+8 connections, and other enabling hardware used in the operation of that equipment;
+9 2. heating, ventilation, and air–conditioning and mechanical
+10 systems, including chillers, cooling towers, air–handling units, pumps, energy storage or
+11 energy efficiency technology, and other capital equipment used in the operation of that
+12 equipment; and
+13 3. equipment necessary for the generation, transformation,
+14 transmission, distribution, or management of electricity, including exterior substations,
+15 generators, transformers, unit substations, uninterruptible power supply systems,
+16 batteries, power distribution units, remote power panels, and any other capital equipment
+17 necessary for these purposes.
+18 (7) (i) “Qualified position” means a position that:
+19 1. is a full–time position of indefinite duration;
+20 2. pays at least 150% of the State minimum wage;
+21 3. is newly created because a data center begins or expands
+22 in a single location in the State; and
+23 4. is filled.
+24 (ii) “Qualified position” does not include a position:
+25 1. created if an employment function is shifted from an
+26 existing data center in the State to another data center of related ownership if the position
+27 is not a net new job in the State;
+28 2. created through a change in ownership of a trade or
+29 business;
+30 3. created through a consolidation, merger, or restructuring
+31 of a business entity if the position is not a net new job in the State;
+
+SENATE BILL 903 9
+1 4. created if an employment function is contractually shifted
+2 from an existing business entity in the State to another business entity if the position is
+3 not a net new job in the State; or
+4 5. filled for a period of less than 12 months.
+5 (8) “Tier I area” means:
+6 (i) a Tier I county as defined in § 1–101 of the Economic
+7 Development Article; or
+8 (ii) an opportunity zone.
+9 (b) The sales and use tax does not apply to the sale of qualified data center
+10 personal property for use at a qualified data center if the buyer provides the vendor with
+11 evidence of eligibility for the exemption issued by the Comptroller.
+12 (c) (1) To qualify for the sales and use tax exemption under subsection (b) of
+13 this section, an individual or a corporation shall file an application for an exemption
+14 certificate with the Department.
+15 (2) The application must:
+16 (i) demonstrate that the applicant intends to meet the requirements
+17 of a qualified data center; [and]
+18 (II) DEMONSTRATE THAT THE DATA CENTER:
+19 1. HAS A POWER USAGE EFFECTIVENESS SCORE OF NOT
+20 MORE THAN 1.2; OR
+21 2. FOR A DATA CENTER THAT IS CO–LOCATED IN A
+22 BUILDING WITH OTHER COMMERCIAL USES AND TAKES NOT MORE THAN 20% OF THE
+23 SQUARE FOOTAGE OF THE BUILDING, ACHIEVES AN ENERGY EFFICIENCY LEVEL
+24 THAT IS AT LEAST AS EFFICIENT AS THE TOP 15% MOST EFFICIENT SIMILAR
+25 BUILDINGS CONSTRUCTED IN THE PREVIOUS 5 YEARS;
+26 (III) DEMONSTRATE THAT AT LEAST 90% OF THE ELECTRICITY
+27 USED BY THE DATA CENTER IS DERIVED FROM CARBON–FREE RENEWABLE ENERGY
+28 SOURCES:
+29 1. LOCATED IN THE PJM INTERCONNECTION, LLC,
+30 SERVICE TERRITORY; OR
+31 2. THROUGH ON–SITE GENERATION;
+
+10 SENATE BILL 903
+1 (IV) CERTIFY THAT THE DATA CENTER WILL NOT USE ANY
+2 DIESEL FUEL FOR ON–SITE GENERATION, NOT INCLUDING FOR BACKUP
+3 GENERATION; AND
+4 [(ii)] (V) include any information the Department requires to
+5 evidence the capacity and intention of the applicant to fulfill the commitments set forth in
+6 the applicant’s application.
+7 (3) (I) [If,] SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH,
+8 IF, based on the information and supporting documentation provided in the application,
+9 the Department determines the applicant is eligible for the sales and use tax exemption
+10 under subsection (b) of this section, the Department shall certify the eligibility of the
+11 applicant.
+12 (II) THE DEPARTMENT MAY LIMIT A CERTIFICATION ISSUED
+13 UNDER THIS SECTION BY ALLOWING A QUALIFIED DATA CENTER TO CLAIM A
+14 PARTIAL EXEMPTION UNDER THIS SECTION ONLY UP TO A SPECIFIED DOLLAR
+15 AMOUNT BASED ON THE FOLLOWING ECONOMIC DEVELOPMENT PRIORITIES:
+16 1. A COMPARATIVE ANALYSIS BETWEEN THE STATE AND
+17 OTHER STATES IDENTIFYING THE COST DIFFERENTIAL IN THE COSTS OF THE
+18 PROJECT IN THE STATE COMPARED TO THE PROJECTED COSTS IF THE PROJECT HAD
+19 COMMENCED IN ANOTHER STATE, INCLUDING:
+20 A. ANY IMPACT OF THE OTHER STATE’S INCENTIVE
+21 PROGRAMS, INCLUDING SPECIFIC COSTS FOR LABOR, UTILITIES, TAXES, AND ANY
+22 OTHER RELEVANT COSTS; AND
+23 B. THE COST STRUCTURE OF THE TAXPAYER’S INDUSTRY
+24 IN THE OTHER STATE; AND
+25 2. CERTIFIED DOCUMENTATION FROM THE TAXPAYER
+26 TO DEMONSTRATE THAT THE EXEMPTION ALLOWED UNDER THIS SECTION WAS A
+27 SUBSTANTIAL FACTOR IN THE DECISION TO LOCATE THE PROJECT IN THE STATE,
+28 INCLUDING:
+29 A. WHETHER THE TAXPAYER COULD HAVE REASONABLY
+30 AND EFFICIENTLY LOCATED THE PROJECT OUTSIDE THE STATE;
+31 B. EVIDENCE THAT AT LEAST ONE OTHER STATE WAS
+32 CONSIDERED FOR THE PROJECT;
+
+SENATE BILL 903 11
+1 C. DOCUMENTATION THAT RECEIPT OF THE EXEMPTION
+2 UNDER THIS SECTION WAS A MAJOR FACTOR IN THE DATA CENTER’S DECISION; AND
+3 D. CERTIFICATION THAT WITHOUT THE EXEMPTION
+4 ALLOWED UNDER THIS SECTION, THE DATA CENTER WAS NOT LIKELY TO COMMENCE
+5 THE PROJECT IN THE STATE.
+6 (4) THE MARYLAND ENERGY ADMINISTRATION SHALL ESTABLISH
+7 GUIDELINES FOR:
+8 (I) CALCULATING A POWER USAGE EFFECTIVENESS SCORE;
+9 AND
+10 (II) DETERMINING SIMILAR BUILDINGS FOR COMPARISON
+11 UNDER PARAGRAPH (2)(II)2 OF THIS SUBSECTION.
+12 (d) (1) Each year, the Department shall provide the Comptroller with a list of
+13 individuals and corporations that the Department determines are eligible for the sales and
+14 use tax exemption under subsection (b) of this section.
+15 (2) Within 30 days after receiving the list described in paragraph (1) of this
+16 subsection, the Comptroller shall issue to each individual and corporation listed a
+17 certificate of eligibility for the sales and use tax exemption under subsection (b) of this
+18 section.
+19 (3) (i) The certificate of eligibility issued under paragraph (2) of this
+20 subsection:
+21 1. must be renewed each year; and
+22 2. except as provided in subparagraph (ii) of this paragraph, may
+23 not be renewed for more than 10 consecutive years.
+24 (ii) If the individual or corporation invests at least $250,000,000 in
+25 qualified data center personal property, the certificate of eligibility may be renewed for up
+26 to 20 consecutive years.
+27 (e) For at least 3 years after the termination of a certificate issued under
+28 subsection (d) of this section, each individual or corporation that receives the certificate
+29 shall:
+30 (1) maintain a record of:
+31 (i) the amount of sales and use tax that was not paid as a result of
+32 the certificate;
+
+12 SENATE BILL 903
+1 (ii) the number of qualified positions created; and
+2 (iii) the investment in qualified data center personal property; and
+3 (2) allow the Department to inspect the records described in item (1) of this
+4 subsection.
+5 (f) (1) The Department may revoke a certificate of eligibility under subsection
+6 (d) of this section if any representation made in connection with the application for the
+7 certificate is determined by the Department to have been false when made or if the
+8 applicant has failed to fulfill the applicant’s commitments under the application.
+9 (2) The revocation may be in full or in part as the Department may
+10 determine.
+11 (3) The individual or corporation shall have an opportunity to appeal any
+12 revocation to the Department before notification of the Comptroller.
+13 (4) The Comptroller may make an assessment against the individual or
+14 corporation to recapture any amount of sales and use tax that the individual or corporation
+15 has not paid as a result of an exemption under subsection (b) of this section.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+17 1, 2025.
+
+[DELETED: :CA      5     A D F t p o e a e c o p c a n r a f t p e a D C F T A C r d a a u c g B  A S  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  S   S T A 7  ( () 1 I,“VN T SH F T PT   74.   2 N A C O P C A N F T74.   ( ( O n t    ( t    ( t g b a i a t e o e c t    ( t g b a i a t e o e c s    ( e a q    ( e e t    ( f a    ( a   ( T (]
+[DELETED: S 3    ( e a S u a u o l g f r e a c r t s o t p t S a    ( e (   ( O n C() ( N ( “C”§7N     ( “D”§1R    –GA.  E R ( “F T PT M T C O AOL   7 ( “G”§7N    () H P C A N F T C O A F() N ON () W9I     E  O78,C:]
+[DELETED:  S  ( W T FT  ( § T A A R E U ( () ( TC:H O  ()E A P F T R A P A P T PS I NY OS   ()IT F A O A C O P N  O)).  ( AT O T R T I O A C O C A F N  D A T O M T V U0 D )).() TC,DEH ON T E O T NT TNR, O A ES A A O I T S W O E A R R O() ( N ( “C”DCFE M T A E A RC. O ( “C”§7N     ( “D”§1R    –GA.  E R]
+[DELETED: S 5 ( “FS    74. ( “G”§7N    () TDCFTAH A E A R D O.() TC:H O ( C,C’; OR  ORS ( SC,S E O OE O T EYS ( SE,S E NT  EYS ( CC,C’; H ON  HRS ( DMEA I A N DN IRS’; ( SGS,S E E ES  EYSE  ( TSNR E O A ES O T’.YS() TC:H O ( C ON  S P F T C O M O AOLS :  () –ONS E GY I]
+[DELETED:  S   () IETS C I A W G E B TEA§19T– N D    A  E;E  () ;IG  () ;VL  () ;W  () ;ICT   () ;IES  (  ).()     74.() ( OS1,2,SN B E   A E R T O S I A A P F P F T C O M O AOL ( T( A P U P  O T  0. ( I( N  OC:  ()M  ()IS U T C E U D N ));  () 3IS ]
+[DELETED: S 7 ( P P M A F N M T O A 1  ( ( I   ( “ c m a b o g b u t c s c s e a a i t b a   ( “   ( “ z m a a t h b d a a q   ( ( “ i s       1 f lda f]A 35          52Q P F E  S O L O T D C T I N D T HS      2 f i] f   A.35;      B 52Q P F E  S O L O T D C T I N D T H .    ( “     1 a w]
+[DELETED:  S      2 a e d c o a o b t c   ( ( “ d c p p m p p    ( “     1 c e o e s u f t p s r o c o d i s r c     2 h s e e     3 e t g t u s u p s s b n   ( ( “     1 i     2 p     3 i i     4 i    ( “     1 c i a e f i s f a e i     2 c t a c i o o a t o b     3 c o]
+[DELETED: S 9     4 c f n     5 f   ( “    ( a T I c a d i § 1 o t E D    ( a  ( T s a u t d n a t t s o q d c p e  ( ( T t s a i o a c s f a a f a e c   ( T    ( d o ad   ) :ID   1  ;   2  A D C T I COL I A   F O T BG A A E E L I A L A E A T T  M E S  ;  () 9ID  NF   1 PMI,L I T  NN Y    2 –;NS]
+[DELETED:  S   ()VC T T D C W N U A F F ONS GN N I F BN      () i a i t D r t]( e t   ( I) []S() U II H   t u s ( o t s t D s c t e o t a   ) TIH E M L A C I T S B A A Q D C T C A E U T S O U T A S D   1  T S I T C D I T C O T TE :   A  I O T O SES IS R S S ,,S    B RSE    2 D F T T TE   A T;   B T A L O O S W]
+[DELETED: S 1   CRSN ;   D T W T EN  T.   TME A N D S E  () C A P U E SE  ()ID S B F C II ()2.  ( ( E i u   ( W s t C s i t e i a c l a c s   ( ( T s    1 m    2 e n    ( I q t  ( F a l 3 y a t t o a c i u s s   ( m    ( t t]
+[DELETED:  S     ( t    ( t   ( a s  ( ( T ( c i d b t D t h b f w m o i t a   ( T r m b i f o i p a t D m d   ( T r   ( T c h  S 1]

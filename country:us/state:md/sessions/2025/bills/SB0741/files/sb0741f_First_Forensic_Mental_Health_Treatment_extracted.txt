@@ -1,0 +1,654 @@
+Title: SENATE BILL 741
+Official Title: SENATE BILL 741
+Number of Sections: 1
+Source: versions - First - Forensic Mental Health Treatment
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+J1, J3, D1 5lr2299
+By: Senators Lam and Augustine
+Introduced and read first time: January 27, 2025
+Assigned to: Finance and Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Forensic Mental Health Treatment
+3 FOR the purpose of altering the circumstances under which a certificate of need for
+4 changing bed capacity in a health care facility is required; establishing the
+5 Workgroup on Forensic Mental Health Treatment; requiring the Workgroup to
+6 develop a certain form to be used by judges in a proceeding related to incompetency
+7 to stand trial; establishing the Forensic Mental Health Treatment Fund as a special,
+8 nonlapsing fund; requiring courts to remit certain fines and monetary penalties into
+9 the Fund; requiring that interest earnings of the Fund be credited to the Fund; and
+10 generally relating to forensic mental health treatment in the State.
+11 BY repealing and reenacting, with amendments,
+12 Article – Criminal Procedure
+13 Section 3–106(c)(4)
+14 Annotated Code of Maryland
+15 (2018 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Health – General
+18 Section 19–120(h) and (l)
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Health – General
+23 Section 24–2501 and 24–2502 to be under the new subtitle “Subtitle 25. Forensic
+24 Mental Health Treatment”
+25 Annotated Code of Maryland
+26 (2023 Replacement Volume and 2024 Supplement)
+27 BY repealing and reenacting, without amendments,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0741*
+2 SENATE BILL 741
+1 Article – State Finance and Procurement
+2 Section 6–226(a)(2)(i)
+3 Annotated Code of Maryland
+4 (2021 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, with amendments,
+6 Article – State Finance and Procurement
+7 Section 6–226(a)(2)(ii)204. and 205.
+8 Annotated Code of Maryland
+9 (2021 Replacement Volume and 2024 Supplement)
+10 BY adding to
+11 Article – State Finance and Procurement
+12 Section 6–226(a)(2)(ii)206.
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Criminal Procedure
+18 3–106.
+19 (c) (4) (I) [If] EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF THIS
+20 PARAGRAPH, IF the Health Department fails to admit a defendant to a designated health
+21 care facility within the time period specified in paragraph (2)(i) of this subsection, the court
+22 may impose any sanction reasonably designed to compel compliance, including requiring
+23 the Health Department to reimburse a detention facility for expenses and costs incurred in
+24 retaining the defendant beyond the time period specified in paragraph (2)(i) of this
+25 subsection at the daily rate specified in § 9–402(b) of the Correctional Services Article.
+26 (II) IF THE SANCTION IMPOSED BY THE COURT INCLUDES A FINE
+27 OR MONETARY PENALTY THAT IS NOT INTENDED TO REIMBURSE A DETENTION
+28 FACILITY, THE COURT SHALL REMIT THE FINE OR MONETARY PENALTY TO THE
+29 FORENSIC MENTAL HEALTH TREATMENT FUND ESTABLISHED UNDER § 24–2502 OF
+30 THE HEALTH – GENERAL ARTICLE.
+31 Article – Health – General
+32 19–120.
+33 (h) (1) A certificate of need is required before the bed capacity of a health care
+34 facility is changed.
+SENATE BILL 741 3
+1 (2) [This] EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS
+2 SUBSECTION, THIS subsection does not apply to any increase or decrease in bed capacity
+3 if:
+4 (i) For a health care facility that is not a hospital, during a 2–year
+5 period the increase or decrease would not exceed the lesser of 10 percent of the total bed
+6 capacity or 10 beds;
+7 (ii) 1. The increase or decrease would change the bed capacity
+8 for an existing medical service; and
+9 2. A. The change would not increase total bed capacity;
+10 B. The change is maintained for at least a 1–year period; and
+11 C. At least 45 days prior to the change, the hospital provides
+12 written notice to the Commission describing the change and providing an updated
+13 inventory of the hospital’s licensed bed complement;
+14 (iii) 1. At least 45 days before increasing or decreasing bed
+15 capacity, written notice of intent to change bed capacity is filed with the Commission;
+16 2. The Commission in its sole discretion finds that the
+17 proposed change:
+18 A. Is pursuant to the consolidation or merger of two or more
+19 health care facilities, or conversion of a health care facility or part of a facility to a
+20 nonhealth–related use;
+21 B. Is not inconsistent with the State health plan or the
+22 institution–specific plan developed by the Commission;
+23 C. Will result in the delivery of more efficient and effective
+24 health care services; and
+25 D. Is in the public interest; and
+26 3. Within 45 days of receiving notice, the Commission
+27 notifies the health care facility of its finding;
+28 (iv) The increase or decrease in bed capacity is the result of the
+29 annual licensed bed recalculation provided under § 19–307.2 of this title; or
+30 (v) 1. The increase or decrease in bed capacity will occur in:
+4 SENATE BILL 741
+1 A. An intermediate care facility that offers residential or
+2 intensive substance–related disorder treatment services and has a current license issued
+3 by the Secretary; or
+4 B. An existing general hospice program that has a current
+5 license issued by the Secretary; and
+6 2. At least 45 days before increasing or decreasing bed
+7 capacity, written notice of the intent to change bed capacity is filed with the Commission.
+8 (3) NOTWITHSTANDING ANY OTHER REQUIREMENT OF THIS
+9 SUBSECTION, A CERTIFICATE OF NEED IS REQUIRED BEFORE THE PSYCHIATRIC BED
+10 CAPACITY OF A HEALTH CARE FACILITY IS REDUCED BY FIVE OR MORE BEDS.
+11 (l) (1) [A] EXCEPT AS PROVIDED IN PARAGRAPH (7) OF THIS
+12 SUBSECTION, A certificate of need is not required to close any health care facility or part
+13 of a health care facility if at least 90 days before the closing or if at least 45 days before the
+14 partial closing of the health care facility, including a State hospital, a person proposing to
+15 close all or part of the health care facility files notice of the proposed closing or partial
+16 closing with the Commission.
+17 (2) A hospital shall hold a public informational hearing in the county where
+18 the hospital is located if the hospital:
+19 (i) Files a notice of the proposed closing of the hospital with the
+20 Commission;
+21 (ii) Requests an exemption from the Commission under subsection
+22 (o)(3) of this section to convert to a freestanding medical facility; or
+23 (iii) Is located in a county with fewer than three hospitals and files a
+24 notice of the partial closing of the hospital with the Commission.
+25 (3) The Commission may require a health care facility other than a hospital
+26 described in paragraph (2) of this subsection that files notice of its proposed closing or
+27 partial closing to hold a public informational hearing in the county where the health care
+28 facility is located.
+29 (4) A public informational hearing required under paragraph (2) or (3) of
+30 this subsection shall be held by the health care facility, in consultation with the
+31 Commission, within 30 days after:
+32 (i) The health care facility files with the Commission a notice of its
+33 proposed closing or partial closing; or
+34 (ii) The hospital files with the Commission a notice of intent to
+35 convert to a freestanding medical facility.
+SENATE BILL 741 5
+1 (5) (i) The Commission shall establish by regulation requirements for
+2 a public informational hearing required under paragraph (2) or (3) of this subsection.
+3 (ii) For a hospital proposing to close, partially close, or convert to a
+4 freestanding medical facility, the regulations shall require the hospital to address:
+5 1. The reasons for the closure, partial closure, or conversion;
+6 2. The plan for transitioning acute care services previously
+7 provided by the hospital to residents of the hospital service area;
+8 3. The plan for addressing the health care needs of the
+9 residents of the hospital service area;
+10 4. The plan for retraining and placing displaced employees;
+11 5. The plan for the hospital’s physical plant and site; and
+12 6. The proposed timeline for the closure, partial closure, or
+13 conversion to a freestanding medical facility.
+14 (6) Within 10 working days after a public informational hearing held by a
+15 hospital under this subsection, the hospital shall provide a written summary of the hearing
+16 to:
+17 (i) The Governor;
+18 (ii) The Secretary;
+19 (iii) The governing body of the county in which the hospital is located;
+20 (iv) The local health department and the local board of health or
+21 similar body for the county in which the hospital is located;
+22 (v) The Commission; and
+23 (vi) Subject to § 2–1257 of the State Government Article, the Senate
+24 Finance Committee, the House Health and Government Operations Committee, and the
+25 members of the General Assembly who represent the district in which the hospital is
+26 located.
+27 (7) A CERTIFICATE OF NEED IS REQUIRED IF THE CLOSING OR
+28 PARTIAL CLOSING OF THE HEALTH CARE FACILITY WILL RESULT IN A DECREASE OF
+29 FIVE OR MORE PSYCHIATRIC BEDS IN THE STATE.
+30 SUBTITLE 25. FORENSIC MENTAL HEALTH TREATMENT.
+6 SENATE BILL 741
+1 24–2501.
+2 (A) IN THIS SECTION, “WORKGROUP” MEANS THE WORKGROUP ON
+3 FORENSIC MENTAL HEALTH TREATMENT.
+4 (B) THERE IS A WORKGROUP ON FORENSIC MENTAL HEALTH TREATMENT.
+5 (C) THE WORKGROUP CONSISTS OF:
+6 (1) THE SECRETARY, OR THE SECRETARY’S DESIGNEE;
+7 (2) THE CHIEF JUSTICE OF THE SUPREME COURT OF MARYLAND;
+8 (3) ONE CIRCUIT COURT JUDGE, APPOINTED BY THE CHIEF JUSTICE
+9 OF THE SUPREME COURT OF MARYLAND;
+10 (4) ONE REPRESENTATIVE OF THE MENTAL HEALTH DIVISION OF
+11 THE OFFICE OF THE PUBLIC DEFENDER, APPOINTED BY THE PUBLIC DEFENDER
+12 OF MARYLAND;
+13 (5) THE EXECUTIVE DIRECTOR OF THE MARYLAND HEALTH CARE
+14 COMMISSION, OR THE EXECUTIVE DIRECTOR’S DESIGNEE;
+15 (6) THE PRESIDENT OF THE MARYLAND STATE’S ATTORNEYS’
+16 ASSOCIATION, OR THE PRESIDENT’S DESIGNEE;
+17 (7) THE EXECUTIVE DIRECTOR OF ON OUR OWN OF MARYLAND, OR
+18 THE EXECUTIVE DIRECTOR’S DESIGNEE; AND
+19 (8) THE PRESIDENT OF DISABILITY RIGHTS MARYLAND, OR THE
+20 PRESIDENT’S DESIGNEE.
+21 (D) THE SECRETARY AND THE CHIEF JUSTICE OF THE MARYLAND
+22 SUPREME COURT SHALL COCHAIR THE WORKGROUP.
+23 (E) THE DEPARTMENT SHALL PROVIDE STAFF FOR THE WORKGROUP.
+24 (F) A MEMBER OF THE WORKGROUP:
+25 (1) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE
+26 WORKGROUP; BUT
+SENATE BILL 741 7
+1 (2) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES UNDER THE
+2 STANDARD STATE TRAVEL REGULATIONS, AS PROVIDED IN THE STATE BUDGET.
+3
+4 (G) (1) ON OR BEFORE OCTOBER 1, 2026, THE SECRETARY AND CHIEF
+5 JUSTICE SHALL JOINTLY CREATE, IN CONSULTATION WITH THE WORKGROUP, A
+6 DATA COLLECTION FORM FOR USE BY JUDGES IN A PROCEEDING RELATED TO
+7 INCOMPETENCY TO STAND TRIAL.
+8 (2) THE FORM SHALL INCLUDE:
+9 (I) THE JUDGE PRESIDING OVER THE PROCEEDING;
+10 (II) THE EVALUATOR WORKING ON BEHALF OF THE
+11 DEPARTMENT WHO EXAMINED THE DEFENDANT AS PART OF THE INCOMPETENCY
+12 PROCEEDINGS;
+13 (III) THE CHARGES BROUGHT AGAINST THE DEFENDANT;
+14 (IV) THE EVALUATOR’S OPINION ON THE DEFENDANT’S
+15 COMPETENCY AND DANGEROUSNESS UNDER § 3–105 OF THE CRIMINAL
+16 PROCEDURE ARTICLE;
+17 (V) THE POSITION TAKEN BY THE STATE’S ATTORNEY AND
+18 COUNSEL FOR THE DEFENDANT ON THE DEFENDANT’S COMPETENCY OR
+19 DANGEROUSNESS;
+20 (VI) THE COURT’S DECISION ON THE COMPETENCY AND
+21 DANGEROUSNESS OF THE DEFENDANT;
+22 (VII) IF THE COURT FOUND THE DEFENDANT INCOMPETENT,
+23 WHETHER THE COURT ORDERED THE DEFENDANT TO BE COMMITTED TO A FACILITY
+24 DESIGNATED BY THE DEPARTMENT OR THAT THE DEFENDANT BE RELEASED; AND
+25 (VIII) ANY OTHER INFORMATION IDENTIFIED BY THE SECRETARY
+26 AND CHIEF JUSTICE.
+27 (H) FOLLOWING THE CREATION OF THE FORM UNDER SUBSECTION (G) OF
+28 THIS SECTION, THE CHIEF JUSTICE SHALL DIRECT THE COURTS TO:
+29 (1) COMPLETE THE FORM FOLLOWING A PROCEEDING RELATED TO
+30 INCOMPETENCY TO STAND TRIAL; AND
+31 (2) SUBMIT THE FORM TO THE DEPARTMENT.
+8 SENATE BILL 741
+1 (I) THE WORKGROUP SHALL MEET AT LEAST ANNUALLY TO REVIEW DATA
+2 COLLECTED FROM THE SUBMITTED FORMS AND ANY OTHER RELEVANT
+3 INFORMATION.
+4 (J) ON OR BEFORE JANUARY 1 EACH YEAR, BEGINNING IN 2027, THE
+5 WORKGROUP SHALL SUBMIT A REPORT TO THE GOVERNOR AND, IN ACCORDANCE
+6 WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, THE GENERAL ASSEMBLY
+7 ON:
+8 (1) THE DATA COLLECTED USING THE FORMS SUBMITTED UNDER
+9 SUBSECTION (G) OF THIS SECTION;
+10 (2) THE NEED FOR MORE PSYCHIATRIC BEDS IN THE STATE;
+11 (3) THE NEED FOR INCREASED OUTPATIENT COMPETENCY
+12 RESTORATION OPTIONS;
+13 (4) FUNDING RECOMMENDATIONS RELATED TO PARAGRAPHS (2)
+14 AND (3) OF THIS SUBSECTION; AND
+15 (5) ANY OTHER FINDINGS OR RECOMMENDATIONS.
+16 (K) THE WORKGROUP AND THE DEPARTMENT SHALL TAKE APPROPRIATE
+17 PRECAUTIONS TO PROTECT THE IDENTITY OF A JUDGE, AN EVALUATOR, AND A
+18 DEFENDANT INCLUDED ON A FORM COMPLETED UNDER SUBSECTION (H) OF THIS
+19 SECTION.
+20 24–2502.
+21 (A) IN THIS SECTION, “FUND” MEANS THE FORENSIC MENTAL HEALTH
+22 TREATMENT FUND.
+23 (B) THERE IS A FORENSIC MENTAL HEALTH TREATMENT FUND IN THE
+24 DEPARTMENT.
+25 (C) (1) THE COMPTROLLER SHALL COLLECT ALL FINES AND MONETARY
+26 PENALTIES REMITTED TO THE FUND BY THE COURTS UNDER § 3–106 OF THE
+27 CRIMINAL PROCEDURE ARTICLE.
+28 (2) THE COMPTROLLER SHALL DISTRIBUTE THE FINES AND
+29 MONETARY PENALTIES TO THE FUND.
+SENATE BILL 741 9
+1 (D) THE PURPOSE OF THE FUND IS TO PROVIDE SUPPORT FOR INCREASING
+2 THE TOTAL NUMBER OF LICENSED PSYCHIATRIC BEDS IN THE STATE.
+3 (E) THE DEPARTMENT SHALL ADMINISTER THE FUND.
+4 (F) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+5 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+6 (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY,
+7 AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+8 (G) THE FUND CONSISTS OF:
+9 (1) FINES AND MONETARY PENALTIES DISTRIBUTED TO THE FUND
+10 UNDER SUBSECTION (C) OF THIS SECTION;
+11 (2) MONEY APPROPRIATED IN THE STATE BUDGET TO THE FUND;
+12 (3) INTEREST EARNINGS; AND
+13 (4) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED FOR
+14 THE BENEFIT OF THE FUND.
+15 (H) THE FUND MAY BE USED ONLY FOR PURPOSES DESIGNED TO INCREASE
+16 THE TOTAL NUMBER OF LICENSED PSYCHIATRIC BEDS IN THE STATE.
+17 (I) (1) THE STATE TREASURER SHALL INVEST THE MONEY OF THE FUND
+18 IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+19 (2) ANY INTEREST EARNINGS OF THE FUND SHALL BE CREDITED TO
+20 THE FUND.
+21 (J) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN ACCORDANCE
+22 WITH THE STATE BUDGET.
+23 (K) MONEY EXPENDED FROM THE FUND IS SUPPLEMENTAL TO AND IS NOT
+24 INTENDED TO TAKE THE PLACE OF FUNDING THAT OTHERWISE WOULD BE
+25 APPROPRIATED FOR INCREASING THE TOTAL NUMBER OF LICENSED PSYCHIATRIC
+26 BEDS IN THE STATE.
+27 (L) THE DEPARTMENT SHALL ADOPT REGULATIONS ON THE DISTRIBUTION
+28 OF FUNDS FROM THE FORENSIC MENTAL HEALTH TREATMENT FUND.
+29 Article – State Finance and Procurement
+10 SENATE BILL 741
+1 6–226.
+2 (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024
+3 through 2028.
+4 2. Notwithstanding any other provision of law, and unless
+5 inconsistent with a federal law, grant agreement, or other federal requirement or with the
+6 terms of a gift or settlement agreement, net interest on all State money allocated by the
+7 State Treasurer under this section to special funds or accounts, and otherwise entitled to
+8 receive interest earnings, as accounted for by the Comptroller, shall accrue to the General
+9 Fund of the State.
+10 (ii) The provisions of subparagraph (i) of this paragraph do not apply
+11 to the following funds:
+12 204. the Victims of Domestic Violence Program Grant Fund;
+13 [and]
+14 205. the Proposed Programs Collaborative Grant Fund; AND
+15 206. THE FORENSIC MENTAL HEALTH TREATMENT FUND.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 October 1, 2025.
+[DELETED: :CA      5     A F F t p o a t c u w a c o n f c b c i a h c f i r e t W o F M H T r t W t d t n t g B  A S  A  ( B  A S  A  ( B  A S M  A  ( B]
+[DELETED:  S   A  S  A  ( B  A  S  A  ( B  A  S  A  (  S T A 3  ( ( I) []E( X II H    c m t r t d b t t p s i p ( o t s   ) IF M P T I N I T R A DY T C S R T F O M P T TMHTF§2 E E R U    E  E RE–GA. A 1  ( ( A f]
+[DELETED: S 3   ( Ts]E( A P I P  O TNT  s i    ( F p c    ( 1 T f     2 A T     B T     C A w n t t C d t c a p a u i    ( 1 A l 4 d b i o d b c     2 T C i i s d f t t p     A I h c f o c o a h c f o p o a f t a n     B I n i w t S h p o t i     C W h     D I     3 W 4 d o r n t C n    ( T i o d i b c i t r o t a    ( 1 T]
+[DELETED:  S      A A i c f t o r o i b     B A l     2 A l 4 d b i o d b c    A O R O TN   ( ( A]E( A P I P  O TN    o p c c   ( A t    ( F C    ( R (    ( I n   ( T d p f   ( A t s s b h b t h c f i c w t C    ( T p    ( T h f w t C a n o i t c]
+[DELETED: S 5   ( ( T a    ( F f     1 T     2 T p     3 T p f a t h c n o t r     4 T     5 T     6 T c   ( W h t    ( T    ( T    ( T    ( T l h d a t l b o h o s    ( T    ( S F m o t G A w r t d i w t h i l   C O N I R I T C O T.2.FMHT.  O E E R]
+[DELETED:  S () I,“W”N T SN OP M T O OMHT. E E R() TWFMHT.H O O E E R() TW:H O ( TS,S’; EY  EYS ( TCJSCM; H U U O A ( O,CE  H U U O ACM; ( OMH R O T E E I O F U ER  U EPD,P A; ( TEDMH X I A E A,ED’;N  X IRS ( TPMS’A R O T A TES TS,P’;N  RTS ( TEDOOOM X I N U W AD  X IRSE D’; ( TPDRM R O I I AD O T’.TS() TSCJH E A T H U O T ACW. O O() TDW.H E O() AW:  O (  N R C A A M O T;P ]
+[DELETED: S 7 (  E T R F E U TSTR,S. T R ES  T() ( OO1,2,SN C    E H,W S J CE I C W T OP A C F F U B J I A P R T ( T:  () T;H  () IH E W O B O T  () T;IH  () T’VH ERS O O T DTS A D U   O T R35A; R  () TS’H P T B T TES T A F T D O T DTS C OS  () TIH CTS D O T C A  () IIF T C F T D IT ED ;  ()AIN E H UJ.() F(O G N  H UCJ: ( L  ( SD. E]
+[DELETED:  S () TH O F T S F A A O R() OJ1,2N O B A  E YR B I  TG OD     T O RE  E S27SGA,G (  D C U T F S U G ); ( TS; T (  N F I O C ( F( R R T P   N ); ( A.() TWH O E T P T I O A JE A ER A A H N() I,“F”FMN T SN UD M T O E EF. U() TFMHTH I A O E E R U I T.() ( TH O R T T U B T C U   O T§3PA. R R ( T O S D T F A U.]
+[DELETED: S 9() TH U T.() TDFH E U  ) ( TFH U I A SL N F T I N    T I R R72SFPA. ( TSTF T R T UY O UF.() TF:H U ( F M D U C ); ( MSF; T U ( I;S  (  O O A U  ) TH U T.() ( TSTH T R U T. ( A U U.() EX U T.() MO U T T T P O F T O W B T. ) TH E O E E R UMHTF. A]
+[DELETED:  S  6  ( ( ( 1 T s d n a i f y 2 t     2 N i t S r F    ( T t     2 t] a     2 t   2 FMHTF O E E R U   S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 741
+J1, J3, D1 5lr2299
+By: Senators Lam and Augustine
+Introduced and read first time: January 27, 2025
+Assigned to: Finance and Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Forensic Mental Health Treatment
+3 FOR the purpose of altering the circumstances under which a certificate of need for
+4 changing bed capacity in a health care facility is required; establishing the
+5 Workgroup on Forensic Mental Health Treatment; requiring the Workgroup to
+6 develop a certain form to be used by judges in a proceeding related to incompetency
+7 to stand trial; establishing the Forensic Mental Health Treatment Fund as a special,
+8 nonlapsing fund; requiring courts to remit certain fines and monetary penalties into
+9 the Fund; requiring that interest earnings of the Fund be credited to the Fund; and
+10 generally relating to forensic mental health treatment in the State.
+11 BY repealing and reenacting, with amendments,
+12 Article – Criminal Procedure
+13 Section 3–106(c)(4)
+14 Annotated Code of Maryland
+15 (2018 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Health – General
+18 Section 19–120(h) and (l)
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Health – General
+23 Section 24–2501 and 24–2502 to be under the new subtitle “Subtitle 25. Forensic
+24 Mental Health Treatment”
+25 Annotated Code of Maryland
+26 (2023 Replacement Volume and 2024 Supplement)
+27 BY repealing and reenacting, without amendments,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0741*
+
+2 SENATE BILL 741
+1 Article – State Finance and Procurement
+2 Section 6–226(a)(2)(i)
+3 Annotated Code of Maryland
+4 (2021 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, with amendments,
+6 Article – State Finance and Procurement
+7 Section 6–226(a)(2)(ii)204. and 205.
+8 Annotated Code of Maryland
+9 (2021 Replacement Volume and 2024 Supplement)
+10 BY adding to
+11 Article – State Finance and Procurement
+12 Section 6–226(a)(2)(ii)206.
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Criminal Procedure
+18 3–106.
+19 (c) (4) (I) [If] EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF THIS
+20 PARAGRAPH, IF the Health Department fails to admit a defendant to a designated health
+21 care facility within the time period specified in paragraph (2)(i) of this subsection, the court
+22 may impose any sanction reasonably designed to compel compliance, including requiring
+23 the Health Department to reimburse a detention facility for expenses and costs incurred in
+24 retaining the defendant beyond the time period specified in paragraph (2)(i) of this
+25 subsection at the daily rate specified in § 9–402(b) of the Correctional Services Article.
+26 (II) IF THE SANCTION IMPOSED BY THE COURT INCLUDES A FINE
+27 OR MONETARY PENALTY THAT IS NOT INTENDED TO REIMBURSE A DETENTION
+28 FACILITY, THE COURT SHALL REMIT THE FINE OR MONETARY PENALTY TO THE
+29 FORENSIC MENTAL HEALTH TREATMENT FUND ESTABLISHED UNDER § 24–2502 OF
+30 THE HEALTH – GENERAL ARTICLE.
+31 Article – Health – General
+32 19–120.
+33 (h) (1) A certificate of need is required before the bed capacity of a health care
+34 facility is changed.
+
+SENATE BILL 741 3
+1 (2) [This] EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS
+2 SUBSECTION, THIS subsection does not apply to any increase or decrease in bed capacity
+3 if:
+4 (i) For a health care facility that is not a hospital, during a 2–year
+5 period the increase or decrease would not exceed the lesser of 10 percent of the total bed
+6 capacity or 10 beds;
+7 (ii) 1. The increase or decrease would change the bed capacity
+8 for an existing medical service; and
+9 2. A. The change would not increase total bed capacity;
+10 B. The change is maintained for at least a 1–year period; and
+11 C. At least 45 days prior to the change, the hospital provides
+12 written notice to the Commission describing the change and providing an updated
+13 inventory of the hospital’s licensed bed complement;
+14 (iii) 1. At least 45 days before increasing or decreasing bed
+15 capacity, written notice of intent to change bed capacity is filed with the Commission;
+16 2. The Commission in its sole discretion finds that the
+17 proposed change:
+18 A. Is pursuant to the consolidation or merger of two or more
+19 health care facilities, or conversion of a health care facility or part of a facility to a
+20 nonhealth–related use;
+21 B. Is not inconsistent with the State health plan or the
+22 institution–specific plan developed by the Commission;
+23 C. Will result in the delivery of more efficient and effective
+24 health care services; and
+25 D. Is in the public interest; and
+26 3. Within 45 days of receiving notice, the Commission
+27 notifies the health care facility of its finding;
+28 (iv) The increase or decrease in bed capacity is the result of the
+29 annual licensed bed recalculation provided under § 19–307.2 of this title; or
+30 (v) 1. The increase or decrease in bed capacity will occur in:
+
+4 SENATE BILL 741
+1 A. An intermediate care facility that offers residential or
+2 intensive substance–related disorder treatment services and has a current license issued
+3 by the Secretary; or
+4 B. An existing general hospice program that has a current
+5 license issued by the Secretary; and
+6 2. At least 45 days before increasing or decreasing bed
+7 capacity, written notice of the intent to change bed capacity is filed with the Commission.
+8 (3) NOTWITHSTANDING ANY OTHER REQUIREMENT OF THIS
+9 SUBSECTION, A CERTIFICATE OF NEED IS REQUIRED BEFORE THE PSYCHIATRIC BED
+10 CAPACITY OF A HEALTH CARE FACILITY IS REDUCED BY FIVE OR MORE BEDS.
+11 (l) (1) [A] EXCEPT AS PROVIDED IN PARAGRAPH (7) OF THIS
+12 SUBSECTION, A certificate of need is not required to close any health care facility or part
+13 of a health care facility if at least 90 days before the closing or if at least 45 days before the
+14 partial closing of the health care facility, including a State hospital, a person proposing to
+15 close all or part of the health care facility files notice of the proposed closing or partial
+16 closing with the Commission.
+17 (2) A hospital shall hold a public informational hearing in the county where
+18 the hospital is located if the hospital:
+19 (i) Files a notice of the proposed closing of the hospital with the
+20 Commission;
+21 (ii) Requests an exemption from the Commission under subsection
+22 (o)(3) of this section to convert to a freestanding medical facility; or
+23 (iii) Is located in a county with fewer than three hospitals and files a
+24 notice of the partial closing of the hospital with the Commission.
+25 (3) The Commission may require a health care facility other than a hospital
+26 described in paragraph (2) of this subsection that files notice of its proposed closing or
+27 partial closing to hold a public informational hearing in the county where the health care
+28 facility is located.
+29 (4) A public informational hearing required under paragraph (2) or (3) of
+30 this subsection shall be held by the health care facility, in consultation with the
+31 Commission, within 30 days after:
+32 (i) The health care facility files with the Commission a notice of its
+33 proposed closing or partial closing; or
+34 (ii) The hospital files with the Commission a notice of intent to
+35 convert to a freestanding medical facility.
+
+SENATE BILL 741 5
+1 (5) (i) The Commission shall establish by regulation requirements for
+2 a public informational hearing required under paragraph (2) or (3) of this subsection.
+3 (ii) For a hospital proposing to close, partially close, or convert to a
+4 freestanding medical facility, the regulations shall require the hospital to address:
+5 1. The reasons for the closure, partial closure, or conversion;
+6 2. The plan for transitioning acute care services previously
+7 provided by the hospital to residents of the hospital service area;
+8 3. The plan for addressing the health care needs of the
+9 residents of the hospital service area;
+10 4. The plan for retraining and placing displaced employees;
+11 5. The plan for the hospital’s physical plant and site; and
+12 6. The proposed timeline for the closure, partial closure, or
+13 conversion to a freestanding medical facility.
+14 (6) Within 10 working days after a public informational hearing held by a
+15 hospital under this subsection, the hospital shall provide a written summary of the hearing
+16 to:
+17 (i) The Governor;
+18 (ii) The Secretary;
+19 (iii) The governing body of the county in which the hospital is located;
+20 (iv) The local health department and the local board of health or
+21 similar body for the county in which the hospital is located;
+22 (v) The Commission; and
+23 (vi) Subject to § 2–1257 of the State Government Article, the Senate
+24 Finance Committee, the House Health and Government Operations Committee, and the
+25 members of the General Assembly who represent the district in which the hospital is
+26 located.
+27 (7) A CERTIFICATE OF NEED IS REQUIRED IF THE CLOSING OR
+28 PARTIAL CLOSING OF THE HEALTH CARE FACILITY WILL RESULT IN A DECREASE OF
+29 FIVE OR MORE PSYCHIATRIC BEDS IN THE STATE.
+30 SUBTITLE 25. FORENSIC MENTAL HEALTH TREATMENT.
+
+6 SENATE BILL 741
+1 24–2501.
+2 (A) IN THIS SECTION, “WORKGROUP” MEANS THE WORKGROUP ON
+3 FORENSIC MENTAL HEALTH TREATMENT.
+4 (B) THERE IS A WORKGROUP ON FORENSIC MENTAL HEALTH TREATMENT.
+5 (C) THE WORKGROUP CONSISTS OF:
+6 (1) THE SECRETARY, OR THE SECRETARY’S DESIGNEE;
+7 (2) THE CHIEF JUSTICE OF THE SUPREME COURT OF MARYLAND;
+8 (3) ONE CIRCUIT COURT JUDGE, APPOINTED BY THE CHIEF JUSTICE
+9 OF THE SUPREME COURT OF MARYLAND;
+10 (4) ONE REPRESENTATIVE OF THE MENTAL HEALTH DIVISION OF
+11 THE OFFICE OF THE PUBLIC DEFENDER, APPOINTED BY THE PUBLIC DEFENDER
+12 OF MARYLAND;
+13 (5) THE EXECUTIVE DIRECTOR OF THE MARYLAND HEALTH CARE
+14 COMMISSION, OR THE EXECUTIVE DIRECTOR’S DESIGNEE;
+15 (6) THE PRESIDENT OF THE MARYLAND STATE’S ATTORNEYS’
+16 ASSOCIATION, OR THE PRESIDENT’S DESIGNEE;
+17 (7) THE EXECUTIVE DIRECTOR OF ON OUR OWN OF MARYLAND, OR
+18 THE EXECUTIVE DIRECTOR’S DESIGNEE; AND
+19 (8) THE PRESIDENT OF DISABILITY RIGHTS MARYLAND, OR THE
+20 PRESIDENT’S DESIGNEE.
+21 (D) THE SECRETARY AND THE CHIEF JUSTICE OF THE MARYLAND
+22 SUPREME COURT SHALL COCHAIR THE WORKGROUP.
+23 (E) THE DEPARTMENT SHALL PROVIDE STAFF FOR THE WORKGROUP.
+24 (F) A MEMBER OF THE WORKGROUP:
+25 (1) MAY NOT RECEIVE COMPENSATION AS A MEMBER OF THE
+26 WORKGROUP; BUT
+
+SENATE BILL 741 7
+1 (2) IS ENTITLED TO REIMBURSEMENT FOR EXPENSES UNDER THE
+2 STANDARD STATE TRAVEL REGULATIONS, AS PROVIDED IN THE STATE BUDGET.
+3
+4 (G) (1) ON OR BEFORE OCTOBER 1, 2026, THE SECRETARY AND CHIEF
+5 JUSTICE SHALL JOINTLY CREATE, IN CONSULTATION WITH THE WORKGROUP, A
+6 DATA COLLECTION FORM FOR USE BY JUDGES IN A PROCEEDING RELATED TO
+7 INCOMPETENCY TO STAND TRIAL.
+8 (2) THE FORM SHALL INCLUDE:
+9 (I) THE JUDGE PRESIDING OVER THE PROCEEDING;
+10 (II) THE EVALUATOR WORKING ON BEHALF OF THE
+11 DEPARTMENT WHO EXAMINED THE DEFENDANT AS PART OF THE INCOMPETENCY
+12 PROCEEDINGS;
+13 (III) THE CHARGES BROUGHT AGAINST THE DEFENDANT;
+14 (IV) THE EVALUATOR’S OPINION ON THE DEFENDANT’S
+15 COMPETENCY AND DANGEROUSNESS UNDER § 3–105 OF THE CRIMINAL
+16 PROCEDURE ARTICLE;
+17 (V) THE POSITION TAKEN BY THE STATE’S ATTORNEY AND
+18 COUNSEL FOR THE DEFENDANT ON THE DEFENDANT’S COMPETENCY OR
+19 DANGEROUSNESS;
+20 (VI) THE COURT’S DECISION ON THE COMPETENCY AND
+21 DANGEROUSNESS OF THE DEFENDANT;
+22 (VII) IF THE COURT FOUND THE DEFENDANT INCOMPETENT,
+23 WHETHER THE COURT ORDERED THE DEFENDANT TO BE COMMITTED TO A FACILITY
+24 DESIGNATED BY THE DEPARTMENT OR THAT THE DEFENDANT BE RELEASED; AND
+25 (VIII) ANY OTHER INFORMATION IDENTIFIED BY THE SECRETARY
+26 AND CHIEF JUSTICE.
+27 (H) FOLLOWING THE CREATION OF THE FORM UNDER SUBSECTION (G) OF
+28 THIS SECTION, THE CHIEF JUSTICE SHALL DIRECT THE COURTS TO:
+29 (1) COMPLETE THE FORM FOLLOWING A PROCEEDING RELATED TO
+30 INCOMPETENCY TO STAND TRIAL; AND
+31 (2) SUBMIT THE FORM TO THE DEPARTMENT.
+
+8 SENATE BILL 741
+1 (I) THE WORKGROUP SHALL MEET AT LEAST ANNUALLY TO REVIEW DATA
+2 COLLECTED FROM THE SUBMITTED FORMS AND ANY OTHER RELEVANT
+3 INFORMATION.
+4 (J) ON OR BEFORE JANUARY 1 EACH YEAR, BEGINNING IN 2027, THE
+5 WORKGROUP SHALL SUBMIT A REPORT TO THE GOVERNOR AND, IN ACCORDANCE
+6 WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, THE GENERAL ASSEMBLY
+7 ON:
+8 (1) THE DATA COLLECTED USING THE FORMS SUBMITTED UNDER
+9 SUBSECTION (G) OF THIS SECTION;
+10 (2) THE NEED FOR MORE PSYCHIATRIC BEDS IN THE STATE;
+11 (3) THE NEED FOR INCREASED OUTPATIENT COMPETENCY
+12 RESTORATION OPTIONS;
+13 (4) FUNDING RECOMMENDATIONS RELATED TO PARAGRAPHS (2)
+14 AND (3) OF THIS SUBSECTION; AND
+15 (5) ANY OTHER FINDINGS OR RECOMMENDATIONS.
+16 (K) THE WORKGROUP AND THE DEPARTMENT SHALL TAKE APPROPRIATE
+17 PRECAUTIONS TO PROTECT THE IDENTITY OF A JUDGE, AN EVALUATOR, AND A
+18 DEFENDANT INCLUDED ON A FORM COMPLETED UNDER SUBSECTION (H) OF THIS
+19 SECTION.
+20 24–2502.
+21 (A) IN THIS SECTION, “FUND” MEANS THE FORENSIC MENTAL HEALTH
+22 TREATMENT FUND.
+23 (B) THERE IS A FORENSIC MENTAL HEALTH TREATMENT FUND IN THE
+24 DEPARTMENT.
+25 (C) (1) THE COMPTROLLER SHALL COLLECT ALL FINES AND MONETARY
+26 PENALTIES REMITTED TO THE FUND BY THE COURTS UNDER § 3–106 OF THE
+27 CRIMINAL PROCEDURE ARTICLE.
+28 (2) THE COMPTROLLER SHALL DISTRIBUTE THE FINES AND
+29 MONETARY PENALTIES TO THE FUND.
+
+SENATE BILL 741 9
+1 (D) THE PURPOSE OF THE FUND IS TO PROVIDE SUPPORT FOR INCREASING
+2 THE TOTAL NUMBER OF LICENSED PSYCHIATRIC BEDS IN THE STATE.
+3 (E) THE DEPARTMENT SHALL ADMINISTER THE FUND.
+4 (F) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+5 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+6 (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY,
+7 AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+8 (G) THE FUND CONSISTS OF:
+9 (1) FINES AND MONETARY PENALTIES DISTRIBUTED TO THE FUND
+10 UNDER SUBSECTION (C) OF THIS SECTION;
+11 (2) MONEY APPROPRIATED IN THE STATE BUDGET TO THE FUND;
+12 (3) INTEREST EARNINGS; AND
+13 (4) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED FOR
+14 THE BENEFIT OF THE FUND.
+15 (H) THE FUND MAY BE USED ONLY FOR PURPOSES DESIGNED TO INCREASE
+16 THE TOTAL NUMBER OF LICENSED PSYCHIATRIC BEDS IN THE STATE.
+17 (I) (1) THE STATE TREASURER SHALL INVEST THE MONEY OF THE FUND
+18 IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+19 (2) ANY INTEREST EARNINGS OF THE FUND SHALL BE CREDITED TO
+20 THE FUND.
+21 (J) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN ACCORDANCE
+22 WITH THE STATE BUDGET.
+23 (K) MONEY EXPENDED FROM THE FUND IS SUPPLEMENTAL TO AND IS NOT
+24 INTENDED TO TAKE THE PLACE OF FUNDING THAT OTHERWISE WOULD BE
+25 APPROPRIATED FOR INCREASING THE TOTAL NUMBER OF LICENSED PSYCHIATRIC
+26 BEDS IN THE STATE.
+27 (L) THE DEPARTMENT SHALL ADOPT REGULATIONS ON THE DISTRIBUTION
+28 OF FUNDS FROM THE FORENSIC MENTAL HEALTH TREATMENT FUND.
+29 Article – State Finance and Procurement
+
+10 SENATE BILL 741
+1 6–226.
+2 (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024
+3 through 2028.
+4 2. Notwithstanding any other provision of law, and unless
+5 inconsistent with a federal law, grant agreement, or other federal requirement or with the
+6 terms of a gift or settlement agreement, net interest on all State money allocated by the
+7 State Treasurer under this section to special funds or accounts, and otherwise entitled to
+8 receive interest earnings, as accounted for by the Comptroller, shall accrue to the General
+9 Fund of the State.
+10 (ii) The provisions of subparagraph (i) of this paragraph do not apply
+11 to the following funds:
+12 204. the Victims of Domestic Violence Program Grant Fund;
+13 [and]
+14 205. the Proposed Programs Collaborative Grant Fund; AND
+15 206. THE FORENSIC MENTAL HEALTH TREATMENT FUND.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 October 1, 2025.
+
+[DELETED: :CA      5     A F F t p o a t c u w a c o n f c b c i a h c f i r e t W o F M H T r t W t d t n t g B  A S  A  ( B  A S  A  ( B  A S M  A  ( B]
+[DELETED:  S   A  S  A  ( B  A  S  A  ( B  A  S  A  (  S T A 3  ( ( I) []E( X II H    c m t r t d b t t p s i p ( o t s   ) IF M P T I N I T R A DY T C S R T F O M P T TMHTF§2 E E R U    E  E RE–GA. A 1  ( ( A f]
+[DELETED: S 3   ( Ts]E( A P I P  O TNT  s i    ( F p c    ( 1 T f     2 A T     B T     C A w n t t C d t c a p a u i    ( 1 A l 4 d b i o d b c     2 T C i i s d f t t p     A I h c f o c o a h c f o p o a f t a n     B I n i w t S h p o t i     C W h     D I     3 W 4 d o r n t C n    ( T i o d i b c i t r o t a    ( 1 T]
+[DELETED:  S      A A i c f t o r o i b     B A l     2 A l 4 d b i o d b c    A O R O TN   ( ( A]E( A P I P  O TN    o p c c   ( A t    ( F C    ( R (    ( I n   ( T d p f   ( A t s s b h b t h c f i c w t C    ( T p    ( T h f w t C a n o i t c]
+[DELETED: S 5   ( ( T a    ( F f     1 T     2 T p     3 T p f a t h c n o t r     4 T     5 T     6 T c   ( W h t    ( T    ( T    ( T    ( T l h d a t l b o h o s    ( T    ( S F m o t G A w r t d i w t h i l   C O N I R I T C O T.2.FMHT.  O E E R]
+[DELETED:  S () I,“W”N T SN OP M T O OMHT. E E R() TWFMHT.H O O E E R() TW:H O ( TS,S’; EY  EYS ( TCJSCM; H U U O A ( O,CE  H U U O ACM; ( OMH R O T E E I O F U ER  U EPD,P A; ( TEDMH X I A E A,ED’;N  X IRS ( TPMS’A R O T A TES TS,P’;N  RTS ( TEDOOOM X I N U W AD  X IRSE D’; ( TPDRM R O I I AD O T’.TS() TSCJH E A T H U O T ACW. O O() TDW.H E O() AW:  O (  N R C A A M O T;P ]
+[DELETED: S 7 (  E T R F E U TSTR,S. T R ES  T() ( OO1,2,SN C    E H,W S J CE I C W T OP A C F F U B J I A P R T ( T:  () T;H  () IH E W O B O T  () T;IH  () T’VH ERS O O T DTS A D U   O T R35A; R  () TS’H P T B T TES T A F T D O T DTS C OS  () TIH CTS D O T C A  () IIF T C F T D IT ED ;  ()AIN E H UJ.() F(O G N  H UCJ: ( L  ( SD. E]
+[DELETED:  S () TH O F T S F A A O R() OJ1,2N O B A  E YR B I  TG OD     T O RE  E S27SGA,G (  D C U T F S U G ); ( TS; T (  N F I O C ( F( R R T P   N ); ( A.() TWH O E T P T I O A JE A ER A A H N() I,“F”FMN T SN UD M T O E EF. U() TFMHTH I A O E E R U I T.() ( TH O R T T U B T C U   O T§3PA. R R ( T O S D T F A U.]
+[DELETED: S 9() TH U T.() TDFH E U  ) ( TFH U I A SL N F T I N    T I R R72SFPA. ( TSTF T R T UY O UF.() TF:H U ( F M D U C ); ( MSF; T U ( I;S  (  O O A U  ) TH U T.() ( TSTH T R U T. ( A U U.() EX U T.() MO U T T T P O F T O W B T. ) TH E O E E R UMHTF. A]
+[DELETED:  S  6  ( ( ( 1 T s d n a i f y 2 t     2 N i t S r F    ( T t     2 t] a     2 t   2 FMHTF O E E R U   S A B I F E T t A s t e O]

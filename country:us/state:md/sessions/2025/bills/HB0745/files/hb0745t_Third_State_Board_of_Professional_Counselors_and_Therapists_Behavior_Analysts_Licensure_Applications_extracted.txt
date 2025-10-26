@@ -1,0 +1,193 @@
+Title: HOUSE BILL 745
+Official Title: HOUSE BILL 745
+Number of Sections: 1
+Source: versions - Third - State Board of Professional Counselors and Therapists - Behavior Analysts - Licensure Applications
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+J2 5lr3307
+By: Delegate Guyton Delegates Guyton, Alston, Bagnall, Bhandari, Chisholm,
+Cullison, Guzzone, Hill, Hutchinson, S. Johnson, Kaiser, Kerr, Kipke,
+Lopez, Martinez, M. Morgan, Pena–Melnyk, Reilly, Rosenberg, Szeliga,
+Taveras, White Holland, Woods, and Woorman
+Introduced and read first time: January 27, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 22, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 State Board of Professional Counselors and Therapists – Behavior Analysts –
+3 Licensure Applications
+4 FOR the purpose of requiring the State Board of Professional Counselors and Therapists
+5 to issue a license to practice behavior analysis to qualified applicants within a certain
+6 amount of time; requiring the State Board to provide a certain e–mail notification
+7 regarding the status of an application for a license to practice behavior analysis; and
+8 generally relating to behavior analyst licensure applications submitted to the State
+9 Board of Professional Counselors and Therapists.
+10 BY repealing and reenacting, with amendments,
+11 Article – Health Occupations
+12 Section 17–6A–13
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Health Occupations
+18 17–6A–13.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0745*
+2 HOUSE BILL 745
+1 (a) (1) The Board shall issue a license to any applicant who meets the
+2 requirements of this subtitle.
+3 (2) IF AN APPLICANT SUBMITS A COMPLETE APPLICATION FOR
+4 LICENSURE AND MEETS THE REQUIREMENTS OF THIS SUBTITLE, THE BOARD SHALL
+5 ISSUE THE LICENSE WITHIN 10 30 DAYS AFTER RECEIVING THE COMPLETED
+6 APPLICATION.
+7 (3) IF AN APPLICANT SUBMITTED AN INCOMPLETE APPLICATION BUT
+8 IS DETERMINED TO MEET THE REQUIREMENTS UNDER THIS SUBTITLE BASED ON
+9 ADDITIONAL INFORMATION SUBMITTED BY THE APPLICANT, THE BOARD SHALL
+10 ISSUE THE LICENSE WITHIN 30 50 DAYS AFTER RECEIVING THE ADDITIONAL
+11 INFORMATION.
+12 (b) The Board shall include on each license that the Board issues:
+13 (1) The full name of the licensed behavior analyst;
+14 (2) The dates of issuance and expiration;
+15 (3) A serial number;
+16 (4) The signatures of the chair and the vice chair of the Board; and
+17 (5) The seal of the Board.
+18 (c) (1) On receipt of the criminal history record information of an applicant for
+19 licensure forwarded to the Board in accordance with § 17–501.1 of this title, in determining
+20 whether to grant a license, the Board shall consider:
+21 (i) The age at which the crime was committed;
+22 (ii) The circumstances surrounding the crime;
+23 (iii) The length of time that has passed since the crime;
+24 (iv) Subsequent work history;
+25 (v) Employment and character references; and
+26 (vi) Other evidence that demonstrates whether the applicant poses a
+27 threat to the public health or safety.
+28 (2) The Board may not issue a license if the criminal history record
+29 information required under § 17–501.1 of this title has not been received.
+HOUSE BILL 745 3
+1 (D) (1) THE BOARD SHALL SEND AN E–MAIL NOTIFICATION TO AN
+2 APPLICANT WHEN THE BOARD:
+3 (I) RECEIVES THE APPLICATION;
+4 (II) BEGINS ITS REVIEW OF THE APPLICATION;
+5 (III) DETERMINES THAT THE APPLICATION IS COMPLETE OR THE
+6 APPLICATION NEEDS ADDITIONAL INFORMATION; OR
+7 (IV) DECIDES TO ISSUE OR DENY THE LICENSE.
+8 (2) AT THE REQUEST OF AN APPLICANT OR A THIRD PARTY
+9 DESIGNATED BY THE APPLICANT, THE BOARD SHALL PROVIDE ADDITIONAL E–MAIL
+10 NOTIFICATIONS REGARDING THE STATUS OF THE APPLICATION.
+11 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+12 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5     D G D G A B B C G H H S K K K M M P R R S A S L F t a r g B B  A S  A  (  S T A 1]
+[DELETED:  H   (  T B s i a l t a a w m t r    A A S A C A FE  O T L W   D A R T C03    I S B T AT T O S T L W  D A R T A05 N   ( T   ( T   ( T   ( A   ( T   ( T  ( ( O l w    ( T    ( T    ( T    ( S    ( E    ( O t   ( T B m n i a l i t c h r i]
+[DELETED: H 3 ) ( TBH O S S A EM N T A O:   ) R;E   ) B;IEN   ) IEN    ) D.VE    T R O A A O A T PT  OEMBN  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 745
+J2 5lr3307
+By: Delegate Guyton Delegates Guyton, Alston, Bagnall, Bhandari, Chisholm,
+Cullison, Guzzone, Hill, Hutchinson, S. Johnson, Kaiser, Kerr, Kipke,
+Lopez, Martinez, M. Morgan, Pena–Melnyk, Reilly, Rosenberg, Szeliga,
+Taveras, White Holland, Woods, and Woorman
+Introduced and read first time: January 27, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 22, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 State Board of Professional Counselors and Therapists – Behavior Analysts –
+3 Licensure Applications
+4 FOR the purpose of requiring the State Board of Professional Counselors and Therapists
+5 to issue a license to practice behavior analysis to qualified applicants within a certain
+6 amount of time; requiring the State Board to provide a certain e–mail notification
+7 regarding the status of an application for a license to practice behavior analysis; and
+8 generally relating to behavior analyst licensure applications submitted to the State
+9 Board of Professional Counselors and Therapists.
+10 BY repealing and reenacting, with amendments,
+11 Article – Health Occupations
+12 Section 17–6A–13
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Health Occupations
+18 17–6A–13.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0745*
+
+2 HOUSE BILL 745
+1 (a) (1) The Board shall issue a license to any applicant who meets the
+2 requirements of this subtitle.
+3 (2) IF AN APPLICANT SUBMITS A COMPLETE APPLICATION FOR
+4 LICENSURE AND MEETS THE REQUIREMENTS OF THIS SUBTITLE, THE BOARD SHALL
+5 ISSUE THE LICENSE WITHIN 10 30 DAYS AFTER RECEIVING THE COMPLETED
+6 APPLICATION.
+7 (3) IF AN APPLICANT SUBMITTED AN INCOMPLETE APPLICATION BUT
+8 IS DETERMINED TO MEET THE REQUIREMENTS UNDER THIS SUBTITLE BASED ON
+9 ADDITIONAL INFORMATION SUBMITTED BY THE APPLICANT, THE BOARD SHALL
+10 ISSUE THE LICENSE WITHIN 30 50 DAYS AFTER RECEIVING THE ADDITIONAL
+11 INFORMATION.
+12 (b) The Board shall include on each license that the Board issues:
+13 (1) The full name of the licensed behavior analyst;
+14 (2) The dates of issuance and expiration;
+15 (3) A serial number;
+16 (4) The signatures of the chair and the vice chair of the Board; and
+17 (5) The seal of the Board.
+18 (c) (1) On receipt of the criminal history record information of an applicant for
+19 licensure forwarded to the Board in accordance with § 17–501.1 of this title, in determining
+20 whether to grant a license, the Board shall consider:
+21 (i) The age at which the crime was committed;
+22 (ii) The circumstances surrounding the crime;
+23 (iii) The length of time that has passed since the crime;
+24 (iv) Subsequent work history;
+25 (v) Employment and character references; and
+26 (vi) Other evidence that demonstrates whether the applicant poses a
+27 threat to the public health or safety.
+28 (2) The Board may not issue a license if the criminal history record
+29 information required under § 17–501.1 of this title has not been received.
+
+HOUSE BILL 745 3
+1 (D) (1) THE BOARD SHALL SEND AN E–MAIL NOTIFICATION TO AN
+2 APPLICANT WHEN THE BOARD:
+3 (I) RECEIVES THE APPLICATION;
+4 (II) BEGINS ITS REVIEW OF THE APPLICATION;
+5 (III) DETERMINES THAT THE APPLICATION IS COMPLETE OR THE
+6 APPLICATION NEEDS ADDITIONAL INFORMATION; OR
+7 (IV) DECIDES TO ISSUE OR DENY THE LICENSE.
+8 (2) AT THE REQUEST OF AN APPLICANT OR A THIRD PARTY
+9 DESIGNATED BY THE APPLICANT, THE BOARD SHALL PROVIDE ADDITIONAL E–MAIL
+10 NOTIFICATIONS REGARDING THE STATUS OF THE APPLICATION.
+11 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+12 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5     D G D G A B B C G H H S K K K M M P R R S A S L F t a r g B B  A S  A  (  S T A 1]
+[DELETED:  H   (  T B s i a l t a a w m t r    A A S A C A FE  O T L W   D A R T C03    I S B T AT T O S T L W  D A R T A05 N   ( T   ( T   ( T   ( A   ( T   ( T  ( ( O l w    ( T    ( T    ( T    ( S    ( E    ( O t   ( T B m n i a l i t c h r i]
+[DELETED: H 3 ) ( TBH O S S A EM N T A O:   ) R;E   ) B;IEN   ) IEN    ) D.VE    T R O A A O A T PT  OEMBN  S A B I F E T t A s t e O          G               ]

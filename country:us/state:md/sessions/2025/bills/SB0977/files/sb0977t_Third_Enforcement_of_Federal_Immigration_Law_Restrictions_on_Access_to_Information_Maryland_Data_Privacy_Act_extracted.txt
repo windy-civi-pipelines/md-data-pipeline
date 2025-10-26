@@ -1,0 +1,444 @@
+Title: SENATE BILL 977
+Official Title: SENATE BILL 977
+Number of Sections: 1
+Source: versions - Third - Enforcement of Federal Immigration Law - Restrictions on Access to Information (Maryland Data Privacy Act)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+E4, P3, L6 5lr2318
+By: Senator Lam
+Introduced and read first time: January 28, 2025
+Assigned to: Judicial Proceedings
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 1, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 State and Local Agencies – Enforcement of Federal Immigration Law –
+3 Restrictions on Access to Information
+4 (Maryland Data Privacy Act)
+5 FOR the purpose of prohibiting a certain person in possession of certain data, information,
+6 and records from sharing or otherwise making the data, information, and records
+7 available under certain circumstances; altering the limitations on certain
+8 prohibitions relating to the disclosure and inspection of certain public records under
+9 the Public Information Act; altering certain provisions of law to require a law
+10 enforcement agency or, a unit of State or local government to deny access to certain
+11 databases, facilities, or buildings by certain individuals seeking access for the
+12 purpose of enforcing federal immigration law, under certain circumstances;
+13 requiring the Attorney General to enforce certain provisions of this Act; providing
+14 that a State employee that violates certain provisions of this Act is subject to certain
+15 discipline; and generally relating to access to information held by law enforcement
+16 agencies and, State and local agencies federal immigration law.
+17 BY adding to
+18 Article – Business Regulation
+19 Section 1–211
+20 Annotated Code of Maryland
+21 (2024 Replacement Volume)
+22 BY repealing and reenacting, without with amendments,
+23 Article – General Provisions
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0977*
+2 SENATE BILL 977
+1 Section 4–320(g)(2) and 4–320.1
+2 Annotated Code of Maryland
+3 (2019 Replacement Volume and 2024 Supplement)
+4 BY repealing and reenacting, with amendments,
+5 Article – Public Safety
+6 Section 3–529
+7 Annotated Code of Maryland
+8 (2022 Replacement Volume and 2024 Supplement)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
+11 Article – Business Regulation
+12 1–211.
+13 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+14 INDICATED.
+15 (2) “COVERED RECORD” MEANS A COPY OF ANY DATA, INFORMATION,
+16 OR RECORD THAT:
+17 (I) WAS MADE BY A UNIT OR INSTRUMENTALITY OF STATE OR
+18 LOCAL GOVERNMENT; AND
+19 (II) CONTAINS PERSONAL INFORMATION.
+20 (3) “PERSONAL INFORMATION” MEANS ANY INFORMATION THAT IS
+21 LINKED OR CAN BE REASONABLY LINKED TO AN IDENTIFIED OR IDENTIFIABLE
+22 INDIVIDUAL WHO RESIDES IN THE STATE.
+23 (B) THIS SECTION DOES NOT APPLY TO THE INDIVIDUAL TO WHOM THE
+24 PERSONAL INFORMATION IS LINKED OR CAN BE REASONABLY LINKED.
+25 (C) A PERSON IN POSSESSION OF A COVERED RECORD MAY NOT SHARE OR
+26 OTHERWISE MAKE AVAILABLE THE COVERED RECORD IN EXCHANGE FOR ANYTHING
+27 OF VALUE OR FOR THE PURPOSE OF RESALE.
+28 (D) A PERSON WHO OBTAINS A COVERED RECORD IN EXCHANGE FOR
+29 ANYTHING OF VALUE MAY NOT SHARE OR OTHERWISE MAKE AVAILABLE THE
+30 COVERED RECORD FOR THE PURPOSE OF IMMIGRATION ENFORCEMENT, UNLESS:
+31 (1) THE PERSON IS PRESENTED WITH A VALID WARRANT ISSUED BY A
+32 FEDERAL COURT OR A COURT OF THE STATE; OR
+SENATE BILL 977 3
+1 (2) THE COVERED RECORD IS OTHERWISE MADE AVAILABLE FOR
+2 INSPECTION TO ALL MEMBERS OF THE GENERAL PUBLIC BY THE UNIT OR
+3 INSTRUMENTALITY OF STATE OR LOCAL GOVERNMENT WHICH MADE THE COVERED
+4 RECORD.
+5 Article – General Provisions
+6 4–320.
+7 (g) (2) A person receiving personal information under subsection (d), (e), or (f)
+8 of this section may not disclose the personal information to a federal agent or federal agency
+9 ANOTHER PERSON OR A GOVERNMENTAL ENTITY for the purpose of federal immigration
+10 enforcement unless the person DISCLOSING THE PERSONAL INFORMATION is presented
+11 with a valid warrant issued by a federal court or a court of this State.
+12 4–320.1.
+13 (a) In this section, “facial recognition” means a biometric software application
+14 that identifies or verifies a person by comparing and analyzing patterns based on a person’s
+15 facial contours.
+16 (b) (1) Notwithstanding any other provision of this title, an officer, an
+17 employee, an agent, or a contractor of the State or a political subdivision shall deny
+18 inspection of the part of a public record that contains personal information or inspection of
+19 a photograph of an individual by any federal agency PERSON OR GOVERNMENTAL
+20 ENTITY seeking access for the purpose of enforcing federal immigration law, unless the
+21 officer, employee, agent, or contractor is provided with a valid warrant issued by a federal
+22 court or a court of this State.
+23 (2) Notwithstanding any other provision of this title, an officer, an
+24 employee, an agent, or a contractor of the State or a political subdivision shall deny
+25 inspection using a facial recognition search of a digital photographic image or actual stored
+26 data of a digital photographic image by any federal agency PERSON OR GOVERNMENTAL
+27 ENTITY seeking access for the purpose of enforcing federal immigration law, unless the
+28 officer, employee, agent, or contractor is provided with a valid warrant issued by a federal
+29 court or a court of this State.
+30 (3) On or before June 1, 2023, and each June 1 thereafter, the Motor
+31 Vehicle Administration, the Department of State Police, and the Department of Public
+32 Safety and Correctional Services shall, with respect to requests from federal agencies
+33 seeking access for the purpose of federal immigration enforcement for personal information,
+34 a photograph of an individual, or a facial recognition search, whether or not the request
+35 was initiated through a State or local law enforcement agency, report to the General
+36 Assembly, in accordance with § 2–1257 of the State Government Article, the following
+37 information for the immediately preceding calendar year:
+4 SENATE BILL 977
+1 (i) the number of requests received from any federal agency for
+2 personal information, a photograph of an individual, or a facial recognition search;
+3 (ii) the number of requests received from any federal agency for
+4 personal information, a photograph of an individual, or a facial recognition search for which
+5 a valid warrant issued by a federal court or a court of this State was provided;
+6 (iii) the number and purpose of facial recognition searches completed
+7 for any federal agency based on personal information or a photograph of an individual
+8 provided to the federal agency by the Motor Vehicle Administration, the Department of
+9 State Police, or the Department of Public Safety and Correctional Services; and
+10 (iv) the number of individuals whose personal information or
+11 photograph was provided to any federal agency by, respectively, the Motor Vehicle
+12 Administration, the Department of State Police, and the Department of Public Safety and
+13 Correctional Services.
+14 Article – Public Safety
+15 3–529.
+16 (a) (1) In this section the following words have the meanings indicated.
+17 (2) (i) “Database” means any database operated by:
+18 1. State and local law enforcement agencies, including
+19 databases maintained for a law enforcement agency by a private vendor; OR
+20 2. A UNIT OF STATE OR LOCAL GOVERNMENT,
+21 INCLUDING DATABASES MAINTAINED FOR A UNIT OF STATE GOVERNMENT BY A
+22 PRIVATE VENDOR.
+23 (ii) “Database” does not include a registry operated under Title 11,
+24 Subtitle 7 of the Criminal Procedure Article.
+25 (3) (i) “Law enforcement agency” means a federal, state, or local agency
+26 authorized to enforce criminal laws.
+27 (ii) “Law enforcement agency” includes the Maryland Department of
+28 Public Safety and Correctional Services.
+29 (4) “SENSITIVE INFORMATION” INCLUDES PERSONAL INFORMATION
+30 ON INDIVIDUALS WHO ARE SERVED OR ENGAGED BY A GRANTEE, CONTRACTOR, OR
+31 CONSULTANT OF A UNIT OF STATE OR LOCAL GOVERNMENT.
+SENATE BILL 977 5
+1 (b) [An entity] A LAW ENFORCEMENT AGENCY OR A UNIT OF STATE OR
+2 LOCAL GOVERNMENT operating a database shall:
+3 (1) deny access to the database to any individual who is OR APPEARS TO
+4 BE seeking access for the purpose of enforcing federal immigration law, unless the
+5 individual presents a valid warrant issued by a federal court or a court of this State AND
+6 CLEARLY IDENTIFIES THE RECORD TO BE ACCESSED; and
+7 (2) require an individual accessing the database to provide to the [entity]
+8 LAW ENFORCEMENT AGENCY OR THE UNIT OF STATE OR LOCAL GOVERNMENT:
+9 (i) the individual’s name;
+10 (ii) the individual’s contact information, including a telephone
+11 number, an e–mail address, and a physical address; and
+12 (iii) unless the individual presents a valid warrant issued by a federal
+13 court or a court of this State AND CLEARLY IDENTIFIES THE RECORD TO BE ACCESSED,
+14 a statement by the individual, under penalty of perjury, that the individual is not accessing
+15 the database for the purpose of enforcing federal immigration law.
+16 (C) A LAW ENFORCEMENT AGENCY OR A UNIT OF STATE OR LOCAL
+17 GOVERNMENT OPERATING A BUILDING OR FACILITY SHALL:
+18 (1) DENY ACCESS TO THE BUILDING OR FACILITY TO ANY INDIVIDUAL
+19 WHO IS OR APPEARS TO BE SEEKING ACCESS FOR THE PURPOSE OF ENFORCING
+20 FEDERAL IMMIGRATION LAW, UNLESS THE INDIVIDUAL PRESENTS A VALID
+21 WARRANT ISSUED BY A FEDERAL COURT OR A COURT OF THIS STATE AND CLEARLY
+22 IDENTIFIES THE BUILDING OR FACILITY, OR RECORD OR INFORMATION WITHIN THE
+23 BUILDING OR FACILITY, TO BE ACCESSED; AND
+24 (2) REQUIRE AN INDIVIDUAL ACCESSING THE BUILDING OR FACILITY
+25 TO PROVIDE TO THE LAW ENFORCEMENT AGENCY OR THE UNIT OF STATE OR LOCAL
+26 GOVERNMENT:
+27 (I) THE INDIVIDUAL’S NAME;
+28 (II) THE INDIVIDUAL’S CONTACT INFORMATION, INCLUDING A
+29 TELEPHONE NUMBER, AN E–MAIL ADDRESS, AND A PHYSICAL ADDRESS; AND
+30 (III) UNLESS THE INDIVIDUAL PRESENTS A VALID WARRANT
+31 ISSUED BY A FEDERAL COURT OR A COURT OF THIS STATE AND CLEARLY IDENTIFIES
+32 THE BUILDING OR FACILITY, OR RECORD OR INFORMATION WITHIN THE BUILDING
+33 OR FACILITY, TO BE ACCESSED, A STATEMENT BY THE INDIVIDUAL, UNDER PENALTY
+34 OF PERJURY, THAT THE INDIVIDUAL IS NOT ACCESSING THE BUILDING, FACILITY,
+6 SENATE BILL 977
+1 RECORD, OR INFORMATION FOR THE PURPOSE OF ENFORCING FEDERAL
+2 IMMIGRATION LAW.
+3 (D) A LAW ENFORCEMENT AGENCY OR A UNIT OF STATE OR LOCAL
+4 GOVERNMENT MAY NOT ENTER INTO A MEMORANDUM OF UNDERSTANDING OR
+5 SIMILAR AGREEMENT THAT REQUIRES COLLABORATION OR INFORMATION SHARING
+6 WITH A FEDERAL AGENCY FOR THE PURPOSE OF ENFORCING FEDERAL
+7 IMMIGRATION LAW.
+8 (E) (C) EACH UNIT OF STATE GOVERNMENT SHALL:
+9 (1) MAINTAIN A RECORD OF EACH REQUEST BY AN INDIVIDUAL
+10 SEEKING ACCESS TO A DATABASE, FACILITY, BUILDING, RECORD, OR INFORMATION
+11 AS DESCRIBED UNDER THIS SECTION; AND
+12 (2) ON OR BEFORE DECEMBER 1, 2025, AND EACH YEAR
+13 THEREAFTER, SUBMIT A REPORT TO THE ATTORNEY GENERAL AND, IN
+14 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, THE GENERAL
+15 ASSEMBLY ON:
+16 (I) THE NUMBER AND NATURE OF ACCESS REQUESTS
+17 RECEIVED;
+18 (II) WHETHER THE REQUESTS WERE GRANTED OR DENIED; AND
+19 (III) ANY OTHER INFORMATION REQUIRED TO ENSURE
+20 COMPLIANCE WITH THIS SECTION.
+21 (F) THE ATTORNEY GENERAL SHALL:
+22 (1) ENFORCE THE REQUIREMENTS OF THIS SECTION THROUGH ANY
+23 MEANS NORMALLY AVAILABLE IN THE ENFORCEMENT OF CIVIL VIOLATIONS; AND
+24 (2) ESTABLISH A SYSTEM OF CIVIL PENALTIES NOT EXCEEDING
+25 $1,000 PER VIOLATION OF THIS SECTION.
+26 (G) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A STATE
+27 EMPLOYEE WHO VIOLATES THIS SECTION IS SUBJECT TO DISCIPLINE, INCLUDING
+28 TERMINATION FROM EMPLOYMENT.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+30 October 1, 2025.
+[DELETED: :CA      5     A S R ( F a a u c c a t l o c p t P I A a c p o l t r a l e d f o b b c i s a f t p o e f i l u c c r t d a B  A  S  A  ( B  A]
+[DELETED:  S  S  A  ( B  A S  A  (  S T A    )()ND     )“C”,D A NT      )W TT        )IC    )“PN M A O C B R L T A I O I T   )H S D N A T T I T W T   )    ) P W O A C R I E F O V M N S O O M A TT      TE  ]
+[DELETED: S 3    C R I O M A F T A M O T G P B T U O T   A 4  ( ( A o   e   w 4  ( I t f  ( ( N a o p o t t a o a e a a o a c o t S o a p s s d i a p o a i b a f a O G   o c   ( N a o p o t t a o a e a a o a c o t S o a p s s d i d   o c   ( O o b J 1 2 a e J 1 t t M V o S a C S s w r t r f f a s a w i t a S o l l e a r t t G A i w § 2 o t S G A t f i]
+[DELETED:  S     ( t n o r r f a f a f p    ( t n o r r f a f a f p a    ( t f p S    ( t n o i w p i o p w p t a f a b r t M V A C A 3  ( ( I   ( ( “y      S a l l e a i dr     S U O T O L GT D M F A U O T G B A .    ( “ S   ( ( “ a    ( “ P    “SN E R   T ]
+[DELETED: S 5  ( A e]A L E A O A U O T O     ( d s a f t p o e f i l u t i ;   ( r e T :    ( t    ( t i c i i a t n    ( u c , a t  ) A L E A O A U O T O L     B S O  I LW U T I P A V  T Y  Y D      T T     ) ’TLS    ) ’IT ILS IN IR EMS S –,     )IU T I P A V W T Y  Y D L , Y G , ]
+[DELETED:  S D O I F T P O E F    ) A L E A O A U O T O L M N E I A M O U O   A F A F T P O E F     )()ES CA T   A R O E R B A IE Y G D ,,N    D1,2 O B E   A E YR S A R T T T E AD IAG    T O RE  E27SGA,:   )T N A N O A R   ) ;IWD    )IA O I R T E  ) TAGH T EL   S      A S O C P N E0   ) N,O A O P O LW A TE     S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 977
+E4, P3, L6 5lr2318
+By: Senator Lam
+Introduced and read first time: January 28, 2025
+Assigned to: Judicial Proceedings
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: March 1, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 State and Local Agencies – Enforcement of Federal Immigration Law –
+3 Restrictions on Access to Information
+4 (Maryland Data Privacy Act)
+5 FOR the purpose of prohibiting a certain person in possession of certain data, information,
+6 and records from sharing or otherwise making the data, information, and records
+7 available under certain circumstances; altering the limitations on certain
+8 prohibitions relating to the disclosure and inspection of certain public records under
+9 the Public Information Act; altering certain provisions of law to require a law
+10 enforcement agency or, a unit of State or local government to deny access to certain
+11 databases, facilities, or buildings by certain individuals seeking access for the
+12 purpose of enforcing federal immigration law, under certain circumstances;
+13 requiring the Attorney General to enforce certain provisions of this Act; providing
+14 that a State employee that violates certain provisions of this Act is subject to certain
+15 discipline; and generally relating to access to information held by law enforcement
+16 agencies and, State and local agencies federal immigration law.
+17 BY adding to
+18 Article – Business Regulation
+19 Section 1–211
+20 Annotated Code of Maryland
+21 (2024 Replacement Volume)
+22 BY repealing and reenacting, without with amendments,
+23 Article – General Provisions
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb0977*
+
+2 SENATE BILL 977
+1 Section 4–320(g)(2) and 4–320.1
+2 Annotated Code of Maryland
+3 (2019 Replacement Volume and 2024 Supplement)
+4 BY repealing and reenacting, with amendments,
+5 Article – Public Safety
+6 Section 3–529
+7 Annotated Code of Maryland
+8 (2022 Replacement Volume and 2024 Supplement)
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
+11 Article – Business Regulation
+12 1–211.
+13 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+14 INDICATED.
+15 (2) “COVERED RECORD” MEANS A COPY OF ANY DATA, INFORMATION,
+16 OR RECORD THAT:
+17 (I) WAS MADE BY A UNIT OR INSTRUMENTALITY OF STATE OR
+18 LOCAL GOVERNMENT; AND
+19 (II) CONTAINS PERSONAL INFORMATION.
+20 (3) “PERSONAL INFORMATION” MEANS ANY INFORMATION THAT IS
+21 LINKED OR CAN BE REASONABLY LINKED TO AN IDENTIFIED OR IDENTIFIABLE
+22 INDIVIDUAL WHO RESIDES IN THE STATE.
+23 (B) THIS SECTION DOES NOT APPLY TO THE INDIVIDUAL TO WHOM THE
+24 PERSONAL INFORMATION IS LINKED OR CAN BE REASONABLY LINKED.
+25 (C) A PERSON IN POSSESSION OF A COVERED RECORD MAY NOT SHARE OR
+26 OTHERWISE MAKE AVAILABLE THE COVERED RECORD IN EXCHANGE FOR ANYTHING
+27 OF VALUE OR FOR THE PURPOSE OF RESALE.
+28 (D) A PERSON WHO OBTAINS A COVERED RECORD IN EXCHANGE FOR
+29 ANYTHING OF VALUE MAY NOT SHARE OR OTHERWISE MAKE AVAILABLE THE
+30 COVERED RECORD FOR THE PURPOSE OF IMMIGRATION ENFORCEMENT, UNLESS:
+31 (1) THE PERSON IS PRESENTED WITH A VALID WARRANT ISSUED BY A
+32 FEDERAL COURT OR A COURT OF THE STATE; OR
+
+SENATE BILL 977 3
+1 (2) THE COVERED RECORD IS OTHERWISE MADE AVAILABLE FOR
+2 INSPECTION TO ALL MEMBERS OF THE GENERAL PUBLIC BY THE UNIT OR
+3 INSTRUMENTALITY OF STATE OR LOCAL GOVERNMENT WHICH MADE THE COVERED
+4 RECORD.
+5 Article – General Provisions
+6 4–320.
+7 (g) (2) A person receiving personal information under subsection (d), (e), or (f)
+8 of this section may not disclose the personal information to a federal agent or federal agency
+9 ANOTHER PERSON OR A GOVERNMENTAL ENTITY for the purpose of federal immigration
+10 enforcement unless the person DISCLOSING THE PERSONAL INFORMATION is presented
+11 with a valid warrant issued by a federal court or a court of this State.
+12 4–320.1.
+13 (a) In this section, “facial recognition” means a biometric software application
+14 that identifies or verifies a person by comparing and analyzing patterns based on a person’s
+15 facial contours.
+16 (b) (1) Notwithstanding any other provision of this title, an officer, an
+17 employee, an agent, or a contractor of the State or a political subdivision shall deny
+18 inspection of the part of a public record that contains personal information or inspection of
+19 a photograph of an individual by any federal agency PERSON OR GOVERNMENTAL
+20 ENTITY seeking access for the purpose of enforcing federal immigration law, unless the
+21 officer, employee, agent, or contractor is provided with a valid warrant issued by a federal
+22 court or a court of this State.
+23 (2) Notwithstanding any other provision of this title, an officer, an
+24 employee, an agent, or a contractor of the State or a political subdivision shall deny
+25 inspection using a facial recognition search of a digital photographic image or actual stored
+26 data of a digital photographic image by any federal agency PERSON OR GOVERNMENTAL
+27 ENTITY seeking access for the purpose of enforcing federal immigration law, unless the
+28 officer, employee, agent, or contractor is provided with a valid warrant issued by a federal
+29 court or a court of this State.
+30 (3) On or before June 1, 2023, and each June 1 thereafter, the Motor
+31 Vehicle Administration, the Department of State Police, and the Department of Public
+32 Safety and Correctional Services shall, with respect to requests from federal agencies
+33 seeking access for the purpose of federal immigration enforcement for personal information,
+34 a photograph of an individual, or a facial recognition search, whether or not the request
+35 was initiated through a State or local law enforcement agency, report to the General
+36 Assembly, in accordance with § 2–1257 of the State Government Article, the following
+37 information for the immediately preceding calendar year:
+
+4 SENATE BILL 977
+1 (i) the number of requests received from any federal agency for
+2 personal information, a photograph of an individual, or a facial recognition search;
+3 (ii) the number of requests received from any federal agency for
+4 personal information, a photograph of an individual, or a facial recognition search for which
+5 a valid warrant issued by a federal court or a court of this State was provided;
+6 (iii) the number and purpose of facial recognition searches completed
+7 for any federal agency based on personal information or a photograph of an individual
+8 provided to the federal agency by the Motor Vehicle Administration, the Department of
+9 State Police, or the Department of Public Safety and Correctional Services; and
+10 (iv) the number of individuals whose personal information or
+11 photograph was provided to any federal agency by, respectively, the Motor Vehicle
+12 Administration, the Department of State Police, and the Department of Public Safety and
+13 Correctional Services.
+14 Article – Public Safety
+15 3–529.
+16 (a) (1) In this section the following words have the meanings indicated.
+17 (2) (i) “Database” means any database operated by:
+18 1. State and local law enforcement agencies, including
+19 databases maintained for a law enforcement agency by a private vendor; OR
+20 2. A UNIT OF STATE OR LOCAL GOVERNMENT,
+21 INCLUDING DATABASES MAINTAINED FOR A UNIT OF STATE GOVERNMENT BY A
+22 PRIVATE VENDOR.
+23 (ii) “Database” does not include a registry operated under Title 11,
+24 Subtitle 7 of the Criminal Procedure Article.
+25 (3) (i) “Law enforcement agency” means a federal, state, or local agency
+26 authorized to enforce criminal laws.
+27 (ii) “Law enforcement agency” includes the Maryland Department of
+28 Public Safety and Correctional Services.
+29 (4) “SENSITIVE INFORMATION” INCLUDES PERSONAL INFORMATION
+30 ON INDIVIDUALS WHO ARE SERVED OR ENGAGED BY A GRANTEE, CONTRACTOR, OR
+31 CONSULTANT OF A UNIT OF STATE OR LOCAL GOVERNMENT.
+
+SENATE BILL 977 5
+1 (b) [An entity] A LAW ENFORCEMENT AGENCY OR A UNIT OF STATE OR
+2 LOCAL GOVERNMENT operating a database shall:
+3 (1) deny access to the database to any individual who is OR APPEARS TO
+4 BE seeking access for the purpose of enforcing federal immigration law, unless the
+5 individual presents a valid warrant issued by a federal court or a court of this State AND
+6 CLEARLY IDENTIFIES THE RECORD TO BE ACCESSED; and
+7 (2) require an individual accessing the database to provide to the [entity]
+8 LAW ENFORCEMENT AGENCY OR THE UNIT OF STATE OR LOCAL GOVERNMENT:
+9 (i) the individual’s name;
+10 (ii) the individual’s contact information, including a telephone
+11 number, an e–mail address, and a physical address; and
+12 (iii) unless the individual presents a valid warrant issued by a federal
+13 court or a court of this State AND CLEARLY IDENTIFIES THE RECORD TO BE ACCESSED,
+14 a statement by the individual, under penalty of perjury, that the individual is not accessing
+15 the database for the purpose of enforcing federal immigration law.
+16 (C) A LAW ENFORCEMENT AGENCY OR A UNIT OF STATE OR LOCAL
+17 GOVERNMENT OPERATING A BUILDING OR FACILITY SHALL:
+18 (1) DENY ACCESS TO THE BUILDING OR FACILITY TO ANY INDIVIDUAL
+19 WHO IS OR APPEARS TO BE SEEKING ACCESS FOR THE PURPOSE OF ENFORCING
+20 FEDERAL IMMIGRATION LAW, UNLESS THE INDIVIDUAL PRESENTS A VALID
+21 WARRANT ISSUED BY A FEDERAL COURT OR A COURT OF THIS STATE AND CLEARLY
+22 IDENTIFIES THE BUILDING OR FACILITY, OR RECORD OR INFORMATION WITHIN THE
+23 BUILDING OR FACILITY, TO BE ACCESSED; AND
+24 (2) REQUIRE AN INDIVIDUAL ACCESSING THE BUILDING OR FACILITY
+25 TO PROVIDE TO THE LAW ENFORCEMENT AGENCY OR THE UNIT OF STATE OR LOCAL
+26 GOVERNMENT:
+27 (I) THE INDIVIDUAL’S NAME;
+28 (II) THE INDIVIDUAL’S CONTACT INFORMATION, INCLUDING A
+29 TELEPHONE NUMBER, AN E–MAIL ADDRESS, AND A PHYSICAL ADDRESS; AND
+30 (III) UNLESS THE INDIVIDUAL PRESENTS A VALID WARRANT
+31 ISSUED BY A FEDERAL COURT OR A COURT OF THIS STATE AND CLEARLY IDENTIFIES
+32 THE BUILDING OR FACILITY, OR RECORD OR INFORMATION WITHIN THE BUILDING
+33 OR FACILITY, TO BE ACCESSED, A STATEMENT BY THE INDIVIDUAL, UNDER PENALTY
+34 OF PERJURY, THAT THE INDIVIDUAL IS NOT ACCESSING THE BUILDING, FACILITY,
+
+6 SENATE BILL 977
+1 RECORD, OR INFORMATION FOR THE PURPOSE OF ENFORCING FEDERAL
+2 IMMIGRATION LAW.
+3 (D) A LAW ENFORCEMENT AGENCY OR A UNIT OF STATE OR LOCAL
+4 GOVERNMENT MAY NOT ENTER INTO A MEMORANDUM OF UNDERSTANDING OR
+5 SIMILAR AGREEMENT THAT REQUIRES COLLABORATION OR INFORMATION SHARING
+6 WITH A FEDERAL AGENCY FOR THE PURPOSE OF ENFORCING FEDERAL
+7 IMMIGRATION LAW.
+8 (E) (C) EACH UNIT OF STATE GOVERNMENT SHALL:
+9 (1) MAINTAIN A RECORD OF EACH REQUEST BY AN INDIVIDUAL
+10 SEEKING ACCESS TO A DATABASE, FACILITY, BUILDING, RECORD, OR INFORMATION
+11 AS DESCRIBED UNDER THIS SECTION; AND
+12 (2) ON OR BEFORE DECEMBER 1, 2025, AND EACH YEAR
+13 THEREAFTER, SUBMIT A REPORT TO THE ATTORNEY GENERAL AND, IN
+14 ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, THE GENERAL
+15 ASSEMBLY ON:
+16 (I) THE NUMBER AND NATURE OF ACCESS REQUESTS
+17 RECEIVED;
+18 (II) WHETHER THE REQUESTS WERE GRANTED OR DENIED; AND
+19 (III) ANY OTHER INFORMATION REQUIRED TO ENSURE
+20 COMPLIANCE WITH THIS SECTION.
+21 (F) THE ATTORNEY GENERAL SHALL:
+22 (1) ENFORCE THE REQUIREMENTS OF THIS SECTION THROUGH ANY
+23 MEANS NORMALLY AVAILABLE IN THE ENFORCEMENT OF CIVIL VIOLATIONS; AND
+24 (2) ESTABLISH A SYSTEM OF CIVIL PENALTIES NOT EXCEEDING
+25 $1,000 PER VIOLATION OF THIS SECTION.
+26 (G) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A STATE
+27 EMPLOYEE WHO VIOLATES THIS SECTION IS SUBJECT TO DISCIPLINE, INCLUDING
+28 TERMINATION FROM EMPLOYMENT.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+30 October 1, 2025.
+
+[DELETED: :CA      5     A S R ( F a a u c c a t l o c p t P I A a c p o l t r a l e d f o b b c i s a f t p o e f i l u c c r t d a B  A  S  A  ( B  A]
+[DELETED:  S  S  A  ( B  A S  A  (  S T A    )()ND     )“C”,D A NT      )W TT        )IC    )“PN M A O C B R L T A I O I T   )H S D N A T T I T W T   )    ) P W O A C R I E F O V M N S O O M A TT      TE  ]
+[DELETED: S 3    C R I O M A F T A M O T G P B T U O T   A 4  ( ( A o   e   w 4  ( I t f  ( ( N a o p o t t a o a e a a o a c o t S o a p s s d i a p o a i b a f a O G   o c   ( N a o p o t t a o a e a a o a c o t S o a p s s d i d   o c   ( O o b J 1 2 a e J 1 t t M V o S a C S s w r t r f f a s a w i t a S o l l e a r t t G A i w § 2 o t S G A t f i]
+[DELETED:  S     ( t n o r r f a f a f p    ( t n o r r f a f a f p a    ( t f p S    ( t n o i w p i o p w p t a f a b r t M V A C A 3  ( ( I   ( ( “y      S a l l e a i dr     S U O T O L GT D M F A U O T G B A .    ( “ S   ( ( “ a    ( “ P    “SN E R   T ]
+[DELETED: S 5  ( A e]A L E A O A U O T O     ( d s a f t p o e f i l u t i ;   ( r e T :    ( t    ( t i c i i a t n    ( u c , a t  ) A L E A O A U O T O L     B S O  I LW U T I P A V  T Y  Y D      T T     ) ’TLS    ) ’IT ILS IN IR EMS S –,     )IU T I P A V W T Y  Y D L , Y G , ]
+[DELETED:  S D O I F T P O E F    ) A L E A O A U O T O L M N E I A M O U O   A F A F T P O E F     )()ES CA T   A R O E R B A IE Y G D ,,N    D1,2 O B E   A E YR S A R T T T E AD IAG    T O RE  E27SGA,:   )T N A N O A R   ) ;IWD    )IA O I R T E  ) TAGH T EL   S      A S O C P N E0   ) N,O A O P O LW A TE     S A B I F E T t A s t e O]
