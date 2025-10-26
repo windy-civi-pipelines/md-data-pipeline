@@ -1,0 +1,378 @@
+Title: SENATE BILL 1026
+Official Title: SENATE BILL 1026
+Number of Sections: 1
+Source: versions - Third - Financial Institutions - Consumer Credit - Application of Licensing Requirements (Maryland Secondary Market Stability Act of 2025)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+I1 EMERGENCY BILL 5lr3555
+CF HB 1516
+By: Senator Beidle
+Introduced and read first time: February 6, 2025
+Assigned to: Rules
+Re–referred to: Finance, February 18, 2025
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 26, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Financial Institutions – Consumer Credit – Application of Licensing
+3 Requirements
+4 (Maryland Secondary Market Stability Act of 2025)
+5 FOR the purpose of providing that certain provisions of law governing the licensing of
+6 providers of certain financial services in the State do not apply to a certain person
+7 that acquires or is assigned a certain mortgage, mortgage loan, or installment loan
+8 under certain circumstances; establishing the Maryland Licensing Workgroup to
+9 study and make recommendations on licensing requirements for persons that
+10 provide financial services in the State; and generally relating to consumer credit
+11 lending licensing requirements and the Maryland Licensing Workgroup.
+12 BY repealing and reenacting, without amendments,
+13 Article – Financial Institutions
+14 Section 1–101(a) and (n), 11–301(a) and (b), and 11–501(a) and (k) through (m)
+15 Annotated Code of Maryland
+16 (2020 Replacement Volume and 2024 Supplement)
+17 BY adding to
+18 Article – Financial Institutions
+19 Section 11–102
+20 Annotated Code of Maryland
+21 (2020 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb1026*
+2 SENATE BILL 1026
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Financial Institutions
+4 1–101.
+5 (a) In this article, unless the context clearly requires otherwise, the following
+6 words have the meanings indicated.
+7 (n) “Mortgage” includes a deed of trust that secures a debt or the performance of
+8 an obligation.
+9 11–102.
+10 (A) IN THIS SECTION, “INSTALLMENT LOAN” HAS THE MEANING STATED IN
+11 § 11–301 OF THIS TITLE.
+12 (B) EXCEPT FOR § 11–219 OF THIS TITLE, THIS TITLE DOES NOT APPLY TO A
+13 PERSON THAT ACQUIRES OR IS ASSIGNED IN WHOLE OR IN PART:
+14 (1) A MORTGAGE, IF THE PERSON DOES NOT OTHERWISE MAKE
+15 MORTGAGES;
+16 (2) A MORTGAGE LOAN, AS DEFINED IN § 11–501 OF THIS TITLE, IF
+17 THE PERSON DOES NOT OTHERWISE ENGAGE IN THE MORTGAGE LENDING
+18 BUSINESS, AS DEFINED IN § 11–501 OF THIS TITLE; OR
+19 (3) AN INSTALLMENT LOAN, IF THE PERSON:
+20 (I) RELIES ON ANOTHER PERSON TO SERVICE OR COLLECT ON
+21 THE INSTALLMENT LOAN; AND
+22 (II) DOES NOT OTHERWISE MAKE INSTALLMENT LOANS.
+23 (C) THIS SECTION MAY NOT BE CONSTRUED TO ALTER THE DEFINITION OF
+24 “STUDENT LOAN SERVICER”, AS DEFINED IN § 2–104.1 OF THIS ARTICLE.
+25 11–301.
+26 (a) In this subtitle the following words have the meanings indicated.
+27 (b) “Installment loan” means a loan or extension of credit made for consideration
+28 under § 12–103(a)(3) or (c) or Title 12, Subtitle 9, or Subtitle 10 of the Commercial Law
+29 Article.
+SENATE BILL 1026 3
+1 11–501.
+2 (a) In this subtitle the following words have the meanings indicated.
+3 (k) (1) “Mortgage lender” means any person who:
+4 (i) Is a mortgage broker;
+5 (ii) Makes a mortgage loan to any person; or
+6 (iii) Is a mortgage servicer.
+7 (2) “Mortgage lender” does not include:
+8 (i) A financial institution that accepts deposits and is regulated
+9 under Title 3, Title 4, Title 5, or Title 6 of this article;
+10 (ii) The Federal Home Loan Mortgage Corporation;
+11 (iii) The Federal National Mortgage Association;
+12 (iv) The Government National Mortgage Association;
+13 (v) Any person engaged exclusively in the acquisition of all or any
+14 portion of a mortgage loan under any federal, State, or local governmental program of
+15 mortgage loan purchases; or
+16 (vi) An affiliated insurance producer–mortgage loan originator
+17 licensed under § 11–603.1 of this title.
+18 (l) (1) “Mortgage lending business” means the activities set forth in the
+19 definition of “mortgage lender” in subsection (k) of this section which require that person
+20 to be licensed under this subtitle.
+21 (2) “Mortgage lending business” includes the making or procuring of
+22 mortgage loans secured by a dwelling or residential real estate located outside Maryland.
+23 (m) (1) “Mortgage loan” means any loan primarily for personal, family, or
+24 household use that is secured by a mortgage, deed of trust, or other equivalent consensual
+25 security interest on a dwelling or residential real estate on which a dwelling is constructed
+26 or intended to be constructed.
+27 (2) “Mortgage loan” includes a loan in which funds are advanced through a
+28 shared appreciation agreement.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That:
+4 SENATE BILL 1026
+1 (a) There is a Maryland Licensing Workgroup.
+2 (b) The Workgroup consists of the following members:
+3 (1) the Commissioner of Financial Regulation, or the Commissioner’s
+4 designee;
+5 (2) the following members jointly appointed by the President of the Senate
+6 and the Speaker of the House:
+7 (i) one representative of a consumer advocacy organization with
+8 general knowledge about financial services, lending services, capital markets, and
+9 structured finance;
+10 (ii) one representative of a banking institution operating in the
+11 State;
+12 (iii) one representative of a credit union operating in the State;
+13 (iv) one representative of a nonbank mortgage business operating in
+14 the State; and
+15 (v) one member with expertise in:
+16 1. State laws and regulations that impact the chartering,
+17 licensing, and supervision of the lending industry within the State; and
+18 2. financial products and practices that impact consumers;
+19 and
+20 (3) the following members appointed by the Governor:
+21 (i) one member who has general knowledge about financial services,
+22 lending services, capital markets, and structured finance; and
+23 (ii) one member of the public.
+24 (c) The Commissioner of Financial Regulation, or the Commissioner’s designee,
+25 shall serve as the chair of the Workgroup.
+26 (d) The Office of Financial Regulation shall provide staff for the Workgroup.
+27 (e) A member of the Workgroup:
+28 (1) may not receive compensation as a member of the Workgroup; but
+SENATE BILL 1026 5
+1 (2) is entitled to reimbursement for expenses under the Standard State
+2 Travel Regulations, as provided in the State budget.
+3 (f) The Workgroup shall:
+4 (1) subject to subsection (g) of this section, study:
+5 (i) all licensing statutes and regulations adopted under those
+6 statutes concerning the provision of financial services in the State;
+7 (ii) the need for and the efficacy of the existing licensing and
+8 registration system for actively licensed persons who provide financial services in the State;
+9 and
+10 (iii) whether there is any benefit to expanding existing licensing or
+11 registration systems to persons not already subject to those licensing requirements; and
+12 (2) make recommendations regarding:
+13 (i) the licensing and registration system for actively licensed
+14 persons who provide financial services in the State; and
+15 (ii) the expansion of the existing licensing or registration systems to
+16 persons not already subject to those licensing requirements.
+17 (g) In conducting the study required under subsection (f) of this section, the
+18 Workgroup shall, at a minimum, consider the potential impacts, costs, and benefits of its
+19 recommendations on:
+20 (1) residents of the State;
+21 (2) persons facilitating, brokering, making, servicing, or acquiring loans in
+22 the State;
+23 (3) the availability of credit in the State;
+24 (4) the cost of credit in the State compared to other states; and
+25 (5) the capital markets, including the volume of secondary market
+26 transactions.
+27 (h) On or before December 31, 2025, the Workgroup shall report its findings and
+28 recommendations to the Governor and, in accordance with § 2–1257 of the State
+29 Government Article, the General Assembly.
+30 SECTION 3. AND BE IT FURTHER ENACTED, That the intent of Section 1 of this
+31 Act is to clarify existing exemptions under State law.
+6 SENATE BILL 1026
+1 SECTION 4. AND BE IT FURTHER ENACTED, That this Act is an emergency
+2 measure, is necessary for the immediate preservation of the public health or safety, has
+3 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+4 each of the two Houses of the General Assembly, and shall take effect from the date it is
+5 enacted. Section 2 of this Act shall remain effective through June 30, 2026, and, at the end
+6 of June 30, 2026, Section 2 of this Act, with no further action required by the General
+7 Assembly, shall be abrogated and of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+[DELETED: :CA    E 5   C A F R ( F p p t u c c e t M L W t s a m r o l r f p t p l B  A S  A  ( B  A S  A  (]
+[DELETED:  S   S T A 1  ( I w  ( “ a ) I,“NN IN 11.  ) E§19X   E    AME I T P D N O M   A,§11N    E  P D N O E I T M LS    E §11;   A,:N    ) EN    ) D.IO ) H”,§21.R     1  ( I  ( “ u A]
+[DELETED: S 3 1  ( I  ( ( “    ( I    ( M    ( I   ( “    ( A f i t a d a i r u    ( T    ( T    ( T    ( A p m    ( A a i p l o l  ( ( “ l b m t a s f i t d t   ( “ l b i t m o p o m  ( ( “ l m a l p f p f o h s o   ( “ s  S]
+[DELETED:  S   ( T  ( T   ( t C o F R o t C d   ( t a    ( o r o a c a o w g k a f s l s c m a s    ( o r o a b i o i t S    ( o    ( o t    ( o     1 S l a r t i t c l     2 f a   ( t    ( o l    ( o  ( T s  ( T  ( A   ( m]
+[DELETED: S 5   ( i T  ( T   ( s    ( a l s a r a u t s    ( t n f a t e o t e l a r a    ( w r   ( m    ( t l a r s f a l p    ( t p  ( I c t s r u s ( o t s t W r   ( r   ( p t   ( t   ( t   ( t c m i t v o s m t  ( O r t t G a i a w § 2 o t S G  S A]
+[DELETED:  S   S m b e e o A          G               ]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1026
+I1 EMERGENCY BILL 5lr3555
+CF HB 1516
+By: Senator Beidle
+Introduced and read first time: February 6, 2025
+Assigned to: Rules
+Re–referred to: Finance, February 18, 2025
+Committee Report: Favorable with amendments
+Senate action: Adopted
+Read second time: February 26, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Financial Institutions – Consumer Credit – Application of Licensing
+3 Requirements
+4 (Maryland Secondary Market Stability Act of 2025)
+5 FOR the purpose of providing that certain provisions of law governing the licensing of
+6 providers of certain financial services in the State do not apply to a certain person
+7 that acquires or is assigned a certain mortgage, mortgage loan, or installment loan
+8 under certain circumstances; establishing the Maryland Licensing Workgroup to
+9 study and make recommendations on licensing requirements for persons that
+10 provide financial services in the State; and generally relating to consumer credit
+11 lending licensing requirements and the Maryland Licensing Workgroup.
+12 BY repealing and reenacting, without amendments,
+13 Article – Financial Institutions
+14 Section 1–101(a) and (n), 11–301(a) and (b), and 11–501(a) and (k) through (m)
+15 Annotated Code of Maryland
+16 (2020 Replacement Volume and 2024 Supplement)
+17 BY adding to
+18 Article – Financial Institutions
+19 Section 11–102
+20 Annotated Code of Maryland
+21 (2020 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *sb1026*
+
+2 SENATE BILL 1026
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – Financial Institutions
+4 1–101.
+5 (a) In this article, unless the context clearly requires otherwise, the following
+6 words have the meanings indicated.
+7 (n) “Mortgage” includes a deed of trust that secures a debt or the performance of
+8 an obligation.
+9 11–102.
+10 (A) IN THIS SECTION, “INSTALLMENT LOAN” HAS THE MEANING STATED IN
+11 § 11–301 OF THIS TITLE.
+12 (B) EXCEPT FOR § 11–219 OF THIS TITLE, THIS TITLE DOES NOT APPLY TO A
+13 PERSON THAT ACQUIRES OR IS ASSIGNED IN WHOLE OR IN PART:
+14 (1) A MORTGAGE, IF THE PERSON DOES NOT OTHERWISE MAKE
+15 MORTGAGES;
+16 (2) A MORTGAGE LOAN, AS DEFINED IN § 11–501 OF THIS TITLE, IF
+17 THE PERSON DOES NOT OTHERWISE ENGAGE IN THE MORTGAGE LENDING
+18 BUSINESS, AS DEFINED IN § 11–501 OF THIS TITLE; OR
+19 (3) AN INSTALLMENT LOAN, IF THE PERSON:
+20 (I) RELIES ON ANOTHER PERSON TO SERVICE OR COLLECT ON
+21 THE INSTALLMENT LOAN; AND
+22 (II) DOES NOT OTHERWISE MAKE INSTALLMENT LOANS.
+23 (C) THIS SECTION MAY NOT BE CONSTRUED TO ALTER THE DEFINITION OF
+24 “STUDENT LOAN SERVICER”, AS DEFINED IN § 2–104.1 OF THIS ARTICLE.
+25 11–301.
+26 (a) In this subtitle the following words have the meanings indicated.
+27 (b) “Installment loan” means a loan or extension of credit made for consideration
+28 under § 12–103(a)(3) or (c) or Title 12, Subtitle 9, or Subtitle 10 of the Commercial Law
+29 Article.
+
+SENATE BILL 1026 3
+1 11–501.
+2 (a) In this subtitle the following words have the meanings indicated.
+3 (k) (1) “Mortgage lender” means any person who:
+4 (i) Is a mortgage broker;
+5 (ii) Makes a mortgage loan to any person; or
+6 (iii) Is a mortgage servicer.
+7 (2) “Mortgage lender” does not include:
+8 (i) A financial institution that accepts deposits and is regulated
+9 under Title 3, Title 4, Title 5, or Title 6 of this article;
+10 (ii) The Federal Home Loan Mortgage Corporation;
+11 (iii) The Federal National Mortgage Association;
+12 (iv) The Government National Mortgage Association;
+13 (v) Any person engaged exclusively in the acquisition of all or any
+14 portion of a mortgage loan under any federal, State, or local governmental program of
+15 mortgage loan purchases; or
+16 (vi) An affiliated insurance producer–mortgage loan originator
+17 licensed under § 11–603.1 of this title.
+18 (l) (1) “Mortgage lending business” means the activities set forth in the
+19 definition of “mortgage lender” in subsection (k) of this section which require that person
+20 to be licensed under this subtitle.
+21 (2) “Mortgage lending business” includes the making or procuring of
+22 mortgage loans secured by a dwelling or residential real estate located outside Maryland.
+23 (m) (1) “Mortgage loan” means any loan primarily for personal, family, or
+24 household use that is secured by a mortgage, deed of trust, or other equivalent consensual
+25 security interest on a dwelling or residential real estate on which a dwelling is constructed
+26 or intended to be constructed.
+27 (2) “Mortgage loan” includes a loan in which funds are advanced through a
+28 shared appreciation agreement.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That:
+
+4 SENATE BILL 1026
+1 (a) There is a Maryland Licensing Workgroup.
+2 (b) The Workgroup consists of the following members:
+3 (1) the Commissioner of Financial Regulation, or the Commissioner’s
+4 designee;
+5 (2) the following members jointly appointed by the President of the Senate
+6 and the Speaker of the House:
+7 (i) one representative of a consumer advocacy organization with
+8 general knowledge about financial services, lending services, capital markets, and
+9 structured finance;
+10 (ii) one representative of a banking institution operating in the
+11 State;
+12 (iii) one representative of a credit union operating in the State;
+13 (iv) one representative of a nonbank mortgage business operating in
+14 the State; and
+15 (v) one member with expertise in:
+16 1. State laws and regulations that impact the chartering,
+17 licensing, and supervision of the lending industry within the State; and
+18 2. financial products and practices that impact consumers;
+19 and
+20 (3) the following members appointed by the Governor:
+21 (i) one member who has general knowledge about financial services,
+22 lending services, capital markets, and structured finance; and
+23 (ii) one member of the public.
+24 (c) The Commissioner of Financial Regulation, or the Commissioner’s designee,
+25 shall serve as the chair of the Workgroup.
+26 (d) The Office of Financial Regulation shall provide staff for the Workgroup.
+27 (e) A member of the Workgroup:
+28 (1) may not receive compensation as a member of the Workgroup; but
+
+SENATE BILL 1026 5
+1 (2) is entitled to reimbursement for expenses under the Standard State
+2 Travel Regulations, as provided in the State budget.
+3 (f) The Workgroup shall:
+4 (1) subject to subsection (g) of this section, study:
+5 (i) all licensing statutes and regulations adopted under those
+6 statutes concerning the provision of financial services in the State;
+7 (ii) the need for and the efficacy of the existing licensing and
+8 registration system for actively licensed persons who provide financial services in the State;
+9 and
+10 (iii) whether there is any benefit to expanding existing licensing or
+11 registration systems to persons not already subject to those licensing requirements; and
+12 (2) make recommendations regarding:
+13 (i) the licensing and registration system for actively licensed
+14 persons who provide financial services in the State; and
+15 (ii) the expansion of the existing licensing or registration systems to
+16 persons not already subject to those licensing requirements.
+17 (g) In conducting the study required under subsection (f) of this section, the
+18 Workgroup shall, at a minimum, consider the potential impacts, costs, and benefits of its
+19 recommendations on:
+20 (1) residents of the State;
+21 (2) persons facilitating, brokering, making, servicing, or acquiring loans in
+22 the State;
+23 (3) the availability of credit in the State;
+24 (4) the cost of credit in the State compared to other states; and
+25 (5) the capital markets, including the volume of secondary market
+26 transactions.
+27 (h) On or before December 31, 2025, the Workgroup shall report its findings and
+28 recommendations to the Governor and, in accordance with § 2–1257 of the State
+29 Government Article, the General Assembly.
+30 SECTION 3. AND BE IT FURTHER ENACTED, That the intent of Section 1 of this
+31 Act is to clarify existing exemptions under State law.
+
+6 SENATE BILL 1026
+1 SECTION 4. AND BE IT FURTHER ENACTED, That this Act is an emergency
+2 measure, is necessary for the immediate preservation of the public health or safety, has
+3 been passed by a yea and nay vote supported by three–fifths of all the members elected to
+4 each of the two Houses of the General Assembly, and shall take effect from the date it is
+5 enacted. Section 2 of this Act shall remain effective through June 30, 2026, and, at the end
+6 of June 30, 2026, Section 2 of this Act, with no further action required by the General
+7 Assembly, shall be abrogated and of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+President of the Senate.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+[DELETED: :CA    E 5   C A F R ( F p p t u c c e t M L W t s a m r o l r f p t p l B  A S  A  ( B  A S  A  (]
+[DELETED:  S   S T A 1  ( I w  ( “ a ) I,“NN IN 11.  ) E§19X   E    AME I T P D N O M   A,§11N    E  P D N O E I T M LS    E §11;   A,:N    ) EN    ) D.IO ) H”,§21.R     1  ( I  ( “ u A]
+[DELETED: S 3 1  ( I  ( ( “    ( I    ( M    ( I   ( “    ( A f i t a d a i r u    ( T    ( T    ( T    ( A p m    ( A a i p l o l  ( ( “ l b m t a s f i t d t   ( “ l b i t m o p o m  ( ( “ l m a l p f p f o h s o   ( “ s  S]
+[DELETED:  S   ( T  ( T   ( t C o F R o t C d   ( t a    ( o r o a c a o w g k a f s l s c m a s    ( o r o a b i o i t S    ( o    ( o t    ( o     1 S l a r t i t c l     2 f a   ( t    ( o l    ( o  ( T s  ( T  ( A   ( m]
+[DELETED: S 5   ( i T  ( T   ( s    ( a l s a r a u t s    ( t n f a t e o t e l a r a    ( w r   ( m    ( t l a r s f a l p    ( t p  ( I c t s r u s ( o t s t W r   ( r   ( p t   ( t   ( t   ( t c m i t v o s m t  ( O r t t G a i a w § 2 o t S G  S A]
+[DELETED:  S   S m b e e o A          G               ]

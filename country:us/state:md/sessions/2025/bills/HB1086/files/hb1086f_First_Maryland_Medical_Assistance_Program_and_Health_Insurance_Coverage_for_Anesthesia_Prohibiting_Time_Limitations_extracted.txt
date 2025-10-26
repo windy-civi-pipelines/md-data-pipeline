@@ -1,0 +1,201 @@
+Title: HOUSE BILL 1086
+Official Title: HOUSE BILL 1086
+Number of Sections: 1
+Source: versions - First - Maryland Medical Assistance Program and Health Insurance - Coverage for Anesthesia - Prohibiting Time Limitations
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+J5 5lr2839
+By: Delegates Martinez, Pena–Melnyk, Alston, Lehman, Roberts, Taveras, Taylor,
+and Turner
+Introduced and read first time: February 5, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Maryland Medical Assistance Program and Health Insurance – Coverage for
+3 Anesthesia – Prohibiting Time Limitations
+4 FOR the purpose of requiring the Maryland Medical Assistance Program, managed care
+5 organizations, and certain insurers, nonprofit health service plans, and health
+6 maintenance organizations, if providing coverage for the delivery of anesthesia for a
+7 procedure for which a licensed medical professional issues an order, to provide the
+8 coverage in a certain manner; and generally relating to health insurance coverage
+9 for the delivery of anesthesia.
+10 BY adding to
+11 Article – Health – General
+12 Section 15–102.3(m), 15–103(a)(2)(xxv), and 15–157
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – Health – General
+17 Section 15–103(a)(1)
+18 Annotated Code of Maryland
+19 (2023 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – Health – General
+22 Section 15–103(a)(2)(xxiii) and (xxiv)
+23 Annotated Code of Maryland
+24 (2023 Replacement Volume and 2024 Supplement)
+25 BY adding to
+26 Article – Insurance
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1086*
+2 HOUSE BILL 1086
+1 Section 15–861
+2 Annotated Code of Maryland
+3 (2017 Replacement Volume and 2024 Supplement)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Health – General
+7 15–102.3.
+8 (M) BEGINNING JANUARY 1, 2026, THE PROVISIONS OF § 15–861 OF THE
+9 INSURANCE ARTICLE APPLY TO MANAGED CARE ORGANIZATIONS IN THE SAME
+10 MANNER THAT THEY APPLY TO CARRIERS.
+11 15–103.
+12 (a) (1) The Secretary shall administer the Maryland Medical Assistance
+13 Program.
+14 (2) The Program:
+15 (xxiii) Beginning on July 1, 2025, shall provide, subject to the
+16 limitations of the State budget, and as permitted by federal law, coverage for biomarker
+17 testing in accordance with § 15–859 of the Insurance Article; [and]
+18 (xxiv) Beginning on January 1, 2025, shall provide coverage for
+19 prostheses in accordance with § 15–844 of the Insurance Article; AND
+20 (XXV) BEGINNING ON JANUARY 1, 2026, IF PROVIDING COVERAGE
+21 FOR THE DELIVERY OF ANESTHESIA, SHALL PROVIDE COVERAGE FOR THE DELIVERY
+22 OF ANESTHESIA IN ACCORDANCE WITH § 15–861 OF THE INSURANCE ARTICLE.
+23 15–157.
+24 IF THE PROGRAM COVERS THE DELIVERY OF ANESTHESIA FOR A PROCEDURE
+25 FOR WHICH A LICENSED MEDICAL PROFESSIONAL ISSUES AN ORDER, THE
+26 PROGRAM:
+27 (1) SHALL PROVIDE COVERAGE FOR THE DELIVERY OF ANESTHESIA
+28 FOR THE ENTIRE DURATION OF THE PROCEDURE; AND
+29 (2) MAY NOT PLACE TIME LIMITATIONS ON THE DELIVERY OF
+30 ANESTHESIA.
+HOUSE BILL 1086 3
+1 Article – Insurance
+2 15–861.
+3 (A) THIS SECTION APPLIES TO:
+4 (1) INSURERS AND NONPROFIT HEALTH SERVICE PLANS THAT
+5 PROVIDE HOSPITAL, MEDICAL, OR SURGICAL BENEFITS TO INDIVIDUALS OR GROUPS
+6 ON AN EXPENSE–INCURRED BASIS UNDER HEALTH INSURANCE POLICIES OR
+7 CONTRACTS THAT ARE ISSUED OR DELIVERED IN THE STATE; AND
+8 (2) HEALTH MAINTENANCE ORGANIZATIONS THAT PROVIDE
+9 HOSPITAL, MEDICAL, OR SURGICAL BENEFITS TO INDIVIDUALS OR GROUPS UNDER
+10 CONTRACTS THAT ARE ISSUED OR DELIVERED IN THE STATE.
+11 (B) AN ENTITY SUBJECT TO THIS SECTION THAT COVERS THE DELIVERY OF
+12 ANESTHESIA FOR A PROCEDURE FOR WHICH A LICENSED MEDICAL PROFESSIONAL
+13 ISSUES AN ORDER:
+14 (1) SHALL PROVIDE COVERAGE FOR THE DELIVERY OF ANESTHESIA
+15 FOR THE ENTIRE DURATION OF THE PROCEDURE; AND
+16 (2) MAY NOT PLACE TIME LIMITATIONS ON THE DELIVERY OF
+17 ANESTHESIA.
+18 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all
+19 policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or
+20 after January 1, 2026.
+21 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 January 1, 2026.
+[DELETED: :CA      5     A M A F o a c i n h s p a h m p c f B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A]
+[DELETED:  H  S  A  (  S T A 1 ) BJ1,2,§1E A       R A T M C O I T S 1  ( ( T S s a t M M A P   ( T    ( o J 1 2 s p s t t l t a]    ( o J 1 2 s p c f p  ()BJ1,2VE A   A     N R11I .I R W A L M P I A OR T: ( E  (  N P T L O T D O]
+[DELETED: H 3 A() T:H ( A N H S P TL L  A EEI B U H I P O TE ; ( M O T PL L  T.() N (E  ( N P T L O T D O  S p a  S A B I F E T t A s t e J]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1086
+J5 5lr2839
+By: Delegates Martinez, Pena–Melnyk, Alston, Lehman, Roberts, Taveras, Taylor,
+and Turner
+Introduced and read first time: February 5, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Maryland Medical Assistance Program and Health Insurance – Coverage for
+3 Anesthesia – Prohibiting Time Limitations
+4 FOR the purpose of requiring the Maryland Medical Assistance Program, managed care
+5 organizations, and certain insurers, nonprofit health service plans, and health
+6 maintenance organizations, if providing coverage for the delivery of anesthesia for a
+7 procedure for which a licensed medical professional issues an order, to provide the
+8 coverage in a certain manner; and generally relating to health insurance coverage
+9 for the delivery of anesthesia.
+10 BY adding to
+11 Article – Health – General
+12 Section 15–102.3(m), 15–103(a)(2)(xxv), and 15–157
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, without amendments,
+16 Article – Health – General
+17 Section 15–103(a)(1)
+18 Annotated Code of Maryland
+19 (2023 Replacement Volume and 2024 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – Health – General
+22 Section 15–103(a)(2)(xxiii) and (xxiv)
+23 Annotated Code of Maryland
+24 (2023 Replacement Volume and 2024 Supplement)
+25 BY adding to
+26 Article – Insurance
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1086*
+
+2 HOUSE BILL 1086
+1 Section 15–861
+2 Annotated Code of Maryland
+3 (2017 Replacement Volume and 2024 Supplement)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Health – General
+7 15–102.3.
+8 (M) BEGINNING JANUARY 1, 2026, THE PROVISIONS OF § 15–861 OF THE
+9 INSURANCE ARTICLE APPLY TO MANAGED CARE ORGANIZATIONS IN THE SAME
+10 MANNER THAT THEY APPLY TO CARRIERS.
+11 15–103.
+12 (a) (1) The Secretary shall administer the Maryland Medical Assistance
+13 Program.
+14 (2) The Program:
+15 (xxiii) Beginning on July 1, 2025, shall provide, subject to the
+16 limitations of the State budget, and as permitted by federal law, coverage for biomarker
+17 testing in accordance with § 15–859 of the Insurance Article; [and]
+18 (xxiv) Beginning on January 1, 2025, shall provide coverage for
+19 prostheses in accordance with § 15–844 of the Insurance Article; AND
+20 (XXV) BEGINNING ON JANUARY 1, 2026, IF PROVIDING COVERAGE
+21 FOR THE DELIVERY OF ANESTHESIA, SHALL PROVIDE COVERAGE FOR THE DELIVERY
+22 OF ANESTHESIA IN ACCORDANCE WITH § 15–861 OF THE INSURANCE ARTICLE.
+23 15–157.
+24 IF THE PROGRAM COVERS THE DELIVERY OF ANESTHESIA FOR A PROCEDURE
+25 FOR WHICH A LICENSED MEDICAL PROFESSIONAL ISSUES AN ORDER, THE
+26 PROGRAM:
+27 (1) SHALL PROVIDE COVERAGE FOR THE DELIVERY OF ANESTHESIA
+28 FOR THE ENTIRE DURATION OF THE PROCEDURE; AND
+29 (2) MAY NOT PLACE TIME LIMITATIONS ON THE DELIVERY OF
+30 ANESTHESIA.
+
+HOUSE BILL 1086 3
+1 Article – Insurance
+2 15–861.
+3 (A) THIS SECTION APPLIES TO:
+4 (1) INSURERS AND NONPROFIT HEALTH SERVICE PLANS THAT
+5 PROVIDE HOSPITAL, MEDICAL, OR SURGICAL BENEFITS TO INDIVIDUALS OR GROUPS
+6 ON AN EXPENSE–INCURRED BASIS UNDER HEALTH INSURANCE POLICIES OR
+7 CONTRACTS THAT ARE ISSUED OR DELIVERED IN THE STATE; AND
+8 (2) HEALTH MAINTENANCE ORGANIZATIONS THAT PROVIDE
+9 HOSPITAL, MEDICAL, OR SURGICAL BENEFITS TO INDIVIDUALS OR GROUPS UNDER
+10 CONTRACTS THAT ARE ISSUED OR DELIVERED IN THE STATE.
+11 (B) AN ENTITY SUBJECT TO THIS SECTION THAT COVERS THE DELIVERY OF
+12 ANESTHESIA FOR A PROCEDURE FOR WHICH A LICENSED MEDICAL PROFESSIONAL
+13 ISSUES AN ORDER:
+14 (1) SHALL PROVIDE COVERAGE FOR THE DELIVERY OF ANESTHESIA
+15 FOR THE ENTIRE DURATION OF THE PROCEDURE; AND
+16 (2) MAY NOT PLACE TIME LIMITATIONS ON THE DELIVERY OF
+17 ANESTHESIA.
+18 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all
+19 policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or
+20 after January 1, 2026.
+21 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 January 1, 2026.
+
+[DELETED: :CA      5     A M A F o a c i n h s p a h m p c f B  A S  A  ( B  A S  A  ( B  A S  A  ( B  A]
+[DELETED:  H  S  A  (  S T A 1 ) BJ1,2,§1E A       R A T M C O I T S 1  ( ( T S s a t M M A P   ( T    ( o J 1 2 s p s t t l t a]    ( o J 1 2 s p c f p  ()BJ1,2VE A   A     N R11I .I R W A L M P I A OR T: ( E  (  N P T L O T D O]
+[DELETED: H 3 A() T:H ( A N H S P TL L  A EEI B U H I P O TE ; ( M O T PL L  T.() N (E  ( N P T L O T D O  S p a  S A B I F E T t A s t e J]

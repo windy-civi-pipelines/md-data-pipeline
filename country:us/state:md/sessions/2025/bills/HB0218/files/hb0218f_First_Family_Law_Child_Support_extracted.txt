@@ -1,0 +1,1667 @@
+Title: HOUSE BILL 218
+Official Title: HOUSE BILL 218
+Number of Sections: 1
+Source: versions - First - Family Law – Child Support
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+D4 5lr0340
+(PRE–FILED) CF SB 195
+By: Chair, Judiciary Committee (By Request – Departmental – Human Services)
+Requested: October 12, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Family Law – Child Support
+3 FOR the purpose of altering provisions relating to the commencement of a proceeding to
+4 hold a person in contempt of court for the person’s default in payment of periodic
+5 child or spousal support under the terms of a court order and provisions relating to
+6 the commencement of a contempt proceeding for failure to make a payment of child
+7 or spousal support under a court order; authorizing the Child Support
+8 Administration to take action to secure an assignment to the State of any rights to
+9 support on behalf of a child receiving foster care maintenance payments under
+10 certain circumstances; expanding provisions relating to the interception of lottery
+11 prizes for the payment of child support arrearages to include the interception of
+12 prizes from sports wagering or a fantasy competition; altering provisions relating to
+13 the suspension of a child support obligor’s license or privilege to drive for failure to
+14 pay child support; altering provisions relating to the duties of health occupations
+15 boards and the State Emergency Services Board to collect and maintain certain
+16 information from license applicants; establishing that child support arrears
+17 constitute a lien by operation of law against the net recovery of a personal injury
+18 award up to the maximum lien amount and specifying related procedures; altering
+19 certain provisions relating to earnings withholding; requiring an independent
+20 contractor’s employer to submit certain information to the Administration under
+21 certain circumstances; altering provisions relating to the modification of a child
+22 support award; requiring a court to terminate a child support order that was
+23 previously established or assigned for a child receiving a foster care maintenance
+24 payment under certain circumstances; altering provisions relating to the
+25 determination of child support under the child support guidelines; and generally
+26 relating to child support.
+27 BY repealing and reenacting, with amendments,
+28 Article – Courts and Judicial Proceedings
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0218*
+2 HOUSE BILL 218
+1 Section 5–111
+2 Annotated Code of Maryland
+3 (2020 Replacement Volume and 2024 Supplement)
+4 BY adding to
+5 Article – Family Law
+6 Section 5–525.3, 10–119.4, 10–139, and 12–104.2
+7 Annotated Code of Maryland
+8 (2019 Replacement Volume and 2024 Supplement)
+9 BY repealing and reenacting, with amendments,
+10 Article – Family Law
+11 Section 10–101, 10–102, 10–108(c), 10–113.1, 10–119, 10–119.3(b), 10–122, 12–104,
+12 12–201(c) and (n), 12–202(a), and 12–204(a)
+13 Annotated Code of Maryland
+14 (2019 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Transportation
+17 Section 16–203
+18 Annotated Code of Maryland
+19 (2020 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Courts and Judicial Proceedings
+23 5–111.
+24 A proceeding to hold a person in contempt of court for the person’s default in payment
+25 of periodic child or spousal support under the terms of a court order shall be commenced
+26 within [3] 7 years of the date each installment of support ORIGINALLY became due [and
+27 remained unpaid].
+28 Article – Family Law
+29 5–525.3.
+30 (A) ONLY IN LIMITED CIRCUMSTANCES, WHERE THE ADMINISTRATION
+31 FINDS IT APPROPRIATE, MAY ACTION BE TAKEN TO SECURE AN ASSIGNMENT TO THE
+32 STATE OF ANY RIGHTS TO SUPPORT ON BEHALF OF A CHILD RECEIVING FOSTER
+33 CARE MAINTENANCE PAYMENTS UNDER THIS PART III OF THIS SUBTITLE.
+34 (B) THE ADMINISTRATION MAY TAKE ACTION, WHEN APPROPRIATE, TO
+35 DISCONTINUE AN ASSIGNMENT OF RIGHTS TO SUPPORT AND TERMINATE EXISTING
+HOUSE BILL 218 3
+1 SUPPORT ORDERS FOR A CHILD RECEIVING FOSTER CARE MAINTENANCE
+2 PAYMENTS.
+3 (C) THE SECRETARY OF HUMAN SERVICES SHALL ADOPT RULES AND
+4 REGULATIONS TO IMPLEMENT THIS SECTION.
+5 10–101.
+6 (a) In this title the following words have the meanings indicated.
+7 (b) “Administration” means the Child Support Administration of the Department
+8 of Human Services.
+9 (c) “Earnings” includes:
+10 (1) any form of periodic payment to an individual, including:
+11 (i) an annuity;
+12 (ii) a pension;
+13 (iii) Social Security payments;
+14 (iv) workers’ compensation payments; and
+15 (v) unemployment insurance benefits; [and]
+16 (2) any commissions or fees paid in connection with the [obligor’s]
+17 EMPLOYEE’S employment; AND
+18 (3) ANY PAYMENT RECEIVED BY AN INDEPENDENT CONTRACTOR:
+19 (I) FROM AN EMPLOYER FOR SERVICES PROVIDED BY THE
+20 INDEPENDENT CONTRACTOR IN THE COURSE OF THE EMPLOYER’S TRADE OR
+21 BUSINESS; AND
+22 (II) THAT THE EMPLOYER REPORTS OR EXPECTS TO REPORT ON
+23 IRS FORM 1099.
+24 (d) “EMPLOYEE” MEANS AN INDIVIDUAL WHO IS EMPLOYED BY AN
+25 EMPLOYER FOR A WAGE OR OTHER COMPENSATION IN THE TRADE OR BUSINESS OF
+26 THE EMPLOYER.
+27 (E) (1) “Employer” means any person who is paying earnings to an [obligor]
+28 EMPLOYEE.
+4 HOUSE BILL 218
+1 (2) “Employer” includes:
+2 (I) a governmental entity; AND
+3 (II) A PERSON WHO IS PAYING EARNINGS TO AN INDEPENDENT
+4 CONTRACTOR FOR SERVICES PROVIDED IN THE COURSE OF THE EMPLOYER’S TRADE
+5 OR BUSINESS THAT THE EMPLOYER REPORTS OR EXPECTS TO REPORT ON IRS
+6 FORM 1099.
+7 (F) “INDEPENDENT CONTRACTOR” MEANS A PERSON WHO:
+8 (1) PROVIDES SERVICES TO AN EMPLOYER IN THE COURSE OF THE
+9 EMPLOYER’S TRADE OR BUSINESS; AND
+10 (2) RECEIVES EARNINGS FROM AN EMPLOYER THAT THE EMPLOYER
+11 REPORTS OR EXPECTS TO REPORT ON IRS FORM 1099.
+12 [(e)] (G) “Local support enforcement office” means 1 of the following that is
+13 responsible for support enforcement:
+14 (1) a county agency; or
+15 (2) a component of the circuit court for a county.
+16 [(f)] (H) (1) “Obligee” means any person who is entitled to receive support.
+17 (2) “Obligee” includes a state.
+18 [(g)] (I) “Obligor” means an individual who is required to pay support under a
+19 court order.
+20 [(h)] (J) “Support” includes:
+21 (1) child support;
+22 (2) spousal support;
+23 (3) support of destitute adult children; and
+24 (4) support of destitute parents.
+25 [(i)] (K) “Support enforcement agency” means 1 of the following that receives
+26 support payments under a court order:
+HOUSE BILL 218 5
+1 (1) the Administration; or
+2 (2) a local support enforcement office.
+3 10–102.
+4 A contempt proceeding for failure to make a payment of child or spousal support
+5 under a court order shall be [brought] COMMENCED within [3] 7 years of the date that
+6 [the payment] EACH INSTALLMENT of support ORIGINALLY became due.
+7 10–108.
+8 (c) (1) In this subsection, “notice of arrearage” means a written notice provided
+9 by the Administration:
+10 (i) to an obligor who is in arrears in making child support payments;
+11 and
+12 (ii) relating to the arrearage.
+13 (2) If the Administration sends a notice of arrearage within the first 120
+14 days that the obligor is in arrears in making child support payments, the Administration
+15 shall include notice that continued arrearage may result in:
+16 (I) revocation or denial of a license under § 10–119.3 of this subtitle;
+17 AND
+18 (II) A LIEN BEING PLACED AGAINST A PERSONAL INJURY AWARD
+19 UNDER § 10–119.4 OF THIS SUBTITLE.
+20 10–113.1.
+21 (a) (1) In this section the following words have the meanings indicated.
+22 (2) “Agency” means the State Lottery and Gaming Control Agency.
+23 (3) “FANTASY COMPETITION” HAS THE MEANING STATED IN §
+24 9–1D–01 OF THE STATE GOVERNMENT ARTICLE.
+25 (4) “FANTASY COMPETITION OPERATOR” HAS THE MEANING STATED
+26 IN § 9–1D–01 OF THE STATE GOVERNMENT ARTICLE.
+27 (5) “SPORTS WAGERING” HAS THE MEANING STATED IN § 9–1E–01 OF
+28 THE STATE GOVERNMENT ARTICLE.
+6 HOUSE BILL 218
+1 (6) (I) “SPORTS WAGERING LICENSEE” HAS THE MEANING STATED
+2 IN § 9–1E–01 OF THE STATE GOVERNMENT ARTICLE.
+3 (II) “SPORTS WAGERING LICENSEE” INCLUDES:
+4 1. A MOBILE SPORTS WAGERING LICENSEE, AS DEFINED
+5 IN § 9–1E–01 OF THE STATE GOVERNMENT ARTICLE;
+6 2. AN ONLINE SPORTS WAGERING OPERATOR, AS
+7 DEFINED IN § 9–1E–01 OF THE STATE GOVERNMENT ARTICLE; AND
+8 3. A SPORTS WAGERING FACILITY LICENSEE, AS
+9 DEFINED IN § 9–1E–01 OF THE STATE GOVERNMENT ARTICLE.
+10 [(3)] (7) “Video lottery facility” has the meaning stated in § 9–1A–01 of
+11 the State Government Article.
+12 [(4)] (8) “Video lottery operation licensee” has the meaning stated in §
+13 9–1A–01 of the State Government Article.
+14 (b) The Administration may certify to the Agency the name of any obligor who is
+15 in arrears in the amount of $150 or more if:
+16 (1) the Administration has accepted an assignment of support under §
+17 5–312(b)(2) of the Human Services Article; or
+18 (2) the recipient of support payments has filed an application for support
+19 enforcement services with the Administration.
+20 (c) The certification shall contain:
+21 (1) the full name of the obligor, and any other names known to be used by
+22 the obligor;
+23 (2) the Social Security number of the obligor; and
+24 (3) the amount of the arrearage.
+25 (d) If an obligor who has been certified as an obligor wins a lottery prize to be paid
+26 by check directly by the Agency, the Agency shall send a notice to the obligor that:
+27 (1) the obligor has won a prize to be paid by check directly by the [State
+28 Lottery and Gaming Control] Agency;
+HOUSE BILL 218 7
+1 (2) the [State Lottery and Gaming Control] Agency has received
+2 certification from the [Child Support] Administration of the obligor’s child support
+3 arrearage in the amount specified;
+4 (3) State law requires the [State Lottery and Gaming Control] Agency to
+5 withhold the prize and to pay it towards the obligor’s support arrearage;
+6 (4) the obligor has 15 days to appeal to the Administration if the obligor
+7 disputes the existence or the amount of the arrearage; and
+8 (5) on interception of the prize, the [State Lottery and Gaming Control]
+9 Agency will transfer the prize or the part of the prize that equals the obligor’s child support
+10 arrearage to the Administration.
+11 (e) If an obligor who owes child support and has been certified as an obligor wins
+12 a prize at a video lottery facility [requiring], FROM SPORTS WAGERING, OR IN A
+13 FANTASY COMPETITION, AND THAT PRIZE REQUIRES the issuance of Internal Revenue
+14 Service form W–2G or a substantially equivalent form [by a video lottery operation
+15 licensee], the video lottery operation licensee, SPORTS WAGERING LICENSEE, OR
+16 FANTASY COMPETITION OPERATOR shall provide a notice to the obligor that:
+17 (1) the obligor has won a prize to be paid by cash or check directly by the
+18 video lottery operation licensee, SPORTS WAGERING LICENSEE, OR FANTASY
+19 COMPETITION OPERATOR;
+20 (2) the [State Lottery and Gaming Control] Agency has received
+21 certification from the [Child Support] Administration of the obligor’s child support
+22 arrearage in the amount specified;
+23 (3) State law requires the video lottery operation licensee, SPORTS
+24 WAGERING LICENSEE, OR FANTASY COMPETITION OPERATOR to withhold the prize
+25 and to pay it towards the obligor’s child support arrearage;
+26 (4) the obligor has 15 days to appeal to the Administration if the obligor
+27 disputes the existence or the amount of the child support arrearage; and
+28 (5) on interception of the prize, the video lottery operation licensee,
+29 SPORTS WAGERING LICENSEE, OR FANTASY COMPETITION OPERATOR will transfer
+30 the prize or the part of the prize that equals the obligor’s child support arrearage to the
+31 Administration.
+32 (f) (1) The Agency [or the], video lottery operation licensee, SPORTS
+33 WAGERING LICENSEE, OR FANTASY COMPETITION OPERATOR shall:
+8 HOUSE BILL 218
+1 (i) withhold and transfer all or part of the prize up to the amount of
+2 the arrearage to the Administration; and
+3 (ii) pay the excess to the obligor.
+4 (2) The Agency [and a], video lottery operation licensee, SPORTS
+5 WAGERING LICENSEE, AND FANTASY COMPETITION OPERATOR shall honor
+6 interception requests in the following order:
+7 (i) an interception request under this section;
+8 (ii) an interception request under § 11–618 of the Criminal
+9 Procedure Article; and
+10 (iii) an interception request under § 3–307 of the State Finance and
+11 Procurement Article.
+12 (g) (1) On receipt of a notice from the Agency [or], video lottery operation
+13 licensee, SPORTS WAGERING LICENSEE, OR FANTASY COMPETITION OPERATOR, an
+14 obligor who disputes the existence or amount of the arrearage may appeal the transfer.
+15 (2) If no appeal is filed within 15 days, the Administration may retain the
+16 withheld prize.
+17 (3) If the obligor appeals the transfer, after a hearing by the
+18 Administration, the withheld prize shall be:
+19 (i) paid to the obligor;
+20 (ii) retained by the Administration; or
+21 (iii) partly paid to the obligor and partly retained by the
+22 Administration, in the amounts specified.
+23 (h) The Secretary of Human Services and the Director of the Agency may jointly
+24 adopt regulations to implement this section.
+25 (i) A video lottery operation licensee, SPORTS WAGERING LICENSEE, OR
+26 FANTASY COMPETITION OPERATOR may not be held liable for an act or omission taken
+27 in good faith to comply substantially with the requirements of this section.
+28 10–119.
+29 (a) (1) In this section the following words have the meanings indicated.
+HOUSE BILL 218 9
+1 (2) “License” has the meaning stated in § 11–128 of the Transportation
+2 Article.
+3 (3) “Motor Vehicle Administration” means the Motor Vehicle
+4 Administration of the Department of Transportation.
+5 (b) (1) Subject to the provisions of subsection (c) of this section, the
+6 Administration may notify the Motor Vehicle Administration of an obligor with a
+7 noncommercial license who is 60 days or more out of compliance, or an obligor with a
+8 commercial license who is 120 days or more out of compliance, with the most recent order
+9 of the court in making child support payments if:
+10 (i) the Administration has accepted an assignment of support under
+11 § 5–312(b)(2) of the Human Services Article; or
+12 (ii) the recipient of support payments has filed an application for
+13 support enforcement services with the Administration.
+14 (2) Upon notification by the Administration under this subsection, the
+15 Motor Vehicle Administration:
+16 (i) shall suspend the obligor’s license or privilege to drive in the
+17 State; and
+18 (ii) may issue a work–restricted license or work–restricted privilege
+19 to drive in the State in accordance with § 16–203 of the Transportation Article.
+20 (c) (1) Before supplying any information to the Motor Vehicle Administration
+21 under this section, the Administration shall:
+22 (i) send written notice of the proposed action to the obligor,
+23 including notice of the obligor’s right to request an investigation on any of the following
+24 grounds:
+25 1. the information regarding the reported arrearage is
+26 inaccurate;
+27 2. THE OBLIGOR’S INCOME IS NOT GREATER THAN 250%
+28 OF THE 2024 FEDERAL POVERTY GUIDELINES FOR AN INDIVIDUAL ($37,650 PER
+29 YEAR), UNLESS THE OBLIGOR WAS JUDICIALLY DETERMINED TO BE VOLUNTARILY
+30 IMPOVERISHED UNDER § 12–204 OF THIS ARTICLE AT THE TIME THE MOST RECENT
+31 CHILD SUPPORT ORDER WAS ENTERED;
+32 3. suspension of the obligor’s license or privilege to drive
+33 would be an impediment to the obligor’s current or potential employment; or
+10 HOUSE BILL 218
+1 [3.] 4. suspension of the obligor’s license or privilege to drive
+2 would place an undue hardship on the obligor because of the obligor’s:
+3 A. documented disability resulting in a verified inability to
+4 work; or
+5 B. inability to comply with the court order; and
+6 (ii) give the obligor a reasonable opportunity to request an
+7 investigation of the proposed action of the Administration.
+8 (2) (i) Upon receipt of a request for investigation from the obligor, the
+9 Administration shall conduct an investigation to determine if any of the grounds under
+10 paragraph (1)(i) of this subsection exist.
+11 (ii) The Administration shall:
+12 1. send a copy of the obligor’s request for an investigation to
+13 the obligee by first–class mail;
+14 2. give the obligee a reasonable opportunity to respond; and
+15 3. consider the obligee’s response.
+16 (iii) Upon completion of the investigation, the Administration shall
+17 notify the obligor of the results of the investigation and the obligor’s right to appeal to the
+18 Office of Administrative Hearings.
+19 (3) (i) An appeal under this section shall be conducted in accordance
+20 with Title 10, Subtitle 2 of the State Government Article.
+21 (ii) An appeal shall be made in writing and shall be received by the
+22 Office of Administrative Hearings within 20 days after the notice to the obligor of the
+23 results of the investigation.
+24 (4) If, after the investigation or appeal to the Office of Administrative
+25 Hearings, the Administration finds that one of the grounds under paragraph (1)(i) of this
+26 subsection exists, the Administration may not send any information about the obligor to
+27 the Motor Vehicle Administration.
+28 (5) The Administration may not send any information about an obligor to
+29 the Motor Vehicle Administration if:
+30 (i) the Administration reaches an agreement with the obligor
+31 regarding a scheduled payment of the obligor’s child support arrearage or a court issues an
+32 order for a scheduled payment of the child support arrearage; and
+HOUSE BILL 218 11
+1 (ii) the obligor is complying with the agreement or court order.
+2 (d) (1) If, after information about an obligor is supplied to the Motor Vehicle
+3 Administration, the obligor’s arrearage is paid in full, the obligor has demonstrated good
+4 faith by paying the ordered amount of support for 6 consecutive months, the obligor is a
+5 participant in full compliance in an employment program approved by the Administration,
+6 or the Administration finds that one of the grounds under subsection (c)(1)(i) of this section
+7 exists, the Administration shall notify the Motor Vehicle Administration to reinstate the
+8 obligor’s license or privilege to drive.
+9 (2) The Administration may request that the Motor Vehicle
+10 Administration expunge a record of a suspension of a license or privilege to drive for failure
+11 to pay child support:
+12 (i) for an obligor who is enrolled in and compliant with an
+13 employment program approved by the Administration; or
+14 (ii) if the information reported by the Administration that led to the
+15 suspension was inaccurate.
+16 (e) The Secretary of Human Services, in cooperation with the Secretary of
+17 Transportation and the Office of Administrative Hearings, shall adopt regulations to
+18 implement this section.
+19 10–119.3.
+20 (b) (1) Except as provided in paragraphs (2) and (3) of this subsection, a
+21 licensing authority shall:
+22 (i) require each applicant for a license to disclose the Social Security
+23 number of the applicant; and
+24 (ii) record the applicant’s Social Security number on the application.
+25 (2) The Department of Natural Resources shall:
+26 (i) require an applicant for a recreational hunting or fishing license
+27 to disclose only the last four digits of the Social Security number of the applicant instead of
+28 the full Social Security number; and
+29 (ii) record the applicant’s partial Social Security number on the
+30 application.
+31 (3) Each health occupations board and the State Emergency Services
+32 Board shall:
+33 (i) require each applicant for a license to:
+12 HOUSE BILL 218
+1 1. disclose the APPLICANT’S Social Security number [or], IF
+2 THE APPLICANT HAS ONE;
+3 2. IF THE APPLICANT DOES NOT HAVE A SOCIAL
+4 SECURITY NUMBER, DISCLOSE THE Individual Taxpayer Identification Number of the
+5 applicant; or
+6 [2.] 3. [provide alternative documentation as permitted by the
+7 Department of Health and Human Services under Section 466(a)(13) of the Social Security
+8 Act] IF THE APPLICANT DOES NOT HAVE A SOCIAL SECURITY NUMBER OR AN
+9 INDIVIDUAL TAXPAYER IDENTIFICATION NUMBER, PROVIDE A SWORN STATEMENT,
+10 SIGNED UNDER THE PENALTY OF PERJURY, THAT THE APPLICANT DOES NOT HAVE
+11 A SOCIAL SECURITY NUMBER OR INDIVIDUAL TAXPAYER IDENTIFICATION
+12 NUMBER, ALONG WITH THE LICENSE APPLICATION; and
+13 (ii) [record] MAINTAIN the applicant’s Social Security number,
+14 Individual Taxpayer Identification Number, or [alternative documentation] AFFIDAVIT
+15 provided under item (i) of this paragraph in the application file.
+16 10–119.4.
+17 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+18 INDICATED.
+19 (2) “AWARD RECIPIENT” MEANS A PERSON WHO RECEIVES OR IS TO
+20 RECEIVE A PERSONAL INJURY AWARD.
+21 (3) “INTERCEPT DATE” MEANS THE DATE THAT THE AWARD
+22 RECIPIENT IS NOTIFIED THAT MONEY IS BEING WITHHELD FOR SUPPORT ARREARS
+23 FROM A PERSONAL INJURY AWARD.
+24 (4) “MAXIMUM LIEN AMOUNT” REFERS TO THE MAXIMUM AMOUNT OF
+25 A NET RECOVERY WHICH IS SUBJECT TO EXECUTION FOR SUPPORT ARREARS IN
+26 ACCORDANCE WITH § 11–504(I)(2) OF THE COURTS ARTICLE.
+27 (5) “NET RECOVERY” MEANS THE SUM OF MONEY TO BE DISTRIBUTED
+28 TO AN AWARD RECIPIENT AFTER DEDUCTION OF ATTORNEY’S FEES AND EXPENSES,
+29 MEDICAL BILLS, AND THE SATISFACTION OF ANY LIENS OR SUBROGATION CLAIMS
+30 ARISING OUT OF THE SICKNESS, ACCIDENT, INJURY, OR DEATH THAT RESULTED IN
+31 THE PERSONAL INJURY AWARD, INCLUDING THOSE ARISING UNDER:
+32 (I) THE MEDICARE SECONDARY PAYER ACT, 42 U.S.C. §
+33 1395Y;
+HOUSE BILL 218 13
+1 (II) A PROGRAM OF THE MARYLAND DEPARTMENT OF HEALTH
+2 FOR WHICH A RIGHT OF SUBROGATION EXISTS UNDER §§ 15–120 AND 15–121.1 OF
+3 THE HEALTH – GENERAL ARTICLE;
+4 (III) AN EMPLOYEE BENEFIT PLAN SUBJECT TO THE FEDERAL
+5 EMPLOYEE RETIREMENT INCOME SECURITY ACT OF 1974; OR
+6 (IV) A HEALTH INSURANCE CONTRACT.
+7 (6) “PAYING AGENT” MEANS THE PERSON OR ENTITY RESPONSIBLE
+8 FOR DISTRIBUTION OF THE PERSONAL INJURY AWARD AND INCLUDES:
+9 (I) THE AWARD RECIPIENT’S ATTORNEY, IF AN ATTORNEY
+10 REPRESENTED THE AWARD RECIPIENT FOR THE SICKNESS, ACCIDENT, INJURY, OR
+11 DEATH THAT RESULTED IN THE PERSONAL INJURY AWARD; OR
+12 (II) IF THE AWARD RECIPIENT WAS NOT REPRESENTED BY AN
+13 ATTORNEY, THE EMPLOYER, PROPERTY AND CASUALTY INSURER, OR
+14 SELF–INSURER WHO IS TO PAY THE PERSONAL INJURY AWARD TO THE AWARD
+15 RECIPIENT.
+16 (7) “PERSONAL INJURY AWARD” MEANS A LUMP SUM PAYABLE TO AN
+17 AWARD RECIPIENT FOR SICKNESS, ACCIDENT, INJURY, OR DEATH OF ANY PERSON,
+18 INCLUDING COMPENSATION FOR LOSS OF FUTURE EARNINGS, AND INCLUDES
+19 MONEY PAID ON ACCOUNT OF ANY CLAIM, SUIT, JUDGMENT, ARBITRATION,
+20 SETTLEMENT, COMPROMISE, INSURANCE, ANNUITY, BENEFIT, COMPENSATION, OR
+21 RELIEF.
+22 (B) THIS SECTION DOES NOT APPLY TO A PERSONAL INJURY AWARD DUE TO
+23 AN AWARD RECIPIENT WHO IS UNDER THE AGE OF 12 YEARS.
+24 (C) (1) CHILD SUPPORT ARREARS SHALL BE A LIEN BY OPERATION OF
+25 LAW AGAINST THE NET RECOVERY OF A PERSONAL INJURY AWARD UP TO THE
+26 MAXIMUM LIEN AMOUNT.
+27 (2) THE LIEN IS PERFECTED ON:
+28 (I) THE ADMINISTRATION’S ENTRY OF THE LIEN INFORMATION
+29 INTO AN AUTOMATED NETWORK OR DATA MATCH PROCESS COMMONLY USED IN THE
+30 INSURANCE INDUSTRY; OR
+31 (II) WRITTEN NOTICE TO THE PAYING AGENT.
+14 HOUSE BILL 218
+1 (D) (1) IF THE AWARD RECIPIENT OWES CHILD SUPPORT ARREARS, ON
+2 NOTICE BY THE ADMINISTRATION, THE PAYING AGENT SHALL:
+3 (I) WITHHOLD THE LESSER OF THE AMOUNT OF THE ARREARS
+4 OR THE MAXIMUM LIEN AMOUNT AND PROMPTLY FORWARD THE WITHHELD AMOUNT
+5 TO THE ADMINISTRATION TO BE APPLIED TO THE AWARD RECIPIENT’S SUPPORT
+6 ARREARAGE;
+7 (II) PROMPTLY PAY ANY REMAINING PORTION OF THE NET
+8 RECOVERY NOT SUBJECT TO OTHER LIENS TO THE AWARD RECIPIENT; AND
+9 (III) SEND A NOTICE TO THE ADMINISTRATION AND THE AWARD
+10 RECIPIENT OF:
+11 1. THE AMOUNT PAID TO THE ADMINISTRATION; AND
+12 2. THE AWARD RECIPIENT’S RIGHT TO CHALLENGE THE
+13 WITHHOLDING UNDER THIS SECTION.
+14 (2) THE AWARD RECIPIENT’S EXERCISE OF THE RIGHT TO
+15 CHALLENGE THE WITHHOLDING DOES NOT RELIEVE THE PAYING AGENT OF THE
+16 DUTY TO FORWARD PAYMENT TO THE ADMINISTRATION.
+17 (3) THE PAYING AGENT MAY NOT CHARGE THE ADMINISTRATION A
+18 FEE FOR ITS ACTIONS UNDER THIS SECTION.
+19 (4) NOTHING IN THIS SECTION SHALL PROVIDE A BASIS FOR A PAYING
+20 AGENT TO DELAY THE PAYMENT OF THE REMAINING PORTION OF THE NET
+21 RECOVERY TO THE AWARD RECIPIENT.
+22 (E) (1) (I) UPON RECEIPT OF THE FUNDS FROM THE PAYING AGENT,
+23 THE ADMINISTRATION SHALL APPLY THE FUNDS TO THE OBLIGOR’S ARREARS.
+24 (II) IF THE OBLIGOR HAS MORE THAN ONE CHILD SUPPORT
+25 CASE WITH ARREARS, THE ADMINISTRATION SHALL ALLOCATE THE AMOUNT
+26 RECEIVED AMONG ONE OR MORE OF THE OBLIGOR’S CASES AS DETERMINED
+27 APPROPRIATE BY THE ADMINISTRATION.
+28 (2) IF THE ADMINISTRATION DETERMINES THAT THE AMOUNT IT
+29 RECEIVED EXCEEDS THE AMOUNT OF THE AWARD RECIPIENT’S ARREARS, THE
+30 ADMINISTRATION SHALL PAY THE EXCESS AMOUNT TO THE OBLIGOR.
+HOUSE BILL 218 15
+1 (F) (1) AN AWARD RECIPIENT MAY ASK THE ADMINISTRATION TO
+2 INVESTIGATE THE WITHHOLDING BY FILING A WRITTEN REQUEST FOR
+3 INVESTIGATION WITH THE ADMINISTRATION SETTING FORTH THE REASONS FOR
+4 THE CHALLENGE.
+5 (2) THE REQUEST MAY BE BASED SOLELY ON THE FOLLOWING:
+6 (I) THERE IS NO ARREARAGE;
+7 (II) THE AMOUNT OF THE ARREARAGE IS INCORRECT; OR
+8 (III) THE AWARD RECIPIENT IS NOT THE INDIVIDUAL WHO OWES
+9 THE ARREARS.
+10 (3) (I) THE REQUEST FOR INVESTIGATION MUST BE RECEIVED BY
+11 THE ADMINISTRATION WITHIN 30 DAYS AFTER THE INTERCEPT DATE.
+12 (II) IF A TIMELY REQUEST FOR INVESTIGATION IS NOT
+13 RECEIVED BY THE ADMINISTRATION, THE ADMINISTRATION MAY RETAIN THE
+14 INTERCEPTED FUNDS FOR APPLICATION TO THE AWARD RECIPIENT’S ARREARS.
+15 (4) AN AWARD RECIPIENT MAY WITHDRAW A REQUEST FOR
+16 INVESTIGATION BY SUBMITTING A NOTICE OF THE WITHDRAWAL TO THE
+17 ADMINISTRATION.
+18 (G) (1) ON RECEIPT OF A REQUEST FOR INVESTIGATION FROM THE
+19 AWARD RECIPIENT, THE ADMINISTRATION SHALL CONDUCT AN INVESTIGATION.
+20 (2) (I) IF, AFTER THE INVESTIGATION, THE ADMINISTRATION
+21 FINDS THAT THERE IS NO ARREARAGE, OR THAT THE AWARD RECIPIENT IS NOT THE
+22 INDIVIDUAL WHO OWES THE ARREARS, THE ADMINISTRATION SHALL REFUND THE
+23 FULL AMOUNT OF THE FUNDS RECEIVED FROM THE PAYING AGENT TO THE AWARD
+24 RECIPIENT.
+25 (II) IF, AFTER THE INVESTIGATION, THE ADMINISTRATION
+26 FINDS THAT THERE IS AN ARREARAGE, BUT IT IS LESS THAN THE AMOUNT RECEIVED
+27 FROM THE PAYING AGENT, THE ADMINISTRATION SHALL CORRECT ITS RECORDS
+28 AND RELEASE THE EXCESS AMOUNT TO THE AWARD RECIPIENT.
+29 (III) IF, AFTER THE INVESTIGATION, THE ADMINISTRATION
+30 FINDS THAT THE AWARD RECIPIENT OWES ARREARS IN AN AMOUNT EQUAL TO OR
+31 GREATER THAN THE AMOUNT RECEIVED FROM THE PAYING AGENT, THE
+16 HOUSE BILL 218
+1 ADMINISTRATION SHALL RETAIN THE INTERCEPTED FUNDS FOR APPLICATION TO
+2 THE AWARD RECIPIENT’S ARREARS.
+3 (3) (I) ON COMPLETION OF THE INVESTIGATION, THE
+4 ADMINISTRATION SHALL SEND THE AWARD RECIPIENT A NOTICE BY FIRST–CLASS
+5 MAIL OF THE OUTCOME OF THE INVESTIGATION.
+6 (II) THE NOTICE SHALL INFORM THE AWARD RECIPIENT OF THE
+7 RIGHT TO APPEAL THE ADMINISTRATION’S DECISION TO THE OFFICE OF
+8 ADMINISTRATIVE HEARINGS WITHIN 30 DAYS AFTER THE DATE OF THE NOTICE.
+9 (H) (1) IF AN AWARD RECIPIENT WHO TIMELY REQUESTED AN
+10 INVESTIGATION DISAGREES WITH THE RESULTS OF THE INVESTIGATION, THE
+11 AWARD RECIPIENT MAY APPEAL TO THE OFFICE OF ADMINISTRATIVE HEARINGS.
+12 (2) AN APPEAL TO THE OFFICE OF ADMINISTRATIVE HEARINGS MAY
+13 BE BASED SOLELY ON THE FOLLOWING:
+14 (I) THERE IS NO ARREARAGE;
+15 (II) THE AMOUNT OF THE ARREARAGE IS INCORRECT; OR
+16 (III) THE AWARD RECIPIENT IS NOT THE INDIVIDUAL WHO OWES
+17 THE ARREARS.
+18 (3) AN APPEAL TO THE OFFICE OF ADMINISTRATIVE HEARINGS
+19 AUTHORIZED UNDER THIS SECTION SHALL BE CONDUCTED IN ACCORDANCE WITH
+20 TITLE 10, SUBTITLE 2 OF THE STATE GOVERNMENT ARTICLE.
+21 (4) AN AWARD RECIPIENT MAY WITHDRAW AN APPEAL REQUEST BY
+22 SUBMITTING A NOTICE OF THE WITHDRAWAL TO THE OFFICE OF ADMINISTRATIVE
+23 HEARINGS BEFORE THE HEARING DATE.
+24 (5) (I) AFTER THE COMPLETION OF AN APPEAL, IF THE OFFICE OF
+25 ADMINISTRATIVE HEARINGS FINDS THAT THERE IS NO ARREARAGE, OR THAT THE
+26 AWARD RECIPIENT IS NOT THE INDIVIDUAL WHO OWES THE ARREARS, THE
+27 ADMINISTRATION SHALL REFUND THE FULL AMOUNT OF THE FUNDS RECEIVED
+28 FROM THE PAYING AGENT TO THE AWARD RECIPIENT.
+29 (II) AFTER THE COMPLETION OF AN APPEAL, IF THE OFFICE OF
+30 ADMINISTRATIVE HEARINGS FINDS THAT THERE IS AN ARREARAGE BUT IT IS LESS
+31 THAN THE AMOUNT RECEIVED FROM THE PAYING AGENT, THE ADMINISTRATION
+HOUSE BILL 218 17
+1 SHALL CORRECT ITS RECORDS AND RELEASE THE EXCESS AMOUNT TO THE AWARD
+2 RECIPIENT.
+3 (III) AFTER THE COMPLETION OF AN APPEAL, IF THE OFFICE OF
+4 ADMINISTRATIVE HEARINGS FINDS THAT THE AWARD RECIPIENT OWES ARREARS IN
+5 AN AMOUNT EQUAL TO OR GREATER THAN THE AMOUNT RECEIVED FROM THE
+6 PAYING AGENT, THE ADMINISTRATION SHALL RETAIN THE INTERCEPTED FUNDS
+7 FOR APPLICATION TO THE AWARD RECIPIENT’S ARREARS.
+8 (6) IF THE AWARD RECIPIENT DOES NOT FILE A TIMELY APPEAL TO
+9 THE OFFICE OF ADMINISTRATIVE HEARINGS, THE ADMINISTRATION MAY RETAIN
+10 THE FULL PAYMENT FROM THE PAYING AGENT FOR APPLICATION TO THE AWARD
+11 RECIPIENT’S ARREARS.
+12 (I) (1) THE ADMINISTRATION MAY UTILIZE THE PROCEDURES
+13 ESTABLISHED IN THIS SECTION EXCLUSIVELY TO COLLECT DELINQUENT CHILD
+14 SUPPORT.
+15 (2) THIS SECTION MAY NOT BE CONSTRUED TO LIMIT OR PROHIBIT
+16 THE ADMINISTRATION FROM COLLECTING DELINQUENT CHILD SUPPORT IN ANY
+17 OTHER MANNER AUTHORIZED BY LAW.
+18 (J) (1) A PAYING AGENT WHO, IN GOOD FAITH, MAKES A DISTRIBUTION
+19 IN ACCORDANCE WITH THIS SECTION SHALL BE IMMUNE FROM ANY CIVIL,
+20 CRIMINAL, OR ADMINISTRATIVE PENALTIES FOR MAKING AN ERRONEOUS
+21 DISTRIBUTION TO THE ADMINISTRATION.
+22 (2) NOTHING IN THIS SECTION SHALL GIVE RISE TO A CLAIM OR
+23 CAUSE OF ACTION AGAINST A PAYING AGENT BY ANY PERSON WHO CLAIMS TO BE
+24 THE INTENDED OBLIGEE OF THE OUTSTANDING LIEN FOR SUPPORT.
+25 (K) THE SECRETARY OF HUMAN SERVICES MAY ADOPT REGULATIONS TO
+26 CARRY OUT THIS SECTION.
+27 10–122.
+28 (a) The amount of the earnings withholding shall:
+29 (1) be enough to pay the CURRENT AND ONGOING support and any
+30 arrearage included in the payments required by the support order; and
+31 (2) include any arrearage accrued since the support order.
+18 HOUSE BILL 218
+1 (b) (1) (i) When arrearages under subsection (a)(2) of this section are part
+2 of an earnings withholding order or earnings withholding notice, the total arrearage
+3 withheld shall be in one lump–sum payment or apportioned over a period of time.
+4 (ii) The amount of the arrearage withheld under subparagraph (i) of
+5 this paragraph shall be determined by the tribunal or, in a case in which the
+6 Administration is providing support services, by the Administration.
+7 (2) The amount of arrears under subsection (a)(2) of this section
+8 apportioned to each payment shall be at least $1 but not more than 25% of the current
+9 support payment.
+10 (3) IF ARREARS REMAIN DUE AND OWING AFTER ALL CHILDREN WHO
+11 ARE THE SUBJECT OF A SUPPORT ORDER HAVE BECOME EMANCIPATED, EARNINGS
+12 WITHHOLDING SHALL CONTINUE AT THE RATE ESTABLISHED BEFORE THE
+13 EMANCIPATION, WITH THE FULL AMOUNT WITHHELD TO BE APPLIED TO THE
+14 EXISTING ARREARAGE UNTIL THE ARREARS ARE PAID IN FULL OR UNTIL A COURT
+15 MODIFIES THE REPAYMENT AMOUNT.
+16 (c) If there is more than one earnings withholding order or earnings withholding
+17 notice against a single obligor, the Administration shall allocate amounts available for
+18 withholding, giving priority to current support, up to the limits imposed by the federal
+19 Consumer Credit Protection Act.
+20 10–139.
+21 (A) IN THIS SECTION, “DATE OF EMPLOYMENT” MEANS THE DATE ON WHICH
+22 AN INDEPENDENT CONTRACTOR COMMENCES PROVIDING SERVICES FOR AN
+23 EMPLOYER.
+24 (B) SUBJECT TO THE PROVISIONS OF SUBSECTION (C) OF THIS SECTION,
+25 WITHIN 20 DAYS AFTER AN INDEPENDENT CONTRACTOR BEGINS EMPLOYMENT, THE
+26 INDEPENDENT CONTRACTOR’S EMPLOYER SHALL SUBMIT TO THE
+27 ADMINISTRATION:
+28 (1) THE SOCIAL SECURITY NUMBER OF THE INDEPENDENT
+29 CONTRACTOR, OR IF THE INDEPENDENT CONTRACTOR DOES NOT HAVE A SOCIAL
+30 SECURITY NUMBER, THE INDIVIDUAL TAX IDENTIFICATION NUMBER OF THE
+31 INDEPENDENT CONTRACTOR;
+32 (2) THE NAME OF THE INDEPENDENT CONTRACTOR;
+33 (3) THE ADDRESS OF THE INDEPENDENT CONTRACTOR;
+34 (4) THE DATE OF EMPLOYMENT;
+HOUSE BILL 218 19
+1 (5) THE EMPLOYER’S NAME AND ADDRESS;
+2 (6) THE INDEPENDENT CONTRACTOR’S RATE OF COMPENSATION OR
+3 EARNINGS;
+4 (7) A STATEMENT INDICATING WHETHER THE INDEPENDENT
+5 CONTRACTOR HAS HEALTH INSURANCE PROVIDED BY THE EMPLOYER; AND
+6 (8) THE FEDERAL EMPLOYER IDENTIFICATION NUMBER OF THE
+7 EMPLOYER.
+8 (C) (1) THE EMPLOYER SHALL REPORT INFORMATION REQUIRED UNDER
+9 SUBSECTION (B) OF THIS SECTION:
+10 (I) BY MAIL;
+11 (II) MAGNETICALLY OR ELECTRONICALLY; OR
+12 (III) BY OTHER MEANS AS DETERMINED BY THE
+13 ADMINISTRATION.
+14 (2) IF AN EMPLOYER CHOOSES TO TRANSMIT DATA MAGNETICALLY
+15 OR ELECTRONICALLY AT A RATE OF TWICE PER MONTH, THE REPORTS SHALL BE
+16 SUBMITTED NOT LESS THAN 12 DAYS OR MORE THAN 16 DAYS APART.
+17 (D) (1) AN EMPLOYER THAT FAILS TO REPORT AS REQUIRED SHALL BE:
+18 (I) GIVEN A WRITTEN WARNING FOR THE FIRST VIOLATION;
+19 AND
+20 (II) SUBJECT TO A CIVIL PENALTY OF $20 FOR EACH MONTH IN
+21 WHICH A SUBSEQUENT VIOLATION OCCURS, OR $500 IF THE FAILURE IS THE RESULT
+22 OF A CONSPIRACY BETWEEN THE EMPLOYER AND THE INDEPENDENT CONTRACTOR
+23 TO NOT SUPPLY THE REQUIRED REPORT OR TO SUPPLY A FALSE OR INCOMPLETE
+24 REPORT, UNLESS THE ADMINISTRATION WAIVES THE PENALTY FOR CAUSE.
+25 (2) ALL VIOLATIONS BY THE SAME EMPLOYING UNIT OCCURRING IN A
+26 SINGLE MONTH SHALL BE CONSIDERED A SINGLE VIOLATION.
+27 (E) (1) AN ASSESSMENT UNDER THIS SECTION IS FINAL UNLESS, WITHIN
+28 15 DAYS AFTER THE MAILING OF THE ASSESSMENT, THE EMPLOYER APPLIES TO THE
+29 ADMINISTRATION FOR A HEARING.
+20 HOUSE BILL 218
+1 (2) THE ADMINISTRATION MAY FORWARD THE APPLICATION TO THE
+2 OFFICE OF ADMINISTRATIVE HEARINGS FOR ADJUDICATION.
+3 (F) AN EMPLOYER THAT IN GOOD FAITH REPORTS INFORMATION TO THE
+4 ADMINISTRATION IN ACCORDANCE WITH THIS SECTION IS NOT LIABLE FOR THE
+5 DISCLOSURE UNDER STATE LAW.
+6 (G) THE SECRETARY OF HUMAN SERVICES MAY ADOPT RULES AND
+7 REGULATIONS TO IMPLEMENT THIS SECTION.
+8 12–104.
+9 (a) [The] EXCEPT AS PROVIDED IN SUBSECTION (D) OF THIS SECTION, THE
+10 court may modify a child support award subsequent to the filing of a [motion] PETITION
+11 for modification and upon a showing of a material change of circumstance.
+12 (b) The court may not retroactively modify a child support award prior to the date
+13 of the filing of the [motion] PETITION for modification.
+14 (c) If a party becomes incarcerated, the court may determine that a material
+15 change of circumstance warranting a modification of child support has occurred, provided
+16 that the party’s ability to pay child support is sufficiently reduced due to incarceration.
+17 (D) THE COURT MAY MODIFY THE AMOUNT TO BE PAID TOWARD AN
+18 ARREARAGE AT ANY TIME WITHOUT A SHOWING OF A MATERIAL CHANGE OF
+19 CIRCUMSTANCE.
+20 12–104.2.
+21 THE COURT SHALL TERMINATE A CHILD SUPPORT ORDER THAT WAS
+22 PREVIOUSLY ESTABLISHED OR ASSIGNED FOR A CHILD RECEIVING A FOSTER CARE
+23 MAINTENANCE PAYMENT, WITHOUT A SHOWING OF A MATERIAL CHANGE OF
+24 CIRCUMSTANCE, ON THE FILING FOR A TERMINATION BY THE CHILD SUPPORT
+25 ADMINISTRATION, LOCAL OFFICE OF CHILD SUPPORT, OR LOCAL DEPARTMENT,
+26 AFTER THE SOCIAL SERVICES ADMINISTRATION, OR ITS DESIGNEE, DETERMINES
+27 THAT THE ORDER IS NO LONGER APPROPRIATE.
+28 12–201.
+29 (c) (1) “Adjusted actual income” means actual income minus:
+30 [(1)] (I) preexisting reasonable child support obligations actually paid;
+31 [and
+HOUSE BILL 218 21
+1 (2)] (II) except as provided in § 12–204(a)(2) of this subtitle, alimony or
+2 maintenance obligations actually paid; AND
+3 (III) SUBJECT TO PARAGRAPHS (2) AND (3) OF THIS
+4 SUBSECTION, A DEDUCTION FOR SUPPORT FOR EACH CHILD LIVING IN THE
+5 PARENT’S HOME, TO WHOM THE PARENT OWES A LEGAL DUTY OF SUPPORT,
+6 PROVIDED:
+7 1. THE CHILD SPENDS AT LEAST 92 OVERNIGHTS PER
+8 YEAR IN THE PARENT’S HOME; AND
+9 2. THE PARENT IS NOT OTHERWISE OBLIGATED TO PAY
+10 CHILD SUPPORT FOR THE CHILD IN ACCORDANCE WITH A COURT ORDER.
+11 (2) FOR PURPOSES OF DETERMINING THE AMOUNT OF THE
+12 DEDUCTION UNDER PARAGRAPH (1)(III) OF THIS SUBSECTION:
+13 (I) THE BASIC CHILD SUPPORT OBLIGATION FOR EACH
+14 ADDITIONAL ELIGIBLE CHILD IN THE PARENT’S HOME SHALL BE DETERMINED IN
+15 ACCORDANCE WITH § 12–204 OF THIS SUBTITLE, USING ONLY THE ACTUAL INCOME
+16 OF THE PARENT ENTITLED TO THE DEDUCTION; AND
+17 (II) THE AMOUNT DETERMINED UNDER ITEM (I) OF THIS
+18 PARAGRAPH SHALL BE MULTIPLIED BY 0.75.
+19 (3) THE COURT SHALL DECLINE TO AWARD A DEDUCTION UNDER
+20 PARAGRAPH (1)(III) OF THIS SUBSECTION IF THE COURT FINDS, AFTER
+21 CONSIDERING THE EVIDENCE AND THE BEST INTEREST OF THE CHILD FOR WHOM
+22 SUPPORT IS BEING DETERMINED, THAT THE APPLICATION OF THE DEDUCTION
+23 WOULD BE UNJUST OR INAPPROPRIATE.
+24 (n) “Self–support reserve” means the adjustment to a basic child support
+25 obligation ensuring that a child support obligor maintains a minimum amount of monthly
+26 income, after payment of child support, federal and state income taxes, and Federal
+27 Insurance Contribution Act taxes, of at least 110% of the 2019 federal poverty [level]
+28 GUIDELINES for an individual ($1,145).
+29 12–202.
+30 (a) (1) Subject to the provisions of paragraph (2) of this subsection and
+31 subsection (b) of this section, in any proceeding to establish or modify child support,
+32 whether pendente lite or permanent, the court shall use the child support guidelines set
+33 forth in this subtitle.
+22 HOUSE BILL 218
+1 (2) (i) There is a rebuttable presumption that the amount of child
+2 support which would result from the application of the child support guidelines set forth in
+3 this subtitle is the correct amount of child support to be awarded.
+4 (ii) The presumption may be rebutted by evidence that the
+5 application of the guidelines would be unjust or inappropriate in a particular case.
+6 (iii) In determining whether the application of the guidelines would
+7 be unjust or inappropriate in a particular case, the court may consider:
+8 1. the terms of any existing separation or property
+9 settlement agreement or court order, including:
+10 A. any provisions for payment of mortgages [or], marital
+11 debts, [payment of] OR college education expenses[,];
+12 B. the terms of any use and possession order or right to
+13 occupy the family home under an agreement[,];
+14 C. any direct payments made for the benefit of the children
+15 required by THE agreement or order[,]; or
+16 D. any other financial considerations set out in an existing
+17 separation or property settlement agreement or court order; AND
+18 2. [the presence in the household of either parent of other
+19 children to whom that parent owes a duty of support and the expenses for whom that parent
+20 is directly contributing; and
+21 3.] whether an obligor’s monthly child support obligation
+22 would leave the obligor with a monthly actual income below 110% of the 2019 federal
+23 poverty [level] GUIDELINES for an individual (LESS THAN $1,145).
+24 (iv) [The presumption may not be rebutted solely on the basis of
+25 evidence of the presence in the household of either parent of other children to whom that
+26 parent owes a duty of support and the expenses for whom that parent is directly
+27 contributing.
+28 (v)] 1. If the court determines that the application of the
+29 guidelines would be unjust or inappropriate in a particular case, the court shall make a
+30 written finding or specific finding on the record stating the reasons for departing from the
+31 guidelines.
+32 2. The court’s finding shall state:
+HOUSE BILL 218 23
+1 A. the amount of child support that would have been required
+2 under the guidelines;
+3 B. how the order varies from the guidelines;
+4 C. how the finding serves the best interests of the child WHO
+5 IS THE SUBJECT OF THE ORDER; and
+6 D. in cases in which items of value are conveyed instead of a
+7 portion of the support presumed under the guidelines, the estimated value of the items
+8 conveyed.
+9 12–204.
+10 (a) (1) The basic child support obligation shall be determined in accordance
+11 with the schedule of basic child support obligations in subsection (e) of this section. The
+12 basic child support obligation shall be divided between the parents in proportion to their
+13 adjusted actual incomes.
+14 (2) (i) If one or both parents have made a request for alimony or
+15 maintenance in the proceeding in which a child support award is sought, the court shall
+16 decide the issue and amount of alimony or maintenance before determining the child
+17 support obligation under these guidelines.
+18 (ii) If the court awards alimony or maintenance, the amount of
+19 alimony or maintenance awarded shall be considered actual income for the recipient of the
+20 alimony or maintenance and shall be subtracted from the income of the payor of the alimony
+21 or maintenance under [§ 12–201(c)(2)] § 12–201(C)(1)(II) of this subtitle before the court
+22 determines the amount of a child support award.
+23 (3) THE AMOUNT OF THE DEDUCTION FOR THE SUPPORT OF
+24 ADDITIONAL CHILDREN LIVING IN A PARENT’S HOME UNDER §
+25 12–201(C)(1)(III) OF THIS SUBTITLE SHALL BE SUBTRACTED FROM THE PARENT’S
+26 ACTUAL INCOME BEFORE THE COURT DETERMINES THE AMOUNT OF A CHILD
+27 SUPPORT AWARD.
+28 Article – Transportation
+29 16–203.
+30 (a) In this section, “Child Support Administration” means the Child Support
+31 Administration of the Department of Human Services.
+32 (b) On notification by the Child Support Administration in accordance with §
+33 10–119 of the Family Law Article that an obligor WITH A NONCOMMERCIAL DRIVER’S
+34 LICENSE is 60 days or more out of compliance with the most recent CHILD SUPPORT order
+24 HOUSE BILL 218
+1 [of the court in making child support payments], OR AN OBLIGOR WITH A COMMERCIAL
+2 DRIVER’S LICENSE IS 120 DAYS OR MORE OUT OF COMPLIANCE WITH THE MOST
+3 RECENT CHILD SUPPORT ORDER, the Administration:
+4 (1) Shall suspend an obligor’s license or privilege to drive in the State; and
+5 (2) May issue a work–restricted license or work–restricted privilege to
+6 drive.
+7 (c) (1) Prior to the suspension of a license or the privilege to drive in the State
+8 and the issuance of a work–restricted license or work–restricted privilege to drive under
+9 subsection (b) of this section, the Administration shall send written notice of the proposed
+10 action to the obligor, including notice of the obligor’s right to contest the accuracy of the
+11 information.
+12 (2) Any contest under this subsection shall be limited to whether the
+13 Administration has mistaken the identity of the obligor or the individual whose license or
+14 privilege to drive has been suspended.
+15 (d) (1) An obligor may appeal a decision of the Administration to suspend the
+16 obligor’s license or privilege to drive.
+17 (2) At a hearing under this subsection, the issue shall be limited to whether
+18 the Administration has mistaken the identity of the obligor or the individual whose license
+19 or privilege to drive has been suspended.
+20 (e) The Administration shall reinstate an obligor’s license or privilege to drive in
+21 the State if:
+22 (1) The Administration receives a court order to reinstate the license or
+23 privilege to drive; or
+24 (2) The Child Support Administration notifies the Administration that:
+25 (i) The individual whose license or privilege to drive was suspended
+26 is not [in arrears in making child support payments] 60 DAYS OUT OF COMPLIANCE WITH
+27 THE MOST RECENT CHILD SUPPORT ORDER IF THE INDIVIDUAL HAS A
+28 NONCOMMERCIAL DRIVER’S LICENSE, OR 120 DAYS OUT OF COMPLIANCE WITH THE
+29 MOST RECENT CHILD SUPPORT ORDER IF THE INDIVIDUAL HAS A COMMERCIAL
+30 DRIVER’S LICENSE;
+31 (ii) The obligor has paid the support arrearage in full;
+32 (iii) The obligor has demonstrated good faith by paying the ordered
+33 amount of support for 6 consecutive months;
+HOUSE BILL 218 25
+1 (iv) The obligor is a participant in full compliance in an employment
+2 program approved by the Child Support Administration; or
+3 (v) One of the grounds under § 10–119(c)(1)(i) of the Family Law
+4 Article exists.
+5 (f) The Secretary of Transportation, in cooperation with the Secretary of Human
+6 Services and the Office of Administrative Hearings, shall adopt regulations to implement
+7 this section.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 October 1, 2026.
+[DELETED: :CA      5 ( C A F F h c t o s s u a c o a t C S A s o b o a c r f c m p u c p p t p b a t S E S B t c a m c i f l a e t c s a c a c p r t e w r a i c e t s c t t A u c c a p r t t m o a c s a r a c t t a c s o t w p p u c c a p r t t d r B  A]
+[DELETED:  H   S  A  ( B  A  S  A  ( B  A  S  1 A ( B  A  S  A  (  S T A 5  A o w 3    a]7O rd. A() O,N I L CS W T DE  A  II.() TA,H D M T AN W AE T]
+[DELETED: H 3 O F A C R F C M() TSHH E O U E S A R A 1  ( I  ( “ o  ( “   ( a    ( a    ( a    ( S    ( w    ( u ad   ( a c o f p i c w t oESA;  t ( :  ()F A E F S P B T C I T C O T ERS T OS   ()ITSF19O   (EE M A I W I E B A() [ ( “ or .]
+[DELETED:  H    ( “s     ay)   ()IARS B T T E R O E T R O 19 () “I”:NR  (RSS ; (  OSF1[]( () “ s e o m 1 o t f t i r   ( a   ( a[]( () ( “   ( “[]( () “ c[]( () “   ( c   ( s   ( s   ( s[]( () “ s]
+[DELETED: H 5   ( t   ( a 1  A u bt  3 ][]D tt   TO 1  ( ( I b    ( t a    ( r   ( I d sn     re)   )IA   14  1  ( ( I   ( “   )“F”§ CN H T M S I 1SGA. T O R ( “FR     T O R91SGA. ( “S”§9G     T O RGA.]
+[DELETED:  H  ( () “SPE     T O R91SGA.  () “S”:IPE    1 E     T O R91SGA;   2  O S W OR A    T O RE 91SGA;   3  S W F LE A    T O R91SGA. []( () “ t []( ()  l o l h t m s i § 9  ( T i   ( t A h a a a o s u § 5   ( t e  ( T   ( t t   ( t   ( t  ( I b   ( t S Ll ]
+[DELETED: H 7   ( t S L a G Cl A h r c f t C St A o t o c s a   ( S Sl  w   ( t d   ( o Sl A a  ( I a p a a v l f r],F S WG O I ANA    S f W o a s e f b a v l o le, t v l o le, W LE O     ( t v l o lS W LE O F ;   ( t S L a G Cl A h r c f t C St A o t o c s a   ( S l r t v l o leE    a   ( t d   ( o i o t p t v l o leE    t A  ( ( T Ayo te v l o l S],E   ]
+[DELETED:  H     ( w t    ( p   ( T Aya a v l o l S], LE A F C O s h i    ( a    ( a i r u § 1 o t C P    ( a P  ( ( O r o a n f t Ayor v l o] l  E  o   ( I w   ( I t o a t t a a h b t A    ( p    ( r    ( p p t t o a p r b t A  ( T a  ( A v l o lS W LE O   i 1  ( ( I]
+[DELETED: H 9   ( “ A   ( “ V A m t M V A  ( ( S t t p o s ( o t s t A m n t M V A o a o w a n l w 6 d o o o c o a o a c o    ( t §    ( t s   ( U n b t A u t s t M    ( s s t o l o p t d t S    ( m t  ( ( B u    ( s w n o t p a t t o i g     1 t i r t r a i i     2RS 2    4(R    1       s o t o l o p t d w]
+[DELETED:  H      3.   o t o l o p t d]4 w     A d w     B i    ( g t o a r o t r a i   ( ( U A p    ( T     1 s t     2 g     3 c    ( U n O   ( ( A w    ( A O o A H w d t n t t o o t r   ( I a t i o a t t O o A H s t   ( T t    ( t A r a a w t o r o]
+[DELETED: H 1    ( t  ( ( I A f p o e o   ( T A m r t t M V A t    ( f a o w i e i a c w a e    ( i s  ( T S o H S i c w t S o T a t O o A H s a r t i 1  ( ( E a p i p ( a ( o t s a l    ( r n    ( r   ( T    ( r t t    ( r t a p S S n o t a   ( E h o b a t S E S B    ( r]
+[DELETED:  H      1 d   oTSI[]       T A D N H A OR    a     2. p a]3 D ASI T A D N H A O E N O ATIN, A D UR TY  O E N O N A DSITR  ;    ( rd t a S S nM I an p() ( N ( “AT  ( “I DE M T D T T A ( “MT  N R I S T E S A I  I  O R1())CA. ( “NY YSSS S T Y ,D :  () MSPA,42U.T E E A CT   5;]
+[DELETED: H 1  () MDIA A E E     §101 E  E R–GA;  ()IA E B P S T T FRISA1; E N E C    () .VA ( “PT   () ’T A RTS AY I A AS T Y ,D   ()IIY T ER P A C IR O,,FI W I T P T P I A T T A ( “PD S T Y N,, C F L O F ES A I P O A O A CM ST JT AN,,T E E Y T N ,,,,() H  2.() ( H A T N R O A P I A U T T ( T:  () AT DNSY   () .IW]
+[DELETED:  H () ( IFS  DN ,:  ()W DTS  ()IP P A R P O T NT   () IS D   1 A; DN    2 TS ( T A RTS E O T R T W P A O D. ( T D (  T D T P O T R P O T N() ( () UIPT DRSS’.  () IF T O H M T O C S W AS T D S A T A A O O M O T ORS C A D D. ( I T D D T T A I E T A O T A RTS AS T.]
+[DELETED: H 1() ( AN A R M A T D T T W B F A W R F W T D S F T R F ( T:  () ;T  () ;ITT   ()IT ( () H D  E30.  () IF A T R F I I N B T DN T D M R T,TS. (  A R M W A R F B S A N O T W T T.() ( N R O A R F I F TT  DA. ( () I,,F A T IN T DE S  D  () I,,IF A T IN T DE T  D  () I,,IF A T IN T D T T A R F T P AT T]
+[DELETED:  H TS. ( () ON C O T IN TTCN  () IH T A T DNS D T T F O’H30. E  () ( F A A R W T R A D W T R O T IN T F D EAH. ( AOA F D E  () ;T  () ;ITT   ()IT ( AOA A T T F O D E1,S2SGA.  U   T O R (  F D. ( () A,FL  FH EE  R I N T I W O T AS T S R T F A O T F R  () A,IFL  F E AT  D]
+[DELETED: H 1  () A,IFL  F E A E T O G T T A R F TT T D S R ITS. (  F D ES  DAH,TS.() ( TH D M U T P I T S E T C D C (  D F C D C S I A() ( A, O H  A W T S S B I F A CLL O A P F M A E DN. (  I T S S G R T A C O() TSHH E U E 1  ( T   ( b e t p t  s a a A O a   ( i]
+[DELETED:  H   ( ( ( W o a e w o o e w n t t a w    ( T t p s b d b t t o i a c i w t A   ( T a o a u s ( o t s a s ( D  S C A T R E B TN W T F A W T B A T T  ( I n w C () I,“NN DT  I C C P S F A() S()U C N  T 0 CRS E S S T T: ( S O E N O T IR  O,ITI NR T N A D U O T ( ; ( ; ( ;]
+[DELETED: H 1 ( ’;RS ( RS ( S I W T IR  ( F E I N O T() ( H B ):  () ;B  () ;IMY   ()IB O M A D B T. ( H     216.() ( A:N  () G A W W F T F VN  () $IS  S   $T  DA. ( () ( ANS 5T .]
+[DELETED:  H  ( T DAH. D E() N I A W T S I N L F T T.() TSHH E O U E M A R A  1  ( Te]E()X D NT c mn f  ( T o mn f  ( I a p b i t c m d t a m c t() H C M M T A T B P T A A A T W A S O A M C O C S T A C S O T W PT W A S O A M C OE O T F F A T B T H UC,,N L O O C ST O L DT O E DN E SA, 1  (  “   () p] ( a]
+[DELETED: H 2   () e ( md  () ()(IS T P  A  O TN A D F S F E C L I TTS HE T W T P O A L D O ST,   1 9 C S A L  O PTSE ;   2  (  P O D T A O T II ():  ()T B C S O F ETS   E 14N   () (IT A D U I I O T (  C S D T A A D U II O T S I T C FS A() I B DD T T A O T D   ( “ r m t a t a b c s o i a p o c s f a s i t a F I C A t o a l 1 o t 2 f p l   . 1  ( ( S t t p o p ( o t s a s ( o t s i a p t e o m c s w f]
+[DELETED:  H    ( ( T i a r p t t a o c s t    ( T p m b r b e t t a    ( I b     1 t t o a e s o p sg   A.[]  a p f p o m or m d pf s,][]   B  t t o a u a p o o r t ot,]   C  a r  r, ]   D  a s      2 t c i     3. w a o m c s o w l t o w a m i o t 2 f p ll  .]($SL    ( T p m n b r s o t b o e p o a d o s a t e f w t p i d c    () 1 I t c d t t a o t g w g     2 T]
+[DELETED: H 2     A t u     B h     C h ;     D i p c 1  ( ( T w b a   ( ( I o o b p h m a r f a o m d t i a a o a o m b d t c s    ( I t c a a o m t a o a a o §) ]§1()( CI d (  A O T D F T S O C L I A PTS H U §()()II TS I B T C D T A O A C A 1  ( I t s “ S A m t C S A  ( O n t C S A a w § 1RSEC    ]
+[DELETED:  H ] oRS I  D O O C W M1 ,   ( S   ( M i a w l o w p t d  ( ( P a s a i   ( A c u t s s b l t w t A p  ( ( A o   ( A t o  ( T t   ( T p   ( T    ( T i i]6  M R C S O I T I H ARSE   ,1 R C S O I T I H A CRS     ( T    ( T a]
+[DELETED: H 2    ( T p    ( O A  ( T S t  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 218
+D4 5lr0340
+(PRE–FILED) CF SB 195
+By: Chair, Judiciary Committee (By Request – Departmental – Human Services)
+Requested: October 12, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Family Law – Child Support
+3 FOR the purpose of altering provisions relating to the commencement of a proceeding to
+4 hold a person in contempt of court for the person’s default in payment of periodic
+5 child or spousal support under the terms of a court order and provisions relating to
+6 the commencement of a contempt proceeding for failure to make a payment of child
+7 or spousal support under a court order; authorizing the Child Support
+8 Administration to take action to secure an assignment to the State of any rights to
+9 support on behalf of a child receiving foster care maintenance payments under
+10 certain circumstances; expanding provisions relating to the interception of lottery
+11 prizes for the payment of child support arrearages to include the interception of
+12 prizes from sports wagering or a fantasy competition; altering provisions relating to
+13 the suspension of a child support obligor’s license or privilege to drive for failure to
+14 pay child support; altering provisions relating to the duties of health occupations
+15 boards and the State Emergency Services Board to collect and maintain certain
+16 information from license applicants; establishing that child support arrears
+17 constitute a lien by operation of law against the net recovery of a personal injury
+18 award up to the maximum lien amount and specifying related procedures; altering
+19 certain provisions relating to earnings withholding; requiring an independent
+20 contractor’s employer to submit certain information to the Administration under
+21 certain circumstances; altering provisions relating to the modification of a child
+22 support award; requiring a court to terminate a child support order that was
+23 previously established or assigned for a child receiving a foster care maintenance
+24 payment under certain circumstances; altering provisions relating to the
+25 determination of child support under the child support guidelines; and generally
+26 relating to child support.
+27 BY repealing and reenacting, with amendments,
+28 Article – Courts and Judicial Proceedings
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0218*
+
+2 HOUSE BILL 218
+1 Section 5–111
+2 Annotated Code of Maryland
+3 (2020 Replacement Volume and 2024 Supplement)
+4 BY adding to
+5 Article – Family Law
+6 Section 5–525.3, 10–119.4, 10–139, and 12–104.2
+7 Annotated Code of Maryland
+8 (2019 Replacement Volume and 2024 Supplement)
+9 BY repealing and reenacting, with amendments,
+10 Article – Family Law
+11 Section 10–101, 10–102, 10–108(c), 10–113.1, 10–119, 10–119.3(b), 10–122, 12–104,
+12 12–201(c) and (n), 12–202(a), and 12–204(a)
+13 Annotated Code of Maryland
+14 (2019 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Transportation
+17 Section 16–203
+18 Annotated Code of Maryland
+19 (2020 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Courts and Judicial Proceedings
+23 5–111.
+24 A proceeding to hold a person in contempt of court for the person’s default in payment
+25 of periodic child or spousal support under the terms of a court order shall be commenced
+26 within [3] 7 years of the date each installment of support ORIGINALLY became due [and
+27 remained unpaid].
+28 Article – Family Law
+29 5–525.3.
+30 (A) ONLY IN LIMITED CIRCUMSTANCES, WHERE THE ADMINISTRATION
+31 FINDS IT APPROPRIATE, MAY ACTION BE TAKEN TO SECURE AN ASSIGNMENT TO THE
+32 STATE OF ANY RIGHTS TO SUPPORT ON BEHALF OF A CHILD RECEIVING FOSTER
+33 CARE MAINTENANCE PAYMENTS UNDER THIS PART III OF THIS SUBTITLE.
+34 (B) THE ADMINISTRATION MAY TAKE ACTION, WHEN APPROPRIATE, TO
+35 DISCONTINUE AN ASSIGNMENT OF RIGHTS TO SUPPORT AND TERMINATE EXISTING
+
+HOUSE BILL 218 3
+1 SUPPORT ORDERS FOR A CHILD RECEIVING FOSTER CARE MAINTENANCE
+2 PAYMENTS.
+3 (C) THE SECRETARY OF HUMAN SERVICES SHALL ADOPT RULES AND
+4 REGULATIONS TO IMPLEMENT THIS SECTION.
+5 10–101.
+6 (a) In this title the following words have the meanings indicated.
+7 (b) “Administration” means the Child Support Administration of the Department
+8 of Human Services.
+9 (c) “Earnings” includes:
+10 (1) any form of periodic payment to an individual, including:
+11 (i) an annuity;
+12 (ii) a pension;
+13 (iii) Social Security payments;
+14 (iv) workers’ compensation payments; and
+15 (v) unemployment insurance benefits; [and]
+16 (2) any commissions or fees paid in connection with the [obligor’s]
+17 EMPLOYEE’S employment; AND
+18 (3) ANY PAYMENT RECEIVED BY AN INDEPENDENT CONTRACTOR:
+19 (I) FROM AN EMPLOYER FOR SERVICES PROVIDED BY THE
+20 INDEPENDENT CONTRACTOR IN THE COURSE OF THE EMPLOYER’S TRADE OR
+21 BUSINESS; AND
+22 (II) THAT THE EMPLOYER REPORTS OR EXPECTS TO REPORT ON
+23 IRS FORM 1099.
+24 (d) “EMPLOYEE” MEANS AN INDIVIDUAL WHO IS EMPLOYED BY AN
+25 EMPLOYER FOR A WAGE OR OTHER COMPENSATION IN THE TRADE OR BUSINESS OF
+26 THE EMPLOYER.
+27 (E) (1) “Employer” means any person who is paying earnings to an [obligor]
+28 EMPLOYEE.
+
+4 HOUSE BILL 218
+1 (2) “Employer” includes:
+2 (I) a governmental entity; AND
+3 (II) A PERSON WHO IS PAYING EARNINGS TO AN INDEPENDENT
+4 CONTRACTOR FOR SERVICES PROVIDED IN THE COURSE OF THE EMPLOYER’S TRADE
+5 OR BUSINESS THAT THE EMPLOYER REPORTS OR EXPECTS TO REPORT ON IRS
+6 FORM 1099.
+7 (F) “INDEPENDENT CONTRACTOR” MEANS A PERSON WHO:
+8 (1) PROVIDES SERVICES TO AN EMPLOYER IN THE COURSE OF THE
+9 EMPLOYER’S TRADE OR BUSINESS; AND
+10 (2) RECEIVES EARNINGS FROM AN EMPLOYER THAT THE EMPLOYER
+11 REPORTS OR EXPECTS TO REPORT ON IRS FORM 1099.
+12 [(e)] (G) “Local support enforcement office” means 1 of the following that is
+13 responsible for support enforcement:
+14 (1) a county agency; or
+15 (2) a component of the circuit court for a county.
+16 [(f)] (H) (1) “Obligee” means any person who is entitled to receive support.
+17 (2) “Obligee” includes a state.
+18 [(g)] (I) “Obligor” means an individual who is required to pay support under a
+19 court order.
+20 [(h)] (J) “Support” includes:
+21 (1) child support;
+22 (2) spousal support;
+23 (3) support of destitute adult children; and
+24 (4) support of destitute parents.
+25 [(i)] (K) “Support enforcement agency” means 1 of the following that receives
+26 support payments under a court order:
+
+HOUSE BILL 218 5
+1 (1) the Administration; or
+2 (2) a local support enforcement office.
+3 10–102.
+4 A contempt proceeding for failure to make a payment of child or spousal support
+5 under a court order shall be [brought] COMMENCED within [3] 7 years of the date that
+6 [the payment] EACH INSTALLMENT of support ORIGINALLY became due.
+7 10–108.
+8 (c) (1) In this subsection, “notice of arrearage” means a written notice provided
+9 by the Administration:
+10 (i) to an obligor who is in arrears in making child support payments;
+11 and
+12 (ii) relating to the arrearage.
+13 (2) If the Administration sends a notice of arrearage within the first 120
+14 days that the obligor is in arrears in making child support payments, the Administration
+15 shall include notice that continued arrearage may result in:
+16 (I) revocation or denial of a license under § 10–119.3 of this subtitle;
+17 AND
+18 (II) A LIEN BEING PLACED AGAINST A PERSONAL INJURY AWARD
+19 UNDER § 10–119.4 OF THIS SUBTITLE.
+20 10–113.1.
+21 (a) (1) In this section the following words have the meanings indicated.
+22 (2) “Agency” means the State Lottery and Gaming Control Agency.
+23 (3) “FANTASY COMPETITION” HAS THE MEANING STATED IN §
+24 9–1D–01 OF THE STATE GOVERNMENT ARTICLE.
+25 (4) “FANTASY COMPETITION OPERATOR” HAS THE MEANING STATED
+26 IN § 9–1D–01 OF THE STATE GOVERNMENT ARTICLE.
+27 (5) “SPORTS WAGERING” HAS THE MEANING STATED IN § 9–1E–01 OF
+28 THE STATE GOVERNMENT ARTICLE.
+
+6 HOUSE BILL 218
+1 (6) (I) “SPORTS WAGERING LICENSEE” HAS THE MEANING STATED
+2 IN § 9–1E–01 OF THE STATE GOVERNMENT ARTICLE.
+3 (II) “SPORTS WAGERING LICENSEE” INCLUDES:
+4 1. A MOBILE SPORTS WAGERING LICENSEE, AS DEFINED
+5 IN § 9–1E–01 OF THE STATE GOVERNMENT ARTICLE;
+6 2. AN ONLINE SPORTS WAGERING OPERATOR, AS
+7 DEFINED IN § 9–1E–01 OF THE STATE GOVERNMENT ARTICLE; AND
+8 3. A SPORTS WAGERING FACILITY LICENSEE, AS
+9 DEFINED IN § 9–1E–01 OF THE STATE GOVERNMENT ARTICLE.
+10 [(3)] (7) “Video lottery facility” has the meaning stated in § 9–1A–01 of
+11 the State Government Article.
+12 [(4)] (8) “Video lottery operation licensee” has the meaning stated in §
+13 9–1A–01 of the State Government Article.
+14 (b) The Administration may certify to the Agency the name of any obligor who is
+15 in arrears in the amount of $150 or more if:
+16 (1) the Administration has accepted an assignment of support under §
+17 5–312(b)(2) of the Human Services Article; or
+18 (2) the recipient of support payments has filed an application for support
+19 enforcement services with the Administration.
+20 (c) The certification shall contain:
+21 (1) the full name of the obligor, and any other names known to be used by
+22 the obligor;
+23 (2) the Social Security number of the obligor; and
+24 (3) the amount of the arrearage.
+25 (d) If an obligor who has been certified as an obligor wins a lottery prize to be paid
+26 by check directly by the Agency, the Agency shall send a notice to the obligor that:
+27 (1) the obligor has won a prize to be paid by check directly by the [State
+28 Lottery and Gaming Control] Agency;
+
+HOUSE BILL 218 7
+1 (2) the [State Lottery and Gaming Control] Agency has received
+2 certification from the [Child Support] Administration of the obligor’s child support
+3 arrearage in the amount specified;
+4 (3) State law requires the [State Lottery and Gaming Control] Agency to
+5 withhold the prize and to pay it towards the obligor’s support arrearage;
+6 (4) the obligor has 15 days to appeal to the Administration if the obligor
+7 disputes the existence or the amount of the arrearage; and
+8 (5) on interception of the prize, the [State Lottery and Gaming Control]
+9 Agency will transfer the prize or the part of the prize that equals the obligor’s child support
+10 arrearage to the Administration.
+11 (e) If an obligor who owes child support and has been certified as an obligor wins
+12 a prize at a video lottery facility [requiring], FROM SPORTS WAGERING, OR IN A
+13 FANTASY COMPETITION, AND THAT PRIZE REQUIRES the issuance of Internal Revenue
+14 Service form W–2G or a substantially equivalent form [by a video lottery operation
+15 licensee], the video lottery operation licensee, SPORTS WAGERING LICENSEE, OR
+16 FANTASY COMPETITION OPERATOR shall provide a notice to the obligor that:
+17 (1) the obligor has won a prize to be paid by cash or check directly by the
+18 video lottery operation licensee, SPORTS WAGERING LICENSEE, OR FANTASY
+19 COMPETITION OPERATOR;
+20 (2) the [State Lottery and Gaming Control] Agency has received
+21 certification from the [Child Support] Administration of the obligor’s child support
+22 arrearage in the amount specified;
+23 (3) State law requires the video lottery operation licensee, SPORTS
+24 WAGERING LICENSEE, OR FANTASY COMPETITION OPERATOR to withhold the prize
+25 and to pay it towards the obligor’s child support arrearage;
+26 (4) the obligor has 15 days to appeal to the Administration if the obligor
+27 disputes the existence or the amount of the child support arrearage; and
+28 (5) on interception of the prize, the video lottery operation licensee,
+29 SPORTS WAGERING LICENSEE, OR FANTASY COMPETITION OPERATOR will transfer
+30 the prize or the part of the prize that equals the obligor’s child support arrearage to the
+31 Administration.
+32 (f) (1) The Agency [or the], video lottery operation licensee, SPORTS
+33 WAGERING LICENSEE, OR FANTASY COMPETITION OPERATOR shall:
+
+8 HOUSE BILL 218
+1 (i) withhold and transfer all or part of the prize up to the amount of
+2 the arrearage to the Administration; and
+3 (ii) pay the excess to the obligor.
+4 (2) The Agency [and a], video lottery operation licensee, SPORTS
+5 WAGERING LICENSEE, AND FANTASY COMPETITION OPERATOR shall honor
+6 interception requests in the following order:
+7 (i) an interception request under this section;
+8 (ii) an interception request under § 11–618 of the Criminal
+9 Procedure Article; and
+10 (iii) an interception request under § 3–307 of the State Finance and
+11 Procurement Article.
+12 (g) (1) On receipt of a notice from the Agency [or], video lottery operation
+13 licensee, SPORTS WAGERING LICENSEE, OR FANTASY COMPETITION OPERATOR, an
+14 obligor who disputes the existence or amount of the arrearage may appeal the transfer.
+15 (2) If no appeal is filed within 15 days, the Administration may retain the
+16 withheld prize.
+17 (3) If the obligor appeals the transfer, after a hearing by the
+18 Administration, the withheld prize shall be:
+19 (i) paid to the obligor;
+20 (ii) retained by the Administration; or
+21 (iii) partly paid to the obligor and partly retained by the
+22 Administration, in the amounts specified.
+23 (h) The Secretary of Human Services and the Director of the Agency may jointly
+24 adopt regulations to implement this section.
+25 (i) A video lottery operation licensee, SPORTS WAGERING LICENSEE, OR
+26 FANTASY COMPETITION OPERATOR may not be held liable for an act or omission taken
+27 in good faith to comply substantially with the requirements of this section.
+28 10–119.
+29 (a) (1) In this section the following words have the meanings indicated.
+
+HOUSE BILL 218 9
+1 (2) “License” has the meaning stated in § 11–128 of the Transportation
+2 Article.
+3 (3) “Motor Vehicle Administration” means the Motor Vehicle
+4 Administration of the Department of Transportation.
+5 (b) (1) Subject to the provisions of subsection (c) of this section, the
+6 Administration may notify the Motor Vehicle Administration of an obligor with a
+7 noncommercial license who is 60 days or more out of compliance, or an obligor with a
+8 commercial license who is 120 days or more out of compliance, with the most recent order
+9 of the court in making child support payments if:
+10 (i) the Administration has accepted an assignment of support under
+11 § 5–312(b)(2) of the Human Services Article; or
+12 (ii) the recipient of support payments has filed an application for
+13 support enforcement services with the Administration.
+14 (2) Upon notification by the Administration under this subsection, the
+15 Motor Vehicle Administration:
+16 (i) shall suspend the obligor’s license or privilege to drive in the
+17 State; and
+18 (ii) may issue a work–restricted license or work–restricted privilege
+19 to drive in the State in accordance with § 16–203 of the Transportation Article.
+20 (c) (1) Before supplying any information to the Motor Vehicle Administration
+21 under this section, the Administration shall:
+22 (i) send written notice of the proposed action to the obligor,
+23 including notice of the obligor’s right to request an investigation on any of the following
+24 grounds:
+25 1. the information regarding the reported arrearage is
+26 inaccurate;
+27 2. THE OBLIGOR’S INCOME IS NOT GREATER THAN 250%
+28 OF THE 2024 FEDERAL POVERTY GUIDELINES FOR AN INDIVIDUAL ($37,650 PER
+29 YEAR), UNLESS THE OBLIGOR WAS JUDICIALLY DETERMINED TO BE VOLUNTARILY
+30 IMPOVERISHED UNDER § 12–204 OF THIS ARTICLE AT THE TIME THE MOST RECENT
+31 CHILD SUPPORT ORDER WAS ENTERED;
+32 3. suspension of the obligor’s license or privilege to drive
+33 would be an impediment to the obligor’s current or potential employment; or
+
+10 HOUSE BILL 218
+1 [3.] 4. suspension of the obligor’s license or privilege to drive
+2 would place an undue hardship on the obligor because of the obligor’s:
+3 A. documented disability resulting in a verified inability to
+4 work; or
+5 B. inability to comply with the court order; and
+6 (ii) give the obligor a reasonable opportunity to request an
+7 investigation of the proposed action of the Administration.
+8 (2) (i) Upon receipt of a request for investigation from the obligor, the
+9 Administration shall conduct an investigation to determine if any of the grounds under
+10 paragraph (1)(i) of this subsection exist.
+11 (ii) The Administration shall:
+12 1. send a copy of the obligor’s request for an investigation to
+13 the obligee by first–class mail;
+14 2. give the obligee a reasonable opportunity to respond; and
+15 3. consider the obligee’s response.
+16 (iii) Upon completion of the investigation, the Administration shall
+17 notify the obligor of the results of the investigation and the obligor’s right to appeal to the
+18 Office of Administrative Hearings.
+19 (3) (i) An appeal under this section shall be conducted in accordance
+20 with Title 10, Subtitle 2 of the State Government Article.
+21 (ii) An appeal shall be made in writing and shall be received by the
+22 Office of Administrative Hearings within 20 days after the notice to the obligor of the
+23 results of the investigation.
+24 (4) If, after the investigation or appeal to the Office of Administrative
+25 Hearings, the Administration finds that one of the grounds under paragraph (1)(i) of this
+26 subsection exists, the Administration may not send any information about the obligor to
+27 the Motor Vehicle Administration.
+28 (5) The Administration may not send any information about an obligor to
+29 the Motor Vehicle Administration if:
+30 (i) the Administration reaches an agreement with the obligor
+31 regarding a scheduled payment of the obligor’s child support arrearage or a court issues an
+32 order for a scheduled payment of the child support arrearage; and
+
+HOUSE BILL 218 11
+1 (ii) the obligor is complying with the agreement or court order.
+2 (d) (1) If, after information about an obligor is supplied to the Motor Vehicle
+3 Administration, the obligor’s arrearage is paid in full, the obligor has demonstrated good
+4 faith by paying the ordered amount of support for 6 consecutive months, the obligor is a
+5 participant in full compliance in an employment program approved by the Administration,
+6 or the Administration finds that one of the grounds under subsection (c)(1)(i) of this section
+7 exists, the Administration shall notify the Motor Vehicle Administration to reinstate the
+8 obligor’s license or privilege to drive.
+9 (2) The Administration may request that the Motor Vehicle
+10 Administration expunge a record of a suspension of a license or privilege to drive for failure
+11 to pay child support:
+12 (i) for an obligor who is enrolled in and compliant with an
+13 employment program approved by the Administration; or
+14 (ii) if the information reported by the Administration that led to the
+15 suspension was inaccurate.
+16 (e) The Secretary of Human Services, in cooperation with the Secretary of
+17 Transportation and the Office of Administrative Hearings, shall adopt regulations to
+18 implement this section.
+19 10–119.3.
+20 (b) (1) Except as provided in paragraphs (2) and (3) of this subsection, a
+21 licensing authority shall:
+22 (i) require each applicant for a license to disclose the Social Security
+23 number of the applicant; and
+24 (ii) record the applicant’s Social Security number on the application.
+25 (2) The Department of Natural Resources shall:
+26 (i) require an applicant for a recreational hunting or fishing license
+27 to disclose only the last four digits of the Social Security number of the applicant instead of
+28 the full Social Security number; and
+29 (ii) record the applicant’s partial Social Security number on the
+30 application.
+31 (3) Each health occupations board and the State Emergency Services
+32 Board shall:
+33 (i) require each applicant for a license to:
+
+12 HOUSE BILL 218
+1 1. disclose the APPLICANT’S Social Security number [or], IF
+2 THE APPLICANT HAS ONE;
+3 2. IF THE APPLICANT DOES NOT HAVE A SOCIAL
+4 SECURITY NUMBER, DISCLOSE THE Individual Taxpayer Identification Number of the
+5 applicant; or
+6 [2.] 3. [provide alternative documentation as permitted by the
+7 Department of Health and Human Services under Section 466(a)(13) of the Social Security
+8 Act] IF THE APPLICANT DOES NOT HAVE A SOCIAL SECURITY NUMBER OR AN
+9 INDIVIDUAL TAXPAYER IDENTIFICATION NUMBER, PROVIDE A SWORN STATEMENT,
+10 SIGNED UNDER THE PENALTY OF PERJURY, THAT THE APPLICANT DOES NOT HAVE
+11 A SOCIAL SECURITY NUMBER OR INDIVIDUAL TAXPAYER IDENTIFICATION
+12 NUMBER, ALONG WITH THE LICENSE APPLICATION; and
+13 (ii) [record] MAINTAIN the applicant’s Social Security number,
+14 Individual Taxpayer Identification Number, or [alternative documentation] AFFIDAVIT
+15 provided under item (i) of this paragraph in the application file.
+16 10–119.4.
+17 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+18 INDICATED.
+19 (2) “AWARD RECIPIENT” MEANS A PERSON WHO RECEIVES OR IS TO
+20 RECEIVE A PERSONAL INJURY AWARD.
+21 (3) “INTERCEPT DATE” MEANS THE DATE THAT THE AWARD
+22 RECIPIENT IS NOTIFIED THAT MONEY IS BEING WITHHELD FOR SUPPORT ARREARS
+23 FROM A PERSONAL INJURY AWARD.
+24 (4) “MAXIMUM LIEN AMOUNT” REFERS TO THE MAXIMUM AMOUNT OF
+25 A NET RECOVERY WHICH IS SUBJECT TO EXECUTION FOR SUPPORT ARREARS IN
+26 ACCORDANCE WITH § 11–504(I)(2) OF THE COURTS ARTICLE.
+27 (5) “NET RECOVERY” MEANS THE SUM OF MONEY TO BE DISTRIBUTED
+28 TO AN AWARD RECIPIENT AFTER DEDUCTION OF ATTORNEY’S FEES AND EXPENSES,
+29 MEDICAL BILLS, AND THE SATISFACTION OF ANY LIENS OR SUBROGATION CLAIMS
+30 ARISING OUT OF THE SICKNESS, ACCIDENT, INJURY, OR DEATH THAT RESULTED IN
+31 THE PERSONAL INJURY AWARD, INCLUDING THOSE ARISING UNDER:
+32 (I) THE MEDICARE SECONDARY PAYER ACT, 42 U.S.C. §
+33 1395Y;
+
+HOUSE BILL 218 13
+1 (II) A PROGRAM OF THE MARYLAND DEPARTMENT OF HEALTH
+2 FOR WHICH A RIGHT OF SUBROGATION EXISTS UNDER §§ 15–120 AND 15–121.1 OF
+3 THE HEALTH – GENERAL ARTICLE;
+4 (III) AN EMPLOYEE BENEFIT PLAN SUBJECT TO THE FEDERAL
+5 EMPLOYEE RETIREMENT INCOME SECURITY ACT OF 1974; OR
+6 (IV) A HEALTH INSURANCE CONTRACT.
+7 (6) “PAYING AGENT” MEANS THE PERSON OR ENTITY RESPONSIBLE
+8 FOR DISTRIBUTION OF THE PERSONAL INJURY AWARD AND INCLUDES:
+9 (I) THE AWARD RECIPIENT’S ATTORNEY, IF AN ATTORNEY
+10 REPRESENTED THE AWARD RECIPIENT FOR THE SICKNESS, ACCIDENT, INJURY, OR
+11 DEATH THAT RESULTED IN THE PERSONAL INJURY AWARD; OR
+12 (II) IF THE AWARD RECIPIENT WAS NOT REPRESENTED BY AN
+13 ATTORNEY, THE EMPLOYER, PROPERTY AND CASUALTY INSURER, OR
+14 SELF–INSURER WHO IS TO PAY THE PERSONAL INJURY AWARD TO THE AWARD
+15 RECIPIENT.
+16 (7) “PERSONAL INJURY AWARD” MEANS A LUMP SUM PAYABLE TO AN
+17 AWARD RECIPIENT FOR SICKNESS, ACCIDENT, INJURY, OR DEATH OF ANY PERSON,
+18 INCLUDING COMPENSATION FOR LOSS OF FUTURE EARNINGS, AND INCLUDES
+19 MONEY PAID ON ACCOUNT OF ANY CLAIM, SUIT, JUDGMENT, ARBITRATION,
+20 SETTLEMENT, COMPROMISE, INSURANCE, ANNUITY, BENEFIT, COMPENSATION, OR
+21 RELIEF.
+22 (B) THIS SECTION DOES NOT APPLY TO A PERSONAL INJURY AWARD DUE TO
+23 AN AWARD RECIPIENT WHO IS UNDER THE AGE OF 12 YEARS.
+24 (C) (1) CHILD SUPPORT ARREARS SHALL BE A LIEN BY OPERATION OF
+25 LAW AGAINST THE NET RECOVERY OF A PERSONAL INJURY AWARD UP TO THE
+26 MAXIMUM LIEN AMOUNT.
+27 (2) THE LIEN IS PERFECTED ON:
+28 (I) THE ADMINISTRATION’S ENTRY OF THE LIEN INFORMATION
+29 INTO AN AUTOMATED NETWORK OR DATA MATCH PROCESS COMMONLY USED IN THE
+30 INSURANCE INDUSTRY; OR
+31 (II) WRITTEN NOTICE TO THE PAYING AGENT.
+
+14 HOUSE BILL 218
+1 (D) (1) IF THE AWARD RECIPIENT OWES CHILD SUPPORT ARREARS, ON
+2 NOTICE BY THE ADMINISTRATION, THE PAYING AGENT SHALL:
+3 (I) WITHHOLD THE LESSER OF THE AMOUNT OF THE ARREARS
+4 OR THE MAXIMUM LIEN AMOUNT AND PROMPTLY FORWARD THE WITHHELD AMOUNT
+5 TO THE ADMINISTRATION TO BE APPLIED TO THE AWARD RECIPIENT’S SUPPORT
+6 ARREARAGE;
+7 (II) PROMPTLY PAY ANY REMAINING PORTION OF THE NET
+8 RECOVERY NOT SUBJECT TO OTHER LIENS TO THE AWARD RECIPIENT; AND
+9 (III) SEND A NOTICE TO THE ADMINISTRATION AND THE AWARD
+10 RECIPIENT OF:
+11 1. THE AMOUNT PAID TO THE ADMINISTRATION; AND
+12 2. THE AWARD RECIPIENT’S RIGHT TO CHALLENGE THE
+13 WITHHOLDING UNDER THIS SECTION.
+14 (2) THE AWARD RECIPIENT’S EXERCISE OF THE RIGHT TO
+15 CHALLENGE THE WITHHOLDING DOES NOT RELIEVE THE PAYING AGENT OF THE
+16 DUTY TO FORWARD PAYMENT TO THE ADMINISTRATION.
+17 (3) THE PAYING AGENT MAY NOT CHARGE THE ADMINISTRATION A
+18 FEE FOR ITS ACTIONS UNDER THIS SECTION.
+19 (4) NOTHING IN THIS SECTION SHALL PROVIDE A BASIS FOR A PAYING
+20 AGENT TO DELAY THE PAYMENT OF THE REMAINING PORTION OF THE NET
+21 RECOVERY TO THE AWARD RECIPIENT.
+22 (E) (1) (I) UPON RECEIPT OF THE FUNDS FROM THE PAYING AGENT,
+23 THE ADMINISTRATION SHALL APPLY THE FUNDS TO THE OBLIGOR’S ARREARS.
+24 (II) IF THE OBLIGOR HAS MORE THAN ONE CHILD SUPPORT
+25 CASE WITH ARREARS, THE ADMINISTRATION SHALL ALLOCATE THE AMOUNT
+26 RECEIVED AMONG ONE OR MORE OF THE OBLIGOR’S CASES AS DETERMINED
+27 APPROPRIATE BY THE ADMINISTRATION.
+28 (2) IF THE ADMINISTRATION DETERMINES THAT THE AMOUNT IT
+29 RECEIVED EXCEEDS THE AMOUNT OF THE AWARD RECIPIENT’S ARREARS, THE
+30 ADMINISTRATION SHALL PAY THE EXCESS AMOUNT TO THE OBLIGOR.
+
+HOUSE BILL 218 15
+1 (F) (1) AN AWARD RECIPIENT MAY ASK THE ADMINISTRATION TO
+2 INVESTIGATE THE WITHHOLDING BY FILING A WRITTEN REQUEST FOR
+3 INVESTIGATION WITH THE ADMINISTRATION SETTING FORTH THE REASONS FOR
+4 THE CHALLENGE.
+5 (2) THE REQUEST MAY BE BASED SOLELY ON THE FOLLOWING:
+6 (I) THERE IS NO ARREARAGE;
+7 (II) THE AMOUNT OF THE ARREARAGE IS INCORRECT; OR
+8 (III) THE AWARD RECIPIENT IS NOT THE INDIVIDUAL WHO OWES
+9 THE ARREARS.
+10 (3) (I) THE REQUEST FOR INVESTIGATION MUST BE RECEIVED BY
+11 THE ADMINISTRATION WITHIN 30 DAYS AFTER THE INTERCEPT DATE.
+12 (II) IF A TIMELY REQUEST FOR INVESTIGATION IS NOT
+13 RECEIVED BY THE ADMINISTRATION, THE ADMINISTRATION MAY RETAIN THE
+14 INTERCEPTED FUNDS FOR APPLICATION TO THE AWARD RECIPIENT’S ARREARS.
+15 (4) AN AWARD RECIPIENT MAY WITHDRAW A REQUEST FOR
+16 INVESTIGATION BY SUBMITTING A NOTICE OF THE WITHDRAWAL TO THE
+17 ADMINISTRATION.
+18 (G) (1) ON RECEIPT OF A REQUEST FOR INVESTIGATION FROM THE
+19 AWARD RECIPIENT, THE ADMINISTRATION SHALL CONDUCT AN INVESTIGATION.
+20 (2) (I) IF, AFTER THE INVESTIGATION, THE ADMINISTRATION
+21 FINDS THAT THERE IS NO ARREARAGE, OR THAT THE AWARD RECIPIENT IS NOT THE
+22 INDIVIDUAL WHO OWES THE ARREARS, THE ADMINISTRATION SHALL REFUND THE
+23 FULL AMOUNT OF THE FUNDS RECEIVED FROM THE PAYING AGENT TO THE AWARD
+24 RECIPIENT.
+25 (II) IF, AFTER THE INVESTIGATION, THE ADMINISTRATION
+26 FINDS THAT THERE IS AN ARREARAGE, BUT IT IS LESS THAN THE AMOUNT RECEIVED
+27 FROM THE PAYING AGENT, THE ADMINISTRATION SHALL CORRECT ITS RECORDS
+28 AND RELEASE THE EXCESS AMOUNT TO THE AWARD RECIPIENT.
+29 (III) IF, AFTER THE INVESTIGATION, THE ADMINISTRATION
+30 FINDS THAT THE AWARD RECIPIENT OWES ARREARS IN AN AMOUNT EQUAL TO OR
+31 GREATER THAN THE AMOUNT RECEIVED FROM THE PAYING AGENT, THE
+
+16 HOUSE BILL 218
+1 ADMINISTRATION SHALL RETAIN THE INTERCEPTED FUNDS FOR APPLICATION TO
+2 THE AWARD RECIPIENT’S ARREARS.
+3 (3) (I) ON COMPLETION OF THE INVESTIGATION, THE
+4 ADMINISTRATION SHALL SEND THE AWARD RECIPIENT A NOTICE BY FIRST–CLASS
+5 MAIL OF THE OUTCOME OF THE INVESTIGATION.
+6 (II) THE NOTICE SHALL INFORM THE AWARD RECIPIENT OF THE
+7 RIGHT TO APPEAL THE ADMINISTRATION’S DECISION TO THE OFFICE OF
+8 ADMINISTRATIVE HEARINGS WITHIN 30 DAYS AFTER THE DATE OF THE NOTICE.
+9 (H) (1) IF AN AWARD RECIPIENT WHO TIMELY REQUESTED AN
+10 INVESTIGATION DISAGREES WITH THE RESULTS OF THE INVESTIGATION, THE
+11 AWARD RECIPIENT MAY APPEAL TO THE OFFICE OF ADMINISTRATIVE HEARINGS.
+12 (2) AN APPEAL TO THE OFFICE OF ADMINISTRATIVE HEARINGS MAY
+13 BE BASED SOLELY ON THE FOLLOWING:
+14 (I) THERE IS NO ARREARAGE;
+15 (II) THE AMOUNT OF THE ARREARAGE IS INCORRECT; OR
+16 (III) THE AWARD RECIPIENT IS NOT THE INDIVIDUAL WHO OWES
+17 THE ARREARS.
+18 (3) AN APPEAL TO THE OFFICE OF ADMINISTRATIVE HEARINGS
+19 AUTHORIZED UNDER THIS SECTION SHALL BE CONDUCTED IN ACCORDANCE WITH
+20 TITLE 10, SUBTITLE 2 OF THE STATE GOVERNMENT ARTICLE.
+21 (4) AN AWARD RECIPIENT MAY WITHDRAW AN APPEAL REQUEST BY
+22 SUBMITTING A NOTICE OF THE WITHDRAWAL TO THE OFFICE OF ADMINISTRATIVE
+23 HEARINGS BEFORE THE HEARING DATE.
+24 (5) (I) AFTER THE COMPLETION OF AN APPEAL, IF THE OFFICE OF
+25 ADMINISTRATIVE HEARINGS FINDS THAT THERE IS NO ARREARAGE, OR THAT THE
+26 AWARD RECIPIENT IS NOT THE INDIVIDUAL WHO OWES THE ARREARS, THE
+27 ADMINISTRATION SHALL REFUND THE FULL AMOUNT OF THE FUNDS RECEIVED
+28 FROM THE PAYING AGENT TO THE AWARD RECIPIENT.
+29 (II) AFTER THE COMPLETION OF AN APPEAL, IF THE OFFICE OF
+30 ADMINISTRATIVE HEARINGS FINDS THAT THERE IS AN ARREARAGE BUT IT IS LESS
+31 THAN THE AMOUNT RECEIVED FROM THE PAYING AGENT, THE ADMINISTRATION
+
+HOUSE BILL 218 17
+1 SHALL CORRECT ITS RECORDS AND RELEASE THE EXCESS AMOUNT TO THE AWARD
+2 RECIPIENT.
+3 (III) AFTER THE COMPLETION OF AN APPEAL, IF THE OFFICE OF
+4 ADMINISTRATIVE HEARINGS FINDS THAT THE AWARD RECIPIENT OWES ARREARS IN
+5 AN AMOUNT EQUAL TO OR GREATER THAN THE AMOUNT RECEIVED FROM THE
+6 PAYING AGENT, THE ADMINISTRATION SHALL RETAIN THE INTERCEPTED FUNDS
+7 FOR APPLICATION TO THE AWARD RECIPIENT’S ARREARS.
+8 (6) IF THE AWARD RECIPIENT DOES NOT FILE A TIMELY APPEAL TO
+9 THE OFFICE OF ADMINISTRATIVE HEARINGS, THE ADMINISTRATION MAY RETAIN
+10 THE FULL PAYMENT FROM THE PAYING AGENT FOR APPLICATION TO THE AWARD
+11 RECIPIENT’S ARREARS.
+12 (I) (1) THE ADMINISTRATION MAY UTILIZE THE PROCEDURES
+13 ESTABLISHED IN THIS SECTION EXCLUSIVELY TO COLLECT DELINQUENT CHILD
+14 SUPPORT.
+15 (2) THIS SECTION MAY NOT BE CONSTRUED TO LIMIT OR PROHIBIT
+16 THE ADMINISTRATION FROM COLLECTING DELINQUENT CHILD SUPPORT IN ANY
+17 OTHER MANNER AUTHORIZED BY LAW.
+18 (J) (1) A PAYING AGENT WHO, IN GOOD FAITH, MAKES A DISTRIBUTION
+19 IN ACCORDANCE WITH THIS SECTION SHALL BE IMMUNE FROM ANY CIVIL,
+20 CRIMINAL, OR ADMINISTRATIVE PENALTIES FOR MAKING AN ERRONEOUS
+21 DISTRIBUTION TO THE ADMINISTRATION.
+22 (2) NOTHING IN THIS SECTION SHALL GIVE RISE TO A CLAIM OR
+23 CAUSE OF ACTION AGAINST A PAYING AGENT BY ANY PERSON WHO CLAIMS TO BE
+24 THE INTENDED OBLIGEE OF THE OUTSTANDING LIEN FOR SUPPORT.
+25 (K) THE SECRETARY OF HUMAN SERVICES MAY ADOPT REGULATIONS TO
+26 CARRY OUT THIS SECTION.
+27 10–122.
+28 (a) The amount of the earnings withholding shall:
+29 (1) be enough to pay the CURRENT AND ONGOING support and any
+30 arrearage included in the payments required by the support order; and
+31 (2) include any arrearage accrued since the support order.
+
+18 HOUSE BILL 218
+1 (b) (1) (i) When arrearages under subsection (a)(2) of this section are part
+2 of an earnings withholding order or earnings withholding notice, the total arrearage
+3 withheld shall be in one lump–sum payment or apportioned over a period of time.
+4 (ii) The amount of the arrearage withheld under subparagraph (i) of
+5 this paragraph shall be determined by the tribunal or, in a case in which the
+6 Administration is providing support services, by the Administration.
+7 (2) The amount of arrears under subsection (a)(2) of this section
+8 apportioned to each payment shall be at least $1 but not more than 25% of the current
+9 support payment.
+10 (3) IF ARREARS REMAIN DUE AND OWING AFTER ALL CHILDREN WHO
+11 ARE THE SUBJECT OF A SUPPORT ORDER HAVE BECOME EMANCIPATED, EARNINGS
+12 WITHHOLDING SHALL CONTINUE AT THE RATE ESTABLISHED BEFORE THE
+13 EMANCIPATION, WITH THE FULL AMOUNT WITHHELD TO BE APPLIED TO THE
+14 EXISTING ARREARAGE UNTIL THE ARREARS ARE PAID IN FULL OR UNTIL A COURT
+15 MODIFIES THE REPAYMENT AMOUNT.
+16 (c) If there is more than one earnings withholding order or earnings withholding
+17 notice against a single obligor, the Administration shall allocate amounts available for
+18 withholding, giving priority to current support, up to the limits imposed by the federal
+19 Consumer Credit Protection Act.
+20 10–139.
+21 (A) IN THIS SECTION, “DATE OF EMPLOYMENT” MEANS THE DATE ON WHICH
+22 AN INDEPENDENT CONTRACTOR COMMENCES PROVIDING SERVICES FOR AN
+23 EMPLOYER.
+24 (B) SUBJECT TO THE PROVISIONS OF SUBSECTION (C) OF THIS SECTION,
+25 WITHIN 20 DAYS AFTER AN INDEPENDENT CONTRACTOR BEGINS EMPLOYMENT, THE
+26 INDEPENDENT CONTRACTOR’S EMPLOYER SHALL SUBMIT TO THE
+27 ADMINISTRATION:
+28 (1) THE SOCIAL SECURITY NUMBER OF THE INDEPENDENT
+29 CONTRACTOR, OR IF THE INDEPENDENT CONTRACTOR DOES NOT HAVE A SOCIAL
+30 SECURITY NUMBER, THE INDIVIDUAL TAX IDENTIFICATION NUMBER OF THE
+31 INDEPENDENT CONTRACTOR;
+32 (2) THE NAME OF THE INDEPENDENT CONTRACTOR;
+33 (3) THE ADDRESS OF THE INDEPENDENT CONTRACTOR;
+34 (4) THE DATE OF EMPLOYMENT;
+
+HOUSE BILL 218 19
+1 (5) THE EMPLOYER’S NAME AND ADDRESS;
+2 (6) THE INDEPENDENT CONTRACTOR’S RATE OF COMPENSATION OR
+3 EARNINGS;
+4 (7) A STATEMENT INDICATING WHETHER THE INDEPENDENT
+5 CONTRACTOR HAS HEALTH INSURANCE PROVIDED BY THE EMPLOYER; AND
+6 (8) THE FEDERAL EMPLOYER IDENTIFICATION NUMBER OF THE
+7 EMPLOYER.
+8 (C) (1) THE EMPLOYER SHALL REPORT INFORMATION REQUIRED UNDER
+9 SUBSECTION (B) OF THIS SECTION:
+10 (I) BY MAIL;
+11 (II) MAGNETICALLY OR ELECTRONICALLY; OR
+12 (III) BY OTHER MEANS AS DETERMINED BY THE
+13 ADMINISTRATION.
+14 (2) IF AN EMPLOYER CHOOSES TO TRANSMIT DATA MAGNETICALLY
+15 OR ELECTRONICALLY AT A RATE OF TWICE PER MONTH, THE REPORTS SHALL BE
+16 SUBMITTED NOT LESS THAN 12 DAYS OR MORE THAN 16 DAYS APART.
+17 (D) (1) AN EMPLOYER THAT FAILS TO REPORT AS REQUIRED SHALL BE:
+18 (I) GIVEN A WRITTEN WARNING FOR THE FIRST VIOLATION;
+19 AND
+20 (II) SUBJECT TO A CIVIL PENALTY OF $20 FOR EACH MONTH IN
+21 WHICH A SUBSEQUENT VIOLATION OCCURS, OR $500 IF THE FAILURE IS THE RESULT
+22 OF A CONSPIRACY BETWEEN THE EMPLOYER AND THE INDEPENDENT CONTRACTOR
+23 TO NOT SUPPLY THE REQUIRED REPORT OR TO SUPPLY A FALSE OR INCOMPLETE
+24 REPORT, UNLESS THE ADMINISTRATION WAIVES THE PENALTY FOR CAUSE.
+25 (2) ALL VIOLATIONS BY THE SAME EMPLOYING UNIT OCCURRING IN A
+26 SINGLE MONTH SHALL BE CONSIDERED A SINGLE VIOLATION.
+27 (E) (1) AN ASSESSMENT UNDER THIS SECTION IS FINAL UNLESS, WITHIN
+28 15 DAYS AFTER THE MAILING OF THE ASSESSMENT, THE EMPLOYER APPLIES TO THE
+29 ADMINISTRATION FOR A HEARING.
+
+20 HOUSE BILL 218
+1 (2) THE ADMINISTRATION MAY FORWARD THE APPLICATION TO THE
+2 OFFICE OF ADMINISTRATIVE HEARINGS FOR ADJUDICATION.
+3 (F) AN EMPLOYER THAT IN GOOD FAITH REPORTS INFORMATION TO THE
+4 ADMINISTRATION IN ACCORDANCE WITH THIS SECTION IS NOT LIABLE FOR THE
+5 DISCLOSURE UNDER STATE LAW.
+6 (G) THE SECRETARY OF HUMAN SERVICES MAY ADOPT RULES AND
+7 REGULATIONS TO IMPLEMENT THIS SECTION.
+8 12–104.
+9 (a) [The] EXCEPT AS PROVIDED IN SUBSECTION (D) OF THIS SECTION, THE
+10 court may modify a child support award subsequent to the filing of a [motion] PETITION
+11 for modification and upon a showing of a material change of circumstance.
+12 (b) The court may not retroactively modify a child support award prior to the date
+13 of the filing of the [motion] PETITION for modification.
+14 (c) If a party becomes incarcerated, the court may determine that a material
+15 change of circumstance warranting a modification of child support has occurred, provided
+16 that the party’s ability to pay child support is sufficiently reduced due to incarceration.
+17 (D) THE COURT MAY MODIFY THE AMOUNT TO BE PAID TOWARD AN
+18 ARREARAGE AT ANY TIME WITHOUT A SHOWING OF A MATERIAL CHANGE OF
+19 CIRCUMSTANCE.
+20 12–104.2.
+21 THE COURT SHALL TERMINATE A CHILD SUPPORT ORDER THAT WAS
+22 PREVIOUSLY ESTABLISHED OR ASSIGNED FOR A CHILD RECEIVING A FOSTER CARE
+23 MAINTENANCE PAYMENT, WITHOUT A SHOWING OF A MATERIAL CHANGE OF
+24 CIRCUMSTANCE, ON THE FILING FOR A TERMINATION BY THE CHILD SUPPORT
+25 ADMINISTRATION, LOCAL OFFICE OF CHILD SUPPORT, OR LOCAL DEPARTMENT,
+26 AFTER THE SOCIAL SERVICES ADMINISTRATION, OR ITS DESIGNEE, DETERMINES
+27 THAT THE ORDER IS NO LONGER APPROPRIATE.
+28 12–201.
+29 (c) (1) “Adjusted actual income” means actual income minus:
+30 [(1)] (I) preexisting reasonable child support obligations actually paid;
+31 [and
+
+HOUSE BILL 218 21
+1 (2)] (II) except as provided in § 12–204(a)(2) of this subtitle, alimony or
+2 maintenance obligations actually paid; AND
+3 (III) SUBJECT TO PARAGRAPHS (2) AND (3) OF THIS
+4 SUBSECTION, A DEDUCTION FOR SUPPORT FOR EACH CHILD LIVING IN THE
+5 PARENT’S HOME, TO WHOM THE PARENT OWES A LEGAL DUTY OF SUPPORT,
+6 PROVIDED:
+7 1. THE CHILD SPENDS AT LEAST 92 OVERNIGHTS PER
+8 YEAR IN THE PARENT’S HOME; AND
+9 2. THE PARENT IS NOT OTHERWISE OBLIGATED TO PAY
+10 CHILD SUPPORT FOR THE CHILD IN ACCORDANCE WITH A COURT ORDER.
+11 (2) FOR PURPOSES OF DETERMINING THE AMOUNT OF THE
+12 DEDUCTION UNDER PARAGRAPH (1)(III) OF THIS SUBSECTION:
+13 (I) THE BASIC CHILD SUPPORT OBLIGATION FOR EACH
+14 ADDITIONAL ELIGIBLE CHILD IN THE PARENT’S HOME SHALL BE DETERMINED IN
+15 ACCORDANCE WITH § 12–204 OF THIS SUBTITLE, USING ONLY THE ACTUAL INCOME
+16 OF THE PARENT ENTITLED TO THE DEDUCTION; AND
+17 (II) THE AMOUNT DETERMINED UNDER ITEM (I) OF THIS
+18 PARAGRAPH SHALL BE MULTIPLIED BY 0.75.
+19 (3) THE COURT SHALL DECLINE TO AWARD A DEDUCTION UNDER
+20 PARAGRAPH (1)(III) OF THIS SUBSECTION IF THE COURT FINDS, AFTER
+21 CONSIDERING THE EVIDENCE AND THE BEST INTEREST OF THE CHILD FOR WHOM
+22 SUPPORT IS BEING DETERMINED, THAT THE APPLICATION OF THE DEDUCTION
+23 WOULD BE UNJUST OR INAPPROPRIATE.
+24 (n) “Self–support reserve” means the adjustment to a basic child support
+25 obligation ensuring that a child support obligor maintains a minimum amount of monthly
+26 income, after payment of child support, federal and state income taxes, and Federal
+27 Insurance Contribution Act taxes, of at least 110% of the 2019 federal poverty [level]
+28 GUIDELINES for an individual ($1,145).
+29 12–202.
+30 (a) (1) Subject to the provisions of paragraph (2) of this subsection and
+31 subsection (b) of this section, in any proceeding to establish or modify child support,
+32 whether pendente lite or permanent, the court shall use the child support guidelines set
+33 forth in this subtitle.
+
+22 HOUSE BILL 218
+1 (2) (i) There is a rebuttable presumption that the amount of child
+2 support which would result from the application of the child support guidelines set forth in
+3 this subtitle is the correct amount of child support to be awarded.
+4 (ii) The presumption may be rebutted by evidence that the
+5 application of the guidelines would be unjust or inappropriate in a particular case.
+6 (iii) In determining whether the application of the guidelines would
+7 be unjust or inappropriate in a particular case, the court may consider:
+8 1. the terms of any existing separation or property
+9 settlement agreement or court order, including:
+10 A. any provisions for payment of mortgages [or], marital
+11 debts, [payment of] OR college education expenses[,];
+12 B. the terms of any use and possession order or right to
+13 occupy the family home under an agreement[,];
+14 C. any direct payments made for the benefit of the children
+15 required by THE agreement or order[,]; or
+16 D. any other financial considerations set out in an existing
+17 separation or property settlement agreement or court order; AND
+18 2. [the presence in the household of either parent of other
+19 children to whom that parent owes a duty of support and the expenses for whom that parent
+20 is directly contributing; and
+21 3.] whether an obligor’s monthly child support obligation
+22 would leave the obligor with a monthly actual income below 110% of the 2019 federal
+23 poverty [level] GUIDELINES for an individual (LESS THAN $1,145).
+24 (iv) [The presumption may not be rebutted solely on the basis of
+25 evidence of the presence in the household of either parent of other children to whom that
+26 parent owes a duty of support and the expenses for whom that parent is directly
+27 contributing.
+28 (v)] 1. If the court determines that the application of the
+29 guidelines would be unjust or inappropriate in a particular case, the court shall make a
+30 written finding or specific finding on the record stating the reasons for departing from the
+31 guidelines.
+32 2. The court’s finding shall state:
+
+HOUSE BILL 218 23
+1 A. the amount of child support that would have been required
+2 under the guidelines;
+3 B. how the order varies from the guidelines;
+4 C. how the finding serves the best interests of the child WHO
+5 IS THE SUBJECT OF THE ORDER; and
+6 D. in cases in which items of value are conveyed instead of a
+7 portion of the support presumed under the guidelines, the estimated value of the items
+8 conveyed.
+9 12–204.
+10 (a) (1) The basic child support obligation shall be determined in accordance
+11 with the schedule of basic child support obligations in subsection (e) of this section. The
+12 basic child support obligation shall be divided between the parents in proportion to their
+13 adjusted actual incomes.
+14 (2) (i) If one or both parents have made a request for alimony or
+15 maintenance in the proceeding in which a child support award is sought, the court shall
+16 decide the issue and amount of alimony or maintenance before determining the child
+17 support obligation under these guidelines.
+18 (ii) If the court awards alimony or maintenance, the amount of
+19 alimony or maintenance awarded shall be considered actual income for the recipient of the
+20 alimony or maintenance and shall be subtracted from the income of the payor of the alimony
+21 or maintenance under [§ 12–201(c)(2)] § 12–201(C)(1)(II) of this subtitle before the court
+22 determines the amount of a child support award.
+23 (3) THE AMOUNT OF THE DEDUCTION FOR THE SUPPORT OF
+24 ADDITIONAL CHILDREN LIVING IN A PARENT’S HOME UNDER §
+25 12–201(C)(1)(III) OF THIS SUBTITLE SHALL BE SUBTRACTED FROM THE PARENT’S
+26 ACTUAL INCOME BEFORE THE COURT DETERMINES THE AMOUNT OF A CHILD
+27 SUPPORT AWARD.
+28 Article – Transportation
+29 16–203.
+30 (a) In this section, “Child Support Administration” means the Child Support
+31 Administration of the Department of Human Services.
+32 (b) On notification by the Child Support Administration in accordance with §
+33 10–119 of the Family Law Article that an obligor WITH A NONCOMMERCIAL DRIVER’S
+34 LICENSE is 60 days or more out of compliance with the most recent CHILD SUPPORT order
+
+24 HOUSE BILL 218
+1 [of the court in making child support payments], OR AN OBLIGOR WITH A COMMERCIAL
+2 DRIVER’S LICENSE IS 120 DAYS OR MORE OUT OF COMPLIANCE WITH THE MOST
+3 RECENT CHILD SUPPORT ORDER, the Administration:
+4 (1) Shall suspend an obligor’s license or privilege to drive in the State; and
+5 (2) May issue a work–restricted license or work–restricted privilege to
+6 drive.
+7 (c) (1) Prior to the suspension of a license or the privilege to drive in the State
+8 and the issuance of a work–restricted license or work–restricted privilege to drive under
+9 subsection (b) of this section, the Administration shall send written notice of the proposed
+10 action to the obligor, including notice of the obligor’s right to contest the accuracy of the
+11 information.
+12 (2) Any contest under this subsection shall be limited to whether the
+13 Administration has mistaken the identity of the obligor or the individual whose license or
+14 privilege to drive has been suspended.
+15 (d) (1) An obligor may appeal a decision of the Administration to suspend the
+16 obligor’s license or privilege to drive.
+17 (2) At a hearing under this subsection, the issue shall be limited to whether
+18 the Administration has mistaken the identity of the obligor or the individual whose license
+19 or privilege to drive has been suspended.
+20 (e) The Administration shall reinstate an obligor’s license or privilege to drive in
+21 the State if:
+22 (1) The Administration receives a court order to reinstate the license or
+23 privilege to drive; or
+24 (2) The Child Support Administration notifies the Administration that:
+25 (i) The individual whose license or privilege to drive was suspended
+26 is not [in arrears in making child support payments] 60 DAYS OUT OF COMPLIANCE WITH
+27 THE MOST RECENT CHILD SUPPORT ORDER IF THE INDIVIDUAL HAS A
+28 NONCOMMERCIAL DRIVER’S LICENSE, OR 120 DAYS OUT OF COMPLIANCE WITH THE
+29 MOST RECENT CHILD SUPPORT ORDER IF THE INDIVIDUAL HAS A COMMERCIAL
+30 DRIVER’S LICENSE;
+31 (ii) The obligor has paid the support arrearage in full;
+32 (iii) The obligor has demonstrated good faith by paying the ordered
+33 amount of support for 6 consecutive months;
+
+HOUSE BILL 218 25
+1 (iv) The obligor is a participant in full compliance in an employment
+2 program approved by the Child Support Administration; or
+3 (v) One of the grounds under § 10–119(c)(1)(i) of the Family Law
+4 Article exists.
+5 (f) The Secretary of Transportation, in cooperation with the Secretary of Human
+6 Services and the Office of Administrative Hearings, shall adopt regulations to implement
+7 this section.
+8 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 October 1, 2026.
+
+[DELETED: :CA      5 ( C A F F h c t o s s u a c o a t C S A s o b o a c r f c m p u c p p t p b a t S E S B t c a m c i f l a e t c s a c a c p r t e w r a i c e t s c t t A u c c a p r t t m o a c s a r a c t t a c s o t w p p u c c a p r t t d r B  A]
+[DELETED:  H   S  A  ( B  A  S  A  ( B  A  S  1 A ( B  A  S  A  (  S T A 5  A o w 3    a]7O rd. A() O,N I L CS W T DE  A  II.() TA,H D M T AN W AE T]
+[DELETED: H 3 O F A C R F C M() TSHH E O U E S A R A 1  ( I  ( “ o  ( “   ( a    ( a    ( a    ( S    ( w    ( u ad   ( a c o f p i c w t oESA;  t ( :  ()F A E F S P B T C I T C O T ERS T OS   ()ITSF19O   (EE M A I W I E B A() [ ( “ or .]
+[DELETED:  H    ( “s     ay)   ()IARS B T T E R O E T R O 19 () “I”:NR  (RSS ; (  OSF1[]( () “ s e o m 1 o t f t i r   ( a   ( a[]( () ( “   ( “[]( () “ c[]( () “   ( c   ( s   ( s   ( s[]( () “ s]
+[DELETED: H 5   ( t   ( a 1  A u bt  3 ][]D tt   TO 1  ( ( I b    ( t a    ( r   ( I d sn     re)   )IA   14  1  ( ( I   ( “   )“F”§ CN H T M S I 1SGA. T O R ( “FR     T O R91SGA. ( “S”§9G     T O RGA.]
+[DELETED:  H  ( () “SPE     T O R91SGA.  () “S”:IPE    1 E     T O R91SGA;   2  O S W OR A    T O RE 91SGA;   3  S W F LE A    T O R91SGA. []( () “ t []( ()  l o l h t m s i § 9  ( T i   ( t A h a a a o s u § 5   ( t e  ( T   ( t t   ( t   ( t  ( I b   ( t S Ll ]
+[DELETED: H 7   ( t S L a G Cl A h r c f t C St A o t o c s a   ( S Sl  w   ( t d   ( o Sl A a  ( I a p a a v l f r],F S WG O I ANA    S f W o a s e f b a v l o le, t v l o le, W LE O     ( t v l o lS W LE O F ;   ( t S L a G Cl A h r c f t C St A o t o c s a   ( S l r t v l o leE    a   ( t d   ( o i o t p t v l o leE    t A  ( ( T Ayo te v l o l S],E   ]
+[DELETED:  H     ( w t    ( p   ( T Aya a v l o l S], LE A F C O s h i    ( a    ( a i r u § 1 o t C P    ( a P  ( ( O r o a n f t Ayor v l o] l  E  o   ( I w   ( I t o a t t a a h b t A    ( p    ( r    ( p p t t o a p r b t A  ( T a  ( A v l o lS W LE O   i 1  ( ( I]
+[DELETED: H 9   ( “ A   ( “ V A m t M V A  ( ( S t t p o s ( o t s t A m n t M V A o a o w a n l w 6 d o o o c o a o a c o    ( t §    ( t s   ( U n b t A u t s t M    ( s s t o l o p t d t S    ( m t  ( ( B u    ( s w n o t p a t t o i g     1 t i r t r a i i     2RS 2    4(R    1       s o t o l o p t d w]
+[DELETED:  H      3.   o t o l o p t d]4 w     A d w     B i    ( g t o a r o t r a i   ( ( U A p    ( T     1 s t     2 g     3 c    ( U n O   ( ( A w    ( A O o A H w d t n t t o o t r   ( I a t i o a t t O o A H s t   ( T t    ( t A r a a w t o r o]
+[DELETED: H 1    ( t  ( ( I A f p o e o   ( T A m r t t M V A t    ( f a o w i e i a c w a e    ( i s  ( T S o H S i c w t S o T a t O o A H s a r t i 1  ( ( E a p i p ( a ( o t s a l    ( r n    ( r   ( T    ( r t t    ( r t a p S S n o t a   ( E h o b a t S E S B    ( r]
+[DELETED:  H      1 d   oTSI[]       T A D N H A OR    a     2. p a]3 D ASI T A D N H A O E N O ATIN, A D UR TY  O E N O N A DSITR  ;    ( rd t a S S nM I an p() ( N ( “AT  ( “I DE M T D T T A ( “MT  N R I S T E S A I  I  O R1())CA. ( “NY YSSS S T Y ,D :  () MSPA,42U.T E E A CT   5;]
+[DELETED: H 1  () MDIA A E E     §101 E  E R–GA;  ()IA E B P S T T FRISA1; E N E C    () .VA ( “PT   () ’T A RTS AY I A AS T Y ,D   ()IIY T ER P A C IR O,,FI W I T P T P I A T T A ( “PD S T Y N,, C F L O F ES A I P O A O A CM ST JT AN,,T E E Y T N ,,,,() H  2.() ( H A T N R O A P I A U T T ( T:  () AT DNSY   () .IW]
+[DELETED:  H () ( IFS  DN ,:  ()W DTS  ()IP P A R P O T NT   () IS D   1 A; DN    2 TS ( T A RTS E O T R T W P A O D. ( T D (  T D T P O T R P O T N() ( () UIPT DRSS’.  () IF T O H M T O C S W AS T D S A T A A O O M O T ORS C A D D. ( I T D D T T A I E T A O T A RTS AS T.]
+[DELETED: H 1() ( AN A R M A T D T T W B F A W R F W T D S F T R F ( T:  () ;T  () ;ITT   ()IT ( () H D  E30.  () IF A T R F I I N B T DN T D M R T,TS. (  A R M W A R F B S A N O T W T T.() ( N R O A R F I F TT  DA. ( () I,,F A T IN T DE S  D  () I,,IF A T IN T DE T  D  () I,,IF A T IN T D T T A R F T P AT T]
+[DELETED:  H TS. ( () ON C O T IN TTCN  () IH T A T DNS D T T F O’H30. E  () ( F A A R W T R A D W T R O T IN T F D EAH. ( AOA F D E  () ;T  () ;ITT   ()IT ( AOA A T T F O D E1,S2SGA.  U   T O R (  F D. ( () A,FL  FH EE  R I N T I W O T AS T S R T F A O T F R  () A,IFL  F E AT  D]
+[DELETED: H 1  () A,IFL  F E A E T O G T T A R F TT T D S R ITS. (  F D ES  DAH,TS.() ( TH D M U T P I T S E T C D C (  D F C D C S I A() ( A, O H  A W T S S B I F A CLL O A P F M A E DN. (  I T S S G R T A C O() TSHH E U E 1  ( T   ( b e t p t  s a a A O a   ( i]
+[DELETED:  H   ( ( ( W o a e w o o e w n t t a w    ( T t p s b d b t t o i a c i w t A   ( T a o a u s ( o t s a s ( D  S C A T R E B TN W T F A W T B A T T  ( I n w C () I,“NN DT  I C C P S F A() S()U C N  T 0 CRS E S S T T: ( S O E N O T IR  O,ITI NR T N A D U O T ( ; ( ; ( ;]
+[DELETED: H 1 ( ’;RS ( RS ( S I W T IR  ( F E I N O T() ( H B ):  () ;B  () ;IMY   ()IB O M A D B T. ( H     216.() ( A:N  () G A W W F T F VN  () $IS  S   $T  DA. ( () ( ANS 5T .]
+[DELETED:  H  ( T DAH. D E() N I A W T S I N L F T T.() TSHH E O U E M A R A  1  ( Te]E()X D NT c mn f  ( T o mn f  ( I a p b i t c m d t a m c t() H C M M T A T B P T A A A T W A S O A M C O C S T A C S O T W PT W A S O A M C OE O T F F A T B T H UC,,N L O O C ST O L DT O E DN E SA, 1  (  “   () p] ( a]
+[DELETED: H 2   () e ( md  () ()(IS T P  A  O TN A D F S F E C L I TTS HE T W T P O A L D O ST,   1 9 C S A L  O PTSE ;   2  (  P O D T A O T II ():  ()T B C S O F ETS   E 14N   () (IT A D U I I O T (  C S D T A A D U II O T S I T C FS A() I B DD T T A O T D   ( “ r m t a t a b c s o i a p o c s f a s i t a F I C A t o a l 1 o t 2 f p l   . 1  ( ( S t t p o p ( o t s a s ( o t s i a p t e o m c s w f]
+[DELETED:  H    ( ( T i a r p t t a o c s t    ( T p m b r b e t t a    ( I b     1 t t o a e s o p sg   A.[]  a p f p o m or m d pf s,][]   B  t t o a u a p o o r t ot,]   C  a r  r, ]   D  a s      2 t c i     3. w a o m c s o w l t o w a m i o t 2 f p ll  .]($SL    ( T p m n b r s o t b o e p o a d o s a t e f w t p i d c    () 1 I t c d t t a o t g w g     2 T]
+[DELETED: H 2     A t u     B h     C h ;     D i p c 1  ( ( T w b a   ( ( I o o b p h m a r f a o m d t i a a o a o m b d t c s    ( I t c a a o m t a o a a o §) ]§1()( CI d (  A O T D F T S O C L I A PTS H U §()()II TS I B T C D T A O A C A 1  ( I t s “ S A m t C S A  ( O n t C S A a w § 1RSEC    ]
+[DELETED:  H ] oRS I  D O O C W M1 ,   ( S   ( M i a w l o w p t d  ( ( P a s a i   ( A c u t s s b l t w t A p  ( ( A o   ( A t o  ( T t   ( T p   ( T    ( T i i]6  M R C S O I T I H ARSE   ,1 R C S O I T I H A CRS     ( T    ( T a]
+[DELETED: H 2    ( T p    ( O A  ( T S t  S A B I F E T t A s t e O]

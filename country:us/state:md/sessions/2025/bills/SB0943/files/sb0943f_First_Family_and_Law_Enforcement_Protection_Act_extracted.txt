@@ -1,0 +1,855 @@
+Title: SENATE BILL 943
+Official Title: SENATE BILL 943
+Number of Sections: 1
+Source: versions - First - Family and Law Enforcement Protection Act
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+D4 5lr2832
+CF HB 1050
+By: Senators Hettleman, Smith, Waldstreicher, Zucker, Hester, Love, Muse, and
+Brooks
+Introduced and read first time: January 28, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Family and Law Enforcement Protection Act
+3 FOR the purpose of altering and establishing provisions relating to the surrender of
+4 firearms by a respondent under the domestic violence statutes; creating the Task
+5 Force to Study the Use of Firearms in Domestic Violence Situations; and generally
+6 relating to protective orders.
+7 BY repealing and reenacting, without amendments,
+8 Article – Family Law
+9 Section 4–504(a)
+10 Annotated Code of Maryland
+11 (2019 Replacement Volume and 2024 Supplement)
+12 BY repealing and reenacting, with amendments,
+13 Article – Family Law
+14 Section 4–504(b), 4–504.1(d) through (i), 4–505(a), 4–506(f), 4–506.1, and 4–509(a)
+15 Annotated Code of Maryland
+16 (2019 Replacement Volume and 2024 Supplement)
+17 BY adding to
+18 Article – Family Law
+19 Section 4–504(e) and 4–504.1(d)
+20 Annotated Code of Maryland
+21 (2019 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Family Law
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0943*
+2 SENATE BILL 943
+1 4–504.
+2 (a) (1) A petitioner may seek relief from abuse by filing with a court, or with a
+3 commissioner under the circumstances specified in § 4–504.1(a) of this subtitle, a petition
+4 that alleges abuse of any person eligible for relief by the respondent.
+5 (2) A petition may be filed under this subtitle if:
+6 (i) the abuse is alleged to have occurred in the State; or
+7 (ii) the person eligible for relief is a resident of the State, regardless
+8 of whether the abuse is alleged to have occurred in the State.
+9 (b) (1) The petition shall:
+10 (i) be under oath; and
+11 (ii) include any information known to the petitioner of:
+12 1. the nature and extent of the abuse for which the relief is
+13 being sought, including information known to the petitioner concerning previous injury
+14 resulting from abuse by the respondent;
+15 2. each previous action between the parties in any court;
+16 3. each pending action between the parties in any court;
+17 4. the whereabouts of the respondent, if known;
+18 5. WHETHER THE RESPONDENT POSSESSES A VALID
+19 HANDGUN QUALIFICATION LICENSE ISSUED TO THE RESPONDENT BY THE
+20 SECRETARY OF STATE POLICE;
+21 6. WHETHER THE RESPONDENT OWNS OR POSSESSES A
+22 FIREARM;
+23 [5.] 7. if financial relief is requested, information known to the
+24 petitioner regarding the financial resources of the respondent; and
+25 [6.] 8. in a case of alleged child abuse or alleged abuse of a
+26 vulnerable adult, the whereabouts of the child or vulnerable adult and any other
+27 information relating to the abuse of the child or vulnerable adult.
+28 (2) If the petition states that disclosure of the address of a person eligible
+29 for relief would risk further abuse of a person eligible for relief, or reveal the confidential
+30 address of a shelter for domestic violence victims, that address may be omitted from all
+SENATE BILL 943 3
+1 documents filed with a commissioner or filed with, or transferred to, a court. If disclosure
+2 is necessary to determine jurisdiction or consider any venue issue, it shall be made orally
+3 and in camera and may not be disclosed to the respondent.
+4 (E) IF THE PETITION STATES THAT THE RESPONDENT POSSESSES A VALID
+5 HANDGUN QUALIFICATION LICENSE OR THAT THE RESPONDENT OWNS OR
+6 POSSESSES A FIREARM, THE PETITIONER SHALL INCLUDE WITH THE PETITION THE
+7 FOLLOWING INFORMATION KNOWN TO THE PETITIONER:
+8 (1) THE LENGTH OF TIME THAT THE PETITIONER HAS KNOWN OR
+9 LIVED WITH THE RESPONDENT;
+10 (2) WHETHER THE PETITIONER IS IN POSSESSION OF A VALID
+11 HANDGUN QUALIFICATION LICENSE OR OWNS OR IS IN POSSESSION OF A FIREARM;
+12 (3) WHETHER THE PETITIONER:
+13 (I) HAS A SAFETY PLAN;
+14 (II) IS WORKING WITH A COMMUNITY DOMESTIC VIOLENCE
+15 AGENCY; OR
+16 (III) HAS A SPECIFIC COMMUNITY ADVOCATE;
+17 (4) THE POTENTIAL LOCATION OF THE RESPONDENT’S FIREARM;
+18 (5) THE LAST TIME THE PETITIONER SAW THE RESPONDENT’S
+19 FIREARM;
+20 (6) THE PETITIONER’S FAMILIARITY WITH THE RESPONDENT’S
+21 HABITS REGARDING THE FIREARM;
+22 (7) THE MAKE AND MODEL OF THE RESPONDENT’S FIREARM;
+23 (8) HOW MANY AND WHAT TYPE OF FIREARMS THE RESPONDENT MAY
+24 HAVE ACCESS TO;
+25 (9) THE CONTACT INFORMATION OF OTHER INDIVIDUALS WHO COULD
+26 VERIFY THE LOCATION OF THE RESPONDENT’S FIREARM, INCLUDING EACH
+27 INDIVIDUAL’S:
+28 (I) NAME;
+29 (II) PHONE NUMBER;
+4 SENATE BILL 943
+1 (III) ADDRESS; AND
+2 (IV) RELATIONSHIP TO THE PETITIONER AND THE RESPONDENT;
+3 (10) WHETHER THE RESPONDENT KEEPS THE FIREARM IN THE
+4 RESPONDENT’S CAR AND, IF SO:
+5 (I) THE MAKE AND MODEL OF THE CAR; AND
+6 (II) THE LICENSE PLATE NUMBER;
+7 (11) WHETHER THERE ARE, OR COULD BE, FIREARMS AT THE
+8 RESPONDENT’S CURRENT RESIDENCE AND, IF SO, THE NAMES AND DATES OF BIRTH
+9 OF ALL OF THE INDIVIDUALS IN THE RESIDENCE;
+10 (12) THE RESPONDENT’S ATTITUDE TOWARD LAW ENFORCEMENT; AND
+11 (13) WHETHER THE RESPONDENT:
+12 (I) HAS PREVIOUSLY PAWNED A FIREARM AND, IF SO, THE
+13 NAME OF THE PAWN SHOP;
+14 (II) IS A CURRENT OR FORMER MEMBER OF THE MILITARY AND,
+15 IF SO, WHICH BRANCH AND THE NAME OF THE RESPONDENT’S COMMANDING
+16 OFFICER;
+17 (III) HAS A VALID HUNTING LICENSE OR HUNTS AND, IF SO, THE
+18 MOST RECENT DATE THE RESPONDENT WENT HUNTING;
+19 (IV) GOES TO SHOOTING RANGES AND, IF SO, THE LOCATION AND
+20 TIMES THE RESPONDENT GOES TO THE RANGES;
+21 (V) DOES TARGET PRACTICE AND, IF SO, WHEN AND WHERE THE
+22 RESPONDENT DOES TARGET PRACTICE;
+23 (VI) KNOWS HOW TO MAKE EXPLOSIVES;
+24 (VII) HAS BOMB–MAKING MATERIAL OR HAS ACCESS TO
+25 BOMB–MAKING MATERIAL;
+26 (VIII) HAS ANY PHOTOS ON SOCIAL MEDIA OF THE RESPONDENT
+27 WITH A FIREARM; AND
+SENATE BILL 943 5
+1 (IX) HAS BEEN SUICIDAL OR ON A MENTAL HEALTH HOLD OR HAS
+2 OTHER MENTAL HEALTH CONCERNS.
+3 4–504.1.
+4 (D) AN INTERIM PROTECTIVE ORDER SHALL ORDER THE RESPONDENT TO
+5 SURRENDER TO LAW ENFORCEMENT AUTHORITIES ANY FIREARM IN THE
+6 RESPONDENT’S POSSESSION, AND TO REFRAIN FROM PURCHASING OR POSSESSING
+7 A FIREARM, FOR THE DURATION OF THE INTERIM PROTECTIVE ORDER.
+8 [(d)] (E) If the commissioner awards temporary custody of a minor child under
+9 subsection (c)(4)(ii) or (5) of this section, the commissioner may order a law enforcement
+10 officer to use all reasonable and necessary force to return the minor child to the custodial
+11 parent after service of the interim protective order.
+12 [(e)] (F) (1) (i) An interim protective order shall state the date, time, and
+13 location for the temporary protective order hearing and a tentative date, time, and location
+14 for a final protective order hearing.
+15 (ii) Except as provided in subsection [(h)] (I) of this section, or unless
+16 the judge continues the hearing for good cause, a temporary protective order hearing shall
+17 be held on the first or second day on which a District Court judge is sitting after issuance
+18 of the interim protective order.
+19 (2) An interim protective order shall include in at least 10–point bold type:
+20 (i) notice to the respondent that:
+21 1. the respondent must give the court written notice of each
+22 change of address;
+23 2. if the respondent fails to appear at the temporary
+24 protective order hearing or any later hearing, the respondent may be served with any orders
+25 or notices in the case by first–class mail at the respondent’s last known address;
+26 3. the date, time, and location of the final protective order
+27 hearing is tentative only, and subject to change; and
+28 4. if the respondent does not attend the temporary protective
+29 order hearing, the respondent may call the Office of the Clerk of the District Court at the
+30 number provided in the order to find out the actual date, time, and location of any final
+31 protective order hearing;
+32 (ii) a statement of all possible forms and duration of relief that a
+33 temporary protective order or final protective order may contain;
+6 SENATE BILL 943
+1 (iii) notice to the petitioner and respondent that, at the hearing, a
+2 judge may issue a temporary protective order that grants any or all of the relief requested
+3 in the petition or may deny the petition, whether or not the respondent is in court;
+4 (iv) a warning to the respondent that violation of an interim
+5 protective order is a crime and that a law enforcement officer shall arrest the respondent,
+6 with or without a warrant, and take the respondent into custody if the officer has probable
+7 cause to believe that the respondent has violated any provision of the interim protective
+8 order; and
+9 (v) the phone number of the Office of the District Court Clerk.
+10 [(f)] (G) Whenever a commissioner issues an interim protective order, the
+11 commissioner shall:
+12 (1) immediately forward a copy of the petition and interim protective order
+13 to the appropriate law enforcement agency for service on the respondent; and
+14 (2) before the hearing scheduled in the interim protective order, transfer
+15 the case file and the return of service, if any, to the Office of the District Court Clerk.
+16 [(g)] (H) A law enforcement officer shall:
+17 (1) immediately on receipt of a petition and interim protective order, serve
+18 them on the respondent named in the order;
+19 (2) immediately after service, make a return of service to the
+20 commissioner’s office or, if the Office of the District Court Clerk is open for business, to the
+21 Clerk; and
+22 (3) within two hours after service of the order on the respondent,
+23 electronically notify the Department of Public Safety and Correctional Services of the
+24 service.
+25 [(h)] (I) (1) Except as otherwise provided in this subsection, an interim
+26 protective order shall be effective until the earlier of:
+27 (i) the temporary protective order hearing under § 4–505 of this
+28 subtitle; or
+29 (ii) the end of the second business day the Office of the Clerk of the
+30 District Court is open following the issuance of an interim protective order.
+31 (2) If the court is closed on the day on which the interim protective order is
+32 due to expire, the interim protective order shall be effective until the next day on which the
+33 court is open, at which time the court shall hold a temporary protective order hearing.
+SENATE BILL 943 7
+1 [(i)] (J) A decision of a commissioner to grant or deny relief under this section
+2 is not binding on, and does not affect any power granted to or duty imposed on, a judge of
+3 a circuit court or the District Court under any law, including any power to grant or deny a
+4 petition for a temporary protective order or final protective order.
+5 4–505.
+6 (a) (1) If, after a hearing on a petition, whether ex parte or otherwise, a judge
+7 finds that there are reasonable grounds to believe that a person eligible for relief has been
+8 abused, the judge may enter a temporary protective order to protect any person eligible for
+9 relief from abuse.
+10 (2) The temporary protective order may order any or all of the following
+11 relief:
+12 (i) order the respondent to refrain from further abuse or threats of
+13 abuse of a person eligible for relief;
+14 (ii) order the respondent to refrain from contacting, attempting to
+15 contact, or harassing any person eligible for relief;
+16 (iii) order the respondent to refrain from entering the residence of a
+17 person eligible for relief;
+18 (iv) where the person eligible for relief and the respondent are
+19 residing together at the time of the alleged abuse, order the respondent to vacate the home
+20 immediately and award temporary use and possession of the home to the person eligible
+21 for relief or in the case of alleged abuse of a child or alleged abuse of a vulnerable adult,
+22 award temporary use and possession of the home to an adult living in the home, provided
+23 that the court may not grant an order to vacate and award temporary use and possession
+24 of the home to a nonspouse person eligible for relief unless the name of the person eligible
+25 for relief appears on the lease or deed to the home or the person eligible for relief has resided
+26 in the home with the respondent for a period of at least 90 days within 1 year before the
+27 filing of the petition;
+28 (v) order the respondent to remain away from the place of
+29 employment, school, or temporary residence of a person eligible for relief or home of other
+30 family members;
+31 (vi) order the respondent to remain away from a child care provider
+32 of a person eligible for relief while a child of the person is in the care of the child care
+33 provider;
+34 (vii) award temporary custody of a minor child of the person eligible
+35 for relief and the respondent; AND
+8 SENATE BILL 943
+1 (viii) [order the respondent to surrender to law enforcement
+2 authorities any firearm in the respondent’s possession, and to refrain from possession of
+3 any firearm, for the duration of the temporary protective order if the abuse consisted of:
+4 1. the use of a firearm by the respondent against a person
+5 eligible for relief;
+6 2. a threat by the respondent to use a firearm against a
+7 person eligible for relief;
+8 3. serious bodily harm to a person eligible for relief caused by
+9 the respondent; or
+10 4. a threat by the respondent to cause serious bodily harm to
+11 a person eligible for relief; and
+12 (ix)] award temporary possession of any pet of the person eligible for
+13 relief or the respondent.
+14 (3) If the judge awards temporary custody of a minor child under
+15 paragraph (2)(vii) of this subsection, the judge may order a law enforcement officer to use
+16 all reasonable and necessary force to return the minor child to the custodial parent after
+17 service of the temporary protective order.
+18 (4) THE TEMPORARY PROTECTIVE ORDER SHALL ORDER THE
+19 RESPONDENT TO SURRENDER TO LAW ENFORCEMENT AUTHORITIES ANY FIREARM
+20 IN THE RESPONDENT’S POSSESSION AND ANY HANDGUN QUALIFICATION LICENSE
+21 ISSUED TO THE RESPONDENT, AND TO REFRAIN FROM PURCHASING OR POSSESSING
+22 A FIREARM, FOR THE DURATION OF THE TEMPORARY PROTECTIVE ORDER.
+23 4–506.
+24 (f) The final protective order shall order the respondent to surrender to law
+25 enforcement authorities any firearm in the respondent’s possession AND ANY HANDGUN
+26 QUALIFICATION LICENSE ISSUED TO THE RESPONDENT, and to refrain from
+27 [possession of any] PURCHASING OR POSSESSING A firearm, for the duration of the
+28 protective order.
+29 4–506.1.
+30 (A) (1) IF A RESPONDENT IS ORDERED TO SURRENDER A FIREARM UNDER
+31 THIS SUBTITLE, THE RESPONDENT SHALL:
+32 (I) SURRENDER ALL FIREARMS AND ANY HANDGUN
+33 QUALIFICATION LICENSE IN THE RESPONDENT’S POSSESSION TO LAW
+34 ENFORCEMENT AUTHORITIES WITHIN 24 HOURS AFTER THE ISSUANCE OF THE
+SENATE BILL 943 9
+1 ORDER; AND
+2 (II) PROVIDE WRITTEN PROOF OF THE SURRENDER TO THE
+3 COURT AND THE LOCAL SHERIFF’S OFFICE WITHIN 2 BUSINESS DAYS AFTER THE
+4 SURRENDER.
+5 (2) IF THE RESPONDENT DOES NOT POSSESS A FIREARM, THE
+6 RESPONDENT SHALL SUBMIT AN AFFIDAVIT TO THE COURT TO THAT EFFECT SIGNED
+7 UNDER PENALTY OF PERJURY WITHIN 2 BUSINESS DAYS AFTER THE SURRENDER.
+8 (3) IF THE RESPONDENT HAS LAWFULLY SOLD OR TRANSFERRED A
+9 FIREARM WITHIN THE PRIOR 30 DAYS, THE RESPONDENT SHALL SUBMIT THE
+10 TRANSFER PAPERWORK TO THE COURT WITHIN 2 BUSINESS DAYS AFTER THE
+11 SURRENDER.
+12 [(a)] (B) If a respondent surrenders a firearm under [§ 4–505 or § 4–506 of] this
+13 subtitle, a law enforcement officer shall:
+14 (1) provide to the respondent information on the process for retaking
+15 possession of the firearm; and
+16 (2) transport and store the firearm in a protective case, if one is available,
+17 and in a manner intended to prevent damage to the firearm during the time the protective
+18 order is in effect.
+19 (C) (1) THE RESPONDENT MAY RETAKE POSSESSION OF THE FIREARM AT
+20 THE EXPIRATION OF AN INTERIM PROTECTIVE ORDER UNLESS:
+21 (I) THE RESPONDENT IS ORDERED TO SURRENDER THE
+22 FIREARM IN A TEMPORARY PROTECTIVE ORDER ISSUED UNDER § 4–505 OF THIS
+23 SUBTITLE; OR
+24 (II) THE RESPONDENT IS NOT OTHERWISE LEGALLY ENTITLED
+25 TO OWN OR POSSESS THE FIREARM.
+26 [(b) (1)] (2) The respondent may retake possession of the firearm at the
+27 expiration of a temporary protective order unless:
+28 (i) the respondent is ordered to surrender the firearm in a protective
+29 order issued under § 4–506 of this subtitle; or
+30 (ii) the respondent is not otherwise legally entitled to own or possess
+31 the firearm.
+32 [(2)] (3) The respondent may retake possession of the firearm at the
+10 SENATE BILL 943
+1 expiration of a final protective order unless:
+2 (i) the protective order is extended under § 4–507(a)(2) of this
+3 subtitle; or
+4 (ii) the respondent is not otherwise legally entitled to own or possess
+5 the firearm.
+6 [(c)] (D) Notwithstanding any other law, a respondent may transport a firearm
+7 if the respondent is carrying a protective order requiring the surrender of the firearm and:
+8 (1) the firearm is unloaded;
+9 (2) the respondent has notified the law enforcement unit, barracks, or
+10 station that the firearm is being transported in accordance with the protective order; and
+11 (3) the respondent transports the firearm directly to the law enforcement
+12 unit, barracks, or station.
+13 (E) A RESPONDENT WHO DOES NOT WISH TO RECOVER A FIREARM
+14 SURRENDERED IN ACCORDANCE WITH A PROTECTIVE ORDER OR WHO IS OTHERWISE
+15 PROHIBITED FROM POSSESSING A FIREARM MAY:
+16 (1) SELL OR TRANSFER THE FIREARM OR AMMUNITION TO:
+17 (I) A LICENSED FIREARM DEALER; OR
+18 (II) ANOTHER PERSON:
+19 1. WHO IS NOT PROHIBITED FROM POSSESSING A
+20 FIREARM OR AMMUNITION UNDER STATE OR FEDERAL LAW; AND
+21 2. WHO DOES NOT LIVE IN THE SAME RESIDENCE AS THE
+22 RESPONDENT; OR
+23 (2) REQUEST THE DESTRUCTION OF THE FIREARM.
+24 (F) A LAW ENFORCEMENT AGENCY THAT RECEIVES A FIREARM
+25 SURRENDERED UNDER THIS SUBTITLE SHALL ISSUE WRITTEN PROOF OF THE
+26 SURRENDER TO THE RESPONDENT, INCLUDING:
+27 (1) THE NAME OF THE PERSON SURRENDERING THE FIREARM;
+28 (2) THE DATE THE FIREARM WAS SURRENDERED; AND
+SENATE BILL 943 11
+1 (3) (I) SUBJECT TO ITEM (II) OF THIS ITEM, THE SERIAL NUMBER,
+2 MAKE, AND MODEL OF THE FIREARM; OR
+3 (II) FOR A FIREARM MANUFACTURED PRIOR TO 1968 WITHOUT
+4 A SERIAL NUMBER, THE IDENTIFYING MARKS ON THE FIREARM.
+5 (G) (1) TO CARRY OUT THE PROVISIONS OF THIS SUBTITLE RELATING TO
+6 THE SURRENDER OF FIREARMS, A LAW ENFORCEMENT OFFICER SHALL ACCOMPANY
+7 THE RESPONDENT OR PROCEED WITHOUT THE RESPONDENT’S PRESENCE, IF
+8 NECESSARY, TO ANY PLACE WHERE THE LAW ENFORCEMENT OFFICER HAS
+9 PROBABLE CAUSE TO BELIEVE A FIREARM IN THE POSSESSION OF THE RESPONDENT
+10 IS LOCATED TO ENSURE THAT THE RESPONDENT DOES NOT GAIN ACCESS TO A
+11 FIREARM.
+12 (2) ON APPLICATION BY THE STATE’S ATTORNEY OR A LAW
+13 ENFORCEMENT OFFICER, BASED ON PROBABLE CAUSE TO BELIEVE THAT THE
+14 RESPONDENT HAS FAILED TO SURRENDER A FIREARM IN ACCORDANCE WITH THIS
+15 SECTION OR IS IN POSSESSION OF OTHER FIREARMS, THE COURT MAY AUTHORIZE
+16 THE EXECUTION OF A SEARCH WARRANT FOR THE REMOVAL OF A FIREARM AT ANY
+17 LOCATION AT WHICH THE COURT HAS PROBABLE CAUSE TO BELIEVE A FIREARM
+18 POSSESSED BY THE RESPONDENT IS LOCATED.
+19 (3) IF AN ORDER UNDER THIS SUBTITLE PROHIBITS A RESPONDENT
+20 FROM RETURNING TO THE SCENE OF DOMESTIC VIOLENCE OR ANOTHER PLACE
+21 WHERE A LAW ENFORCEMENT OFFICER HAS PROBABLE CAUSE TO BELIEVE A
+22 FIREARM IN THE POSSESSION OF THE RESPONDENT IS LOCATED, THE LAW
+23 ENFORCEMENT OFFICER SHALL PROCEED WITHOUT THE RESPONDENT’S PRESENCE.
+24 4–509.
+25 (a) A person may not fail to comply with the relief granted in an interim protective
+26 order under § 4–504.1(c)(1), (2), (3), (4)(i), (7), or (8) OR (D) of this subtitle, a temporary
+27 protective order under § 4–505(a)(2)(i), (ii), (iii), (iv), OR (v), [or (viii)] OR (4) of this subtitle,
+28 or a final protective order under § 4–506(d)(1), (2), (3), (4), or (5), or (f) of this subtitle.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That:
+30 (a) There is a Task Force to Study the Use of Firearms in Domestic Violence
+31 Situations.
+32 (b) The Task Force consists of the following members:
+33 (1) two members of the Senate of Maryland, appointed by the President of
+34 the Senate;
+12 SENATE BILL 943
+1 (2) two members of the House of Delegates, appointed by the Speaker of
+2 the House;
+3 (3) the following members, appointed by the Secretary of Public Safety and
+4 Correctional Services:
+5 (i) one representative of the Maryland Chiefs of Police Association;
+6 and
+7 (ii) one representative of the Maryland Sheriffs’ Association; and
+8 (4) the following members, appointed by the Governor:
+9 (i) one domestic violence legal advocate;
+10 (ii) one domestic violence survivor;
+11 (iii) one representative of a statewide domestic violence awareness
+12 group;
+13 (iv) one representative of a gun safety advocacy group; and
+14 (v) one representative of the Administrative Office of the Courts.
+15 (c) (1) The President of the Senate shall designate one of the members
+16 appointed from the Senate as cochair of the Task Force.
+17 (2) The Speaker of the House of Delegates shall designate one of the
+18 members appointed from the House as cochair of the Task Force.
+19 (d) The Center for Firearm Violence Prevention and Intervention shall provide
+20 staff for the Task Force.
+21 (e) A member of the Task Force:
+22 (1) may not receive compensation as a member of the Task Force; but
+23 (2) is entitled to reimbursement for expenses under the Standard State
+24 Travel Regulations, as provided in the State budget.
+25 (f) The Task Force shall examine approaches to:
+26 (1) ensure stakeholder accountability in the surrender of firearms by
+27 individuals prohibited from possessing a firearm due to a domestic violence protective
+28 order; and
+SENATE BILL 943 13
+1 (2) create a pilot program in urban, rural, and suburban communities to
+2 implement the Task Force’s recommendations.
+3 (g) On or before November 15, 2025, the Task Force shall submit a report on its
+4 recommendations to the Maryland General Assembly, in accordance with § 2–1257 of the
+5 State Government Article.
+6 SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take
+7 effect October 1, 2025.
+8 SECTION 4. AND BE IT FURTHER ENACTED, That, except as provided in Section
+9 3 of this Act, this Act shall take effect June 1, 2025. Section 2 of this Act shall remain
+10 effective for a period of 6 months and, at the end of November 30, 2025, Section 2 of this
+11 Act, with no further action required by the General Assembly, shall be abrogated and of no
+12 further force and effect.
+[DELETED: :CA      5   C A F F t p o a a e p r t t s o f F r B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  S  4  ( ( A c t   ( A    ( t    ( t o  ( ( T    ( b    ( i     1 t b r     2 e     3 e     4 t      T R P A V Q L I T T R B TSP; T O   6M     5.i]7 p     6.  a c o a c a o a a o a]8 v a t w o t c o v a a a o i   ( I f a]
+[DELETED: S 3 d i a ) F Q L O T T R O OM R ( L O T T T P H K O ( T P I I P O A V ( :  () ;HN  ()II W W A C D VY   () ;IHE ( ’;TSM (  L T T P S T RTSM ( ’ PRS F W T RTSM ( ’;TS ( ( T L O T RTS FM I EL:  () ;N  () ;IP]
+[DELETED:  S   () ;IAS   () ;VRT ( T R K T F I TTSD ,:  () ;TR   () ;ITR ( , T AE O C BE F A TTSD O , ( ’;TST  ( :  () ,H P P A F AD I SO TP  () IID SO W B A T N O T RTS C  () ,IHD O   () ,VGD O   () ,DD O   () ;IK  () –IH BBM M O H A TBML;  ()IHM ]
+[DELETED: S 5  ()XH 4  )N T L E A A F I TTSN M .  ()I]() s o p  () ( ( A]( l f    ( E () ]( t b o   ( A    ( n     1 t c     2 i t r f t a a t t p o     3 t h     4 i o n p  ( a t]
+[DELETED:  S     ( n j i    ( a w t t r t v o a i p w c o    ( t[]( () W a c i a i p o t c   ( i t   ( b t  () A](   ( i t   ( i a s m a r o s t t c C   ( w t h a s o t o o t r e n t D o P S a C S o t s  () ( E a o p i t s a i]( p    ( t t p o h u § 4 o t s    ( t D   ( I d c]
+[DELETED: S 7  () A]( i a p 4  ( ( I f a r   ( T r    ( o a    ( o c    ( o p    ( w t p e f r a t r a r i f a t o f i f    ( o t r t r a f t p o e f    ( o o p    ( a f]
+[DELETED:  S     ( o t r t s t l e a a     1 t e     2 a t b t r t u a f a a p     3 s t     4 a a    ()a r   ( I t j a t c o a m c u p a s    T P O S O TTST M . 4  ( T f p o s o t r t s t l e L I T T R , a t r f p o ay f f t d o t O P A p 4 ) ( FE :  ()S A F A A H L I T RTS P T L A W  H A T I O T]
+[DELETED: S 9R   ()IP W P O T S T TFS   ( I T R D N P A FM T  . (  W T P  DS T R S S T0 P T T C W  B D A TR[]()[ () I §f  s   ( p t t r i o t p f r p   ( t a o   )()H  ()T R I O T S T   4E   ()IT  ( () T r m r p o t f a t]( e    ( t o    ( t t   () T r m r p o t f a t](]
+[DELETED:  S  e    ( t p o i e u § 4 o t s    ( t t  () N]( i   ( t   ( t r h n t l e u b o s   ( t u )  R W D N W T R A FY ( :  () ;AR   () :IA   1 I N P F P AW    2T  ( .M )  L E A T R A F U T S S I W P O TT : ( ; ( ;D ]
+[DELETED: S 1 ( () (),S II M RE M ;  () 1IF  R M.() ( OS  R O P W T RTS PE IY T A P W T L E O H L T E T T R D N G A T AM ( OS’ A B T TES T O A L OR B O P C T B T TS D (  R T T S O D V O A P A L E O H P C T B A I T P O T R I LD T LTS. 4  ( A o)   p ( o)   ]( o  S  ( T t S  ( T   ( t t]
+[DELETED:  S    ( t t   ( t C    ( o a    ( o   ( t    ( o    ( o    ( o g    ( o    ( o  ( ( T P o t S s d o o t m a   ( T S o t H o D s d o o t m  ( T s  ( A   ( m   ( i T  ( T   ( e s a i t s o f b i p f p a f d t a d v p o]
+[DELETED: S 1   ( c i  ( O r S  S e  S 3 e A f]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 943
+D4 5lr2832
+CF HB 1050
+By: Senators Hettleman, Smith, Waldstreicher, Zucker, Hester, Love, Muse, and
+Brooks
+Introduced and read first time: January 28, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Family and Law Enforcement Protection Act
+3 FOR the purpose of altering and establishing provisions relating to the surrender of
+4 firearms by a respondent under the domestic violence statutes; creating the Task
+5 Force to Study the Use of Firearms in Domestic Violence Situations; and generally
+6 relating to protective orders.
+7 BY repealing and reenacting, without amendments,
+8 Article – Family Law
+9 Section 4–504(a)
+10 Annotated Code of Maryland
+11 (2019 Replacement Volume and 2024 Supplement)
+12 BY repealing and reenacting, with amendments,
+13 Article – Family Law
+14 Section 4–504(b), 4–504.1(d) through (i), 4–505(a), 4–506(f), 4–506.1, and 4–509(a)
+15 Annotated Code of Maryland
+16 (2019 Replacement Volume and 2024 Supplement)
+17 BY adding to
+18 Article – Family Law
+19 Section 4–504(e) and 4–504.1(d)
+20 Annotated Code of Maryland
+21 (2019 Replacement Volume and 2024 Supplement)
+22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+23 That the Laws of Maryland read as follows:
+24 Article – Family Law
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0943*
+
+2 SENATE BILL 943
+1 4–504.
+2 (a) (1) A petitioner may seek relief from abuse by filing with a court, or with a
+3 commissioner under the circumstances specified in § 4–504.1(a) of this subtitle, a petition
+4 that alleges abuse of any person eligible for relief by the respondent.
+5 (2) A petition may be filed under this subtitle if:
+6 (i) the abuse is alleged to have occurred in the State; or
+7 (ii) the person eligible for relief is a resident of the State, regardless
+8 of whether the abuse is alleged to have occurred in the State.
+9 (b) (1) The petition shall:
+10 (i) be under oath; and
+11 (ii) include any information known to the petitioner of:
+12 1. the nature and extent of the abuse for which the relief is
+13 being sought, including information known to the petitioner concerning previous injury
+14 resulting from abuse by the respondent;
+15 2. each previous action between the parties in any court;
+16 3. each pending action between the parties in any court;
+17 4. the whereabouts of the respondent, if known;
+18 5. WHETHER THE RESPONDENT POSSESSES A VALID
+19 HANDGUN QUALIFICATION LICENSE ISSUED TO THE RESPONDENT BY THE
+20 SECRETARY OF STATE POLICE;
+21 6. WHETHER THE RESPONDENT OWNS OR POSSESSES A
+22 FIREARM;
+23 [5.] 7. if financial relief is requested, information known to the
+24 petitioner regarding the financial resources of the respondent; and
+25 [6.] 8. in a case of alleged child abuse or alleged abuse of a
+26 vulnerable adult, the whereabouts of the child or vulnerable adult and any other
+27 information relating to the abuse of the child or vulnerable adult.
+28 (2) If the petition states that disclosure of the address of a person eligible
+29 for relief would risk further abuse of a person eligible for relief, or reveal the confidential
+30 address of a shelter for domestic violence victims, that address may be omitted from all
+
+SENATE BILL 943 3
+1 documents filed with a commissioner or filed with, or transferred to, a court. If disclosure
+2 is necessary to determine jurisdiction or consider any venue issue, it shall be made orally
+3 and in camera and may not be disclosed to the respondent.
+4 (E) IF THE PETITION STATES THAT THE RESPONDENT POSSESSES A VALID
+5 HANDGUN QUALIFICATION LICENSE OR THAT THE RESPONDENT OWNS OR
+6 POSSESSES A FIREARM, THE PETITIONER SHALL INCLUDE WITH THE PETITION THE
+7 FOLLOWING INFORMATION KNOWN TO THE PETITIONER:
+8 (1) THE LENGTH OF TIME THAT THE PETITIONER HAS KNOWN OR
+9 LIVED WITH THE RESPONDENT;
+10 (2) WHETHER THE PETITIONER IS IN POSSESSION OF A VALID
+11 HANDGUN QUALIFICATION LICENSE OR OWNS OR IS IN POSSESSION OF A FIREARM;
+12 (3) WHETHER THE PETITIONER:
+13 (I) HAS A SAFETY PLAN;
+14 (II) IS WORKING WITH A COMMUNITY DOMESTIC VIOLENCE
+15 AGENCY; OR
+16 (III) HAS A SPECIFIC COMMUNITY ADVOCATE;
+17 (4) THE POTENTIAL LOCATION OF THE RESPONDENT’S FIREARM;
+18 (5) THE LAST TIME THE PETITIONER SAW THE RESPONDENT’S
+19 FIREARM;
+20 (6) THE PETITIONER’S FAMILIARITY WITH THE RESPONDENT’S
+21 HABITS REGARDING THE FIREARM;
+22 (7) THE MAKE AND MODEL OF THE RESPONDENT’S FIREARM;
+23 (8) HOW MANY AND WHAT TYPE OF FIREARMS THE RESPONDENT MAY
+24 HAVE ACCESS TO;
+25 (9) THE CONTACT INFORMATION OF OTHER INDIVIDUALS WHO COULD
+26 VERIFY THE LOCATION OF THE RESPONDENT’S FIREARM, INCLUDING EACH
+27 INDIVIDUAL’S:
+28 (I) NAME;
+29 (II) PHONE NUMBER;
+
+4 SENATE BILL 943
+1 (III) ADDRESS; AND
+2 (IV) RELATIONSHIP TO THE PETITIONER AND THE RESPONDENT;
+3 (10) WHETHER THE RESPONDENT KEEPS THE FIREARM IN THE
+4 RESPONDENT’S CAR AND, IF SO:
+5 (I) THE MAKE AND MODEL OF THE CAR; AND
+6 (II) THE LICENSE PLATE NUMBER;
+7 (11) WHETHER THERE ARE, OR COULD BE, FIREARMS AT THE
+8 RESPONDENT’S CURRENT RESIDENCE AND, IF SO, THE NAMES AND DATES OF BIRTH
+9 OF ALL OF THE INDIVIDUALS IN THE RESIDENCE;
+10 (12) THE RESPONDENT’S ATTITUDE TOWARD LAW ENFORCEMENT; AND
+11 (13) WHETHER THE RESPONDENT:
+12 (I) HAS PREVIOUSLY PAWNED A FIREARM AND, IF SO, THE
+13 NAME OF THE PAWN SHOP;
+14 (II) IS A CURRENT OR FORMER MEMBER OF THE MILITARY AND,
+15 IF SO, WHICH BRANCH AND THE NAME OF THE RESPONDENT’S COMMANDING
+16 OFFICER;
+17 (III) HAS A VALID HUNTING LICENSE OR HUNTS AND, IF SO, THE
+18 MOST RECENT DATE THE RESPONDENT WENT HUNTING;
+19 (IV) GOES TO SHOOTING RANGES AND, IF SO, THE LOCATION AND
+20 TIMES THE RESPONDENT GOES TO THE RANGES;
+21 (V) DOES TARGET PRACTICE AND, IF SO, WHEN AND WHERE THE
+22 RESPONDENT DOES TARGET PRACTICE;
+23 (VI) KNOWS HOW TO MAKE EXPLOSIVES;
+24 (VII) HAS BOMB–MAKING MATERIAL OR HAS ACCESS TO
+25 BOMB–MAKING MATERIAL;
+26 (VIII) HAS ANY PHOTOS ON SOCIAL MEDIA OF THE RESPONDENT
+27 WITH A FIREARM; AND
+
+SENATE BILL 943 5
+1 (IX) HAS BEEN SUICIDAL OR ON A MENTAL HEALTH HOLD OR HAS
+2 OTHER MENTAL HEALTH CONCERNS.
+3 4–504.1.
+4 (D) AN INTERIM PROTECTIVE ORDER SHALL ORDER THE RESPONDENT TO
+5 SURRENDER TO LAW ENFORCEMENT AUTHORITIES ANY FIREARM IN THE
+6 RESPONDENT’S POSSESSION, AND TO REFRAIN FROM PURCHASING OR POSSESSING
+7 A FIREARM, FOR THE DURATION OF THE INTERIM PROTECTIVE ORDER.
+8 [(d)] (E) If the commissioner awards temporary custody of a minor child under
+9 subsection (c)(4)(ii) or (5) of this section, the commissioner may order a law enforcement
+10 officer to use all reasonable and necessary force to return the minor child to the custodial
+11 parent after service of the interim protective order.
+12 [(e)] (F) (1) (i) An interim protective order shall state the date, time, and
+13 location for the temporary protective order hearing and a tentative date, time, and location
+14 for a final protective order hearing.
+15 (ii) Except as provided in subsection [(h)] (I) of this section, or unless
+16 the judge continues the hearing for good cause, a temporary protective order hearing shall
+17 be held on the first or second day on which a District Court judge is sitting after issuance
+18 of the interim protective order.
+19 (2) An interim protective order shall include in at least 10–point bold type:
+20 (i) notice to the respondent that:
+21 1. the respondent must give the court written notice of each
+22 change of address;
+23 2. if the respondent fails to appear at the temporary
+24 protective order hearing or any later hearing, the respondent may be served with any orders
+25 or notices in the case by first–class mail at the respondent’s last known address;
+26 3. the date, time, and location of the final protective order
+27 hearing is tentative only, and subject to change; and
+28 4. if the respondent does not attend the temporary protective
+29 order hearing, the respondent may call the Office of the Clerk of the District Court at the
+30 number provided in the order to find out the actual date, time, and location of any final
+31 protective order hearing;
+32 (ii) a statement of all possible forms and duration of relief that a
+33 temporary protective order or final protective order may contain;
+
+6 SENATE BILL 943
+1 (iii) notice to the petitioner and respondent that, at the hearing, a
+2 judge may issue a temporary protective order that grants any or all of the relief requested
+3 in the petition or may deny the petition, whether or not the respondent is in court;
+4 (iv) a warning to the respondent that violation of an interim
+5 protective order is a crime and that a law enforcement officer shall arrest the respondent,
+6 with or without a warrant, and take the respondent into custody if the officer has probable
+7 cause to believe that the respondent has violated any provision of the interim protective
+8 order; and
+9 (v) the phone number of the Office of the District Court Clerk.
+10 [(f)] (G) Whenever a commissioner issues an interim protective order, the
+11 commissioner shall:
+12 (1) immediately forward a copy of the petition and interim protective order
+13 to the appropriate law enforcement agency for service on the respondent; and
+14 (2) before the hearing scheduled in the interim protective order, transfer
+15 the case file and the return of service, if any, to the Office of the District Court Clerk.
+16 [(g)] (H) A law enforcement officer shall:
+17 (1) immediately on receipt of a petition and interim protective order, serve
+18 them on the respondent named in the order;
+19 (2) immediately after service, make a return of service to the
+20 commissioner’s office or, if the Office of the District Court Clerk is open for business, to the
+21 Clerk; and
+22 (3) within two hours after service of the order on the respondent,
+23 electronically notify the Department of Public Safety and Correctional Services of the
+24 service.
+25 [(h)] (I) (1) Except as otherwise provided in this subsection, an interim
+26 protective order shall be effective until the earlier of:
+27 (i) the temporary protective order hearing under § 4–505 of this
+28 subtitle; or
+29 (ii) the end of the second business day the Office of the Clerk of the
+30 District Court is open following the issuance of an interim protective order.
+31 (2) If the court is closed on the day on which the interim protective order is
+32 due to expire, the interim protective order shall be effective until the next day on which the
+33 court is open, at which time the court shall hold a temporary protective order hearing.
+
+SENATE BILL 943 7
+1 [(i)] (J) A decision of a commissioner to grant or deny relief under this section
+2 is not binding on, and does not affect any power granted to or duty imposed on, a judge of
+3 a circuit court or the District Court under any law, including any power to grant or deny a
+4 petition for a temporary protective order or final protective order.
+5 4–505.
+6 (a) (1) If, after a hearing on a petition, whether ex parte or otherwise, a judge
+7 finds that there are reasonable grounds to believe that a person eligible for relief has been
+8 abused, the judge may enter a temporary protective order to protect any person eligible for
+9 relief from abuse.
+10 (2) The temporary protective order may order any or all of the following
+11 relief:
+12 (i) order the respondent to refrain from further abuse or threats of
+13 abuse of a person eligible for relief;
+14 (ii) order the respondent to refrain from contacting, attempting to
+15 contact, or harassing any person eligible for relief;
+16 (iii) order the respondent to refrain from entering the residence of a
+17 person eligible for relief;
+18 (iv) where the person eligible for relief and the respondent are
+19 residing together at the time of the alleged abuse, order the respondent to vacate the home
+20 immediately and award temporary use and possession of the home to the person eligible
+21 for relief or in the case of alleged abuse of a child or alleged abuse of a vulnerable adult,
+22 award temporary use and possession of the home to an adult living in the home, provided
+23 that the court may not grant an order to vacate and award temporary use and possession
+24 of the home to a nonspouse person eligible for relief unless the name of the person eligible
+25 for relief appears on the lease or deed to the home or the person eligible for relief has resided
+26 in the home with the respondent for a period of at least 90 days within 1 year before the
+27 filing of the petition;
+28 (v) order the respondent to remain away from the place of
+29 employment, school, or temporary residence of a person eligible for relief or home of other
+30 family members;
+31 (vi) order the respondent to remain away from a child care provider
+32 of a person eligible for relief while a child of the person is in the care of the child care
+33 provider;
+34 (vii) award temporary custody of a minor child of the person eligible
+35 for relief and the respondent; AND
+
+8 SENATE BILL 943
+1 (viii) [order the respondent to surrender to law enforcement
+2 authorities any firearm in the respondent’s possession, and to refrain from possession of
+3 any firearm, for the duration of the temporary protective order if the abuse consisted of:
+4 1. the use of a firearm by the respondent against a person
+5 eligible for relief;
+6 2. a threat by the respondent to use a firearm against a
+7 person eligible for relief;
+8 3. serious bodily harm to a person eligible for relief caused by
+9 the respondent; or
+10 4. a threat by the respondent to cause serious bodily harm to
+11 a person eligible for relief; and
+12 (ix)] award temporary possession of any pet of the person eligible for
+13 relief or the respondent.
+14 (3) If the judge awards temporary custody of a minor child under
+15 paragraph (2)(vii) of this subsection, the judge may order a law enforcement officer to use
+16 all reasonable and necessary force to return the minor child to the custodial parent after
+17 service of the temporary protective order.
+18 (4) THE TEMPORARY PROTECTIVE ORDER SHALL ORDER THE
+19 RESPONDENT TO SURRENDER TO LAW ENFORCEMENT AUTHORITIES ANY FIREARM
+20 IN THE RESPONDENT’S POSSESSION AND ANY HANDGUN QUALIFICATION LICENSE
+21 ISSUED TO THE RESPONDENT, AND TO REFRAIN FROM PURCHASING OR POSSESSING
+22 A FIREARM, FOR THE DURATION OF THE TEMPORARY PROTECTIVE ORDER.
+23 4–506.
+24 (f) The final protective order shall order the respondent to surrender to law
+25 enforcement authorities any firearm in the respondent’s possession AND ANY HANDGUN
+26 QUALIFICATION LICENSE ISSUED TO THE RESPONDENT, and to refrain from
+27 [possession of any] PURCHASING OR POSSESSING A firearm, for the duration of the
+28 protective order.
+29 4–506.1.
+30 (A) (1) IF A RESPONDENT IS ORDERED TO SURRENDER A FIREARM UNDER
+31 THIS SUBTITLE, THE RESPONDENT SHALL:
+32 (I) SURRENDER ALL FIREARMS AND ANY HANDGUN
+33 QUALIFICATION LICENSE IN THE RESPONDENT’S POSSESSION TO LAW
+34 ENFORCEMENT AUTHORITIES WITHIN 24 HOURS AFTER THE ISSUANCE OF THE
+
+SENATE BILL 943 9
+1 ORDER; AND
+2 (II) PROVIDE WRITTEN PROOF OF THE SURRENDER TO THE
+3 COURT AND THE LOCAL SHERIFF’S OFFICE WITHIN 2 BUSINESS DAYS AFTER THE
+4 SURRENDER.
+5 (2) IF THE RESPONDENT DOES NOT POSSESS A FIREARM, THE
+6 RESPONDENT SHALL SUBMIT AN AFFIDAVIT TO THE COURT TO THAT EFFECT SIGNED
+7 UNDER PENALTY OF PERJURY WITHIN 2 BUSINESS DAYS AFTER THE SURRENDER.
+8 (3) IF THE RESPONDENT HAS LAWFULLY SOLD OR TRANSFERRED A
+9 FIREARM WITHIN THE PRIOR 30 DAYS, THE RESPONDENT SHALL SUBMIT THE
+10 TRANSFER PAPERWORK TO THE COURT WITHIN 2 BUSINESS DAYS AFTER THE
+11 SURRENDER.
+12 [(a)] (B) If a respondent surrenders a firearm under [§ 4–505 or § 4–506 of] this
+13 subtitle, a law enforcement officer shall:
+14 (1) provide to the respondent information on the process for retaking
+15 possession of the firearm; and
+16 (2) transport and store the firearm in a protective case, if one is available,
+17 and in a manner intended to prevent damage to the firearm during the time the protective
+18 order is in effect.
+19 (C) (1) THE RESPONDENT MAY RETAKE POSSESSION OF THE FIREARM AT
+20 THE EXPIRATION OF AN INTERIM PROTECTIVE ORDER UNLESS:
+21 (I) THE RESPONDENT IS ORDERED TO SURRENDER THE
+22 FIREARM IN A TEMPORARY PROTECTIVE ORDER ISSUED UNDER § 4–505 OF THIS
+23 SUBTITLE; OR
+24 (II) THE RESPONDENT IS NOT OTHERWISE LEGALLY ENTITLED
+25 TO OWN OR POSSESS THE FIREARM.
+26 [(b) (1)] (2) The respondent may retake possession of the firearm at the
+27 expiration of a temporary protective order unless:
+28 (i) the respondent is ordered to surrender the firearm in a protective
+29 order issued under § 4–506 of this subtitle; or
+30 (ii) the respondent is not otherwise legally entitled to own or possess
+31 the firearm.
+32 [(2)] (3) The respondent may retake possession of the firearm at the
+
+10 SENATE BILL 943
+1 expiration of a final protective order unless:
+2 (i) the protective order is extended under § 4–507(a)(2) of this
+3 subtitle; or
+4 (ii) the respondent is not otherwise legally entitled to own or possess
+5 the firearm.
+6 [(c)] (D) Notwithstanding any other law, a respondent may transport a firearm
+7 if the respondent is carrying a protective order requiring the surrender of the firearm and:
+8 (1) the firearm is unloaded;
+9 (2) the respondent has notified the law enforcement unit, barracks, or
+10 station that the firearm is being transported in accordance with the protective order; and
+11 (3) the respondent transports the firearm directly to the law enforcement
+12 unit, barracks, or station.
+13 (E) A RESPONDENT WHO DOES NOT WISH TO RECOVER A FIREARM
+14 SURRENDERED IN ACCORDANCE WITH A PROTECTIVE ORDER OR WHO IS OTHERWISE
+15 PROHIBITED FROM POSSESSING A FIREARM MAY:
+16 (1) SELL OR TRANSFER THE FIREARM OR AMMUNITION TO:
+17 (I) A LICENSED FIREARM DEALER; OR
+18 (II) ANOTHER PERSON:
+19 1. WHO IS NOT PROHIBITED FROM POSSESSING A
+20 FIREARM OR AMMUNITION UNDER STATE OR FEDERAL LAW; AND
+21 2. WHO DOES NOT LIVE IN THE SAME RESIDENCE AS THE
+22 RESPONDENT; OR
+23 (2) REQUEST THE DESTRUCTION OF THE FIREARM.
+24 (F) A LAW ENFORCEMENT AGENCY THAT RECEIVES A FIREARM
+25 SURRENDERED UNDER THIS SUBTITLE SHALL ISSUE WRITTEN PROOF OF THE
+26 SURRENDER TO THE RESPONDENT, INCLUDING:
+27 (1) THE NAME OF THE PERSON SURRENDERING THE FIREARM;
+28 (2) THE DATE THE FIREARM WAS SURRENDERED; AND
+
+SENATE BILL 943 11
+1 (3) (I) SUBJECT TO ITEM (II) OF THIS ITEM, THE SERIAL NUMBER,
+2 MAKE, AND MODEL OF THE FIREARM; OR
+3 (II) FOR A FIREARM MANUFACTURED PRIOR TO 1968 WITHOUT
+4 A SERIAL NUMBER, THE IDENTIFYING MARKS ON THE FIREARM.
+5 (G) (1) TO CARRY OUT THE PROVISIONS OF THIS SUBTITLE RELATING TO
+6 THE SURRENDER OF FIREARMS, A LAW ENFORCEMENT OFFICER SHALL ACCOMPANY
+7 THE RESPONDENT OR PROCEED WITHOUT THE RESPONDENT’S PRESENCE, IF
+8 NECESSARY, TO ANY PLACE WHERE THE LAW ENFORCEMENT OFFICER HAS
+9 PROBABLE CAUSE TO BELIEVE A FIREARM IN THE POSSESSION OF THE RESPONDENT
+10 IS LOCATED TO ENSURE THAT THE RESPONDENT DOES NOT GAIN ACCESS TO A
+11 FIREARM.
+12 (2) ON APPLICATION BY THE STATE’S ATTORNEY OR A LAW
+13 ENFORCEMENT OFFICER, BASED ON PROBABLE CAUSE TO BELIEVE THAT THE
+14 RESPONDENT HAS FAILED TO SURRENDER A FIREARM IN ACCORDANCE WITH THIS
+15 SECTION OR IS IN POSSESSION OF OTHER FIREARMS, THE COURT MAY AUTHORIZE
+16 THE EXECUTION OF A SEARCH WARRANT FOR THE REMOVAL OF A FIREARM AT ANY
+17 LOCATION AT WHICH THE COURT HAS PROBABLE CAUSE TO BELIEVE A FIREARM
+18 POSSESSED BY THE RESPONDENT IS LOCATED.
+19 (3) IF AN ORDER UNDER THIS SUBTITLE PROHIBITS A RESPONDENT
+20 FROM RETURNING TO THE SCENE OF DOMESTIC VIOLENCE OR ANOTHER PLACE
+21 WHERE A LAW ENFORCEMENT OFFICER HAS PROBABLE CAUSE TO BELIEVE A
+22 FIREARM IN THE POSSESSION OF THE RESPONDENT IS LOCATED, THE LAW
+23 ENFORCEMENT OFFICER SHALL PROCEED WITHOUT THE RESPONDENT’S PRESENCE.
+24 4–509.
+25 (a) A person may not fail to comply with the relief granted in an interim protective
+26 order under § 4–504.1(c)(1), (2), (3), (4)(i), (7), or (8) OR (D) of this subtitle, a temporary
+27 protective order under § 4–505(a)(2)(i), (ii), (iii), (iv), OR (v), [or (viii)] OR (4) of this subtitle,
+28 or a final protective order under § 4–506(d)(1), (2), (3), (4), or (5), or (f) of this subtitle.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That:
+30 (a) There is a Task Force to Study the Use of Firearms in Domestic Violence
+31 Situations.
+32 (b) The Task Force consists of the following members:
+33 (1) two members of the Senate of Maryland, appointed by the President of
+34 the Senate;
+
+12 SENATE BILL 943
+1 (2) two members of the House of Delegates, appointed by the Speaker of
+2 the House;
+3 (3) the following members, appointed by the Secretary of Public Safety and
+4 Correctional Services:
+5 (i) one representative of the Maryland Chiefs of Police Association;
+6 and
+7 (ii) one representative of the Maryland Sheriffs’ Association; and
+8 (4) the following members, appointed by the Governor:
+9 (i) one domestic violence legal advocate;
+10 (ii) one domestic violence survivor;
+11 (iii) one representative of a statewide domestic violence awareness
+12 group;
+13 (iv) one representative of a gun safety advocacy group; and
+14 (v) one representative of the Administrative Office of the Courts.
+15 (c) (1) The President of the Senate shall designate one of the members
+16 appointed from the Senate as cochair of the Task Force.
+17 (2) The Speaker of the House of Delegates shall designate one of the
+18 members appointed from the House as cochair of the Task Force.
+19 (d) The Center for Firearm Violence Prevention and Intervention shall provide
+20 staff for the Task Force.
+21 (e) A member of the Task Force:
+22 (1) may not receive compensation as a member of the Task Force; but
+23 (2) is entitled to reimbursement for expenses under the Standard State
+24 Travel Regulations, as provided in the State budget.
+25 (f) The Task Force shall examine approaches to:
+26 (1) ensure stakeholder accountability in the surrender of firearms by
+27 individuals prohibited from possessing a firearm due to a domestic violence protective
+28 order; and
+
+SENATE BILL 943 13
+1 (2) create a pilot program in urban, rural, and suburban communities to
+2 implement the Task Force’s recommendations.
+3 (g) On or before November 15, 2025, the Task Force shall submit a report on its
+4 recommendations to the Maryland General Assembly, in accordance with § 2–1257 of the
+5 State Government Article.
+6 SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take
+7 effect October 1, 2025.
+8 SECTION 4. AND BE IT FURTHER ENACTED, That, except as provided in Section
+9 3 of this Act, this Act shall take effect June 1, 2025. Section 2 of this Act shall remain
+10 effective for a period of 6 months and, at the end of November 30, 2025, Section 2 of this
+11 Act, with no further action required by the General Assembly, shall be abrogated and of no
+12 further force and effect.
+
+[DELETED: :CA      5   C A F F t p o a a e p r t t s o f F r B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A]
+[DELETED:  S  4  ( ( A c t   ( A    ( t    ( t o  ( ( T    ( b    ( i     1 t b r     2 e     3 e     4 t      T R P A V Q L I T T R B TSP; T O   6M     5.i]7 p     6.  a c o a c a o a a o a]8 v a t w o t c o v a a a o i   ( I f a]
+[DELETED: S 3 d i a ) F Q L O T T R O OM R ( L O T T T P H K O ( T P I I P O A V ( :  () ;HN  ()II W W A C D VY   () ;IHE ( ’;TSM (  L T T P S T RTSM ( ’ PRS F W T RTSM ( ’;TS ( ( T L O T RTS FM I EL:  () ;N  () ;IP]
+[DELETED:  S   () ;IAS   () ;VRT ( T R K T F I TTSD ,:  () ;TR   () ;ITR ( , T AE O C BE F A TTSD O , ( ’;TST  ( :  () ,H P P A F AD I SO TP  () IID SO W B A T N O T RTS C  () ,IHD O   () ,VGD O   () ,DD O   () ;IK  () –IH BBM M O H A TBML;  ()IHM ]
+[DELETED: S 5  ()XH 4  )N T L E A A F I TTSN M .  ()I]() s o p  () ( ( A]( l f    ( E () ]( t b o   ( A    ( n     1 t c     2 i t r f t a a t t p o     3 t h     4 i o n p  ( a t]
+[DELETED:  S     ( n j i    ( a w t t r t v o a i p w c o    ( t[]( () W a c i a i p o t c   ( i t   ( b t  () A](   ( i t   ( i a s m a r o s t t c C   ( w t h a s o t o o t r e n t D o P S a C S o t s  () ( E a o p i t s a i]( p    ( t t p o h u § 4 o t s    ( t D   ( I d c]
+[DELETED: S 7  () A]( i a p 4  ( ( I f a r   ( T r    ( o a    ( o c    ( o p    ( w t p e f r a t r a r i f a t o f i f    ( o t r t r a f t p o e f    ( o o p    ( a f]
+[DELETED:  S     ( o t r t s t l e a a     1 t e     2 a t b t r t u a f a a p     3 s t     4 a a    ()a r   ( I t j a t c o a m c u p a s    T P O S O TTST M . 4  ( T f p o s o t r t s t l e L I T T R , a t r f p o ay f f t d o t O P A p 4 ) ( FE :  ()S A F A A H L I T RTS P T L A W  H A T I O T]
+[DELETED: S 9R   ()IP W P O T S T TFS   ( I T R D N P A FM T  . (  W T P  DS T R S S T0 P T T C W  B D A TR[]()[ () I §f  s   ( p t t r i o t p f r p   ( t a o   )()H  ()T R I O T S T   4E   ()IT  ( () T r m r p o t f a t]( e    ( t o    ( t t   () T r m r p o t f a t](]
+[DELETED:  S  e    ( t p o i e u § 4 o t s    ( t t  () N]( i   ( t   ( t r h n t l e u b o s   ( t u )  R W D N W T R A FY ( :  () ;AR   () :IA   1 I N P F P AW    2T  ( .M )  L E A T R A F U T S S I W P O TT : ( ; ( ;D ]
+[DELETED: S 1 ( () (),S II M RE M ;  () 1IF  R M.() ( OS  R O P W T RTS PE IY T A P W T L E O H L T E T T R D N G A T AM ( OS’ A B T TES T O A L OR B O P C T B T TS D (  R T T S O D V O A P A L E O H P C T B A I T P O T R I LD T LTS. 4  ( A o)   p ( o)   ]( o  S  ( T t S  ( T   ( t t]
+[DELETED:  S    ( t t   ( t C    ( o a    ( o   ( t    ( o    ( o    ( o g    ( o    ( o  ( ( T P o t S s d o o t m a   ( T S o t H o D s d o o t m  ( T s  ( A   ( m   ( i T  ( T   ( e s a i t s o f b i p f p a f d t a d v p o]
+[DELETED: S 1   ( c i  ( O r S  S e  S 3 e A f]

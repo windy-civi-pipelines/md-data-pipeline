@@ -1,0 +1,339 @@
+Title: HOUSE BILL 662
+Official Title: HOUSE BILL 662
+Number of Sections: 1
+Source: versions - Third - Procurement - Indefinite Quantity Contracts - Authorization
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+P2 5lr2867
+By: Delegates Tomlinson, Boafo, Cardin, Edelson, Embry, Hornberger,
+Hutchinson, Spiegel, and Stonko Stonko, Alston, Bagnall, Bhandari,
+Chisholm, Cullison, Guzzone, Hill, S. Johnson, Kaiser, Kerr, Kipke, Lopez,
+Martinez, M. Morgan, Pena–Melnyk, Reilly, Rosenberg, Ross, Szeliga,
+Taveras, White Holland, Woods, and Woorman
+Introduced and read first time: January 24, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 27, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Procurement – Master Contracting Indefinite Quantity Contracts –
+3 Authorization
+4 FOR the purpose of increasing the number of units that are authorized to adopt the master
+5 contracting method of procurement; authorizing a procurement officer to award an
+6 indefinite quantity contract under certain circumstances; requiring the Board of
+7 Public Works to adopt certain regulations relating to assignment of work; and
+8 generally relating to the use of master contracting indefinite quantity contracts for
+9 State procurement.
+10 BY repealing and reenacting, with amendments,
+11 Article – State Finance and Procurement
+12 Section 13–101, 13–113, and 13–114 13–113
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – State Finance and Procurement
+17 Section 13–212.2
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0662*
+2 HOUSE BILL 662
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – State Finance and Procurement
+4 13–101.
+5 (a) In this subtitle the following words have the meanings indicated.
+6 (b) [“Designated procurement unit” means:
+7 (1) the Department of General Services;
+8 (2) the Department of Transportation; or
+9 (3) the Department of Information Technology, only with respect to an
+10 information technology master contract executed before July 1, 2022, until the earlier of:
+11 (i) the expiration date of all information technology master
+12 contracts; or
+13 (ii) June 30, 2027.
+14 (c)] “eMaryland Marketplace” or “eMaryland Marketplace Advantage” means the
+15 Internet–based procurement system managed by the Department of General Services.
+16 [(d)] (C) “Evaluated bid price” means the price of a bid after adjustment in
+17 accordance with objective measurable criteria.
+18 [(e)] (D) “Master contracting” means a streamlined procurement method that
+19 provides for the qualification of bidders and offerors for the procurement of services,
+20 supplies, or commodities.
+21 [(f)] (E) (1) “Objective measurable criteria” means standards that enable the
+22 State to compare the economy, effectiveness, or value of the subject of the bids.
+23 (2) “Objective measurable criteria” includes standards of reliability,
+24 operational costs, maintainability, useful life, and residual value.
+25 [(g)] (F) “Pay–for–success contracting” means a performance–based
+26 procurement method through which a unit contracts with an organization to deliver
+27 services or commodities in exchange for payment based on the achievement of outcomes.
+28 [(h)] (G) “Person” includes, unless the context requires otherwise:
+HOUSE BILL 662 3
+1 (1) the State;
+2 (2) a county, a municipal corporation, or any other political subdivision;
+3 and
+4 (3) any unit of the State government or a political subdivision.
+5 [(i)] (H) “Task order” means a procurement process in which only those vendors
+6 with master contracts may compete to provide the services, supplies, or commodities under
+7 the procurement.
+8 13–113.
+9 (a) [The designated procurement units] A UNIT may adopt master contracting, a
+10 streamlined procurement method, to provide for the qualification of an offeror in one or
+11 more categories of services, supplies, or commodities.
+12 (b) If a [designated procurement] unit adopts master contracting, the master
+13 contracting method shall include:
+14 (1) the categories of services, supplies, or commodities in which an offeror
+15 may submit a proposal for qualification;
+16 (2) a procedure for the consideration and approval of proposals for
+17 qualification of multiple offerors in each category of services, supplies, or commodities;
+18 (3) the execution of a standard contract for a specified period of time
+19 between the State and an offeror approved as a master contractor; and
+20 (4) a performance evaluation procedure to be used by a unit [of the
+21 Executive Branch] to evaluate the performance of a qualified offeror that has completed
+22 work on a task order.
+23 (c) (1) A unit [of the Executive Branch] that requires services, supplies, or
+24 commodities covered under a master contract may issue a solicitation for a task order to a
+25 master contractor consistent with the regulations adopted under § 13–114 of this subtitle.
+26 (2) Except as provided in subsection (f) of this section, the solicitation for a
+27 task order shall include a statement of the:
+28 (i) factors that will be used in evaluating a master contractor’s
+29 response; and
+30 (ii) relative importance of each factor.
+4 HOUSE BILL 662
+1 (d) (1) Except as provided in subsection (f) of this section, if the unit [of the
+2 Executive Branch] expects that the total cost of the services, supplies, or commodities will
+3 exceed $100,000, the unit shall issue a solicitation for a task order to all master contractors
+4 in the appropriate category established by the [designated procurement] unit.
+5 (2) If the unit [of the Executive Branch] expects that the total cost of the
+6 services, supplies, or commodities will be $100,000 or less, the unit shall issue a solicitation
+7 for a task order to a minimum of six qualified master contractors or all master contractors,
+8 whichever is less, in the appropriate category established by the [designated procurement]
+9 unit.
+10 (e) Except as provided in subsection (f) of this section, after a unit [of the
+11 Executive Branch] receives responses from master contractors to a solicitation for a task
+12 order, the unit shall evaluate the responses and may select a master contractor based on
+13 the response that is determined to be the most advantageous to the State considering the
+14 evaluation factors set forth in the task order.
+15 (f) The requirements of subsections (c)(2), (d), and (e) of this section do not apply
+16 to a master contract for construction if the master contract:
+17 (1) is awarded through a competitive process in accordance with this
+18 subtitle; and
+19 (2) states:
+20 (i) how task orders will be awarded; and
+21 (ii) the maximum number of qualified contractors that will be
+22 awarded a master contract for construction.
+23 13–114.
+24 (a) The Board shall adopt regulations in accordance with Title 10, Subtitle 1 of
+25 the State Government Article to establish a uniform process for the solicitation of master
+26 contracts and task orders.
+27 (b) Each [designated procurement] unit shall ensure compliance with the
+28 regulations set forth in subsection (a) of this section.
+29 13–212.2.
+30 (A) THIS SECTION APPLIES ONLY TO A PROCUREMENT AWARDED THROUGH
+31 A PROCUREMENT METHOD LISTED IN § 13–102(A)(1) THROUGH (4) OR (6) THROUGH
+32 (11) OF THIS TITLE AND THAT RESULTS IN MULTIPLE CONTRACTS BEING AWARDED.
+HOUSE BILL 662 5
+1 (B) SUBJECT TO THE REQUIREMENTS OF THIS SECTION, A PROCUREMENT
+2 OFFICER MAY AWARD AN INDEFINITE QUANTITY CONTRACT.
+3 (C) (1) AN INDEFINITE QUANTITY CONTRACT SHALL INCLUDE AN
+4 AGREEMENT ON:
+5 (I) THE SPECIFIC SCOPE OF SERVICES TO BE PERFORMED;
+6 (II) THE MAXIMUM HOURS OR FEES APPROVED FOR THE
+7 SPECIFIC WORK ASSIGNMENT; AND
+8 (III) OTHER MATTERS PERTINENT TO THE WORK ASSIGNMENT.
+9 (2) THE PROCUREMENT OFFICER AND CONTRACTOR SHALL EXECUTE
+10 EACH WORK ORDER SUBJECT TO THE TERMS OF THE INDEFINITE QUANTITY
+11 CONTRACT.
+12 (3) EACH SIGNED WORK ORDER SHALL BECOME PART OF THE
+13 INDEFINITE QUANTITY CONTRACT.
+14 (D) SUBJECT TO SUBSECTION (E) OF THIS SECTION, THE BOARD SHALL
+15 ADOPT REGULATIONS ESTABLISHING METHODS OF ASSIGNING WORK UNDER AN
+16 INDEFINITE QUANTITY CONTRACT, INCLUDING:
+17 (1) ASSIGNMENT BY RIGHT OF FIRST REFUSAL IN THE ORDER OF
+18 RANKING OF CONTRACT AWARDS; AND
+19 (2) ROTATION AMONG CONTRACTORS.
+20 (E) IF A METHOD OF ASSIGNING WORK ESTABLISHED UNDER SUBSECTION
+21 (D) OF THIS SECTION CONFLICTS WITH A FEDERAL FUNDING REQUIREMENT ON A
+22 PROJECT, THE FEDERAL METHOD FOR ASSIGNING WORK SHALL BE USED.
+23 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+24 October 1, 2025.
+[DELETED: :CA      5     D T B C E E H S a S S A B B M P R R R S A P A F c i q c u c c r t B o P W t a c r r t a o w a g S B  A S  A  ( B  A  S  A  (]
+[DELETED:  H   S T A 1  ( I  ( “   ( t   ( t   ( t D o I T o w r t a i    ( t e d o a i t m c    ( J  () “ I  () “ b p m t p o a b a a i]( a  () “]( p f t q o b a o f t p o s s  () ( “]( S   ( “ m c i s o r o  () “ c m a p]( p m t w a u c w a o t d s  () “](]
+[DELETED: H 3   ( t   ( a a   ( a  () “]( w t 1  ( Ts ]  s m  ( I a d pt u a m c t m c   ( t m   ( a p f t c a a o p f q   ( t e o a s c f a s p o t b   ( a p e p t b u b a u o t Eh  w  ( ( A oh  c m   ( E t    ( f t w b u i e a m c r    ( r]
+[DELETED:  H   ( ( E o Eh  e i dt    ( I oh  s f w dt u  ( E a p i s ( o t s a a u o t Eh  o t e  ( T t   ( i a t a c p i a w t s   ( s    ( h    ( t m n o q c t w b a 1  ( T t c  ( E d pt u s e c w t r   )H  A     1())()()D ]
+[DELETED: H 5  )SUN     )()N I Q C S I A      )TD    IT M H O F A F TT       )IO   ) W O S T T T O T I Q    ) S W O S B P O TT   )S(),U T S E O T SN T O S R E M O A W U AT G     B R O F R I T O OS      )S  )F T     S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 662
+P2 5lr2867
+By: Delegates Tomlinson, Boafo, Cardin, Edelson, Embry, Hornberger,
+Hutchinson, Spiegel, and Stonko Stonko, Alston, Bagnall, Bhandari,
+Chisholm, Cullison, Guzzone, Hill, S. Johnson, Kaiser, Kerr, Kipke, Lopez,
+Martinez, M. Morgan, Pena–Melnyk, Reilly, Rosenberg, Ross, Szeliga,
+Taveras, White Holland, Woods, and Woorman
+Introduced and read first time: January 24, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 27, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Procurement – Master Contracting Indefinite Quantity Contracts –
+3 Authorization
+4 FOR the purpose of increasing the number of units that are authorized to adopt the master
+5 contracting method of procurement; authorizing a procurement officer to award an
+6 indefinite quantity contract under certain circumstances; requiring the Board of
+7 Public Works to adopt certain regulations relating to assignment of work; and
+8 generally relating to the use of master contracting indefinite quantity contracts for
+9 State procurement.
+10 BY repealing and reenacting, with amendments,
+11 Article – State Finance and Procurement
+12 Section 13–101, 13–113, and 13–114 13–113
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – State Finance and Procurement
+17 Section 13–212.2
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0662*
+
+2 HOUSE BILL 662
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+3 Article – State Finance and Procurement
+4 13–101.
+5 (a) In this subtitle the following words have the meanings indicated.
+6 (b) [“Designated procurement unit” means:
+7 (1) the Department of General Services;
+8 (2) the Department of Transportation; or
+9 (3) the Department of Information Technology, only with respect to an
+10 information technology master contract executed before July 1, 2022, until the earlier of:
+11 (i) the expiration date of all information technology master
+12 contracts; or
+13 (ii) June 30, 2027.
+14 (c)] “eMaryland Marketplace” or “eMaryland Marketplace Advantage” means the
+15 Internet–based procurement system managed by the Department of General Services.
+16 [(d)] (C) “Evaluated bid price” means the price of a bid after adjustment in
+17 accordance with objective measurable criteria.
+18 [(e)] (D) “Master contracting” means a streamlined procurement method that
+19 provides for the qualification of bidders and offerors for the procurement of services,
+20 supplies, or commodities.
+21 [(f)] (E) (1) “Objective measurable criteria” means standards that enable the
+22 State to compare the economy, effectiveness, or value of the subject of the bids.
+23 (2) “Objective measurable criteria” includes standards of reliability,
+24 operational costs, maintainability, useful life, and residual value.
+25 [(g)] (F) “Pay–for–success contracting” means a performance–based
+26 procurement method through which a unit contracts with an organization to deliver
+27 services or commodities in exchange for payment based on the achievement of outcomes.
+28 [(h)] (G) “Person” includes, unless the context requires otherwise:
+
+HOUSE BILL 662 3
+1 (1) the State;
+2 (2) a county, a municipal corporation, or any other political subdivision;
+3 and
+4 (3) any unit of the State government or a political subdivision.
+5 [(i)] (H) “Task order” means a procurement process in which only those vendors
+6 with master contracts may compete to provide the services, supplies, or commodities under
+7 the procurement.
+8 13–113.
+9 (a) [The designated procurement units] A UNIT may adopt master contracting, a
+10 streamlined procurement method, to provide for the qualification of an offeror in one or
+11 more categories of services, supplies, or commodities.
+12 (b) If a [designated procurement] unit adopts master contracting, the master
+13 contracting method shall include:
+14 (1) the categories of services, supplies, or commodities in which an offeror
+15 may submit a proposal for qualification;
+16 (2) a procedure for the consideration and approval of proposals for
+17 qualification of multiple offerors in each category of services, supplies, or commodities;
+18 (3) the execution of a standard contract for a specified period of time
+19 between the State and an offeror approved as a master contractor; and
+20 (4) a performance evaluation procedure to be used by a unit [of the
+21 Executive Branch] to evaluate the performance of a qualified offeror that has completed
+22 work on a task order.
+23 (c) (1) A unit [of the Executive Branch] that requires services, supplies, or
+24 commodities covered under a master contract may issue a solicitation for a task order to a
+25 master contractor consistent with the regulations adopted under § 13–114 of this subtitle.
+26 (2) Except as provided in subsection (f) of this section, the solicitation for a
+27 task order shall include a statement of the:
+28 (i) factors that will be used in evaluating a master contractor’s
+29 response; and
+30 (ii) relative importance of each factor.
+
+4 HOUSE BILL 662
+1 (d) (1) Except as provided in subsection (f) of this section, if the unit [of the
+2 Executive Branch] expects that the total cost of the services, supplies, or commodities will
+3 exceed $100,000, the unit shall issue a solicitation for a task order to all master contractors
+4 in the appropriate category established by the [designated procurement] unit.
+5 (2) If the unit [of the Executive Branch] expects that the total cost of the
+6 services, supplies, or commodities will be $100,000 or less, the unit shall issue a solicitation
+7 for a task order to a minimum of six qualified master contractors or all master contractors,
+8 whichever is less, in the appropriate category established by the [designated procurement]
+9 unit.
+10 (e) Except as provided in subsection (f) of this section, after a unit [of the
+11 Executive Branch] receives responses from master contractors to a solicitation for a task
+12 order, the unit shall evaluate the responses and may select a master contractor based on
+13 the response that is determined to be the most advantageous to the State considering the
+14 evaluation factors set forth in the task order.
+15 (f) The requirements of subsections (c)(2), (d), and (e) of this section do not apply
+16 to a master contract for construction if the master contract:
+17 (1) is awarded through a competitive process in accordance with this
+18 subtitle; and
+19 (2) states:
+20 (i) how task orders will be awarded; and
+21 (ii) the maximum number of qualified contractors that will be
+22 awarded a master contract for construction.
+23 13–114.
+24 (a) The Board shall adopt regulations in accordance with Title 10, Subtitle 1 of
+25 the State Government Article to establish a uniform process for the solicitation of master
+26 contracts and task orders.
+27 (b) Each [designated procurement] unit shall ensure compliance with the
+28 regulations set forth in subsection (a) of this section.
+29 13–212.2.
+30 (A) THIS SECTION APPLIES ONLY TO A PROCUREMENT AWARDED THROUGH
+31 A PROCUREMENT METHOD LISTED IN § 13–102(A)(1) THROUGH (4) OR (6) THROUGH
+32 (11) OF THIS TITLE AND THAT RESULTS IN MULTIPLE CONTRACTS BEING AWARDED.
+
+HOUSE BILL 662 5
+1 (B) SUBJECT TO THE REQUIREMENTS OF THIS SECTION, A PROCUREMENT
+2 OFFICER MAY AWARD AN INDEFINITE QUANTITY CONTRACT.
+3 (C) (1) AN INDEFINITE QUANTITY CONTRACT SHALL INCLUDE AN
+4 AGREEMENT ON:
+5 (I) THE SPECIFIC SCOPE OF SERVICES TO BE PERFORMED;
+6 (II) THE MAXIMUM HOURS OR FEES APPROVED FOR THE
+7 SPECIFIC WORK ASSIGNMENT; AND
+8 (III) OTHER MATTERS PERTINENT TO THE WORK ASSIGNMENT.
+9 (2) THE PROCUREMENT OFFICER AND CONTRACTOR SHALL EXECUTE
+10 EACH WORK ORDER SUBJECT TO THE TERMS OF THE INDEFINITE QUANTITY
+11 CONTRACT.
+12 (3) EACH SIGNED WORK ORDER SHALL BECOME PART OF THE
+13 INDEFINITE QUANTITY CONTRACT.
+14 (D) SUBJECT TO SUBSECTION (E) OF THIS SECTION, THE BOARD SHALL
+15 ADOPT REGULATIONS ESTABLISHING METHODS OF ASSIGNING WORK UNDER AN
+16 INDEFINITE QUANTITY CONTRACT, INCLUDING:
+17 (1) ASSIGNMENT BY RIGHT OF FIRST REFUSAL IN THE ORDER OF
+18 RANKING OF CONTRACT AWARDS; AND
+19 (2) ROTATION AMONG CONTRACTORS.
+20 (E) IF A METHOD OF ASSIGNING WORK ESTABLISHED UNDER SUBSECTION
+21 (D) OF THIS SECTION CONFLICTS WITH A FEDERAL FUNDING REQUIREMENT ON A
+22 PROJECT, THE FEDERAL METHOD FOR ASSIGNING WORK SHALL BE USED.
+23 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+24 October 1, 2025.
+
+[DELETED: :CA      5     D T B C E E H S a S S A B B M P R R R S A P A F c i q c u c c r t B o P W t a c r r t a o w a g S B  A S  A  ( B  A  S  A  (]
+[DELETED:  H   S T A 1  ( I  ( “   ( t   ( t   ( t D o I T o w r t a i    ( t e d o a i t m c    ( J  () “ I  () “ b p m t p o a b a a i]( a  () “]( p f t q o b a o f t p o s s  () ( “]( S   ( “ m c i s o r o  () “ c m a p]( p m t w a u c w a o t d s  () “](]
+[DELETED: H 3   ( t   ( a a   ( a  () “]( w t 1  ( Ts ]  s m  ( I a d pt u a m c t m c   ( t m   ( a p f t c a a o p f q   ( t e o a s c f a s p o t b   ( a p e p t b u b a u o t Eh  w  ( ( A oh  c m   ( E t    ( f t w b u i e a m c r    ( r]
+[DELETED:  H   ( ( E o Eh  e i dt    ( I oh  s f w dt u  ( E a p i s ( o t s a a u o t Eh  o t e  ( T t   ( i a t a c p i a w t s   ( s    ( h    ( t m n o q c t w b a 1  ( T t c  ( E d pt u s e c w t r   )H  A     1())()()D ]
+[DELETED: H 5  )SUN     )()N I Q C S I A      )TD    IT M H O F A F TT       )IO   ) W O S T T T O T I Q    ) S W O S B P O TT   )S(),U T S E O T SN T O S R E M O A W U AT G     B R O F R I T O OS      )S  )F T     S A B I F E T t A s t e O]

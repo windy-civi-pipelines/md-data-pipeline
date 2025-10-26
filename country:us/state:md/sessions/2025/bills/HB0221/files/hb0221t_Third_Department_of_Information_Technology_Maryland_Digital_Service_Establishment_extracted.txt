@@ -1,0 +1,181 @@
+Title: HOUSE BILL 221
+Official Title: HOUSE BILL 221
+Number of Sections: 1
+Source: versions - Third - Department of Information Technology - Maryland Digital Service - Establishment
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+P1 5lr0196
+(PRE–FILED) CF SB 242
+By: Chair, Health and Government Operations Committee (By Request –
+Departmental – Information Technology)
+Requested: September 19, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 18, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Department of Information Technology – Maryland Digital Service
+3 – Establishment
+4 FOR the purpose of establishing the Maryland Digital Service within the Department of
+5 Information Technology to support improved service delivery to Maryland residents
+6 and agency staff through user–centered design, software development, and product
+7 management best practices; and generally relating to the Maryland Digital Service.
+8 BY adding to
+9 Article – State Finance and Procurement
+10 Section 3.5–901 through 3.5–905 to be under the new subtitle “Subtitle 9. Maryland
+11 Digital Service”
+12 Annotated Code of Maryland
+13 (2021 Replacement Volume and 2024 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
+16 Article – State Finance and Procurement
+17 SUBTITLE 9. MARYLAND DIGITAL SERVICE.
+18 3.5–901.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0221*
+2 HOUSE BILL 221
+1 IN THIS SUBTITLE, “SERVICE” MEANS THE MARYLAND DIGITAL SERVICE.
+2 3.5–902.
+3 (A) THERE IS A MARYLAND DIGITAL SERVICE WITHIN THE DEPARTMENT.
+4 (B) THE SERVICE IS A CENTRALIZED UNIT WITHIN THE DEPARTMENT THAT
+5 COLLABORATES WITH UNITS OF STATE GOVERNMENT TO SUPPORT IMPROVED
+6 SERVICE DELIVERY TO MARYLAND RESIDENTS AND AGENCY STAFF THROUGH
+7 USER–CENTERED DESIGN, SOFTWARE DEVELOPMENT, AND PRODUCT MANAGEMENT
+8 BEST PRACTICES.
+9 3.5–903.
+10 THE SERVICE IS RESPONSIBLE FOR:
+11 (1) ASSISTING UNITS OF STATE GOVERNMENT TO PRIORITIZE THE
+12 DEVELOPMENT AND PROCUREMENT OF USER–FRIENDLY, ACCESSIBLE, AND
+13 MULTILINGUAL DIGITAL PLATFORMS TO ENSURE THAT ALL MARYLAND RESIDENTS,
+14 INCLUDING INDIVIDUALS WITH DISABILITIES, CAN EASILY ACCESS AND USE
+15 GOVERNMENT SERVICES AND INFORMATION;
+16 (2) WORKING COLLABORATIVELY WITH UNITS OF STATE
+17 GOVERNMENT TO:
+18 (I) CONSOLIDATE AND STREAMLINE MARYLAND’S WEBSITES
+19 AND DIGITAL APPLICATIONS TO REDUCE REDUNDANCY, COMPLEXITY, AND
+20 MAINTENANCE COSTS; AND
+21 (II) PRIORITIZE PROJECTS THAT ARE FINANCIALLY EFFICIENT
+22 AND DRIVE POSITIVE OUTCOMES FOR MARYLAND RESIDENTS; AND
+23 (3) OVERSEEING THE IMPLEMENTATION OF USER–CENTERED DESIGN
+24 PRINCIPLES, ACCESSIBILITY STANDARDS, AND BEST PRACTICES IN DIGITAL
+25 SERVICE DELIVERY ACROSS UNITS OF STATE GOVERNMENT.
+26 3.5–904.
+27 THE SECRETARY SHALL APPOINT A CHIEF DIGITAL EXPERIENCE OFFICER TO
+28 LEAD THE SERVICE.
+29 3.5–905.
+HOUSE BILL 221 3
+1 UNITS OF STATE GOVERNMENT SHALL COLLABORATE WITH THE SERVICE TO
+2 ENSURE THE ALIGNMENT AND FUNDING OF DIGITAL INITIATIVES WITH THE
+3 OVERALL GOALS AND PRIORITIES OF THE STATE CONSISTENT WITH THE STATEWIDE
+4 INFORMATION TECHNOLOGY MASTER PLAN.
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+6 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5 ( C C H a G O C ( R – A D – F I a m B A S D A (  S T A9.MDS.  A I E]
+[DELETED:  H I,“S”MDS.E EE  A I E() TMDSD.H A I E E() TSH E E W U O T G T S I D T A R A A S TRCN T ,TS: E (  U O T G T P T A P O URFY AE A, AS I W DS C E A A U (  C W U O T  () MC A S ADS W D A T R RY CY AS   ()IP AS ; ( RCS A SS A B P I D T.TSCDE E H I X F E.]
+[DELETED: H 3US T E T A A F O D I W T T  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 221
+P1 5lr0196
+(PRE–FILED) CF SB 242
+By: Chair, Health and Government Operations Committee (By Request –
+Departmental – Information Technology)
+Requested: September 19, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 18, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Department of Information Technology – Maryland Digital Service
+3 – Establishment
+4 FOR the purpose of establishing the Maryland Digital Service within the Department of
+5 Information Technology to support improved service delivery to Maryland residents
+6 and agency staff through user–centered design, software development, and product
+7 management best practices; and generally relating to the Maryland Digital Service.
+8 BY adding to
+9 Article – State Finance and Procurement
+10 Section 3.5–901 through 3.5–905 to be under the new subtitle “Subtitle 9. Maryland
+11 Digital Service”
+12 Annotated Code of Maryland
+13 (2021 Replacement Volume and 2024 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
+16 Article – State Finance and Procurement
+17 SUBTITLE 9. MARYLAND DIGITAL SERVICE.
+18 3.5–901.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0221*
+
+2 HOUSE BILL 221
+1 IN THIS SUBTITLE, “SERVICE” MEANS THE MARYLAND DIGITAL SERVICE.
+2 3.5–902.
+3 (A) THERE IS A MARYLAND DIGITAL SERVICE WITHIN THE DEPARTMENT.
+4 (B) THE SERVICE IS A CENTRALIZED UNIT WITHIN THE DEPARTMENT THAT
+5 COLLABORATES WITH UNITS OF STATE GOVERNMENT TO SUPPORT IMPROVED
+6 SERVICE DELIVERY TO MARYLAND RESIDENTS AND AGENCY STAFF THROUGH
+7 USER–CENTERED DESIGN, SOFTWARE DEVELOPMENT, AND PRODUCT MANAGEMENT
+8 BEST PRACTICES.
+9 3.5–903.
+10 THE SERVICE IS RESPONSIBLE FOR:
+11 (1) ASSISTING UNITS OF STATE GOVERNMENT TO PRIORITIZE THE
+12 DEVELOPMENT AND PROCUREMENT OF USER–FRIENDLY, ACCESSIBLE, AND
+13 MULTILINGUAL DIGITAL PLATFORMS TO ENSURE THAT ALL MARYLAND RESIDENTS,
+14 INCLUDING INDIVIDUALS WITH DISABILITIES, CAN EASILY ACCESS AND USE
+15 GOVERNMENT SERVICES AND INFORMATION;
+16 (2) WORKING COLLABORATIVELY WITH UNITS OF STATE
+17 GOVERNMENT TO:
+18 (I) CONSOLIDATE AND STREAMLINE MARYLAND’S WEBSITES
+19 AND DIGITAL APPLICATIONS TO REDUCE REDUNDANCY, COMPLEXITY, AND
+20 MAINTENANCE COSTS; AND
+21 (II) PRIORITIZE PROJECTS THAT ARE FINANCIALLY EFFICIENT
+22 AND DRIVE POSITIVE OUTCOMES FOR MARYLAND RESIDENTS; AND
+23 (3) OVERSEEING THE IMPLEMENTATION OF USER–CENTERED DESIGN
+24 PRINCIPLES, ACCESSIBILITY STANDARDS, AND BEST PRACTICES IN DIGITAL
+25 SERVICE DELIVERY ACROSS UNITS OF STATE GOVERNMENT.
+26 3.5–904.
+27 THE SECRETARY SHALL APPOINT A CHIEF DIGITAL EXPERIENCE OFFICER TO
+28 LEAD THE SERVICE.
+29 3.5–905.
+
+HOUSE BILL 221 3
+1 UNITS OF STATE GOVERNMENT SHALL COLLABORATE WITH THE SERVICE TO
+2 ENSURE THE ALIGNMENT AND FUNDING OF DIGITAL INITIATIVES WITH THE
+3 OVERALL GOALS AND PRIORITIES OF THE STATE CONSISTENT WITH THE STATEWIDE
+4 INFORMATION TECHNOLOGY MASTER PLAN.
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+6 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5 ( C C H a G O C ( R – A D – F I a m B A S D A (  S T A9.MDS.  A I E]
+[DELETED:  H I,“S”MDS.E EE  A I E() TMDSD.H A I E E() TSH E E W U O T G T S I D T A R A A S TRCN T ,TS: E (  U O T G T P T A P O URFY AE A, AS I W DS C E A A U (  C W U O T  () MC A S ADS W D A T R RY CY AS   ()IP AS ; ( RCS A SS A B P I D T.TSCDE E H I X F E.]
+[DELETED: H 3US T E T A A F O D I W T T  S 1          G               ]

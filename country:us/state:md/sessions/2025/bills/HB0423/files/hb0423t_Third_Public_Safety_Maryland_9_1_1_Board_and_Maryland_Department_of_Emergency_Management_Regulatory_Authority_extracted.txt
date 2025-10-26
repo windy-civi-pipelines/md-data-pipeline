@@ -1,0 +1,398 @@
+Title: HOUSE BILL 423
+Official Title: HOUSE BILL 423
+Number of Sections: 1
+Source: versions - Third - Public Safety - Maryland 9-1-1 Board and Maryland Department of Emergency Management - Regulatory Authority
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+E4 5lr1570
+CF SB 138
+By: Delegate Lopez
+Introduced and read first time: January 16, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 22, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Public Safety – Maryland 9–1–1 Board and Maryland Department of Emergency
+3 Management – Regulatory Authority
+4 FOR the purpose of authorizing the Maryland 9–1–1 Board to adopt regulations to
+5 implement and enforce certain responsibilities of the Board; authorizing the
+6 Maryland Department of Emergency Management to adopt regulations to
+7 implement and enforce the responsibilities of the Department; and generally relating
+8 to the regulatory authority of the Maryland 9–1–1 Board and the Maryland
+9 Department of Emergency Management.
+10 BY repealing and reenacting, with amendments,
+11 Article – Public Safety
+12 Section 1–306 and 14–103
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Public Safety
+18 1–306.
+19 (a) The Board shall coordinate the enhancement of county 9–1–1 systems.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0423*
+2 HOUSE BILL 423
+1 (b) The Board’s responsibilities include:
+2 (1) establishing planning guidelines for enhanced 9–1–1 system plans and
+3 deployment of wireless enhanced 9–1–1 service in accordance with this subtitle;
+4 (2) establishing procedures to review and approve or disapprove county
+5 plans and to evaluate requests for variations from the planning guidelines established by
+6 the Board;
+7 (3) establishing procedures for the request for reimbursement of the costs
+8 of enhancing a 9–1–1 system by a county or counties in which a 9–1–1 system is in
+9 operation, and procedures to review and approve or disapprove the request;
+10 (4) transmitting the planning guidelines and procedures established under
+11 this section, and any amendments to them, to the governing body of each county;
+12 (5) submitting to the Secretary each year a schedule for implementing the
+13 enhancement of county or multicounty 9–1–1 systems, and an estimate of funding
+14 requirements based on the approved county plans;
+15 (6) developing, with input from counties, and publishing on or before July
+16 1, 2004, an implementation schedule for deployment of wireless enhanced 9–1–1 service;
+17 (7) reviewing and approving or disapproving requests for reimbursement
+18 of the costs of enhancing 9–1–1 systems, and submitting to the Secretary each year a
+19 schedule for reimbursement and an estimate of funding requirements;
+20 (8) reviewing the enhancement of 9–1–1 systems;
+21 (9) providing for an audit of county expenditures for the operation and
+22 maintenance of 9–1–1 systems;
+23 (10) ensuring inspections of public safety answering points;
+24 (11) reviewing and approving or disapproving requests from counties with
+25 operational enhanced 9–1–1 systems to be exempted from the expenditure limitations
+26 under § 1–312 of this subtitle;
+27 (12) authorizing expenditures from the 9–1–1 Trust Fund that:
+28 (i) are for enhancements of 9–1–1 systems that:
+29 1. are required by the Board;
+30 2. will be provided to a county by a third party contractor;
+31 and
+HOUSE BILL 423 3
+1 3. will incur costs that the Board has approved before the
+2 formation of a contract between the county and the contractor; and
+3 (ii) are approved by the Board for payment:
+4 1. from money collected under § 1–310 of this subtitle; and
+5 2. directly to a third party contractor on behalf of a county;
+6 (13) establishing planning guidelines for Next Generation 9–1–1 services
+7 system plans and deployment of Next Generation 9–1–1 services in accordance with this
+8 subtitle;
+9 (14) establishing minimum standards for records retention guidelines for
+10 9–1–1 audio, pictures, video, text messages, and data;
+11 (15) establishing training standards for public safety answering point
+12 personnel based on national best practices, including training concerning:
+13 (i) Next Generation 9–1–1 topics;
+14 (ii) individual psychological well–being and resilience; and
+15 (iii) subject to subsection (e)(2) of this section, implicit bias training;
+16 (16) establishing minimum standards for cybersecurity, oversight, and
+17 accountability of service level agreements between counties and core service providers of
+18 Next Generation 9–1–1 services; and
+19 (17) supporting 9–1–1 specialist recruitment activities consisting of:
+20 (i) a database that offers information on recruitment guidance, best
+21 practices, and strategies;
+22 (ii) recruitment projects, including recruitment projects designed to
+23 reach minorities; and
+24 (iii) a website that contains links to job opportunities throughout the
+25 State for 9–1–1 specialists.
+26 (c) The guidelines established by the Board under subsection (b)(1) and (13) of
+27 this section:
+28 (1) shall be based on available technology and equipment;
+29 (2) shall require Next Generation 9–1–1 services systems to be
+30 interconnected and interoperable, as determined by the Board; and
+4 HOUSE BILL 423
+1 (3) may be based on any other factor that the Board determines is
+2 appropriate, including population and area served by 9–1–1 systems.
+3 (d) The standards established by the Board under subsection (b)(14) of this
+4 section shall include procedures for:
+5 (1) the security of the records;
+6 (2) the establishment and revision, in accordance with the regulations, of
+7 record retention and disposal schedules to ensure the prompt and orderly disposition of
+8 records, including electronic records, that are no longer needed for operation; and
+9 (3) the maintenance of inventories of records series that are accurate and
+10 complete.
+11 (e) (1) (i) The standards established by the Board under subsection (b)(15)
+12 of this section shall include onboarding standards for newly hired 9–1–1 specialists and
+13 minimum continuing education standards for 9–1–1 specialists.
+14 (ii) The Board shall develop criteria and approve the initial and
+15 ongoing training curriculum for the training required under subsection (b)(15) of this
+16 section.
+17 (2) Public safety answering point personnel shall be provided the implicit
+18 bias training required under subsection (b)(15)(iii) of this section:
+19 (i) on or before October 1, 2024, for personnel hired by the public
+20 safety answering point on or before October 1, 2022;
+21 (ii) at the time of hire for personnel hired by the public safety
+22 answering point after October 1, 2022; and
+23 (iii) on a recurring basis with updates as determined by the Board,
+24 but at least once every 4 years.
+25 (3) (i) At least once each year, the Board shall provide for an audit of
+26 each public safety answering point in order to ensure that 9–1–1 specialists and other
+27 personnel employed by the public safety answering point have satisfied the training
+28 requirements established in accordance with subsection (b)(15) of this section.
+29 (ii) The audit described under subparagraph (i) of this paragraph
+30 may be conducted concurrently with an inspection of the public safety answering point in
+31 accordance with subsection (b)(10) of this section.
+32 (iii) 1. If the Board determines that the personnel employed by a
+33 public safety answering point have not satisfied the training requirements established in
+HOUSE BILL 423 5
+1 accordance with subsection (b)(15) of this section, the Board and public safety answering
+2 point shall jointly develop a remediation plan and implementation timeline.
+3 2. The Board may impose sanctions on a public safety
+4 answering point if the public safety answering point fails to comply with a remediation plan
+5 or implementation timeline developed under this subparagraph.
+6 (f) The Board shall establish standards governing the processing of 9–1–1
+7 requests for assistance that:
+8 (1) minimize the transfer of those requests from the public safety
+9 answering point that received the request to other public safety answering points within or
+10 outside the State or federal emergency communication centers; and
+11 (2) follow best practices for transferring requests to public safety agencies
+12 to ensure the optimal public safety response.
+13 (g) The Board shall:
+14 (1) establish minimum standards for 9–1–1 systems, enhanced 9–1–1
+15 systems, and Next Generation 9–1–1 services that ensure improved access for individuals
+16 with disabilities and individuals who use assistive technologies, including mandatory
+17 connectivity requirements for core service providers for Next Generation 9–1–1 services to
+18 device–based and cloud–based data repositories; and
+19 (2) update the standards adopted in accordance with item (1) of this
+20 subsection based on available technology and equipment.
+21 (H) THE BOARD MAY ADOPT REGULATIONS TO IMPLEMENT AND ENFORCE
+22 THIS SUBTITLE.
+23 14–103.
+24 (a) There is a Maryland Department of Emergency Management established as a
+25 principal department of the Executive Branch of State government.
+26 (b) The Department has primary responsibility and authority for developing
+27 emergency management policies and is responsible for coordinating disaster risk reduction,
+28 consequence management, and disaster recovery activities.
+29 (c) The Department may act to:
+30 (1) reduce the disaster risk and vulnerability of persons and property
+31 located in the State;
+32 (2) develop and coordinate emergency planning and preparedness; and
+6 HOUSE BILL 423
+1 (3) coordinate emergency management activities and operations:
+2 (i) relating to an emergency that involves two or more State
+3 agencies;
+4 (ii) between State agencies and political subdivisions;
+5 (iii) with local governments;
+6 (iv) with agencies of the federal government and other states; and
+7 (v) with private and nonprofit entities.
+8 (D) THE DEPARTMENT MAY ADOPT REGULATIONS TO IMPLEMENT AND
+9 ENFORCE THIS SUBTITLE.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+11 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5   C A P M F t p o a t M 9 B t a r t i a e c r o t B a t M D o E M t a r t i t t r a o t M 9 B a t M D B  A  S  A  (  S T A 1  ( T]
+[DELETED:  H   ( T   ( e d   ( e p t r a o d c p t   ( e o e a 9 s b a c o c i w a 9 s i i o   ( t t   ( s e o c o m 9 s a a e o f r   ( d 1   ( r o t c o e 9 s a s t t S e y a s   ( r   ( p f a a o c e f t o a m   ( e   ( r o e 9 s t b e f t e l u   ( a    ( a     1 a     2 w a]
+[DELETED: H 3     3 w f    ( a     1 f     2 d   ( e s s   ( e 9   ( e t s f p s a p p    ( N    ( i    ( s   ( e m s f c o a a N   ( s    ( a p    ( r r    ( a S  ( T t   ( s   ( s r N G 9 s s t b i]
+[DELETED:  H    ( m b b o a o f t t B d i a  ( T s e b t B u s ( o t s   ( t   ( t r r   ( t c  ( ( ( T o m    ( T B s d c a a t i a o t c f t t r u s ( o t s   ( P b    ( o s    ( a t t o h f p h b t p s a    ( o b   ( ( A e p e b t p s a p h s t t r    ( T m a    ( 1 I p]
+[DELETED: H 5 a p     2 T B m i s o a p s a o  ( T B s e s g t p o 9 r   ( m t t o t r f t p s a o   ( f t  ( T   ( e m s f 9 s e 9 s w d a i w u a t i m c d   ( u t s a i a w i ( o t s() TH O 1  ( T p  ( T D h p r a a f d e c  ( T   ( r t d r a v o p a p l   ( d]
+[DELETED:  H    ( c    ( r t a e t i t o m S a    ( b    ( w    ( w    ( w() TH E M A R T I A  S 1          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 423
+E4 5lr1570
+CF SB 138
+By: Delegate Lopez
+Introduced and read first time: January 16, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 22, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Public Safety – Maryland 9–1–1 Board and Maryland Department of Emergency
+3 Management – Regulatory Authority
+4 FOR the purpose of authorizing the Maryland 9–1–1 Board to adopt regulations to
+5 implement and enforce certain responsibilities of the Board; authorizing the
+6 Maryland Department of Emergency Management to adopt regulations to
+7 implement and enforce the responsibilities of the Department; and generally relating
+8 to the regulatory authority of the Maryland 9–1–1 Board and the Maryland
+9 Department of Emergency Management.
+10 BY repealing and reenacting, with amendments,
+11 Article – Public Safety
+12 Section 1–306 and 14–103
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Public Safety
+18 1–306.
+19 (a) The Board shall coordinate the enhancement of county 9–1–1 systems.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0423*
+
+2 HOUSE BILL 423
+1 (b) The Board’s responsibilities include:
+2 (1) establishing planning guidelines for enhanced 9–1–1 system plans and
+3 deployment of wireless enhanced 9–1–1 service in accordance with this subtitle;
+4 (2) establishing procedures to review and approve or disapprove county
+5 plans and to evaluate requests for variations from the planning guidelines established by
+6 the Board;
+7 (3) establishing procedures for the request for reimbursement of the costs
+8 of enhancing a 9–1–1 system by a county or counties in which a 9–1–1 system is in
+9 operation, and procedures to review and approve or disapprove the request;
+10 (4) transmitting the planning guidelines and procedures established under
+11 this section, and any amendments to them, to the governing body of each county;
+12 (5) submitting to the Secretary each year a schedule for implementing the
+13 enhancement of county or multicounty 9–1–1 systems, and an estimate of funding
+14 requirements based on the approved county plans;
+15 (6) developing, with input from counties, and publishing on or before July
+16 1, 2004, an implementation schedule for deployment of wireless enhanced 9–1–1 service;
+17 (7) reviewing and approving or disapproving requests for reimbursement
+18 of the costs of enhancing 9–1–1 systems, and submitting to the Secretary each year a
+19 schedule for reimbursement and an estimate of funding requirements;
+20 (8) reviewing the enhancement of 9–1–1 systems;
+21 (9) providing for an audit of county expenditures for the operation and
+22 maintenance of 9–1–1 systems;
+23 (10) ensuring inspections of public safety answering points;
+24 (11) reviewing and approving or disapproving requests from counties with
+25 operational enhanced 9–1–1 systems to be exempted from the expenditure limitations
+26 under § 1–312 of this subtitle;
+27 (12) authorizing expenditures from the 9–1–1 Trust Fund that:
+28 (i) are for enhancements of 9–1–1 systems that:
+29 1. are required by the Board;
+30 2. will be provided to a county by a third party contractor;
+31 and
+
+HOUSE BILL 423 3
+1 3. will incur costs that the Board has approved before the
+2 formation of a contract between the county and the contractor; and
+3 (ii) are approved by the Board for payment:
+4 1. from money collected under § 1–310 of this subtitle; and
+5 2. directly to a third party contractor on behalf of a county;
+6 (13) establishing planning guidelines for Next Generation 9–1–1 services
+7 system plans and deployment of Next Generation 9–1–1 services in accordance with this
+8 subtitle;
+9 (14) establishing minimum standards for records retention guidelines for
+10 9–1–1 audio, pictures, video, text messages, and data;
+11 (15) establishing training standards for public safety answering point
+12 personnel based on national best practices, including training concerning:
+13 (i) Next Generation 9–1–1 topics;
+14 (ii) individual psychological well–being and resilience; and
+15 (iii) subject to subsection (e)(2) of this section, implicit bias training;
+16 (16) establishing minimum standards for cybersecurity, oversight, and
+17 accountability of service level agreements between counties and core service providers of
+18 Next Generation 9–1–1 services; and
+19 (17) supporting 9–1–1 specialist recruitment activities consisting of:
+20 (i) a database that offers information on recruitment guidance, best
+21 practices, and strategies;
+22 (ii) recruitment projects, including recruitment projects designed to
+23 reach minorities; and
+24 (iii) a website that contains links to job opportunities throughout the
+25 State for 9–1–1 specialists.
+26 (c) The guidelines established by the Board under subsection (b)(1) and (13) of
+27 this section:
+28 (1) shall be based on available technology and equipment;
+29 (2) shall require Next Generation 9–1–1 services systems to be
+30 interconnected and interoperable, as determined by the Board; and
+
+4 HOUSE BILL 423
+1 (3) may be based on any other factor that the Board determines is
+2 appropriate, including population and area served by 9–1–1 systems.
+3 (d) The standards established by the Board under subsection (b)(14) of this
+4 section shall include procedures for:
+5 (1) the security of the records;
+6 (2) the establishment and revision, in accordance with the regulations, of
+7 record retention and disposal schedules to ensure the prompt and orderly disposition of
+8 records, including electronic records, that are no longer needed for operation; and
+9 (3) the maintenance of inventories of records series that are accurate and
+10 complete.
+11 (e) (1) (i) The standards established by the Board under subsection (b)(15)
+12 of this section shall include onboarding standards for newly hired 9–1–1 specialists and
+13 minimum continuing education standards for 9–1–1 specialists.
+14 (ii) The Board shall develop criteria and approve the initial and
+15 ongoing training curriculum for the training required under subsection (b)(15) of this
+16 section.
+17 (2) Public safety answering point personnel shall be provided the implicit
+18 bias training required under subsection (b)(15)(iii) of this section:
+19 (i) on or before October 1, 2024, for personnel hired by the public
+20 safety answering point on or before October 1, 2022;
+21 (ii) at the time of hire for personnel hired by the public safety
+22 answering point after October 1, 2022; and
+23 (iii) on a recurring basis with updates as determined by the Board,
+24 but at least once every 4 years.
+25 (3) (i) At least once each year, the Board shall provide for an audit of
+26 each public safety answering point in order to ensure that 9–1–1 specialists and other
+27 personnel employed by the public safety answering point have satisfied the training
+28 requirements established in accordance with subsection (b)(15) of this section.
+29 (ii) The audit described under subparagraph (i) of this paragraph
+30 may be conducted concurrently with an inspection of the public safety answering point in
+31 accordance with subsection (b)(10) of this section.
+32 (iii) 1. If the Board determines that the personnel employed by a
+33 public safety answering point have not satisfied the training requirements established in
+
+HOUSE BILL 423 5
+1 accordance with subsection (b)(15) of this section, the Board and public safety answering
+2 point shall jointly develop a remediation plan and implementation timeline.
+3 2. The Board may impose sanctions on a public safety
+4 answering point if the public safety answering point fails to comply with a remediation plan
+5 or implementation timeline developed under this subparagraph.
+6 (f) The Board shall establish standards governing the processing of 9–1–1
+7 requests for assistance that:
+8 (1) minimize the transfer of those requests from the public safety
+9 answering point that received the request to other public safety answering points within or
+10 outside the State or federal emergency communication centers; and
+11 (2) follow best practices for transferring requests to public safety agencies
+12 to ensure the optimal public safety response.
+13 (g) The Board shall:
+14 (1) establish minimum standards for 9–1–1 systems, enhanced 9–1–1
+15 systems, and Next Generation 9–1–1 services that ensure improved access for individuals
+16 with disabilities and individuals who use assistive technologies, including mandatory
+17 connectivity requirements for core service providers for Next Generation 9–1–1 services to
+18 device–based and cloud–based data repositories; and
+19 (2) update the standards adopted in accordance with item (1) of this
+20 subsection based on available technology and equipment.
+21 (H) THE BOARD MAY ADOPT REGULATIONS TO IMPLEMENT AND ENFORCE
+22 THIS SUBTITLE.
+23 14–103.
+24 (a) There is a Maryland Department of Emergency Management established as a
+25 principal department of the Executive Branch of State government.
+26 (b) The Department has primary responsibility and authority for developing
+27 emergency management policies and is responsible for coordinating disaster risk reduction,
+28 consequence management, and disaster recovery activities.
+29 (c) The Department may act to:
+30 (1) reduce the disaster risk and vulnerability of persons and property
+31 located in the State;
+32 (2) develop and coordinate emergency planning and preparedness; and
+
+6 HOUSE BILL 423
+1 (3) coordinate emergency management activities and operations:
+2 (i) relating to an emergency that involves two or more State
+3 agencies;
+4 (ii) between State agencies and political subdivisions;
+5 (iii) with local governments;
+6 (iv) with agencies of the federal government and other states; and
+7 (v) with private and nonprofit entities.
+8 (D) THE DEPARTMENT MAY ADOPT REGULATIONS TO IMPLEMENT AND
+9 ENFORCE THIS SUBTITLE.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+11 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5   C A P M F t p o a t M 9 B t a r t i a e c r o t B a t M D o E M t a r t i t t r a o t M 9 B a t M D B  A  S  A  (  S T A 1  ( T]
+[DELETED:  H   ( T   ( e d   ( e p t r a o d c p t   ( e o e a 9 s b a c o c i w a 9 s i i o   ( t t   ( s e o c o m 9 s a a e o f r   ( d 1   ( r o t c o e 9 s a s t t S e y a s   ( r   ( p f a a o c e f t o a m   ( e   ( r o e 9 s t b e f t e l u   ( a    ( a     1 a     2 w a]
+[DELETED: H 3     3 w f    ( a     1 f     2 d   ( e s s   ( e 9   ( e t s f p s a p p    ( N    ( i    ( s   ( e m s f c o a a N   ( s    ( a p    ( r r    ( a S  ( T t   ( s   ( s r N G 9 s s t b i]
+[DELETED:  H    ( m b b o a o f t t B d i a  ( T s e b t B u s ( o t s   ( t   ( t r r   ( t c  ( ( ( T o m    ( T B s d c a a t i a o t c f t t r u s ( o t s   ( P b    ( o s    ( a t t o h f p h b t p s a    ( o b   ( ( A e p e b t p s a p h s t t r    ( T m a    ( 1 I p]
+[DELETED: H 5 a p     2 T B m i s o a p s a o  ( T B s e s g t p o 9 r   ( m t t o t r f t p s a o   ( f t  ( T   ( e m s f 9 s e 9 s w d a i w u a t i m c d   ( u t s a i a w i ( o t s() TH O 1  ( T p  ( T D h p r a a f d e c  ( T   ( r t d r a v o p a p l   ( d]
+[DELETED:  H    ( c    ( r t a e t i t o m S a    ( b    ( w    ( w    ( w() TH E M A R T I A  S 1          G               ]

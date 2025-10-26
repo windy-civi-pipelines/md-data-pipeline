@@ -1,0 +1,926 @@
+Title: HOUSE BILL 1123
+Official Title: HOUSE BILL 1123
+Number of Sections: 1
+Source: versions - Third - Correctional Services - Medical and Elder Parole
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+E5 5lr3080
+By: Delegates Bartlett and Charkoudian, Charkoudian, Crutchfield, Embry,
+Simmons, Phillips, Stinnett, Taylor, Simpson, Conaway, Kaufman, and
+Williams
+Introduced and read first time: February 5, 2025
+Assigned to: Judiciary
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 3, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Correctional Services – Medical and Elder Parole
+3 FOR the purpose of repealing provisions relating to gubernatorial approval of a decision of
+4 the Maryland Parole Commission to grant medical parole to an incarcerated
+5 individual serving a term of life imprisonment; altering how the Commission
+6 evaluates a request for medical parole, including providing for a meeting between
+7 the incarcerated individual and the Commission under certain circumstances;
+8 requiring the Department of Public Safety and Correctional Services to submit to the
+9 Commission the names of certain individuals at a certain time; requiring the
+10 Commission to conduct a risk assessment for a certain individual at a certain time;
+11 requiring the Commission to conduct a certain parole release hearing and determine
+12 whether a certain incarcerated individual is suitable for parole at a certain time;
+13 authorizing the Justice Reinvestment Oversight Board to recommend that a portion
+14 of certain savings be distributed to the Commission for a certain purpose; and
+15 generally relating to medical and elder parole.
+16 BY repealing and reenacting, with amendments,
+17 Article – Correctional Services
+18 Section 7–309
+19 Annotated Code of Maryland
+20 (2017 Replacement Volume and 2024 Supplement)
+21 BY adding to
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1123*
+2 HOUSE BILL 1123
+1 Article – Correctional Services
+2 Section 7–310
+3 Annotated Code of Maryland
+4 (2017 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, without amendments,
+6 Article – Correctional Services
+7 Section 7–801
+8 Annotated Code of Maryland
+9 (2017 Replacement Volume and 2024 Supplement)
+10 BY repealing and reenacting, without amendments,
+11 Article – State Government
+12 Section 9–3201
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – State Government
+17 Section 9–3207(b)
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Correctional Services
+23 7–309.
+24 (a) This section applies to any incarcerated individual who is sentenced to a term
+25 of incarceration for which all sentences being served, including any life sentence, are with
+26 the possibility of parole.
+27 (b) An incarcerated individual who is so chronically debilitated or incapacitated
+28 by a medical or mental health condition, disease, or syndrome as to be physically incapable
+29 of presenting a danger to society may be released on medical parole at any time during the
+30 term of that incarcerated individual’s sentence, without regard to the eligibility standards
+31 specified in § 7–301 of this subtitle.
+32 (c) (1) A request for a medical parole under this section may be filed with the
+33 Maryland Parole Commission by:
+34 (i) the incarcerated individual seeking the medical parole;
+35 (ii) an attorney;
+HOUSE BILL 1123 3
+1 (iii) a prison official or employee;
+2 (iv) a medical professional;
+3 (v) a family member; or
+4 (vi) any other person.
+5 (2) The request shall be in writing and shall articulate the grounds that
+6 support the appropriateness of granting the medical parole.
+7 (d) Following review of the request, the Commission may:
+8 (1) find the request to be inconsistent with the best interests of public
+9 safety and take no further action; or
+10 (2) request that department or local correctional facility personnel provide
+11 information for formal consideration of parole release.
+12 (e) The information to be considered by the Commission before granting medical
+13 parole shall, at a minimum, include:
+14 (1) (i) a recommendation by the medical professional treating the
+15 incarcerated individual under contract with the Department or local correctional facility;
+16 or
+17 (ii) if requested by an individual identified in subsection (c)(1) of this
+18 section, one medical evaluation conducted at no cost to the incarcerated individual by a
+19 medical professional who is independent from the Division of Correction or local
+20 correctional facility;
+21 (2) the incarcerated individual’s medical information, including:
+22 (i) a description of the incarcerated individual’s condition, disease,
+23 or syndrome;
+24 (ii) a prognosis concerning the likelihood of recovery from the
+25 condition, disease, or syndrome;
+26 (iii) a description of the incarcerated individual’s physical incapacity
+27 and score on the Karnofsky Performance Scale Index or similar classification of physical
+28 impairment; and
+29 (iv) a mental health evaluation, where relevant;
+30 (3) discharge information, including:
+4 HOUSE BILL 1123
+1 (i) availability of treatment or professional services within the
+2 community;
+3 (ii) family support within the community; and
+4 (iii) housing availability, including hospital or hospice care; and
+5 (4) case management information, including:
+6 (i) the circumstances of the current offense;
+7 (ii) institutional history;
+8 (iii) pending charges, sentences in other jurisdictions, and any other
+9 detainers; and
+10 (iv) criminal history information.
+11 (f) The Commission may require as a condition of release on medical parole that:
+12 (1) the parolee agree to placement for a definite or indefinite period of time
+13 in a hospital or hospice or other housing accommodation suitable to the parolee’s medical
+14 condition, including the family home of the parolee, as specified by the Commission or the
+15 supervising agent; and
+16 (2) the parolee forward authentic copies of applicable medical records to
+17 indicate that the particular medical condition giving rise to the release continues to exist.
+18 (g) (1) If the Commission has reason to believe that a parolee is no longer so
+19 debilitated or incapacitated as to be physically incapable of presenting a danger to society,
+20 the parolee shall be returned to the custody of the Division of Correction or the local
+21 correctional facility from which the incarcerated individual was released.
+22 (2) (i) A parole hearing for a parolee returned to custody shall be held
+23 to consider whether the parolee remains incapacitated and shall be heard promptly.
+24 (ii) A parolee returned to custody under this subsection shall be
+25 maintained in custody, if the incapacitation is found to no longer exist.
+26 (3) An incarcerated individual whose medical parole is revoked for lack of
+27 continued incapacitation may be considered for parole in accordance with the eligibility
+28 requirements specified in § 7–301 of this subtitle.
+29 (h) (1) Subject to paragraph (2) of this subsection, provisions of law relating to
+30 victim notification and opportunity to be heard shall apply to proceedings relating to
+31 medical parole.
+HOUSE BILL 1123 5
+1 (2) In cases of imminent death, time limits relating to victim notification
+2 and opportunity to be heard may be reduced or waived in the discretion of the Commission.
+3 (i) [(1) If the Commission decides to grant medical parole to an incarcerated
+4 individual sentenced to life imprisonment, the decision shall be transmitted to the
+5 Governor.
+6 (2) The Governor may disapprove the decision by written transmittal to
+7 the Commission.
+8 (3) If the Governor does not disapprove the decision within 180 days after
+9 receipt of the written transmittal, the decision becomes effective.
+10 (j)] The Commission shall issue regulations to implement the provisions of this
+11 section.
+12 (a) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+13 INDICATED.
+14 (2) (I) “CHRONICALLY DEBILITATED OR INCAPACITATED” MEANS
+15 HAVING A DIAGNOSABLE MEDICAL CONDITION THAT IS UNLIKELY TO IMPROVE IN
+16 THE FUTURE AND SUBSTANTIALLY DIMINISHES THE ABILITY OF THE INDIVIDUAL TO
+17 PROVIDE SELF–CARE.
+18 (II) “CHRONICALLY DEBILITATED OR INCAPACITATED”
+19 INCLUDES CONDITIONS SUCH AS DEMENTIA OR A SEVERE, PERMANENT MEDICAL OR
+20 COGNITIVE DISABILITY IF THE CONDITION SUBSTANTIALLY DIMINISHES THE
+21 ABILITY OF THE INDIVIDUAL TO PROVIDE SELF–CARE.
+22 (3) “TERMINAL ILLNESS” MEANS A DISEASE OR CONDITION WITH AN
+23 END–OF–LIFE TRAJECTORY.
+24 (B) This section applies to any incarcerated individual who is sentenced to a term
+25 of incarceration for which all sentences being served, including any life sentence, are with
+26 the possibility of parole.
+27 [(b)] (C) An incarcerated individual [who is so chronically debilitated or
+28 incapacitated by a medical or mental health condition, disease, or syndrome as to be
+29 physically incapable of presenting a danger to society] may be released on medical parole
+30 at any time during the term of that incarcerated individual’s sentence, without regard to
+31 the eligibility standards specified in § 7–301 of this subtitle IF A LICENSED PHYSICIAN
+32 HAS DETERMINED THAT THE INCARCERATED INDIVIDUAL:
+33 (1) (I) IS CHRONICALLY DEBILITATED OR INCAPACITATED; OR
+6 HOUSE BILL 1123
+1 (II) SUFFERS FROM A TERMINAL ILLNESS; AND
+2 (2) (I) REQUIRES EXTENDED MEDICAL MANAGEMENT WITH
+3 HEALTH CARE NEEDS THAT WOULD BE BETTER MET BY COMMUNITY SERVICES; AND
+4 (II) 1. HAS BEEN RENDERED PHYSICALLY INCAPABLE OF
+5 PRESENTING A DANGER TO SOCIETY BY A PHYSICAL OR MENTAL HEALTH
+6 CONDITION, DISEASE, OR SYNDROME; OR
+7 2. IS NO LONGER A DANGER TO PUBLIC SAFETY.
+8 (D) (1) THE INFORMATION TO BE CONSIDERED BY THE COMMISSION
+9 BEFORE GRANTING MEDICAL PAROLE SHALL, AT A MINIMUM, INCLUDE:
+10 (I) 1. A RECOMMENDATION BY THE MEDICAL
+11 PROFESSIONAL TREATING THE INCARCERATED INDIVIDUAL UNDER CONTRACT
+12 WITH THE DEPARTMENT OR LOCAL CORRECTIONAL FACILITY; OR
+13 2. IF REQUESTED BY AN INDIVIDUAL IDENTIFIED IN
+14 SUBSECTION (E)(1) OF THIS SECTION, ONE MEDICAL EVALUATION CONDUCTED AT
+15 NO COST TO THE INCARCERATED INDIVIDUAL BY A LICENSED PHYSICIAN WHO IS
+16 INDEPENDENT FROM THE DIVISION OF CORRECTION OR LOCAL CORRECTIONAL
+17 FACILITY;
+18 (II) THE INCARCERATED INDIVIDUAL’S MEDICAL
+19 INFORMATION, INCLUDING:
+20 1. A DESCRIPTION OF THE INCARCERATED
+21 INDIVIDUAL’S CONDITION, DISEASE, OR SYNDROME;
+22 2. A PROGNOSIS CONCERNING THE LIKELIHOOD OF
+23 RECOVERY FROM THE CONDITION, DISEASE, OR SYNDROME;
+24 3. A DESCRIPTION OF THE INCARCERATED
+25 INDIVIDUAL’S PHYSICAL INCAPACITY; AND
+26 4. A MENTAL HEALTH EVALUATION, WHERE RELEVANT;
+27 (III) DISCHARGE INFORMATION, INCLUDING:
+28 1. AVAILABILITY OF TREATMENT OR PROFESSIONAL
+29 SERVICES WITHIN THE COMMUNITY;
+30 2. FAMILY SUPPORT WITHIN THE COMMUNITY; AND
+HOUSE BILL 1123 7
+1 3. HOUSING AVAILABILITY, INCLUDING HOSPITAL OR
+2 HOSPICE CARE; AND
+3 (IV) CASE MANAGEMENT INFORMATION, INCLUDING:
+4 1. THE CIRCUMSTANCES OF THE CURRENT OFFENSE;
+5 2. INSTITUTIONAL HISTORY;
+6 3. PENDING CHARGES, SENTENCES IN OTHER
+7 JURISDICTIONS, AND ANY OTHER DETAINERS; AND
+8 4. CRIMINAL HISTORY INFORMATION.
+9 (2) IF A MEDICAL EVALUATION IS REQUESTED UNDER PARAGRAPH
+10 (1)(I)2 OF THIS SUBSECTION:
+11 (I) THE EVALUATION SHALL CONSIST OF AN IN–PERSON
+12 EXAMINATION OF THE INCARCERATED INDIVIDUAL; AND
+13 (II) THE COMMISSION SHALL GIVE EQUAL CONSIDERATION TO
+14 THE FINDINGS OF THE EVALUATION AND ANY MEDICAL CONDITION DETAILED IN
+15 THE EVALUATION IN CONSIDERING WHETHER TO GRANT MEDICAL PAROLE.
+16 [(c)] (E) (1) A request for a medical parole under this section may be filed
+17 with the Maryland Parole Commission by:
+18 (i) the incarcerated individual seeking the medical parole;
+19 (ii) an attorney;
+20 (iii) a prison official or employee;
+21 (iv) a medical professional;
+22 (v) a family member; or
+23 (vi) any other person.
+24 (2) The request shall be in writing and shall articulate the grounds that
+25 support the appropriateness of granting the medical parole.
+26 (F) (1) THE INCARCERATED INDIVIDUAL OR THE INCARCERATED
+27 INDIVIDUAL’S REPRESENTATIVE MAY REQUEST A MEETING WITH THE COMMISSION.
+8 HOUSE BILL 1123
+1 (2) IF A REQUEST FOR A MEETING IS MADE UNDER PARAGRAPH (1) OF
+2 THIS SUBSECTION:
+3 (I) THE COMMISSION SHALL GRANT THE REQUEST FOR A
+4 MEETING FOR ANY INCARCERATED INDIVIDUAL:
+5 1. HOUSED IN AN INFIRMARY OF A CORRECTIONAL
+6 FACILITY;
+7 2. CURRENTLY HOSPITALIZED OUTSIDE A
+8 CORRECTIONAL FACILITY; OR
+9 3. WHO HAS BEEN FREQUENTLY HOUSED IN AN
+10 INFIRMARY OF A CORRECTIONAL FACILITY OR HOSPITALIZED OUTSIDE A
+11 CORRECTIONAL FACILITY IN THE PRECEDING 6 MONTHS; AND
+12 (II) THE COMMISSION MAY, AT ITS DISCRETION, GRANT THE
+13 REQUEST FOR A MEETING FOR ANY INCARCERATED INDIVIDUAL WHO DOES NOT
+14 MEET THE REQUIREMENTS OF ITEM (I) OF THIS PARAGRAPH.
+15 [(d)] (G) Following review of the request, the Commission may:
+16 (1) find the request to be inconsistent with the best interests of public
+17 safety and take no further action; or
+18 (2) request that [department] DEPARTMENT or local correctional facility
+19 personnel provide information for formal consideration of parole release.
+20 [(e) The information to be considered by the Commission before granting medical
+21 parole shall, at a minimum, include:
+22 (1) (i) a recommendation by the medical professional treating the
+23 incarcerated individual under contract with the Department or local correctional facility;
+24 or
+25 (ii) if requested by an individual identified in subsection (c)(1) of this
+26 section, one medical evaluation conducted at no cost to the incarcerated individual by a
+27 medical professional who is independent from the Division of Correction or local
+28 correctional facility;
+29 (2) the incarcerated individual’s medical information, including:
+30 (i) a description of the incarcerated individual’s condition, disease,
+31 or syndrome;
+HOUSE BILL 1123 9
+1 (ii) a prognosis concerning the likelihood of recovery from the
+2 condition, disease, or syndrome;
+3 (iii) a description of the incarcerated individual’s physical incapacity
+4 and score on the Karnofsky Performance Scale Index or similar classification of physical
+5 impairment; and
+6 (iv) a mental health evaluation, where relevant;
+7 (3) discharge information, including:
+8 (i) availability of treatment or professional services within the
+9 community;
+10 (ii) family support within the community; and
+11 (iii) housing availability, including hospital or hospice care; and
+12 (4) case management information, including:
+13 (i) the circumstances of the current offense;
+14 (ii) institutional history;
+15 (iii) pending charges, sentences in other jurisdictions, and any other
+16 detainers; and
+17 (iv) criminal history information.]
+18 [(f)] (H) The Commission may require as a condition of release on medical parole
+19 that:
+20 (1) the parolee agree to placement for a definite or indefinite period of time
+21 [in a hospital or hospice or other] UNDER THE CARE OF A MEDICAL PROVIDER AND IN
+22 A housing accommodation suitable to the parolee’s medical condition, including the family
+23 home of the parolee, as specified by the Commission or the supervising agent; and
+24 (2) the parolee forward authentic copies of applicable medical records to
+25 indicate that the particular medical condition giving rise to the release continues to exist.
+26 [(g)] (I) (1) If the Commission has reason to believe that a parolee is no
+27 longer so debilitated or incapacitated as to be physically incapable of presenting a danger
+28 to society, the parolee shall be returned to the custody of the Division of Correction or the
+29 local correctional facility from which the incarcerated individual was released.
+30 (2) (i) A parole hearing for a parolee returned to custody shall be held
+31 to consider whether the parolee remains incapacitated and shall be heard promptly.
+10 HOUSE BILL 1123
+1 (ii) A parolee returned to custody under this subsection shall be
+2 maintained in custody, if the incapacitation is found to no longer exist.
+3 (3) An incarcerated individual whose medical parole is revoked for lack of
+4 continued incapacitation may be considered for parole in accordance with the eligibility
+5 requirements specified in § 7–301 of this subtitle.
+6 [(h)] (J) (1) IN THIS SUBSECTION, “IMMINENT DEATH” MEANS DEATH
+7 THAT IS LIKELY TO OCCUR WITHIN 6 MONTHS.
+8 (2) Subject to paragraph [(2)] (3) of this subsection, provisions of law
+9 relating to victim notification and opportunity to be heard shall apply to proceedings
+10 relating to medical parole.
+11 [(2)] (3) In cases of imminent death, time limits relating to victim
+12 notification and opportunity to be heard may be reduced or waived in the discretion of the
+13 Commission.
+14 [(i) (1) If the Commission decides to grant medical parole to an incarcerated
+15 individual sentenced to life imprisonment, the decision shall be transmitted to the
+16 Governor.
+17 (2) The Governor may disapprove the decision by written transmittal to
+18 the Commission.
+19 (3) If the Governor does not disapprove the decision within 180 days after
+20 receipt of the written transmittal, the decision becomes effective.]
+21 [(j)] (K) The Commission shall [issue] ADOPT regulations to implement the
+22 provisions of this section.
+23 7–310.
+24 (A) ON AN ONGOING BASIS, THE DEPARTMENT SHALL SUBMIT TO THE
+25 COMMISSION THE NAMES OF EACH INCARCERATED INDIVIDUAL WHO:
+26 (1) IS AT LEAST 60 YEARS OLD;
+27 (2) HAS BEEN INCARCERATED FOR A CONTINUOUS PERIOD OF AT
+28 LEAST 20 YEARS;
+29 (3) HAS HAD NO MAJOR DISCIPLINARY INFRACTIONS WITHIN THE
+30 PREVIOUS 3–YEAR PERIOD; AND
+HOUSE BILL 1123 11
+1 (4) IS NOT SERVING A SENTENCE OF LIFE WITHOUT THE POSSIBILITY
+2 OF PAROLE.
+3 (B) WITHIN 60 DAYS OF RECEIPT OF A NAME OF AN INCARCERATED
+4 INDIVIDUAL UNDER SUBSECTION (A) OF THIS SECTION, THE COMMISSION SHALL
+5 CONDUCT A RISK ASSESSMENT FOR THE INCARCERATED INDIVIDUAL.
+6 (C) ON COMPLETION OF THE RISK ASSESSMENT, THE COMMISSION SHALL
+7 CONDUCT A PAROLE RELEASE HEARING UNDER § 7–306 OR § 7–307 OF THIS
+8 SUBTITLE AND DETERMINE WHETHER THE INCARCERATED INDIVIDUAL IS SUITABLE
+9 FOR PAROLE.
+10 7–801.
+11 (a) (1) In this subtitle the following words have the meanings indicated.
+12 (2) “Victim” has the meaning stated in § 11–104 of the Criminal Procedure
+13 Article.
+14 (3) “Victim’s representative” has the meaning stated in § 11–104 of the
+15 Criminal Procedure Article.
+16 (b) (1) At least 90 days before an incarcerated individual’s parole release
+17 hearing, the Department shall notify the victim or the victim’s representative in writing,
+18 directed to the most current address on file, that the parole release hearing has been
+19 scheduled if:
+20 (i) the victim or the victim’s representative filed a notification
+21 request form under § 11–104 of the Criminal Procedure Article; or
+22 (ii) the victim makes a written request to the Department for
+23 notification and maintains a current address on file with the Department.
+24 (2) The victim may designate in writing to the Department the name and
+25 address of a representative who is a resident of the State to receive notice for the victim.
+26 (c) (1) Not later than 30 days after the date of the Department’s notice under
+27 subsection (b) of this section, the victim of a crime may submit to the Department a written
+28 request that the Division of Parole and Probation be required to complete an updated victim
+29 impact statement.
+30 (2) If the victim submits a request as authorized by paragraph (1) of this
+31 subsection, the Department shall direct the Division of Parole and Probation to:
+32 (i) complete the updated statement at least 30 days before the
+33 parole release hearing; and
+12 HOUSE BILL 1123
+1 (ii) send promptly the updated victim impact statement to the
+2 Commission.
+3 (d) A victim may:
+4 (1) at least 30 days before the parole release hearing:
+5 (i) make a written recommendation to the Commission on the
+6 advisability of releasing the incarcerated individual on parole; and
+7 (ii) request that the incarcerated individual be prohibited from
+8 having any contact with the victim as a condition of parole, mandatory supervision, work
+9 release, or other administrative release; and
+10 (2) request a meeting with a commissioner.
+11 (e) The Commission shall make an updated victim impact statement and a
+12 victim’s written recommendation available for review by the incarcerated individual or the
+13 incarcerated individual’s representative under § 7–303(b) of this title.
+14 (f) The Commission shall consider an updated victim impact statement or
+15 victim’s written recommendation at the parole release hearing.
+16 (g) If a victim requested an open hearing under § 7–304 of this title, the victim
+17 may present oral testimony at the incarcerated individual’s parole release hearing in a
+18 manner established in regulations adopted by the Commission.
+19 (h) The Department shall notify promptly the victim or the victim’s
+20 representative of the decision of the Commission regarding parole for the incarcerated
+21 individual.
+22 Article – State Government
+23 9–3201.
+24 (a) In this subtitle the following words have the meanings indicated.
+25 (b) “Board” means the Justice Reinvestment Oversight Board.
+26 (c) “Executive Director” means the Executive Director of the Governor’s Office of
+27 Crime Prevention and Policy.
+28 (d) “Fund” means the Performance Incentive Grant Fund established in § 9–3209
+29 of this subtitle.
+30 9–3207.
+HOUSE BILL 1123 13
+1 (b) (1) In collaboration with the Department of Public Safety and Correctional
+2 Services, the Board shall determine the annual savings from the implementation of the
+3 recommendations of the Justice Reinvestment Coordinating Council based on the
+4 difference between the prison population as measured on October 1, 2017, the baseline day,
+5 and the prison population as measured on October 1, 2018, the comparison day, and the
+6 variable cost of incarceration.
+7 (2) If the prison population on the comparison day is less than the prison
+8 population on the baseline day, the Board shall determine a savings based on the difference
+9 in the prison population multiplied by the variable cost.
+10 (3) The Board annually shall determine the difference between the prison
+11 population on October 1, 2017, and the prison population on October 1 of the current year
+12 and calculate any savings in accordance with paragraph (2) of this subsection.
+13 (4) If a prison population decline causes a correctional unit, wing, or facility
+14 to close, the Board shall conduct an assessment to determine the savings from the closure
+15 and distribute the savings, realized annually, according to the schedule in paragraph (5) of
+16 this subsection.
+17 (5) The Board annually shall recommend that the savings identified in
+18 paragraphs (2) through (4) of this subsection be distributed as follows:
+19 (i) up to 50% of the savings shall be placed in the Performance
+20 Incentive Grant Fund for purposes established under § 9–3209(b)(1) of this subtitle; and
+21 (ii) subject to paragraph (6) of this subsection, the remaining savings
+22 shall be used for additional services identified as reinvestment priorities in the Justice
+23 Reinvestment Coordinating Council’s Final Report.
+24 (6) The Board may recommend that a portion of the remaining savings
+25 identified under paragraph (5)(ii) of this subsection be:
+26 (i) used for the development and implementation of a
+27 post–secondary education and workforce training program for each correctional institution
+28 in the Division of Correction that provides incarcerated individuals with the requisite
+29 training, certifications, and experience to obtain careers in in–demand job sectors; [or]
+30 (ii) for fiscal year 2025 only, distributed to the Office of the
+31 Correctional Ombudsman; OR
+32 (III) DISTRIBUTED TO THE MARYLAND PAROLE COMMISSION
+33 FOR THE PURPOSE OF HIRING PSYCHOLOGISTS TO PERFORM RISK ASSESSMENTS OF
+34 CANDIDATES FOR ELDER PAROLE UNDER § 7–310 OF THE CORRECTIONAL SERVICES
+35 ARTICLE.
+14 HOUSE BILL 1123
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5     D B a C C C E P S T S C K a A C F t M P C t g m p t a i i s a t o l i a h t C e t i i a t C u c c r C t n o c i a a c t r t C r w a o c s b d t t C f a c p a g B  A S  A  ( B]
+[DELETED:  H   A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 7  ( T o t  ( A b o t s  ( ( A M    ( t    ( a]
+[DELETED: H 3    ( a    ( a    ( a    ( a   ( T s  ( F   ( f t r t b i w t b i o p s   ( r i  ( T p   ( ( a r b t m p t t i o    ( i s m p w i i f t D o C o l c   ( t    ( a o    ( a p c t l o r f t c    ( a a i    ( a   ( d]
+[DELETED:  H     ( a o t o p s w t c    ( f    ( h   ( c    ( t    ( i    ( p d    ( c  ( T   ( t i c s   ( t i  ( ( I d t p s b r t t c o t D o C o t l c   ( ( A t    ( A p r t c u t s s b m   ( A c r  ( ( S v n a o t b h s a t p r t m]
+[DELETED: H 5   ( I a  ( ( I i s t l i t d s b t t t G   ( T t   ( I r  () T s  ( )     )()“CHD FC     )“CIH D O IDE  D I T C S D TFC    )“TS DOFL–    T o t  () A i i w i s c d o]() i b a m o m h c d o s a t b py  a t      )()ID ]
+[DELETED:  H      )ISS     )(R E M M WS       )1IH B R P I O A D T S B A P O M HN E E ,       .   )()TH I T B C B T OL M ,      )1A R B T M T T I I U C EY        R B A I I I E N )) F T I O O O L C     )IT I ILS MN        D O T ILSN E ,,       P C T L ON E ,       D O T ILSY        .,N      ),IDN       O T O P       .Y ]
+[DELETED: H 7     . AY I H OE       ),VCN       .      .     . CS S I OS S        .   )()2      )T E S C O A INPL      )IT O   () ( A]( w    ( t    ( a    ( a    ( a    ( a    ( a   ( T s   )()H I I O T ILS OC ]
+[DELETED:  H    )I(       )T O S G T R F A       I A I O A C       H O AY        H B F H I A O A C F O H O A  S       )C,IT O MY A I DN G T F A M F A I I W D N I )   () F](   ( f t r t b i w t b i o p s   ( r dt  ] p  ( T p   ( ( a r b t m p t t i o    ( i s m p w i i f t D o C o l c   ( t    ( a o]
+[DELETED: H 9    ( a p c t l o r f t c    ( a a i    ( a   ( d    ( a o t o p s w t c    ( f    ( h   ( c    ( t    ( i    ( p d    ( c.  () T]( t   ( t i   h   ( t i  () ( I t C h r t b t a p i n]( l t l   ( ( A t]
+[DELETED:  H     ( A p r t c u t s s b m   ( A c r  () (]()I,“JN T SN I DH M D       S t p ()  o t s p o l)[]( r t v n a o t b h s a t p r   () I c o i d t l r t v]( n C  ( ( I i s t l i t d s b t t t G   ( T t   ( I r.  () T C s ie r t i t]()[K A p ) O,N A O BS T E S S T T:   60;     B I F A C P O A  0;   H N M D I W T YD –;]
+[DELETED: H 1   ) W6I  D O R O A N O A I A N  O), ) O,NT  O A P R H U   O   O T76§7 7  ( ( I   ( “ A   ( “ C  ( ( A l 9 d b a i i p r h d t t m c a o f t t p r h h b s    ( t v o t v r f a n r    ( t v m a w r t t D f n   ( T a  ( ( N s r i   ( I s    ( c t u s a l 3 d b t p]
+[DELETED:  H     ( s p t u v i s t t C  ( A   ( a    ( m a w r t t C o t a    ( r t t i i b p f h r   ( r  ( T C s m a u v i s a a v i  ( T C s c a u v i s o v  ( I m m  ( T D s n p t v o t v r o t d o t C r p f t i i A 9  ( I  ( “  ( “ C  ( “ o 9]
+[DELETED: H 1  ( ( I S r o t J R C C b o t d a v   ( I p i   ( T p a   ( I t a t   ( T B a s r t t s i i p    ( u t 5 o t s s b p i t P I    ( s s R   ( T i    ( u f t d a i o a p i t D o C t p i i w t r t or    ( f f y 2 o d t t O o t Cn   ) MPID T T A A O    O E70C .]
+[DELETED:  H   S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1123
+E5 5lr3080
+By: Delegates Bartlett and Charkoudian, Charkoudian, Crutchfield, Embry,
+Simmons, Phillips, Stinnett, Taylor, Simpson, Conaway, Kaufman, and
+Williams
+Introduced and read first time: February 5, 2025
+Assigned to: Judiciary
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 3, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Correctional Services – Medical and Elder Parole
+3 FOR the purpose of repealing provisions relating to gubernatorial approval of a decision of
+4 the Maryland Parole Commission to grant medical parole to an incarcerated
+5 individual serving a term of life imprisonment; altering how the Commission
+6 evaluates a request for medical parole, including providing for a meeting between
+7 the incarcerated individual and the Commission under certain circumstances;
+8 requiring the Department of Public Safety and Correctional Services to submit to the
+9 Commission the names of certain individuals at a certain time; requiring the
+10 Commission to conduct a risk assessment for a certain individual at a certain time;
+11 requiring the Commission to conduct a certain parole release hearing and determine
+12 whether a certain incarcerated individual is suitable for parole at a certain time;
+13 authorizing the Justice Reinvestment Oversight Board to recommend that a portion
+14 of certain savings be distributed to the Commission for a certain purpose; and
+15 generally relating to medical and elder parole.
+16 BY repealing and reenacting, with amendments,
+17 Article – Correctional Services
+18 Section 7–309
+19 Annotated Code of Maryland
+20 (2017 Replacement Volume and 2024 Supplement)
+21 BY adding to
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1123*
+
+2 HOUSE BILL 1123
+1 Article – Correctional Services
+2 Section 7–310
+3 Annotated Code of Maryland
+4 (2017 Replacement Volume and 2024 Supplement)
+5 BY repealing and reenacting, without amendments,
+6 Article – Correctional Services
+7 Section 7–801
+8 Annotated Code of Maryland
+9 (2017 Replacement Volume and 2024 Supplement)
+10 BY repealing and reenacting, without amendments,
+11 Article – State Government
+12 Section 9–3201
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – State Government
+17 Section 9–3207(b)
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Correctional Services
+23 7–309.
+24 (a) This section applies to any incarcerated individual who is sentenced to a term
+25 of incarceration for which all sentences being served, including any life sentence, are with
+26 the possibility of parole.
+27 (b) An incarcerated individual who is so chronically debilitated or incapacitated
+28 by a medical or mental health condition, disease, or syndrome as to be physically incapable
+29 of presenting a danger to society may be released on medical parole at any time during the
+30 term of that incarcerated individual’s sentence, without regard to the eligibility standards
+31 specified in § 7–301 of this subtitle.
+32 (c) (1) A request for a medical parole under this section may be filed with the
+33 Maryland Parole Commission by:
+34 (i) the incarcerated individual seeking the medical parole;
+35 (ii) an attorney;
+
+HOUSE BILL 1123 3
+1 (iii) a prison official or employee;
+2 (iv) a medical professional;
+3 (v) a family member; or
+4 (vi) any other person.
+5 (2) The request shall be in writing and shall articulate the grounds that
+6 support the appropriateness of granting the medical parole.
+7 (d) Following review of the request, the Commission may:
+8 (1) find the request to be inconsistent with the best interests of public
+9 safety and take no further action; or
+10 (2) request that department or local correctional facility personnel provide
+11 information for formal consideration of parole release.
+12 (e) The information to be considered by the Commission before granting medical
+13 parole shall, at a minimum, include:
+14 (1) (i) a recommendation by the medical professional treating the
+15 incarcerated individual under contract with the Department or local correctional facility;
+16 or
+17 (ii) if requested by an individual identified in subsection (c)(1) of this
+18 section, one medical evaluation conducted at no cost to the incarcerated individual by a
+19 medical professional who is independent from the Division of Correction or local
+20 correctional facility;
+21 (2) the incarcerated individual’s medical information, including:
+22 (i) a description of the incarcerated individual’s condition, disease,
+23 or syndrome;
+24 (ii) a prognosis concerning the likelihood of recovery from the
+25 condition, disease, or syndrome;
+26 (iii) a description of the incarcerated individual’s physical incapacity
+27 and score on the Karnofsky Performance Scale Index or similar classification of physical
+28 impairment; and
+29 (iv) a mental health evaluation, where relevant;
+30 (3) discharge information, including:
+
+4 HOUSE BILL 1123
+1 (i) availability of treatment or professional services within the
+2 community;
+3 (ii) family support within the community; and
+4 (iii) housing availability, including hospital or hospice care; and
+5 (4) case management information, including:
+6 (i) the circumstances of the current offense;
+7 (ii) institutional history;
+8 (iii) pending charges, sentences in other jurisdictions, and any other
+9 detainers; and
+10 (iv) criminal history information.
+11 (f) The Commission may require as a condition of release on medical parole that:
+12 (1) the parolee agree to placement for a definite or indefinite period of time
+13 in a hospital or hospice or other housing accommodation suitable to the parolee’s medical
+14 condition, including the family home of the parolee, as specified by the Commission or the
+15 supervising agent; and
+16 (2) the parolee forward authentic copies of applicable medical records to
+17 indicate that the particular medical condition giving rise to the release continues to exist.
+18 (g) (1) If the Commission has reason to believe that a parolee is no longer so
+19 debilitated or incapacitated as to be physically incapable of presenting a danger to society,
+20 the parolee shall be returned to the custody of the Division of Correction or the local
+21 correctional facility from which the incarcerated individual was released.
+22 (2) (i) A parole hearing for a parolee returned to custody shall be held
+23 to consider whether the parolee remains incapacitated and shall be heard promptly.
+24 (ii) A parolee returned to custody under this subsection shall be
+25 maintained in custody, if the incapacitation is found to no longer exist.
+26 (3) An incarcerated individual whose medical parole is revoked for lack of
+27 continued incapacitation may be considered for parole in accordance with the eligibility
+28 requirements specified in § 7–301 of this subtitle.
+29 (h) (1) Subject to paragraph (2) of this subsection, provisions of law relating to
+30 victim notification and opportunity to be heard shall apply to proceedings relating to
+31 medical parole.
+
+HOUSE BILL 1123 5
+1 (2) In cases of imminent death, time limits relating to victim notification
+2 and opportunity to be heard may be reduced or waived in the discretion of the Commission.
+3 (i) [(1) If the Commission decides to grant medical parole to an incarcerated
+4 individual sentenced to life imprisonment, the decision shall be transmitted to the
+5 Governor.
+6 (2) The Governor may disapprove the decision by written transmittal to
+7 the Commission.
+8 (3) If the Governor does not disapprove the decision within 180 days after
+9 receipt of the written transmittal, the decision becomes effective.
+10 (j)] The Commission shall issue regulations to implement the provisions of this
+11 section.
+12 (a) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+13 INDICATED.
+14 (2) (I) “CHRONICALLY DEBILITATED OR INCAPACITATED” MEANS
+15 HAVING A DIAGNOSABLE MEDICAL CONDITION THAT IS UNLIKELY TO IMPROVE IN
+16 THE FUTURE AND SUBSTANTIALLY DIMINISHES THE ABILITY OF THE INDIVIDUAL TO
+17 PROVIDE SELF–CARE.
+18 (II) “CHRONICALLY DEBILITATED OR INCAPACITATED”
+19 INCLUDES CONDITIONS SUCH AS DEMENTIA OR A SEVERE, PERMANENT MEDICAL OR
+20 COGNITIVE DISABILITY IF THE CONDITION SUBSTANTIALLY DIMINISHES THE
+21 ABILITY OF THE INDIVIDUAL TO PROVIDE SELF–CARE.
+22 (3) “TERMINAL ILLNESS” MEANS A DISEASE OR CONDITION WITH AN
+23 END–OF–LIFE TRAJECTORY.
+24 (B) This section applies to any incarcerated individual who is sentenced to a term
+25 of incarceration for which all sentences being served, including any life sentence, are with
+26 the possibility of parole.
+27 [(b)] (C) An incarcerated individual [who is so chronically debilitated or
+28 incapacitated by a medical or mental health condition, disease, or syndrome as to be
+29 physically incapable of presenting a danger to society] may be released on medical parole
+30 at any time during the term of that incarcerated individual’s sentence, without regard to
+31 the eligibility standards specified in § 7–301 of this subtitle IF A LICENSED PHYSICIAN
+32 HAS DETERMINED THAT THE INCARCERATED INDIVIDUAL:
+33 (1) (I) IS CHRONICALLY DEBILITATED OR INCAPACITATED; OR
+
+6 HOUSE BILL 1123
+1 (II) SUFFERS FROM A TERMINAL ILLNESS; AND
+2 (2) (I) REQUIRES EXTENDED MEDICAL MANAGEMENT WITH
+3 HEALTH CARE NEEDS THAT WOULD BE BETTER MET BY COMMUNITY SERVICES; AND
+4 (II) 1. HAS BEEN RENDERED PHYSICALLY INCAPABLE OF
+5 PRESENTING A DANGER TO SOCIETY BY A PHYSICAL OR MENTAL HEALTH
+6 CONDITION, DISEASE, OR SYNDROME; OR
+7 2. IS NO LONGER A DANGER TO PUBLIC SAFETY.
+8 (D) (1) THE INFORMATION TO BE CONSIDERED BY THE COMMISSION
+9 BEFORE GRANTING MEDICAL PAROLE SHALL, AT A MINIMUM, INCLUDE:
+10 (I) 1. A RECOMMENDATION BY THE MEDICAL
+11 PROFESSIONAL TREATING THE INCARCERATED INDIVIDUAL UNDER CONTRACT
+12 WITH THE DEPARTMENT OR LOCAL CORRECTIONAL FACILITY; OR
+13 2. IF REQUESTED BY AN INDIVIDUAL IDENTIFIED IN
+14 SUBSECTION (E)(1) OF THIS SECTION, ONE MEDICAL EVALUATION CONDUCTED AT
+15 NO COST TO THE INCARCERATED INDIVIDUAL BY A LICENSED PHYSICIAN WHO IS
+16 INDEPENDENT FROM THE DIVISION OF CORRECTION OR LOCAL CORRECTIONAL
+17 FACILITY;
+18 (II) THE INCARCERATED INDIVIDUAL’S MEDICAL
+19 INFORMATION, INCLUDING:
+20 1. A DESCRIPTION OF THE INCARCERATED
+21 INDIVIDUAL’S CONDITION, DISEASE, OR SYNDROME;
+22 2. A PROGNOSIS CONCERNING THE LIKELIHOOD OF
+23 RECOVERY FROM THE CONDITION, DISEASE, OR SYNDROME;
+24 3. A DESCRIPTION OF THE INCARCERATED
+25 INDIVIDUAL’S PHYSICAL INCAPACITY; AND
+26 4. A MENTAL HEALTH EVALUATION, WHERE RELEVANT;
+27 (III) DISCHARGE INFORMATION, INCLUDING:
+28 1. AVAILABILITY OF TREATMENT OR PROFESSIONAL
+29 SERVICES WITHIN THE COMMUNITY;
+30 2. FAMILY SUPPORT WITHIN THE COMMUNITY; AND
+
+HOUSE BILL 1123 7
+1 3. HOUSING AVAILABILITY, INCLUDING HOSPITAL OR
+2 HOSPICE CARE; AND
+3 (IV) CASE MANAGEMENT INFORMATION, INCLUDING:
+4 1. THE CIRCUMSTANCES OF THE CURRENT OFFENSE;
+5 2. INSTITUTIONAL HISTORY;
+6 3. PENDING CHARGES, SENTENCES IN OTHER
+7 JURISDICTIONS, AND ANY OTHER DETAINERS; AND
+8 4. CRIMINAL HISTORY INFORMATION.
+9 (2) IF A MEDICAL EVALUATION IS REQUESTED UNDER PARAGRAPH
+10 (1)(I)2 OF THIS SUBSECTION:
+11 (I) THE EVALUATION SHALL CONSIST OF AN IN–PERSON
+12 EXAMINATION OF THE INCARCERATED INDIVIDUAL; AND
+13 (II) THE COMMISSION SHALL GIVE EQUAL CONSIDERATION TO
+14 THE FINDINGS OF THE EVALUATION AND ANY MEDICAL CONDITION DETAILED IN
+15 THE EVALUATION IN CONSIDERING WHETHER TO GRANT MEDICAL PAROLE.
+16 [(c)] (E) (1) A request for a medical parole under this section may be filed
+17 with the Maryland Parole Commission by:
+18 (i) the incarcerated individual seeking the medical parole;
+19 (ii) an attorney;
+20 (iii) a prison official or employee;
+21 (iv) a medical professional;
+22 (v) a family member; or
+23 (vi) any other person.
+24 (2) The request shall be in writing and shall articulate the grounds that
+25 support the appropriateness of granting the medical parole.
+26 (F) (1) THE INCARCERATED INDIVIDUAL OR THE INCARCERATED
+27 INDIVIDUAL’S REPRESENTATIVE MAY REQUEST A MEETING WITH THE COMMISSION.
+
+8 HOUSE BILL 1123
+1 (2) IF A REQUEST FOR A MEETING IS MADE UNDER PARAGRAPH (1) OF
+2 THIS SUBSECTION:
+3 (I) THE COMMISSION SHALL GRANT THE REQUEST FOR A
+4 MEETING FOR ANY INCARCERATED INDIVIDUAL:
+5 1. HOUSED IN AN INFIRMARY OF A CORRECTIONAL
+6 FACILITY;
+7 2. CURRENTLY HOSPITALIZED OUTSIDE A
+8 CORRECTIONAL FACILITY; OR
+9 3. WHO HAS BEEN FREQUENTLY HOUSED IN AN
+10 INFIRMARY OF A CORRECTIONAL FACILITY OR HOSPITALIZED OUTSIDE A
+11 CORRECTIONAL FACILITY IN THE PRECEDING 6 MONTHS; AND
+12 (II) THE COMMISSION MAY, AT ITS DISCRETION, GRANT THE
+13 REQUEST FOR A MEETING FOR ANY INCARCERATED INDIVIDUAL WHO DOES NOT
+14 MEET THE REQUIREMENTS OF ITEM (I) OF THIS PARAGRAPH.
+15 [(d)] (G) Following review of the request, the Commission may:
+16 (1) find the request to be inconsistent with the best interests of public
+17 safety and take no further action; or
+18 (2) request that [department] DEPARTMENT or local correctional facility
+19 personnel provide information for formal consideration of parole release.
+20 [(e) The information to be considered by the Commission before granting medical
+21 parole shall, at a minimum, include:
+22 (1) (i) a recommendation by the medical professional treating the
+23 incarcerated individual under contract with the Department or local correctional facility;
+24 or
+25 (ii) if requested by an individual identified in subsection (c)(1) of this
+26 section, one medical evaluation conducted at no cost to the incarcerated individual by a
+27 medical professional who is independent from the Division of Correction or local
+28 correctional facility;
+29 (2) the incarcerated individual’s medical information, including:
+30 (i) a description of the incarcerated individual’s condition, disease,
+31 or syndrome;
+
+HOUSE BILL 1123 9
+1 (ii) a prognosis concerning the likelihood of recovery from the
+2 condition, disease, or syndrome;
+3 (iii) a description of the incarcerated individual’s physical incapacity
+4 and score on the Karnofsky Performance Scale Index or similar classification of physical
+5 impairment; and
+6 (iv) a mental health evaluation, where relevant;
+7 (3) discharge information, including:
+8 (i) availability of treatment or professional services within the
+9 community;
+10 (ii) family support within the community; and
+11 (iii) housing availability, including hospital or hospice care; and
+12 (4) case management information, including:
+13 (i) the circumstances of the current offense;
+14 (ii) institutional history;
+15 (iii) pending charges, sentences in other jurisdictions, and any other
+16 detainers; and
+17 (iv) criminal history information.]
+18 [(f)] (H) The Commission may require as a condition of release on medical parole
+19 that:
+20 (1) the parolee agree to placement for a definite or indefinite period of time
+21 [in a hospital or hospice or other] UNDER THE CARE OF A MEDICAL PROVIDER AND IN
+22 A housing accommodation suitable to the parolee’s medical condition, including the family
+23 home of the parolee, as specified by the Commission or the supervising agent; and
+24 (2) the parolee forward authentic copies of applicable medical records to
+25 indicate that the particular medical condition giving rise to the release continues to exist.
+26 [(g)] (I) (1) If the Commission has reason to believe that a parolee is no
+27 longer so debilitated or incapacitated as to be physically incapable of presenting a danger
+28 to society, the parolee shall be returned to the custody of the Division of Correction or the
+29 local correctional facility from which the incarcerated individual was released.
+30 (2) (i) A parole hearing for a parolee returned to custody shall be held
+31 to consider whether the parolee remains incapacitated and shall be heard promptly.
+
+10 HOUSE BILL 1123
+1 (ii) A parolee returned to custody under this subsection shall be
+2 maintained in custody, if the incapacitation is found to no longer exist.
+3 (3) An incarcerated individual whose medical parole is revoked for lack of
+4 continued incapacitation may be considered for parole in accordance with the eligibility
+5 requirements specified in § 7–301 of this subtitle.
+6 [(h)] (J) (1) IN THIS SUBSECTION, “IMMINENT DEATH” MEANS DEATH
+7 THAT IS LIKELY TO OCCUR WITHIN 6 MONTHS.
+8 (2) Subject to paragraph [(2)] (3) of this subsection, provisions of law
+9 relating to victim notification and opportunity to be heard shall apply to proceedings
+10 relating to medical parole.
+11 [(2)] (3) In cases of imminent death, time limits relating to victim
+12 notification and opportunity to be heard may be reduced or waived in the discretion of the
+13 Commission.
+14 [(i) (1) If the Commission decides to grant medical parole to an incarcerated
+15 individual sentenced to life imprisonment, the decision shall be transmitted to the
+16 Governor.
+17 (2) The Governor may disapprove the decision by written transmittal to
+18 the Commission.
+19 (3) If the Governor does not disapprove the decision within 180 days after
+20 receipt of the written transmittal, the decision becomes effective.]
+21 [(j)] (K) The Commission shall [issue] ADOPT regulations to implement the
+22 provisions of this section.
+23 7–310.
+24 (A) ON AN ONGOING BASIS, THE DEPARTMENT SHALL SUBMIT TO THE
+25 COMMISSION THE NAMES OF EACH INCARCERATED INDIVIDUAL WHO:
+26 (1) IS AT LEAST 60 YEARS OLD;
+27 (2) HAS BEEN INCARCERATED FOR A CONTINUOUS PERIOD OF AT
+28 LEAST 20 YEARS;
+29 (3) HAS HAD NO MAJOR DISCIPLINARY INFRACTIONS WITHIN THE
+30 PREVIOUS 3–YEAR PERIOD; AND
+
+HOUSE BILL 1123 11
+1 (4) IS NOT SERVING A SENTENCE OF LIFE WITHOUT THE POSSIBILITY
+2 OF PAROLE.
+3 (B) WITHIN 60 DAYS OF RECEIPT OF A NAME OF AN INCARCERATED
+4 INDIVIDUAL UNDER SUBSECTION (A) OF THIS SECTION, THE COMMISSION SHALL
+5 CONDUCT A RISK ASSESSMENT FOR THE INCARCERATED INDIVIDUAL.
+6 (C) ON COMPLETION OF THE RISK ASSESSMENT, THE COMMISSION SHALL
+7 CONDUCT A PAROLE RELEASE HEARING UNDER § 7–306 OR § 7–307 OF THIS
+8 SUBTITLE AND DETERMINE WHETHER THE INCARCERATED INDIVIDUAL IS SUITABLE
+9 FOR PAROLE.
+10 7–801.
+11 (a) (1) In this subtitle the following words have the meanings indicated.
+12 (2) “Victim” has the meaning stated in § 11–104 of the Criminal Procedure
+13 Article.
+14 (3) “Victim’s representative” has the meaning stated in § 11–104 of the
+15 Criminal Procedure Article.
+16 (b) (1) At least 90 days before an incarcerated individual’s parole release
+17 hearing, the Department shall notify the victim or the victim’s representative in writing,
+18 directed to the most current address on file, that the parole release hearing has been
+19 scheduled if:
+20 (i) the victim or the victim’s representative filed a notification
+21 request form under § 11–104 of the Criminal Procedure Article; or
+22 (ii) the victim makes a written request to the Department for
+23 notification and maintains a current address on file with the Department.
+24 (2) The victim may designate in writing to the Department the name and
+25 address of a representative who is a resident of the State to receive notice for the victim.
+26 (c) (1) Not later than 30 days after the date of the Department’s notice under
+27 subsection (b) of this section, the victim of a crime may submit to the Department a written
+28 request that the Division of Parole and Probation be required to complete an updated victim
+29 impact statement.
+30 (2) If the victim submits a request as authorized by paragraph (1) of this
+31 subsection, the Department shall direct the Division of Parole and Probation to:
+32 (i) complete the updated statement at least 30 days before the
+33 parole release hearing; and
+
+12 HOUSE BILL 1123
+1 (ii) send promptly the updated victim impact statement to the
+2 Commission.
+3 (d) A victim may:
+4 (1) at least 30 days before the parole release hearing:
+5 (i) make a written recommendation to the Commission on the
+6 advisability of releasing the incarcerated individual on parole; and
+7 (ii) request that the incarcerated individual be prohibited from
+8 having any contact with the victim as a condition of parole, mandatory supervision, work
+9 release, or other administrative release; and
+10 (2) request a meeting with a commissioner.
+11 (e) The Commission shall make an updated victim impact statement and a
+12 victim’s written recommendation available for review by the incarcerated individual or the
+13 incarcerated individual’s representative under § 7–303(b) of this title.
+14 (f) The Commission shall consider an updated victim impact statement or
+15 victim’s written recommendation at the parole release hearing.
+16 (g) If a victim requested an open hearing under § 7–304 of this title, the victim
+17 may present oral testimony at the incarcerated individual’s parole release hearing in a
+18 manner established in regulations adopted by the Commission.
+19 (h) The Department shall notify promptly the victim or the victim’s
+20 representative of the decision of the Commission regarding parole for the incarcerated
+21 individual.
+22 Article – State Government
+23 9–3201.
+24 (a) In this subtitle the following words have the meanings indicated.
+25 (b) “Board” means the Justice Reinvestment Oversight Board.
+26 (c) “Executive Director” means the Executive Director of the Governor’s Office of
+27 Crime Prevention and Policy.
+28 (d) “Fund” means the Performance Incentive Grant Fund established in § 9–3209
+29 of this subtitle.
+30 9–3207.
+
+HOUSE BILL 1123 13
+1 (b) (1) In collaboration with the Department of Public Safety and Correctional
+2 Services, the Board shall determine the annual savings from the implementation of the
+3 recommendations of the Justice Reinvestment Coordinating Council based on the
+4 difference between the prison population as measured on October 1, 2017, the baseline day,
+5 and the prison population as measured on October 1, 2018, the comparison day, and the
+6 variable cost of incarceration.
+7 (2) If the prison population on the comparison day is less than the prison
+8 population on the baseline day, the Board shall determine a savings based on the difference
+9 in the prison population multiplied by the variable cost.
+10 (3) The Board annually shall determine the difference between the prison
+11 population on October 1, 2017, and the prison population on October 1 of the current year
+12 and calculate any savings in accordance with paragraph (2) of this subsection.
+13 (4) If a prison population decline causes a correctional unit, wing, or facility
+14 to close, the Board shall conduct an assessment to determine the savings from the closure
+15 and distribute the savings, realized annually, according to the schedule in paragraph (5) of
+16 this subsection.
+17 (5) The Board annually shall recommend that the savings identified in
+18 paragraphs (2) through (4) of this subsection be distributed as follows:
+19 (i) up to 50% of the savings shall be placed in the Performance
+20 Incentive Grant Fund for purposes established under § 9–3209(b)(1) of this subtitle; and
+21 (ii) subject to paragraph (6) of this subsection, the remaining savings
+22 shall be used for additional services identified as reinvestment priorities in the Justice
+23 Reinvestment Coordinating Council’s Final Report.
+24 (6) The Board may recommend that a portion of the remaining savings
+25 identified under paragraph (5)(ii) of this subsection be:
+26 (i) used for the development and implementation of a
+27 post–secondary education and workforce training program for each correctional institution
+28 in the Division of Correction that provides incarcerated individuals with the requisite
+29 training, certifications, and experience to obtain careers in in–demand job sectors; [or]
+30 (ii) for fiscal year 2025 only, distributed to the Office of the
+31 Correctional Ombudsman; OR
+32 (III) DISTRIBUTED TO THE MARYLAND PAROLE COMMISSION
+33 FOR THE PURPOSE OF HIRING PSYCHOLOGISTS TO PERFORM RISK ASSESSMENTS OF
+34 CANDIDATES FOR ELDER PAROLE UNDER § 7–310 OF THE CORRECTIONAL SERVICES
+35 ARTICLE.
+
+14 HOUSE BILL 1123
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5     D B a C C C E P S T S C K a A C F t M P C t g m p t a i i s a t o l i a h t C e t i i a t C u c c r C t n o c i a a c t r t C r w a o c s b d t t C f a c p a g B  A S  A  ( B]
+[DELETED:  H   A S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 7  ( T o t  ( A b o t s  ( ( A M    ( t    ( a]
+[DELETED: H 3    ( a    ( a    ( a    ( a   ( T s  ( F   ( f t r t b i w t b i o p s   ( r i  ( T p   ( ( a r b t m p t t i o    ( i s m p w i i f t D o C o l c   ( t    ( a o    ( a p c t l o r f t c    ( a a i    ( a   ( d]
+[DELETED:  H     ( a o t o p s w t c    ( f    ( h   ( c    ( t    ( i    ( p d    ( c  ( T   ( t i c s   ( t i  ( ( I d t p s b r t t c o t D o C o t l c   ( ( A t    ( A p r t c u t s s b m   ( A c r  ( ( S v n a o t b h s a t p r t m]
+[DELETED: H 5   ( I a  ( ( I i s t l i t d s b t t t G   ( T t   ( I r  () T s  ( )     )()“CHD FC     )“CIH D O IDE  D I T C S D TFC    )“TS DOFL–    T o t  () A i i w i s c d o]() i b a m o m h c d o s a t b py  a t      )()ID ]
+[DELETED:  H      )ISS     )(R E M M WS       )1IH B R P I O A D T S B A P O M HN E E ,       .   )()TH I T B C B T OL M ,      )1A R B T M T T I I U C EY        R B A I I I E N )) F T I O O O L C     )IT I ILS MN        D O T ILSN E ,,       P C T L ON E ,       D O T ILSY        .,N      ),IDN       O T O P       .Y ]
+[DELETED: H 7     . AY I H OE       ),VCN       .      .     . CS S I OS S        .   )()2      )T E S C O A INPL      )IT O   () ( A]( w    ( t    ( a    ( a    ( a    ( a    ( a   ( T s   )()H I I O T ILS OC ]
+[DELETED:  H    )I(       )T O S G T R F A       I A I O A C       H O AY        H B F H I A O A C F O H O A  S       )C,IT O MY A I DN G T F A M F A I I W D N I )   () F](   ( f t r t b i w t b i o p s   ( r dt  ] p  ( T p   ( ( a r b t m p t t i o    ( i s m p w i i f t D o C o l c   ( t    ( a o]
+[DELETED: H 9    ( a p c t l o r f t c    ( a a i    ( a   ( d    ( a o t o p s w t c    ( f    ( h   ( c    ( t    ( i    ( p d    ( c.  () T]( t   ( t i   h   ( t i  () ( I t C h r t b t a p i n]( l t l   ( ( A t]
+[DELETED:  H     ( A p r t c u t s s b m   ( A c r  () (]()I,“JN T SN I DH M D       S t p ()  o t s p o l)[]( r t v n a o t b h s a t p r   () I c o i d t l r t v]( n C  ( ( I i s t l i t d s b t t t G   ( T t   ( I r.  () T C s ie r t i t]()[K A p ) O,N A O BS T E S S T T:   60;     B I F A C P O A  0;   H N M D I W T YD –;]
+[DELETED: H 1   ) W6I  D O R O A N O A I A N  O), ) O,NT  O A P R H U   O   O T76§7 7  ( ( I   ( “ A   ( “ C  ( ( A l 9 d b a i i p r h d t t m c a o f t t p r h h b s    ( t v o t v r f a n r    ( t v m a w r t t D f n   ( T a  ( ( N s r i   ( I s    ( c t u s a l 3 d b t p]
+[DELETED:  H     ( s p t u v i s t t C  ( A   ( a    ( m a w r t t C o t a    ( r t t i i b p f h r   ( r  ( T C s m a u v i s a a v i  ( T C s c a u v i s o v  ( I m m  ( T D s n p t v o t v r o t d o t C r p f t i i A 9  ( I  ( “  ( “ C  ( “ o 9]
+[DELETED: H 1  ( ( I S r o t J R C C b o t d a v   ( I p i   ( T p a   ( I t a t   ( T B a s r t t s i i p    ( u t 5 o t s s b p i t P I    ( s s R   ( T i    ( u f t d a i o a p i t D o C t p i i w t r t or    ( f f y 2 o d t t O o t Cn   ) MPID T T A A O    O E70C .]
+[DELETED:  H   S A B I F E T t A s t e O          G               ]

@@ -1,0 +1,124 @@
+Title: HOUSE BILL 1234
+Official Title: HOUSE BILL 1234
+Number of Sections: 1
+Source: versions - First - Montgomery County - Prohibited Restrictions on Use - Accessory Dwelling Units MC 2-25
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+N1, C9 5lr0879
+By: Montgomery County Delegation
+Introduced and read first time: February 7, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Montgomery County – Prohibited Restrictions on Use – Accessory Dwelling
+3 Units
+4 MC 2–25
+5 FOR the purpose of providing that certain restrictions on use that prohibit the use of real
+6 property in Montgomery County for accessory dwelling units otherwise authorized
+7 under law are void and unenforceable; applying this Act retroactively; and generally
+8 relating to restrictions on use of real property in Montgomery County.
+9 BY adding to
+10 Article – Real Property
+11 Section 2–126
+12 Annotated Code of Maryland
+13 (2023 Replacement Volume and 2024 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
+16 Article – Real Property
+17 2–126.
+18 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+19 INDICATED.
+20 (2) “ACCESSORY DWELLING UNIT” MEANS A SECONDARY DWELLING
+21 UNIT ON THE SAME LOT, PARCEL, OR TRACT AS A PRIMARY DWELLING UNIT THAT IS
+22 CONSTRUCTED:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1234*
+2 HOUSE BILL 1234
+1 (I) ATTACHED TO, OR THROUGH THE CONVERSION OF, A
+2 PORTION OF THE PRIMARY DWELLING UNIT;
+3 (II) ATTACHED TO, OR THROUGH THE FULL OR PARTIAL
+4 CONVERSION OF, AN ACCESSORY STRUCTURE LOCATED ON THE SAME LOT, PARCEL,
+5 OR TRACT AS THE PRIMARY DWELLING UNIT; OR
+6 (III) AS A NEW BUILDING, DETACHED FROM THE PRIMARY
+7 DWELLING UNIT AND ANY EXISTING ACCESSORY STRUCTURE.
+8 (3) “RESTRICTION ON USE” MEANS ANY COVENANT, RESTRICTION,
+9 OR CONDITION CONTAINED IN:
+10 (I) A DEED;
+11 (II) A DECLARATION; OR
+12 (III) THE BYLAWS OR RULES OF A HOMEOWNERS ASSOCIATION.
+13 (B) THIS SECTION APPLIES ONLY IN MONTGOMERY COUNTY.
+14 (C) A RESTRICTION ON USE THAT PROHIBITS THE USE OF REAL PROPERTY
+15 FOR ACCESSORY DWELLING UNITS OTHERWISE AUTHORIZED UNDER LAW IS VOID
+16 AND UNENFORCEABLE AS CONTRARY TO PUBLIC POLICY.
+17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+18 apply retroactively and shall be applied to and interpreted to affect any restriction on use
+19 recorded before the effective date of this Act.
+20 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2025.
+[DELETED: :CA      5     A M U M F p u r B  A  S  A  (  S T A() ( ND ( “AT T L ]
+[DELETED:  H   () A,T TO O T T C OF A  () AIT TO O T T F O PF T L,T   () AIS A N BG D F T P ( “R”, O UE M A CT RN  () A;   () A;I N   () T.IH() TMC.H O O()    S a r  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1234
+N1, C9 5lr0879
+By: Montgomery County Delegation
+Introduced and read first time: February 7, 2025
+Assigned to: Environment and Transportation
+A BILL ENTITLED
+1 AN ACT concerning
+2 Montgomery County – Prohibited Restrictions on Use – Accessory Dwelling
+3 Units
+4 MC 2–25
+5 FOR the purpose of providing that certain restrictions on use that prohibit the use of real
+6 property in Montgomery County for accessory dwelling units otherwise authorized
+7 under law are void and unenforceable; applying this Act retroactively; and generally
+8 relating to restrictions on use of real property in Montgomery County.
+9 BY adding to
+10 Article – Real Property
+11 Section 2–126
+12 Annotated Code of Maryland
+13 (2023 Replacement Volume and 2024 Supplement)
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
+16 Article – Real Property
+17 2–126.
+18 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+19 INDICATED.
+20 (2) “ACCESSORY DWELLING UNIT” MEANS A SECONDARY DWELLING
+21 UNIT ON THE SAME LOT, PARCEL, OR TRACT AS A PRIMARY DWELLING UNIT THAT IS
+22 CONSTRUCTED:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1234*
+
+2 HOUSE BILL 1234
+1 (I) ATTACHED TO, OR THROUGH THE CONVERSION OF, A
+2 PORTION OF THE PRIMARY DWELLING UNIT;
+3 (II) ATTACHED TO, OR THROUGH THE FULL OR PARTIAL
+4 CONVERSION OF, AN ACCESSORY STRUCTURE LOCATED ON THE SAME LOT, PARCEL,
+5 OR TRACT AS THE PRIMARY DWELLING UNIT; OR
+6 (III) AS A NEW BUILDING, DETACHED FROM THE PRIMARY
+7 DWELLING UNIT AND ANY EXISTING ACCESSORY STRUCTURE.
+8 (3) “RESTRICTION ON USE” MEANS ANY COVENANT, RESTRICTION,
+9 OR CONDITION CONTAINED IN:
+10 (I) A DEED;
+11 (II) A DECLARATION; OR
+12 (III) THE BYLAWS OR RULES OF A HOMEOWNERS ASSOCIATION.
+13 (B) THIS SECTION APPLIES ONLY IN MONTGOMERY COUNTY.
+14 (C) A RESTRICTION ON USE THAT PROHIBITS THE USE OF REAL PROPERTY
+15 FOR ACCESSORY DWELLING UNITS OTHERWISE AUTHORIZED UNDER LAW IS VOID
+16 AND UNENFORCEABLE AS CONTRARY TO PUBLIC POLICY.
+17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+18 apply retroactively and shall be applied to and interpreted to affect any restriction on use
+19 recorded before the effective date of this Act.
+20 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 October 1, 2025.
+
+[DELETED: :CA      5     A M U M F p u r B  A  S  A  (  S T A() ( ND ( “AT T L ]
+[DELETED:  H   () A,T TO O T T C OF A  () AIT TO O T T F O PF T L,T   () AIS A N BG D F T P ( “R”, O UE M A CT RN  () A;   () A;I N   () T.IH() TMC.H O O()    S a r  S A B I F E T t A s t e O]

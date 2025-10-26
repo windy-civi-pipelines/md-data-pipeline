@@ -1,0 +1,183 @@
+Title: HOUSE BILL 1314
+Official Title: HOUSE BILL 1314
+Number of Sections: 1
+Source: versions - First - Health Care - Prior Authorizations - Prohibiting Fees and Use of Artificial Intelligence
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+J5, J2, J3 5lr3188
+By: Delegates Miller, Alston, Buckel, Hornberger, McComas, Rose, and Tomlinson
+Introduced and read first time: February 7, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Health Care – Prior Authorizations – Prohibiting Fees and Use of Artificial
+3 Intelligence
+4 FOR the purpose of prohibiting certain insurers, nonprofit health service plans, and health
+5 maintenance organizations from using artificial intelligence to automatically deny
+6 prior authorizations; prohibiting health care providers from charging a fee to obtain
+7 a prior authorization from a carrier or managed care organization; and generally
+8 relating to prior authorizations.
+9 BY adding to
+10 Article – Health – General
+11 Section 24–2501 and 24–2502 to be under the new subtitle “Subtitle 25. Fees for
+12 Prior Authorizations – Prohibited”
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Insurance
+17 Section 15–1012
+18 Annotated Code of Maryland
+19 (2017 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Health – General
+23 SUBTITLE 25. FEES FOR PRIOR AUTHORIZATIONS – PROHIBITED.
+24 24–2501.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1314*
+2 HOUSE BILL 1314
+1 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (B) “CARRIER” MEANS:
+4 (1) A HEALTH INSURER;
+5 (2) A NONPROFIT HEALTH SERVICE PLAN;
+6 (3) A HEALTH MAINTENANCE ORGANIZATION; OR
+7 (4) ANY OTHER ENTITY THAT PROVIDES HEALTH BENEFIT PLANS
+8 SUBJECT TO REGULATION BY THE STATE.
+9 (C) “HEALTH CARE PROVIDER” MEANS:
+10 (1) A HEALTH CARE PRACTITIONER REGULATED UNDER THE HEALTH
+11 OCCUPATIONS ARTICLE; OR
+12 (2) A FACILITY THAT PROVIDES HEALTH CARE TO INDIVIDUALS.
+13 (D) “PRIOR AUTHORIZATION” MEANS A UTILIZATION MANAGEMENT
+14 TECHNIQUE THAT:
+15 (1) IS USED BY CARRIERS AND MANAGED CARE ORGANIZATIONS;
+16 (2) REQUIRES PRIOR APPROVAL FOR A PROCEDURE, TREATMENT,
+17 MEDICATION, OR SERVICE BEFORE AN ENROLLEE IS ELIGIBLE FOR FULL PAYMENT
+18 OF THE BENEFIT; AND
+19 (3) IS USED TO DETERMINE WHETHER THE PROCEDURE, TREATMENT,
+20 MEDICATION, OR SERVICE IS MEDICALLY NECESSARY.
+21 24–2502.
+22 A HEALTH CARE PROVIDER MAY NOT CHARGE A FEE TO OBTAIN A PRIOR
+23 AUTHORIZATION FROM A CARRIER OR MANAGED CARE ORGANIZATION.
+24 Article – Insurance
+25 15–1012.
+HOUSE BILL 1314 3
+1 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (2) “ARTIFICIAL INTELLIGENCE” HAS THE MEANING STATED IN §
+4 3.5–801 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+5 (3) “PRIOR AUTHORIZATION” HAS THE MEANING STATED IN § 1–230
+6 OF THE HEALTH OCCUPATIONS ARTICLE.
+7 (B) THIS SECTION APPLIES TO:
+8 (1) INSURERS AND NONPROFIT HEALTH SERVICE PLANS THAT
+9 PROVIDE HOSPITAL, MEDICAL, OR SURGICAL BENEFITS TO INDIVIDUALS OR GROUPS
+10 ON AN EXPENSE–INCURRED BASIS UNDER HEALTH INSURANCE POLICIES THAT ARE
+11 ISSUED OR DELIVERED IN THE STATE; AND
+12 (2) HEALTH MAINTENANCE ORGANIZATIONS THAT PROVIDE
+13 HOSPITAL, MEDICAL, OR SURGICAL BENEFITS TO INDIVIDUALS OR GROUPS UNDER
+14 CONTRACTS THAT ARE ISSUED OR DELIVERED IN THE STATE.
+15 (C) AN ENTITY SUBJECT TO THIS SECTION MAY NOT USE ARTIFICIAL
+16 INTELLIGENCE TO AUTOMATICALLY DENY A PRIOR AUTHORIZATION.
+17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all
+18 policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or
+19 after January 1, 2026.
+20 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 January 1, 2026.
+[DELETED: :CA      5     A H I F m p a r B  A S P  A  ( B  A S  A  (  S T A2.FPA–P.  E R U  R]
+[DELETED:  H () N T S T F W H T M() “C”:AR  ( A; ( A; ( A;N  (  O E T P H B P T.() “H”:ER  ( A EA; RE  ( A.() “PR AN M A U M ( I; ( R, P A F A PE TTN T  ( I,E TN .H C P M N C A F T O A P A]
+[DELETED: H 3() ( N ( “A”§ IE H T M S I 1SFPA. T I R R ( “P”§1N    E C ROA.() T:H ( A N H S P TL L EI TE ; ( M O T PL L  T.() N E S T T S M N U A  S a p a  S A B I F E T t A s t e J]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1314
+J5, J2, J3 5lr3188
+By: Delegates Miller, Alston, Buckel, Hornberger, McComas, Rose, and Tomlinson
+Introduced and read first time: February 7, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Health Care – Prior Authorizations – Prohibiting Fees and Use of Artificial
+3 Intelligence
+4 FOR the purpose of prohibiting certain insurers, nonprofit health service plans, and health
+5 maintenance organizations from using artificial intelligence to automatically deny
+6 prior authorizations; prohibiting health care providers from charging a fee to obtain
+7 a prior authorization from a carrier or managed care organization; and generally
+8 relating to prior authorizations.
+9 BY adding to
+10 Article – Health – General
+11 Section 24–2501 and 24–2502 to be under the new subtitle “Subtitle 25. Fees for
+12 Prior Authorizations – Prohibited”
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Insurance
+17 Section 15–1012
+18 Annotated Code of Maryland
+19 (2017 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Health – General
+23 SUBTITLE 25. FEES FOR PRIOR AUTHORIZATIONS – PROHIBITED.
+24 24–2501.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1314*
+
+2 HOUSE BILL 1314
+1 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (B) “CARRIER” MEANS:
+4 (1) A HEALTH INSURER;
+5 (2) A NONPROFIT HEALTH SERVICE PLAN;
+6 (3) A HEALTH MAINTENANCE ORGANIZATION; OR
+7 (4) ANY OTHER ENTITY THAT PROVIDES HEALTH BENEFIT PLANS
+8 SUBJECT TO REGULATION BY THE STATE.
+9 (C) “HEALTH CARE PROVIDER” MEANS:
+10 (1) A HEALTH CARE PRACTITIONER REGULATED UNDER THE HEALTH
+11 OCCUPATIONS ARTICLE; OR
+12 (2) A FACILITY THAT PROVIDES HEALTH CARE TO INDIVIDUALS.
+13 (D) “PRIOR AUTHORIZATION” MEANS A UTILIZATION MANAGEMENT
+14 TECHNIQUE THAT:
+15 (1) IS USED BY CARRIERS AND MANAGED CARE ORGANIZATIONS;
+16 (2) REQUIRES PRIOR APPROVAL FOR A PROCEDURE, TREATMENT,
+17 MEDICATION, OR SERVICE BEFORE AN ENROLLEE IS ELIGIBLE FOR FULL PAYMENT
+18 OF THE BENEFIT; AND
+19 (3) IS USED TO DETERMINE WHETHER THE PROCEDURE, TREATMENT,
+20 MEDICATION, OR SERVICE IS MEDICALLY NECESSARY.
+21 24–2502.
+22 A HEALTH CARE PROVIDER MAY NOT CHARGE A FEE TO OBTAIN A PRIOR
+23 AUTHORIZATION FROM A CARRIER OR MANAGED CARE ORGANIZATION.
+24 Article – Insurance
+25 15–1012.
+
+HOUSE BILL 1314 3
+1 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+2 INDICATED.
+3 (2) “ARTIFICIAL INTELLIGENCE” HAS THE MEANING STATED IN §
+4 3.5–801 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+5 (3) “PRIOR AUTHORIZATION” HAS THE MEANING STATED IN § 1–230
+6 OF THE HEALTH OCCUPATIONS ARTICLE.
+7 (B) THIS SECTION APPLIES TO:
+8 (1) INSURERS AND NONPROFIT HEALTH SERVICE PLANS THAT
+9 PROVIDE HOSPITAL, MEDICAL, OR SURGICAL BENEFITS TO INDIVIDUALS OR GROUPS
+10 ON AN EXPENSE–INCURRED BASIS UNDER HEALTH INSURANCE POLICIES THAT ARE
+11 ISSUED OR DELIVERED IN THE STATE; AND
+12 (2) HEALTH MAINTENANCE ORGANIZATIONS THAT PROVIDE
+13 HOSPITAL, MEDICAL, OR SURGICAL BENEFITS TO INDIVIDUALS OR GROUPS UNDER
+14 CONTRACTS THAT ARE ISSUED OR DELIVERED IN THE STATE.
+15 (C) AN ENTITY SUBJECT TO THIS SECTION MAY NOT USE ARTIFICIAL
+16 INTELLIGENCE TO AUTOMATICALLY DENY A PRIOR AUTHORIZATION.
+17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all
+18 policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or
+19 after January 1, 2026.
+20 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+21 January 1, 2026.
+
+[DELETED: :CA      5     A H I F m p a r B  A S P  A  ( B  A S  A  (  S T A2.FPA–P.  E R U  R]
+[DELETED:  H () N T S T F W H T M() “C”:AR  ( A; ( A; ( A;N  (  O E T P H B P T.() “H”:ER  ( A EA; RE  ( A.() “PR AN M A U M ( I; ( R, P A F A PE TTN T  ( I,E TN .H C P M N C A F T O A P A]
+[DELETED: H 3() ( N ( “A”§ IE H T M S I 1SFPA. T I R R ( “P”§1N    E C ROA.() T:H ( A N H S P TL L EI TE ; ( M O T PL L  T.() N E S T T S M N U A  S a p a  S A B I F E T t A s t e J]

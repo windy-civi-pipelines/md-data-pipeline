@@ -1,0 +1,315 @@
+Title: HOUSE BILL 1389
+Official Title: HOUSE BILL 1389
+Number of Sections: 1
+Source: versions - First - Strategic Bitcoin Reserve Act of Maryland
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+E2, B1 5lr3424
+By: Delegate Young
+Introduced and read first time: February 7, 2025
+Assigned to: Judiciary and Appropriations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Strategic Bitcoin Reserve Act of Maryland
+3 FOR the purpose of establishing the Maryland Bitcoin Reserve Fund to serve as a reserve
+4 asset for the State through the investment of Bitcoin; authorizing the State
+5 Treasurer to invest the funds obtained by the State through the enforcement of
+6 certain gambling violations in Bitcoin; and generally relating to the investment of
+7 State funds in Bitcoin.
+8 BY repealing and reenacting, without amendments,
+9 Article – Criminal Procedure
+10 Section 13–101 and 13–102
+11 Annotated Code of Maryland
+12 (2018 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – Criminal Procedure
+15 Section 13–104
+16 Annotated Code of Maryland
+17 (2018 Replacement Volume and 2024 Supplement)
+18 BY repealing and reenacting, without amendments,
+19 Article – State Finance and Procurement
+20 Section 6–226(a)(2)(i)
+21 Annotated Code of Maryland
+22 (2021 Replacement Volume and 2024 Supplement)
+23 BY repealing and reenacting, with amendments,
+24 Article – State Finance and Procurement
+25 Section 6–226(a)(2)(ii)204. and 205.
+26 Annotated Code of Maryland
+27 (2021 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1389*
+2 HOUSE BILL 1389
+1 BY adding to
+2 Article – State Finance and Procurement
+3 Section 6–226(a)(2)(ii)206. and 7–332
+4 Annotated Code of Maryland
+5 (2021 Replacement Volume and 2024 Supplement)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
+8 Article – Criminal Procedure
+9 13–101.
+10 (a) In this subtitle the following words have the meanings indicated.
+11 (b) “Final disposition” includes an acquittal, dismissal, nolle prosequi, finding of
+12 guilty, probation before judgment, plea of guilty or of nolo contendere, marking the charge
+13 “stet” on the docket, and an order of an appellate court ending a criminal case.
+14 (c) “Financial authority” means:
+15 (1) if the seizing authority is the State, the State Treasurer;
+16 (2) if the seizing authority is a unit of a county, the treasurer or director of
+17 finance of that county; or
+18 (3) if the seizing authority is a unit of a municipal corporation, the
+19 treasurer or director of finance of that municipal corporation.
+20 13–102.
+21 (a) Money is prima facie contraband if a law enforcement officer in the State
+22 seizes the money in connection with an arrest for:
+23 (1) unlawfully playing or operating a bookmaking scheme;
+24 (2) unlawfully betting on a horse race, athletic event, lottery, or game; or
+25 (3) using an unlawful gaming table or gaming device.
+26 (b) (1) For purposes of this subsection, the Police Department of Baltimore
+27 City is not a State authority.
+28 (2) All rights in, title to, and interest in money seized under subsection (a)
+29 of this section shall immediately vest in and to:
+HOUSE BILL 1389 3
+1 (i) the county or the municipal corporation, if the money is seized by
+2 the police of the local government, including a sheriff’s department that is the local law
+3 enforcement unit; or
+4 (ii) the State, if the money is seized by a State authority.
+5 13–104.
+6 (A) [Pending] SUBJECT TO SUBSECTION (B) OF THIS SECTION, PENDING A
+7 final disposition, the financial authority shall account for and deposit seized money in an
+8 interest–bearing bank account or invest the seized money in accordance with Title 17 of the
+9 Local Government Article.
+10 (B) IF THE SEIZING AUTHORITY IS THE STATE, THE STATE TREASURER
+11 SHALL:
+12 (1) DEPOSIT SEIZED MONEY INTO THE MARYLAND BITCOIN RESERVE
+13 FUND ESTABLISHED UNDER § 7–331 OF THE STATE FINANCE AND PROCUREMENT
+14 ARTICLE; AND
+15 (2) RETAIN IN THE MARYLAND BITCOIN RESERVE FUND ANY SEIZED
+16 MONEY THAT IS FORFEITED TO THE STATE IN ACCORDANCE WITH THIS SUBTITLE.
+17 Article – State Finance and Procurement
+18 6–226.
+19 (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024
+20 through 2028.
+21 2. Notwithstanding any other provision of law, and unless
+22 inconsistent with a federal law, grant agreement, or other federal requirement or with the
+23 terms of a gift or settlement agreement, net interest on all State money allocated by the
+24 State Treasurer under this section to special funds or accounts, and otherwise entitled to
+25 receive interest earnings, as accounted for by the Comptroller, shall accrue to the General
+26 Fund of the State.
+27 (ii) The provisions of subparagraph (i) of this paragraph do not apply
+28 to the following funds:
+29 204. the Victims of Domestic Violence Program Grant Fund;
+30 [and]
+31 205. the Proposed Programs Collaborative Grant Fund; AND
+32 206. THE MARYLAND BITCOIN RESERVE FUND.
+4 HOUSE BILL 1389
+1 7–332.
+2 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+3 INDICATED.
+4 (2) “BITCOIN” MEANS A DECENTRALIZED DIGITAL ASSET THAT
+5 UTILIZES A BLOCKCHAIN LEDGER AND IS SECURED BY CRYPTOGRAPHIC
+6 TECHNOLOGY.
+7 (3) “FUND” MEANS THE MARYLAND BITCOIN RESERVE FUND
+8 ESTABLISHED UNDER THIS SECTION.
+9 (B) (1) THERE IS A MARYLAND BITCOIN RESERVE FUND.
+10 (2) THE PURPOSE OF THE FUND IS TO:
+11 (I) RETAIN MONEY SEIZED AND FORFEITED TO THE STATE
+12 UNDER § 13–104 OF THE CRIMINAL PROCEDURE ARTICLE; AND
+13 (II) SERVE AS A RESERVE ASSET FOR THE STATE THROUGH
+14 INVESTMENT IN BITCOIN.
+15 (3) THE STATE TREASURER SHALL ADMINISTER THE FUND.
+16 (4) (I) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+17 SUBJECT TO § 7–302 OF THIS SUBTITLE.
+18 (II) SUBJECT TO SUBSECTION (G) OF THIS SECTION, THE STATE
+19 TREASURER SHALL HOLD THE FUND SEPARATELY, AND THE COMPTROLLER SHALL
+20 ACCOUNT FOR THE FUND.
+21 (C) THE FUND CONSISTS OF:
+22 (1) REVENUE DISTRIBUTED TO THE FUND UNDER § 13–104 OF THE
+23 CRIMINAL PROCEDURE ARTICLE;
+24 (2) MONEY APPROPRIATED IN THE STATE BUDGET TO THE FUND;
+25 (3) INTEREST EARNINGS; AND
+26 (4) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED FOR
+27 THE BENEFIT OF THE FUND.
+HOUSE BILL 1389 5
+1 (D) THE FUND MAY BE USED ONLY TO INVEST IN BITCOIN.
+2 (E) (1) THE STATE TREASURER SHALL INVEST THE MONEY OF THE FUND
+3 IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+4 (2) ANY INTEREST EARNINGS OF THE FUND SHALL BE CREDITED TO
+5 THE FUND.
+6 (F) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN ACCORDANCE
+7 WITH THE STATE BUDGET.
+8 (G) BITCOIN ACQUIRED AS AN INVESTMENT UNDER THIS SECTION SHALL BE
+9 HELD BY:
+10 (1) THE STATE TREASURER THROUGH A SECURE PLATFORM THAT IS
+11 SPECIFICALLY CREATED TO STORE, MANAGE, AND SAFEGUARD DIGITAL ASSETS FOR
+12 INSTITUTIONS; OR
+13 (2) A QUALIFIED CUSTODIAN AS DETERMINED BY THE STATE
+14 TREASURER.
+15 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+16 October 1, 2025.
+[DELETED: :CA      5     A S F a f t S t t i o B a t S T t i t f o b t S t t e o c S B  A  S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  H  B  A S  A  (  S T A 1  ( I  ( “ g “  ( “   ( i   ( i f   ( i t s a i a u o a m c t t 1  ( M i p f c i a l e o i t S s   ( u   ( u   ( u  ( ( F D C   ( A o]
+[DELETED: H 3    ( t t e    ( t 1  Pg) []S() U B N  f i L ) IS,SF T S A I T TE T T R ( MB A I E§71SF    T I R;E  ( MBR A I E U T  A 6  ( ( ( 1 T s d n a i f y 2 t     2 N i t S r F    ( T t     2 t] a     2 t   2 MBR A I E U .]
+[DELETED:  H () ( N ( “BN M A D D A T A B L A I S B C ( “F”MBRD M T A I E U() ( TMBRF.H A I E U ( TF: U  () R M S A F T T T    R R RE 14CPA;  () IS A A R A F T T T I.   TSTF. T R U ( () TFH UL    72.  () S(),IU G N  TF, UY  O U.() TF:H U ( F§1 U   PA; R R ( SF; T UD ( ;S  ( O M F A O S A F U.]
+[DELETED: H 5() TFB.H U I() ( TSTH T R U T. ( A U UD.() EX U T.() I ( S T RE E S  (  Q C A D B T T.  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1389
+E2, B1 5lr3424
+By: Delegate Young
+Introduced and read first time: February 7, 2025
+Assigned to: Judiciary and Appropriations
+A BILL ENTITLED
+1 AN ACT concerning
+2 Strategic Bitcoin Reserve Act of Maryland
+3 FOR the purpose of establishing the Maryland Bitcoin Reserve Fund to serve as a reserve
+4 asset for the State through the investment of Bitcoin; authorizing the State
+5 Treasurer to invest the funds obtained by the State through the enforcement of
+6 certain gambling violations in Bitcoin; and generally relating to the investment of
+7 State funds in Bitcoin.
+8 BY repealing and reenacting, without amendments,
+9 Article – Criminal Procedure
+10 Section 13–101 and 13–102
+11 Annotated Code of Maryland
+12 (2018 Replacement Volume and 2024 Supplement)
+13 BY repealing and reenacting, with amendments,
+14 Article – Criminal Procedure
+15 Section 13–104
+16 Annotated Code of Maryland
+17 (2018 Replacement Volume and 2024 Supplement)
+18 BY repealing and reenacting, without amendments,
+19 Article – State Finance and Procurement
+20 Section 6–226(a)(2)(i)
+21 Annotated Code of Maryland
+22 (2021 Replacement Volume and 2024 Supplement)
+23 BY repealing and reenacting, with amendments,
+24 Article – State Finance and Procurement
+25 Section 6–226(a)(2)(ii)204. and 205.
+26 Annotated Code of Maryland
+27 (2021 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1389*
+
+2 HOUSE BILL 1389
+1 BY adding to
+2 Article – State Finance and Procurement
+3 Section 6–226(a)(2)(ii)206. and 7–332
+4 Annotated Code of Maryland
+5 (2021 Replacement Volume and 2024 Supplement)
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
+8 Article – Criminal Procedure
+9 13–101.
+10 (a) In this subtitle the following words have the meanings indicated.
+11 (b) “Final disposition” includes an acquittal, dismissal, nolle prosequi, finding of
+12 guilty, probation before judgment, plea of guilty or of nolo contendere, marking the charge
+13 “stet” on the docket, and an order of an appellate court ending a criminal case.
+14 (c) “Financial authority” means:
+15 (1) if the seizing authority is the State, the State Treasurer;
+16 (2) if the seizing authority is a unit of a county, the treasurer or director of
+17 finance of that county; or
+18 (3) if the seizing authority is a unit of a municipal corporation, the
+19 treasurer or director of finance of that municipal corporation.
+20 13–102.
+21 (a) Money is prima facie contraband if a law enforcement officer in the State
+22 seizes the money in connection with an arrest for:
+23 (1) unlawfully playing or operating a bookmaking scheme;
+24 (2) unlawfully betting on a horse race, athletic event, lottery, or game; or
+25 (3) using an unlawful gaming table or gaming device.
+26 (b) (1) For purposes of this subsection, the Police Department of Baltimore
+27 City is not a State authority.
+28 (2) All rights in, title to, and interest in money seized under subsection (a)
+29 of this section shall immediately vest in and to:
+
+HOUSE BILL 1389 3
+1 (i) the county or the municipal corporation, if the money is seized by
+2 the police of the local government, including a sheriff’s department that is the local law
+3 enforcement unit; or
+4 (ii) the State, if the money is seized by a State authority.
+5 13–104.
+6 (A) [Pending] SUBJECT TO SUBSECTION (B) OF THIS SECTION, PENDING A
+7 final disposition, the financial authority shall account for and deposit seized money in an
+8 interest–bearing bank account or invest the seized money in accordance with Title 17 of the
+9 Local Government Article.
+10 (B) IF THE SEIZING AUTHORITY IS THE STATE, THE STATE TREASURER
+11 SHALL:
+12 (1) DEPOSIT SEIZED MONEY INTO THE MARYLAND BITCOIN RESERVE
+13 FUND ESTABLISHED UNDER § 7–331 OF THE STATE FINANCE AND PROCUREMENT
+14 ARTICLE; AND
+15 (2) RETAIN IN THE MARYLAND BITCOIN RESERVE FUND ANY SEIZED
+16 MONEY THAT IS FORFEITED TO THE STATE IN ACCORDANCE WITH THIS SUBTITLE.
+17 Article – State Finance and Procurement
+18 6–226.
+19 (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024
+20 through 2028.
+21 2. Notwithstanding any other provision of law, and unless
+22 inconsistent with a federal law, grant agreement, or other federal requirement or with the
+23 terms of a gift or settlement agreement, net interest on all State money allocated by the
+24 State Treasurer under this section to special funds or accounts, and otherwise entitled to
+25 receive interest earnings, as accounted for by the Comptroller, shall accrue to the General
+26 Fund of the State.
+27 (ii) The provisions of subparagraph (i) of this paragraph do not apply
+28 to the following funds:
+29 204. the Victims of Domestic Violence Program Grant Fund;
+30 [and]
+31 205. the Proposed Programs Collaborative Grant Fund; AND
+32 206. THE MARYLAND BITCOIN RESERVE FUND.
+
+4 HOUSE BILL 1389
+1 7–332.
+2 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+3 INDICATED.
+4 (2) “BITCOIN” MEANS A DECENTRALIZED DIGITAL ASSET THAT
+5 UTILIZES A BLOCKCHAIN LEDGER AND IS SECURED BY CRYPTOGRAPHIC
+6 TECHNOLOGY.
+7 (3) “FUND” MEANS THE MARYLAND BITCOIN RESERVE FUND
+8 ESTABLISHED UNDER THIS SECTION.
+9 (B) (1) THERE IS A MARYLAND BITCOIN RESERVE FUND.
+10 (2) THE PURPOSE OF THE FUND IS TO:
+11 (I) RETAIN MONEY SEIZED AND FORFEITED TO THE STATE
+12 UNDER § 13–104 OF THE CRIMINAL PROCEDURE ARTICLE; AND
+13 (II) SERVE AS A RESERVE ASSET FOR THE STATE THROUGH
+14 INVESTMENT IN BITCOIN.
+15 (3) THE STATE TREASURER SHALL ADMINISTER THE FUND.
+16 (4) (I) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+17 SUBJECT TO § 7–302 OF THIS SUBTITLE.
+18 (II) SUBJECT TO SUBSECTION (G) OF THIS SECTION, THE STATE
+19 TREASURER SHALL HOLD THE FUND SEPARATELY, AND THE COMPTROLLER SHALL
+20 ACCOUNT FOR THE FUND.
+21 (C) THE FUND CONSISTS OF:
+22 (1) REVENUE DISTRIBUTED TO THE FUND UNDER § 13–104 OF THE
+23 CRIMINAL PROCEDURE ARTICLE;
+24 (2) MONEY APPROPRIATED IN THE STATE BUDGET TO THE FUND;
+25 (3) INTEREST EARNINGS; AND
+26 (4) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED FOR
+27 THE BENEFIT OF THE FUND.
+
+HOUSE BILL 1389 5
+1 (D) THE FUND MAY BE USED ONLY TO INVEST IN BITCOIN.
+2 (E) (1) THE STATE TREASURER SHALL INVEST THE MONEY OF THE FUND
+3 IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+4 (2) ANY INTEREST EARNINGS OF THE FUND SHALL BE CREDITED TO
+5 THE FUND.
+6 (F) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN ACCORDANCE
+7 WITH THE STATE BUDGET.
+8 (G) BITCOIN ACQUIRED AS AN INVESTMENT UNDER THIS SECTION SHALL BE
+9 HELD BY:
+10 (1) THE STATE TREASURER THROUGH A SECURE PLATFORM THAT IS
+11 SPECIFICALLY CREATED TO STORE, MANAGE, AND SAFEGUARD DIGITAL ASSETS FOR
+12 INSTITUTIONS; OR
+13 (2) A QUALIFIED CUSTODIAN AS DETERMINED BY THE STATE
+14 TREASURER.
+15 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+16 October 1, 2025.
+
+[DELETED: :CA      5     A S F a f t S t t i o B a t S T t i t f o b t S t t e o c S B  A  S  A  ( B  A S  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  H  B  A S  A  (  S T A 1  ( I  ( “ g “  ( “   ( i   ( i f   ( i t s a i a u o a m c t t 1  ( M i p f c i a l e o i t S s   ( u   ( u   ( u  ( ( F D C   ( A o]
+[DELETED: H 3    ( t t e    ( t 1  Pg) []S() U B N  f i L ) IS,SF T S A I T TE T T R ( MB A I E§71SF    T I R;E  ( MBR A I E U T  A 6  ( ( ( 1 T s d n a i f y 2 t     2 N i t S r F    ( T t     2 t] a     2 t   2 MBR A I E U .]
+[DELETED:  H () ( N ( “BN M A D D A T A B L A I S B C ( “F”MBRD M T A I E U() ( TMBRF.H A I E U ( TF: U  () R M S A F T T T    R R RE 14CPA;  () IS A A R A F T T T I.   TSTF. T R U ( () TFH UL    72.  () S(),IU G N  TF, UY  O U.() TF:H U ( F§1 U   PA; R R ( SF; T UD ( ;S  ( O M F A O S A F U.]
+[DELETED: H 5() TFB.H U I() ( TSTH T R U T. ( A U UD.() EX U T.() I ( S T RE E S  (  Q C A D B T T.  S A B I F E T t A s t e O]

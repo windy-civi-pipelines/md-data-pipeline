@@ -1,0 +1,1473 @@
+Title: HOUSE BILL 292
+Official Title: HOUSE BILL 292
+Number of Sections: 1
+Source: versions - Third - Cooperative Housing Corporations, Condominiums, and Homeowners Associations - Funding of Reserve Accounts and Preparation of Funding Plans
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+N1, C1 5lr1629
+HB 281/24 – ENT CF SB 63
+By: Delegate Holmes Delegates Holmes, Roberts, Hartman, Allen, Boyce, and
+Foley
+Introduced and read first time: January 9, 2025
+Assigned to: Environment and Transportation
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 25, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Cooperative Housing Corporations, Condominiums, and Homeowners
+3 Associations – Funding of Reserve Accounts and Preparation of Funding Plans
+4 FOR the purpose of requiring that the annual budget of a cooperative housing corporation,
+5 a residential condominium, or a homeowners association include certain funds;
+6 requiring that certain funds for the reserve account of a cooperative housing
+7 corporation, a residential condominium, or a homeowners association be deposited
+8 by a certain day each fiscal year; extending the amount of time after an initial
+9 reserve study that a cooperative housing corporation, a residential condominium, or
+10 a homeowners association has to obtain a certain recommended reserve funding
+11 level; authorizing a cooperative housing corporation, a residential condominium, or
+12 a homeowners association to reasonably deviate from certain reserve funding
+13 requirements following a certain financial hardship determination by the governing
+14 body; requiring that certain updated reserve studies be prepared by a certain person;
+15 requiring the governing body of a cooperative housing corporation, a residential
+16 condominium, or a homeowners association to review the reserves and the most
+17 recent reserve study or updated reserve study annually for accuracy to determine
+18 whether there is adequate funding in accordance with a certain funding plan;
+19 altering the definition of “reserve study” to provide that the governing body of a
+20 cooperative housing corporation, a residential condominium, or a homeowners
+21 association may determine a minimum cost of repair or replacement for components,
+22 subject to certain restrictions; requiring the governing body of a cooperative housing
+23 corporation, a residential condominium, or a homeowners association to prepare a
+24 certain funding plan subject to certain requirements; altering a certain provision of
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0292*
+2 HOUSE BILL 292
+1 law relating to component costs and the application of certain reserve study
+2 requirements to a homeowners association; and generally relating to the funding of
+3 reserve accounts, reserve studies, and annual budgets of cooperative housing
+4 corporations, condominiums, and homeowners associations.
+5 BY repealing and reenacting, with amendments,
+6 Article – Corporations and Associations
+7 Section 5–6B–26.1
+8 Annotated Code of Maryland
+9 (2014 Replacement Volume and 2024 Supplement)
+10 BY repealing and reenacting, without amendments,
+11 Article – Real Property
+12 Section 11–109.2(b) and 11B–112.2(c)
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Real Property
+17 Section 11–109.2(b) and (c) 11–109.2(c), 11–109.4, 11B–112.2(c) and (d)
+18 11B–112.2(d), and 11B–112.3
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – Corporations and Associations
+24 5–6B–26.1.
+25 (a) (1) In this section[, “reserve] THE FOLLOWING WORDS HAVE THE
+26 MEANINGS INDICATED.
+27 (2) “RESERVE study” means a study of the reserves required for future
+28 major repairs and replacement of the common elements of a cooperative housing
+29 corporation that:
+30 [(1)] (I) [Identifies] USING AN ITEMIZED LIST, CLEARLY IDENTIFIES
+31 each structural, mechanical, electrical, and plumbing component of the common elements
+32 and any other components that are:
+33 1. ARE the responsibility of the cooperative housing
+34 corporation to repair and replace; AND
+HOUSE BILL 292 3
+1 2. IF APPLICABLE, MEET A MINIMUM COST OF REPAIR
+2 OR REPLACEMENT, AS DETERMINED BY THE GOVERNING BODY, THAT IS:
+3 A. REASONABLY BASED ON THE EXPENSES OF THE
+4 COOPERATIVE HOUSING CORPORATION; AND
+5 B. NOT A MINOR EXPENSE THAT IS OTHERWISE
+6 ADDRESSED BY THE BUDGET OF THE COOPERATIVE HOUSING CORPORATION;
+7 [(2)] (II) States the normal useful life and the estimated remaining useful
+8 life of each identified component;
+9 [(3)] (III) States the estimated cost of repair or replacement of each
+10 identified component; [and]
+11 [(4)] (IV) States the estimated annual reserve amount necessary to
+12 accomplish any identified future repair or replacement; AND
+13 (V) STATES THE SQUARE FOOTAGE QUANTITY OR SIZE OF EACH
+14 IDENTIFIED COMPONENT USING THE APPROPRIATE MEASUREMENT, SUCH AS UNIT
+15 AMOUNT, SQUARE FOOTAGE, OR CUBIC FEET.
+16 (3) “UPDATED RESERVE STUDY” MEANS, FOR THE COMMON
+17 ELEMENTS SINCE THE PRIOR RESERVE STUDY WAS COMPLETED WITHIN THE
+18 PREVIOUS 5 YEARS, A STUDY THAT:
+19 (I) ANALYZES ANY WORK PERFORMED;
+20 (II) REVISES REPLACEMENT COST, REMAINING LIFE, AND
+21 USEFUL LIFE ESTIMATES; AND
+22 (III) IDENTIFIES:
+23 1. (II) WORK ANALYZES WORK PERFORMED AND
+24 AMOUNTS SPENT; AND
+25 2. (III) WHETHER IDENTIFIES WHETHER ANY
+26 MAINTENANCE CONTRACTS ARE IN PLACE.
+27 (b) (1) This subsection applies only to a cooperative housing corporation
+28 established in:
+29 (i) Prince George’s County on or after October 1, 2020;
+30 (ii) Montgomery County on or after October 1, 2021; or
+4 HOUSE BILL 292
+1 (iii) Any county other than Prince George’s County or Montgomery
+2 County on or after October 1, 2022.
+3 (2) The governing body of the cooperative housing corporation shall have
+4 an independent reserve study completed not less than 30 calendar days before the first
+5 meeting of the cooperative housing corporation at which the members other than the owner
+6 have a majority of votes in the cooperative housing corporation.
+7 (3) The governing body shall have an updated reserve study completed
+8 within 5 years after the date of the initial reserve study conducted under paragraph (2) of
+9 this subsection, which shall be updated at least every 5 years thereafter.
+10 (c) (1) (i) This paragraph applies only to a cooperative housing corporation
+11 established in Prince George’s County before October 1, 2020.
+12 (ii) If the governing body of a cooperative housing corporation has
+13 had a reserve study conducted on or after October 1, 2016, the governing body shall have
+14 an updated reserve study conducted within 5 years after the date of that reserve study and
+15 at least every 5 years thereafter.
+16 (iii) If the governing body of a cooperative housing corporation has
+17 not had a reserve study conducted on or after October 1, 2016, the governing body shall
+18 have a reserve study conducted on or before October 1, 2021, and an updated reserve study
+19 at least every 5 years thereafter.
+20 (2) (i) This paragraph applies only to a cooperative housing corporation
+21 established in Montgomery County before October 1, 2021.
+22 (ii) If the governing body of a cooperative housing corporation has
+23 had a reserve study conducted on or after October 1, 2017, the governing body shall have
+24 an updated reserve study conducted within 5 years after the date of that reserve study and
+25 at least every 5 years thereafter.
+26 (iii) If the governing body of a cooperative housing corporation has
+27 not had a reserve study conducted on or after October 1, 2017, the governing body shall
+28 have a reserve study conducted on or before October 1, 2022, and an updated reserve study
+29 at least every 5 years thereafter.
+30 (3) (i) This paragraph applies to a cooperative housing corporation
+31 established in any county other than Prince George’s County or Montgomery County before
+32 October 1, 2022.
+33 (ii) If the governing body of a cooperative housing corporation has
+34 had a reserve study conducted on or after October 1, 2018, the governing body shall have
+35 an updated reserve study conducted within 5 years after the date of that reserve study and
+36 at least every 5 years thereafter.
+HOUSE BILL 292 5
+1 (iii) If the governing body of a cooperative housing corporation has
+2 not had a reserve study conducted on or after October 1, 2018, the governing body shall
+3 have a reserve study conducted on or before October 1, 2023, and an updated reserve study
+4 at least every 5 years thereafter.
+5 (d) Each reserve study AND UPDATED RESERVE STUDY required under this
+6 section shall:
+7 (1) Be prepared by a person who:
+8 (i) Has prepared at least 30 reserve studies within the prior 3
+9 calendar years;
+10 (ii) Has participated in the preparation of at least 30 reserve studies
+11 within the prior 3 calendar years while employed by a firm that prepares reserve studies;
+12 (iii) Holds a current license from the State Board of Architects or the
+13 State Board for Professional Engineers; or
+14 (iv) Is currently designated as a reserve specialist by the Community
+15 Association Institute or as a professional reserve analyst by the Association of Professional
+16 Reserve Analysts;
+17 (2) Be available for inspection and copying by any unit owner;
+18 (3) Be reviewed by the governing body of the cooperative housing
+19 corporation in connection with the preparation of the annual proposed budget; and
+20 (4) Be summarized for submission with the annual proposed budget to the
+21 unit owners.
+22 (e) To the extent that a reserve study conducted in accordance with this section
+23 indicates a need to budget for reserves, the budget shall include:
+24 (1) For the capital components, the current estimated:
+25 (i) Replacement cost IF THE ESTIMATED REPLACEMENT COST IS
+26 GREATER THAN $10,000 AS DETERMINED BY THE MOST RECENT RESERVE STUDY OR
+27 UPDATED RESERVE STUDY;
+28 (ii) Remaining life; and
+29 (iii) Useful life;
+30 (2) The amount of accumulated cash reserves set aside for the repair,
+31 replacement, or restoration of capital components as of the beginning of the fiscal year in
+6 HOUSE BILL 292
+1 which the reserve study is conducted and the amount of the expected contribution to the
+2 reserve fund for the fiscal year;
+3 (3) A statement describing the procedures used for estimation and
+4 accumulation of cash reserves in accordance with this section; and
+5 (4) A statement of the amount of reserves recommended in the study and
+6 the amount of current cash for replacement reserves.
+7 (f) (1) (i) 1. Subject to PARAGRAPH (2) OF THIS SUBSECTION AND
+8 subparagraph (ii) of this paragraph, the governing body of a cooperative housing
+9 corporation shall [provide] DEPOSIT funds to the reserve ACCOUNT in accordance with the
+10 most recent reserve study OR UPDATED RESERVE STUDY AND THE FUNDING PLAN
+11 REQUIRED UNDER SUBSECTION (G) OF THIS SECTION ON OR BEFORE THE LAST DAY
+12 OF EACH FISCAL YEAR and shall review the RESERVES AND THE MOST RECENT
+13 RESERVE STUDY OR UPDATED reserve study annually for accuracy TO DETERMINE
+14 WHETHER THERE IS ADEQUATE FUNDING IN ACCORDANCE WITH THE FUNDING PLAN
+15 REQUIRED UNDER SUBSECTION (G) OF THIS SECTION.
+16 2. THE ANNUAL REVIEW OF THE RESERVE STUDY FOR
+17 ACCURACY UNDER SUBSUBPARAGRAPH 1 OF THIS SUBPARAGRAPH DOES NOT
+18 REQUIRE A RESERVE STUDY OR UPDATED RESERVE STUDY IN ADDITION TO THE
+19 RESERVE STUDY REQUIREMENTS UNDER SUBSECTIONS (B) AND (C) OF THIS
+20 SECTION.
+21 (ii) If SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, IF the
+22 most recent reserve study was an initial reserve study, the governing body shall, within [3]
+23 5 fiscal years following the fiscal year in which the initial reserve study was completed,
+24 attain the annual reserve funding level recommended in the initial reserve study IN
+25 ACCORDANCE WITH THE FUNDING PLAN UNDER SUBSECTION (G) OF THIS SECTION.
+26 (2) (I) THE GOVERNING BODY OF A COOPERATIVE HOUSING
+27 CORPORATION MAY DETERMINE BY A TWO–THIRDS MAJORITY VOTE THAT THE
+28 COOPERATIVE HOUSING CORPORATION AND THE MEMBERS ARE EXPERIENCING A
+29 FINANCIAL HARDSHIP THAT LIMITS THE ABILITY TO FUND RESERVES THAT ARE
+30 REQUIRED UNDER PARAGRAPH (1)(I) OR (II) OF THIS SUBSECTION.
+31 (II) SUBJECT TO SUBPARAGRAPHS (III) THROUGH (V) OF THIS
+32 PARAGRAPH, IF A GOVERNING BODY MAKES A FINANCIAL HARDSHIP
+33 DETERMINATION BASED ON THE RESERVE FUNDING REQUIREMENTS OF
+34 PARAGRAPH (1)(I) OR (II) OF THIS SUBSECTION:
+35 1. THE COOPERATIVE HOUSING CORPORATION MAY
+36 REASONABLY DEVIATE FROM THAT RESERVE FUNDING REQUIREMENT; AND
+HOUSE BILL 292 7
+1 2. THE FUNDING LEVEL UNDER THAT REQUIREMENT
+2 SHALL BE AT LEAST THE FUNDING AMOUNT NECESSARY FOR THE PURPOSES
+3 SPECIFIED UNDER SUBSECTION (G)(3) OF THIS SECTION.
+4 (III) 1. EXCEPT AS PROVIDED IN SUBSUBPARAGRAPH 2 OF
+5 THIS SUBPARAGRAPH, A COOPERATIVE HOUSING CORPORATION MAY NOT DEVIATE
+6 FROM THE RESERVE FUNDING REQUIREMENTS OF PARAGRAPH (1)(I) OR (II) OF THIS
+7 SUBSECTION FOR A PERIOD OF MORE THAN 1 FISCAL YEAR FOLLOWING THE
+8 FINANCIAL HARDSHIP DETERMINATION.
+9 2. THE GOVERNING BODY MAY RENEW A FINANCIAL
+10 HARDSHIP DETERMINATION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH BY A
+11 TWO–THIRDS MAJORITY VOTE TO EXTEND THE PERIOD THAT A COOPERATIVE
+12 HOUSING CORPORATION MAY DEVIATE FROM THE RESERVE FUNDING
+13 REQUIREMENT BY 1 FISCAL YEAR FOLLOWING THE RENEWAL.
+14 (IV) THE GOVERNING BODY SHALL:
+15 1. MAKE GOOD FAITH EFFORTS TO RESOLVE THE
+16 FINANCIAL HARDSHIP AND RESUME FUNDING RESERVES AS REQUIRED UNDER
+17 PARAGRAPH (1)(I) OR (II) OF THIS SUBSECTION;
+18 2. MAINTAIN DETAILED DOCUMENTATION OF THE GOOD
+19 FAITH EFFORTS MADE UNDER ITEM 1 OF THIS SUBPARAGRAPH; AND
+20 3. TREAT THE DOCUMENTS UNDER ITEM 2 OF THIS
+21 SUBPARAGRAPH AS RECORDS FOR EXAMINATION AND COPYING UNDER § 5–6B–26
+22 OF THIS SUBTITLE.
+23 (V) 1. ALL MEMBERS SHALL BE GIVEN REASONABLE NOTICE
+24 IN ADVANCE OF A VOTE ON AN INITIAL OR A RENEWAL OF A FINANCIAL HARDSHIP
+25 DETERMINATION UNDER THIS PARAGRAPH.
+26 2. A VOTE ON AN INITIAL OR A RENEWAL OF A FINANCIAL
+27 HARDSHIP DETERMINATION UNDER THIS PARAGRAPH MAY BE TAKEN ONLY AT A
+28 REGULAR OR SPECIAL MEETING OF THE COOPERATIVE HOUSING CORPORATION.
+29 (3) The governing body of a cooperative housing corporation has the
+30 authority to increase an assessment levied to cover the reserve funding amount required
+31 under this section, notwithstanding any provision of the articles of incorporation, bylaws,
+32 or proprietary lease restricting assessment increases or capping the assessment that may
+33 be levied in a fiscal year.
+8 HOUSE BILL 292
+1 (G) (1) THE GOVERNING BODY OF A COOPERATIVE HOUSING
+2 CORPORATION SHALL, IN CONSULTATION WITH A PERSON IDENTIFIED UNDER
+3 SUBSECTION (D)(1) OF THIS SECTION, DEVELOP A FUNDING PLAN TO DETERMINE
+4 HOW TO FULLY FUND THE RESERVES NECESSARY UNDER THIS SECTION.
+5 (2) IN DEVELOPING THE FUNDING PLAN UNDER THIS SUBSECTION,
+6 THE GOVERNING BODY SHALL CONSIDER SELECT ONE OF THE FOLLOWING
+7 METHODS TO ACHIEVE THE RESERVE FUNDING UNDER THIS SECTION:
+8 (I) THE COMPONENT OR FULL FUNDING METHOD;
+9 (II) THE CASH FLOW METHOD;
+10 (III) THE BASELINE FUNDING METHOD;
+11 (IV) THE THRESHOLD CASH FLOW METHOD; AND OR
+12 (V) OTHER FUNDING METHODS ACCEPTED BY ANY OTHER
+13 FUNDING METHOD CONSISTENT WITH GENERALLY ACCEPTED ACCOUNTING
+14 PRINCIPLES.
+15 (3) A FUNDING PLAN DEVELOPED UNDER THIS SUBSECTION SHALL
+16 PRIORITIZE ADEQUATE AMOUNTS FOR REPAIR AND REPLACEMENT OF COMMON
+17 ELEMENTS OF THE COOPERATIVE HOUSING CORPORATION THAT ARE NECESSARY
+18 FOR:
+19 (I) THE HEALTH, SAFETY, AND WELL–BEING OF THE MEMBERS
+20 OCCUPANTS;
+21 (II) ENSURING STRUCTURAL INTEGRITY, SUCH AS ROOFING
+22 REPLACEMENTS AND MAINTAINING STRUCTURAL SYSTEMS; AND
+23 (III) ESSENTIAL FUNCTIONING, SUCH AS PLUMBING, SEWER,
+24 HEATING, COOLING, AND ELECTRICAL INFRASTRUCTURE; AND
+25 (IV) ANY OTHER ESSENTIAL OR CRITICAL PURPOSE, AS
+26 DETERMINED BY THE GOVERNING BODY.
+27 (4) RESERVES MAY NOT BE USED FOR PURPOSES OTHER THAN THOSE
+28 SPECIFIED IN THE FUNDING PLAN.
+29 (5) A GOVERNING BODY SHALL REVIEW PROGRESS TOWARD
+30 COMPLIANCE WITH THE FUNDING PLAN DEVELOPED UNDER THIS SUBSECTION AT
+31 EACH ANNUAL MEETING OF THE GOVERNING BODY.
+HOUSE BILL 292 9
+1 Article – Real Property
+2 11–109.2.
+3 (b) The annual budget shall provide for at least the following items:
+4 (1) Income;
+5 (2) Administration;
+6 (3) Maintenance;
+7 (4) Utilities;
+8 (5) General expenses;
+9 (6) Reserves, INCLUDING REPLACEMENT COSTS IF THE ESTIMATED
+10 REPLACEMENT COST IS GREATER THAN $10,000 AS DETERMINED BY THE MOST
+11 RECENT RESERVE STUDY OR UPDATED RESERVE STUDY; and
+12 (7) Capital items.
+13 (c) (1) Subject to paragraph (2) PARAGRAPHS (2) AND (3) of this subsection
+14 AND IN ACCORDANCE WITH THE FUNDING PLAN UNDER § 11–109.4(F) OF THIS TITLE,
+15 the reserves provided for in the annual budget under subsection (b) of this section for a
+16 residential condominium shall [be]:
+17 (I) BE the funding amount recommended in the most recent reserve
+18 study OR UPDATED RESERVE STUDY completed under § 11–109.4 of this title; AND
+19 (II) BE DEPOSITED IN THE RESERVE ACCOUNT ON OR BEFORE
+20 THE LAST DAY OF EACH FISCAL YEAR.
+21 (2) If SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION, IF the most
+22 recent reserve study was an initial reserve study, the governing body shall, within [3] 5
+23 fiscal years following the fiscal year in which the initial reserve study was completed, attain
+24 the annual reserve funding level recommended in the initial reserve study IN
+25 ACCORDANCE WITH THE FUNDING PLAN UNDER § 11–109.4(F) OF THIS TITLE.
+26 (3) (I) THE GOVERNING BODY OF A RESIDENTIAL CONDOMINIUM
+27 MAY DETERMINE BY A TWO–THIRDS MAJORITY VOTE THAT THE CONDOMINIUM AND
+28 THE UNIT OWNERS ARE EXPERIENCING A FINANCIAL HARDSHIP THAT LIMITS THE
+29 ABILITY TO FUND RESERVES THAT ARE REQUIRED UNDER PARAGRAPH (1) OR (2) OF
+30 THIS SUBSECTION.
+10 HOUSE BILL 292
+1 (II) SUBJECT TO SUBPARAGRAPHS (III) THROUGH (V) OF THIS
+2 PARAGRAPH, IF A GOVERNING BODY MAKES A FINANCIAL HARDSHIP
+3 DETERMINATION BASED ON THE RESERVE FUNDING REQUIREMENTS OF
+4 PARAGRAPH (1) OR (2) OF THIS SUBSECTION:
+5 1. THE CONDOMINIUM MAY REASONABLY DEVIATE
+6 FROM THAT RESERVE FUNDING REQUIREMENT; AND
+7 2. THE FUNDING LEVEL UNDER THAT REQUIREMENT
+8 SHALL BE AT LEAST THE FUNDING AMOUNT NECESSARY FOR THE PURPOSES
+9 SPECIFIED UNDER § 11–109.4(F)(3) OF THIS TITLE.
+10 (III) 1. EXCEPT AS PROVIDED IN SUBSUBPARAGRAPH 2 OF
+11 THIS SUBPARAGRAPH, A RESIDENTIAL CONDOMINIUM MAY NOT DEVIATE FROM THE
+12 RESERVE FUNDING REQUIREMENTS OF PARAGRAPH (1) OR (2) OF THIS SUBSECTION
+13 FOR A PERIOD OF MORE THAN 1 FISCAL YEAR FOLLOWING THE FINANCIAL
+14 HARDSHIP DETERMINATION.
+15 2. THE GOVERNING BODY MAY RENEW A FINANCIAL
+16 HARDSHIP DETERMINATION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH BY A
+17 TWO–THIRDS MAJORITY VOTE TO EXTEND THE PERIOD THAT A RESIDENTIAL
+18 CONDOMINIUM MAY DEVIATE FROM THE RESERVE FUNDING REQUIREMENT BY 1
+19 FISCAL YEAR FOLLOWING THE RENEWAL.
+20 (IV) THE GOVERNING BODY SHALL:
+21 1. MAKE GOOD FAITH EFFORTS TO RESOLVE THE
+22 FINANCIAL HARDSHIP AND RESUME FUNDING RESERVES AS REQUIRED UNDER
+23 PARAGRAPH (1) OR (2) OF THIS SUBSECTION;
+24 2. MAINTAIN DETAILED DOCUMENTATION OF THE GOOD
+25 FAITH EFFORTS MADE UNDER ITEM 1 OF THIS SUBPARAGRAPH; AND
+26 3. TREAT THE DOCUMENTS UNDER ITEM 2 OF THIS
+27 SUBPARAGRAPH AS RECORDS AVAILABLE FOR EXAMINATION AND COPYING UNDER
+28 § 11–116 OF THIS TITLE.
+29 (V) 1. ALL UNIT OWNERS SHALL BE GIVEN REASONABLE
+30 NOTICE IN ADVANCE OF A VOTE ON AN INITIAL OR A RENEWAL OF A FINANCIAL
+31 HARDSHIP DETERMINATION UNDER THIS PARAGRAPH.
+HOUSE BILL 292 11
+1 2. A VOTE ON AN INITIAL OR A RENEWAL OF A FINANCIAL
+2 HARDSHIP DETERMINATION UNDER THIS PARAGRAPH MAY BE TAKEN ONLY AT A
+3 REGULAR OR SPECIAL MEETING OF THE CONDOMINIUM.
+4 (4) (I) A THE GOVERNING BODY OF A RESIDENTIAL CONDOMINIUM
+5 SHALL ANNUALLY REVIEW THE RESERVE STUDY ANNUALLY FOR ACCURACY
+6 RESERVES AND THE MOST RECENT RESERVE STUDY OR UPDATED RESERVE STUDY
+7 TO DETERMINE WHETHER THERE IS ADEQUATE FUNDING IN ACCORDANCE WITH THE
+8 FUNDING PLAN REQUIRED UNDER § 11–109.4(F) OF THIS TITLE.
+9 (II) THE ANNUAL REVIEW OF THE RESERVE STUDY FOR
+10 ACCURACY UNDER THIS PARAGRAPH DOES NOT REQUIRE A RESERVE STUDY OR
+11 UPDATED RESERVE STUDY IN ADDITION TO THE RESERVE STUDY REQUIREMENTS
+12 UNDER § 11–109.4 OF THIS TITLE.
+13 11–109.4.
+14 (a) (1) In this section[, “reserve] THE FOLLOWING WORDS HAVE THE
+15 MEANINGS INDICATED.
+16 (2) “RESERVE study” means a study of the reserves required for future
+17 major repairs and replacement of the common elements of a condominium that:
+18 [(1)] (I) [Identifies] USING AN ITEMIZED LIST, IDENTIFIES each
+19 structural, mechanical, electrical, and plumbing component of the common elements and
+20 any other components that are:
+21 1. ARE the responsibility of the council of unit owners to
+22 repair and replace; AND
+23 2. IF APPLICABLE, MEET A MINIMUM COST OF REPAIR
+24 OR REPLACEMENT, AS DETERMINED BY THE GOVERNING BODY, THAT IS:
+25 A. REASONABLY BASED ON THE EXPENSES OF THE
+26 CONDOMINIUM; AND
+27 B. NOT A MINOR EXPENSE THAT IS OTHERWISE
+28 ADDRESSED BY THE BUDGET OF THE CONDOMINIUM;
+29 [(2)] (II) States the normal useful life and the estimated remaining useful
+30 life of each identified component;
+31 [(3)] (III) States the estimated cost of repair or replacement of each
+32 identified component; [and]
+12 HOUSE BILL 292
+1 [(4)] (IV) States the estimated annual reserve amount necessary to
+2 accomplish any identified future repair or replacement; AND
+3 (V) STATES THE SQUARE FOOTAGE QUANTITY OR SIZE OF EACH
+4 IDENTIFIED COMPONENT USING THE APPROPRIATE MEASUREMENT, SUCH AS UNIT
+5 AMOUNT, SQUARE FOOTAGE, OR CUBIC FEET.
+6 (3) “UPDATED RESERVE STUDY” MEANS, FOR THE COMMON
+7 ELEMENTS SINCE THE PRIOR RESERVE STUDY WAS COMPLETED WITHIN THE
+8 PREVIOUS 5 YEARS, A STUDY THAT:
+9 (I) ANALYZES ANY WORK PERFORMED;
+10 (II) REVISES REPLACEMENT COST, REMAINING LIFE, AND
+11 USEFUL LIFE ESTIMATES; AND
+12 (III) IDENTIFIES:
+13 1. (II) WORK ANALYZES WORK PERFORMED AND
+14 AMOUNTS SPENT; AND
+15 2. (III) WHETHER IDENTIFIES WHETHER ANY
+16 MAINTENANCE CONTRACTS ARE IN PLACE.
+17 (b) This section applies only to a residential condominium.
+18 (c) (1) This subsection applies only to a condominium established in:
+19 (i) Prince George’s County on or after October 1, 2020;
+20 (ii) Montgomery County on or after October 1, 2021; or
+21 (iii) Any county other than Prince George’s County or Montgomery
+22 County on or after October 1, 2022.
+23 (2) The governing body of the condominium shall have an independent
+24 reserve study completed not less than 30 calendar days before the meeting of the council of
+25 unit owners required under § 11–109(c)(16) of this title.
+26 (3) The governing body shall have an updated reserve study completed
+27 within 5 years after the date of the initial reserve study conducted under paragraph (2) of
+28 this subsection and at least every 5 years thereafter.
+29 (d) (1) (i) This paragraph applies only to a condominium established in
+30 Prince George’s County before October 1, 2020.
+HOUSE BILL 292 13
+1 (ii) If the governing body of a condominium has had a reserve study
+2 conducted on or after October 1, 2016, the governing body shall have an updated reserve
+3 study conducted within 5 years after the date of that reserve study and at least every 5
+4 years thereafter.
+5 (iii) If the governing body of a condominium has not had a reserve
+6 study conducted on or after October 1, 2016, the governing body shall have a reserve study
+7 conducted on or before October 1, 2021, and an updated reserve study at least every 5 years
+8 thereafter.
+9 (2) (i) This paragraph applies only to a condominium established in
+10 Montgomery County before October 1, 2021.
+11 (ii) If the governing body of a condominium has had a reserve study
+12 conducted on or after October 1, 2017, the governing body shall have an updated reserve
+13 study conducted within 5 years after the date of that reserve study and at least every 5
+14 years thereafter.
+15 (iii) If the governing body of a condominium has not had a reserve
+16 study conducted on or after October 1, 2017, the governing body shall have a reserve study
+17 conducted on or before October 1, 2022, and an updated reserve study at least every 5 years
+18 thereafter.
+19 (3) (i) This paragraph applies only to a condominium established in any
+20 county other than Prince George’s County or Montgomery County before October 1, 2022.
+21 (ii) If the governing body of a condominium has had a reserve study
+22 conducted on or after October 1, 2018, the governing body shall have an updated reserve
+23 study conducted within 5 years after the date of that reserve study and at least every 5
+24 years thereafter.
+25 (iii) If the governing body of a condominium has not had a reserve
+26 study conducted on or after October 1, 2018, the governing body shall have a reserve study
+27 conducted on or before October 1, 2023, and an updated reserve study at least every 5 years
+28 thereafter.
+29 (e) Each reserve study AND UPDATED RESERVE STUDY required under this
+30 section shall:
+31 (1) Be prepared by a person who:
+32 (i) Has prepared at least 30 reserve studies within the prior 3
+33 calendar years;
+34 (ii) Has participated in the preparation of at least 30 reserve studies
+35 within the prior 3 calendar years while employed by a firm that prepares reserve studies;
+14 HOUSE BILL 292
+1 (iii) Holds a current license from the State Board of Architects or the
+2 State Board for Professional Engineers; or
+3 (iv) Is currently designated as a reserve specialist by the Community
+4 Association Institute or as a professional reserve analyst by the Association of Professional
+5 Reserve Analysts;
+6 (2) Be available for inspection and copying by any unit owner;
+7 (3) Be reviewed by the governing body of the condominium in connection
+8 with the preparation of the annual proposed budget; and
+9 (4) Be summarized for submission with the annual proposed budget to the
+10 unit owners.
+11 (F) (1) THE GOVERNING BODY OF A CONDOMINIUM SHALL, IN
+12 CONSULTATION WITH A PERSON IDENTIFIED UNDER SUBSECTION (E)(1) OF THIS
+13 SECTION, DEVELOP A FUNDING PLAN TO DETERMINE HOW TO FULLY FUND THE
+14 RESERVES NECESSARY UNDER THIS SECTION.
+15 (2) IN DEVELOPING THE FUNDING PLAN UNDER THIS SUBSECTION,
+16 THE GOVERNING BODY SHALL CONSIDER SELECT ONE OF THE FOLLOWING
+17 METHODS TO ACHIEVE THE RESERVE FUNDING UNDER THIS SECTION:
+18 (I) THE COMPONENT OR FULL FUNDING METHOD;
+19 (II) THE CASH FLOW METHOD;
+20 (III) THE BASELINE FUNDING METHOD;
+21 (IV) THE THRESHOLD CASH FLOW METHOD; AND OR
+22 (V) OTHER FUNDING METHODS ACCEPTED BY ANY OTHER
+23 FUNDING METHOD CONSISTENT WITH GENERALLY ACCEPTED ACCOUNTING
+24 PRINCIPLES.
+25 (3) A FUNDING PLAN DEVELOPED UNDER THIS SUBSECTION SHALL
+26 PRIORITIZE ADEQUATE AMOUNTS FOR REPAIR AND REPLACEMENT OF COMMON
+27 ELEMENTS OF THE CONDOMINIUM THAT ARE NECESSARY FOR:
+28 (I) THE HEALTH, SAFETY, AND WELL–BEING OF THE MEMBERS
+29 OCCUPANTS;
+HOUSE BILL 292 15
+1 (II) ENSURING STRUCTURAL INTEGRITY, SUCH AS ROOFING
+2 REPLACEMENTS AND MAINTAINING STRUCTURAL SYSTEMS; AND
+3 (III) ESSENTIAL FUNCTIONING, SUCH AS PLUMBING, SEWER,
+4 HEATING, COOLING, AND ELECTRICAL INFRASTRUCTURE; AND
+5 (IV) ANY OTHER ESSENTIAL OR CRITICAL PURPOSE, AS
+6 DETERMINED BY THE GOVERNING BODY.
+7 (4) RESERVES MAY NOT BE USED FOR PURPOSES OTHER THAN THOSE
+8 SPECIFIED IN THE FUNDING PLAN.
+9 (5) A GOVERNING BODY SHALL REVIEW PROGRESS TOWARD
+10 COMPLIANCE WITH THE FUNDING PLAN DEVELOPED UNDER THIS SUBSECTION AT
+11 EACH ANNUAL MEETING OF THE GOVERNING BODY.
+12 11B–112.2.
+13 (c) The annual budget shall provide for at least the following items:
+14 (1) Income;
+15 (2) Administration;
+16 (3) Maintenance;
+17 (4) Utilities;
+18 (5) General expenses;
+19 (6) Reserves, INCLUDING REPLACEMENT COSTS IF THE ESTIMATED
+20 REPLACEMENT COST IS GREATER THAN $10,000 AS DETERMINED BY THE MOST
+21 RECENT RESERVE STUDY OR UPDATED RESERVE STUDY; and
+22 (7) Capital expenses.
+23 (d) (1) Subject to paragraph (2) PARAGRAPHS (2) AND (3) of this subsection
+24 AND IN ACCORDANCE WITH THE FUNDING PLAN UNDER § 11B–112.3(F) OF THIS
+25 TITLE, reserves provided for in the annual budget under subsection (c) of this section shall
+26 [be]:
+27 (I) BE the funding amount recommended in the most recent reserve
+28 study OR UPDATED RESERVE STUDY completed under § 11B–112.3 of this title; AND
+16 HOUSE BILL 292
+1 (II) BE DEPOSITED IN THE RESERVE ACCOUNT ON OR BEFORE
+2 THE LAST DAY OF EACH FISCAL YEAR.
+3 (2) If SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION, IF the most
+4 recent reserve study was an initial reserve study, the governing body shall, within [3] 5
+5 fiscal years following the fiscal year in which the initial reserve study was completed, attain
+6 the annual reserve funding level recommended in the initial reserve study IN
+7 ACCORDANCE WITH THE FUNDING PLAN UNDER § 11B–112.3(F) OF THIS TITLE.
+8 (3) (I) THE GOVERNING BODY OF A HOMEOWNERS ASSOCIATION
+9 MAY DETERMINE BY A TWO–THIRDS MAJORITY VOTE THAT THE HOMEOWNERS
+10 ASSOCIATION AND THE LOT OWNERS ARE EXPERIENCING A FINANCIAL HARDSHIP
+11 THAT LIMITS THE ABILITY TO FUND RESERVES THAT ARE REQUIRED UNDER
+12 PARAGRAPH (1) OR (2) OF THIS SUBSECTION.
+13 (II) SUBJECT TO SUBPARAGRAPHS (III) THROUGH (V) OF THIS
+14 PARAGRAPH, IF A GOVERNING BODY MAKES A FINANCIAL HARDSHIP
+15 DETERMINATION BASED ON THE RESERVE FUNDING REQUIREMENTS OF
+16 PARAGRAPH (1) OR (2) OF THIS SUBSECTION:
+17 1. THE HOMEOWNERS ASSOCIATION MAY REASONABLY
+18 DEVIATE FROM THAT RESERVE FUNDING REQUIREMENT; AND
+19 2. THE FUNDING LEVEL UNDER THAT REQUIREMENT
+20 SHALL BE AT LEAST THE FUNDING AMOUNT NECESSARY FOR THE PURPOSES
+21 SPECIFIED UNDER § 11B–112.3(F)(3) OF THIS TITLE.
+22 (III) 1. EXCEPT AS PROVIDED IN SUBSUBPARAGRAPH 2 OF
+23 THIS SUBPARAGRAPH, A HOMEOWNERS ASSOCIATION MAY NOT DEVIATE FROM THE
+24 RESERVE FUNDING REQUIREMENTS OF PARAGRAPH (1) OR (2) OF THIS SUBSECTION
+25 FOR A PERIOD OF MORE THAN 1 FISCAL YEAR FOLLOWING THE FINANCIAL
+26 HARDSHIP DETERMINATION.
+27 2. THE GOVERNING BODY MAY RENEW A FINANCIAL
+28 HARDSHIP DETERMINATION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH BY A
+29 TWO–THIRDS MAJORITY VOTE TO EXTEND THE PERIOD THAT A HOMEOWNERS
+30 ASSOCIATION MAY DEVIATE FROM THE RESERVE FUNDING REQUIREMENT BY 1
+31 FISCAL YEAR FOLLOWING THE RENEWAL.
+32 (IV) THE GOVERNING BODY SHALL:
+33 1. MAKE GOOD FAITH EFFORTS TO RESOLVE THE
+34 FINANCIAL HARDSHIP AND RESUME FUNDING RESERVES AS REQUIRED UNDER
+35 PARAGRAPH (1) OR (2) OF THIS SUBSECTION;
+HOUSE BILL 292 17
+1 2. MAINTAIN DETAILED DOCUMENTATION OF THE GOOD
+2 FAITH EFFORTS MADE UNDER ITEM 1 OF THIS SUBPARAGRAPH; AND
+3 3. TREAT THE DOCUMENTS UNDER ITEM 2 OF THIS
+4 SUBPARAGRAPH AS RECORDS FOR EXAMINATION AND COPYING UNDER § 11B–112
+5 OF THIS TITLE.
+6 (V) 1. ALL LOT OWNERS SHALL BE GIVEN REASONABLE
+7 NOTICE IN ADVANCE OF A VOTE ON AN INITIAL OR A RENEWAL OF A FINANCIAL
+8 HARDSHIP DETERMINATION UNDER THIS PARAGRAPH.
+9 2. A VOTE ON AN INITIAL OR A RENEWAL OF A FINANCIAL
+10 HARDSHIP DETERMINATION UNDER THIS PARAGRAPH MAY ONLY BE TAKEN AT A
+11 REGULAR OR SPECIAL MEETING OF THE HOMEOWNERS ASSOCIATION.
+12 (4) (I) A THE GOVERNING BODY OF A HOMEOWNERS ASSOCIATION
+13 SHALL ANNUALLY REVIEW THE RESERVE STUDY ANNUALLY FOR ACCURACY
+14 RESERVES AND THE MOST RECENT RESERVE STUDY OR UPDATED RESERVE STUDY
+15 TO DETERMINE WHETHER THERE IS ADEQUATE FUNDING IN ACCORDANCE WITH THE
+16 FUNDING PLAN REQUIRED UNDER § 11B–112.3(F) OF THIS TITLE.
+17 (II) THE ANNUAL REVIEW OF THE RESERVE STUDY FOR
+18 ACCURACY UNDER THIS PARAGRAPH DOES NOT REQUIRE A RESERVE STUDY OR
+19 UPDATED RESERVE STUDY IN ADDITION TO THE RESERVE STUDY REQUIREMENTS
+20 UNDER § 11B–112.3 OF THIS TITLE.
+21 11B–112.3.
+22 (a) (1) In this section[, “reserve] THE FOLLOWING WORDS HAVE THE
+23 MEANINGS INDICATED.
+24 (2) “RESERVE study” means a study of the reserves required for future
+25 major repairs and replacement of the common areas of a homeowners association that:
+26 [(1)] (I) [Identifies] USING AN ITEMIZED LIST, IDENTIFIES each
+27 structural, mechanical, electrical, and plumbing component of the common areas and any
+28 other components that are:
+29 1. ARE the responsibility of the homeowners association to
+30 repair and replace; AND
+31 2. IF APPLICABLE, MEET A MINIMUM COST OF REPAIR
+32 OR REPLACEMENT, AS DETERMINED BY THE GOVERNING BODY, THAT IS:
+18 HOUSE BILL 292
+1 A. REASONABLY BASED ON THE EXPENSES OF THE
+2 HOMEOWNERS ASSOCIATION; AND
+3 B. NOT A MINOR EXPENSE THAT IS OTHERWISE
+4 ADDRESSED BY THE BUDGET OF THE HOMEOWNERS ASSOCIATION;
+5 [(2)] (II) States the estimated remaining useful life of each identified
+6 component;
+7 [(3)] (III) States the estimated cost of repair or replacement of each
+8 identified component; [and]
+9 [(4)] (IV) States the estimated annual reserve amount necessary to
+10 accomplish any identified future repair or replacement; AND
+11 (V) STATES THE SQUARE FOOTAGE QUANTITY OR SIZE OF EACH
+12 IDENTIFIED COMPONENT USING THE APPROPRIATE MEASUREMENT, SUCH AS UNIT
+13 AMOUNT, SQUARE FOOTAGE, OR CUBIC FEET.
+14 (3) “UPDATED RESERVE STUDY” MEANS, FOR THE COMMON
+15 ELEMENTS AREAS SINCE THE PRIOR RESERVE STUDY WAS COMPLETED WITHIN THE
+16 PREVIOUS 5 YEARS, A STUDY THAT:
+17 (I) ANALYZES ANY WORK PERFORMED;
+18 (II) REVISES REPLACEMENT COST, REMAINING LIFE, AND
+19 USEFUL LIFE ESTIMATES; AND
+20 (III) IDENTIFIES:
+21 1. (II) WORK ANALYZES WORK PERFORMED AND
+22 AMOUNTS SPENT; AND
+23 2. (III) WHETHER IDENTIFIES WHETHER ANY
+24 MAINTENANCE CONTRACTS ARE IN PLACE.
+25 (b) (1) This section applies only to a homeowners association:
+26 (i) That has responsibility under its declaration for maintaining and
+27 repairing common areas; and
+28 (ii) For which the total initial purchase and installation REPAIR OR
+29 REPLACEMENT costs for all components identified in subsection [(a)(1)] (A) of this section
+30 is at least $10,000.
+HOUSE BILL 292 19
+1 (2) This section does not apply to a homeowners association that issues
+2 bonds for the purpose of meeting capital expenditures.
+3 (c) (1) This subsection applies only to a homeowners association established
+4 in:
+5 (i) Prince George’s County on or after October 1, 2020;
+6 (ii) Montgomery County on or after October 1, 2021; or
+7 (iii) Any county other than Prince George’s County or Montgomery
+8 County on or after October 1, 2022.
+9 (2) The governing body of the homeowners association shall have an
+10 independent reserve study completed not more than 90 calendar days and not less than 30
+11 calendar days before the meeting of the homeowners association required under §
+12 11B–106.1(a) of this title.
+13 (3) The governing body shall have an updated reserve study completed
+14 within 5 years after the date of the initial reserve study conducted under paragraph (2) of
+15 this subsection and at least every 5 years thereafter.
+16 (d) (1) (i) This paragraph applies only to a homeowners association
+17 established in Prince George’s County before October 1, 2020.
+18 (ii) If the governing body of a homeowners association has had a
+19 reserve study conducted on or after October 1, 2016, the governing body shall have an
+20 updated reserve study conducted within 5 years after the date of that reserve study and at
+21 least every 5 years thereafter.
+22 (iii) If the governing body of a homeowners association has not had a
+23 reserve study conducted on or after October 1, 2016, the governing body shall have a reserve
+24 study conducted on or before October 1, 2021, and an updated reserve study at least every
+25 5 years thereafter.
+26 (2) (i) This paragraph applies only to a homeowners association
+27 established in Montgomery County before October 1, 2021.
+28 (ii) If the governing body of a homeowners association has had a
+29 reserve study conducted on or after October 1, 2017, the governing body shall have an
+30 updated reserve study conducted within 5 years after the date of that reserve study and at
+31 least every 5 years thereafter.
+32 (iii) If the governing body of a homeowners association has not had a
+33 reserve study conducted on or after October 1, 2017, the governing body shall have a reserve
+34 study conducted on or before October 1, 2022, and an updated reserve study at least every
+35 5 years thereafter.
+20 HOUSE BILL 292
+1 (3) (i) This paragraph applies only to a homeowners association
+2 established in any county other than Prince George’s County or Montgomery County before
+3 October 1, 2022.
+4 (ii) If the governing body of a homeowners association has had a
+5 reserve study conducted on or after October 1, 2018, the governing body shall have an
+6 updated reserve study conducted within 5 years after the date of that reserve study and at
+7 least every 5 years thereafter.
+8 (iii) If the governing body of a homeowners association has not had a
+9 reserve study conducted on or after October 1, 2018, the governing body shall have a reserve
+10 study conducted on or before October 1, 2023, and an updated reserve study at least every
+11 5 years thereafter.
+12 (e) Each reserve study AND UPDATED RESERVE STUDY required under this
+13 section shall:
+14 (1) Be prepared by a person who:
+15 (i) Has prepared at least 30 reserve studies within the prior 3
+16 calendar years;
+17 (ii) Has participated in the preparation of at least 30 reserve studies
+18 within the prior 3 calendar years while employed by a firm that prepares reserve studies;
+19 (iii) Holds a current license from the State Board of Architects or the
+20 State Board for Professional Engineers; or
+21 (iv) Is currently designated as a reserve specialist by the Community
+22 Association Institute or as a professional reserve analyst by the Association of Professional
+23 Reserve Analysts;
+24 (2) Be available for inspection and copying by any lot owner;
+25 (3) Be reviewed by the governing body of the homeowners association in
+26 connection with the preparation of the annual proposed budget; and
+27 (4) Be summarized for submission with the annual proposed budget to the
+28 lot owners.
+29 (F) (1) A THE GOVERNING BODY OF A HOMEOWNERS ASSOCIATION
+30 SHALL, IN CONSULTATION WITH A PERSON IDENTIFIED UNDER SUBSECTION (E)(1)
+31 OF THIS SECTION, DEVELOP A FUNDING PLAN TO DETERMINE HOW TO FULLY FUND
+32 THE RESERVES NECESSARY UNDER THIS SECTION.
+HOUSE BILL 292 21
+1 (2) IN DEVELOPING THE FUNDING PLAN UNDER THIS SUBSECTION,
+2 THE HOMEOWNERS GOVERNING BODY SHALL CONSIDER SELECT ONE OF THE
+3 FOLLOWING METHODS TO ACHIEVE THE RESERVE FUNDING UNDER THIS SECTION:
+4 (I) THE COMPONENT OR FULL FUNDING METHOD;
+5 (II) THE CASH FLOW METHOD;
+6 (III) THE BASELINE FUNDING METHOD;
+7 (IV) THE THRESHOLD CASH FLOW METHOD; AND OR
+8 (V) OTHER FUNDING METHODS ANY OTHER FUNDING METHOD
+9 CONSISTENT WITH GENERALLY ACCEPTED ACCOUNTING PRINCIPLES.
+10 (3) A FUNDING PLAN DEVELOPED UNDER THIS SUBSECTION SHALL
+11 PRIORITIZE ADEQUATE AMOUNTS FOR REPAIR AND REPLACEMENT OF COMMON
+12 ELEMENTS AREAS OF THE HOMEOWNERS ASSOCIATION THAT ARE NECESSARY FOR:
+13 (I) THE HEALTH, SAFETY, AND WELL–BEING OF THE MEMBERS
+14 OCCUPANTS;
+15 (II) ENSURING STRUCTURAL INTEGRITY, SUCH AS ROOFING
+16 REPLACEMENTS AND MAINTAINING STRUCTURAL SYSTEMS; AND
+17 (III) ESSENTIAL FUNCTIONING, SUCH AS PLUMBING, SEWER,
+18 HEATING, COOLING, AND ELECTRICAL INFRASTRUCTURE; AND
+19 (IV) ANY OTHER ESSENTIAL OR CRITICAL PURPOSE, AS
+20 DETERMINED BY THE GOVERNING BODY.
+21 (4) RESERVES MAY NOT BE USED FOR PURPOSES OTHER THAN THOSE
+22 SPECIFIED IN THE FUNDING PLAN.
+23 (5) A GOVERNING BODY OF A HOMEOWNERS ASSOCIATION SHALL
+24 REVIEW PROGRESS TOWARD COMPLIANCE WITH THE FUNDING PLAN DEVELOPED
+25 UNDER THIS SUBSECTION AT EACH ANNUAL MEETING OF THE HOMEOWNERS
+26 ASSOCIATION.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 October 1, 2025.
+[DELETED: :CA      5   C D H D H R H A B a A C A F a r c o a h a i c f r t c f f t r a o a c h c b a c d e f y e t a o t a a i r a h a h t o a c r r f l a h a t r d f c r f r b r t g b o a c h c a r c o a h a t r t r a t m r w t i a f i a w a c f p a c h c a r c o a h a s c c]
+[DELETED:  H  l r t c c a t a o c r s r r a r s a a b o c h c B  A S  A  ( B  A  S  A  ( B  A S 1 a ( 1 1 1 a ( 1  A  (  S T A 5  (  I t sn, “)[T F W H T      “ m r a r o t c e o a c h c   () Is] ()[]U ST  e ae       t r o t c h. c ]
+[DELETED: H 3     .IE T Y S,      . B O T E O TN       . A M E T I O     ()  S]( l   ()  S t e c o r o r o e]( i ad   ()  S t e a r a n t]( at    ) TEOT T E  .   )“U” R SY MS F T C S T P R S W C W T  S ,      )AN    )R,IE R CT R LE AS       )IIDS      .() WI O N WKP AT         .()WIH D WRA   ( ( T s a o t a c h c e    ( P    ( M]
+[DELETED:  H     ( A C   ( T a m h   ( T g b s h a u r s c w t  ( ( ( T e    ( I h a a    ( I n h a   ( ( T e    ( I h a a    ( I n h a   ( ( T p a t a c h c e O    ( I h a a]
+[DELETED: H 5    ( I n h a  ( E r s  r u t s   ( B    ( H p a l 3 r s w t p 3 c    ( H w    ( H S    ( I A R   ( B   ( B r b t g b o t c h c   ( B u  ( T i   ( F    ( R     ;    ( R    ( U   ( T a o a c r s a f t r r]
+[DELETED:  H  w r   ( A s d t p u f e a a   ( A t  ( ( (  S .(   s ( o t p t g b o a c h c pe   TA m r r s YA G NO  E F Y R A T M R a s r t S O UDT D  r s a f a G  .       O S U S  O T SHD N  A R S O SYI  S R U S B A C O T)(     ( I  ()  N  m    a t a r f l r i t i r s G  .   ( )H G B O A C H M D B A TOT M V T T H T L T A T F R T A I  II ()()     )S()(IU II  V H I A G B M A F H B O T R F R O I  II ()()      . C H C MT  ]
+[DELETED: H 7     . F L U T R B A L T F A N F T P G ))      )1.EIX A P I S  OH  I  II ()( F A P O M T  F Y F T      . G B M R A F I OT M V T E T P T A C C M D F T R F        )TVHL     . G F E T R T H A R F R A R U I  II ()()      .  H       .T T D U I  O T  5      )1.L      . D     T g b o a c h c h t a u o b]
+[DELETED:  H    )()H G B O A C H SL I C W A P I U D N ))    )IN G B S C S O OFT F       )TH     )TIH     )TIH      )TVHD DO    )OT F M A B N O M C WHG A A     ) A A F R A R O C    ) T,,HH Y LB    ) EIN S IY S A RS     ) E,,IS FG S A PG SRG GAE ,      )AVN O E O C PE A       )G B S R P T  ]
+[DELETED: H 9 A 1  ( T   ( I   ( A   ( M   ( U   ( G   ( RsI R C I T E C I G T  A D B T M  ;   ( C  ( ( S    )(  F 1( , t r be]     )  s  eY    ) IE .   ( I  ()  N  r 3] f t a r f l r i t i r s  F 1( .    ()HOT    )( ]
+[DELETED:  H     )S()(IU II  V H I A G B M A F H B O T R F R O    )()      . C M R DT       . F L U T R B A L T F A N F T P  F 1())      )1.EIX A P I S  OH     )( A P O M T  F Y F T F      . G B M R A F I OT M V T E T P T A R D F T R F R B       )TVHL     . G F E T R T H A R F R A R U    )()      .  H       .T T D U I  O T16       )1.L U O S B G R I O A V O I O A R O F ]
+[DELETED: H 1     . D     )() A HAR AYRWT R S A F A    F 1()     ) IH A R O T R S F U T PHD N R A R S O YIER     14  1  (  I t sn, “)[T F W H T      “ m   ()Is e] () []U S A I LT I s ae       t r o t c o u o t. r      .IE T Y S,      . B O T E O TM       . A M E T I O     ()  S]( l   ()  S t e c o r o r o e]( i ad]
+[DELETED:  H    ()  S t e a r a n t]( at    ) TEOT T E  .   )“U” R SY MS F T C S T P R S W C W T  S ,      )AN    )R,IE R CT R LE AS       )IIDS     .() WII O N WKP AT         .()WIH D WRA   ( T  ( ( T    ( P    ( M    ( A C   ( T g b o t c s h a i r u   ( T g b s h a u r s c w t  ( ( ( T p a o t a c e i P]
+[DELETED: H 1    ( I c s y    ( I s c t   ( ( T p a o t a c e i M    ( I c s y    ( I s c t   ( ( T c    ( I c s y    ( I s c t  ( E r s  r u t s   ( B    ( H p a l 3 r s w t p 3 c    ( H w]
+[DELETED:  H     ( H S    ( I A R   ( B   ( B w   ( B u   )()TH G B O A C SL I P I U S E O)N D A F P T D H T F F T    )IN G B S C S O OFT F       )TH     )TIH     )TIH      )TVHD DO    )OT F M A B N O M C WHG A A     ) A A F R A R O C    ) T,,HH Y LB ]
+[DELETED: H 1   ) EIN S IY S A RS     ) E,,IS FG S A PG SRG GAE ,      )AVN O E O C PE A       )G B S R P T   1  ( T   ( I   ( A   ( M   ( U   ( G   ( RsI R C I T E C I G T  A D B T M  ;   ( C  ( ( S    )( I A W F P U  F O T1( ,] be     )  s  eY ]
+[DELETED:  H    ) IE .   ( I  ()  N  r 3] f t a r f l r i t i r s  F 1( .    ()H G B O A H D B A TOT M V T T H L T A T F R T A R U    )()     )S()(IU II  V H I A G B M A F H B O T R F R O    )()      .T       . F L U T R B A L T F A N F T P  F 1())      )1.EIX A P I S  OH     )( A P O M T  F Y F T F      . G B M R A F I OT M V T E T P T A H M D F T R F R B       )TVHL     . G F E T R T H A R F R A R U    )() ]
+[DELETED: H 1     .  H       .T T D U I  O T  1      )1.L L O S B G R I O A V O I O A R O F      . D B     )() A HAH AYRWT R S A F A    F 1()     ) IH A R O T R S F U T PHD N R A R S O YIER     13  1  (  I t sn, “)[T F W H T      )“ m   () Is e]() []U S A I LT I s oe       . r      .IE T Y S, ]
+[DELETED:  H      . B O T E O TN       . A M E T I O     ()  S t e r u l o e i]( c   ()  S t e c o r o r o e]( i ad   ()  S t e a r a n t]( at    ) TEOT T E  .   )“U” R SY MS F T CSS   S ,      )AN    )R,IE R CT R LE AS       )IIDS     .() WII O N WKP AT         .()WIH D WRA   ( ( T    ( T r    ( FT    () ]( i]
+[DELETED: H 1   ( T b  ( ( T i    ( P    ( M    ( A C   ( T g b o t h a s h a i c d b t m o t h a r u § 1   ( T g b s h a u r s c w t  ( ( ( T p a o t a h a e    ( I t g o a h a h h r u l    ( I r s 5   ( ( T p a o t a h a e    ( I t g o a h a h h r u l    ( I r s 5]
+[DELETED:  H    ( ( T p a o t a h a e O    ( I t g o a h a h h r u l    ( I r s 5  ( E r s  r u tDR s   ( B    ( H p a l 3 r s w t p 3 c    ( H w    ( H S    ( I A R   ( B   ( B c   ( B l    )()A H G B O AH AL  E()N  ]
+[DELETED: H 2   )IN H G BYS C S O OFT        )TH     )TIH     )TIH      )TVHD DO     )OT N    ) A A F R A R O CSO     ) T,,HH Y LB    ) EIN S IY S A RS     ) E,,IS FG S A PG SRG GAE ,      )AVN O E O C PE A        )G B O AH A S T S A E A M O T H    S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 292
+N1, C1 5lr1629
+HB 281/24 – ENT CF SB 63
+By: Delegate Holmes Delegates Holmes, Roberts, Hartman, Allen, Boyce, and
+Foley
+Introduced and read first time: January 9, 2025
+Assigned to: Environment and Transportation
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 25, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Cooperative Housing Corporations, Condominiums, and Homeowners
+3 Associations – Funding of Reserve Accounts and Preparation of Funding Plans
+4 FOR the purpose of requiring that the annual budget of a cooperative housing corporation,
+5 a residential condominium, or a homeowners association include certain funds;
+6 requiring that certain funds for the reserve account of a cooperative housing
+7 corporation, a residential condominium, or a homeowners association be deposited
+8 by a certain day each fiscal year; extending the amount of time after an initial
+9 reserve study that a cooperative housing corporation, a residential condominium, or
+10 a homeowners association has to obtain a certain recommended reserve funding
+11 level; authorizing a cooperative housing corporation, a residential condominium, or
+12 a homeowners association to reasonably deviate from certain reserve funding
+13 requirements following a certain financial hardship determination by the governing
+14 body; requiring that certain updated reserve studies be prepared by a certain person;
+15 requiring the governing body of a cooperative housing corporation, a residential
+16 condominium, or a homeowners association to review the reserves and the most
+17 recent reserve study or updated reserve study annually for accuracy to determine
+18 whether there is adequate funding in accordance with a certain funding plan;
+19 altering the definition of “reserve study” to provide that the governing body of a
+20 cooperative housing corporation, a residential condominium, or a homeowners
+21 association may determine a minimum cost of repair or replacement for components,
+22 subject to certain restrictions; requiring the governing body of a cooperative housing
+23 corporation, a residential condominium, or a homeowners association to prepare a
+24 certain funding plan subject to certain requirements; altering a certain provision of
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0292*
+
+2 HOUSE BILL 292
+1 law relating to component costs and the application of certain reserve study
+2 requirements to a homeowners association; and generally relating to the funding of
+3 reserve accounts, reserve studies, and annual budgets of cooperative housing
+4 corporations, condominiums, and homeowners associations.
+5 BY repealing and reenacting, with amendments,
+6 Article – Corporations and Associations
+7 Section 5–6B–26.1
+8 Annotated Code of Maryland
+9 (2014 Replacement Volume and 2024 Supplement)
+10 BY repealing and reenacting, without amendments,
+11 Article – Real Property
+12 Section 11–109.2(b) and 11B–112.2(c)
+13 Annotated Code of Maryland
+14 (2023 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Real Property
+17 Section 11–109.2(b) and (c) 11–109.2(c), 11–109.4, 11B–112.2(c) and (d)
+18 11B–112.2(d), and 11B–112.3
+19 Annotated Code of Maryland
+20 (2023 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – Corporations and Associations
+24 5–6B–26.1.
+25 (a) (1) In this section[, “reserve] THE FOLLOWING WORDS HAVE THE
+26 MEANINGS INDICATED.
+27 (2) “RESERVE study” means a study of the reserves required for future
+28 major repairs and replacement of the common elements of a cooperative housing
+29 corporation that:
+30 [(1)] (I) [Identifies] USING AN ITEMIZED LIST, CLEARLY IDENTIFIES
+31 each structural, mechanical, electrical, and plumbing component of the common elements
+32 and any other components that are:
+33 1. ARE the responsibility of the cooperative housing
+34 corporation to repair and replace; AND
+
+HOUSE BILL 292 3
+1 2. IF APPLICABLE, MEET A MINIMUM COST OF REPAIR
+2 OR REPLACEMENT, AS DETERMINED BY THE GOVERNING BODY, THAT IS:
+3 A. REASONABLY BASED ON THE EXPENSES OF THE
+4 COOPERATIVE HOUSING CORPORATION; AND
+5 B. NOT A MINOR EXPENSE THAT IS OTHERWISE
+6 ADDRESSED BY THE BUDGET OF THE COOPERATIVE HOUSING CORPORATION;
+7 [(2)] (II) States the normal useful life and the estimated remaining useful
+8 life of each identified component;
+9 [(3)] (III) States the estimated cost of repair or replacement of each
+10 identified component; [and]
+11 [(4)] (IV) States the estimated annual reserve amount necessary to
+12 accomplish any identified future repair or replacement; AND
+13 (V) STATES THE SQUARE FOOTAGE QUANTITY OR SIZE OF EACH
+14 IDENTIFIED COMPONENT USING THE APPROPRIATE MEASUREMENT, SUCH AS UNIT
+15 AMOUNT, SQUARE FOOTAGE, OR CUBIC FEET.
+16 (3) “UPDATED RESERVE STUDY” MEANS, FOR THE COMMON
+17 ELEMENTS SINCE THE PRIOR RESERVE STUDY WAS COMPLETED WITHIN THE
+18 PREVIOUS 5 YEARS, A STUDY THAT:
+19 (I) ANALYZES ANY WORK PERFORMED;
+20 (II) REVISES REPLACEMENT COST, REMAINING LIFE, AND
+21 USEFUL LIFE ESTIMATES; AND
+22 (III) IDENTIFIES:
+23 1. (II) WORK ANALYZES WORK PERFORMED AND
+24 AMOUNTS SPENT; AND
+25 2. (III) WHETHER IDENTIFIES WHETHER ANY
+26 MAINTENANCE CONTRACTS ARE IN PLACE.
+27 (b) (1) This subsection applies only to a cooperative housing corporation
+28 established in:
+29 (i) Prince George’s County on or after October 1, 2020;
+30 (ii) Montgomery County on or after October 1, 2021; or
+
+4 HOUSE BILL 292
+1 (iii) Any county other than Prince George’s County or Montgomery
+2 County on or after October 1, 2022.
+3 (2) The governing body of the cooperative housing corporation shall have
+4 an independent reserve study completed not less than 30 calendar days before the first
+5 meeting of the cooperative housing corporation at which the members other than the owner
+6 have a majority of votes in the cooperative housing corporation.
+7 (3) The governing body shall have an updated reserve study completed
+8 within 5 years after the date of the initial reserve study conducted under paragraph (2) of
+9 this subsection, which shall be updated at least every 5 years thereafter.
+10 (c) (1) (i) This paragraph applies only to a cooperative housing corporation
+11 established in Prince George’s County before October 1, 2020.
+12 (ii) If the governing body of a cooperative housing corporation has
+13 had a reserve study conducted on or after October 1, 2016, the governing body shall have
+14 an updated reserve study conducted within 5 years after the date of that reserve study and
+15 at least every 5 years thereafter.
+16 (iii) If the governing body of a cooperative housing corporation has
+17 not had a reserve study conducted on or after October 1, 2016, the governing body shall
+18 have a reserve study conducted on or before October 1, 2021, and an updated reserve study
+19 at least every 5 years thereafter.
+20 (2) (i) This paragraph applies only to a cooperative housing corporation
+21 established in Montgomery County before October 1, 2021.
+22 (ii) If the governing body of a cooperative housing corporation has
+23 had a reserve study conducted on or after October 1, 2017, the governing body shall have
+24 an updated reserve study conducted within 5 years after the date of that reserve study and
+25 at least every 5 years thereafter.
+26 (iii) If the governing body of a cooperative housing corporation has
+27 not had a reserve study conducted on or after October 1, 2017, the governing body shall
+28 have a reserve study conducted on or before October 1, 2022, and an updated reserve study
+29 at least every 5 years thereafter.
+30 (3) (i) This paragraph applies to a cooperative housing corporation
+31 established in any county other than Prince George’s County or Montgomery County before
+32 October 1, 2022.
+33 (ii) If the governing body of a cooperative housing corporation has
+34 had a reserve study conducted on or after October 1, 2018, the governing body shall have
+35 an updated reserve study conducted within 5 years after the date of that reserve study and
+36 at least every 5 years thereafter.
+
+HOUSE BILL 292 5
+1 (iii) If the governing body of a cooperative housing corporation has
+2 not had a reserve study conducted on or after October 1, 2018, the governing body shall
+3 have a reserve study conducted on or before October 1, 2023, and an updated reserve study
+4 at least every 5 years thereafter.
+5 (d) Each reserve study AND UPDATED RESERVE STUDY required under this
+6 section shall:
+7 (1) Be prepared by a person who:
+8 (i) Has prepared at least 30 reserve studies within the prior 3
+9 calendar years;
+10 (ii) Has participated in the preparation of at least 30 reserve studies
+11 within the prior 3 calendar years while employed by a firm that prepares reserve studies;
+12 (iii) Holds a current license from the State Board of Architects or the
+13 State Board for Professional Engineers; or
+14 (iv) Is currently designated as a reserve specialist by the Community
+15 Association Institute or as a professional reserve analyst by the Association of Professional
+16 Reserve Analysts;
+17 (2) Be available for inspection and copying by any unit owner;
+18 (3) Be reviewed by the governing body of the cooperative housing
+19 corporation in connection with the preparation of the annual proposed budget; and
+20 (4) Be summarized for submission with the annual proposed budget to the
+21 unit owners.
+22 (e) To the extent that a reserve study conducted in accordance with this section
+23 indicates a need to budget for reserves, the budget shall include:
+24 (1) For the capital components, the current estimated:
+25 (i) Replacement cost IF THE ESTIMATED REPLACEMENT COST IS
+26 GREATER THAN $10,000 AS DETERMINED BY THE MOST RECENT RESERVE STUDY OR
+27 UPDATED RESERVE STUDY;
+28 (ii) Remaining life; and
+29 (iii) Useful life;
+30 (2) The amount of accumulated cash reserves set aside for the repair,
+31 replacement, or restoration of capital components as of the beginning of the fiscal year in
+
+6 HOUSE BILL 292
+1 which the reserve study is conducted and the amount of the expected contribution to the
+2 reserve fund for the fiscal year;
+3 (3) A statement describing the procedures used for estimation and
+4 accumulation of cash reserves in accordance with this section; and
+5 (4) A statement of the amount of reserves recommended in the study and
+6 the amount of current cash for replacement reserves.
+7 (f) (1) (i) 1. Subject to PARAGRAPH (2) OF THIS SUBSECTION AND
+8 subparagraph (ii) of this paragraph, the governing body of a cooperative housing
+9 corporation shall [provide] DEPOSIT funds to the reserve ACCOUNT in accordance with the
+10 most recent reserve study OR UPDATED RESERVE STUDY AND THE FUNDING PLAN
+11 REQUIRED UNDER SUBSECTION (G) OF THIS SECTION ON OR BEFORE THE LAST DAY
+12 OF EACH FISCAL YEAR and shall review the RESERVES AND THE MOST RECENT
+13 RESERVE STUDY OR UPDATED reserve study annually for accuracy TO DETERMINE
+14 WHETHER THERE IS ADEQUATE FUNDING IN ACCORDANCE WITH THE FUNDING PLAN
+15 REQUIRED UNDER SUBSECTION (G) OF THIS SECTION.
+16 2. THE ANNUAL REVIEW OF THE RESERVE STUDY FOR
+17 ACCURACY UNDER SUBSUBPARAGRAPH 1 OF THIS SUBPARAGRAPH DOES NOT
+18 REQUIRE A RESERVE STUDY OR UPDATED RESERVE STUDY IN ADDITION TO THE
+19 RESERVE STUDY REQUIREMENTS UNDER SUBSECTIONS (B) AND (C) OF THIS
+20 SECTION.
+21 (ii) If SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, IF the
+22 most recent reserve study was an initial reserve study, the governing body shall, within [3]
+23 5 fiscal years following the fiscal year in which the initial reserve study was completed,
+24 attain the annual reserve funding level recommended in the initial reserve study IN
+25 ACCORDANCE WITH THE FUNDING PLAN UNDER SUBSECTION (G) OF THIS SECTION.
+26 (2) (I) THE GOVERNING BODY OF A COOPERATIVE HOUSING
+27 CORPORATION MAY DETERMINE BY A TWO–THIRDS MAJORITY VOTE THAT THE
+28 COOPERATIVE HOUSING CORPORATION AND THE MEMBERS ARE EXPERIENCING A
+29 FINANCIAL HARDSHIP THAT LIMITS THE ABILITY TO FUND RESERVES THAT ARE
+30 REQUIRED UNDER PARAGRAPH (1)(I) OR (II) OF THIS SUBSECTION.
+31 (II) SUBJECT TO SUBPARAGRAPHS (III) THROUGH (V) OF THIS
+32 PARAGRAPH, IF A GOVERNING BODY MAKES A FINANCIAL HARDSHIP
+33 DETERMINATION BASED ON THE RESERVE FUNDING REQUIREMENTS OF
+34 PARAGRAPH (1)(I) OR (II) OF THIS SUBSECTION:
+35 1. THE COOPERATIVE HOUSING CORPORATION MAY
+36 REASONABLY DEVIATE FROM THAT RESERVE FUNDING REQUIREMENT; AND
+
+HOUSE BILL 292 7
+1 2. THE FUNDING LEVEL UNDER THAT REQUIREMENT
+2 SHALL BE AT LEAST THE FUNDING AMOUNT NECESSARY FOR THE PURPOSES
+3 SPECIFIED UNDER SUBSECTION (G)(3) OF THIS SECTION.
+4 (III) 1. EXCEPT AS PROVIDED IN SUBSUBPARAGRAPH 2 OF
+5 THIS SUBPARAGRAPH, A COOPERATIVE HOUSING CORPORATION MAY NOT DEVIATE
+6 FROM THE RESERVE FUNDING REQUIREMENTS OF PARAGRAPH (1)(I) OR (II) OF THIS
+7 SUBSECTION FOR A PERIOD OF MORE THAN 1 FISCAL YEAR FOLLOWING THE
+8 FINANCIAL HARDSHIP DETERMINATION.
+9 2. THE GOVERNING BODY MAY RENEW A FINANCIAL
+10 HARDSHIP DETERMINATION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH BY A
+11 TWO–THIRDS MAJORITY VOTE TO EXTEND THE PERIOD THAT A COOPERATIVE
+12 HOUSING CORPORATION MAY DEVIATE FROM THE RESERVE FUNDING
+13 REQUIREMENT BY 1 FISCAL YEAR FOLLOWING THE RENEWAL.
+14 (IV) THE GOVERNING BODY SHALL:
+15 1. MAKE GOOD FAITH EFFORTS TO RESOLVE THE
+16 FINANCIAL HARDSHIP AND RESUME FUNDING RESERVES AS REQUIRED UNDER
+17 PARAGRAPH (1)(I) OR (II) OF THIS SUBSECTION;
+18 2. MAINTAIN DETAILED DOCUMENTATION OF THE GOOD
+19 FAITH EFFORTS MADE UNDER ITEM 1 OF THIS SUBPARAGRAPH; AND
+20 3. TREAT THE DOCUMENTS UNDER ITEM 2 OF THIS
+21 SUBPARAGRAPH AS RECORDS FOR EXAMINATION AND COPYING UNDER § 5–6B–26
+22 OF THIS SUBTITLE.
+23 (V) 1. ALL MEMBERS SHALL BE GIVEN REASONABLE NOTICE
+24 IN ADVANCE OF A VOTE ON AN INITIAL OR A RENEWAL OF A FINANCIAL HARDSHIP
+25 DETERMINATION UNDER THIS PARAGRAPH.
+26 2. A VOTE ON AN INITIAL OR A RENEWAL OF A FINANCIAL
+27 HARDSHIP DETERMINATION UNDER THIS PARAGRAPH MAY BE TAKEN ONLY AT A
+28 REGULAR OR SPECIAL MEETING OF THE COOPERATIVE HOUSING CORPORATION.
+29 (3) The governing body of a cooperative housing corporation has the
+30 authority to increase an assessment levied to cover the reserve funding amount required
+31 under this section, notwithstanding any provision of the articles of incorporation, bylaws,
+32 or proprietary lease restricting assessment increases or capping the assessment that may
+33 be levied in a fiscal year.
+
+8 HOUSE BILL 292
+1 (G) (1) THE GOVERNING BODY OF A COOPERATIVE HOUSING
+2 CORPORATION SHALL, IN CONSULTATION WITH A PERSON IDENTIFIED UNDER
+3 SUBSECTION (D)(1) OF THIS SECTION, DEVELOP A FUNDING PLAN TO DETERMINE
+4 HOW TO FULLY FUND THE RESERVES NECESSARY UNDER THIS SECTION.
+5 (2) IN DEVELOPING THE FUNDING PLAN UNDER THIS SUBSECTION,
+6 THE GOVERNING BODY SHALL CONSIDER SELECT ONE OF THE FOLLOWING
+7 METHODS TO ACHIEVE THE RESERVE FUNDING UNDER THIS SECTION:
+8 (I) THE COMPONENT OR FULL FUNDING METHOD;
+9 (II) THE CASH FLOW METHOD;
+10 (III) THE BASELINE FUNDING METHOD;
+11 (IV) THE THRESHOLD CASH FLOW METHOD; AND OR
+12 (V) OTHER FUNDING METHODS ACCEPTED BY ANY OTHER
+13 FUNDING METHOD CONSISTENT WITH GENERALLY ACCEPTED ACCOUNTING
+14 PRINCIPLES.
+15 (3) A FUNDING PLAN DEVELOPED UNDER THIS SUBSECTION SHALL
+16 PRIORITIZE ADEQUATE AMOUNTS FOR REPAIR AND REPLACEMENT OF COMMON
+17 ELEMENTS OF THE COOPERATIVE HOUSING CORPORATION THAT ARE NECESSARY
+18 FOR:
+19 (I) THE HEALTH, SAFETY, AND WELL–BEING OF THE MEMBERS
+20 OCCUPANTS;
+21 (II) ENSURING STRUCTURAL INTEGRITY, SUCH AS ROOFING
+22 REPLACEMENTS AND MAINTAINING STRUCTURAL SYSTEMS; AND
+23 (III) ESSENTIAL FUNCTIONING, SUCH AS PLUMBING, SEWER,
+24 HEATING, COOLING, AND ELECTRICAL INFRASTRUCTURE; AND
+25 (IV) ANY OTHER ESSENTIAL OR CRITICAL PURPOSE, AS
+26 DETERMINED BY THE GOVERNING BODY.
+27 (4) RESERVES MAY NOT BE USED FOR PURPOSES OTHER THAN THOSE
+28 SPECIFIED IN THE FUNDING PLAN.
+29 (5) A GOVERNING BODY SHALL REVIEW PROGRESS TOWARD
+30 COMPLIANCE WITH THE FUNDING PLAN DEVELOPED UNDER THIS SUBSECTION AT
+31 EACH ANNUAL MEETING OF THE GOVERNING BODY.
+
+HOUSE BILL 292 9
+1 Article – Real Property
+2 11–109.2.
+3 (b) The annual budget shall provide for at least the following items:
+4 (1) Income;
+5 (2) Administration;
+6 (3) Maintenance;
+7 (4) Utilities;
+8 (5) General expenses;
+9 (6) Reserves, INCLUDING REPLACEMENT COSTS IF THE ESTIMATED
+10 REPLACEMENT COST IS GREATER THAN $10,000 AS DETERMINED BY THE MOST
+11 RECENT RESERVE STUDY OR UPDATED RESERVE STUDY; and
+12 (7) Capital items.
+13 (c) (1) Subject to paragraph (2) PARAGRAPHS (2) AND (3) of this subsection
+14 AND IN ACCORDANCE WITH THE FUNDING PLAN UNDER § 11–109.4(F) OF THIS TITLE,
+15 the reserves provided for in the annual budget under subsection (b) of this section for a
+16 residential condominium shall [be]:
+17 (I) BE the funding amount recommended in the most recent reserve
+18 study OR UPDATED RESERVE STUDY completed under § 11–109.4 of this title; AND
+19 (II) BE DEPOSITED IN THE RESERVE ACCOUNT ON OR BEFORE
+20 THE LAST DAY OF EACH FISCAL YEAR.
+21 (2) If SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION, IF the most
+22 recent reserve study was an initial reserve study, the governing body shall, within [3] 5
+23 fiscal years following the fiscal year in which the initial reserve study was completed, attain
+24 the annual reserve funding level recommended in the initial reserve study IN
+25 ACCORDANCE WITH THE FUNDING PLAN UNDER § 11–109.4(F) OF THIS TITLE.
+26 (3) (I) THE GOVERNING BODY OF A RESIDENTIAL CONDOMINIUM
+27 MAY DETERMINE BY A TWO–THIRDS MAJORITY VOTE THAT THE CONDOMINIUM AND
+28 THE UNIT OWNERS ARE EXPERIENCING A FINANCIAL HARDSHIP THAT LIMITS THE
+29 ABILITY TO FUND RESERVES THAT ARE REQUIRED UNDER PARAGRAPH (1) OR (2) OF
+30 THIS SUBSECTION.
+
+10 HOUSE BILL 292
+1 (II) SUBJECT TO SUBPARAGRAPHS (III) THROUGH (V) OF THIS
+2 PARAGRAPH, IF A GOVERNING BODY MAKES A FINANCIAL HARDSHIP
+3 DETERMINATION BASED ON THE RESERVE FUNDING REQUIREMENTS OF
+4 PARAGRAPH (1) OR (2) OF THIS SUBSECTION:
+5 1. THE CONDOMINIUM MAY REASONABLY DEVIATE
+6 FROM THAT RESERVE FUNDING REQUIREMENT; AND
+7 2. THE FUNDING LEVEL UNDER THAT REQUIREMENT
+8 SHALL BE AT LEAST THE FUNDING AMOUNT NECESSARY FOR THE PURPOSES
+9 SPECIFIED UNDER § 11–109.4(F)(3) OF THIS TITLE.
+10 (III) 1. EXCEPT AS PROVIDED IN SUBSUBPARAGRAPH 2 OF
+11 THIS SUBPARAGRAPH, A RESIDENTIAL CONDOMINIUM MAY NOT DEVIATE FROM THE
+12 RESERVE FUNDING REQUIREMENTS OF PARAGRAPH (1) OR (2) OF THIS SUBSECTION
+13 FOR A PERIOD OF MORE THAN 1 FISCAL YEAR FOLLOWING THE FINANCIAL
+14 HARDSHIP DETERMINATION.
+15 2. THE GOVERNING BODY MAY RENEW A FINANCIAL
+16 HARDSHIP DETERMINATION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH BY A
+17 TWO–THIRDS MAJORITY VOTE TO EXTEND THE PERIOD THAT A RESIDENTIAL
+18 CONDOMINIUM MAY DEVIATE FROM THE RESERVE FUNDING REQUIREMENT BY 1
+19 FISCAL YEAR FOLLOWING THE RENEWAL.
+20 (IV) THE GOVERNING BODY SHALL:
+21 1. MAKE GOOD FAITH EFFORTS TO RESOLVE THE
+22 FINANCIAL HARDSHIP AND RESUME FUNDING RESERVES AS REQUIRED UNDER
+23 PARAGRAPH (1) OR (2) OF THIS SUBSECTION;
+24 2. MAINTAIN DETAILED DOCUMENTATION OF THE GOOD
+25 FAITH EFFORTS MADE UNDER ITEM 1 OF THIS SUBPARAGRAPH; AND
+26 3. TREAT THE DOCUMENTS UNDER ITEM 2 OF THIS
+27 SUBPARAGRAPH AS RECORDS AVAILABLE FOR EXAMINATION AND COPYING UNDER
+28 § 11–116 OF THIS TITLE.
+29 (V) 1. ALL UNIT OWNERS SHALL BE GIVEN REASONABLE
+30 NOTICE IN ADVANCE OF A VOTE ON AN INITIAL OR A RENEWAL OF A FINANCIAL
+31 HARDSHIP DETERMINATION UNDER THIS PARAGRAPH.
+
+HOUSE BILL 292 11
+1 2. A VOTE ON AN INITIAL OR A RENEWAL OF A FINANCIAL
+2 HARDSHIP DETERMINATION UNDER THIS PARAGRAPH MAY BE TAKEN ONLY AT A
+3 REGULAR OR SPECIAL MEETING OF THE CONDOMINIUM.
+4 (4) (I) A THE GOVERNING BODY OF A RESIDENTIAL CONDOMINIUM
+5 SHALL ANNUALLY REVIEW THE RESERVE STUDY ANNUALLY FOR ACCURACY
+6 RESERVES AND THE MOST RECENT RESERVE STUDY OR UPDATED RESERVE STUDY
+7 TO DETERMINE WHETHER THERE IS ADEQUATE FUNDING IN ACCORDANCE WITH THE
+8 FUNDING PLAN REQUIRED UNDER § 11–109.4(F) OF THIS TITLE.
+9 (II) THE ANNUAL REVIEW OF THE RESERVE STUDY FOR
+10 ACCURACY UNDER THIS PARAGRAPH DOES NOT REQUIRE A RESERVE STUDY OR
+11 UPDATED RESERVE STUDY IN ADDITION TO THE RESERVE STUDY REQUIREMENTS
+12 UNDER § 11–109.4 OF THIS TITLE.
+13 11–109.4.
+14 (a) (1) In this section[, “reserve] THE FOLLOWING WORDS HAVE THE
+15 MEANINGS INDICATED.
+16 (2) “RESERVE study” means a study of the reserves required for future
+17 major repairs and replacement of the common elements of a condominium that:
+18 [(1)] (I) [Identifies] USING AN ITEMIZED LIST, IDENTIFIES each
+19 structural, mechanical, electrical, and plumbing component of the common elements and
+20 any other components that are:
+21 1. ARE the responsibility of the council of unit owners to
+22 repair and replace; AND
+23 2. IF APPLICABLE, MEET A MINIMUM COST OF REPAIR
+24 OR REPLACEMENT, AS DETERMINED BY THE GOVERNING BODY, THAT IS:
+25 A. REASONABLY BASED ON THE EXPENSES OF THE
+26 CONDOMINIUM; AND
+27 B. NOT A MINOR EXPENSE THAT IS OTHERWISE
+28 ADDRESSED BY THE BUDGET OF THE CONDOMINIUM;
+29 [(2)] (II) States the normal useful life and the estimated remaining useful
+30 life of each identified component;
+31 [(3)] (III) States the estimated cost of repair or replacement of each
+32 identified component; [and]
+
+12 HOUSE BILL 292
+1 [(4)] (IV) States the estimated annual reserve amount necessary to
+2 accomplish any identified future repair or replacement; AND
+3 (V) STATES THE SQUARE FOOTAGE QUANTITY OR SIZE OF EACH
+4 IDENTIFIED COMPONENT USING THE APPROPRIATE MEASUREMENT, SUCH AS UNIT
+5 AMOUNT, SQUARE FOOTAGE, OR CUBIC FEET.
+6 (3) “UPDATED RESERVE STUDY” MEANS, FOR THE COMMON
+7 ELEMENTS SINCE THE PRIOR RESERVE STUDY WAS COMPLETED WITHIN THE
+8 PREVIOUS 5 YEARS, A STUDY THAT:
+9 (I) ANALYZES ANY WORK PERFORMED;
+10 (II) REVISES REPLACEMENT COST, REMAINING LIFE, AND
+11 USEFUL LIFE ESTIMATES; AND
+12 (III) IDENTIFIES:
+13 1. (II) WORK ANALYZES WORK PERFORMED AND
+14 AMOUNTS SPENT; AND
+15 2. (III) WHETHER IDENTIFIES WHETHER ANY
+16 MAINTENANCE CONTRACTS ARE IN PLACE.
+17 (b) This section applies only to a residential condominium.
+18 (c) (1) This subsection applies only to a condominium established in:
+19 (i) Prince George’s County on or after October 1, 2020;
+20 (ii) Montgomery County on or after October 1, 2021; or
+21 (iii) Any county other than Prince George’s County or Montgomery
+22 County on or after October 1, 2022.
+23 (2) The governing body of the condominium shall have an independent
+24 reserve study completed not less than 30 calendar days before the meeting of the council of
+25 unit owners required under § 11–109(c)(16) of this title.
+26 (3) The governing body shall have an updated reserve study completed
+27 within 5 years after the date of the initial reserve study conducted under paragraph (2) of
+28 this subsection and at least every 5 years thereafter.
+29 (d) (1) (i) This paragraph applies only to a condominium established in
+30 Prince George’s County before October 1, 2020.
+
+HOUSE BILL 292 13
+1 (ii) If the governing body of a condominium has had a reserve study
+2 conducted on or after October 1, 2016, the governing body shall have an updated reserve
+3 study conducted within 5 years after the date of that reserve study and at least every 5
+4 years thereafter.
+5 (iii) If the governing body of a condominium has not had a reserve
+6 study conducted on or after October 1, 2016, the governing body shall have a reserve study
+7 conducted on or before October 1, 2021, and an updated reserve study at least every 5 years
+8 thereafter.
+9 (2) (i) This paragraph applies only to a condominium established in
+10 Montgomery County before October 1, 2021.
+11 (ii) If the governing body of a condominium has had a reserve study
+12 conducted on or after October 1, 2017, the governing body shall have an updated reserve
+13 study conducted within 5 years after the date of that reserve study and at least every 5
+14 years thereafter.
+15 (iii) If the governing body of a condominium has not had a reserve
+16 study conducted on or after October 1, 2017, the governing body shall have a reserve study
+17 conducted on or before October 1, 2022, and an updated reserve study at least every 5 years
+18 thereafter.
+19 (3) (i) This paragraph applies only to a condominium established in any
+20 county other than Prince George’s County or Montgomery County before October 1, 2022.
+21 (ii) If the governing body of a condominium has had a reserve study
+22 conducted on or after October 1, 2018, the governing body shall have an updated reserve
+23 study conducted within 5 years after the date of that reserve study and at least every 5
+24 years thereafter.
+25 (iii) If the governing body of a condominium has not had a reserve
+26 study conducted on or after October 1, 2018, the governing body shall have a reserve study
+27 conducted on or before October 1, 2023, and an updated reserve study at least every 5 years
+28 thereafter.
+29 (e) Each reserve study AND UPDATED RESERVE STUDY required under this
+30 section shall:
+31 (1) Be prepared by a person who:
+32 (i) Has prepared at least 30 reserve studies within the prior 3
+33 calendar years;
+34 (ii) Has participated in the preparation of at least 30 reserve studies
+35 within the prior 3 calendar years while employed by a firm that prepares reserve studies;
+
+14 HOUSE BILL 292
+1 (iii) Holds a current license from the State Board of Architects or the
+2 State Board for Professional Engineers; or
+3 (iv) Is currently designated as a reserve specialist by the Community
+4 Association Institute or as a professional reserve analyst by the Association of Professional
+5 Reserve Analysts;
+6 (2) Be available for inspection and copying by any unit owner;
+7 (3) Be reviewed by the governing body of the condominium in connection
+8 with the preparation of the annual proposed budget; and
+9 (4) Be summarized for submission with the annual proposed budget to the
+10 unit owners.
+11 (F) (1) THE GOVERNING BODY OF A CONDOMINIUM SHALL, IN
+12 CONSULTATION WITH A PERSON IDENTIFIED UNDER SUBSECTION (E)(1) OF THIS
+13 SECTION, DEVELOP A FUNDING PLAN TO DETERMINE HOW TO FULLY FUND THE
+14 RESERVES NECESSARY UNDER THIS SECTION.
+15 (2) IN DEVELOPING THE FUNDING PLAN UNDER THIS SUBSECTION,
+16 THE GOVERNING BODY SHALL CONSIDER SELECT ONE OF THE FOLLOWING
+17 METHODS TO ACHIEVE THE RESERVE FUNDING UNDER THIS SECTION:
+18 (I) THE COMPONENT OR FULL FUNDING METHOD;
+19 (II) THE CASH FLOW METHOD;
+20 (III) THE BASELINE FUNDING METHOD;
+21 (IV) THE THRESHOLD CASH FLOW METHOD; AND OR
+22 (V) OTHER FUNDING METHODS ACCEPTED BY ANY OTHER
+23 FUNDING METHOD CONSISTENT WITH GENERALLY ACCEPTED ACCOUNTING
+24 PRINCIPLES.
+25 (3) A FUNDING PLAN DEVELOPED UNDER THIS SUBSECTION SHALL
+26 PRIORITIZE ADEQUATE AMOUNTS FOR REPAIR AND REPLACEMENT OF COMMON
+27 ELEMENTS OF THE CONDOMINIUM THAT ARE NECESSARY FOR:
+28 (I) THE HEALTH, SAFETY, AND WELL–BEING OF THE MEMBERS
+29 OCCUPANTS;
+
+HOUSE BILL 292 15
+1 (II) ENSURING STRUCTURAL INTEGRITY, SUCH AS ROOFING
+2 REPLACEMENTS AND MAINTAINING STRUCTURAL SYSTEMS; AND
+3 (III) ESSENTIAL FUNCTIONING, SUCH AS PLUMBING, SEWER,
+4 HEATING, COOLING, AND ELECTRICAL INFRASTRUCTURE; AND
+5 (IV) ANY OTHER ESSENTIAL OR CRITICAL PURPOSE, AS
+6 DETERMINED BY THE GOVERNING BODY.
+7 (4) RESERVES MAY NOT BE USED FOR PURPOSES OTHER THAN THOSE
+8 SPECIFIED IN THE FUNDING PLAN.
+9 (5) A GOVERNING BODY SHALL REVIEW PROGRESS TOWARD
+10 COMPLIANCE WITH THE FUNDING PLAN DEVELOPED UNDER THIS SUBSECTION AT
+11 EACH ANNUAL MEETING OF THE GOVERNING BODY.
+12 11B–112.2.
+13 (c) The annual budget shall provide for at least the following items:
+14 (1) Income;
+15 (2) Administration;
+16 (3) Maintenance;
+17 (4) Utilities;
+18 (5) General expenses;
+19 (6) Reserves, INCLUDING REPLACEMENT COSTS IF THE ESTIMATED
+20 REPLACEMENT COST IS GREATER THAN $10,000 AS DETERMINED BY THE MOST
+21 RECENT RESERVE STUDY OR UPDATED RESERVE STUDY; and
+22 (7) Capital expenses.
+23 (d) (1) Subject to paragraph (2) PARAGRAPHS (2) AND (3) of this subsection
+24 AND IN ACCORDANCE WITH THE FUNDING PLAN UNDER § 11B–112.3(F) OF THIS
+25 TITLE, reserves provided for in the annual budget under subsection (c) of this section shall
+26 [be]:
+27 (I) BE the funding amount recommended in the most recent reserve
+28 study OR UPDATED RESERVE STUDY completed under § 11B–112.3 of this title; AND
+
+16 HOUSE BILL 292
+1 (II) BE DEPOSITED IN THE RESERVE ACCOUNT ON OR BEFORE
+2 THE LAST DAY OF EACH FISCAL YEAR.
+3 (2) If SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION, IF the most
+4 recent reserve study was an initial reserve study, the governing body shall, within [3] 5
+5 fiscal years following the fiscal year in which the initial reserve study was completed, attain
+6 the annual reserve funding level recommended in the initial reserve study IN
+7 ACCORDANCE WITH THE FUNDING PLAN UNDER § 11B–112.3(F) OF THIS TITLE.
+8 (3) (I) THE GOVERNING BODY OF A HOMEOWNERS ASSOCIATION
+9 MAY DETERMINE BY A TWO–THIRDS MAJORITY VOTE THAT THE HOMEOWNERS
+10 ASSOCIATION AND THE LOT OWNERS ARE EXPERIENCING A FINANCIAL HARDSHIP
+11 THAT LIMITS THE ABILITY TO FUND RESERVES THAT ARE REQUIRED UNDER
+12 PARAGRAPH (1) OR (2) OF THIS SUBSECTION.
+13 (II) SUBJECT TO SUBPARAGRAPHS (III) THROUGH (V) OF THIS
+14 PARAGRAPH, IF A GOVERNING BODY MAKES A FINANCIAL HARDSHIP
+15 DETERMINATION BASED ON THE RESERVE FUNDING REQUIREMENTS OF
+16 PARAGRAPH (1) OR (2) OF THIS SUBSECTION:
+17 1. THE HOMEOWNERS ASSOCIATION MAY REASONABLY
+18 DEVIATE FROM THAT RESERVE FUNDING REQUIREMENT; AND
+19 2. THE FUNDING LEVEL UNDER THAT REQUIREMENT
+20 SHALL BE AT LEAST THE FUNDING AMOUNT NECESSARY FOR THE PURPOSES
+21 SPECIFIED UNDER § 11B–112.3(F)(3) OF THIS TITLE.
+22 (III) 1. EXCEPT AS PROVIDED IN SUBSUBPARAGRAPH 2 OF
+23 THIS SUBPARAGRAPH, A HOMEOWNERS ASSOCIATION MAY NOT DEVIATE FROM THE
+24 RESERVE FUNDING REQUIREMENTS OF PARAGRAPH (1) OR (2) OF THIS SUBSECTION
+25 FOR A PERIOD OF MORE THAN 1 FISCAL YEAR FOLLOWING THE FINANCIAL
+26 HARDSHIP DETERMINATION.
+27 2. THE GOVERNING BODY MAY RENEW A FINANCIAL
+28 HARDSHIP DETERMINATION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH BY A
+29 TWO–THIRDS MAJORITY VOTE TO EXTEND THE PERIOD THAT A HOMEOWNERS
+30 ASSOCIATION MAY DEVIATE FROM THE RESERVE FUNDING REQUIREMENT BY 1
+31 FISCAL YEAR FOLLOWING THE RENEWAL.
+32 (IV) THE GOVERNING BODY SHALL:
+33 1. MAKE GOOD FAITH EFFORTS TO RESOLVE THE
+34 FINANCIAL HARDSHIP AND RESUME FUNDING RESERVES AS REQUIRED UNDER
+35 PARAGRAPH (1) OR (2) OF THIS SUBSECTION;
+
+HOUSE BILL 292 17
+1 2. MAINTAIN DETAILED DOCUMENTATION OF THE GOOD
+2 FAITH EFFORTS MADE UNDER ITEM 1 OF THIS SUBPARAGRAPH; AND
+3 3. TREAT THE DOCUMENTS UNDER ITEM 2 OF THIS
+4 SUBPARAGRAPH AS RECORDS FOR EXAMINATION AND COPYING UNDER § 11B–112
+5 OF THIS TITLE.
+6 (V) 1. ALL LOT OWNERS SHALL BE GIVEN REASONABLE
+7 NOTICE IN ADVANCE OF A VOTE ON AN INITIAL OR A RENEWAL OF A FINANCIAL
+8 HARDSHIP DETERMINATION UNDER THIS PARAGRAPH.
+9 2. A VOTE ON AN INITIAL OR A RENEWAL OF A FINANCIAL
+10 HARDSHIP DETERMINATION UNDER THIS PARAGRAPH MAY ONLY BE TAKEN AT A
+11 REGULAR OR SPECIAL MEETING OF THE HOMEOWNERS ASSOCIATION.
+12 (4) (I) A THE GOVERNING BODY OF A HOMEOWNERS ASSOCIATION
+13 SHALL ANNUALLY REVIEW THE RESERVE STUDY ANNUALLY FOR ACCURACY
+14 RESERVES AND THE MOST RECENT RESERVE STUDY OR UPDATED RESERVE STUDY
+15 TO DETERMINE WHETHER THERE IS ADEQUATE FUNDING IN ACCORDANCE WITH THE
+16 FUNDING PLAN REQUIRED UNDER § 11B–112.3(F) OF THIS TITLE.
+17 (II) THE ANNUAL REVIEW OF THE RESERVE STUDY FOR
+18 ACCURACY UNDER THIS PARAGRAPH DOES NOT REQUIRE A RESERVE STUDY OR
+19 UPDATED RESERVE STUDY IN ADDITION TO THE RESERVE STUDY REQUIREMENTS
+20 UNDER § 11B–112.3 OF THIS TITLE.
+21 11B–112.3.
+22 (a) (1) In this section[, “reserve] THE FOLLOWING WORDS HAVE THE
+23 MEANINGS INDICATED.
+24 (2) “RESERVE study” means a study of the reserves required for future
+25 major repairs and replacement of the common areas of a homeowners association that:
+26 [(1)] (I) [Identifies] USING AN ITEMIZED LIST, IDENTIFIES each
+27 structural, mechanical, electrical, and plumbing component of the common areas and any
+28 other components that are:
+29 1. ARE the responsibility of the homeowners association to
+30 repair and replace; AND
+31 2. IF APPLICABLE, MEET A MINIMUM COST OF REPAIR
+32 OR REPLACEMENT, AS DETERMINED BY THE GOVERNING BODY, THAT IS:
+
+18 HOUSE BILL 292
+1 A. REASONABLY BASED ON THE EXPENSES OF THE
+2 HOMEOWNERS ASSOCIATION; AND
+3 B. NOT A MINOR EXPENSE THAT IS OTHERWISE
+4 ADDRESSED BY THE BUDGET OF THE HOMEOWNERS ASSOCIATION;
+5 [(2)] (II) States the estimated remaining useful life of each identified
+6 component;
+7 [(3)] (III) States the estimated cost of repair or replacement of each
+8 identified component; [and]
+9 [(4)] (IV) States the estimated annual reserve amount necessary to
+10 accomplish any identified future repair or replacement; AND
+11 (V) STATES THE SQUARE FOOTAGE QUANTITY OR SIZE OF EACH
+12 IDENTIFIED COMPONENT USING THE APPROPRIATE MEASUREMENT, SUCH AS UNIT
+13 AMOUNT, SQUARE FOOTAGE, OR CUBIC FEET.
+14 (3) “UPDATED RESERVE STUDY” MEANS, FOR THE COMMON
+15 ELEMENTS AREAS SINCE THE PRIOR RESERVE STUDY WAS COMPLETED WITHIN THE
+16 PREVIOUS 5 YEARS, A STUDY THAT:
+17 (I) ANALYZES ANY WORK PERFORMED;
+18 (II) REVISES REPLACEMENT COST, REMAINING LIFE, AND
+19 USEFUL LIFE ESTIMATES; AND
+20 (III) IDENTIFIES:
+21 1. (II) WORK ANALYZES WORK PERFORMED AND
+22 AMOUNTS SPENT; AND
+23 2. (III) WHETHER IDENTIFIES WHETHER ANY
+24 MAINTENANCE CONTRACTS ARE IN PLACE.
+25 (b) (1) This section applies only to a homeowners association:
+26 (i) That has responsibility under its declaration for maintaining and
+27 repairing common areas; and
+28 (ii) For which the total initial purchase and installation REPAIR OR
+29 REPLACEMENT costs for all components identified in subsection [(a)(1)] (A) of this section
+30 is at least $10,000.
+
+HOUSE BILL 292 19
+1 (2) This section does not apply to a homeowners association that issues
+2 bonds for the purpose of meeting capital expenditures.
+3 (c) (1) This subsection applies only to a homeowners association established
+4 in:
+5 (i) Prince George’s County on or after October 1, 2020;
+6 (ii) Montgomery County on or after October 1, 2021; or
+7 (iii) Any county other than Prince George’s County or Montgomery
+8 County on or after October 1, 2022.
+9 (2) The governing body of the homeowners association shall have an
+10 independent reserve study completed not more than 90 calendar days and not less than 30
+11 calendar days before the meeting of the homeowners association required under §
+12 11B–106.1(a) of this title.
+13 (3) The governing body shall have an updated reserve study completed
+14 within 5 years after the date of the initial reserve study conducted under paragraph (2) of
+15 this subsection and at least every 5 years thereafter.
+16 (d) (1) (i) This paragraph applies only to a homeowners association
+17 established in Prince George’s County before October 1, 2020.
+18 (ii) If the governing body of a homeowners association has had a
+19 reserve study conducted on or after October 1, 2016, the governing body shall have an
+20 updated reserve study conducted within 5 years after the date of that reserve study and at
+21 least every 5 years thereafter.
+22 (iii) If the governing body of a homeowners association has not had a
+23 reserve study conducted on or after October 1, 2016, the governing body shall have a reserve
+24 study conducted on or before October 1, 2021, and an updated reserve study at least every
+25 5 years thereafter.
+26 (2) (i) This paragraph applies only to a homeowners association
+27 established in Montgomery County before October 1, 2021.
+28 (ii) If the governing body of a homeowners association has had a
+29 reserve study conducted on or after October 1, 2017, the governing body shall have an
+30 updated reserve study conducted within 5 years after the date of that reserve study and at
+31 least every 5 years thereafter.
+32 (iii) If the governing body of a homeowners association has not had a
+33 reserve study conducted on or after October 1, 2017, the governing body shall have a reserve
+34 study conducted on or before October 1, 2022, and an updated reserve study at least every
+35 5 years thereafter.
+
+20 HOUSE BILL 292
+1 (3) (i) This paragraph applies only to a homeowners association
+2 established in any county other than Prince George’s County or Montgomery County before
+3 October 1, 2022.
+4 (ii) If the governing body of a homeowners association has had a
+5 reserve study conducted on or after October 1, 2018, the governing body shall have an
+6 updated reserve study conducted within 5 years after the date of that reserve study and at
+7 least every 5 years thereafter.
+8 (iii) If the governing body of a homeowners association has not had a
+9 reserve study conducted on or after October 1, 2018, the governing body shall have a reserve
+10 study conducted on or before October 1, 2023, and an updated reserve study at least every
+11 5 years thereafter.
+12 (e) Each reserve study AND UPDATED RESERVE STUDY required under this
+13 section shall:
+14 (1) Be prepared by a person who:
+15 (i) Has prepared at least 30 reserve studies within the prior 3
+16 calendar years;
+17 (ii) Has participated in the preparation of at least 30 reserve studies
+18 within the prior 3 calendar years while employed by a firm that prepares reserve studies;
+19 (iii) Holds a current license from the State Board of Architects or the
+20 State Board for Professional Engineers; or
+21 (iv) Is currently designated as a reserve specialist by the Community
+22 Association Institute or as a professional reserve analyst by the Association of Professional
+23 Reserve Analysts;
+24 (2) Be available for inspection and copying by any lot owner;
+25 (3) Be reviewed by the governing body of the homeowners association in
+26 connection with the preparation of the annual proposed budget; and
+27 (4) Be summarized for submission with the annual proposed budget to the
+28 lot owners.
+29 (F) (1) A THE GOVERNING BODY OF A HOMEOWNERS ASSOCIATION
+30 SHALL, IN CONSULTATION WITH A PERSON IDENTIFIED UNDER SUBSECTION (E)(1)
+31 OF THIS SECTION, DEVELOP A FUNDING PLAN TO DETERMINE HOW TO FULLY FUND
+32 THE RESERVES NECESSARY UNDER THIS SECTION.
+
+HOUSE BILL 292 21
+1 (2) IN DEVELOPING THE FUNDING PLAN UNDER THIS SUBSECTION,
+2 THE HOMEOWNERS GOVERNING BODY SHALL CONSIDER SELECT ONE OF THE
+3 FOLLOWING METHODS TO ACHIEVE THE RESERVE FUNDING UNDER THIS SECTION:
+4 (I) THE COMPONENT OR FULL FUNDING METHOD;
+5 (II) THE CASH FLOW METHOD;
+6 (III) THE BASELINE FUNDING METHOD;
+7 (IV) THE THRESHOLD CASH FLOW METHOD; AND OR
+8 (V) OTHER FUNDING METHODS ANY OTHER FUNDING METHOD
+9 CONSISTENT WITH GENERALLY ACCEPTED ACCOUNTING PRINCIPLES.
+10 (3) A FUNDING PLAN DEVELOPED UNDER THIS SUBSECTION SHALL
+11 PRIORITIZE ADEQUATE AMOUNTS FOR REPAIR AND REPLACEMENT OF COMMON
+12 ELEMENTS AREAS OF THE HOMEOWNERS ASSOCIATION THAT ARE NECESSARY FOR:
+13 (I) THE HEALTH, SAFETY, AND WELL–BEING OF THE MEMBERS
+14 OCCUPANTS;
+15 (II) ENSURING STRUCTURAL INTEGRITY, SUCH AS ROOFING
+16 REPLACEMENTS AND MAINTAINING STRUCTURAL SYSTEMS; AND
+17 (III) ESSENTIAL FUNCTIONING, SUCH AS PLUMBING, SEWER,
+18 HEATING, COOLING, AND ELECTRICAL INFRASTRUCTURE; AND
+19 (IV) ANY OTHER ESSENTIAL OR CRITICAL PURPOSE, AS
+20 DETERMINED BY THE GOVERNING BODY.
+21 (4) RESERVES MAY NOT BE USED FOR PURPOSES OTHER THAN THOSE
+22 SPECIFIED IN THE FUNDING PLAN.
+23 (5) A GOVERNING BODY OF A HOMEOWNERS ASSOCIATION SHALL
+24 REVIEW PROGRESS TOWARD COMPLIANCE WITH THE FUNDING PLAN DEVELOPED
+25 UNDER THIS SUBSECTION AT EACH ANNUAL MEETING OF THE HOMEOWNERS
+26 ASSOCIATION.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 October 1, 2025.
+
+[DELETED: :CA      5   C D H D H R H A B a A C A F a r c o a h a i c f r t c f f t r a o a c h c b a c d e f y e t a o t a a i r a h a h t o a c r r f l a h a t r d f c r f r b r t g b o a c h c a r c o a h a t r t r a t m r w t i a f i a w a c f p a c h c a r c o a h a s c c]
+[DELETED:  H  l r t c c a t a o c r s r r a r s a a b o c h c B  A S  A  ( B  A  S  A  ( B  A S 1 a ( 1 1 1 a ( 1  A  (  S T A 5  (  I t sn, “)[T F W H T      “ m r a r o t c e o a c h c   () Is] ()[]U ST  e ae       t r o t c h. c ]
+[DELETED: H 3     .IE T Y S,      . B O T E O TN       . A M E T I O     ()  S]( l   ()  S t e c o r o r o e]( i ad   ()  S t e a r a n t]( at    ) TEOT T E  .   )“U” R SY MS F T C S T P R S W C W T  S ,      )AN    )R,IE R CT R LE AS       )IIDS      .() WI O N WKP AT         .()WIH D WRA   ( ( T s a o t a c h c e    ( P    ( M]
+[DELETED:  H     ( A C   ( T a m h   ( T g b s h a u r s c w t  ( ( ( T e    ( I h a a    ( I n h a   ( ( T e    ( I h a a    ( I n h a   ( ( T p a t a c h c e O    ( I h a a]
+[DELETED: H 5    ( I n h a  ( E r s  r u t s   ( B    ( H p a l 3 r s w t p 3 c    ( H w    ( H S    ( I A R   ( B   ( B r b t g b o t c h c   ( B u  ( T i   ( F    ( R     ;    ( R    ( U   ( T a o a c r s a f t r r]
+[DELETED:  H  w r   ( A s d t p u f e a a   ( A t  ( ( (  S .(   s ( o t p t g b o a c h c pe   TA m r r s YA G NO  E F Y R A T M R a s r t S O UDT D  r s a f a G  .       O S U S  O T SHD N  A R S O SYI  S R U S B A C O T)(     ( I  ()  N  m    a t a r f l r i t i r s G  .   ( )H G B O A C H M D B A TOT M V T T H T L T A T F R T A I  II ()()     )S()(IU II  V H I A G B M A F H B O T R F R O I  II ()()      . C H C MT  ]
+[DELETED: H 7     . F L U T R B A L T F A N F T P G ))      )1.EIX A P I S  OH  I  II ()( F A P O M T  F Y F T      . G B M R A F I OT M V T E T P T A C C M D F T R F        )TVHL     . G F E T R T H A R F R A R U I  II ()()      .  H       .T T D U I  O T  5      )1.L      . D     T g b o a c h c h t a u o b]
+[DELETED:  H    )()H G B O A C H SL I C W A P I U D N ))    )IN G B S C S O OFT F       )TH     )TIH     )TIH      )TVHD DO    )OT F M A B N O M C WHG A A     ) A A F R A R O C    ) T,,HH Y LB    ) EIN S IY S A RS     ) E,,IS FG S A PG SRG GAE ,      )AVN O E O C PE A       )G B S R P T  ]
+[DELETED: H 9 A 1  ( T   ( I   ( A   ( M   ( U   ( G   ( RsI R C I T E C I G T  A D B T M  ;   ( C  ( ( S    )(  F 1( , t r be]     )  s  eY    ) IE .   ( I  ()  N  r 3] f t a r f l r i t i r s  F 1( .    ()HOT    )( ]
+[DELETED:  H     )S()(IU II  V H I A G B M A F H B O T R F R O    )()      . C M R DT       . F L U T R B A L T F A N F T P  F 1())      )1.EIX A P I S  OH     )( A P O M T  F Y F T F      . G B M R A F I OT M V T E T P T A R D F T R F R B       )TVHL     . G F E T R T H A R F R A R U    )()      .  H       .T T D U I  O T16       )1.L U O S B G R I O A V O I O A R O F ]
+[DELETED: H 1     . D     )() A HAR AYRWT R S A F A    F 1()     ) IH A R O T R S F U T PHD N R A R S O YIER     14  1  (  I t sn, “)[T F W H T      “ m   ()Is e] () []U S A I LT I s ae       t r o t c o u o t. r      .IE T Y S,      . B O T E O TM       . A M E T I O     ()  S]( l   ()  S t e c o r o r o e]( i ad]
+[DELETED:  H    ()  S t e a r a n t]( at    ) TEOT T E  .   )“U” R SY MS F T C S T P R S W C W T  S ,      )AN    )R,IE R CT R LE AS       )IIDS     .() WII O N WKP AT         .()WIH D WRA   ( T  ( ( T    ( P    ( M    ( A C   ( T g b o t c s h a i r u   ( T g b s h a u r s c w t  ( ( ( T p a o t a c e i P]
+[DELETED: H 1    ( I c s y    ( I s c t   ( ( T p a o t a c e i M    ( I c s y    ( I s c t   ( ( T c    ( I c s y    ( I s c t  ( E r s  r u t s   ( B    ( H p a l 3 r s w t p 3 c    ( H w]
+[DELETED:  H     ( H S    ( I A R   ( B   ( B w   ( B u   )()TH G B O A C SL I P I U S E O)N D A F P T D H T F F T    )IN G B S C S O OFT F       )TH     )TIH     )TIH      )TVHD DO    )OT F M A B N O M C WHG A A     ) A A F R A R O C    ) T,,HH Y LB ]
+[DELETED: H 1   ) EIN S IY S A RS     ) E,,IS FG S A PG SRG GAE ,      )AVN O E O C PE A       )G B S R P T   1  ( T   ( I   ( A   ( M   ( U   ( G   ( RsI R C I T E C I G T  A D B T M  ;   ( C  ( ( S    )( I A W F P U  F O T1( ,] be     )  s  eY ]
+[DELETED:  H    ) IE .   ( I  ()  N  r 3] f t a r f l r i t i r s  F 1( .    ()H G B O A H D B A TOT M V T T H L T A T F R T A R U    )()     )S()(IU II  V H I A G B M A F H B O T R F R O    )()      .T       . F L U T R B A L T F A N F T P  F 1())      )1.EIX A P I S  OH     )( A P O M T  F Y F T F      . G B M R A F I OT M V T E T P T A H M D F T R F R B       )TVHL     . G F E T R T H A R F R A R U    )() ]
+[DELETED: H 1     .  H       .T T D U I  O T  1      )1.L L O S B G R I O A V O I O A R O F      . D B     )() A HAH AYRWT R S A F A    F 1()     ) IH A R O T R S F U T PHD N R A R S O YIER     13  1  (  I t sn, “)[T F W H T      )“ m   () Is e]() []U S A I LT I s oe       . r      .IE T Y S, ]
+[DELETED:  H      . B O T E O TN       . A M E T I O     ()  S t e r u l o e i]( c   ()  S t e c o r o r o e]( i ad   ()  S t e a r a n t]( at    ) TEOT T E  .   )“U” R SY MS F T CSS   S ,      )AN    )R,IE R CT R LE AS       )IIDS     .() WII O N WKP AT         .()WIH D WRA   ( ( T    ( T r    ( FT    () ]( i]
+[DELETED: H 1   ( T b  ( ( T i    ( P    ( M    ( A C   ( T g b o t h a s h a i c d b t m o t h a r u § 1   ( T g b s h a u r s c w t  ( ( ( T p a o t a h a e    ( I t g o a h a h h r u l    ( I r s 5   ( ( T p a o t a h a e    ( I t g o a h a h h r u l    ( I r s 5]
+[DELETED:  H    ( ( T p a o t a h a e O    ( I t g o a h a h h r u l    ( I r s 5  ( E r s  r u tDR s   ( B    ( H p a l 3 r s w t p 3 c    ( H w    ( H S    ( I A R   ( B   ( B c   ( B l    )()A H G B O AH AL  E()N  ]
+[DELETED: H 2   )IN H G BYS C S O OFT        )TH     )TIH     )TIH      )TVHD DO     )OT N    ) A A F R A R O CSO     ) T,,HH Y LB    ) EIN S IY S A RS     ) E,,IS FG S A PG SRG GAE ,      )AVN O E O C PE A        )G B O AH A S T S A E A M O T H    S A B I F E T t A s t e O]

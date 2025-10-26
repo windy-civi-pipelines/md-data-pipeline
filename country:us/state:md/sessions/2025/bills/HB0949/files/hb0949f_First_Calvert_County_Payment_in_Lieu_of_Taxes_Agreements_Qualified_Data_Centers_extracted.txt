@@ -1,0 +1,140 @@
+Title: HOUSE BILL 949
+Official Title: HOUSE BILL 949
+Number of Sections: 1
+Source: versions - First - Calvert County - Payment in Lieu of Taxes Agreements - Qualified Data Centers
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Q2 5lr2555
+By: Calvert County Delegation
+Introduced and read first time: January 31, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Calvert County – Payment in Lieu of Taxes Agreements – Qualified Data
+3 Centers
+4 FOR the purpose of authorizing the governing body of Calvert County to enter into a
+5 payment in lieu of taxes agreement with the owner of a qualified data center;
+6 requiring the county supervisor of assessments to assess certain property of a
+7 qualified data center that is subject to a payment in lieu of taxes agreement on the
+8 request of the governing body of Calvert County; and generally relating to payment
+9 in lieu of taxes agreements for qualified data centers in Calvert County.
+10 BY adding to
+11 Article – Tax – Property
+12 Section 7–522
+13 Annotated Code of Maryland
+14 (2019 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Tax – Property
+18 7–522.
+19 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+20 INDICATED.
+21 (2) “QUALIFIED DATA CENTER” HAS THE MEANING STATED IN §
+22 11–239 OF THE TAX – GENERAL ARTICLE.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0949*
+2 HOUSE BILL 949
+1 (3) “QUALIFIED DATA CENTER PERSONAL PROPERTY” HAS THE
+2 MEANING STATED IN § 11–239 OF THE TAX – GENERAL ARTICLE.
+3 (B) THE GOVERNING BODY OF CALVERT COUNTY MAY ENTER INTO AN
+4 AGREEMENT WITH THE OWNER OF A QUALIFIED DATA CENTER THAT IS LOCATED OR
+5 LOCATES IN THE COUNTY FOR A NEGOTIATED PAYMENT BY THE OWNER IN LIEU OF
+6 COUNTY PROPERTY TAXES.
+7 (C) AN AGREEMENT FOR A NEGOTIATED PAYMENT IN LIEU OF TAXES UNDER
+8 THIS SECTION SHALL PROVIDE THAT, FOR THE TERM SPECIFIED IN THE
+9 AGREEMENT:
+10 (1) THE OWNER SHALL PAY TO THE COUNTY A SPECIFIED AMOUNT
+11 EACH YEAR IN LIEU OF THE PAYMENT OF COUNTY REAL, OPERATING REAL,
+12 OPERATING PERSONAL, OR QUALIFIED DATA CENTER PERSONAL PROPERTY TAX;
+13 AND
+14 (2) ALL OR A SPECIFIED PART OF THE REAL, OPERATING REAL,
+15 OPERATING PERSONAL, OR QUALIFIED DATA CENTER PERSONAL PROPERTY AT THE
+16 QUALIFIED DATA CENTER SHALL BE EXEMPT FROM COUNTY PROPERTY TAX FOR THE
+17 TERM OF THE AGREEMENT.
+18 (D) AS SPECIFIED IN AN AGREEMENT FOR A NEGOTIATED PAYMENT IN LIEU
+19 OF TAXES UNDER THIS SECTION, FOR THE TERM SPECIFIED IN THE AGREEMENT, THE
+20 REAL, OPERATING REAL, OPERATING PERSONAL, OR QUALIFIED DATA CENTER
+21 PERSONAL PROPERTY AT A QUALIFIED DATA CENTER THAT IS LOCATED OR LOCATES
+22 IN THE COUNTY IS EXEMPT FROM COUNTY PROPERTY TAX.
+23 (E) ON THE WRITTEN REQUEST OF THE GOVERNING BODY OF CALVERT
+24 COUNTY, THE SUPERVISOR SHALL ASSESS THE REAL, OPERATING REAL, OPERATING
+25 PERSONAL, OR QUALIFIED DATA CENTER PERSONAL PROPERTY OF THE OWNER OF
+26 A QUALIFIED DATA CENTER WITH WHOM THE COUNTY HAS ENTERED INTO A
+27 PAYMENT IN LIEU OF TAXES AGREEMENT UNDER THIS SECTION.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+29 1, 2025, and shall be applicable to all taxable years beginning after June 30, 2025.
+[DELETED: :CA      5     A C C F t p o a t g b o C C t e i a p i l o t a w t o o a q d c r t c s o a t a c p o a q r i B  A S  A  (  S T A() ( N ( “Q”§ D CR H T M S I 9T–GA. A  E R]
+[DELETED:  H  ( “Q D C P PY H T    A  E R19T–GA.() TCH G B O A O M E I A() N S S P TT F T T S I T ( O P C Y I L O T P O C RL O RLL X ( , O A S P O T RL O RLL () SN T L O RL O PL O Q D C,() ON T W R O T G B O A,,Y L L L  Q D C W W T C H E I A  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 949
+Q2 5lr2555
+By: Calvert County Delegation
+Introduced and read first time: January 31, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Calvert County – Payment in Lieu of Taxes Agreements – Qualified Data
+3 Centers
+4 FOR the purpose of authorizing the governing body of Calvert County to enter into a
+5 payment in lieu of taxes agreement with the owner of a qualified data center;
+6 requiring the county supervisor of assessments to assess certain property of a
+7 qualified data center that is subject to a payment in lieu of taxes agreement on the
+8 request of the governing body of Calvert County; and generally relating to payment
+9 in lieu of taxes agreements for qualified data centers in Calvert County.
+10 BY adding to
+11 Article – Tax – Property
+12 Section 7–522
+13 Annotated Code of Maryland
+14 (2019 Replacement Volume and 2024 Supplement)
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
+17 Article – Tax – Property
+18 7–522.
+19 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+20 INDICATED.
+21 (2) “QUALIFIED DATA CENTER” HAS THE MEANING STATED IN §
+22 11–239 OF THE TAX – GENERAL ARTICLE.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0949*
+
+2 HOUSE BILL 949
+1 (3) “QUALIFIED DATA CENTER PERSONAL PROPERTY” HAS THE
+2 MEANING STATED IN § 11–239 OF THE TAX – GENERAL ARTICLE.
+3 (B) THE GOVERNING BODY OF CALVERT COUNTY MAY ENTER INTO AN
+4 AGREEMENT WITH THE OWNER OF A QUALIFIED DATA CENTER THAT IS LOCATED OR
+5 LOCATES IN THE COUNTY FOR A NEGOTIATED PAYMENT BY THE OWNER IN LIEU OF
+6 COUNTY PROPERTY TAXES.
+7 (C) AN AGREEMENT FOR A NEGOTIATED PAYMENT IN LIEU OF TAXES UNDER
+8 THIS SECTION SHALL PROVIDE THAT, FOR THE TERM SPECIFIED IN THE
+9 AGREEMENT:
+10 (1) THE OWNER SHALL PAY TO THE COUNTY A SPECIFIED AMOUNT
+11 EACH YEAR IN LIEU OF THE PAYMENT OF COUNTY REAL, OPERATING REAL,
+12 OPERATING PERSONAL, OR QUALIFIED DATA CENTER PERSONAL PROPERTY TAX;
+13 AND
+14 (2) ALL OR A SPECIFIED PART OF THE REAL, OPERATING REAL,
+15 OPERATING PERSONAL, OR QUALIFIED DATA CENTER PERSONAL PROPERTY AT THE
+16 QUALIFIED DATA CENTER SHALL BE EXEMPT FROM COUNTY PROPERTY TAX FOR THE
+17 TERM OF THE AGREEMENT.
+18 (D) AS SPECIFIED IN AN AGREEMENT FOR A NEGOTIATED PAYMENT IN LIEU
+19 OF TAXES UNDER THIS SECTION, FOR THE TERM SPECIFIED IN THE AGREEMENT, THE
+20 REAL, OPERATING REAL, OPERATING PERSONAL, OR QUALIFIED DATA CENTER
+21 PERSONAL PROPERTY AT A QUALIFIED DATA CENTER THAT IS LOCATED OR LOCATES
+22 IN THE COUNTY IS EXEMPT FROM COUNTY PROPERTY TAX.
+23 (E) ON THE WRITTEN REQUEST OF THE GOVERNING BODY OF CALVERT
+24 COUNTY, THE SUPERVISOR SHALL ASSESS THE REAL, OPERATING REAL, OPERATING
+25 PERSONAL, OR QUALIFIED DATA CENTER PERSONAL PROPERTY OF THE OWNER OF
+26 A QUALIFIED DATA CENTER WITH WHOM THE COUNTY HAS ENTERED INTO A
+27 PAYMENT IN LIEU OF TAXES AGREEMENT UNDER THIS SECTION.
+28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+29 1, 2025, and shall be applicable to all taxable years beginning after June 30, 2025.
+
+[DELETED: :CA      5     A C C F t p o a t g b o C C t e i a p i l o t a w t o o a q d c r t c s o a t a c p o a q r i B  A S  A  (  S T A() ( N ( “Q”§ D CR H T M S I 9T–GA. A  E R]
+[DELETED:  H  ( “Q D C P PY H T    A  E R19T–GA.() TCH G B O A O M E I A() N S S P TT F T T S I T ( O P C Y I L O T P O C RL O RLL X ( , O A S P O T RL O RLL () SN T L O RL O PL O Q D C,() ON T W R O T G B O A,,Y L L L  Q D C W W T C H E I A  S 1]

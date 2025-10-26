@@ -1,0 +1,193 @@
+Title: SENATE BILL 831
+Official Title: SENATE BILL 831
+Number of Sections: 1
+Source: versions - First - Credit Regulation - Reverse Mortgage Loans - Escrow Accounts
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+I2 5lr3384
+By: Senator Charles
+Introduced and read first time: January 28, 2025
+Assigned to: Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Credit Regulation – Reverse Mortgage Loans – Escrow Accounts
+3 FOR the purpose of requiring a lender for a reverse mortgage loan to establish a certain
+4 escrow account for the payment of certain eligible homeowner expenses, deduct a
+5 certain amount of funds from each loan distribution to a borrower, deposit the
+6 deducted funds into the escrow account, and deliver on–time payments from the
+7 escrow account to the appropriate collection entity for eligible homeowner expenses;
+8 and generally relating to reverse mortgage loans and the payment of eligible
+9 homeowner expenses.
+10 BY renumbering
+11 Article – Commercial Law
+12 Section 12–1208
+13 to be Section 12–1209
+14 Annotated Code of Maryland
+15 (2013 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Commercial Law
+18 Section 12–1201(a), (c), (f), and (h)
+19 Annotated Code of Maryland
+20 (2013 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Commercial Law
+23 Section 12–1208
+24 Annotated Code of Maryland
+25 (2013 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0831*
+2 SENATE BILL 831
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That Section(s) 12–1208 of Article – Commercial Law of the Annotated Code of Maryland
+3 be renumbered to be Section(s) 12–1209.
+4 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+5 as follows:
+6 Article – Commercial Law
+7 12–1201.
+8 (a) In this subtitle the following words have the meanings indicated.
+9 (c) “Borrower” means an individual who makes a loan application for or receives
+10 a reverse mortgage loan.
+11 (f) “Lender” means a person who makes a reverse mortgage loan.
+12 (h) “Reverse mortgage loan” means a nonrecourse loan that:
+13 (1) Is secured by the borrower’s principal dwelling;
+14 (2) Provides the borrower with purchase money proceeds, a lump sum
+15 payment, periodic cash advances, a line of credit, or any combination of those payment
+16 plans based on the equity in or value of the borrower’s principal dwelling; and
+17 (3) Requires no payment of principal or interest until the full loan becomes
+18 due and payable.
+19 12–1208.
+20 (A) (1) A LENDER SHALL ESTABLISH AN ESCROW ACCOUNT FOR A
+21 REVERSE MORTGAGE LOAN TO BE USED FOR THE PAYMENT OF:
+22 (I) PROPERTY TAXES;
+23 (II) INSURANCE PREMIUMS FOR AN INSURANCE PRODUCT
+24 REQUIRED UNDER § 12–1206(A)(2) OF THIS SUBTITLE;
+25 (III) GROUND RENTS;
+26 (IV) WATER AND SEWER FACILITIES ASSESSMENTS; AND
+27 (V) HOMEOWNERS ASSOCIATION OR OTHER COMMON
+28 OWNERSHIP COMMUNITY CHARGES.
+SENATE BILL 831 3
+1 (2) AN ESCROW ACCOUNT REQUIRED UNDER PARAGRAPH (1) OF THIS
+2 SUBSECTION SHALL:
+3 (I) BE ESTABLISHED IN ACCORDANCE WITH § 12–1026 OF THIS
+4 TITLE; AND
+5 (II) ALLOW FOR MONTHLY COLLECTION AND DEPOSIT OF
+6 FUNDS.
+7 (B) A LENDER SHALL:
+8 (1) DEDUCT FROM EACH DISTRIBUTION OF FUNDS TO THE
+9 BORROWER UNDER THE TERMS OF THE LOAN AND DEPOSIT INTO AN ESCROW
+10 ACCOUNT ESTABLISHED UNDER SUBSECTION (A) OF THIS SECTION AN AMOUNT OF
+11 FUNDS THAT IS:
+12 (I) PROPORTIONAL TO THE PLANNED DISTRIBUTION
+13 SCHEDULE OF FUNDS UNDER THE TERMS OF THE LOAN; AND
+14 (II) SUFFICIENT TO COVER THE ESTIMATED COSTS OF THE
+15 ELIGIBLE HOMEOWNER EXPENSES DESCRIBED UNDER SUBSECTION (A)(1) OF THIS
+16 SECTION;
+17 (2) DELIVER AN ON–TIME PAYMENT OF EACH ELIGIBLE HOMEOWNER
+18 EXPENSE DESCRIBED UNDER SUBSECTION (A)(1) OF THIS SECTION FROM THE
+19 APPROPRIATE ESCROW ACCOUNT ESTABLISHED UNDER SUBSECTION (A) OF THIS
+20 SECTION TO THE COLLECTION ENTITY FOR EACH ELIGIBLE EXPENSE.
+21 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2025.
+[DELETED: :CA      5     A C F e c a o f f e l d t a b d t d e a g r t r m l a t p o e h B  A S t  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  S   S T b  S a A 1  ( I  ( “ a  ( “  ( “   ( I   ( P t b w p m p a l s p p   ( R d() (  L S E A E A F A  () P;R  () IN P F A I P  A 1());  () G;IR  () W;VAS   () O A O O C]
+[DELETED: S 3 ( A(    () B§1E   E   () IL F M C A D O() A:  (  F E D O F T T U T T O T L A D I A E A   () R T T P DN   () IU T C T E C O T A ) ( DNT D U S A O T S F T) A   S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 831
+I2 5lr3384
+By: Senator Charles
+Introduced and read first time: January 28, 2025
+Assigned to: Finance
+A BILL ENTITLED
+1 AN ACT concerning
+2 Credit Regulation – Reverse Mortgage Loans – Escrow Accounts
+3 FOR the purpose of requiring a lender for a reverse mortgage loan to establish a certain
+4 escrow account for the payment of certain eligible homeowner expenses, deduct a
+5 certain amount of funds from each loan distribution to a borrower, deposit the
+6 deducted funds into the escrow account, and deliver on–time payments from the
+7 escrow account to the appropriate collection entity for eligible homeowner expenses;
+8 and generally relating to reverse mortgage loans and the payment of eligible
+9 homeowner expenses.
+10 BY renumbering
+11 Article – Commercial Law
+12 Section 12–1208
+13 to be Section 12–1209
+14 Annotated Code of Maryland
+15 (2013 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Commercial Law
+18 Section 12–1201(a), (c), (f), and (h)
+19 Annotated Code of Maryland
+20 (2013 Replacement Volume and 2024 Supplement)
+21 BY adding to
+22 Article – Commercial Law
+23 Section 12–1208
+24 Annotated Code of Maryland
+25 (2013 Replacement Volume and 2024 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0831*
+
+2 SENATE BILL 831
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That Section(s) 12–1208 of Article – Commercial Law of the Annotated Code of Maryland
+3 be renumbered to be Section(s) 12–1209.
+4 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+5 as follows:
+6 Article – Commercial Law
+7 12–1201.
+8 (a) In this subtitle the following words have the meanings indicated.
+9 (c) “Borrower” means an individual who makes a loan application for or receives
+10 a reverse mortgage loan.
+11 (f) “Lender” means a person who makes a reverse mortgage loan.
+12 (h) “Reverse mortgage loan” means a nonrecourse loan that:
+13 (1) Is secured by the borrower’s principal dwelling;
+14 (2) Provides the borrower with purchase money proceeds, a lump sum
+15 payment, periodic cash advances, a line of credit, or any combination of those payment
+16 plans based on the equity in or value of the borrower’s principal dwelling; and
+17 (3) Requires no payment of principal or interest until the full loan becomes
+18 due and payable.
+19 12–1208.
+20 (A) (1) A LENDER SHALL ESTABLISH AN ESCROW ACCOUNT FOR A
+21 REVERSE MORTGAGE LOAN TO BE USED FOR THE PAYMENT OF:
+22 (I) PROPERTY TAXES;
+23 (II) INSURANCE PREMIUMS FOR AN INSURANCE PRODUCT
+24 REQUIRED UNDER § 12–1206(A)(2) OF THIS SUBTITLE;
+25 (III) GROUND RENTS;
+26 (IV) WATER AND SEWER FACILITIES ASSESSMENTS; AND
+27 (V) HOMEOWNERS ASSOCIATION OR OTHER COMMON
+28 OWNERSHIP COMMUNITY CHARGES.
+
+SENATE BILL 831 3
+1 (2) AN ESCROW ACCOUNT REQUIRED UNDER PARAGRAPH (1) OF THIS
+2 SUBSECTION SHALL:
+3 (I) BE ESTABLISHED IN ACCORDANCE WITH § 12–1026 OF THIS
+4 TITLE; AND
+5 (II) ALLOW FOR MONTHLY COLLECTION AND DEPOSIT OF
+6 FUNDS.
+7 (B) A LENDER SHALL:
+8 (1) DEDUCT FROM EACH DISTRIBUTION OF FUNDS TO THE
+9 BORROWER UNDER THE TERMS OF THE LOAN AND DEPOSIT INTO AN ESCROW
+10 ACCOUNT ESTABLISHED UNDER SUBSECTION (A) OF THIS SECTION AN AMOUNT OF
+11 FUNDS THAT IS:
+12 (I) PROPORTIONAL TO THE PLANNED DISTRIBUTION
+13 SCHEDULE OF FUNDS UNDER THE TERMS OF THE LOAN; AND
+14 (II) SUFFICIENT TO COVER THE ESTIMATED COSTS OF THE
+15 ELIGIBLE HOMEOWNER EXPENSES DESCRIBED UNDER SUBSECTION (A)(1) OF THIS
+16 SECTION;
+17 (2) DELIVER AN ON–TIME PAYMENT OF EACH ELIGIBLE HOMEOWNER
+18 EXPENSE DESCRIBED UNDER SUBSECTION (A)(1) OF THIS SECTION FROM THE
+19 APPROPRIATE ESCROW ACCOUNT ESTABLISHED UNDER SUBSECTION (A) OF THIS
+20 SECTION TO THE COLLECTION ENTITY FOR EACH ELIGIBLE EXPENSE.
+21 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2025.
+
+[DELETED: :CA      5     A C F e c a o f f e l d t a b d t d e a g r t r m l a t p o e h B  A S t  A  ( B  A S  A  ( B  A S  A  (]
+[DELETED:  S   S T b  S a A 1  ( I  ( “ a  ( “  ( “   ( I   ( P t b w p m p a l s p p   ( R d() (  L S E A E A F A  () P;R  () IN P F A I P  A 1());  () G;IR  () W;VAS   () O A O O C]
+[DELETED: S 3 ( A(    () B§1E   E   () IL F M C A D O() A:  (  F E D O F T T U T T O T L A D I A E A   () R T T P DN   () IU T C T E C O T A ) ( DNT D U S A O T S F T) A   S A B I F E T t A s t e O]

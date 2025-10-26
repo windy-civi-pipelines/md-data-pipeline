@@ -1,0 +1,430 @@
+Title: Public Schools - Children Charged With a Crime of Violence -
+Official Title: Public Schools - Children Charged With a Crime of Violence -
+Number of Sections: 1
+Source: versions - Racial Equity Impact Note
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 Session
+HB0137
+Prohibition on In-Person Attendance (School Safety Act of 2025)
+Bill Summary
+This bill prohibits a child who has been charged with a crime of violence – as defined in current
+law – from in-person attendance at a public school until the child is found not delinquent or the
+charge is dismissed. For children prohibited from in-person attendance at a public school, each
+local school system must provide educational options aligned with criteria in current law for the
+education of registered sex offenders and registered juvenile sex offenders and that are separate
+from other students.
+Racial Equity Impact Statement
+The bill prohibits in-person attendance at public schools for juveniles charged with crimes of
+violence until they are cleared of any wrongdoing. This will likely have the most impact on youth
+of color and Black juveniles in particular. Data from the Department of Juvenile Services (DJS)
+and the circuit court show significant disparities in charges, arrests, and adjudications for crimes
+of violence. The bill would negatively impact affected students to the extent that they are removed
+from regular school programming under the bill, but who otherwise would have been determined
+not to be an imminent public safety threat by school officials. There is also a large portion of
+juveniles who are arrested and charged with crimes of violence but have their cases either handled
+informally via pre-court supervision agreements (informaled) or resolved at intake. Some or all of
+these juveniles may also be prohibited from in-person school attendance indefinitely, or possibly
+permanently, under the bill. Determining more specific impacts would require data regarding case
+dismissals, demographic data on expulsions for the specified offenses, and information concerning
+how the bill applies to the various charges and case outcomes in existing practice by DJS and the
+circuit court.
+HB 137/ Page 1
+Analysis
+This bill prohibits a child who has been charged with a crime of violence from in-person attendance
+at a public school until the child is found not delinquent or the charge is dismissed. For children
+prohibited from in-person attendance at a public school, each local school system must provide
+educational options aligned with criteria in current law for the education of registered sex offenders
+and registered juvenile sex offenders and that are separate from other students. Section 14-101 of
+the Criminal Law Article defines 26 separate crimes as “crimes of violence” including murder,
+rape, assault, arson, carjacking, child abuse, and sexual offenses. It is presumed that students
+whose cases are resolved at intake or informaled by DJS, in addition to those adjudicated
+delinquent by the Juvenile Court, would be ineligible for in-school learning indefinitely under the
+bill. It is unclear whether the bill requires a charge to be dismissed by the intake officer or the
+juvenile court (or either) for the student to be eligible for return to in-person learning.
+Alternative Education for Students Prohibited from In-person School Attendance
+Each local school board must develop and adopt a policy that enables a registered sex offender
+who is a student to receive an education. The State Board of Education must develop and adopt
+guidelines and a model policy to assist local school boards with the development of their respective
+policies.
+Chapter 804 of 2023 defined a virtual school as a public school established by a local board or
+multiple local boards that uses one or more technologies to deliver instruction to its students
+entirely or primarily online and in which students and instructors participate remotely from
+separate locations. It authorized local school systems, subject to the approval of the Maryland State
+Department of Education (MSDE), to establish one virtual school for the elementary, middle, and
+high school grade bands.
+Suspension and Expulsion in General
+In accordance with rules developed by each local school board, a principal may suspend a student
+for cause for up to 10 school days. The principal must provide the suspended student and the
+student’s parents with a conference during the suspension period and a list of community
+resources. Upon request by a principal, a local superintendent may suspend a student for more than
+10 days or expel a student, subject to investigation, conferencing, and appeal procedures in statute.
+A student may not be suspended or expelled only for attendance-related offenses but may be
+subject to in-school suspension for those offenses.
+A student who has been suspended or expelled may not return to the classroom until the principal
+confers with (1) the teacher(s) who referred the student (if appropriate); (2) other appropriate
+school personnel; (3) the student; and (4) the student’s parent or guardian.
+If disruptive behavior results in action less than suspension, the principal or designee must confer
+with the teacher who referred the student prior to the student returning to the teacher’s classroom.
+HB 137/ Page 2
+Addressing Disproportionate and Discrepant Impacts of School Discipline
+State regulations require MSDE to develop a method to analyze local school system discipline data
+to determine whether there is a disproportionate impact on minority students. MSDE may use the
+discrepancy model to assess the impact of discipline on special education students. The
+discrepancy model uses a risk ratio of 3.0 as the threshold for determining whether
+disproportionality exists; a risk ratio of 3.0 means that a target population (e.g., Black males) is
+three times more likely than a control population (e.g., all other males) to be identified for special
+education services or disciplined in some manner. A risk ratio greater than 1.0 indicates
+overrepresentation. If MSDE identifies a school’s discipline process as having a disproportionate
+impact on minority students or a discrepant impact on special education students, the local school
+system must prepare and present to the State board a plan to reduce the impact within one year and
+eliminate it within three years. A local school system must report its progress annually to the State
+board.
+Juvenile Intake Process
+The intake process for juveniles accused of any criminal offense requires a determination as to
+whether the juvenile court has jurisdiction and whether judicial action is in the best interest of the
+public and/or the child. DJS intake officers are authorized to (1) disapprove a complaint as legally
+insufficient; (2) resolve the matter at intake with or without services; (3) propose an informal
+adjustment period (also called pre-court supervision); or (4) authorize the filing of a petition by
+the State’s Attorney’s Office. While DJS can informally handle all complaints, violent felonies
+and handgun violations must be reviewed by the State’s Attorney and approved for informal
+adjustment/pre-court supervision. Informal adjustments serve to divert youth from formal juvenile
+court processing.
+Impacts of the Bill
+Local school boards are required to adopt regulations designed to maintain an atmosphere of order
+and discipline within schools necessary for effective learning. Existing State law requires that the
+primary purpose of any disciplinary measure be rehabilitative, restorative, and educational. State
+regulations limit the circumstances under which a student arrested for a reportable offense, which
+includes most violent crimes, can be removed from regular school programming to cases in which
+the student presents an imminent threat of serious harm to other students or staff.
+Youth of color and specifically Black juveniles are overrepresented in arrests, charges, and
+convictions/adjudications for crimes of violence. Data on youths charged as adults and juvenile
+court adjudications for crimes of violence indicates that Black juveniles will be the largest group
+of students affected by the bill’s requirement to exclude students from in-person schooling.
+In fiscal 2023, the Governor’s Office of Crime Prevention and Policy reported a total of 737 youth
+were charged as adults for crimes of violence (i.e., exclusionary offenses), with 80% of those
+charged being Black juveniles. Adjudications in the juvenile court follow a similar pattern. In
+fiscal 2024, DJS reported a total of 2,482 intakes for charges relating to crimes of violence, with
+604 adjudications of delinquency. Youth of color comprised 89% of these adjudications. The
+remaining 1,878 intakes for crimes of violence were either resolved at intake or informaled, but
+HB 137/ Page 3
+there is no data readily available to determine th e racial and ethnic breakdowns for each specific
+outcome.
+DJS does not currently distinguish between racial minorities in its offense reporting, so the data
+includes all racial and ethnic minorities into the youth of color category. Black juveniles do,
+however, make up a significant portion of the youth of color category as DJS does partially break
+down the category for total intakes. DJS data from fiscal 2022 through 2024 show that Black
+juveniles made up 85% of total youth of color intakes during that time period.
+Exhibit 1 compares the racial distribution for youth charged as adults in the circuit court with
+crimes of violence compared to juvenile adjudications for these offenses during fiscal 2024. The
+circuit court and juvenile court processes share similar racial distributions for youth charged with
+crimes of violence and both show significant racial disparities. In the circuit court, 81% of youth
+charged as an adult for crimes of violence are youth of color compared to 89% of youth of color
+adjudicated as a juvenile. White youth encompass 19% of cases charged for these crimes as an
+adult in circuit court and 11% of adjudicated juvenile court cases.
+Exhibit 1
+Youth Adjudicated in Juvenile Court vs. Charged in Circuit Court
+for Crimes of Violence
+Fiscal 2024
+100%
+90%
+80%
+70%
+60%
+50%
+89%
+40% 81%
+30%
+20%
+10% 19%
+11%
+0%
+Youth of Color White Youth
+Adjudicated in Juvenile Court Charged as Adults in Circuit Court
+Source: Department of Juvenile Services; Governor’s Office of Crime Prevention and Policy; Department of
+Legislative Services
+HB 137/ Page 4
+Conclusion
+Youth of color, especially Black youth, are overrepresented in charges and adjudications for crime
+of violence charges with similar trends in both the juvenile court and circuit court. Under the bill,
+these students will be removed from in-person educational programming permanently. This
+includes youth that the juvenile court has placed on probation in addition to those committed to
+DJS custody. The impact will likely be significant because existing law and practice limits removal
+of students arrested for violent offenses to those students that pose an imminent safety threat. It is
+not clear under the bill whether juveniles with cases referred to DJS that are handled informally or
+that are resolved at intake would be permanently or temporarily prohibited from in-school learning.
+Approximately 75% of DJS complaints for crimes of violence were either informaled or resolved
+at intake. This represents a significant number of juveniles who would likely be prohibited from
+in-person learning for at least some period of time, but it is not clear whether these students would
+be eligible under the bill to return to in-person learning after completing the pre-court supervision
+period or if the case has been resolved. A more detailed analysis of the specific impacts would
+require offense specific aggregate and demographic data regarding the specific charge outcomes
+including dismissals by DJS officers, informaled case outcomes, expulsion data, and those cases
+resolved at intake.
+Information Sources: Maryland State Department of Education; Governor’s Office of Crime
+Prevention and Policy; Department of Juvenile Services; Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 02/27/2025
+HB 137/ Page 5
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 137/ Page 6
+[DELETED:  c a r a i o i b D i a t t a o p o a i w s a i p r f p w a c d t s p a a l o c]
+[DELETED:  m t a t i o d o s e s T m u a r r o 3 a t t f d w s o d i s m A r r g t 1 i m a a f o c a s B j a o i a c a]
+[DELETED:  y,8  D o J S G O o C P a P D orWtC]
+[DELETED:  s w b r f i e p p T ]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]
+
+
+================================================================================
+
+Raw Text:
+2025 Session
+HB0137
+Public Schools - Children Charged With a Crime of Violence -
+Prohibition on In-Person Attendance (School Safety Act of 2025)
+Bill Summary
+This bill prohibits a child who has been charged with a crime of violence – as defined in current
+law – from in-person attendance at a public school until the child is found not delinquent or the
+charge is dismissed. For children prohibited from in-person attendance at a public school, each
+local school system must provide educational options aligned with criteria in current law for the
+education of registered sex offenders and registered juvenile sex offenders and that are separate
+from other students.
+Racial Equity Impact Statement
+The bill prohibits in-person attendance at public schools for juveniles charged with crimes of
+violence until they are cleared of any wrongdoing. This will likely have the most impact on youth
+of color and Black juveniles in particular. Data from the Department of Juvenile Services (DJS)
+and the circuit court show significant disparities in charges, arrests, and adjudications for crimes
+of violence. The bill would negatively impact affected students to the extent that they are removed
+from regular school programming under the bill, but who otherwise would have been determined
+not to be an imminent public safety threat by school officials. There is also a large portion of
+juveniles who are arrested and charged with crimes of violence but have their cases either handled
+informally via pre-court supervision agreements (informaled) or resolved at intake. Some or all of
+these juveniles may also be prohibited from in-person school attendance indefinitely, or possibly
+permanently, under the bill. Determining more specific impacts would require data regarding case
+dismissals, demographic data on expulsions for the specified offenses, and information concerning
+how the bill applies to the various charges and case outcomes in existing practice by DJS and the
+circuit court.
+HB 137/ Page 1
+
+Analysis
+This bill prohibits a child who has been charged with a crime of violence from in-person attendance
+at a public school until the child is found not delinquent or the charge is dismissed. For children
+prohibited from in-person attendance at a public school, each local school system must provide
+educational options aligned with criteria in current law for the education of registered sex offenders
+and registered juvenile sex offenders and that are separate from other students. Section 14-101 of
+the Criminal Law Article defines 26 separate crimes as “crimes of violence” including murder,
+rape, assault, arson, carjacking, child abuse, and sexual offenses. It is presumed that students
+whose cases are resolved at intake or informaled by DJS, in addition to those adjudicated
+delinquent by the Juvenile Court, would be ineligible for in-school learning indefinitely under the
+bill. It is unclear whether the bill requires a charge to be dismissed by the intake officer or the
+juvenile court (or either) for the student to be eligible for return to in-person learning.
+Alternative Education for Students Prohibited from In-person School Attendance
+Each local school board must develop and adopt a policy that enables a registered sex offender
+who is a student to receive an education. The State Board of Education must develop and adopt
+guidelines and a model policy to assist local school boards with the development of their respective
+policies.
+Chapter 804 of 2023 defined a virtual school as a public school established by a local board or
+multiple local boards that uses one or more technologies to deliver instruction to its students
+entirely or primarily online and in which students and instructors participate remotely from
+separate locations. It authorized local school systems, subject to the approval of the Maryland State
+Department of Education (MSDE), to establish one virtual school for the elementary, middle, and
+high school grade bands.
+Suspension and Expulsion in General
+In accordance with rules developed by each local school board, a principal may suspend a student
+for cause for up to 10 school days. The principal must provide the suspended student and the
+student’s parents with a conference during the suspension period and a list of community
+resources. Upon request by a principal, a local superintendent may suspend a student for more than
+10 days or expel a student, subject to investigation, conferencing, and appeal procedures in statute.
+A student may not be suspended or expelled only for attendance-related offenses but may be
+subject to in-school suspension for those offenses.
+A student who has been suspended or expelled may not return to the classroom until the principal
+confers with (1) the teacher(s) who referred the student (if appropriate); (2) other appropriate
+school personnel; (3) the student; and (4) the student’s parent or guardian.
+If disruptive behavior results in action less than suspension, the principal or designee must confer
+with the teacher who referred the student prior to the student returning to the teacher’s classroom.
+HB 137/ Page 2
+
+Addressing Disproportionate and Discrepant Impacts of School Discipline
+State regulations require MSDE to develop a method to analyze local school system discipline data
+to determine whether there is a disproportionate impact on minority students. MSDE may use the
+discrepancy model to assess the impact of discipline on special education students. The
+discrepancy model uses a risk ratio of 3.0 as the threshold for determining whether
+disproportionality exists; a risk ratio of 3.0 means that a target population (e.g., Black males) is
+three times more likely than a control population (e.g., all other males) to be identified for special
+education services or disciplined in some manner. A risk ratio greater than 1.0 indicates
+overrepresentation. If MSDE identifies a school’s discipline process as having a disproportionate
+impact on minority students or a discrepant impact on special education students, the local school
+system must prepare and present to the State board a plan to reduce the impact within one year and
+eliminate it within three years. A local school system must report its progress annually to the State
+board.
+Juvenile Intake Process
+The intake process for juveniles accused of any criminal offense requires a determination as to
+whether the juvenile court has jurisdiction and whether judicial action is in the best interest of the
+public and/or the child. DJS intake officers are authorized to (1) disapprove a complaint as legally
+insufficient; (2) resolve the matter at intake with or without services; (3) propose an informal
+adjustment period (also called pre-court supervision); or (4) authorize the filing of a petition by
+the State’s Attorney’s Office. While DJS can informally handle all complaints, violent felonies
+and handgun violations must be reviewed by the State’s Attorney and approved for informal
+adjustment/pre-court supervision. Informal adjustments serve to divert youth from formal juvenile
+court processing.
+Impacts of the Bill
+Local school boards are required to adopt regulations designed to maintain an atmosphere of order
+and discipline within schools necessary for effective learning. Existing State law requires that the
+primary purpose of any disciplinary measure be rehabilitative, restorative, and educational. State
+regulations limit the circumstances under which a student arrested for a reportable offense, which
+includes most violent crimes, can be removed from regular school programming to cases in which
+the student presents an imminent threat of serious harm to other students or staff.
+Youth of color and specifically Black juveniles are overrepresented in arrests, charges, and
+convictions/adjudications for crimes of violence. Data on youths charged as adults and juvenile
+court adjudications for crimes of violence indicates that Black juveniles will be the largest group
+of students affected by the bill’s requirement to exclude students from in-person schooling.
+In fiscal 2023, the Governor’s Office of Crime Prevention and Policy reported a total of 737 youth
+were charged as adults for crimes of violence (i.e., exclusionary offenses), with 80% of those
+charged being Black juveniles. Adjudications in the juvenile court follow a similar pattern. In
+fiscal 2024, DJS reported a total of 2,482 intakes for charges relating to crimes of violence, with
+604 adjudications of delinquency. Youth of color comprised 89% of these adjudications. The
+remaining 1,878 intakes for crimes of violence were either resolved at intake or informaled, but
+HB 137/ Page 3
+
+there is no data readily available to determine th e racial and ethnic breakdowns for each specific
+outcome.
+DJS does not currently distinguish between racial minorities in its offense reporting, so the data
+includes all racial and ethnic minorities into the youth of color category. Black juveniles do,
+however, make up a significant portion of the youth of color category as DJS does partially break
+down the category for total intakes. DJS data from fiscal 2022 through 2024 show that Black
+juveniles made up 85% of total youth of color intakes during that time period.
+Exhibit 1 compares the racial distribution for youth charged as adults in the circuit court with
+crimes of violence compared to juvenile adjudications for these offenses during fiscal 2024. The
+circuit court and juvenile court processes share similar racial distributions for youth charged with
+crimes of violence and both show significant racial disparities. In the circuit court, 81% of youth
+charged as an adult for crimes of violence are youth of color compared to 89% of youth of color
+adjudicated as a juvenile. White youth encompass 19% of cases charged for these crimes as an
+adult in circuit court and 11% of adjudicated juvenile court cases.
+Exhibit 1
+Youth Adjudicated in Juvenile Court vs. Charged in Circuit Court
+for Crimes of Violence
+Fiscal 2024
+100%
+90%
+80%
+70%
+60%
+50%
+89%
+40% 81%
+30%
+20%
+10% 19%
+11%
+0%
+Youth of Color White Youth
+Adjudicated in Juvenile Court Charged as Adults in Circuit Court
+Source: Department of Juvenile Services; Governor’s Office of Crime Prevention and Policy; Department of
+Legislative Services
+HB 137/ Page 4
+
+Conclusion
+Youth of color, especially Black youth, are overrepresented in charges and adjudications for crime
+of violence charges with similar trends in both the juvenile court and circuit court. Under the bill,
+these students will be removed from in-person educational programming permanently. This
+includes youth that the juvenile court has placed on probation in addition to those committed to
+DJS custody. The impact will likely be significant because existing law and practice limits removal
+of students arrested for violent offenses to those students that pose an imminent safety threat. It is
+not clear under the bill whether juveniles with cases referred to DJS that are handled informally or
+that are resolved at intake would be permanently or temporarily prohibited from in-school learning.
+Approximately 75% of DJS complaints for crimes of violence were either informaled or resolved
+at intake. This represents a significant number of juveniles who would likely be prohibited from
+in-person learning for at least some period of time, but it is not clear whether these students would
+be eligible under the bill to return to in-person learning after completing the pre-court supervision
+period or if the case has been resolved. A more detailed analysis of the specific impacts would
+require offense specific aggregate and demographic data regarding the specific charge outcomes
+including dismissals by DJS officers, informaled case outcomes, expulsion data, and those cases
+resolved at intake.
+Information Sources: Maryland State Department of Education; Governor’s Office of Crime
+Prevention and Policy; Department of Juvenile Services; Department of Legislative Services
+Analysis by: Dr. Mikaela Zimmerman
+Published: 02/27/2025
+HB 137/ Page 5
+
+Appendix – Maryland Demographics
+Race and Ethnicity of the Maryland Population
+Maryland’s 2020 census population is 6,177,244, a 7% increase from the 2010 census count and
+approximately 2% higher than the 2019 census population estimates. In addition to an increase in
+population, Maryland’s racial demographics have become more diverse. Maryland is now a state
+in which racial minorities make up a majority of its total population. Notable changes relevant to
+this shift are the increase in groups who identify as “other” and “multiracial” (i.e., two or more
+racial identities), which total 5% of the State’s population. Additionally, the change in
+demographics is due to the decrease in the number of individuals who only report “white” as their
+racial group. Despite this decrease, non-Hispanic whites remain the largest race demographic
+group in the State at 47% of the State’s population.
+Compared to the U.S. population overall, Maryland’s population of individuals who identify as a
+single race is more diverse. Maryland is ranked as the fourth most diverse state by the U.S. Census
+Bureau’s Diversity Index. As shown in Exhibit 1, in Maryland, 47% identify as white alone
+compared to 58% of the national population. Similarly, 51% of the population identify as
+non-white or multi-racial compared to 38% of the national population. In both the State and
+national populations, the largest shares of the non-white population are individuals who are Black,
+with 29% of the State population identifying only as Black and another 2.5% identifying as Black
+in combination with some other race. Maryland’s Asian population is 7%, which is slightly higher
+than the Asian share of the national population of 6%. The State’s overall population by ethnicity,
+however, is slightly less diverse than the U.S. population; 12% of the State’s population identified
+as Hispanic or Latino compared to 19% of the U.S. population.
+Exhibit 1
+U.S. and Maryland Population by Race and Ethnicity
+2020
+.02%
+United States 19% 58% 12% 6% 4%
+1%
+Maryland 12% 47% 29% 7% 4%
+0% 20% 40% 60% 80% 100%
+Hispanic or Latino White
+Black American Indian or Alaska Native
+Asian Native Hawaiian or Other Pacific Islander
+Some other race Two or more races
+Source: U.S. Census Bureau, 2020 Census Redistricting Data (Public Law 94-171), Table ID P2, HISPANIC OR
+LATINO, AND NOT HISPANIC OR LATINO BY RACE.
+HB 137/ Page 6
+
+[DELETED:  c a r a i o i b D i a t t a o p o a i w s a i p r f p w a c d t s p a a l o c]
+[DELETED:  m t a t i o d o s e s T m u a r r o 3 a t t f d w s o d i s m A r r g t 1 i m a a f o c a s B j a o i a c a]
+[DELETED:  y,8  D o J S G O o C P a P D orWtC]
+[DELETED:  s w b r f i e p p T ]
+[DELETED:  i w t 5 o t S p A t c i g I a a t 5 o t n p S 5 o t p i a o c t 3 o n p b t S a%4%2%7%4%5%1%6%4%2%4%6%8%1oWkAnNeT]

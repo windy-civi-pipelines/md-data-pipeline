@@ -1,0 +1,445 @@
+Title: HOUSE BILL 730
+Official Title: HOUSE BILL 730
+Number of Sections: 1
+Source: versions - First - Election Law - Online Platforms and Qualifying Paid Digital Communications - Alterations
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+G1 5lr2086
+By: Delegate M. Morgan
+Introduced and read first time: January 27, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Election Law – Online Platforms and Qualifying Paid Digital Communications –
+3 Alterations
+4 FOR the purpose of altering certain requirements relating to online platforms and
+5 qualifying paid digital communications; repealing certain provisions of law
+6 establishing and governing a compliance waiver; requiring an online platform to
+7 make certain records relating to qualifying paid digital communications available for
+8 public inspection on the online platform’s website rather than to provide the records
+9 to the State Board on request; and generally relating to online platforms and
+10 qualifying paid digital communications.
+11 BY repealing and reenacting, without amendments,
+12 Article – Election Law
+13 Section 1–101(dd–1) and (ll–1)
+14 Annotated Code of Maryland
+15 (2022 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Election Law
+18 Section 13–405
+19 Annotated Code of Maryland
+20 (2022 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – Election Law
+24 1–101.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0730*
+2 HOUSE BILL 730
+1 (dd–1) “Online platform” means any public–facing website, web application, or digital
+2 application, including a social network, ad network, or search engine, that:
+3 (1) has 100,000 or more unique monthly United States visitors or users for
+4 a majority of months during the immediately preceding 12 months; and
+5 (2) receives payment for qualifying paid digital communications.
+6 (ll–1) “Qualifying paid digital communication” means any electronic communication
+7 that:
+8 (1) is campaign material;
+9 (2) is placed or promoted for a fee on an online platform;
+10 (3) is disseminated to 500 or more individuals; and
+11 (4) does not propose a commercial transaction.
+12 13–405.
+13 (a) (1) A person who directly [or indirectly requests placement of]
+14 PURCHASES a qualifying paid digital communication [on] FROM an online platform shall
+15 expressly notify the online platform [at the time the request for placement] BEFORE THE
+16 PURCHASE of [a] THE qualifying paid digital communication [is made] that the
+17 communication is a qualifying paid digital communication.
+18 (2) The notice required under paragraph (1) of this subsection:
+19 (i) shall be provided using the method prescribed by the online
+20 platform; and
+21 (ii) may not be provided through the inclusion of the authority line
+22 required under § 13–401 of this subtitle on the qualifying paid digital communication.
+23 (3) If an online platform does not provide a method for a [requester]
+24 PURCHASER of a qualifying paid digital communication to give notice as required by
+25 paragraph (2)(i) of this subsection, the [requester] PURCHASER shall:
+26 (i) notify the State Board that the online platform is not in
+27 compliance with paragraph (2)(i) of this subsection; and
+28 (ii) provide the information required under subsection [(b)(6)] (B)(4)
+29 of this section to the State Board.
+HOUSE BILL 730 3
+1 (b) (1) An online platform shall make available for public inspection on the
+2 Internet in a machine–readable format the records described in paragraph [(6)] (4) of this
+3 subsection regarding qualifying paid digital communications disseminated through the
+4 online platform for which the online platform has received notice in accordance with
+5 subsection (a) of this section.
+6 (2) An online platform shall allow the public to search the records described
+7 in paragraph [(6)] (4) of this subsection by [purchaser] THE PERSON WHO PAID FOR THE
+8 QUALIFYING PAID DIGITAL COMMUNICATIONS, AS IDENTIFIED BY THE PURCHASER
+9 OF EACH QUALIFYING PAID DIGITAL COMMUNICATION IN THE NOTICE UNDER
+10 SUBSECTION (A) OF THIS SECTION.
+11 (3) [Except as provided in paragraph (5) of this subsection, the] THE
+12 records described in paragraph [(6)] (4) of this subsection shall be available for public
+13 inspection on the Internet [in a clearly identifiable location] on the online platform’s
+14 website:
+15 (i) [within 48 hours] AS SOON AS PRACTICABLE after [a] THE
+16 ONLINE PLATFORM DISSEMINATED THE qualifying paid digital communication [is
+17 purchased]; and
+18 (ii) for at least 1 year after the general election following the date
+19 when the online platform disseminated the qualifying paid digital communication to which
+20 the records relate.
+21 (4) [For purposes of paragraph (3) of this subsection, a person shall be
+22 considered to have purchased a qualifying paid digital communication if the person has
+23 executed a contract to purchase a qualifying paid digital communication.
+24 (5) (i) An online platform may apply to the State Board for a compliance
+25 waiver to allow the online platform to make the records described in paragraph (6) of this
+26 subsection available for public inspection on the Internet within up to 7 days after a
+27 qualifying paid digital communication is purchased.
+28 (ii) The State Board shall require an applicant for a compliance
+29 waiver under subparagraph (i) of this paragraph to:
+30 1. describe why complying with the requirements under
+31 paragraph (3) of this subsection presents an unreasonable burden on the applicant; and
+32 2. present measures the applicant will take to meet the
+33 requirements under paragraph (3) of this subsection within 6 months after the date the
+34 compliance waiver is granted.
+35 (iii) The State Board may not grant:
+4 HOUSE BILL 730
+1 1. more than one compliance waiver to an online platform;
+2 and
+3 2. a compliance waiver to an online platform within 30 days
+4 before an election.
+5 (iv) A compliance waiver is not effective during the 30 days
+6 immediately preceding an election.
+7 (v) If an online platform will apply for a compliance waiver under
+8 subparagraph (i) of this paragraph, the online platform shall apply for the compliance
+9 waiver before receiving payment for a qualifying paid digital communication.
+10 (6)] For each qualifying paid digital communication [a purchaser requests
+11 to disseminate] DISSEMINATED through an online platform and for which the purchaser
+12 has provided notice in accordance with subsection (a) of this section, the online platform
+13 shall maintain the following records:
+14 (I) THE CANDIDATE OR BALLOT ISSUE TO WHICH THE
+15 QUALIFYING PAID DIGITAL COMMUNICATION RELATES AND WHETHER THE
+16 QUALIFYING PAID DIGITAL COMMUNICATION SUPPORTS OR OPPOSES THAT
+17 CANDIDATE OR BALLOT ISSUE;
+18 (II) THE DATES THAT THE QUALIFYING PAID DIGITAL
+19 COMMUNICATION WAS FIRST DISSEMINATED AND LAST DISSEMINATED;
+20 (III) A DIGITAL REPRESENTATION OF THE CONTENT OF THE
+21 QUALIFYING PAID DIGITAL COMMUNICATION;
+22 (IV) AN APPROXIMATE DESCRIPTION OF THE GEOGRAPHIC
+23 LOCATIONS WHERE THE QUALIFYING PAID DIGITAL COMMUNICATION WAS
+24 TARGETED;
+25 (V) AN APPROXIMATE DESCRIPTION OF THE AUDIENCE THAT
+26 WAS TARGETED TO RECEIVE THE QUALIFYING PAID DIGITAL COMMUNICATION;
+27 (VI) THE APPROXIMATE NUMBER OF IMPRESSIONS GENERATED
+28 BY THE QUALIFYING PAID DIGITAL COMMUNICATION;
+29 [(i)] (VII) for each qualifying paid digital communication
+30 [purchased] PAID FOR by a political committee:
+31 1. the name of the person and any contact information for the
+32 person required by the State Board, of the political committee;
+HOUSE BILL 730 5
+1 2. the treasurer of the political committee; and
+2 3. the [total] APPROXIMATE amount paid by the purchaser
+3 to the online platform for the placement of the qualifying paid digital communication; AND
+4 [(ii)] (VIII) for each qualifying paid digital communication
+5 [purchased] PAID FOR by a person other than a political committee [or an ad network]:
+6 1. the name of the person and any contact information for the
+7 person required by the State Board, of the person;
+8 2. the identity of the individuals exercising direction or
+9 control over the activities of the person, including the chief executive officer or board of
+10 directors, if applicable; and
+11 3. the [total] APPROXIMATE amount paid by the purchaser
+12 to the online platform for the placement of the qualifying paid digital communication[; and
+13 (iii) for each qualifying paid digital communication purchased by an
+14 ad network:
+15 1. the contact information for the ad network; or
+16 2. a hyperlink to the ad network’s website where the contact
+17 information is located].
+18 [(c) (1) An online platform shall maintain and make available to the State
+19 Board on request the records described in paragraph (3) of this subsection regarding
+20 qualifying paid digital communications disseminated through the online platform for which
+21 the online platform has received notice in accordance with subsection (a) of this section.
+22 (2) The records described in paragraph (3) of this subsection shall be
+23 available on the request of the State Board:
+24 (i) within 48 hours after a qualifying paid digital communication is
+25 first disseminated on the online platform; and
+26 (ii) for at least 1 year after the general election following the date
+27 when the online platform disseminated the qualifying paid digital communication to which
+28 the records relate.
+29 (3) For each qualifying paid digital communication a purchaser requests to
+30 disseminate through an online platform and for which the purchaser has provided notice
+31 in accordance with subsection (a) of this section, the online platform shall maintain the
+32 following records:
+6 HOUSE BILL 730
+1 (i) the candidate or ballot issue to which the qualifying paid digital
+2 communication relates and whether the qualifying paid digital communication supports or
+3 opposes that candidate or ballot issue;
+4 (ii) the dates and times that the qualifying paid digital
+5 communication was first disseminated and last disseminated;
+6 (iii) a digital copy of the content of the qualifying paid digital
+7 communication;
+8 (iv) an approximate description of the geographic locations where the
+9 qualifying paid digital communication was disseminated;
+10 (v) an approximate description of the audience that received or was
+11 targeted to receive the qualifying paid digital communication; and
+12 (vi) the total number of impressions generated by the qualifying paid
+13 digital communication.
+14 (4) Information obtained by the State Board under this subsection is not
+15 subject to inspection under the Public Information Act.]
+16 [(d)] (C) (1) A purchaser of a qualifying paid digital communication shall
+17 provide the online platform that disseminates the qualifying paid digital communication
+18 with the information necessary for the online platform to comply with [subsections]
+19 SUBSECTION (b) [and (c)] of this section AND ANY UPDATES TO THE INFORMATION AS
+20 NECESSARY.
+21 (2) An online platform may rely in good faith on the information provided
+22 by a purchaser of a qualifying paid digital communication to comply with [subsections]
+23 SUBSECTION (b) [and (c)] of this section.
+24 [(e)] (D) An online platform shall make reasonable efforts to allow the State
+25 Board to:
+26 (1) obtain the information required under [subsections] SUBSECTION (b)
+27 [and (c)] of this section;
+28 (2) obtain the information that a purchaser of a qualifying paid digital
+29 communication provided to the online platform in accordance with subsection [(d)] (C) of
+30 this section; and
+31 (3) otherwise request that a purchaser of a qualifying paid digital
+32 communication comply with this section or § 13–401 of this subtitle.
+HOUSE BILL 730 7
+1 [(f)] (E) An online platform that disseminates qualifying paid digital
+2 communications shall make reasonable efforts, in accordance with the federal Stored
+3 Communications Act, to comply with any subpoena that is issued in connection with an
+4 investigation concerning the compliance of a purchaser of a qualifying paid digital
+5 communication with this section or § 13–401 of this subtitle.
+6 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2025.
+[DELETED: :CA      5     A E A F t p o a c r r t o p a q p d c r c p o l e r m p t t S B o r a g r t o p a q B  A S  A  ( B  A S  A  (  S T A 1]
+[DELETED:  H   ( a   ( h a   ( r  ( “ t   ( i   ( i   ( i   ( d 1  ( ( A p w d o i r p oS    on  e aE T  o a q p d c i me t t][ c   ( T    ( s b p u t m p b t o p    ( m r   ( I a o p d n p a m f a r  o a q p d c t g n a r b p rr     ( n t S B t t o p i n i c    ( p ()]() o]
+[DELETED: H 3  ( ( A I () ]( s r q p d c d t t o p f w t o p h r n i a w s   ( A i ()  p]()[ S  E Q P D C I T N U A  .   ( E a p i p ( o t s te]H r () ]( i o t I i a c i ln o t o p w    ( w 4 hs a a][A S A PET P D T  q p d c i pd;    ( f w t   ( F p o p ( o t s a p s b c e   ( ( A w s a f p i o t I w u t 7 d a a q    ( T S B s r a a f a c w     1 d w c w t r u p     2 p m t a w t t m t r c    ( T]
+[DELETED:  H      1 m a     2 a b    ( A c w i n e d t 3 d i    ( I s ( o t p t o p s f t c w   () F a te  h s   )T C O B I T W T P D C R A W T P D C S O O T   )IT D T T Q P D   )IA D R O T C O T   )VA A D O T G W T Q P D C W   )A A D O T A T   )ITN    () f e q p d c](V pd      1 t p]
+[DELETED: H 5     2 t     3 t tl  t    () f e q p d c](V][ pd  ok:     1 t p     2 t i o t i e d o c d     3 t tl  tn;    ( f a     1 t     2 a id.  ( ( A o p s m a m a t t S B o r t r d i p ( o t s r q t   ( T r d i p ( o t s s b a    ( w f    ( f w t   ( F d i f]
+[DELETED:  H     ( t c o    ( t d a t t t q p d c    ( a d c o t c o t q p d c    ( a q    ( a t    ( t d   ( I s  () ( A p o a q p d c s]( p w t i n f t o p t c w sNA   a)     ( A b s   a)   () A o p s m r e t a t]( B   ( o ss  a)    ( o t i t a p o a q p d c () ]( t   ( o r t a p o a q p d c]
+[DELETED: H 7  () A o p t d q p d]( c s m r e i a w t f S C i c t c o a p o a q p d c  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 730
+G1 5lr2086
+By: Delegate M. Morgan
+Introduced and read first time: January 27, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Election Law – Online Platforms and Qualifying Paid Digital Communications –
+3 Alterations
+4 FOR the purpose of altering certain requirements relating to online platforms and
+5 qualifying paid digital communications; repealing certain provisions of law
+6 establishing and governing a compliance waiver; requiring an online platform to
+7 make certain records relating to qualifying paid digital communications available for
+8 public inspection on the online platform’s website rather than to provide the records
+9 to the State Board on request; and generally relating to online platforms and
+10 qualifying paid digital communications.
+11 BY repealing and reenacting, without amendments,
+12 Article – Election Law
+13 Section 1–101(dd–1) and (ll–1)
+14 Annotated Code of Maryland
+15 (2022 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Election Law
+18 Section 13–405
+19 Annotated Code of Maryland
+20 (2022 Replacement Volume and 2024 Supplement)
+21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+22 That the Laws of Maryland read as follows:
+23 Article – Election Law
+24 1–101.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0730*
+
+2 HOUSE BILL 730
+1 (dd–1) “Online platform” means any public–facing website, web application, or digital
+2 application, including a social network, ad network, or search engine, that:
+3 (1) has 100,000 or more unique monthly United States visitors or users for
+4 a majority of months during the immediately preceding 12 months; and
+5 (2) receives payment for qualifying paid digital communications.
+6 (ll–1) “Qualifying paid digital communication” means any electronic communication
+7 that:
+8 (1) is campaign material;
+9 (2) is placed or promoted for a fee on an online platform;
+10 (3) is disseminated to 500 or more individuals; and
+11 (4) does not propose a commercial transaction.
+12 13–405.
+13 (a) (1) A person who directly [or indirectly requests placement of]
+14 PURCHASES a qualifying paid digital communication [on] FROM an online platform shall
+15 expressly notify the online platform [at the time the request for placement] BEFORE THE
+16 PURCHASE of [a] THE qualifying paid digital communication [is made] that the
+17 communication is a qualifying paid digital communication.
+18 (2) The notice required under paragraph (1) of this subsection:
+19 (i) shall be provided using the method prescribed by the online
+20 platform; and
+21 (ii) may not be provided through the inclusion of the authority line
+22 required under § 13–401 of this subtitle on the qualifying paid digital communication.
+23 (3) If an online platform does not provide a method for a [requester]
+24 PURCHASER of a qualifying paid digital communication to give notice as required by
+25 paragraph (2)(i) of this subsection, the [requester] PURCHASER shall:
+26 (i) notify the State Board that the online platform is not in
+27 compliance with paragraph (2)(i) of this subsection; and
+28 (ii) provide the information required under subsection [(b)(6)] (B)(4)
+29 of this section to the State Board.
+
+HOUSE BILL 730 3
+1 (b) (1) An online platform shall make available for public inspection on the
+2 Internet in a machine–readable format the records described in paragraph [(6)] (4) of this
+3 subsection regarding qualifying paid digital communications disseminated through the
+4 online platform for which the online platform has received notice in accordance with
+5 subsection (a) of this section.
+6 (2) An online platform shall allow the public to search the records described
+7 in paragraph [(6)] (4) of this subsection by [purchaser] THE PERSON WHO PAID FOR THE
+8 QUALIFYING PAID DIGITAL COMMUNICATIONS, AS IDENTIFIED BY THE PURCHASER
+9 OF EACH QUALIFYING PAID DIGITAL COMMUNICATION IN THE NOTICE UNDER
+10 SUBSECTION (A) OF THIS SECTION.
+11 (3) [Except as provided in paragraph (5) of this subsection, the] THE
+12 records described in paragraph [(6)] (4) of this subsection shall be available for public
+13 inspection on the Internet [in a clearly identifiable location] on the online platform’s
+14 website:
+15 (i) [within 48 hours] AS SOON AS PRACTICABLE after [a] THE
+16 ONLINE PLATFORM DISSEMINATED THE qualifying paid digital communication [is
+17 purchased]; and
+18 (ii) for at least 1 year after the general election following the date
+19 when the online platform disseminated the qualifying paid digital communication to which
+20 the records relate.
+21 (4) [For purposes of paragraph (3) of this subsection, a person shall be
+22 considered to have purchased a qualifying paid digital communication if the person has
+23 executed a contract to purchase a qualifying paid digital communication.
+24 (5) (i) An online platform may apply to the State Board for a compliance
+25 waiver to allow the online platform to make the records described in paragraph (6) of this
+26 subsection available for public inspection on the Internet within up to 7 days after a
+27 qualifying paid digital communication is purchased.
+28 (ii) The State Board shall require an applicant for a compliance
+29 waiver under subparagraph (i) of this paragraph to:
+30 1. describe why complying with the requirements under
+31 paragraph (3) of this subsection presents an unreasonable burden on the applicant; and
+32 2. present measures the applicant will take to meet the
+33 requirements under paragraph (3) of this subsection within 6 months after the date the
+34 compliance waiver is granted.
+35 (iii) The State Board may not grant:
+
+4 HOUSE BILL 730
+1 1. more than one compliance waiver to an online platform;
+2 and
+3 2. a compliance waiver to an online platform within 30 days
+4 before an election.
+5 (iv) A compliance waiver is not effective during the 30 days
+6 immediately preceding an election.
+7 (v) If an online platform will apply for a compliance waiver under
+8 subparagraph (i) of this paragraph, the online platform shall apply for the compliance
+9 waiver before receiving payment for a qualifying paid digital communication.
+10 (6)] For each qualifying paid digital communication [a purchaser requests
+11 to disseminate] DISSEMINATED through an online platform and for which the purchaser
+12 has provided notice in accordance with subsection (a) of this section, the online platform
+13 shall maintain the following records:
+14 (I) THE CANDIDATE OR BALLOT ISSUE TO WHICH THE
+15 QUALIFYING PAID DIGITAL COMMUNICATION RELATES AND WHETHER THE
+16 QUALIFYING PAID DIGITAL COMMUNICATION SUPPORTS OR OPPOSES THAT
+17 CANDIDATE OR BALLOT ISSUE;
+18 (II) THE DATES THAT THE QUALIFYING PAID DIGITAL
+19 COMMUNICATION WAS FIRST DISSEMINATED AND LAST DISSEMINATED;
+20 (III) A DIGITAL REPRESENTATION OF THE CONTENT OF THE
+21 QUALIFYING PAID DIGITAL COMMUNICATION;
+22 (IV) AN APPROXIMATE DESCRIPTION OF THE GEOGRAPHIC
+23 LOCATIONS WHERE THE QUALIFYING PAID DIGITAL COMMUNICATION WAS
+24 TARGETED;
+25 (V) AN APPROXIMATE DESCRIPTION OF THE AUDIENCE THAT
+26 WAS TARGETED TO RECEIVE THE QUALIFYING PAID DIGITAL COMMUNICATION;
+27 (VI) THE APPROXIMATE NUMBER OF IMPRESSIONS GENERATED
+28 BY THE QUALIFYING PAID DIGITAL COMMUNICATION;
+29 [(i)] (VII) for each qualifying paid digital communication
+30 [purchased] PAID FOR by a political committee:
+31 1. the name of the person and any contact information for the
+32 person required by the State Board, of the political committee;
+
+HOUSE BILL 730 5
+1 2. the treasurer of the political committee; and
+2 3. the [total] APPROXIMATE amount paid by the purchaser
+3 to the online platform for the placement of the qualifying paid digital communication; AND
+4 [(ii)] (VIII) for each qualifying paid digital communication
+5 [purchased] PAID FOR by a person other than a political committee [or an ad network]:
+6 1. the name of the person and any contact information for the
+7 person required by the State Board, of the person;
+8 2. the identity of the individuals exercising direction or
+9 control over the activities of the person, including the chief executive officer or board of
+10 directors, if applicable; and
+11 3. the [total] APPROXIMATE amount paid by the purchaser
+12 to the online platform for the placement of the qualifying paid digital communication[; and
+13 (iii) for each qualifying paid digital communication purchased by an
+14 ad network:
+15 1. the contact information for the ad network; or
+16 2. a hyperlink to the ad network’s website where the contact
+17 information is located].
+18 [(c) (1) An online platform shall maintain and make available to the State
+19 Board on request the records described in paragraph (3) of this subsection regarding
+20 qualifying paid digital communications disseminated through the online platform for which
+21 the online platform has received notice in accordance with subsection (a) of this section.
+22 (2) The records described in paragraph (3) of this subsection shall be
+23 available on the request of the State Board:
+24 (i) within 48 hours after a qualifying paid digital communication is
+25 first disseminated on the online platform; and
+26 (ii) for at least 1 year after the general election following the date
+27 when the online platform disseminated the qualifying paid digital communication to which
+28 the records relate.
+29 (3) For each qualifying paid digital communication a purchaser requests to
+30 disseminate through an online platform and for which the purchaser has provided notice
+31 in accordance with subsection (a) of this section, the online platform shall maintain the
+32 following records:
+
+6 HOUSE BILL 730
+1 (i) the candidate or ballot issue to which the qualifying paid digital
+2 communication relates and whether the qualifying paid digital communication supports or
+3 opposes that candidate or ballot issue;
+4 (ii) the dates and times that the qualifying paid digital
+5 communication was first disseminated and last disseminated;
+6 (iii) a digital copy of the content of the qualifying paid digital
+7 communication;
+8 (iv) an approximate description of the geographic locations where the
+9 qualifying paid digital communication was disseminated;
+10 (v) an approximate description of the audience that received or was
+11 targeted to receive the qualifying paid digital communication; and
+12 (vi) the total number of impressions generated by the qualifying paid
+13 digital communication.
+14 (4) Information obtained by the State Board under this subsection is not
+15 subject to inspection under the Public Information Act.]
+16 [(d)] (C) (1) A purchaser of a qualifying paid digital communication shall
+17 provide the online platform that disseminates the qualifying paid digital communication
+18 with the information necessary for the online platform to comply with [subsections]
+19 SUBSECTION (b) [and (c)] of this section AND ANY UPDATES TO THE INFORMATION AS
+20 NECESSARY.
+21 (2) An online platform may rely in good faith on the information provided
+22 by a purchaser of a qualifying paid digital communication to comply with [subsections]
+23 SUBSECTION (b) [and (c)] of this section.
+24 [(e)] (D) An online platform shall make reasonable efforts to allow the State
+25 Board to:
+26 (1) obtain the information required under [subsections] SUBSECTION (b)
+27 [and (c)] of this section;
+28 (2) obtain the information that a purchaser of a qualifying paid digital
+29 communication provided to the online platform in accordance with subsection [(d)] (C) of
+30 this section; and
+31 (3) otherwise request that a purchaser of a qualifying paid digital
+32 communication comply with this section or § 13–401 of this subtitle.
+
+HOUSE BILL 730 7
+1 [(f)] (E) An online platform that disseminates qualifying paid digital
+2 communications shall make reasonable efforts, in accordance with the federal Stored
+3 Communications Act, to comply with any subpoena that is issued in connection with an
+4 investigation concerning the compliance of a purchaser of a qualifying paid digital
+5 communication with this section or § 13–401 of this subtitle.
+6 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2025.
+
+[DELETED: :CA      5     A E A F t p o a c r r t o p a q p d c r c p o l e r m p t t S B o r a g r t o p a q B  A S  A  ( B  A S  A  (  S T A 1]
+[DELETED:  H   ( a   ( h a   ( r  ( “ t   ( i   ( i   ( i   ( d 1  ( ( A p w d o i r p oS    on  e aE T  o a q p d c i me t t][ c   ( T    ( s b p u t m p b t o p    ( m r   ( I a o p d n p a m f a r  o a q p d c t g n a r b p rr     ( n t S B t t o p i n i c    ( p ()]() o]
+[DELETED: H 3  ( ( A I () ]( s r q p d c d t t o p f w t o p h r n i a w s   ( A i ()  p]()[ S  E Q P D C I T N U A  .   ( E a p i p ( o t s te]H r () ]( i o t I i a c i ln o t o p w    ( w 4 hs a a][A S A PET P D T  q p d c i pd;    ( f w t   ( F p o p ( o t s a p s b c e   ( ( A w s a f p i o t I w u t 7 d a a q    ( T S B s r a a f a c w     1 d w c w t r u p     2 p m t a w t t m t r c    ( T]
+[DELETED:  H      1 m a     2 a b    ( A c w i n e d t 3 d i    ( I s ( o t p t o p s f t c w   () F a te  h s   )T C O B I T W T P D C R A W T P D C S O O T   )IT D T T Q P D   )IA D R O T C O T   )VA A D O T G W T Q P D C W   )A A D O T A T   )ITN    () f e q p d c](V pd      1 t p]
+[DELETED: H 5     2 t     3 t tl  t    () f e q p d c](V][ pd  ok:     1 t p     2 t i o t i e d o c d     3 t tl  tn;    ( f a     1 t     2 a id.  ( ( A o p s m a m a t t S B o r t r d i p ( o t s r q t   ( T r d i p ( o t s s b a    ( w f    ( f w t   ( F d i f]
+[DELETED:  H     ( t c o    ( t d a t t t q p d c    ( a d c o t c o t q p d c    ( a q    ( a t    ( t d   ( I s  () ( A p o a q p d c s]( p w t i n f t o p t c w sNA   a)     ( A b s   a)   () A o p s m r e t a t]( B   ( o ss  a)    ( o t i t a p o a q p d c () ]( t   ( o r t a p o a q p d c]
+[DELETED: H 7  () A o p t d q p d]( c s m r e i a w t f S C i c t c o a p o a q p d c  S A B I F E T t A s t e O]

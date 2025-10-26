@@ -1,0 +1,623 @@
+Title: HOUSE BILL 1374
+Official Title: HOUSE BILL 1374
+Number of Sections: 1
+Source: versions - First - Prekindergarten - 3-Year-Olds - Private Providers (Parental Choice for Prekindergarten Act)
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+F5 5lr1842
+CF SB 780
+By: Delegates Ghrist, Adams, Arentz, Baker, Beauchamp, Buckel, Chisholm,
+Ciliberti, Grammer, Griffith, Hartman, Hinebaugh, Hornberger,
+Hutchinson, Jacobs, Kipke, Mangione, McComas, Metzgar, Miller,
+T. Morgan, Nkongolo, Otto, Pippy, Reilly, Rose, Schmidt, Stonko,
+Tomlinson, Valentine, and Wivell
+Introduced and read first time: February 7, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Prekindergarten – 3–Year–Olds – Private Providers
+3 (Parental Choice for Prekindergarten Act)
+4 FOR the purpose of altering the definition of “Tier I child” for purposes of publicly provided
+5 prekindergarten to not include 3–year–olds and only include certain 4–year–olds;
+6 authorizing an eligible private prekindergarten provider to enroll 3–year–olds in
+7 publicly provided prekindergarten; requiring an eligible private provider that elects
+8 to enroll a Tier I 3–year–old to enter into a certain memorandum of understanding
+9 with the State Department of Education and the county board of education; requiring
+10 notice about eligible private providers who elect to enroll certain 3–year–olds to be
+11 given to certain local departments; and generally relating to the enrollment of
+12 3–year–olds in publicly funded prekindergarten.
+13 BY repealing and reenacting, with amendments,
+14 Article – Education
+15 Section 7–1A–01 through 7–1A–03, 7–1A–05, and 7–1A–06
+16 Annotated Code of Maryland
+17 (2022 Replacement Volume and 2024 Supplement)
+18 BY adding to
+19 Article – Education
+20 Section 7–1A–04.1
+21 Annotated Code of Maryland
+22 (2022 Replacement Volume and 2024 Supplement)
+23 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+24 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1374*
+2 HOUSE BILL 1374
+1 Article – Education
+2 7–1A–01.
+3 (a) In this subtitle the following words have the meanings indicated.
+4 (b) “Cost of quality” means the per–pupil amount provided under § 5–229 of this
+5 article.
+6 (c) “Early childhood educator career ladder” means the career ladder for private
+7 provider prekindergarten educators established by the Department under § 7–1A–08 of this
+8 subtitle.
+9 (d) “Eligible prekindergarten provider” includes an:
+10 (1) Eligible public provider; and
+11 (2) Eligible private provider.
+12 (e) (1) “Eligible private provider” means a community–based early learning
+13 program that:
+14 (i) Is licensed in the State;
+15 (ii) Does not charge more tuition for full–day prekindergarten than
+16 the cost of quality; and
+17 (iii) Meets the requirements under § 7–1A–04 of this subtitle.
+18 (2) “Eligible private provider” includes the Ulysses Currie Head Start
+19 Program under § 5–231 of this article.
+20 (f) “Eligible public provider” means an early learning program that:
+21 (1) Is provided by a county board at a public school; and
+22 (2) Meets the requirements under § 7–1A–04 of this subtitle.
+23 (g) “Full–day prekindergarten” means an early learning program with a six and
+24 one–half hour school day.
+25 (h) “Prekindergarten program” means an early learning program at an eligible
+26 prekindergarten provider.
+HOUSE BILL 1374 3
+1 (i) “Prekindergarten provider hub” means a coordinated partnership between
+2 eligible prekindergarten providers and other entities established by the Department under
+3 § 7–1A–09 of this subtitle.
+4 (j) “Prekindergarten slot” means the available space for a child to attend a
+5 prekindergarten program.
+6 (k) “Tier I child” means a child:
+7 (1) (I) Who is [3 or] 4 years old;
+8 [(2) (i)] (II) 1. Whose family income is less than or equal to 300%
+9 of the federal poverty level; or
+10 [(ii)] 2. Who is a homeless youth; and
+11 [(3)] (III) Whose family chooses to enroll the child in full–day
+12 prekindergarten; OR
+13 (2) (I) WHO IS 3 YEARS OLD;
+14 (II) WHO RESIDES IN A COUNTY IN WHICH AN ELIGIBLE PRIVATE
+15 PROVIDER ELECTS TO ENROLL 3–YEAR–OLDS IN ITS PREKINDERGARTEN PROGRAM
+16 UNDER § 7–1A–04.1 OF THIS SUBTITLE;
+17 (III) 1. WHOSE FAMILY INCOME IS LESS THAN OR EQUAL TO
+18 300% OF THE FEDERAL POVERTY LEVEL; OR
+19 2. WHO IS A HOMELESS YOUTH; AND
+20 (IV) WHOSE FAMILY CHOOSES TO ENROLL THE CHILD IN
+21 FULL–DAY PREKINDERGARTEN WITH AN ELIGIBLE PRIVATE PROVIDER.
+22 (l) “Tier II child” means a child:
+23 (1) Who is 4 years old;
+24 (2) (i) In fiscal year 2026, whose family income is more than 300% but
+25 not more than 360% of the federal poverty level; and
+26 (ii) In fiscal year 2027 and in each fiscal year thereafter, whose
+27 family income is more than 300% but not more than 600% of the federal poverty level; and
+28 (3) Whose family chooses to enroll the child in full–day prekindergarten.
+4 HOUSE BILL 1374
+1 (m) “Tier III child” means a child:
+2 (1) Who is 4 years old;
+3 (2) Whose family income is more than 600% of the federal poverty level;
+4 and
+5 (3) Whose family chooses to enroll the child in full–day prekindergarten.
+6 7–1A–02.
+7 (a) (1) A local department of social services or a local health department shall
+8 provide a parent or guardian with oral and written notice that their child may be eligible
+9 for publicly funded prekindergarten programs if the parent or guardian:
+10 (i) Applied for economic services with the local department of social
+11 services or the local health department; and
+12 (ii) 1. Has a child who will be [3 or] 4 years old by September 1
+13 of the next academic year; OR
+14 2. SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION,
+15 HAS A CHILD WHO WILL BE 3 YEARS OLD BY SEPTEMBER 1 OF THE NEXT ACADEMIC
+16 YEAR.
+17 (2) The notice required under paragraph (1) of this subsection shall
+18 include:
+19 (i) Contact information for the enrollment office of the local school
+20 system and the Division of Early Childhood Development in the Department; and
+21 (ii) Information on the existence of the child care scholarship for
+22 before and after full–day prekindergarten programming and the possibility of eligibility for
+23 State aid.
+24 (3) IF THE DEPARTMENT HAS NOTIFIED THE LOCAL DEPARTMENT OF
+25 SOCIAL SERVICES OR LOCAL HEALTH DEPARTMENT THAT ELIGIBLE PRIVATE
+26 PROVIDERS IN THE COUNTY HAVE ELECTED TO ENROLL TIER I 3–YEAR–OLDS IN
+27 ACCORDANCE WITH § 7–1A–04.1 OF THIS SUBTITLE, A LOCAL DEPARTMENT OF
+28 SOCIAL SERVICES OR A LOCAL HEALTH DEPARTMENT SHALL PROVIDE NOTICE TO
+29 THE PARENT OR GUARDIAN OF A CHILD WHO WILL BE 3 YEARS OLD BY SEPTEMBER
+30 1 OF THE NEXT ACADEMIC YEAR IN ACCORDANCE WITH PARAGRAPHS (1) AND (2) OF
+31 THIS SUBSECTION.
+32 [(3)] (4) On or before December 1 of each year, each local department of
+33 social services and each local health department shall report to the General Assembly, in
+HOUSE BILL 1374 5
+1 accordance with § 2–1257 of the State Government Article, on the number of parents who
+2 were given a notification and subsequently enrolled their child in a publicly funded
+3 prekindergarten program.
+4 (b) Each local department of social services or a local health department shall
+5 provide to each local school system the name and contact information for each parent or
+6 guardian provided notice under subsection (a) of this section.
+7 (c) The requirements set forth in § 7–101(b) of this title regarding the domicile of
+8 a child and the residency of the child’s parent or guardian shall apply to prekindergarten
+9 programs established by county boards as required by this subtitle.
+10 7–1A–03.
+11 (a) (1) Except as provided under subsection (b) of this section, a county board
+12 shall ensure that:
+13 [(1)] (I) Beginning in the 2024–2025 school year, prekindergarten slots
+14 provided by eligible private providers shall account for at least 10% of the total
+15 prekindergarten slots provided by eligible prekindergarten providers in each county;
+16 [(2)] (II) The proportion of eligible private provider prekindergarten slots
+17 in each county increases by 10 percentage points every school year, until, in the 2028–2029
+18 school year, eligible private provider prekindergarten slots account for at least 50% of
+19 eligible prekindergarten provider prekindergarten slots in each county; and
+20 [(3)] (III) In each year after the 2028–2029 school year, the proportion of
+21 eligible private provider prekindergarten slots in each county shall continue to constitute
+22 at least 50% of eligible prekindergarten provider prekindergarten slots in each county.
+23 (2) A TIER I 3–YEAR–OLD ENROLLED WITH AN ELIGIBLE PRIVATE
+24 PROVIDER UNDER § 7–1A–04.1 OF THIS SUBTITLE SHALL COUNT TOWARD THE
+25 NUMBER OF ELIGIBLE PRIVATE PROVIDER PREKINDERGARTEN SLOTS UNDER
+26 PARAGRAPH (1) OF THIS SUBSECTION.
+27 (b) (1) The Department shall issue a waiver from the requirements of this
+28 section to a county board if:
+29 (i) 1. All families in the county who desire to enroll their eligible
+30 children with eligible prekindergarten providers are able to do so; or
+31 2. After reasonable cross–jurisdictional or regional efforts,
+32 there are too few eligible private providers to meet the minimum requirements of this
+33 section; and
+6 HOUSE BILL 1374
+1 (ii) The county board demonstrates to the Department that it has
+2 made a good faith effort to fully embrace the mixed delivery system, including by adopting
+3 a memorandum of understanding in accordance with § 7–1A–05 of this subtitle.
+4 (2) The Department may exclude by annual waiver Tier I children who are
+5 3 years old in a county from the calculation under subsection (a) of this section until the
+6 2031–2032 school year.
+7 (3) The Department may exclude by annual waiver Tier I children who are
+8 4 years old in a county from the calculation under subsection (a) of this section until the
+9 2028–2029 school year.
+10 (4) The Department shall establish waiver application procedures to carry
+11 out the provisions of this subsection.
+12 7–1A–04.1.
+13 (A) (1) SUBJECT TO SUBSECTION (B) OF THIS SECTION, AN ELIGIBLE
+14 PRIVATE PROVIDER MAY ELECT TO ENROLL A TIER I CHILD WHO IS 3 YEARS OLD.
+15 (2) AN ELIGIBLE PRIVATE PROVIDER WHO ELECTS TO ENROLL A TIER
+16 I CHILD WHO IS 3 YEARS OLD SHALL RECEIVE PUBLIC FUNDING IN ACCORDANCE
+17 WITH § 5–229 OF THIS ARTICLE FOR THAT CHILD.
+18 (B) (1) AN ELIGIBLE PRIVATE PROVIDER THAT ELECTS TO ENROLL TIER
+19 I 3–YEAR–OLDS SHALL:
+20 (I) MEET ALL THE APPLICABLE REQUIREMENTS OF THIS
+21 SUBTITLE; AND
+22 (II) ENTER INTO A MEMORANDUM OF UNDERSTANDING IN
+23 ACCORDANCE WITH § 7–1A–05 OF THIS SUBTITLE THAT SPECIFICALLY GOVERNS
+24 THE DUTIES AND RESPONSIBILITIES OF THE PRIVATE PROVIDER, THE
+25 DEPARTMENT, AND THE COUNTY BOARD TOWARD THE ENROLLED TIER I
+26 3–YEAR–OLDS.
+27 (2) AT A MINIMUM, THE MEMORANDUM OF UNDERSTANDING SHALL:
+28 (I) GOVERN THE DISTRIBUTION OF FUNDS BY THE
+29 DEPARTMENT AND THE COUNTY BOARD IN THE SAME MANNER AS OTHER FUNDING
+30 DISTRIBUTED TO ELIGIBLE PRIVATE PROVIDERS IN ACCORDANCE WITH § 5–229 OF
+31 THIS ARTICLE; AND
+HOUSE BILL 1374 7
+1 (II) REQUIRE THE ELIGIBLE PRIVATE PROVIDER TO PROMPTLY
+2 NOTIFY AND CONTINUALLY UPDATE THE DEPARTMENT AND THE COUNTY BOARD
+3 ON:
+4 1. THE NUMBER OF PREKINDERGARTEN SLOTS THE
+5 PRIVATE PROVIDER IS USING TO ENROLL TIER I 3–YEAR–OLDS; AND
+6 2. THE TIME PERIOD DURING WHICH A TIER I
+7 3–YEAR–OLD IS USING THOSE PREKINDERGARTEN SLOTS.
+8 (C) (1) THE DEPARTMENT SHALL NOTIFY A LOCAL DEPARTMENT OF
+9 SOCIAL SERVICES AND A LOCAL DEPARTMENT OF HEALTH IF ELIGIBLE PRIVATE
+10 PROVIDERS IN THE COUNTY HAVE ELECTED TO ENROLL TIER I 3–YEAR–OLDS IN
+11 ACCORDANCE WITH THIS SECTION TO ASSIST IN PROVIDING THE NOTICE REQUIRED
+12 UNDER § 7–1A–02 OF THIS SUBTITLE.
+13 (2) THE DEPARTMENT’S NOTICE SHALL INCLUDE INFORMATION ON
+14 THE ELIGIBLE PRIVATE PROVIDER AND THE NUMBER OF AND DURATION OF
+15 PREKINDERGARTEN SLOTS FOR 3–YEAR–OLDS AVAILABLE.
+16 7–1A–05.
+17 (a) (1) Each county board shall enter into a memorandum of understanding
+18 with the Department, each eligible private provider participating in publicly funded
+19 prekindergarten in the county, and other applicable government agencies.
+20 (2) Before executing a memorandum of understanding under this section,
+21 each county board shall submit an implementation plan of the proposed memorandum of
+22 understanding to the Accountability and Implementation Board in accordance with §
+23 5–404 of this article.
+24 (b) The Department shall develop a model memorandum of understanding for use
+25 by county boards of education in fulfilling the requirements under this section.
+26 (c) Each memorandum of understanding shall, at a minimum, provide for:
+27 (1) The adoption of an early childhood educator career ladder by eligible
+28 private providers in accordance with § 7–1A–08 of this subtitle;
+29 (2) Services for children with disabilities;
+30 (3) A process by which a parent is able to indicate a preference for eligible
+31 prekindergarten providers;
+8 HOUSE BILL 1374
+1 (4) The manner for processing the payment of the State share, local share,
+2 and family share for each child who is enrolled with an eligible prekindergarten provider;
+3 (5) Any agreed upon administrative costs to be retained by an agency that
+4 is party to the agreement;
+5 (6) The manner in which the parties will meet the requirements of this
+6 subtitle;
+7 (7) A plan to address racial and socioeconomic integration in
+8 prekindergarten classrooms;
+9 (8) A method for the county board to distribute a list of eligible public and
+10 private providers in the same area with a parent interested in enrolling the parent’s child
+11 in a prekindergarten program;
+12 (9) Facilitation of peer–to–peer eligible prekindergarten provider
+13 meetings, through a prekindergarten provider hub if one is established in the area, in which
+14 eligible prekindergarten providers are able to share best practices in the field; [and]
+15 (10) IF THERE IS AN ELIGIBLE PRIVATE PROVIDER THAT ELECTS TO
+16 ENROLL TIER I 3–YEAR–OLDS IN ACCORDANCE WITH § 7–1A–04.1 OF THIS SUBTITLE
+17 IN THE COUNTY, A PLAN TO EFFICIENTLY ENROLL 3–YEAR–OLDS IN ACCORDANCE
+18 WITH THIS SUBTITLE; AND
+19 [(10)] (11) Any other provisions necessary to carry out this subtitle.
+20 (d) A memorandum of understanding under this section shall seek to avoid, to the
+21 extent practicable, a disproportionate concentration of students of the same race, ethnicity,
+22 disability status, and income within an eligible provider.
+23 7–1A–06.
+24 (a) (1) Beginning in the 2022–2023 school year, Tier I children who are [3 or]
+25 4 years old may be enrolled in a full–day prekindergarten program under this subtitle.
+26 (2) (i) For the 2023–2024 through 2025–2026 school years, children
+27 who are [3 or] 4 years old may enroll in a full–day prekindergarten program under this
+28 subtitle if the children are:
+29 1. Children whose family income is more than 300% but not
+30 more than 600% of the federal poverty level; and
+31 2. A. Children with disabilities; or
+HOUSE BILL 1374 9
+1 B. Children from homes in which English is not the primary
+2 spoken language.
+3 (ii) For the 2023–2024 through 2025–2026 school years only,
+4 children described under subparagraph (i) of this paragraph shall be counted as Tier I
+5 children for purposes of funding allocated under § 5–229 of this article.
+6 (3) BEGINNING IN THE 2025–2026 SCHOOL YEAR, TIER I CHILDREN
+7 WHO ARE 3 YEARS OLD MAY BE ENROLLED IN A FULL–DAY PREKINDERGARTEN
+8 PROGRAM WITH AN ELIGIBLE PRIVATE PROVIDER IN ACCORDANCE WITH §
+9 7–1A–04.1 OF THIS SUBTITLE.
+10 (b) [(1) The proportion of enrolled Tier I children who are 3 years old shall
+11 increase annually until all Tier I children who are 3 years old are enrolled in a full–day
+12 prekindergarten program.
+13 (2)] The proportion of enrolled Tier I children who are 4 years old shall
+14 increase annually so that all Tier I children who are 4 years old shall be enrolled in a
+15 full–day prekindergarten program.
+16 (c) Beginning in the 2025–2026 school year, Tier II children not described under
+17 subsection (a)(2)(i) of this section may be enrolled in a full–day prekindergarten program if
+18 space is available to encourage socioeconomic diversity in prekindergarten classrooms.
+19 (d) Priority in expanding prekindergarten slots shall be provided to [3– and
+20 4–year olds] 4–YEAR–OLDS who are:
+21 (1) Tier I children;
+22 (2) Children with disabilities, regardless of income; or
+23 (3) Children from homes in which English is not the primary spoken
+24 language.
+25 (e) The ability of a family to choose the prekindergarten provider in which to
+26 enroll their child does not supersede local authority to set school attendance boundaries.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+28 apply only prospectively and may not be applied or interpreted to have any effect on a child
+29 who is 3 years old and is enrolled in publicly provided prekindergarten with an eligible
+30 public provider or is scheduled, on or before June 30, 2025, to be enrolled in publicly
+31 provided prekindergarten with an eligible public provider for the 2025–2026 school year.
+32 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+33 1, 2025.
+[DELETED: :CA      5   C D G A A B B B C G G H H H J K M M M M N O P R R S S A P ( F p a t p t w n g t c l d a g r t t e o 3 B  A S  A  ( B  A S  A  (  S T]
+[DELETED:  H  A 7  ( I  ( “ a  ( “ p s  ( “   ( E   ( E  ( ( “ p    ( I    ( D t    ( M   ( “ p p i t U C H S P  ( “   ( I   ( M  ( “ o  ( “ p]
+[DELETED: H 3  ( “ p h m a c p b e §  ( “ s m t a s f a c t a a p  ( “   ( W 3r ) [   ( () W]() 1I o    () W] 2   () W f c t e t c i f] ( p ( () W3;H    () IH YRO–   71;  () 1 IH%;L    2 W;H   () WVH F C T E T C ILD .  ( “   ( W   ( ( I n    ( I f y 2 a i e f y t w f   ( W]
+[DELETED:  H   ( “   ( W   ( W a   ( W 7  ( ( A p f    ( A s    ( H 3r  [ o   2 S() P  ON   E  S .   ( T n r u p ( o t s s i    ( C s    ( I o t e o t c c s f b S   I E S O L H D T E P I  YROI3– W   O T SE A L D O71   E()(       () O]( s]
+[DELETED: H 5 a w g a n a s e t c i a p f p  ( E p g  ( T a p 7  ( E s   () B] ( p b e p p s a f a l 1 o t t p   () T] ( i s y e p p p s a f a l 5 o e   () I] ( e a   ATI3–I  YRO E W A E P U   O T S S C T T7 O E P P P S U  ).  ( ( T D s a w f t r o t s    ( 1 A c     2 A r c o r e t s]
+[DELETED:  H     ( T m a   ( T 3 2   ( T 4 2   ( T o ) ( S()U T S B O T SN A E I    DI3. ( A I     59.() ( AN I3––:YROL  () E A T A R O TE   () IN I A M O U I W   O7 D A R O T P PR T,TIT A T C B T T E I ––.RO ( A,:M IO T D O F B T  ()    5E ]
+[DELETED: H 7  () IE E   1  N O P S T I  YROS I3––;   2 TTI T P D W A I ––.RO() ( TH E S N A L D O S A A L D O H I E P I  YROI3–   72. ( TD ETS E P P A T N O A D O YRO––. 7  ( ( E w t D e e p p p i p f p   ( B e u t t A a I B i a w § 5  ( T b  ( E   ( T p   ( S   ( A p]
+[DELETED:  H    ( T a   ( A i   ( T s   ( A p t a r a s i i p   ( A p i   ( F o p e p p m e a] (  I  YRO   I3––§7Y  YRO3–E    () A](  ( A e d 7  ( ( B3s 3r 4   ( ( F t 2 t 2 s y c w 3r  s     1 C m     2 A C]
+[DELETED: H 9     B C s    ( F t 2 t 2 s y o c c   B26,T  R I   A  Y O M B E I A FLD P W A E P P I A W 1.  ( ( T i p   () T i f  ( B s s  ( P i e p s s b p t 3 a 4s 4–YRO   ( T   ( C   ( C f h i w E i n t p s l  ( T e  S a w p p o i s o o b J 3 2 t b e i p p  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1374
+F5 5lr1842
+CF SB 780
+By: Delegates Ghrist, Adams, Arentz, Baker, Beauchamp, Buckel, Chisholm,
+Ciliberti, Grammer, Griffith, Hartman, Hinebaugh, Hornberger,
+Hutchinson, Jacobs, Kipke, Mangione, McComas, Metzgar, Miller,
+T. Morgan, Nkongolo, Otto, Pippy, Reilly, Rose, Schmidt, Stonko,
+Tomlinson, Valentine, and Wivell
+Introduced and read first time: February 7, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Prekindergarten – 3–Year–Olds – Private Providers
+3 (Parental Choice for Prekindergarten Act)
+4 FOR the purpose of altering the definition of “Tier I child” for purposes of publicly provided
+5 prekindergarten to not include 3–year–olds and only include certain 4–year–olds;
+6 authorizing an eligible private prekindergarten provider to enroll 3–year–olds in
+7 publicly provided prekindergarten; requiring an eligible private provider that elects
+8 to enroll a Tier I 3–year–old to enter into a certain memorandum of understanding
+9 with the State Department of Education and the county board of education; requiring
+10 notice about eligible private providers who elect to enroll certain 3–year–olds to be
+11 given to certain local departments; and generally relating to the enrollment of
+12 3–year–olds in publicly funded prekindergarten.
+13 BY repealing and reenacting, with amendments,
+14 Article – Education
+15 Section 7–1A–01 through 7–1A–03, 7–1A–05, and 7–1A–06
+16 Annotated Code of Maryland
+17 (2022 Replacement Volume and 2024 Supplement)
+18 BY adding to
+19 Article – Education
+20 Section 7–1A–04.1
+21 Annotated Code of Maryland
+22 (2022 Replacement Volume and 2024 Supplement)
+23 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+24 That the Laws of Maryland read as follows:
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb1374*
+
+2 HOUSE BILL 1374
+1 Article – Education
+2 7–1A–01.
+3 (a) In this subtitle the following words have the meanings indicated.
+4 (b) “Cost of quality” means the per–pupil amount provided under § 5–229 of this
+5 article.
+6 (c) “Early childhood educator career ladder” means the career ladder for private
+7 provider prekindergarten educators established by the Department under § 7–1A–08 of this
+8 subtitle.
+9 (d) “Eligible prekindergarten provider” includes an:
+10 (1) Eligible public provider; and
+11 (2) Eligible private provider.
+12 (e) (1) “Eligible private provider” means a community–based early learning
+13 program that:
+14 (i) Is licensed in the State;
+15 (ii) Does not charge more tuition for full–day prekindergarten than
+16 the cost of quality; and
+17 (iii) Meets the requirements under § 7–1A–04 of this subtitle.
+18 (2) “Eligible private provider” includes the Ulysses Currie Head Start
+19 Program under § 5–231 of this article.
+20 (f) “Eligible public provider” means an early learning program that:
+21 (1) Is provided by a county board at a public school; and
+22 (2) Meets the requirements under § 7–1A–04 of this subtitle.
+23 (g) “Full–day prekindergarten” means an early learning program with a six and
+24 one–half hour school day.
+25 (h) “Prekindergarten program” means an early learning program at an eligible
+26 prekindergarten provider.
+
+HOUSE BILL 1374 3
+1 (i) “Prekindergarten provider hub” means a coordinated partnership between
+2 eligible prekindergarten providers and other entities established by the Department under
+3 § 7–1A–09 of this subtitle.
+4 (j) “Prekindergarten slot” means the available space for a child to attend a
+5 prekindergarten program.
+6 (k) “Tier I child” means a child:
+7 (1) (I) Who is [3 or] 4 years old;
+8 [(2) (i)] (II) 1. Whose family income is less than or equal to 300%
+9 of the federal poverty level; or
+10 [(ii)] 2. Who is a homeless youth; and
+11 [(3)] (III) Whose family chooses to enroll the child in full–day
+12 prekindergarten; OR
+13 (2) (I) WHO IS 3 YEARS OLD;
+14 (II) WHO RESIDES IN A COUNTY IN WHICH AN ELIGIBLE PRIVATE
+15 PROVIDER ELECTS TO ENROLL 3–YEAR–OLDS IN ITS PREKINDERGARTEN PROGRAM
+16 UNDER § 7–1A–04.1 OF THIS SUBTITLE;
+17 (III) 1. WHOSE FAMILY INCOME IS LESS THAN OR EQUAL TO
+18 300% OF THE FEDERAL POVERTY LEVEL; OR
+19 2. WHO IS A HOMELESS YOUTH; AND
+20 (IV) WHOSE FAMILY CHOOSES TO ENROLL THE CHILD IN
+21 FULL–DAY PREKINDERGARTEN WITH AN ELIGIBLE PRIVATE PROVIDER.
+22 (l) “Tier II child” means a child:
+23 (1) Who is 4 years old;
+24 (2) (i) In fiscal year 2026, whose family income is more than 300% but
+25 not more than 360% of the federal poverty level; and
+26 (ii) In fiscal year 2027 and in each fiscal year thereafter, whose
+27 family income is more than 300% but not more than 600% of the federal poverty level; and
+28 (3) Whose family chooses to enroll the child in full–day prekindergarten.
+
+4 HOUSE BILL 1374
+1 (m) “Tier III child” means a child:
+2 (1) Who is 4 years old;
+3 (2) Whose family income is more than 600% of the federal poverty level;
+4 and
+5 (3) Whose family chooses to enroll the child in full–day prekindergarten.
+6 7–1A–02.
+7 (a) (1) A local department of social services or a local health department shall
+8 provide a parent or guardian with oral and written notice that their child may be eligible
+9 for publicly funded prekindergarten programs if the parent or guardian:
+10 (i) Applied for economic services with the local department of social
+11 services or the local health department; and
+12 (ii) 1. Has a child who will be [3 or] 4 years old by September 1
+13 of the next academic year; OR
+14 2. SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION,
+15 HAS A CHILD WHO WILL BE 3 YEARS OLD BY SEPTEMBER 1 OF THE NEXT ACADEMIC
+16 YEAR.
+17 (2) The notice required under paragraph (1) of this subsection shall
+18 include:
+19 (i) Contact information for the enrollment office of the local school
+20 system and the Division of Early Childhood Development in the Department; and
+21 (ii) Information on the existence of the child care scholarship for
+22 before and after full–day prekindergarten programming and the possibility of eligibility for
+23 State aid.
+24 (3) IF THE DEPARTMENT HAS NOTIFIED THE LOCAL DEPARTMENT OF
+25 SOCIAL SERVICES OR LOCAL HEALTH DEPARTMENT THAT ELIGIBLE PRIVATE
+26 PROVIDERS IN THE COUNTY HAVE ELECTED TO ENROLL TIER I 3–YEAR–OLDS IN
+27 ACCORDANCE WITH § 7–1A–04.1 OF THIS SUBTITLE, A LOCAL DEPARTMENT OF
+28 SOCIAL SERVICES OR A LOCAL HEALTH DEPARTMENT SHALL PROVIDE NOTICE TO
+29 THE PARENT OR GUARDIAN OF A CHILD WHO WILL BE 3 YEARS OLD BY SEPTEMBER
+30 1 OF THE NEXT ACADEMIC YEAR IN ACCORDANCE WITH PARAGRAPHS (1) AND (2) OF
+31 THIS SUBSECTION.
+32 [(3)] (4) On or before December 1 of each year, each local department of
+33 social services and each local health department shall report to the General Assembly, in
+
+HOUSE BILL 1374 5
+1 accordance with § 2–1257 of the State Government Article, on the number of parents who
+2 were given a notification and subsequently enrolled their child in a publicly funded
+3 prekindergarten program.
+4 (b) Each local department of social services or a local health department shall
+5 provide to each local school system the name and contact information for each parent or
+6 guardian provided notice under subsection (a) of this section.
+7 (c) The requirements set forth in § 7–101(b) of this title regarding the domicile of
+8 a child and the residency of the child’s parent or guardian shall apply to prekindergarten
+9 programs established by county boards as required by this subtitle.
+10 7–1A–03.
+11 (a) (1) Except as provided under subsection (b) of this section, a county board
+12 shall ensure that:
+13 [(1)] (I) Beginning in the 2024–2025 school year, prekindergarten slots
+14 provided by eligible private providers shall account for at least 10% of the total
+15 prekindergarten slots provided by eligible prekindergarten providers in each county;
+16 [(2)] (II) The proportion of eligible private provider prekindergarten slots
+17 in each county increases by 10 percentage points every school year, until, in the 2028–2029
+18 school year, eligible private provider prekindergarten slots account for at least 50% of
+19 eligible prekindergarten provider prekindergarten slots in each county; and
+20 [(3)] (III) In each year after the 2028–2029 school year, the proportion of
+21 eligible private provider prekindergarten slots in each county shall continue to constitute
+22 at least 50% of eligible prekindergarten provider prekindergarten slots in each county.
+23 (2) A TIER I 3–YEAR–OLD ENROLLED WITH AN ELIGIBLE PRIVATE
+24 PROVIDER UNDER § 7–1A–04.1 OF THIS SUBTITLE SHALL COUNT TOWARD THE
+25 NUMBER OF ELIGIBLE PRIVATE PROVIDER PREKINDERGARTEN SLOTS UNDER
+26 PARAGRAPH (1) OF THIS SUBSECTION.
+27 (b) (1) The Department shall issue a waiver from the requirements of this
+28 section to a county board if:
+29 (i) 1. All families in the county who desire to enroll their eligible
+30 children with eligible prekindergarten providers are able to do so; or
+31 2. After reasonable cross–jurisdictional or regional efforts,
+32 there are too few eligible private providers to meet the minimum requirements of this
+33 section; and
+
+6 HOUSE BILL 1374
+1 (ii) The county board demonstrates to the Department that it has
+2 made a good faith effort to fully embrace the mixed delivery system, including by adopting
+3 a memorandum of understanding in accordance with § 7–1A–05 of this subtitle.
+4 (2) The Department may exclude by annual waiver Tier I children who are
+5 3 years old in a county from the calculation under subsection (a) of this section until the
+6 2031–2032 school year.
+7 (3) The Department may exclude by annual waiver Tier I children who are
+8 4 years old in a county from the calculation under subsection (a) of this section until the
+9 2028–2029 school year.
+10 (4) The Department shall establish waiver application procedures to carry
+11 out the provisions of this subsection.
+12 7–1A–04.1.
+13 (A) (1) SUBJECT TO SUBSECTION (B) OF THIS SECTION, AN ELIGIBLE
+14 PRIVATE PROVIDER MAY ELECT TO ENROLL A TIER I CHILD WHO IS 3 YEARS OLD.
+15 (2) AN ELIGIBLE PRIVATE PROVIDER WHO ELECTS TO ENROLL A TIER
+16 I CHILD WHO IS 3 YEARS OLD SHALL RECEIVE PUBLIC FUNDING IN ACCORDANCE
+17 WITH § 5–229 OF THIS ARTICLE FOR THAT CHILD.
+18 (B) (1) AN ELIGIBLE PRIVATE PROVIDER THAT ELECTS TO ENROLL TIER
+19 I 3–YEAR–OLDS SHALL:
+20 (I) MEET ALL THE APPLICABLE REQUIREMENTS OF THIS
+21 SUBTITLE; AND
+22 (II) ENTER INTO A MEMORANDUM OF UNDERSTANDING IN
+23 ACCORDANCE WITH § 7–1A–05 OF THIS SUBTITLE THAT SPECIFICALLY GOVERNS
+24 THE DUTIES AND RESPONSIBILITIES OF THE PRIVATE PROVIDER, THE
+25 DEPARTMENT, AND THE COUNTY BOARD TOWARD THE ENROLLED TIER I
+26 3–YEAR–OLDS.
+27 (2) AT A MINIMUM, THE MEMORANDUM OF UNDERSTANDING SHALL:
+28 (I) GOVERN THE DISTRIBUTION OF FUNDS BY THE
+29 DEPARTMENT AND THE COUNTY BOARD IN THE SAME MANNER AS OTHER FUNDING
+30 DISTRIBUTED TO ELIGIBLE PRIVATE PROVIDERS IN ACCORDANCE WITH § 5–229 OF
+31 THIS ARTICLE; AND
+
+HOUSE BILL 1374 7
+1 (II) REQUIRE THE ELIGIBLE PRIVATE PROVIDER TO PROMPTLY
+2 NOTIFY AND CONTINUALLY UPDATE THE DEPARTMENT AND THE COUNTY BOARD
+3 ON:
+4 1. THE NUMBER OF PREKINDERGARTEN SLOTS THE
+5 PRIVATE PROVIDER IS USING TO ENROLL TIER I 3–YEAR–OLDS; AND
+6 2. THE TIME PERIOD DURING WHICH A TIER I
+7 3–YEAR–OLD IS USING THOSE PREKINDERGARTEN SLOTS.
+8 (C) (1) THE DEPARTMENT SHALL NOTIFY A LOCAL DEPARTMENT OF
+9 SOCIAL SERVICES AND A LOCAL DEPARTMENT OF HEALTH IF ELIGIBLE PRIVATE
+10 PROVIDERS IN THE COUNTY HAVE ELECTED TO ENROLL TIER I 3–YEAR–OLDS IN
+11 ACCORDANCE WITH THIS SECTION TO ASSIST IN PROVIDING THE NOTICE REQUIRED
+12 UNDER § 7–1A–02 OF THIS SUBTITLE.
+13 (2) THE DEPARTMENT’S NOTICE SHALL INCLUDE INFORMATION ON
+14 THE ELIGIBLE PRIVATE PROVIDER AND THE NUMBER OF AND DURATION OF
+15 PREKINDERGARTEN SLOTS FOR 3–YEAR–OLDS AVAILABLE.
+16 7–1A–05.
+17 (a) (1) Each county board shall enter into a memorandum of understanding
+18 with the Department, each eligible private provider participating in publicly funded
+19 prekindergarten in the county, and other applicable government agencies.
+20 (2) Before executing a memorandum of understanding under this section,
+21 each county board shall submit an implementation plan of the proposed memorandum of
+22 understanding to the Accountability and Implementation Board in accordance with §
+23 5–404 of this article.
+24 (b) The Department shall develop a model memorandum of understanding for use
+25 by county boards of education in fulfilling the requirements under this section.
+26 (c) Each memorandum of understanding shall, at a minimum, provide for:
+27 (1) The adoption of an early childhood educator career ladder by eligible
+28 private providers in accordance with § 7–1A–08 of this subtitle;
+29 (2) Services for children with disabilities;
+30 (3) A process by which a parent is able to indicate a preference for eligible
+31 prekindergarten providers;
+
+8 HOUSE BILL 1374
+1 (4) The manner for processing the payment of the State share, local share,
+2 and family share for each child who is enrolled with an eligible prekindergarten provider;
+3 (5) Any agreed upon administrative costs to be retained by an agency that
+4 is party to the agreement;
+5 (6) The manner in which the parties will meet the requirements of this
+6 subtitle;
+7 (7) A plan to address racial and socioeconomic integration in
+8 prekindergarten classrooms;
+9 (8) A method for the county board to distribute a list of eligible public and
+10 private providers in the same area with a parent interested in enrolling the parent’s child
+11 in a prekindergarten program;
+12 (9) Facilitation of peer–to–peer eligible prekindergarten provider
+13 meetings, through a prekindergarten provider hub if one is established in the area, in which
+14 eligible prekindergarten providers are able to share best practices in the field; [and]
+15 (10) IF THERE IS AN ELIGIBLE PRIVATE PROVIDER THAT ELECTS TO
+16 ENROLL TIER I 3–YEAR–OLDS IN ACCORDANCE WITH § 7–1A–04.1 OF THIS SUBTITLE
+17 IN THE COUNTY, A PLAN TO EFFICIENTLY ENROLL 3–YEAR–OLDS IN ACCORDANCE
+18 WITH THIS SUBTITLE; AND
+19 [(10)] (11) Any other provisions necessary to carry out this subtitle.
+20 (d) A memorandum of understanding under this section shall seek to avoid, to the
+21 extent practicable, a disproportionate concentration of students of the same race, ethnicity,
+22 disability status, and income within an eligible provider.
+23 7–1A–06.
+24 (a) (1) Beginning in the 2022–2023 school year, Tier I children who are [3 or]
+25 4 years old may be enrolled in a full–day prekindergarten program under this subtitle.
+26 (2) (i) For the 2023–2024 through 2025–2026 school years, children
+27 who are [3 or] 4 years old may enroll in a full–day prekindergarten program under this
+28 subtitle if the children are:
+29 1. Children whose family income is more than 300% but not
+30 more than 600% of the federal poverty level; and
+31 2. A. Children with disabilities; or
+
+HOUSE BILL 1374 9
+1 B. Children from homes in which English is not the primary
+2 spoken language.
+3 (ii) For the 2023–2024 through 2025–2026 school years only,
+4 children described under subparagraph (i) of this paragraph shall be counted as Tier I
+5 children for purposes of funding allocated under § 5–229 of this article.
+6 (3) BEGINNING IN THE 2025–2026 SCHOOL YEAR, TIER I CHILDREN
+7 WHO ARE 3 YEARS OLD MAY BE ENROLLED IN A FULL–DAY PREKINDERGARTEN
+8 PROGRAM WITH AN ELIGIBLE PRIVATE PROVIDER IN ACCORDANCE WITH §
+9 7–1A–04.1 OF THIS SUBTITLE.
+10 (b) [(1) The proportion of enrolled Tier I children who are 3 years old shall
+11 increase annually until all Tier I children who are 3 years old are enrolled in a full–day
+12 prekindergarten program.
+13 (2)] The proportion of enrolled Tier I children who are 4 years old shall
+14 increase annually so that all Tier I children who are 4 years old shall be enrolled in a
+15 full–day prekindergarten program.
+16 (c) Beginning in the 2025–2026 school year, Tier II children not described under
+17 subsection (a)(2)(i) of this section may be enrolled in a full–day prekindergarten program if
+18 space is available to encourage socioeconomic diversity in prekindergarten classrooms.
+19 (d) Priority in expanding prekindergarten slots shall be provided to [3– and
+20 4–year olds] 4–YEAR–OLDS who are:
+21 (1) Tier I children;
+22 (2) Children with disabilities, regardless of income; or
+23 (3) Children from homes in which English is not the primary spoken
+24 language.
+25 (e) The ability of a family to choose the prekindergarten provider in which to
+26 enroll their child does not supersede local authority to set school attendance boundaries.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+28 apply only prospectively and may not be applied or interpreted to have any effect on a child
+29 who is 3 years old and is enrolled in publicly provided prekindergarten with an eligible
+30 public provider or is scheduled, on or before June 30, 2025, to be enrolled in publicly
+31 provided prekindergarten with an eligible public provider for the 2025–2026 school year.
+32 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+33 1, 2025.
+
+[DELETED: :CA      5   C D G A A B B B C G G H H H J K M M M M N O P R R S S A P ( F p a t p t w n g t c l d a g r t t e o 3 B  A S  A  ( B  A S  A  (  S T]
+[DELETED:  H  A 7  ( I  ( “ a  ( “ p s  ( “   ( E   ( E  ( ( “ p    ( I    ( D t    ( M   ( “ p p i t U C H S P  ( “   ( I   ( M  ( “ o  ( “ p]
+[DELETED: H 3  ( “ p h m a c p b e §  ( “ s m t a s f a c t a a p  ( “   ( W 3r ) [   ( () W]() 1I o    () W] 2   () W f c t e t c i f] ( p ( () W3;H    () IH YRO–   71;  () 1 IH%;L    2 W;H   () WVH F C T E T C ILD .  ( “   ( W   ( ( I n    ( I f y 2 a i e f y t w f   ( W]
+[DELETED:  H   ( “   ( W   ( W a   ( W 7  ( ( A p f    ( A s    ( H 3r  [ o   2 S() P  ON   E  S .   ( T n r u p ( o t s s i    ( C s    ( I o t e o t c c s f b S   I E S O L H D T E P I  YROI3– W   O T SE A L D O71   E()(       () O]( s]
+[DELETED: H 5 a w g a n a s e t c i a p f p  ( E p g  ( T a p 7  ( E s   () B] ( p b e p p s a f a l 1 o t t p   () T] ( i s y e p p p s a f a l 5 o e   () I] ( e a   ATI3–I  YRO E W A E P U   O T S S C T T7 O E P P P S U  ).  ( ( T D s a w f t r o t s    ( 1 A c     2 A r c o r e t s]
+[DELETED:  H     ( T m a   ( T 3 2   ( T 4 2   ( T o ) ( S()U T S B O T SN A E I    DI3. ( A I     59.() ( AN I3––:YROL  () E A T A R O TE   () IN I A M O U I W   O7 D A R O T P PR T,TIT A T C B T T E I ––.RO ( A,:M IO T D O F B T  ()    5E ]
+[DELETED: H 7  () IE E   1  N O P S T I  YROS I3––;   2 TTI T P D W A I ––.RO() ( TH E S N A L D O S A A L D O H I E P I  YROI3–   72. ( TD ETS E P P A T N O A D O YRO––. 7  ( ( E w t D e e p p p i p f p   ( B e u t t A a I B i a w § 5  ( T b  ( E   ( T p   ( S   ( A p]
+[DELETED:  H    ( T a   ( A i   ( T s   ( A p t a r a s i i p   ( A p i   ( F o p e p p m e a] (  I  YRO   I3––§7Y  YRO3–E    () A](  ( A e d 7  ( ( B3s 3r 4   ( ( F t 2 t 2 s y c w 3r  s     1 C m     2 A C]
+[DELETED: H 9     B C s    ( F t 2 t 2 s y o c c   B26,T  R I   A  Y O M B E I A FLD P W A E P P I A W 1.  ( ( T i p   () T i f  ( B s s  ( P i e p s s b p t 3 a 4s 4–YRO   ( T   ( C   ( C f h i w E i n t p s l  ( T e  S a w p p o i s o o b J 3 2 t b e i p p  S 1]

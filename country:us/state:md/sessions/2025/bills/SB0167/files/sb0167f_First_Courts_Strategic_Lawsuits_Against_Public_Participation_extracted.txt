@@ -1,0 +1,278 @@
+Title: SENATE BILL 167
+Official Title: SENATE BILL 167
+Number of Sections: 1
+Source: versions - First - Courts - Strategic Lawsuits Against Public Participation
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+D3 5lr1500
+SB 568/24 – JPR (PRE–FILED) CF 5lr1501
+By: Senator Hettleman
+Requested: October 30, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Courts – Strategic Lawsuits Against Public Participation
+3 FOR the purpose of altering the conditions under which a lawsuit is a strategic lawsuit
+4 against public participation (SLAPP suit); altering the conditions under which a
+5 defendant in a SLAPP suit is not civilly liable for certain communications;
+6 establishing certain standards and requirements relating to a motion to dismiss an
+7 alleged SLAPP suit; and generally relating to SLAPP suits.
+8 BY repealing and reenacting, with amendments,
+9 Article – Courts and Judicial Proceedings
+10 Section 5–807
+11 Annotated Code of Maryland
+12 (2020 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Courts and Judicial Proceedings
+16 5–807.
+17 (a) In this section, “SLAPP suit” means a strategic lawsuit against public
+18 participation.
+19 (b) [A] SUBJECT TO SUBSECTION (C) OF THIS SECTION, A lawsuit is a SLAPP
+20 suit if it is[:
+21 (1) Brought in bad faith against a party who has communicated with a
+22 federal, State, or local government body or the public at large to report on, comment on,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0167*
+2 SENATE BILL 167
+1 rule on, challenge, oppose, or in any other way exercise rights under the First Amendment
+2 of the U.S. Constitution or Article 10, Article 13, or Article 40 of the Maryland Declaration
+3 of Rights regarding any matter within the authority of a government body or any issue of
+4 public concern;
+5 (2) Materially related to the defendant’s communication; and
+6 (3) Intended to inhibit or inhibits the exercise of rights under the First
+7 Amendment of the U.S. Constitution or Article 10, Article 13, or Article 40 of the Maryland
+8 Declaration of Rights] BROUGHT AGAINST A PERSON BASED ON AN ACT OR A
+9 STATEMENT OF THE PERSON THAT WAS DONE OR MADE IN FURTHERANCE OF THE
+10 PERSON’S RIGHT OF PETITION OR FREE SPEECH UNDER THE U.S. CONSTITUTION,
+11 THE MARYLAND CONSTITUTION, OR THE MARYLAND DECLARATION OF RIGHTS IN
+12 CONNECTION WITH A PUBLIC ISSUE OR AN ISSUE OF PUBLIC INTEREST, INCLUDING
+13 A WRITTEN OR AN ORAL STATEMENT MADE:
+14 (1) BEFORE A LEGISLATIVE, EXECUTIVE, OR JUDICIAL PROCEEDING
+15 OR ANY OTHER OFFICIAL PROCEEDING AUTHORIZED BY LAW;
+16 (2) IN CONNECTION WITH AN ISSUE UNDER CONSIDERATION OR
+17 REVIEW BY A LEGISLATIVE, EXECUTIVE, OR JUDICIAL BODY OR ANY OTHER OFFICIAL
+18 PROCEEDING AUTHORIZED BY LAW;
+19 (3) IN A PLACE OPEN TO THE PUBLIC OR A PUBLIC FORUM IN
+20 CONNECTION WITH AN ISSUE OF PUBLIC INTEREST; OR
+21 (4) TO A GOVERNMENT OFFICIAL OR AN INDIVIDUAL RUNNING FOR
+22 PUBLIC OFFICE.
+23 (C) A LAWSUIT IS NOT A SLAPP SUIT IF:
+24 (1) THE LAWSUIT IS BROUGHT IN THE PUBLIC INTEREST OR ON
+25 BEHALF OF THE GENERAL PUBLIC AND EACH OF THE FOLLOWING CONDITIONS
+26 EXISTS:
+27 (I) EXCEPT FOR CLAIMS FOR ATTORNEY’S FEES, COSTS, OR
+28 PENALTIES, THE PLAINTIFF DOES NOT SEEK ANY RELIEF GREATER THAN OR
+29 DIFFERENT FROM THE RELIEF SOUGHT FOR THE GENERAL PUBLIC OR A CLASS OF
+30 WHICH THE PLAINTIFF IS A MEMBER;
+31 (II) THE LAWSUIT, IF SUCCESSFUL, WOULD ENFORCE AN
+32 IMPORTANT RIGHT AFFECTING THE PUBLIC INTEREST AND WOULD CONFER A
+33 SIGNIFICANT BENEFIT, PECUNIARY OR NONPECUNIARY, TO THE GENERAL PUBLIC
+34 OR A LARGE CLASS OF PERSONS; AND
+SENATE BILL 167 3
+1 (III) PRIVATE ENFORCEMENT IS NECESSARY AND PLACES A
+2 DISPROPORTIONATE FINANCIAL BURDEN ON THE PLAINTIFF IN RELATION TO THE
+3 PLAINTIFF’S STAKE IN THE MATTER; OR
+4 (2) THE LAWSUIT INVOLVES A DEFENDANT WHO:
+5 (I) PRIMARILY ENGAGES IN THE BUSINESS OF SELLING OR
+6 LEASING GOODS OR SERVICES, INCLUDING INSURANCE, SECURITIES, OR FINANCIAL
+7 INSTRUMENTS; AND
+8 (II) 1. MADE A STATEMENT OR ENGAGED IN CONDUCT THAT
+9 CONSISTED OF REPRESENTATIONS OF FACT ABOUT THE DEFENDANT’S OR A
+10 BUSINESS COMPETITOR’S BUSINESS OPERATIONS, GOODS, OR SERVICES FOR THE
+11 PURPOSE OF OBTAINING APPROVAL FOR, PROMOTING, OR SECURING SALES OR
+12 LEASES OF OR COMMERCIAL TRANSACTIONS IN THE DEFENDANT’S GOODS OR
+13 SERVICES; OR
+14 2. IN THE COURSE OF DELIVERING THE DEFENDANT’S
+15 GOODS OR SERVICES, IS ALLEGED TO HAVE MADE A STATEMENT OR ENGAGED IN
+16 CONDUCT THAT DISPARAGES A BUSINESS COMPETITOR’S BUSINESS OPERATIONS,
+17 GOODS, OR SERVICES.
+18 [(c)] (D) A defendant in a SLAPP suit is not civilly liable for communicating with
+19 a federal, State, or local government body or the public at large, if the defendant, without
+20 constitutional malice, [reports on, comments on, rules on, challenges, opposes, or in any
+21 other way exercises rights under the First Amendment of the U.S. Constitution or Article
+22 10, Article 13, or Article 40 of the Maryland Declaration of Rights] ACTED IN
+23 FURTHERANCE OF THE DEFENDANT’S RIGHT OF PETITION OR FREE SPEECH UNDER
+24 THE U.S. CONSTITUTION, THE MARYLAND CONSTITUTION, OR THE MARYLAND
+25 DECLARATION OF RIGHTS regarding any matter within the authority of a government
+26 body or any PUBLIC issue OR ISSUE of public [concern] INTEREST.
+27 [(d)] (E) (1) A defendant in an alleged SLAPP suit may move to:
+28 [(1)] (I) Dismiss the alleged SLAPP suit, in which case the court shall
+29 hold a hearing on the motion to dismiss as soon as practicable AND RULE EXPEDITIOUSLY;
+30 or
+31 [(2)] (II) Stay all court proceedings until the matter about which the
+32 defendant communicated to the government body or the public at large is resolved.
+33 (2) IT IS THE PLAINTIFF’S BURDEN IN RESPONDING TO A MOTION TO
+34 DISMISS TO SHOW THAT THE ALLEGED SLAPP SUIT HAS SUBSTANTIAL
+35 JUSTIFICATION IN LAW AND FACT.
+4 SENATE BILL 167
+1 (3) (I) IF IT APPEARS LIKELY THAT DISCOVERY WILL ENABLE THE
+2 PLAINTIFF TO DEFEAT A MOTION TO DISMISS AND THAT THE DISCOVERY WILL NOT
+3 BE UNDULY BURDENSOME, THE COURT MAY ORDER THAT SPECIFIED DISCOVERY BE
+4 CONDUCTED.
+5 (II) AN ORDER UNDER THIS PARAGRAPH SHALL BE
+6 CONDITIONED ON THE PLAINTIFF PAYING ANY EXPENSES INCURRED BY THE
+7 DEFENDANT IN RESPONDING TO THE DISCOVERY.
+8 (4) (I) IF THE COURT GRANTS AN ANTI–SLAPP MOTION, THE
+9 COURT SHALL AWARD COSTS AND REASONABLE ATTORNEY’S FEES TO THE MOVING
+10 PARTY IF THE COURT DETERMINES THAT JUSTICE AND EQUITY REQUIRE IT.
+11 (II) IF THE COURT FINDS THAT A MOTION TO DISMISS IS
+12 FRIVOLOUS OR SOLELY INTENDED TO CAUSE UNNECESSARY DELAY, THE COURT MAY
+13 AWARD COSTS AND REASONABLE ATTORNEY’S FEES TO THE RESPONDING PARTY.
+14 [(e)] (F) This section:
+15 (1) Is applicable to SLAPP suits notwithstanding any other law or rule; and
+16 (2) Does not diminish any equitable or legal right or remedy otherwise
+17 available to a defendant in a SLAPP suit.
+18 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+19 apply only prospectively and may not be applied or interpreted to have any effect on or
+20 application to any cause of action arising before the effective date of this Act.
+21 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2025.
+[DELETED: :CA      5 ( C A C F a p p ( s a t c u w a d i a S s i n c l f c c e a B  A S  A  (  S T A 5  ( I t s “ s m a s l a p p  ( A ]S()U C N  ss:   ( B f]
+[DELETED:  S  r o o p   ( M   ( I A D o RB A A P B O A A O ANS  ONU.C A ON  A E IC,MDT     B,E E     C W A I U C OE E W    A P O T T P O A P F IT    ) . ) ASP:       L I B I T P I O O O T G P A E O T F C   ) E’,X F C F AYS FS CS OS T P D N S A R G T O   ) T,IH LT I SL W E A R A T P I A W C AT Y S ]
+[DELETED: S 3   ) IR E I N A P AFSR ;   T:O   ) R E I T B O S OS E S ,S    ) 1 IA O R O F A T DTS O ARSS S , O O A FR PG O S S O O O C T I T DTS G OS      I T C O D T DTSS RSSS S.  () A]( a c r o 1 A 1 o A 4 o t M D o RA ITS  ON T A ON O T A.C,MC, I   b     cn.COE   ()  A]()(   () D] ( h ; o   () S a c p u t m a w t] ( d   IFS T S T T A  S H S]
+[DELETED:  S     ()FE DD D     )IN O U T P S B O T P P A E I B T     ()I–PF T C G A AI MN TYST     )IF T C F T A M T D IY YS   () T](   ( I   ( D n d a e o l r o r o a  S a a  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 167
+D3 5lr1500
+SB 568/24 – JPR (PRE–FILED) CF 5lr1501
+By: Senator Hettleman
+Requested: October 30, 2024
+Introduced and read first time: January 8, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Courts – Strategic Lawsuits Against Public Participation
+3 FOR the purpose of altering the conditions under which a lawsuit is a strategic lawsuit
+4 against public participation (SLAPP suit); altering the conditions under which a
+5 defendant in a SLAPP suit is not civilly liable for certain communications;
+6 establishing certain standards and requirements relating to a motion to dismiss an
+7 alleged SLAPP suit; and generally relating to SLAPP suits.
+8 BY repealing and reenacting, with amendments,
+9 Article – Courts and Judicial Proceedings
+10 Section 5–807
+11 Annotated Code of Maryland
+12 (2020 Replacement Volume and 2024 Supplement)
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
+15 Article – Courts and Judicial Proceedings
+16 5–807.
+17 (a) In this section, “SLAPP suit” means a strategic lawsuit against public
+18 participation.
+19 (b) [A] SUBJECT TO SUBSECTION (C) OF THIS SECTION, A lawsuit is a SLAPP
+20 suit if it is[:
+21 (1) Brought in bad faith against a party who has communicated with a
+22 federal, State, or local government body or the public at large to report on, comment on,
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0167*
+
+2 SENATE BILL 167
+1 rule on, challenge, oppose, or in any other way exercise rights under the First Amendment
+2 of the U.S. Constitution or Article 10, Article 13, or Article 40 of the Maryland Declaration
+3 of Rights regarding any matter within the authority of a government body or any issue of
+4 public concern;
+5 (2) Materially related to the defendant’s communication; and
+6 (3) Intended to inhibit or inhibits the exercise of rights under the First
+7 Amendment of the U.S. Constitution or Article 10, Article 13, or Article 40 of the Maryland
+8 Declaration of Rights] BROUGHT AGAINST A PERSON BASED ON AN ACT OR A
+9 STATEMENT OF THE PERSON THAT WAS DONE OR MADE IN FURTHERANCE OF THE
+10 PERSON’S RIGHT OF PETITION OR FREE SPEECH UNDER THE U.S. CONSTITUTION,
+11 THE MARYLAND CONSTITUTION, OR THE MARYLAND DECLARATION OF RIGHTS IN
+12 CONNECTION WITH A PUBLIC ISSUE OR AN ISSUE OF PUBLIC INTEREST, INCLUDING
+13 A WRITTEN OR AN ORAL STATEMENT MADE:
+14 (1) BEFORE A LEGISLATIVE, EXECUTIVE, OR JUDICIAL PROCEEDING
+15 OR ANY OTHER OFFICIAL PROCEEDING AUTHORIZED BY LAW;
+16 (2) IN CONNECTION WITH AN ISSUE UNDER CONSIDERATION OR
+17 REVIEW BY A LEGISLATIVE, EXECUTIVE, OR JUDICIAL BODY OR ANY OTHER OFFICIAL
+18 PROCEEDING AUTHORIZED BY LAW;
+19 (3) IN A PLACE OPEN TO THE PUBLIC OR A PUBLIC FORUM IN
+20 CONNECTION WITH AN ISSUE OF PUBLIC INTEREST; OR
+21 (4) TO A GOVERNMENT OFFICIAL OR AN INDIVIDUAL RUNNING FOR
+22 PUBLIC OFFICE.
+23 (C) A LAWSUIT IS NOT A SLAPP SUIT IF:
+24 (1) THE LAWSUIT IS BROUGHT IN THE PUBLIC INTEREST OR ON
+25 BEHALF OF THE GENERAL PUBLIC AND EACH OF THE FOLLOWING CONDITIONS
+26 EXISTS:
+27 (I) EXCEPT FOR CLAIMS FOR ATTORNEY’S FEES, COSTS, OR
+28 PENALTIES, THE PLAINTIFF DOES NOT SEEK ANY RELIEF GREATER THAN OR
+29 DIFFERENT FROM THE RELIEF SOUGHT FOR THE GENERAL PUBLIC OR A CLASS OF
+30 WHICH THE PLAINTIFF IS A MEMBER;
+31 (II) THE LAWSUIT, IF SUCCESSFUL, WOULD ENFORCE AN
+32 IMPORTANT RIGHT AFFECTING THE PUBLIC INTEREST AND WOULD CONFER A
+33 SIGNIFICANT BENEFIT, PECUNIARY OR NONPECUNIARY, TO THE GENERAL PUBLIC
+34 OR A LARGE CLASS OF PERSONS; AND
+
+SENATE BILL 167 3
+1 (III) PRIVATE ENFORCEMENT IS NECESSARY AND PLACES A
+2 DISPROPORTIONATE FINANCIAL BURDEN ON THE PLAINTIFF IN RELATION TO THE
+3 PLAINTIFF’S STAKE IN THE MATTER; OR
+4 (2) THE LAWSUIT INVOLVES A DEFENDANT WHO:
+5 (I) PRIMARILY ENGAGES IN THE BUSINESS OF SELLING OR
+6 LEASING GOODS OR SERVICES, INCLUDING INSURANCE, SECURITIES, OR FINANCIAL
+7 INSTRUMENTS; AND
+8 (II) 1. MADE A STATEMENT OR ENGAGED IN CONDUCT THAT
+9 CONSISTED OF REPRESENTATIONS OF FACT ABOUT THE DEFENDANT’S OR A
+10 BUSINESS COMPETITOR’S BUSINESS OPERATIONS, GOODS, OR SERVICES FOR THE
+11 PURPOSE OF OBTAINING APPROVAL FOR, PROMOTING, OR SECURING SALES OR
+12 LEASES OF OR COMMERCIAL TRANSACTIONS IN THE DEFENDANT’S GOODS OR
+13 SERVICES; OR
+14 2. IN THE COURSE OF DELIVERING THE DEFENDANT’S
+15 GOODS OR SERVICES, IS ALLEGED TO HAVE MADE A STATEMENT OR ENGAGED IN
+16 CONDUCT THAT DISPARAGES A BUSINESS COMPETITOR’S BUSINESS OPERATIONS,
+17 GOODS, OR SERVICES.
+18 [(c)] (D) A defendant in a SLAPP suit is not civilly liable for communicating with
+19 a federal, State, or local government body or the public at large, if the defendant, without
+20 constitutional malice, [reports on, comments on, rules on, challenges, opposes, or in any
+21 other way exercises rights under the First Amendment of the U.S. Constitution or Article
+22 10, Article 13, or Article 40 of the Maryland Declaration of Rights] ACTED IN
+23 FURTHERANCE OF THE DEFENDANT’S RIGHT OF PETITION OR FREE SPEECH UNDER
+24 THE U.S. CONSTITUTION, THE MARYLAND CONSTITUTION, OR THE MARYLAND
+25 DECLARATION OF RIGHTS regarding any matter within the authority of a government
+26 body or any PUBLIC issue OR ISSUE of public [concern] INTEREST.
+27 [(d)] (E) (1) A defendant in an alleged SLAPP suit may move to:
+28 [(1)] (I) Dismiss the alleged SLAPP suit, in which case the court shall
+29 hold a hearing on the motion to dismiss as soon as practicable AND RULE EXPEDITIOUSLY;
+30 or
+31 [(2)] (II) Stay all court proceedings until the matter about which the
+32 defendant communicated to the government body or the public at large is resolved.
+33 (2) IT IS THE PLAINTIFF’S BURDEN IN RESPONDING TO A MOTION TO
+34 DISMISS TO SHOW THAT THE ALLEGED SLAPP SUIT HAS SUBSTANTIAL
+35 JUSTIFICATION IN LAW AND FACT.
+
+4 SENATE BILL 167
+1 (3) (I) IF IT APPEARS LIKELY THAT DISCOVERY WILL ENABLE THE
+2 PLAINTIFF TO DEFEAT A MOTION TO DISMISS AND THAT THE DISCOVERY WILL NOT
+3 BE UNDULY BURDENSOME, THE COURT MAY ORDER THAT SPECIFIED DISCOVERY BE
+4 CONDUCTED.
+5 (II) AN ORDER UNDER THIS PARAGRAPH SHALL BE
+6 CONDITIONED ON THE PLAINTIFF PAYING ANY EXPENSES INCURRED BY THE
+7 DEFENDANT IN RESPONDING TO THE DISCOVERY.
+8 (4) (I) IF THE COURT GRANTS AN ANTI–SLAPP MOTION, THE
+9 COURT SHALL AWARD COSTS AND REASONABLE ATTORNEY’S FEES TO THE MOVING
+10 PARTY IF THE COURT DETERMINES THAT JUSTICE AND EQUITY REQUIRE IT.
+11 (II) IF THE COURT FINDS THAT A MOTION TO DISMISS IS
+12 FRIVOLOUS OR SOLELY INTENDED TO CAUSE UNNECESSARY DELAY, THE COURT MAY
+13 AWARD COSTS AND REASONABLE ATTORNEY’S FEES TO THE RESPONDING PARTY.
+14 [(e)] (F) This section:
+15 (1) Is applicable to SLAPP suits notwithstanding any other law or rule; and
+16 (2) Does not diminish any equitable or legal right or remedy otherwise
+17 available to a defendant in a SLAPP suit.
+18 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+19 apply only prospectively and may not be applied or interpreted to have any effect on or
+20 application to any cause of action arising before the effective date of this Act.
+21 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2025.
+
+[DELETED: :CA      5 ( C A C F a p p ( s a t c u w a d i a S s i n c l f c c e a B  A S  A  (  S T A 5  ( I t s “ s m a s l a p p  ( A ]S()U C N  ss:   ( B f]
+[DELETED:  S  r o o p   ( M   ( I A D o RB A A P B O A A O ANS  ONU.C A ON  A E IC,MDT     B,E E     C W A I U C OE E W    A P O T T P O A P F IT    ) . ) ASP:       L I B I T P I O O O T G P A E O T F C   ) E’,X F C F AYS FS CS OS T P D N S A R G T O   ) T,IH LT I SL W E A R A T P I A W C AT Y S ]
+[DELETED: S 3   ) IR E I N A P AFSR ;   T:O   ) R E I T B O S OS E S ,S    ) 1 IA O R O F A T DTS O ARSS S , O O A FR PG O S S O O O C T I T DTS G OS      I T C O D T DTSS RSSS S.  () A]( a c r o 1 A 1 o A 4 o t M D o RA ITS  ON T A ON O T A.C,MC, I   b     cn.COE   ()  A]()(   () D] ( h ; o   () S a c p u t m a w t] ( d   IFS T S T T A  S H S]
+[DELETED:  S     ()FE DD D     )IN O U T P S B O T P P A E I B T     ()I–PF T C G A AI MN TYST     )IF T C F T A M T D IY YS   () T](   ( I   ( D n d a e o l r o r o a  S a a  S A B I F E T t A s t e O]

@@ -1,0 +1,882 @@
+Title: HOUSE BILL 304
+Official Title: HOUSE BILL 304
+Number of Sections: 1
+Source: versions - First - State Procurement - Transparency and Procedures
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+P2 5lr1614
+By: Delegate Kerr
+Introduced and read first time: January 9, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 State Procurement – Transparency and Procedures
+3 FOR the purpose of requiring a unit of State government to provide a certain debriefing of
+4 a contract award to certain persons on request; adding an exemption to the
+5 prohibition on an individual who assists in the drafting of specifications, an
+6 invitation for bids, or a request for proposals from submitting a bid or proposal or
+7 assisting in the submission of a bid or proposal; requiring a procurement contract to
+8 include a certain clause pertaining to change orders related to changes in law;
+9 altering the required contents of a certain change order; altering the time within
+10 which a procurement officer shall make a decision after receiving a certain protest;
+11 specifying that certain decisions or failure to reach a decision may be considered a
+12 denial of a certain protest; altering the time within which a written notice of a claim
+13 relating to a certain procurement contract shall be made; applying certain provisions
+14 related to a contract claim that applied to construction contracts to certain other
+15 procurement contracts; requiring a contractor, on request of a procurement officer,
+16 to provide certain information prior to receiving payment on a claim; authorizing the
+17 Maryland State Board of Contract Appeals to award a contractor certain costs of
+18 defending certain claims; specifying that an appeal from a final decision of the
+19 Appeals Board may be appealed to the Appellate Court of Maryland; and generally
+20 relating to State procurement procedures.
+21 BY repealing and reenacting, with amendments,
+22 Article – State Finance and Procurement
+23 Section 11–101, 13–201, 13–212.1(b), 13–218(a), 15–112(b)(1), 15–218, 15–219(a)
+24 through (c) and (h), 15–221.2, and 15–223(a)
+25 Annotated Code of Maryland
+26 (2021 Replacement Volume and 2024 Supplement)
+27 BY adding to
+28 Article – State Finance and Procurement
+29 Section 13–104(h) and 15–219(h)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0304*
+2 HOUSE BILL 304
+1 Annotated Code of Maryland
+2 (2021 Replacement Volume and 2024 Supplement)
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – State Finance and Procurement
+6 11–101.
+7 (a) In this Division II the following words have the meanings indicated unless:
+8 (1) the context clearly requires a different meaning; or
+9 (2) a different definition is provided for a particular title or provision.
+10 (b) (1) “Architectural services” means professional or creative work that:
+11 (i) is performed in connection with the design and supervision of
+12 construction or landscaping; and
+13 (ii) requires architectural education, training, and experience.
+14 (2) “Architectural services” includes consultation, research, investigation,
+15 evaluation, planning, architectural design and preparation of related documents, and
+16 coordination of services that structural, civil, mechanical, and electrical engineers and
+17 other consultants provide.
+18 (3) “Architectural services” does not include construction inspection
+19 services, services provided in connection with an energy performance contract, or
+20 structural, mechanical, plumbing, or electrical engineering.
+21 (c) “Bid” means a response to an invitation for bids under § 13–103 of this article.
+22 (d) “Board” means the Board of Public Works.
+23 (e) “CHANGE ORDER” MEANS A WRITTEN ORDER THAT:
+24 (1) IS SIGNED BY THE PROCUREMENT OFFICER; AND
+25 (2) DIRECTS THE CONTRACTOR TO MAKE CHANGES THAT ARE
+26 REQUIRED BY A CHANGE IN LAW OR THAT THE PROCUREMENT CONTRACT
+27 AUTHORIZES THE PROCUREMENT OFFICER TO ORDER WITHOUT THE CONSENT OF
+28 THE CONTRACTOR.
+HOUSE BILL 304 3
+1 (F) “Chief Procurement Officer” means an official of the Department of General
+2 Services who:
+3 (1) shall be appointed by the Governor with the advice and consent of the
+4 Senate;
+5 (2) except for procurement activity by a primary procurement unit other
+6 than the Department of General Services, is the head of all procurement activity for the
+7 Executive Branch of State government; and
+8 (3) may engage in or control procurement for the Department of General
+9 Services in accordance with § 12–107(b)(2) of this article.
+10 [(f)] (G) (1) “Construction” means the process of building, altering,
+11 improving, or demolishing an improvement to real property.
+12 (2) “Construction” includes any major work necessary to repair, prevent
+13 damage to, or sustain existing components of an improvement to real property.
+14 (3) “Construction” does not include the maintenance or routine operation
+15 of an existing improvement to real property, or activities related to an energy performance
+16 contract.
+17 [(g)] (H) (1) “Construction related services” means feasibility studies,
+18 surveys, construction management, construction inspection, and similar efforts associated
+19 with construction or the acquisition of public improvements as defined in § 4–401(d) of this
+20 article.
+21 (2) “Construction related services” does not include services provided in
+22 connection with an energy performance contract.
+23 (I) “CONTRACT MODIFICATION” MEANS A WRITTEN ALTERATION THAT:
+24 (1) AFFECTS SPECIFICATIONS, DELIVERY POINT, DATE OF DELIVERY,
+25 PERIOD OF PERFORMANCE, PRICE, QUANTITY, OR OTHER PROVISIONS OF A
+26 PROCUREMENT CONTRACT, INCLUDING MODIFICATIONS REQUIRED DUE TO
+27 CHANGES IN LAW OR REGULATION THAT INCREASE THE CONTRACTOR’S COST OF OR
+28 TIME FOR PERFORMANCE OF THE CONTRACT; AND
+29 (2) IS ACCOMPLISHED BY MUTUAL ACTION OF THE PARTIES TO THE
+30 PROCUREMENT CONTRACT.
+31 [(h)] (J) “County” means a county of the State and, unless expressly provided
+32 otherwise, Baltimore City.
+4 HOUSE BILL 304
+1 [(i)] (K) “Energy performance contract” means an agreement for the provision
+2 of energy services, including electricity, heating, ventilation, cooling, steam, or hot water,
+3 in which a person agrees to design, install, finance, maintain, or manage energy systems
+4 or equipment to improve the energy efficiency of a building or facility in exchange for a
+5 portion of the energy savings.
+6 [(j)] (L) (1) “Engineering services” means professional or creative work that:
+7 (i) is performed in connection with any utility, structure, building,
+8 machine, equipment, or process, including structural, mechanical, plumbing, electrical,
+9 geotechnical, and environmental engineering; and
+10 (ii) requires engineering education, training, and experience in the
+11 application of special knowledge of the mathematical, physical, and engineering sciences.
+12 (2) “Engineering services” includes consultation, investigation, evaluation,
+13 planning, design, and inspection of construction to interpret and ensure compliance with
+14 specifications and design within the scope of inspection services.
+15 (3) “Engineering services” does not include services provided in connection
+16 with an energy performance contract.
+17 [(k)] (M) “Invitation for bids” means any document used for soliciting bids under
+18 § 13–103 of this article.
+19 [(l)] (N) “Person” means an individual, receiver, trustee, guardian, personal
+20 representative, fiduciary, or representative of any kind and any partnership, firm,
+21 association, corporation, or other entity.
+22 [(m)] (O) “Primary procurement units” means:
+23 (1) the State Treasurer;
+24 (2) the Department of General Services;
+25 (3) the Department of Transportation;
+26 (4) the University System of Maryland;
+27 (5) the Maryland Port Commission;
+28 (6) the Morgan State University; and
+29 (7) the St. Mary’s College of Maryland.
+30 [(n)] (P) (1) “Procurement” means the process of:
+HOUSE BILL 304 5
+1 (i) leasing real or personal property as lessee; or
+2 (ii) buying or otherwise obtaining supplies, services, construction,
+3 construction related services, architectural services, engineering services, or services
+4 provided under an energy performance contract.
+5 (2) “Procurement” includes the solicitation and award of procurement
+6 contracts and all phases of procurement contract administration.
+7 [(o)] (Q) (1) “Procurement contract” means an agreement in any form entered
+8 into by a unit for procurement.
+9 (2) “Procurement contract” does not include:
+10 (i) a collective bargaining agreement with an employee
+11 organization;
+12 (ii) an agreement with a contractual employee, as defined in §
+13 1–101(d) of the State Personnel and Pensions Article;
+14 (iii) a Medicaid, Judicare, or similar reimbursement contract for
+15 which law sets:
+16 1. user or recipient eligibility; and
+17 2. price payable by the State; or
+18 (iv) a Medicaid contract with a managed care organization, as
+19 defined in § 15–101(e) of the Health – General Article as to which regulations adopted by
+20 the Department establish:
+21 1. recipient eligibility;
+22 2. minimum qualifications for managed care organizations;
+23 and
+24 3. criteria for enrolling recipients in managed care
+25 organizations.
+26 [(p)] (R) “Procurement officer” means an individual authorized by a unit to:
+27 (1) enter into a procurement contract;
+28 (2) administer a procurement contract; or
+6 HOUSE BILL 304
+1 (3) make determinations and findings with respect to a procurement
+2 contract.
+3 [(q)] (S) “Proposal” means a response to any solicitation other than an invitation
+4 for bids.
+5 [(r)] (T) “Request for proposals” means any document used for soliciting
+6 proposals.
+7 [(s)] (U) “Responsible bidder or offeror” means a person who:
+8 (1) has the capability in all respects to perform fully the requirements for
+9 a procurement contract; and
+10 (2) possesses the integrity and reliability that will ensure good faith
+11 performance.
+12 [(t)] (V) “Responsive bid” means a bid that:
+13 (1) is submitted under § 13–103 of this article; and
+14 (2) conforms in all material respects to the invitation for bids.
+15 [(u)] (W) (1) Except as provided in paragraph (3) of this subsection, “services”
+16 means:
+17 (i) the labor, time, or effort of a contractor; and
+18 (ii) any product or report necessarily associated with the rendering
+19 of a service.
+20 (2) “Services” includes services provided by attorneys, accountants,
+21 physicians, consultants, and other professionals who are independent contractors.
+22 (3) “Services” does not include:
+23 (i) construction related services;
+24 (ii) architectural services;
+25 (iii) engineering services; or
+26 (iv) energy performance contract services.
+27 [(v)] (X) “State” means:
+HOUSE BILL 304 7
+1 (1) a state, possession, territory, or commonwealth of the United States; or
+2 (2) the District of Columbia.
+3 [(w)] (Y) (1) “State correctional facilities” means correctional institutions,
+4 and all places of correctional confinement, that are located within the State of Maryland
+5 and are primarily operated by the Maryland State government.
+6 (2) “State correctional facilities” includes Patuxent Institution.
+7 [(x)] (Z) (1) “Supplies” means:
+8 (i) insurance;
+9 (ii) tangible personal property;
+10 (iii) printing; and
+11 (iv) services necessarily associated with insurance or tangible
+12 personal property.
+13 (2) “Supplies” does not include:
+14 (i) an interest in real property; or
+15 (ii) tangible personal property acquired or used in connection with
+16 an energy performance contract.
+17 [(y)] (AA) (1) “Unit” means an officer or other entity that is in the Executive
+18 Branch of the State government and is authorized by law to enter into a procurement
+19 contract.
+20 (2) “Unit” does not include:
+21 (i) a bistate, multistate, bicounty, or multicounty governmental
+22 agency; or
+23 (ii) a special tax district, sanitary district, drainage district, soil
+24 conservation district, water supply district, or other political subdivision of the State.
+25 13–104.
+26 (H) (1) ON REQUEST OF AN UNSUCCESSFUL OFFEROR, THE
+27 PROCUREMENT OFFICE OF A UNIT SHALL PROVIDE A DEBRIEFING OF A CONTRACT
+28 AWARD.
+8 HOUSE BILL 304
+1 (2) EXCEPT FOR INFORMATION SUBJECT TO A CONFIDENTIALITY
+2 AGREEMENT, A DEBRIEFING REQUIRED UNDER PARAGRAPH (1) OF THIS
+3 SUBSECTION SHALL INCLUDE ALL RELEVANT INFORMATION OBTAINED FROM A
+4 PROPOSAL BY, OR DISCUSSIONS WITH, A COMPETING OFFEROR THAT IS
+5 REASONABLY NECESSARY TO DETERMINE:
+6 (I) WHETHER ALL EVALUATION PROCEDURES REQUIRED BY
+7 LAW HAVE BEEN PROPERLY INTERPRETED AND PERFORMED;
+8 (II) WHETHER THE PROCUREMENT ADVANCES THE PURPOSES
+9 AND POLICIES ESTABLISHED UNDER § 11–201 OF THIS ARTICLE;
+10 (III) WHETHER THE CONDUCT OF UNIT PERSONNEL WAS BIASED,
+11 IN BAD FAITH, OR WITHOUT SUBSTANTIAL JUSTIFICATION; OR
+12 (IV) WHETHER THE UNIT FAILED TO PRODUCE ANY DOCUMENT
+13 REQUIRED BY LAW OR REGULATION.
+14 (3) A PROCUREMENT OFFICER’S FAILURE TO COMPLY WITH THIS
+15 SUBSECTION MAY BE REMEDIED BY ORDER OF THE MARYLAND STATE BOARD OF
+16 CONTRACT APPEALS.
+17 13–201.
+18 [(a) In this subtitle the following words have the meanings indicated.
+19 (b) “Change order” means a written order that:
+20 (1) is signed by the procurement officer; and
+21 (2) directs the contractor to make changes that the procurement contract
+22 authorizes the procurement officer to order without the consent of the contractor.
+23 (c) “Contract modification” means a written alteration that:
+24 (1) affects specifications, delivery point, date of delivery, period of
+25 performance, price, quantity, or other provisions of a procurement contract; and
+26 (2) is accomplished by mutual action of the parties to the procurement
+27 contract.
+28 (d) “Cost–reimbursement] IN THIS SUBTITLE, “COST–REIMBURSEMENT
+29 contract” means a procurement contract under which the State reimburses a contractor for
+30 fees and other costs that are:
+HOUSE BILL 304 9
+1 (1) recognized as allowable and allocable under the regulations of the
+2 Board on price and cost principles; and
+3 (2) within a stated ceiling.
+4 13–212.1.
+5 (b) For purposes of subsection (a) of this section, assisting in the drafting of
+6 specifications, an invitation for bids, or a request for proposals for a procurement does not
+7 include:
+8 (1) providing descriptive literature, such as catalogue sheets, brochures,
+9 technical data sheets, or standard specification “samples”, whether requested by an
+10 executive unit or provided unsolicited;
+11 (2) submitting written or oral comments on a specification prepared by an
+12 executive unit or on a solicitation for a bid or proposal when comments are solicited from
+13 two or more persons as part of a request for information or a prebid or preproposal process;
+14 (3) providing specifications for a sole source procurement made in
+15 accordance with § 13–107 of this title;
+16 (4) providing architectural and engineering services for:
+17 (i) programming, master planning, or other project planning
+18 services; or
+19 (ii) the design of a construction project if:
+20 1. the design services do not involve lead or prime design
+21 responsibilities or construction phase responsibilities on behalf of the State; and
+22 2. A. the anticipated value of the procurement contract at
+23 the time of advertisement is at least $2,500,000 and not more than $100,000,000; or
+24 B. regardless of the amount of the procurement contract, the
+25 payment to the individual or person for the design services does not exceed $500,000; [or]
+26 (5) for a procurement of health, human, social, or educational services,
+27 comments solicited from two or more persons as part of a request for information, including
+28 written or oral comments on a draft specification, an invitation for bids, or a request for
+29 proposals; OR
+30 (6) RECEIVING INFORMATION FROM VENDORS THAT DOES NOT
+31 PROVIDE AN UNFAIR COMPETITIVE ADVANTAGE FOR ANY BIDDER OR OFFEROR.
+32 13–218.
+10 HOUSE BILL 304
+1 (a) Each procurement contract shall include clauses covering:
+2 (1) termination for default;
+3 (2) termination wholly or partly by the State for its convenience if the head
+4 of the primary procurement unit determines that termination is appropriate;
+5 (3) variations that occur between estimated and actual quantities of work
+6 in a procurement contract;
+7 (4) liquidated damages, as appropriate;
+8 (5) specified excuses for nonperformance;
+9 (6) except for real property leases, the unilateral right of the State to order
+10 in writing:
+11 (i) changes in the work, if the changes are within the scope of the
+12 procurement contract; and
+13 (ii) a temporary stop or delay in performance;
+14 (7) the obligation of the contractor to comply with the political contribution
+15 reporting requirements under Title 14 of the Election Law Article, to which the contractor
+16 may be subject as required under § 17–402 of this article; [and]
+17 (8) nonvisual access for information technology as required under §
+18 3A–312 of this article; AND
+19 (9) A REQUIREMENT FOR A CHANGE ORDER TO COMPENSATE THE
+20 CONTRACTOR FOR INCREASES IN THE COST OF AND TIME FOR CONTRACT
+21 PERFORMANCE DUE TO CHANGES IN LAW.
+22 15–112.
+23 (b) (1) Except as provided in paragraphs (2) and (3) of this subsection, a unit
+24 may not require a prime contractor and a prime contractor may not require a subcontractor
+25 to begin change order work under a contract until the procurement officer for the unit issues
+26 a written change order that specifies whether the work is to proceed, in compliance WITH
+27 ANY CHANGES IN LAW OR REGULATION OR with the terms of the contract, on:
+28 (i) an agreed–to price which may include a preestablished catalog
+29 or unit prices based on local prevailing wage rates and equipment and material costs for
+30 each task required for the change order as included in the bid documents at the time of bid;
+HOUSE BILL 304 11
+1 (ii) a force account;
+2 (iii) a construction change directive; or
+3 (iv) a time and materials basis.
+4 15–218.
+5 (a) Except as provided under § 15–219 of this subtitle, a procurement officer who
+6 receives a protest [or a contract claim from a contractor] shall comply with this section.
+7 (b) (1) On receipt of a protest [or contract claim from a contractor], a
+8 procurement officer:
+9 (i) shall review the substance of the protest [or contract claim];
+10 (ii) may request additional information or substantiation through an
+11 appropriate procedure;
+12 (iii) may discuss with interested parties and, if appropriate, may
+13 conduct negotiations with the person initiating the protest [or contract claim]; and
+14 (iv) shall comply with any applicable regulations.
+15 (2) Unless clearly inappropriate, the procurement officer shall seek the
+16 advice of the Office of the Attorney General.
+17 (c) (1) Subject to subsection (b) of this section and consistent with the State
+18 budget and other applicable laws, the procurement officer shall:
+19 (i) resolve the protest [or contract claim] by agreement of the
+20 parties;
+21 (ii) wholly or partly deny the protest [or contract claim]; or
+22 (iii) wholly or partly grant the relief sought by the person who
+23 submitted the protest [or contract claim].
+24 (2) The procurement officer promptly shall send the decision in writing to
+25 the reviewing authority.
+26 (d) Unless otherwise provided by regulation, the decision of the procurement
+27 officer shall be reviewed promptly by:
+28 (1) the head of the unit; and
+12 HOUSE BILL 304
+1 (2) the head of the principal department or other equivalent unit of which
+2 the unit is a part.
+3 (e) (1) Except as provided under paragraph (3) of this subsection, the
+4 reviewing authority shall approve, disapprove, or modify the decision of the procurement
+5 officer [within 180 days after receiving the contract claim] WITHIN 45 DAYS AFTER
+6 RECEIVING THE PROTEST or a longer period to which the parties agree.
+7 (2) The action of the reviewing authority under this subsection shall be the
+8 final action of the unit.
+9 (3) The reviewing authority may remand the proceeding with instructions
+10 to the procurement officer.
+11 (4) On remand, the procurement officer shall proceed under subsection (b)
+12 of this section in accordance with those instructions.
+13 (f) (1) A decision [not to pay a contract claim] TO DENY A PROTEST is a final
+14 action for the purpose of appeal to the Appeals Board.
+15 (2) The failure to reach a decision within the time required under
+16 subsection (e) of this section may be deemed, at the option of the [contractor, to be a decision
+17 not to pay the contract claim] BIDDER OR OFFEROR TO BE A DECISION TO DENY THE
+18 PROTEST.
+19 15–219.
+20 (a) [Except to the extent a shorter period is prescribed by regulation governing
+21 differing site conditions, a] A contractor shall file a written notice of a claim relating to a
+22 procurement contract [for construction] within [30] 90 days after [the basis for the claim
+23 is known or should have been known] THE EARLIER OF:
+24 (1) A UNIT DENYING A REQUEST FOR EQUITABLE ADJUSTMENT; OR
+25 (2) THE PARTIES REACHING AN IMPASSE IN DISCUSSIONS
+26 ATTEMPTING TO RESOLVE THEIR DISAGREEMENT REGARDING THE REQUEST.
+27 (b) Unless extended by the unit, within 90 days after submitting a notice of a
+28 contract claim under a procurement contract [for construction], a contractor shall submit
+29 to the unit a written explanation that states:
+30 (1) the amount of the contract claim;
+31 (2) the facts on which the contract claim is based; and
+HOUSE BILL 304 13
+1 (3) all relevant data and correspondence that may substantiate the
+2 contract claim.
+3 (c) (1) Subject to paragraph (2) of this subsection, the head of the unit engaged
+4 in procurement [of the construction] shall review the contract claim.
+5 (2) If the unit is part of a principal department or other equivalent unit,
+6 the Secretary of the principal department or the equivalent official shall review the contract
+7 claim, unless review has been delegated by regulation to the head of the unit.
+8 (H) AT ANY TIME PRIOR TO RECEIVING PAYMENT ON A CLAIM, ON WRITTEN
+9 REQUEST BY THE PROCUREMENT OFFICER, THE CONTRACTOR SHALL PROVIDE THE
+10 UNIT WITH A CERTIFICATION BY A SENIOR OFFICER OR GENERAL PARTNER OF THE
+11 CONTRACTOR OR THE SUBCONTRACTOR, AS APPLICABLE, THAT, TO THE BEST OF
+12 THAT PERSON’S KNOWLEDGE AND BELIEF:
+13 (1) THE CLAIM IS MADE IN GOOD FAITH;
+14 (2) ALL SUPPORTING DATA IS ACCURATE AND COMPLETE; AND
+15 (3) THE AMOUNT REQUESTED ACCURATELY REFLECTS THE
+16 CONTRACT CLAIM FOR WHICH THE PERSON BELIEVES THE PROCUREMENT AGENCY
+17 IS LIABLE.
+18 [(h)] (I) At the time of final payment, the unit shall:
+19 (1) release the retainage due to the contractor; and
+20 (2) pay any interest that:
+21 (i) has accrued on the retainage from the time of payment of the
+22 semifinal estimate; and
+23 (ii) is due and payable to the contractor.
+24 15–221.2.
+25 (a) This section applies to a claim resulting under a contract.
+26 (b) The Appeals Board may award to a contractor the reasonable costs of filing
+27 and pursuing a claim OR DEFENDING AGAINST A CLAIM UNDER § 15–219.1 OF THIS
+28 SUBTITLE, including reasonable attorney’s fees, if the Appeals Board finds that the conduct
+29 of the unit in processing a contract claim is in bad faith, without substantial justification,
+30 or in violation of law.
+31 (c) The Appeals Board shall adopt regulations to implement this section.
+14 HOUSE BILL 304
+1 15–223.
+2 (a) (1) A decision of the Appeals Board is subject to judicial review in
+3 accordance with Title 10, Subtitle 2 of the State Government Article.
+4 (2) Any party to an Appeals Board decision, including a unit, may appeal a
+5 final decision of the Appeals Board to [a court of competent jurisdiction] THE APPELLATE
+6 COURT OF MARYLAND.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+8 October 1, 2025.
+[DELETED: :CA      5     A S F a c a t c p o r a a e t t p o a i w a i t d o s a i a i a c c p t c o r t c i l a w s d r r p t M d c c s t a a f a f d o t A r B  A S 1 1 1 1 1 1 1 t  A  ( B  A S]
+[DELETED:  H   A  (  S T A 1  ( I   ( t   ( a  ( ( “    ( i c    ( r   ( “ e p a d a p o r d a c o s t s c m a e e a o   ( “ s d n i c i s s p i c w a e p c o s  ( “  ( “  (C”:R  ( ;R  ( T C T M C T A B A C I L O T T P C ]
+[DELETED: H 3   “ S   ( s S   ( e t E   ( m S  () ( “ m t p o b a]( i   ( “ d   ( “ o c  () ( “ r s m f s]( s w a   ( “ c ) “C”:ON  ( ,,S T Y O PE PE QY O O P O A, CT I M R D TRST  (  () “]( o]
+[DELETED:  H   () “]( o i o p  () ( “](    ( i m e o p i s m p e g    ( r a   ( “ p s   ( “ w  () “]( §  () “ m a i r t g p]( r f o r o a k a a p f a  () “](   ( t   ( t   ( t   ( t   ( t   ( t   ( t  () ( “](]
+[DELETED: H 5    ( l    ( b o o s s c c r s a s e s o s p   ( “ i t s a a o p c  () ( “]( i   ( “    ( a c b a w a e o    ( a a w a c e a d i § 1    ( a M J o s r c f w     1 u     2 p    ( a M c w a m c o a d t     1 r     2 m a     3 c f e r i m c o  () “](   ( e   ( a]
+[DELETED:  H    ( m d a f w r t a p c  () “]( f  () “ f p m a d u f s]( p  () “](   ( h a   ( p t i a r t w e g f p  () “](   ( i   ( c  () ( E]( m    ( t    ( a o   ( “ i s p b a a p   ( “    ( c    ( a    ( e    ( e  () “](]
+[DELETED: H 7   ( a   ( t  () ( “ c f m c i]( a a   ( “  () ( “](    ( i    ( t    ( p    ( s n a w i o t p   ( “    ( a    ( t a  () ( “](A B c   ( “    ( a b m b o m g a    ( a s t d s d d d s c 1 ) ( ON R O A U OR T]
+[DELETED:  H  (  F I S T A CT A D R U P  O T( S I A R I O F A BY O D WH A C O T I  ()W A E P R B  ()IW   11;  () IWDH N ;  ()VW ( AP ORS F T C W T A T OSA. P 1  ( I  ( “   ( i   ( d a  ( “   ( a s d p d o d p o p   ( i a b m a o t p t t p c  ( “tI,“N T SE CTR c f]
+[DELETED: H 9   ( r a a a a u t r o t B   ( w 1  ( F p o s ( o t s a i t d o s i   ( p t d s o s s “ w r b a e   ( s e t   ( p s f a s s p m i a   ( p    ( p m p o o p p s    ( t     1 t d s d n i l o p d r     2 A t t     B r p o]   ( f a p o h h s o e s c w p ( I F V T D N . 1]
+[DELETED:  H   ( E   ( t   ( t o   ( v i   ( l   ( s   ( e i    ( c p    ( a   ( t r m a]   ( n a f i t a r u § 3 ( R F A C O T C T F I I T C O A T F C . 1  ( ( E m t a      ( a o e]
+[DELETED: H 1    ( a    ( a    ( a 1  ( E r or   ( ( O r o a p o c c f a cr, a p    ( s om;    ( m a    ( m d w i p a i a m c om;    ( s   ( U c i t p o s s t a  ( ( S b    ( r t p o c cm b a o t p    ( w om;    ( w o p g t r s b t p w s om.   ( T t  ( U o p b r t d o t p o   ( t]
+[DELETED:  H    ( t t  ( ( E a p u p ( o t s t r o w 1 d a r t c cm]4  D A o   ( T f   ( T t   ( O o  ( ( A nm  a   ( T f t r a d w t t r u s c n . 1  ( E da  p fn  30  t][]90 i: ( ;T  ( P R A I I D .  ( U c fn, t   ( t   ( t]
+[DELETED: H 1   ( a r d a c t m s t c  ( ( S i on    ( I t c  )ATM R R E T ,NS: ( ; ( ;E  ( A R A R T[]() ()A   ( r   ( p    ( h s    ( i 1  ( T  ( T a   1 , o o  ( T]
+[DELETED:  H  1  ( ( A d o t A B i s t j r i a   ( A f a] P A .  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 304
+P2 5lr1614
+By: Delegate Kerr
+Introduced and read first time: January 9, 2025
+Assigned to: Health and Government Operations
+A BILL ENTITLED
+1 AN ACT concerning
+2 State Procurement – Transparency and Procedures
+3 FOR the purpose of requiring a unit of State government to provide a certain debriefing of
+4 a contract award to certain persons on request; adding an exemption to the
+5 prohibition on an individual who assists in the drafting of specifications, an
+6 invitation for bids, or a request for proposals from submitting a bid or proposal or
+7 assisting in the submission of a bid or proposal; requiring a procurement contract to
+8 include a certain clause pertaining to change orders related to changes in law;
+9 altering the required contents of a certain change order; altering the time within
+10 which a procurement officer shall make a decision after receiving a certain protest;
+11 specifying that certain decisions or failure to reach a decision may be considered a
+12 denial of a certain protest; altering the time within which a written notice of a claim
+13 relating to a certain procurement contract shall be made; applying certain provisions
+14 related to a contract claim that applied to construction contracts to certain other
+15 procurement contracts; requiring a contractor, on request of a procurement officer,
+16 to provide certain information prior to receiving payment on a claim; authorizing the
+17 Maryland State Board of Contract Appeals to award a contractor certain costs of
+18 defending certain claims; specifying that an appeal from a final decision of the
+19 Appeals Board may be appealed to the Appellate Court of Maryland; and generally
+20 relating to State procurement procedures.
+21 BY repealing and reenacting, with amendments,
+22 Article – State Finance and Procurement
+23 Section 11–101, 13–201, 13–212.1(b), 13–218(a), 15–112(b)(1), 15–218, 15–219(a)
+24 through (c) and (h), 15–221.2, and 15–223(a)
+25 Annotated Code of Maryland
+26 (2021 Replacement Volume and 2024 Supplement)
+27 BY adding to
+28 Article – State Finance and Procurement
+29 Section 13–104(h) and 15–219(h)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0304*
+
+2 HOUSE BILL 304
+1 Annotated Code of Maryland
+2 (2021 Replacement Volume and 2024 Supplement)
+3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+4 That the Laws of Maryland read as follows:
+5 Article – State Finance and Procurement
+6 11–101.
+7 (a) In this Division II the following words have the meanings indicated unless:
+8 (1) the context clearly requires a different meaning; or
+9 (2) a different definition is provided for a particular title or provision.
+10 (b) (1) “Architectural services” means professional or creative work that:
+11 (i) is performed in connection with the design and supervision of
+12 construction or landscaping; and
+13 (ii) requires architectural education, training, and experience.
+14 (2) “Architectural services” includes consultation, research, investigation,
+15 evaluation, planning, architectural design and preparation of related documents, and
+16 coordination of services that structural, civil, mechanical, and electrical engineers and
+17 other consultants provide.
+18 (3) “Architectural services” does not include construction inspection
+19 services, services provided in connection with an energy performance contract, or
+20 structural, mechanical, plumbing, or electrical engineering.
+21 (c) “Bid” means a response to an invitation for bids under § 13–103 of this article.
+22 (d) “Board” means the Board of Public Works.
+23 (e) “CHANGE ORDER” MEANS A WRITTEN ORDER THAT:
+24 (1) IS SIGNED BY THE PROCUREMENT OFFICER; AND
+25 (2) DIRECTS THE CONTRACTOR TO MAKE CHANGES THAT ARE
+26 REQUIRED BY A CHANGE IN LAW OR THAT THE PROCUREMENT CONTRACT
+27 AUTHORIZES THE PROCUREMENT OFFICER TO ORDER WITHOUT THE CONSENT OF
+28 THE CONTRACTOR.
+
+HOUSE BILL 304 3
+1 (F) “Chief Procurement Officer” means an official of the Department of General
+2 Services who:
+3 (1) shall be appointed by the Governor with the advice and consent of the
+4 Senate;
+5 (2) except for procurement activity by a primary procurement unit other
+6 than the Department of General Services, is the head of all procurement activity for the
+7 Executive Branch of State government; and
+8 (3) may engage in or control procurement for the Department of General
+9 Services in accordance with § 12–107(b)(2) of this article.
+10 [(f)] (G) (1) “Construction” means the process of building, altering,
+11 improving, or demolishing an improvement to real property.
+12 (2) “Construction” includes any major work necessary to repair, prevent
+13 damage to, or sustain existing components of an improvement to real property.
+14 (3) “Construction” does not include the maintenance or routine operation
+15 of an existing improvement to real property, or activities related to an energy performance
+16 contract.
+17 [(g)] (H) (1) “Construction related services” means feasibility studies,
+18 surveys, construction management, construction inspection, and similar efforts associated
+19 with construction or the acquisition of public improvements as defined in § 4–401(d) of this
+20 article.
+21 (2) “Construction related services” does not include services provided in
+22 connection with an energy performance contract.
+23 (I) “CONTRACT MODIFICATION” MEANS A WRITTEN ALTERATION THAT:
+24 (1) AFFECTS SPECIFICATIONS, DELIVERY POINT, DATE OF DELIVERY,
+25 PERIOD OF PERFORMANCE, PRICE, QUANTITY, OR OTHER PROVISIONS OF A
+26 PROCUREMENT CONTRACT, INCLUDING MODIFICATIONS REQUIRED DUE TO
+27 CHANGES IN LAW OR REGULATION THAT INCREASE THE CONTRACTOR’S COST OF OR
+28 TIME FOR PERFORMANCE OF THE CONTRACT; AND
+29 (2) IS ACCOMPLISHED BY MUTUAL ACTION OF THE PARTIES TO THE
+30 PROCUREMENT CONTRACT.
+31 [(h)] (J) “County” means a county of the State and, unless expressly provided
+32 otherwise, Baltimore City.
+
+4 HOUSE BILL 304
+1 [(i)] (K) “Energy performance contract” means an agreement for the provision
+2 of energy services, including electricity, heating, ventilation, cooling, steam, or hot water,
+3 in which a person agrees to design, install, finance, maintain, or manage energy systems
+4 or equipment to improve the energy efficiency of a building or facility in exchange for a
+5 portion of the energy savings.
+6 [(j)] (L) (1) “Engineering services” means professional or creative work that:
+7 (i) is performed in connection with any utility, structure, building,
+8 machine, equipment, or process, including structural, mechanical, plumbing, electrical,
+9 geotechnical, and environmental engineering; and
+10 (ii) requires engineering education, training, and experience in the
+11 application of special knowledge of the mathematical, physical, and engineering sciences.
+12 (2) “Engineering services” includes consultation, investigation, evaluation,
+13 planning, design, and inspection of construction to interpret and ensure compliance with
+14 specifications and design within the scope of inspection services.
+15 (3) “Engineering services” does not include services provided in connection
+16 with an energy performance contract.
+17 [(k)] (M) “Invitation for bids” means any document used for soliciting bids under
+18 § 13–103 of this article.
+19 [(l)] (N) “Person” means an individual, receiver, trustee, guardian, personal
+20 representative, fiduciary, or representative of any kind and any partnership, firm,
+21 association, corporation, or other entity.
+22 [(m)] (O) “Primary procurement units” means:
+23 (1) the State Treasurer;
+24 (2) the Department of General Services;
+25 (3) the Department of Transportation;
+26 (4) the University System of Maryland;
+27 (5) the Maryland Port Commission;
+28 (6) the Morgan State University; and
+29 (7) the St. Mary’s College of Maryland.
+30 [(n)] (P) (1) “Procurement” means the process of:
+
+HOUSE BILL 304 5
+1 (i) leasing real or personal property as lessee; or
+2 (ii) buying or otherwise obtaining supplies, services, construction,
+3 construction related services, architectural services, engineering services, or services
+4 provided under an energy performance contract.
+5 (2) “Procurement” includes the solicitation and award of procurement
+6 contracts and all phases of procurement contract administration.
+7 [(o)] (Q) (1) “Procurement contract” means an agreement in any form entered
+8 into by a unit for procurement.
+9 (2) “Procurement contract” does not include:
+10 (i) a collective bargaining agreement with an employee
+11 organization;
+12 (ii) an agreement with a contractual employee, as defined in §
+13 1–101(d) of the State Personnel and Pensions Article;
+14 (iii) a Medicaid, Judicare, or similar reimbursement contract for
+15 which law sets:
+16 1. user or recipient eligibility; and
+17 2. price payable by the State; or
+18 (iv) a Medicaid contract with a managed care organization, as
+19 defined in § 15–101(e) of the Health – General Article as to which regulations adopted by
+20 the Department establish:
+21 1. recipient eligibility;
+22 2. minimum qualifications for managed care organizations;
+23 and
+24 3. criteria for enrolling recipients in managed care
+25 organizations.
+26 [(p)] (R) “Procurement officer” means an individual authorized by a unit to:
+27 (1) enter into a procurement contract;
+28 (2) administer a procurement contract; or
+
+6 HOUSE BILL 304
+1 (3) make determinations and findings with respect to a procurement
+2 contract.
+3 [(q)] (S) “Proposal” means a response to any solicitation other than an invitation
+4 for bids.
+5 [(r)] (T) “Request for proposals” means any document used for soliciting
+6 proposals.
+7 [(s)] (U) “Responsible bidder or offeror” means a person who:
+8 (1) has the capability in all respects to perform fully the requirements for
+9 a procurement contract; and
+10 (2) possesses the integrity and reliability that will ensure good faith
+11 performance.
+12 [(t)] (V) “Responsive bid” means a bid that:
+13 (1) is submitted under § 13–103 of this article; and
+14 (2) conforms in all material respects to the invitation for bids.
+15 [(u)] (W) (1) Except as provided in paragraph (3) of this subsection, “services”
+16 means:
+17 (i) the labor, time, or effort of a contractor; and
+18 (ii) any product or report necessarily associated with the rendering
+19 of a service.
+20 (2) “Services” includes services provided by attorneys, accountants,
+21 physicians, consultants, and other professionals who are independent contractors.
+22 (3) “Services” does not include:
+23 (i) construction related services;
+24 (ii) architectural services;
+25 (iii) engineering services; or
+26 (iv) energy performance contract services.
+27 [(v)] (X) “State” means:
+
+HOUSE BILL 304 7
+1 (1) a state, possession, territory, or commonwealth of the United States; or
+2 (2) the District of Columbia.
+3 [(w)] (Y) (1) “State correctional facilities” means correctional institutions,
+4 and all places of correctional confinement, that are located within the State of Maryland
+5 and are primarily operated by the Maryland State government.
+6 (2) “State correctional facilities” includes Patuxent Institution.
+7 [(x)] (Z) (1) “Supplies” means:
+8 (i) insurance;
+9 (ii) tangible personal property;
+10 (iii) printing; and
+11 (iv) services necessarily associated with insurance or tangible
+12 personal property.
+13 (2) “Supplies” does not include:
+14 (i) an interest in real property; or
+15 (ii) tangible personal property acquired or used in connection with
+16 an energy performance contract.
+17 [(y)] (AA) (1) “Unit” means an officer or other entity that is in the Executive
+18 Branch of the State government and is authorized by law to enter into a procurement
+19 contract.
+20 (2) “Unit” does not include:
+21 (i) a bistate, multistate, bicounty, or multicounty governmental
+22 agency; or
+23 (ii) a special tax district, sanitary district, drainage district, soil
+24 conservation district, water supply district, or other political subdivision of the State.
+25 13–104.
+26 (H) (1) ON REQUEST OF AN UNSUCCESSFUL OFFEROR, THE
+27 PROCUREMENT OFFICE OF A UNIT SHALL PROVIDE A DEBRIEFING OF A CONTRACT
+28 AWARD.
+
+8 HOUSE BILL 304
+1 (2) EXCEPT FOR INFORMATION SUBJECT TO A CONFIDENTIALITY
+2 AGREEMENT, A DEBRIEFING REQUIRED UNDER PARAGRAPH (1) OF THIS
+3 SUBSECTION SHALL INCLUDE ALL RELEVANT INFORMATION OBTAINED FROM A
+4 PROPOSAL BY, OR DISCUSSIONS WITH, A COMPETING OFFEROR THAT IS
+5 REASONABLY NECESSARY TO DETERMINE:
+6 (I) WHETHER ALL EVALUATION PROCEDURES REQUIRED BY
+7 LAW HAVE BEEN PROPERLY INTERPRETED AND PERFORMED;
+8 (II) WHETHER THE PROCUREMENT ADVANCES THE PURPOSES
+9 AND POLICIES ESTABLISHED UNDER § 11–201 OF THIS ARTICLE;
+10 (III) WHETHER THE CONDUCT OF UNIT PERSONNEL WAS BIASED,
+11 IN BAD FAITH, OR WITHOUT SUBSTANTIAL JUSTIFICATION; OR
+12 (IV) WHETHER THE UNIT FAILED TO PRODUCE ANY DOCUMENT
+13 REQUIRED BY LAW OR REGULATION.
+14 (3) A PROCUREMENT OFFICER’S FAILURE TO COMPLY WITH THIS
+15 SUBSECTION MAY BE REMEDIED BY ORDER OF THE MARYLAND STATE BOARD OF
+16 CONTRACT APPEALS.
+17 13–201.
+18 [(a) In this subtitle the following words have the meanings indicated.
+19 (b) “Change order” means a written order that:
+20 (1) is signed by the procurement officer; and
+21 (2) directs the contractor to make changes that the procurement contract
+22 authorizes the procurement officer to order without the consent of the contractor.
+23 (c) “Contract modification” means a written alteration that:
+24 (1) affects specifications, delivery point, date of delivery, period of
+25 performance, price, quantity, or other provisions of a procurement contract; and
+26 (2) is accomplished by mutual action of the parties to the procurement
+27 contract.
+28 (d) “Cost–reimbursement] IN THIS SUBTITLE, “COST–REIMBURSEMENT
+29 contract” means a procurement contract under which the State reimburses a contractor for
+30 fees and other costs that are:
+
+HOUSE BILL 304 9
+1 (1) recognized as allowable and allocable under the regulations of the
+2 Board on price and cost principles; and
+3 (2) within a stated ceiling.
+4 13–212.1.
+5 (b) For purposes of subsection (a) of this section, assisting in the drafting of
+6 specifications, an invitation for bids, or a request for proposals for a procurement does not
+7 include:
+8 (1) providing descriptive literature, such as catalogue sheets, brochures,
+9 technical data sheets, or standard specification “samples”, whether requested by an
+10 executive unit or provided unsolicited;
+11 (2) submitting written or oral comments on a specification prepared by an
+12 executive unit or on a solicitation for a bid or proposal when comments are solicited from
+13 two or more persons as part of a request for information or a prebid or preproposal process;
+14 (3) providing specifications for a sole source procurement made in
+15 accordance with § 13–107 of this title;
+16 (4) providing architectural and engineering services for:
+17 (i) programming, master planning, or other project planning
+18 services; or
+19 (ii) the design of a construction project if:
+20 1. the design services do not involve lead or prime design
+21 responsibilities or construction phase responsibilities on behalf of the State; and
+22 2. A. the anticipated value of the procurement contract at
+23 the time of advertisement is at least $2,500,000 and not more than $100,000,000; or
+24 B. regardless of the amount of the procurement contract, the
+25 payment to the individual or person for the design services does not exceed $500,000; [or]
+26 (5) for a procurement of health, human, social, or educational services,
+27 comments solicited from two or more persons as part of a request for information, including
+28 written or oral comments on a draft specification, an invitation for bids, or a request for
+29 proposals; OR
+30 (6) RECEIVING INFORMATION FROM VENDORS THAT DOES NOT
+31 PROVIDE AN UNFAIR COMPETITIVE ADVANTAGE FOR ANY BIDDER OR OFFEROR.
+32 13–218.
+
+10 HOUSE BILL 304
+1 (a) Each procurement contract shall include clauses covering:
+2 (1) termination for default;
+3 (2) termination wholly or partly by the State for its convenience if the head
+4 of the primary procurement unit determines that termination is appropriate;
+5 (3) variations that occur between estimated and actual quantities of work
+6 in a procurement contract;
+7 (4) liquidated damages, as appropriate;
+8 (5) specified excuses for nonperformance;
+9 (6) except for real property leases, the unilateral right of the State to order
+10 in writing:
+11 (i) changes in the work, if the changes are within the scope of the
+12 procurement contract; and
+13 (ii) a temporary stop or delay in performance;
+14 (7) the obligation of the contractor to comply with the political contribution
+15 reporting requirements under Title 14 of the Election Law Article, to which the contractor
+16 may be subject as required under § 17–402 of this article; [and]
+17 (8) nonvisual access for information technology as required under §
+18 3A–312 of this article; AND
+19 (9) A REQUIREMENT FOR A CHANGE ORDER TO COMPENSATE THE
+20 CONTRACTOR FOR INCREASES IN THE COST OF AND TIME FOR CONTRACT
+21 PERFORMANCE DUE TO CHANGES IN LAW.
+22 15–112.
+23 (b) (1) Except as provided in paragraphs (2) and (3) of this subsection, a unit
+24 may not require a prime contractor and a prime contractor may not require a subcontractor
+25 to begin change order work under a contract until the procurement officer for the unit issues
+26 a written change order that specifies whether the work is to proceed, in compliance WITH
+27 ANY CHANGES IN LAW OR REGULATION OR with the terms of the contract, on:
+28 (i) an agreed–to price which may include a preestablished catalog
+29 or unit prices based on local prevailing wage rates and equipment and material costs for
+30 each task required for the change order as included in the bid documents at the time of bid;
+
+HOUSE BILL 304 11
+1 (ii) a force account;
+2 (iii) a construction change directive; or
+3 (iv) a time and materials basis.
+4 15–218.
+5 (a) Except as provided under § 15–219 of this subtitle, a procurement officer who
+6 receives a protest [or a contract claim from a contractor] shall comply with this section.
+7 (b) (1) On receipt of a protest [or contract claim from a contractor], a
+8 procurement officer:
+9 (i) shall review the substance of the protest [or contract claim];
+10 (ii) may request additional information or substantiation through an
+11 appropriate procedure;
+12 (iii) may discuss with interested parties and, if appropriate, may
+13 conduct negotiations with the person initiating the protest [or contract claim]; and
+14 (iv) shall comply with any applicable regulations.
+15 (2) Unless clearly inappropriate, the procurement officer shall seek the
+16 advice of the Office of the Attorney General.
+17 (c) (1) Subject to subsection (b) of this section and consistent with the State
+18 budget and other applicable laws, the procurement officer shall:
+19 (i) resolve the protest [or contract claim] by agreement of the
+20 parties;
+21 (ii) wholly or partly deny the protest [or contract claim]; or
+22 (iii) wholly or partly grant the relief sought by the person who
+23 submitted the protest [or contract claim].
+24 (2) The procurement officer promptly shall send the decision in writing to
+25 the reviewing authority.
+26 (d) Unless otherwise provided by regulation, the decision of the procurement
+27 officer shall be reviewed promptly by:
+28 (1) the head of the unit; and
+
+12 HOUSE BILL 304
+1 (2) the head of the principal department or other equivalent unit of which
+2 the unit is a part.
+3 (e) (1) Except as provided under paragraph (3) of this subsection, the
+4 reviewing authority shall approve, disapprove, or modify the decision of the procurement
+5 officer [within 180 days after receiving the contract claim] WITHIN 45 DAYS AFTER
+6 RECEIVING THE PROTEST or a longer period to which the parties agree.
+7 (2) The action of the reviewing authority under this subsection shall be the
+8 final action of the unit.
+9 (3) The reviewing authority may remand the proceeding with instructions
+10 to the procurement officer.
+11 (4) On remand, the procurement officer shall proceed under subsection (b)
+12 of this section in accordance with those instructions.
+13 (f) (1) A decision [not to pay a contract claim] TO DENY A PROTEST is a final
+14 action for the purpose of appeal to the Appeals Board.
+15 (2) The failure to reach a decision within the time required under
+16 subsection (e) of this section may be deemed, at the option of the [contractor, to be a decision
+17 not to pay the contract claim] BIDDER OR OFFEROR TO BE A DECISION TO DENY THE
+18 PROTEST.
+19 15–219.
+20 (a) [Except to the extent a shorter period is prescribed by regulation governing
+21 differing site conditions, a] A contractor shall file a written notice of a claim relating to a
+22 procurement contract [for construction] within [30] 90 days after [the basis for the claim
+23 is known or should have been known] THE EARLIER OF:
+24 (1) A UNIT DENYING A REQUEST FOR EQUITABLE ADJUSTMENT; OR
+25 (2) THE PARTIES REACHING AN IMPASSE IN DISCUSSIONS
+26 ATTEMPTING TO RESOLVE THEIR DISAGREEMENT REGARDING THE REQUEST.
+27 (b) Unless extended by the unit, within 90 days after submitting a notice of a
+28 contract claim under a procurement contract [for construction], a contractor shall submit
+29 to the unit a written explanation that states:
+30 (1) the amount of the contract claim;
+31 (2) the facts on which the contract claim is based; and
+
+HOUSE BILL 304 13
+1 (3) all relevant data and correspondence that may substantiate the
+2 contract claim.
+3 (c) (1) Subject to paragraph (2) of this subsection, the head of the unit engaged
+4 in procurement [of the construction] shall review the contract claim.
+5 (2) If the unit is part of a principal department or other equivalent unit,
+6 the Secretary of the principal department or the equivalent official shall review the contract
+7 claim, unless review has been delegated by regulation to the head of the unit.
+8 (H) AT ANY TIME PRIOR TO RECEIVING PAYMENT ON A CLAIM, ON WRITTEN
+9 REQUEST BY THE PROCUREMENT OFFICER, THE CONTRACTOR SHALL PROVIDE THE
+10 UNIT WITH A CERTIFICATION BY A SENIOR OFFICER OR GENERAL PARTNER OF THE
+11 CONTRACTOR OR THE SUBCONTRACTOR, AS APPLICABLE, THAT, TO THE BEST OF
+12 THAT PERSON’S KNOWLEDGE AND BELIEF:
+13 (1) THE CLAIM IS MADE IN GOOD FAITH;
+14 (2) ALL SUPPORTING DATA IS ACCURATE AND COMPLETE; AND
+15 (3) THE AMOUNT REQUESTED ACCURATELY REFLECTS THE
+16 CONTRACT CLAIM FOR WHICH THE PERSON BELIEVES THE PROCUREMENT AGENCY
+17 IS LIABLE.
+18 [(h)] (I) At the time of final payment, the unit shall:
+19 (1) release the retainage due to the contractor; and
+20 (2) pay any interest that:
+21 (i) has accrued on the retainage from the time of payment of the
+22 semifinal estimate; and
+23 (ii) is due and payable to the contractor.
+24 15–221.2.
+25 (a) This section applies to a claim resulting under a contract.
+26 (b) The Appeals Board may award to a contractor the reasonable costs of filing
+27 and pursuing a claim OR DEFENDING AGAINST A CLAIM UNDER § 15–219.1 OF THIS
+28 SUBTITLE, including reasonable attorney’s fees, if the Appeals Board finds that the conduct
+29 of the unit in processing a contract claim is in bad faith, without substantial justification,
+30 or in violation of law.
+31 (c) The Appeals Board shall adopt regulations to implement this section.
+
+14 HOUSE BILL 304
+1 15–223.
+2 (a) (1) A decision of the Appeals Board is subject to judicial review in
+3 accordance with Title 10, Subtitle 2 of the State Government Article.
+4 (2) Any party to an Appeals Board decision, including a unit, may appeal a
+5 final decision of the Appeals Board to [a court of competent jurisdiction] THE APPELLATE
+6 COURT OF MARYLAND.
+7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+8 October 1, 2025.
+
+[DELETED: :CA      5     A S F a c a t c p o r a a e t t p o a i w a i t d o s a i a i a c c p t c o r t c i l a w s d r r p t M d c c s t a a f a f d o t A r B  A S 1 1 1 1 1 1 1 t  A  ( B  A S]
+[DELETED:  H   A  (  S T A 1  ( I   ( t   ( a  ( ( “    ( i c    ( r   ( “ e p a d a p o r d a c o s t s c m a e e a o   ( “ s d n i c i s s p i c w a e p c o s  ( “  ( “  (C”:R  ( ;R  ( T C T M C T A B A C I L O T T P C ]
+[DELETED: H 3   “ S   ( s S   ( e t E   ( m S  () ( “ m t p o b a]( i   ( “ d   ( “ o c  () ( “ r s m f s]( s w a   ( “ c ) “C”:ON  ( ,,S T Y O PE PE QY O O P O A, CT I M R D TRST  (  () “]( o]
+[DELETED:  H   () “]( o i o p  () ( “](    ( i m e o p i s m p e g    ( r a   ( “ p s   ( “ w  () “]( §  () “ m a i r t g p]( r f o r o a k a a p f a  () “](   ( t   ( t   ( t   ( t   ( t   ( t   ( t  () ( “](]
+[DELETED: H 5    ( l    ( b o o s s c c r s a s e s o s p   ( “ i t s a a o p c  () ( “]( i   ( “    ( a c b a w a e o    ( a a w a c e a d i § 1    ( a M J o s r c f w     1 u     2 p    ( a M c w a m c o a d t     1 r     2 m a     3 c f e r i m c o  () “](   ( e   ( a]
+[DELETED:  H    ( m d a f w r t a p c  () “]( f  () “ f p m a d u f s]( p  () “](   ( h a   ( p t i a r t w e g f p  () “](   ( i   ( c  () ( E]( m    ( t    ( a o   ( “ i s p b a a p   ( “    ( c    ( a    ( e    ( e  () “](]
+[DELETED: H 7   ( a   ( t  () ( “ c f m c i]( a a   ( “  () ( “](    ( i    ( t    ( p    ( s n a w i o t p   ( “    ( a    ( t a  () ( “](A B c   ( “    ( a b m b o m g a    ( a s t d s d d d s c 1 ) ( ON R O A U OR T]
+[DELETED:  H  (  F I S T A CT A D R U P  O T( S I A R I O F A BY O D WH A C O T I  ()W A E P R B  ()IW   11;  () IWDH N ;  ()VW ( AP ORS F T C W T A T OSA. P 1  ( I  ( “   ( i   ( d a  ( “   ( a s d p d o d p o p   ( i a b m a o t p t t p c  ( “tI,“N T SE CTR c f]
+[DELETED: H 9   ( r a a a a u t r o t B   ( w 1  ( F p o s ( o t s a i t d o s i   ( p t d s o s s “ w r b a e   ( s e t   ( p s f a s s p m i a   ( p    ( p m p o o p p s    ( t     1 t d s d n i l o p d r     2 A t t     B r p o]   ( f a p o h h s o e s c w p ( I F V T D N . 1]
+[DELETED:  H   ( E   ( t   ( t o   ( v i   ( l   ( s   ( e i    ( c p    ( a   ( t r m a]   ( n a f i t a r u § 3 ( R F A C O T C T F I I T C O A T F C . 1  ( ( E m t a      ( a o e]
+[DELETED: H 1    ( a    ( a    ( a 1  ( E r or   ( ( O r o a p o c c f a cr, a p    ( s om;    ( m a    ( m d w i p a i a m c om;    ( s   ( U c i t p o s s t a  ( ( S b    ( r t p o c cm b a o t p    ( w om;    ( w o p g t r s b t p w s om.   ( T t  ( U o p b r t d o t p o   ( t]
+[DELETED:  H    ( t t  ( ( E a p u p ( o t s t r o w 1 d a r t c cm]4  D A o   ( T f   ( T t   ( O o  ( ( A nm  a   ( T f t r a d w t t r u s c n . 1  ( E da  p fn  30  t][]90 i: ( ;T  ( P R A I I D .  ( U c fn, t   ( t   ( t]
+[DELETED: H 1   ( a r d a c t m s t c  ( ( S i on    ( I t c  )ATM R R E T ,NS: ( ; ( ;E  ( A R A R T[]() ()A   ( r   ( p    ( h s    ( i 1  ( T  ( T a   1 , o o  ( T]
+[DELETED:  H  1  ( ( A d o t A B i s t j r i a   ( A f a] P A .  S A B I F E T t A s t e O]

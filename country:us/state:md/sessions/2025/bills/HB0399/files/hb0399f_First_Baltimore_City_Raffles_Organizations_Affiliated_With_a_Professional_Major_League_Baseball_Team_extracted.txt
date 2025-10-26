@@ -1,0 +1,356 @@
+Title: HOUSE BILL 399
+Official Title: HOUSE BILL 399
+Number of Sections: 1
+Source: versions - First - Baltimore City - Raffles - Organizations Affiliated With a Professional Major League Baseball Team
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+C7 5lr1963
+CF SB 341
+By: Delegate Edelson
+Introduced and read first time: January 16, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Baltimore City – Raffles – Organizations Affiliated With a Professional Major
+3 League Baseball Team
+4 FOR the purpose of authorizing certain organizations that are affiliated with a professional
+5 major league baseball team that plays its home games in Baltimore City to conduct
+6 certain raffles; requiring the organization to obtain a permit to conduct raffles from
+7 an agency designated by the Baltimore City government; authorizing a raffle ticket
+8 to be sold and received on an electronic device located within the geographical
+9 boundaries of Baltimore City; and generally relating to raffles in Baltimore City.
+10 BY repealing and reenacting, with amendments,
+11 Article – Criminal Law
+12 Section 13–501, 13–503, 13–505, and 13–510
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Criminal Law
+17 Section 13–505.1
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Criminal Law
+23 13–501.
+24 (a) In this subtitle the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0399*
+2 HOUSE BILL 399
+1 (b) “Commissioner” means the Baltimore City Police Commissioner.
+2 (C) “DESIGNATED CITY AGENCY” MEANS AN AGENCY DESIGNATED BY THE
+3 BALTIMORE CITY GOVERNMENT.
+4 (D) (1) “ELECTRONIC DEVICE” MEANS A DEVICE THAT IS CAPABLE OF
+5 TRANSMITTING, RECEIVING, OR RECORDING MESSAGES, IMAGES, SOUNDS, DATA, OR
+6 OTHER INFORMATION BY ELECTRONIC MEANS OR THAT, IN APPEARANCE,
+7 PURPORTS TO BE A CELL PHONE, COMPUTER, OR OTHER SUCH DEVICE.
+8 (2) “ELECTRONIC DEVICE” INCLUDES A CELL PHONE OR COMPUTER.
+9 (3) “ELECTRONIC DEVICE” DOES NOT INCLUDE A VIDEO LOTTERY
+10 TERMINAL AS DEFINED UNDER § 9–1A–01 OF THE STATE GOVERNMENT ARTICLE.
+11 [(c)] (E) “Gaming event” means a carnival, bazaar, or raffle.
+12 (F) (1) “GEOFENCE” MEANS TECHNOLOGY THAT ESTABLISHES A
+13 VIRTUAL GEOGRAPHICAL BOUNDARY.
+14 (2) “GEOFENCE” INCLUDES BOUNDARIES THAT ARE ESTABLISHED
+15 OR MONITORED THROUGH THE USE OF:
+16 (I) GLOBAL POSITIONING TECHNOLOGY;
+17 (II) CELL TOWER CONNECTIVITY;
+18 (III) CELLULAR DATA;
+19 (IV) RADIO FREQUENCY IDENTIFICATION;
+20 (V) WIRELESS FIDELITY TECHNOLOGY; OR
+21 (VI) ANY OTHER FORM OF LOCATION DETERMINATION
+22 TECHNOLOGY.
+23 [(d)] (G) “Raffle” means one or more drawings from a single series of chances
+24 sold [from chance books].
+25 13–503.
+26 (a) THIS SECTION DOES NOT APPLY TO A RAFFLE AUTHORIZED UNDER §
+27 13–505.1 OF THIS SUBTITLE.
+HOUSE BILL 399 3
+1 (B) Before an organization listed in subsection [(b)] (C) of this section may operate
+2 a gaming event, the organization shall obtain a permit from the commissioner.
+3 [(b)] (C) (1) An organization that meets the conditions of paragraph (2) of this
+4 subsection may conduct a gaming event for the benefit of any of the following listed
+5 organizations if the organization is a bona fide:
+6 (i) religious organization;
+7 (ii) fraternal organization;
+8 (iii) civic organization;
+9 (iv) veterans’ hospital;
+10 (v) amateur athletic organization in which all playing members are
+11 under the age of 18 years; or
+12 (vi) charitable organization.
+13 (2) An organization conducting a gaming event shall:
+14 (i) be located in Baltimore City; and
+15 (ii) spend a majority of the organization’s funds in Baltimore City
+16 for:
+17 1. fraternal purposes;
+18 2. civic purposes;
+19 3. purposes related to a veterans’ hospital;
+20 4. purposes related to amateur athletics; or
+21 5. charitable purposes.
+22 [(c)] (D) (1) Before the commissioner may issue a permit, the commissioner
+23 shall review the character of the organization applying for the permit to ascertain that the
+24 organization meets the requirements of §§ 13–503 through 13–505 of this subtitle.
+25 (2) The commissioner shall make any application for a permit and the
+26 action taken by the commissioner on that application a matter of public record.
+27 [(d)] (E) (1) The permit shall state that the gaming event shall be managed
+28 and operated personally only by members of the organization obtaining the permit.
+4 HOUSE BILL 399
+1 (2) The permit is not transferable.
+2 [(e)] (F) An organization conducting a gaming event in Baltimore City may not
+3 allow an individual or group of individuals to:
+4 (1) benefit financially from the gaming event; or
+5 (2) receive any of the proceeds of the gaming event for personal use or
+6 benefit.
+7 13–505.
+8 (a) A permit holder may award prizes in merchandise and money in a raffle in
+9 any amount.
+10 (b) [A] EXCEPT AS PROVIDED IN § 13–505.1(D)(1)(II) OF THIS SUBTITLE, A
+11 permit holder may not conduct more than 12 raffles in a calendar year.
+12 13–505.1.
+13 (A) A RAFFLE MAY BE CONDUCTED BY AN ORGANIZATION THAT:
+14 (1) IS LOCATED IN BALTIMORE CITY;
+15 (2) SPENDS A MAJORITY OF THE ORGANIZATION’S FUNDS IN
+16 BALTIMORE CITY FOR:
+17 (I) FRATERNAL PURPOSES;
+18 (II) CIVIC PURPOSES;
+19 (III) PURPOSES RELATED TO A VETERANS’ HOSPITAL;
+20 (IV) PURPOSES RELATED TO AMATEUR ATHLETICS; OR
+21 (V) CHARITABLE PURPOSES; AND
+22 (3) IS AFFILIATED WITH A PROFESSIONAL MAJOR LEAGUE BASEBALL
+23 TEAM THAT PLAYS ITS HOME GAMES IN BALTIMORE CITY.
+24 (B) (1) BEFORE CONDUCTING A RAFFLE, AN ORGANIZATION SHALL
+25 OBTAIN A WRITTEN PERMIT FROM THE DESIGNATED CITY AGENCY.
+HOUSE BILL 399 5
+1 (2) BEFORE ISSUING A PERMIT, THE DESIGNATED CITY AGENCY
+2 SHALL ASCERTAIN THE CHARACTER OF THE ORGANIZATION TO DETERMINE IF THE
+3 PERMIT SHOULD BE ISSUED.
+4 (C) (1) A PERMIT ISSUED TO AN ORGANIZATION UNDER THIS SECTION
+5 MAY NOT BE TRANSFERRED.
+6 (2) THE PERMIT SHALL STATE THAT THE RAFFLE IS REQUIRED TO BE
+7 MANAGED AND OPERATED ONLY BY MEMBERS OF THE ORGANIZATION OBTAINING
+8 THE PERMIT.
+9 (D) (1) (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THE
+10 DESIGNATED CITY AGENCY MAY ISSUE A SINGLE PERMIT TO AN ORGANIZATION TO
+11 HOLD RAFFLES AT MULTIPLE PROFESSIONAL MAJOR LEAGUE BASEBALL GAMES
+12 PLAYED IN BALTIMORE CITY.
+13 (II) THERE IS NO LIMIT ON THE NUMBER OF RAFFLES THAT AN
+14 ORGANIZATION MAY CONDUCT IN CONJUNCTION WITH PROFESSIONAL MAJOR
+15 LEAGUE BASEBALL GAMES PLAYED IN BALTIMORE CITY.
+16 (2) A PERMIT TO HOLD RAFFLES AT MULTIPLE PROFESSIONAL
+17 MAJOR LEAGUE BASEBALL GAMES PLAYED IN BALTIMORE CITY EXPIRES AT THE
+18 END OF THE CALENDAR YEAR IN WHICH THE PERMIT IS ISSUED.
+19 (E) AN ORGANIZATION CONDUCTING A RAFFLE MAY:
+20 (1) SET THE PRICE OF RAFFLE TICKETS; AND
+21 (2) AWARD PRIZES IN MERCHANDISE AND MONEY IN ANY AMOUNT.
+22 (F) AN ORGANIZATION CONDUCTING A RAFFLE MAY NOT:
+23 (1) BENEFIT FINANCIALLY FROM THE RAFFLE; OR
+24 (2) RECEIVE ANY OF THE PROCEEDS OF THE RAFFLE FOR PERSONAL
+25 USE OR BENEFIT.
+26 (G) (1) A RAFFLE TICKET SOLD BY AN ORGANIZATION IN CONJUNCTION
+27 WITH A PROFESSIONAL MAJOR LEAGUE BASEBALL GAME PLAYED IN BALTIMORE
+28 CITY:
+29 (I) MAY BE SOLD AND RECEIVED ON AN ELECTRONIC DEVICE
+30 ONLY WITHIN THE GEOGRAPHICAL BOUNDARIES OF BALTIMORE CITY; AND
+6 HOUSE BILL 399
+1 (II) SHALL BE SOLD AND RECEIVED NOT EARLIER THAN 1 HOUR
+2 BEFORE THE OFFICIAL START OF THE BASEBALL GAME AND NOT LATER THAN THE
+3 SEVENTH INNING OF THAT BASEBALL GAME.
+4 (2) AN ORGANIZATION CONDUCTING A RAFFLE UNDER THIS SECTION
+5 SHALL USE A GEOFENCE TO ENSURE THAT RAFFLE TICKETS SOLD AND RECEIVED ON
+6 AN ELECTRONIC DEVICE ARE SOLD AND RECEIVED WITHIN THE GEOGRAPHICAL
+7 BOUNDARIES OF BALTIMORE CITY.
+8 13–510.
+9 (a) A person may not knowingly conduct or attempt to conduct a bazaar or raffle
+10 in violation of §§ 13–503 through 13–505 AND 13–505.1 of this subtitle.
+11 (b) A person who violates this section is guilty of a misdemeanor and on conviction
+12 is subject to imprisonment not exceeding 1 year or a fine not exceeding $1,000 or both.
+13 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+14 1, 2025.
+[DELETED: :CA      5   C A B L F m c a t b s a r o a e d l w t g b B  A S  A  ( B  A S  A  (  S T A 1  ( I]
+[DELETED:  H   ( “() “DEY C. I() ( “EL DE M A D T I C OG G S S S A ,,,, I B E M O TT I AEE R ,. ( “E”.E  ( “E DE D N I A V L    T O R91SGA.  () “](  )( “GEE M T T E A ( “GE I B T A E  () ;G  () ;IC  () ;IC  () ;VR  () ;WY   ()IA O F O L D  ()“]() s fs. 1  (§ 1.]
+[DELETED: H 3  B () ) [](  a  () ( A]( s m c a g e f t b o a o t f l o    ( r    ( f    ( c    ( v    ( a u    ( c   ( A    ( b    ( s f     1 f     2 c     3 p     4 p     5 c  () ( B]( s o   ( T c s m a a f a p a t a  () ( T]( a]
+[DELETED:  H    ( T  () A]( a   ( b   ( r a o p o t g e f p u o b 1  ( A a  ( A]E§1()()X  DII E  p() A:  ( BC; A I (  A M O T ONS F IC: I  () ;F  () ;IC  () ’;IPS   () ;VPS   () ;CS  ( A IC.() ( BE C A RE A O S]
+[DELETED: H 5 ( B I A PT T D C A() (  P I T A O U T S ( () ( () S()IU T P  O T SN T R A M P M L B G A IC.  () IH M C I C W P M A IC. ( P T H R A M P A I() A:N ( ;S  ( .() A:N ( ;E  (() (   A:  ()M A IY C;]
+[DELETED:  H   () IS   (  E D A S A R W T G A IC. 1  ( A i    ( A i  S 1]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 399
+C7 5lr1963
+CF SB 341
+By: Delegate Edelson
+Introduced and read first time: January 16, 2025
+Assigned to: Ways and Means
+A BILL ENTITLED
+1 AN ACT concerning
+2 Baltimore City – Raffles – Organizations Affiliated With a Professional Major
+3 League Baseball Team
+4 FOR the purpose of authorizing certain organizations that are affiliated with a professional
+5 major league baseball team that plays its home games in Baltimore City to conduct
+6 certain raffles; requiring the organization to obtain a permit to conduct raffles from
+7 an agency designated by the Baltimore City government; authorizing a raffle ticket
+8 to be sold and received on an electronic device located within the geographical
+9 boundaries of Baltimore City; and generally relating to raffles in Baltimore City.
+10 BY repealing and reenacting, with amendments,
+11 Article – Criminal Law
+12 Section 13–501, 13–503, 13–505, and 13–510
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2024 Supplement)
+15 BY adding to
+16 Article – Criminal Law
+17 Section 13–505.1
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Criminal Law
+23 13–501.
+24 (a) In this subtitle the following words have the meanings indicated.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0399*
+
+2 HOUSE BILL 399
+1 (b) “Commissioner” means the Baltimore City Police Commissioner.
+2 (C) “DESIGNATED CITY AGENCY” MEANS AN AGENCY DESIGNATED BY THE
+3 BALTIMORE CITY GOVERNMENT.
+4 (D) (1) “ELECTRONIC DEVICE” MEANS A DEVICE THAT IS CAPABLE OF
+5 TRANSMITTING, RECEIVING, OR RECORDING MESSAGES, IMAGES, SOUNDS, DATA, OR
+6 OTHER INFORMATION BY ELECTRONIC MEANS OR THAT, IN APPEARANCE,
+7 PURPORTS TO BE A CELL PHONE, COMPUTER, OR OTHER SUCH DEVICE.
+8 (2) “ELECTRONIC DEVICE” INCLUDES A CELL PHONE OR COMPUTER.
+9 (3) “ELECTRONIC DEVICE” DOES NOT INCLUDE A VIDEO LOTTERY
+10 TERMINAL AS DEFINED UNDER § 9–1A–01 OF THE STATE GOVERNMENT ARTICLE.
+11 [(c)] (E) “Gaming event” means a carnival, bazaar, or raffle.
+12 (F) (1) “GEOFENCE” MEANS TECHNOLOGY THAT ESTABLISHES A
+13 VIRTUAL GEOGRAPHICAL BOUNDARY.
+14 (2) “GEOFENCE” INCLUDES BOUNDARIES THAT ARE ESTABLISHED
+15 OR MONITORED THROUGH THE USE OF:
+16 (I) GLOBAL POSITIONING TECHNOLOGY;
+17 (II) CELL TOWER CONNECTIVITY;
+18 (III) CELLULAR DATA;
+19 (IV) RADIO FREQUENCY IDENTIFICATION;
+20 (V) WIRELESS FIDELITY TECHNOLOGY; OR
+21 (VI) ANY OTHER FORM OF LOCATION DETERMINATION
+22 TECHNOLOGY.
+23 [(d)] (G) “Raffle” means one or more drawings from a single series of chances
+24 sold [from chance books].
+25 13–503.
+26 (a) THIS SECTION DOES NOT APPLY TO A RAFFLE AUTHORIZED UNDER §
+27 13–505.1 OF THIS SUBTITLE.
+
+HOUSE BILL 399 3
+1 (B) Before an organization listed in subsection [(b)] (C) of this section may operate
+2 a gaming event, the organization shall obtain a permit from the commissioner.
+3 [(b)] (C) (1) An organization that meets the conditions of paragraph (2) of this
+4 subsection may conduct a gaming event for the benefit of any of the following listed
+5 organizations if the organization is a bona fide:
+6 (i) religious organization;
+7 (ii) fraternal organization;
+8 (iii) civic organization;
+9 (iv) veterans’ hospital;
+10 (v) amateur athletic organization in which all playing members are
+11 under the age of 18 years; or
+12 (vi) charitable organization.
+13 (2) An organization conducting a gaming event shall:
+14 (i) be located in Baltimore City; and
+15 (ii) spend a majority of the organization’s funds in Baltimore City
+16 for:
+17 1. fraternal purposes;
+18 2. civic purposes;
+19 3. purposes related to a veterans’ hospital;
+20 4. purposes related to amateur athletics; or
+21 5. charitable purposes.
+22 [(c)] (D) (1) Before the commissioner may issue a permit, the commissioner
+23 shall review the character of the organization applying for the permit to ascertain that the
+24 organization meets the requirements of §§ 13–503 through 13–505 of this subtitle.
+25 (2) The commissioner shall make any application for a permit and the
+26 action taken by the commissioner on that application a matter of public record.
+27 [(d)] (E) (1) The permit shall state that the gaming event shall be managed
+28 and operated personally only by members of the organization obtaining the permit.
+
+4 HOUSE BILL 399
+1 (2) The permit is not transferable.
+2 [(e)] (F) An organization conducting a gaming event in Baltimore City may not
+3 allow an individual or group of individuals to:
+4 (1) benefit financially from the gaming event; or
+5 (2) receive any of the proceeds of the gaming event for personal use or
+6 benefit.
+7 13–505.
+8 (a) A permit holder may award prizes in merchandise and money in a raffle in
+9 any amount.
+10 (b) [A] EXCEPT AS PROVIDED IN § 13–505.1(D)(1)(II) OF THIS SUBTITLE, A
+11 permit holder may not conduct more than 12 raffles in a calendar year.
+12 13–505.1.
+13 (A) A RAFFLE MAY BE CONDUCTED BY AN ORGANIZATION THAT:
+14 (1) IS LOCATED IN BALTIMORE CITY;
+15 (2) SPENDS A MAJORITY OF THE ORGANIZATION’S FUNDS IN
+16 BALTIMORE CITY FOR:
+17 (I) FRATERNAL PURPOSES;
+18 (II) CIVIC PURPOSES;
+19 (III) PURPOSES RELATED TO A VETERANS’ HOSPITAL;
+20 (IV) PURPOSES RELATED TO AMATEUR ATHLETICS; OR
+21 (V) CHARITABLE PURPOSES; AND
+22 (3) IS AFFILIATED WITH A PROFESSIONAL MAJOR LEAGUE BASEBALL
+23 TEAM THAT PLAYS ITS HOME GAMES IN BALTIMORE CITY.
+24 (B) (1) BEFORE CONDUCTING A RAFFLE, AN ORGANIZATION SHALL
+25 OBTAIN A WRITTEN PERMIT FROM THE DESIGNATED CITY AGENCY.
+
+HOUSE BILL 399 5
+1 (2) BEFORE ISSUING A PERMIT, THE DESIGNATED CITY AGENCY
+2 SHALL ASCERTAIN THE CHARACTER OF THE ORGANIZATION TO DETERMINE IF THE
+3 PERMIT SHOULD BE ISSUED.
+4 (C) (1) A PERMIT ISSUED TO AN ORGANIZATION UNDER THIS SECTION
+5 MAY NOT BE TRANSFERRED.
+6 (2) THE PERMIT SHALL STATE THAT THE RAFFLE IS REQUIRED TO BE
+7 MANAGED AND OPERATED ONLY BY MEMBERS OF THE ORGANIZATION OBTAINING
+8 THE PERMIT.
+9 (D) (1) (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THE
+10 DESIGNATED CITY AGENCY MAY ISSUE A SINGLE PERMIT TO AN ORGANIZATION TO
+11 HOLD RAFFLES AT MULTIPLE PROFESSIONAL MAJOR LEAGUE BASEBALL GAMES
+12 PLAYED IN BALTIMORE CITY.
+13 (II) THERE IS NO LIMIT ON THE NUMBER OF RAFFLES THAT AN
+14 ORGANIZATION MAY CONDUCT IN CONJUNCTION WITH PROFESSIONAL MAJOR
+15 LEAGUE BASEBALL GAMES PLAYED IN BALTIMORE CITY.
+16 (2) A PERMIT TO HOLD RAFFLES AT MULTIPLE PROFESSIONAL
+17 MAJOR LEAGUE BASEBALL GAMES PLAYED IN BALTIMORE CITY EXPIRES AT THE
+18 END OF THE CALENDAR YEAR IN WHICH THE PERMIT IS ISSUED.
+19 (E) AN ORGANIZATION CONDUCTING A RAFFLE MAY:
+20 (1) SET THE PRICE OF RAFFLE TICKETS; AND
+21 (2) AWARD PRIZES IN MERCHANDISE AND MONEY IN ANY AMOUNT.
+22 (F) AN ORGANIZATION CONDUCTING A RAFFLE MAY NOT:
+23 (1) BENEFIT FINANCIALLY FROM THE RAFFLE; OR
+24 (2) RECEIVE ANY OF THE PROCEEDS OF THE RAFFLE FOR PERSONAL
+25 USE OR BENEFIT.
+26 (G) (1) A RAFFLE TICKET SOLD BY AN ORGANIZATION IN CONJUNCTION
+27 WITH A PROFESSIONAL MAJOR LEAGUE BASEBALL GAME PLAYED IN BALTIMORE
+28 CITY:
+29 (I) MAY BE SOLD AND RECEIVED ON AN ELECTRONIC DEVICE
+30 ONLY WITHIN THE GEOGRAPHICAL BOUNDARIES OF BALTIMORE CITY; AND
+
+6 HOUSE BILL 399
+1 (II) SHALL BE SOLD AND RECEIVED NOT EARLIER THAN 1 HOUR
+2 BEFORE THE OFFICIAL START OF THE BASEBALL GAME AND NOT LATER THAN THE
+3 SEVENTH INNING OF THAT BASEBALL GAME.
+4 (2) AN ORGANIZATION CONDUCTING A RAFFLE UNDER THIS SECTION
+5 SHALL USE A GEOFENCE TO ENSURE THAT RAFFLE TICKETS SOLD AND RECEIVED ON
+6 AN ELECTRONIC DEVICE ARE SOLD AND RECEIVED WITHIN THE GEOGRAPHICAL
+7 BOUNDARIES OF BALTIMORE CITY.
+8 13–510.
+9 (a) A person may not knowingly conduct or attempt to conduct a bazaar or raffle
+10 in violation of §§ 13–503 through 13–505 AND 13–505.1 of this subtitle.
+11 (b) A person who violates this section is guilty of a misdemeanor and on conviction
+12 is subject to imprisonment not exceeding 1 year or a fine not exceeding $1,000 or both.
+13 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+14 1, 2025.
+
+[DELETED: :CA      5   C A B L F m c a t b s a r o a e d l w t g b B  A S  A  ( B  A S  A  (  S T A 1  ( I]
+[DELETED:  H   ( “() “DEY C. I() ( “EL DE M A D T I C OG G S S S A ,,,, I B E M O TT I AEE R ,. ( “E”.E  ( “E DE D N I A V L    T O R91SGA.  () “](  )( “GEE M T T E A ( “GE I B T A E  () ;G  () ;IC  () ;IC  () ;VR  () ;WY   ()IA O F O L D  ()“]() s fs. 1  (§ 1.]
+[DELETED: H 3  B () ) [](  a  () ( A]( s m c a g e f t b o a o t f l o    ( r    ( f    ( c    ( v    ( a u    ( c   ( A    ( b    ( s f     1 f     2 c     3 p     4 p     5 c  () ( B]( s o   ( T c s m a a f a p a t a  () ( T]( a]
+[DELETED:  H    ( T  () A]( a   ( b   ( r a o p o t g e f p u o b 1  ( A a  ( A]E§1()()X  DII E  p() A:  ( BC; A I (  A M O T ONS F IC: I  () ;F  () ;IC  () ’;IPS   () ;VPS   () ;CS  ( A IC.() ( BE C A RE A O S]
+[DELETED: H 5 ( B I A PT T D C A() (  P I T A O U T S ( () ( () S()IU T P  O T SN T R A M P M L B G A IC.  () IH M C I C W P M A IC. ( P T H R A M P A I() A:N ( ;S  ( .() A:N ( ;E  (() (   A:  ()M A IY C;]
+[DELETED:  H   () IS   (  E D A S A R W T G A IC. 1  ( A i    ( A i  S 1]

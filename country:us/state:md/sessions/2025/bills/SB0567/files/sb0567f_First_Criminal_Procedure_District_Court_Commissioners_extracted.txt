@@ -1,0 +1,159 @@
+Title: SENATE BILL 567
+Official Title: SENATE BILL 567
+Number of Sections: 1
+Source: versions - First - Criminal Procedure - District Court Commissioners
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+E2 5lr3141
+By: Senator Sydnor
+Introduced and read first time: January 23, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Procedure – District Court Commissioners
+3 FOR the purpose of prohibiting a District Court commissioner from issuing an arrest
+4 warrant to an individual other than a police officer or a State’s Attorney; and
+5 generally relating to District Court commissioners.
+6 BY repealing and reenacting, with amendments,
+7 Article – Courts and Judicial Proceedings
+8 Section 2–607(c)
+9 Annotated Code of Maryland
+10 (2020 Replacement Volume and 2024 Supplement)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+13 Article – Courts and Judicial Proceedings
+14 2–607.
+15 (c) (1) A commissioner shall receive applications and determine probable
+16 cause for the issuance of charging documents.
+17 (2) A commissioner shall advise arrested persons of their constitutional
+18 rights, set bond or commit persons to jail in default of bond or release them on personal
+19 recognizance if circumstances warrant, and conduct investigations and inquiries into the
+20 circumstances of any matter presented to the commissioner in order to determine if
+21 probable cause exists for the issuance of a charging document, warrant, or criminal
+22 summons and, in general, perform all the functions of committing magistrates as exercised
+23 by the justices of the peace prior to July 5, 1971.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0567*
+2 SENATE BILL 567
+1 (3) There shall be in each county, at all times, one or more commissioners
+2 available for the convenience of the public and police in obtaining charging documents,
+3 warrants, or criminal summonses and to advise arrested persons of their rights as required
+4 by law.
+5 (4) A commissioner may exercise the powers of office in any county to which
+6 the commissioner is assigned by the Chief Judge of the District Court or a designee of the
+7 Chief Judge of the District Court.
+8 (5) The Chief Judge of the District Court may authorize one or more
+9 commissioners to perform the duties of a commissioner regarding persons arrested in a
+10 county other than the county in which the commissioner resides and for which the
+11 commissioner was appointed when the arrested persons are brought before the
+12 commissioner by a peace officer of the jurisdiction in which that arrest was made.
+13 (6) (i) An individual may file an application for a statement of charges
+14 with a District Court commissioner.
+15 (ii) On review of an application for a statement of charges, a District
+16 Court commissioner may issue a summons or an arrest warrant.
+17 (iii) A District Court commissioner may issue an arrest warrant only
+18 on a finding that:
+19 1. There is probable cause to believe that the defendant
+20 committed the offense charged in the charging document; [and]
+21 2. THE INDIVIDUAL FILING THE APPLICATION FOR A
+22 STATEMENT OF CHARGES IS A POLICE OFFICER AS DEFINED IN § 3–201 OF THE
+23 PUBLIC SAFETY ARTICLE OR A STATE’S ATTORNEY; AND
+24 [2.] 3. A. The defendant previously has failed to respond to a
+25 summons that has been personally served or a citation;
+26 B. The whereabouts of the defendant are unknown and the
+27 issuance of a warrant is necessary to subject the defendant to the jurisdiction of the court;
+28 C. The defendant is in custody for another offense; or
+29 D. There is probable cause to believe that the defendant poses
+30 a danger to another person or to the community.
+31 (iv) On a finding of good cause, a judge of the District Court or a judge
+32 of a circuit court may recall an arrest warrant issued by a District Court commissioner
+33 under this paragraph and issue a summons in its place.
+SENATE BILL 567 3
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October 1, 2025.
+[DELETED: :CA      5     A C F t p o p a D C c f i a a w t a i o t a p o o a S A a g B  A S  A  (  S T A 2  ( ( A c s r a a d p c   ( A r r c o a m p t t c i o t d i p c e f t i o a c d w o c s b]
+[DELETED:  S    ( T a w b   ( A t C   ( T C J o t D C m a o o m c c o t t c i w t c r a f w t c w a w t a p a b b t c   ( ( A w    ( O C    ( A o     1 T i p c t b t t d c ad      I F T A F A O C I A P O A D I   O T3SAS’A A R TES TYA       2.  T]3 s     B T i     C T     D T a    ( O o u]
+[DELETED: S 3  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 567
+E2 5lr3141
+By: Senator Sydnor
+Introduced and read first time: January 23, 2025
+Assigned to: Judicial Proceedings
+A BILL ENTITLED
+1 AN ACT concerning
+2 Criminal Procedure – District Court Commissioners
+3 FOR the purpose of prohibiting a District Court commissioner from issuing an arrest
+4 warrant to an individual other than a police officer or a State’s Attorney; and
+5 generally relating to District Court commissioners.
+6 BY repealing and reenacting, with amendments,
+7 Article – Courts and Judicial Proceedings
+8 Section 2–607(c)
+9 Annotated Code of Maryland
+10 (2020 Replacement Volume and 2024 Supplement)
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+13 Article – Courts and Judicial Proceedings
+14 2–607.
+15 (c) (1) A commissioner shall receive applications and determine probable
+16 cause for the issuance of charging documents.
+17 (2) A commissioner shall advise arrested persons of their constitutional
+18 rights, set bond or commit persons to jail in default of bond or release them on personal
+19 recognizance if circumstances warrant, and conduct investigations and inquiries into the
+20 circumstances of any matter presented to the commissioner in order to determine if
+21 probable cause exists for the issuance of a charging document, warrant, or criminal
+22 summons and, in general, perform all the functions of committing magistrates as exercised
+23 by the justices of the peace prior to July 5, 1971.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *sb0567*
+
+2 SENATE BILL 567
+1 (3) There shall be in each county, at all times, one or more commissioners
+2 available for the convenience of the public and police in obtaining charging documents,
+3 warrants, or criminal summonses and to advise arrested persons of their rights as required
+4 by law.
+5 (4) A commissioner may exercise the powers of office in any county to which
+6 the commissioner is assigned by the Chief Judge of the District Court or a designee of the
+7 Chief Judge of the District Court.
+8 (5) The Chief Judge of the District Court may authorize one or more
+9 commissioners to perform the duties of a commissioner regarding persons arrested in a
+10 county other than the county in which the commissioner resides and for which the
+11 commissioner was appointed when the arrested persons are brought before the
+12 commissioner by a peace officer of the jurisdiction in which that arrest was made.
+13 (6) (i) An individual may file an application for a statement of charges
+14 with a District Court commissioner.
+15 (ii) On review of an application for a statement of charges, a District
+16 Court commissioner may issue a summons or an arrest warrant.
+17 (iii) A District Court commissioner may issue an arrest warrant only
+18 on a finding that:
+19 1. There is probable cause to believe that the defendant
+20 committed the offense charged in the charging document; [and]
+21 2. THE INDIVIDUAL FILING THE APPLICATION FOR A
+22 STATEMENT OF CHARGES IS A POLICE OFFICER AS DEFINED IN § 3–201 OF THE
+23 PUBLIC SAFETY ARTICLE OR A STATE’S ATTORNEY; AND
+24 [2.] 3. A. The defendant previously has failed to respond to a
+25 summons that has been personally served or a citation;
+26 B. The whereabouts of the defendant are unknown and the
+27 issuance of a warrant is necessary to subject the defendant to the jurisdiction of the court;
+28 C. The defendant is in custody for another offense; or
+29 D. There is probable cause to believe that the defendant poses
+30 a danger to another person or to the community.
+31 (iv) On a finding of good cause, a judge of the District Court or a judge
+32 of a circuit court may recall an arrest warrant issued by a District Court commissioner
+33 under this paragraph and issue a summons in its place.
+
+SENATE BILL 567 3
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+2 October 1, 2025.
+
+[DELETED: :CA      5     A C F t p o p a D C c f i a a w t a i o t a p o o a S A a g B  A S  A  (  S T A 2  ( ( A c s r a a d p c   ( A r r c o a m p t t c i o t d i p c e f t i o a c d w o c s b]
+[DELETED:  S    ( T a w b   ( A t C   ( T C J o t D C m a o o m c c o t t c i w t c r a f w t c w a w t a p a b b t c   ( ( A w    ( O C    ( A o     1 T i p c t b t t d c ad      I F T A F A O C I A P O A D I   O T3SAS’A A R TES TYA       2.  T]3 s     B T i     C T     D T a    ( O o u]
+[DELETED: S 3  S A B I F E T t A s t e O]

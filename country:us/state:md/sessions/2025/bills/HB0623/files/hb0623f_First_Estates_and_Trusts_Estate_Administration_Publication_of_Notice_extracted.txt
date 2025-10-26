@@ -1,0 +1,430 @@
+Title: HOUSE BILL 623
+Official Title: HOUSE BILL 623
+Number of Sections: 1
+Source: versions - First - Estates and Trusts - Estate Administration - Publication of Notice
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+N2 5lr2476
+HB 1258/24 – JUD
+By: Delegate Embry
+Introduced and read first time: January 23, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Estates and Trusts – Estate Administration – Publication of Notice
+3 FOR the purpose of requiring the registers of wills for each county and Baltimore City to
+4 coordinate to establish a certain website; altering certain requirements for
+5 publication of notice relating to the appointment of a personal representative, a
+6 request for judicial probate, and estates administered by a foreign personal
+7 representative; repealing the requirement that a foreign personal representative
+8 record a certain certification with the register; and generally relating to estate
+9 administration and requirements for publication of notice.
+10 BY adding to
+11 Article – Estates and Trusts
+12 Section 2–208(l)
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Estates and Trusts
+17 Section 2–210, 5–403, 5–503, 7–103, 7–104, and 9–112
+18 Annotated Code of Maryland
+19 (2022 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Estates and Trusts
+23 2–208.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0623*
+2 HOUSE BILL 623
+1 (L) THE REGISTER OF EACH COUNTY AND BALTIMORE CITY SHALL
+2 COORDINATE TO ESTABLISH AND MAINTAIN A CENTRALIZED WEBSITE FOR USE BY
+3 ALL REGISTERS TO PUBLISH NOTICE AS REQUIRED UNDER THIS ARTICLE.
+4 2–210.
+5 Within five days after [receiving the text of the first published newspaper notice]
+6 THE INITIAL WEBSITE PUBLICATION OF NOTICE as provided in § 7–103 of this article
+7 [and the written notice from the personal representative of the names and addresses of the
+8 heirs and legatees as provided in § 7–104 of this article], the register shall forward to each
+9 [such person] HEIR AND LEGATEE a copy of the [newspaper] WEBSITE notice published
+10 according to § 7–104 of this article, in the manner prescribed in § 1–103(a) of this article,
+11 directed according to the information received from the personal representative.
+12 5–403.
+13 (a) (1) Notice that judicial probate has been requested shall be given promptly
+14 by the register to all interested persons as shown in the documents in the register’s file.
+15 (2) The petitioner shall advise the register of the names and addresses of
+16 all interested persons of whom the petitioner learns before the granting of judicial probate,
+17 and the register shall give notice to the persons in the manner prescribed by § 1–103(a)(1)
+18 of this article.
+19 (3) In addition, the register shall publish a notice [in a newspaper of
+20 general circulation in the county where judicial probate is requested, once a week] ON THE
+21 CENTRALIZED WEBSITE ESTABLISHED UNDER § 2–208 OF THIS ARTICLE for 2
+22 [successive] weeks.
+23 (b) The notice required by this section shall be in the following form:
+24 IN THE ORPHANS’ COURT FOR ……………………………………………………
+25 In re:
+26 ESTATE OF
+27 …………………………………………………
+28 Deceased
+29 TO ALL PERSONS INTERESTED IN THE ESTATE OF ………………………………
+30 …………………………………………………………………………………………………… :
+31 YOU ARE HEREBY NOTIFIED THAT A Petition has been filed in the court by
+32 ……………… for judicial probate, including the appointment of a personal
+33 representative for the estate; and that the Petition will be heard at ……… on the ……
+34 day of ………, 20…, or at a subsequent time or other place to which the hearing may be
+35 adjourned or transferred.
+36 ………………………………………………
+37 Register of Wills
+HOUSE BILL 623 3
+1 5–503.
+2 (a) As used in this subtitle, “leasehold property” refers only to a leasehold interest
+3 in real property.
+4 (b) [A foreign personal representative shall:]
+5 (1) [Publish once a week for 3 successive weeks a notice in a newspaper of
+6 general circulation in each county in which real or leasehold property of the decedent was
+7 located, containing] THE REGISTER SHALL, FOR 3 WEEKS, PUBLISH ON THE
+8 CENTRALIZED WEBSITE ESTABLISHED UNDER § 2–208 OF THIS ARTICLE NOTICE
+9 CONTAINING THE FOLLOWING INFORMATION REGARDING A FOREIGN PERSONAL
+10 REPRESENTATIVE AND THE ESTATE REPRESENTED:
+11 (i) The foreign personal representative’s appointment;
+12 (ii) The foreign personal representative’s name and address;
+13 (iii) The name and address of the foreign personal representative’s
+14 Maryland agent for service of process on file with the register in each county where real or
+15 leasehold property was located;
+16 (iv) The name of the court that appointed the foreign personal
+17 representative;
+18 (v) A brief description of all real and leasehold property owned by
+19 the decedent in the county;
+20 (vi) The date of the decedent’s death; and
+21 (vii) The following statement: All persons having claims against the
+22 decedent must present their claims to the undersigned, or file them with the register of
+23 wills on or before the earlier of the following dates:
+24 1. 6 months from the date of the decedent’s death; or
+25 2. 2 months after the foreign personal representative mails
+26 or otherwise delivers to the creditor a copy of this published notice or other written notice,
+27 notifying the creditor that the creditor’s claim will be barred unless the creditor presents
+28 the claim within 2 months from the mailing or other delivery of the notice[;].
+29 (2) [Record in each appropriate office of the register a certification that the
+30 foreign personal representative has published notice as required; and
+4 HOUSE BILL 623
+1 (3)] Promptly after a proceeding under this subtitle has been instituted, A
+2 FOREIGN PERSONAL REPRESENTATIVE SHALL comply with the provisions of § 7–103.1
+3 of this article.
+4 (c) (1) Within the time periods provided under subsection (b) of this section, a
+5 creditor may file with the register a written statement of the creditor’s claim, in the form
+6 set forth in § 8–104(c) of this article, and if a foreign personal representative has instituted
+7 a proceeding under this subtitle deliver or mail a copy of the statement to the personal
+8 representative.
+9 (2) (i) The register shall maintain a book known as the “Claims Against
+10 Nonresident Decedents” book in which every claim and release shall be recorded.
+11 (ii) Unless and until a release of a validly recorded claim has been
+12 recorded, or the claim has finally been determined in favor of the personal representative,
+13 the claim shall constitute a lien against the real and leasehold property owned by the
+14 decedent in the county at the time of death for a period of 12 years from date of death.
+15 (iii) If the personal representative is empowered by the will to sell the
+16 property the claim shall constitute a lien against the net proceeds from the sale.
+17 7–103.
+18 (a) [(1)] After the appointment of a personal representative, the register shall
+19 [have a notice of the appointment published in a newspaper of general circulation in the
+20 county of appointment once a week in 3 successive weeks], FOR 3 WEEKS, PUBLISH
+21 NOTICE ON THE CENTRALIZED WEBSITE ESTABLISHED UNDER § 2–208 OF THIS
+22 ARTICLE, announcing the appointment and address of the personal representative, and
+23 notifying creditors of the estate to present their claims.
+24 [(2) The personal representative shall file or have filed with the register a
+25 certification that a notice has been published.]
+26 (b) The notice of appointment shall be substantially in the following form:
+27 “To all persons interested in the estate of .......................:
+28 This is to give notice that the undersigned, ……… whose address is ……… was, on
+29 ………, appointed personal representative of the estate of ……… who died on …… (with)
+30 (without) a will.
+31 All interested persons or unpaid claimants having any objection to the appointment
+32 of the personal representative shall file the same with the register of wills on or before 6
+33 months from the date of the appointment.
+34 All persons having any objection to the probate of the will of the decedent shall file
+35 the same with the register of wills on or before 6 months from the date of the appointment.
+HOUSE BILL 623 5
+1 All persons having claims against the decedent must present their claims to the
+2 undersigned, or file them with the register of wills on or before the earlier of the following
+3 dates:
+4 (1) 6 months from the date of the decedent’s death; or
+5 (2) 2 months after the personal representative mails or otherwise delivers
+6 to the creditor a copy of this published notice or other written notice, notifying the creditor
+7 that the creditor’s claim will be barred unless the creditor presents the claim within 2
+8 months from the mailing or other delivery of the notice.
+9 Any claim not filed on or before that date, or any extension provided by law, is
+10 unenforceable thereafter.
+11 ……………………………
+12 Personal representative
+13 Date of first publication:
+14 ……………………………”.
+15 7–104.
+16 (a) Not later than 20 days after the appointment of a personal representative, the
+17 personal representative shall deliver to the register the text of the first published
+18 [newspaper] WEBSITE notice of the appointment and shall advise the register of the names
+19 and addresses of the heirs of the decedent and of the legatees to the extent known by the
+20 personal representative, so that the register may issue the notices provided in § 2–210 of
+21 this article.
+22 (b) The provisions of this section do not apply to a successor personal
+23 representative if notice under this section has been given previously, or to a person
+24 appointed pursuant to judicial probate.
+25 9–112.
+26 (a) (1) If the personal representative cannot obtain agreement from all
+27 interested persons entitled to share in the distribution of the property, the personal
+28 representative may apply to the court to make distribution.
+29 (2) The court shall designate a day and direct the giving of notice to all
+30 interested persons concerned.
+31 (3) The court may appoint two disinterested individuals, not related to the
+32 interested persons to make an appropriate division for distribution, or recommend to the
+33 court a sale of part or all of the property, and the court shall direct the distribution it
+34 considers appropriate.
+35 (b) If a majority in relation to value fails to appear on the appointed day, or appear
+36 and object to the distribution suggested, or if the court considers a sale of part or all of the
+37 property more appropriate and advantageous, the personal representative shall make the
+38 sale or sales and divide the proceeds, together with unsold property, as the court directs.
+6 HOUSE BILL 623
+1 (c) If the personal representative has reason to believe that there may be one or
+2 more interested persons whose names or addresses are not known to the personal
+3 representative, or if it is not known to the personal representative if an interested person
+4 is still surviving, the personal representative may appoint a meeting of all interested
+5 persons to be held on a day the court designates.
+6 (d) (1) The personal representative shall give notice to all interested persons
+7 known to the personal representative, and THE REGISTER shall, FOR 3 WEEKS, publish a
+8 notice of the meeting [once a week in 3 successive weeks, in a newspaper of general
+9 circulation in the county of the personal representative’s appointment,] ON THE
+10 CENTRALIZED WEBSITE ESTABLISHED UNDER § 2–208 OF THIS ARTICLE stating the
+11 time, date, place, and purpose of the meeting which shall be held no sooner than 20 days
+12 after the first publication.
+13 (2) The personal representative shall also take other steps and make other
+14 efforts to learn the names and addresses of additional interested persons as the court
+15 considers appropriate under the circumstances.
+16 (e) (1) On the date of the meeting, distribution of the net estate shall be made
+17 under the direction and control of the court.
+18 (2) Distribution by the personal representative in accordance with the
+19 direction of the court at the meeting protects and indemnifies the personal representative
+20 acting in obedience to it.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2025.
+[DELETED: :CA      5     A E F c t e a c w a c r f p o n r t t a o a p r a r f j p a e a b a f p r r t r t a f p r r a c c w t r a g r t e a B  A S  A  ( B  A S  A  (  S T A 2]
+[DELETED:  H  ) TBH R O E C A A I S 2  W re a a he,][ sn  nr E  a d 5  ( ( N b   ( T a a o   ( I a t r s p a n i a n o g W E U   O T A2  f 2 se   ( T  I I  E …  D T … Y … r d a           …                 ]
+[DELETED: H 3 5  ( A i  ( A]   ( Pho g l cg T,3 R SLF  WS P O T W E U   O T A N2 T F I R A F P :    ( T    ( T    ( T M l    ( T n o t c t a t f p r    ( A t    ( T    ( T d w     1 6     2 2 o n te]   ( R f]
+[DELETED:  H    () P c o  ( ( W c s a r   ( ( T N    ( U r t d    ( I p 7  ( () A h c o a o a w i 3 s w,3F  WS P O T C W E U   O T2 , n   ( T c  ( T  “  T … (  A o m  A t]
+[DELETED: H 5  A u d   ( 6   ( 2 t t m  A c n f o o b t d o a e p b l i u                               D … 7  ( N p r s d t t r t t o t f p nr  a p t  ( T p o t s d n a t a s p r i n u t s h b g p o t a p a 9  ( ( I t p r c o a f a i p e t s i t d o t p t p r   ( T i   ( T i c c  ( I a p s]
+[DELETED:  H   ( I m i p w n o a a n k t t p r i s s t p r m a a m o a i p  ( ( T k sl     3 n o t m o a w i 3 s w i a n o g c i t c o t p r aO T   2   t a   ( T e t l t n a a o a i p a t c c  ( ( O u   ( D b t p r i a w t d a  S A B I F E T t A s t e O]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 623
+N2 5lr2476
+HB 1258/24 – JUD
+By: Delegate Embry
+Introduced and read first time: January 23, 2025
+Assigned to: Judiciary
+A BILL ENTITLED
+1 AN ACT concerning
+2 Estates and Trusts – Estate Administration – Publication of Notice
+3 FOR the purpose of requiring the registers of wills for each county and Baltimore City to
+4 coordinate to establish a certain website; altering certain requirements for
+5 publication of notice relating to the appointment of a personal representative, a
+6 request for judicial probate, and estates administered by a foreign personal
+7 representative; repealing the requirement that a foreign personal representative
+8 record a certain certification with the register; and generally relating to estate
+9 administration and requirements for publication of notice.
+10 BY adding to
+11 Article – Estates and Trusts
+12 Section 2–208(l)
+13 Annotated Code of Maryland
+14 (2022 Replacement Volume and 2024 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Estates and Trusts
+17 Section 2–210, 5–403, 5–503, 7–103, 7–104, and 9–112
+18 Annotated Code of Maryland
+19 (2022 Replacement Volume and 2024 Supplement)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
+22 Article – Estates and Trusts
+23 2–208.
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from exist in g l aw . *hb0623*
+
+2 HOUSE BILL 623
+1 (L) THE REGISTER OF EACH COUNTY AND BALTIMORE CITY SHALL
+2 COORDINATE TO ESTABLISH AND MAINTAIN A CENTRALIZED WEBSITE FOR USE BY
+3 ALL REGISTERS TO PUBLISH NOTICE AS REQUIRED UNDER THIS ARTICLE.
+4 2–210.
+5 Within five days after [receiving the text of the first published newspaper notice]
+6 THE INITIAL WEBSITE PUBLICATION OF NOTICE as provided in § 7–103 of this article
+7 [and the written notice from the personal representative of the names and addresses of the
+8 heirs and legatees as provided in § 7–104 of this article], the register shall forward to each
+9 [such person] HEIR AND LEGATEE a copy of the [newspaper] WEBSITE notice published
+10 according to § 7–104 of this article, in the manner prescribed in § 1–103(a) of this article,
+11 directed according to the information received from the personal representative.
+12 5–403.
+13 (a) (1) Notice that judicial probate has been requested shall be given promptly
+14 by the register to all interested persons as shown in the documents in the register’s file.
+15 (2) The petitioner shall advise the register of the names and addresses of
+16 all interested persons of whom the petitioner learns before the granting of judicial probate,
+17 and the register shall give notice to the persons in the manner prescribed by § 1–103(a)(1)
+18 of this article.
+19 (3) In addition, the register shall publish a notice [in a newspaper of
+20 general circulation in the county where judicial probate is requested, once a week] ON THE
+21 CENTRALIZED WEBSITE ESTABLISHED UNDER § 2–208 OF THIS ARTICLE for 2
+22 [successive] weeks.
+23 (b) The notice required by this section shall be in the following form:
+24 IN THE ORPHANS’ COURT FOR ……………………………………………………
+25 In re:
+26 ESTATE OF
+27 …………………………………………………
+28 Deceased
+29 TO ALL PERSONS INTERESTED IN THE ESTATE OF ………………………………
+30 …………………………………………………………………………………………………… :
+31 YOU ARE HEREBY NOTIFIED THAT A Petition has been filed in the court by
+32 ……………… for judicial probate, including the appointment of a personal
+33 representative for the estate; and that the Petition will be heard at ……… on the ……
+34 day of ………, 20…, or at a subsequent time or other place to which the hearing may be
+35 adjourned or transferred.
+36 ………………………………………………
+37 Register of Wills
+
+HOUSE BILL 623 3
+1 5–503.
+2 (a) As used in this subtitle, “leasehold property” refers only to a leasehold interest
+3 in real property.
+4 (b) [A foreign personal representative shall:]
+5 (1) [Publish once a week for 3 successive weeks a notice in a newspaper of
+6 general circulation in each county in which real or leasehold property of the decedent was
+7 located, containing] THE REGISTER SHALL, FOR 3 WEEKS, PUBLISH ON THE
+8 CENTRALIZED WEBSITE ESTABLISHED UNDER § 2–208 OF THIS ARTICLE NOTICE
+9 CONTAINING THE FOLLOWING INFORMATION REGARDING A FOREIGN PERSONAL
+10 REPRESENTATIVE AND THE ESTATE REPRESENTED:
+11 (i) The foreign personal representative’s appointment;
+12 (ii) The foreign personal representative’s name and address;
+13 (iii) The name and address of the foreign personal representative’s
+14 Maryland agent for service of process on file with the register in each county where real or
+15 leasehold property was located;
+16 (iv) The name of the court that appointed the foreign personal
+17 representative;
+18 (v) A brief description of all real and leasehold property owned by
+19 the decedent in the county;
+20 (vi) The date of the decedent’s death; and
+21 (vii) The following statement: All persons having claims against the
+22 decedent must present their claims to the undersigned, or file them with the register of
+23 wills on or before the earlier of the following dates:
+24 1. 6 months from the date of the decedent’s death; or
+25 2. 2 months after the foreign personal representative mails
+26 or otherwise delivers to the creditor a copy of this published notice or other written notice,
+27 notifying the creditor that the creditor’s claim will be barred unless the creditor presents
+28 the claim within 2 months from the mailing or other delivery of the notice[;].
+29 (2) [Record in each appropriate office of the register a certification that the
+30 foreign personal representative has published notice as required; and
+
+4 HOUSE BILL 623
+1 (3)] Promptly after a proceeding under this subtitle has been instituted, A
+2 FOREIGN PERSONAL REPRESENTATIVE SHALL comply with the provisions of § 7–103.1
+3 of this article.
+4 (c) (1) Within the time periods provided under subsection (b) of this section, a
+5 creditor may file with the register a written statement of the creditor’s claim, in the form
+6 set forth in § 8–104(c) of this article, and if a foreign personal representative has instituted
+7 a proceeding under this subtitle deliver or mail a copy of the statement to the personal
+8 representative.
+9 (2) (i) The register shall maintain a book known as the “Claims Against
+10 Nonresident Decedents” book in which every claim and release shall be recorded.
+11 (ii) Unless and until a release of a validly recorded claim has been
+12 recorded, or the claim has finally been determined in favor of the personal representative,
+13 the claim shall constitute a lien against the real and leasehold property owned by the
+14 decedent in the county at the time of death for a period of 12 years from date of death.
+15 (iii) If the personal representative is empowered by the will to sell the
+16 property the claim shall constitute a lien against the net proceeds from the sale.
+17 7–103.
+18 (a) [(1)] After the appointment of a personal representative, the register shall
+19 [have a notice of the appointment published in a newspaper of general circulation in the
+20 county of appointment once a week in 3 successive weeks], FOR 3 WEEKS, PUBLISH
+21 NOTICE ON THE CENTRALIZED WEBSITE ESTABLISHED UNDER § 2–208 OF THIS
+22 ARTICLE, announcing the appointment and address of the personal representative, and
+23 notifying creditors of the estate to present their claims.
+24 [(2) The personal representative shall file or have filed with the register a
+25 certification that a notice has been published.]
+26 (b) The notice of appointment shall be substantially in the following form:
+27 “To all persons interested in the estate of .......................:
+28 This is to give notice that the undersigned, ……… whose address is ……… was, on
+29 ………, appointed personal representative of the estate of ……… who died on …… (with)
+30 (without) a will.
+31 All interested persons or unpaid claimants having any objection to the appointment
+32 of the personal representative shall file the same with the register of wills on or before 6
+33 months from the date of the appointment.
+34 All persons having any objection to the probate of the will of the decedent shall file
+35 the same with the register of wills on or before 6 months from the date of the appointment.
+
+HOUSE BILL 623 5
+1 All persons having claims against the decedent must present their claims to the
+2 undersigned, or file them with the register of wills on or before the earlier of the following
+3 dates:
+4 (1) 6 months from the date of the decedent’s death; or
+5 (2) 2 months after the personal representative mails or otherwise delivers
+6 to the creditor a copy of this published notice or other written notice, notifying the creditor
+7 that the creditor’s claim will be barred unless the creditor presents the claim within 2
+8 months from the mailing or other delivery of the notice.
+9 Any claim not filed on or before that date, or any extension provided by law, is
+10 unenforceable thereafter.
+11 ……………………………
+12 Personal representative
+13 Date of first publication:
+14 ……………………………”.
+15 7–104.
+16 (a) Not later than 20 days after the appointment of a personal representative, the
+17 personal representative shall deliver to the register the text of the first published
+18 [newspaper] WEBSITE notice of the appointment and shall advise the register of the names
+19 and addresses of the heirs of the decedent and of the legatees to the extent known by the
+20 personal representative, so that the register may issue the notices provided in § 2–210 of
+21 this article.
+22 (b) The provisions of this section do not apply to a successor personal
+23 representative if notice under this section has been given previously, or to a person
+24 appointed pursuant to judicial probate.
+25 9–112.
+26 (a) (1) If the personal representative cannot obtain agreement from all
+27 interested persons entitled to share in the distribution of the property, the personal
+28 representative may apply to the court to make distribution.
+29 (2) The court shall designate a day and direct the giving of notice to all
+30 interested persons concerned.
+31 (3) The court may appoint two disinterested individuals, not related to the
+32 interested persons to make an appropriate division for distribution, or recommend to the
+33 court a sale of part or all of the property, and the court shall direct the distribution it
+34 considers appropriate.
+35 (b) If a majority in relation to value fails to appear on the appointed day, or appear
+36 and object to the distribution suggested, or if the court considers a sale of part or all of the
+37 property more appropriate and advantageous, the personal representative shall make the
+38 sale or sales and divide the proceeds, together with unsold property, as the court directs.
+
+6 HOUSE BILL 623
+1 (c) If the personal representative has reason to believe that there may be one or
+2 more interested persons whose names or addresses are not known to the personal
+3 representative, or if it is not known to the personal representative if an interested person
+4 is still surviving, the personal representative may appoint a meeting of all interested
+5 persons to be held on a day the court designates.
+6 (d) (1) The personal representative shall give notice to all interested persons
+7 known to the personal representative, and THE REGISTER shall, FOR 3 WEEKS, publish a
+8 notice of the meeting [once a week in 3 successive weeks, in a newspaper of general
+9 circulation in the county of the personal representative’s appointment,] ON THE
+10 CENTRALIZED WEBSITE ESTABLISHED UNDER § 2–208 OF THIS ARTICLE stating the
+11 time, date, place, and purpose of the meeting which shall be held no sooner than 20 days
+12 after the first publication.
+13 (2) The personal representative shall also take other steps and make other
+14 efforts to learn the names and addresses of additional interested persons as the court
+15 considers appropriate under the circumstances.
+16 (e) (1) On the date of the meeting, distribution of the net estate shall be made
+17 under the direction and control of the court.
+18 (2) Distribution by the personal representative in accordance with the
+19 direction of the court at the meeting protects and indemnifies the personal representative
+20 acting in obedience to it.
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2025.
+
+[DELETED: :CA      5     A E F c t e a c w a c r f p o n r t t a o a p r a r f j p a e a b a f p r r t r t a f p r r a c c w t r a g r t e a B  A S  A  ( B  A S  A  (  S T A 2]
+[DELETED:  H  ) TBH R O E C A A I S 2  W re a a he,][ sn  nr E  a d 5  ( ( N b   ( T a a o   ( I a t r s p a n i a n o g W E U   O T A2  f 2 se   ( T  I I  E …  D T … Y … r d a           …                 ]
+[DELETED: H 3 5  ( A i  ( A]   ( Pho g l cg T,3 R SLF  WS P O T W E U   O T A N2 T F I R A F P :    ( T    ( T    ( T M l    ( T n o t c t a t f p r    ( A t    ( T    ( T d w     1 6     2 2 o n te]   ( R f]
+[DELETED:  H    () P c o  ( ( W c s a r   ( ( T N    ( U r t d    ( I p 7  ( () A h c o a o a w i 3 s w,3F  WS P O T C W E U   O T2 , n   ( T c  ( T  “  T … (  A o m  A t]
+[DELETED: H 5  A u d   ( 6   ( 2 t t m  A c n f o o b t d o a e p b l i u                               D … 7  ( N p r s d t t r t t o t f p nr  a p t  ( T p o t s d n a t a s p r i n u t s h b g p o t a p a 9  ( ( I t p r c o a f a i p e t s i t d o t p t p r   ( T i   ( T i c c  ( I a p s]
+[DELETED:  H   ( I m i p w n o a a n k t t p r i s s t p r m a a m o a i p  ( ( T k sl     3 n o t m o a w i 3 s w i a n o g c i t c o t p r aO T   2   t a   ( T e t l t n a a o a i p a t c c  ( ( O u   ( D b t p r i a w t d a  S A B I F E T t A s t e O]

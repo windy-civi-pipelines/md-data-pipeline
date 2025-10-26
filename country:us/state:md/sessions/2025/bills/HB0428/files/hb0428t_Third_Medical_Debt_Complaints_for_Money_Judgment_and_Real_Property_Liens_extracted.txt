@@ -1,0 +1,274 @@
+Title: HOUSE BILL 428
+Official Title: HOUSE BILL 428
+Number of Sections: 1
+Source: versions - Third - Medical Debt - Complaints for Money Judgment and Real Property Liens
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+N1, D3 5lr0935
+CF SB 349
+By: Delegates Embry, Attar, Boafo, Boyce, Charkoudian, Fair, Feldmark, Forbes,
+Guzzone, Hutchinson, Kaufman, Palakovich Carr, Ruth, Shetty, Simpson,
+Taveras, Taylor, Terrasa, and Wims Wims, Pena–Melnyk, Cullison, Alston,
+Bagnall, Bhandari, Chisholm, Hill, S. Johnson, Kaiser, Kerr, Lopez,
+Martinez, Rosenberg, White Holland, Woods, and Woorman
+Introduced and read first time: January 16, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 22, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Medical Debt – Complaints for Money Judgment and Real Property Liens
+3 FOR the purpose of establishing certain requirements for a complaint for a money
+4 judgment; prohibiting the creation of a lien on owner–occupied residential property
+5 by contract or as a result of a breach of contract for the payment of medical debt; and
+6 generally relating to contract liens and medical debt.
+7 BY repealing and reenacting, with amendments,
+8 Article – Courts and Judicial Proceedings
+9 Section 11–401 and 11–402
+10 Annotated Code of Maryland
+11 (2020 Replacement Volume and 2024 Supplement)
+12 BY repealing and reenacting, without amendments,
+13 Article – Real Property
+14 Section 7–105.1(a)(8)
+15 Annotated Code of Maryland
+16 (2023 Replacement Volume and 2024 Supplement)
+17 BY adding to
+18 Article – Real Property
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0428*
+2 HOUSE BILL 428
+1 Section 14–203.1
+2 Annotated Code of Maryland
+3 (2023 Replacement Volume and 2024 Supplement)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Courts and Judicial Proceedings
+7 11–401.
+8 (a) In this subtitle the following terms have the meanings indicated.
+9 (b) “Court” means a court of law or a court of equity and includes the United
+10 States District Court for the District of Maryland, the United States Bankruptcy Court for
+11 the District of Maryland, the Supreme Court of Maryland, the Appellate Court of Maryland,
+12 A CIRCUIT COURT OF A COUNTY OR BALTIMORE CITY, and the District Court of
+13 Maryland.
+14 (c) (1) “Money judgment” means a judgment determining that a specified
+15 amount of money is immediately payable to the judgment creditor.
+16 (2) “Money judgment” does not include a judgment mandating the payment
+17 of money.
+18 11–402.
+19 (a) (1) In this section[, “land”] THE FOLLOWING WORDS HAVE THE
+20 MEANINGS INDICATED.
+21 (2) “LAND” means real property or any interest in or appurtenant to real
+22 property.
+23 (3) “MEDICAL DEBT” HAS THE MEANING STATED IN § 14–203.1 OF
+24 THE REAL PROPERTY ARTICLE.
+25 (b) (1) A COMPLAINT SEEKING A MONEY JUDGMENT SHALL INDICATE
+26 WHETHER THE JUDGMENT SOUGHT IS FOR MEDICAL DEBT.
+27 (2) A COMPLAINT SEEKING A MONEY JUDGMENT FOR MEDICAL DEBT
+28 SHALL INCLUDE THE ADDRESS OF THE PRIMARY RESIDENCE OF THE DEFENDANT.
+29 (C) If indexed and recorded as prescribed by the Maryland Rules, a money
+30 judgment of a court constitutes a lien to the amount and from the date of the judgment on
+31 the judgment debtor’s interest in land located in the county in which the judgment was
+32 rendered except:
+HOUSE BILL 428 3
+1 (1) FOR a lease from year to year or for a term of not more than five years
+2 and not renewable; AND
+3 (2) AS PROVIDED IN § 14–203.1 OF THE REAL PROPERTY ARTICLE.
+4 [(c)] (D) If indexed and recorded as prescribed by the Maryland Rules, a money
+5 judgment constitutes a lien on the judgment debtor’s interest in land located in a county
+6 other than the county in which the judgment was originally entered, except:
+7 (1) FOR a lease from year to year or for a term not more than five years
+8 and not renewable; AND
+9 (2) AS PROVIDED IN § 14–203.1 OF THE REAL PROPERTY ARTICLE.
+10 [(d)] (E) Promptly after the entry of an order of satisfaction or the filing of a
+11 written statement by a judgment creditor with the clerk of the court that a judgment of a
+12 court has been satisfied, the clerk of the court shall make an entry of the word “satisfied”
+13 on the horizontal line in the judgment record where the lien is indexed.
+14 Article – Real Property
+15 7–105.1.
+16 (a) (8) “Owner–occupied residential property” means residential property in
+17 which at least one unit is occupied by an individual who:
+18 (i) Has an ownership interest in the property; and
+19 (ii) Uses the property as the individual’s primary residence.
+20 14–203.1.
+21 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+22 INDICATED.
+23 (2) (I) “MEDICAL DEBT” MEANS DEBT INCURRED DUE TO A
+24 MEDICATION, PROCEDURE, OR SERVICE A DEBT OWED BY A CONSUMER TO A PERSON
+25 WHOSE PRIMARY BUSINESS IS PROVIDING MEDICAL SERVICES, PRODUCTS, OR
+26 DEVICES, OR TO THE PERSON’S AGENT OR ASSIGNEE, FOR THE PROVISION OF THE
+27 MEDICAL SERVICES, PRODUCTS, OR DEVICES.
+28 (II) “MEDICAL DEBT” DOES NOT INCLUDE DEBT CHARGED TO A
+29 CREDIT CARD UNLESS THE CREDIT CARD IS ISSUED UNDER AN OPEN–END OR
+4 HOUSE BILL 428
+1 CLOSED–END CREDIT PLAN OFFERED SOLELY FOR THE PAYMENT OF HEALTH CARE
+2 SERVICES.
+3 (3) “OWNER–OCCUPIED RESIDENTIAL PROPERTY” HAS THE MEANING
+4 STATED IN § 7–105.1 OF THIS ARTICLE.
+5 (B) A LIEN ON OWNER–OCCUPIED RESIDENTIAL PROPERTY MAY NOT BE
+6 CREATED BY CONTRACT OR AS A RESULT OF A BREACH OF CONTRACT FOR THE
+7 PAYMENT OF MEDICAL DEBT.
+8 (C) IF A LIEN IS CREATED IN VIOLATION OF THIS SECTION, THE COURT:
+9 (1) SHALL REMOVE THE LIEN; AND
+10 (2) MAY AWARD TO THE OWNER OF THE PROPERTY ECONOMIC
+11 DAMAGES SUFFERED AS A RESULT OF THE VIOLATION SHALL REMOVE THE LIEN.
+12 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+13 apply only prospectively and may not be applied or interpreted to have any effect on or
+14 application to any complaint filed before the effective date of this Act.
+15 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+16 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5   C B C H S K K L A M F t p o e c r f a c f a m j b g B  A S  A  ( B  A S  A  ( B  A]
+[DELETED:  H  S  A  (  S T A 1  ( I  ( “ S t C C O A C O A IYC a t D C o M  ( ( “ j m a j d t a s a   ( “ o 1  (  I t sn, “)[T F W H T     m “LD p   “M”§1T H M   O E R RPA.  ( C S A M J S I       I i a r a p b t M R a m j t rt ]
+[DELETED: H 3   a  ae   . A§11RP    E R R  () I]( j ot      ae   . A§11RP    E R R  () P]( w c o A 7  ( ( “ w    ( H    ( U ) ( N    ()“ME DT M D I D T ANPE   P B I P M SS PS OS NSE ’S S ,     )“MIET  C U T C C I I U A ONE O]
+[DELETED:  H DE    “O–ROY    71. ) A L O ORO R P M N B B C O A A R O A B O C F T  ) I,FN     SN      A T T O O T P E   S a a  S A B I F E T t A s t e O          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 428
+N1, D3 5lr0935
+CF SB 349
+By: Delegates Embry, Attar, Boafo, Boyce, Charkoudian, Fair, Feldmark, Forbes,
+Guzzone, Hutchinson, Kaufman, Palakovich Carr, Ruth, Shetty, Simpson,
+Taveras, Taylor, Terrasa, and Wims Wims, Pena–Melnyk, Cullison, Alston,
+Bagnall, Bhandari, Chisholm, Hill, S. Johnson, Kaiser, Kerr, Lopez,
+Martinez, Rosenberg, White Holland, Woods, and Woorman
+Introduced and read first time: January 16, 2025
+Assigned to: Health and Government Operations
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 22, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Medical Debt – Complaints for Money Judgment and Real Property Liens
+3 FOR the purpose of establishing certain requirements for a complaint for a money
+4 judgment; prohibiting the creation of a lien on owner–occupied residential property
+5 by contract or as a result of a breach of contract for the payment of medical debt; and
+6 generally relating to contract liens and medical debt.
+7 BY repealing and reenacting, with amendments,
+8 Article – Courts and Judicial Proceedings
+9 Section 11–401 and 11–402
+10 Annotated Code of Maryland
+11 (2020 Replacement Volume and 2024 Supplement)
+12 BY repealing and reenacting, without amendments,
+13 Article – Real Property
+14 Section 7–105.1(a)(8)
+15 Annotated Code of Maryland
+16 (2023 Replacement Volume and 2024 Supplement)
+17 BY adding to
+18 Article – Real Property
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0428*
+
+2 HOUSE BILL 428
+1 Section 14–203.1
+2 Annotated Code of Maryland
+3 (2023 Replacement Volume and 2024 Supplement)
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
+6 Article – Courts and Judicial Proceedings
+7 11–401.
+8 (a) In this subtitle the following terms have the meanings indicated.
+9 (b) “Court” means a court of law or a court of equity and includes the United
+10 States District Court for the District of Maryland, the United States Bankruptcy Court for
+11 the District of Maryland, the Supreme Court of Maryland, the Appellate Court of Maryland,
+12 A CIRCUIT COURT OF A COUNTY OR BALTIMORE CITY, and the District Court of
+13 Maryland.
+14 (c) (1) “Money judgment” means a judgment determining that a specified
+15 amount of money is immediately payable to the judgment creditor.
+16 (2) “Money judgment” does not include a judgment mandating the payment
+17 of money.
+18 11–402.
+19 (a) (1) In this section[, “land”] THE FOLLOWING WORDS HAVE THE
+20 MEANINGS INDICATED.
+21 (2) “LAND” means real property or any interest in or appurtenant to real
+22 property.
+23 (3) “MEDICAL DEBT” HAS THE MEANING STATED IN § 14–203.1 OF
+24 THE REAL PROPERTY ARTICLE.
+25 (b) (1) A COMPLAINT SEEKING A MONEY JUDGMENT SHALL INDICATE
+26 WHETHER THE JUDGMENT SOUGHT IS FOR MEDICAL DEBT.
+27 (2) A COMPLAINT SEEKING A MONEY JUDGMENT FOR MEDICAL DEBT
+28 SHALL INCLUDE THE ADDRESS OF THE PRIMARY RESIDENCE OF THE DEFENDANT.
+29 (C) If indexed and recorded as prescribed by the Maryland Rules, a money
+30 judgment of a court constitutes a lien to the amount and from the date of the judgment on
+31 the judgment debtor’s interest in land located in the county in which the judgment was
+32 rendered except:
+
+HOUSE BILL 428 3
+1 (1) FOR a lease from year to year or for a term of not more than five years
+2 and not renewable; AND
+3 (2) AS PROVIDED IN § 14–203.1 OF THE REAL PROPERTY ARTICLE.
+4 [(c)] (D) If indexed and recorded as prescribed by the Maryland Rules, a money
+5 judgment constitutes a lien on the judgment debtor’s interest in land located in a county
+6 other than the county in which the judgment was originally entered, except:
+7 (1) FOR a lease from year to year or for a term not more than five years
+8 and not renewable; AND
+9 (2) AS PROVIDED IN § 14–203.1 OF THE REAL PROPERTY ARTICLE.
+10 [(d)] (E) Promptly after the entry of an order of satisfaction or the filing of a
+11 written statement by a judgment creditor with the clerk of the court that a judgment of a
+12 court has been satisfied, the clerk of the court shall make an entry of the word “satisfied”
+13 on the horizontal line in the judgment record where the lien is indexed.
+14 Article – Real Property
+15 7–105.1.
+16 (a) (8) “Owner–occupied residential property” means residential property in
+17 which at least one unit is occupied by an individual who:
+18 (i) Has an ownership interest in the property; and
+19 (ii) Uses the property as the individual’s primary residence.
+20 14–203.1.
+21 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+22 INDICATED.
+23 (2) (I) “MEDICAL DEBT” MEANS DEBT INCURRED DUE TO A
+24 MEDICATION, PROCEDURE, OR SERVICE A DEBT OWED BY A CONSUMER TO A PERSON
+25 WHOSE PRIMARY BUSINESS IS PROVIDING MEDICAL SERVICES, PRODUCTS, OR
+26 DEVICES, OR TO THE PERSON’S AGENT OR ASSIGNEE, FOR THE PROVISION OF THE
+27 MEDICAL SERVICES, PRODUCTS, OR DEVICES.
+28 (II) “MEDICAL DEBT” DOES NOT INCLUDE DEBT CHARGED TO A
+29 CREDIT CARD UNLESS THE CREDIT CARD IS ISSUED UNDER AN OPEN–END OR
+
+4 HOUSE BILL 428
+1 CLOSED–END CREDIT PLAN OFFERED SOLELY FOR THE PAYMENT OF HEALTH CARE
+2 SERVICES.
+3 (3) “OWNER–OCCUPIED RESIDENTIAL PROPERTY” HAS THE MEANING
+4 STATED IN § 7–105.1 OF THIS ARTICLE.
+5 (B) A LIEN ON OWNER–OCCUPIED RESIDENTIAL PROPERTY MAY NOT BE
+6 CREATED BY CONTRACT OR AS A RESULT OF A BREACH OF CONTRACT FOR THE
+7 PAYMENT OF MEDICAL DEBT.
+8 (C) IF A LIEN IS CREATED IN VIOLATION OF THIS SECTION, THE COURT:
+9 (1) SHALL REMOVE THE LIEN; AND
+10 (2) MAY AWARD TO THE OWNER OF THE PROPERTY ECONOMIC
+11 DAMAGES SUFFERED AS A RESULT OF THE VIOLATION SHALL REMOVE THE LIEN.
+12 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+13 apply only prospectively and may not be applied or interpreted to have any effect on or
+14 application to any complaint filed before the effective date of this Act.
+15 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+16 October 1, 2025.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5   C B C H S K K L A M F t p o e c r f a c f a m j b g B  A S  A  ( B  A S  A  ( B  A]
+[DELETED:  H  S  A  (  S T A 1  ( I  ( “ S t C C O A C O A IYC a t D C o M  ( ( “ j m a j d t a s a   ( “ o 1  (  I t sn, “)[T F W H T     m “LD p   “M”§1T H M   O E R RPA.  ( C S A M J S I       I i a r a p b t M R a m j t rt ]
+[DELETED: H 3   a  ae   . A§11RP    E R R  () I]( j ot      ae   . A§11RP    E R R  () P]( w c o A 7  ( ( “ w    ( H    ( U ) ( N    ()“ME DT M D I D T ANPE   P B I P M SS PS OS NSE ’S S ,     )“MIET  C U T C C I I U A ONE O]
+[DELETED:  H DE    “O–ROY    71. ) A L O ORO R P M N B B C O A A R O A B O C F T  ) I,FN     SN      A T T O O T P E   S a a  S A B I F E T t A s t e O          G               ]

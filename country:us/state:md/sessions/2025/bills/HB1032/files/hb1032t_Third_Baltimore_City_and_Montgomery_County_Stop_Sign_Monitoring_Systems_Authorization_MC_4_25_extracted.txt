@@ -1,0 +1,1400 @@
+Title: HOUSE BILL 1032
+Official Title: HOUSE BILL 1032
+Number of Sections: 1
+Source: versions - Third - Baltimore City and Montgomery County - Stop Sign Monitoring Systems - Authorization MC 4-25
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+R5, P1 5lr0881
+By: Montgomery County Delegation and Delegate Young
+Introduced and read first time: February 3, 2025
+Assigned to: Environment and Transportation
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 5, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Baltimore City and Montgomery County – Stop Sign Monitoring Systems –
+3 Authorization
+4 MC 4–25
+5 FOR the purpose of authorizing the use of stop sign monitoring systems in school zones in
+6 Baltimore City and Montgomery County under the pilot program authorized for
+7 Prince George’s County, if authorized by local law; establishing that certain
+8 provisions of law relating to the inspection of recorded images apply to recorded
+9 images produced by a stop sign monitoring system; providing that the owner or
+10 driver of a motor vehicle recorded failing to obey a stop sign is subject to a citation
+11 and a certain civil penalty under certain circumstances; establishing certain
+12 defenses to a charge of an alleged violation recorded by a stop sign monitoring
+13 system; prohibiting a contractor administering a stop sign monitoring system from
+14 being compensated in a certain manner; and generally relating to the use of stop sign
+15 monitoring systems in Baltimore City and Montgomery County.
+16 BY repealing and reenacting, with amendments,
+17 Article – Courts and Judicial Proceedings
+18 Section 4–401(13), 7–302(e)(1)(i), and 10–311(g)
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2024 Supplement)
+21 BY repealing and reenacting, with amendments,
+22 Article – Courts and Judicial Proceedings
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1032*
+2 HOUSE BILL 1032
+1 Section 7–302(e)(1) through (4) and 10–311(f)
+2 Annotated Code of Maryland
+3 (2020 Replacement Volume and 2024 Supplement)
+4 (As enacted by Section 3 of Chapter 678 of the Acts of the General Assembly of 2024)
+5 BY adding to
+6 Article – Courts and Judicial Proceedings
+7 Section 10–311(f)
+8 Annotated Code of Maryland
+9 (2020 Replacement Volume and 2024 Supplement)
+10 (As enacted by Section 3 of Chapter 678 of the Acts of the General Assembly of 2024)
+11 BY repealing and reenacting, with amendments,
+12 Article – General Provisions
+13 Section 4–321
+14 Annotated Code of Maryland
+15 (2019 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Transportation
+18 Section 21–707
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2024 Supplement)
+21 BY adding to repealing and reenacting, with amendments,
+22 Article – Transportation
+23 Section 21–707.2 21–707.1
+24 Annotated Code of Maryland
+25 (2020 Replacement Volume and 2024 Supplement)
+26 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+27 That the Laws of Maryland read as follows:
+28 Article – Courts and Judicial Proceedings
+29 7–302.
+30 (e) (1) (i) A citation issued pursuant to § 21–202.1, § 21–706.1, § 21–707.1,
+31 § 21–707.2, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the Transportation
+32 Article shall provide that the person receiving the citation may elect to stand trial by
+33 notifying the issuing agency of the person’s intention to stand trial at least 5 days prior to
+34 the date of payment as set forth in the citation.
+35 10–311.
+36 (g) A recorded image of a motor vehicle produced by a stop sign monitoring system
+37 in accordance with § 21–707.1 OR § 21–707.2 of the Transportation Article is admissible
+HOUSE BILL 1032 3
+1 in a proceeding concerning a civil citation issued under that section for a violation of §
+2 21–707 OR § 21–707.2 of the Transportation Article without authentication.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+4 as follows:
+5 Article – Courts and Judicial Proceedings
+6 7–302.
+7 (e) (1) (i) A citation issued pursuant to § 21–202.1, § 21–706.1, § 21–707.2,
+8 § 21–809, § 21–810, § 21–1134, or § 24–111.3 of the Transportation Article shall provide
+9 that the person receiving the citation may elect to stand trial by notifying the issuing
+10 agency of the person’s intention to stand trial at least 5 days prior to the date of payment
+11 as set forth in the citation.
+12 (ii) On receipt of the notice to stand trial, the agency shall forward
+13 to the District Court having venue a copy of the citation and a copy of the notice from the
+14 person who received the citation indicating the person’s intention to stand trial.
+15 (iii) On receipt thereof, the District Court shall schedule the case for
+16 trial and notify the defendant of the trial date under procedures adopted by the Chief Judge
+17 of the District Court.
+18 (2) (i) A citation issued as the result of a vehicle height monitoring
+19 system, a traffic control signal monitoring system, a speed monitoring system, a work zone
+20 speed control system OR A STOP SIGN MONITORING SYSTEM controlled by a political
+21 subdivision, a school bus monitoring camera, or a bus lane monitoring system shall provide
+22 that, in an uncontested case, the penalty shall be paid directly to that political subdivision.
+23 (ii) A citation issued as the result of a traffic control signal
+24 monitoring system or a work zone speed control system controlled by a State agency, or as
+25 a result of a vehicle height monitoring system, a traffic control signal monitoring system, a
+26 speed monitoring system, A STOP SIGN MONITORING SYSTEM, a school bus monitoring
+27 camera, or a bus lane monitoring system in a case contested in District Court, shall provide
+28 that the penalty shall be paid directly to the District Court.
+29 (3) Civil penalties resulting from citations issued using a vehicle height
+30 monitoring system, traffic control signal monitoring system, speed monitoring system,
+31 work zone speed control system, STOP SIGN MONITORING SYSTEM, school bus monitoring
+32 camera, or bus lane monitoring system that are collected by the District Court shall be
+33 collected in accordance with subsection (a) of this section and distributed in accordance
+34 with § 12–118 of the Transportation Article.
+35 (4) (i) Except as provided in paragraph (5) of this subsection, from the
+36 fines collected by a political subdivision as a result of violations enforced by speed
+4 HOUSE BILL 1032
+1 monitoring systems, work zone speed control systems, STOP SIGN MONITORING
+2 SYSTEMS, school bus monitoring cameras, or bus lane monitoring systems, a political
+3 subdivision:
+4 1. May recover the costs of implementing and administering
+5 the speed monitoring systems, work zone speed control systems, school bus monitoring
+6 cameras, or bus lane monitoring systems; and
+7 2. Subject to subparagraph (ii) of this paragraph, may spend
+8 any remaining balance solely for public safety purposes, including pedestrian or highway
+9 safety programs.
+10 (ii) 1. For any fiscal year, if the balance remaining from the fines
+11 collected by a political subdivision as a result of violations enforced by speed monitoring
+12 systems, after the costs of implementing and administering the systems are recovered in
+13 accordance with subparagraph (i)1 of this paragraph, is greater than 10% of the total
+14 revenues of the political subdivision for the fiscal year, the political subdivision shall remit
+15 any funds that exceed 10% of the total revenues to the Comptroller.
+16 2. The Comptroller shall deposit any money remitted under
+17 this subparagraph to the General Fund of the State.
+18 10–311.
+19 (F) A RECORDED IMAGE OF A MOTOR VEHICLE PRODUCED BY A STOP SIGN
+20 MONITORING SYSTEM IN ACCORDANCE WITH § 21–707.2 OF THE TRANSPORTATION
+21 ARTICLE IS ADMISSIBLE IN A PROCEEDING CONCERNING A CIVIL CITATION ISSUED
+22 UNDER THAT SECTION FOR A VIOLATION OF § 21–707.2 OF THE TRANSPORTATION
+23 ARTICLE WITHOUT AUTHENTICATION.
+24 [(f)] (G) In any other judicial proceeding, a recorded image produced by a vehicle
+25 height monitoring system, traffic control signal monitoring system, speed monitoring
+26 system, work zone speed control system, STOP SIGN MONITORING SYSTEM, school bus
+27 monitoring camera, or bus lane monitoring system is admissible as otherwise provided by
+28 law.
+29 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+30 as follows:
+31 Article – Courts and Judicial Proceedings
+32 4–401.
+33 Except as provided in § 4–402 of this subtitle, and subject to the venue provisions of
+34 Title 6 of this article, the District Court has exclusive original civil jurisdiction in:
+HOUSE BILL 1032 5
+1 (13) A proceeding for a civil infraction under § 21–202.1, § 21–704.1, §
+2 21–706.1, § 21–707.1, § 21–707.2, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3
+3 of the Transportation Article or § 10–112 of the Criminal Law Article;
+4 Article – General Provisions
+5 4–321.
+6 (a) In this section, “recorded images” has the meaning stated in § 21–202.1, §
+7 21–707.2, § 21–809, § 21–810, or § 24–111.3 of the Transportation Article.
+8 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+9 inspection of recorded images produced by:
+10 (1) a traffic control signal monitoring system operated under § 21–202.1 of
+11 the Transportation Article;
+12 (2) A STOP SIGN MONITORING SYSTEM OPERATED UNDER § 21–707.2
+13 OF THE TRANSPORTATION ARTICLE;
+14 (3) a speed monitoring system operated under § 21–809 of the
+15 Transportation Article;
+16 [(3)] (4) a work zone speed control system operated under § 21–810 of the
+17 Transportation Article; or
+18 [(4)] (5) a vehicle height monitoring system operated under § 24–111.3 of
+19 the Transportation Article.
+20 (c) A custodian shall allow inspection of recorded images:
+21 (1) as required in § 21–202.1, § 21–707.2, § 21–809, § 21–810, or §
+22 24–111.3 of the Transportation Article;
+23 (2) by any person issued a citation under § 21–202.1, § 21–707.2, §
+24 21–809, § 21–810, or § 24–111.3 of the Transportation Article, or by an attorney of record
+25 for the person; or
+26 (3) by an employee or agent of an agency in an investigation or a proceeding
+27 relating to the imposition of or indemnification from civil liability under § 21–202.1, §
+28 21–707.2, § 21–809, § 21–810, or § 24–111.3 of the Transportation Article.
+29 Article – Transportation
+30 21–707.
+6 HOUSE BILL 1032
+1 (a) Unless otherwise directed by a police officer or traffic control signal, the driver
+2 of a vehicle approaching a stop sign at an intersection shall stop at the near side of the
+3 intersection at a clearly marked stop line.
+4 (b) Unless otherwise directed by a police officer or traffic control signal, the driver
+5 of a vehicle approaching a stop sign at an intersection shall stop at the near side of the
+6 intersection and, if there is no clearly marked stop line, before entering any crosswalk.
+7 (c) Unless otherwise directed by a police officer or traffic control signal, the driver
+8 of a vehicle approaching a stop sign at an intersection shall stop at the near side of an
+9 intersection and, if there is no crosswalk, at the nearest point before entering the
+10 intersection that gives the driver a view of traffic approaching on the intersecting roadway.
+11 (d) The driver of a vehicle approaching a yield sign at an intersection, if required
+12 for safety to stop, shall stop at the near side of the intersection at a clearly marked stop
+13 line.
+14 (e) The driver of a vehicle approaching a yield sign at an intersection, if required
+15 for safety to stop, shall stop at the near side of the intersection and, if there is no clearly
+16 marked stop line, before entering any crosswalk.
+17 (f) The driver of a vehicle approaching a yield sign at an intersection, if required
+18 for safety to stop, shall stop at the near side of the intersection and, if there is no crosswalk,
+19 at the nearest point before entering the intersection that gives the driver a view of traffic
+20 approaching on the intersecting roadway.
+21 21–707.2.
+22 (A) THIS SECTION APPLIES ONLY IN MONTGOMERY COUNTY.
+23 (B) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+24 INDICATED.
+25 (2) “AGENCY” MEANS A LAW ENFORCEMENT AGENCY THAT IS
+26 AUTHORIZED TO ISSUE A CITATION FOR A VIOLATION OF THE MARYLAND VEHICLE
+27 LAW OR OF LOCAL TRAFFIC LAWS OR REGULATIONS.
+28 (3) (I) “OWNER” MEANS THE REGISTERED OWNER OF A MOTOR
+29 VEHICLE OR LESSEE OF A MOTOR VEHICLE UNDER A LEASE OF 6 MONTHS OR MORE.
+30 (II) “OWNER” DOES NOT INCLUDE:
+31 1. A MOTOR VEHICLE LEASING COMPANY; OR
+32 2. A HOLDER OF A SPECIAL REGISTRATION PLATE
+33 ISSUED UNDER TITLE 13, SUBTITLE 9, PART III OF THIS ARTICLE.
+HOUSE BILL 1032 7
+1 (4) “RECORDED IMAGE” MEANS IMAGES RECORDED BY A STOP SIGN
+2 MONITORING SYSTEM:
+3 (I) ON:
+4 1. TWO OR MORE PHOTOGRAPHS;
+5 2. TWO OR MORE MICROPHOTOGRAPHS;
+6 3. TWO OR MORE ELECTRONIC IMAGES;
+7 4. VIDEOTAPE; OR
+8 5. ANY OTHER MEDIUM; AND
+9 (II) SHOWING A MOTOR VEHICLE AND, ON AT LEAST ONE IMAGE
+10 OR PORTION OF TAPE, CLEARLY IDENTIFYING THE REGISTRATION PLATE NUMBER
+11 OF THE MOTOR VEHICLE.
+12 (5) “STOP SIGN MONITORING SYSTEM” MEANS A DEVICE DESIGNED
+13 TO CAPTURE A RECORDED IMAGE OF A VIOLATION.
+14 (6) (I) “VIOLATION” MEANS A FAILURE TO COME TO A COMPLETE
+15 STOP AT A STOP SIGN IN VIOLATION OF § 21–707 OF THIS SUBTITLE.
+16 (II) “VIOLATION” DOES NOT INCLUDE ANY ACTION A DRIVER IS
+17 INSTRUCTED TO TAKE BY A POLICE OFFICER.
+18 (C) (1) SUBJECT TO PARAGRAPHS (2) THROUGH (4) OF THIS
+19 SUBSECTION, AN AGENCY MAY USE STOP SIGN MONITORING SYSTEMS:
+20 (I) ON HIGHWAYS LOCATED IN A SCHOOL ZONE MAINTAINED BY
+21 A LOCAL JURISDICTION, IF AUTHORIZED BY THE GOVERNING BODY OF THE LOCAL
+22 JURISDICTION; OR
+23 (II) ON STATE HIGHWAYS LOCATED IN A SCHOOL ZONE, IF
+24 AUTHORIZED BY THE STATE HIGHWAY ADMINISTRATION.
+25 (2) A STOP SIGN MONITORING SYSTEM MAY NOT BE USED IN A LOCAL
+26 JURISDICTION UNDER THIS SECTION UNLESS ITS USE IS AUTHORIZED BY THE
+27 GOVERNING BODY OF THE LOCAL JURISDICTION BY LOCAL LAW ENACTED AFTER
+28 REASONABLE NOTICE AND A PUBLIC HEARING.
+8 HOUSE BILL 1032
+1 (3) BEFORE BEGINNING USE OF STOP SIGN MONITORING SYSTEMS,
+2 AN AGENCY SHALL PUBLISH NOTICE THAT THE AGENCY HAS ADOPTED THE USE OF
+3 STOP SIGN MONITORING SYSTEMS ON ITS WEBSITE.
+4 (4) (I) THE COUNTY SHALL PROMINENTLY PLACE SIGNS ON
+5 HIGHWAYS WITHIN THE COUNTY PROVIDING NOTICE THAT STOP SIGN MONITORING
+6 SYSTEMS ARE USED IN THE COUNTY.
+7 (II) THE STATE HIGHWAY ADMINISTRATION SHALL PLACE
+8 SIGNS PROMINENTLY PROVIDING NOTICE THAT STOP SIGN MONITORING SYSTEMS
+9 ARE IN USE ON STATE HIGHWAYS.
+10 (D) A RECORDED IMAGE UNDER THIS SECTION INDICATING THAT THE
+11 DRIVER OF A MOTOR VEHICLE HAS COMMITTED A VIOLATION SHALL INCLUDE:
+12 (1) THE TIME AND DATE OF THE VIOLATION; AND
+13 (2) TO THE EXTENT POSSIBLE, THE LOCATION OF THE VIOLATION.
+14 (E) (1) UNLESS THE DRIVER OF THE MOTOR VEHICLE RECEIVED A
+15 CITATION FROM A POLICE OFFICER AT THE TIME OF THE VIOLATION, THE OWNER
+16 OR, IN ACCORDANCE WITH SUBSECTION (F)(3) OR (H)(4) OR (5) OF THIS SECTION,
+17 THE DRIVER OF A MOTOR VEHICLE IS SUBJECT TO A CIVIL PENALTY IF THE MOTOR
+18 VEHICLE IS RECORDED BY A STOP SIGN MONITORING SYSTEM DURING THE
+19 COMMISSION OF A VIOLATION.
+20 (2) A CIVIL PENALTY UNDER THIS SUBSECTION MAY NOT EXCEED $40.
+21 (3) FOR PURPOSES OF THIS SECTION, THE DISTRICT COURT SHALL
+22 PRESCRIBE:
+23 (I) A UNIFORM CITATION FORM CONSISTENT WITH
+24 SUBSECTION (F)(1) OF THIS SECTION AND § 7–302 OF THE COURTS ARTICLE; AND
+25 (II) A CIVIL PENALTY, WHICH SHALL BE INDICATED ON THE
+26 CITATION, TO BE PAID BY PERSONS WHO CHOOSE TO PREPAY THE CIVIL PENALTY
+27 WITHOUT APPEARING IN DISTRICT COURT.
+28 (F) (1) SUBJECT TO THE PROVISIONS OF PARAGRAPHS (2) THROUGH (5)
+29 OF THIS SUBSECTION, AN AGENCY SHALL MAIL TO THE OWNER LIABLE UNDER
+30 SUBSECTION (E) OF THIS SECTION A CITATION THAT SHALL INCLUDE:
+31 (I) THE NAME AND ADDRESS OF THE REGISTERED OWNER OF
+32 THE MOTOR VEHICLE;
+HOUSE BILL 1032 9
+1 (II) THE REGISTRATION NUMBER OF THE MOTOR VEHICLE
+2 INVOLVED IN THE VIOLATION;
+3 (III) THE VIOLATION CHARGED;
+4 (IV) TO THE EXTENT POSSIBLE, THE LOCATION OF THE
+5 VIOLATION;
+6 (V) THE DATE AND TIME OF THE VIOLATION;
+7 (VI) A COPY OF THE RECORDED IMAGE;
+8 (VII) THE AMOUNT OF THE CIVIL PENALTY IMPOSED AND THE
+9 DATE BY WHICH THE CIVIL PENALTY MUST BE PAID;
+10 (VIII) A SIGNED STATEMENT BY A TECHNICIAN EMPLOYED BY THE
+11 AGENCY THAT, BASED ON THE INSPECTION OF THE RECORDED IMAGE, THE MOTOR
+12 VEHICLE WAS BEING OPERATED DURING THE COMMISSION OF A VIOLATION;
+13 (IX) A STATEMENT THAT THE RECORDED IMAGE IS EVIDENCE OF
+14 A VIOLATION; AND
+15 (X) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+16 LIABLE UNDER THIS SECTION:
+17 1. OF THE MANNER AND TIME IN WHICH LIABILITY AS
+18 ALLEGED IN THE CITATION MAY BE CONTESTED IN THE DISTRICT COURT; AND
+19 2. THAT FAILURE TO PAY THE CIVIL PENALTY OR TO
+20 CONTEST LIABILITY IN A TIMELY MANNER IS AN ADMISSION OF LIABILITY AND MAY
+21 RESULT IN REFUSAL OR SUSPENSION OF THE MOTOR VEHICLE REGISTRATION.
+22 (2) THE AGENCY MAY MAIL A WARNING NOTICE IN PLACE OF A
+23 CITATION TO THE OWNER LIABLE UNDER SUBSECTION (E) OF THIS SECTION.
+24 (3) (I) BEFORE MAILING A CITATION TO A MOTOR VEHICLE
+25 RENTAL COMPANY LIABLE UNDER SUBSECTION (E) OF THIS SECTION, AN AGENCY
+26 SHALL MAIL A NOTICE TO THE MOTOR VEHICLE RENTAL COMPANY STATING THAT A
+27 CITATION WILL BE MAILED TO THE MOTOR VEHICLE RENTAL COMPANY UNLESS,
+28 WITHIN 45 DAYS AFTER RECEIVING THE NOTICE, THE MOTOR VEHICLE RENTAL
+29 COMPANY PROVIDES THE AGENCY WITH:
+10 HOUSE BILL 1032
+1 1. A STATEMENT MADE UNDER OATH THAT STATES THE
+2 NAME AND LAST KNOWN MAILING ADDRESS OF THE INDIVIDUAL DRIVING OR
+3 RENTING THE MOTOR VEHICLE WHEN THE VIOLATION OCCURRED;
+4 2. A. A STATEMENT MADE UNDER OATH THAT
+5 STATES THAT THE MOTOR VEHICLE RENTAL COMPANY IS UNABLE TO DETERMINE
+6 WHO WAS DRIVING THE MOTOR VEHICLE AT THE TIME THE VIOLATION OCCURRED
+7 BECAUSE THE MOTOR VEHICLE WAS STOLEN AT THE TIME OF THE VIOLATION; AND
+8 B. A COPY OF THE POLICE REPORT ASSOCIATED WITH
+9 THE MOTOR VEHICLE THEFT CLAIMED UNDER ITEM A OF THIS ITEM; OR
+10 3. PAYMENT FOR THE PENALTY ASSOCIATED WITH THE
+11 VIOLATION.
+12 (II) AN AGENCY MAY NOT MAIL A CITATION TO A MOTOR
+13 VEHICLE RENTAL COMPANY LIABLE UNDER SUBSECTION (E) OF THIS SECTION IF
+14 THE MOTOR VEHICLE RENTAL COMPANY COMPLIES WITH SUBPARAGRAPH (I) OF
+15 THIS PARAGRAPH.
+16 (4) EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS SUBSECTION
+17 AND SUBSECTION (H)(4) AND (5) OF THIS SECTION, A CITATION ISSUED UNDER THIS
+18 SECTION SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER THE ALLEGED
+19 VIOLATION.
+20 (5) A PERSON WHO RECEIVES A CITATION UNDER PARAGRAPH (1) OF
+21 THIS SUBSECTION MAY:
+22 (I) PAY THE CIVIL PENALTY IN ACCORDANCE WITH
+23 INSTRUCTIONS ON THE CITATION; OR
+24 (II) ELECT TO STAND TRIAL FOR THE ALLEGED VIOLATION.
+25 (G) (1) A CERTIFICATE ALLEGING THAT A VIOLATION OCCURRED, SWORN
+26 TO OR AFFIRMED BY A DULY AUTHORIZED LAW ENFORCEMENT OFFICER EMPLOYED
+27 BY OR UNDER CONTRACT WITH AN AGENCY, BASED ON THE INSPECTION OF A
+28 RECORDED IMAGE, SHALL BE EVIDENCE OF THE FACTS CONTAINED IN THE
+29 CERTIFICATE AND SHALL BE ADMISSIBLE IN ANY PROCEEDING CONCERNING THE
+30 ALLEGED VIOLATION.
+31 (2) ADJUDICATION OF LIABILITY SHALL BE BASED ON
+32 PREPONDERANCE OF THE EVIDENCE.
+HOUSE BILL 1032 11
+1 (H) (1) THE DISTRICT COURT MAY CONSIDER IN DEFENSE OF A
+2 VIOLATION:
+3 (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THAT
+4 THE MOTOR VEHICLE OR REGISTRATION PLATES OF THE MOTOR VEHICLE WERE
+5 STOLEN BEFORE THE VIOLATION OCCURRED AND WERE NOT UNDER THE CONTROL
+6 OR POSSESSION OF THE OWNER AT THE TIME OF THE VIOLATION;
+7 (II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION,
+8 EVIDENCE THAT THE PERSON NAMED IN THE CITATION WAS NOT OPERATING THE
+9 MOTOR VEHICLE AT THE TIME OF THE VIOLATION; AND
+10 (III) ANY OTHER ISSUES AND EVIDENCE THAT THE DISTRICT
+11 COURT CONSIDERS PERTINENT.
+12 (2) TO DEMONSTRATE THAT THE MOTOR VEHICLE OR THE
+13 REGISTRATION PLATES WERE STOLEN BEFORE THE VIOLATION OCCURRED AND
+14 WERE NOT UNDER THE CONTROL OR POSSESSION OF THE OWNER AT THE TIME OF
+15 THE VIOLATION, THE OWNER MUST SUBMIT PROOF THAT A POLICE REPORT ABOUT
+16 THE STOLEN MOTOR VEHICLE OR REGISTRATION PLATES WAS FILED IN A TIMELY
+17 MANNER.
+18 (3) TO SATISFY THE EVIDENTIARY BURDEN UNDER PARAGRAPH
+19 (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN THE CITATION SHALL PROVIDE
+20 TO THE DISTRICT COURT EVIDENCE TO THE SATISFACTION OF THE DISTRICT
+21 COURT OF WHO WAS OPERATING THE MOTOR VEHICLE AT THE TIME OF THE
+22 VIOLATION, INCLUDING, AT A MINIMUM, THE OPERATOR’S NAME AND CURRENT
+23 ADDRESS.
+24 (4) (I) THE PROVISIONS OF THIS PARAGRAPH APPLY ONLY TO A
+25 CITATION THAT INVOLVES A CLASS E (TRUCK) VEHICLE WITH A REGISTERED GROSS
+26 WEIGHT OF 26,001 POUNDS OR MORE, CLASS F (TRACTOR) VEHICLE, CLASS G
+27 (TRAILER) VEHICLE OPERATED IN COMBINATION WITH A CLASS F (TRACTOR)
+28 VEHICLE, OR CLASS P (PASSENGER BUS) VEHICLE.
+29 (II) TO SATISFY THE EVIDENTIARY BURDEN UNDER
+30 PARAGRAPH (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN A CITATION
+31 DESCRIBED UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH MAY PROVIDE TO THE
+32 DISTRICT COURT A LETTER, SWORN TO OR AFFIRMED BY THE PERSON AND MAILED
+33 BY CERTIFIED MAIL, RETURN RECEIPT REQUESTED, THAT:
+34 1. STATES THAT THE PERSON NAMED IN THE CITATION
+35 WAS NOT OPERATING THE MOTOR VEHICLE AT THE TIME OF THE VIOLATION; AND
+12 HOUSE BILL 1032
+1 2. PROVIDES THE NAME, ADDRESS, AND DRIVER’S
+2 LICENSE IDENTIFICATION NUMBER OF THE PERSON WHO WAS OPERATING THE
+3 MOTOR VEHICLE AT THE TIME OF THE VIOLATION.
+4 (5) (I) IF THE DISTRICT COURT FINDS THAT THE PERSON NAMED
+5 IN THE CITATION WAS NOT OPERATING THE MOTOR VEHICLE AT THE TIME OF THE
+6 VIOLATION OR RECEIVES EVIDENCE UNDER PARAGRAPH (4)(II)2 OF THIS
+7 SUBSECTION IDENTIFYING THE PERSON DRIVING THE MOTOR VEHICLE AT THE TIME
+8 OF THE VIOLATION, THE CLERK OF COURT SHALL PROVIDE TO THE AGENCY ISSUING
+9 THE CITATION A COPY OF ANY EVIDENCE SUBSTANTIATING WHO WAS OPERATING
+10 THE MOTOR VEHICLE AT THE TIME OF THE VIOLATION.
+11 (II) ON RECEIPT OF SUBSTANTIATING EVIDENCE FROM THE
+12 DISTRICT COURT UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH, THE AGENCY
+13 MAY ISSUE A CITATION AS PROVIDED IN SUBSECTION (F) OF THIS SECTION TO THE
+14 PERSON WHO THE EVIDENCE INDICATES WAS OPERATING THE MOTOR VEHICLE AT
+15 THE TIME OF THE VIOLATION.
+16 (III) A CITATION ISSUED UNDER SUBPARAGRAPH (II) OF THIS
+17 PARAGRAPH SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER RECEIPT OF THE
+18 EVIDENCE FROM THE DISTRICT COURT.
+19 (I) IF THE CIVIL PENALTY IS NOT PAID AND THE VIOLATION IS NOT
+20 CONTESTED, THE ADMINISTRATION MAY REFUSE TO REGISTER OR REREGISTER OR
+21 MAY SUSPEND THE REGISTRATION OF THE MOTOR VEHICLE.
+22 (J) A VIOLATION FOR WHICH A CIVIL PENALTY IS IMPOSED UNDER THIS
+23 SECTION:
+24 (1) IS NOT A MOVING VIOLATION FOR THE PURPOSE OF ASSESSING
+25 POINTS UNDER § 16–402 OF THIS ARTICLE AND MAY NOT BE RECORDED BY THE
+26 ADMINISTRATION ON THE DRIVING RECORD OF THE OWNER OR DRIVER OF THE
+27 MOTOR VEHICLE; AND
+28 (2) MAY NOT BE CONSIDERED IN THE PROVISION OF MOTOR VEHICLE
+29 INSURANCE COVERAGE.
+30 (K) IN CONSULTATION WITH LAW ENFORCEMENT AGENCIES, THE CHIEF
+31 JUDGE OF THE DISTRICT COURT SHALL ADOPT PROCEDURES FOR THE ISSUANCE
+32 OF CITATIONS, TRIALS FOR VIOLATIONS, AND THE COLLECTION OF CIVIL PENALTIES
+33 IMPOSED UNDER THIS SECTION.
+HOUSE BILL 1032 13
+1 (L) (1) AN AGENCY OR AN AGENT OR A CONTRACTOR DESIGNATED BY THE
+2 AGENCY SHALL ADMINISTER AND PROCESS CIVIL CITATIONS ISSUED UNDER THIS
+3 SECTION IN COORDINATION WITH THE DISTRICT COURT.
+4 (2) IF A CONTRACTOR IN ANY MANNER OPERATES A STOP SIGN
+5 MONITORING SYSTEM OR ADMINISTERS OR PROCESSES CITATIONS GENERATED BY
+6 A STOP SIGN MONITORING SYSTEM ON BEHALF OF A LOCAL JURISDICTION, THE
+7 CONTRACTOR’S FEE MAY NOT BE CONTINGENT ON A PER–TICKET BASIS ON THE
+8 NUMBER OF CITATIONS ISSUED OR PAID.
+9 21–707.1.
+10 (a) This section applies only in BALTIMORE CITY, MONTGOMERY COUNTY,
+11 AND Prince George’s County.
+12 (b) (1) In this section the following words have the meanings indicated.
+13 (2) “Agency” means a law enforcement agency that is authorized to issue a
+14 citation for a violation of the Maryland Vehicle Law or of local traffic laws or regulations.
+15 (3) (i) “Owner” means the registered owner of a motor vehicle or lessee
+16 of a motor vehicle under a lease of 6 months or more.
+17 (ii) “Owner” does not include:
+18 1. A motor vehicle leasing company; or
+19 2. A holder of a special registration plate issued under Title
+20 13, Subtitle 9, Part III of this article.
+21 (4) “Recorded image” means images recorded by a stop sign monitoring
+22 system:
+23 (i) On:
+24 1. Two or more photographs;
+25 2. Two or more microphotographs;
+26 3. Two or more electronic images;
+27 4. Videotape; or
+28 5. Any other medium; and
+14 HOUSE BILL 1032
+1 (ii) Showing a motor vehicle and, on at least one image or portion of
+2 tape, clearly identifying the registration plate number of the motor vehicle.
+3 (5) “Stop sign monitoring system” means a device designed to capture a
+4 recorded image of a violation.
+5 (6) (i) “Violation” means a failure to come to a complete stop at a stop
+6 sign in violation of § 21–707 of this subtitle.
+7 (ii) “Violation” does not include any action a driver is instructed to
+8 take by a police officer.
+9 (c) (1) Subject to paragraphs (2) through (5) of this subsection, an agency may
+10 use stop sign monitoring systems:
+11 (i) On highways located in a school zone maintained by a local
+12 jurisdiction, if authorized by the governing body of the local jurisdiction; or
+13 (ii) On State highways located in a school zone, if authorized by the
+14 State Highway Administration.
+15 (2) A stop sign monitoring system:
+16 (i) May not be used in a local jurisdiction under this section unless
+17 its use is authorized by the governing body of the local jurisdiction by local law enacted
+18 after reasonable notice and a public hearing; and
+19 (ii) [May] IN PRINCE GEORGE’S COUNTY, MAY only be used at a
+20 location approved by the Prince George’s County Council.
+21 (3) [The county] PRINCE GEORGE’S COUNTY shall prioritize the
+22 placement of stop sign monitoring systems within municipalities that have high violation
+23 rates.
+24 (4) Before beginning use of stop sign monitoring systems, an agency shall
+25 publish notice that the agency has adopted the use of stop sign monitoring systems on its
+26 website and, IN BALTIMORE CITY AND PRINCE GEORGE’S COUNTY ONLY, in a
+27 newspaper of general circulation in the jurisdiction in which the stop sign monitoring
+28 system will be used.
+29 (5) (i) [The] A county shall prominently place signs on highways within
+30 the county providing notice that stop sign monitoring systems are used in the county.
+31 (ii) The State Highway Administration shall place signs prominently
+32 providing notice that stop sign monitoring systems are in use on State highways.
+HOUSE BILL 1032 15
+1 (d) A recorded image under this section indicating that the driver of a motor
+2 vehicle has committed a violation shall include:
+3 (1) The time and date of the violation; and
+4 (2) To the extent possible, the location of the violation.
+5 (e) (1) Unless the driver of the motor vehicle received a citation from a police
+6 officer at the time of the violation, the owner or, in accordance with subsection (f)(3) or (h)(4)
+7 or (5) of this section, the driver of a motor vehicle is subject to a civil penalty if the motor
+8 vehicle is recorded by a stop sign monitoring system during the commission of a violation.
+9 (2) A civil penalty under this subsection may not exceed $40.
+10 (3) For purposes of this section, the District Court shall prescribe:
+11 (i) A uniform citation form consistent with subsection (f)(1) of this
+12 section and § 7–302 of the Courts Article; and
+13 (ii) A civil penalty, which shall be indicated on the citation, to be paid
+14 by persons who choose to prepay the civil penalty without appearing in District Court.
+15 (f) (1) Subject to the provisions of paragraphs (2) through (5) of this
+16 subsection, an agency shall mail to the owner liable under subsection (e) of this section a
+17 citation that shall include:
+18 (i) The name and address of the registered owner of the vehicle;
+19 (ii) The registration PLATE number of the motor vehicle involved in
+20 the violation;
+21 (iii) The violation charged;
+22 (iv) To the extent possible, the location of the violation;
+23 (v) The date and time of the violation;
+24 (vi) A copy of the recorded image;
+25 (vii) The amount of the civil penalty imposed and the date by which
+26 the civil penalty must be paid;
+27 (viii) A signed statement by a technician employed by the agency that,
+28 based on the inspection of the recorded image, the motor vehicle was being operated during
+29 the commission of a violation;
+16 HOUSE BILL 1032
+1 (ix) A statement that the recorded image is evidence of a violation;
+2 and
+3 (x) Information advising the person alleged to be liable under this
+4 section:
+5 1. Of the manner and time in which liability as alleged in the
+6 citation may be contested in the District Court; and
+7 2. That failure to pay the civil penalty or to contest liability
+8 in a timely manner is an admission of liability and may result in refusal or suspension of
+9 the motor vehicle registration.
+10 (2) The agency may mail a warning notice in place of a citation to the owner
+11 liable under subsection (e) of this section.
+12 (3) (i) Before mailing a citation to a motor vehicle rental company liable
+13 under subsection (e) of this section, an agency shall mail a notice to the motor vehicle rental
+14 company stating that a citation will be mailed to the motor vehicle rental company unless,
+15 within 45 days after receiving the notice, the motor vehicle rental company provides the
+16 agency with:
+17 1. A statement made under oath that states the name and
+18 last known mailing address of the individual driving or renting the motor vehicle when the
+19 violation occurred;
+20 2. A. A statement made under oath that states that the
+21 motor vehicle rental company is unable to determine who was driving the vehicle at the
+22 time the violation occurred because the motor vehicle was stolen at the time of the violation;
+23 and
+24 B. A copy of the police report associated with the motor
+25 vehicle theft claimed under item A of this item; or
+26 3. Payment for the penalty associated with the violation.
+27 (ii) An agency may not mail a citation to a motor vehicle rental
+28 company liable under subsection (e) of this section if the motor vehicle rental company
+29 complies with subparagraph (i) of this paragraph.
+30 (4) Except as provided in paragraph (3) of this subsection and subsection
+31 (h)(4) and (5) of this section, a citation issued under this section shall be mailed not later
+32 than 2 weeks after the alleged violation.
+33 (5) A person who receives a citation under paragraph (1) of this subsection
+34 may:
+HOUSE BILL 1032 17
+1 (i) Pay the civil penalty in accordance with instructions on the
+2 citation; or
+3 (ii) Elect to stand trial for the alleged violation.
+4 (g) (1) A certificate alleging that a violation occurred, sworn to or affirmed by
+5 a duly authorized law enforcement officer employed by or under contract with an agency,
+6 based on the inspection of a recorded image, shall be evidence of the facts contained in the
+7 certificate and shall be admissible in any proceeding concerning the alleged violation.
+8 (2) Adjudication of liability shall be based on preponderance of the
+9 evidence.
+10 (h) (1) The District Court may consider in defense of a violation:
+11 (i) Subject to paragraph (2) of this subsection, that the motor vehicle
+12 or registration plates of the motor vehicle were stolen before the violation occurred and
+13 were not under the control or possession of the owner at the time of the violation;
+14 (ii) Subject to paragraph (3) of this subsection, evidence that the
+15 person named in the citation was not operating the vehicle at the time of the violation; and
+16 (iii) Any other issues and evidence that the District Court considers
+17 pertinent.
+18 (2) To demonstrate that the motor vehicle or the registration plates were
+19 stolen before the violation occurred and were not under the control or possession of the
+20 owner at the time of the violation, the owner must submit proof that a police report about
+21 the stolen motor vehicle or registration plates was filed in a timely manner.
+22 (3) To satisfy the evidentiary burden under paragraph (1)(ii) of this
+23 subsection, the person named in the citation shall provide to the District Court evidence to
+24 the satisfaction of the District Court of who was operating the vehicle at the time of the
+25 violation, including, at a minimum, the operator’s name and current address.
+26 (4) (i) The provisions of this paragraph apply only to a citation that
+27 involves a Class E (truck) vehicle with a registered gross weight of 26,001 pounds or more,
+28 Class F (tractor) vehicle, Class G (trailer) vehicle operated in combination with a Class F
+29 (tractor) vehicle, or Class P (passenger bus) vehicle.
+30 (ii) To satisfy the evidentiary burden under paragraph (1)(ii) of this
+31 subsection, the person named in a citation described under subparagraph (i) of this
+32 paragraph may provide to the District Court a letter, sworn to or affirmed by the person
+33 and mailed by certified mail, return receipt requested, that:
+34 1. States that the person named in the citation was not
+35 operating the vehicle at the time of the violation; and
+18 HOUSE BILL 1032
+1 2. Provides the name, address, and driver’s license
+2 identification number of the person who was operating the vehicle at the time of the
+3 violation.
+4 (5) (i) If the District Court finds that the person named in the citation
+5 was not operating the vehicle at the time of the violation or receives evidence under
+6 paragraph (4)(ii)2 of this subsection identifying the person driving the vehicle at the time
+7 of the violation, the clerk of court shall provide to the agency issuing the citation a copy of
+8 any evidence substantiating who was operating the vehicle at the time of the violation.
+9 (ii) On receipt of substantiating evidence from the District Court
+10 under subparagraph (i) of this paragraph, the agency may issue a citation as provided in
+11 subsection (f) of this section to the person who the evidence indicates was operating the
+12 vehicle at the time of the violation.
+13 (iii) A citation issued under subparagraph (ii) of this paragraph shall
+14 be mailed not later than 2 weeks after receipt of the evidence from the District Court.
+15 (i) If the civil penalty is not paid and the violation is not contested, the
+16 Administration may refuse to register or reregister or may suspend the registration of the
+17 motor vehicle.
+18 (j) A violation for which a civil penalty is imposed under this section:
+19 (1) Is not a moving violation for the purpose of assessing points under §
+20 16–402 of this article and may not be recorded by the Administration on the driving record
+21 of the owner or driver of the vehicle; and
+22 (2) May not be considered in the provision of motor vehicle insurance
+23 coverage.
+24 (k) In consultation with law enforcement agencies, the Chief Judge of the District
+25 Court shall adopt procedures for the issuance of citations, trials for violations, and the
+26 collection of civil penalties imposed under this section.
+27 (l) (1) An agency or an agent or a contractor designated by the agency shall
+28 administer and process civil citations issued under this section in coordination with the
+29 District Court.
+30 (2) If a contractor in any manner operates a stop sign monitoring system
+31 or administers or processes citations generated by a STOP SIGN monitoring system on
+32 behalf of a local jurisdiction, the contractor’s fee may not be contingent on a per–ticket basis
+33 on the number of citations issued or paid.
+34 SECTION 4. 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
+35 2026 2027, the Montgomery County Department of Transportation shall report to the
+HOUSE BILL 1032 19
+1 Governor and, in accordance with § 2–1257 of the State Government Article, the General
+2 Assembly on:
+3 (1) through October 1, 2026 2027:
+4 (i) the time period during which stop sign monitoring systems were
+5 in use in the county; and
+6 (ii) the number of warnings and citations issued as a result of
+7 violations recorded by a stop sign monitoring system in the county over the reported time
+8 period, by location and date;
+9 (2) (i) the costs associated with implementing and operating stop sign
+10 monitoring systems; and
+11 (ii) the revenue collected on a monthly basis as a result of violations
+12 recorded by stop sign monitoring systems;
+13 (3) appropriate locations for the deployment of stop sign monitoring
+14 systems;
+15 (4) the performance and reliability of stop sign monitoring systems used by
+16 the county; and
+17 (5) the effectiveness of stop sign monitoring systems in reducing violations,
+18 crashes, and pedestrian injuries in the county and in areas where the stop sign monitoring
+19 systems were implemented and used.
+20 SECTION 3. AND BE IT FURTHER ENACTED, That, on or before December 1,
+21 2027, the Baltimore City Department of Transportation shall report to the Governor and,
+22 in accordance with § 2–1257 of the State Government Article, the General Assembly on:
+23 (1) through October 1, 2027:
+24 (i) the time period during which stop sign monitoring systems were
+25 in use in the city; and
+26 (ii) the number of warnings and citations issued as a result of
+27 violations recorded by a stop sign monitoring system in the city over the reported time
+28 period, by location and date;
+29 (2) (i) the costs associated with implementing and operating stop sign
+30 monitoring systems; and
+31 (ii) the revenue collected on a monthly basis as a result of violations
+32 recorded by stop sign monitoring systems;
+20 HOUSE BILL 1032
+1 (3) appropriate locations for the deployment of stop sign monitoring
+2 systems;
+3 (4) the performance and reliability of stop sign monitoring systems used by
+4 the city; and
+5 (5) the effectiveness of stop sign monitoring systems in reducing violations,
+6 crashes, and pedestrian injuries in the city and in areas where the stop sign monitoring
+7 systems were implemented and used.
+8 SECTION 5. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
+9 effect on the taking effect of the termination provision specified in Section 3 of Chapter 678
+10 of the Acts of the General Assembly of 2024. If that termination provision takes effect,
+11 Section 1 of this Act, with no further action required by the General Assembly, shall be
+12 abrogated and of no further force and effect. This Act may not be interpreted to have any
+13 effect on that termination provision.
+14 SECTION 6. 4. AND BE IT FURTHER ENACTED, That, subject to the provisions
+15 of Section 5 of this Act, this Act shall take effect July 1, 2025. It shall remain effective for
+16 a period of 5 4 years and, at the end of June 30, 2030 2029, this Act, with no further action
+17 required by the General Assembly, shall be abrogated and of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+[DELETED: :CA      5     A B A M F B C a M C u t p p a f P G C i a b l l e t c p i p b a s s m s p t t o o d a a c c p u c c e c d t a c o a a v r b a s s m s b m B  A S  A  ( B  A]
+[DELETED:  H  S  A  (  ( B  A S  A  (  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 7  ( ( ( A2   A s p t t p r t c m e t s t b n t 1  ( A i1o  2]
+[DELETED: H 3 i 2 o  2  S a A 7  ( ( ( A 2 § t t p r t c m e t s t b n t a a    ( O t p    ( O t o   ( ( A c i a t r o a v h m s s c s t    ( A c i a t r o a t c s m a s aM c t   ( C m s t c s m s s m s w sM c c w   ( ( E f c b a p s a a r o v e b s]
+[DELETED:  H  m s w z s c s  S MS s b m c o b l m s a p s     1 M t c     2 S a s    ( 1 F c s a w s ( o t p i g t 1 o t t r a     2 T t 1   )     R22      R22    () I]( h m s t c s m s s m s   m l  S a A 4  E T]
+[DELETED: H 5   ( A p f a c i u § 2 § 2 § 2 §2 o A 4  ( I §  ( E i   ( a t   (  2 R RA     a s m s o u § 2 o t T   () a]( T   () a]( t  ( A   ( a r i § 2 § 2 § 2 o §2 2   ( b a p i a c u § 2  §2 2 f   ( b r t t i o o i f c u § § A 2]
+[DELETED:  H   ( U o i  ( U o i  ( U o i a i t i n c a t n p b e t i  ( T f l  ( T f m  ( T f a a   ) TMCH O O  ) ( N     “AY M A L E A T I A E      () “OWR M T R O O A M       ) “O”IWR       AY       H O A S R P I  U  A  1,S9,PII ]
+[DELETED: H 7    “RE      ) O      T      T      T      VE       AM     ) SIHD E       “SM      () “VIN    27     ) “VIIN    ) ( S()(U T P  T  O TN      ) NN  N      ) OSIN T H L I A S ZE I T I DHA      U T S U I U I A B T   ]
+[DELETED:  H      BNM      () H C S P P S OTS  EC      ) TSHIH T I D S PNM   T   )  R I U T S I T T     TN     T,E   ) ( N T D O T M V R N  R  F  H   ())())()   I R B A S S M S D T      A$    F,DN  I O     )  U C F C W F     O RE ))§72CA     ) AI C PY W S B I O TN   I OC   ) ( S()(U   T SN A A S M T T O L U  E )     ) H ]
+[DELETED: H 9    ) IH R N O T M V     ) TIH    ) TVO T E PE T L O T     ) TH    ) AI     ) IH A O T C P I A T     )I T E       ) X N      ) N A T P A T B        I OT C        F T P T C P O T       A M M A W N I P O  E )     () E M A C T A M V E N )   W B M M V R C U   D A R T NE T M V R5  ]
+[DELETED:  H        A L K M A O T I D O        A S M U O T  N        C R  M             ) IN A M N M A C T A M E   M R C C W S I O      E(   H   N ))()  S B M N L T  W A T A      A(       ) A T C P I A WN      ) EIL  ) ( A D   O U C W A AY B O T I O   IE S B E O T F C I T        O L S B B O ]
+[DELETED: H 1  ) ( TDH I O M C I D O      ) S()U  N  M O R O       ) S()IU T P  O T S N      ) AIN O I A E T T I      D T T M V O T P W S B T V O A  N         S T E B U P()I N   T I O E T T S O T IC  O W W O T M V A T T O T N IG A A MM T ORS N A C,,      () H L  TK E(  O  P O ME L  TR VE L1,CF(),C )CF(R V O I C W A L  T E  L  PS CP()     ) IO S T E B U II O T SN T P N I A C()  I  C OR  L D ,       N  ]
+[DELETED:  H       P,, T NE AS A DR I N O T P W W O T      () IDF I O  O R E U P II O T()  EVN         ) IN R O S E F TC() O I H   F        ) A(I C I U S II O T    I OC   ) F T C P I N P A T V I ND  D    )  V A C I        O A M B1  O T D R O T O O D O T E         ) I,N C W L E AS T HD I O S S   ]
+[DELETED: H 1  ) ( N  I OC      A C I A M O A S S  S S M S O B O A L JN T RS F M N B C O A PRT B O T   2  ( TC,MC IY O OY P  ( ( I   ( “ c   ( ( “ o    ( “     1 A     2 A 1   ( “ i m i r b s s m s    ( O     1 T     2 T     3 T     4 V     5 A]
+[DELETED:  H     ( S t   ( “ r   ( ( “ s    ( “ t  ( ( S u    ( O h l i a s z m b a l j    ( O S   ( A    ( M i a    ( My ]IPG’CN R EES OY  l   ( T cy s p t]PG’R EES O p r   ( B p w ad i aBCPG’CI A I A R EES O O n o g c i t j i w t s s m s   ( ( Te ] t    ( T p]
+[DELETED: H 1  ( A r i u t s i t t d o a m v   ( T   ( T  ( ( U o o v   ( A   ( F    ( A s    ( A b  ( ( S t t p o p ( t ( o t s c    ( T    ( T n t    ( T    ( T    ( T    ( A    ( T t    ( A b t]
+[DELETED:  H     ( A a    ( I s     1 O c     2 T i t   ( T l   ( ( B u c w a     1 A l v     2 A A m t a     B A c o t p r a w t m v     3 P    ( A a m n m a c t a m v r c c   ( E ( t   ( A m]
+[DELETED: H 1    ( P t c p i a w i o t c    ( E  ( ( A a b c   ( A o l s b b o p o t e  ( ( T    ( S o w    ( S t p ( o t s e t t p    ( A p   ( T s o t   ( T s t e b u p ( o t s t v   ( ( T i C (    ( T s t p n i a c d u s ( o t p a     1 S t t p n i t c w n o]
+[DELETED:  H      2 P t n a a d l i n o t p w w o t v a t t o t v   ( ( I w n o t v a t t o t v o r e u p o a    ( O r o s e f t D C u s v    ( A b  ( I t c p i n p a t v i n c t A m  ( A   ( I 1 o   ( M n b c i t p o m v i c  ( I C c  ( ( A a D   ( I o c m b o  S 2 2 t M C D o T s r t t]
+[DELETED: H 1 G A   ( t    ( t i    ( t n o w a c i a a r o v p   ( ( t m    ( t r   ( a l f t d o s s m s   ( t t   ( t c s  S 2 i   ( t    ( t i    ( t n o w a c i a a r o v p   ( ( t m    ( t r]
+[DELETED:  H    ( a l f t d o s s m s   ( t t   ( t c s  S e o S a e  S o a r          G               ]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1032
+R5, P1 5lr0881
+By: Montgomery County Delegation and Delegate Young
+Introduced and read first time: February 3, 2025
+Assigned to: Environment and Transportation
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 5, 2025
+CHAPTER ______
+1 AN ACT concerning
+2 Baltimore City and Montgomery County – Stop Sign Monitoring Systems –
+3 Authorization
+4 MC 4–25
+5 FOR the purpose of authorizing the use of stop sign monitoring systems in school zones in
+6 Baltimore City and Montgomery County under the pilot program authorized for
+7 Prince George’s County, if authorized by local law; establishing that certain
+8 provisions of law relating to the inspection of recorded images apply to recorded
+9 images produced by a stop sign monitoring system; providing that the owner or
+10 driver of a motor vehicle recorded failing to obey a stop sign is subject to a citation
+11 and a certain civil penalty under certain circumstances; establishing certain
+12 defenses to a charge of an alleged violation recorded by a stop sign monitoring
+13 system; prohibiting a contractor administering a stop sign monitoring system from
+14 being compensated in a certain manner; and generally relating to the use of stop sign
+15 monitoring systems in Baltimore City and Montgomery County.
+16 BY repealing and reenacting, with amendments,
+17 Article – Courts and Judicial Proceedings
+18 Section 4–401(13), 7–302(e)(1)(i), and 10–311(g)
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2024 Supplement)
+21 BY repealing and reenacting, with amendments,
+22 Article – Courts and Judicial Proceedings
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1032*
+
+2 HOUSE BILL 1032
+1 Section 7–302(e)(1) through (4) and 10–311(f)
+2 Annotated Code of Maryland
+3 (2020 Replacement Volume and 2024 Supplement)
+4 (As enacted by Section 3 of Chapter 678 of the Acts of the General Assembly of 2024)
+5 BY adding to
+6 Article – Courts and Judicial Proceedings
+7 Section 10–311(f)
+8 Annotated Code of Maryland
+9 (2020 Replacement Volume and 2024 Supplement)
+10 (As enacted by Section 3 of Chapter 678 of the Acts of the General Assembly of 2024)
+11 BY repealing and reenacting, with amendments,
+12 Article – General Provisions
+13 Section 4–321
+14 Annotated Code of Maryland
+15 (2019 Replacement Volume and 2024 Supplement)
+16 BY repealing and reenacting, without amendments,
+17 Article – Transportation
+18 Section 21–707
+19 Annotated Code of Maryland
+20 (2020 Replacement Volume and 2024 Supplement)
+21 BY adding to repealing and reenacting, with amendments,
+22 Article – Transportation
+23 Section 21–707.2 21–707.1
+24 Annotated Code of Maryland
+25 (2020 Replacement Volume and 2024 Supplement)
+26 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+27 That the Laws of Maryland read as follows:
+28 Article – Courts and Judicial Proceedings
+29 7–302.
+30 (e) (1) (i) A citation issued pursuant to § 21–202.1, § 21–706.1, § 21–707.1,
+31 § 21–707.2, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the Transportation
+32 Article shall provide that the person receiving the citation may elect to stand trial by
+33 notifying the issuing agency of the person’s intention to stand trial at least 5 days prior to
+34 the date of payment as set forth in the citation.
+35 10–311.
+36 (g) A recorded image of a motor vehicle produced by a stop sign monitoring system
+37 in accordance with § 21–707.1 OR § 21–707.2 of the Transportation Article is admissible
+
+HOUSE BILL 1032 3
+1 in a proceeding concerning a civil citation issued under that section for a violation of §
+2 21–707 OR § 21–707.2 of the Transportation Article without authentication.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+4 as follows:
+5 Article – Courts and Judicial Proceedings
+6 7–302.
+7 (e) (1) (i) A citation issued pursuant to § 21–202.1, § 21–706.1, § 21–707.2,
+8 § 21–809, § 21–810, § 21–1134, or § 24–111.3 of the Transportation Article shall provide
+9 that the person receiving the citation may elect to stand trial by notifying the issuing
+10 agency of the person’s intention to stand trial at least 5 days prior to the date of payment
+11 as set forth in the citation.
+12 (ii) On receipt of the notice to stand trial, the agency shall forward
+13 to the District Court having venue a copy of the citation and a copy of the notice from the
+14 person who received the citation indicating the person’s intention to stand trial.
+15 (iii) On receipt thereof, the District Court shall schedule the case for
+16 trial and notify the defendant of the trial date under procedures adopted by the Chief Judge
+17 of the District Court.
+18 (2) (i) A citation issued as the result of a vehicle height monitoring
+19 system, a traffic control signal monitoring system, a speed monitoring system, a work zone
+20 speed control system OR A STOP SIGN MONITORING SYSTEM controlled by a political
+21 subdivision, a school bus monitoring camera, or a bus lane monitoring system shall provide
+22 that, in an uncontested case, the penalty shall be paid directly to that political subdivision.
+23 (ii) A citation issued as the result of a traffic control signal
+24 monitoring system or a work zone speed control system controlled by a State agency, or as
+25 a result of a vehicle height monitoring system, a traffic control signal monitoring system, a
+26 speed monitoring system, A STOP SIGN MONITORING SYSTEM, a school bus monitoring
+27 camera, or a bus lane monitoring system in a case contested in District Court, shall provide
+28 that the penalty shall be paid directly to the District Court.
+29 (3) Civil penalties resulting from citations issued using a vehicle height
+30 monitoring system, traffic control signal monitoring system, speed monitoring system,
+31 work zone speed control system, STOP SIGN MONITORING SYSTEM, school bus monitoring
+32 camera, or bus lane monitoring system that are collected by the District Court shall be
+33 collected in accordance with subsection (a) of this section and distributed in accordance
+34 with § 12–118 of the Transportation Article.
+35 (4) (i) Except as provided in paragraph (5) of this subsection, from the
+36 fines collected by a political subdivision as a result of violations enforced by speed
+
+4 HOUSE BILL 1032
+1 monitoring systems, work zone speed control systems, STOP SIGN MONITORING
+2 SYSTEMS, school bus monitoring cameras, or bus lane monitoring systems, a political
+3 subdivision:
+4 1. May recover the costs of implementing and administering
+5 the speed monitoring systems, work zone speed control systems, school bus monitoring
+6 cameras, or bus lane monitoring systems; and
+7 2. Subject to subparagraph (ii) of this paragraph, may spend
+8 any remaining balance solely for public safety purposes, including pedestrian or highway
+9 safety programs.
+10 (ii) 1. For any fiscal year, if the balance remaining from the fines
+11 collected by a political subdivision as a result of violations enforced by speed monitoring
+12 systems, after the costs of implementing and administering the systems are recovered in
+13 accordance with subparagraph (i)1 of this paragraph, is greater than 10% of the total
+14 revenues of the political subdivision for the fiscal year, the political subdivision shall remit
+15 any funds that exceed 10% of the total revenues to the Comptroller.
+16 2. The Comptroller shall deposit any money remitted under
+17 this subparagraph to the General Fund of the State.
+18 10–311.
+19 (F) A RECORDED IMAGE OF A MOTOR VEHICLE PRODUCED BY A STOP SIGN
+20 MONITORING SYSTEM IN ACCORDANCE WITH § 21–707.2 OF THE TRANSPORTATION
+21 ARTICLE IS ADMISSIBLE IN A PROCEEDING CONCERNING A CIVIL CITATION ISSUED
+22 UNDER THAT SECTION FOR A VIOLATION OF § 21–707.2 OF THE TRANSPORTATION
+23 ARTICLE WITHOUT AUTHENTICATION.
+24 [(f)] (G) In any other judicial proceeding, a recorded image produced by a vehicle
+25 height monitoring system, traffic control signal monitoring system, speed monitoring
+26 system, work zone speed control system, STOP SIGN MONITORING SYSTEM, school bus
+27 monitoring camera, or bus lane monitoring system is admissible as otherwise provided by
+28 law.
+29 SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+30 as follows:
+31 Article – Courts and Judicial Proceedings
+32 4–401.
+33 Except as provided in § 4–402 of this subtitle, and subject to the venue provisions of
+34 Title 6 of this article, the District Court has exclusive original civil jurisdiction in:
+
+HOUSE BILL 1032 5
+1 (13) A proceeding for a civil infraction under § 21–202.1, § 21–704.1, §
+2 21–706.1, § 21–707.1, § 21–707.2, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3
+3 of the Transportation Article or § 10–112 of the Criminal Law Article;
+4 Article – General Provisions
+5 4–321.
+6 (a) In this section, “recorded images” has the meaning stated in § 21–202.1, §
+7 21–707.2, § 21–809, § 21–810, or § 24–111.3 of the Transportation Article.
+8 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+9 inspection of recorded images produced by:
+10 (1) a traffic control signal monitoring system operated under § 21–202.1 of
+11 the Transportation Article;
+12 (2) A STOP SIGN MONITORING SYSTEM OPERATED UNDER § 21–707.2
+13 OF THE TRANSPORTATION ARTICLE;
+14 (3) a speed monitoring system operated under § 21–809 of the
+15 Transportation Article;
+16 [(3)] (4) a work zone speed control system operated under § 21–810 of the
+17 Transportation Article; or
+18 [(4)] (5) a vehicle height monitoring system operated under § 24–111.3 of
+19 the Transportation Article.
+20 (c) A custodian shall allow inspection of recorded images:
+21 (1) as required in § 21–202.1, § 21–707.2, § 21–809, § 21–810, or §
+22 24–111.3 of the Transportation Article;
+23 (2) by any person issued a citation under § 21–202.1, § 21–707.2, §
+24 21–809, § 21–810, or § 24–111.3 of the Transportation Article, or by an attorney of record
+25 for the person; or
+26 (3) by an employee or agent of an agency in an investigation or a proceeding
+27 relating to the imposition of or indemnification from civil liability under § 21–202.1, §
+28 21–707.2, § 21–809, § 21–810, or § 24–111.3 of the Transportation Article.
+29 Article – Transportation
+30 21–707.
+
+6 HOUSE BILL 1032
+1 (a) Unless otherwise directed by a police officer or traffic control signal, the driver
+2 of a vehicle approaching a stop sign at an intersection shall stop at the near side of the
+3 intersection at a clearly marked stop line.
+4 (b) Unless otherwise directed by a police officer or traffic control signal, the driver
+5 of a vehicle approaching a stop sign at an intersection shall stop at the near side of the
+6 intersection and, if there is no clearly marked stop line, before entering any crosswalk.
+7 (c) Unless otherwise directed by a police officer or traffic control signal, the driver
+8 of a vehicle approaching a stop sign at an intersection shall stop at the near side of an
+9 intersection and, if there is no crosswalk, at the nearest point before entering the
+10 intersection that gives the driver a view of traffic approaching on the intersecting roadway.
+11 (d) The driver of a vehicle approaching a yield sign at an intersection, if required
+12 for safety to stop, shall stop at the near side of the intersection at a clearly marked stop
+13 line.
+14 (e) The driver of a vehicle approaching a yield sign at an intersection, if required
+15 for safety to stop, shall stop at the near side of the intersection and, if there is no clearly
+16 marked stop line, before entering any crosswalk.
+17 (f) The driver of a vehicle approaching a yield sign at an intersection, if required
+18 for safety to stop, shall stop at the near side of the intersection and, if there is no crosswalk,
+19 at the nearest point before entering the intersection that gives the driver a view of traffic
+20 approaching on the intersecting roadway.
+21 21–707.2.
+22 (A) THIS SECTION APPLIES ONLY IN MONTGOMERY COUNTY.
+23 (B) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+24 INDICATED.
+25 (2) “AGENCY” MEANS A LAW ENFORCEMENT AGENCY THAT IS
+26 AUTHORIZED TO ISSUE A CITATION FOR A VIOLATION OF THE MARYLAND VEHICLE
+27 LAW OR OF LOCAL TRAFFIC LAWS OR REGULATIONS.
+28 (3) (I) “OWNER” MEANS THE REGISTERED OWNER OF A MOTOR
+29 VEHICLE OR LESSEE OF A MOTOR VEHICLE UNDER A LEASE OF 6 MONTHS OR MORE.
+30 (II) “OWNER” DOES NOT INCLUDE:
+31 1. A MOTOR VEHICLE LEASING COMPANY; OR
+32 2. A HOLDER OF A SPECIAL REGISTRATION PLATE
+33 ISSUED UNDER TITLE 13, SUBTITLE 9, PART III OF THIS ARTICLE.
+
+HOUSE BILL 1032 7
+1 (4) “RECORDED IMAGE” MEANS IMAGES RECORDED BY A STOP SIGN
+2 MONITORING SYSTEM:
+3 (I) ON:
+4 1. TWO OR MORE PHOTOGRAPHS;
+5 2. TWO OR MORE MICROPHOTOGRAPHS;
+6 3. TWO OR MORE ELECTRONIC IMAGES;
+7 4. VIDEOTAPE; OR
+8 5. ANY OTHER MEDIUM; AND
+9 (II) SHOWING A MOTOR VEHICLE AND, ON AT LEAST ONE IMAGE
+10 OR PORTION OF TAPE, CLEARLY IDENTIFYING THE REGISTRATION PLATE NUMBER
+11 OF THE MOTOR VEHICLE.
+12 (5) “STOP SIGN MONITORING SYSTEM” MEANS A DEVICE DESIGNED
+13 TO CAPTURE A RECORDED IMAGE OF A VIOLATION.
+14 (6) (I) “VIOLATION” MEANS A FAILURE TO COME TO A COMPLETE
+15 STOP AT A STOP SIGN IN VIOLATION OF § 21–707 OF THIS SUBTITLE.
+16 (II) “VIOLATION” DOES NOT INCLUDE ANY ACTION A DRIVER IS
+17 INSTRUCTED TO TAKE BY A POLICE OFFICER.
+18 (C) (1) SUBJECT TO PARAGRAPHS (2) THROUGH (4) OF THIS
+19 SUBSECTION, AN AGENCY MAY USE STOP SIGN MONITORING SYSTEMS:
+20 (I) ON HIGHWAYS LOCATED IN A SCHOOL ZONE MAINTAINED BY
+21 A LOCAL JURISDICTION, IF AUTHORIZED BY THE GOVERNING BODY OF THE LOCAL
+22 JURISDICTION; OR
+23 (II) ON STATE HIGHWAYS LOCATED IN A SCHOOL ZONE, IF
+24 AUTHORIZED BY THE STATE HIGHWAY ADMINISTRATION.
+25 (2) A STOP SIGN MONITORING SYSTEM MAY NOT BE USED IN A LOCAL
+26 JURISDICTION UNDER THIS SECTION UNLESS ITS USE IS AUTHORIZED BY THE
+27 GOVERNING BODY OF THE LOCAL JURISDICTION BY LOCAL LAW ENACTED AFTER
+28 REASONABLE NOTICE AND A PUBLIC HEARING.
+
+8 HOUSE BILL 1032
+1 (3) BEFORE BEGINNING USE OF STOP SIGN MONITORING SYSTEMS,
+2 AN AGENCY SHALL PUBLISH NOTICE THAT THE AGENCY HAS ADOPTED THE USE OF
+3 STOP SIGN MONITORING SYSTEMS ON ITS WEBSITE.
+4 (4) (I) THE COUNTY SHALL PROMINENTLY PLACE SIGNS ON
+5 HIGHWAYS WITHIN THE COUNTY PROVIDING NOTICE THAT STOP SIGN MONITORING
+6 SYSTEMS ARE USED IN THE COUNTY.
+7 (II) THE STATE HIGHWAY ADMINISTRATION SHALL PLACE
+8 SIGNS PROMINENTLY PROVIDING NOTICE THAT STOP SIGN MONITORING SYSTEMS
+9 ARE IN USE ON STATE HIGHWAYS.
+10 (D) A RECORDED IMAGE UNDER THIS SECTION INDICATING THAT THE
+11 DRIVER OF A MOTOR VEHICLE HAS COMMITTED A VIOLATION SHALL INCLUDE:
+12 (1) THE TIME AND DATE OF THE VIOLATION; AND
+13 (2) TO THE EXTENT POSSIBLE, THE LOCATION OF THE VIOLATION.
+14 (E) (1) UNLESS THE DRIVER OF THE MOTOR VEHICLE RECEIVED A
+15 CITATION FROM A POLICE OFFICER AT THE TIME OF THE VIOLATION, THE OWNER
+16 OR, IN ACCORDANCE WITH SUBSECTION (F)(3) OR (H)(4) OR (5) OF THIS SECTION,
+17 THE DRIVER OF A MOTOR VEHICLE IS SUBJECT TO A CIVIL PENALTY IF THE MOTOR
+18 VEHICLE IS RECORDED BY A STOP SIGN MONITORING SYSTEM DURING THE
+19 COMMISSION OF A VIOLATION.
+20 (2) A CIVIL PENALTY UNDER THIS SUBSECTION MAY NOT EXCEED $40.
+21 (3) FOR PURPOSES OF THIS SECTION, THE DISTRICT COURT SHALL
+22 PRESCRIBE:
+23 (I) A UNIFORM CITATION FORM CONSISTENT WITH
+24 SUBSECTION (F)(1) OF THIS SECTION AND § 7–302 OF THE COURTS ARTICLE; AND
+25 (II) A CIVIL PENALTY, WHICH SHALL BE INDICATED ON THE
+26 CITATION, TO BE PAID BY PERSONS WHO CHOOSE TO PREPAY THE CIVIL PENALTY
+27 WITHOUT APPEARING IN DISTRICT COURT.
+28 (F) (1) SUBJECT TO THE PROVISIONS OF PARAGRAPHS (2) THROUGH (5)
+29 OF THIS SUBSECTION, AN AGENCY SHALL MAIL TO THE OWNER LIABLE UNDER
+30 SUBSECTION (E) OF THIS SECTION A CITATION THAT SHALL INCLUDE:
+31 (I) THE NAME AND ADDRESS OF THE REGISTERED OWNER OF
+32 THE MOTOR VEHICLE;
+
+HOUSE BILL 1032 9
+1 (II) THE REGISTRATION NUMBER OF THE MOTOR VEHICLE
+2 INVOLVED IN THE VIOLATION;
+3 (III) THE VIOLATION CHARGED;
+4 (IV) TO THE EXTENT POSSIBLE, THE LOCATION OF THE
+5 VIOLATION;
+6 (V) THE DATE AND TIME OF THE VIOLATION;
+7 (VI) A COPY OF THE RECORDED IMAGE;
+8 (VII) THE AMOUNT OF THE CIVIL PENALTY IMPOSED AND THE
+9 DATE BY WHICH THE CIVIL PENALTY MUST BE PAID;
+10 (VIII) A SIGNED STATEMENT BY A TECHNICIAN EMPLOYED BY THE
+11 AGENCY THAT, BASED ON THE INSPECTION OF THE RECORDED IMAGE, THE MOTOR
+12 VEHICLE WAS BEING OPERATED DURING THE COMMISSION OF A VIOLATION;
+13 (IX) A STATEMENT THAT THE RECORDED IMAGE IS EVIDENCE OF
+14 A VIOLATION; AND
+15 (X) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+16 LIABLE UNDER THIS SECTION:
+17 1. OF THE MANNER AND TIME IN WHICH LIABILITY AS
+18 ALLEGED IN THE CITATION MAY BE CONTESTED IN THE DISTRICT COURT; AND
+19 2. THAT FAILURE TO PAY THE CIVIL PENALTY OR TO
+20 CONTEST LIABILITY IN A TIMELY MANNER IS AN ADMISSION OF LIABILITY AND MAY
+21 RESULT IN REFUSAL OR SUSPENSION OF THE MOTOR VEHICLE REGISTRATION.
+22 (2) THE AGENCY MAY MAIL A WARNING NOTICE IN PLACE OF A
+23 CITATION TO THE OWNER LIABLE UNDER SUBSECTION (E) OF THIS SECTION.
+24 (3) (I) BEFORE MAILING A CITATION TO A MOTOR VEHICLE
+25 RENTAL COMPANY LIABLE UNDER SUBSECTION (E) OF THIS SECTION, AN AGENCY
+26 SHALL MAIL A NOTICE TO THE MOTOR VEHICLE RENTAL COMPANY STATING THAT A
+27 CITATION WILL BE MAILED TO THE MOTOR VEHICLE RENTAL COMPANY UNLESS,
+28 WITHIN 45 DAYS AFTER RECEIVING THE NOTICE, THE MOTOR VEHICLE RENTAL
+29 COMPANY PROVIDES THE AGENCY WITH:
+
+10 HOUSE BILL 1032
+1 1. A STATEMENT MADE UNDER OATH THAT STATES THE
+2 NAME AND LAST KNOWN MAILING ADDRESS OF THE INDIVIDUAL DRIVING OR
+3 RENTING THE MOTOR VEHICLE WHEN THE VIOLATION OCCURRED;
+4 2. A. A STATEMENT MADE UNDER OATH THAT
+5 STATES THAT THE MOTOR VEHICLE RENTAL COMPANY IS UNABLE TO DETERMINE
+6 WHO WAS DRIVING THE MOTOR VEHICLE AT THE TIME THE VIOLATION OCCURRED
+7 BECAUSE THE MOTOR VEHICLE WAS STOLEN AT THE TIME OF THE VIOLATION; AND
+8 B. A COPY OF THE POLICE REPORT ASSOCIATED WITH
+9 THE MOTOR VEHICLE THEFT CLAIMED UNDER ITEM A OF THIS ITEM; OR
+10 3. PAYMENT FOR THE PENALTY ASSOCIATED WITH THE
+11 VIOLATION.
+12 (II) AN AGENCY MAY NOT MAIL A CITATION TO A MOTOR
+13 VEHICLE RENTAL COMPANY LIABLE UNDER SUBSECTION (E) OF THIS SECTION IF
+14 THE MOTOR VEHICLE RENTAL COMPANY COMPLIES WITH SUBPARAGRAPH (I) OF
+15 THIS PARAGRAPH.
+16 (4) EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS SUBSECTION
+17 AND SUBSECTION (H)(4) AND (5) OF THIS SECTION, A CITATION ISSUED UNDER THIS
+18 SECTION SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER THE ALLEGED
+19 VIOLATION.
+20 (5) A PERSON WHO RECEIVES A CITATION UNDER PARAGRAPH (1) OF
+21 THIS SUBSECTION MAY:
+22 (I) PAY THE CIVIL PENALTY IN ACCORDANCE WITH
+23 INSTRUCTIONS ON THE CITATION; OR
+24 (II) ELECT TO STAND TRIAL FOR THE ALLEGED VIOLATION.
+25 (G) (1) A CERTIFICATE ALLEGING THAT A VIOLATION OCCURRED, SWORN
+26 TO OR AFFIRMED BY A DULY AUTHORIZED LAW ENFORCEMENT OFFICER EMPLOYED
+27 BY OR UNDER CONTRACT WITH AN AGENCY, BASED ON THE INSPECTION OF A
+28 RECORDED IMAGE, SHALL BE EVIDENCE OF THE FACTS CONTAINED IN THE
+29 CERTIFICATE AND SHALL BE ADMISSIBLE IN ANY PROCEEDING CONCERNING THE
+30 ALLEGED VIOLATION.
+31 (2) ADJUDICATION OF LIABILITY SHALL BE BASED ON
+32 PREPONDERANCE OF THE EVIDENCE.
+
+HOUSE BILL 1032 11
+1 (H) (1) THE DISTRICT COURT MAY CONSIDER IN DEFENSE OF A
+2 VIOLATION:
+3 (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THAT
+4 THE MOTOR VEHICLE OR REGISTRATION PLATES OF THE MOTOR VEHICLE WERE
+5 STOLEN BEFORE THE VIOLATION OCCURRED AND WERE NOT UNDER THE CONTROL
+6 OR POSSESSION OF THE OWNER AT THE TIME OF THE VIOLATION;
+7 (II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION,
+8 EVIDENCE THAT THE PERSON NAMED IN THE CITATION WAS NOT OPERATING THE
+9 MOTOR VEHICLE AT THE TIME OF THE VIOLATION; AND
+10 (III) ANY OTHER ISSUES AND EVIDENCE THAT THE DISTRICT
+11 COURT CONSIDERS PERTINENT.
+12 (2) TO DEMONSTRATE THAT THE MOTOR VEHICLE OR THE
+13 REGISTRATION PLATES WERE STOLEN BEFORE THE VIOLATION OCCURRED AND
+14 WERE NOT UNDER THE CONTROL OR POSSESSION OF THE OWNER AT THE TIME OF
+15 THE VIOLATION, THE OWNER MUST SUBMIT PROOF THAT A POLICE REPORT ABOUT
+16 THE STOLEN MOTOR VEHICLE OR REGISTRATION PLATES WAS FILED IN A TIMELY
+17 MANNER.
+18 (3) TO SATISFY THE EVIDENTIARY BURDEN UNDER PARAGRAPH
+19 (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN THE CITATION SHALL PROVIDE
+20 TO THE DISTRICT COURT EVIDENCE TO THE SATISFACTION OF THE DISTRICT
+21 COURT OF WHO WAS OPERATING THE MOTOR VEHICLE AT THE TIME OF THE
+22 VIOLATION, INCLUDING, AT A MINIMUM, THE OPERATOR’S NAME AND CURRENT
+23 ADDRESS.
+24 (4) (I) THE PROVISIONS OF THIS PARAGRAPH APPLY ONLY TO A
+25 CITATION THAT INVOLVES A CLASS E (TRUCK) VEHICLE WITH A REGISTERED GROSS
+26 WEIGHT OF 26,001 POUNDS OR MORE, CLASS F (TRACTOR) VEHICLE, CLASS G
+27 (TRAILER) VEHICLE OPERATED IN COMBINATION WITH A CLASS F (TRACTOR)
+28 VEHICLE, OR CLASS P (PASSENGER BUS) VEHICLE.
+29 (II) TO SATISFY THE EVIDENTIARY BURDEN UNDER
+30 PARAGRAPH (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN A CITATION
+31 DESCRIBED UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH MAY PROVIDE TO THE
+32 DISTRICT COURT A LETTER, SWORN TO OR AFFIRMED BY THE PERSON AND MAILED
+33 BY CERTIFIED MAIL, RETURN RECEIPT REQUESTED, THAT:
+34 1. STATES THAT THE PERSON NAMED IN THE CITATION
+35 WAS NOT OPERATING THE MOTOR VEHICLE AT THE TIME OF THE VIOLATION; AND
+
+12 HOUSE BILL 1032
+1 2. PROVIDES THE NAME, ADDRESS, AND DRIVER’S
+2 LICENSE IDENTIFICATION NUMBER OF THE PERSON WHO WAS OPERATING THE
+3 MOTOR VEHICLE AT THE TIME OF THE VIOLATION.
+4 (5) (I) IF THE DISTRICT COURT FINDS THAT THE PERSON NAMED
+5 IN THE CITATION WAS NOT OPERATING THE MOTOR VEHICLE AT THE TIME OF THE
+6 VIOLATION OR RECEIVES EVIDENCE UNDER PARAGRAPH (4)(II)2 OF THIS
+7 SUBSECTION IDENTIFYING THE PERSON DRIVING THE MOTOR VEHICLE AT THE TIME
+8 OF THE VIOLATION, THE CLERK OF COURT SHALL PROVIDE TO THE AGENCY ISSUING
+9 THE CITATION A COPY OF ANY EVIDENCE SUBSTANTIATING WHO WAS OPERATING
+10 THE MOTOR VEHICLE AT THE TIME OF THE VIOLATION.
+11 (II) ON RECEIPT OF SUBSTANTIATING EVIDENCE FROM THE
+12 DISTRICT COURT UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH, THE AGENCY
+13 MAY ISSUE A CITATION AS PROVIDED IN SUBSECTION (F) OF THIS SECTION TO THE
+14 PERSON WHO THE EVIDENCE INDICATES WAS OPERATING THE MOTOR VEHICLE AT
+15 THE TIME OF THE VIOLATION.
+16 (III) A CITATION ISSUED UNDER SUBPARAGRAPH (II) OF THIS
+17 PARAGRAPH SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER RECEIPT OF THE
+18 EVIDENCE FROM THE DISTRICT COURT.
+19 (I) IF THE CIVIL PENALTY IS NOT PAID AND THE VIOLATION IS NOT
+20 CONTESTED, THE ADMINISTRATION MAY REFUSE TO REGISTER OR REREGISTER OR
+21 MAY SUSPEND THE REGISTRATION OF THE MOTOR VEHICLE.
+22 (J) A VIOLATION FOR WHICH A CIVIL PENALTY IS IMPOSED UNDER THIS
+23 SECTION:
+24 (1) IS NOT A MOVING VIOLATION FOR THE PURPOSE OF ASSESSING
+25 POINTS UNDER § 16–402 OF THIS ARTICLE AND MAY NOT BE RECORDED BY THE
+26 ADMINISTRATION ON THE DRIVING RECORD OF THE OWNER OR DRIVER OF THE
+27 MOTOR VEHICLE; AND
+28 (2) MAY NOT BE CONSIDERED IN THE PROVISION OF MOTOR VEHICLE
+29 INSURANCE COVERAGE.
+30 (K) IN CONSULTATION WITH LAW ENFORCEMENT AGENCIES, THE CHIEF
+31 JUDGE OF THE DISTRICT COURT SHALL ADOPT PROCEDURES FOR THE ISSUANCE
+32 OF CITATIONS, TRIALS FOR VIOLATIONS, AND THE COLLECTION OF CIVIL PENALTIES
+33 IMPOSED UNDER THIS SECTION.
+
+HOUSE BILL 1032 13
+1 (L) (1) AN AGENCY OR AN AGENT OR A CONTRACTOR DESIGNATED BY THE
+2 AGENCY SHALL ADMINISTER AND PROCESS CIVIL CITATIONS ISSUED UNDER THIS
+3 SECTION IN COORDINATION WITH THE DISTRICT COURT.
+4 (2) IF A CONTRACTOR IN ANY MANNER OPERATES A STOP SIGN
+5 MONITORING SYSTEM OR ADMINISTERS OR PROCESSES CITATIONS GENERATED BY
+6 A STOP SIGN MONITORING SYSTEM ON BEHALF OF A LOCAL JURISDICTION, THE
+7 CONTRACTOR’S FEE MAY NOT BE CONTINGENT ON A PER–TICKET BASIS ON THE
+8 NUMBER OF CITATIONS ISSUED OR PAID.
+9 21–707.1.
+10 (a) This section applies only in BALTIMORE CITY, MONTGOMERY COUNTY,
+11 AND Prince George’s County.
+12 (b) (1) In this section the following words have the meanings indicated.
+13 (2) “Agency” means a law enforcement agency that is authorized to issue a
+14 citation for a violation of the Maryland Vehicle Law or of local traffic laws or regulations.
+15 (3) (i) “Owner” means the registered owner of a motor vehicle or lessee
+16 of a motor vehicle under a lease of 6 months or more.
+17 (ii) “Owner” does not include:
+18 1. A motor vehicle leasing company; or
+19 2. A holder of a special registration plate issued under Title
+20 13, Subtitle 9, Part III of this article.
+21 (4) “Recorded image” means images recorded by a stop sign monitoring
+22 system:
+23 (i) On:
+24 1. Two or more photographs;
+25 2. Two or more microphotographs;
+26 3. Two or more electronic images;
+27 4. Videotape; or
+28 5. Any other medium; and
+
+14 HOUSE BILL 1032
+1 (ii) Showing a motor vehicle and, on at least one image or portion of
+2 tape, clearly identifying the registration plate number of the motor vehicle.
+3 (5) “Stop sign monitoring system” means a device designed to capture a
+4 recorded image of a violation.
+5 (6) (i) “Violation” means a failure to come to a complete stop at a stop
+6 sign in violation of § 21–707 of this subtitle.
+7 (ii) “Violation” does not include any action a driver is instructed to
+8 take by a police officer.
+9 (c) (1) Subject to paragraphs (2) through (5) of this subsection, an agency may
+10 use stop sign monitoring systems:
+11 (i) On highways located in a school zone maintained by a local
+12 jurisdiction, if authorized by the governing body of the local jurisdiction; or
+13 (ii) On State highways located in a school zone, if authorized by the
+14 State Highway Administration.
+15 (2) A stop sign monitoring system:
+16 (i) May not be used in a local jurisdiction under this section unless
+17 its use is authorized by the governing body of the local jurisdiction by local law enacted
+18 after reasonable notice and a public hearing; and
+19 (ii) [May] IN PRINCE GEORGE’S COUNTY, MAY only be used at a
+20 location approved by the Prince George’s County Council.
+21 (3) [The county] PRINCE GEORGE’S COUNTY shall prioritize the
+22 placement of stop sign monitoring systems within municipalities that have high violation
+23 rates.
+24 (4) Before beginning use of stop sign monitoring systems, an agency shall
+25 publish notice that the agency has adopted the use of stop sign monitoring systems on its
+26 website and, IN BALTIMORE CITY AND PRINCE GEORGE’S COUNTY ONLY, in a
+27 newspaper of general circulation in the jurisdiction in which the stop sign monitoring
+28 system will be used.
+29 (5) (i) [The] A county shall prominently place signs on highways within
+30 the county providing notice that stop sign monitoring systems are used in the county.
+31 (ii) The State Highway Administration shall place signs prominently
+32 providing notice that stop sign monitoring systems are in use on State highways.
+
+HOUSE BILL 1032 15
+1 (d) A recorded image under this section indicating that the driver of a motor
+2 vehicle has committed a violation shall include:
+3 (1) The time and date of the violation; and
+4 (2) To the extent possible, the location of the violation.
+5 (e) (1) Unless the driver of the motor vehicle received a citation from a police
+6 officer at the time of the violation, the owner or, in accordance with subsection (f)(3) or (h)(4)
+7 or (5) of this section, the driver of a motor vehicle is subject to a civil penalty if the motor
+8 vehicle is recorded by a stop sign monitoring system during the commission of a violation.
+9 (2) A civil penalty under this subsection may not exceed $40.
+10 (3) For purposes of this section, the District Court shall prescribe:
+11 (i) A uniform citation form consistent with subsection (f)(1) of this
+12 section and § 7–302 of the Courts Article; and
+13 (ii) A civil penalty, which shall be indicated on the citation, to be paid
+14 by persons who choose to prepay the civil penalty without appearing in District Court.
+15 (f) (1) Subject to the provisions of paragraphs (2) through (5) of this
+16 subsection, an agency shall mail to the owner liable under subsection (e) of this section a
+17 citation that shall include:
+18 (i) The name and address of the registered owner of the vehicle;
+19 (ii) The registration PLATE number of the motor vehicle involved in
+20 the violation;
+21 (iii) The violation charged;
+22 (iv) To the extent possible, the location of the violation;
+23 (v) The date and time of the violation;
+24 (vi) A copy of the recorded image;
+25 (vii) The amount of the civil penalty imposed and the date by which
+26 the civil penalty must be paid;
+27 (viii) A signed statement by a technician employed by the agency that,
+28 based on the inspection of the recorded image, the motor vehicle was being operated during
+29 the commission of a violation;
+
+16 HOUSE BILL 1032
+1 (ix) A statement that the recorded image is evidence of a violation;
+2 and
+3 (x) Information advising the person alleged to be liable under this
+4 section:
+5 1. Of the manner and time in which liability as alleged in the
+6 citation may be contested in the District Court; and
+7 2. That failure to pay the civil penalty or to contest liability
+8 in a timely manner is an admission of liability and may result in refusal or suspension of
+9 the motor vehicle registration.
+10 (2) The agency may mail a warning notice in place of a citation to the owner
+11 liable under subsection (e) of this section.
+12 (3) (i) Before mailing a citation to a motor vehicle rental company liable
+13 under subsection (e) of this section, an agency shall mail a notice to the motor vehicle rental
+14 company stating that a citation will be mailed to the motor vehicle rental company unless,
+15 within 45 days after receiving the notice, the motor vehicle rental company provides the
+16 agency with:
+17 1. A statement made under oath that states the name and
+18 last known mailing address of the individual driving or renting the motor vehicle when the
+19 violation occurred;
+20 2. A. A statement made under oath that states that the
+21 motor vehicle rental company is unable to determine who was driving the vehicle at the
+22 time the violation occurred because the motor vehicle was stolen at the time of the violation;
+23 and
+24 B. A copy of the police report associated with the motor
+25 vehicle theft claimed under item A of this item; or
+26 3. Payment for the penalty associated with the violation.
+27 (ii) An agency may not mail a citation to a motor vehicle rental
+28 company liable under subsection (e) of this section if the motor vehicle rental company
+29 complies with subparagraph (i) of this paragraph.
+30 (4) Except as provided in paragraph (3) of this subsection and subsection
+31 (h)(4) and (5) of this section, a citation issued under this section shall be mailed not later
+32 than 2 weeks after the alleged violation.
+33 (5) A person who receives a citation under paragraph (1) of this subsection
+34 may:
+
+HOUSE BILL 1032 17
+1 (i) Pay the civil penalty in accordance with instructions on the
+2 citation; or
+3 (ii) Elect to stand trial for the alleged violation.
+4 (g) (1) A certificate alleging that a violation occurred, sworn to or affirmed by
+5 a duly authorized law enforcement officer employed by or under contract with an agency,
+6 based on the inspection of a recorded image, shall be evidence of the facts contained in the
+7 certificate and shall be admissible in any proceeding concerning the alleged violation.
+8 (2) Adjudication of liability shall be based on preponderance of the
+9 evidence.
+10 (h) (1) The District Court may consider in defense of a violation:
+11 (i) Subject to paragraph (2) of this subsection, that the motor vehicle
+12 or registration plates of the motor vehicle were stolen before the violation occurred and
+13 were not under the control or possession of the owner at the time of the violation;
+14 (ii) Subject to paragraph (3) of this subsection, evidence that the
+15 person named in the citation was not operating the vehicle at the time of the violation; and
+16 (iii) Any other issues and evidence that the District Court considers
+17 pertinent.
+18 (2) To demonstrate that the motor vehicle or the registration plates were
+19 stolen before the violation occurred and were not under the control or possession of the
+20 owner at the time of the violation, the owner must submit proof that a police report about
+21 the stolen motor vehicle or registration plates was filed in a timely manner.
+22 (3) To satisfy the evidentiary burden under paragraph (1)(ii) of this
+23 subsection, the person named in the citation shall provide to the District Court evidence to
+24 the satisfaction of the District Court of who was operating the vehicle at the time of the
+25 violation, including, at a minimum, the operator’s name and current address.
+26 (4) (i) The provisions of this paragraph apply only to a citation that
+27 involves a Class E (truck) vehicle with a registered gross weight of 26,001 pounds or more,
+28 Class F (tractor) vehicle, Class G (trailer) vehicle operated in combination with a Class F
+29 (tractor) vehicle, or Class P (passenger bus) vehicle.
+30 (ii) To satisfy the evidentiary burden under paragraph (1)(ii) of this
+31 subsection, the person named in a citation described under subparagraph (i) of this
+32 paragraph may provide to the District Court a letter, sworn to or affirmed by the person
+33 and mailed by certified mail, return receipt requested, that:
+34 1. States that the person named in the citation was not
+35 operating the vehicle at the time of the violation; and
+
+18 HOUSE BILL 1032
+1 2. Provides the name, address, and driver’s license
+2 identification number of the person who was operating the vehicle at the time of the
+3 violation.
+4 (5) (i) If the District Court finds that the person named in the citation
+5 was not operating the vehicle at the time of the violation or receives evidence under
+6 paragraph (4)(ii)2 of this subsection identifying the person driving the vehicle at the time
+7 of the violation, the clerk of court shall provide to the agency issuing the citation a copy of
+8 any evidence substantiating who was operating the vehicle at the time of the violation.
+9 (ii) On receipt of substantiating evidence from the District Court
+10 under subparagraph (i) of this paragraph, the agency may issue a citation as provided in
+11 subsection (f) of this section to the person who the evidence indicates was operating the
+12 vehicle at the time of the violation.
+13 (iii) A citation issued under subparagraph (ii) of this paragraph shall
+14 be mailed not later than 2 weeks after receipt of the evidence from the District Court.
+15 (i) If the civil penalty is not paid and the violation is not contested, the
+16 Administration may refuse to register or reregister or may suspend the registration of the
+17 motor vehicle.
+18 (j) A violation for which a civil penalty is imposed under this section:
+19 (1) Is not a moving violation for the purpose of assessing points under §
+20 16–402 of this article and may not be recorded by the Administration on the driving record
+21 of the owner or driver of the vehicle; and
+22 (2) May not be considered in the provision of motor vehicle insurance
+23 coverage.
+24 (k) In consultation with law enforcement agencies, the Chief Judge of the District
+25 Court shall adopt procedures for the issuance of citations, trials for violations, and the
+26 collection of civil penalties imposed under this section.
+27 (l) (1) An agency or an agent or a contractor designated by the agency shall
+28 administer and process civil citations issued under this section in coordination with the
+29 District Court.
+30 (2) If a contractor in any manner operates a stop sign monitoring system
+31 or administers or processes citations generated by a STOP SIGN monitoring system on
+32 behalf of a local jurisdiction, the contractor’s fee may not be contingent on a per–ticket basis
+33 on the number of citations issued or paid.
+34 SECTION 4. 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
+35 2026 2027, the Montgomery County Department of Transportation shall report to the
+
+HOUSE BILL 1032 19
+1 Governor and, in accordance with § 2–1257 of the State Government Article, the General
+2 Assembly on:
+3 (1) through October 1, 2026 2027:
+4 (i) the time period during which stop sign monitoring systems were
+5 in use in the county; and
+6 (ii) the number of warnings and citations issued as a result of
+7 violations recorded by a stop sign monitoring system in the county over the reported time
+8 period, by location and date;
+9 (2) (i) the costs associated with implementing and operating stop sign
+10 monitoring systems; and
+11 (ii) the revenue collected on a monthly basis as a result of violations
+12 recorded by stop sign monitoring systems;
+13 (3) appropriate locations for the deployment of stop sign monitoring
+14 systems;
+15 (4) the performance and reliability of stop sign monitoring systems used by
+16 the county; and
+17 (5) the effectiveness of stop sign monitoring systems in reducing violations,
+18 crashes, and pedestrian injuries in the county and in areas where the stop sign monitoring
+19 systems were implemented and used.
+20 SECTION 3. AND BE IT FURTHER ENACTED, That, on or before December 1,
+21 2027, the Baltimore City Department of Transportation shall report to the Governor and,
+22 in accordance with § 2–1257 of the State Government Article, the General Assembly on:
+23 (1) through October 1, 2027:
+24 (i) the time period during which stop sign monitoring systems were
+25 in use in the city; and
+26 (ii) the number of warnings and citations issued as a result of
+27 violations recorded by a stop sign monitoring system in the city over the reported time
+28 period, by location and date;
+29 (2) (i) the costs associated with implementing and operating stop sign
+30 monitoring systems; and
+31 (ii) the revenue collected on a monthly basis as a result of violations
+32 recorded by stop sign monitoring systems;
+
+20 HOUSE BILL 1032
+1 (3) appropriate locations for the deployment of stop sign monitoring
+2 systems;
+3 (4) the performance and reliability of stop sign monitoring systems used by
+4 the city; and
+5 (5) the effectiveness of stop sign monitoring systems in reducing violations,
+6 crashes, and pedestrian injuries in the city and in areas where the stop sign monitoring
+7 systems were implemented and used.
+8 SECTION 5. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
+9 effect on the taking effect of the termination provision specified in Section 3 of Chapter 678
+10 of the Acts of the General Assembly of 2024. If that termination provision takes effect,
+11 Section 1 of this Act, with no further action required by the General Assembly, shall be
+12 abrogated and of no further force and effect. This Act may not be interpreted to have any
+13 effect on that termination provision.
+14 SECTION 6. 4. AND BE IT FURTHER ENACTED, That, subject to the provisions
+15 of Section 5 of this Act, this Act shall take effect July 1, 2025. It shall remain effective for
+16 a period of 5 4 years and, at the end of June 30, 2030 2029, this Act, with no further action
+17 required by the General Assembly, shall be abrogated and of no further force and effect.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
+
+[DELETED: :CA      5     A B A M F B C a M C u t p p a f P G C i a b l l e t c p i p b a s s m s p t t o o d a a c c p u c c e c d t a c o a a v r b a s s m s b m B  A S  A  ( B  A]
+[DELETED:  H  S  A  (  ( B  A S  A  (  ( B  A S  A  ( B  A S  A  ( B  A S  A  (  S T A 7  ( ( ( A2   A s p t t p r t c m e t s t b n t 1  ( A i1o  2]
+[DELETED: H 3 i 2 o  2  S a A 7  ( ( ( A 2 § t t p r t c m e t s t b n t a a    ( O t p    ( O t o   ( ( A c i a t r o a v h m s s c s t    ( A c i a t r o a t c s m a s aM c t   ( C m s t c s m s s m s w sM c c w   ( ( E f c b a p s a a r o v e b s]
+[DELETED:  H  m s w z s c s  S MS s b m c o b l m s a p s     1 M t c     2 S a s    ( 1 F c s a w s ( o t p i g t 1 o t t r a     2 T t 1   )     R22      R22    () I]( h m s t c s m s s m s   m l  S a A 4  E T]
+[DELETED: H 5   ( A p f a c i u § 2 § 2 § 2 §2 o A 4  ( I §  ( E i   ( a t   (  2 R RA     a s m s o u § 2 o t T   () a]( T   () a]( t  ( A   ( a r i § 2 § 2 § 2 o §2 2   ( b a p i a c u § 2  §2 2 f   ( b r t t i o o i f c u § § A 2]
+[DELETED:  H   ( U o i  ( U o i  ( U o i a i t i n c a t n p b e t i  ( T f l  ( T f m  ( T f a a   ) TMCH O O  ) ( N     “AY M A L E A T I A E      () “OWR M T R O O A M       ) “O”IWR       AY       H O A S R P I  U  A  1,S9,PII ]
+[DELETED: H 7    “RE      ) O      T      T      T      VE       AM     ) SIHD E       “SM      () “VIN    27     ) “VIIN    ) ( S()(U T P  T  O TN      ) NN  N      ) OSIN T H L I A S ZE I T I DHA      U T S U I U I A B T   ]
+[DELETED:  H      BNM      () H C S P P S OTS  EC      ) TSHIH T I D S PNM   T   )  R I U T S I T T     TN     T,E   ) ( N T D O T M V R N  R  F  H   ())())()   I R B A S S M S D T      A$    F,DN  I O     )  U C F C W F     O RE ))§72CA     ) AI C PY W S B I O TN   I OC   ) ( S()(U   T SN A A S M T T O L U  E )     ) H ]
+[DELETED: H 9    ) IH R N O T M V     ) TIH    ) TVO T E PE T L O T     ) TH    ) AI     ) IH A O T C P I A T     )I T E       ) X N      ) N A T P A T B        I OT C        F T P T C P O T       A M M A W N I P O  E )     () E M A C T A M V E N )   W B M M V R C U   D A R T NE T M V R5  ]
+[DELETED:  H        A L K M A O T I D O        A S M U O T  N        C R  M             ) IN A M N M A C T A M E   M R C C W S I O      E(   H   N ))()  S B M N L T  W A T A      A(       ) A T C P I A WN      ) EIL  ) ( A D   O U C W A AY B O T I O   IE S B E O T F C I T        O L S B B O ]
+[DELETED: H 1  ) ( TDH I O M C I D O      ) S()U  N  M O R O       ) S()IU T P  O T S N      ) AIN O I A E T T I      D T T M V O T P W S B T V O A  N         S T E B U P()I N   T I O E T T S O T IC  O W W O T M V A T T O T N IG A A MM T ORS N A C,,      () H L  TK E(  O  P O ME L  TR VE L1,CF(),C )CF(R V O I C W A L  T E  L  PS CP()     ) IO S T E B U II O T SN T P N I A C()  I  C OR  L D ,       N  ]
+[DELETED:  H       P,, T NE AS A DR I N O T P W W O T      () IDF I O  O R E U P II O T()  EVN         ) IN R O S E F TC() O I H   F        ) A(I C I U S II O T    I OC   ) F T C P I N P A T V I ND  D    )  V A C I        O A M B1  O T D R O T O O D O T E         ) I,N C W L E AS T HD I O S S   ]
+[DELETED: H 1  ) ( N  I OC      A C I A M O A S S  S S M S O B O A L JN T RS F M N B C O A PRT B O T   2  ( TC,MC IY O OY P  ( ( I   ( “ c   ( ( “ o    ( “     1 A     2 A 1   ( “ i m i r b s s m s    ( O     1 T     2 T     3 T     4 V     5 A]
+[DELETED:  H     ( S t   ( “ r   ( ( “ s    ( “ t  ( ( S u    ( O h l i a s z m b a l j    ( O S   ( A    ( M i a    ( My ]IPG’CN R EES OY  l   ( T cy s p t]PG’R EES O p r   ( B p w ad i aBCPG’CI A I A R EES O O n o g c i t j i w t s s m s   ( ( Te ] t    ( T p]
+[DELETED: H 1  ( A r i u t s i t t d o a m v   ( T   ( T  ( ( U o o v   ( A   ( F    ( A s    ( A b  ( ( S t t p o p ( t ( o t s c    ( T    ( T n t    ( T    ( T    ( T    ( A    ( T t    ( A b t]
+[DELETED:  H     ( A a    ( I s     1 O c     2 T i t   ( T l   ( ( B u c w a     1 A l v     2 A A m t a     B A c o t p r a w t m v     3 P    ( A a m n m a c t a m v r c c   ( E ( t   ( A m]
+[DELETED: H 1    ( P t c p i a w i o t c    ( E  ( ( A a b c   ( A o l s b b o p o t e  ( ( T    ( S o w    ( S t p ( o t s e t t p    ( A p   ( T s o t   ( T s t e b u p ( o t s t v   ( ( T i C (    ( T s t p n i a c d u s ( o t p a     1 S t t p n i t c w n o]
+[DELETED:  H      2 P t n a a d l i n o t p w w o t v a t t o t v   ( ( I w n o t v a t t o t v o r e u p o a    ( O r o s e f t D C u s v    ( A b  ( I t c p i n p a t v i n c t A m  ( A   ( I 1 o   ( M n b c i t p o m v i c  ( I C c  ( ( A a D   ( I o c m b o  S 2 2 t M C D o T s r t t]
+[DELETED: H 1 G A   ( t    ( t i    ( t n o w a c i a a r o v p   ( ( t m    ( t r   ( a l f t d o s s m s   ( t t   ( t c s  S 2 i   ( t    ( t i    ( t n o w a c i a a r o v p   ( ( t m    ( t r]
+[DELETED:  H    ( a l f t d o s s m s   ( t t   ( t c s  S e o S a e  S o a r          G               ]
